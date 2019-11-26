@@ -6,7 +6,7 @@ episodes = {}
 
 for i in range(1,3):
   
-    page = open("data/transcripts/page-" + str(i) + ".html", 'r')
+    page = open("data/html/page-" + str(i) + ".html", 'r')
     soup = BeautifulSoup(page.read(), features="lxml")
     #print(soup.prettify())
     #print (soup.select(".topic-titles.row2 h3 a"))
