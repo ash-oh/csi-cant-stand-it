@@ -17,6 +17,12 @@ for filename in os.listdir("data/transcripts"):
         content = re.sub ("\(.*\):", ":", content)
         content = re.sub ("\(.*\)", "", content)
         content = re.sub ("\[.*\]", "", content)
+        content = re.sub(".*COLD OPEN:.*", "", content)
+        content = re.sub(".*FLASH.*(:|\.).*","",  content)
+        content = re.sub(".*CUT.*(:|\.).*","",  content)
+        content = re.sub(".*FADE.*(:|\.).*", "", content)
+
+
     with open (path, 'w' ) as f:
         f.write(content)
 
