@@ -5,7 +5,7 @@ from soupsieve import select
 
 episodes = {}
 
-for i in range(1,3):
+for i in range(3,15):
   
     page = open("data/html/page-" + str(i) + ".html", 'r')
     soup = BeautifulSoup(page.read(), features="lxml")
@@ -15,14 +15,20 @@ for i in range(1,3):
             parts = row.text.split(" - ")
             episodes[parts[0]] = {"title": parts[1], "link": row.get("href")}
 
+website = "http://transcripts.foreverdreaming.org"
 for key, value in episodes.items():
+
     parts = key.split("x")
     season = int(parts[0])
     episode = int(parts[1])
+
     filename = "data/transcripts/S%d-Ep%d.txt" %(season, episode)
+    link = value["link"] #for pages 3-14
+    link = website+ link[1:] #for pages 3-14
+  
     with open(filename, 'wb') as handle:
         headers = {'User-Agent': 'Chrome/78.0.3904.106'}
-        response = requests.get(value["link"],headers = headers)
+        response = requests.get(link,headers = headers) #use value["link"] instead of link for pages 1 and 2
         if response.ok:
             for block in response.iter_content(1024):
                 if not block:
