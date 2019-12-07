@@ -1,782 +1,1014 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN: 
+[EXT. LAS VEGAS DESERT (STOCK) -- DAY] 
+(Thunder rumbles in the distance.) 
+[EXT. OPEN HIGHWAY – DAY]
+(Three men speed in a red converti" />
+<meta property="og:title" content="08x09 - Cockroaches - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN: 
+[EXT. LAS VEGAS DESERT (STOCK) -- DAY] 
+(Thunder rumbles in the distance.) 
+[EXT. OPEN HIGHWAY – DAY]
+(Three men speed in a red converti" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13366" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>08x09 - Cockroaches - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13366" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13366">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=5fc582f9a1dfccb3a59c4d5424759b0d"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=5fc582f9a1dfccb3a59c4d5424759b0d">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=5fc582f9a1dfccb3a59c4d5424759b0d">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=5fc582f9a1dfccb3a59c4d5424759b0d">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=5fc582f9a1dfccb3a59c4d5424759b0d">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13366&amp;sid=5fc582f9a1dfccb3a59c4d5424759b0d&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>08x09 - Cockroaches</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127460">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127460">08x09 - Cockroaches</a></div>
+							<div class="pull-right text-right"><time datetime="2007-12-20T21:15:14Z">12/20/07 21:15</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN: </p>
+<p>[EXT. LAS VEGAS DESERT (STOCK) -- DAY] </p>
+<p>(Thunder rumbles in the distance.) </p>
+<p>[EXT. OPEN HIGHWAY – DAY]</p>
+<p>(Three men speed in a red convertible on the open road. The music is on loud and the driver has an open bottle of beer in his hand. The man sitting in the seat behind the driver reaches over and holds out a joint for him to smoke from. The driver inhales and laughs loudly.) </p>
+<p><strong>Drunk Driver</strong>: Hey, bro, I'm driving drunk, and you're lighting up a J? Maybe we should wait for those ... hell, dude.</p>
+<p>(The man in the backseat laughs and continues smoking the joint.) </p>
+<p><strong>Backseat Passenger</strong>: Man, we're in Vegas. Sweet potato Vegas! Whoo!</p>
+<p>(The red convertible continues to speed along the open highway.) </p>
+<p>(They come upon a large garbage truck in front of them with its back wide open. Slips of colored paper and other rubbish fly out the back.)</p>
+<p>(They laugh and continue to drive fast.) </p>
+<p>(Two troopers on motorcycles pull up behind them, their sirens on.) </p>
+<p><strong>Passenger</strong>: Hide that! Hide it! Hide it! Get it out of here!</p>
+<p>(They hide their joints.) </p>
+<p>(The officers on the motorcycles continue to follow them.) </p>
+<p><strong>Drunk Driver</strong>: Hey, hide that liquor! Hide the liquor! Hide it!</p>
+<p><strong>Passenger</strong>: Throw that joint out!</p>
+<p>(The two officers on motorcycles speed past the red convertible. They're in the clear.) </p>
+<p><strong>Passenger</strong>: Get him! Get him!</p>
+<p><strong>Drunk Driver</strong>: Shoot him! Shoot him!</p>
+<p>[EXT. ROAD – DAY]</p>
+<p>(The garbage truck driver continues to speed through a small alleyway. The sirens continue to blare behind him.) </p>
+<p>(The driver continues out the other end onto a busy street. He doesn't stop. Car horns blare. He continues through the road with the officers behind him.) </p>
+<p>(The CONTROL SANITATION garbage truck continues to speed along the road. The officers continue to chase after him.) </p>
+<p>(The driver in the truck takes out a gun and tosses it out the window.) </p>
+<p>(The driver continues through the road.) </p>
+<p>(On the other side, two officer cars block his path.) </p>
+<p>(The driver turns the truck and it smashes to a halt on the side of the building wall.) </p>
+<p>(A DEAD BODY wrapped in torn plastic hits the pavement.) </p>
+<p>(The driver gets out of the carriage, his forehead is bleeding. He starts running.)</p>
+<p>(The two officers on motorcycles continue to chase after him.) </p>
+<p>(The man runs.) </p>
+<p><strong>Garbage Truck Driver</strong>: Get out of the way!</p>
+<p>(The man continues to run. A couple of officers on foot turn the corner right behind him. The two officers on motorbikes park and get off to continue the chase on foot.) </p>
+<p>(The man runs through the alley and turns the corner. He stops as two officer cars block the exit.) </p>
+<p><strong>Officer</strong>: (over speaker) LVPD! Hold your position! </p>
+<p>(The man jumps onto the nearby fence, intending to escape over it. The officers run to him. A black car comes up the other end of the alley.) </p>
+<p>(The man doesn't make it over. He jumps back down to the ground.) </p>
+<p>(The black car runs straight into him, knocking him to the hard ground – dead, his blood pooling behind his head.) </p>
+<p>CAMERA FLASH TO: </p>
+<p>LATER: </p>
+<p>(A phone rings.) </p>
+<p>(Greg is snapping photos as Catherine crouches next to the body. She checks the man's shirt pocket as his phone rings.) </p>
+<p>(She answers the call.) </p>
+<p><strong>Catherine</strong>: Hello? Hello? </p>
+<p>(She hangs up and checks the ID.) </p>
+<p><strong>Catherine</strong>: Unknown caller. No call list. Probably disposable.</p>
+<p>(The SUV pulls up. Grissom gets out and heads for the scene.) </p>
+<p><strong>Grissom</strong>: Where's Warrick?</p>
+<p><strong>Catherine</strong>: We've been calling him. There's no answer.</p>
+<p><strong>Brass</strong>: See what happens when you get in a high-speed chase with a garbage truck and end up with two dead bodies.</p>
+<p>(Grissom looks around.) </p>
+<p><strong>Grissom</strong>: Where's the other one?</p>
+<p>CUT TO:<br />
+[EXT. SIDEWALK – DAY] </p>
+<p>(Brass leads Grissom, Catherine and Greg to the second body. David Phillips is with the body and writing in his clipboard.) </p>
+<p><strong>Grissom</strong>: I take it he came out of the truck?</p>
+<p><strong>Brass</strong>: He flew out. At least that's what every eyewitness tells us.</p>
+<p><strong>Catherine</strong>: Well, city landfill is a couple of miles down the road.</p>
+<p><strong>Grissom</strong>: What's the TOD, David?</p>
+<p><strong>David Phillips</strong>: Nine, maybe ten, hours.</p>
+<p><strong>Brass</strong>: I got no ID on either of the bodies. No ID on the truck. I ran the VIN number and the plates. They're not in the system. Good luck.</p>
+<p><strong>Greg</strong>: Control Sanitation is the only waste company in Vegas. If the garbage man works for them, his prints would be in the system.</p>
+<p><strong>Grissom</strong>: All right. Catherine, you and I got the bodies. Greg, since Warrick's MIA, you have a choice: the truck or the trail.</p>
+<p><strong>Greg</strong>: I'll go for the fresh air.</p>
+<p>(Greg takes his kit and heads out.) </p>
+<p><strong>Catherine</strong>: Do I get a choice, too? Because, if you don't mind, I'm going to take the garbage man.</p>
+<p><strong>Grissom</strong>: Be my guest.</p>
+<p><strong>Catherine</strong>: Good luck.</p>
+<p>(Catherine picks up her kit and leaves. Grissom sets his kit down to get to work.) </p>
+<p>CUT TO:<br />
+[INT. CAR (MOVING) – DAY]</p>
+<p>(Warrick is on the phone while driving.) </p>
+<p><strong>Warrick</strong>: (to phone) I thought I told you not to call me on this line. Maybe that's because I don't want to talk to you. (He parks.) Are you kidding me? Why don't you ask the father of your unborn child? No. That's stupid. Don't call the lawyers. Tina, don't call ... (shouts) Tina! Tina! Don't call ... Tina!</p>
+<p>(Warrick hangs up and tosses the phone aside.) </p>
+<p><strong>Warrick</strong>: Damn it.</p>
+<p>(Warrick opens his pill bottle and pops a pill. He gets out of the car.) </p>
+<p>[EXT. SIDEWALK – DAY] </p>
+<p>(Grissom is snapping photos of the body when Warrick rushes in.) </p>
+<p><strong>Warrick</strong>: Hey, Gris, I'm sorry I'm late. I had some business to take care of.</p>
+<p><strong>Grissom</strong>: This is your business. You were first up. That means you're supposed to be here first.</p>
+<p>(Warrick nods. Grissom points to the garbage truck.) </p>
+<p><strong>Grissom</strong>: You get to process the trash truck.</p>
+<p><strong>Warrick</strong>: No problem.</p>
+<p>(Warrick heads to the truck.) </p>
+<p><strong>Grissom</strong>: But get it off the street. Tow it to the impound yard.</p>
+<p>(HOLD on Warrick.) </p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. CSI – FORENSIC AUTOPSY -- DAY] </p>
+<p>(Catherine prints the dead body's fingerprints while David Phillips pats down the victim's coveralls. He notices the residue on his gloves.) </p>
+<p><strong>David Phillips</strong>: These coveralls are brand-new.</p>
+<p>(He shows the stains on his gloves to Catherine.) </p>
+<p>CUT TO:<br />
+[INT. CSI – FORENSIC AUTOPSY – DAY]</p>
+<p>(Robbins goes over the preliminary findings with Catherine.) </p>
+<p><strong>Robbins</strong>: Your garbage man was in excellent shape. COD is as expected. Massive BFT due to his unfortunate collision with the T-bird.</p>
+<p>(They turn to the next body on the second table.) </p>
+<p><strong>Robbins</strong>: And your other vic was in his late 20s. He was definitely crushed by something.</p>
+<p><strong>Catherine</strong>: Most likely, the garbage compactor.</p>
+<p><strong>Robbins</strong>: Which happened postmortem.</p>
+<p><strong>Catherine</strong>: Oh, it's always better to be compacted dead rather than alive.</p>
+<p>(Quick FLASHBACK TO: Someone tosses the plastic-wrapped body in the back of the garbage truck. The person turns it on and the back closes on the body. It crunches from the pressure. End of flashback.) </p>
+<p><strong>Robbins</strong>: Suffocation. He had petechial hemorrhaging. I found white fibers in the nose and mouth. Sent them over to Hodges. He called back, confirmed they were silk.</p>
+<p>CUT TO:<br />
+[INT. CSI – HALLWAY / A-V LAB -- DAY] </p>
+<p>(Nick and Grissom exit the office and head down the hallway and enter the A/V lab.) </p>
+<p><strong>Nick</strong>: I tried to trace garbage man's cell phone. Like we expected, it's disposable. So I tracked down the distributor. It was paid for in cash under a bogus me. But I did get an AFIS hit off his print.</p>
+<p>(They stop in front of a monitor with the victim's morgue photo on it.) </p>
+<p><strong>Nick</strong>: Brody Biggs. Former cop.</p>
+<p>(He pulls up a photo of the victim when he was younger and dressed in uniform.) </p>
+<p><strong>Grissom</strong>: When was this taken?</p>
+<p><strong>Nick</strong>: 1975, police academy graduation. I contacted LVPD. They said he quit the force back in 1980 with a perfect record.</p>
+<p><strong>Grissom</strong>: Then what?</p>
+<p><strong>Nick</strong>: Social came back to several different garages around town. He was a freelance mechanic for 20 years.</p>
+<p><strong>Grissom</strong>: All right, we got to get his personnel file. What about the other vic?</p>
+<p>(Nick pulls up the EMPLOYEMENT HISTORY and photo of the second victim.)</p>
+<p><strong>Nick</strong>: It's Jason Crewes, 27. Got a hit off his work card. He's worked at five different casinos over the last six years.</p>
+<p>CUT TO:<br />
+[EXT. COMMUNITY (STOCK) – DAY] </p>
+<p>[INT. CREWES RESIDENCE – FOYER -- DAY] </p>
+<p>(The door opens. Nick and Catherine walk into the house. Nick picks up the phone on the table. He checks it.) </p>
+<p><strong>Nick</strong>: Well, it doesn't look like Jason planned on going anywhere. I know a lot of people in this phone.</p>
+<p>(Catherine takes the phone form him and looks at the contacts.) </p>
+<p><strong>Catherine</strong>: You do not. Knows some famous people. Or uses famous nicknames for his friends.</p>
+<p>(They both pick up their kits and head in separate directions.) </p>
+<p>[INT. CREWES RESIDENCE – HOME OFFICE -- DAY] </p>
+<p>(Catherine opens the door to the home office and enters. She looks at the posters on the wall:<br />
+RAIN<br />
+NIGHTCLUB</p>
+<p>TANGERINE<br />
+LOUNGE &amp; NIGHTCLUB<br />
+MOONSHINE IS BACK<br />
+MOONSHINE SUNDAYS<br />
+NOW OPEN THURSDAYS – SUNDAYS</p>
+<p>GHOSTBAR<br />
+PALMS<br />
+OPEN NIGHTLY </p>
+<p>(Catherine turns around and looks at the framed autographed photos on the counter. The last photo is a 1995 HUX cover signed by PIPPA SANCHEZ.) </p>
+<p>(Catherine goes to the desk, puts her camera down and picks up the stack of ACCESS CARDS to the various nightclubs – PURE NIGHTCLUBS, RAIN, MOON and others.) </p>
+<p>(In the stack of access cards, she finds a VIP card for the SUPRENE FIGHTING CHAMPIONSHIP.) </p>
+<p>[INT. CREWES RESIDENCE – LIVING ROOM -- DAY] </p>
+<p>(Nick walks into the spacious room. He hears birds tweet nearby and looks at the two birds in the cage.) </p>
+<p>(Nick goes to the counter and slides a bowl aside to make room for his kit. He puts his kit down and looks at the parrot in the birdcage.) </p>
+<p><strong>Nick</strong>: Did you see anything?</p>
+<p>(The parrot squawks.) </p>
+<p>(Nick looks around the room. He notes the plates on the floor with half-eaten food and crumbs. There are more food and plates on the coffee table and floor nearby.) </p>
+<p>(Nick turns and looks at the dark couch. He opens his kit and takes out his goggles. He puts them on and takes out his ALS. He checks the throw pillows and the couch and finds splotches of body fluid on the couch.)</p>
+<p>[INT. CREWES RESIDENCE – BEDROOM -- DAY] </p>
+<p>(Catherine walks through the bedroom and stops in front of a framed photo of Jason Crews with his mother.)</p>
+<p>(Catherine takes a photo of the bed. She looks at the label on the 100% SILK sheets.) </p>
+<p>(She checks the covers and finds two black spots. She takes a photo of the spots.) </p>
+<p><strong>Catherine</strong>: Nick!</p>
+<p>(Nick walks in.) </p>
+<p><strong>Catherine</strong>: I think I just found ground zero. I think Jason was killed here.</p>
+<p>(Quick flashback to: [NIGHT] Brody Biggs holds the gun on Jason Crewes, who is in bed and just waking up. Brody picks up a pillow and smothers Jason Crewes. Jason fights back. End of flashback.) </p>
+<p><strong>Nick</strong>: Well, this would have been the perfect murder if Jason's body would have actually made it to the landfill. Would have been incinerated.</p>
+<p><strong>Catherine</strong>: At least now his mother has someone to bury.</p>
+<p>(She turns and looks at the photo on the counter.) </p>
+<p>CUT TO:<br />
+[INT. PD – BRASS' OFFICE -- DAY] </p>
+<p>(Brass talks with Jason Crewes' mother, Belinda.) </p>
+<p><strong>Belinda</strong>: He was alone last night. We talked at about 3:00 in the morning. He said he got off work early and was going to bed, and he'd call me when he woke up. But he never did.</p>
+<p>(Brass shows her Brody Biggs' photo.) </p>
+<p><strong>Brass</strong>: Have you ever seen this man? His name is Brody Biggs. He's a mechanic.</p>
+<p>(She shakes her head, no.) </p>
+<p><strong>Brass</strong>: Are you sure? We think this is the man that killed your son.</p>
+<p><strong>Belinda</strong>: If he's a mechanic, maybe he worked on some of Jason's limos.</p>
+<p><strong>Brass</strong>: I thought Jason was a club owner.</p>
+<p><strong>Belinda</strong>: He was a limo driver before that, long time ago.</p>
+<p><strong>Brass</strong>: Well, couldn't be that long ago. Jason was only 27. You have to be 25 to be a limo driver.</p>
+<p><strong>Belinda</strong>: He had all kinds of fake IDs. Drove his first long one at 18. The owner of the limo company liked Jason. Made him a VIP driver. Celebs liked Jason. He could take his clients to a Motel 6 and it'd be the hottest spot in town. Wasn't long before the club owners invested in Jason, made him a group partner, gave him his own spot. Then two, then five. Suddenly, he's running the whole club scene. (She starts to cry.) I guess I should say he ran the club scene. He's not going to be running anything anymore.</p>
+<p>CUT TO:<br />
+[EXT. STREET (GARBAGE TRUCK)-- DAY] </p>
+<p>(Grissom carries a box over to the garbage truck where Warrick is sitting and reading a paper.) </p>
+<p><strong>Warrick</strong>: I'll be damned. Take a look at that.</p>
+<p>(Warrick hands the paper to Grissom. The headline reads, &quot;Reagan Pleads to Gorbachev: &quot;Tear Down that Wall.&quot; President Delivers Fiery Speech at Brandenberg Gate.) </p>
+<p><strong>Grissom</strong>: The good old days.</p>
+<p><strong>Warrick</strong>: Yeah. Here's an ad for the Silver Slipper Casino -- buffet.</p>
+<p>(He hands another paper to Grissom.) </p>
+<p><strong>Grissom</strong>: Back when they had real eggs, not powdered ones.</p>
+<p><strong>Warrick</strong>: Hey, Gris, listen. About me being late ...</p>
+<p><strong>Grissom</strong>: You have a cell phone paid for by the department. You call, you say you're running late. What's going on with you?</p>
+<p><strong>Warrick</strong>: I don't know. This, uh ... this whole divorce has taken the wind out of my sails. You know, I used to have the team to distract me from all this, but even that's changed with Sara being gone. I feel kind of disconnected.</p>
+<p><strong>Grissom</strong>: You've got your work. Don't screw that up.</p>
+<p>CUT TO:<br />
+[EXT. SIDEWALK – DAY]</p>
+<p>(Greg walks along the taped-off sidewalk as he looks at the spilled-out garbage on the ground.) </p>
+<p>[EXT. STREET (GARBAGE TRUCK) -- DAY] </p>
+<p>(Warrick continues to go through the garbage. He finds a broken vinyl record.) </p>
+<p><strong>Warrick</strong>: Van Halen, 1984.</p>
+<p>(He hands the broken record to Grissom.) </p>
+<p><strong>Warrick</strong>: Either this truck was delivering merchandise for a memorabilia store or it's just plain old.</p>
+<p><strong>Grissom</strong>: Maybe that's why Brass couldn't find the registration record.</p>
+<p>(Grissom moves the box aside and looks at the license plate, NEVADA DA-80F3.) </p>
+<p><strong>Grissom</strong>: These old blue license plates were issued in the '80s.</p>
+<p><strong>Warrick</strong>: I don't think this truck's been on the streets since.</p>
+<p>[EXT. SIDEWALK – DAY]</p>
+<p>(Greg stops and steps over the crime scene tape. He takes a photo, then picks up the gun tossed by the garbage truck driver.) </p>
+<p>(He looks at it and opens it.) </p>
+<p>[EXT. STREET (GARBAGE TRUCK) -- DAY] </p>
+<p>(Grissom walks around the side of the garbage truck and looks carefully at the CONTROL SANITATION CO logo. He peels it off and finds the truck underneath is orange.) </p>
+<p>(Warrick climbs down.) </p>
+<p><strong>Grissom</strong>: I think this guy was disguising his truck. It was orange before it was green. They used to use orange garbage trucks in the '80s.</p>
+<p><strong>Warrick</strong>: The hydraulic cylinder blew.</p>
+<p>(Quick flashback to: The garbage truck back hatch closes on the body. It crunches. The hydraulic cylinder blew. End flashback.) </p>
+<p><strong>Grissom</strong>: (V.O.) Maybe when he crushed the body. That's why all the garbage flew out.</p>
+<p>CUT TO:<br />
+[INT. CSI – LAB -- DAY] </p>
+<p>(Greg shows Grissom and Warrick the gun.) </p>
+<p><strong>Greg</strong>: Found this .22 in the parking lot near the crash. Check these bullets.</p>
+<p>(He gives the bullets in a baggie to Grissom.) </p>
+<p><strong>Grissom</strong>: Shorts.</p>
+<p><strong>Greg</strong>: Usually used for shooting small animals, but in some cases they're used on people in place of a silencer. </p>
+<p>(Quick CGI POV: The bullet is in the gun chamber. The gun fires. The bullet flares.) </p>
+<p><strong>Grissom</strong>: (V.O.) Less gunpowder, less noise.</p>
+<p>(End of CGI POV.) </p>
+<p><strong>Warrick</strong>: Look, if the garbage man had this gun, why didn't he just shoot the vic?</p>
+<p><strong>Grissom</strong>: He found Jason sleeping. Why make a mess if you don't have to?</p>
+<p><strong>Greg</strong>: Sounds like a professional hit man.</p>
+<p><strong>Grissom</strong>: Well, if he was, we still have to find the guy who hired him.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. CSI – BREAK ROOM -- DAY] </p>
+<p>(Warrick reports his findings with Grissom and Greg.) </p>
+<p><strong>Warrick</strong>: Traced the VIN on the garbage truck back to the Regency, the company that made it. The only model of that truck sold in Nevada was to a company called the Regal Sanitation Group. They shut down in '83.</p>
+<p><strong>Grissom</strong>: That explains the garbage.</p>
+<p>(Greg sits down.) </p>
+<p><strong>Greg</strong>: Regal Sanitation was owned by Anthony Pezzulo. I'm studying mob history for my book.</p>
+<p><strong>Warrick</strong>: Pezzulo? Wasn't he the mob boss who owned the Starfly?</p>
+<p>CLOSE-UP: An old issue of the LAS VEGAS GLOBE. The headline reads, &quot;Pezzulo Back in Court.&quot; There's a photo of Pezzulo on the cover. </p>
+<p><strong>Greg</strong>: They called Pezzulo &quot;Whacko,&quot; not so much for his wacky personality as for his love for whacking guys.</p>
+<p>INSERT: VARIOUS FLASHES of dead mob hit victims.</p>
+<p><strong>Grissom</strong>: Until he himself got whacked at the Wisconsin Dells in 1983.</p>
+<p>INSERT: Crime scene photo of Anthony Pezzulo. </p>
+<p><strong>Grissom</strong>: Every mob-owned business in Vegas shut down when Pezzulo died.</p>
+<p><strong>Warrick</strong>: These scumbags lay roaches. Just when you think they're gone, they pop back up again. Somebody put a hit out on Jason. It couldn't have been Pezzulo 'cause he's been dead for 20 years.</p>
+<p>CUT TO:<br />
+[INT. CSI – HALLWAY -- DAY] </p>
+<p>(Archie and Warrick walk through the hallway.) </p>
+<p><strong>Archie</strong>: Pezzulo's wife Kate got rid of Regal Sanitation right after he died.</p>
+<p><strong>Warrick</strong>: She still around?</p>
+<p><strong>Archie</strong>: She fell off the radar. All I could find was this old photo.</p>
+<p>(Archie shows Warrick the article and photo with Anthony Pezzulo and his wife, Kate.) </p>
+<p>CUT TO:<br />
+[INT. PD – INTERVIEW ROOM -- DAY] </p>
+<p>(Brass is talking with Belinda, Jason Crewes' mother, formerly known as &quot;Kate,&quot;<br />
+Anthony Pezzulo's wife.) </p>
+<p><strong>Belinda</strong>: I told you the truth. </p>
+<p><strong>Brass</strong>: You lied about your name.</p>
+<p><strong>Belinda</strong>: The feds told me to forget I ever had the Pezzulo name.</p>
+<p>(Warrick is in the observation room watching the interview.) </p>
+<p><strong>Belinda</strong>: I wasn't about to remember it for you. My husband had more cops than capos on his payroll.</p>
+<p><strong>Brass</strong>: So you went into witness protection. You changed your identity. And then you stayed in Vegas?</p>
+<p><strong>Belinda</strong>: Feds felt we'd actually be safer here. They thought if we left, we might suffer the same consequences as Anthony.</p>
+<p>(Grissom appears next to Warrick.) </p>
+<p><strong>Brass</strong>: Did Jason have any mob ties?</p>
+<p><strong>Belinda</strong>: Jason was three years old when Anthony died. He never even knew his father.</p>
+<p><strong>Brass</strong>: The last time we talked you said you didn't know Jason's killer.</p>
+<p>(Brass opens a file folder and shows her a photo of younger Brody Biggs wearing his uniform.) </p>
+<p><strong>Brass</strong>: What about this guy?</p>
+<p>(She looks at the photo.) </p>
+<p><strong>Belinda</strong>: That's BB.</p>
+<p><strong>Brass</strong>: That's the same guy. BB is short for Brody Biggs.</p>
+<p><strong>Belinda</strong>: BB didn't kill Jason. There's no way. He was Anthony's friend.</p>
+<p><strong>Brass</strong>: Friend? BB was driving one of your husband's old garbage trucks. Your dead son was in the back with the rest of the garbage. (She looks away.) How did BB get the truck?</p>
+<p><strong>Belinda</strong>: I haven't seen BB in 23 years.</p>
+<p><strong>Brass</strong>: You got rid of the business. What happened to the trucks?</p>
+<p><strong>Belinda</strong>: I gave that stuff to Lou Gedda.</p>
+<p>(She wipes the tears form her eyes.) </p>
+<p><strong>Brass</strong>: The owner of Pigalle Boulevard Strip Club.</p>
+<p>(She nods.) </p>
+<p><strong>Brass</strong>: So did Gedda and BB know each other?</p>
+<p><strong>Belinda</strong>: Of course, they were both on Anthony's crew, but they would never ...</p>
+<p><strong>Brass</strong>: Never what? Never kill your son and dispose of him in one of the trucks you gave him?</p>
+<p>(She cries.) </p>
+<p><strong>Brass</strong>: When was the last time you saw Gedda?</p>
+<p><strong>Belinda</strong>: (sniffles) I haven't had any contact with him since Anthony died.</p>
+<p><strong>Brass</strong>: So you're telling me you haven't seen or spoken to Lou Gedda in 23 years?</p>
+<p><strong>Belinda</strong>: Gedda and I had an agreement. He was to keep away from our family. Forget Jason and I ever existed.</p>
+<p>(Brass stands up and closes the file folder.) </p>
+<p><strong>Brass</strong>: Obviously, Lou Gedda is not a man of his word.</p>
+<p>CUT TO:<br />
+[EXT. PIGALLE BOULEVARD STRIP CLUB – PARKING LOT -- NIGHT] </p>
+<p>(There's a small crowd outside the strip club. A car pulls up in the parking lot and stops. Warrick gets out. He looks over and sees a homeless man leaning against the far corner wall and smoking a cigarette.) </p>
+<p>(Warrick and Brass both head for the strip club.) </p>
+<p><strong>Warrick</strong>: This place has always been bad news.</p>
+<p><strong>Brass</strong>: My guys are in here at least twice a week.</p>
+<p><strong>Warrick</strong>: Yet there's always a line.</p>
+<p><strong>Brass</strong>: Never underestimate the power of the ass.</p>
+<p>(Warrick laughs.) </p>
+<p><strong>Warrick</strong>: Heads up.</p>
+<p>CUT TO:<br />
+[INT. PIGALLE BOULEVARD STRIP CLUB – NIGHT -- CONTINUOUS] </p>
+<p>(Girls in skimpy bikinis dance on stage. Warrick and Brass walk in. The two bouncers blocking the doorway let them inside. They head for the bodyguard at the back of the room.) </p>
+<p><strong>Brass</strong>: Looking for Lou Gedda.</p>
+<p>(The man notes the badge, then motions to the back.) </p>
+<p>(Warrick and Brass head up the ramp. They pass a waitress headed down.) </p>
+<p><strong>Waitress</strong>: Excuse me.</p>
+<p>(Brass knocks on the closed door. As they wait for an answer, Warrick notes the dark-haired girl in a lacy bra headed for a back room. She enters the room.) </p>
+<p><strong>Lou Gedda</strong>: (through door) Yeah, come on in.</p>
+<p>(Brass and Warrick enter Lou Gedda's office.) </p>
+<p>[INT. PIGALLE BOULEVARD STRIP CLUB – GEDDA'S OFFICE -- NIGHT -- CONTINUOUS] </p>
+<p>(Lou Gedda is on a massage table getting a massage from a pretty dark-haired woman.) </p>
+<p><strong>Lou Gedda</strong>: Who let you two up here? Just so I know who to fire.</p>
+<p>(Brass points to his badge.) </p>
+<p><strong>Brass</strong>: Gold card.</p>
+<p>(Gedda looks over.) </p>
+<p><strong>Lou Gedda</strong>: Oh, yeah, those seem to work everywhere. (The woman cracks his bones.) Got to get me one. Ahh ... !</p>
+<p>(He sits up on the table. The masseuse sits quietly on the couch in the back.) </p>
+<p><strong>Lou Gedda</strong>: I know why you're here. And I don't know what to say. I can't control these girls. They want to leave with customers and do whatever it is they do, I can't prevent that.</p>
+<p>(Warrick notes the barber's chair in the office.) </p>
+<p><strong>Lou Gedda</strong>: Believe me, I don't like whores. I like dancers. When I find out they're whores, I kick them curbside.</p>
+<p><strong>Warrick</strong>: We're not here about your girls. We're here about this guy.</p>
+<p>(Warrick shows him a Brody Biggs' photo.) </p>
+<p><strong>Lou Gedda</strong>: B.B. Yeah, works at my auto detailing. But I tell ya, he's in here more, getting drunk and checking out the breast-est-es.</p>
+<p><strong>Brass</strong>: Well, you don't have to worry about him anymore. He's dead.</p>
+<p><strong>Lou Gedda</strong>: Oh. Well ... unless you invite me to the funeral, what's this got to do with me?</p>
+<p>(Gedda gets up and goes to the spread on the table and makes himself a sandwich.) </p>
+<p><strong>Brass</strong>: Tell me about Jason Crewes. He brings me boatloads of celebrities, which equals boatloads of money. I love the kid. Oh, don't tell me. You think Jason killed BB.?</p>
+<p><strong>Brass</strong>: No, we think BB killed Jason.</p>
+<p><strong>Lou Gedda</strong>: Now, see, that makes more sense.</p>
+<p><strong>Warrick</strong>: When is the last time you saw Jason Crewes, sir?</p>
+<p><strong>Lou Gedda</strong>: Last week.</p>
+<p><strong>Brass</strong>: How long have you known him?</p>
+<p><strong>Lou Gedda</strong>: A couple years at most. I still don't understand what this has to do with me.</p>
+<p><strong>Warrick</strong>: You missing a garbage truck?</p>
+<p><strong>Lou Gedda</strong>: Go again?</p>
+<p><strong>Warrick</strong>: Regal Sanitation Group. Your buddy Pezzulo's old company. You inherited the trucks.</p>
+<p><strong>Lou Gedda</strong>: So what?</p>
+<p><strong>Brass</strong>: Jason Crewes' corpse flew out of one of your trucks earlier this morning.</p>
+<p><strong>Lou Gedda</strong>: Do you know how much this club made last year? 30 mill. You think I'm still messing around with trash? And that's the end of this. You want to continue asking me questions, you're going to have to do it with my dream team present.</p>
+<p>(Warrick glances at Brass.) </p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. CSI – A/V LAB -- NIGHT] </p>
+<p>(Warrick opens the EVIDENCE box marked JASON CREWES LAPTOP. He opens it and turns it on. He checks the calendar and finds that on THURSDAY, AUGUST 9, 2007, &quot;Mike Raykirk in town. Pure. Then Pigalle.&quot;) </p>
+<p>CUT TO:<br />
+[INT. PD – WAITING AREA -- NIGHT] </p>
+<p>(Warrick gets a can of soda out of the vending machine and hands it to Michael Raykirk.) </p>
+<p><strong>Warrick</strong>: Here you go.</p>
+<p><strong>Michael Raykirk</strong>: Thank you.</p>
+<p>(He opens his soda and drinks.) </p>
+<p><strong>Warrick</strong>: So you're the talented Mr. Raykirk, agent to the stars.</p>
+<p><strong>Michael Raykirk</strong>: Uh-uh, manager.</p>
+<p><strong>Warrick</strong>: What's the difference?</p>
+<p><strong>Michael Raykirk</strong>: Uh, well, an agent gets ten percent and a manager gets fifteen. Listen, I'm here in town for a film festival and I have to get to a screening, so you can you just, you know, cut to the chase?</p>
+<p><strong>Warrick</strong>: Jason Crewes is dead.</p>
+<p><strong>Michael Raykirk</strong>: Okay.</p>
+<p>(He sits down.) </p>
+<p><strong>Michael Raykirk</strong>: Um ...</p>
+<p><strong>Warrick</strong>: So he took you to Pigalle Boulevard in August. Do you remember that?</p>
+<p><strong>Michael Raykirk</strong>: How do you know about that?</p>
+<p><strong>Warrick</strong>: I'm an investigator. Some things I do know, but there's a lot that I don't. Somebody put a hit out on your friend. You want to help us out here?</p>
+<p><strong>Michael Raykirk</strong>: I have an agent friend who I work with who had a bachelor party out here, and Jason hooked us up VIP-style. </p>
+<p>Quick flashback to: </p>
+<p>[PIGALLE BOULEVARD STRIP CLUB – NIGHT]</p>
+<p>(Michael Raykirk and his party are welcomed by Lou Gedda.) </p>
+<p><strong>Lou Gedda</strong>: Hey, how are you! Get over here! Come on!</p>
+<p><strong>Michael Raykirk</strong>: (V.O.) He took us to Moon and LAX and Drai's and then of course, naturally, we ended up at a strip club. And everyone knows the best girls are at Pigalle Boulevard.</p>
+<p>(The waitress hands Michael Raykirk the check.) </p>
+<p><strong>Michael Raykirk</strong>: (V.O.) It couldn't get any better until the check showed up.</p>
+<p><strong>Michael Raykirk</strong>: Ten grand? The manager said $800 a bottle. We ordered five.</p>
+<p><strong>Lou Gedda</strong>: I hear you don't want to pay what you owe us.</p>
+<p><strong>Michael Raykirk</strong>: No. No, no, no, no. I just think you overcharged us, man.</p>
+<p><strong>Lou Gedda</strong>: No.</p>
+<p>(Raykirk gets to his feet.) </p>
+<p><strong>Michael Raykirk</strong>: This place is a rip-off. And your girls? They're beat, overrated, and oversized. Get it?</p>
+<p>(He rips the check in half.) </p>
+<p><strong>Michael Raykirk</strong>: I'm not paying.</p>
+<p><strong>Lou Gedda</strong>: Let's take a walk.</p>
+<p>CUT TO:<br />
+[PIGALLE BOULEVARD STRIP CLUB – LOU'S OFFICE -- NIGHT]</p>
+<p>(Lou punches Raykirk in the face, knocking him to the floor. The two bodyguards pick Raykirk up and put him in the barber's chair. They tie his hands behind the chair back.) </p>
+<p>(Lou sharpens a razor against a leather strap.) </p>
+<p><strong>Lou Gedda</strong>: I'm gonna give you a minute so you can figure out what you want to do. I'm cutting something. But I'm gonna give you the choice of what it's gonna be.</p>
+<p><strong>Michael Raykirk</strong>: No.</p>
+<p><strong>Lou Gedda</strong>: Oh, yeah, yeah. I can slice you here ... (he indicates Raykirk's neck) ... or I can slice you here ... (he indicates Raykirk's groin)</p>
+<p>(Raykirk starts to cry.)</p>
+<p><strong>Lou Gedda</strong>: Come on, no, no, no. Shh, shh, shh. Shh, shh, shh. Come on, you choose. </p>
+<p>END OF FLASHBACK.</p>
+<p><strong>Michael Raykirk</strong>: I mean, I was never more scared in my life. You know, he was so sweet enough to give me the choice of my throat or my genitals, so I chose the latter ... so I'd live. Then he charged my card and escorted us out to the parking lot. Oh, here's something really cool. I left with a broken nose, some sore wrists, and some really nice bruises underneath my arms. And I just should've given him the ten grand because I paid my plastic surgeon twice that.</p>
+<p><strong>Warrick</strong>: And you told Jason about all this?</p>
+<p><strong>Michael Raykirk</strong>: Oh, yeah. I mean, he gave this guy Gedda a call right in front of me. Then he cursed him out and he told him he would never take anyone to Pigalle anymore.</p>
+<p><strong>Warrick</strong>: Listen, I'm really sorry about all this. But ... um ... thanks a lot for your time.</p>
+<p><strong>Michael Raykirk</strong>: Oh, yeah. By the way, if you're gonna prosecute this guy, I'm not a witness. There's a reason that I didn't press charges, if you know what I mean.</p>
+<p>(Raykirk leaves.) </p>
+<p>CUT TO:<br />
+[INT. CSI – BALLISTICS LAB]</p>
+<p>(Greg takes the gun out of the evidence box and loads it with four bullets. He puts his goggles on and test-fires it.) </p>
+<p><strong>Greg</strong>: Four shots!</p>
+<p>(Greg fires into the tub of water.) </p>
+<p>CSI SHOT – The bullets hit the water.</p>
+<p>(CUT TO: Greg retrieves the bullets out of the tub.) </p>
+<p>(CUT TO: Greg checks the bullets under the scope.) </p>
+<p>(He finds something.) </p>
+<p>CUT TO:<br />
+[INT. CSI – HALLWAY] </p>
+<p>(Greg reports his findings to Warrick as they walk through the hallway.) </p>
+<p><strong>Greg</strong>: Got an IBIS hit off that gun. (He gives Warrick the report.) Unsolved murder in '93. Victim was found in the desert. His car was found at Pigalle Boulevard, the last place anyone saw him.</p>
+<p>CUT TO:<br />
+[INT. CSI – GRISSOM'S OFFICE] </p>
+<p>(Warrick talks with Grissom.) </p>
+<p><strong>Grissom</strong>: Our hit man's good for two murders. The unsolved in '93, where he actually used a gun, and Jason Crewes, who he suffocated. So, who hired him?</p>
+<p><strong>Warrick</strong>: I have a good feeling he works for Gedda.</p>
+<p><strong>Grissom</strong>: Yeah, but we don't work off feelings, do we?</p>
+<p><strong>Warrick</strong>: According to Mr. Hollywood, Jason cost Gedda a lot of money, and he dissed him, which is more than enough for Gedda to order out a hit on someone, even if Jason is Pezzulo's son.</p>
+<p><strong>Grissom</strong>: Any evidence? </p>
+<p><strong>Warrick</strong>: I ran Pigalle's address to find out if there are any more crimes linked to it over the years. I found hundreds: 416s, 413s, 411s ... the list goes on.</p>
+<p><strong>Grissom</strong>: Any consistent suspects?</p>
+<p><strong>Warrick</strong>: Only thing consistent is that the victims refused to file charges and the witnesses refused to give statements. And it's funny enough the cops lost interest in pursuing it.</p>
+<p><strong>Grissom</strong>: What are you saying?</p>
+<p><strong>Warrick</strong>: I'm saying it looks like Gedda is running an old school extortion racket, and you can't do that without having cops on the payroll.</p>
+<p>CUT TO:<br />
+[EXT. PIGALLE BOULEVARD STRIP CLUB – PARKING LOT -- DAY] </p>
+<p>(Warrick drives into the parking lot. He parks the car and gets out.) </p>
+<p>(He sees the same homeless guy leaning against the building corner and smoking a cigarette. The homeless guy is surprised to see Warrick.) </p>
+<p>(Warrick notes a man hosing the back of a van. He heads over to the man cleaning the van. The homeless guy slips back behind the building.)</p>
+<p>(Warrick looks around the area, then checks the side of the building where he finds the homeless guy. The homeless guy doesn't want to talk to Warrick. He tosses his cigarette and starts running.) </p>
+<p>(Warrick runs after him.) </p>
+<p><strong>Warrick</strong>: Hey!</p>
+<p>(The homeless guy runs up the steps.) </p>
+<p><strong>Warrick</strong>: I just want to talk!</p>
+<p><strong>Homeless Guy</strong>: I got warrants, man!</p>
+<p><strong>Warrick</strong>: I'm not a cop.</p>
+<p><strong>Homeless Guy</strong>: I don't care. You got a piece.</p>
+<p>(Warrick catches up with the homeless guy on the building roof.) </p>
+<p><strong>Warrick</strong>: Calm down. I'm not going to hurt you. You live here?</p>
+<p><strong>Homeless Guy</strong>: Pretty much. What do you want?</p>
+<p><strong>Warrick</strong>: You ever see anybody get beat up inside?</p>
+<p><strong>Homeless Guy</strong>: No, no, I never seen none of that.</p>
+<p><strong>Warrick</strong>: Don't make me pull those warrants, man.</p>
+<p><strong>Homeless Guy</strong>: Yeah, I seen guys get beat up. This is strip club strip. Guys get beat up and down this block.</p>
+<p><strong>Warrick</strong>: You ever see the owner beat up anyone?</p>
+<p><strong>Homeless Guy</strong>: Hey, they let me stay here. They're real good to me.</p>
+<p><strong>Warrick</strong>: I didn't ask you that.</p>
+<p><strong>Homeless Guy</strong>: Lots of troublemakers, they come out of there and they get hauled off. That's all I know.</p>
+<p><strong>Warrick</strong>: What do you mean by &quot;hauled off&quot;?</p>
+<p>(The homeless guy is too scared to say anymore. Warrick looks back at the van down in the parking lot.) </p>
+<p>CUT TO:<br />
+(Warrick walks over to the van. He tries the back door and finds it locked.) </p>
+<p>(Warrick looks around, then tries the other van doors. He peers in through the passenger window.)</p>
+<p>(He turns and walks over to the garbage area. He opens the gate and looks under the heavy lid covering the hole used to burn excess garbage. The hole is smoking and sizzling from something burning inside.)</p>
+<p>(Warrick uses the crank and opens the lid. He starts to look at what was burning inside when Lou Gedda and his two bodyguards appear.) </p>
+<p><strong>Lou Gedda</strong>: You got a warrant?</p>
+<p><strong>Warrick</strong>: Do I need one?</p>
+<p><strong>Lou Gedda</strong>: I own this block. Unless you're lookin' to get a detail job, you're trespassing.</p>
+<p><strong>Warrick</strong>: What do you do with this?</p>
+<p><strong>Lou Gedda</strong>: I burn meat.</p>
+<p>CUT TO:<br />
+[INT. CSI – ROOM] </p>
+<p>(CLOSE-UP: PHOTO of the bruises on Michael Pacinano's arms.)</p>
+<p>VICTIM: PACINANO, MICHAEL<br />
+FILE DATE: 05/03/97<br />
+MOUNTING CODE: 39981-19-3411<br />
+CASE LVPD 97-03-03-3185 BR<br />
+LVPD ROUTING 738-192</p>
+<p>(Warrick is at the table studying the file and photos. He has an open water bottle and prescription pill bottle next to him.)</p>
+<p>(Through the window, we see Nick walk past. He's putting on his jacket, sees Warrick in the room and stops.) </p>
+<p>(CLOSE-UP: PILL BOTTLE LABEL</p>
+<p>HOFFARTH'S PHARMACY<br />
+RX 2885L24 DR. R H—<br />
+WARRICK BROWN<br />
+TAKE 1 TABLET DAILY<br />
+MODAFIMIL 100MG<br />
+REFILLS (1)</p>
+<p>(As Nick watches, Warrick picks up the pill bottle, takes a pill and pops it while reading. He washes it down with water and continues reading.)</p>
+<p>(Nick enters the room.) </p>
+<p><strong>Nick</strong>: Hey.</p>
+<p><strong>Warrick</strong>: (doesn't look up) Hey.</p>
+<p><strong>Nick</strong>: What's up?</p>
+<p><strong>Warrick</strong>: (sluggish) Trying to get this warrant for Gedda's property. I'm getting close though. Check out these bruise patterns.</p>
+<p>(Warrick slides the photos to Nick. Nick doesn't pick them up.) </p>
+<p><strong>Nick</strong>: (points) Hey, what are those?</p>
+<p><strong>Warrick</strong>: What?</p>
+<p><strong>Nick</strong>: Those pills?</p>
+<p><strong>Warrick</strong>: Oh, they're supposed to keep me alert.</p>
+<p><strong>Nick</strong>: Really?</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p><strong>Nick</strong>: How long you been taking those?</p>
+<p><strong>Warrick</strong>: I don't know, for a couple months.</p>
+<p><strong>Nick</strong>: Aren't you still taking those sleeping pills, too?</p>
+<p><strong>Warrick</strong>: What's it to you?</p>
+<p>(Nick walks over to him.) </p>
+<p><strong>Nick</strong>: So now ... you're taking uppers and downers.</p>
+<p><strong>Warrick</strong>: Gimme a break, man.</p>
+<p><strong>Nick</strong>: No, you need to give yourself a break, Warrick.</p>
+<p><strong>Warrick</strong>: Hey, let it go, bro.</p>
+<p><strong>Nick</strong>: No. No, I'm not going to let it go.</p>
+<p>(Nick opens the pill bottle and throws the pills away. He drops the pill bottle. Warrick stands up and gets into Nick's face.) </p>
+<p><strong>Nick</strong>: You need to take a look at yourself, Warrick. And I care because I'm your friend.</p>
+<p>(Warrick glares at Nick. Nick stares back. After a moment, Warrick nods and chuckles softly. He pats Nick's arm.) </p>
+<p><strong>Nick</strong>: All right?</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>(Warrick pats Nick's arm again.) </p>
+<p><strong>Nick</strong>: All right, tell me about these bruises.</p>
+<p><strong>Warrick</strong>: The 415 vic claims he got beat up inside the Pigalle. Couple days later, he dropped all the charges. And then there's the unsolved murder. They find a vic out in the desert, but they find his car outside of Pigalle's.</p>
+<p>CLOSE-UP: Photo of a dead man out on the desert with a bullet in his forehead.</p>
+<p><strong>Warrick</strong>: Same bruise pattern. Now we got this Hollywood agent who mentions that he also has bruises under his arms. He claims that he was strapped to a barber's chair in Gedda's office.</p>
+<p><strong>Nick</strong>: That should be enough for a warrant.</p>
+<p>(Nick looks at Warrick and smiles. Warrick nods.) </p>
+<p>CUT TO:<br />
+[INT. PD – BRASS' OFFICE -- NIGHT] </p>
+<p>(It's late at night and the bullpen is dark. Brass is in his office. He presses the speaker button on the phone as he talks with Warrick.) </p>
+<p><strong>Brass</strong>: The judge doesn't think the bruises are enough probable cause to issue a warrant.</p>
+<p><strong>Warrick</strong>: (from phone) What judge?</p>
+<p><strong>Brass</strong>: Greene.</p>
+<p>INTERCUT WITH: </p>
+<p>[WARRICK]</p>
+<p>(Warrick is on the phone.) </p>
+<p><strong>Warrick</strong>: (to phone) When I was running bets for Judge Cohen, she was in on the action.</p>
+<p><strong>Brass</strong>: (to phone) I have no comment.</p>
+<p><strong>Warrick</strong>: You know, these club owners -- they pay a lot of taxes; they fund campaigns; they hand out free drinks, all in exchange for protection. I mean, what can I do?</p>
+<p><strong>Brass</strong>: (to phone) Go to the undersheriff, see if he can use his influence. But I doubt it.</p>
+<p>(The line disconnects. Brass pick up his glass and drinks.) </p>
+<p>CUT TO:<br />
+[INT. CSI – HALLWAY -- NIGHT] </p>
+<p>(Warrick is angry as he moves quickly through the hallway. He bumps into an officer walking in the opposite direction and abruptly shoves him away as he continues through the hallway.) </p>
+<p>(He sees Undersheriff Jeff McKeen talking with a couple of officers at the other end of the hallway.) </p>
+<p><strong>Warrick</strong>: (shouts) McKeen!</p>
+<p>(McKeen turns and sees Warrick headed his way.) </p>
+<p><strong>Jeff McKeen</strong>: (to the two officers) Excuse me a moment.</p>
+<p>(The two officers leave as Warrick arrives.) </p>
+<p><strong>Warrick</strong>: Judge denied me the warrant.</p>
+<p><strong>Jeff McKeen</strong>: What do you want me to do?</p>
+<p><strong>Warrick</strong>: Get me the warrant. Lou Gedda is getting away with murder.</p>
+<p><strong>Jeff McKeen</strong>: All right, say that I get you the warrant. What are you looking for, something that made armpit bruises?</p>
+<p><strong>Warrick</strong>: The barber's chair in Gedda's office made the armpit bruises.</p>
+<p>(He looks at Warrick.) </p>
+<p><strong>Jeff McKeen</strong>: I'm agreeing with the judge.</p>
+<p>(Behind Warrick he sees Grissom talking with an officer.) </p>
+<p><strong>Jeff McKeen</strong>: (shouts) Grissom!</p>
+<p>(Grissom looks over.) </p>
+<p><strong>Grissom</strong>: (to the officer) Okay.</p>
+<p>(The officer leaves and Grissom heads over to join Warrick and McKeen.) </p>
+<p><strong>Jeff McKeen</strong>: You need to save your CSI here. What he has is circumstantial based off of weird bruises and a barber chair. Brown needs to get better evidence and leave the rest in our hands.</p>
+<p><strong>Warrick</strong>: I'm sorry, leave what in your hands -- Gedda's money?</p>
+<p>(Warrick has gone too far. McKeen glares at him, then turns and leaves. Warrick starts to leave, but Grissom grabs his arm.) </p>
+<p><strong>Grissom</strong>: (quietly) Listen to me. Putting Gedda in jail is not gonna solve your problems. You just got the rest of the night off.</p>
+<p>CUT TO:<br />
+[EXT. PIGALLE BOULEVARD STRIP CLUB – PARKING LOT -- NIGHT] </p>
+<p>(Warrick sits in his car outside the Pigalle Strip Club. The back door opens and someone comes out dragging a heavy duffel bag on the ground. Warrick raises his camera and looks through the lens.) </p>
+<p>(The car parked nearby chirps as she turns the alarm off and drags the duffel back to the trunk.)</p>
+<p>(She opens the trunk and grabs the duffel bag.)</p>
+<p>(Warrick runs over with his gun out.) </p>
+<p><strong>Warrick</strong>: Hey!</p>
+<p>(Candy gasps and turns.) </p>
+<p><strong>Warrick</strong>: What's in the bag?</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: All my stuff. I'm just cleaning out my locker.</p>
+<p><strong>Warrick</strong>: Show me.</p>
+<p>(She opens the duffel bag and shows him her clothes and stuff.) </p>
+<p>(Warrick sighs.) </p>
+<p><strong>Warrick</strong>: Here, let me help you with that.</p>
+<p>(He tucks his gun away and helps her put the duffel bag in the trunk. She closes the trunk.) </p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: Thanks.</p>
+<p><strong>Warrick</strong>: I'm sorry.</p>
+<p>(She heads back inside. Warrick rubs his eyes and heads back to his car.)</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. PIGALLE BOULEVARD STRIP CLUB (CLUB SIGN) -- NIGHT] </p>
+<p>[INT. PIGALLE BOULEVARD STRIP CLUB – NIGHT] </p>
+<p>(The girls dance on the stage while Warrick sits nearby watching. A waitress walks up to him.) </p>
+<p><strong>Waitress</strong>: What can I get you tonight?</p>
+<p><strong>Warrick</strong>: Got any Dom Perignon?</p>
+<p><strong>Waitress</strong>: Mm-hmm.</p>
+<p><strong>Warrick</strong>: What about Cristal?</p>
+<p><strong>Waitress</strong>: We do. We also have DP Rose.</p>
+<p><strong>Warrick</strong>: I' take one of each.</p>
+<p>(The waitress leaves.) </p>
+<p>(Across the floor, Warrick sees Lou Gedda standing in his office looking out of the blinds.)</p>
+<p>(The waitress goes to the bartender and talks with him. He nods. Warrick doesn't see the exchange.)</p>
+<p>(He does note a woman in the club across the way watching him. He thinks it might be the same woman he helped earlier.) </p>
+<p>(The bartender is talking on the phone. He turns and glances over at Warrick. Again, Warrick doesn't see this.) </p>
+<p>(Warrick gets up and heads up the ramp toward the woman.)</p>
+<p><strong>Warrick</strong>: Hey ...</p>
+<p>(She turns around.) </p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: Hey!</p>
+<p><strong>Warrick</strong>: I'm sorry about earlier. I thought you were carrying a dead body in there or something.</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: You're a cop, right?</p>
+<p><strong>Warrick</strong>: (smiles) I'm Warrick Brown.</p>
+<p>(They shake hands.) </p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: I'm Candy.</p>
+<p><strong>Warrick</strong>: Nice to meet you, Candy. So, you work here?</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: Yeah. What do you want?</p>
+<p><strong>Warrick</strong>: Everything.</p>
+<p>(Across the floor, Lou Gedda watches through the blinds in his office.)</p>
+<p>CUT TO:<br />
+(&quot;Candy&quot; is giving Warrick a lap dance on his seat in front of the stage.) </p>
+<p><strong>Warrick</strong>: Hey, cheers, girl.</p>
+<p>(Warrick clinks glasses with a woman off screen.) </p>
+<p><strong>Girl</strong>: Cheers, yeah.</p>
+<p><strong>Warrick</strong>: Hey, let's get out of here, you and me.</p>
+<p>(Behind them, Grissom passes them as he looks for Warrick.) </p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: I'm working.</p>
+<p><strong>Warrick</strong>: Come on, I just want to ask you a few questions.</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: I don't go home with the customers.</p>
+<p>(Grissom turns and finds Warrick. He taps him on his shoulder. Warrick turns.) </p>
+<p><strong>Grissom</strong>: Pay the bill and let's go. </p>
+<p>(&quot;Candy&quot; leaves.) </p>
+<p><strong>Warrick</strong>: How'd you know I was here?</p>
+<p><strong>Grissom</strong>: You've been here twice already today. We're leaving.</p>
+<p><strong>Warrick</strong>: Come on, Gris, why don't you sit down and have a drink with us?</p>
+<p><strong>Grissom</strong>: I'm on the clock.</p>
+<p><strong>Warrick</strong>: So am I.</p>
+<p><strong>Grissom</strong>: So you want to get fired.</p>
+<p>(Warrick stands up.) </p>
+<p><strong>Warrick</strong>: No, I want to let them know I'm here. I figured I'd order a couple bottles and not pay for it and see what happens.</p>
+<p><strong>Grissom</strong>: You think he's that stupid?</p>
+<p><strong>Warrick</strong>: It's worth a try.</p>
+<p>(The waitress slides her tray with the bill over to him.) </p>
+<p><strong>Waitress</strong>: Here you go, sir.</p>
+<p><strong>Warrick</strong>: Thank you.</p>
+<p>(He looks at the bill: COMPLIMENTS OF THE HOUSE.) </p>
+<p><strong>Grissom</strong>: (dryly) Well, now you gotta pay for it, 'cause we're not allowed to accept gifts.</p>
+<p>CUT TO:<br />
+[EXT. PIGALLE BOULEVARD STRIP CLUB – PARKING LOT -- NIGHT] </p>
+<p>(Grissom and Warrick exit the club.) </p>
+<p><strong>Warrick</strong>: (sluggish) I'm good to drive, Gris, my car is right here. You gotta admit, though, the girls are pretty fine in there. Listen ... </p>
+<p>(Grissom opens the car door.) </p>
+<p><strong>Grissom</strong>: Get in the cab, Warrick.</p>
+<p>(Warrick doesn't want to.) </p>
+<p><strong>Warrick</strong>: My car's right here.</p>
+<p><strong>Grissom</strong>: (insistent) Go on.</p>
+<p>(Warrick gets in the taxi.) </p>
+<p><strong>Grissom</strong>: Go home. Sleep it off. I'll see you in my office in the morning.</p>
+<p>(Grissom closes the door and the taxi drives away.) </p>
+<p>FADE OUT.</p>
+<p>FADE IN: </p>
+<p>[EXT. PIGALLE BOULEVARD STRIP CLUB – PARKING LOT -- NIGHT] </p>
+<p>(A taxi pulls up in front the Pigalle. Warrick gets out. He closes the door and looks around. He sees &quot;Candy&quot; head for a taxi. She gets inside and the taxi drives away.)</p>
+<p><strong>Warrick</strong>: Hey ... follow that girl.</p>
+<p>(Warrick gets back inside the taxi. The taxi drives off.) </p>
+<p>[INT. TAXI (MOVING) – NIGHT -- CONTINUOUS] </p>
+<p>(Warrick blinks his eyes as he feels woozy.) </p>
+<p>INSERT FLASH OF: The nightclub with the girls dancing on stage.</p>
+<p>(Warrick sways a little.) </p>
+<p>INSERT FLASH OF: A dead body wrapped in plastic and thrown away with the garbage.</p>
+<p>(Warrick blinks.) </p>
+<p>INSERT FLASH OF: The barber's chair in Lou Gedda's office.</p>
+<p>(Warrick rubs his eyes.) </p>
+<p>CUT TO:<br />
+[INT. BAR – NIGHT]</p>
+<p>(&quot;Candy&quot; walks into a bar. She motions to the bartender as she takes her coat off. She sits down at the bar and sighs.) </p>
+<p>(Warrick walks in. The bartender puts her beer down in front of her.) </p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: Thanks.</p>
+<p>(Warrick sits down next to her.) </p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: Cheers.</p>
+<p>(She drinks.) </p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: You don't give up.</p>
+<p><strong>Warrick</strong>: Not tonight. (to bartender) Irish whiskey. Neat. What's your real name, Candy?</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: Joanna. Krumsky.</p>
+<p><strong>Warrick</strong>: Joanna. I'll stick with Candy.</p>
+<p>(They both laugh.)</p>
+<p><strong>Warrick</strong>: So, now that we're out of the Pigalle, you can help me out with a few questions.</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: Good luck.</p>
+<p><strong>Warrick</strong>: Well, anybody ever get heavy-handed with you?</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: Not with me. I'm a black belt.</p>
+<p><strong>Warrick</strong>: Nice. Not even the owner, Gedda?</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: Not even him.</p>
+<p>(Joanna gets up and finds a table. The bartender gives Warrick his drink.) </p>
+<p><strong>Warrick</strong>: Thanks.</p>
+<p>(He takes it and follows her.) </p>
+<p>(He sits down at the table with her.) </p>
+<p><strong>Warrick</strong>: So what about the customer? They ever get beat-downs?</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: When the guys get drunk and start groping the girls. That's not tolerated.</p>
+<p><strong>Warrick</strong>: You ever see a barber's chair in Gedda's office?</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: No, but I heard about one. It's supposed to be Al Capone's.</p>
+<p><strong>Warrick</strong>: Al Capone.</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: Yeah, but that has to be a rumor. Mob guy with Al Capone's chair -- it's so cliché. Gedda's like the last wise guy left in Vegas. Guess that's his way of keeping his culture alive.</p>
+<p><strong>Warrick</strong>: Scumbags like him don't have culture.</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: Scumbags like him started Vegas. None of these lights would be here if it wasn't for them.</p>
+<p><strong>Warrick</strong>: What's a hot young thing like you doing working in a nasty place like that?</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: Money. The hours. The dancing.</p>
+<p><strong>Warrick</strong>: How about you giving me that last dance of the evening?</p>
+<p>(She smiles.) </p>
+<p>CUT TO:<br />
+[INT. WHITE BEDROOM] </p>
+<p>(CLOSE-UP: WHITE ORCHID) </p>
+<p>SERIES of distorted images. Warrick is in a white room.</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: Come here, you.</p>
+<p>(Warrick laughs.)</p>
+<p>(He's on a white bed in a white room. Joanna is in a white blouse and standing in front of a round bathroom mirror in front of a sink where the faucets come out of the wall.) </p>
+<p>(She turns around and raises a large knife at him.) </p>
+<p><strong>Warrick</strong>: (o.s.) What is it? What is it? You kidding me? </p>
+<p>DISTORTED IMAGES: Warrick is holding a glass and leaning against the wall.</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: (o.s.) Relax.</p>
+<p>(Joanna holds the knife up and starts toward him.) </p>
+<p><strong>Warrick</strong>: What's that? </p>
+<p>(Warrick's eyes widen.) </p>
+<p>(CHANGE TO: Joanna is holding up a pack of four condoms and starts toward him.) </p>
+<p><strong>Warrick</strong>: Put that thing away.</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: (o.s.) It's just for your protection.</p>
+<p><strong>Warrick</strong>: Oh, yeah.</p>
+<p>(He chuckles and laughs.) </p>
+<p>(Joanna laughs.) </p>
+<p>(Joanna opens her blouse and dances for him.) </p>
+<p><strong>Warrick</strong>: (o.s.) Right. Protection.</p>
+<p>(She throws the blouse at him.) </p>
+<p><strong>Warrick</strong>: I don't need protection from you, girl.</p>
+<p>(He catches the blouse and smells it.) </p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: (o.s.) You want it? </p>
+<p><strong>Warrick</strong>: Come here.</p>
+<p>(She unties the sarong around her waist.)</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: Doesn't it smell good? Very good.</p>
+<p><strong>Warrick</strong>: (mumbles something) </p>
+<p>(Warrick is leaning against the wall.) </p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: (o.s.) You like trouble, don't you, big boy?</p>
+<p><strong>Warrick</strong>: (o.s.) You-you're a trouble-troublemaker, do you know that? </p>
+<p>(She's lying on the bed.) </p>
+<p><strong>Warrick</strong>: (o.s.) I like trouble.</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: (o.s.) Hmm.</p>
+<p><strong>Warrick</strong>: (o.s.) trouble ... trouble -- </p>
+<p>(She licks her lips.) </p>
+<p><strong>Warrick</strong>: (mumbles) </p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: (o.s.) Are you scared? </p>
+<p><strong>Warrick</strong>: (o.s.) (mumbles) Come get it. Yeah, like that.</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: (o.s.) Don't -- </p>
+<p>(Warrick takes his shirt off.) </p>
+<p><strong>Warrick</strong>: (V.O.) Yeah, yeah! JOANNA &quot;CANDY&quot;: (V.O.) Yeah.</p>
+<p>(Sounds of distorted laughter.) </p>
+<p><strong>Warrick</strong>: (V.O.) Yeah, it's all over for you – Here you go. </p>
+<p>(Warrick chuckles as he undoes his belt. She laughs.) </p>
+<p>(He staggers a bit and motions to her.) </p>
+<p><strong>Warrick</strong>: (V.O.) Come here. Come here. Come here.</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: (V.O.) What do you got for me? </p>
+<p>(They kiss.) </p>
+<p><strong>Warrick</strong>: Get over there.</p>
+<p>(He pushes her toward the bed. They're on the bed kissing.) </p>
+<p><strong>Warrick</strong>: (V.O.) You bad girl. JOANNA &quot;CANDY&quot;: (V.O.) Yeah. <strong>Warrick</strong>: (V.O.) You need a spanking. JOANNA &quot;CANDY&quot;: (V.O.) Yeah. <strong>Warrick</strong>: (V.O.) Yeah, you need to be dealt with. Ah.</p>
+<p>(Warrick has his eyes closed and has a smile on his face.) </p>
+<p><strong>Warrick</strong>: (V.O.) Yeah, I feel good.</p>
+<p>(She watches him, then quickly leaves.) </p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: (V.O.) Sweet dreams.</p>
+<p>DISSOLVE OUT.</p>
+<p>FLASH OF: JOANNA</p>
+<p>(Her dead eyes are wide open. Her neck is bloodied and she's at an odd angle as if draped out of something, her arms stretched over her head.)</p>
+<p>[INT. BEDROOM] </p>
+<p>(The bedroom is dark and tinged green. Warrick's clothes are on the floor and several bottles are scattered around the room. Warrick is still in bed. He stirs.) </p>
+<p>(He reaches over and finds the pillow next to him empty. She's gone.) </p>
+<p>(He sits up in bed.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) – NIGHT] </p>
+<p>[INT. TAXI (MOVING) -- NIGHT] </p>
+<p>(Warrick is in the back of a taxicab. He's woozy.) </p>
+<p>INSERT FLASH OF: Lou Gedda is in his office watching through the blinds.</p>
+<p>INSERT FLASH OF: Jason Crewes' dead body on the pavement.</p>
+<p>(Warrick rubs his eyes. He blinks.) </p>
+<p>INSERT FLASH OF: The barber's chair in Lou Gedda's office.</p>
+<p>INSERT FLASH OF: The homeless man leans against the building wall smoking a cigarette.</p>
+<p>(Warrick blinks, trying to clear his vision.) </p>
+<p>INSERT FLASHES OF: Joanna on the bed, smiling at him. Warrick's laughter is heard.</p>
+<p><strong>Joanna &quot;Candy&quot;</strong>: (V.O.) Sweet dreams.</p>
+<p>(Warrick closes his eyes, his head rolls forward.) </p>
+<p>CUT TO:<br />
+[EXT. PIGALLE BOULEVARD STRIP CLUB – PARKING LOT -- NIGHT] </p>
+<p>(Officer cars are there. It's a crime scene. The taxi pulls up and stops. Warrick reaches in his pocket for the cash and pays the driver.) </p>
+<p><strong>Warrick</strong>: Thanks. </p>
+<p>(He gets out of the car and stops as he gets his bearings.) </p>
+<p>WARRICK'S POV: His vision is incoherent. He sees Grissom walking over to him. </p>
+<p>(Warrick walks over to the tape and starts to duck under it. The tape surrounds the area around his car. Grissom stops him.) </p>
+<p><strong>Grissom</strong>: No, no, no! You can't cross the tape! Not this time. (points) This is your car.</p>
+<p>(Then he sees it. Joanna is draped and lying out the car door, her neck slashed and bloodied.) </p>
+<p><strong>Warrick</strong>: (screams) Nooo! Nooo! No, this is wrong! She didn't do anything!</p>
+<p>SMASHTO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
- 
-
- 
-Drunk Driver: Hey, bro, I'm driving drunk, and you're lighting up a J? Maybe we should wait for those ... hell, dude.
- 
-Backseat Passenger: Man, we're in Vegas. Sweet potato Vegas! Whoo!
- 
-
- 
- 
-Passenger: Hide that! Hide it! Hide it! Get it out of here!
- 
- 
-Drunk Driver: Hey, hide that liquor! Hide the liquor! Hide it!
-Passenger: Throw that joint out!
- 
-Passenger: Get him! Get him!
-Drunk Driver: Shoot him! Shoot him!
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-Garbage Truck Driver: Get out of the way!
- 
- 
-Officer:  LVPD! Hold your position! 
- 
- 
- 
-
-LATER: 
- 
- 
- 
-Catherine: Hello? Hello? 
- 
-Catherine: Unknown caller. No call list. Probably disposable.
- 
-Grissom: Where's Warrick?
-Catherine: We've been calling him. There's no answer.
-Brass: See what happens when you get in a high-speed chase with a garbage truck and end up with two dead bodies.
- 
-Grissom: Where's the other one?
-
- 
- 
-Grissom: I take it he came out of the truck?
-Brass: He flew out. At least that's what every eyewitness tells us.
-Catherine: Well, city landfill is a couple of miles down the road.
-Grissom: What's the TOD, David?
-David Phillips: Nine, maybe ten, hours.
-Brass: I got no ID on either of the bodies. No ID on the truck. I ran the VIN number and the plates. They're not in the system. Good luck.
-Greg: Control Sanitation is the only waste company in Vegas. If the garbage man works for them, his prints would be in the system.
-Grissom: All right. Catherine, you and I got the bodies. Greg, since Warrick's MIA, you have a choice: the truck or the trail.
-Greg: I'll go for the fresh air.
- 
-Catherine: Do I get a choice, too? Because, if you don't mind, I'm going to take the garbage man.
-Grissom: Be my guest.
-Catherine: Good luck.
- 
-
-
- 
-Warrick:  Tina! Tina! Don't call ... Tina!
- 
-Warrick: Damn it.
- 
- 
- 
-Warrick: Hey, Gris, I'm sorry I'm late. I had some business to take care of.
-Grissom: This is your business. You were first up. That means you're supposed to be here first.
- 
-Grissom: You get to process the trash truck.
-Warrick: No problem.
- 
-Grissom: But get it off the street. Tow it to the impound yard.
- 
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-David Phillips: These coveralls are brand-new.
- 
-
-
- 
-Robbins: Your garbage man was in excellent shape. COD is as expected. Massive BFT due to his unfortunate collision with the T-bird.
- 
-Robbins: And your other vic was in his late 20s. He was definitely crushed by something.
-Catherine: Most likely, the garbage compactor.
-Robbins: Which happened postmortem.
-Catherine: Oh, it's always better to be compacted dead rather than alive.
- 
-Robbins: Suffocation. He had petechial hemorrhaging. I found white fibers in the nose and mouth. Sent them over to Hodges. He called back, confirmed they were silk.
-
- 
- 
-Nick: I tried to trace garbage man's cell phone. Like we expected, it's disposable. So I tracked down the distributor. It was paid for in cash under a bogus me. But I did get an AFIS hit off his print.
- 
-Nick: Brody Biggs. Former cop.
- 
-Grissom: When was this taken?
-Nick: 1975, police academy graduation. I contacted LVPD. They said he quit the force back in 1980 with a perfect record.
-Grissom: Then what?
-Nick: Social came back to several different garages around town. He was a freelance mechanic for 20 years.
-Grissom: All right, we got to get his personnel file. What about the other vic?
-
-Nick: It's Jason Crewes, 27. Got a hit off his work card. He's worked at five different casinos over the last six years.
-
- 
- 
- 
-Nick: Well, it doesn't look like Jason planned on going anywhere. I know a lot of people in this phone.
- 
-Catherine: You do not. Knows some famous people. Or uses famous nicknames for his friends.
- 
- 
-(Catherine opens the door to the home office and enters. She looks at the posters on the wall:
-RAIN
-NIGHTCLUB
-TANGERINE
-LOUNGE &amp; NIGHTCLUB
-MOONSHINE IS BACK
-MOONSHINE SUNDAYS
-NOW OPEN THURSDAYS – SUNDAYS
-GHOSTBAR
-PALMS
-OPEN NIGHTLY 
- 
- 
- 
- 
- 
- 
-Nick: Did you see anything?
- 
- 
-
- 
-
- 
- 
-Catherine: Nick!
- 
-Catherine: I think I just found ground zero. I think Jason was killed here.
- 
-Nick: Well, this would have been the perfect murder if Jason's body would have actually made it to the landfill. Would have been incinerated.
-Catherine: At least now his mother has someone to bury.
- 
-
- 
- 
-Belinda: He was alone last night. We talked at about 3:00 in the morning. He said he got off work early and was going to bed, and he'd call me when he woke up. But he never did.
- 
-Brass: Have you ever seen this man? His name is Brody Biggs. He's a mechanic.
- 
-Brass: Are you sure? We think this is the man that killed your son.
-Belinda: If he's a mechanic, maybe he worked on some of Jason's limos.
-Brass: I thought Jason was a club owner.
-Belinda: He was a limo driver before that, long time ago.
-Brass: Well, couldn't be that long ago. Jason was only 27. You have to be 25 to be a limo driver.
-Belinda: He had all kinds of fake IDs. Drove his first long one at 18. The owner of the limo company liked Jason. Made him a VIP driver. Celebs liked Jason. He could take his clients to a Motel 6 and it'd be the hottest spot in town. Wasn't long before the club owners invested in Jason, made him a group partner, gave him his own spot. Then two, then five. Suddenly, he's running the whole club scene.  I guess I should say he ran the club scene. He's not going to be running anything anymore.
-
- 
- 
-Warrick: I'll be damned. Take a look at that.
- 
-Grissom: The good old days.
-Warrick: Yeah. Here's an ad for the Silver Slipper Casino -- buffet.
- 
-Grissom: Back when they had real eggs, not powdered ones.
-Warrick: Hey, Gris, listen. About me being late ...
-Grissom: You have a cell phone paid for by the department. You call, you say you're running late. What's going on with you?
-Warrick: I don't know. This, uh ... this whole divorce has taken the wind out of my sails. You know, I used to have the team to distract me from all this, but even that's changed with Sara being gone. I feel kind of disconnected.
-Grissom: You've got your work. Don't screw that up.
-
-
- 
- 
- 
-Warrick: Van Halen, 1984.
- 
-Warrick: Either this truck was delivering merchandise for a memorabilia store or it's just plain old.
-Grissom: Maybe that's why Brass couldn't find the registration record.
- 
-Grissom: These old blue license plates were issued in the '80s.
-Warrick: I don't think this truck's been on the streets since.
-
- 
- 
- 
- 
- 
-Grissom: I think this guy was disguising his truck. It was orange before it was green. They used to use orange garbage trucks in the '80s.
-Warrick: The hydraulic cylinder blew.
- 
-Grissom:  Maybe when he crushed the body. That's why all the garbage flew out.
-
- 
- 
-Greg: Found this .22 in the parking lot near the crash. Check these bullets.
- 
-Grissom: Shorts.
-Greg: Usually used for shooting small animals, but in some cases they're used on people in place of a silencer. 
- 
-Grissom:  Less gunpowder, less noise.
- 
-Warrick: Look, if the garbage man had this gun, why didn't he just shoot the vic?
-Grissom: He found Jason sleeping. Why make a mess if you don't have to?
-Greg: Sounds like a professional hit man.
-Grissom: Well, if he was, we still have to find the guy who hired him.
-
-
-
-
- 
- 
-Warrick: Traced the VIN on the garbage truck back to the Regency, the company that made it. The only model of that truck sold in Nevada was to a company called the Regal Sanitation Group. They shut down in '83.
-Grissom: That explains the garbage.
- 
-Greg: Regal Sanitation was owned by Anthony Pezzulo. I'm studying mob history for my book.
-Warrick: Pezzulo? Wasn't he the mob boss who owned the Starfly?
-CLOSE-UP: An old issue of the LAS VEGAS GLOBE. The headline reads, &quot;Pezzulo Back in Court.&quot; There's a photo of Pezzulo on the cover. 
-Greg: They called Pezzulo &quot;Whacko,&quot; not so much for his wacky personality as for his love for whacking guys.
-
-Grissom: Until he himself got whacked at the Wisconsin Dells in 1983.
-INSERT: Crime scene photo of Anthony Pezzulo. 
-Grissom: Every mob-owned business in Vegas shut down when Pezzulo died.
-Warrick: These scumbags lay roaches. Just when you think they're gone, they pop back up again. Somebody put a hit out on Jason. It couldn't have been Pezzulo 'cause he's been dead for 20 years.
-
- 
- 
-Archie: Pezzulo's wife Kate got rid of Regal Sanitation right after he died.
-Warrick: She still around?
-Archie: She fell off the radar. All I could find was this old photo.
- 
-
- 
-(Brass is talking with Belinda, Jason Crewes' mother, formerly known as &quot;Kate,&quot;
-Anthony Pezzulo's wife.) 
-Belinda: I told you the truth. 
-Brass: You lied about your name.
-Belinda: The feds told me to forget I ever had the Pezzulo name.
- 
-Belinda: I wasn't about to remember it for you. My husband had more cops than capos on his payroll.
-Brass: So you went into witness protection. You changed your identity. And then you stayed in Vegas?
-Belinda: Feds felt we'd actually be safer here. They thought if we left, we might suffer the same consequences as Anthony.
- 
-Brass: Did Jason have any mob ties?
-Belinda: Jason was three years old when Anthony died. He never even knew his father.
-Brass: The last time we talked you said you didn't know Jason's killer.
- 
-Brass: What about this guy?
- 
-Belinda: That's BB.
-Brass: That's the same guy. BB is short for Brody Biggs.
-Belinda: BB didn't kill Jason. There's no way. He was Anthony's friend.
-Brass: Friend? BB was driving one of your husband's old garbage trucks. Your dead son was in the back with the rest of the garbage.  How did BB get the truck?
-Belinda: I haven't seen BB in 23 years.
-Brass: You got rid of the business. What happened to the trucks?
-Belinda: I gave that stuff to Lou Gedda.
- 
-Brass: The owner of Pigalle Boulevard Strip Club.
- 
-Brass: So did Gedda and BB know each other?
-Belinda: Of course, they were both on Anthony's crew, but they would never ...
-Brass: Never what? Never kill your son and dispose of him in one of the trucks you gave him?
- 
-Brass: When was the last time you saw Gedda?
-Belinda:  I haven't had any contact with him since Anthony died.
-Brass: So you're telling me you haven't seen or spoken to Lou Gedda in 23 years?
-Belinda: Gedda and I had an agreement. He was to keep away from our family. Forget Jason and I ever existed.
- 
-Brass: Obviously, Lou Gedda is not a man of his word.
-
- 
- 
- 
-Warrick: This place has always been bad news.
-Brass: My guys are in here at least twice a week.
-Warrick: Yet there's always a line.
-Brass: Never underestimate the power of the ass.
- 
-Warrick: Heads up.
-
- 
- 
-Brass: Looking for Lou Gedda.
- 
- 
-Waitress: Excuse me.
- 
-Lou Gedda:  Yeah, come on in.
- 
- 
- 
-Lou Gedda: Who let you two up here? Just so I know who to fire.
- 
-Brass: Gold card.
- 
-Lou Gedda: Oh, yeah, those seem to work everywhere.  Got to get me one. Ahh ... !
- 
-Lou Gedda: I know why you're here. And I don't know what to say. I can't control these girls. They want to leave with customers and do whatever it is they do, I can't prevent that.
- 
-Lou Gedda: Believe me, I don't like whores. I like dancers. When I find out they're whores, I kick them curbside.
-Warrick: We're not here about your girls. We're here about this guy.
- 
-Lou Gedda: B.B. Yeah, works at my auto detailing. But I tell ya, he's in here more, getting drunk and checking out the breast-est-es.
-Brass: Well, you don't have to worry about him anymore. He's dead.
-Lou Gedda: Oh. Well ... unless you invite me to the funeral, what's this got to do with me?
- 
-Brass: Tell me about Jason Crewes. He brings me boatloads of celebrities, which equals boatloads of money. I love the kid. Oh, don't tell me. You think Jason killed BB.?
-Brass: No, we think BB killed Jason.
-Lou Gedda: Now, see, that makes more sense.
-Warrick: When is the last time you saw Jason Crewes, sir?
-Lou Gedda: Last week.
-Brass: How long have you known him?
-Lou Gedda: A couple years at most. I still don't understand what this has to do with me.
-Warrick: You missing a garbage truck?
-Lou Gedda: Go again?
-Warrick: Regal Sanitation Group. Your buddy Pezzulo's old company. You inherited the trucks.
-Lou Gedda: So what?
-Brass: Jason Crewes' corpse flew out of one of your trucks earlier this morning.
-Lou Gedda: Do you know how much this club made last year? 30 mill. You think I'm still messing around with trash? And that's the end of this. You want to continue asking me questions, you're going to have to do it with my dream team present.
- 
-
-
-
-;
-
-
-
- 
- 
-
- 
- 
-Warrick: Here you go.
-Michael Raykirk: Thank you.
- 
-Warrick: So you're the talented Mr. Raykirk, agent to the stars.
-Michael Raykirk: Uh-uh, manager.
-Warrick: What's the difference?
-Michael Raykirk: Uh, well, an agent gets ten percent and a manager gets fifteen. Listen, I'm here in town for a film festival and I have to get to a screening, so you can you just, you know, cut to the chase?
-Warrick: Jason Crewes is dead.
-Michael Raykirk: Okay.
- 
-Michael Raykirk: Um ...
-Warrick: So he took you to Pigalle Boulevard in August. Do you remember that?
-Michael Raykirk: How do you know about that?
-Warrick: I'm an investigator. Some things I do know, but there's a lot that I don't. Somebody put a hit out on your friend. You want to help us out here?
-Michael Raykirk: I have an agent friend who I work with who had a bachelor party out here, and Jason hooked us up VIP-style. 
-Quick flashback to: 
-
- 
-Lou Gedda: Hey, how are you! Get over here! Come on!
-Michael Raykirk:  He took us to Moon and LAX and Drai's and then of course, naturally, we ended up at a strip club. And everyone knows the best girls are at Pigalle Boulevard.
- 
-Michael Raykirk:  It couldn't get any better until the check showed up.
-Michael Raykirk: Ten grand? The manager said $800 a bottle. We ordered five.
-Lou Gedda: I hear you don't want to pay what you owe us.
-Michael Raykirk: No. No, no, no, no. I just think you overcharged us, man.
-Lou Gedda: No.
- 
-Michael Raykirk: This place is a rip-off. And your girls? They're beat, overrated, and oversized. Get it?
- 
-Michael Raykirk: I'm not paying.
-Lou Gedda: Let's take a walk.
-
-
- 
- 
-Lou Gedda: I'm gonna give you a minute so you can figure out what you want to do. I'm cutting something. But I'm gonna give you the choice of what it's gonna be.
-Michael Raykirk: No.
-Lou Gedda: Oh, yeah, yeah. I can slice you here ... 
-
-Lou Gedda: Come on, no, no, no. Shh, shh, shh. Shh, shh, shh. Come on, you choose. 
-
-Michael Raykirk: I mean, I was never more scared in my life. You know, he was so sweet enough to give me the choice of my throat or my genitals, so I chose the latter ... so I'd live. Then he charged my card and escorted us out to the parking lot. Oh, here's something really cool. I left with a broken nose, some sore wrists, and some really nice bruises underneath my arms. And I just should've given him the ten grand because I paid my plastic surgeon twice that.
-Warrick: And you told Jason about all this?
-Michael Raykirk: Oh, yeah. I mean, he gave this guy Gedda a call right in front of me. Then he cursed him out and he told him he would never take anyone to Pigalle anymore.
-Warrick: Listen, I'm really sorry about all this. But ... um ... thanks a lot for your time.
-Michael Raykirk: Oh, yeah. By the way, if you're gonna prosecute this guy, I'm not a witness. There's a reason that I didn't press charges, if you know what I mean.
- 
-
-
- 
-Greg: Four shots!
- 
-CSI SHOT – The bullets hit the water.
- 
- 
- 
-
- 
- 
-Greg: Got an IBIS hit off that gun.  Unsolved murder in '93. Victim was found in the desert. His car was found at Pigalle Boulevard, the last place anyone saw him.
-
- 
- 
-Grissom: Our hit man's good for two murders. The unsolved in '93, where he actually used a gun, and Jason Crewes, who he suffocated. So, who hired him?
-Warrick: I have a good feeling he works for Gedda.
-Grissom: Yeah, but we don't work off feelings, do we?
-Warrick: According to Mr. Hollywood, Jason cost Gedda a lot of money, and he dissed him, which is more than enough for Gedda to order out a hit on someone, even if Jason is Pezzulo's son.
-Grissom: Any evidence? 
-Warrick: I ran Pigalle's address to find out if there are any more crimes linked to it over the years. I found hundreds: 416s, 413s, 411s ... the list goes on.
-Grissom: Any consistent suspects?
-Warrick: Only thing consistent is that the victims refused to file charges and the witnesses refused to give statements. And it's funny enough the cops lost interest in pursuing it.
-Grissom: What are you saying?
-Warrick: I'm saying it looks like Gedda is running an old school extortion racket, and you can't do that without having cops on the payroll.
-
- 
- 
- 
-
- 
- 
-Warrick: Hey!
- 
-Warrick: I just want to talk!
-Homeless Guy: I got warrants, man!
-Warrick: I'm not a cop.
-Homeless Guy: I don't care. You got a piece.
- 
-Warrick: Calm down. I'm not going to hurt you. You live here?
-Homeless Guy: Pretty much. What do you want?
-Warrick: You ever see anybody get beat up inside?
-Homeless Guy: No, no, I never seen none of that.
-Warrick: Don't make me pull those warrants, man.
-Homeless Guy: Yeah, I seen guys get beat up. This is strip club strip. Guys get beat up and down this block.
-Warrick: You ever see the owner beat up anyone?
-Homeless Guy: Hey, they let me stay here. They're real good to me.
-Warrick: I didn't ask you that.
-Homeless Guy: Lots of troublemakers, they come out of there and they get hauled off. That's all I know.
-Warrick: What do you mean by &quot;hauled off&quot;?
- 
-
- 
-
-
- 
-Lou Gedda: You got a warrant?
-Warrick: Do I need one?
-Lou Gedda: I own this block. Unless you're lookin' to get a detail job, you're trespassing.
-Warrick: What do you do with this?
-Lou Gedda: I burn meat.
-
- 
-
-VICTIM: PACINANO, MICHAEL
-FILE DATE: 05/03/97
-MOUNTING CODE: 39981-19-3411
-CASE LVPD 97-03-03-3185 BR
-LVPD ROUTING 738-192
-
- 
-(CLOSE-UP: PILL BOTTLE LABEL
-HOFFARTH'S PHARMACY
-RX 2885L24 DR. R H—
-WARRICK BROWN
-TAKE 1 TABLET DAILY
-MODAFIMIL 100MG
-REFILLS 
-
- 
-Nick: Hey.
-Warrick:  Hey.
-Nick: What's up?
-Warrick:  Trying to get this warrant for Gedda's property. I'm getting close though. Check out these bruise patterns.
- 
-Nick:  Hey, what are those?
-Warrick: What?
-Nick: Those pills?
-Warrick: Oh, they're supposed to keep me alert.
-Nick: Really?
-Warrick: Yeah.
-Nick: How long you been taking those?
-Warrick: I don't know, for a couple months.
-Nick: Aren't you still taking those sleeping pills, too?
-Warrick: What's it to you?
- 
-Nick: So now ... you're taking uppers and downers.
-Warrick: Gimme a break, man.
-Nick: No, you need to give yourself a break, Warrick.
-Warrick: Hey, let it go, bro.
-Nick: No. No, I'm not going to let it go.
- 
-Nick: You need to take a look at yourself, Warrick. And I care because I'm your friend.
- 
-Nick: All right?
-Warrick: Yeah.
- 
-Nick: All right, tell me about these bruises.
-Warrick: The 415 vic claims he got beat up inside the Pigalle. Couple days later, he dropped all the charges. And then there's the unsolved murder. They find a vic out in the desert, but they find his car outside of Pigalle's.
-CLOSE-UP: Photo of a dead man out on the desert with a bullet in his forehead.
-Warrick: Same bruise pattern. Now we got this Hollywood agent who mentions that he also has bruises under his arms. He claims that he was strapped to a barber's chair in Gedda's office.
-Nick: That should be enough for a warrant.
- 
-
- 
- 
-Brass: The judge doesn't think the bruises are enough probable cause to issue a warrant.
-Warrick:  What judge?
-Brass: Greene.
-
-
- 
-Warrick:  When I was running bets for Judge Cohen, she was in on the action.
-Brass:  I have no comment.
-Warrick: You know, these club owners -- they pay a lot of taxes; they fund campaigns; they hand out free drinks, all in exchange for protection. I mean, what can I do?
-Brass:  Go to the undersheriff, see if he can use his influence. But I doubt it.
- 
-
- 
- 
- 
-Warrick:  McKeen!
- 
-Jeff McKeen:  Excuse me a moment.
- 
-Warrick: Judge denied me the warrant.
-Jeff McKeen: What do you want me to do?
-Warrick: Get me the warrant. Lou Gedda is getting away with murder.
-Jeff McKeen: All right, say that I get you the warrant. What are you looking for, something that made armpit bruises?
-Warrick: The barber's chair in Gedda's office made the armpit bruises.
- 
-Jeff McKeen: I'm agreeing with the judge.
- 
-Jeff McKeen:  Grissom!
- 
-Grissom:  Okay.
- 
-Jeff McKeen: You need to save your CSI here. What he has is circumstantial based off of weird bruises and a barber chair. Brown needs to get better evidence and leave the rest in our hands.
-Warrick: I'm sorry, leave what in your hands -- Gedda's money?
- 
-Grissom:  Listen to me. Putting Gedda in jail is not gonna solve your problems. You just got the rest of the night off.
-
- 
- 
-
-
- 
-Warrick: Hey!
- 
-Warrick: What's in the bag?
-Joanna &quot;Candy&quot;: All my stuff. I'm just cleaning out my locker.
-Warrick: Show me.
- 
- 
-Warrick: Here, let me help you with that.
- 
-Joanna &quot;Candy&quot;: Thanks.
-Warrick: I'm sorry.
-
-
-
-
-
- 
- 
- 
-Waitress: What can I get you tonight?
-Warrick: Got any Dom Perignon?
-Waitress: Mm-hmm.
-Warrick: What about Cristal?
-Waitress: We do. We also have DP Rose.
-Warrick: I' take one of each.
- 
-
-
- 
- 
-
-Warrick: Hey ...
- 
-Joanna &quot;Candy&quot;: Hey!
-Warrick: I'm sorry about earlier. I thought you were carrying a dead body in there or something.
-Joanna &quot;Candy&quot;: You're a cop, right?
-Warrick:  I'm Warrick Brown.
- 
-Joanna &quot;Candy&quot;: I'm Candy.
-Warrick: Nice to meet you, Candy. So, you work here?
-Joanna &quot;Candy&quot;: Yeah. What do you want?
-Warrick: Everything.
-
-
- 
-Warrick: Hey, cheers, girl.
- 
-Girl: Cheers, yeah.
-Warrick: Hey, let's get out of here, you and me.
- 
-Joanna &quot;Candy&quot;: I'm working.
-Warrick: Come on, I just want to ask you a few questions.
-Joanna &quot;Candy&quot;: I don't go home with the customers.
- 
-Grissom: Pay the bill and let's go. 
- 
-Warrick: How'd you know I was here?
-Grissom: You've been here twice already today. We're leaving.
-Warrick: Come on, Gris, why don't you sit down and have a drink with us?
-Grissom: I'm on the clock.
-Warrick: So am I.
-Grissom: So you want to get fired.
- 
-Warrick: No, I want to let them know I'm here. I figured I'd order a couple bottles and not pay for it and see what happens.
-Grissom: You think he's that stupid?
-Warrick: It's worth a try.
- 
-Waitress: Here you go, sir.
-Warrick: Thank you.
- 
-Grissom:  Well, now you gotta pay for it, 'cause we're not allowed to accept gifts.
-
- 
- 
-Warrick:  I'm good to drive, Gris, my car is right here. You gotta admit, though, the girls are pretty fine in there. Listen ... 
- 
-Grissom: Get in the cab, Warrick.
- 
-Warrick: My car's right here.
-Grissom:  Go on.
- 
-Grissom: Go home. Sleep it off. I'll see you in my office in the morning.
- 
-
-
- 
-
-Warrick: Hey ... follow that girl.
- 
- 
- 
-
- 
-
- 
-
- 
-
-
- 
- 
-Joanna &quot;Candy&quot;: Thanks.
- 
-Joanna &quot;Candy&quot;: Cheers.
- 
-Joanna &quot;Candy&quot;: You don't give up.
-Warrick: Not tonight.  Irish whiskey. Neat. What's your real name, Candy?
-Joanna &quot;Candy&quot;: Joanna. Krumsky.
-Warrick: Joanna. I'll stick with Candy.
-
-Warrick: So, now that we're out of the Pigalle, you can help me out with a few questions.
-Joanna &quot;Candy&quot;: Good luck.
-Warrick: Well, anybody ever get heavy-handed with you?
-Joanna &quot;Candy&quot;: Not with me. I'm a black belt.
-Warrick: Nice. Not even the owner, Gedda?
-Joanna &quot;Candy&quot;: Not even him.
- 
-Warrick: Thanks.
- 
- 
-Warrick: So what about the customer? They ever get beat-downs?
-Joanna &quot;Candy&quot;: When the guys get drunk and start groping the girls. That's not tolerated.
-Warrick: You ever see a barber's chair in Gedda's office?
-Joanna &quot;Candy&quot;: No, but I heard about one. It's supposed to be Al Capone's.
-Warrick: Al Capone.
-Joanna &quot;Candy&quot;: Yeah, but that has to be a rumor. Mob guy with Al Capone's chair -- it's so cliché. Gedda's like the last wise guy left in Vegas. Guess that's his way of keeping his culture alive.
-Warrick: Scumbags like him don't have culture.
-Joanna &quot;Candy&quot;: Scumbags like him started Vegas. None of these lights would be here if it wasn't for them.
-Warrick: What's a hot young thing like you doing working in a nasty place like that?
-Joanna &quot;Candy&quot;: Money. The hours. The dancing.
-Warrick: How about you giving me that last dance of the evening?
- 
-
- 
- 
-SERIES of distorted images. Warrick is in a white room.
-Joanna &quot;Candy&quot;: Come here, you.
-
- 
- 
-Warrick:  What is it? What is it? You kidding me? 
-DISTORTED IMAGES: Warrick is holding a glass and leaning against the wall.
-Joanna &quot;Candy&quot;:  Relax.
- 
-Warrick: What's that? 
- 
- 
-Warrick: Put that thing away.
-Joanna &quot;Candy&quot;:  It's just for your protection.
-Warrick: Oh, yeah.
- 
- 
- 
-Warrick:  Right. Protection.
- 
-Warrick: I don't need protection from you, girl.
- 
-Joanna &quot;Candy&quot;:  You want it? 
-Warrick: Come here.
-
-Joanna &quot;Candy&quot;: Doesn't it smell good? Very good.
-Warrick:  
- 
-Joanna &quot;Candy&quot;:  You like trouble, don't you, big boy?
-Warrick:  You-you're a trouble-troublemaker, do you know that? 
- 
-Warrick:  I like trouble.
-Joanna &quot;Candy&quot;:  Hmm.
-Warrick:  trouble ... trouble -- 
- 
-Warrick:  
-Joanna &quot;Candy&quot;:  Are you scared? 
-Warrick:  Come get it. Yeah, like that.
-Joanna &quot;Candy&quot;:  Don't -- 
- 
-Warrick:  Yeah.
- 
-Warrick:  Yeah, it's all over for you – Here you go. 
- 
- 
-Warrick:  Come here. Come here. Come here.
-Joanna &quot;Candy&quot;:  What do you got for me? 
- 
-Warrick: Get over there.
- 
-Warrick:  Yeah, you need to be dealt with. Ah.
- 
-Warrick:  Yeah, I feel good.
- 
-Joanna &quot;Candy&quot;:  Sweet dreams.
-DISSOLVE OUT.
-
-
- 
- 
- 
- 
-
- 
- 
- 
-
-
- 
-
-
- 
-
-Joanna &quot;Candy&quot;:  Sweet dreams.
- 
-
- 
- 
-Warrick: Thanks. 
- 
-WARRICK'S POV: His vision is incoherent. He sees Grissom walking over to him. 
- 
-Grissom: No, no, no! You can't cross the tape! Not this time.  This is your car.
- 
-Warrick:  Nooo! Nooo! No, this is wrong! She didn't do anything!
-SMASHTO BLACK.
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=08x09+-+Cockroaches&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127460%23p127460" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=08x09+-+Cockroaches&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127460%23p127460" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127460%23p127460&amp;name=08x09+-+Cockroaches" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127460%23p127460" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=5fc582f9a1dfccb3a59c4d5424759b0d">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=5fc582f9a1dfccb3a59c4d5424759b0d">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=5fc582f9a1dfccb3a59c4d5424759b0d">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=5fc582f9a1dfccb3a59c4d5424759b0d">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

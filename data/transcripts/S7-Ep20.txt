@@ -1,710 +1,940 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN: 
+[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]
+[INT. CSI – HALLWAY -- NIGHT] 
+(Grissom walks through the hallway and meets up wi" />
+<meta property="og:title" content="07x20 - Lab Rats - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN: 
+[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]
+[INT. CSI – HALLWAY -- NIGHT] 
+(Grissom walks through the hallway and meets up wi" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13353" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>07x20 - Lab Rats - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13353" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13353">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=e944f7e335d0fe7f420692dcdf428152"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=e944f7e335d0fe7f420692dcdf428152">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=e944f7e335d0fe7f420692dcdf428152">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=e944f7e335d0fe7f420692dcdf428152">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=e944f7e335d0fe7f420692dcdf428152">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13353&amp;sid=e944f7e335d0fe7f420692dcdf428152&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>07x20 - Lab Rats</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127447">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127447">07x20 - Lab Rats</a></div>
+							<div class="pull-right text-right"><time datetime="2007-04-27T00:54:30Z">04/27/07 00:54</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN: </p>
+<p>[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]</p>
+<p>[INT. CSI – HALLWAY -- NIGHT] </p>
+<p>(Grissom walks through the hallway and meets up with Nick and Warrick.) </p>
+<p><strong>Grissom</strong>: Fellas, another incident at Lolita's.</p>
+<p><strong>Warrick</strong>: What now?</p>
+<p><strong>Grissom</strong>: An erotic athlete claiming a 420-Z. The paramedics have her on a stretcher.</p>
+<p>(Grissom gives Warrick the assignment sheet. He turns and continues back through the hallway. We stay with Nick and Warrick a bit.) </p>
+<p><strong>Nick</strong>: What the hell's an erotic athlete?</p>
+<p><strong>Warrick</strong>: Well, I hope it's a tight end in a G-string.</p>
+<p><strong>Nick</strong>: Nice.</p>
+<p>(Warrick and Nick leave. We follow Grissom, who continues through the hallway.) </p>
+<p><strong>Grissom</strong>: Greg?</p>
+<p><strong>Greg</strong>: (o.s.) Yeah.</p>
+<p>(Grissom walks up to Greg.) </p>
+<p><strong>Grissom</strong>: (reads) 419 at Tagliferri's Restaurant on 8th Avenue.</p>
+<p>(Greg takes the assignment sheet from Grissom. In the back, Catherine turns the corner and heads their way.) </p>
+<p><strong>Greg</strong>: (to Grissom) `All right. Thanks. I'm on it.</p>
+<p>(Catherine walks up to Grissom as Greg leaves.) </p>
+<p><strong>Grissom</strong>: Cath?</p>
+<p><strong>Catherine</strong>: Huh?</p>
+<p><strong>Grissom</strong>: 415-B at the Ha-Ha-Ha.</p>
+<p>(She takes the assignment sheet from him and looks at it.) </p>
+<p><strong>Catherine</strong>: What's the weapon? A Taser? Come on!</p>
+<p><strong>Grissom</strong>: An angry clown got pissed at some heckler with clogged arteries, and it caused a heart attack.</p>
+<p><strong>Catherine</strong>: So, Greg-O gets a hit at a mob restaurant, and I get a clown who can't take a joke?</p>
+<p><strong>Grissom</strong>: Trust me, you don't want Greg's 419.</p>
+<p>(Catherine and Grissom walk over to Sara.) </p>
+<p><strong>Sara</strong>: Hey. </p>
+<p><strong>Catherine</strong>: Hey.</p>
+<p>(Catherine leaves. Grissom reads Sara's assignment.) </p>
+<p><strong>Grissom</strong>: Hey. CDC needs someone out at the Omdi-Tech offices on Boulder Highway. I'm sure it's not hazardous, or they wouldn't let us collect it.</p>
+<p>(Sara takes her assignment sheet.) </p>
+<p><strong>Sara</strong>: Okay. You coming with?</p>
+<p>(Grissom reads his own assignment.) </p>
+<p><strong>Grissom</strong>: No, I'm spending the night in autopsy with the Lake Mead floater.</p>
+<p>(They walk past the lab doorway, Sara's voice fading as they pass.) </p>
+<p><strong>Sara</strong>: Well, enjoy. That guy was putrid. Oh, by the way...</p>
+<p>[INT. CSI – TRACE LAB –CONTINUOUS]</p>
+<p>(Hodges looks up from the paper in his hand. He sees Wendy in her lab across the hallway. He also sees Wendy step away from her lab.) </p>
+<p>(Hodges walks up to his lab doorway and looks around the halllway.) </p>
+<p>CUT TO:<br />
+(Hodges' phone beeps as he sends a message.)</p>
+<p>(Across the hallway in the A/V Lab, Archie's phone tone plays. He checks the message and turns to look at Hodges. Hodges nods.) </p>
+<p>(Another phone tone plays. Mandy looks at her message, then looks up at Hodges.)</p>
+<p>(In Henry's lab, his phone tone sounds – it's monkey laughter. He checks his message. It reads:<br />
+1. HODGES<br />
+FWD: MEET ME IN GRISSOM'S OFFICE ASAP.<br />
+TELL NO ONE.<br />
+FROM: HODGES<br />
+TO: HENRY</p>
+<p>(How mysterious.) </p>
+<p>CUT TO:<br />
+[INT. CSI – GRISSOM'S OFFICE – CONTINUOUS]</p>
+<p>(The camera pans across the table with the four miniature crime scenes in their respective see-through cases.) </p>
+<p>(Hodges, Mandy, Henry and Archie meet in Grissom's office.) </p>
+<p><strong>Hodges</strong>: Four crime scene miniatures, four murder victims, and one diabolical killer with an obsessive streak who still remains at large. I don't know if any of you have noticed how distracted Grissom's been lately, but it's these. Keeping him up at night.</p>
+<p>(Hodges removes the padlock on the Izzy miniature crime scene.) </p>
+<p><strong>Archie</strong>: You know the combination?</p>
+<p><strong>Hodges</strong>: Of course. Grissom could use some fresh eyes on the case, and that's why I've asked you here. Obviously, this could be perceived as insulting to the CSIs who formerly worked the case, so secrecy is of the utmost importance. Double-down low.</p>
+<p>(Mandy uses her shoe as a phone.) </p>
+<p><strong>Mandy</strong>: (in British accent) Oh, James, it's Moneypenny. M needs you back at HQ.</p>
+<p><strong>Archie</strong>: Shoe phone was ‘Get Smart,' though.</p>
+<p><strong>Mandy</strong>: Oh, that's right.</p>
+<p><strong>Henry</strong>: 99 was so hot.</p>
+<p><strong>Archie</strong>: Mm.</p>
+<p><strong>Hodges</strong>: Four people are dead, the killer is still out there, and you're mocking?</p>
+<p><strong>Mandy</strong>: We're mocking you.</p>
+<p><strong>Hodges</strong>: Ah. You in or out?</p>
+<p><strong>Henry</strong>: I don't really know anything about these cases.</p>
+<p><strong>Hodges</strong>: We'll review.</p>
+<p><strong>Henry</strong>: I don't know. I have a lot of work to do.</p>
+<p><strong>Hodges</strong>: And by work, you mean IM'ing your Icelandic pen pal who thinks that you look like Warrick Brown because that's the picture you posted.</p>
+<p><strong>Henry</strong>: How ... ?</p>
+<p><strong>Hodges</strong>: I just know. Archie, in?</p>
+<p><strong>Archie</strong>: What the hell, but I got to leave early. I got a surfing trip in Santa Barbara this weekend.</p>
+<p><strong>Hodges</strong>: Miss Mockery?</p>
+<p><strong>Mandy</strong>: Well, we can't leave the lab, we can't talk to suspects. What exactly does Grissom wants us to do?</p>
+<p><strong>Hodges</strong>: It's not always what you look at that matters; it's what you see.</p>
+<p>(Archie, Mandy and Henry step in closer.) </p>
+<p><strong>Henry</strong>: That's Thoreau.</p>
+<p><strong>Hodges</strong>: Oh, is it? Hmm.</p>
+<p>(Hodges opens the case with the Izzy crime scene in it.) </p>
+<p><strong>Archie</strong>: Okay, professor. And your point would be?</p>
+<p><strong>Hodges</strong>: The answers lie in these.</p>
+<p>(Hodges takes out the miniature out and puts it on the case cover.) </p>
+<p><strong>Hodges</strong>: We're lab techs. We think differently than field guys. They deal with people, we deal with things. Maybe we can't find the killer, but I think we can find the thing that links all four murders. This is an opportunity. We have one shift to show Grissom what we're made of. Tonight, we could be heroes.</p>
+<p><strong>Mandy</strong>: All right, all right. I'm in.</p>
+<p>(Hodges, Archie, Mandy and Henry lean forward and look at the miniature.) </p>
+<p><strong>Hodges</strong>: It's time to think outside the box.</p>
+<p>SMASH TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[IZZY DELANCY'S MINIATURES] </p>
+<p>(Camera moves back through the first miniature of Izzy Delancy's kitchen – back through the counter full of miniature framed photos, bottles and mail. We continue to pull back through the kitchen table with a plate of breakfast and fork. We move down to the carpeting with a perfect blood pool under the miniature Izzy Delancy doll slumped on the table.) </p>
+<p>(A human eye appears through the miniature kitchen window as someone looks inside the box.)</p>
+<p>[INT. CSI – GRISSOM'S OFFICE]</p>
+<p>(Hodges straightens.) </p>
+<p><strong>Hodges</strong>: The first miniature was found at the crime scene seven months ago.</p>
+<p>(He turns as he carries a file folder. Archie, Mandy and Henry are also in the office.) </p>
+<p><strong>Hodges</strong>: The victim is Izzy Delancy, washed-up rock star. Blunt force trauma to the back of the head.</p>
+<p>(Quick flash of: [Scene from 7X02: Built to Kill-2] Someone hits Izzy over the back of the head and he hits the table. End of flash.) </p>
+<p>(Hodges shows them the photo of the back of Izzy's head.) </p>
+<p><strong>Hodges</strong>: Bonked with a rolling pin, found in the drawer at the scene.</p>
+<p><strong>Henry</strong>: Stalker maybe?</p>
+<p><strong>Hodges</strong>: Izzy didn't have any known stalkers, and there was no forced entry. Suspects include his first wife, his current wife, the nanny he was schtuping and his teenage son.</p>
+<p><strong>Mandy</strong>: Motive thought to be s*x?</p>
+<p><strong>Hodges</strong>: And-or money. Izzy's music library was for sale. Mucho dinero to be gained.</p>
+<p><strong>Mandy</strong>: So?</p>
+<p><strong>Hodges</strong>: So ... nothing. Every suspect was exonerated. </p>
+<p>(He puts the file folder down and walks over to the miniature.) </p>
+<p><strong>Hodges</strong>: All we were left with was this ...</p>
+<p>(Flash to: [Scene from 7X02: Built to Kill-2] Grissom and Sara examine the miniature crime scene.) </p>
+<p><strong>Grissom</strong>: A perfect, half-inch scale model of the room. And assuming that the killer is the same person who made the miniature ...</p>
+<p><strong>Sara</strong>: It would have taken weeks, maybe even months to create with this kind of detail. It certainly qualifies as premeditation.</p>
+<p>(Grissom takes a swab of the blood in the miniature. He tests it.) </p>
+<p><strong>Grissom</strong>: It's real blood. The killer actually stuck around to match the blood pool at the scene.</p>
+<p>(End of flash.) </p>
+<p>(Archie starts to sit down in Grissom's chair when -- </p>
+<p><strong>Hodges</strong>: Ah, ah, ah, ah!</p>
+<p><strong>Archie</strong>: What? </p>
+<p><strong>Hodges</strong>: What are you doing?</p>
+<p><strong>Archie</strong>: Sitting.</p>
+<p><strong>Hodges</strong>: No, no. You're tempting fate. You know how you should never try on someone else's engagement ring, hold the Oscar, use the excuse that your grandmother died when she didn't ...</p>
+<p><strong>Mandy</strong>: (deadpans) I tried on Suzie Quinceworthy's diamond ring last year. It looked really good on her, and looked terrible on me. I don't think an emerald cut flatters my little ten-ies. (wistfully) Will I never marry?</p>
+<p><strong>Henry</strong>: I'll marry you. Although, you know, my grandmother's still alive. She lives down in Boca. I don't know if you know this, but I am the shuffleboard champion of the Boca Surf and Sand. Mm. Ladykiller of the senior set.</p>
+<p><strong>Mandy</strong>: Rock on. I can do an open marriage.</p>
+<p><strong>Hodges</strong>: Why do you guys keep doing that?</p>
+<p><strong>Mandy</strong>: (innocently) Do what?</p>
+<p><strong>Archie</strong>: Hodges, relax, man. I don't want to run the lab.</p>
+<p><strong>Hodges</strong>: We are guests in the man's office. If there was one person who was more respectful of space and boundaries, it's Grissom. (Mandy nods.) You could at least offer him the same courtesy.</p>
+<p>(Archie thinks about it and concedes.) </p>
+<p>(Henry stands up.) </p>
+<p><strong>Henry</strong>: Wait. Is he okay with us being in here?</p>
+<p><strong>Hodges</strong>: He said he'd be in Autopsy--won't be back for hours.</p>
+<p>(Henry glances at Mandy. Hodges continues.) </p>
+<p><strong>Hodges</strong>: Anyway, they never solved Izzy Delancy's murder. Two months later, Penny Garden was found dead in her house.</p>
+<p>(TOP VIEW DOWN: The Penny Garden miniature.)</p>
+<p><strong>Cue Sound</strong>: (PRE-LAP) THUNDER RUMBLES</p>
+<p>CUT TO:<br />
+[Scene from 7X07: Post Mortem]</p>
+<p>(A record plays, &quot;Lollypop, Lollypop.&quot; Penny Garden opens a bottle of CHERRY HERRING liqueur. She coughs and pours herself a drink.)</p>
+<p>(She smokes her cigarette and drinks.)</p>
+<p>(Lightning flashes and thunder rumbles. She finishes her drink. She cuts a coupon and looks at it. She gets up.) </p>
+<p>[EXT. VIEW]</p>
+<p>(Through the covered windows, we see Penny Garden move awkwardly from one end of the room to the other where another shadow is. The two figures move together when – SMASH! Penny Garden crashes through the glass window.)</p>
+<p>FLASH TO: BACK TO SCENE.</p>
+<p>CU: Of the miniature Penny Garden slumped over the window frame. </p>
+<p><strong>Mandy</strong>: Suspects included her ex-junkie nephew, who was living with her, and her drug-dealing neighbor, who was buying prescription meds from her. Obvious motives -- drugs and money.</p>
+<p><strong>Henry</strong>: Did either of them have any connection to Izzy Delancy?</p>
+<p><strong>Archie</strong>: No. CSIs didn't even realize this was a ‘miniature' case until this was anonymously delivered to the scene the next day.</p>
+<p><strong>Mandy</strong>: And why wasn't it left with the body like the other one?</p>
+<p><strong>Hodges</strong>: Good question. Grissom and I really noodled over that one.</p>
+<p>FLASH TO: [Scene from 7x07: ‘Post-Mortem']</p>
+<p>(Grissom hands Hodges the scope.) </p>
+<p><strong>Grissom</strong>: Look carefully at the back of the doll and at the pillow on the chair. There appears to be remnants of glue on both.</p>
+<p><strong>Hodges</strong>: So the doll was originally glued to the back of the chair.</p>
+<p><strong>Grissom</strong>: I think the killer expected the victim to die in this chair.</p>
+<p>INSERT: VISUALIZATION</p>
+<p>(The image of Penny Garden appears in the chair, drinking her liqueur.) </p>
+<p>(From above, Grissom visualizes what must've happened.)</p>
+<p>(As Penny Garden sits, the hooded intruder comes up from behind her.) </p>
+<p><strong>Hodges</strong>: Well, if that's the case, then how did the killer expect to ... kill her?</p>
+<p>(Grissom continues visualizing Penny Garden sitting in the chair, drinking from her glass. The killer is behind her, waiting.)</p>
+<p>(Grissom reaches down and tries to pick up the miniature liqueur bottle from off the floor. It doesn't move. It's glued there.) </p>
+<p><strong>Hodges</strong>: (V.O.) The killer knew that Penny was always stinko on Cherry Herring by coupon-clipping time, so ...</p>
+<p>VARIOUS FLASHES OF: The killer drips liquid nicotine to the liqueur. Penny pours herself a drink. Penny drinks.</p>
+<p><strong>Henry</strong>: (V.O.) He laced her booze with liquid nicotine, which induced convulsions.</p>
+<p>(Penny gets up and staggers around the room.) </p>
+<p>(Penny bumps into the chair and staggers around.) </p>
+<p><strong>Archie</strong>: (V.O.) And when she went all twitchy and through the window ...</p>
+<p>(Penny smashes into the window and slumps forward over the frame.)</p>
+<p>(Cut to: The killer moves the Penny doll from the chair to the window frame.) </p>
+<p><strong>Mandy</strong>: (V.O.) The OCD killer had to match it with his mini, which is why it showed up late.</p>
+<p>END OF FLASHBACKS</p>
+<p>(Henry turns and sees Wendy appear in the door.) </p>
+<p><strong>Henry</strong>: Red dog barks at midnight.</p>
+<p>(Everyone stops and turns to look at Wendy.) </p>
+<p><strong>Wendy</strong>: What are you guys doing in here?</p>
+<p>(Hodges shakes his head.) </p>
+<p><strong>Hodges</strong>: Nothing.</p>
+<p><strong>Henry</strong>: Yeah.</p>
+<p>(Everyone innocently takes their file folder and heads for the door. They leave the office. Hodges stops in front of Wendy.) </p>
+<p><strong>Wendy</strong>: All right, freakboy, your phone has been ringing off the hook, so I finally answered it, and Warrick and Nick said they have a ton of trace, and they really need you to clear the decks.</p>
+<p><strong>Hodges</strong>: No problem. After you.</p>
+<p><strong>Wendy</strong>: After you.</p>
+<p>(Hodges leaves the office.) </p>
+<p>(We hold on Wendy.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]</p>
+<p>[INT. CSI – FORENSIC AUTOPSY – NIGHT]</p>
+<p>(Robbins and Grissom are in front of a body on a table.) </p>
+<p><strong>Robbins</strong>: Hmm. Irides Brown. No apparent puncture wounds, abrasions or lacerations. COD appears to be drowning.</p>
+<p><strong>Grissom</strong>: We did pull him out of Lake Mead, you know.</p>
+<p><strong>Robbins</strong>: Right. Based on decomp, I'd put TOD around 48 hours ago.</p>
+<p>(An assistant coroner pulls a headless body on a table into the room. David Phillips appears at the end of the table, pushing it through the door.) </p>
+<p><strong>Grissom</strong>: Where's his head, David?</p>
+<p><strong>David Phillips</strong>: They haven't found it yet.</p>
+<p><strong>Grissom</strong>: (scoffs) Day shift.</p>
+<p>(Robbins laughs.) </p>
+<p>(Grissom watches as Robbins cuts into the torso. As he reaches the stomach area, the area under the skin moves. Grissom leans forward intently.) </p>
+<p><strong>Grissom</strong>: Uh-oh. He's got gas. Phew.</p>
+<p><strong>Robbins</strong>: Yeah, he's going to be a stinker. You want a mask?</p>
+<p><strong>Grissom</strong>: No, I'm all right.</p>
+<p>(Robbins completes the cut. The skin continues to move.) </p>
+<p><strong>Robbins</strong>: What the hell?</p>
+<p>(As they watch, a rat bursts out through the skin. It lands on the table with a PLOP!) </p>
+<p><strong>Robbins</strong>: (screams) Rat!</p>
+<p>(Grissom grabs a metal pan and tries to cover the rat, misses and smashes the glass and samples on the table.)</p>
+<p>(The rat scampers to the floor and runs. Robbins tries to stab at it with his crutch. He misses. The rat runs across the floor.) </p>
+<p><strong>Robbins</strong>: Get ‘im! Get ‘im! </p>
+<p>(Grissom runs after the rat. The rat escapes out the partially opened door.)</p>
+<p><strong>Grissom</strong>: Oh.</p>
+<p>(Too late! Grissom stops. He turns and looks at Robbins.) </p>
+<p><strong>Robbins</strong>: (sarcastic) Nice work.</p>
+<p><strong>Grissom</strong>: At least I tried to get him. Where were you?</p>
+<p><strong>Robbins</strong>: I hate rats.</p>
+<p>(Glass shatters and someone screams from the next room.) </p>
+<p>(As Grissom runs out, we -- </p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. CSI – PRINT LAB -- NIGHT] </p>
+<p>(Warrick takes out the many, many print cards and puts them on the table in front of Mandy.) </p>
+<p><strong>Mandy</strong>: Wow. Don't bother being discerning.</p>
+<p><strong>Warrick</strong>: Hey, what can I say? Erotic athletes are kind of gratuitous with the hands. And lube on latex leaves excellent ridge detail. What's with the, uh, blast from the past? You got new evidence on the miniatures?</p>
+<p>(He points to the open file on Mandy's table. She casually closes the file.) </p>
+<p><strong>Mandy</strong>: Um, just refiling some stuff. Uh, G-on-G action. It's not really a big question as to who did it, is it?</p>
+<p><strong>Warrick</strong>: One ring, six women. Ursula Major claims Ursula Minor was responsible for the pile drive. Only you, my dear, will know for sure. Have fun.</p>
+<p>(He turns and leaves.) </p>
+<p>CUT TO:<br />
+[INT. CSI – TRACE LAB – NIGHT]</p>
+<p>(Hodge looks at the pink bikini in the evidence bag.) </p>
+<p><strong>Hodges</strong>: Is that condensation?</p>
+<p><strong>Nick</strong>: Oh, no, it's-it's lube ... I think. Yeah, these bikinis are from the erotic athletes at Lolita's bar. This woman, Lucy Pavorotti, broke her neck flipping around up there. Well, now she's suing everybody.</p>
+<p><strong>Hodges</strong>: Okay. I'm on it.</p>
+<p>(Hodges turns away to get on it.) </p>
+<p><strong>Nick</strong>: Nothing?</p>
+<p><strong>Hodges</strong>: What?</p>
+<p><strong>Nick</strong>: Nothing at all? I'm all ready for &quot;Luscious Lucy likey Lolita's lubey.&quot;<br />
+Or something.</p>
+<p><strong>Hodges</strong>: Every man is not an end but a beginning. Today I rise above and step up. Have a nice day.</p>
+<p><strong>Nick</strong>: Good point. Hey, I've been meaning to ask you about something you might be interested in. The Forensic Academy has their conference in June.</p>
+<p>(Hodges' cell phone buzzes. He checks his message:<br />
+1. HENRY<br />
+WENDY'S HERE !!!!!!!!<br />
+From: Henry<br />
+To: Hodges</p>
+<p>(Hodges turns back to Nick and nods. Actually, he's really nodding at Henry and Archie with Wendy in the lab behind Nick. Henry looks expectantly at Hodges wanting him to do something to get them out of this situation.) </p>
+<p><strong>Nick</strong>: -- and I'm going to be speaking on fieldwork. But the thing about it is, man, I'm just no good when it comes to IR trace technology. </p>
+<p>(Hodges nods. Henry looks trapped. Wendy and Archie are looking through a file folder.) </p>
+<p><strong>Nick</strong>: (cont) But now you ... you are.</p>
+<p><strong>Hodges</strong>: Oh.</p>
+<p><strong>Nick</strong>: So ... what do you think? It's in Iowa. Which is ... as fun as you want to make it, but ...</p>
+<p>(Hodges is trapped in his office while he tries to see what's going on in Archie's lab.) </p>
+<p>[INT. CSI – A/V LAB – CONTINUOUS]</p>
+<p>(Wendy and Archie look through the file folders.) </p>
+<p><strong>Wendy</strong>: So according to this, a month after Penny Garden's murder, Grissom investigated an electrocution at the Mannleigh chicken plant.</p>
+<p>FLASH TO: [Scenes from 7X10: Loco Motives]</p>
+<p>(The killer pulls the switch down. Raymundo Suarez is electrocuted in water.) </p>
+<p><strong>Wendy</strong>: (V.O.) The victim was Raymundo Suarez, early 30s, a nighttime janitor. </p>
+<p>(Flash to: Grissom and Greg look around the crime scene.) </p>
+<p><strong>Wendy</strong>: (V.O.) It looked like a possible industrial accident, or maybe even a workplace homicide. Right up until they found the perfect half-inch scale cast metal mini.</p>
+<p>(Grissom finds the miniature.)</p>
+<p>INSERT: VIEW OF THE MINIATURE</p>
+<p>END OF FLASHBACKS</p>
+<p>(Archie nods.) </p>
+<p><strong>Archie</strong>: Suspects included the boss, Ike Mannleigh.</p>
+<p>(Quick flash of Bubbles and Raymundo are kissing among the chickens.) </p>
+<p><strong>Archie</strong>: (V.O.) Raymundo was sleeping with his wife, Bubbles.</p>
+<p>(End of flashback.) </p>
+<p><strong>Henry</strong>: I can't even do it with my cat watching. Wait. s*x, drugs, rock and roll. Do you think it's a pattern?</p>
+<p><strong>Wendy</strong>: No, 'cause according to this, s*x may not have actually been the issue. Yeah, Ike Mannleigh was exonerated, and another co-worker, Ernie Dell, he looked good for all of the murders.</p>
+<p><strong>Henry</strong>: Yeah, that's right, he was caught on tape in an animal rights PSA made by Izzy Delancy.</p>
+<p><strong>Archie</strong>: Yes, he was.</p>
+<p>(Archie shows them the PSA on the monitor. He fast-forwards to some footage of Ernie Dell abusing the chickens.) </p>
+<p><strong>Archie</strong>: Look at this.</p>
+<p><strong>Wendy</strong>: Ew.</p>
+<p><strong>Archie</strong>: Yeah, tell me about it. I had to scan this thing for hours. I haven't been able to eat chicken since. Anyway, Ernie Dell was really into model trains. You know, the way a serial killer's really into pets.</p>
+<p>(Quick flash of: A miniature man on a rooftop ready to jump off a building. The miniature train runs. On the ground below is a miniature body on the sidewalk in a pool of blood.)</p>
+<p>(Another part of the miniature train set shows a gang beating up a bloodied miniature person. The miniature train set circles around the entire room.) </p>
+<p>(There is a graveyard with a grim reaper holding a bloodied scythe.)</p>
+<p>(There is a blue car smashed into a pole. A bloodied miniature body hangs out of the hood. There's blood on the car and on the ground nearby.) </p>
+<p>(There are more violent scenes of miniature people killing other miniature people.) </p>
+<p>(Brass finds the miniature molds in the basement.) </p>
+<p><strong>Archie</strong>: (V.O.) So when CSIs went to his house, they found these molds for all these creepy little things ... </p>
+<p>(Cut to: Grissom takes a pot from the miniature and matches it to a mold.)</p>
+<p><strong>Archie</strong>: (V.O.) ... some of which matched pieces from the Izzy Delancy miniature.</p>
+<p>(Cut to: A side-by-side SCOPE VIEW of the two pots. They match.) </p>
+<p>BACK TO SCENE.</p>
+<p>(Archie shows more footage from 7X07: Post Mortem.) </p>
+<p><strong>Archie</strong>: Ernie was caught on some neighborhood watch surveillance video delivering the mini to Penny Garden's house.</p>
+<p><strong>Henry</strong>: This guy can't stay away from a camera.</p>
+<p><strong>Archie</strong>: You don't know how right you are. He confessed on live video, e-mailed it directly to Grissom.</p>
+<p>(Archie plays the video for them.) </p>
+<p><strong>Ernie Dell</strong>: (from video) My name is Ernest Edward Dell. I was born in 1946 in Ames, Iowa.</p>
+<p>(He fast-forwards the video.) </p>
+<p><strong>Ernie Dell</strong>: (from video) ... spend any amount of time around people, you get your heart broke.</p>
+<p>OFF HENRY: </p>
+<p><strong>Ernie Dell</strong>: (from video) Treachery.</p>
+<p>OFF ARCHIE: </p>
+<p><strong>Ernie Dell</strong>: (from video) Hypocrisy.</p>
+<p>OFF WENDY: </p>
+<p><strong>Ernie Dell</strong>: (from video) The promise of love.</p>
+<p>(They continue to watch the video.) </p>
+<p><strong>Ernie Dell</strong>: (from video) A man could kill from sunup to sunset and still his work would never be done.</p>
+<p>(On the video, Ernie takes the gun, puts it under his chin and fires.) </p>
+<p>(Hodges appears in the doorway behind them.) </p>
+<p><strong>Hodges</strong>: Wendy? Could I speak with you a moment?</p>
+<p><strong>Wendy</strong>: Sure.</p>
+<p>(She hands the folder to Henry and leaves the lab.) </p>
+<p>[INT. CSI – HALLWAY – CONTINUOUS]</p>
+<p>(Hodges and Wendy step out into the hallway.) </p>
+<p><strong>Hodges</strong>: This is exactly why I didn't invite you to join us. You take over everything.</p>
+<p><strong>Wendy</strong>: Uh ...</p>
+<p><strong>Hodges</strong>: Grissom asked me to gather some techs to review the ‘miniature' cases. Like a think tank.</p>
+<p><strong>Wendy</strong>: Yeah, I know, they told me. So, kudos to you.</p>
+<p><strong>Hodges</strong>: I hand selected them with careful consideration to group dynamics.</p>
+<p><strong>Wendy</strong>: Well, I can see that. I mean, it's you and your back-up singers. You're Davy Hodges and the Lemmings. You should take your act on the road.</p>
+<p><strong>Henry</strong>: (o.s.) We can hear you.</p>
+<p><strong>Wendy</strong>: Look, the only reason that you don't like me is because I actually stand up to you. Which, by the way, is exactly what you need. You know I would be good at all this ‘miniature' stuff.</p>
+<p><strong>Hodges</strong>: That's not the only reason.</p>
+<p><strong>Wendy</strong>: Really? Okay, what is it?</p>
+<p><strong>Hodges</strong>: You think you're too cool.</p>
+<p><strong>Wendy</strong>: Oh, my God. What are we, 12?</p>
+<p><strong>Hodges</strong>: I don't know, are we?</p>
+<p><strong>Wendy</strong>: I don't know, are we?</p>
+<p>CUT TO:<br />
+[INT. CSI – HALLWAY OUTSIDE FORENSIC AUTOPSY -- NIGHT</p>
+<p>(Grissom follows David Phillips and Robbins through the hallway.) </p>
+<p><strong>Grissom</strong>: It's just a rat, fellas. Why are you wearing the HazMat gear?</p>
+<p>(Phillips points to Robbins.) </p>
+<p><strong>David Phillips</strong>: He made me do it.</p>
+<p><strong>Robbins</strong>: It's a wild animal covered with potentially biohazardous material with claws. Rabies, scabies, AIDS, hepatitis. I'm thinking of this suit as a giant rubber glove.</p>
+<p>(Robbins and Grissom turn and head into the autopsy room.) </p>
+<p>[INT. CSI – FORENSIC AUTOPSY – CONTINUOUS]</p>
+<p>(Grissom puts the intestines on the table.) </p>
+<p><strong>Robbins</strong>: The vic's intestines? What are you doing?</p>
+<p><strong>Grissom</strong>: Rats are neophobic -- they fear the new. We stand a better chance of catching him by giving him what he's used to.</p>
+<p>(Grissom cuts off a piece of the intestines and uses it as bait to bait the traps.)</p>
+<p>(They hear the rat scratching, squealing and thumping in the room.) </p>
+<p><strong>Robbins</strong>: Pestilence, alive and well.</p>
+<p>(The lights power off and the back-up kicks in.) </p>
+<p><strong>Grissom</strong>: (ominously) I think he's onto us, Doc.</p>
+<p>CUT TO:<br />
+[Scene from 7X16: ‘Monster in a Box'] </p>
+<p>(A view of the Las Vegas City lights can be seen out the window. A fire flickers in the fireplace. A black cat meows and runs across the floor.) </p>
+<p><strong>Henry</strong>: (V.O.) Miniature number four was another home, a unit in a high-rise condo, complete with a working fireplace ... and a dead cat.</p>
+<p>(We pan around the condo – </p>
+<p>-- around the darkened room. There are miniature flowers in the miniature vases. Paper scrunching is heard and a light shines down on the room as the box is finally opened.) </p>
+<p><strong>Henry</strong>: (V.O.) But the MO on this one was full of anomalies.</p>
+<p>(The camera swings around and lingers on a LAS VEGAS GLOBE newspaper on the desk with the headline, &quot;Another Body Found!&quot;)</p>
+<p><strong>Henry</strong>: (V.O.) It was sent to the Crime Lab shortly after Ernie Dell's suicide, but before the murder had actually been committed.</p>
+<p>(The paper crunching continues. Camera swings around the miniature desk and pulls back from the miniature chair. Light shines from above as Grissom lifts the lid to the room.) </p>
+<p>(He can't believe his eyes and stares at the latest diorama.) </p>
+<p><strong>Henry</strong>: (V.O.) And the really weird part was the package was addressed directly to Grissom.</p>
+<p>BACK TO SCENE.</p>
+<p>(Wendy, Hodges and Henry are in the room reviewing the case files.) </p>
+<p><strong>Wendy</strong>: But why, to taunt him? Like suddenly it's personal?</p>
+<p>(Henry shakes his head. Hodges steps forward with the open file.) </p>
+<p><strong>Hodges</strong>: The intended victim was Barbara Tallman, a therapist. But we got there first. PD set up a sting which resulted in the death of an undercover officer, while a roomful of detectives watched.</p>
+<p><strong>Henry</strong>: Oy.</p>
+<p><strong>Hodges</strong>: Again, the killer knew the habits of the victim. This one always took an afternoon nap.</p>
+<p>(Quick flash to: Grissom looks through the miniature through the SCOPE.) </p>
+<p><strong>Hodges</strong>: (V.O.) Based on her position on the couch, the CSIs thought that the intended cause of death might be suffocation or poisoning.</p>
+<p>(Cut to: Nick checks under the fireplace vent.) </p>
+<p><strong>Hodges</strong>: (V.O.) But they found something else instead.</p>
+<p>(Cut to: Grissom is looking at a miniature timer set up under the miniature fireplace vent.) </p>
+<p>(Cut to: Nick finds the timer set up under the fireplace flue.) </p>
+<p><strong>Henry</strong>: (V.O.) Yeah, here, it looks like the killer put some kind of gizmo on the flue. See, the timer went off, activated a motor, which sealed the flap and dropped powdered charcoal onto the fire, producing carbon monoxide. So the fumes had nowhere to go but out into the apartment and into the undercover officer.</p>
+<p>BACK TO SCENE.</p>
+<p>(Wendy shakes her head. Someone knocks on the glass. Henry, Wendy and Hodges turn and see Archie putting on his hat.) </p>
+<p><strong>Archie</strong>: Later, Betties.</p>
+<p><strong>Hodges</strong>: Quitter.</p>
+<p><strong>Archie</strong>: Glory whore.</p>
+<p>(Archie leaves. Wendy smiles and looks at Hodges.) </p>
+<p><strong>Wendy</strong>: Who were the suspects?</p>
+<p><strong>Hodges</strong>: Somebody directly connected with Ernie ... somebody worth killing himself for. They interviewed his son Lionel. Looks like Lionel Dell knew Barbara Tallman.</p>
+<p>(Hodges reviews the transcript of the interview.) </p>
+<p><strong>Mitch Douglas</strong>: (V.O.) Okay, so maybe I met her, so what?</p>
+<p><strong>Sofia</strong>: (V.O.) So, she's dead.</p>
+<p>(Quick flashback to: [Scene from 7X16: Monster in a Box] Sofia interviews Mitch Douglas, aka Lionel Dell.) </p>
+<p><strong>Sofia</strong>: That's four stiffs associated with you, Lionel. Five, if you count Ernie.</p>
+<p><strong>Mitch Douglas</strong>: I don't.</p>
+<p><strong>Sara</strong>: You know, you keep saying that you hated your dad, but I'm not buying it. You go through your life alone, you're good with your hands, you have weird hobbies, you make little things. And when that gets tricky ... you call your father.</p>
+<p><strong>Mitch Douglas</strong>: Let me tell you about Ernie. What he cared about in his life was ... his wife, his trains, and his kids, in that order.</p>
+<p><strong>Sara</strong>: Kids? You're an only child.</p>
+<p>(He chuckles.) </p>
+<p><strong>Mitch Douglas</strong>: Again, if only. If you're looking for a love connection, then you should maybe go talk to one of the chosen ones.</p>
+<p><strong>Sofia</strong>: What are you talking about?</p>
+<p><strong>Mitch Douglas</strong>: Fosters.</p>
+<p>(Cut to: Home video footage of Ernie with kids.) </p>
+<p><strong>Mitch Douglas</strong>: (V.O.) My parents had, like, dozens. They'd come and go, some before I was born. My mom loved kids. Dad loved Mom. I guess, as soon as I came around, the love ran out.</p>
+<p>BACK TO SCENE.</p>
+<p>(Wendy looks at the photo of Lionel Dell.) </p>
+<p><strong>Wendy</strong>: I had a friend who tried to reconnect with some of her old foster siblings. And honestly, it's next to impossible. The system protects minors, they change their names, and some of them just fall right off the map.</p>
+<p><strong>Hodges</strong>: Well, the only link we have is a disposable cell phone number.</p>
+<p><strong>Henry</strong>: Calls made to all four victims?</p>
+<p><strong>Hodges</strong>: Mm-hmm. And additional minutes purchased on the phone with Ernie Dell's credit card after his death.</p>
+<p>(Hodges shows the bill and the number flashes: 702-555-0192.) </p>
+<p><strong>Wendy</strong>: Yeah, online billing. You can just keep spending and paying until the card expires. So what happened when they called the number?</p>
+<p>(Hodges doesn't answer.) </p>
+<p><strong>Wendy</strong>: They did call the number, right?</p>
+<p><strong>Hodges</strong>: I'm sure they did.</p>
+<p>(He flips through the file folder.) </p>
+<p>(Wendy grabs Hodges phone and dials.) </p>
+<p><strong>Hodges</strong>: What are you doing?</p>
+<p><strong>Wendy</strong>: Shh.</p>
+<p>(The line rings.) </p>
+<p><strong>Computerized Voice</strong>: Leave a message after the tone.</p>
+<p>(beep)</p>
+<p>(Hodges grabs the phone and closes it.)</p>
+<p><strong>Hodges</strong>: Nice one, Simms. Now they have my cell phone number.</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]</p>
+<p>[INT. CSI – BREAK ROOM -- NIGHT] </p>
+<p>(Henry, Wendy and Hodges are in the break room. The crime scene photos are a mess on the table.) </p>
+<p><strong>Henry</strong>: Well, the victims don't have much in common, so I say we go metaphoric. Hypocrisy.</p>
+<p><strong>Wendy</strong>: Yeah, I get it. There's Izzy the vegan eating bacon; Penny, the cigarette-smoking cancer patient; Raymundo, the church-going adulterer; and Barbara, the overmedicated shrink.</p>
+<p>(Hodges gets his brown lunch bag and sits down.) </p>
+<p><strong>Hodges</strong>: This is the United States of America. Hypocrisy is the new national anthem. Forget it. Stretching. Grissom said they checked for commonalities between victims and got nowhere. I was reading an article in the JFS about literary forensics. They use a computer program to analyze documents to determine authorship.</p>
+<p>(Henry watches as Hodges puts three packages of chips on the table.) </p>
+<p><strong>Hodges</strong>: For instance, when the book Primary Colors was first published anonymously, people knew it was one of Clinton's speech writers, so they compared word usage and phrasing with the writers on his staff and discovered who'd probably written it. I say we look at the work to find the author. Try to figure out who it is by what message they're trying to send.</p>
+<p>(They stare at him.) </p>
+<p><strong>Hodges</strong>: What?</p>
+<p><strong>Wendy</strong>: That was a very good idea.</p>
+<p><strong>Hodges</strong>: Well, I have one occasionally.</p>
+<p>(They smile at each other. Henry glances between them.) </p>
+<p><strong>Henry</strong>: Okay. Look, clearly the killer is into signatures, right? I mean, the miniatures themselves are signatures, and then within each miniature, they all have this doll thing.</p>
+<p><strong>Hodges</strong>: That creepy little Sally.</p>
+<p><strong>Wendy</strong>: Well, we're working under the assumption that the killer was a foster kid, right? With probably an abusive childhood. So a bloody baby doll? I mean, it's really not that much of a stretch to say that the doll represents the killer.</p>
+<p><strong>Hodges</strong>: Grissom had something on that. (reads) &quot;Freud's Theory of the Uncanny raises the point that as children, we want the doll to come to life, but as adults, we are terrified by the idea. Doll could represent the uncanny that is feared, the Sandman.&quot;</p>
+<p><strong>Wendy</strong>: Right. Or exactly what I just said.</p>
+<p><strong>Henry</strong>: So, we're looking for an obsessive, meticulous, dark-ass misanthrope who seeks recognition for his efforts.</p>
+<p>(Hodges meticulously places one carrot stick on each bag of potato chips. He straightens the packages.) </p>
+<p>(Wendy and Henry turn and look at Hodges.) </p>
+<p>(Hodges doesn't even look at them.) </p>
+<p><strong>Hodges</strong>: When would I find the time? I'm always here.</p>
+<p>(Henry chuckles.)</p>
+<p><strong>Henry</strong>: Can I have a chip?</p>
+<p><strong>Hodges</strong>: No.</p>
+<p><strong>Wendy</strong>: (smiling) Here.</p>
+<p>(Wendy gives Henry her bag of chips.) </p>
+<p><strong>Henry</strong>: Thank you.</p>
+<p><strong>Wendy</strong>: You're welcome.</p>
+<p>(Hodges bites into a carrot stick. Henry looks at Hodges.) </p>
+<p><strong>Henry</strong>: All the miniatures have food.</p>
+<p>(Quick flashback to: Izzy is sitting at the table when the killer hits Izzy on the back of his head. He falls face forward onto the table – right in front of his breakfast plate.) </p>
+<p><strong>Henry</strong>: (V.O.) Eggs ...</p>
+<p>(Cut to: Penny Garden's Cherry Herring Liqueur bottle as she pours herself a glass.) </p>
+<p><strong>Henry</strong>: (V.O.) Booze ...</p>
+<p>(Cut to: Barbara Tallman pours herself a cup of tea before she takes a nap.) </p>
+<p><strong>Henry</strong>: (V.O.) Tea and cookies ...</p>
+<p>(The cat jumps on the table and drinks from the milk container.) </p>
+<p><strong>Henry</strong>: (V.O.) ... milk ... </p>
+<p>(Cut to: Bubbles Mannleigh and Raymundo Suarez are kissing passionately in the chicken factory.) </p>
+<p><strong>Henry</strong>: (V.O.) And a chicken?</p>
+<p>(End of flashbacks.) </p>
+<p><strong>Wendy</strong>: But is it considered food if it's still alive and clucking?</p>
+<p><strong>Henry</strong>: You've never lived in Pennsylvania.</p>
+<p><strong>Hodges</strong>: I think if the killer is trying to make some sort of anti-food statement, there are much better places in Vegas to do it.</p>
+<p><strong>Henry</strong>: Like blowing up a buffet.</p>
+<p><strong>Wendy</strong>: Yeah. Gluttons eating crab legs. That's exactly where I'd start.</p>
+<p>(Henry chuckles.) </p>
+<p>(Hodges cell phone buzzes. Everyone stops laughing and stares at the phone.) </p>
+<p><strong>Henry</strong>: Did you guys see ‘Scream'?</p>
+<p>(The phone continues to buzz. Hodges answers it.) </p>
+<p><strong>Hodges</strong>: (in a low voice, to phone) Hello? </p>
+<p>(Everyone stops and waits with anticipation.) </p>
+<p><strong>Hodges</strong>: (to phone) Oh, hi, Catherine. Have I seen Wendy?</p>
+<p>(Wendy gets up and reaches for the phone as Hodges continues talking.) </p>
+<p><strong>Hodges</strong>: (to phone) Uh, no. She hasn't been at her desk all day long. </p>
+<p><strong>Wendy</strong>: Give me ...</p>
+<p>(She grabs the phone from him.) </p>
+<p><strong>Hodges</strong>: (to phone) Here, let me look for her. Oh, oh, wait, here she is.</p>
+<p><strong>Wendy</strong>: (whispers) Loser. (louder, to phone) Hey, Catherine, what's up?</p>
+<p>(Wendy rushes out of the break room and through the hallway.) </p>
+<p>INTERCUT WITH: </p>
+<p>[INT. POLICE DEPARTMENT – HALLWAY] </p>
+<p>(Catherine is on the phone in the hallway.) </p>
+<p><strong>Catherine</strong>: Hey, you said you were gonna rush DNA off that Taser that I checked in.</p>
+<p>[INT. CSI – DNA LAB – CONTINUOUS]</p>
+<p>(Wendy enters her lab to get the results on the computer.) </p>
+<p><strong>Wendy</strong>: Yeah, I did. And the blood on the Taser tips did match your heart attack victim, but I also found a second male contributor, who's probably your suspect.</p>
+<p>(Catherine walks over to the interview room. Through the window we see Brass inside interviewing a clown.) </p>
+<p><strong>Catherine</strong>: Run the unknown against the semen that I found on the clown wig from my Peeping Tom case last month.</p>
+<p>(The clown in the interview room gets up and runs to the door.)</p>
+<p><strong>Wendy</strong>: Um, okay. Why?</p>
+<p><strong>Catherine</strong>: Let's just say I got a real good hunch about this one.</p>
+<p>(Catherine hangs up just as the clown reaches the door and finds it locked.)</p>
+<p>BAMM! HONK!</p>
+<p>(Brass catches up with the suspect at the door and smashes his face against the glass, causing the yellow-haired, dress-wearing clown's red nose to honk – right in front of Catherine.) </p>
+<p><strong>Brass</strong>: Who's the big clown now, huh?</p>
+<p>CUT TO:<br />
+[INT. CSI – GRISSOM'S OFFICE – NIGHT]</p>
+<p>(Henry studies the Izzy Delancy miniature.) </p>
+<p><strong>Henry</strong>: What about music? Izzy has gold records, Penny had a record player, Barbara had high-end stereo equipment.</p>
+<p><strong>Hodges</strong>: Yeah, but what about the chicken plant?</p>
+<p><strong>Henry</strong>: The squeals of dying chickens?</p>
+<p><strong>Hodges</strong>: No go, amigo.</p>
+<p><strong>Henry</strong>: What about flowers? The flower delivery guy might have access to the space.</p>
+<p><strong>Hodges</strong>: Well, I see flowers in Penny's and Barbara's, but not Izzy's.</p>
+<p><strong>Henry</strong>: Flour canister?</p>
+<p><strong>Hodges</strong>: Stop that. Besides, I don't think the slaughterhouse would be into the lobby bouquet.</p>
+<p><strong>Henry</strong>: What about mail?</p>
+<p><strong>Hodges</strong>: A crazed postal worker. Wouldn't be the first time.</p>
+<p><strong>Henry</strong>: There's mail on the counter, mail on the floors, mail on the desk ... no mail in the henhouse.</p>
+<p><strong>Hodges</strong>: Maybe they have puns in common.</p>
+<p><strong>Henry</strong>: Look, if this is really about the killer trying to reveal something, is there anything that's gotten more in-your-face with each successive miniature?</p>
+<p><strong>Hodges</strong>: Well, the way he kills has certainly gotten more complicated. Blunt force trauma to poison to electrocution to a timed booby trap of carbon monoxide in the fireplace.</p>
+<p><strong>Henry</strong>: What about newspaper? Starts out on the counter, then all over the floor, then with the doll, as the headline. That's bolder and bolder.</p>
+<p><strong>Hodges</strong>: No, you see, again, there's no newspaper in the chicken plant, not even shredded in the cages.</p>
+<p><strong>Henry</strong>: Okay, buzz kill. You come up with a theory.</p>
+<p><strong>Hodges</strong>: Hey, it's not me, it's the chicken plant. That's the streak-breaker.</p>
+<p><strong>Henry</strong>: Well, then, maybe we should start with that one and work our way out.</p>
+<p>CUT TO:<br />
+[INT. CSI – FORENSIC AUTOPSY – HALLWAY]</p>
+<p>(Grissom and Robbins are still searching for the rat. Grissom walks up to the electrical box.) </p>
+<p><strong>Grissom</strong>: Can you smell that?</p>
+<p><strong>Robbins</strong>: Yes.</p>
+<p><strong>Grissom</strong>: You shouldn't be able to smell that through your suit.</p>
+<p><strong>Robbins</strong>: Good to know.</p>
+<p>(Grissom opens the box and smoke comes out from the burned wiring. Grissom closes the door for a moment as he removes the screws holding the door in place.) </p>
+<p><strong>Grissom</strong>: Did you know that rodents have skeletons with flexible joints?</p>
+<p><strong>Robbins</strong>: No.</p>
+<p><strong>Grissom</strong>: If they can get their head through something, the rest of their body can contort to fit. They can crawl into spaces as small as a quarter.</p>
+<p>(Grissom removes the door.) </p>
+<p><strong>Robbins</strong>: (mutters) Lousy varmints.</p>
+<p>(They find the rat dead and burned in the box.) </p>
+<p><strong>Robbins</strong>: b*st*rd hit the main line.</p>
+<p><strong>Grissom</strong>: That's not the only thing he's got in his mouth.</p>
+<p>(There's something stuck in the dead rat's mouth.) </p>
+<p>CUT TO:<br />
+[INT. CSI – FORENSIC AUTOPSY – NIGHT]</p>
+<p>(Grissom watches as Robbins performs an autopsy on the dead rat. Robbins cuts open the rat's stomach and takes out a piece of a capsule.) </p>
+<p><strong>Grissom</strong>: What is it?</p>
+<p><strong>Robbins</strong>: My guess would be black tar heroin.</p>
+<p><strong>Grissom</strong>: Looks like the rat ate the mule.</p>
+<p>CUT TO:<br />
+[INT. CSI – LAYOUT ROOM – NIGHT]</p>
+<p>(Hodges uses the scope and looks at the Mannleigh chicken factory miniature crime scene. Henry's getting nervous.) </p>
+<p><strong>Henry</strong>: Okay, look, we gave it a try. There's nothing in this thing but machinery. Let's just put it back.</p>
+<p><strong>Hodges</strong>: Relax.</p>
+<p>(He continues using the scope and comes across a miniature white barrel with blood on it.) </p>
+<p><strong>Hodges</strong>: What's this?</p>
+<p>(He knocks the miniature barrel off its spot on the floor. Oops! Henry's jaw drops.) </p>
+<p>(Wendy rushes into the room.) </p>
+<p><strong>Wendy</strong>: You freaking broke it! That's destroying evidence.</p>
+<p><strong>Hodges</strong>: I can fix it.</p>
+<p>(Greg appears in the doorway behind them.) </p>
+<p><strong>Greg</strong>: Have any of you guys seen Grissom?</p>
+<p>(Hodges, Henry and Wendy immediately turn around and block Greg's view of the miniature crime scene on the table.) </p>
+<p>(Greg is in blue overalls with spaghetti on the front.) </p>
+<p><strong>Hodges</strong>: Some garlic bread? Nice Chianti, maybe?</p>
+<p><strong>Greg</strong>: Kiss my ass. I'd like to see you crawl around in a dumpster determining the difference between blood and marinara sauce with six mobster goons giving you the stink eye.</p>
+<p><strong>Henry</strong>: Wouldn't know anything about that. We're holed up in a lab all day.</p>
+<p><strong>Greg</strong>: What are you guys doing? (Greg doesn't wait for an answer.) You know, forget it. I don't even care. I need to go take a shower. Would one of you please call Janitorial and have them clean my Denali?</p>
+<p><strong>Wendy</strong>: Sure.</p>
+<p>(Greg hands Henry a sample container.) </p>
+<p><strong>Greg</strong>: Oh, and, uh, we think the killer might have threw up in the alley. Full panel. Enjoy.</p>
+<p>(Greg leaves. Henry steps away from his position in front of the miniature crime scene. He holds up the container to Hodges.) </p>
+<p><strong>Henry</strong>: Got to go. Good luck.</p>
+<p>(He leaves.) </p>
+<p>(Wendy and Hodges examine the miniature white barrel with a magnifying glass.) </p>
+<p><strong>Wendy</strong>: &quot;NaOCl.&quot;</p>
+<p><strong>Hodges</strong>: Bleach.</p>
+<p><strong>Wendy</strong>: There was bleach at the Izzy Delancy scene.</p>
+<p>(Quick flash of: Grissom opens the garbage drawer and finds an empty container of bleach.) </p>
+<p><strong>Hodges</strong>: (V.O.) And in the vase water at Barbara Tillman's condo.</p>
+<p>(Cut to: Grissom shines the lamp on the miniature flowers and they die.) </p>
+<p><strong>Wendy</strong>: (V.O.) Why?</p>
+<p><strong>Hodges</strong>: (V.O.) Put a few drop in the water, helps kill bacteria keeps the flowers blooming a long time. Put too much bleach, flowers die.</p>
+<p>(End of flash.) </p>
+<p><strong>Wendy</strong>: What about Penny?</p>
+<p><strong>Hodges</strong>: Okay. You stay here. I'm going to switch this out for the Penny Garden.</p>
+<p>(Wendy doesn't like it.) </p>
+<p><strong>Wendy</strong>: No, you know what? No.</p>
+<p>(Hodges picks up the miniature.) </p>
+<p><strong>Wendy</strong>: Look, this entire thing has turned into a three-ring circus, 'cause every time we get something, something else just comes along and proves us wrong. And, honestly, I think you've lost your damn mind. I mean, what makes you think if the CSIs can't solve this, that we can? Seriously. I'm a little tired of your delusions of grandeur. And I'm way behind in work, and I'm sick of sneaking around. So that's it. I'm out.</p>
+<p>(Wendy takes a step to leave the room, but Hodges is in her way. They both take a step to the side, then another step to the side. Finally, Wendy holds Hodges in place while she walks around him. She finally leaves the room.) </p>
+<p>(Hodges exhales.) </p>
+<p>(And he's left holding the miniature.) </p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. CSI – BREAK ROOM / DNA LAB-- NIGHT] </p>
+<p>(Hodges is sitting alone at the break room table.) </p>
+<p>(In the DNA lab, Wendy watches him.) </p>
+<p>(Sara walks up to Wendy.) </p>
+<p><strong>Sara</strong>: Hey.</p>
+<p><strong>Wendy</strong>: Hey.</p>
+<p><strong>Sara</strong>: Here you go. I checked under the keys. Crusty white stains, pale blue under ALS.</p>
+<p><strong>Wendy</strong>: Semen, huh? What made you check under the keys?</p>
+<p><strong>Sara</strong>: A butt print on the credenza.</p>
+<p><strong>Wendy</strong>: Yeah, okay, that's gross.</p>
+<p><strong>Sara</strong>: CDC contacted us, because the whole office has a herpes simplex 1 outbreak, and nobody could figure out why. I guess you never really know what's going on in your office.</p>
+<p>(Wendy stops Sara from leaving.) </p>
+<p><strong>Wendy</strong>: Hey, Sara? Is it true that the ‘miniature' cases have been keeping Grissom up at night?</p>
+<p><strong>Sara</strong>: How would I know?</p>
+<p><strong>Wendy</strong>: I just thought that maybe you guys all talk about this it, and ... Hodges told me that Grissom confided in him and ... You know what? Never mind. Just forget I even asked.</p>
+<p><strong>Sara</strong>: Well, listen, I-I don't know what Hodges has been telling you, but ... do you really think that Grissom would confide in him? About anything?</p>
+<p><strong>Wendy</strong>: No. Of course not.</p>
+<p>CUT TO:<br />
+[INT. CSI – BREAK ROOM -- CONTINUOUS] </p>
+<p>(Hodges sits at the break room table with three bags of chips in front of him. Wendy storms into the room.) </p>
+<p><strong>Wendy</strong>: You are a liar and an ass. I mean, if you want to go running around like Sir Galahad, just yanking swords willy-nilly, that is totally your business. But you put all of us at risk here.</p>
+<p>(Hodges gathers his three bags of chips and gets up to leave the room.) </p>
+<p><strong>Hodges</strong>: I think we might be onto something with the bleach.</p>
+<p><strong>Wendy</strong>: Hey! Stop! Archie and Henry gave up a full day's work thinking that they were doing something to help Grissom. And Grissom never even asked you to do this in the first place.</p>
+<p><strong>Hodges</strong>: Technically, all I said to them was that Grissom needed our help, which is true. I only lied to you.</p>
+<p><strong>Wendy</strong>: Aren't you worried about your own caseload?</p>
+<p><strong>Hodges</strong>: I've trained them all to believe that the laser ablater and mass spec take twice as long as they actually do.</p>
+<p><strong>Wendy</strong>: Oh, my God. I cannot believe you. I can't believe that, for half a second, I actually thought that I might ...</p>
+<p><strong>Hodges</strong>: You what?</p>
+<p><strong>Wendy</strong>: Nothing. What on God's green earth possessed you to do this?</p>
+<p>(He looks down at his chips.) </p>
+<p><strong>Hodges</strong>: It's my lucky day.</p>
+<p><strong>Wendy</strong>: What?</p>
+<p>(He looks at Wendy.) </p>
+<p><strong>Hodges</strong>: It's my lucky day.</p>
+<p>(Quick flash to: [EXT. SIDEWALK – DAY] Hodges is walking outside when he looks down and finds a dollar bill on the sidewalk. He looks around, then picks the bill up. He puts it in his pocket and continues walking.)</p>
+<p>(He looks up and sees a beautiful blonde walking out of the building. He smiles at her – she smiles back at him. Hodges continues to the building.) </p>
+<p>(Cut to: Hodges puts the bill in the vending machine and gets a bag of LUCKY chips. He reaches down to get the chips and a SECOND bag of chips falls – then a THIRD bag of chips also falls.) </p>
+<p>(Hodges picks up the three bags of LUCKY chips out of the vending machine.)</p>
+<p>(Cut to: [INT. LAB] Hodges walks into the lab. He checks his mail and finds something flashing at him. He checks the BARTER BARRELL.COM site and finds that<br />
+&quot;THE ITEM YOU BID ON IS YOURS!&quot;. It's for a &quot;Three's Company Board Game,&quot; Item<br />
+#18364-329.) </p>
+<p><strong>Hodges</strong>: (happy) Yes!</p>
+<p>(The test he's running finishes. He goes to the printer and checks the results:<br />
+MATCH FOUND<br />
+1 IN 600 BILLION. )</p>
+<p>(Hodges smiles.) </p>
+<p><strong>Sara</strong>: (o.s.) Well, enjoy.</p>
+<p>(Sara and Grissom walk past his lab door.) </p>
+<p><strong>Sara</strong>: That guy was putrid. Oh, by the way, you left the miniatures unlocked.</p>
+<p><strong>Grissom</strong>: Yeah, I've been looking at those a lot lately.</p>
+<p>(That gets Hodges' attention. They walk past. Hodges looks up and over at Wendy's lab. Wendy finishes and walks away.) </p>
+<p><strong>Hodges</strong>: (o.s.) When you walked away-- </p>
+<p>(End of flashbacks.) </p>
+<p><strong>Hodges</strong>: -- it was like the stars aligned. It was my lucky day.</p>
+<p><strong>Wendy</strong>: Lucky? You're a scientist. </p>
+<p><strong>Hodges</strong>: I was trying to help Grissom.</p>
+<p><strong>Wendy</strong>: Oh, come on. If Gil Grissom were here, he'd slap your face.</p>
+<p>(Wendy walks away.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – DAY]</p>
+<p>[INT. POLICE DEPARTMENT – RECEPTION / HALLWAY – DAY]</p>
+<p>(Grissom shows Sofia the photo of the body he's working on.) </p>
+<p><strong>Sofia</strong>: Yeah, I recognize him. His street name's Ralo Perez. He's a drug runner for the Jamaican mob. According to sources, he was skimming, swallowing a couple balloons for personal use. He dropped out of sight a couple of weeks ago.</p>
+<p><strong>Grissom</strong>: He dropped into Lake Mead.</p>
+<p><strong>Sofia</strong>: Well, that's one off my desk.</p>
+<p><strong>Grissom</strong>: Well, I'll get the drugs to Tox, and we'll wrap this up.</p>
+<p>CUT TO:<br />
+[INT. PENNY GARDEN MINIATURE]</p>
+<p>(Hodges visualizes himself standing in the Penny Garden's miniature. He walks over to the table and picks up an open carton of Chinese food. He smells it, then puts it back on the table as he looks around.) </p>
+<p>(He picks up an empty flower pot and looks at it. He puts it back down and looks around at the coupon clippings on the floor, the items on the counter, the chair where Penny was supposed to die.) </p>
+<p>(He goes back to looking at the coupon clippings on the floor. He kneels down and finds a single coupon wadded into a ball. He picks it up and opens it.)</p>
+<p>(Hodges smiles.) </p>
+<p>(The room around him darkens as something blocks the light.) </p>
+<p>REVERSE MINIATURE HODGES' POV: Giant Grissom looms over him.</p>
+<p><strong>Grissom</strong>: This better be good, Dave.</p>
+<p>[INT. CSI – GRISSOM'S OFFICE -- DAY] </p>
+<p>(Hodges is in Grissom's office looking through the Penny Garden miniature using an eyepiece attached to goggles. Hodges looks at Grissom.) </p>
+<p><strong>Hodges</strong>: Bleach.</p>
+<p><strong>Grissom</strong>: What?</p>
+<p>(Hodges removes the goggles.) </p>
+<p><strong>Hodges</strong>: I found a common element in all four miniatures ... bleach. There's a bottle of it in the trash at Izzy's; there's a barrel of it at the chicken plant, there's, uh, bleach in the flower water at Barbara's condo, and now ... </p>
+<p>(Hodges gives Grissom the crumpled miniature bleach coupon and magnifying glass.) </p>
+<p><strong>Hodges</strong>: -- a bleach coupon in Penny's. </p>
+<p>(Grissom looks at the coupon.) </p>
+<p><strong>Hodges</strong>: This-this may sound crazy, but if the killer is a housekeeper or a janitor, they would certainly know the ins and outs of each location, uh, what goes in what drawer, what book on what bookshelf. Hours of operation, habits, schedules. I've thought a lot about the killer's pathology, and there doesn't seem to be any regular interval between murders, which makes me think that they're triggered by something. Maybe ... maybe the killer is triggered by bleach.</p>
+<p>(Grissom thinks about it.) </p>
+<p><strong>Grissom</strong>: The bellows.</p>
+<p><strong>Hodges</strong>: I'm sorry?</p>
+<p><strong>Grissom</strong>: James Tilly Matthews. Early 19th century London. Matthews was in Bedlam Hospital awaiting trial. Doctors were trying to determine his sanity. Several interviewed him. Half thought he was sane, half insane. Turns out he was perfectly normal ... except when someone mentioned politics. At that point, he'd go into a rage about the little men who lived underground and used a bellows to push thoughts into his mind, as well as the minds of Parliament and the Queen. A specific object or word that triggers the urge to kill. That's a form of delusional psychosis. Rare, but does exist.</p>
+<p><strong>Hodges</strong>: If the killer is one of Ernie Dell's foster kids, maybe bleach played a role in some sort of childhood abuse. He's getting back at the world for what they did to him.</p>
+<p><strong>Grissom</strong>: Well, if having bleach in your home is the common element among victims ... then anyone can be next. </p>
+<p><strong>Hodges</strong>: Did the victims use a common cleaning service?</p>
+<p><strong>Grissom</strong>: Not that we know of. However, it's not unusual for people with these pathologies to become vocal toward the institutions that they feel propagate the trigger.</p>
+<p><strong>Hodges</strong>: Maybe we could call bleach-manufacturing companies and see if they've received any hate mail.</p>
+<p><strong>Grissom</strong>: Cross-reference correspondence with Vegas postmarks. Might be able to narrow down neighborhoods. (He stops.) Good job, Hodges. </p>
+<p>(Hodges blushes.) </p>
+<p><strong>Grissom</strong>: Really.</p>
+<p>(Hodges sighs.)</p>
+<p><strong>Grissom</strong>: Now ... do you mind?</p>
+<p>(Grissom motions for Hodges to get out of his seat.) </p>
+<p><strong>Hodges</strong>: Absolutely ...</p>
+<p>(Hodges gets up and heads for the door. He stops.)</p>
+<p><strong>Hodges</strong>: I ... I'm sorry if I crossed the line. It won't happen again.</p>
+<p>(Hodges smiles. He turns and leaves the office.) </p>
+<p>[INT. CSI – HALLWAY – CONTINUOUS]</p>
+<p>(Hodges smiles and punches the air with success. After all, it is his lucky day.) </p>
+<p>(Hodges gives a little hop for joy as he continues through the hallway. He turns the corner, vanishes from sight, and we -- </p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
- 
- 
-Grissom: Fellas, another incident at Lolita's.
-Warrick: What now?
-Grissom: An erotic athlete claiming a 420-Z. The paramedics have her on a stretcher.
- 
-Nick: What the hell's an erotic athlete?
-Warrick: Well, I hope it's a tight end in a G-string.
-Nick: Nice.
- 
-Grissom: Greg?
-Greg:  Yeah.
- 
-Grissom:  419 at Tagliferri's Restaurant on 8th Avenue.
- 
-Greg:  `All right. Thanks. I'm on it.
- 
-Grissom: Cath?
-Catherine: Huh?
-Grissom: 415-B at the Ha-Ha-Ha.
- 
-Catherine: What's the weapon? A Taser? Come on!
-Grissom: An angry clown got pissed at some heckler with clogged arteries, and it caused a heart attack.
-Catherine: So, Greg-O gets a hit at a mob restaurant, and I get a clown who can't take a joke?
-Grissom: Trust me, you don't want Greg's 419.
- 
-Sara: Hey. 
-Catherine: Hey.
- 
-Grissom: Hey. CDC needs someone out at the Omdi-Tech offices on Boulder Highway. I'm sure it's not hazardous, or they wouldn't let us collect it.
- 
-Sara: Okay. You coming with?
- 
-Grissom: No, I'm spending the night in autopsy with the Lake Mead floater.
- 
-Sara: Well, enjoy. That guy was putrid. Oh, by the way...
-
- 
- 
-
-
- 
-
-(In Henry's lab, his phone tone sounds – it's monkey laughter. He checks his message. It reads:
-1. HODGES
-FWD: MEET ME IN GRISSOM'S OFFICE ASAP.
-TELL NO ONE.
-FROM: HODGES
-TO: HENRY
- 
-
-
- 
- 
-Hodges: Four crime scene miniatures, four murder victims, and one diabolical killer with an obsessive streak who still remains at large. I don't know if any of you have noticed how distracted Grissom's been lately, but it's these. Keeping him up at night.
- 
-Archie: You know the combination?
-Hodges: Of course. Grissom could use some fresh eyes on the case, and that's why I've asked you here. Obviously, this could be perceived as insulting to the CSIs who formerly worked the case, so secrecy is of the utmost importance. Double-down low.
- 
-Mandy:  Oh, James, it's Moneypenny. M needs you back at HQ.
-Archie: Shoe phone was ‘Get Smart,' though.
-Mandy: Oh, that's right.
-Henry: 99 was so hot.
-Archie: Mm.
-Hodges: Four people are dead, the killer is still out there, and you're mocking?
-Mandy: We're mocking you.
-Hodges: Ah. You in or out?
-Henry: I don't really know anything about these cases.
-Hodges: We'll review.
-Henry: I don't know. I have a lot of work to do.
-Hodges: And by work, you mean IM'ing your Icelandic pen pal who thinks that you look like Warrick Brown because that's the picture you posted.
-Henry: How ... ?
-Hodges: I just know. Archie, in?
-Archie: What the hell, but I got to leave early. I got a surfing trip in Santa Barbara this weekend.
-Hodges: Miss Mockery?
-Mandy: Well, we can't leave the lab, we can't talk to suspects. What exactly does Grissom wants us to do?
-Hodges: It's not always what you look at that matters; it's what you see.
- 
-Henry: That's Thoreau.
-Hodges: Oh, is it? Hmm.
- 
-Archie: Okay, professor. And your point would be?
-Hodges: The answers lie in these.
- 
-Hodges: We're lab techs. We think differently than field guys. They deal with people, we deal with things. Maybe we can't find the killer, but I think we can find the thing that links all four murders. This is an opportunity. We have one shift to show Grissom what we're made of. Tonight, we could be heroes.
-Mandy: All right, all right. I'm in.
- 
-Hodges: It's time to think outside the box.
-SMASH TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-
-
- 
-Hodges: The first miniature was found at the crime scene seven months ago.
- 
-Hodges: The victim is Izzy Delancy, washed-up rock star. Blunt force trauma to the back of the head.
- 
- 
-Hodges: Bonked with a rolling pin, found in the drawer at the scene.
-Henry: Stalker maybe?
-Hodges: Izzy didn't have any known stalkers, and there was no forced entry. Suspects include his first wife, his current wife, the nanny he was schtuping and his teenage son.
-Mandy: Motive thought to be s*x?
-Hodges: And-or money. Izzy's music library was for sale. Mucho dinero to be gained.
-Mandy: So?
-Hodges: So ... nothing. Every suspect was exonerated. 
- 
-Hodges: All we were left with was this ...
- 
-Grissom: A perfect, half-inch scale model of the room. And assuming that the killer is the same person who made the miniature ...
-Sara: It would have taken weeks, maybe even months to create with this kind of detail. It certainly qualifies as premeditation.
- 
-Grissom: It's real blood. The killer actually stuck around to match the blood pool at the scene.
- 
-(Archie starts to sit down in Grissom's chair when -- 
-Hodges: Ah, ah, ah, ah!
-Archie: What? 
-Hodges: What are you doing?
-Archie: Sitting.
-Hodges: No, no. You're tempting fate. You know how you should never try on someone else's engagement ring, hold the Oscar, use the excuse that your grandmother died when she didn't ...
-Mandy:  Will I never marry?
-Henry: I'll marry you. Although, you know, my grandmother's still alive. She lives down in Boca. I don't know if you know this, but I am the shuffleboard champion of the Boca Surf and Sand. Mm. Ladykiller of the senior set.
-Mandy: Rock on. I can do an open marriage.
-Hodges: Why do you guys keep doing that?
-Mandy:  Do what?
-Archie: Hodges, relax, man. I don't want to run the lab.
-Hodges: We are guests in the man's office. If there was one person who was more respectful of space and boundaries, it's Grissom.  You could at least offer him the same courtesy.
- 
- 
-Henry: Wait. Is he okay with us being in here?
-Hodges: He said he'd be in Autopsy--won't be back for hours.
- 
-Hodges: Anyway, they never solved Izzy Delancy's murder. Two months later, Penny Garden was found dead in her house.
-
-Cue Sound:  THUNDER RUMBLES
-
-
-
-
- 
-
-
-
-CU: Of the miniature Penny Garden slumped over the window frame. 
-Mandy: Suspects included her ex-junkie nephew, who was living with her, and her drug-dealing neighbor, who was buying prescription meds from her. Obvious motives -- drugs and money.
-Henry: Did either of them have any connection to Izzy Delancy?
-Archie: No. CSIs didn't even realize this was a ‘miniature' case until this was anonymously delivered to the scene the next day.
-Mandy: And why wasn't it left with the body like the other one?
-Hodges: Good question. Grissom and I really noodled over that one.
-
- 
-Grissom: Look carefully at the back of the doll and at the pillow on the chair. There appears to be remnants of glue on both.
-Hodges: So the doll was originally glued to the back of the chair.
-Grissom: I think the killer expected the victim to die in this chair.
-INSERT: VISUALIZATION
- 
-
- 
-Hodges: Well, if that's the case, then how did the killer expect to ... kill her?
-
- 
-Hodges:  The killer knew that Penny was always stinko on Cherry Herring by coupon-clipping time, so ...
-
-Henry:  He laced her booze with liquid nicotine, which induced convulsions.
- 
- 
-Archie:  And when she went all twitchy and through the window ...
-
- 
-Mandy:  The OCD killer had to match it with his mini, which is why it showed up late.
-END OF FLASHBACKS
- 
-Henry: Red dog barks at midnight.
- 
-Wendy: What are you guys doing in here?
- 
-Hodges: Nothing.
-Henry: Yeah.
- 
-Wendy: All right, freakboy, your phone has been ringing off the hook, so I finally answered it, and Warrick and Nick said they have a ton of trace, and they really need you to clear the decks.
-Hodges: No problem. After you.
-Wendy: After you.
- 
- 
-
-
-
- 
-Robbins: Hmm. Irides Brown. No apparent puncture wounds, abrasions or lacerations. COD appears to be drowning.
-Grissom: We did pull him out of Lake Mead, you know.
-Robbins: Right. Based on decomp, I'd put TOD around 48 hours ago.
- 
-Grissom: Where's his head, David?
-David Phillips: They haven't found it yet.
-Grissom:  Day shift.
- 
- 
-Grissom: Uh-oh. He's got gas. Phew.
-Robbins: Yeah, he's going to be a stinker. You want a mask?
-Grissom: No, I'm all right.
- 
-Robbins: What the hell?
- 
-Robbins:  Rat!
-
- 
-Robbins: Get ‘im! Get ‘im! 
-
-Grissom: Oh.
- 
-Robbins:  Nice work.
-Grissom: At least I tried to get him. Where were you?
-Robbins: I hate rats.
- 
-(As Grissom runs out, we -- 
-
-
-
-
- 
- 
-Mandy: Wow. Don't bother being discerning.
-Warrick: Hey, what can I say? Erotic athletes are kind of gratuitous with the hands. And lube on latex leaves excellent ridge detail. What's with the, uh, blast from the past? You got new evidence on the miniatures?
- 
-Mandy: Um, just refiling some stuff. Uh, G-on-G action. It's not really a big question as to who did it, is it?
-Warrick: One ring, six women. Ursula Major claims Ursula Minor was responsible for the pile drive. Only you, my dear, will know for sure. Have fun.
- 
-
-
- 
-Hodges: Is that condensation?
-Nick: Oh, no, it's-it's lube ... I think. Yeah, these bikinis are from the erotic athletes at Lolita's bar. This woman, Lucy Pavorotti, broke her neck flipping around up there. Well, now she's suing everybody.
-Hodges: Okay. I'm on it.
- 
-Nick: Nothing?
-Hodges: What?
-Nick: Nothing at all? I'm all ready for &quot;Luscious Lucy likey Lolita's lubey.&quot;
-Or something.
-Hodges: Every man is not an end but a beginning. Today I rise above and step up. Have a nice day.
-Nick: Good point. Hey, I've been meaning to ask you about something you might be interested in. The Forensic Academy has their conference in June.
-(Hodges' cell phone buzzes. He checks his message:
-1. HENRY
-WENDY'S HERE !!!!!!!!
-From: Henry
-To: Hodges
- 
-Nick: -- and I'm going to be speaking on fieldwork. But the thing about it is, man, I'm just no good when it comes to IR trace technology. 
- 
-Nick:  But now you ... you are.
-Hodges: Oh.
-Nick: So ... what do you think? It's in Iowa. Which is ... as fun as you want to make it, but ...
- 
-
- 
-Wendy: So according to this, a month after Penny Garden's murder, Grissom investigated an electrocution at the Mannleigh chicken plant.
-
- 
-Wendy:  The victim was Raymundo Suarez, early 30s, a nighttime janitor. 
- 
-Wendy:  It looked like a possible industrial accident, or maybe even a workplace homicide. Right up until they found the perfect half-inch scale cast metal mini.
-
-INSERT: VIEW OF THE MINIATURE
-END OF FLASHBACKS
- 
-Archie: Suspects included the boss, Ike Mannleigh.
- 
-Archie:  Raymundo was sleeping with his wife, Bubbles.
- 
-Henry: I can't even do it with my cat watching. Wait. s*x, drugs, rock and roll. Do you think it's a pattern?
-Wendy: No, 'cause according to this, s*x may not have actually been the issue. Yeah, Ike Mannleigh was exonerated, and another co-worker, Ernie Dell, he looked good for all of the murders.
-Henry: Yeah, that's right, he was caught on tape in an animal rights PSA made by Izzy Delancy.
-Archie: Yes, he was.
- 
-Archie: Look at this.
-Wendy: Ew.
-Archie: Yeah, tell me about it. I had to scan this thing for hours. I haven't been able to eat chicken since. Anyway, Ernie Dell was really into model trains. You know, the way a serial killer's really into pets.
-
- 
-
- 
- 
- 
-Archie:  So when CSIs went to his house, they found these molds for all these creepy little things ... 
-
-Archie:  ... some of which matched pieces from the Izzy Delancy miniature.
- 
-BACK TO SCENE.
- 
-Archie: Ernie was caught on some neighborhood watch surveillance video delivering the mini to Penny Garden's house.
-Henry: This guy can't stay away from a camera.
-Archie: You don't know how right you are. He confessed on live video, e-mailed it directly to Grissom.
- 
-Ernie Dell:  My name is Ernest Edward Dell. I was born in 1946 in Ames, Iowa.
- 
-Ernie Dell:  ... spend any amount of time around people, you get your heart broke.
-OFF HENRY: 
-Ernie Dell:  Treachery.
-OFF ARCHIE: 
-Ernie Dell:  Hypocrisy.
-OFF WENDY: 
-Ernie Dell:  The promise of love.
- 
-Ernie Dell:  A man could kill from sunup to sunset and still his work would never be done.
- 
- 
-Hodges: Wendy? Could I speak with you a moment?
-Wendy: Sure.
- 
-
- 
-Hodges: This is exactly why I didn't invite you to join us. You take over everything.
-Wendy: Uh ...
-Hodges: Grissom asked me to gather some techs to review the ‘miniature' cases. Like a think tank.
-Wendy: Yeah, I know, they told me. So, kudos to you.
-Hodges: I hand selected them with careful consideration to group dynamics.
-Wendy: Well, I can see that. I mean, it's you and your back-up singers. You're Davy Hodges and the Lemmings. You should take your act on the road.
-Henry:  We can hear you.
-Wendy: Look, the only reason that you don't like me is because I actually stand up to you. Which, by the way, is exactly what you need. You know I would be good at all this ‘miniature' stuff.
-Hodges: That's not the only reason.
-Wendy: Really? Okay, what is it?
-Hodges: You think you're too cool.
-Wendy: Oh, my God. What are we, 12?
-Hodges: I don't know, are we?
-Wendy: I don't know, are we?
-
-[INT. CSI – HALLWAY OUTSIDE FORENSIC AUTOPSY -- NIGHT
- 
-Grissom: It's just a rat, fellas. Why are you wearing the HazMat gear?
- 
-David Phillips: He made me do it.
-Robbins: It's a wild animal covered with potentially biohazardous material with claws. Rabies, scabies, AIDS, hepatitis. I'm thinking of this suit as a giant rubber glove.
- 
-
- 
-Robbins: The vic's intestines? What are you doing?
-Grissom: Rats are neophobic -- they fear the new. We stand a better chance of catching him by giving him what he's used to.
-
- 
-Robbins: Pestilence, alive and well.
- 
-Grissom:  I think he's onto us, Doc.
-
- 
- 
-Henry:  Miniature number four was another home, a unit in a high-rise condo, complete with a working fireplace ... and a dead cat.
-(We pan around the condo – 
--- around the darkened room. There are miniature flowers in the miniature vases. Paper scrunching is heard and a light shines down on the room as the box is finally opened.) 
-Henry:  But the MO on this one was full of anomalies.
-
-Henry:  It was sent to the Crime Lab shortly after Ernie Dell's suicide, but before the murder had actually been committed.
- 
- 
-Henry:  And the really weird part was the package was addressed directly to Grissom.
-BACK TO SCENE.
- 
-Wendy: But why, to taunt him? Like suddenly it's personal?
- 
-Hodges: The intended victim was Barbara Tallman, a therapist. But we got there first. PD set up a sting which resulted in the death of an undercover officer, while a roomful of detectives watched.
-Henry: Oy.
-Hodges: Again, the killer knew the habits of the victim. This one always took an afternoon nap.
- 
-Hodges:  Based on her position on the couch, the CSIs thought that the intended cause of death might be suffocation or poisoning.
- 
-Hodges:  But they found something else instead.
- 
- 
-Henry:  Yeah, here, it looks like the killer put some kind of gizmo on the flue. See, the timer went off, activated a motor, which sealed the flap and dropped powdered charcoal onto the fire, producing carbon monoxide. So the fumes had nowhere to go but out into the apartment and into the undercover officer.
-BACK TO SCENE.
- 
-Archie: Later, Betties.
-Hodges: Quitter.
-Archie: Glory whore.
- 
-Wendy: Who were the suspects?
-Hodges: Somebody directly connected with Ernie ... somebody worth killing himself for. They interviewed his son Lionel. Looks like Lionel Dell knew Barbara Tallman.
- 
-Mitch Douglas:  Okay, so maybe I met her, so what?
-Sofia:  So, she's dead.
- 
-Sofia: That's four stiffs associated with you, Lionel. Five, if you count Ernie.
-Mitch Douglas: I don't.
-Sara: You know, you keep saying that you hated your dad, but I'm not buying it. You go through your life alone, you're good with your hands, you have weird hobbies, you make little things. And when that gets tricky ... you call your father.
-Mitch Douglas: Let me tell you about Ernie. What he cared about in his life was ... his wife, his trains, and his kids, in that order.
-Sara: Kids? You're an only child.
- 
-Mitch Douglas: Again, if only. If you're looking for a love connection, then you should maybe go talk to one of the chosen ones.
-Sofia: What are you talking about?
-Mitch Douglas: Fosters.
- 
-Mitch Douglas:  My parents had, like, dozens. They'd come and go, some before I was born. My mom loved kids. Dad loved Mom. I guess, as soon as I came around, the love ran out.
-BACK TO SCENE.
- 
-Wendy: I had a friend who tried to reconnect with some of her old foster siblings. And honestly, it's next to impossible. The system protects minors, they change their names, and some of them just fall right off the map.
-Hodges: Well, the only link we have is a disposable cell phone number.
-Henry: Calls made to all four victims?
-Hodges: Mm-hmm. And additional minutes purchased on the phone with Ernie Dell's credit card after his death.
- 
-Wendy: Yeah, online billing. You can just keep spending and paying until the card expires. So what happened when they called the number?
- 
-Wendy: They did call the number, right?
-Hodges: I'm sure they did.
- 
- 
-Hodges: What are you doing?
-Wendy: Shh.
- 
-Computerized Voice: Leave a message after the tone.
-
-
-Hodges: Nice one, Simms. Now they have my cell phone number.
-
-
-
-;
-
-
-
-
- 
- 
-Henry: Well, the victims don't have much in common, so I say we go metaphoric. Hypocrisy.
-Wendy: Yeah, I get it. There's Izzy the vegan eating bacon; Penny, the cigarette-smoking cancer patient; Raymundo, the church-going adulterer; and Barbara, the overmedicated shrink.
- 
-Hodges: This is the United States of America. Hypocrisy is the new national anthem. Forget it. Stretching. Grissom said they checked for commonalities between victims and got nowhere. I was reading an article in the JFS about literary forensics. They use a computer program to analyze documents to determine authorship.
- 
-Hodges: For instance, when the book Primary Colors was first published anonymously, people knew it was one of Clinton's speech writers, so they compared word usage and phrasing with the writers on his staff and discovered who'd probably written it. I say we look at the work to find the author. Try to figure out who it is by what message they're trying to send.
- 
-Hodges: What?
-Wendy: That was a very good idea.
-Hodges: Well, I have one occasionally.
- 
-Henry: Okay. Look, clearly the killer is into signatures, right? I mean, the miniatures themselves are signatures, and then within each miniature, they all have this doll thing.
-Hodges: That creepy little Sally.
-Wendy: Well, we're working under the assumption that the killer was a foster kid, right? With probably an abusive childhood. So a bloody baby doll? I mean, it's really not that much of a stretch to say that the doll represents the killer.
-Hodges: Grissom had something on that.  &quot;Freud's Theory of the Uncanny raises the point that as children, we want the doll to come to life, but as adults, we are terrified by the idea. Doll could represent the uncanny that is feared, the Sandman.&quot;
-Wendy: Right. Or exactly what I just said.
-Henry: So, we're looking for an obsessive, meticulous, dark-ass misanthrope who seeks recognition for his efforts.
- 
- 
- 
-Hodges: When would I find the time? I'm always here.
-
-Henry: Can I have a chip?
-Hodges: No.
-Wendy:  Here.
- 
-Henry: Thank you.
-Wendy: You're welcome.
- 
-Henry: All the miniatures have food.
- 
-Henry:  Eggs ...
- 
-Henry:  Booze ...
- 
-Henry:  Tea and cookies ...
- 
-Henry:  ... milk ... 
- 
-Henry:  And a chicken?
- 
-Wendy: But is it considered food if it's still alive and clucking?
-Henry: You've never lived in Pennsylvania.
-Hodges: I think if the killer is trying to make some sort of anti-food statement, there are much better places in Vegas to do it.
-Henry: Like blowing up a buffet.
-Wendy: Yeah. Gluttons eating crab legs. That's exactly where I'd start.
- 
- 
-Henry: Did you guys see ‘Scream'?
- 
-Hodges:  Hello? 
- 
-Hodges:  Oh, hi, Catherine. Have I seen Wendy?
- 
-Hodges:  Uh, no. She hasn't been at her desk all day long. 
-Wendy: Give me ...
- 
-Hodges:  Here, let me look for her. Oh, oh, wait, here she is.
-Wendy:  Hey, Catherine, what's up?
- 
-
- 
- 
-Catherine: Hey, you said you were gonna rush DNA off that Taser that I checked in.
-
- 
-Wendy: Yeah, I did. And the blood on the Taser tips did match your heart attack victim, but I also found a second male contributor, who's probably your suspect.
- 
-Catherine: Run the unknown against the semen that I found on the clown wig from my Peeping Tom case last month.
-
-Wendy: Um, okay. Why?
-Catherine: Let's just say I got a real good hunch about this one.
-
-BAMM! HONK!
- 
-Brass: Who's the big clown now, huh?
-
-
- 
-Henry: What about music? Izzy has gold records, Penny had a record player, Barbara had high-end stereo equipment.
-Hodges: Yeah, but what about the chicken plant?
-Henry: The squeals of dying chickens?
-Hodges: No go, amigo.
-Henry: What about flowers? The flower delivery guy might have access to the space.
-Hodges: Well, I see flowers in Penny's and Barbara's, but not Izzy's.
-Henry: Flour canister?
-Hodges: Stop that. Besides, I don't think the slaughterhouse would be into the lobby bouquet.
-Henry: What about mail?
-Hodges: A crazed postal worker. Wouldn't be the first time.
-Henry: There's mail on the counter, mail on the floors, mail on the desk ... no mail in the henhouse.
-Hodges: Maybe they have puns in common.
-Henry: Look, if this is really about the killer trying to reveal something, is there anything that's gotten more in-your-face with each successive miniature?
-Hodges: Well, the way he kills has certainly gotten more complicated. Blunt force trauma to poison to electrocution to a timed booby trap of carbon monoxide in the fireplace.
-Henry: What about newspaper? Starts out on the counter, then all over the floor, then with the doll, as the headline. That's bolder and bolder.
-Hodges: No, you see, again, there's no newspaper in the chicken plant, not even shredded in the cages.
-Henry: Okay, buzz kill. You come up with a theory.
-Hodges: Hey, it's not me, it's the chicken plant. That's the streak-breaker.
-Henry: Well, then, maybe we should start with that one and work our way out.
-
-
- 
-Grissom: Can you smell that?
-Robbins: Yes.
-Grissom: You shouldn't be able to smell that through your suit.
-Robbins: Good to know.
- 
-Grissom: Did you know that rodents have skeletons with flexible joints?
-Robbins: No.
-Grissom: If they can get their head through something, the rest of their body can contort to fit. They can crawl into spaces as small as a quarter.
- 
-Robbins:  Lousy varmints.
- 
-Robbins: b*st*rd hit the main line.
-Grissom: That's not the only thing he's got in his mouth.
- 
-
-
- 
-Grissom: What is it?
-Robbins: My guess would be black tar heroin.
-Grissom: Looks like the rat ate the mule.
-
-
- 
-Henry: Okay, look, we gave it a try. There's nothing in this thing but machinery. Let's just put it back.
-Hodges: Relax.
- 
-Hodges: What's this?
- 
- 
-Wendy: You freaking broke it! That's destroying evidence.
-Hodges: I can fix it.
- 
-Greg: Have any of you guys seen Grissom?
- 
- 
-Hodges: Some garlic bread? Nice Chianti, maybe?
-Greg: Kiss my ass. I'd like to see you crawl around in a dumpster determining the difference between blood and marinara sauce with six mobster goons giving you the stink eye.
-Henry: Wouldn't know anything about that. We're holed up in a lab all day.
-Greg: What are you guys doing?  You know, forget it. I don't even care. I need to go take a shower. Would one of you please call Janitorial and have them clean my Denali?
-Wendy: Sure.
- 
-Greg: Oh, and, uh, we think the killer might have threw up in the alley. Full panel. Enjoy.
- 
-Henry: Got to go. Good luck.
- 
- 
-Wendy: &quot;NaOCl.&quot;
-Hodges: Bleach.
-Wendy: There was bleach at the Izzy Delancy scene.
- 
-Hodges:  And in the vase water at Barbara Tillman's condo.
- 
-Wendy:  Why?
-Hodges:  Put a few drop in the water, helps kill bacteria keeps the flowers blooming a long time. Put too much bleach, flowers die.
- 
-Wendy: What about Penny?
-Hodges: Okay. You stay here. I'm going to switch this out for the Penny Garden.
- 
-Wendy: No, you know what? No.
- 
-Wendy: Look, this entire thing has turned into a three-ring circus, 'cause every time we get something, something else just comes along and proves us wrong. And, honestly, I think you've lost your damn mind. I mean, what makes you think if the CSIs can't solve this, that we can? Seriously. I'm a little tired of your delusions of grandeur. And I'm way behind in work, and I'm sick of sneaking around. So that's it. I'm out.
- 
- 
- 
-
-
-
-
- 
- 
- 
- 
-Sara: Hey.
-Wendy: Hey.
-Sara: Here you go. I checked under the keys. Crusty white stains, pale blue under ALS.
-Wendy: Semen, huh? What made you check under the keys?
-Sara: A butt print on the credenza.
-Wendy: Yeah, okay, that's gross.
-Sara: CDC contacted us, because the whole office has a herpes simplex 1 outbreak, and nobody could figure out why. I guess you never really know what's going on in your office.
- 
-Wendy: Hey, Sara? Is it true that the ‘miniature' cases have been keeping Grissom up at night?
-Sara: How would I know?
-Wendy: I just thought that maybe you guys all talk about this it, and ... Hodges told me that Grissom confided in him and ... You know what? Never mind. Just forget I even asked.
-Sara: Well, listen, I-I don't know what Hodges has been telling you, but ... do you really think that Grissom would confide in him? About anything?
-Wendy: No. Of course not.
-
- 
- 
-Wendy: You are a liar and an ass. I mean, if you want to go running around like Sir Galahad, just yanking swords willy-nilly, that is totally your business. But you put all of us at risk here.
- 
-Hodges: I think we might be onto something with the bleach.
-Wendy: Hey! Stop! Archie and Henry gave up a full day's work thinking that they were doing something to help Grissom. And Grissom never even asked you to do this in the first place.
-Hodges: Technically, all I said to them was that Grissom needed our help, which is true. I only lied to you.
-Wendy: Aren't you worried about your own caseload?
-Hodges: I've trained them all to believe that the laser ablater and mass spec take twice as long as they actually do.
-Wendy: Oh, my God. I cannot believe you. I can't believe that, for half a second, I actually thought that I might ...
-Hodges: You what?
-Wendy: Nothing. What on God's green earth possessed you to do this?
- 
-Hodges: It's my lucky day.
-Wendy: What?
- 
-Hodges: It's my lucky day.
-
- 
- 
-
-(Cut to:  Hodges walks into the lab. He checks his mail and finds something flashing at him. He checks the BARTER BARRELL.COM site and finds that
-&quot;THE ITEM YOU BID ON IS YOURS!&quot;. It's for a &quot;Three's Company Board Game,&quot; Item
-#18364-329.) 
-Hodges:  Yes!
-(The test he's running finishes. He goes to the printer and checks the results:
-MATCH FOUND
-1 IN 600 BILLION. )
- 
-Sara:  Well, enjoy.
- 
-Sara: That guy was putrid. Oh, by the way, you left the miniatures unlocked.
-Grissom: Yeah, I've been looking at those a lot lately.
- 
-Hodges:  When you walked away-- 
- 
-Hodges: -- it was like the stars aligned. It was my lucky day.
-Wendy: Lucky? You're a scientist. 
-Hodges: I was trying to help Grissom.
-Wendy: Oh, come on. If Gil Grissom were here, he'd slap your face.
- 
-
-
-
- 
-Sofia: Yeah, I recognize him. His street name's Ralo Perez. He's a drug runner for the Jamaican mob. According to sources, he was skimming, swallowing a couple balloons for personal use. He dropped out of sight a couple of weeks ago.
-Grissom: He dropped into Lake Mead.
-Sofia: Well, that's one off my desk.
-Grissom: Well, I'll get the drugs to Tox, and we'll wrap this up.
-
-
- 
- 
-
- 
- 
-REVERSE MINIATURE HODGES' POV: Giant Grissom looms over him.
-Grissom: This better be good, Dave.
- 
- 
-Hodges: Bleach.
-Grissom: What?
- 
-Hodges: I found a common element in all four miniatures ... bleach. There's a bottle of it in the trash at Izzy's; there's a barrel of it at the chicken plant, there's, uh, bleach in the flower water at Barbara's condo, and now ... 
- 
-Hodges: -- a bleach coupon in Penny's. 
- 
-Hodges: This-this may sound crazy, but if the killer is a housekeeper or a janitor, they would certainly know the ins and outs of each location, uh, what goes in what drawer, what book on what bookshelf. Hours of operation, habits, schedules. I've thought a lot about the killer's pathology, and there doesn't seem to be any regular interval between murders, which makes me think that they're triggered by something. Maybe ... maybe the killer is triggered by bleach.
- 
-Grissom: The bellows.
-Hodges: I'm sorry?
-Grissom: James Tilly Matthews. Early 19th century London. Matthews was in Bedlam Hospital awaiting trial. Doctors were trying to determine his sanity. Several interviewed him. Half thought he was sane, half insane. Turns out he was perfectly normal ... except when someone mentioned politics. At that point, he'd go into a rage about the little men who lived underground and used a bellows to push thoughts into his mind, as well as the minds of Parliament and the Queen. A specific object or word that triggers the urge to kill. That's a form of delusional psychosis. Rare, but does exist.
-Hodges: If the killer is one of Ernie Dell's foster kids, maybe bleach played a role in some sort of childhood abuse. He's getting back at the world for what they did to him.
-Grissom: Well, if having bleach in your home is the common element among victims ... then anyone can be next. 
-Hodges: Did the victims use a common cleaning service?
-Grissom: Not that we know of. However, it's not unusual for people with these pathologies to become vocal toward the institutions that they feel propagate the trigger.
-Hodges: Maybe we could call bleach-manufacturing companies and see if they've received any hate mail.
-Grissom: Cross-reference correspondence with Vegas postmarks. Might be able to narrow down neighborhoods.  Good job, Hodges. 
- 
-Grissom: Really.
-
-Grissom: Now ... do you mind?
- 
-Hodges: Absolutely ...
-
-Hodges: I ... I'm sorry if I crossed the line. It won't happen again.
- 
-
- 
-(Hodges gives a little hop for joy as he continues through the hallway. He turns the corner, vanishes from sight, and we -- 
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=07x20+-+Lab+Rats&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127447%23p127447" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=07x20+-+Lab+Rats&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127447%23p127447" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127447%23p127447&amp;name=07x20+-+Lab+Rats" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127447%23p127447" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=e944f7e335d0fe7f420692dcdf428152">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=e944f7e335d0fe7f420692dcdf428152">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=e944f7e335d0fe7f420692dcdf428152">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=e944f7e335d0fe7f420692dcdf428152">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

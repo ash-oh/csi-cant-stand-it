@@ -1,801 +1,1029 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN: 
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- EVENING] 
+Jewel: (V.O., singing &quot;The Star-Spangled Banner&quot;) And the rockets red glare-- " />
+<meta property="og:title" content="08x11 - Bull - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN: 
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- EVENING] 
+Jewel: (V.O., singing &quot;The Star-Spangled Banner&quot;) And the rockets red glare-- " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13368" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>08x11 - Bull - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13368" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13368">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=59808e772ab6e32648261912fb7f3c04"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=59808e772ab6e32648261912fb7f3c04">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=59808e772ab6e32648261912fb7f3c04">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=59808e772ab6e32648261912fb7f3c04">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=59808e772ab6e32648261912fb7f3c04">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13368&amp;sid=59808e772ab6e32648261912fb7f3c04&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>08x11 - Bull</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127462">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127462">08x11 - Bull</a></div>
+							<div class="pull-right text-right"><time datetime="2008-01-24T17:04:15Z">01/24/08 17:04</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN: </p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- EVENING] </p>
+<p><strong>Jewel</strong>: (V.O., singing &quot;The Star-Spangled Banner&quot;) And the rockets red glare-- </p>
+<p>[INT. CENTER -- NIGHT]</p>
+<p><strong>Jewel</strong>: (singing) The bombs bursting in air, gave proof through the night that our flag was still there. Oh, say, does that star-spangled banner yet wave? For the land of the free -- </p>
+<p>(It's the opening ceremonies for the Rodeo Championships and Jewel is center stage singing the national anthem.) </p>
+<p><strong>Jewel</strong>: (singing) -- and the home of the brave.</p>
+<p>(The audience whoops and applauds.) </p>
+<p>(The lights turn on and the area comes alive.) </p>
+<p><strong>Voice 1</strong>: All right! Go ahead, cinch it up! VOICE 2: Let's go! </p>
+<p>VARIOUS CUTS OF: </p>
+<p>(The gate opens and the bull comes out kicking and bucking. He kicks the rider off.) </p>
+<p>(The gate opens and another bull comes out kicking and bucking. He kicks the rider off. The bull goes after the rider.) </p>
+<p>(Two bull riders run out to distract the bull and to give enough time for the others to pull the fallen rider to safety.) </p>
+<p>(More cuts of the competition.)</p>
+<p>INTERCUT FLASHES OF: </p>
+<p>(Cody Latshaw is dressed for the rodeo as he makes his way through the corridor.)</p>
+<p>(Various cuts of: Various bulls kicking and bucking their riders off.)</p>
+<p>(Cody Latshaw steps out into the arena and heads over to the bull's cage.) </p>
+<p><strong>Announcer</strong>: (overhead, muffled) Welcome to PDR finals in Las Vegas! For two weekends, we have 45 riders competing in a race for the world title. The world champ? He goes home with a million bucks. If you want to talk about pressure, it's all in Las Vegas!</p>
+<p>(Cody sits on the back of a bull in the pen and secures his right hand under the BULL ROPE.) </p>
+<p><strong>Announcer</strong>: (overhead) Right now, you can get ready for the starting of Coty Latshaw, Elk City, Oklahoma, riding Wintwister. This boy is a champion among champions. </p>
+<p><strong>Voice</strong>: Ready? </p>
+<p>(Cody nods.) </p>
+<p><strong>Announcer</strong>: (overhead) There's no doubt Cody Latshaw -- he's the real deal! </p>
+<p>(They open the gate and the bull comes out kicking and bucking. The crowd goes wild. Cody holds on, then falls off the bull. Cody falls on the ground.) </p>
+<p>MUFFLED AUDIO</p>
+<p>(The bull kicks him under the chin. Something goes crack. The audience groans loudly.) </p>
+<p>AUDIO RESUMES</p>
+<p>(The two bullfighters rush out onto the arena and chase the bull away from Cody. Cody doesn't move.) </p>
+<p><strong>Man</strong>: Get up. Get out. Get out! Hyah!</p>
+<p>(Cash Dooley watches from the side.) </p>
+<p><strong>Voice</strong>: Hurry up, man. Get him up! </p>
+<p>(The audience quiets down.) </p>
+<p><strong>Announcer</strong>: Hold off for the main event. </p>
+<p>(More bullfighters go out onto the arena to keep the bull away from Cody.) </p>
+<p><strong>Voice</strong>: He's a good one.</p>
+<p>(Cody tries to get up. Cash Dooley rushes over and kneels next to him. Cody's hand shakes on his chest.) </p>
+<p><strong>Cash Dooley</strong>: Hey, Cody. You all right? You okay? Get a stretcher. (louder) Get a stretcher! </p>
+<p><strong>Cody Latshaw</strong>: I don't need a stretcher.</p>
+<p><strong>Cash Dooley</strong>: Are you sure? </p>
+<p><strong>Cody Latshaw</strong>: I'm okay. Just give me a hand.</p>
+<p>All right. Here we go.</p>
+<p>(The guys help him back up to his feet. The audience applauds and whistles.) </p>
+<p><strong>Cody Latshaw</strong>: Re-ride! </p>
+<p><strong>Announcer</strong>: Oh, wait a minute! He's up. He's calling for a re-ride. I'm not sure why, but this is exactly why we call him Lazarus. (Cody waves his hat to the crowd.) Ladies and gentlemen, you knock him down, and he rises again. What an athlete! This guy's a true hero!</p>
+<p>(They escort Cody out.) </p>
+<p>WHITE FLASH TO: </p>
+<p>[INT. CENTER (ARENA) -- NIGHT (LATER)]</p>
+<p>(A body is on the ground in the arena. All we see are a pair of legs in frame. A bull rider chases a white bull around the arena trying to clear the arena. Another rider on a horse swings a lasso to catch the bull. Just outside the gate, Brass and Grissom wait.)</p>
+<p>CUT TO:<br />
+(Brass and Grissom head toward the body.) </p>
+<p><strong>Grissom</strong>: So, who found him?</p>
+<p><strong>Brass</strong>: Security. We have a tough time finding guys to wrangle a bull. Cowboys like to party when they come to Vegas.</p>
+<p>(Ty Murray and Dustin Lightfoot walk in and head over to join the others.) </p>
+<p><strong>Ty Murray</strong>: (to Dustin) Did you see anything?</p>
+<p><strong>Dustin Lightfoot</strong>: No, we just put the bull back in the pen.</p>
+<p>(Ty introduces himself to Brass and Grissom.) </p>
+<p><strong>Ty Murray</strong>: Ty Murray, PBR president.</p>
+<p><strong>Dustin Lightfoot</strong>: And seven-time world champ.</p>
+<p><strong>Ty Murray</strong>: Okay, Dustin.</p>
+<p><strong>Brass</strong>: Jim Brass, Vegas PD.</p>
+<p><strong>Ty Murray</strong>: Nice to meet you.</p>
+<p>(They shake hands.) </p>
+<p><strong>Grissom</strong>: Gil Grissom, Crime Lab.</p>
+<p><strong>Ty Murray</strong>: Nice to meet you.</p>
+<p><strong>Brass</strong>: What can you tell me about this guy?</p>
+<p><strong>Ty Murray</strong>: Cody Latshaw, a real institution. Most guys his age hung up their rope a long time ago.</p>
+<p><strong>Grissom</strong>: What about the bull?</p>
+<p><strong>Ty Murray</strong>: Wintwister -- he threw Cody earlier tonight, but he got up and was fine. He even asked for a re-ride.</p>
+<p><strong>Brass</strong>: &quot;Re-ride&quot;?</p>
+<p><strong>Ty Murray</strong>: Well, if a bull doesn't buck good enough, they can ask to get on another one. That wasn't the case. Wintwister had a good day. Cody must not have been in his right mind to think he'd get a second shot.</p>
+<p>(Grissom indicates a rope on the ground.)</p>
+<p><strong>Grissom</strong>: Is this the rope they tie around the bull?</p>
+<p><strong>Ty Murray</strong>: That's one of them. That's the bull rope.</p>
+<p>(Grissom kneels and looks at the rope.) </p>
+<p><strong>Grissom</strong>: Is that rosin? </p>
+<p><strong>Ty Murray</strong>: Yeah, it helps the rope stick to the glove so they can get a good grip.</p>
+<p><strong>Grissom</strong>: Do all the riders wear a glove?</p>
+<p><strong>Ty Murray</strong>: Yes, sir.</p>
+<p><strong>Grissom</strong>: He's not wearing one.</p>
+<p>(They turn and look at Cody's bare hands.) </p>
+<p><strong>Grissom</strong>: Guy was living the American dream. Every kid wants to grow up to be a cowboy.</p>
+<p><strong>Brass</strong>: Not a dead cowboy.</p>
+<p>SMASH TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. CSI – FORENSIC AUTOPSY -- DAY] </p>
+<p>(Catherine snaps photos of Cody Latshaw on the table. Robbins walks in.) </p>
+<p><strong>Robbins</strong>: Catherine.</p>
+<p><strong>Catherine</strong>: Hi.</p>
+<p>(Robbins goes to the computer and attaches a flash drive for accessing.) </p>
+<p><strong>Robbins</strong>: PBR Sports Medicine just sent this over. Taken after Cody's fall in competition.</p>
+<p>(He scrolls through various x-rays.) </p>
+<p><strong>Robbins</strong>: Hmm. He was held together by every kind of hardware but roofing nails. I can relate.</p>
+<p><strong>Catherine</strong>: Yeah, it's a violent sport. Check out his hand. Riders live with constant injuries and pain. (She checks his pants pocket.) They always get on that next bull and try like hell to hang on for the next eight seconds.</p>
+<p><strong>Robbins</strong>: You sound like a fan.</p>
+<p><strong>Catherine</strong>: I used to date a bull rider. Cowboy up.</p>
+<p>(David Phillips walks in and gives Robbins a flash drive.) </p>
+<p><strong>David Phillips</strong>: Here you go.</p>
+<p><strong>Robbins</strong>: Hey.</p>
+<p><strong>David Phillips</strong>: These are the ones I took.</p>
+<p><strong>Robbins</strong>: Thank you.</p>
+<p>(Robbins attaches the second flash drive.) </p>
+<p><strong>Catherine</strong>: So there's just a few bills in his pockets. David, why don't you give me a hand here?</p>
+<p><strong>David Phillips</strong>: Oh, sure.</p>
+<p>(Catherine and David Phillips remove Cody's boots.) </p>
+<p><strong>Catherine</strong>: Some guys keep valuables in their boots.</p>
+<p>(In the right boot, they find Cody's cell phone and an open bag of chewing tobacco.) </p>
+<p><strong>David Phillips</strong>: Cody's little doggies are right fragrant.</p>
+<p><strong>Robbins</strong>: Catherine, take a look at this.</p>
+<p>(Catherine walks over.) </p>
+<p><strong>Robbins</strong>: This x-ray shows he walked away from his earlier fall with a hairline fracture of the C1 vertebra.</p>
+<p>(He points to the x-ray on the monitor.) </p>
+<p>FLASH TO:<br />
+[INT. ARENA – FLASHBACK]</p>
+<p>(SLOW MOTION. The gates open and the bull comes out of the pen bucking and kicking with Cody on its back.) </p>
+<p>(CGI SHOT – an x-ray view of Cody's spine as the bull continues to kick and buck.) </p>
+<p><strong>Robbins</strong>: (V.O.) In bull riding, the rider's spine must sustain vertical, horizontal and diagonal thrust, together if they put tremendous force onto the spinal column.</p>
+<p>(An x-ray view of Wintwister's spine.)</p>
+<p>(Wintwister grunts and Cody falls of his back. He lands on the dirt. Wintwister turns and STOMPS on Cody's neck. X-ray view of Cody's spine shows the break.) </p>
+<p>BACK TO SCENE.</p>
+<p>[X-RAY ON MONITOR]</p>
+<p><strong>Catherine</strong>: That guy was a walking time bomb. Any trauma with sufficient force would snap that vertebra and sever the spinal cord.</p>
+<p><strong>Robbins</strong>: It did.</p>
+<p>(Robbins compares the rodeo x-ray with David's x-rays.) </p>
+<p><strong>Robbins</strong>: The film David just took shows a complete fracture. That's your COD. Consistent with getting thrown a second time.</p>
+<p>CUT TO:<br />
+[INT. ARENA – NIGHT]</p>
+<p>(Grissom is walking across the grounds when Nancy Twicker calls out.) </p>
+<p><strong>Nancy Twicker</strong>: Hey!</p>
+<p>(He turns and sees her headed toward him.) </p>
+<p><strong>Nancy Twicker</strong>: You got anything to do with taking my bull off tomorrow's day sheet?</p>
+<p><strong>Grissom</strong>: Do you own the bull?</p>
+<p><strong>Nancy Twicker</strong>: Yeah, I'm Nancy Twicker. And I want my bull in the finals. The more he bucks, the more he's worth. So whatever you got to do to clear him, get it done.</p>
+<p>(She walks with him.) </p>
+<p><strong>Grissom</strong>: Your bull gave Cody Latshaw a pretty brutal beating.</p>
+<p><strong>Nancy Twicker</strong>: It's not the bull's fault. I blame Cody for taking him out after hours.</p>
+<p><strong>Grissom</strong>: Is it true that some riders tie the bull's testicles to get them to buck more?</p>
+<p>(They head over to the chute.) </p>
+<p><strong>Nancy Twicker</strong>: Well, sure, we always want the bulls to buck. That's why we tie a flank strap across their back. They're trying to shake it off. Think about it. If I tied a rope around your testicles, would you feel like jumping up and down?</p>
+<p><strong>Grissom</strong>: Could a guy get a bull out of this chute without any help?</p>
+<p><strong>Nancy Twicker</strong>: Well, one guy could get a bull all the way to the bucking chute, sure -- </p>
+<p>(Quick flashback to: Cody sits on Wintwister's back in the chute while another person tightens the bull rope.) </p>
+<p><strong>Nancy Twicker</strong>: (V.O.) -- but well, then he'd have to tie on the bull rope and the flank strap. </p>
+<p>END OF FLASHBACK.</p>
+<p><strong>Nancy Twicker</strong>: Then he'd have to get on the bull.</p>
+<p><strong>Grissom</strong>: And open the gate.</p>
+<p><strong>Nancy Twicker</strong>: Not without help.</p>
+<p>(Quick flashback to: The gate is opened and the bull comes out kicking.) </p>
+<p><strong>Nancy Twicker</strong>: (V.O.) The chute only opens from the outside.</p>
+<p>END OF FLASHBACK.</p>
+<p><strong>Grissom</strong>: I'm going to need to process your bull.</p>
+<p><strong>Nancy Twicker</strong>: Can you do it in eight seconds?</p>
+<p>CUT TO:<br />
+[INT. STALLS – CONTINUOUS]</p>
+<p>(Wintwister is in his pen. Nancy Twicker and Grissom head over.) </p>
+<p><strong>Nancy Twicker</strong>: Even confined like this, these are not the most cooperative creatures. So if my flank man says get back, you jump. Hey, Cash.</p>
+<p>(Cash Dooley is closing a pen gate.) </p>
+<p><strong>Cash Dooley</strong>: Howdy, Cash Dooley. (He shakes Grissom's hand.) And my name's about the only cash I got.</p>
+<p><strong>Grissom</strong>: And this is Wintwister? What, uh ...</p>
+<p>(Grissom takes out his flashlight and looks at Wintwister.) </p>
+<p><strong>Grissom</strong>: What would be the safest way for me to handle his hooves?</p>
+<p><strong>Cash Dooley</strong>: There ain't one. Too dangerous.</p>
+<p><strong>Nancy Twicker</strong>: He's a kicker.</p>
+<p><strong>Grissom</strong>: Do you think I could get him to step on something?</p>
+<p><strong>Cash Dooley</strong>: Sure. But you better let me do the bending.</p>
+<p>(Grissom opens his kit and takes out a print board.) </p>
+<p><strong>Grissom</strong>: Think you could get him to step on this?</p>
+<p>(Cash slips the board under Wintwister.) </p>
+<p><strong>Nancy Twicker</strong>: Cash knows bulls like nobody. Heck, before these kids could even walk, they're out riding sheep, then calves and baby bulls. And finally these one-ton, back-jerkin' snot-slingin' monsters.</p>
+<p>(Cash uses a wire and gets Wintwister to put his hoof down on the board.)</p>
+<p><strong>Nancy Twicker</strong>: Now, they get all busted up and quit ridin', but they just can't quit these animals.</p>
+<p>(He gives the board to Grissom, who looks at it.) </p>
+<p>CGI ZOOM in on the fiber.</p>
+<p>[INT. CSI – LAYOUT ROOM – NIGHT]</p>
+<p>(Hodges examines the fiber under the scope.) </p>
+<p><strong>Hodges</strong>: Cotton fiber. Appears to be bloodstained. I need another piece for comparison.</p>
+<p>(Catherine has Cody's clothes out on the table while Hodges looks up from the scope.) </p>
+<p><strong>Catherine</strong>: Forget how to use the scissors? (She slides the scissors toward him.) Put your fingers in the holes and squeeze.</p>
+<p><strong>Hodges</strong>: Yes, ma'am.</p>
+<p>(Hodges clips off a fiber sample. He puts it on the slide under scope to examine.) </p>
+<p>(Catherine turns the ALS on as she examines the clothes.) </p>
+<p><strong>Catherine</strong>: This looks like semen.</p>
+<p><strong>Hodges</strong>: Cowboy had a roll in the hay. Either he's messy or ... uh ... we could have a Brokeback Mountain situation.</p>
+<p><strong>Catherine</strong>: Oh, God, that movie made me cry.</p>
+<p><strong>Hodges</strong>: Me, too.</p>
+<p>(Catherine turns and looks at him.) </p>
+<p><strong>Hodges</strong>: You know, it takes a big man to admit that. And I am that man.</p>
+<p><strong>Catherine</strong>: You don't say.</p>
+<p><strong>Hodges</strong>: Fibers from the bull are consistent with Cody's shirt. Looks like Wintwister's a killer.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – DAY] </p>
+<p>[EXT. STREET -- DAY] </p>
+<p>(The SUV pulls up. Nick and Greg get out and head for the scene.) </p>
+<p><strong>Officer Choi</strong>: Found her body on patrol, called in the 401AB, apparent fatal. If there were any eyewitnesses, they didn't stick around.</p>
+<p>(Nick looks at the body while Greg takes his camera out.) </p>
+<p><strong>Nick</strong>: Okay, thanks.</p>
+<p>(Greg snaps photos of the woman – her tank top and calf-length boots.) </p>
+<p>(Nick looks around the road. Greg takes the girl's wallet out of her bag.) </p>
+<p><strong>Nick</strong>: Here's the point of impact.</p>
+<p><strong>Greg</strong>: Threw her that far, he must have been going at least ... 45. (Takes out her driver's license.) Tiffany Rigdon, 27, local.</p>
+<p><strong>Officer Choi</strong>: I'll run her for you.</p>
+<p>(Officer Choi holds out his hand for the driver's license.) </p>
+<p><strong>Greg</strong>: Thanks.</p>
+<p>(Greg gives it to him and he walks away. He walks past a greenish puddle of liquid on the road.) </p>
+<p><strong>Nick</strong>: Radiator fluid.</p>
+<p>(Greg continues to look through the woman's bag.) </p>
+<p><strong>Greg</strong>: Bunch of empty liquor miniatures. Card key from Pike's Gambling Hall.</p>
+<p>(The officer holds the tape up for Nick, who continues to look at the road beyond the taped-off area.) </p>
+<p><strong>Nick</strong>: Hit-and-run. Hit back there ... ran over here.</p>
+<p>(Greg also leaves the taped-off area as he follows Nick.) </p>
+<p>(Nick walks over to a large truck parked on the curb.) </p>
+<p>(Greg opens the passenger door and looks inside. Nick walks around to the driver's side and opens the door to look around.) </p>
+<p>(Greg opens the glove compartment and looks at the registration slip. The car belongs to CODY LATSHAW.) </p>
+<p><strong>Greg</strong>: RO is Cody Latshaw – Elk City, Oklahoma.</p>
+<p><strong>Nick</strong>: Isn't that Grissom's dead cowboy?</p>
+<p><strong>Greg</strong>: Yeah. Boy, he had a hell of a night.</p>
+<p>(Quick flashback to: [ARENA] Cody falls off the bull and the bull kicks him in the chin.)</p>
+<p><strong>Greg</strong>: (V.O.) He gets humiliated ...</p>
+<p>(CUT TO: Cody is driving, turns the corner and hits the woman.) </p>
+<p><strong>Greg</strong>: (V.O.) ... hits a pedestrian ...</p>
+<p>END FLASHBACK.</p>
+<p><strong>Greg</strong>: ... he ditches the car, walks a couple of blocks to the arena, joyrides a bull, and then ends up getting stomped to death?</p>
+<p>(Pick picks up a Pike's card key.) </p>
+<p><strong>Nick</strong>: Here's another card key from Pike's Gambling Hall right here.</p>
+<p>CUT TO:<br />
+[INT. PIKE'S LOBBY – DAY]</p>
+<p>(CGI IMAGE of Cody Latshaw walking across the lobby.) </p>
+<p><strong>Manager</strong>: (V.O.) First one's for room 810, registered to Cody Latshaw.</p>
+<p>(END IMAGE.)</p>
+<p>(Nick and Catherine are at the front desk as the manager checks the card keys. Nick hands him the second card key.) </p>
+<p><strong>Nick</strong>: Here you go.</p>
+<p>(The manager swipes the card and the following information appears on the monitor:<br />
+PIKES REGISTRATION NO: XZ192116<br />
+<strong>Guest</strong>: TIFFANY RIGDON<br />
+ROOM NO: 810<br />
+ROOM TYPE: SUITE<br />
+ROOM PREFERENCES: QUEEN BED, SMOKING<br />
+OCCUPANTS: 2<br />
+CHECK – IN DATE: 01/09/08<br />
+CHECK – OUT DATE: 01/12/08<br />
+PAYMENT: MC CREDIT CARD<br />
+CARD NO: **** **** **** 99017<br />
+EXPIRATION DATE: 07/2010</p>
+<p><strong>Manager</strong>: Second one's also to room 810. </p>
+<p>(CGI IMAGE of Tiffany Rigdon walking across the lobby.) </p>
+<p><strong>Manager</strong>: (V.O.) It's a complimentary guest key issued to Tiffany Rigdon.</p>
+<p>(END IMAGE.) </p>
+<p>(Nick and Catherine look at each other.) </p>
+<p><strong>Nick</strong>: Cody knew the girl he ran over.</p>
+<p>CUT TO:<br />
+[INT. PIKE'S ROOM 810 – DAY]</p>
+<p>(The door opens. Catherine and Nick walk in with an officer. They look around.) </p>
+<p><strong>Nick</strong>: Lucky for us, housekeeping's a little slow on the uptake.</p>
+<p>(Catherine looks in the bag on the floor.) </p>
+<p><strong>Catherine</strong>: Riding glove. So he wasn't planning on re-riding Wintwister when he left here.</p>
+<p><strong>Nick</strong>: Threw back a bunch of beers, some liquor. I don't see any drugs.</p>
+<p><strong>Catherine</strong>: Bed looks used. Maybe he partied with Tiffany.</p>
+<p>(Catherine finds a crumpled piece of paper.) </p>
+<p><strong>Nick</strong>: Bet it cost him. I ran her priors. She's got a couple for solicitation.</p>
+<p>(Catherine opens it and finds a poem.) </p>
+<p><strong>Catherine</strong>: (reads)<br />
+I can't help now but wonder what your brown eyes were concealing.<br />
+They just showed me reflections of all that I was feeling ...<br />
+Our bodies close together like my ride hand in my glove.<br />
+Hearts pounding with excitement and, dare I say it, love.</p>
+<p>(Catherine looks at Nick.) </p>
+<p><strong>Catherine</strong>: Nobody ever wrote me a poem.</p>
+<p>(She continues reading.) </p>
+<p><strong>Catherine</strong>: (reads)<br />
+I know I'll never own you.<br />
+It's your nature to run free, but I pray the Lord above that one day<br />
+you'll come back to me.</p>
+<p>(Nick finds a note on the table.) </p>
+<p><strong>Catherine</strong>: (sighs) That's sweet.</p>
+<p><strong>Nick</strong>: (reads) &quot;By the time you read this, I'll be married. He's a great guy. Honest, Cody, I'll always be thankful for everything you did for me. Love, Tiffany.&quot;</p>
+<p><strong>Catherine</strong>: Sounds like it was more than a money relationship.</p>
+<p><strong>Nick</strong>: Mm-hmm.</p>
+<p><strong>Catherine</strong>: Broken bones -- he gets up and rides again.</p>
+<p><strong>Nick</strong>: Broken heart and he's a killer.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. LAS VEGAS CITY (STOCK) -- DAY] </p>
+<p><strong>Grissom</strong>: (V.O., reads)<br />
+Then we'll ride off in glory until our time is done </p>
+<p>[INT. CSI – HALLWAY – DAY]</p>
+<p>(Grissom reads the poem as he walks with Nick.) </p>
+<p><strong>Grissom</strong>: (reading) &quot;And I will be your hero, your cowboy in the sun.&quot;</p>
+<p><strong>Nick</strong>: It's not Shakespeare.</p>
+<p><strong>Grissom</strong>: I'm actually a fan of cowboy poetry.</p>
+<p><strong>Nick</strong>: Are you really?</p>
+<p><strong>Grissom</strong>: Yeah, it's just a way of organizing your thoughts and feelings so that you can make sense of them.</p>
+<p><strong>Nick</strong>: Well, it sounds like Cody was trying to make sense out of his girl leaving him.</p>
+<p><strong>Grissom</strong>: Yeah, well, poetry can help you with that, too.</p>
+<p>(Grissom hands the evidence bag back to Nick and he continues walking. Nick watches him go.) </p>
+<p>CUT TO:<br />
+[INT. CSI – FORENSIC AUTOPSY -- DAY] </p>
+<p>(Robbins goes over the findings for Tiffany Rigdon's body with Catherine as they stand next to the sheet-covered body on the table.) </p>
+<p><strong>Robbins</strong>: Rib fractures, multiple lacerations, pulmonary contusions, lacerated aorta, lacerated liver. I could go on, but you get the idea.</p>
+<p><strong>Catherine</strong>: COD was multiple blunt force trauma.</p>
+<p><strong>Robbins</strong>: Right, but not all of it was from the hit-and-run.</p>
+<p>(Robbins lifts up the sheet to show Catherine Tiffany's legs.)</p>
+<p><strong>Robbins</strong>: You see the coloration of the bruises?</p>
+<p><strong>Catherine</strong>: Yellowish.</p>
+<p><strong>Robbins</strong>: They're from an event at least 12 hours before the accident.</p>
+<p><strong>Catherine</strong>: Maybe Cody had rejection issues. Could be why she was leaving him.</p>
+<p>CUT TO:<br />
+[INT. CSI – GARAGE – DAY]</p>
+<p>(Greg and Nick go over the SUV in the garage. Nick checks out the seats while Greg snaps photos of the back.) </p>
+<p><strong>Greg</strong>: Lot of tools back here.</p>
+<p><strong>Nick</strong>: Yeah. Bullriding's an equipment-intensive sport.</p>
+<p>(Greg puts the camera down and picks up one of the tool kits. He takes it to the counter and opens it. He finds something.) </p>
+<p><strong>Greg</strong>: What have we here? (Nick watches as Greg picks it up to look at it.) Some kind of cattle prod?</p>
+<p><strong>Nick</strong>: They don't use those in professional bull riding.</p>
+<p>(Wendy walks in.) </p>
+<p><strong>Wendy</strong>: Hey, Buckaroos. Have you seen Catherine? 'Cause I just got the results from that semen stain on Cody Latshaw's jeans.</p>
+<p><strong>Nick</strong>: Come up with a match?</p>
+<p><strong>Wendy</strong>: I did. I had to run an Ouchterlony test on it.</p>
+<p><strong>Greg</strong>: So not from a human donor?</p>
+<p><strong>Wendy</strong>: No ... no. Bovine. (off their looks) Yeah ... I took a psychobiology class once and we studied a very interesting case. Okay, there was a guy, he lived on a farm, and literally the only way that this guy could get sexually satisfied was when he was with livestock.</p>
+<p><strong>Nick</strong>: (interrupts) That's okay. I'm good.</p>
+<p><strong>Wendy</strong>: (not deterred) Well, see, apparently, the whole thing started one night because he was in the barn -- it started snowing. He got stuck in there. He couldn't make his way back to the farmhouse, so he decided that he would try and stay warm ... well, with a sheep. </p>
+<p>(Nick looks at her.) </p>
+<p><strong>Wendy</strong>: But then the horses were jealous, so ... </p>
+<p>(Greg hooks up the tool together.) </p>
+<p><strong>Wendy</strong>: -- and ... you know, and I think there was a cow in there as well ... </p>
+<p><strong>Greg</strong>: (interrupts) You know, I think we got the picture.</p>
+<p><strong>Nick</strong>: I wish I didn't.</p>
+<p>(Greg turns the machine on and it starts buzzing and vibrating.) </p>
+<p><strong>Greg</strong>: I think I know what this is for.</p>
+<p>(Nick gets the picture. Wendy smiles.) </p>
+<p>CUT TO:<br />
+[INT. PD – BRASS' OFFICE -- DAY] </p>
+<p>(OPEN ON: a photo of the electroejaculator equipment.) </p>
+<p><strong>Nancy Twicker</strong>: It's called an electroejaculator. It's used on bulls that have back trouble.</p>
+<p>(She looks away and isn't happy about it at all. Brass is holding the photo.) </p>
+<p><strong>Brass</strong>: It looks, uh ... pretty persuasive.</p>
+<p><strong>Nancy Twicker</strong>: Yeah.</p>
+<p><strong>Brass</strong>: So ... uh ... was Cody helping you collect from Wintwister?</p>
+<p><strong>Nancy Twicker</strong>: Hell, no. First of all, you don't collect during competition.</p>
+<p><strong>Brass</strong>: Right, right, so like an athlete before a game.</p>
+<p><strong>Nancy Twicker</strong>: Now you're talking. And when I do collect, I bring a service out to the ranch. You know, one collection from that old boy gives you about ... two hundred breeding units. At a hundred bucks a pop, you do the math.</p>
+<p><strong>Brass</strong>: Well, if the stuff is so valuable, maybe Cody was doing a little moonlighting, you know, collecting on his own, making a little extra money.</p>
+<p><strong>Nancy Twicker</strong>: Cattle rustling? No, not Cody.</p>
+<p><strong>Brass</strong>: We found bull semen on his jeans.</p>
+<p><strong>Nancy Twicker</strong>: Cody wouldn't steal from me. Besides, it's a two-person job, no matter which method you use.</p>
+<p><strong>Brass</strong>: There's more than one?</p>
+<p><strong>Nancy Twicker</strong>: In addition to your electroejaculation, you got what's called an artificial v*g1n*. Now, you get a teaser animal in there, like a steer. See, bulls go homosexual in captivity. You get that bull to mount that steer, then you get that AV in there right before the ...</p>
+<p><strong>Brass</strong>: Yeah, I get the point.</p>
+<p>(Brass shows Nancy a MUG SHOT photo of Tiffany Rigdon.) </p>
+<p><strong>Brass</strong>: Do you know this girl? We think she's Cody's girlfriend.</p>
+<p><strong>Nancy Twicker</strong>: (scoffs) Yeah. I thought he had a new girlfriend in Vegas from the way his mood was changing. She's younger, probably ... does whatever he says.</p>
+<p><strong>Brass</strong>: Mm-hmm.</p>
+<p><strong>Nancy Twicker</strong>: Listen, if you need anything else, I'll be at the arena all day.</p>
+<p><strong>Brass</strong>: I thought Wintwister didn't compete tonight.</p>
+<p><strong>Nancy Twicker</strong>: Well, Captain, I'm not a one-bull kind of gal.</p>
+<p>(She turns at the door, winks at him and puts her hat on as she slips out the office.) </p>
+<p>(Just then, an officer leads a Grissley Geezer into the office.) </p>
+<p><strong>Officer</strong>: Here you are, sir.</p>
+<p>(The officer leaves. Brass looks up from his desk.) </p>
+<p><strong>Brass</strong>: Can I help you?</p>
+<p><strong>Grissly Geezer</strong>: Saw a woman get killed last night.</p>
+<p>(Brass stands up.) </p>
+<p>CUT TO:<br />
+[INT. CSI – HALLWAY / PRINT LAB – DAY]</p>
+<p>(Catherine is on the phone with Brass as she walks through the hallway.) </p>
+<p><strong>Brass</strong>: (filtered) Hey, Cath, listen, it's Jim. We got an eyewitness confirming that Tiffany's TOD was after 2:21 AM.</p>
+<p><strong>Catherine</strong>: Well, that's over an hour after Cody's body was found. Thanks, Jim.</p>
+<p>(Catherine hangs up. She enters the print lab.) </p>
+<p><strong>Catherine</strong>: Hey.</p>
+<p>(Nick is running the fingerprints through the database.) </p>
+<p><strong>Nick</strong>: Hey. I got prints from the truck, but half of them are Cody's.</p>
+<p><strong>Catherine</strong>: Well, it is his truck.</p>
+<p>(The computer beeps: NO MATCH.) </p>
+<p><strong>Catherine</strong>: So ... get this. There's a witness that puts Tiffany's TOD after Cody's. He didn't kill her.</p>
+<p><strong>Nick</strong>: I think he had a partner. There's a set of unknowns both on the truck and on the ... uh ... electro-love machine.</p>
+<p><strong>Catherine</strong>: So ... say this partner thought Tiffany knew something about the semen rustling and he ran her over to keep her quiet.</p>
+<p><strong>Nick</strong>: So who's the partner?</p>
+<p><strong>Catherine</strong>: We've got Cody's phone. Find out who he's been talking to.</p>
+<p>(Catherine leaves.) </p>
+<p>CUT TO:<br />
+[INT. CSI – A/V LAB – DAY] </p>
+<p>MONITOR SCREEN:<br />
+Phone Records for<br />
+CODY LATSHAW</p>
+<p>(Most of the calls are for Elk City, Oklahoma – 580-555-0194, Henry Latshaw.) </p>
+<p><strong>Archie</strong>: Most of Cody's calls were to a number in Durant, Oklahoma.</p>
+<p><strong>Nick</strong>: He lived on the family ranch. He was probably letting his folks know how he was doing in the finals.</p>
+<p><strong>Archie</strong>: All other calls were to PBR staff and to Tiffany.</p>
+<p><strong>Nick</strong>: What about her records?</p>
+<p><strong>Archie</strong>: Well, they're a little more interesting. Check out ... last night.</p>
+<p>(Archie pulls up TIFFANY RIGDON'S records.) </p>
+<p><strong>Archie</strong>: A dozen calls after midnight from Eric Hong.</p>
+<p>(The information sheet and MUG SHOT photo appears on the monitor.) </p>
+<p><strong>Nick</strong>: Precious Ricky.</p>
+<p><strong>Archie</strong>: You know this guy?</p>
+<p><strong>Nick</strong>: Yeah, he's a pimp, and he quit calling her after 2:00 AM, like he knew she was already dead.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – DAY] </p>
+<p>[INT. PD – INTERVIEW ROOM -- DAY] </p>
+<p>(The officer leads Eric &quot;Precious Ricky&quot; Hong into the room. &quot;Precious Ricky&quot; laughs.) </p>
+<p><strong>Eric &quot;Precious Ricky&quot; Hong</strong>: All right, I don't want nobody hitting me. All right?</p>
+<p>(He sits down. Nick is sitting on the table in front of the mirror.) </p>
+<p><strong>Nick</strong>: Nobody's going to hit you, Rick.</p>
+<p><strong>Eric &quot;Precious Ricky&quot; Hong</strong>: Good. </p>
+<p><strong>Nick</strong>: This is about Tiffany Rigdon.</p>
+<p><strong>Eric &quot;Precious Ricky&quot; Hong</strong>: Beautiful girl, skin like butterfly wings.</p>
+<p><strong>Nick</strong>: Did you beat her up?</p>
+<p><strong>Eric &quot;Precious Ricky&quot; Hong</strong>: I'm a lover, brother.</p>
+<p><strong>Nick</strong>: Let me tell you something, man. You play around with me, I'm gonna throw your ass in jail. You feel me?</p>
+<p><strong>Eric &quot;Precious Ricky&quot; Hong</strong>: Yeah, I feel you.</p>
+<p><strong>Nick</strong>: Good. (Nick stands up.) So she said she was leaving you, going to get married, right?</p>
+<p>(Eric shrugs.) </p>
+<p><strong>Nick</strong>: Oh, come on. At least admit I'm right about that.</p>
+<p><strong>Eric &quot;Precious Ricky&quot; Hong</strong>: Yeah, okay, sure.</p>
+<p><strong>Nick</strong>: Is that when you took her boyfriend's truck and ran her over?</p>
+<p><strong>Eric &quot;Precious Ricky&quot; Hong</strong>: Wait. </p>
+<p><strong>Nick</strong>: It's a good plan, Rick – </p>
+<p><strong>Eric &quot;Precious Ricky&quot; Hong</strong>: Wait.</p>
+<p><strong>Nick</strong>: You get the boyfriend and a little revenge to boot. I mean, it's ...</p>
+<p><strong>Eric &quot;Precious Ricky&quot; Hong</strong>: Okay, I didn't like the girl quitting on me, especially during one of my busiest freaking weeks of the year, and I wanted to talk her out of it.</p>
+<p><strong>Nick</strong>: Is that all you did: talk?</p>
+<p><strong>Eric &quot;Precious Ricky&quot; Hong</strong>: No, I couldn't even talk to her. She wouldn't take my calls, so I quit trying.</p>
+<p><strong>Nick</strong>: Where were you making all these phone calls from?</p>
+<p><strong>Eric &quot;Precious Ricky&quot; Hong</strong>: From a country-western bar. I hit them all when the cowboys come to town.</p>
+<p><strong>Nick</strong>: Mm-hmm, all right, all right, I'll check it out.</p>
+<p><strong>Eric &quot;Precious Ricky&quot; Hong</strong>: Yeah, you do that, please.</p>
+<p><strong>Nick</strong>: I didn't take you for a country music fan. Yee-ha.</p>
+<p>(Nick heads out, leaving Eric in the room. He starts tapping his fingers against the tabletop.) </p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) – NIGHT]</p>
+<p>[INT. COUNTRY-WESTERN BAR – NIGHT]</p>
+<p>(The live band is on stage playing an upbeat country song. The place is packed.) </p>
+<p><strong>Lyrics</strong>:<br />
+This ol' wheel keeps on rollin' down the road<br />
+This ol' wheel keeps on rollin' down the road<br />
+Oh, gravel and dust fly up off of truck drivers<br />
+Down a dirt road in Nashville<br />
+In the summertime in 1996<br />
+I was listenin' to my dad and Johnny Cash doing &quot;Chain Gang&quot;<br />
+And talkin' trash with Savannah and smokin' cigarettes<br />
+But it wasn't that long<br />
+Till I tasted the salt of the sea<br />
+But she was still in love with the guy she left for me so<br />
+She stood there cryin' as I packed my pack<br />
+And I knew that I was lyin' when I said that I'd be back<br />
+This ol' wheel keeps on rollin' down the road </p>
+<p>(A girl turns to her friend and points to a man on the side. He notices her and touches the rim of his white hat. The blonde-haired friend heads over.) </p>
+<p>(The band continues to play.) </p>
+<p><strong>Lyric</strong>: This ol' wheel keeps on rollin' down the road<br />
+Now fast forward to about 2003<br />
+I'm standin' on the corner<br />
+Of Hollywood and Vine, just a six-string and me </p>
+<p>(A man in a white hat passes Coco at the billiard table on his way to the restroom.) </p>
+<p><strong>Lyric</strong>: And that Capitol building -- lookin' up at that thing<br />
+Wonderin' when am I gonna get my chance to sing<br />
+But faced with that kind of predicament<br />
+It'd be pretty hard not to get choked up<br />
+When every hero I had has died and every band I had broke up </p>
+<p>(A man goes into the restroom. At the urinal, he turns and notices a body on the floor in one of the stalls.) </p>
+<p>(He finishes and goes to the stall.)</p>
+<p>(Inside, Eric &quot;Precious Ricky&quot; Hong is on the floor, dead from a gunshot to the chest.) </p>
+<p>FLASH TO:<br />
+[INT. COUNTRY-WESTERN BAR – MEN'S ROOM – NIGHT]</p>
+<p>(Greg and Nick look at the body on the floor.) </p>
+<p><strong>Nick</strong>: Shotgun.</p>
+<p><strong>Greg</strong>: At a close range.</p>
+<p><strong>Nick</strong>: Would have been pretty loud, but everything is in a place like this.</p>
+<p><strong>Greg</strong>: Cowboys, cattle rustling, and now a shooting at the dance hall.</p>
+<p><strong>Nick</strong>: Welcome to the Wild West.</p>
+<p>CUT TO:<br />
+[INT. COUNTRY-WESTERN BAR – MAIN ROOM – NIGHT]</p>
+<p>(Brass talks with Coco.) </p>
+<p><strong>Brass</strong>: So, Coco, you didn't see anyone threaten Precious Ricky? </p>
+<p><strong>Coco</strong>: I was trying to put the nine ball in the corner pocket.</p>
+<p><strong>Brass</strong>: Yeah, right. You know this girl?</p>
+<p>(He shows her Tiffany Rigdon's photo.) </p>
+<p><strong>Coco</strong>: That's Tiffany. She got married last night. Lucky bitch.</p>
+<p><strong>Brass</strong>: Do you know who the groom was?</p>
+<p><strong>Coco</strong>: Troy? Troy something?</p>
+<p><strong>Brass</strong>: Know anything about him?</p>
+<p><strong>Coco</strong>: No. She just met him. Sweet kid. He ... uh ... took her side when that cowgirl trash got all up in her face.</p>
+<p>(She turns to indicate a blonde-haired girl talking with an officer.) </p>
+<p>(Quick FLASHBACK to: It's night. The band is up on stage. Tiffany is sitting with Precious Ricky in a booth. He whispers something to her. She gets up and heads over to the man at the bar.) </p>
+<p><strong>Tiffany Rigdon</strong>: Hey, cowboy.</p>
+<p><strong>Troy Birkhart</strong>: Hey.</p>
+<p><strong>Tiffany Rigdon</strong>: Like that hat.</p>
+<p><strong>Troy Birkhart</strong>: Thank you.</p>
+<p>(She takes his hat off.) </p>
+<p><strong>Tiffany Rigdon</strong>: What's underneath don't look too bad, either.</p>
+<p>(He chuckles.) </p>
+<p><strong>Tiffany Rigdon</strong>: I'm Tiffany.</p>
+<p><strong>Troy Birkhart</strong>: I'm Troy.</p>
+<p>(Tiffany puts Troy's hat on and poses for him.) </p>
+<p>(Two girls walk up to them.) </p>
+<p><strong>Buckle Bunny 1</strong>: (to Tiffany) We know what you are.</p>
+<p>(Tiffany stops smiling and takes Troy's hat off.) </p>
+<p><strong>Troy Birkhart</strong>: Excuse me, Miss, but we're having a private conversation here.</p>
+<p><strong>Buckle Bunny 2</strong>: Why pay that cow when others would give you the milk for free?</p>
+<p>(The girls laugh.) </p>
+<p><strong>Troy Birkhart</strong>: I think you owe her an apology.</p>
+<p><strong>Buckle Bunny 1</strong>: We don't want your kind in here.</p>
+<p>(Tiffany pushes the BUCKLE BUNNY 1.)</p>
+<p><strong>Tiffany Rigdon</strong>: Oh, yeah?</p>
+<p>(Buckle bunny 1 pushes Tiffany back.) </p>
+<p><strong>Buckle Bunny 1</strong>: Whore!</p>
+<p><strong>Tiffany Rigdon</strong>: That's it! </p>
+<p>(They start pushing and shoving each other.) </p>
+<p><strong>Troy Birkhart</strong>: Hey, hey! Hey!</p>
+<p>(Buckle Bunny 2 pushes Tiffany, who pushes her back. Troy turns to keep Buckle Bunny 1 away from Tiffany.) </p>
+<p><strong>Buckle Bunny 2</strong>: Come on! </p>
+<p><strong>Troy Birkhart</strong>: Hold-hold-hold on! </p>
+<p>(The bouncers get involved. Tiffany punches the Buckle Bunny twice in the face. She grabs Tiffany and pushes her up against Eric's table. Eric stands up. Someone in a black hat punches him in the face. It's a full-on bar brawl.) </p>
+<p>(Two men in black hats punch each other. The two Buckle Bunnies grab Troy Birkhart and pull him away from Tiffany.) </p>
+<p><strong>Troy Birkhart</strong>: Hey! Tiffany! </p>
+<p>(The fight continues. The band continues to play.) </p>
+<p>(Troy sees Tiffany being beaten up. He runs over to her.) </p>
+<p><strong>Troy Birkhart</strong>: Tiffany, come on! </p>
+<p>(He pushes the other girl off Tiffany. He and Tiffany head for the door.) </p>
+<p><strong>Tiffany Rigdon</strong>: Wait. Wait.</p>
+<p>(They kiss.) </p>
+<p><strong>Tiffany Rigdon</strong>: Let's go.</p>
+<p>(They leave the bar and the fight behind them.) </p>
+<p>END OF FLASHBACK.</p>
+<p>(Coco smiles wistfully.) </p>
+<p><strong>Coco</strong>: She came back last night and said that she was going to marry the guy.</p>
+<p><strong>Brass</strong>: It's kind of impulsive, isn't it?</p>
+<p><strong>Coco</strong>: Hey, cop, somebody says they want to marry you, take care of you, pay all your bills, give you a nice place to live, why would you even wait?</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – NIGHT]</p>
+<p>(Nick and Greg talk with Connie Dellaquilla.) </p>
+<p><strong>Connie Dellaquilla</strong>: It's always crazy busy with the cowboys in this town. You know, I think it's being around all these bucking bulls. Gets them all worked up. Brings out their animal instinct to mate.</p>
+<p>(She laughs.) </p>
+<p><strong>Greg</strong>: According to the marriage bureau, Troy Birkhart and Tiffany Rigdon got their license just before midnight.</p>
+<p><strong>Nick</strong>: And then, what, Troy came over to your chapel to set up the service?</p>
+<p><strong>Connie Dellaquilla</strong>: Yeah. He said his girl was changing at the hotel. It's the old story, you know. She gets cold feet, he can't face the truth, keeps thinking she's running late.</p>
+<p>Quick FLASHBACK TO: </p>
+<p>[EXT. DELLAQUILLA WEDDING CHAPEL – NIGHT] </p>
+<p>(Troy has a JUST MARRIED flag on his truck. He's got a spray can and shakes it. He writes on the window TROY &amp; TIFF.) </p>
+<p>(CUT TO: Troy is waiting next to his truck. He looks at his watch as he waits for Tiffany.) </p>
+<p>(CUT TO: He takes his hat off as he hears a woman giggle and watches another couple exit the chapel to get into their waiting limo.) </p>
+<p>(The limo VANISHES and time passes. And still Troy waits.) </p>
+<p>END OF FLASHBACK.</p>
+<p><strong>Greg</strong>: How long did he wait?</p>
+<p><strong>Connie Dellaquilla</strong>: Hours. He shows me the prize buckles he's won for bull riding. Tells me he's going on the pro tour next year. The little ranch they're going to settle down on ... &quot;Where the wind comes sweeping down the plains.&quot;</p>
+<p><strong>Nick</strong>: And what time did he end up leaving?</p>
+<p><strong>Connie Dellaquilla</strong>: A little after 3:00 AM. Frankly, if she's not going to make a go of it, I say, better now than down the road before all the lawyers and the property and all that mess.</p>
+<p><strong>Nick</strong>: Wedding chapel's only a couple blocks from the crime scene.</p>
+<p><strong>Greg</strong>: Yeah, and she was killed at 2:30.</p>
+<p><strong>Nick</strong>: Mm-hmm.</p>
+<p><strong>Connie Dellaquilla</strong>: Killed?</p>
+<p><strong>Nick</strong>: Yeah, on the way to her own wedding. I'll get a BOLO out on Troy's vehicle.</p>
+<p>(Nick gets up and leaves.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – NIGHT]</p>
+<p>[INT. GARAGE -- NIGHT] </p>
+<p>(Warrick pulls into a parking stall. He turns the rearview mirror and checks himself in the reflection.) </p>
+<p><strong>Dispatcher</strong>: (from radio) Attention, all officers: attempt to locate yellow two-toned Dodge Ram pickup, Texas plates Charlie Nora Baker Queen Seven Five Zero. </p>
+<p>(Warrick turns and sees the yellow pickup next to him. Inside, Troy is struggling to put the muzzle of a shotgun under his chin.) </p>
+<p><strong>Dispatch</strong>: (from radio) Troy Birkhart, white male adult, wanted in connection with a 415-Adam, Eric Hong homicide.</p>
+<p><strong>Warrick</strong>: (to radio) Dispatch, this is C-21 Brown. The pickup that you're looking for is on level 3 of the PD garage. Suspect is in the vehicle, armed and agitated.</p>
+<p>(Troy hits the steering wheel.) </p>
+<p><strong>Warrick</strong>: (to radio) I repeat: suspect is armed and agitated.</p>
+<p>(Warrick checks his gun.) </p>
+<p><strong>Dispatch</strong>: (from radio) Copy, C-21. Units responding. Code Three.</p>
+<p>(Troy is trying to put the muzzle of the shotgun under his chin. In the stall over, Warrick gets out of his car.) </p>
+<p>(Troy takes a couple of panting breaths. Warrick approaches the truck and approaches from behind.) </p>
+<p><strong>Warrick</strong>: Hey, buddy. Hey. You must be Troy, huh?</p>
+<p>(Troy glances to the side.) </p>
+<p><strong>Warrick</strong>: Just be cool, okay?</p>
+<p>(Off to the side, the elevator door opens and officers get out onto the floor.) </p>
+<p><strong>Warrick</strong>: All right?</p>
+<p><strong>Brass</strong>: (shouts, o.s.) Hey, Troy, listen to me.</p>
+<p>(Brass and Nick walk over. Warrick backs up to join them.) </p>
+<p><strong>Brass</strong>: We don't want anyone getting hurt, okay? So put the gun down. Come out of the truck with your hands up. Put the gun down, Troy. Just let it fall away. Now. He moves on that gun, don't wait.</p>
+<p>(Nick sees the truck's license plates and gets an idea.) </p>
+<p><strong>Nick</strong>: Hang on, Jim. Let me ... Let me talk to him real quick.</p>
+<p><strong>Brass</strong>: Okay, but we're not taking any chances.</p>
+<p><strong>Nick</strong>: Yeah, yeah, okay.</p>
+<p>(Nick walks over toward the truck.) </p>
+<p><strong>Nick</strong>: Hey, Troy, when's the last time you got down to Big Bend? Huh? You-you got the plate frame. Man, I used to go to summer camp down there.</p>
+<p><strong>Troy Birkhart</strong>: Stay back!</p>
+<p><strong>Nick</strong>: Hey, take it easy, Troy. Look, I got no weapon on me. Okay, I just want to talk to you for a second.</p>
+<p><strong>Troy Birkhart</strong>: I killed somebody!</p>
+<p><strong>Nick</strong>: Yeah, I know. You came out to Vegas, and you got in over your head, but this is getting out of control. If you don't put that gun down, these cops are going to start shooting, and that could turn out very bad for both of us. You know what I mean?</p>
+<p><strong>Troy Birkhart</strong>: I'm just ... I'm just doing the right thing. Making sure you know it was me. And I'll pay for what I did. Eye for an eye, man.</p>
+<p><strong>Nick</strong>: Hey.</p>
+<p>(Nick takes a step forward.) </p>
+<p><strong>Troy Birkhart</strong>: Stay back! I'll do it, I swear! I'll do it, I swear!</p>
+<p><strong>Nick</strong>: No, Troy, just wait. Hang on now. Listen to me. I know about Tiffany. I know why she stood you up at the wedding chapel.</p>
+<p><strong>Troy Birkhart</strong>: (voice breaking) That Ricky. Thought he owned her.</p>
+<p>(Quick flashback to: [RESTROOM] Troy finds Eric in the bathroom.) </p>
+<p><strong>Eric &quot;Precious Ricky&quot; Hong</strong>: Hey. Hey! Hey, what you doing, man?</p>
+<p>(He fires.) </p>
+<p>END OF FLASHBACK.</p>
+<p><strong>Troy Birkhart</strong>: He wouldn't let her come.</p>
+<p><strong>Nick</strong>: Hey, man, look at me. Look at me.</p>
+<p>(Troy turns and looks at Nick.)</p>
+<p><strong>Nick</strong>: I know she wanted to be there for you. Come on out of there, man. I'll tell you all about it. You don't want to do this.</p>
+<p>(Nick walks over to the open truck window.)</p>
+<p><strong>Nick</strong>: Give me that. Come on, give me that thing. Give it to me.</p>
+<p>(Troy loosens his hold on the gun. Nick reaches in through the window-- </p>
+<p><strong>Nick</strong>: It's going to be okay.</p>
+<p>-- and pulls the gun away.) </p>
+<p>(A couple of officers rush forward. Nick turns and gives the gun to Brass.) </p>
+<p><strong>Brass</strong>: Nice job.</p>
+<p>(Nick looks at Warrick.) </p>
+<p><strong>Warrick</strong>: You didn't go to summer camp.</p>
+<p>(Nick chuckles.) </p>
+<p><strong>Nick</strong>: Missed you around here. Welcome back.</p>
+<p><strong>Warrick</strong>: Thanks.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. CSI – LAYOUT ROOM -- NIGHT] </p>
+<p>(Grissom meets with Catherine and Nick.) </p>
+<p><strong>Grissom</strong>: Well we know that Cody was alone when he died because he couldn't have opened the bucking chute by himself.</p>
+<p><strong>Catherine</strong>: And we know that someone other than Cody put the electroejaculation equipment into the truck and drove away.</p>
+<p><strong>Nick</strong>: Killing Tiffany.</p>
+<p><strong>Grissom</strong>: Whoever that someone was knew how to get into the arena, and also how to use the equipment. </p>
+<p>(Hodges appears in the doorway carrying two bull ropes.) </p>
+<p><strong>Hodges</strong>: (twang) More cowbell! </p>
+<p>(Hodges puts the bull ropes down on the layout table.) </p>
+<p><strong>Hodges</strong>: I processed these for you.</p>
+<p><strong>Grissom</strong>: And?</p>
+<p><strong>Hodges</strong>: Well, as you can see, they're bull ropes. These are the kind that the riders hold in their hands. Every rider has one, and they're usually custom-made. I mean, look at that craftsmanship.</p>
+<p><strong>Grissom</strong>: Yeah, it's exquisite.</p>
+<p><strong>Catherine</strong>: Now, that's the rope that I collected from Cody's room?</p>
+<p><strong>Hodges</strong>: Yes, it is. Uh, you'll note that it is polynylon. Now the rope that was collected from the crime scene, though, was long sisal, a type of hemp. Very old-school, and they stopped making it years ago.</p>
+<p><strong>Nick</strong>: That means the rope found with Cody's body belonged to someone who's been around for a while.</p>
+<p>(Grissom looks at Nick and smiles.) </p>
+<p><strong>Grissom</strong>: How'd you like to go on a roundup?</p>
+<p>CUT TO:<br />
+[INT. ARENA – BACK PENS -- NIGHT]</p>
+<p>(The crowd roars. Brass, Nick and an officer walk up to Nancy Twicker, talking with a couple of guys.) </p>
+<p><strong>Brass</strong>: Hey, Ms. Twicker, how's it going?</p>
+<p>(The two men leave and Nancy Twicker turns to Brass.) </p>
+<p><strong>Nancy Twicker</strong>: It'd be going a lot better if my bull Wintwister was in there bucking.</p>
+<p><strong>Nick</strong>: Is Cash Dooley here?</p>
+<p><strong>Nancy Twicker</strong>: Cash!</p>
+<p>(Cash looks up from his locker.) </p>
+<p><strong>Nancy Twicker</strong>: Cops want to talk to you.</p>
+<p>(Cash puts his lock down and heads over.) </p>
+<p><strong>Brass</strong>: Hey, Mr. Dooley. So, where you staying when you're here in Vegas?</p>
+<p><strong>Cash Dooley</strong>: Here.</p>
+<p><strong>Nancy Twicker</strong>: He's got the sleeper cab up front.</p>
+<p><strong>Brass</strong>: Oh, right here.</p>
+<p><strong>Nick</strong>: Is that where you keep your clothes, the rest of your stuff?</p>
+<p><strong>Cash Dooley</strong>: What's this about?</p>
+<p><strong>Nick</strong>: I'd like to take a look in that cab.</p>
+<p><strong>Cash Dooley</strong>: No. It's private.</p>
+<p><strong>Nancy Twicker</strong>: Now hold on. I own this rig. If you guys want to search it, go ahead.</p>
+<p>(Cash Dooley doesn't look happy about it.) </p>
+<p>CUT TO:<br />
+[EXT. PARKING LOT / INT. SLEEPER CAB – NIGHT]</p>
+<p>(Nick and the officer head over to the rig. Nick puts his kit down and opens the door. He climbs up and looks inside.) </p>
+<p>(Inside the open bag, he finds a buckle: PROFESSIONAL BULL RIDERS WORLD 1997 FINALS.) </p>
+<p>(He opens another bag and finds LATEX TUBING, a couple of tubes of LUBRICATING JELLY, and a lot of glass TEST TUBES.)</p>
+<p><strong>Brass</strong>: (PRE-LAP) (V.O.) Well, bull semen is property, and that property isn't yours so it's theft.</p>
+<p>CUT TO:<br />
+[INT. PD – INTERVIEW ROOM – NIGHT]</p>
+<p>(Brass talks with Cash Dooley.) </p>
+<p><strong>Brass</strong>: Now, here's what I think happened. You know Cody. He's at the end of his career. He's a little down on his luck. Never put any money aside. Wintwister's output goes for 20 grand a pop on the open market. So, you and Cody, you get together, you do the deed and ... uh ... sell it on the sly.</p>
+<p><strong>Cash Dooley</strong>: If you knew Cody, you'd know he'd never do anything like that.</p>
+<p><strong>Brass</strong>: And then when he told his girlfriend, you took his truck.</p>
+<p><strong>Cash Dooley</strong>: He always let me borrow his truck.</p>
+<p><strong>Brass</strong>: Even when it was to hunt down his girl?</p>
+<p>(The door opens and Catherine pops her head inside the room.) </p>
+<p><strong>Catherine</strong>: Jim?</p>
+<p>(Brass stands up and heads out of the room.) </p>
+<p>[INT. PD – HALLWAY – NIGHT – CONTINUOUS]</p>
+<p>(Brass talks with Catherine.) </p>
+<p><strong>Catherine</strong>: We ran his ten-card against the prints from the truck and the equipment. They don't match.</p>
+<p><strong>Brass</strong>: So, there is a third guy?</p>
+<p><strong>Catherine</strong>: Right. So now, I'm convinced that Cody Latshaw's death was not an accident.</p>
+<p>[INT. PD – INTERVIEW ROOM – NIGHT]</p>
+<p>(Brass enters the room and sits down.) </p>
+<p><strong>Brass</strong>: Okay, so who is working with you on this, Cash, huh? Who was at the wheel of Cody's truck when you ran down that girl? Was it someone in the arena?</p>
+<p>(Cash doesn't answer.) </p>
+<p><strong>Brass</strong>: What's this, a cowboy code of silence? Look, you want to make me compel fingerprints from everyone working in that arena, I can do that.</p>
+<p>CUT TO:<br />
+[INT. ARENA -- NIGHT] </p>
+<p>(The arena is packed as the event continues.) </p>
+<p><strong>Announcer</strong>: (over PA) Here is Dale Wylie! </p>
+<p>(Dale Wylie is on the bull. The gates open, the bull comes out kicking and bucking.) </p>
+<p>[INT. ARENA – CORRIDOR -- NIGHT]</p>
+<p>(Grissom walks up to Brass and Nancy Twicker.) </p>
+<p><strong>Grissom</strong>: We got a match! Dustin Lightfoot. </p>
+<p><strong>Nancy Twicker</strong>: Dustin? He's a bullfighter.</p>
+<p>[DUSTIN]</p>
+<p>(Dustin turns and looks over at Brass, Grissom and Nancy Twicker. She turns and points at him.) </p>
+<p><strong>Nancy Twicker</strong>: He's right there.</p>
+<p>(Dustin jumps off the fence and runs across the grounds.) </p>
+<p><strong>Brass</strong>: (to radio) I got a 440 exiting the east end of the arena. Head him off.</p>
+<p>(An officer takes off after him. Dustin runs out of the arena.) </p>
+<p>[INT. ARENA – BACK PENS – NIGHT -- CONTINUOUS]</p>
+<p>(Dustin runs through the back pens. The officer is right after him.) </p>
+<p><strong>Officer</strong>: (to radio) In the tunnel headed your way.</p>
+<p>[INT. ARENA – BACK CORRIDOR – NIGHT -- CONTINUOUS]</p>
+<p>(Dustin runs through the back tunnels. Two officers block his exit. He stops and raises his hands up high.) </p>
+<p><strong>Officer</strong>: Hold it. Freeze. Right there. OFFICER: Don't move.</p>
+<p>(The officer comes up behind him to handcuff him.) </p>
+<p><strong>Officer</strong>: Hands behind your back.</p>
+<p>(Brass walks up to him.) </p>
+<p><strong>Brass</strong>: Well, howdy, partner. This is a new experience for me. First time I caught me a cattle rustler.</p>
+<p>Quick FLASHBACK TO: </p>
+<p>[INT. ARENA – BACK PENS -- NIGHT]</p>
+<p>(Wintwister bellows softly. Cash puts his gloves on and picks up the electroejaculator.) </p>
+<p><strong>Dustin Lightfoot</strong>: (V.O.) Look, Cash and me was just trying to make a little extra money.</p>
+<p>(Cody walks in, drinking from a bottle. He empties the bottle and tosses it.) </p>
+<p><strong>Brass</strong>: (V.O.) Then Cody Latshaw came in drunk and itching for a fight.</p>
+<p>(Cody finds Dustin preparing to catch the semen while Cash puts lubricant on the probe.)</p>
+<p><strong>Cody Latshaw</strong>: Hey! Quit that!</p>
+<p>(Dustin stands up.) </p>
+<p><strong>Dustin Lightfoot</strong>: Hey, Cody. </p>
+<p><strong>Cody Latshaw</strong>: You hear me?</p>
+<p>(Dustin heads over toward Cody.) </p>
+<p><strong>Dustin Lightfoot</strong>: Cody, relax. Ain't nobody hurtin' anybody.</p>
+<p><strong>Cody Latshaw</strong>: That ain't your property.</p>
+<p><strong>Dustin Lightfoot</strong>: Cody, Cody, ...</p>
+<p>(Cody punches Dustin. Dustin turns and punches Cody. Cody falls to the ground. Cash stops Dustin from swinging again.) </p>
+<p><strong>Cash Dooley</strong>: Whoa, whoa, whoa, whoa, whoa.</p>
+<p>(He turns Cody over and checks for a pulse.) </p>
+<p><strong>Cash Dooley</strong>: He ain't breathin'.</p>
+<p>END OF FLASHBACK.</p>
+<p>[INT. PD – INTERVIEW ROOMK]</p>
+<p>(Brass and Grissom talk with Dustin Lightfoot.) </p>
+<p><strong>Dustin Lightfoot</strong>: We wasn't tryin' to kill him.</p>
+<p><strong>Grissom</strong>: He had a cervical fracture from his earlier ride. It didn't take much to snap his spine.</p>
+<p>FLASHBACK TO: </p>
+<p>SLOW MOTION. Dustin punches Cody. Cody's neck snaps back.</p>
+<p>BACK TO SCENE.</p>
+<p><strong>Brass</strong>: Then you tried to make it look like an accident.</p>
+<p>FLASHBACK TO: </p>
+<p>[INT. SLEEPER CAB – NIGHT -- FLASHBACK]</p>
+<p>(The door opens and Cash climbs up. He grabs his bull rope.) </p>
+<p>[INT. ARENA – NIGHT – FLASHBACK]</p>
+<p>(Cash and Dustin drag Cody's body out onto the arena. They put him on the ground and toss the bull rope to the side.) </p>
+<p>BACK TO SCENE.</p>
+<p><strong>Brass</strong>: But you didn't have to run over his girlfriend.</p>
+<p><strong>Dustin Lightfoot</strong>: (stunned) That girl we hit -- that was ... that was Cody's girlfriend?</p>
+<p><strong>Brass</strong>: Yeah, you didn't know?</p>
+<p><strong>Dustin Lightfoot</strong>: We was racing to get the product to our buyer. And we took Cody's truck 'cause, well, mine ain't air-conditioned and, and he wasn't gonna be usin' it.</p>
+<p>FLASHBACK TO: </p>
+<p>[INT. TRUCK (RACING) – NIGHT – FLASHBACK]</p>
+<p>(Dustin is driving. Cash is in the passenger seat, clutching the cooler in his lap. They turn the corner and hit Tiffany. Tires screech.) </p>
+<p>BACK TO SCENE.</p>
+<p>(Brass nods. The officer escorts Dustin out of the room.) </p>
+<p><strong>Catherine</strong>: (V.O.) It's kind of a lonely life, these cowboys, every weekend a different town.</p>
+<p>CUT TO:<br />
+[INT. CSI – GRISSOM'S OFFICE – NIGHT]</p>
+<p>(Catherine and Nick talk.) </p>
+<p><strong>Nick</strong>: That's part of the tradition, you know. Solitary man out there trying to find himself.</p>
+<p><strong>Catherine</strong>: Yeah, but no man is an island. I mean, obviously, he had feelings for Nancy or he wouldn't have written her that poem.</p>
+<p><strong>Nick</strong>: Nancy? I don't know about that. Tiffany's the one that broke his heart.</p>
+<p><strong>Grissom</strong>: (o.s.) I don't think it's about either girl. </p>
+<p>(Grissom reads the poem.) </p>
+<p><strong>Grissom</strong>: (reads) &quot;I can't help now but wonder what your brown eyes were concealing.&quot; (to Nick) Did you read Tiffany's autopsy report?</p>
+<p><strong>Nick</strong>: Oh. Yeah, her eyes were blue.</p>
+<p><strong>Grissom</strong>: So were Nancy's.</p>
+<p><strong>Nick</strong>: Then who did he write the poem for?</p>
+<p><strong>Grissom</strong>: Wintwister.</p>
+<p>(Nick doesn't believe it. Neither does Catherine.) </p>
+<p><strong>Catherine</strong>: The bull?</p>
+<p><strong>Grissom</strong>: I think that's why he went back to the arena that night. Wordsworth once wrote, &quot;Through love we feel we are greater than we know.&quot; My guess is, riding that bull, Cody felt like a greater man.</p>
+<p>MONTAGE OF: </p>
+<p>[INT. ARENA – BACK CORRIDOR -- NIGHT]</p>
+<p>(Cody walks through the pens on his way out to the arena floor.) </p>
+<p><strong>Grissom</strong>: (reads, v.o.)<br />
+Our bodies close together, like my ride hand in my glove.</p>
+<p>CLOSE ON: The bull in the pen.) </p>
+<p><strong>Grissom</strong>: (reads, v.o.)<br />
+Hearts pounding with excitement, and dare I say it, love.</p>
+<p>[INT. CSI – GRISSOM'S OFFICE]</p>
+<p><strong>Grissom</strong>: (reads)<br />
+I know I'll never own you; it's your nature to run free.<br />
+But I pray the Lord above that one day you'll come back to me.</p>
+<p>[INT. ARENA – NIGHT]</p>
+<p>(Cody is on the bucking bull.) </p>
+<p><strong>Grissom</strong>: (reads, v.o.)<br />
+Then we'll ride off in glory until our time is done.<br />
+And I will be your hero, your cowboy in the sun.</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
-Jewel:  And the rockets red glare-- 
-
-Jewel:  The bombs bursting in air, gave proof through the night that our flag was still there. Oh, say, does that star-spangled banner yet wave? For the land of the free -- 
- 
-Jewel:  -- and the home of the brave.
- 
- 
-Voice 1: All right! Go ahead, cinch it up! VOICE 2: Let's go! 
-
- 
- 
- 
-
-
-
-
- 
-Announcer:  Welcome to PDR finals in Las Vegas! For two weekends, we have 45 riders competing in a race for the world title. The world champ? He goes home with a million bucks. If you want to talk about pressure, it's all in Las Vegas!
- 
-Announcer:  Right now, you can get ready for the starting of Coty Latshaw, Elk City, Oklahoma, riding Wintwister. This boy is a champion among champions. 
-Voice: Ready? 
- 
-Announcer:  There's no doubt Cody Latshaw -- he's the real deal! 
- 
-MUFFLED AUDIO
- 
-AUDIO RESUMES
- 
-Man: Get up. Get out. Get out! Hyah!
- 
-Voice: Hurry up, man. Get him up! 
- 
-Announcer: Hold off for the main event. 
- 
-Voice: He's a good one.
- 
-Cash Dooley: Hey, Cody. You all right? You okay? Get a stretcher.  Get a stretcher! 
-Cody Latshaw: I don't need a stretcher.
-Cash Dooley: Are you sure? 
-Cody Latshaw: I'm okay. Just give me a hand.
-All right. Here we go.
- 
-Cody Latshaw: Re-ride! 
-Announcer: Oh, wait a minute! He's up. He's calling for a re-ride. I'm not sure why, but this is exactly why we call him Lazarus.  Ladies and gentlemen, you knock him down, and he rises again. What an athlete! This guy's a true hero!
- 
-
-
-
-
- 
-Grissom: So, who found him?
-Brass: Security. We have a tough time finding guys to wrangle a bull. Cowboys like to party when they come to Vegas.
- 
-Ty Murray:  Did you see anything?
-Dustin Lightfoot: No, we just put the bull back in the pen.
- 
-Ty Murray: Ty Murray, PBR president.
-Dustin Lightfoot: And seven-time world champ.
-Ty Murray: Okay, Dustin.
-Brass: Jim Brass, Vegas PD.
-Ty Murray: Nice to meet you.
- 
-Grissom: Gil Grissom, Crime Lab.
-Ty Murray: Nice to meet you.
-Brass: What can you tell me about this guy?
-Ty Murray: Cody Latshaw, a real institution. Most guys his age hung up their rope a long time ago.
-Grissom: What about the bull?
-Ty Murray: Wintwister -- he threw Cody earlier tonight, but he got up and was fine. He even asked for a re-ride.
-Brass: &quot;Re-ride&quot;?
-Ty Murray: Well, if a bull doesn't buck good enough, they can ask to get on another one. That wasn't the case. Wintwister had a good day. Cody must not have been in his right mind to think he'd get a second shot.
-
-Grissom: Is this the rope they tie around the bull?
-Ty Murray: That's one of them. That's the bull rope.
- 
-Grissom: Is that rosin? 
-Ty Murray: Yeah, it helps the rope stick to the glove so they can get a good grip.
-Grissom: Do all the riders wear a glove?
-Ty Murray: Yes, sir.
-Grissom: He's not wearing one.
- 
-Grissom: Guy was living the American dream. Every kid wants to grow up to be a cowboy.
-Brass: Not a dead cowboy.
-SMASH TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Robbins: Catherine.
-Catherine: Hi.
- 
-Robbins: PBR Sports Medicine just sent this over. Taken after Cody's fall in competition.
- 
-Robbins: Hmm. He was held together by every kind of hardware but roofing nails. I can relate.
-Catherine: Yeah, it's a violent sport. Check out his hand. Riders live with constant injuries and pain.  They always get on that next bull and try like hell to hang on for the next eight seconds.
-Robbins: You sound like a fan.
-Catherine: I used to date a bull rider. Cowboy up.
- 
-David Phillips: Here you go.
-Robbins: Hey.
-David Phillips: These are the ones I took.
-Robbins: Thank you.
- 
-Catherine: So there's just a few bills in his pockets. David, why don't you give me a hand here?
-David Phillips: Oh, sure.
- 
-Catherine: Some guys keep valuables in their boots.
- 
-David Phillips: Cody's little doggies are right fragrant.
-Robbins: Catherine, take a look at this.
- 
-Robbins: This x-ray shows he walked away from his earlier fall with a hairline fracture of the C1 vertebra.
- 
-
-
- 
- 
-Robbins:  In bull riding, the rider's spine must sustain vertical, horizontal and diagonal thrust, together if they put tremendous force onto the spinal column.
-
- 
-BACK TO SCENE.
-
-Catherine: That guy was a walking time bomb. Any trauma with sufficient force would snap that vertebra and sever the spinal cord.
-Robbins: It did.
- 
-Robbins: The film David just took shows a complete fracture. That's your COD. Consistent with getting thrown a second time.
-
-
- 
-Nancy Twicker: Hey!
- 
-Nancy Twicker: You got anything to do with taking my bull off tomorrow's day sheet?
-Grissom: Do you own the bull?
-Nancy Twicker: Yeah, I'm Nancy Twicker. And I want my bull in the finals. The more he bucks, the more he's worth. So whatever you got to do to clear him, get it done.
- 
-Grissom: Your bull gave Cody Latshaw a pretty brutal beating.
-Nancy Twicker: It's not the bull's fault. I blame Cody for taking him out after hours.
-Grissom: Is it true that some riders tie the bull's testicles to get them to buck more?
- 
-Nancy Twicker: Well, sure, we always want the bulls to buck. That's why we tie a flank strap across their back. They're trying to shake it off. Think about it. If I tied a rope around your testicles, would you feel like jumping up and down?
-Grissom: Could a guy get a bull out of this chute without any help?
-Nancy Twicker: Well, one guy could get a bull all the way to the bucking chute, sure -- 
- 
-Nancy Twicker:  -- but well, then he'd have to tie on the bull rope and the flank strap. 
-
-Nancy Twicker: Then he'd have to get on the bull.
-Grissom: And open the gate.
-Nancy Twicker: Not without help.
- 
-Nancy Twicker:  The chute only opens from the outside.
-
-Grissom: I'm going to need to process your bull.
-Nancy Twicker: Can you do it in eight seconds?
-
-
- 
-Nancy Twicker: Even confined like this, these are not the most cooperative creatures. So if my flank man says get back, you jump. Hey, Cash.
- 
-Cash Dooley: Howdy, Cash Dooley.  And my name's about the only cash I got.
-Grissom: And this is Wintwister? What, uh ...
- 
-Grissom: What would be the safest way for me to handle his hooves?
-Cash Dooley: There ain't one. Too dangerous.
-Nancy Twicker: He's a kicker.
-Grissom: Do you think I could get him to step on something?
-Cash Dooley: Sure. But you better let me do the bending.
- 
-Grissom: Think you could get him to step on this?
- 
-Nancy Twicker: Cash knows bulls like nobody. Heck, before these kids could even walk, they're out riding sheep, then calves and baby bulls. And finally these one-ton, back-jerkin' snot-slingin' monsters.
-
-Nancy Twicker: Now, they get all busted up and quit ridin', but they just can't quit these animals.
- 
-CGI ZOOM in on the fiber.
-
- 
-Hodges: Cotton fiber. Appears to be bloodstained. I need another piece for comparison.
- 
-Catherine: Forget how to use the scissors?  Put your fingers in the holes and squeeze.
-Hodges: Yes, ma'am.
- 
- 
-Catherine: This looks like semen.
-Hodges: Cowboy had a roll in the hay. Either he's messy or ... uh ... we could have a Brokeback Mountain situation.
-Catherine: Oh, God, that movie made me cry.
-Hodges: Me, too.
- 
-Hodges: You know, it takes a big man to admit that. And I am that man.
-Catherine: You don't say.
-Hodges: Fibers from the bull are consistent with Cody's shirt. Looks like Wintwister's a killer.
-
- 
- 
- 
-Officer Choi: Found her body on patrol, called in the 401AB, apparent fatal. If there were any eyewitnesses, they didn't stick around.
- 
-Nick: Okay, thanks.
- 
- 
-Nick: Here's the point of impact.
-Greg: Threw her that far, he must have been going at least ... 45.  Tiffany Rigdon, 27, local.
-Officer Choi: I'll run her for you.
- 
-Greg: Thanks.
- 
-Nick: Radiator fluid.
- 
-Greg: Bunch of empty liquor miniatures. Card key from Pike's Gambling Hall.
- 
-Nick: Hit-and-run. Hit back there ... ran over here.
- 
- 
- 
- 
-Greg: RO is Cody Latshaw – Elk City, Oklahoma.
-Nick: Isn't that Grissom's dead cowboy?
-Greg: Yeah. Boy, he had a hell of a night.
-
-Greg:  He gets humiliated ...
- 
-Greg:  ... hits a pedestrian ...
-
-Greg: ... he ditches the car, walks a couple of blocks to the arena, joyrides a bull, and then ends up getting stomped to death?
- 
-Nick: Here's another card key from Pike's Gambling Hall right here.
-
-
- 
-Manager:  First one's for room 810, registered to Cody Latshaw.
-
- 
-Nick: Here you go.
-(The manager swipes the card and the following information appears on the monitor:
-PIKES REGISTRATION NO: XZ192116
-Guest: TIFFANY RIGDON
-ROOM NO: 810
-ROOM TYPE: SUITE
-ROOM PREFERENCES: QUEEN BED, SMOKING
-OCCUPANTS: 2
-CHECK – IN DATE: 01/09/08
-CHECK – OUT DATE: 01/12/08
-PAYMENT: MC CREDIT CARD
-CARD NO: **** **** **** 99017
-EXPIRATION DATE: 07/2010
-Manager: Second one's also to room 810. 
- 
-Manager:  It's a complimentary guest key issued to Tiffany Rigdon.
- 
- 
-Nick: Cody knew the girl he ran over.
-
-
- 
-Nick: Lucky for us, housekeeping's a little slow on the uptake.
- 
-Catherine: Riding glove. So he wasn't planning on re-riding Wintwister when he left here.
-Nick: Threw back a bunch of beers, some liquor. I don't see any drugs.
-Catherine: Bed looks used. Maybe he partied with Tiffany.
- 
-Nick: Bet it cost him. I ran her priors. She's got a couple for solicitation.
- 
-Catherine: 
-I can't help now but wonder what your brown eyes were concealing.
-They just showed me reflections of all that I was feeling ...
-Our bodies close together like my ride hand in my glove.
-Hearts pounding with excitement and, dare I say it, love.
- 
-Catherine: Nobody ever wrote me a poem.
- 
-Catherine: 
-I know I'll never own you.
-It's your nature to run free, but I pray the Lord above that one day
-you'll come back to me.
- 
-Catherine:  That's sweet.
-Nick:  &quot;By the time you read this, I'll be married. He's a great guy. Honest, Cody, I'll always be thankful for everything you did for me. Love, Tiffany.&quot;
-Catherine: Sounds like it was more than a money relationship.
-Nick: Mm-hmm.
-Catherine: Broken bones -- he gets up and rides again.
-Nick: Broken heart and he's a killer.
-
-
-
-
- 
-Grissom: 
-Then we'll ride off in glory until our time is done 
-
- 
-Grissom:  &quot;And I will be your hero, your cowboy in the sun.&quot;
-Nick: It's not Shakespeare.
-Grissom: I'm actually a fan of cowboy poetry.
-Nick: Are you really?
-Grissom: Yeah, it's just a way of organizing your thoughts and feelings so that you can make sense of them.
-Nick: Well, it sounds like Cody was trying to make sense out of his girl leaving him.
-Grissom: Yeah, well, poetry can help you with that, too.
- 
-
- 
- 
-Robbins: Rib fractures, multiple lacerations, pulmonary contusions, lacerated aorta, lacerated liver. I could go on, but you get the idea.
-Catherine: COD was multiple blunt force trauma.
-Robbins: Right, but not all of it was from the hit-and-run.
-
-Robbins: You see the coloration of the bruises?
-Catherine: Yellowish.
-Robbins: They're from an event at least 12 hours before the accident.
-Catherine: Maybe Cody had rejection issues. Could be why she was leaving him.
-
-
- 
-Greg: Lot of tools back here.
-Nick: Yeah. Bullriding's an equipment-intensive sport.
- 
-Greg: What have we here?  Some kind of cattle prod?
-Nick: They don't use those in professional bull riding.
- 
-Wendy: Hey, Buckaroos. Have you seen Catherine? 'Cause I just got the results from that semen stain on Cody Latshaw's jeans.
-Nick: Come up with a match?
-Wendy: I did. I had to run an Ouchterlony test on it.
-Greg: So not from a human donor?
-Wendy: No ... no. Bovine.  Yeah ... I took a psychobiology class once and we studied a very interesting case. Okay, there was a guy, he lived on a farm, and literally the only way that this guy could get sexually satisfied was when he was with livestock.
-Nick:  That's okay. I'm good.
-Wendy:  Well, see, apparently, the whole thing started one night because he was in the barn -- it started snowing. He got stuck in there. He couldn't make his way back to the farmhouse, so he decided that he would try and stay warm ... well, with a sheep. 
- 
-Wendy: But then the horses were jealous, so ... 
- 
-Wendy: -- and ... you know, and I think there was a cow in there as well ... 
-Greg:  You know, I think we got the picture.
-Nick: I wish I didn't.
- 
-Greg: I think I know what this is for.
- 
-
- 
- 
-Nancy Twicker: It's called an electroejaculator. It's used on bulls that have back trouble.
- 
-Brass: It looks, uh ... pretty persuasive.
-Nancy Twicker: Yeah.
-Brass: So ... uh ... was Cody helping you collect from Wintwister?
-Nancy Twicker: Hell, no. First of all, you don't collect during competition.
-Brass: Right, right, so like an athlete before a game.
-Nancy Twicker: Now you're talking. And when I do collect, I bring a service out to the ranch. You know, one collection from that old boy gives you about ... two hundred breeding units. At a hundred bucks a pop, you do the math.
-Brass: Well, if the stuff is so valuable, maybe Cody was doing a little moonlighting, you know, collecting on his own, making a little extra money.
-Nancy Twicker: Cattle rustling? No, not Cody.
-Brass: We found bull semen on his jeans.
-Nancy Twicker: Cody wouldn't steal from me. Besides, it's a two-person job, no matter which method you use.
-Brass: There's more than one?
-Nancy Twicker: In addition to your electroejaculation, you got what's called an artificial v*g1n*. Now, you get a teaser animal in there, like a steer. See, bulls go homosexual in captivity. You get that bull to mount that steer, then you get that AV in there right before the ...
-Brass: Yeah, I get the point.
- 
-Brass: Do you know this girl? We think she's Cody's girlfriend.
-Nancy Twicker:  Yeah. I thought he had a new girlfriend in Vegas from the way his mood was changing. She's younger, probably ... does whatever he says.
-Brass: Mm-hmm.
-Nancy Twicker: Listen, if you need anything else, I'll be at the arena all day.
-Brass: I thought Wintwister didn't compete tonight.
-Nancy Twicker: Well, Captain, I'm not a one-bull kind of gal.
- 
- 
-Officer: Here you are, sir.
- 
-Brass: Can I help you?
-Grissly Geezer: Saw a woman get killed last night.
- 
-
-
- 
-Brass:  Hey, Cath, listen, it's Jim. We got an eyewitness confirming that Tiffany's TOD was after 2:21 AM.
-Catherine: Well, that's over an hour after Cody's body was found. Thanks, Jim.
- 
-Catherine: Hey.
- 
-Nick: Hey. I got prints from the truck, but half of them are Cody's.
-Catherine: Well, it is his truck.
- 
-Catherine: So ... get this. There's a witness that puts Tiffany's TOD after Cody's. He didn't kill her.
-Nick: I think he had a partner. There's a set of unknowns both on the truck and on the ... uh ... electro-love machine.
-Catherine: So ... say this partner thought Tiffany knew something about the semen rustling and he ran her over to keep her quiet.
-Nick: So who's the partner?
-Catherine: We've got Cody's phone. Find out who he's been talking to.
- 
-
- 
-MONITOR SCREEN:
-Phone Records for
-CODY LATSHAW
- 
-Archie: Most of Cody's calls were to a number in Durant, Oklahoma.
-Nick: He lived on the family ranch. He was probably letting his folks know how he was doing in the finals.
-Archie: All other calls were to PBR staff and to Tiffany.
-Nick: What about her records?
-Archie: Well, they're a little more interesting. Check out ... last night.
- 
-Archie: A dozen calls after midnight from Eric Hong.
- 
-Nick: Precious Ricky.
-Archie: You know this guy?
-Nick: Yeah, he's a pimp, and he quit calling her after 2:00 AM, like he knew she was already dead.
-
- 
- 
- 
-Eric &quot;Precious Ricky&quot; Hong: All right, I don't want nobody hitting me. All right?
- 
-Nick: Nobody's going to hit you, Rick.
-Eric &quot;Precious Ricky&quot; Hong: Good. 
-Nick: This is about Tiffany Rigdon.
-Eric &quot;Precious Ricky&quot; Hong: Beautiful girl, skin like butterfly wings.
-Nick: Did you beat her up?
-Eric &quot;Precious Ricky&quot; Hong: I'm a lover, brother.
-Nick: Let me tell you something, man. You play around with me, I'm gonna throw your ass in jail. You feel me?
-Eric &quot;Precious Ricky&quot; Hong: Yeah, I feel you.
-Nick: Good.  So she said she was leaving you, going to get married, right?
- 
-Nick: Oh, come on. At least admit I'm right about that.
-Eric &quot;Precious Ricky&quot; Hong: Yeah, okay, sure.
-Nick: Is that when you took her boyfriend's truck and ran her over?
-Eric &quot;Precious Ricky&quot; Hong: Wait. 
-Nick: It's a good plan, Rick – 
-Eric &quot;Precious Ricky&quot; Hong: Wait.
-Nick: You get the boyfriend and a little revenge to boot. I mean, it's ...
-Eric &quot;Precious Ricky&quot; Hong: Okay, I didn't like the girl quitting on me, especially during one of my busiest freaking weeks of the year, and I wanted to talk her out of it.
-Nick: Is that all you did: talk?
-Eric &quot;Precious Ricky&quot; Hong: No, I couldn't even talk to her. She wouldn't take my calls, so I quit trying.
-Nick: Where were you making all these phone calls from?
-Eric &quot;Precious Ricky&quot; Hong: From a country-western bar. I hit them all when the cowboys come to town.
-Nick: Mm-hmm, all right, all right, I'll check it out.
-Eric &quot;Precious Ricky&quot; Hong: Yeah, you do that, please.
-Nick: I didn't take you for a country music fan. Yee-ha.
- 
-
-
-
-;
-
-
-
-
-
- 
-Lyrics:
-This ol' wheel keeps on rollin' down the road
-This ol' wheel keeps on rollin' down the road
-Oh, gravel and dust fly up off of truck drivers
-Down a dirt road in Nashville
-In the summertime in 1996
-I was listenin' to my dad and Johnny Cash doing &quot;Chain Gang&quot;
-And talkin' trash with Savannah and smokin' cigarettes
-But it wasn't that long
-Till I tasted the salt of the sea
-But she was still in love with the guy she left for me so
-She stood there cryin' as I packed my pack
-And I knew that I was lyin' when I said that I'd be back
-This ol' wheel keeps on rollin' down the road 
- 
- 
-Lyric: This ol' wheel keeps on rollin' down the road
-Now fast forward to about 2003
-I'm standin' on the corner
-Of Hollywood and Vine, just a six-string and me 
- 
-Lyric: And that Capitol building -- lookin' up at that thing
-Wonderin' when am I gonna get my chance to sing
-But faced with that kind of predicament
-It'd be pretty hard not to get choked up
-When every hero I had has died and every band I had broke up 
- 
-
- 
-
-
- 
-Nick: Shotgun.
-Greg: At a close range.
-Nick: Would have been pretty loud, but everything is in a place like this.
-Greg: Cowboys, cattle rustling, and now a shooting at the dance hall.
-Nick: Welcome to the Wild West.
-
-
- 
-Brass: So, Coco, you didn't see anyone threaten Precious Ricky? 
-Coco: I was trying to put the nine ball in the corner pocket.
-Brass: Yeah, right. You know this girl?
- 
-Coco: That's Tiffany. She got married last night. Lucky bitch.
-Brass: Do you know who the groom was?
-Coco: Troy? Troy something?
-Brass: Know anything about him?
-Coco: No. She just met him. Sweet kid. He ... uh ... took her side when that cowgirl trash got all up in her face.
- 
- 
-Tiffany Rigdon: Hey, cowboy.
-Troy Birkhart: Hey.
-Tiffany Rigdon: Like that hat.
-Troy Birkhart: Thank you.
- 
-Tiffany Rigdon: What's underneath don't look too bad, either.
- 
-Tiffany Rigdon: I'm Tiffany.
-Troy Birkhart: I'm Troy.
- 
- 
-Buckle Bunny 1:  We know what you are.
- 
-Troy Birkhart: Excuse me, Miss, but we're having a private conversation here.
-Buckle Bunny 2: Why pay that cow when others would give you the milk for free?
- 
-Troy Birkhart: I think you owe her an apology.
-Buckle Bunny 1: We don't want your kind in here.
-
-Tiffany Rigdon: Oh, yeah?
- 
-Buckle Bunny 1: Whore!
-Tiffany Rigdon: That's it! 
- 
-Troy Birkhart: Hey, hey! Hey!
- 
-Buckle Bunny 2: Come on! 
-Troy Birkhart: Hold-hold-hold on! 
- 
- 
-Troy Birkhart: Hey! Tiffany! 
- 
- 
-Troy Birkhart: Tiffany, come on! 
- 
-Tiffany Rigdon: Wait. Wait.
- 
-Tiffany Rigdon: Let's go.
- 
-
- 
-Coco: She came back last night and said that she was going to marry the guy.
-Brass: It's kind of impulsive, isn't it?
-Coco: Hey, cop, somebody says they want to marry you, take care of you, pay all your bills, give you a nice place to live, why would you even wait?
-
-
- 
-Connie Dellaquilla: It's always crazy busy with the cowboys in this town. You know, I think it's being around all these bucking bulls. Gets them all worked up. Brings out their animal instinct to mate.
- 
-Greg: According to the marriage bureau, Troy Birkhart and Tiffany Rigdon got their license just before midnight.
-Nick: And then, what, Troy came over to your chapel to set up the service?
-Connie Dellaquilla: Yeah. He said his girl was changing at the hotel. It's the old story, you know. She gets cold feet, he can't face the truth, keeps thinking she's running late.
-
- 
- 
- 
- 
- 
-
-Greg: How long did he wait?
-Connie Dellaquilla: Hours. He shows me the prize buckles he's won for bull riding. Tells me he's going on the pro tour next year. The little ranch they're going to settle down on ... &quot;Where the wind comes sweeping down the plains.&quot;
-Nick: And what time did he end up leaving?
-Connie Dellaquilla: A little after 3:00 AM. Frankly, if she's not going to make a go of it, I say, better now than down the road before all the lawyers and the property and all that mess.
-Nick: Wedding chapel's only a couple blocks from the crime scene.
-Greg: Yeah, and she was killed at 2:30.
-Nick: Mm-hmm.
-Connie Dellaquilla: Killed?
-Nick: Yeah, on the way to her own wedding. I'll get a BOLO out on Troy's vehicle.
- 
-
-
- 
- 
-Dispatcher:  Attention, all officers: attempt to locate yellow two-toned Dodge Ram pickup, Texas plates Charlie Nora Baker Queen Seven Five Zero. 
- 
-Dispatch:  Troy Birkhart, white male adult, wanted in connection with a 415-Adam, Eric Hong homicide.
-Warrick:  Dispatch, this is C-21 Brown. The pickup that you're looking for is on level 3 of the PD garage. Suspect is in the vehicle, armed and agitated.
- 
-Warrick:  I repeat: suspect is armed and agitated.
- 
-Dispatch:  Copy, C-21. Units responding. Code Three.
- 
- 
-Warrick: Hey, buddy. Hey. You must be Troy, huh?
- 
-Warrick: Just be cool, okay?
- 
-Warrick: All right?
-Brass:  Hey, Troy, listen to me.
- 
-Brass: We don't want anyone getting hurt, okay? So put the gun down. Come out of the truck with your hands up. Put the gun down, Troy. Just let it fall away. Now. He moves on that gun, don't wait.
- 
-Nick: Hang on, Jim. Let me ... Let me talk to him real quick.
-Brass: Okay, but we're not taking any chances.
-Nick: Yeah, yeah, okay.
- 
-Nick: Hey, Troy, when's the last time you got down to Big Bend? Huh? You-you got the plate frame. Man, I used to go to summer camp down there.
-Troy Birkhart: Stay back!
-Nick: Hey, take it easy, Troy. Look, I got no weapon on me. Okay, I just want to talk to you for a second.
-Troy Birkhart: I killed somebody!
-Nick: Yeah, I know. You came out to Vegas, and you got in over your head, but this is getting out of control. If you don't put that gun down, these cops are going to start shooting, and that could turn out very bad for both of us. You know what I mean?
-Troy Birkhart: I'm just ... I'm just doing the right thing. Making sure you know it was me. And I'll pay for what I did. Eye for an eye, man.
-Nick: Hey.
- 
-Troy Birkhart: Stay back! I'll do it, I swear! I'll do it, I swear!
-Nick: No, Troy, just wait. Hang on now. Listen to me. I know about Tiffany. I know why she stood you up at the wedding chapel.
-Troy Birkhart:  That Ricky. Thought he owned her.
- 
-Eric &quot;Precious Ricky&quot; Hong: Hey. Hey! Hey, what you doing, man?
- 
-
-Troy Birkhart: He wouldn't let her come.
-Nick: Hey, man, look at me. Look at me.
-
-Nick: I know she wanted to be there for you. Come on out of there, man. I'll tell you all about it. You don't want to do this.
-
-Nick: Give me that. Come on, give me that thing. Give it to me.
-(Troy loosens his hold on the gun. Nick reaches in through the window-- 
-Nick: It's going to be okay.
--- and pulls the gun away.) 
- 
-Brass: Nice job.
- 
-Warrick: You didn't go to summer camp.
- 
-Nick: Missed you around here. Welcome back.
-Warrick: Thanks.
-
-
-
-
- 
- 
-Grissom: Well we know that Cody was alone when he died because he couldn't have opened the bucking chute by himself.
-Catherine: And we know that someone other than Cody put the electroejaculation equipment into the truck and drove away.
-Nick: Killing Tiffany.
-Grissom: Whoever that someone was knew how to get into the arena, and also how to use the equipment. 
- 
-Hodges:  More cowbell! 
- 
-Hodges: I processed these for you.
-Grissom: And?
-Hodges: Well, as you can see, they're bull ropes. These are the kind that the riders hold in their hands. Every rider has one, and they're usually custom-made. I mean, look at that craftsmanship.
-Grissom: Yeah, it's exquisite.
-Catherine: Now, that's the rope that I collected from Cody's room?
-Hodges: Yes, it is. Uh, you'll note that it is polynylon. Now the rope that was collected from the crime scene, though, was long sisal, a type of hemp. Very old-school, and they stopped making it years ago.
-Nick: That means the rope found with Cody's body belonged to someone who's been around for a while.
- 
-Grissom: How'd you like to go on a roundup?
-
-
- 
-Brass: Hey, Ms. Twicker, how's it going?
- 
-Nancy Twicker: It'd be going a lot better if my bull Wintwister was in there bucking.
-Nick: Is Cash Dooley here?
-Nancy Twicker: Cash!
- 
-Nancy Twicker: Cops want to talk to you.
- 
-Brass: Hey, Mr. Dooley. So, where you staying when you're here in Vegas?
-Cash Dooley: Here.
-Nancy Twicker: He's got the sleeper cab up front.
-Brass: Oh, right here.
-Nick: Is that where you keep your clothes, the rest of your stuff?
-Cash Dooley: What's this about?
-Nick: I'd like to take a look in that cab.
-Cash Dooley: No. It's private.
-Nancy Twicker: Now hold on. I own this rig. If you guys want to search it, go ahead.
- 
-
-
- 
- 
-
-Brass:  Well, bull semen is property, and that property isn't yours so it's theft.
-
-
- 
-Brass: Now, here's what I think happened. You know Cody. He's at the end of his career. He's a little down on his luck. Never put any money aside. Wintwister's output goes for 20 grand a pop on the open market. So, you and Cody, you get together, you do the deed and ... uh ... sell it on the sly.
-Cash Dooley: If you knew Cody, you'd know he'd never do anything like that.
-Brass: And then when he told his girlfriend, you took his truck.
-Cash Dooley: He always let me borrow his truck.
-Brass: Even when it was to hunt down his girl?
- 
-Catherine: Jim?
- 
-
- 
-Catherine: We ran his ten-card against the prints from the truck and the equipment. They don't match.
-Brass: So, there is a third guy?
-Catherine: Right. So now, I'm convinced that Cody Latshaw's death was not an accident.
-
- 
-Brass: Okay, so who is working with you on this, Cash, huh? Who was at the wheel of Cody's truck when you ran down that girl? Was it someone in the arena?
- 
-Brass: What's this, a cowboy code of silence? Look, you want to make me compel fingerprints from everyone working in that arena, I can do that.
-
- 
- 
-Announcer:  Here is Dale Wylie! 
- 
-
- 
-Grissom: We got a match! Dustin Lightfoot. 
-Nancy Twicker: Dustin? He's a bullfighter.
-
- 
-Nancy Twicker: He's right there.
- 
-Brass:  I got a 440 exiting the east end of the arena. Head him off.
- 
-
- 
-Officer:  In the tunnel headed your way.
-
- 
-Officer: Hold it. Freeze. Right there. OFFICER: Don't move.
- 
-Officer: Hands behind your back.
- 
-Brass: Well, howdy, partner. This is a new experience for me. First time I caught me a cattle rustler.
-
-
- 
-Dustin Lightfoot:  Look, Cash and me was just trying to make a little extra money.
- 
-Brass:  Then Cody Latshaw came in drunk and itching for a fight.
-
-Cody Latshaw: Hey! Quit that!
- 
-Dustin Lightfoot: Hey, Cody. 
-Cody Latshaw: You hear me?
- 
-Dustin Lightfoot: Cody, relax. Ain't nobody hurtin' anybody.
-Cody Latshaw: That ain't your property.
-Dustin Lightfoot: Cody, Cody, ...
- 
-Cash Dooley: Whoa, whoa, whoa, whoa, whoa.
- 
-Cash Dooley: He ain't breathin'.
-
-
- 
-Dustin Lightfoot: We wasn't tryin' to kill him.
-Grissom: He had a cervical fracture from his earlier ride. It didn't take much to snap his spine.
-
-SLOW MOTION. Dustin punches Cody. Cody's neck snaps back.
-BACK TO SCENE.
-Brass: Then you tried to make it look like an accident.
-
-
- 
-
- 
-BACK TO SCENE.
-Brass: But you didn't have to run over his girlfriend.
-Dustin Lightfoot:  That girl we hit -- that was ... that was Cody's girlfriend?
-Brass: Yeah, you didn't know?
-Dustin Lightfoot: We was racing to get the product to our buyer. And we took Cody's truck 'cause, well, mine ain't air-conditioned and, and he wasn't gonna be usin' it.
-
-
- 
-BACK TO SCENE.
- 
-Catherine:  It's kind of a lonely life, these cowboys, every weekend a different town.
-
-
- 
-Nick: That's part of the tradition, you know. Solitary man out there trying to find himself.
-Catherine: Yeah, but no man is an island. I mean, obviously, he had feelings for Nancy or he wouldn't have written her that poem.
-Nick: Nancy? I don't know about that. Tiffany's the one that broke his heart.
-Grissom:  I don't think it's about either girl. 
- 
-Grissom:  Did you read Tiffany's autopsy report?
-Nick: Oh. Yeah, her eyes were blue.
-Grissom: So were Nancy's.
-Nick: Then who did he write the poem for?
-Grissom: Wintwister.
- 
-Catherine: The bull?
-Grissom: I think that's why he went back to the arena that night. Wordsworth once wrote, &quot;Through love we feel we are greater than we know.&quot; My guess is, riding that bull, Cody felt like a greater man.
-MONTAGE OF: 
-
- 
-Grissom: 
-Our bodies close together, like my ride hand in my glove.
-CLOSE ON: The bull in the pen.) 
-Grissom: 
-Hearts pounding with excitement, and dare I say it, love.
-
-Grissom: 
-I know I'll never own you; it's your nature to run free.
-But I pray the Lord above that one day you'll come back to me.
-
- 
-Grissom: 
-Then we'll ride off in glory until our time is done.
-And I will be your hero, your cowboy in the sun.
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=08x11+-+Bull&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127462%23p127462" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=08x11+-+Bull&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127462%23p127462" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127462%23p127462&amp;name=08x11+-+Bull" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127462%23p127462" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=59808e772ab6e32648261912fb7f3c04">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=59808e772ab6e32648261912fb7f3c04">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=59808e772ab6e32648261912fb7f3c04">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=59808e772ab6e32648261912fb7f3c04">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

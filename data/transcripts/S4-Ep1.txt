@@ -1,808 +1,1040 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]
+CUT TO:
+[INT. HOTEL/CASINO - ROULETTE TABLE - NIGHT]
+(Open on a roulette ball being put into " />
+<meta property="og:title" content="04x01 - Assume Nothing (1) - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]
+CUT TO:
+[INT. HOTEL/CASINO - ROULETTE TABLE - NIGHT]
+(Open on a roulette ball being put into " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13259" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>04x01 - Assume Nothing (1) - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13259" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13259">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=2cd23bbd0de3c96dd6b944b8486f4015"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=2cd23bbd0de3c96dd6b944b8486f4015">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=2cd23bbd0de3c96dd6b944b8486f4015">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=2cd23bbd0de3c96dd6b944b8486f4015">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=2cd23bbd0de3c96dd6b944b8486f4015">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13259&amp;sid=2cd23bbd0de3c96dd6b944b8486f4015&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>04x01 - Assume Nothing (1)</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127353">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127353">04x01 - Assume Nothing (1)</a></div>
+							<div class="pull-right text-right"><time datetime="2003-10-09T04:10:43Z">10/09/03 04:10</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>CUT TO:<br />
+[INT. HOTEL/CASINO - ROULETTE TABLE - NIGHT]</p>
+<p>(Open on a roulette ball being put into play, then a top view of a roulette wheel in play. MRS. RIFKIN and her husband are playing.)</p>
+<p><strong>Mrs. Rifkin</strong>: Okay. Come on. MR. RIFKIN: Come on. MRS. RIFKIN: Let's go. Come on. MR. RIFKIN: Don't fail me. MRS. RIFKIN: Come on, baby. I'm feeling this one.</p>
+<p><strong>Mr. Rifkin</strong>: Don't fail me. MRS. RIFKIN: Don't you let me down. MR. RIFKIN: Come on now. MRS. RIFKIN: All right. Black 22.</p>
+<p>(MRS. RIFKIN reaches out a puts a stack of red chips on the number. They watch the ball on the wheel.)</p>
+<p><strong>Mr. Rifkin</strong>: If this happens, I'm buying you a shot.</p>
+<p><strong>House</strong>: No more bets.</p>
+<p>(The ball stops on Black 22.)</p>
+<p><strong>Mr. Rifkin</strong>: Yes!</p>
+<p>(The couple cheers, hug and kiss each other in celebration.)</p>
+<p><strong>Mrs. Rifkin</strong>: Yeah.</p>
+<p>(The house pushes their win toward the couple. MRS. RIFKIN reaches for ward to grab the chips. Her husband glances over at the bar and sees a WOMAN IN RED leaning against the counter and standing next to a man.)</p>
+<p><strong>Mrs. Rifkin</strong>: Give me my money.</p>
+<p>(She grabs the chips and pulls it toward her.)</p>
+<p><strong>Mrs. Rifkin</strong>: Oh, my.</p>
+<p>(She turns to her husband and drapes her arms around his neck to hold him close.)</p>
+<p><strong>Mrs. Rifkin</strong>: Let's cash out.</p>
+<p><strong>Mr. Rifkin</strong>: Why? I, uh, I thought we were going to take some risks tonight.</p>
+<p><strong>Mrs. Rifkin</strong>: (suggestively) Come on ... I want to go dancing.</p>
+<p><strong>Mr. Rifkin</strong>: Really?</p>
+<p><strong>Mrs. Rifkin</strong>: Mm-hmm.</p>
+<p><strong>Mr. Rifkin</strong>: Okay. As long as it's lap dancing.</p>
+<p>(Her jaw drops in surprise.)</p>
+<p><strong>Mrs. Rifkin</strong>: What has gotten into you?</p>
+<p>(He smiles back, then they hug. Over her shoulder, MR. RIFKIN glances over at the bar to look at the woman in red, but she's gone.)</p>
+<p>WHITE FLASH TO:</p>
+<p>[INT. BAR -- NIGHT] </p>
+<p>(MRS. RIFKIN and her husband sit at the bar.) </p>
+<p><strong>Mr. Dominguez</strong>: Hey, buddy, when you get a chance, can I get a couple more of these martinis? One with an olive, one with a twist. Thank you.</p>
+<p><strong>Mrs. Rifkin</strong>: Why don't we, um ... take those up to the room? </p>
+<p>(She smiles, laughs and kisses him.)</p>
+<p><strong>Mrs. Rifkin</strong>: 'Cause I'm feeling a little ... uh ...</p>
+<p>(She kisses him again as her husband looks beyond her to the WOMAN IN RED in the back of the room with her husband.)</p>
+<p><strong>Mrs. Rifkin</strong>: (whispering) ... Frisky.</p>
+<p>(MRS. RIFKIN turns around to look at who he's looking at. She sees the couple, then turns back to her husband.)</p>
+<p><strong>Mrs. Rifkin</strong>: Do you know them?</p>
+<p><strong>Mr. Rifkin</strong>: (chuckles and shakes his head) No, but how frisky do you feel?</p>
+<p>(They both turn and glance over at the couple. Her husband points over at them.)</p>
+<p>(The Rifkin's stand up and head for the other couple.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS DESERT (STOCK) - SUNRISE]</p>
+<p>[INT. THE SPHERE - TENTH FLOOR -- MORNING] </p>
+<p>(CAMERA LOW TO THE GROUND as the hotel housekeeper pushes her cart through the hallway. She pauses at the next room door and knocks.) </p>
+<p><strong>Housekeeper</strong>: Housekeeping. Coming in.</p>
+<p>(She opens the door, pushes it wide open and walks into the darkened room. She reaches out and flips the switch to open the curtains, but after a moment, they only open part of the way. She stops, turns back and tries the curtain switch again. After hitting it several times, she gives up and heads for the curtains to open them herself.)</p>
+<p>(She walks across the bedroom and jiggles the drapes. Suddenly, she stops, turns around slowly ... and screams.)</p>
+<p>WHITE FLASH TO:</p>
+<p>[INT. THE SPHERE - TENTH FLOOR -- MORNING] </p>
+<p>(Several quick flashes of ALICE DOMINGUEZ'S slashed throat. Resume to present.)</p>
+<p>(ALICE DOMINGUEZ is slumped back in her seat at the table. There is blood spattered all along the table, the vase on the table and along the wall.)</p>
+<p>(Camera moves rapidly around and stops on ...</p>
+<p>(GRISSOM stares at the scene. He steps forward and examines the injury. CATHERINE walks into the room and examines the blood spatter on the walls.)</p>
+<p><strong>Grissom</strong>: Her throat's been slit by what appears to have been a very sharp implement. </p>
+<p>(GRISSOM straightens and looks around the room.)</p>
+<p><strong>Grissom</strong>: The room is completely stripped. No bedding, no sheets. </p>
+<p><strong>Catherine</strong>: No towels, either. Someone took a few souvenirs. I'll check the surveillance tapes.</p>
+<p>(CATHERINE walks out of the bathroom and into the bedroom. GRISSOM goes back to examining the body.)</p>
+<p>(He takes out her driver's license and looks at it:</p>
+<p>CALIFORNIA DRIVER LICENSE<br />
+EXPIRES: 7/13/07<br />
+CLASS:</p>
+<p>ALICE DOMINGUEZ<br />
+311 SEPHILL<br />
+LOS ANGELES, CA 90078</p>
+<p>s*x: F HAIR: BRN EYES: BRN<br />
+HT: 5'7&quot; WT: 130 DOB: 7-13-72<br />
+RSTR: NONE<br />
+{signature}</p>
+<p><strong>Grissom</strong>: Alice Dominguez. </p>
+<p>(GRISSOM shows CATHERINE the wallet.)</p>
+<p><strong>Grissom</strong>: She wasn't robbed.</p>
+<p><strong>Catherine</strong>: It's not her room, either. It was registered under the name of Parker.</p>
+<p>(GRISSOM shines his flashlight on ALICE DOMINGUEZ' left hand.)</p>
+<p><strong>Grissom</strong>: Wedding ring. Where's the husband?</p>
+<p>(Off screen, we hear a faint, electronic whirring sound. The camera cuts to CATHERINE'S black bag and kit on the floor off to the side. GRISSOM looks over to her things.)</p>
+<p>(CATHERINE turns to answer it.)</p>
+<p><strong>Grissom</strong>: I think your cell phone's vibrating.</p>
+<p><strong>Catherine</strong>: (turns back to look at GRISSOM) You heard that?</p>
+<p>(GRISSOM goes back to looking at the wallet.)</p>
+<p><strong>Grissom</strong>: Mm-hmm.</p>
+<p>(CATHERINE reaches for her phone and smiles at GRISSOM.)</p>
+<p><strong>Catherine</strong>: You're back.</p>
+<p>(Distracted, GRISSOM doesn't hear her.)</p>
+<p><strong>Grissom</strong>: Huh?</p>
+<p>(CATHERINE smiles as she answers her phone. GRISSOM squints ... or winks at her.)</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) -- DAY] </p>
+<p>[INT. THE SPHERE - TENTH FLOOR HALLWAY - DAY]</p>
+<p>(BRASS, WARRICK and NICK walk through the hallway on the way to the hotel room.) </p>
+<p><strong>Warrick</strong>: There's only two reasons why people get murdered in a casino.</p>
+<p><strong>Brass</strong>: s*x or money. Well, on the money side, the room was booked yesterday, under a stolen credit card belonging to a Mrs. Parker. She's a 75-year-old living alone in Henderson. As far as s*x goes, well, I want to be a believer.</p>
+<p>(They stop in front of the taped-off room. NICK looks beyond that to the stairs just next to it.)</p>
+<p><strong>Nick</strong>: Room closest to the exit. Imagine that.</p>
+<p><strong>Warrick</strong>: Quick escape. Murder Central. Security cameras?</p>
+<p><strong>Brass</strong>: Uh, not in the hallway. Only in the elevator. We're on it.</p>
+<p><strong>Nick</strong>: Take the exit.</p>
+<p>(NICK walks over to the stairway door.)</p>
+<p><strong>Warrick</strong>: I'll take the money trail.</p>
+<p>(WARRICK leaves.)</p>
+<p><strong>Brass</strong>: And I'll, uh ... go door-to-door.</p>
+<p>CUT TO:<br />
+[INT. THE SPHERE - TENTH FLOOR ROOM -- DAY] </p>
+<p>(GRISSOM and CATHERINE study the dead body. CATHERINE stands in front of the body, while GRISSOM stands behind it. He moves around to the front.) </p>
+<p><strong>Catherine</strong>: This is very weird.</p>
+<p><strong>Grissom</strong>: Yeah, usually when someone gets their throat cut, it's from behind.</p>
+<p><strong>Catherine</strong>: Yeah, and it starts there, ends there. It's not very deep.</p>
+<p>(CATHERINE checks the woman's hands.)</p>
+<p><strong>Catherine</strong>: No ligature marks. No defensive wounds.</p>
+<p><strong>Grissom</strong>: I think whoever did this was sitting in that chair.</p>
+<p>(Quick flash to: Close up of the knife and ALICE DOMINGUEZ'S reflection in the knife as it's being held up against her neck.)</p>
+<p>(End of quick flash. Resume to present.)</p>
+<p><strong>Catherine</strong>: She sat there and allowed someone to slit her throat?</p>
+<p>(GRISSOM looks back at CATHERINE.)</p>
+<p>CUT TO:<br />
+[INT. HOTEL -- CASINO -- DAY] </p>
+<p>(SARA leans up against the counter looking at a piece of paper. WARRICK walks up to her. They both turn and walk through the casino.) </p>
+<p><strong>Warrick</strong>: Hey, girl.</p>
+<p><strong>Sara</strong>: Hi.</p>
+<p><strong>Warrick</strong>: What you got?</p>
+<p><strong>Sara</strong>: Not much. Mrs. Dominguez checked in with her husband yesterday. Room<br />
+869.</p>
+<p><strong>Warrick</strong>: 869? That's, like, two floors away from where she was found dead.</p>
+<p><strong>Sara</strong>: Anybody heard from the husband yet?</p>
+<p><strong>Warrick</strong>: He's M.I.A., but he left a gambling paper trail.</p>
+<p><strong>Sara</strong>: Really?</p>
+<p><strong>Warrick</strong>: I have a signature and a thumbprint from where Mr. Dominguez signed a<br />
+$5,000 cash-advance check.</p>
+<p><strong>Sara</strong>: Cash advance, huh?</p>
+<p><strong>Warrick</strong>: It was cash advance on a credit card. It's not cheap. It's, like $90 every thousand.</p>
+<p><strong>Sara</strong>: That's a rip-off.</p>
+<p><strong>Warrick</strong>: Not if you're desperate. He must have had a bad night.</p>
+<p><strong>Sara</strong>: Yeah, and Mrs. Dominguez had a worse night. You know, nobody's checked their suite yet. Would you care to join me?</p>
+<p><strong>Warrick</strong>: Let's do it.</p>
+<p>(They walk off camera frame.)</p>
+<p>CUT TO:<br />
+[INT. TENTH FLOOR HALLWAY -- DAY] </p>
+<p>(BRASS talks with a man in the hotel room directly next door to the crime scene room.) </p>
+<p><strong>Guest (man)</strong>: I heard some voices raised and a door slamming.</p>
+<p><strong>Brass</strong>: Mm. How many voices?</p>
+<p><strong>Guest (man)</strong>: Two. No, wait. Uh, maybe it was three. (He shrugs.) Definitely a man and a woman.</p>
+<p><strong>Brass</strong>: What were they saying?</p>
+<p><strong>Guest (man)</strong>: Uh, it was hard to tell. You know, the walls in these joints are pretty thick. They were definitely arguing about something.</p>
+<p><strong>Brass</strong>: Did you get a look at them?</p>
+<p><strong>Guest (man)</strong>: Uh, just through the spy hole.</p>
+<p>(Quick flashback to: The GUEST looks through the peephole and sees a man and a woman arguing loudly as they're walking away from the room. These are the two people in the teaser who were in front of the roulette wheel.)</p>
+<p><strong>Mr. Rifkin</strong>: Obviously he's insane. They're both crazy.</p>
+<p><strong>Mrs. Rifkin</strong>: Why would you put me in that situation?</p>
+<p><strong>Mr. Rifkin</strong>: I didn't put you in that position with ...</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: What time was that?</p>
+<p><strong>Guest (man)</strong>: 10:35.</p>
+<p><strong>Brass</strong>: 10:35? You seem to be pretty sure about that.</p>
+<p><strong>Guest (man)</strong>: Well, I-I had just ordered a pay-per-view movie, and it was just about to begin.</p>
+<p><strong>Brass</strong>: Oh, yeah? Which one was that?</p>
+<p><strong>Guest (man)</strong>: Arma-get-it-on.</p>
+<p><strong>Brass</strong>: You mean, Armageddon?</p>
+<p><strong>Guest (man)</strong>: No. Arma-get-it-on.</p>
+<p><strong>Brass</strong>: Oh. (beat) Good movie?</p>
+<p><strong>Guest (man)</strong>: Worked for me.</p>
+<p>(BRASS leaves.)</p>
+<p>CUT TO:<br />
+[INT. HALLWAY/STAIRWELL - DAY] </p>
+<p>(NICK takes a print off of the door. He walks inside the stairwell. He peers over and above the railing.) </p>
+<p>CUT TO:<br />
+[EXT. PARKING - DAY -- CONTINUOUS] </p>
+<p>(NICK opens the door and walks outside. He puts his sunglasses on and rounds the corner. He heads for the group of valets. As he approaches, most of them disburse.) </p>
+<p><strong>Nick</strong>: Hey, guys. How you doing? Uh, I'm with the Las Vegas Crime Lab, and I'm ...</p>
+<p><strong>Kenny Richmond</strong>: Nick Stokes?</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p>(NICK turns around to look at a valet who's smiling at him in recognition.)</p>
+<p><strong>Kenny Richmond</strong>: What's up? It's Kenny! Kenny Richmond. Rebel baseball. I played backup catcher.</p>
+<p><strong>Nick</strong>: Kenny. </p>
+<p><strong>Kenny Richmond</strong>: Yeah! </p>
+<p><strong>Nick</strong>: Hi, Kenny!</p>
+<p><strong>Kenny Richmond</strong>: Yeah!</p>
+<p><strong>Nick</strong>: How you doing, man?</p>
+<p><strong>Kenny Richmond</strong>: How you doing?</p>
+<p><strong>Nick</strong>: Good to see you.</p>
+<p><strong>Kenny Richmond</strong>: Good to see you! Look at you, man.</p>
+<p><strong>Nick</strong>: Yeah. Yeah.</p>
+<p><strong>Kenny Richmond</strong>: What are you doing here? You a cop now?</p>
+<p><strong>Nick</strong>: Uh, Crime Scene Investigator. I'm on a case.</p>
+<p><strong>Kenny Richmond</strong>: Crime scene? Rock on, man. You're here on the tenth floor thing, right?</p>
+<p><strong>Nick</strong>: Right.</p>
+<p><strong>Kenny Richmond</strong>: Yeah. I heard about that, man. Everybody's talking about it. Somebody, uh, bashed some chick's brains in, I think, right?</p>
+<p><strong>Nick</strong>: Yeah, actually, uh, she had her throat slit and bled out all over the room. I'll know more when I check the surveillance camera.</p>
+<p><strong>Kenny Richmond</strong>: Well, what are you doing down here?</p>
+<p><strong>Nick</strong>: Uh, I'm just checking possible escape routes. She was murdered in the room closest to the exit. Murder Central.</p>
+<p>(NICK looks up at the hotel building. KENNY glances up, too.)</p>
+<p><strong>Kenny Richmond</strong>: Murder Central, huh? Cool.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(Camera opens on ALICE DOMINGUEZ'S slit throat. ROBBINS goes over his findings with CATHERINE.) </p>
+<p><strong>Robbins</strong>: Cut began at the right carotid. Severed the artery and the jugular vein and terminated at the trachea. It's not as deep as I would expect for this kind of crime.</p>
+<p><strong>Catherine</strong>: He sliced her gently?</p>
+<p><strong>Robbins</strong>: Well, yeah. Oftentimes, the only thing intact is the spinal column. This did the job and nothing more.</p>
+<p><strong>Catherine</strong>: And what did the tox report give us?</p>
+<p><strong>Robbins</strong>: Alcohol count was .20.</p>
+<p><strong>Catherine</strong>: Double the legal limit.</p>
+<p><strong>Robbins</strong>: There was no limit to Mrs. Dominguez. Blood work showed heavy traces of M.D.M.A.</p>
+<p><strong>Catherine</strong>: Ecstasy? And alcohol? Party mix.</p>
+<p><strong>Robbins</strong>: Yeah, it might have made her docile.</p>
+<p><strong>Catherine</strong>: Well, maybe it explains why she was cut from the front.</p>
+<p><strong>Robbins</strong>: That may explain her head. Now let's move down to the toes.</p>
+<p>(ROBBINS removes a piece of glitter from her toes. Camera zooms in to show that it's purple and has a S-shaped cut out in the middle of the square piece.)</p>
+<p><strong>Catherine</strong>: Glitter?</p>
+<p><strong>Robbins</strong>: Yeah. There is a ... a strip club, um, named Shimmer on industrial. I, uh, recognized the &quot;s&quot; almost immediately.</p>
+<p><strong>Catherine</strong>: You go, Doc.</p>
+<p>CUT TO:<br />
+[INT. THE SPHERE - ROOM 869 -- DAY]</p>
+<p>(SARA knocks on the door lightly, then opens it. She and WARRICK walk into the room.) </p>
+<p><strong>Sara</strong>: Hello? Mr. Dominguez?</p>
+<p>(They walk into the room.)</p>
+<p><strong>Sara</strong>: Looks like the bed wasn't slept in.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>(SARA looks through the suitcase.)</p>
+<p><strong>Warrick</strong>: Stopped for gas in Barstow. Big tank. $43.</p>
+<p><strong>Sara</strong>: Clothes are still here.</p>
+<p><strong>Warrick</strong>: Ford explorer. California plates. Two-Paul-Charlie-Edward-329.</p>
+<p><strong>Sara</strong>: Really?</p>
+<p>CUT TO:<br />
+[INT. THE SPHERE - PARKING GARAGE -- DAY] </p>
+<p>(WARRICK, SARA and NICK each walk along the individual garage floors looking for the car.) </p>
+<p>(Cut to: NICK approaches a bronco with the license plate 2PCE329. He looks inside the car and sees Mr. Dominguez.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS (STOCK) -- DAY] </p>
+<p>[INT. THE SPHERE - PARKING GARAGE - DAY - SHORT TIME LATER]</p>
+<p>(The area around the car is taped off. WARRICK, NICK and SARA check the car for evidence.) </p>
+<p>(NICK is looking at the dead body in the driver's seat. WARRICK is checking the passenger seat while SARA examines the back.)</p>
+<p><strong>Nick</strong>: Hey, Warrick. Take a look at this wound. It's different than the wife's. She was cut from the front.</p>
+<p><strong>Warrick</strong>: Yeah, this one looks like he was cut from the back.</p>
+<p>(Quick flashback to: Mr. Dominguez getting his throat cut from the back. Blood spatters on the rear view mirror.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(SARA opens the back seat and finds the knife on the floor. She picks it up.)</p>
+<p><strong>Sara</strong>: Hey, guys? I got a knife.</p>
+<p>CUT TO:<br />
+[INT. CSI - PRINT LAB -- DAY] </p>
+<p>(Several camera flashes of the knife.)</p>
+<p>(JACQUI FRANCO takes the photos of the knife while GRISSOM goes through the other evidence. She takes a print off of the knife. NICK opens an evidence bag and takes out a check and shows it to JACQUI.)</p>
+<p><strong>Nick</strong>: Use this, uh ... cash-advance check Warrick found as a reference.</p>
+<p>(The information on the check reads:</p>
+<p>PAY THE SUM OF: $5,000.00<br />
+PURCHASED FROM CREDIT<br />
+REFERENCE NO. 0173084857<br />
+LOCATION 00580241<br />
+VERIFY 41223514<br />
+DATE 10/05/03<br />
+TIME 20:13:42<br />
+{CHECK NOS. 94040412235145 (on bottom of check)}<br />
+{finger print}<br />
+{098723-87665-99 (number under print)}</p>
+<p><strong>Jacqui Franco</strong>: Hmm. Ink pads make for great exemplars.</p>
+<p><strong>Nick</strong>: And compare that to the print I pulled off the exit door and the knife ... please.</p>
+<p>(NICK opens a second bag and takes out the print card with the following information on the back of the Pro-Lift Fingerprint Collection System Card:</p>
+<p>INVESTIGATING AGENCY: CSI<br />
+CASE NO: 9-27-03-085692-001<br />
+DATE 9-27-03<br />
+TIME 8:49 4<br />
+OFFICER LIFTING PRINT N. STOKES<br />
+0859<br />
+SPHERE HOTEL RM 1059</p>
+<p><strong>Nick</strong>: Here you go.</p>
+<p>(JACQUI takes the card and looks at it under a glass.)</p>
+<p><strong>Jacqui Franco</strong>: Good characteristics here.</p>
+<p>(She looks at the other print.)</p>
+<p><strong>Jacqui Franco</strong>: Match to the door handle.</p>
+<p>(She looks at the knife print.)</p>
+<p><strong>Jacqui Franco</strong>: And a match to the knife.</p>
+<p><strong>Grissom</strong>: One print on the knife. One print on the exit door. Both belonging to the husband. But we have two victims.</p>
+<p><strong>Greg</strong>: Speaking of twos ... I found blood from both victims on the knife. </p>
+<p>(They turn around to find GREG standing in the doorway with test results in his hand.)</p>
+<p><strong>Grissom</strong>: So it's possible the husband killed the wife. Who killed the husband?</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. SHIMMER -- NIGHT] </p>
+<p>(CATHERINE and GRISSOM interview a DANCER at the strip club.) </p>
+<p><strong>Dancer</strong>: Yeah, they look familiar - </p>
+<p>(She hands the paper with the DMV license information back to GRISSOM.)</p>
+<p><strong>Dancer</strong>: ... from the neck up. I must've given them four, five lap dances each. They made my night.</p>
+<p><strong>Catherine</strong>: So, they were George. </p>
+<p>(GRISSOM looks up at them. CATHERINE supplies an explanation.) </p>
+<p><strong>Catherine</strong>: Big tippers.</p>
+<p><strong>Dancer</strong>: No. They weren't the ones paying for it. The other couple was.</p>
+<p><strong>Grissom</strong>: The other couple?</p>
+<p><strong>Dancer</strong>: Yeah, we were all in the VIP booth over there. </p>
+<p>(She glances over across the room.)</p>
+<p>(Quick flashback to: The DANCER working with the couple. End of flashback. Resume to present.)</p>
+<p><strong>Dancer</strong>: The four of them -- they came in together. The other couple just wanted to watch. So I assumed they were friends. Good friends. </p>
+<p>(Quick flashback to: While the DANCER dances for the couple, the second couple watches. End of flashback. Resume to present.)</p>
+<p><strong>Dancer</strong>: I didn't get a good look at the other two, but they slid that money across the table ... mmm, brick this big. So, like I said, they just wanted to doggie in the window.</p>
+<p>(GRISSOM looks from the DANCER to CATHERINE.)</p>
+<p><strong>Catherine</strong>: (explains) Watch.</p>
+<p><strong>Dancer</strong>: And they were subbing drinks left and right. </p>
+<p>(Again, GRISSOM looks from the DANCER to CATHERINE.)</p>
+<p><strong>Catherine</strong>: Ordering clear drinks to keep the party going. What'd they order?</p>
+<p><strong>Dancer</strong>: Two vodkas, two soda waters. </p>
+<p><strong>Catherine</strong>: Guess who got the hard stuff.</p>
+<p>(CATHERINE'S cell phone rings. She answers it. When CATHERINE turns away, the DANCER starts to work on GRISSOM.)</p>
+<p><strong>Dancer</strong>: (smiling) Hi. Would you like a dance?</p>
+<p>(GRISSOM takes off his glasses. While CATHERINE'S on the phone, she keeps an eye on GRISSOM. She finishes her conversation.)</p>
+<p><strong>Catherine</strong>: Uh, I got to be at the courthouse. Apparently, there's a last-minute evidentiary hearing in the Sam Braun case. I need to be there.</p>
+<p><strong>Dancer</strong>: You sure you don't want a dance? I could be your specimen. You could be my mad scientist.</p>
+<p><strong>Catherine</strong>: (smiles) He already is, sweetheart. Thanks.</p>
+<p>(They turn to leave.)</p>
+<p>CUT TO:<br />
+[INT. CSI - AUDIO/VISUAL LAB] </p>
+<p>(ARCHIE goes over the video footage of elevator #4 with SARA. The timer on the monitor reads 1:44 a.m. (UP)) </p>
+<p><strong>Archie Johnson</strong>: So, this is the last footage we have of the Dominguezes alive.</p>
+<p>(The monitor shows the elevator going up from floor #7 through floor #10.</p>
+<p><strong>Sara</strong>: Have we I.D.'d that other couple?</p>
+<p><strong>Archie Johnson</strong>: Not yet, but check it out. (rewinds tape) Brass's witness said he heard a couple arguing at 10:35. </p>
+<p>(In Elevator #4 at around 10:36 (DN), the monitor shows the couple still arguing in the elevator.)</p>
+<p><strong>Archie Johnson</strong>: This must be them, going down. But coming up ... </p>
+<p>(He shows the elevator earlier at 10:09 pm (UP). It's the couple from the teaser and they're still arguing. There's a second couple in the elevator with them.)</p>
+<p><strong>Sara</strong>: They're with the same mystery couple who brought up the Dominguezes. Can you make me a still of the 10:35 couple, the ones that went up and down?</p>
+<p><strong>Sara</strong>: Freeze it there. What's in his hand?</p>
+<p>(ARCHIE manipulates the video to show what it is.)</p>
+<p><strong>Archie Johnson</strong>: That's a room key. Tangiers Casino.</p>
+<p><strong>Sara</strong>: Do me a favor, Archie. Call Grissom.</p>
+<p>CUT TO:<br />
+[INT. CSI - CONFERENCE ROOM]</p>
+<p>(As the group waits to meet, the television is on.) </p>
+<p><strong>Paula Francis (newswoman)</strong>: (from tv) New leads in the double homicide at the Sphere Hotel and Casino. According to sources within the crime lab, the killer or killers most likely fled the room CSIs call &quot;Murder Central,&quot; the nearest room to the emergency exit. </p>
+<p>(On NICK as he realized where they got that piece of information.)</p>
+<p><strong>Paula Francis (newswoman)</strong>: (from tv) CSIs are currently checking surveillance footage in an effort to identify possible suspects.</p>
+<p><strong>Nick</strong>: What the hell?</p>
+<p><strong>Warrick</strong>: What?</p>
+<p><strong>Nick</strong>: Kenny Richmond, that's what.</p>
+<p><strong>Warrick</strong>: Who's that?</p>
+<p><strong>Nick</strong>: This valet at The Sphere. I played baseball in college with this guy. I bumped into him for, like, two seconds.</p>
+<p><strong>Warrick</strong>: Don't tell me you opened your mouth to the guy.</p>
+<p>(NICK doesn't say anything, although his look says it all for him.)</p>
+<p><strong>Warrick</strong>: Hey, man. You could lose your job over something like this.</p>
+<p><strong>Nick</strong>: Hey, it's not like I ran my mouth to the press, okay?</p>
+<p><strong>Warrick</strong>: Best thing you could do is go to Grissom and 'fess up.</p>
+<p><strong>Nick</strong>: 'Fess up to what? There were a hundred people at that crime scene. Anyone could have gone to a reporter and told them what was going on with the case, man.</p>
+<p><strong>Warrick</strong>: Or what, you going to wait till he comes to you and then lie about it?</p>
+<p>(WARRICK stands up and turns ... right into GRISSOM who is standing in the doorway.)</p>
+<p><strong>Grissom</strong>: Lie about what?</p>
+<p>(NICK looks up at GRISSOM.)</p>
+<p>CUT TO:<br />
+[EXT. COURTHOUSE - DAY]</p>
+<p>(CATHERINE walks toward the building.)</p>
+<p>[INT. COURT -- DAY] </p>
+<p>(CATHERINE just walks in through the door and shows her I.D. to the security guard.)</p>
+<p><strong>Reporter</strong>: There he is! Mr. Braun!</p>
+<p><strong>Reporter</strong>: Does this mean your murder case will not be going to trial, Mr. Braun?</p>
+<p><strong>Reporter</strong>: Are you and your Representatives in discussion with the District Attorney's office?</p>
+<p>(CATHERINE watches as a swarm of reporters gather around SAM BRAUN and his lawyer.)</p>
+<p><strong>Reporter</strong>: Could you elaborate on those discussions?</p>
+<p><strong>Reporter</strong>: Do you feel vindicated by the Judge's decision?</p>
+<p><strong>Lawyer</strong>: My client has no comment at this time. Mr. Braun is looking forward to putting this whole unfortunate business behind him.</p>
+<p>[SLOW MOTION CAMERA]</p>
+<p>(As he passes her, SAM BRAUN makes eye contact with CATHERINE.)</p>
+<p>[RESUME MOTION]</p>
+<p><strong>Reporter</strong>: Mr. Braun, do you have anything to say at all, sir?</p>
+<p><strong>Reporter</strong>: Mr. Braun, could we get a comment?</p>
+<p><strong>Reporter</strong>: Mr. Braun, do you have anything to say at all, sir?</p>
+<p>(SAM BRAUN and his lawyer walk out of the building. Camera holds on CATHERINE.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) -- DAY]</p>
+<p>[INT. TANGIERS HOTEL/CASINO - DAY]</p>
+<p>(BRASS and GRISSOM interview the RIFKINS, the couple from the teaser.) </p>
+<p><strong>Mrs. Rifkin</strong>: It was first names only. Mandy and ... Cameron?</p>
+<p><strong>Brass</strong>: Where'd you meet them?</p>
+<p><strong>Mr. Rifkin</strong>: Uh, at the roulette tables. We were, uh ... we were drinking and they, uh, invited us back up to their room. It was Vegas. We were looking for a little excitement.</p>
+<p>(Quick flashback to: Drinks are being poured in the room; MANDY is undressed and kissing MR. RIFKIN. End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: And did you find it?</p>
+<p><strong>Mrs. Rifkin</strong>: No, not at all. They ... creeped us out.</p>
+<p><strong>Brass</strong>: How?</p>
+<p><strong>Mr. Rifkin</strong>: He, uh ... he asked me how much I loved my wife.</p>
+<p>(BRASS looks at MRS. RIFKIN and she nods.)</p>
+<p><strong>Brass</strong>: Is that a crazy question?</p>
+<p><strong>Mrs. Rifkin</strong>: It wasn't the question. It was ... the way he asked it. </p>
+<p>(Quick flashback to: MANDY with MR. RIFKIN while CAMERON'S with MRS. RIFKIN.)</p>
+<p><strong>Cameron Klinefeld</strong>: How much do you love your wife? </p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Mrs. Rifkin</strong>: Sobered me right up. I mean, he didn't just ask it once. He asked it ... over and over again, and then Mandy asked how far we'd go to prove it.</p>
+<p><strong>Brass</strong>: Prove what?</p>
+<p><strong>Mr. Rifkin</strong>: To-to prove that. To prove how much I loved my wife. And, uh ... the next thing I know, she's naked.</p>
+<p><strong>Mrs. Rifkin</strong>: Then she starts undoing his belt.</p>
+<p><strong>Mr. Rifkin</strong>: Which is the reason that we went up there in the first place.</p>
+<p><strong>Mrs. Rifkin</strong>: Yeah, but you liked it a lot.</p>
+<p>(He shrugs.)</p>
+<p><strong>Mrs. Rifkin</strong>: You could've waited.</p>
+<p><strong>Mr. Rifkin</strong>: Yeah. (beat) We argue about everything. And they saw us fighting. And they kicked us out.</p>
+<p><strong>Grissom</strong>: I don't know how fighting works for your marriage, but it probably saved your lives.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - LOCKER ROOM -- DAY] </p>
+<p>(CATHERINE sits alone on the locker room bench. WARRICK hangs up his shirt. CATHERINE sighs.) </p>
+<p><strong>Warrick</strong>: Need some help with that?</p>
+<p><strong>Catherine</strong>: Help with what?</p>
+<p><strong>Warrick</strong>: That weight on your shoulders.</p>
+<p><strong>Catherine</strong>: That obvious, huh?</p>
+<p><strong>Warrick</strong>: Yeah. What's up?</p>
+<p><strong>Catherine</strong>: (shakes her head a little) Oh ... Sam Braun.</p>
+<p><strong>Warrick</strong>: Mm-hmm. I heard about that. He made his bones in Vegas. I mean, what do you expect? The guy's bulletproof.</p>
+<p><strong>Catherine</strong>: I'm not.</p>
+<p>(WARRICK sits down.)</p>
+<p><strong>Warrick</strong>: Want to talk about it?</p>
+<p><strong>Catherine</strong>: Sam told me it takes a lifetime to establish a reputation and just a second to ruin it. When I suspected that Sam was my father, I didn't go to him. I didn't go to Grissom. I went to Greg and had him run a DNA test.</p>
+<p><strong>Warrick</strong>: On who?</p>
+<p><strong>Catherine</strong>: On me.</p>
+<p><strong>Warrick</strong>: What'd you use as an exemplar?</p>
+<p><strong>Catherine</strong>: Blood evidence from his case.</p>
+<p><strong>Warrick</strong>: That's why they kicked it.</p>
+<p><strong>Catherine</strong>: Yup. And I'm just afraid.</p>
+<p><strong>Warrick</strong>: Of what?</p>
+<p><strong>Catherine</strong>: (she shakes her head) A backlash.</p>
+<p>(CATHERINE kicks her locker door shut with her foot.)</p>
+<p>CUT TO:<br />
+[EXT. THE FEZ -- NIGHT] </p>
+<p>(GRISSOM and BRASS walk up to the motel. Lights from police officer cars flash.) </p>
+<p><strong>Brass</strong>: You got a gut feeling on this one?</p>
+<p><strong>Grissom</strong>: Well, if it's our serials, they've downgraded.</p>
+<p>(BRASS and GRISSOM turns the corner and head into the parking area.)</p>
+<p>CUT TO:<br />
+[INT. THE FEZ] </p>
+<p>(The door opens and GRISSOM lingers in the doorway taking in the scene. BRASS checks in with the guard at the door. GRISSOM flicks the light switch on, but the light doesn't work. He turns his flashlight on and walks into the room.)</p>
+<p>(He looks at the woman sitting at the table with her throat slit. He looks at the blood on the table. BRASS walks into the room.)</p>
+<p><strong>Brass</strong>: Well, we've got some I.D. Found her handbag. Wendy Laggerman, aged 24. She's not registered.</p>
+<p>(GRISSOM notices the wedding ring on her finger.)</p>
+<p><strong>Grissom</strong>: Where's her husband?</p>
+<p>CUT TO:<br />
+[EXT. THE FEZ - PARKING LOT -- NIGHT] </p>
+<p>(BRASS and GRISSOM check the parked cars. In one particular car, there's a person behind the wheel. GRISSOM approaches the car carefully. He rounds on the driver's side and wakes up the driver.) </p>
+<p><strong>Driver</strong>: Oh, geez.</p>
+<p>(Meanwhile, a motel guest walks down the stairs to get some ice from the ice machine. He notices the commotion and rubbernecks.)</p>
+<p><strong>Brass</strong>: What was all that about?</p>
+<p>(The MOTEL GUEST shovels ice into the bucket while watching BRASS and GRISSOM talk.)</p>
+<p><strong>Grissom</strong>: False alarm. Apparently, the guy just drove in from Fresno. Fell asleep in his car, and didn't even check in yet. So ...</p>
+<p>(As he shovels ice into the bucket, we notice that with each shovel load, there's blood on the ice. Lots of blood.)</p>
+<p>(BRASS looks up and around the area.)</p>
+<p>(Finally, the MOTEL GUEST looks down at what he's doing and sees the blood on the ice ... and the body in the ice machine.)</p>
+<p><strong>Motel Guest (man)</strong>: Jeez, help! Oh, man! Oh, god! </p>
+<p><strong>Brass</strong>: Whoa. Hey. Hey, buddy.</p>
+<p><strong>Motel Guest (man)</strong>: Geez.</p>
+<p><strong>Brass</strong>: Take it easy. Take it easy.</p>
+<p>(BRASS and GRISSOM walk over to the ice machine and look at the body inside. GRISSOM glances at BRASS, then takes out a glove to use to open the ice machine hood.)</p>
+<p><strong>Grissom</strong>: This one's different. (shakes his head) Something's not right.</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[EXT. THE FEZ - PARKING LOT -- DAY] </p>
+<p>(GRISSOM kneels behind the ice machine and unplugs it. DAVID PHILLIPS looks at the body inside. GRISSOM stands up and instructs DAVID.) </p>
+<p><strong>Grissom</strong>: Okay, be careful, David. The body's frozen, and it's in full rigor. You're going to have to tilt it.</p>
+<p><strong>David Phillips</strong>: Tilt it, sir?</p>
+<p><strong>Grissom</strong>: Yeah. Downward 90-degree angle, then up, tilt, and out.</p>
+<p><strong>David Phillips</strong>: Okay. Uh ... </p>
+<p>(DAVID waves for the other CORONER to assist him.)</p>
+<p><strong>David Phillips</strong>: All right, man. Um ... I'll take the shoulders, you take the feet. Okay?</p>
+<p><strong>Coroner</strong>: Okay.</p>
+<p>(They both reach inside the ice machine and get a hold of the body.)</p>
+<p><strong>David Phillips</strong>: You ready? On three. One, two, three, up. And now tilt. </p>
+<p>(They lift and tilt and can't get the body out of the machine. GRISSOM stands on the side and watches.)</p>
+<p><strong>David Phillips</strong>: Come on. Up. DAVID PHILLIPS: Okay, now tilt.</p>
+<p>(They try again ... )</p>
+<p><strong>David Phillips</strong>: Oh, god. Up more, tilt more. Now. DAVID PHILLIPS: Uh, god.</p>
+<p>(... and again ...)</p>
+<p><strong>David Phillips</strong>: Oh, down, down, put him down. DAVID PHILLIPS: One more time.</p>
+<p>(... and again ...)</p>
+<p><strong>David Phillips</strong>: Ready, one time. One ... two, three, up. DAVID PHILLIPS: Oh, god.</p>
+<p>(DAVID shakes his head.)</p>
+<p><strong>David Phillips</strong>: (to GRISSOM) S-sir, we can't get him. Uh, his knee's bent.</p>
+<p><strong>Grissom</strong>: Put him back down carefully.</p>
+<p>(They put the body down and step aside. GRISSOM walks up to the bin and sighs. He reaches inside and flattens the knee.)</p>
+<p><strong>Grissom</strong>: There. Now try.</p>
+<p>CUT TO:<br />
+[SHORT TIME LATER] </p>
+<p>(The CORONERS wheel the body away on a gurney. WARRICK, NICK and SARA carry stacks of buckets to the ice machine.) </p>
+<p><strong>Warrick</strong>: Do we have to do the inventory on all this?</p>
+<p><strong>Nick</strong>: Yeah. What, fifteen buckets?</p>
+<p><strong>Sara</strong>: This is our first bucket brigade together, gentlemen. Try and say that ten times fast. Bucket brigade. Bucket brigade. Bucket brigade.</p>
+<p><strong>Grissom</strong>: (interrupts) We have to do this quickly. It's 120 degrees outside, and our crime scene is melting.</p>
+<p>(GRISSOM scoops up the ice while the others assist.) </p>
+<p>(Finally as he nears the bottom of the bin, GRISSOM finds something.)</p>
+<p><strong>Grissom</strong>: Hold on a second. I got something. </p>
+<p>(He reaches in and picks up the knife.)</p>
+<p><strong>Warrick</strong>: Whoa.</p>
+<p><strong>Grissom</strong>: Would you like to bag this for me, Warrick? My hands are little numb.</p>
+<p>(WARRICK takes the knife to bag it. GRISSOM leans in and finds a blood print on the ice machine.)</p>
+<p><strong>Grissom</strong>: Sara?</p>
+<p><strong>Sara</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: Would you take a sample of this blood for me?</p>
+<p><strong>Sara</strong>: Sure.</p>
+<p>(NICK continues to tape up the containers as he watches them.)</p>
+<p><strong>Grissom</strong>: Warrick, help her process this. Nick?</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: Come with me.</p>
+<p>(GRISSOM steps aside. WARRICK watches NICK as he finishes up.)</p>
+<p><strong>Nick</strong>: (quietly) Yeah.</p>
+<p>(NICK stands up and follows. He looks at WARRICK as he passes him.)</p>
+<p>CUT TO:<br />
+[INT. THE FEZ - MOTEL ROOM - DAY -- CONTINUOUS] </p>
+<p>(The door opens. GRISSOM walks into the room. GRISSOM looks at the crime scene. NICK walks into the room.) </p>
+<p><strong>Grissom</strong>: Shut the door, Nick.</p>
+<p><strong>Nick</strong>: You want to talk?</p>
+<p><strong>Grissom</strong>: No. I want to see the room the way they left it.</p>
+<p>(NICK turns around and closes the door.)</p>
+<p><strong>Nick</strong>: You know, if it's anything like the Sphere, we're probably not going to find much.</p>
+<p><strong>Grissom</strong>: We're still going to look.</p>
+<p>(GRISSOM looks around the bedroom. NICK heads to the bathroom. GRISSOM pays close attention to the air conditioner and plugs. NICK checks out the medicine cabinet and toilet.)</p>
+<p>(GRISSOM checks out the plug and wiring. He sees that there's a Magic Fingers attached to the bed.)</p>
+<p><strong>Nick</strong>: (o.s.) Bathroom's clean.</p>
+<p>(NICK steps out of the bathroom and sees GRISSOM examining the Magic Fingers.)</p>
+<p><strong>Nick</strong>: Haven't you ever seen one of those before?</p>
+<p><strong>Grissom</strong>: Not in person, no.</p>
+<p><strong>Nick</strong>: Magic Fingers. Twenty-five cents for 15 minutes of vibration. Died a slow death in the '70s due to vandalism and seedy connotations. Good for s*x. Good for sleep ... too.</p>
+<p><strong>Grissom</strong>: Good for us. Given the killer's appetite for sexual persuasion, maybe they blew the circuit. Overloaded it with coins.</p>
+<p><strong>Nick</strong>: And their prints on those coins.</p>
+<p>CUT TO:<br />
+[LATER] </p>
+<p>[COINS]</p>
+<p>(Close up of the quarters being poured out from the Magic Fingers onto a cloth on the bed. CATHERINE photographs the coins while NICK dusts them for prints.)</p>
+<p>(Several dissolves and cuts between the coins being processed. GRISSOM, CATHERINE and NICK work on the coins.)</p>
+<p><strong>Catherine</strong>: Is that it? We're done?</p>
+<p><strong>Grissom</strong>: I think so.</p>
+<p>(The lights go back on.)</p>
+<p><strong>Catherine</strong>: Well, power's back on. So, why this place? How do you go from The Sphere to The Fez?</p>
+<p>(NICK glances from CATHERINE to GRISSOM, then quietly goes back to work. GRISSOM glances at NICK.)</p>
+<p><strong>Grissom</strong>: What do you think, Nick?</p>
+<p><strong>Nick</strong>: A reporter got some inside information. Killer probably heard about himself on the news, changed his mo.</p>
+<p><strong>Catherine</strong>: Oh, great. Help the bad guys. I'm sure the Laggermans appreciate that.</p>
+<p>(GRISSOM doesn't say anything. He turns to NICK, who swallows and feels pretty bad enough as it is. NICK glances at the coins.)</p>
+<p><strong>Nick</strong>: I should probably get those quarters back to the lab, work on the prints.</p>
+<p>(GRISSOM hands NICK the envelope of coins. NICK nods, then turns to leave the room. CATHERINE gathers up the rest of the coins and puts them in a package. GRISSOM walks over to the bed and puts a coin in the Magic Fingers.)</p>
+<p>(The bed starts to vibrate. GRISSOM lies down on the bed. CATHERINE gives him a look. He holds up a hand.)</p>
+<p><strong>Grissom</strong>: I need 15 minutes to think.</p>
+<p>(CATHERINE puts the coins in her hand in the package.)</p>
+<p><strong>Catherine</strong>: Enjoy.</p>
+<p>(She leaves the room.)</p>
+<p>(Camera holds on GRISSOM.)</p>
+<p>CUT TO:<br />
+[INT. CSI - PRINT LAB -- DAY] </p>
+<p>(NICK work on lifting prints from the quarters. He scans the print onto the computer. Using the software, he lifts the print from the scan.)</p>
+<p>(GREG walks into the room.)</p>
+<p><strong>Greg</strong>: Hey.</p>
+<p><strong>Nick</strong>: Hey.</p>
+<p><strong>Greg</strong>: Your spot of blood on the ice machine lid?</p>
+<p><strong>Nick</strong>: Yeah?</p>
+<p><strong>Greg</strong>: We've got three alleles on several loci.</p>
+<p><strong>Nick</strong>: Is it a mixture of more than one stain?</p>
+<p><strong>Greg</strong>: One blood came back the vic's. The other came back unknown.</p>
+<p><strong>Nick</strong>: Oh.</p>
+<p>(NICK looks at the results.)</p>
+<p><strong>Nick</strong>: Chances are that's our killer.</p>
+<p>(The computer runs the print through the database.)</p>
+<p>CUT TO:<br />
+[EXT. LGAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[EXT. THE FEZ - OUTSIDE THE MOTEL ROOM -- DAY] </p>
+<p>(GRISSOM and CATHERINE stand just outside the motel room door as they go over the scenario.) </p>
+<p><strong>Grissom</strong>: So they lure their victims with the promise of s*x.</p>
+<p>(Quick flashback to: The two couples are in the room. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: And then they get them to the room. And they say, &quot;just kidding. We don't want s*x. We want your life.&quot;</p>
+<p>(Quick flashback to: CAMERON puts a knife in the MR. LAGGERMAN's hand and holds it against his wife's neck.)</p>
+<p><strong>Cameron</strong>: It's about trust. How much do you love your wife?</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Which still doesn't explain how they get the husband to kill his wife.</p>
+<p><strong>Catherine</strong>: They had to have been in some kind of situation where they couldn't say no.</p>
+<p><strong>Grissom</strong>: They had a gun to his head.</p>
+<p>(Quick flashback to: CAMERON holds a gun against the back of the husband's neck.)</p>
+<p><strong>Cameron</strong>: If you want to live, you kill her by your own hands, or you both die.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: They didn't think he was just going to walk away.</p>
+<p><strong>Grissom</strong>: Maybe he was hoping to save his wife from something worse.</p>
+<p>(Quick flashback to: The husband holds the knife against the wife's neck while CAMERON holds the gun on the back of the husband's neck.)</p>
+<p><strong>Cameron</strong>: Tell me. Do you love your wife enough to spare her the suffering?</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Rape, torture, then murder.</p>
+<p>(Quick flashback to: The husband holds the knife against the wife's neck while CAMERON holds the gun on the back of the husband's neck. MANDY stands in the back watching.)</p>
+<p><strong>Cameron</strong>: If you want to live, you kill her by your own hand. Or you both die.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: It's just so sick.</p>
+<p>(GRISSOM looks around, then they both turn and walk over to the ice machine.)</p>
+<p><strong>Grissom</strong>: Why did he stick him in the ice machine?</p>
+<p><strong>Catherine</strong>: Well, I checked with the manager. The vic was not registered. No car.</p>
+<p><strong>Grissom</strong>: So he had to improvise.</p>
+<p>(Quick flashback to: CAMERON and the husband are out in the parking lot looking for his car.)</p>
+<p><strong>Cameron</strong>: Where's your car?</p>
+<p><strong>Mr. Laggerman</strong>: We took a taxi. Please don't kill me.</p>
+<p>(They knock him out, put him in the ice machine, then cut his throat.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Well, knowing now there was an odd mixture of blood, it's safe to say that someone cut themselves.</p>
+<p><strong>Catherine</strong>: Someone's got blood on their hands.</p>
+<p>(Camera holds on the print on the ice machine.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - PRINT LAB -- DAY] </p>
+<p>(NICK sits in front of the computer as he waits for the print to run through the database. The computer beeps.) </p>
+<p>(It found a match. NICK gets the DMV license for:</p>
+<p>NEVADA DRIVER LICENSE 06-22-2001<br />
+LIC# 1800599863 EXPIRES: 10-30-2006<br />
+SSN: 502-14-345<br />
+CLASS: C<br />
+ENDORSE<br />
+RESTRICTIONS<br />
+BIRTHDATE: 10-30-1976<br />
+s*x: F<br />
+HEIGHT 5'05&quot;<br />
+WEIGHT: 130<br />
+EYES: BRN<br />
+HAIR BLN</p>
+<p>KLINEFELD, MANDY<br />
+11546 BLACKBIRD LANE</p>
+<p><strong>Nick</strong>: (reading) Mandy Klinefeld. 11546 Blackbird Lane.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -- DAY] </p>
+<p>(NICK rushes through the hallway and bumps into GRISSOM.) </p>
+<p><strong>Nick</strong>: Mandy and Cameron Klinefeld. I just pulled their license photos off the DMV. Brass showed them to the motel manager. Couldn't I.D., so ... APBs are on the horn.</p>
+<p>(GRISSOM looks at the DMV photo but doesn't say anything.)</p>
+<p><strong>Nick</strong>: Come on, Grissom. It's got to be them. Who stays at a motel when you live here?</p>
+<p><strong>Grissom</strong>: Assume nothing, Nick.</p>
+<p>(GRISSOM walks out of camera frame.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[EXT. HOTEL -- DAY] </p>
+<p>(The OFFICER leads BRASS and GRISSOM toward the pool area.) </p>
+<p><strong>Brass</strong>: Who found the car?</p>
+<p><strong>Officer</strong>: Green valley ranch security guard, the one that actually bothers to check the APB list.</p>
+<p>(They stop and look around.)</p>
+<p><strong>Officer</strong>: Let's see, cabana number four.</p>
+<p><strong>Grissom</strong>: There they are.</p>
+<p>(The men head for the couple.)</p>
+<p><strong>Brass</strong>: Cameron Klinefeld and Mandy Klinefeld?</p>
+<p><strong>Cameron Klinefeld</strong>: (to the other couple) Now that's not the cocktail waitress.</p>
+<p><strong>Brass</strong>: (to the other couple in the cabana) You and you go with this officer, please. Thank you. Thank you. (the couple leaves) You checked into The Fez last night under a false name. We also suspect you of identity theft and felony fraud at The Sphere hotel as well. They don't have the magic fingers bed there, do they?</p>
+<p><strong>Cameron Klinefeld</strong>: We were at The Fez last weekend. </p>
+<p>(GRISSOM looks around.)</p>
+<p><strong>Cameron Klinefeld</strong>: I got a hooker. She watched. She likes it. It gets her off. What's the problem?</p>
+<p><strong>Brass</strong>: The problem is, people keep showing up dead in your hotel rooms.</p>
+<p><strong>Mandy Klinefeld</strong>: (to GRISSOM) What are you looking at, my feet?</p>
+<p><strong>Grissom</strong>: No. His feet, actually.</p>
+<p>(Camera close up of a piece of glitter stuck to the bottom of his shoe. GRISSOM reaches out and removes it. He holds it out to show them the glitter. Camera zooms in on the glitter piece from &quot;Shimmer&quot;.)</p>
+<p><strong>Grissom</strong>: Shiny.</p>
+<p><strong>Mandy Klinefeld</strong>: Isn't this harassment?</p>
+<p>(GRISSOM looks over and sees the knife cut on her hand.)</p>
+<p><strong>Grissom</strong>: How much do you love your wife?</p>
+<p>(CAMERON turns to look at GRISSOM.)</p>
+<p><strong>Cameron Klinefeld</strong>: &quot;Love is not love&quot;</p>
+<p><strong>Grissom</strong>: Shakespeare?</p>
+<p><strong>Cameron Klinefeld</strong>: &quot;Let me not the marriage of true minds...&quot;</p>
+<p><strong>Grissom</strong>: &quot;... admit impediments love is not love ...</p>
+<p><strong>Cameron Klinefeld</strong>: ... but bears it out till the edge of doom.&quot; </p>
+<p><strong>Grissom</strong>: One of the sonnets. Love is conditional.</p>
+<p><strong>Cameron Klinefeld</strong>: For most people.</p>
+<p><strong>Grissom</strong>: But not for you.</p>
+<p>(CAMERON to turns to look at GRISSOM. They smile at each other.)</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) -- DAY] </p>
+<p>[INT. CSI - CONFERENCE ROOM - DAY]</p>
+<p>(GRISSOM and the other CSIs meet around the conference table.)</p>
+<p><strong>Grissom</strong>: Okay, here we go. We've got a husband and wife serial team killing couples. So, let's see where we're at starting with the first double murder. Sara?</p>
+<p><strong>Sara</strong>: Bloody knife linking back to Alice Dominguez.</p>
+<p><strong>Catherine</strong>: We suspect that Mr. Dominguez was forced to kill his wife for the promise of freedom.</p>
+<p>(Quick flashback to: The scenario where the husband holds the knife against his wife's neck while MANDY KLINEFELD stands nearby urging him on.)</p>
+<p><strong>Mandy</strong>: Come on. Do it. Just cut her throat, and you can walk out of here.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: That explains the thumbprint I found on the exit door leading to the garage. What, they take him for a walk?</p>
+<p><strong>Sara</strong>: They were never going to let him go.</p>
+<p>(Quick flashback to: MANDY backs out of the motel room as she looks around to see if it's clear. CAMERON and MR. LAGGERMAN follow. They head for the ice machine.)</p>
+<p>(Cut to: MANDY walks out of the hotel room followed by CAMERON and MR. DOMINGUEZ.</p>
+<p><strong>Mandy Klinefeld</strong>: Open the door.</p>
+<p>(MR. DOMINGUEZ opens the door leaving his thumb print on the door.)</p>
+<p>(Camera zooms forward down the stair well. Cut to: They walk up to his car.)</p>
+<p><strong>Cameron Klinefeld</strong>: It's almost over.</p>
+<p><strong>Mandy Klinefeld</strong>: You'll be all right.</p>
+<p>(MR. DOMINGUEZ opens the car door and gets inside.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Doc Robbins found evidence of glitter on Mrs. Dominguez.</p>
+<p><strong>Warrick</strong>: I also found glitter on Mr. Dominguez.</p>
+<p><strong>Grissom</strong>: I found some on Mr. Klinefeld's shoes, so it's possible the Klinefeld's picked up their first couple at Shimmer.</p>
+<p><strong>Nick</strong>: Did anyone at Shimmer I.D. the Klinefelds?</p>
+<p>(Quick flashback to their interview with the DANCER.)</p>
+<p><strong>Dancer</strong>: I didn't get a good look at the other two.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: We didn't know who they were at the time. Okay ... that's it for the first murder. What about the second?</p>
+<p><strong>Nick</strong>: Uh, we've got prints on quarters.</p>
+<p><strong>Sara</strong>: We do have an admixture of blood off the ice machine.</p>
+<p><strong>Grissom</strong>: What about prints on the ice machine knife?</p>
+<p><strong>Warrick</strong>: Forget it. Ice destroyed it.</p>
+<p><strong>Catherine</strong>: Okay, so, uh, we're going to have to get into the Klinefelds' house. If they haven't tossed the towels and sheets ... (sighs) ... we may have something.</p>
+<p>CUT TO:<br />
+[INT. COURTROOM -- DAY]</p>
+<p>(BRASS and GRISSOM stand in front of the CLERK.) </p>
+<p><strong>Brass</strong>: No. Uh, look, there's got to be some mistake. We are this close to busting a pair of serial killers and the Judge won't issue a warrant?</p>
+<p><strong>Stuart Gardner (court clerk)</strong>: Hey, I'm just the messenger.</p>
+<p><strong>Brass</strong>: Is he back there? I'm going to talk to him.</p>
+<p>(He hands the unsigned affidavit to BRASS.)</p>
+<p><strong>Stuart Gardner (court clerk)</strong>: He won't sign it. It's not the first time. Sorry.</p>
+<p>(BRASS and GRISSOM head back to the Judge's offices.)</p>
+<p>CUT TO:<br />
+[JUDGE SLATER'S OFFICE -- CONTINUOUS] </p>
+<p>(JUDGE SLATER looks at the affidavit.) </p>
+<p><strong>Judge Slater</strong>: Look, I have signed hundreds of search warrants for Captain Brass, but ... this affidavit lacks probable cause. Prints on quarters, an admixture of DNA ...</p>
+<p><strong>Grissom</strong>: DNA, if given a warrant, will clear or convict...</p>
+<p><strong>Judge Slater</strong>: ... are not enough for me to invade the Klinefelds' right to privacy.</p>
+<p><strong>Grissom</strong>: Your Honor, with all due respect, you've signed warrants for less.</p>
+<p><strong>Judge Slater</strong>: Yes... and where did it get me? Just last week, the appeals court overturned one of our convictions, based on a search warrant I gave to one of your sidekicks. We make a habit of this, I'm never going to get to the Foley building. Federal appointment. What if they kill again?</p>
+<p><strong>Judge Slater</strong>: (continues) All the more reason we need to get this right. Unappealable. The affidavit is thin. You give me more ... I'll give you more.</p>
+<p>CUT TO:<br />
+[INT. CSI - AUDIO/VISUAL LAB] </p>
+<p>(NICK is in the lab looking over the video tapes from the bar. CATHERINE walks in from the hallway.) </p>
+<p><strong>Catherine</strong>: Funny, doesn't look like a doghouse.</p>
+<p><strong>Nick</strong>: Grissom ratted me out, huh?</p>
+<p><strong>Catherine</strong>: Um, no, you ratted yourself out. Hey, Nick, I know you're proud of what you do. You're good at what you do, and you want people to know what you do, but once you open your mouth, it's all over 'cause what we say ends up in the news.</p>
+<p><strong>Nick</strong>: I guess I'm learning that the hard way, huh? (They smile at each other.)<br />
+All right, (he clears his throat), let's take a look. You see, it looks like something got a little bit more interesting than roulette here.</p>
+<p><strong>Catherine</strong>: So, if that's the lure, where's the catch?</p>
+<p>(NICK fast forwards the video.)</p>
+<p><strong>Catherine</strong>: mm-hmm. Clear drinks. What do you want to bet the Rifkins are drinking vodka and the Klinefelds club soda.</p>
+<p><strong>Nick</strong>: Hmm. Did you see that? That was a little tongue action right there.</p>
+<p><strong>Catherine</strong>: So, if we're creatures of habit ... if she stuck her tongue in Mr. Rifkin's ear, chances are she stuck it in Mr. Dominguez's ear, too.</p>
+<p><strong>Catherine</strong>: Mr. Dominguez has already been autopsied. Washed from head-to-toe.</p>
+<p><strong>Nick</strong>: What about the ice man?</p>
+<p><strong>Catherine</strong>: (softly) Coroners.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY - DAY] </p>
+<p>(DAVID PHILLIPS washes the body of the second victim. The phone rings in the background, but he can't hear it.) </p>
+<p>CUT TO:<br />
+[CSI -- HALLWAY] </p>
+<p>(CATHERINE'S on the phone as she and NICK rush to get to the body.) </p>
+<p><strong>Catherine</strong>: He's not picking up.</p>
+<p>[DAVID PHILLIPS] </p>
+<p>(DAVID continues to wash the body. He's still on the legs. The phone rings in the background.) </p>
+<p>CUT TO:<br />
+[HALLWAY OUTSIDE FORENSIC AUTOPSY] </p>
+<p>(The door bursts open. CATHERINE and NICK rush into the hallway where they see DR. ROBBINS walking.) </p>
+<p><strong>Catherine</strong>: Oh, hey, doc. Doc. Where's the ice man?</p>
+<p><strong>Robbins</strong>: (points) Uh, David's cleaning him up.</p>
+<p>(They tear and head into the room.)</p>
+<p>CUT TO:<br />
+[FORENSIC AUTOPSY] </p>
+<p>(CATHERINE and NICK burst into the room.) </p>
+<p><strong>Nick</strong>: David ... whoa, whoa, whoa, whoa.</p>
+<p><strong>Catherine</strong>: Drop the hose.</p>
+<p>(DAVID drops the hose.)</p>
+<p><strong>David Phillips</strong>: What did I do?</p>
+<p><strong>Catherine</strong>: Did you go from head to toe or head to toe?</p>
+<p><strong>David Phillips</strong>: Toe to head.</p>
+<p><strong>Nick</strong>: Good. Good answer.</p>
+<p>(DAVID smiles.)</p>
+<p>CUT TO:<br />
+[SHORT TIME LATER] </p>
+<p>(CATHERINE and NICK take a swab of the inside of MR. LAGGERMAN'S ear.)</p>
+<p>(Quick CGI POV of the swab inside the ear getting the sample. End of quick CGI POV. Resume to present.)</p>
+<p>(They each cap their swabs.)</p>
+<p>(NICK holds out his swab to CATHERINE who holds out her swab to NICK.)</p>
+<p><strong>Catherine</strong>: You run with it.</p>
+<p>(Appreciative, NICK takes the swab and heads out.)</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB -- DAY] </p>
+<p>(NICK paces the floor as he waits for the results. GRISSOM stands on the side and looks at his watch.) </p>
+<p><strong>Grissom</strong>: We get it yet?</p>
+<p><strong>Nick</strong>: Any minute now.</p>
+<p>(The printer prints the results. GREG looks at it.)</p>
+<p><strong>Greg</strong>: Here it is. Affirmative for female DNA.</p>
+<p><strong>Grissom</strong>: Where are the admixture results from the ice machine?</p>
+<p><strong>Greg</strong>: Right here.</p>
+<p>(GREG shows GRISSOM the results.)</p>
+<p><strong>Greg</strong>: This is the same woman.</p>
+<p><strong>Nick</strong>: Whoever was in his ear was on that ice machine. She's the killer.</p>
+<p>(Quick flashback to: FRED LAGGERMAN begs for his life.)</p>
+<p><strong>Fred Laggerman</strong>: Please, let me go. Please, let me go.</p>
+<p>(CAMERON KLINEFELD smashes his head against the door. He steps aside and MANDY slices his throat and cuts her finger in the process.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: This should get us a warrant.</p>
+<p>(NICK nods.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[EXT. KLINEFELD RESIDENCE -- NIGHT]</p>
+<p>(The police officer cars pull up to the curb and park. BRASS, GRISSOM and other officers exit their cars.) </p>
+<p>(BRASS motions to the other OFFICERS.)</p>
+<p><strong>Brass</strong>: Okay, split up. Go around the back.</p>
+<p>(He and GRISSOM walks up the front door. They notice the front door is slightly open. BRASS rings the doorbell. There's no answer.)</p>
+<p>(BRASS pushes the front door open and stands in the doorway.)</p>
+<p><strong>Brass</strong>: Las Vegas police. Mr. and Mrs. Klinefeld, we have a warrant.</p>
+<p>(They walk into he house and look around.</p>
+<p>(The television set is on in one of the rooms.)</p>
+<p>(BRASS walks into the house and finds MANDY KLINEFELD dead, face down on the floor.)</p>
+<p><strong>Brass</strong>: We got a problem ... </p>
+<p>(GRISSOM looks around and finds CAMERON KLINEFELD dead.)</p>
+<p><strong>Brass</strong>: Somebody got to our killers before we did.</p>
+<p>(Camera goes from GRISSOM to MANDY KLINEFELD to BRASS. BRASS lifts his flashlight directly into the camera.)</p>
+<p>FADE TO WHITE.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-Mrs. Rifkin: Okay. Come on. MR. RIFKIN: Come on. MRS. RIFKIN: Let's go. Come on. MR. RIFKIN: Don't fail me. MRS. RIFKIN: Come on, baby. I'm feeling this one.
-Mr. Rifkin: Don't fail me. MRS. RIFKIN: Don't you let me down. MR. RIFKIN: Come on now. MRS. RIFKIN: All right. Black 22.
-
-Mr. Rifkin: If this happens, I'm buying you a shot.
-House: No more bets.
-
-Mr. Rifkin: Yes!
-
-Mrs. Rifkin: Yeah.
-
-Mrs. Rifkin: Give me my money.
-
-Mrs. Rifkin: Oh, my.
-
-Mrs. Rifkin: Let's cash out.
-Mr. Rifkin: Why? I, uh, I thought we were going to take some risks tonight.
-Mrs. Rifkin:  Come on ... I want to go dancing.
-Mr. Rifkin: Really?
-Mrs. Rifkin: Mm-hmm.
-Mr. Rifkin: Okay. As long as it's lap dancing.
-
-Mrs. Rifkin: What has gotten into you?
-
-
- 
- 
-Mr. Dominguez: Hey, buddy, when you get a chance, can I get a couple more of these martinis? One with an olive, one with a twist. Thank you.
-Mrs. Rifkin: Why don't we, um ... take those up to the room? 
-
-Mrs. Rifkin: 'Cause I'm feeling a little ... uh ...
-
-Mrs. Rifkin:  ... Frisky.
-
-Mrs. Rifkin: Do you know them?
-Mr. Rifkin:  No, but how frisky do you feel?
-
-
-
-
- 
- 
-Housekeeper: Housekeeping. Coming in.
-
-
-
- 
-
-
-(Camera moves rapidly around and stops on ...
-
-Grissom: Her throat's been slit by what appears to have been a very sharp implement. 
-
-Grissom: The room is completely stripped. No bedding, no sheets. 
-Catherine: No towels, either. Someone took a few souvenirs. I'll check the surveillance tapes.
-
-(He takes out her driver's license and looks at it:
-CALIFORNIA DRIVER LICENSE
-EXPIRES: 7/13/07
-CLASS:
-ALICE DOMINGUEZ
-311 SEPHILL
-LOS ANGELES, CA 90078
-s*x: F HAIR: BRN EYES: BRN
-HT: 5'7&quot; WT: 130 DOB: 7-13-72
-RSTR: NONE
-{signature}
-Grissom: Alice Dominguez. 
-
-Grissom: She wasn't robbed.
-Catherine: It's not her room, either. It was registered under the name of Parker.
-
-Grissom: Wedding ring. Where's the husband?
-
-
-Grissom: I think your cell phone's vibrating.
-Catherine:  You heard that?
-
-Grissom: Mm-hmm.
-
-Catherine: You're back.
-
-Grissom: Huh?
-
-HARD CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
-
- 
-Warrick: There's only two reasons why people get murdered in a casino.
-Brass: s*x or money. Well, on the money side, the room was booked yesterday, under a stolen credit card belonging to a Mrs. Parker. She's a 75-year-old living alone in Henderson. As far as s*x goes, well, I want to be a believer.
-
-Nick: Room closest to the exit. Imagine that.
-Warrick: Quick escape. Murder Central. Security cameras?
-Brass: Uh, not in the hallway. Only in the elevator. We're on it.
-Nick: Take the exit.
-
-Warrick: I'll take the money trail.
-
-Brass: And I'll, uh ... go door-to-door.
-
- 
- 
-Catherine: This is very weird.
-Grissom: Yeah, usually when someone gets their throat cut, it's from behind.
-Catherine: Yeah, and it starts there, ends there. It's not very deep.
-
-Catherine: No ligature marks. No defensive wounds.
-Grissom: I think whoever did this was sitting in that chair.
-
-
-Catherine: She sat there and allowed someone to slit her throat?
-
-
- 
- 
-Warrick: Hey, girl.
-Sara: Hi.
-Warrick: What you got?
-Sara: Not much. Mrs. Dominguez checked in with her husband yesterday. Room
-869.
-Warrick: 869? That's, like, two floors away from where she was found dead.
-Sara: Anybody heard from the husband yet?
-Warrick: He's M.I.A., but he left a gambling paper trail.
-Sara: Really?
-Warrick: I have a signature and a thumbprint from where Mr. Dominguez signed a
-$5,000 cash-advance check.
-Sara: Cash advance, huh?
-Warrick: It was cash advance on a credit card. It's not cheap. It's, like $90 every thousand.
-Sara: That's a rip-off.
-Warrick: Not if you're desperate. He must have had a bad night.
-Sara: Yeah, and Mrs. Dominguez had a worse night. You know, nobody's checked their suite yet. Would you care to join me?
-Warrick: Let's do it.
-
-
- 
- 
-Guest : I heard some voices raised and a door slamming.
-Brass: Mm. How many voices?
-Guest : Two. No, wait. Uh, maybe it was three.  Definitely a man and a woman.
-Brass: What were they saying?
-Guest : Uh, it was hard to tell. You know, the walls in these joints are pretty thick. They were definitely arguing about something.
-Brass: Did you get a look at them?
-Guest : Uh, just through the spy hole.
-
-Mr. Rifkin: Obviously he's insane. They're both crazy.
-Mrs. Rifkin: Why would you put me in that situation?
-Mr. Rifkin: I didn't put you in that position with ...
-
-Brass: What time was that?
-Guest : 10:35.
-Brass: 10:35? You seem to be pretty sure about that.
-Guest : Well, I-I had just ordered a pay-per-view movie, and it was just about to begin.
-Brass: Oh, yeah? Which one was that?
-Guest : Arma-get-it-on.
-Brass: You mean, Armageddon?
-Guest : No. Arma-get-it-on.
-Brass: Oh.  Good movie?
-Guest : Worked for me.
-
-
- 
- 
-
- 
- 
-Nick: Hey, guys. How you doing? Uh, I'm with the Las Vegas Crime Lab, and I'm ...
-Kenny Richmond: Nick Stokes?
-Nick: Yeah.
-
-Kenny Richmond: What's up? It's Kenny! Kenny Richmond. Rebel baseball. I played backup catcher.
-Nick: Kenny. 
-Kenny Richmond: Yeah! 
-Nick: Hi, Kenny!
-Kenny Richmond: Yeah!
-Nick: How you doing, man?
-Kenny Richmond: How you doing?
-Nick: Good to see you.
-Kenny Richmond: Good to see you! Look at you, man.
-Nick: Yeah. Yeah.
-Kenny Richmond: What are you doing here? You a cop now?
-Nick: Uh, Crime Scene Investigator. I'm on a case.
-Kenny Richmond: Crime scene? Rock on, man. You're here on the tenth floor thing, right?
-Nick: Right.
-Kenny Richmond: Yeah. I heard about that, man. Everybody's talking about it. Somebody, uh, bashed some chick's brains in, I think, right?
-Nick: Yeah, actually, uh, she had her throat slit and bled out all over the room. I'll know more when I check the surveillance camera.
-Kenny Richmond: Well, what are you doing down here?
-Nick: Uh, I'm just checking possible escape routes. She was murdered in the room closest to the exit. Murder Central.
-
-Kenny Richmond: Murder Central, huh? Cool.
-
- 
- 
-Robbins: Cut began at the right carotid. Severed the artery and the jugular vein and terminated at the trachea. It's not as deep as I would expect for this kind of crime.
-Catherine: He sliced her gently?
-Robbins: Well, yeah. Oftentimes, the only thing intact is the spinal column. This did the job and nothing more.
-Catherine: And what did the tox report give us?
-Robbins: Alcohol count was .20.
-Catherine: Double the legal limit.
-Robbins: There was no limit to Mrs. Dominguez. Blood work showed heavy traces of M.D.M.A.
-Catherine: Ecstasy? And alcohol? Party mix.
-Robbins: Yeah, it might have made her docile.
-Catherine: Well, maybe it explains why she was cut from the front.
-Robbins: That may explain her head. Now let's move down to the toes.
-
-Catherine: Glitter?
-Robbins: Yeah. There is a ... a strip club, um, named Shimmer on industrial. I, uh, recognized the &quot;s&quot; almost immediately.
-Catherine: You go, Doc.
-
-
- 
-Sara: Hello? Mr. Dominguez?
-
-Sara: Looks like the bed wasn't slept in.
-Warrick: Yeah.
-
-Warrick: Stopped for gas in Barstow. Big tank. $43.
-Sara: Clothes are still here.
-Warrick: Ford explorer. California plates. Two-Paul-Charlie-Edward-329.
-Sara: Really?
-
- 
- 
-
-
- 
-
- 
-
-Nick: Hey, Warrick. Take a look at this wound. It's different than the wife's. She was cut from the front.
-Warrick: Yeah, this one looks like he was cut from the back.
-
-
-
-Sara: Hey, guys? I got a knife.
-
- 
-
-
-Nick: Use this, uh ... cash-advance check Warrick found as a reference.
-(The information on the check reads:
-PAY THE SUM OF: $5,000.00
-PURCHASED FROM CREDIT
-REFERENCE NO. 0173084857
-LOCATION 00580241
-VERIFY 41223514
-DATE 10/05/03
-TIME 20:13:42
-{CHECK NOS. 94040412235145 }
-{finger print}
-{098723-87665-99 }
-Jacqui Franco: Hmm. Ink pads make for great exemplars.
-Nick: And compare that to the print I pulled off the exit door and the knife ... please.
-(NICK opens a second bag and takes out the print card with the following information on the back of the Pro-Lift Fingerprint Collection System Card:
-INVESTIGATING AGENCY: CSI
-CASE NO: 9-27-03-085692-001
-DATE 9-27-03
-TIME 8:49 4
-OFFICER LIFTING PRINT N. STOKES
-0859
-SPHERE HOTEL RM 1059
-Nick: Here you go.
-
-Jacqui Franco: Good characteristics here.
-
-Jacqui Franco: Match to the door handle.
-
-Jacqui Franco: And a match to the knife.
-Grissom: One print on the knife. One print on the exit door. Both belonging to the husband. But we have two victims.
-Greg: Speaking of twos ... I found blood from both victims on the knife. 
-
-Grissom: So it's possible the husband killed the wife. Who killed the husband?
-
-
-
-
- 
- 
-Dancer: Yeah, they look familiar - 
-
-Dancer: ... from the neck up. I must've given them four, five lap dances each. They made my night.
-Catherine: So, they were George. 
- 
-Catherine: Big tippers.
-Dancer: No. They weren't the ones paying for it. The other couple was.
-Grissom: The other couple?
-Dancer: Yeah, we were all in the VIP booth over there. 
-
-
-Dancer: The four of them -- they came in together. The other couple just wanted to watch. So I assumed they were friends. Good friends. 
-
-Dancer: I didn't get a good look at the other two, but they slid that money across the table ... mmm, brick this big. So, like I said, they just wanted to doggie in the window.
-
-Catherine:  Watch.
-Dancer: And they were subbing drinks left and right. 
-
-Catherine: Ordering clear drinks to keep the party going. What'd they order?
-Dancer: Two vodkas, two soda waters. 
-Catherine: Guess who got the hard stuff.
-
-Dancer:  Hi. Would you like a dance?
-
-Catherine: Uh, I got to be at the courthouse. Apparently, there's a last-minute evidentiary hearing in the Sam Braun case. I need to be there.
-Dancer: You sure you don't want a dance? I could be your specimen. You could be my mad scientist.
-Catherine:  He already is, sweetheart. Thanks.
-
-
- 
- 
-Archie Johnson: So, this is the last footage we have of the Dominguezes alive.
-(The monitor shows the elevator going up from floor #7 through floor #10.
-Sara: Have we I.D.'d that other couple?
-Archie Johnson: Not yet, but check it out.  Brass's witness said he heard a couple arguing at 10:35. 
-
-Archie Johnson: This must be them, going down. But coming up ... 
-
-Sara: They're with the same mystery couple who brought up the Dominguezes. Can you make me a still of the 10:35 couple, the ones that went up and down?
-Sara: Freeze it there. What's in his hand?
-
-Archie Johnson: That's a room key. Tangiers Casino.
-Sara: Do me a favor, Archie. Call Grissom.
-
-
- 
-Paula Francis :  New leads in the double homicide at the Sphere Hotel and Casino. According to sources within the crime lab, the killer or killers most likely fled the room CSIs call &quot;Murder Central,&quot; the nearest room to the emergency exit. 
-
-Paula Francis :  CSIs are currently checking surveillance footage in an effort to identify possible suspects.
-Nick: What the hell?
-Warrick: What?
-Nick: Kenny Richmond, that's what.
-Warrick: Who's that?
-Nick: This valet at The Sphere. I played baseball in college with this guy. I bumped into him for, like, two seconds.
-Warrick: Don't tell me you opened your mouth to the guy.
-
-Warrick: Hey, man. You could lose your job over something like this.
-Nick: Hey, it's not like I ran my mouth to the press, okay?
-Warrick: Best thing you could do is go to Grissom and 'fess up.
-Nick: 'Fess up to what? There were a hundred people at that crime scene. Anyone could have gone to a reporter and told them what was going on with the case, man.
-Warrick: Or what, you going to wait till he comes to you and then lie about it?
-
-Grissom: Lie about what?
-
-
-
-
- 
-
-Reporter: There he is! Mr. Braun!
-Reporter: Does this mean your murder case will not be going to trial, Mr. Braun?
-Reporter: Are you and your Representatives in discussion with the District Attorney's office?
-
-Reporter: Could you elaborate on those discussions?
-Reporter: Do you feel vindicated by the Judge's decision?
-Lawyer: My client has no comment at this time. Mr. Braun is looking forward to putting this whole unfortunate business behind him.
-
-
-
-Reporter: Mr. Braun, do you have anything to say at all, sir?
-Reporter: Mr. Braun, could we get a comment?
-Reporter: Mr. Braun, do you have anything to say at all, sir?
-
-
-
-
- 
-Mrs. Rifkin: It was first names only. Mandy and ... Cameron?
-Brass: Where'd you meet them?
-Mr. Rifkin: Uh, at the roulette tables. We were, uh ... we were drinking and they, uh, invited us back up to their room. It was Vegas. We were looking for a little excitement.
-
-Brass: And did you find it?
-Mrs. Rifkin: No, not at all. They ... creeped us out.
-Brass: How?
-Mr. Rifkin: He, uh ... he asked me how much I loved my wife.
-
-Brass: Is that a crazy question?
-Mrs. Rifkin: It wasn't the question. It was ... the way he asked it. 
-
-Cameron Klinefeld: How much do you love your wife? 
-
-Mrs. Rifkin: Sobered me right up. I mean, he didn't just ask it once. He asked it ... over and over again, and then Mandy asked how far we'd go to prove it.
-Brass: Prove what?
-Mr. Rifkin: To-to prove that. To prove how much I loved my wife. And, uh ... the next thing I know, she's naked.
-Mrs. Rifkin: Then she starts undoing his belt.
-Mr. Rifkin: Which is the reason that we went up there in the first place.
-Mrs. Rifkin: Yeah, but you liked it a lot.
-
-Mrs. Rifkin: You could've waited.
-Mr. Rifkin: Yeah.  We argue about everything. And they saw us fighting. And they kicked us out.
-Grissom: I don't know how fighting works for your marriage, but it probably saved your lives.
-
-
- 
- 
-Warrick: Need some help with that?
-Catherine: Help with what?
-Warrick: That weight on your shoulders.
-Catherine: That obvious, huh?
-Warrick: Yeah. What's up?
-Catherine:  Oh ... Sam Braun.
-Warrick: Mm-hmm. I heard about that. He made his bones in Vegas. I mean, what do you expect? The guy's bulletproof.
-Catherine: I'm not.
-
-Warrick: Want to talk about it?
-Catherine: Sam told me it takes a lifetime to establish a reputation and just a second to ruin it. When I suspected that Sam was my father, I didn't go to him. I didn't go to Grissom. I went to Greg and had him run a DNA test.
-Warrick: On who?
-Catherine: On me.
-Warrick: What'd you use as an exemplar?
-Catherine: Blood evidence from his case.
-Warrick: That's why they kicked it.
-Catherine: Yup. And I'm just afraid.
-Warrick: Of what?
-Catherine:  A backlash.
-
-
- 
- 
-Brass: You got a gut feeling on this one?
-Grissom: Well, if it's our serials, they've downgraded.
-
-
- 
-
-
-Brass: Well, we've got some I.D. Found her handbag. Wendy Laggerman, aged 24. She's not registered.
-
-Grissom: Where's her husband?
-
- 
- 
-Driver: Oh, geez.
-
-Brass: What was all that about?
-
-Grissom: False alarm. Apparently, the guy just drove in from Fresno. Fell asleep in his car, and didn't even check in yet. So ...
-
-
-
-Motel Guest : Jeez, help! Oh, man! Oh, god! 
-Brass: Whoa. Hey. Hey, buddy.
-Motel Guest : Geez.
-Brass: Take it easy. Take it easy.
-
-Grissom: This one's different.  Something's not right.
-
-
-
-;
-
-
-
-
- 
- 
-Grissom: Okay, be careful, David. The body's frozen, and it's in full rigor. You're going to have to tilt it.
-David Phillips: Tilt it, sir?
-Grissom: Yeah. Downward 90-degree angle, then up, tilt, and out.
-David Phillips: Okay. Uh ... 
-
-David Phillips: All right, man. Um ... I'll take the shoulders, you take the feet. Okay?
-Coroner: Okay.
-
-David Phillips: You ready? On three. One, two, three, up. And now tilt. 
-
-David Phillips: Come on. Up. DAVID PHILLIPS: Okay, now tilt.
-
-David Phillips: Oh, god. Up more, tilt more. Now. DAVID PHILLIPS: Uh, god.
-
-David Phillips: Oh, down, down, put him down. DAVID PHILLIPS: One more time.
-
-David Phillips: Ready, one time. One ... two, three, up. DAVID PHILLIPS: Oh, god.
-
-David Phillips:  S-sir, we can't get him. Uh, his knee's bent.
-Grissom: Put him back down carefully.
-
-Grissom: There. Now try.
-
- 
- 
-Warrick: Do we have to do the inventory on all this?
-Nick: Yeah. What, fifteen buckets?
-Sara: This is our first bucket brigade together, gentlemen. Try and say that ten times fast. Bucket brigade. Bucket brigade. Bucket brigade.
-Grissom:  We have to do this quickly. It's 120 degrees outside, and our crime scene is melting.
- 
-
-Grissom: Hold on a second. I got something. 
-
-Warrick: Whoa.
-Grissom: Would you like to bag this for me, Warrick? My hands are little numb.
-
-Grissom: Sara?
-Sara: Yeah.
-Grissom: Would you take a sample of this blood for me?
-Sara: Sure.
-
-Grissom: Warrick, help her process this. Nick?
-Nick: Yeah.
-Grissom: Come with me.
-
-Nick:  Yeah.
-
-
- 
- 
-Grissom: Shut the door, Nick.
-Nick: You want to talk?
-Grissom: No. I want to see the room the way they left it.
-
-Nick: You know, if it's anything like the Sphere, we're probably not going to find much.
-Grissom: We're still going to look.
-
-
-Nick:  Bathroom's clean.
-
-Nick: Haven't you ever seen one of those before?
-Grissom: Not in person, no.
-Nick: Magic Fingers. Twenty-five cents for 15 minutes of vibration. Died a slow death in the '70s due to vandalism and seedy connotations. Good for s*x. Good for sleep ... too.
-Grissom: Good for us. Given the killer's appetite for sexual persuasion, maybe they blew the circuit. Overloaded it with coins.
-Nick: And their prints on those coins.
-
- 
-
-
-
-Catherine: Is that it? We're done?
-Grissom: I think so.
-
-Catherine: Well, power's back on. So, why this place? How do you go from The Sphere to The Fez?
-
-Grissom: What do you think, Nick?
-Nick: A reporter got some inside information. Killer probably heard about himself on the news, changed his mo.
-Catherine: Oh, great. Help the bad guys. I'm sure the Laggermans appreciate that.
-
-Nick: I should probably get those quarters back to the lab, work on the prints.
-
-
-Grissom: I need 15 minutes to think.
-
-Catherine: Enjoy.
-
-
-
- 
-
-
-Greg: Hey.
-Nick: Hey.
-Greg: Your spot of blood on the ice machine lid?
-Nick: Yeah?
-Greg: We've got three alleles on several loci.
-Nick: Is it a mixture of more than one stain?
-Greg: One blood came back the vic's. The other came back unknown.
-Nick: Oh.
-
-Nick: Chances are that's our killer.
-
-
-
- 
- 
-Grissom: So they lure their victims with the promise of s*x.
-
-Grissom: And then they get them to the room. And they say, &quot;just kidding. We don't want s*x. We want your life.&quot;
-
-Cameron: It's about trust. How much do you love your wife?
-
-Grissom: Which still doesn't explain how they get the husband to kill his wife.
-Catherine: They had to have been in some kind of situation where they couldn't say no.
-Grissom: They had a gun to his head.
-
-Cameron: If you want to live, you kill her by your own hands, or you both die.
-
-Catherine: They didn't think he was just going to walk away.
-Grissom: Maybe he was hoping to save his wife from something worse.
-
-Cameron: Tell me. Do you love your wife enough to spare her the suffering?
-
-Grissom: Rape, torture, then murder.
-
-Cameron: If you want to live, you kill her by your own hand. Or you both die.
-
-Catherine: It's just so sick.
-
-Grissom: Why did he stick him in the ice machine?
-Catherine: Well, I checked with the manager. The vic was not registered. No car.
-Grissom: So he had to improvise.
-
-Cameron: Where's your car?
-Mr. Laggerman: We took a taxi. Please don't kill me.
-
-
-Grissom: Well, knowing now there was an odd mixture of blood, it's safe to say that someone cut themselves.
-Catherine: Someone's got blood on their hands.
-
-
-
- 
- 
-(It found a match. NICK gets the DMV license for:
-NEVADA DRIVER LICENSE 06-22-2001
-LIC# 1800599863 EXPIRES: 10-30-2006
-SSN: 502-14-345
-CLASS: C
-ENDORSE
-RESTRICTIONS
-BIRTHDATE: 10-30-1976
-s*x: F
-HEIGHT 5'05&quot;
-WEIGHT: 130
-EYES: BRN
-HAIR BLN
-KLINEFELD, MANDY
-11546 BLACKBIRD LANE
-Nick:  Mandy Klinefeld. 11546 Blackbird Lane.
-
- 
- 
-Nick: Mandy and Cameron Klinefeld. I just pulled their license photos off the DMV. Brass showed them to the motel manager. Couldn't I.D., so ... APBs are on the horn.
-
-Nick: Come on, Grissom. It's got to be them. Who stays at a motel when you live here?
-Grissom: Assume nothing, Nick.
-
-
-
- 
- 
-Brass: Who found the car?
-Officer: Green valley ranch security guard, the one that actually bothers to check the APB list.
-
-Officer: Let's see, cabana number four.
-Grissom: There they are.
-
-Brass: Cameron Klinefeld and Mandy Klinefeld?
-Cameron Klinefeld:  Now that's not the cocktail waitress.
-Brass:  You checked into The Fez last night under a false name. We also suspect you of identity theft and felony fraud at The Sphere hotel as well. They don't have the magic fingers bed there, do they?
-Cameron Klinefeld: We were at The Fez last weekend. 
-
-Cameron Klinefeld: I got a hooker. She watched. She likes it. It gets her off. What's the problem?
-Brass: The problem is, people keep showing up dead in your hotel rooms.
-Mandy Klinefeld:  What are you looking at, my feet?
-Grissom: No. His feet, actually.
-
-Grissom: Shiny.
-Mandy Klinefeld: Isn't this harassment?
-
-Grissom: How much do you love your wife?
-
-Cameron Klinefeld: &quot;Love is not love&quot;
-Grissom: Shakespeare?
-Cameron Klinefeld: &quot;Let me not the marriage of true minds...&quot;
-Grissom: &quot;... admit impediments love is not love ...
-Cameron Klinefeld: ... but bears it out till the edge of doom.&quot; 
-Grissom: One of the sonnets. Love is conditional.
-Cameron Klinefeld: For most people.
-Grissom: But not for you.
-
-
-
-
-
- 
-
-
-Grissom: Okay, here we go. We've got a husband and wife serial team killing couples. So, let's see where we're at starting with the first double murder. Sara?
-Sara: Bloody knife linking back to Alice Dominguez.
-Catherine: We suspect that Mr. Dominguez was forced to kill his wife for the promise of freedom.
-
-Mandy: Come on. Do it. Just cut her throat, and you can walk out of here.
-
-Nick: That explains the thumbprint I found on the exit door leading to the garage. What, they take him for a walk?
-Sara: They were never going to let him go.
-
-(Cut to: MANDY walks out of the hotel room followed by CAMERON and MR. DOMINGUEZ.
-Mandy Klinefeld: Open the door.
-
-
-Cameron Klinefeld: It's almost over.
-Mandy Klinefeld: You'll be all right.
-
-
-Catherine: Doc Robbins found evidence of glitter on Mrs. Dominguez.
-Warrick: I also found glitter on Mr. Dominguez.
-Grissom: I found some on Mr. Klinefeld's shoes, so it's possible the Klinefeld's picked up their first couple at Shimmer.
-Nick: Did anyone at Shimmer I.D. the Klinefelds?
-
-Dancer: I didn't get a good look at the other two.
-
-Catherine: We didn't know who they were at the time. Okay ... that's it for the first murder. What about the second?
-Nick: Uh, we've got prints on quarters.
-Sara: We do have an admixture of blood off the ice machine.
-Grissom: What about prints on the ice machine knife?
-Warrick: Forget it. Ice destroyed it.
-Catherine: Okay, so, uh, we're going to have to get into the Klinefelds' house. If they haven't tossed the towels and sheets ...  ... we may have something.
-
-
- 
-Brass: No. Uh, look, there's got to be some mistake. We are this close to busting a pair of serial killers and the Judge won't issue a warrant?
-Stuart Gardner : Hey, I'm just the messenger.
-Brass: Is he back there? I'm going to talk to him.
-
-Stuart Gardner : He won't sign it. It's not the first time. Sorry.
-
-
- 
- 
-Judge Slater: Look, I have signed hundreds of search warrants for Captain Brass, but ... this affidavit lacks probable cause. Prints on quarters, an admixture of DNA ...
-Grissom: DNA, if given a warrant, will clear or convict...
-Judge Slater: ... are not enough for me to invade the Klinefelds' right to privacy.
-Grissom: Your Honor, with all due respect, you've signed warrants for less.
-Judge Slater: Yes... and where did it get me? Just last week, the appeals court overturned one of our convictions, based on a search warrant I gave to one of your sidekicks. We make a habit of this, I'm never going to get to the Foley building. Federal appointment. What if they kill again?
-Judge Slater:  All the more reason we need to get this right. Unappealable. The affidavit is thin. You give me more ... I'll give you more.
-
- 
- 
-Catherine: Funny, doesn't look like a doghouse.
-Nick: Grissom ratted me out, huh?
-Catherine: Um, no, you ratted yourself out. Hey, Nick, I know you're proud of what you do. You're good at what you do, and you want people to know what you do, but once you open your mouth, it's all over 'cause what we say ends up in the news.
-Nick: I guess I'm learning that the hard way, huh? 
-All right, , let's take a look. You see, it looks like something got a little bit more interesting than roulette here.
-Catherine: So, if that's the lure, where's the catch?
-
-Catherine: mm-hmm. Clear drinks. What do you want to bet the Rifkins are drinking vodka and the Klinefelds club soda.
-Nick: Hmm. Did you see that? That was a little tongue action right there.
-Catherine: So, if we're creatures of habit ... if she stuck her tongue in Mr. Rifkin's ear, chances are she stuck it in Mr. Dominguez's ear, too.
-Catherine: Mr. Dominguez has already been autopsied. Washed from head-to-toe.
-Nick: What about the ice man?
-Catherine:  Coroners.
-
- 
- 
-
- 
- 
-Catherine: He's not picking up.
- 
- 
-
- 
- 
-Catherine: Oh, hey, doc. Doc. Where's the ice man?
-Robbins:  Uh, David's cleaning him up.
-
-
- 
- 
-Nick: David ... whoa, whoa, whoa, whoa.
-Catherine: Drop the hose.
-
-David Phillips: What did I do?
-Catherine: Did you go from head to toe or head to toe?
-David Phillips: Toe to head.
-Nick: Good. Good answer.
-
-
- 
-
-
-
-
-Catherine: You run with it.
-
-
- 
- 
-Grissom: We get it yet?
-Nick: Any minute now.
-
-Greg: Here it is. Affirmative for female DNA.
-Grissom: Where are the admixture results from the ice machine?
-Greg: Right here.
-
-Greg: This is the same woman.
-Nick: Whoever was in his ear was on that ice machine. She's the killer.
-
-Fred Laggerman: Please, let me go. Please, let me go.
-
-
-Grissom: This should get us a warrant.
-
-
-
-
- 
-
-Brass: Okay, split up. Go around the back.
-
-
-Brass: Las Vegas police. Mr. and Mrs. Klinefeld, we have a warrant.
-(They walk into he house and look around.
-
-
-Brass: We got a problem ... 
-
-Brass: Somebody got to our killers before we did.
-
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=04x01+-+Assume+Nothing+%281%29&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127353%23p127353" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=04x01+-+Assume+Nothing+%281%29&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127353%23p127353" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127353%23p127353&amp;name=04x01+-+Assume+Nothing+%281%29" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127353%23p127353" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=2cd23bbd0de3c96dd6b944b8486f4015">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=2cd23bbd0de3c96dd6b944b8486f4015">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=2cd23bbd0de3c96dd6b944b8486f4015">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=2cd23bbd0de3c96dd6b944b8486f4015">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

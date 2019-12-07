@@ -1,812 +1,1042 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] 
+[EXT. HOME - STREET - NIGHT]
+(A stream of liquid hits the ground. The empty can follows and" />
+<meta property="og:title" content="04x03 - Homebodies - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] 
+[EXT. HOME - STREET - NIGHT]
+(A stream of liquid hits the ground. The empty can follows and" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13261" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>04x03 - Homebodies - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13261" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13261">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=a14bd4286347b61d7f4358295ae2924a"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=a14bd4286347b61d7f4358295ae2924a">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=a14bd4286347b61d7f4358295ae2924a">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=a14bd4286347b61d7f4358295ae2924a">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=a14bd4286347b61d7f4358295ae2924a">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13261&amp;sid=a14bd4286347b61d7f4358295ae2924a&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>04x03 - Homebodies</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127355">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127355">04x03 - Homebodies</a></div>
+							<div class="pull-right text-right"><time datetime="2003-10-24T03:22:24Z">10/24/03 03:22</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] </p>
+<p>[EXT. HOME - STREET - NIGHT]</p>
+<p>(A stream of liquid hits the ground. The empty can follows and hits the asphalt with a clang. TWO MEN, one carrying a crow bar, walk purposefully toward the house.)</p>
+<p>[EXT. FOSTER RESIDENCE - BACKYARD - NIGHT - CONTINUOUS]</p>
+<p>(The two men jump over the backyard fence. They use the crowbar and pry the backdoor open.) </p>
+<p>[INT. FOSTER RESIDENCE - NIGHT - CONTINUOUS]</p>
+<p>(They walk into the house.)</p>
+<p><strong>Intruder 1</strong>: Hey, this place is a dump.</p>
+<p><strong>Intruder 2</strong>: I'm telling you, this bitch is loaded and no one's seen her for weeks.</p>
+<p>(They walk through the passageway and into the living room. The place has been trashed.)</p>
+<p><strong>Intruder 2</strong>: (alarmed) What the hell.</p>
+<p><strong>Intruder 1</strong>: This place is trashed. Hey, man, you trying to make me look stupid?</p>
+<p><strong>Intruder 2</strong>: No, man. I swear. Somebody must have beat us to it.</p>
+<p>(Looking around the room, they see a closed closet door with a chair wedged under the knob.)</p>
+<p><strong>Intruder 2</strong>: What the hell is this?</p>
+<p>(Outside, there's a short, abrupt siren sound of a cop car approaching.)</p>
+<p><strong>Intruder 1</strong>: I'm out, man.</p>
+<p>(They both turn and head out of the house as fast as they can.)</p>
+<p>CUT TO:<br />
+[EXT. FOSTER RESIDENCE - BACKYARD - NIGHT - CONTINUOUS]</p>
+<p>(The two INTRUDERS run out to the backyard, through the same way they came in. They jump over the fence. On the other side, they are greeted by two OFFICERS with their guns drawn and pointed at the two men, headlights shining straight at them. They look up and see various police cars waiting for them, blocking their escape route.)</p>
+<p><strong>Officer</strong>: (overhead) Gentlemen, put your hands on your heads, please.</p>
+<p>(They two INTRUDERS put their hands on the back of their heads.)</p>
+<p>CUT TO:<br />
+[INT. FOSTER RESIDENCE -- NIGHT] </p>
+<p>(GRISSOM examines the doorknob and the chair.) </p>
+<p>(Camera pulls back to show both GRISSOM and WARRICK dusting the chair for prints. There's no telling how long they've been there, but no matter, they're thorough and are still working on the chair.)</p>
+<p>(Behind them, an OFFICER stands guard watching them work.)</p>
+<p><strong>Warrick</strong>: Smudges. Nothing but smudges. Doesn't anybody use formica anymore?</p>
+<p><strong>Officer</strong>: First thing we did when we saw this was call you guys. Didn't touch a thing.</p>
+<p>(WARRICK and GRISSOM continue to work on dusting the chair for prints.)</p>
+<p><strong>Officer</strong>: So you going to open it?</p>
+<p><strong>Grissom</strong>: Eventually.</p>
+<p>(They're through with the chair. GRISSOM looks at the door knob. Both he and WARRICK get to their feet. They each take a hold of the chair and pulls it away from the doorknob.)</p>
+<p>(WARRICK puts the chair aside.)</p>
+<p>(GRISSOM steps forward and starts dusting the doorknob. He finds one print. He takes out a tape lift and carefully gets the print.)</p>
+<p>(The OFFICER sighs and mutters to himself.)</p>
+<p><strong>Officer</strong>: This is going to take all day.</p>
+<p><strong>Grissom</strong>: Sun Tzu once said, &quot;If you wait by the river long enough, the bodies of your enemies will float by.&quot;</p>
+<p>(He hands the tape lift with the print to WARRICK. They're ready to open the door.)</p>
+<p>(GRISSOM reaches out and opens the closet door.)</p>
+<p>(Inside, they find the mummified figure of a dehydrated woman on the floor.)</p>
+<p><strong>Grissom</strong>: But those were brutal times.</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. FOSTER RESIDENCE - YARD -- NIGHT]</p>
+<p>(The DAVID PHILLIPS pushes up a gurney through the yard and up the walk to the front door. He picks up his paperwork and opens the door.) </p>
+<p>[INT. FOSTER RESIDENCE - CONTINUOUS]</p>
+<p>(Inside, WARRICK is just beyond the door blocking it from being opened.)</p>
+<p><strong>Warrick</strong>: Hey, hold up.</p>
+<p>(He pushes the door shut.)</p>
+<p>(The mail hole opens up and DAVID peers through the opening.)</p>
+<p><strong>David Phillips</strong>: Warrick?</p>
+<p><strong>Warrick</strong>: Hey, David. Give me a minute and let me clear a path here, okay?</p>
+<p><strong>David Phillips</strong>: All right, I'm not going anywhere.</p>
+<p>(WARRICK picks up the mail in front of the door on the floor.)</p>
+<p><strong>Warrick</strong>: All right.</p>
+<p>(He looks down at the postage mark on the mail: LAS VEGAS / SEP 06 '03 / NV.)</p>
+<p><strong>Warrick</strong>: There's at least four weeks of mail here, Grissom.</p>
+<p>(GRISSOM is still kneeling down just inside the closet looking at the body.)</p>
+<p><strong>Grissom</strong>: Four weeks of 100 degree days, zero percent humidity. Eventually, the body tissues sublimate ...</p>
+<p>(Quick CGI flashback to: MADELINE FOSTER is in the closet, just barely alive, just barely dead.)</p>
+<p><strong>Grissom</strong>: (V.O.) ... cell fluids vaporize ...</p>
+<p>(MADELINE FOSTER dies. CGI takes over and the body slowly decomposes and mummifies, the flesh hardening on her body.)</p>
+<p><strong>Grissom</strong>: (V.O.) ... and all that's left ... proteins, fats and minerals.)</p>
+<p>(End of CGI flashback. Resume to present.)</p>
+<p>(WARRICK continues to leaf through the mail.)</p>
+<p><strong>Warrick</strong>: Turns a grape into a raisin.</p>
+<p><strong>Grissom</strong>: Well, the desert was making mummies long before the Egyptians.</p>
+<p>(GRISSOM looks at the body and notices her hands. He looks up at the door and sees something.)</p>
+<p><strong>Grissom</strong>: Take a look at this. </p>
+<p>(GRISSOM shines the light on the door. WARRICK moves in closer for a look. On the lower edge of the door, there are fingernail claw marks with flesh and blood smudged into the markings.)</p>
+<p><strong>Grissom</strong>: And look at her fingers. </p>
+<p>(They both look down at her damaged fingertips.)</p>
+<p>(Camera zooms in for a close up of the pieces of wood embedded in her broken and ravaged nail bed.)</p>
+<p><strong>Warrick</strong>: She tried to claw her way out.</p>
+<p><strong>Grissom</strong>: Yeah. Which means she was alive when she was entombed.</p>
+<p>(GRISSOM looks up and around the closet.)</p>
+<p>CUT TO:<br />
+[EXT. FOSTER RESIDENCE -- NIGHT] </p>
+<p>(Outside, BRASS questions the INTRUDER who broke into the house.)</p>
+<p><strong>Intruder 2</strong>: She was supposed to be, like, this old widow, right? Like, always going out to dinner and coming home with shopping bags. Bitch had insurance money and word was that she kept it in a box hidden under her bed.</p>
+<p><strong>Brass</strong>: A retired grade-school teacher living on a pension ...</p>
+<p><strong>Intruder 2</strong>: Listen, man, we didn't kill her.</p>
+<p><strong>Brass</strong>: (simply) No, I know that. What I want to know is, other than the back door, did you or your partner touch anything in the house?</p>
+<p><strong>Intruder 2</strong>: No. There was nothing left to touch, man.</p>
+<p>(BRASS nods.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - SUNRISE]</p>
+<p>[INT. FOSTER RESIDENCE - KITCHEN -- MORNING] </p>
+<p>(WARRICK walks around and looks through the small kitchen. He sees a small dainty tea set out on doilies on a serving tray. Next to it on the counter, he finds a piece of chocolate cake with a huge bite in it.) </p>
+<p><strong>Warrick</strong>: Hey, Griss. </p>
+<p>(GRISSOM walks into the kitchen.)</p>
+<p><strong>Warrick</strong>: Don't you think this is kind of odd? A woman who spends the time making tea like this leaves a chunk of chocolate cake on the counter.</p>
+<p><strong>Grissom</strong>: With a big bite out of it?</p>
+<p>(WARRICK picks up the plastic container. The label on it reads: LAVISH CAFÉ.)</p>
+<p><strong>Warrick</strong>: Yeah. Some crack head brutalizes an old lady, leaves her in a closet, and grabs a snack on the way out.</p>
+<p><strong>Grissom</strong>: Hopefully. Take it back to the lab.</p>
+<p>(GRISSOM turns and walks back into the living room. He opens the closet door, walks inside and closes the door behind him.)</p>
+<p>[INT. CLOSET - CONTINUOUS]</p>
+<p>(Inside the small closet, GRISSOM looks around. He looks down. He looks up. He sees the light above, reaches up and taps the bulb.)</p>
+<p>(He turns off his flashlight.)</p>
+<p>(Quick flashback to: [INT. CLOSET] The door opens and the WOMAN is pushed inside.)</p>
+<p><strong>Madeline Foster</strong>: Oh!</p>
+<p><strong>Male Voice</strong>: Shut up! Get in!</p>
+<p><strong>Madeline Foster</strong>: Oh!</p>
+<p>(Cut to: CLOSE UP: A chair is wedged under the door knob.)</p>
+<p>(Cut to: MADELINE FOSTER reaches up and turns the closet light on.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(GRISSOM stands in the exact spot the woman was in when she turned the light on. He looks around the closet, then focuses on the markings on the door.)</p>
+<p>(Quick flashback to: MADELINE FOSTER struggles with the doorknob, trying to get it open. The chair won't budge. She hits her hands on the door trying to push it open; she grabs and jiggles the doorknob.)</p>
+<p>(End of flashback. Resume to GRISSOM. Continue sounds of MADELINE FOSTER struggling inside the closet.)</p>
+<p>(GRISSOM stretches out his hand and places it on the door imagining MADELINE FOSTER clawing the door with her fingernails.)</p>
+<p>(Quick flashback to: MADELINE FOSTER desperately claws at the door. She grabs at the doorknob.)</p>
+<p>(End of flashback. Resume to GRISSOM. Continue sounds of MADELINE FOSTER struggling inside the closet.)</p>
+<p>(Quick flash of MADELINE FOSTER inside the closet struggling to get out. She slowly slides to the floor. She curls up into a fetal position on the closet floor. The light burns out. In the darkness and by the light coming through the crack under the door, MADELINE FOSTER looks up at the closet ceiling. End of flashback. Resume to GRISSOM.)</p>
+<p>(Camera holds on GRISSOM.)</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(MADELINE FOSTER'S body is out on the autopsy table as ROBBINS goes over his findings with GRISSOM.) </p>
+<p><strong>Robbins</strong>: Fluoroscope showed no bullet or stab wounds, and apart from multiple fractures of her fingers and hands, no other apparent injuries.</p>
+<p><strong>Grissom</strong>: So whoever boarded her up in the closet maybe didn't intend to kill her.</p>
+<p><strong>Robbins</strong>: (shrugs) Yeah. They must have thought somebody'd find her -- a friend or relative.</p>
+<p><strong>Grissom</strong>: She lived alone. Only relative was a nephew. Brass is looking for him.</p>
+<p><strong>Robbins</strong>: Live alone, die alone. In this case, from massive dehydration. Rule of threes: Three minutes without air, three days without water, and three weeks without food. </p>
+<p><strong>Grissom</strong>: Three days must have felt like three years.</p>
+<p><strong>Robbins</strong>: Warrick said you found a possible print at the scene. Need to rule hers out?</p>
+<p><strong>Grissom</strong>: Yeah. Also need a dental impression.</p>
+<p><strong>Robbins</strong>: Well, that'll be easy.</p>
+<p>(ROBBINS reaches out and removes the dentures from her mouth. He drops it into the metal bin on the side table. GRISSOM watches as ROBBINS cuts off the tip of her finger.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<p>[EXT. TIMMEL RESIDENCE - BACKYARD -- DAY] </p>
+<p>(The OFFICER leads CATHERINE out to the backyard.) </p>
+<p><strong>Catherine</strong>: So, what do we have here?</p>
+<p><strong>Officer</strong>: Well, boy was out playing, found the weapon, fired one shot, dropped the weapon. No one's touched it since.</p>
+<p><strong>Catherine</strong>: Hmm. </p>
+<p>(She looks down at the gun on the ground.)</p>
+<p><strong>Catherine</strong>: Okay, thanks.</p>
+<p>(The OFFICER leaves.)</p>
+<p>(CATHERINE puts her bag down and kneels to pick up the gun. She looks at it and checks the cartridge. She sees something red inside the trigger guard and takes it out.)</p>
+<p>(Camera zooms in for a close up for the red piece.)</p>
+<p>CUT TO:<br />
+[EXT. TIMMEL RESIDENCE - BACKYARD - DAY -- CONTINUOUS] </p>
+<p>(MRS. TIMMEL holds NATHAN on her lap as CATHERINE walks over to them.) </p>
+<p><strong>Catherine</strong>: Hey, Nathan. How's your foot?</p>
+<p><strong>Nathan Timmel</strong>: I got a rocket ship band-aid.</p>
+<p><strong>Catherine</strong>: Hmm. Yeah, I see that. Mrs. Timmel, does the gun belong to someone in the house?</p>
+<p><strong>Mrs. Timmel</strong>: No, absolutely not. My husband and I don't believe in guns. We moved here from the city because it was supposed to be safer.</p>
+<p><strong>Catherine</strong>: Nathan, where did you find the gun?</p>
+<p><strong>Nathan Timmel</strong>: Seymour found it.</p>
+<p><strong>Catherine</strong>: Seymour?</p>
+<p><strong>Mrs. Timmel</strong>: (whispers) His imaginary friend.</p>
+<p><strong>Catherine</strong>: (to MRS. TIMMEL) Oh. (to NATHAN) So, you were playing with Seymour, and he found the gun where?</p>
+<p><strong>Nathan Timmel</strong>: (points) Over there.</p>
+<p><strong>Catherine</strong>: Well, where exactly?</p>
+<p><strong>Nathan Timmel</strong>: In the backyard.</p>
+<p><strong>Catherine</strong>: Was it buried? Did you dig it up?</p>
+<p><strong>Nathan Timmel</strong>: Nope.</p>
+<p>(Quick flashback to: NATHAN walks out into the backyard and picks up the gun from the base of the tree. He points it downward ... and fires. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Will you ever play with guns again?</p>
+<p><strong>Nathan Timmel</strong>: Nope.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY OUTSIDE MORGUE]</p>
+<p>(GRISSOM leans against the wall as BRASS talks with him.) </p>
+<p><strong>Grissom</strong>: We don't need an I.D ...</p>
+<p><strong>Brass</strong>: Oh, the nephew said he wanted to see her. Insisted on it. Made me curious. </p>
+<p>(A young man walks slowly toward them.)</p>
+<p><strong>Brass</strong>: You Connor Foster?</p>
+<p><strong>Connor Foster</strong>: Yeah. I'm sorry I'm late. I got lost. (He looks around.)<br />
+This is the morgue, huh?</p>
+<p>[INT. MORGUE]</p>
+<p>(A small group gathers around the door to the morgue body storage unit. DAVID PHILLIPS opens the door and pulls out the table with the body on it.)</p>
+<p><strong>Grissom</strong>: You have to prepare yourself for this. Your aunt was found in an advanced state of decomposition.</p>
+<p>(DAVID pulls back the sheet. CONNOR FOSTER looks at the body and turns away.)</p>
+<p><strong>Connor Foster</strong>: Oh, this is messed up. This is really messed up. </p>
+<p>(He turns back and glances at the body, then jumps.)</p>
+<p><strong>Connor Foster</strong>: Whoa! She just moved. Did you see that? </p>
+<p>(BRASS and GRISSOM glance at each other at CONNOR'S bizarre behavior.)</p>
+<p><strong>Connor Foster</strong>: I'm telling you, she just moved.</p>
+<p><strong>Brass</strong>: Sometimes, when you see the body of someone you know, someone you've seen move before, you want them to move.</p>
+<p><strong>Connor Foster</strong>: That's not her. This lady's too thin. That's not her skin, either. My aunt always wore sunblock.</p>
+<p><strong>Grissom</strong>: Dry mouth. Diaphoresis. Red eyes, dilated pupils.</p>
+<p><strong>Connor Foster</strong>: Huh?</p>
+<p><strong>Brass</strong>: It means you're high.</p>
+<p>(CONNOR looks at BRASS and GRISSOM.)</p>
+<p><strong>Connor Foster</strong>: I got to go.</p>
+<p><strong>Brass</strong>: We'd like you to stay.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - INTERVIEW ROOM]</p>
+<p>(BRASS and GRISSOM interview CONNOR FOSTER. CONNOR takes a sip of his drink.) </p>
+<p><strong>Brass</strong>: Where are you living these days, Connor?</p>
+<p><strong>Connor Foster</strong>: At the YMCA off industrial, near the underpass.</p>
+<p><strong>Brass</strong>: Nice. How's work?</p>
+<p><strong>Connor Foster</strong>: I don't have a job. I used to.</p>
+<p><strong>Brass</strong>: Yeah. Yeah, two years ago, your aunt reported a pearl necklace stolen. You were busted trying to hock it at a pawn shop.</p>
+<p><strong>Connor Foster</strong>: She dropped those charges.</p>
+<p><strong>Brass</strong>: Oh, sure. Anything for her favorite nephew. And what have you done for her? She was lying in a coat closet for over a month. You didn't call. You didn't stop by.</p>
+<p><strong>Connor Foster</strong>: (interrupting) I don't call her much. We only have dinner on holidays. Whenever she sees me, it makes her kind of sad.</p>
+<p><strong>Grissom</strong>: Do you get the munchies?</p>
+<p><strong>Connor Foster</strong>: When?</p>
+<p><strong>Grissom</strong>: When you're high.</p>
+<p>(When CONNOR doesn't answer, GRISSOM leans forward intently.)</p>
+<p><strong>Grissom</strong>: Do you like cake?</p>
+<p><strong>Connor Foster</strong>: (laughs) No, I go for burgers. Sonic.</p>
+<p><strong>Grissom</strong>: How would you like to make a dental impression for us?</p>
+<p><strong>Connor Foster</strong>: I'll do whatever you guys want.</p>
+<p>CUT TO:<br />
+[INT. CSI - BALLISTICS LAB -- NIGHT] </p>
+<p>(CATHERINE walks into the lab. RICH has his back to the door.) </p>
+<p><strong>Catherine</strong>: Hey, Rich. </p>
+<p>(RICH turns around.)</p>
+<p><strong>Rich</strong>: Whatcha got for me?</p>
+<p><strong>Catherine</strong>: Found this somewhere where it didn't belong. </p>
+<p>(She takes the gun out and hands it to him.) </p>
+<p><strong>Catherine</strong>: Unregistered. No prints.</p>
+<p>(He checks the gun out.)</p>
+<p><strong>Rich</strong>: Huh. Sweet piece.</p>
+<p><strong>Catherine</strong>: Mm-hmm.</p>
+<p><strong>Rich</strong>: .32 beretta tomcat. Titanium frame, stainless steel barrel and slide. Super lightweight.</p>
+<p><strong>Catherine</strong>: Yeah, light enough for a five year old to use.</p>
+<p><strong>Rich</strong>: Ouch.</p>
+<p><strong>Catherine</strong>: He's okay. Thank god.</p>
+<p><strong>Rich</strong>: Good. </p>
+<p>(RICH walks over to the cabinet to get some bullets for the gun.) </p>
+<p><strong>Rich</strong>: .32 caliber. Not many of these in circulation.</p>
+<p><strong>Catherine</strong>: Well, that's a good thing.</p>
+<p><strong>Rich</strong>: Potentially.</p>
+<p>(He finds the bullets.)</p>
+<p><strong>Rich</strong>: Okay. Here we go.</p>
+<p>(He walks over to the table and loads the gun. CATHERINE grabs a set of goggles and ear phones and puts them on.)</p>
+<p><strong>Catherine</strong>: Okay.</p>
+<p>(RICH picks up the gun.)</p>
+<p><strong>Rich</strong>: (shouts) Two shots!</p>
+<p>(He fires twice.)</p>
+<p>SHORT TIME CUT TO:<br />
+[BALLISTICS LAB]</p>
+<p>[SCOPE VIEW] of the bullet.</p>
+<p>(RICH does a computer comparison of the bullet just shot with the database while CATHERINE waits and watches.)</p>
+<p>(Various cuts of the database running the comparison.)</p>
+<p>(There's a match to a bullet attached with the following crime:</p>
+<p>Type: D.B.</p>
+<p>STATUTE: ***<br />
+Description: Murder<br />
+Code: DOC# 1773621-43</p>
+<p>CRIME SCENE REPORT<br />
+Investigating Officer: W. Brown<br />
+0012542 &lt;Ballistics&gt;<br />
+ID TYPE: Bullet &lt;32 Automatic&gt;<br />
+WEAPON: N/A<br />
+0013837 &lt;CORONER'S REPORT&gt;<br />
+TYPE: DEAD BODY<br />
+NAME: FRANK MADDOX<br />
+LOCATION: MASLOW PARK</p>
+<p><strong>Rich</strong>: There's showing up for work and there's doing your job. Warrick brought in a .32 auto coroner's bullet last week. D.B. in Maslow Park. You just found the murder weapon.</p>
+<p>CUT TO:<br />
+[INT. CSI - TRACE LAB -- NIGHT] </p>
+<p>(CATHERINE looks at the photos for the MADDOX case. WARRICK is in the lab supplying additional information. Camera shows various photos of FRANK MADDOX.) </p>
+<p><strong>Catherine</strong>: Frank Maddox. 47-year-old white male. Professional bounty hunter. Single .32 round in the side of his head. Bruises on his face and chest.</p>
+<p><strong>Warrick</strong>: Autopsy ruled those premortem. At least a day old. It was a close shot, non-contact, downward angle. No primer residue on the hands. T.O.D. was approximately 2:00 A.M. No one found the body until 7:00 A.M. A lot of wind ... </p>
+<p><strong>Catherine</strong>: Warrick, your notes are great. Let the case speak for itself.</p>
+<p>(WARRICK turns and heads out of the room.)</p>
+<p><strong>Warrick</strong>: I got to go see my mummy.</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB -- NIGHT]</p>
+<p>(Camera opens on a dish with the thumb in it. GREG picks it up and looks at it closely.) </p>
+<p><strong>Greg</strong>: (to WARRICK) You know, I could've sworn I heard Grissom telling you to do this.</p>
+<p><strong>Warrick</strong>: Yeah? You know what rolls downhill?</p>
+<p><strong>Greg</strong>: Apparently bloated fingertips.</p>
+<p>(GREG inks the fingertip.)</p>
+<p><strong>Warrick</strong>: Come on, you got a lot of new skills to master. Field work's a little messier than your test tubes and your GCMS.</p>
+<p><strong>Greg</strong>: Yeah, and a lot less accurate.</p>
+<p><strong>Warrick</strong>: One continuous motion, nice and easy.</p>
+<p>(GREG takes a print from the fingertip.)</p>
+<p><strong>Warrick</strong>: That's not bad. Keep practicing. Nine more to go.</p>
+<p>(WARRICK leaves the lab.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -- CONTINUOUS] </p>
+<p>(WARRICK walks down the hallway and runs into NICK and SARA on their way out.) </p>
+<p><strong>Sara</strong>: Hey.</p>
+<p><strong>Warrick</strong>: Hey.</p>
+<p><strong>Sara</strong>: I heard about your mummy in the closet. Very cool.</p>
+<p><strong>Nick</strong>: Yeah, and we get a 406 in Henderson. Want to trade?</p>
+<p><strong>Warrick</strong>: (no way) Nothing spells excitement like a B and E.</p>
+<p>CUT TO:<br />
+[EXT. KIRKWOOD RESIDENCE -- NIGHT]</p>
+<p>(NICK and SARA walk up the front walk accompanied by an OFFICER. The OFFICER knocks on the door.) </p>
+<p><strong>Michael Kirkwood</strong>: (through door) Who is it?</p>
+<p><strong>Officer</strong>: Las Vegas police, sir.</p>
+<p>(The door opens.)</p>
+<p><strong>Michael Kirkwood</strong>: Hey.</p>
+<p><strong>Officer</strong>: We received a phone call from a neighbor about a break in.</p>
+<p><strong>Michael Kirkwood</strong>: Yeah, yeah, (He glances behind him.) I'm, uh, sorry, officers. There's been a misunderstanding. (He motions to his daughter. SARA looks past him inside the house.) My daughter, she had some friends over tonight without my permission, and, um, they started drinking. </p>
+<p>(SARA sees LINDA KIRKWOOD cleaning up the broken glass on the floor and behind her is their daughter, SUZANNA KIRKWOOD, visibly shaking with her arms wrapped around her body. She looks, sees SARA watching her, then leaves the room.)</p>
+<p><strong>Michael Kirkwood</strong>: They got out of control. They broke some stuff. A couple of windows, but, uh, you know, we got it under control, we're cleaning it all up. So I apologize for the trouble.</p>
+<p><strong>Officer</strong>: No trouble at all, sir. You have a good night now.</p>
+<p><strong>Michael Kirkwood</strong>: Thanks.</p>
+<p>(The door closes.)</p>
+<p>(NICK, SARA and the OFFICER turn around and leave. NICK sighs.)</p>
+<p><strong>Nick</strong>: &quot;To protect and serve.&quot;</p>
+<p>(NICK chuckles and turns to the OFFICER. SARA heads back to the car.)</p>
+<p><strong>Nick</strong>: Are you boys ready for softball on Sunday?</p>
+<p><strong>Officer</strong>: Ready to kick your ass, Stokes.</p>
+<p><strong>Sara</strong>: See you back at the lab.</p>
+<p><strong>Nick</strong>: All right. You're ready to kiss my what?</p>
+<p><strong>Officer</strong>: You heard me.</p>
+<p>(NICK and the OFFICER continue talking. SARA gets into the car. She puts her kit down and closes the door.)</p>
+<p>(She reaches up and adjusts the rear view mirror. She finds SUZANNA KIRKWOOD sitting in the back seat of the car.)</p>
+<p><strong>Suzanna Kirkwood</strong>: (softly) I need to go to the hospital. Please.</p>
+<p>CUT TO:<br />
+[INT. HOSPITAL - EMERGENCY ROOM -- NIGHT] </p>
+<p>(SARA tries to talk with SUZANNA as they wait for the doctor. SUZANNA sits on the examination table with her back to SARA.) </p>
+<p><strong>Sara</strong>: Suzanna, if you were sexually assaulted ...</p>
+<p><strong>Suzanna Kirkwood</strong>: It was a party. It just got out of control. All I need is an AIDS test and a morning after pill.</p>
+<p><strong>Sara</strong>: Date rape is still rape.</p>
+<p><strong>Suzanna Kirkwood</strong>: (flatly) Thank you for clearing that up.</p>
+<p>(The doctor walks into the room.)</p>
+<p><strong>Doctor</strong>: Hey.</p>
+<p><strong>Sara</strong>: Hi.</p>
+<p>(SARA looks at SUZANNA and notices the bruises and bite marks on her shoulders.)</p>
+<p><strong>Suzanna</strong>: (to the DOCTOR) Does she ... ? Does she have to be in here for this?</p>
+<p><strong>Doctor</strong>: No.</p>
+<p>(The DOCTOR looks at SARAH.)</p>
+<p><strong>Suzanna</strong>: Bye. Thank you.</p>
+<p><strong>Sara</strong>: Okay.</p>
+<p>(SARA turns and leaves the room.)</p>
+<p><strong>Doctor</strong>: (to SUZANNA) Go ahead and put this on, okay?</p>
+<p>(The DOCTOR turns to follow SARA out of the room. She pulls the curtain close as she leaves. SUZANNA starts to change into the gown.)</p>
+<p>(Cut to: [OUTSIDE EXAM AREA NEAR DOOR] SARA speaks with the DOCTOR.)</p>
+<p><strong>Sara</strong>: We're going to need full-body photographs. If she can't talk, the kit's going to have to do it for her.</p>
+<p><strong>Doctor</strong>: Okay.</p>
+<p>(The DOCTOR heads back into the examination area. SARA turns and leaves to wait.)</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- NIGHT] </p>
+<p>(GRISSOM opens a box and takes out the chocolate cake. He sprays it. GREG walks into the lab.) </p>
+<p><strong>Greg</strong>: Your, uh, mummy prints.</p>
+<p>(GREG puts the print card on the table in front of GRISSOM. He looks at it, then glances up at GREG.)</p>
+<p><strong>Grissom</strong>: Warrick's getting sloppy.</p>
+<p><strong>Greg</strong>: Yeah, someone should really have a talk with that guy.</p>
+<p>(GRISSOM swabs the chocolate cake. GREG watches him.)</p>
+<p><strong>Greg</strong>: What's that?</p>
+<p><strong>Grissom</strong>: Dessert.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<p>[INT. KIRKWOOD RESIDENCE -- DAY] </p>
+<p>(NICK and SARA are back talking with MICHAEL KIRKWOOD.) </p>
+<p><strong>Michael Kirkwood</strong>: Look, I thought we were done.</p>
+<p><strong>Nick</strong>: Well, sir, we need a list of all the kids who were here tonight.</p>
+<p><strong>Linda Kirkwood</strong>: Why?</p>
+<p><strong>Sara</strong>: Mrs. Kirkwood, Mr. Kirkwood, your daughter has been raped.</p>
+<p><strong>Michael Kirkwood</strong>: (sighs) What did she tell you?</p>
+<p>(NICK notices the red splotches on MICHAEL KIRKWOOD'S knuckles.)</p>
+<p><strong>Nick</strong>: We're going to need to search the premises.</p>
+<p><strong>Michael Kirkwood</strong>: You can't. It's my house.</p>
+<p><strong>Sara</strong>: You don't have a choice. We have a warrant.</p>
+<p>(SARA hands the warrant to MICHAEL KIRKWOOD as they walk into the house. NICK motions for them to leave.)</p>
+<p><strong>Nick</strong>: I'm going to have to ask you folks to step outside. Thank you.</p>
+<p>(MICHAEL KIRKWOOD and LINDA KIRKWOOD leave the house.)</p>
+<p><strong>Sara</strong>: I'll take the girl's room.</p>
+<p><strong>Nick</strong>: Yeah, I'll take the master.</p>
+<p>CUT TO:<br />
+[SUZANNA'S BEDROOM]</p>
+<p>(SARA pulls the comforter off of the bed.)</p>
+<p>[MASTER BEDROOM]</p>
+<p>(NICK pulls the comforter off of the bed and uses the ALS.)</p>
+<p>(Cut to: SARA uses the ALS on the bed.)</p>
+<p>(Cut to: NICK scans the bed sheets.)</p>
+<p>(Cut to: SARA.)</p>
+<p>(Cut to: NICK puts the ALS aside and looks at the shelves. He finds a framed photo cracked. He finds several of the glass in the frames cracked. He picks up a photo and looks at it. He puts it back on the shelf.)</p>
+<p>(He looks down and finds a chip in the table. He reaches out and finds the closet door knob loose.)</p>
+<p>(NICK dusts the table and finds a print. He tape lifts it. He looks up at the closet door and on a hunch, flips the table over to wedge it under the door knob. It's a perfect fit. Right down to the chip in the table.)</p>
+<p>(NICK puts the table back and slowly reaches out for the closet door knob.)</p>
+<p>(He opens the closet door and finds it a mess inside. He finds bloody claw marks leading down to the low vent in the closet door. NICK pulls back and lowers his flashlight absolutely stunned by his thoughts.)</p>
+<p>(Camera holds on NICK.)</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - LAB -- DAY] </p>
+<p>(GRISSOM, WARRICK, NICK and SARA surround a table full of photos.) </p>
+<p><strong>Sara</strong>: So, how do we know we're dealing with the same suspect?</p>
+<p><strong>Warrick</strong>: We don't.</p>
+<p><strong>Nick</strong>: Table against the closet door, chair shoved under the knob. It is the same M.O.</p>
+<p><strong>Sara</strong>: Any connections between the victims?</p>
+<p><strong>Grissom</strong>: Well, both victims were left alive, we think. I mean, the old lady's death was probably unintentional, and the girl's rape was ... </p>
+<p><strong>Sara</strong>: Crime of opportunity?</p>
+<p><strong>Warrick</strong>: If you're out to rob somebody's house, why would you do it when they're home?</p>
+<p><strong>Grissom</strong>: The difference between burglary and home invasion -- infliction of terror.</p>
+<p>(Quick flashback to: [INT. KIRKWOOD RESIDENCE - NIGHT] The KIRKWOODS are on their knees in the bedroom as the PERPETRATOR stands above them.)</p>
+<p><strong>Perpetrator</strong>: Talk to the cops? Say a word, and I'll kill you. </p>
+<p>(Flash to SUZANNA. Flash to: The PERPETRATOR holds the gun up against MICHAEL KIRKWOOD'S head.)</p>
+<p><strong>Perpetrator</strong>: I'll kill you, okay?</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: Bad guys leave, fear just stays behind.</p>
+<p>CUT TO:<br />
+[EXT. MASLOW PARK -- DAY] </p>
+<p>(CATHERINE and SGT. O'RILEY are at the park and head for the wooden bench.) </p>
+<p><strong>Catherine</strong>: Maslow Park. All fun and games till the sun goes down.</p>
+<p>(CATHERINE glances down at the file in the hand.)</p>
+<p><strong>Catherine</strong>: So, the bounty hunter is here at 2:00 A.M.</p>
+<p><strong>O'Riley</strong>: Like shooting fish in a barrel. Almost guaranteed to run into one of his skips or some lowlife who knows ere they are.</p>
+<p><strong>Catherine</strong>: Well, apparently, someone found him first.</p>
+<p>(Quick flashes of: [EXT. MASLOW PARK] FRANK MADDOX lifts the binoculars to his eyes and looks around the park. Someone walks up to him from behind, puts the gun to his head and fires.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Hunter becomes the hunted.</p>
+<p>(CATHERINE looks around the park.)</p>
+<p><strong>Catherine</strong>: A dozen perfect dump sites within a mile of here. So, how does the gun end up across town in the hands of a five-year-old boy?</p>
+<p><strong>O'Riley</strong>: Drive and dump.</p>
+<p><strong>Catherine</strong>: (shakes her head) Doesn't make any sense.</p>
+<p>CUT TO:<br />
+[INT. CSI - PRINT LAB -- DAY]</p>
+<p>(Open on: Computer monitor: On the right is the print; on the left is the following information: </p>
+<p>Officer: G. GRISSOM<br />
+Location: MADELINE FOSTER / (Closet Door Knob) / Residence</p>
+<p>(A second print appears on the monitor for:</p>
+<p>Officer: N. Stokes<br />
+Location: KIRKWOOD / (Side Table) / Residence</p>
+<p>(JACQUI FRANCO is at the computer running the comparison while WARRICK and NICK watch and wait.)</p>
+<p><strong>Jacqui Franco</strong>: You never make it easy, do you?</p>
+<p><strong>Nick</strong>: The center whorls look similar.</p>
+<p><strong>Warrick</strong>: Can you generate a composite?</p>
+<p><strong>Franco</strong>: Well, it's all about gestalt. When the whole of the pattern is greater than the sum of its parts.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB]</p>
+<p>(GRISSOM works on the chocolate cake. He uses the magnifying glass and examines the bite detail.)</p>
+<p>CUT TO:<br />
+[INT. CSI - ANOTHER LAB]</p>
+<p>(SARA works on the photographs taken from SUZANNA KIRKWOOD. She traces the bite patter on her shoulder onto a clear plastic sheet.)</p>
+<p>CUT TO:<br />
+[INT. CSI - PRINT LAB]</p>
+<p>(JACQUI continues to work on matching the prints.)</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(GRISSOM peels off the bite mold.) </p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(SARA shows GRISSOM her findings on the bite marks.) </p>
+<p><strong>Sara</strong>: Once I pulled details, I shrank it back down to 100%. Here's the thing. Looks like the bite came from behind.</p>
+<p><strong>Grissom</strong>: Well, it was probably easier to subdue her in that position.</p>
+<p>(Quick flashback to: SUZANNA KIRKWOOD is thrown on the bed face-down and held as she struggles. The RAPIST bites her shoulder from behind as she screams.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(Camera pauses on SARA who is unusually quiet. GRISSOM turns to look at her.)</p>
+<p><strong>Grissom</strong>: You okay?</p>
+<p><strong>Sara</strong>: Yeah.</p>
+<p>(GRISSOM nods, then continues. He matches SARA'S bite drawings with the mold.)</p>
+<p><strong>Grissom</strong>: The occlusal plane looks the same. And the lateral incisor overlaps the canine ...</p>
+<p>(He moves the clear sheet drawing from the photo to the mold to show that they match.)</p>
+<p><strong>Grissom</strong>: ... in both cases.</p>
+<p><strong>Sara</strong>: Same person.</p>
+<p><strong>Grissom</strong>: Definitely not the old lady's nephew.</p>
+<p>(NICK and WARRICK walk in with the print results.)</p>
+<p><strong>Nick</strong>: Hey, hey. Two partials equal one slimeball. Jacqui got a hit through AFIS.</p>
+<p><strong>Warrick</strong>: The guy with the closet fixation is Steve Jansson.</p>
+<p><strong>Sara</strong>: Let's see if he has an oral fixation as well.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- NIGHT] </p>
+<p>(BRASS and SARA interview STEVE JANSSON.) </p>
+<p><strong>Brass</strong>: Little Stevie Jansson. How was the home of the good shepherd, Steve?</p>
+<p><strong>Steve Jansson</strong>: Mac and cheese was aces. Juvie offenses don't mean squat. My record -- it's been expunged.</p>
+<p><strong>Brass</strong>: Expunged, huh? So, what's this crap you're pulling now?</p>
+<p><strong>Sara</strong>: Two crime scenes, two prints-- both yours.</p>
+<p><strong>Brass</strong>: And looking at your adult record, this makes strike two and three with one pitch. That's a real time-saver for us.</p>
+<p><strong>Steve Jansson</strong>: I don't know what you're talking about.</p>
+<p><strong>Brass</strong>: Madeline Foster. The Kirkwoods.</p>
+<p><strong>Steve Jansson</strong>: I do work for them sometimes. Odd jobs.</p>
+<p><strong>Brass</strong>: So, if we asked The Kirkwoods, they'd say you were their handyman, huh?</p>
+<p><strong>Steve Jansson</strong>: Go ahead. Ask them.</p>
+<p><strong>Sara</strong>: You always help yourself to something sweet while you work?</p>
+<p>(SARA holds out a mold.)</p>
+<p><strong>Sara</strong>: Bite it.</p>
+<p>CUT TO:<br />
+[INT. CSI - AUDIO/VISUAL LAB]</p>
+<p>(CATHERINE watches some televisionvideo footage of FRANK MADDOX.) </p>
+<p><strong>Frank Maddox</strong>: (on footage) I'm saying it now, and I'm saying it loud. I will bring Terrango to justice.</p>
+<p>(WARRICK walks into the room.)</p>
+<p><strong>Interviewer</strong>: (on footage) What makes you think you'll succeed where so many others have failed?</p>
+<p><strong>Frank Maddox</strong>: (on footage) Failure's not an option. It never has been. You feeling me, Terrango? You can keep on running, but I will keep coming. I will never stop.</p>
+<p><strong>Warrick</strong>: Them's fightin' words. Did he get his man?</p>
+<p>(CATHERINE turns back to the lab table. WARRICK follows her.)</p>
+<p><strong>Catherine</strong>: Actually, no. Terrango killed two more people before another<br />
+&quot;recovery agent&quot; picked him up in Texas.</p>
+<p><strong>Warrick</strong>: Well, that probably hurt business.</p>
+<p><strong>Catherine</strong>: Oh, yeah, it did. After that case, his recovery rate went down practically to zero.</p>
+<p>(She picks up a crime scene photo and looks at it.)</p>
+<p><strong>Catherine</strong>: What about suicide?</p>
+<p><strong>Warrick</strong>: No. It's a non-contact wound at a downward angle. It's a textbook murder.</p>
+<p><strong>Catherine</strong>: Maybe too textbook. A bounty hunter would know how to fake it. Let's check out his right sleeve. Very odd. It's unbuttoned - it's pulled way down. It would explain why there weren't any prints on the gun.</p>
+<p>(Quick flashback to: FRANK MADDOX unbuttons his sleeve and uses it to hold the gun with as he puts it behind his own head. Flash to white. End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: Doesn't explain how the gun left the scene.</p>
+<p><strong>Catherine</strong>: Maybe someone found it and grabbed it up.</p>
+<p><strong>Warrick</strong>: Just to toss it in suburbia a week later?</p>
+<p><strong>Catherine</strong>: We're always looking for a weapon. You'd think it'd be easier when the weapon finds us.</p>
+<p><strong>Warrick</strong>: What's in the scope?</p>
+<p>(WARRICK looks through the microscope at the slip of ribbon.)</p>
+<p>[SCOPE VIEW]</p>
+<p><strong>Catherine</strong>: It's polypropylene film. It was found in the trigger guard. It's ribbon, for wrapping presents and ...</p>
+<p>(She trails off, thinking. She pauses as something occurs to her. She picks up a package off the desk and turns to head somewhere. Hearing her leave, WARRICK looks up.)</p>
+<p>(Cut to: CATHERINE puts the gun on a scale to weigh it. 131.05 oz. She puts the gun down, resets the scale and weighs another item.)</p>
+<p>(WARRICK walks into the room. He watches her as she fills the container with weight equivalent to the weight of the gun.)</p>
+<p><strong>Warrick</strong>: You got a theory?</p>
+<p><strong>Catherine</strong>: You got ten bucks?</p>
+<p>(CATHERINE puts the weight into a bag while WARRICK checks his pockets for the cash.)</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY] </p>
+<p>(GRISSOM and BRASS walk down the hallway.) </p>
+<p><strong>Grissom</strong>: Jansson's dental impression is consistent with the bite mark on the girl's shoulder.</p>
+<p><strong>Brass</strong>: Consistent, but not conclusive. I spoke to Mr. Kirkwood. He wouldn't confirm or deny Jansson's handyman story. He said he couldn't remember. And without that, uh ...</p>
+<p>(His voice trails off. They turn the corner and meet up with SARA and GREG.)</p>
+<p><strong>Sara</strong>: Hey, guys, we're screwed.</p>
+<p><strong>Greg</strong>: The semen from the rape kit doesn't belong to Steve Jansson. No hits off CODIS either.</p>
+<p>(They all turn and start walking through the hallway.)</p>
+<p><strong>Sara</strong>: There was more than one guy. She was gang-raped.</p>
+<p>(Quick flashback to: One man holds SUZANNE KIRKWOOD down while the other assaults her. End of quick flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: This gets cheerier by the minute.</p>
+<p><strong>Sara</strong>: Jansson's never going to roll over on his partner. They're going to do it again.</p>
+<p><strong>Brass</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: We've given them no reason to stop.</p>
+<p>(They group walks out of camera frame.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<p><strong>Cue Sound</strong>: (PRELAP) DOORBELL</p>
+<p>[INT. KIRKWOOD RESIDENCE -- DAY] </p>
+<p>(SUZANNA KIRKWOOD opens the door to GRISSOM.) </p>
+<p><strong>Grissom</strong>: Hi. My name's Gil Grissom. I'm with the Las Vegas crime lab.</p>
+<p>(He shows her his I.D.)</p>
+<p><strong>Michael Kirkwood</strong>: (o.s.) Suzanna, ... </p>
+<p>(MICHAEL KIRKWOOD walks up to the door and SUZANNA steps away.)</p>
+<p><strong>Michael Kirkwood</strong>: (to SUZANNA) ... I said I'd get it. (to GRISSOM) What do you want? I already told the police I have nothing more to say.</p>
+<p><strong>Grissom</strong>: I think you do. And I need you to speak for someone who can't speak for herself. Another victim.</p>
+<p><strong>Michael Kirkwood</strong>: I don't care about another victim. </p>
+<p>(GRISSOM looks up past MICHAEL KIRKWOOD at SUZANNA who hasn't completely left the room. MICHAEL KIRKWOOD turns and looks at his daughter.)</p>
+<p><strong>Michael Kirkwood</strong>: Suzanna, please.</p>
+<p>(She turns and leaves the room.)</p>
+<p><strong>Grissom</strong>: Look, we know that two men broke into your house. We have one suspect in custody, but we can't hold him unless you talk to us.</p>
+<p><strong>Michael Kirkwood</strong>: I can't help you. I'm shutting the door now.</p>
+<p>(MICHAEL KIRKWOOD grabs the door to close it. GRISSOM stops him.)</p>
+<p><strong>Grissom</strong>: Mr. Kirkwood, I've done all that I can. I need what you saw.</p>
+<p><strong>Michael Kirkwood</strong>: (swallows) Mr. Grissom, do you have a wife, children?</p>
+<p><strong>Grissom</strong>: No.</p>
+<p><strong>Michael Kirkwood</strong>: Then you can't possibly understand how I feel. All I am to you is a folder in a drawer.</p>
+<p><strong>Grissom</strong>: And if I had a wife and children ...</p>
+<p><strong>Michael Kirkwood</strong>: Then you wouldn't be here. I can't help you.</p>
+<p>(MICHAEL KIRKWOOD steps back into the house and slams the door on GRISSOM.)</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - GARAGE -- DAY] </p>
+<p>(WARRICK, NICK and SARA go through the KIRKWOOD'S trash.) </p>
+<p><strong>Nick</strong>: Man ... LINDA KIRKWOOD was a Hoover. She even bleached the sheets.</p>
+<p><strong>Sara</strong>: You know what I don't get? How do they get in? There's no sign of forced entry at either scene.</p>
+<p><strong>Nick</strong>: Ring the doorbell; that usually seems to work.</p>
+<p>(SARA thinks about this.)</p>
+<p>(NICK picks up the things in front of him and goes through it, tossing it aside.)</p>
+<p><strong>Warrick</strong>: Hey, hey, hey.</p>
+<p><strong>Nick</strong>: What?</p>
+<p><strong>Warrick</strong>: What is that you just threw in there?</p>
+<p>(WARRICK reaches out and picks up the paper bag. He looks at it.)</p>
+<p><strong>Nick</strong>: Leftovers, I guess.</p>
+<p><strong>Warrick</strong>: You know that piece of half-eaten shark with cake that Gris and I found at the old lady Maddie's house? This is from the same restaurant.</p>
+<p><strong>Sara</strong>: Links the victims.</p>
+<p>(WARRICK opens the package and looks inside. He finds a receipt:</p>
+<p>LAVISH CAFÉ<br />
+14490 KILDARE RD.<br />
+LAS VEGAS, NV 89109<br />
+(702) 555-2398</p>
+<p>SERVER: 8566<br />
+DATE: 10/08/03<br />
+7:18 PM</p>
+<p>MCX 64755<br />
+CARD#: XXXXXXXXXXXXX9444 EXP: 0906<br />
+Magnetic Card Present KIRKWOOD<br />
+Approved 566849</p>
+<p><strong>Warrick</strong>: Same night as the home invasion. Signed by LINDA KIRKWOOD. Dinner for one.</p>
+<p><strong>Nick</strong>: Single women, dining alone -- easy targets.</p>
+<p>(Quick flashback to: [LAVIS CAFÉ] LINDA KIRKWOOD sits at a table sipping a glass of wine.)</p>
+<p><strong>Nick</strong>: (V.O.) All you have to do is follow them home.</p>
+<p>(The waiter puts the bag on the table for her. Cut to: As she leaves, she smiles at the waiter.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: (thinking) Same Restaurant ...</p>
+<p><strong>Nick</strong>: (looks at WARRICK) Same waiter?</p>
+<p>(Their eyes meet.)</p>
+<p>(WARRICK flips the receipt over. There's a hand-written note on it. &quot;THANKS YOUR SERVER / RYAN&quot;</p>
+<p>CUT TO:<br />
+[INT. LAVISH CAFÉ -- DAY] </p>
+<p>(BRASS, GRISSOM and WARRICK interview the WAITER.) </p>
+<p><strong>Ryan (waiter)</strong>: Uh ... sure, they're regulars. I haven't seen, uh, Maddie in a while, but Mrs. K. comes in every Thursday while her daughter's at soccer practice.</p>
+<p><strong>Brass</strong>: Well, you know all your customers this well?</p>
+<p><strong>Ryan (waiter)</strong>: I try to chat up the ones that come in alone. I feel bad for<br />
+'em.</p>
+<p><strong>Warrick</strong>: So both women came in alone?</p>
+<p><strong>Ryan (waiter)</strong>: Every week.</p>
+<p><strong>Brass</strong>: Where were you after your shift on Thursday night?</p>
+<p><strong>Ryan (waiter)</strong>: Oh, uh... I was best man at my friend's wedding. The Luxor has that new wedding chapel. You get it at a discount if you use it on a weekday. I can give you a number if you ...</p>
+<p><strong>Brass</strong>: (interrupts) Down, boy.</p>
+<p>(RYAN stops talking.)</p>
+<p><strong>Brass</strong>: Thanks.</p>
+<p><strong>Ryan (waiter)</strong>: Sure.</p>
+<p>(RYAN picks up his tray of beer bottles and leaves.)</p>
+<p><strong>Warrick</strong>: I kind of doubt that a clean-cut guy like Ryan is hanging out with snaggletooth Steve.</p>
+<p><strong>Brass</strong>: No, but I'd bet somebody here was.</p>
+<p>(They look around the small café at the other waiters.)</p>
+<p>CUT TO:<br />
+[EXT. MASLOW PARK -- DAY] </p>
+<p>(CATHERINE walks up to the balloon vendor. She shows him her I.D.) </p>
+<p><strong>Catherine</strong>: Hi.</p>
+<p><strong>Balloon Vendor</strong>: Hi.</p>
+<p><strong>Catherine</strong>: You here every day? </p>
+<p><strong>Balloon Vendor</strong>: Seven days a week, till the sun goes down. I got a wife, a kid, and 2.3 dogs to support.</p>
+<p><strong>Catherine</strong>: Do you recognize this man?</p>
+<p><strong>Balloon Vendor</strong>: Oh, yeah. He was here a few days ago. A little bigger than my average customer.</p>
+<p><strong>Catherine</strong>: Did he buy any balloons?</p>
+<p><strong>Balloon Vendor</strong>: Four big reds.</p>
+<p>(Quick flashback to: FRANK MADDOX buys four big red balloons from the balloon vendor. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: I'll take what he bought.</p>
+<p>(Cut to: CATHERINE sits on the wooden bench and ties the bag with the weight equivalent to the handgun to the balloons. She lets it go and the balloons easily carry the bag up into the air.)</p>
+<p>(She smiles. She knows how FRANK MADDOX was killed.)</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(GRISSOM, WARRICK, NICK and SARA are back at the lab. SARA stands in front of the clearboard with the pen while the other stand around the lab table.)</p>
+<p><strong>Warrick</strong>: We know Jansson's partner knew the customers at the restaurant.</p>
+<p><strong>Nick</strong>: Education, employment history and a driver's license are required for all employees.</p>
+<p><strong>Sara</strong>: I've made a timeline of Steve Jansson's illustrious life span. Places he's lived, the places he's been arrested-- you know, the highlights.</p>
+<p><strong>Grissom</strong>: You find any commonalities?</p>
+<p><strong>Nick</strong>: Well, Eric Shultz. Lives in the same neighborhood.</p>
+<p>(SARA draws a connecting line from ERIC SCULTZ'S picture to &quot;RESIDENCE HISTORIES&quot;.)</p>
+<p><strong>Warrick</strong>: Jose Cortez. Worked at the Wilson Street Grill from '93 to '94.</p>
+<p>(SARA draws another connecting line.)</p>
+<p><strong>Nick</strong>: But the busboy, Kelly James -- not only went to the same high school, but graduated from the same juvie center.</p>
+<p><strong>Sara</strong>: It's always nice when they come out worse than when they went in.</p>
+<p><strong>Nick</strong>: (to GRISSOM) What do you think? That's our guy, right?</p>
+<p><strong>Grissom</strong>: It's a connection. It's not enough to compel DNA.</p>
+<p><strong>Sara</strong>: So we have nothing?</p>
+<p><strong>Grissom</strong>: No, we have a name, and we know where he works.</p>
+<p><strong>Nick</strong>: I'll find out where he was the night the Kirkwoods were invaded.</p>
+<p>(GRISSOM'S pager beeps. He checks it.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY -- DAY] </p>
+<p>(The OFFICER leads SUZANNA KIRKWOOD down the hallway.) </p>
+<p>(SLOW MOTION to: SUZANNA looks up and sees another OFFICER leading a MAN in prison orange down the hall in the opposite direction toward her. The MAN in orange looks at her as they pass by.)</p>
+<p>(SLOW MOTION: SUZANNA sees a mother holding a distraught daughter in her arms as she cries. She sees a MAN in a tank top and tattoos leaning against the wall talking with a MAN in a gray suit.)</p>
+<p>(SUZANNA and the OFFICER turn the corner.)</p>
+<p>(Every step is difficult for her.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY - DAY -- CONTINUOUS] </p>
+<p>(BRASS stands with GRISSOM, SARA and a couple of LAWYERS. He glances at his watch.) </p>
+<p><strong>Brass</strong>: Lineup's almost ready to go. </p>
+<p><strong>Grissom</strong>: (to the LAWYERS) Listen, when she I.D.s Kelly James, we're going to need a DNA sample and an immediate hold, no bail.</p>
+<p><strong>Public Defender</strong>: He's not a flight risk.</p>
+<p><strong>Grissom</strong>: He's a risk.</p>
+<p>(The OFFICER turns the corner with SUZANNA. They join the group.)</p>
+<p><strong>Sara</strong>: Hey, Suzanna. </p>
+<p>(Everyone is suddenly aware of her and the conversation stops. BRASS looks down and glances over at SARA. GRISSOM glances at SARA. SARA looks back at GRISSOM and their eyes meet. SARA turns to SUZANNA.)</p>
+<p><strong>Sara</strong>: Um, why don't we go hang out until they're ready for us? We'll get a glass of water or something.</p>
+<p>(SARA leads SUZANNA away from the group.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - WAITING ROOM - DAY -- CONTINUOUS] </p>
+<p>(SARA and SUZANNA sit on the waiting room seats.)</p>
+<p><strong>Sara</strong>: I'm really glad you decided to come today.</p>
+<p>(SUZANNA'S quiet as she stares at the air in front of her.)</p>
+<p><strong>Suzanna Kirkwood</strong>: (softly) Do you ... you want to hear something stupid?</p>
+<p><strong>Sara</strong>: Sure.</p>
+<p><strong>Suzanna Kirkwood</strong>: My boyfriend and I had been talking about having s*x for a of couple months. I always said no because I was afraid that my parents would find out.</p>
+<p>(SARA doesn't say anything.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY - DAY -- CONTINUOUS] </p>
+<p>(MICHAEL KIRKWOOD sits in the hallway chair. GRISSOM turns the corner and walks toward him.) </p>
+<p><strong>Grissom</strong>: Mr. Kirkwood, I'm sorry. The other day, I thought you were saying that you &quot;wouldn't&quot; help me, and now I realize that you 'couldn't'.</p>
+<p><strong>Michael Kirkwood</strong>: (shakes his head) I never got a good look at them.</p>
+<p>(GRISSOM nods.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - WAITING ROOM - DAY -- CONTINUOUS] </p>
+<p>(BRASS walks up to SARA and SUZANNA.) </p>
+<p><strong>Brass</strong>: We're ready.</p>
+<p><strong>Suzanna Kirkwood</strong>: Can she come with me?</p>
+<p><strong>Brass</strong>: I already cleared it with the Public Defender.</p>
+<p>(SARA looks at SUZANNA.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY - DAY -- CONTINUOUS] </p>
+<p>(GRISSOM sits down next to MICHAEL KIRKWOOD and listens.) </p>
+<p><strong>Michael Kirkwood</strong>: She's 16. I only had two jobs left -- teach her to think for herself, keep her safe. I got one right.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - OBSERVATION ROOM - DAY -- CONTINUOUS] </p>
+<p>(Camera opens on SUZANNA who is having a difficult time with this. BRASS instructs her on the process.) </p>
+<p><strong>Brass</strong>: Here's how this works: There are five guys in a line. We're going to ask each of them to step forward, turn to the side, and then face forward again.<br />
+(SUZANNA nods.) Now, if you want a second look or you need more time, just let us know. When you're ready to make a decision, write it down on this piece of paper. (BRASS hands her a piece of paper.) Remember, you can see them, but they can't see you. Okay?</p>
+<p>(SUZANNA nods. She looks through the window to the other side of the room.)</p>
+<p><strong>Suzanna Kirkwood</strong>: He already knows it's me.</p>
+<p><strong>Sara</strong>: Suzanna, you can do this. I know you can.</p>
+<p>(SUZANNA shakes her head ... then gathers her courage and nods.)</p>
+<p><strong>Suzanna Kirkwood</strong>: Okay.</p>
+<p>(BRASS and SARA take a step back.)</p>
+<p><strong>Man</strong>: (over intercom) Number one, please step forward. </p>
+<p>(The first MAN steps forward into the light.)</p>
+<p><strong>Man</strong>: (over intercom) Turn to the left. Step back. </p>
+<p>(He turns to the side, then steps back into the shadows.)</p>
+<p><strong>Man</strong>: (over intercom) Number two, step forward. Turn to your left.</p>
+<p>(The second man steps forward into the light.)</p>
+<p><strong>Michael Kirkwood</strong>: (V.O.) You know, people say ... </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY - DAY -- CONTINUOUS] </p>
+<p><strong>Michael Kirkwood</strong>: ... you never forget. Truth is... you do forget. And then you remember. It makes it worse. It was like, uh, it's like my brain ... doesn't know where to put it.</p>
+<p>(Quick flashback to: The door bursts open and the two men enter the house. One of them grabs the woman walking toward the door. He pushes her back into the hallway as she struggles and screams.)</p>
+<p>(Cut to: The two men push MICHAEL KIRKWOOD, hands tied behind his back, into the closet with LINDA KIRKWOOD. Sounds of crying and pleading in the background, echoing in his mind.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Michael Kirkwood</strong>: You know, it must've run through a million times in my mind ... somebody breaks in. I get a baseball bat. Get everybody out the back door. Call the cops. My family's safe. And I just stood there ...</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - OBSERVATION ROOM - DAY -- CONTINUOUS] </p>
+<p>(SUZANNA stands in front of the window, visibly shaking at the ordeal. The voice over the intercom calls for the next man to step forward.)</p>
+<p><strong>Man</strong>: (over intercom) Number four, step forward.</p>
+<p>(He steps forward into the light.)</p>
+<p>(Camera refocuses from SUZANNA'S reflection to the man standing beyond it. It's him. It's KELLY JAMES.)</p>
+<p>(At the sight of him, SUZANNA is frozen, trapped in her memories.)</p>
+<p>(Both BRASS and SARA can tell by her reaction that this is the MAN, yet they can't say anything.)</p>
+<p><strong>Man</strong>: (over intercom) Turn to your left.</p>
+<p>(The MAN turns to face the left.)</p>
+<p>(Quick flashback of: The two men assaulting SUZANNA. Cut to: Her parents tied and trapped in the closet as they hear her screams.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(Camera holds on SUZANNA.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY - DAY -- CONTINUOUS] </p>
+<p>(MICHAEL KIRKWOOD talks and GRISSOM listens.)</p>
+<p><strong>Michael Kirkwood</strong>: And when Suzanna was a little girl, Linda made me put those, um, the child-proof locks on all the kitchen cabinets. I complained. You know what she said to me? She said, uh, &quot;The least we can do is make her safe in her own house.&quot;</p>
+<p>(MICHAEL KIRKWOOD looks down at his hands. GRISSOM'S heart goes out to the man.) </p>
+<p><strong>Grissom</strong>: Mr. Kirkwood ... you didn't do anything wrong.</p>
+<p>(MICHAEL KIRKWOOD sighs.)</p>
+<p>(SUZANNA steps out stiffly into the hallway and walks toward her father. He gets to his feet and catches her as she cries.)</p>
+<p><strong>Michael Kirkwood</strong>: (whispers) Baby.</p>
+<p>(He kisses her forehead and leads her aside.)</p>
+<p><strong>Michael Kirkwood</strong>: Oh, it's okay, it's okay. Shh.</p>
+<p>(GRISSOM gets to his feet as SARA and BRASS turn the corner, his eyes on the KIRKWOODS. GRISSOM turns around as SARA and BRASS reach him.)</p>
+<p><strong>Brass</strong>: She froze up. She couldn't do it.</p>
+<p><strong>Sara</strong>: Her reaction should be enough.</p>
+<p><strong>Grissom</strong>: (to BRASS) What do you think?</p>
+<p><strong>Brass</strong>: (sighs) Well, we've got enough to hold this Jansson kid, but the other guy ... unless she writes a number down, there's nothing we can do.</p>
+<p>(SARA looks at GRISSOM and they share a look. SARA looks down while GRISSOM turns to look back at the KIRKWOODS.)</p>
+<p>CUT TO:<br />
+[INT. CSI - LOCKER ROOM] </p>
+<p>(WARRICK removes his shirt just as CATHERINE walks into the room.) </p>
+<p><strong>Catherine</strong>: Hey. I'm sorry to hear about your case.</p>
+<p><strong>Warrick</strong>: (sighs) We were so close, you don't even know.</p>
+<p><strong>Catherine</strong>: Well, he'll be back. We'll get him eventually.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>(WARRICK puts a clean shirt on.)</p>
+<p><strong>Catherine</strong>: Want to go for a ride?</p>
+<p><strong>Warrick</strong>: (nods) Probably safer than anything else I had planned. Yeah.</p>
+<p>(He closes his locker door and follows CATHERINE out.)</p>
+<p>CUT TO:<br />
+[EXT. TIMMEL RESIDENCE -- DAY] </p>
+<p>(CATHERINE and WARRICK walk through the park as she explains her theory about the death and the gun.) </p>
+<p><strong>Catherine</strong>: Frank Maddox - bad-ass bounty hunter on his way down. Loses his rep, loses his edge ... </p>
+<p><strong>Warrick</strong>: Loses his manhood. Guess he thought he had nothing left to live for.</p>
+<p><strong>Catherine</strong>: Except maybe one thing: Going out with his boots on. </p>
+<p>(Quick flashback to: [EXT. MASLOW PARK - NIGHT] FRANK MADDOX sits on the park bench and sets up the gun with the balloons.)</p>
+<p><strong>Catherine</strong>: (V.O.) He picks a known hot spot, and waits until it gets dark. </p>
+<p>(He stands up and points the gun to the back of his head ... )</p>
+<p><strong>Catherine</strong>: (V.O.) Angles the gun down...</p>
+<p>(... and fires. He falls to the ground, releasing his hold on the gun and the balloons.)</p>
+<p><strong>Catherine</strong>: (V.O.) ... and the balloons make it look like murder.</p>
+<p>(The balloons carry the gun up.)</p>
+<p>(Different angle on the balloons rising and the dead body on the ground.) </p>
+<p>(Various angles of the balloons carrying the gun up.)</p>
+<p><strong>Warrick</strong>: (V.O.) On a windy night, a balloon can go for miles.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Until ... </p>
+<p>(CATHERINE lifts up her glasses and looks closely at the tree where she sees the red rubber of the burst balloon.)</p>
+<p>(Quick flashback to: The weight of the gun pulls the worn balloons down into the tree where it bursts on the branches. The gun falls to the ground.)</p>
+<p>(Cut to: NATHAN TIMMEL walks into the back yard and picks up the gun. He looks at it.)</p>
+<p><strong>Cue Sound</strong>: GUNSHOT.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: ... you leave the city to get away from crime, and guns fall out of the sky.</p>
+<p>(Long camera shot of CATHERINE and WARRICK standing at the base of the tree in the TIMMEL'S back yard.)</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE -- NIGHT]</p>
+<p>(GRISSOM sits at his desk reading and listening to Classical music on the player.)</p>
+<p>(Outside, we see BRASS walk through the hallway and stop just outside GRISSOM'S office door. He looks grimly at GRISSOM when he raises his head to look at him.)</p>
+<p><strong>Brass</strong>: Get your kit.</p>
+<p>(Without waiting for a response, BRASS walks away. GRISSOM pauses for a moment.)</p>
+<p>CUT TO:<br />
+[INT. KIRKWOOD RESIDENCE - FRONT WALK -- NIGHT] </p>
+<p>GRISSOM and BRASS walk up to the crime scene. The OFFICERS there hold the crime scene tape up for them to walk under.</p>
+<p>As they approach the body on the sidewalk, the CORONERS push a gurney past them. On the other side of the crime scene tape standing in the front walk of the house are the KIRKWOODS. SARA stands next to them.</p>
+<p>The gurney passes by and GRISSOM sees SUZANNA KIRKWOOD lying in a pool of blood. GRISSOM stares at the body.</p>
+<p>Suddenly, he looks up and sees MICHAEL KIRKWOOD with his arms around his wife, LINDA -- both staring at their daughter's body.</p>
+<p>He shifts his gaze slightly and looks directly at SARA Their eyes meet and hold. There are just no words for this. Her tear-filled gaze breaks contact and shifts downward to SUZANNA on the ground between them.</p>
+<p>ANGLE ON: Camera moves slowly across a top view of the entire scene ... from the KIRKWOODS and SARA ... to SUZANNA ... to the OFFICERS working on the crime scene ... to GRISSOM standing unmoving next to his kit ... to the crowd gathering just beyond the crime scene tape.</p>
+<p>This is not just another crime scene.</p>
+<p>Suddenly, SARA moves. She lifts up the crime scene tape and enters the crime scene with her kit. However, without looking up, she walks by the body as BRASS watches her.</p>
+<p>GRISSOM looks down at SUZANNA. He kneels down next to her and begins to put on this gloves to get to work.</p>
+<p>The KIRKWOODS stand aside and watch.</p>
+<p>SARA sits quietly in the car, tears falling from her eyes as she watches the scene in front of her and </p>
+<p>SUZANNA on the ground.</p>
+<p>GRISSOM puts on his gloves.</p>
+<p>Camera holds on GRISSOM.</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
-
-
-
- 
-
-
-Intruder 1: Hey, this place is a dump.
-Intruder 2: I'm telling you, this bitch is loaded and no one's seen her for weeks.
-
-Intruder 2:  What the hell.
-Intruder 1: This place is trashed. Hey, man, you trying to make me look stupid?
-Intruder 2: No, man. I swear. Somebody must have beat us to it.
-
-Intruder 2: What the hell is this?
-
-Intruder 1: I'm out, man.
-
-
-
-
-Officer:  Gentlemen, put your hands on your heads, please.
-
-
- 
- 
-
-
-Warrick: Smudges. Nothing but smudges. Doesn't anybody use formica anymore?
-Officer: First thing we did when we saw this was call you guys. Didn't touch a thing.
-
-Officer: So you going to open it?
-Grissom: Eventually.
-
-
-
-
-Officer: This is going to take all day.
-Grissom: Sun Tzu once said, &quot;If you wait by the river long enough, the bodies of your enemies will float by.&quot;
-
-
-
-Grissom: But those were brutal times.
-HARD CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
- 
-
-
-Warrick: Hey, hold up.
-
-
-David Phillips: Warrick?
-Warrick: Hey, David. Give me a minute and let me clear a path here, okay?
-David Phillips: All right, I'm not going anywhere.
-
-Warrick: All right.
-
-Warrick: There's at least four weeks of mail here, Grissom.
-
-Grissom: Four weeks of 100 degree days, zero percent humidity. Eventually, the body tissues sublimate ...
-
-Grissom:  ... cell fluids vaporize ...
-
-Grissom: 
-
-
-Warrick: Turns a grape into a raisin.
-Grissom: Well, the desert was making mummies long before the Egyptians.
-
-Grissom: Take a look at this. 
-
-Grissom: And look at her fingers. 
-
-
-Warrick: She tried to claw her way out.
-Grissom: Yeah. Which means she was alive when she was entombed.
-
-
- 
-
-Intruder 2: She was supposed to be, like, this old widow, right? Like, always going out to dinner and coming home with shopping bags. Bitch had insurance money and word was that she kept it in a box hidden under her bed.
-Brass: A retired grade-school teacher living on a pension ...
-Intruder 2: Listen, man, we didn't kill her.
-Brass:  No, I know that. What I want to know is, other than the back door, did you or your partner touch anything in the house?
-Intruder 2: No. There was nothing left to touch, man.
-
-
-
- 
- 
-Warrick: Hey, Griss. 
-
-Warrick: Don't you think this is kind of odd? A woman who spends the time making tea like this leaves a chunk of chocolate cake on the counter.
-Grissom: With a big bite out of it?
-
-Warrick: Yeah. Some crack head brutalizes an old lady, leaves her in a closet, and grabs a snack on the way out.
-Grissom: Hopefully. Take it back to the lab.
-
-
-
-
-
-Madeline Foster: Oh!
-Male Voice: Shut up! Get in!
-Madeline Foster: Oh!
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-Robbins: Fluoroscope showed no bullet or stab wounds, and apart from multiple fractures of her fingers and hands, no other apparent injuries.
-Grissom: So whoever boarded her up in the closet maybe didn't intend to kill her.
-Robbins:  Yeah. They must have thought somebody'd find her -- a friend or relative.
-Grissom: She lived alone. Only relative was a nephew. Brass is looking for him.
-Robbins: Live alone, die alone. In this case, from massive dehydration. Rule of threes: Three minutes without air, three days without water, and three weeks without food. 
-Grissom: Three days must have felt like three years.
-Robbins: Warrick said you found a possible print at the scene. Need to rule hers out?
-Grissom: Yeah. Also need a dental impression.
-Robbins: Well, that'll be easy.
-
-
-
- 
- 
-Catherine: So, what do we have here?
-Officer: Well, boy was out playing, found the weapon, fired one shot, dropped the weapon. No one's touched it since.
-Catherine: Hmm. 
-
-Catherine: Okay, thanks.
-
-
-
-
- 
- 
-Catherine: Hey, Nathan. How's your foot?
-Nathan Timmel: I got a rocket ship band-aid.
-Catherine: Hmm. Yeah, I see that. Mrs. Timmel, does the gun belong to someone in the house?
-Mrs. Timmel: No, absolutely not. My husband and I don't believe in guns. We moved here from the city because it was supposed to be safer.
-Catherine: Nathan, where did you find the gun?
-Nathan Timmel: Seymour found it.
-Catherine: Seymour?
-Mrs. Timmel:  His imaginary friend.
-Catherine:  So, you were playing with Seymour, and he found the gun where?
-Nathan Timmel:  Over there.
-Catherine: Well, where exactly?
-Nathan Timmel: In the backyard.
-Catherine: Was it buried? Did you dig it up?
-Nathan Timmel: Nope.
-
-Catherine: Will you ever play with guns again?
-Nathan Timmel: Nope.
-
-
- 
-Grissom: We don't need an I.D ...
-Brass: Oh, the nephew said he wanted to see her. Insisted on it. Made me curious. 
-
-Brass: You Connor Foster?
-Connor Foster: Yeah. I'm sorry I'm late. I got lost. 
-This is the morgue, huh?
-
-
-Grissom: You have to prepare yourself for this. Your aunt was found in an advanced state of decomposition.
-
-Connor Foster: Oh, this is messed up. This is really messed up. 
-
-Connor Foster: Whoa! She just moved. Did you see that? 
-
-Connor Foster: I'm telling you, she just moved.
-Brass: Sometimes, when you see the body of someone you know, someone you've seen move before, you want them to move.
-Connor Foster: That's not her. This lady's too thin. That's not her skin, either. My aunt always wore sunblock.
-Grissom: Dry mouth. Diaphoresis. Red eyes, dilated pupils.
-Connor Foster: Huh?
-Brass: It means you're high.
-
-Connor Foster: I got to go.
-Brass: We'd like you to stay.
-
-
-
-
-
- 
-Brass: Where are you living these days, Connor?
-Connor Foster: At the YMCA off industrial, near the underpass.
-Brass: Nice. How's work?
-Connor Foster: I don't have a job. I used to.
-Brass: Yeah. Yeah, two years ago, your aunt reported a pearl necklace stolen. You were busted trying to hock it at a pawn shop.
-Connor Foster: She dropped those charges.
-Brass: Oh, sure. Anything for her favorite nephew. And what have you done for her? She was lying in a coat closet for over a month. You didn't call. You didn't stop by.
-Connor Foster:  I don't call her much. We only have dinner on holidays. Whenever she sees me, it makes her kind of sad.
-Grissom: Do you get the munchies?
-Connor Foster: When?
-Grissom: When you're high.
-
-Grissom: Do you like cake?
-Connor Foster:  No, I go for burgers. Sonic.
-Grissom: How would you like to make a dental impression for us?
-Connor Foster: I'll do whatever you guys want.
-
- 
- 
-Catherine: Hey, Rich. 
-
-Rich: Whatcha got for me?
-Catherine: Found this somewhere where it didn't belong. 
- 
-Catherine: Unregistered. No prints.
-
-Rich: Huh. Sweet piece.
-Catherine: Mm-hmm.
-Rich: .32 beretta tomcat. Titanium frame, stainless steel barrel and slide. Super lightweight.
-Catherine: Yeah, light enough for a five year old to use.
-Rich: Ouch.
-Catherine: He's okay. Thank god.
-Rich: Good. 
- 
-Rich: .32 caliber. Not many of these in circulation.
-Catherine: Well, that's a good thing.
-Rich: Potentially.
-
-Rich: Okay. Here we go.
-
-Catherine: Okay.
-
-Rich:  Two shots!
-
-
-
- of the bullet.
-
-
-(There's a match to a bullet attached with the following crime:
-Type: D.B.
-STATUTE: ***
-Description: Murder
-Code: DOC# 1773621-43
-CRIME SCENE REPORT
-Investigating Officer: W. Brown
-0012542 &lt;Ballistics&gt;
-ID TYPE: Bullet &lt;32 Automatic&gt;
-WEAPON: N/A
-0013837 &lt;CORONER'S REPORT&gt;
-TYPE: DEAD BODY
-NAME: FRANK MADDOX
-LOCATION: MASLOW PARK
-Rich: There's showing up for work and there's doing your job. Warrick brought in a .32 auto coroner's bullet last week. D.B. in Maslow Park. You just found the murder weapon.
-
- 
- 
-Catherine: Frank Maddox. 47-year-old white male. Professional bounty hunter. Single .32 round in the side of his head. Bruises on his face and chest.
-Warrick: Autopsy ruled those premortem. At least a day old. It was a close shot, non-contact, downward angle. No primer residue on the hands. T.O.D. was approximately 2:00 A.M. No one found the body until 7:00 A.M. A lot of wind ... 
-Catherine: Warrick, your notes are great. Let the case speak for itself.
-
-Warrick: I got to go see my mummy.
-
-
- 
-Greg:  You know, I could've sworn I heard Grissom telling you to do this.
-Warrick: Yeah? You know what rolls downhill?
-Greg: Apparently bloated fingertips.
-
-Warrick: Come on, you got a lot of new skills to master. Field work's a little messier than your test tubes and your GCMS.
-Greg: Yeah, and a lot less accurate.
-Warrick: One continuous motion, nice and easy.
-
-Warrick: That's not bad. Keep practicing. Nine more to go.
-
-
- 
- 
-Sara: Hey.
-Warrick: Hey.
-Sara: I heard about your mummy in the closet. Very cool.
-Nick: Yeah, and we get a 406 in Henderson. Want to trade?
-Warrick:  Nothing spells excitement like a B and E.
-
-
- 
-Michael Kirkwood:  Who is it?
-Officer: Las Vegas police, sir.
-
-Michael Kirkwood: Hey.
-Officer: We received a phone call from a neighbor about a break in.
-Michael Kirkwood: Yeah, yeah,  My daughter, she had some friends over tonight without my permission, and, um, they started drinking. 
-
-Michael Kirkwood: They got out of control. They broke some stuff. A couple of windows, but, uh, you know, we got it under control, we're cleaning it all up. So I apologize for the trouble.
-Officer: No trouble at all, sir. You have a good night now.
-Michael Kirkwood: Thanks.
-
-
-Nick: &quot;To protect and serve.&quot;
-
-Nick: Are you boys ready for softball on Sunday?
-Officer: Ready to kick your ass, Stokes.
-Sara: See you back at the lab.
-Nick: All right. You're ready to kiss my what?
-Officer: You heard me.
-
-
-Suzanna Kirkwood:  I need to go to the hospital. Please.
-
- 
- 
-Sara: Suzanna, if you were sexually assaulted ...
-Suzanna Kirkwood: It was a party. It just got out of control. All I need is an AIDS test and a morning after pill.
-Sara: Date rape is still rape.
-Suzanna Kirkwood:  Thank you for clearing that up.
-
-Doctor: Hey.
-Sara: Hi.
-
-Suzanna:  Does she ... ? Does she have to be in here for this?
-Doctor: No.
-
-Suzanna: Bye. Thank you.
-Sara: Okay.
-
-Doctor:  Go ahead and put this on, okay?
-
-
-Sara: We're going to need full-body photographs. If she can't talk, the kit's going to have to do it for her.
-Doctor: Okay.
-
-
- 
- 
-Greg: Your, uh, mummy prints.
-
-Grissom: Warrick's getting sloppy.
-Greg: Yeah, someone should really have a talk with that guy.
-
-Greg: What's that?
-Grissom: Dessert.
-
-
- 
- 
-Michael Kirkwood: Look, I thought we were done.
-Nick: Well, sir, we need a list of all the kids who were here tonight.
-Linda Kirkwood: Why?
-Sara: Mrs. Kirkwood, Mr. Kirkwood, your daughter has been raped.
-Michael Kirkwood:  What did she tell you?
-
-Nick: We're going to need to search the premises.
-Michael Kirkwood: You can't. It's my house.
-Sara: You don't have a choice. We have a warrant.
-
-Nick: I'm going to have to ask you folks to step outside. Thank you.
-
-Sara: I'll take the girl's room.
-Nick: Yeah, I'll take the master.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-;
-
-
-
- 
- 
-Sara: So, how do we know we're dealing with the same suspect?
-Warrick: We don't.
-Nick: Table against the closet door, chair shoved under the knob. It is the same M.O.
-Sara: Any connections between the victims?
-Grissom: Well, both victims were left alive, we think. I mean, the old lady's death was probably unintentional, and the girl's rape was ... 
-Sara: Crime of opportunity?
-Warrick: If you're out to rob somebody's house, why would you do it when they're home?
-Grissom: The difference between burglary and home invasion -- infliction of terror.
-
-Perpetrator: Talk to the cops? Say a word, and I'll kill you. 
-
-Perpetrator: I'll kill you, okay?
-
-Nick: Bad guys leave, fear just stays behind.
-
- 
- 
-Catherine: Maslow Park. All fun and games till the sun goes down.
-
-Catherine: So, the bounty hunter is here at 2:00 A.M.
-O'Riley: Like shooting fish in a barrel. Almost guaranteed to run into one of his skips or some lowlife who knows ere they are.
-Catherine: Well, apparently, someone found him first.
-
-
-Catherine: Hunter becomes the hunted.
-
-Catherine: A dozen perfect dump sites within a mile of here. So, how does the gun end up across town in the hands of a five-year-old boy?
-O'Riley: Drive and dump.
-Catherine:  Doesn't make any sense.
-
-
-(Open on: Computer monitor: On the right is the print; on the left is the following information: 
-Officer: G. GRISSOM
-Location: MADELINE FOSTER /  / Residence
-(A second print appears on the monitor for:
-Officer: N. Stokes
-Location: KIRKWOOD /  / Residence
-
-Jacqui Franco: You never make it easy, do you?
-Nick: The center whorls look similar.
-Warrick: Can you generate a composite?
-Franco: Well, it's all about gestalt. When the whole of the pattern is greater than the sum of its parts.
-
-
-
-
-
-
-
-
-
-
- 
- 
-
- 
- 
-Sara: Once I pulled details, I shrank it back down to 100%. Here's the thing. Looks like the bite came from behind.
-Grissom: Well, it was probably easier to subdue her in that position.
-
-
-
-Grissom: You okay?
-Sara: Yeah.
-
-Grissom: The occlusal plane looks the same. And the lateral incisor overlaps the canine ...
-
-Grissom: ... in both cases.
-Sara: Same person.
-Grissom: Definitely not the old lady's nephew.
-
-Nick: Hey, hey. Two partials equal one slimeball. Jacqui got a hit through AFIS.
-Warrick: The guy with the closet fixation is Steve Jansson.
-Sara: Let's see if he has an oral fixation as well.
-
- 
- 
-Brass: Little Stevie Jansson. How was the home of the good shepherd, Steve?
-Steve Jansson: Mac and cheese was aces. Juvie offenses don't mean squat. My record -- it's been expunged.
-Brass: Expunged, huh? So, what's this crap you're pulling now?
-Sara: Two crime scenes, two prints-- both yours.
-Brass: And looking at your adult record, this makes strike two and three with one pitch. That's a real time-saver for us.
-Steve Jansson: I don't know what you're talking about.
-Brass: Madeline Foster. The Kirkwoods.
-Steve Jansson: I do work for them sometimes. Odd jobs.
-Brass: So, if we asked The Kirkwoods, they'd say you were their handyman, huh?
-Steve Jansson: Go ahead. Ask them.
-Sara: You always help yourself to something sweet while you work?
-
-Sara: Bite it.
-
-
- 
-Frank Maddox:  I'm saying it now, and I'm saying it loud. I will bring Terrango to justice.
-
-Interviewer:  What makes you think you'll succeed where so many others have failed?
-Frank Maddox:  Failure's not an option. It never has been. You feeling me, Terrango? You can keep on running, but I will keep coming. I will never stop.
-Warrick: Them's fightin' words. Did he get his man?
-
-Catherine: Actually, no. Terrango killed two more people before another
-&quot;recovery agent&quot; picked him up in Texas.
-Warrick: Well, that probably hurt business.
-Catherine: Oh, yeah, it did. After that case, his recovery rate went down practically to zero.
-
-Catherine: What about suicide?
-Warrick: No. It's a non-contact wound at a downward angle. It's a textbook murder.
-Catherine: Maybe too textbook. A bounty hunter would know how to fake it. Let's check out his right sleeve. Very odd. It's unbuttoned - it's pulled way down. It would explain why there weren't any prints on the gun.
-
-Warrick: Doesn't explain how the gun left the scene.
-Catherine: Maybe someone found it and grabbed it up.
-Warrick: Just to toss it in suburbia a week later?
-Catherine: We're always looking for a weapon. You'd think it'd be easier when the weapon finds us.
-Warrick: What's in the scope?
-
-
-Catherine: It's polypropylene film. It was found in the trigger guard. It's ribbon, for wrapping presents and ...
-
-
-
-Warrick: You got a theory?
-Catherine: You got ten bucks?
-
-Warrick: Yeah.
-
- 
- 
-Grissom: Jansson's dental impression is consistent with the bite mark on the girl's shoulder.
-Brass: Consistent, but not conclusive. I spoke to Mr. Kirkwood. He wouldn't confirm or deny Jansson's handyman story. He said he couldn't remember. And without that, uh ...
-
-Sara: Hey, guys, we're screwed.
-Greg: The semen from the rape kit doesn't belong to Steve Jansson. No hits off CODIS either.
-
-Sara: There was more than one guy. She was gang-raped.
-
-Brass: This gets cheerier by the minute.
-Sara: Jansson's never going to roll over on his partner. They're going to do it again.
-Brass: Yeah.
-Grissom: We've given them no reason to stop.
-
-
-
-Cue Sound:  DOORBELL
- 
- 
-Grissom: Hi. My name's Gil Grissom. I'm with the Las Vegas crime lab.
-
-Michael Kirkwood:  Suzanna, ... 
-
-Michael Kirkwood:  What do you want? I already told the police I have nothing more to say.
-Grissom: I think you do. And I need you to speak for someone who can't speak for herself. Another victim.
-Michael Kirkwood: I don't care about another victim. 
-
-Michael Kirkwood: Suzanna, please.
-
-Grissom: Look, we know that two men broke into your house. We have one suspect in custody, but we can't hold him unless you talk to us.
-Michael Kirkwood: I can't help you. I'm shutting the door now.
-
-Grissom: Mr. Kirkwood, I've done all that I can. I need what you saw.
-Michael Kirkwood:  Mr. Grissom, do you have a wife, children?
-Grissom: No.
-Michael Kirkwood: Then you can't possibly understand how I feel. All I am to you is a folder in a drawer.
-Grissom: And if I had a wife and children ...
-Michael Kirkwood: Then you wouldn't be here. I can't help you.
-
-
-
-
-
- 
- 
-Nick: Man ... LINDA KIRKWOOD was a Hoover. She even bleached the sheets.
-Sara: You know what I don't get? How do they get in? There's no sign of forced entry at either scene.
-Nick: Ring the doorbell; that usually seems to work.
-
-
-Warrick: Hey, hey, hey.
-Nick: What?
-Warrick: What is that you just threw in there?
-
-Nick: Leftovers, I guess.
-Warrick: You know that piece of half-eaten shark with cake that Gris and I found at the old lady Maddie's house? This is from the same restaurant.
-Sara: Links the victims.
-(WARRICK opens the package and looks inside. He finds a receipt:
-LAVISH CAFÉ
-14490 KILDARE RD.
-LAS VEGAS, NV 89109
- 555-2398
-SERVER: 8566
-DATE: 10/08/03
-7:18 PM
-MCX 64755
-CARD#: XXXXXXXXXXXXX9444 EXP: 0906
-Magnetic Card Present KIRKWOOD
-Approved 566849
-Warrick: Same night as the home invasion. Signed by LINDA KIRKWOOD. Dinner for one.
-Nick: Single women, dining alone -- easy targets.
-
-Nick:  All you have to do is follow them home.
-
-
-Warrick:  Same Restaurant ...
-Nick:  Same waiter?
-
-(WARRICK flips the receipt over. There's a hand-written note on it. &quot;THANKS YOUR SERVER / RYAN&quot;
-
- 
- 
-Ryan : Uh ... sure, they're regulars. I haven't seen, uh, Maddie in a while, but Mrs. K. comes in every Thursday while her daughter's at soccer practice.
-Brass: Well, you know all your customers this well?
-Ryan : I try to chat up the ones that come in alone. I feel bad for
-'em.
-Warrick: So both women came in alone?
-Ryan : Every week.
-Brass: Where were you after your shift on Thursday night?
-Ryan : Oh, uh... I was best man at my friend's wedding. The Luxor has that new wedding chapel. You get it at a discount if you use it on a weekday. I can give you a number if you ...
-Brass:  Down, boy.
-
-Brass: Thanks.
-Ryan : Sure.
-
-Warrick: I kind of doubt that a clean-cut guy like Ryan is hanging out with snaggletooth Steve.
-Brass: No, but I'd bet somebody here was.
-
-
- 
- 
-Catherine: Hi.
-Balloon Vendor: Hi.
-Catherine: You here every day? 
-Balloon Vendor: Seven days a week, till the sun goes down. I got a wife, a kid, and 2.3 dogs to support.
-Catherine: Do you recognize this man?
-Balloon Vendor: Oh, yeah. He was here a few days ago. A little bigger than my average customer.
-Catherine: Did he buy any balloons?
-Balloon Vendor: Four big reds.
-
-Catherine: I'll take what he bought.
-
-
-
- 
-
-Warrick: We know Jansson's partner knew the customers at the restaurant.
-Nick: Education, employment history and a driver's license are required for all employees.
-Sara: I've made a timeline of Steve Jansson's illustrious life span. Places he's lived, the places he's been arrested-- you know, the highlights.
-Grissom: You find any commonalities?
-Nick: Well, Eric Shultz. Lives in the same neighborhood.
-
-Warrick: Jose Cortez. Worked at the Wilson Street Grill from '93 to '94.
-
-Nick: But the busboy, Kelly James -- not only went to the same high school, but graduated from the same juvie center.
-Sara: It's always nice when they come out worse than when they went in.
-Nick:  What do you think? That's our guy, right?
-Grissom: It's a connection. It's not enough to compel DNA.
-Sara: So we have nothing?
-Grissom: No, we have a name, and we know where he works.
-Nick: I'll find out where he was the night the Kirkwoods were invaded.
-
-
- 
- 
-
-
-
-
-
- 
- 
-Brass: Lineup's almost ready to go. 
-Grissom:  Listen, when she I.D.s Kelly James, we're going to need a DNA sample and an immediate hold, no bail.
-Public Defender: He's not a flight risk.
-Grissom: He's a risk.
-
-Sara: Hey, Suzanna. 
-
-Sara: Um, why don't we go hang out until they're ready for us? We'll get a glass of water or something.
-
-
- 
-
-Sara: I'm really glad you decided to come today.
-
-Suzanna Kirkwood:  Do you ... you want to hear something stupid?
-Sara: Sure.
-Suzanna Kirkwood: My boyfriend and I had been talking about having s*x for a of couple months. I always said no because I was afraid that my parents would find out.
-
-
- 
- 
-Grissom: Mr. Kirkwood, I'm sorry. The other day, I thought you were saying that you &quot;wouldn't&quot; help me, and now I realize that you 'couldn't'.
-Michael Kirkwood:  I never got a good look at them.
-
-
- 
- 
-Brass: We're ready.
-Suzanna Kirkwood: Can she come with me?
-Brass: I already cleared it with the Public Defender.
-
-
- 
- 
-Michael Kirkwood: She's 16. I only had two jobs left -- teach her to think for herself, keep her safe. I got one right.
-
- 
- 
-Brass: Here's how this works: There are five guys in a line. We're going to ask each of them to step forward, turn to the side, and then face forward again.
- Remember, you can see them, but they can't see you. Okay?
-
-Suzanna Kirkwood: He already knows it's me.
-Sara: Suzanna, you can do this. I know you can.
-
-Suzanna Kirkwood: Okay.
-
-Man:  Number one, please step forward. 
-
-Man:  Turn to the left. Step back. 
-
-Man:  Number two, step forward. Turn to your left.
-
-Michael Kirkwood:  You know, people say ... 
-
- 
-Michael Kirkwood: ... you never forget. Truth is... you do forget. And then you remember. It makes it worse. It was like, uh, it's like my brain ... doesn't know where to put it.
-
-
-
-Michael Kirkwood: You know, it must've run through a million times in my mind ... somebody breaks in. I get a baseball bat. Get everybody out the back door. Call the cops. My family's safe. And I just stood there ...
-
- 
-
-Man:  Number four, step forward.
-
-
-
-
-Man:  Turn to your left.
-
-
-
-
-
- 
-
-Michael Kirkwood: And when Suzanna was a little girl, Linda made me put those, um, the child-proof locks on all the kitchen cabinets. I complained. You know what she said to me? She said, uh, &quot;The least we can do is make her safe in her own house.&quot;
- 
-Grissom: Mr. Kirkwood ... you didn't do anything wrong.
-
-
-Michael Kirkwood:  Baby.
-
-Michael Kirkwood: Oh, it's okay, it's okay. Shh.
-
-Brass: She froze up. She couldn't do it.
-Sara: Her reaction should be enough.
-Grissom:  What do you think?
-Brass:  Well, we've got enough to hold this Jansson kid, but the other guy ... unless she writes a number down, there's nothing we can do.
-
-
- 
- 
-Catherine: Hey. I'm sorry to hear about your case.
-Warrick:  We were so close, you don't even know.
-Catherine: Well, he'll be back. We'll get him eventually.
-Warrick: Yeah.
-
-Catherine: Want to go for a ride?
-Warrick:  Probably safer than anything else I had planned. Yeah.
-
-
- 
- 
-Catherine: Frank Maddox - bad-ass bounty hunter on his way down. Loses his rep, loses his edge ... 
-Warrick: Loses his manhood. Guess he thought he had nothing left to live for.
-Catherine: Except maybe one thing: Going out with his boots on. 
-
-Catherine:  He picks a known hot spot, and waits until it gets dark. 
-
-Catherine:  Angles the gun down...
-
-Catherine:  ... and the balloons make it look like murder.
-
- 
-
-Warrick:  On a windy night, a balloon can go for miles.
-
-Catherine: Until ... 
-
-
-
-Cue Sound: GUNSHOT.
-
-Catherine: ... you leave the city to get away from crime, and guns fall out of the sky.
-
-
-
-
-
-Brass: Get your kit.
-
-
- 
-GRISSOM and BRASS walk up to the crime scene. The OFFICERS there hold the crime scene tape up for them to walk under.
-As they approach the body on the sidewalk, the CORONERS push a gurney past them. On the other side of the crime scene tape standing in the front walk of the house are the KIRKWOODS. SARA stands next to them.
-The gurney passes by and GRISSOM sees SUZANNA KIRKWOOD lying in a pool of blood. GRISSOM stares at the body.
-Suddenly, he looks up and sees MICHAEL KIRKWOOD with his arms around his wife, LINDA -- both staring at their daughter's body.
-He shifts his gaze slightly and looks directly at SARA Their eyes meet and hold. There are just no words for this. Her tear-filled gaze breaks contact and shifts downward to SUZANNA on the ground between them.
-ANGLE ON: Camera moves slowly across a top view of the entire scene ... from the KIRKWOODS and SARA ... to SUZANNA ... to the OFFICERS working on the crime scene ... to GRISSOM standing unmoving next to his kit ... to the crowd gathering just beyond the crime scene tape.
-This is not just another crime scene.
-Suddenly, SARA moves. She lifts up the crime scene tape and enters the crime scene with her kit. However, without looking up, she walks by the body as BRASS watches her.
-GRISSOM looks down at SUZANNA. He kneels down next to her and begins to put on this gloves to get to work.
-The KIRKWOODS stand aside and watch.
-SARA sits quietly in the car, tears falling from her eyes as she watches the scene in front of her and 
-SUZANNA on the ground.
-GRISSOM puts on his gloves.
-Camera holds on GRISSOM.
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=04x03+-+Homebodies&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127355%23p127355" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=04x03+-+Homebodies&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127355%23p127355" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127355%23p127355&amp;name=04x03+-+Homebodies" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127355%23p127355" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=a14bd4286347b61d7f4358295ae2924a">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=a14bd4286347b61d7f4358295ae2924a">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=a14bd4286347b61d7f4358295ae2924a">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=a14bd4286347b61d7f4358295ae2924a">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

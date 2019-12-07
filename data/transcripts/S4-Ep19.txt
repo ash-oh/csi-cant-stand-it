@@ -1,760 +1,992 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT] 
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT] 
+[EXT. ABERNATHY RESIDENCE - DRIVEWAY -- NIGHT] 
+(The lamp pos" />
+<meta property="og:title" content="04x19 - Bad Words - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT] 
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT] 
+[EXT. ABERNATHY RESIDENCE - DRIVEWAY -- NIGHT] 
+(The lamp pos" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13278" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>04x19 - Bad Words - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13278" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13278">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=1699d6844bb40aaac0594f6f06821794"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=1699d6844bb40aaac0594f6f06821794">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=1699d6844bb40aaac0594f6f06821794">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=1699d6844bb40aaac0594f6f06821794">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=1699d6844bb40aaac0594f6f06821794">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13278&amp;sid=1699d6844bb40aaac0594f6f06821794&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>04x19 - Bad Words</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127372">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127372">04x19 - Bad Words</a></div>
+							<div class="pull-right text-right"><time datetime="2004-04-30T02:01:41Z">04/30/04 02:01</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT] </p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT] </p>
+<p>[EXT. ABERNATHY RESIDENCE - DRIVEWAY -- NIGHT] </p>
+<p>(The lamp post light over the driveway flickers out then goes back on again.)</p>
+<p>[INT. ABERNATHY RESIDENCE - MASTER BEDROOM -- NIGHT] </p>
+<p>(Open on a framed photo on the bedside table of a man and a woman smiling. Camera moves over and across the bed to the closed bedroom door. Under the door through the crack we see swirling smoke seeping into the bedroom.) </p>
+<p>[MARTHA JAMES' BEDROOM]</p>
+<p>(MARTHA JAMES sleeps quietly in her bed.)</p>
+<p>[SAM ABERNATHY'S BEDROOM]</p>
+<p>(Camera sweeps low across the floor - along the thrown puzzle pieces littering the carpet and over to the bunk bed ladder. It rises up and finds SAM ABERNATHY sleeping in bed.)</p>
+<p>FADE TO:</p>
+<p>[SABRINA'S BEDROOM]</p>
+<p>(The focus is on the neatly made bed and the stuffed animal on it. Smoke rises up from the floor to cover the bed like a cloud completely obscuring it from our vision.)</p>
+<p>CUT TO:<br />
+[EXT. ABERNATHY RESIDENCE - FRONT YARD - NIGHT - LATER]</p>
+<p>(The bedroom windows explode and a stream of fire bursts out of the house. A fireman walking across the lawn ducks instinctively.)</p>
+<p><strong>Fireman</strong>: Go pull a line towards the garage.</p>
+<p>(The house is on fire and fire fighters are attempting to put it out.)</p>
+<p>(Two firemen assist MARTHA JAMES and JESSICA ABERNATHY out of the house.</p>
+<p><strong>Jessica Abernathy</strong>: Sam?</p>
+<p><strong>Fireman</strong>: (o.s.) Knock it down.</p>
+<p><strong>Jessica Abernathy</strong>: (hysterical) Sam? Where is Sam?</p>
+<p><strong>Fireman</strong>: You're going to be all right.</p>
+<p>(The firemen lead MARTHA JAMES and JESSICA ABERNATHY across the lawn and away from the house fire.)</p>
+<p><strong>Jessica Abernathy</strong>: What about Sam?! Sam!</p>
+<p><strong>Fireman</strong>: I'm going to need you to stay right here, ma'am.</p>
+<p><strong>Jessica Abernathy</strong>: Sam. Where is he? Where is...?</p>
+<p>(A FIREMAN pushes the door open and exits the house. He's carrying SAM ABERNATHY in his arms.)</p>
+<p><strong>Fireman</strong>: Hey, I got one more!</p>
+<p>(The FIREMAN carries SAM over to his mom and the medic.)</p>
+<p><strong>Fireman</strong>: Here you go, pal. You stay right here with your mom.</p>
+<p>(The MEDIC takes SAM'S hand.)</p>
+<p><strong>Fireman</strong>: Ma'am, is there anybody else in there?</p>
+<p><strong>Jessica Abernathy</strong>: No.</p>
+<p>(The FIREMEN open another hose and aim it at the house. The house is on fire.)</p>
+<p>CUT TO:<br />
+(CATHERINE and NICK carry their kits and walk toward WARRICK who is standing on the side on the driveway next to the Arson Investigator, JACK. They're both watching the fire.)</p>
+<p><strong>Catherine</strong>: Hey.</p>
+<p>(WARRICK and JACK turn around.)</p>
+<p><strong>Nick</strong>: What's with the 911 page? Fire's not even out yet.</p>
+<p><strong>Warrick</strong>: Jack's an arson investigator. We were here on this same street ten days ago. </p>
+<p><strong>Jack</strong>: Garage fire a few houses down. Deemed intentional.</p>
+<p><strong>Catherine</strong>: So you think it's a serial?</p>
+<p><strong>Warrick</strong>: I don't know, but I'm keeping my eyes peeled. Maybe they came back to take a look.</p>
+<p><strong>Fireman</strong>: (o.s.) We got another one. </p>
+<p>(A FIREMAN comes out of the burning house carrying a body.)</p>
+<p><strong>Fireman</strong>: Got another one.</p>
+<p>(He makes his way toward the medics. JESSICA ABERNATHY is completely confused, but she recognizes her own daughter.)</p>
+<p><strong>Jessica Abernathy</strong>: Sabrina?</p>
+<p><strong>Fireman</strong>: We need a paramedic right now. She's not breathing.</p>
+<p>(JESSICA kneels down next to her daughter.)</p>
+<p><strong>Jessica Abernathy</strong>: Sabrina, what are you doing here? You weren't supposed to be here. Sabrina?</p>
+<p>(The MEDICS work on SABRINA, but she's already gone.)</p>
+<p><strong>Jessica Abernathy</strong>: (sobbing) Please help me. Please.</p>
+<p><strong>Catherine</strong>: I think our arsonist just turned into a murderer.</p>
+<p>(Camera rises up above the scene of the PARAMEDIC working on SABRINA as sounds of her mother sobbing are heard.)</p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN</p>
+<p>[EXT. ABERNATHY RESIDENCE -- NIGHT] </p>
+<p>(The CORONERS zip up the body bag with SABRINA ABERNATHY inside and put the gurney in the back of the CORONERS' van. CATHERINE and JESSICA ABERNATHY stand off to the side watching.)</p>
+<p><strong>Jessica Abernathy</strong>: She wasn't even burned.</p>
+<p><strong>Catherine</strong>: Smoke inhalation happens really fast. I'm so sorry. I heard you say she wasn't supposed to be home tonight. Was she with her dad?</p>
+<p><strong>Jessica Abernathy</strong>: My husband died five years ago in a car accident. She ... was at her friend Molly's house for a sleep-over. At least she was when I went to bed.</p>
+<p><strong>Catherine</strong>: What time was that?</p>
+<p><strong>Jessica Abernathy</strong>: I don't know, 11:00, 11:30.</p>
+<p><strong>Catherine</strong>: Mrs. Abernathy, do you have any idea what may have caused the fire?</p>
+<p><strong>Jessica Abernathy</strong>: I go to bed, I make sure the lights are off, lock the doors.</p>
+<p><strong>Catherine</strong>: Do you know anyone who might want to set fire to your home?</p>
+<p><strong>Jessica Abernathy</strong>: I go to work. I take care of my kids and my mother, and that's my life.</p>
+<p>CUT TO:<br />
+[FRONT YARD - NIGHT - CONTINUOUS]</p>
+<p>(NICK faces the crowd and takes photos of the curious onlookers.) </p>
+<p><strong>Nick</strong>: Thanks a lot.</p>
+<p>(He snaps more photos, then puts the camera down.)</p>
+<p><strong>Nick</strong>: Okay, folks, any information you feel like you may have...</p>
+<p>(MARTHA JAMES taps NICK on his shoulder.)</p>
+<p><strong>Martha James</strong>: How am I going to get my fosamax?</p>
+<p><strong>Nick</strong>: Oh, well, I'll make sure you have your medications by breakfast, okay? You're going to be all right. Everything's okay.</p>
+<p>(A FIREMAN appears and pulls MARTHA JAMES off to the side.)</p>
+<p><strong>Nick</strong>: This man will take care of you, okay? </p>
+<p>[FIRETRUCK (PARKED) - FRONT SEAT - NIGHT -- CONTINUOUS] </p>
+<p>(SAM ABERNATHY points to something up above expecting the FIREMAN sitting next to him to explain it to him. WARRICK stands just outside the open passenger seat door and listens.) </p>
+<p><strong>Sam Abernathy</strong>: What does that one do?</p>
+<p><strong>Fireman</strong>: That one? That turns on the siren, so we can get to places really fast. </p>
+<p><strong>Sam Abernathy</strong>: To help people burning inside?</p>
+<p><strong>Fireman</strong>: That's right.</p>
+<p><strong>Sam Abernathy</strong>: But not my sister.</p>
+<p><strong>Fireman</strong>: Yeah. (He puts a hand on the little boy's shoulder.) I'm sorry, buddy. </p>
+<p><strong>Sam Abernathy</strong>: It's okay.</p>
+<p>(SAM looks at the FIREMAN who looks past SAM at WARRICK.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. CASINO - BATHROOM -- NIGHT] </p>
+<p>(In the middle of the bathroom floor is a very large dead man wearing a red shirt with &quot;735&quot; in white on the front.) </p>
+<p><strong>Brass</strong>: So the morning cleaning crew found him. No ID, but this was in his pocket.</p>
+<p>(BRASS explains what he knows to SARA and GRISSOM. He shows the paper to SARA.)</p>
+<p><strong>Sara</strong>: Looks like some kind of code.</p>
+<p>(She looks at the wordlist.)</p>
+<p><strong>Grissom</strong>: &quot;735&quot;?</p>
+<p><strong>Brass</strong>: His goal weight? (BRASS shrugs. He gives up while he's ahead.) I'm going to talk to housekeeping.</p>
+<p>(He turns and leaves the rest room. SARA and GRISSOM step forward to get to work. GRISSOM puts his kit down on the floor next to the body.)</p>
+<p>(He opens his kit and removes a camera. He takes a photo of the head wound.)</p>
+<p><strong>Grissom</strong>: That's a nasty head wound.</p>
+<p><strong>Sara</strong>: It's always reassuring to see an empty soap dispenser in a public bathroom.</p>
+<p>(SARA hands the bagged note to GRISSOM. She leans in close over the bathroom counter and looks at the cracked mirror with blood running down the front.)</p>
+<p><strong>Sara</strong>: So I'm thinking this is how the vic got his head smashed in.</p>
+<p>(Through the reflection in the mirror, we see GRISSOM stand up behind SARA to look at the mirror.)</p>
+<p>(Quick flashback to: [BATHROOM - EARLIER] ADAM BRENNER hits his forehead against the mirror. The mirror cracks and ADAM falls back to the floor. Someone standing behind him steps aside.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(GRISSOM holds out a swab. SARA takes it from him.)</p>
+<p><strong>Sara</strong>: Thank you.</p>
+<p>(She takes a sample of the blood on the mirror.)</p>
+<p>(GRISSOM puts on his latex gloves while staring at the blood stain on the floor. He sees something on the blood.)</p>
+<p><strong>Grissom</strong>: It's common to find something in blood. Uncommon to find something on blood.</p>
+<p>(SARA watches him as he picks up the black thing. He looks down at the body and checks the eyes.)</p>
+<p><strong>Grissom</strong>: Petechial hemorrhaging. Asphyxia.</p>
+<p><strong>Sara</strong>: Head bashed in and asphyxiated. No soap was the least of his problems.</p>
+<p>(GRISSOM glances up at SARA.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<p><strong>Jack (arson Investigator)</strong>: (V.O.) The smoke detectors' batteries are all dead. </p>
+<p>[INT. ABERNATHY RESIDENCE - SABRINA'S BEDROOM -- DAY] </p>
+<p>(JACK, the arson investigator, shows CATHERINE, WARRICK and NICK through the house.) </p>
+<p><strong>Jack (arson Investigator)</strong>: Sabrina's was the only bedroom that sustained any fire damage at all.</p>
+<p><strong>Catherine</strong>: Her mother thought that she wasn't home.</p>
+<p>(WARRICK takes a photo.)</p>
+<p><strong>Catherine</strong>: But she wasn't asleep.</p>
+<p><strong>Jack (arson Investigator)</strong>: Not in her bed.</p>
+<p>(CATHERINE walks over to the small space and finds SABRINA'S hide-away - books and other junk - evidence that a teenager had been there.)</p>
+<p>(Quick flashback to: SABRINA sits in the small space reading the book while music blares in the background.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: That would explain why the firemen didn't find her right away.</p>
+<p>(WARRICK takes a photo.)</p>
+<p><strong>Jack (arson Investigator)</strong>: But it doesn't explain what she was doing down there.</p>
+<p><strong>Catherine</strong>: If you can explain the behavior of teenagers, more power to you.</p>
+<p>[KITCHEN]</p>
+<p>(JACK kicks at the burned linoleum on the floor.)</p>
+<p><strong>Jack (arson Investigator)</strong>: Adhesive they use to put this stuff down is highly flammable. Crack in the linoleum, the fire will just seek it out and go for it.</p>
+<p>(CATHERINE looks up at the fluorescent lights on the ceiling. WARRICK takes a photo of the things on the floor.)</p>
+<p>(CATHERINE looks at the burned stove. WARRICK tries the back door. He opens it and closes it.)</p>
+<p><strong>Warrick</strong>: (to JACK) This door's unlocked.</p>
+<p><strong>Jack (arson Investigator)</strong>: The firemen said they only used one point of entry and exit: The front door.</p>
+<p><strong>Catherine</strong>: Mrs. Abernathy said that she locked all the doors before bed.</p>
+<p><strong>Warrick</strong>: Well, this could be how Sabrina got in. Comes home late, forgets to lock the door behind her. It's an opportunity waiting to happen.</p>
+<p><strong>Jack (arson Investigator)</strong>: Let's check out the living room.</p>
+<p>(He turns and leads them into the next room.)</p>
+<p>[LIVING ROOM]</p>
+<p><strong>Jack (arson Investigator)</strong>: A few cheap, wood panel walls. Polyester curtains, couple of fake plants. All highly flammable.</p>
+<p>(CATHERINE picks up an unburned bottle of alcohol.)</p>
+<p><strong>Catherine</strong>: Plus ... a bar full of liquid fire with a low flash point.</p>
+<p>(She throws the bottle aside. JACK sees the broken table on the floor.)</p>
+<p><strong>Jack (arson Investigator)</strong>: Coffee table.</p>
+<p>(They both approach the remains of the sofa.)</p>
+<p><strong>Catherine</strong>: Couch?</p>
+<p><strong>Jack (arson Investigator)</strong>: At some point, I think this was a couch.</p>
+<p><strong>Catherine</strong>: This looks like a liquid pour pattern. High-intensity burn. You think this could be the point of origin?</p>
+<p>(Quick CGI flash to: The couch is on fire and burning. End of flash. Resume to present.)</p>
+<p><strong>Jack (arson Investigator)</strong>: I think this is the area of heaviest damage. The fire spread up and out towards the kitchen.</p>
+<p>(JACK takes out a tape measure. His voice fades into the background.)</p>
+<p>[DOOR]</p>
+<p>(WARRICK kneels in front of the back door and fingerprints the door knob.)</p>
+<p>[DRIVEWAY]</p>
+<p>(Meanwhile out in the car port, NICK looks around and finds a stack of newspapers only slightly burned. He moves the papers and looks at the concrete burns under it.)</p>
+<p>[LIVING ROOM]</p>
+<p>(CATHERINE works on the sofa when WARRICK approaches her. He puts his kit down.)</p>
+<p><strong>Catherine</strong>: How'd you do?</p>
+<p>(NICK walks into the room carrying the stack of newspapers.)</p>
+<p><strong>Warrick</strong>: Uh, couple of weak partials. What you got, partner?</p>
+<p><strong>Nick</strong>: Newspapers. I found them in the carport.</p>
+<p><strong>Catherine</strong>: That's on the other side of the house.</p>
+<p><strong>Nick</strong>: Yeah, it's kind of weird. Completely out of the path of the fire and the firemen said they didn't put them there.</p>
+<p><strong>Warrick</strong>: You know the fire down the street was in the garage.</p>
+<p><strong>Nick</strong>: Well, maybe he started in the carport, Sabrina came home, provided access to the inside of the house.</p>
+<p><strong>Catherine</strong>: Did they find an accelerant at the first scene?</p>
+<p><strong>Warrick</strong>: Lighter fluid from the garage.</p>
+<p><strong>Catherine</strong>: So maybe part of the M.O. is that he uses accelerants that are present.</p>
+<p><strong>Nick</strong>: Let's hope he stuck around long enough to witness the damage.</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB -- DAY] </p>
+<p>(NICK and WARRICK go through the video of the observers in the crowd.) </p>
+<p><strong>Warrick</strong>: This is home video from the first fire.</p>
+<p><strong>Nick</strong>: It looks like everybody's neighbor.</p>
+<p><strong>Warrick</strong>: Well, they say arsonists often commit crimes where they feel most familiar. The last fire was set during the day in the garage when the family was out of town.</p>
+<p><strong>Nick</strong>: A neighbor would know when people were out of town.</p>
+<p><strong>Warrick</strong>: Or when the door was left unlocked.</p>
+<p><strong>Nick</strong>: If this is a serial situation, to go from an empty garage to a whole house full of people, we're talking about a major escalation here.</p>
+<p><strong>Warrick</strong>: Well, a match was found at the first fire. If we could find a match in the debris of the second fire, then we may know for sure.</p>
+<p>(On the monitor, a woman stands near the fire truck.)</p>
+<p><strong>Nick</strong>: Oh, she looks familiar. Hang on. I may have something.</p>
+<p>(He goes to the next video.)</p>
+<p><strong>Nick</strong>: She was at both fires. I got her name off the canvas.</p>
+<p><strong>Warrick</strong>: Let's run her.</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p>(NICK does a name check and finds something. She is:<br />
+Name: VIVA CHARLES<br />
+Address: 22 SUTTER STREET<br />
+LAS VEGAS, NV<br />
+s*x: FEMALE</p>
+<p>Criminal Records: ATTEMPTED ARSON<br />
+MARCH 03, 2000</p>
+<p><strong>Nick</strong>: She has a record.</p>
+<p>CUT TO:<br />
+[INT. CSI - INTERVIEW ROOM -- DAY] </p>
+<p>(NICK interviews VIVA CHARLES.) </p>
+<p><strong>Nick</strong>: You were arrested for attempted arson?</p>
+<p><strong>Viva Charles</strong>: I was exonerated.</p>
+<p><strong>Nick</strong>: I have you on film at both fires on cell crook road.</p>
+<p><strong>Viva Charles</strong>: I am not an arsonist.</p>
+<p><strong>Nick</strong>: That's not what your file says.</p>
+<p><strong>Viva Charles</strong>: The law doesn't make much of a distinction between arsonists and pyromaniacs.</p>
+<p><strong>Nick</strong>: What is the distinction?</p>
+<p><strong>Viva Charles</strong>: I don't set fires for money or with the intent to cause damage.</p>
+<p><strong>Nick</strong>: But you do set fires?</p>
+<p><strong>Viva Charles</strong>: Mmm. You go home at night, and you feel a little lonely, you put in a racy video.</p>
+<p><strong>Nick</strong>: No, no, no. We're not talking about me.</p>
+<p><strong>Viva Charles</strong>: I go home, I rip open my junk mail, and I put it in the fireplace. It's an impulse control disorder ... but it's private. I don't burn down houses and kill children.</p>
+<p><strong>Nick</strong>: Maybe not on purpose, but accidents do happen.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) -- MORNING] </p>
+<p>[INT. CSI - LAB - MORNING]</p>
+<p>(GREG walks into the lab. NICK is already there with a pack on the table in front of him.) </p>
+<p><strong>Greg</strong>: You rang?</p>
+<p><strong>Nick</strong>: Yeah. Greg, how'd you like to be listed as an assist on an arson case?</p>
+<p><strong>Greg</strong>: Is that a rhetorical question?</p>
+<p><strong>Nick</strong>: Cool. I collected these matchbooks from the pyromaniac's house, who was ... kind of hot, actually.</p>
+<p><strong>Greg</strong>: Really? You dig chicks who dig fire?</p>
+<p>(NICK smiles and doesn't answer the comment.)</p>
+<p><strong>Nick</strong>: Yeah. This, uh ... this match was used to start a garage fire a couple of weeks ago. See if you can find a match to ... (NICK empties the pack onto the table. Dozens of matchbooks spill out.) ... one of those. Thanks, pal.</p>
+<p>(He pats GREG on the shoulder and leaves the lab.)</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(The two CORONERS work on ADAM BRENNER.) </p>
+<p><strong>Robbins</strong>: All right, David. The three most common ways to asphyxiate: Strangulation, suffocation and...</p>
+<p><strong>David Phillips</strong>: Choking.</p>
+<p><strong>Robbins</strong>: Good.</p>
+<p><strong>David Phillips</strong>: With this guy, my money's on choking.</p>
+<p>(ROBBINS and DAVID PHILLIPS work on the body.)</p>
+<p><strong>Robbins</strong>: Scissors.</p>
+<p>(DAVID PHILLIPS hands ROBBINS the scissors. He removes a portion of the body's trachea to check for blockage.)</p>
+<p><strong>Robbins</strong>: Hold this please. Thank you, David.</p>
+<p>(He cuts the trachea open and finds a LOGOS piece: &quot;S&quot;. ROBBINS looks at DAVID PHILLIPS.)</p>
+<p><strong>Robbins</strong>: Hmm.</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE -- DAY] </p>
+<p>(ROBBINS reports his findings to GRISSOM. GRISSOM holds up the LOGOS piece.) </p>
+<p><strong>Grissom</strong>: An &quot;S&quot;?</p>
+<p><strong>Robbins</strong>: Cause of death.</p>
+<p>(Quick flashback to: [BATHROOM] ADAM BRENNER chokes on the piece.)</p>
+<p><strong>Robbins</strong>: (V.O.) I found it in the trachea.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: So, he swallows a tile and tries to give himself a Heimlich?</p>
+<p>(Quick flashback to: [BATHROOM] ADAM BRENNER is choking on the puzzle piece. He looks around for something to help jar it out of him. He slams himself against the counter. He tries again and hits his forehead against the mirror, cracking it. He falls to the floor.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Robbins</strong>: Or not. I found these in his stomach.</p>
+<p>(ROBBINS shows the other letters to GRISSOM.)</p>
+<p><strong>Robbins</strong>: You don't swallow six of them by accident.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(GREG works on the assignment NICK gave him. He goes through each matchbook one by one, comparing the match found at the first arson scene with every matchbook.) </p>
+<p>CUT TO:<br />
+[INT. CSI - GARAGE -- DAY</p>
+<p>(NICK and WARRICK go through the things brought into the lab from the crime scene. GREG walks into the room.)</p>
+<p><strong>Greg</strong>: Your hottie's matchbook collection came up dead.</p>
+<p><strong>Nick</strong>: Hmm. Doesn't mean she didn't do it.</p>
+<p><strong>Greg</strong>: True.</p>
+<p><strong>Nick</strong>: You know, arson's usually a property crime. Did you ever find out the Abernathys' financial situation, Warrick?</p>
+<p><strong>Warrick</strong>: According to Catherine, Jessica Abernathy had major credit card debt but minimal insurance-not even enough to cover what she had. Besides, people tend to remove mementos when they know what's coming.</p>
+<p>(WARRICK picks up the burned photo of JESSICA and her husband. The same photo that used to be on the bedside table.)</p>
+<p><strong>Greg</strong>: So, if the pyro didn't do it for love, and Mrs. A didn't do it for money, who's left?</p>
+<p>(NICK looks at the headline from the stack of newspapers found in the car port.)</p>
+<p><strong>Nick</strong>: Maybe the high school baseball team.</p>
+<p>(He reads the headline out loud.)</p>
+<p><strong>Nick</strong>: McKinley High School Gazette.</p>
+<p><strong>Nick</strong>: This is tomorrow's edition with the lead story by editor-in-chief Sabrina Abernathy, entitled &quot;Varsity Hazing Ritual.&quot; Now listen to this ... &quot;The question is not whether the so-called student athletes should be expelled, but whether or not they should be arrested.&quot;</p>
+<p>(The article continues:<br />
+&quot;This latest case of Varsity hazing is having serious repercussions not only with the school, but across the entire state. The students concerned may face serious charges including involvement with prostitution. &quot;Every four years we get a new set of students that ready to 'one-up' the previous groups ... &quot;)</p>
+<p>(The two paragraphs repeat.)</p>
+<p><strong>Warrick</strong>: Why, what'd they do?</p>
+<p><strong>Nick</strong>: Apparently, something with several hookers and a lot of testosterone.</p>
+<p><strong>Greg</strong>: Whatever happened to toilet paper and trees?</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(GRISSOM places two of the six tiles collected from the body on the table in front of him. An X and a V.) </p>
+<p>(SARA walks into the lab.)</p>
+<p><strong>Sara</strong>: Hey. DNA came back. Blood from the bathroom floor's a match to the vic. Blood from the bathroom mirror is not.</p>
+<p><strong>Grissom</strong>: That's interesting.</p>
+<p><strong>Sara</strong>: Hmm. (She looks over at the pen, paper and tiles in front of him.) What are you doing?</p>
+<p><strong>Grissom</strong>: Anagrams.</p>
+<p><strong>Sara</strong>: You think the letters might be a message from the killer?</p>
+<p>(GRISSOM continues to write down possibles on his list:<br />
+VEXINS<br />
+VENIXS<br />
+VEXISN<br />
+NEIS ... )</p>
+<p><strong>Sara</strong>: (thinking out loud) Six letters. What is that? That's 720 possible combinations, not all of them words, of course. </p>
+<p>(She moves the tiles.)</p>
+<p><strong>Sara</strong>: Hmm. You, uh, missed one.</p>
+<p>(V-I-X-E-N) </p>
+<p>(GRISSOM glances at SARA who smiles back at him. BRASS walks into the room.)</p>
+<p><strong>Brass</strong>: Hey. We got an ID. Off your DB's prints. His name is Adam Brenner.</p>
+<p><strong>Sara</strong>: That guy has a record?</p>
+<p><strong>Brass</strong>: Well, sort of. He's a civil servant. He's a postal worker from Orlando.</p>
+<p><strong>Grissom</strong>: Do we know why he came to Vegas?</p>
+<p><strong>Brass</strong>: (smiles) Oh, you're going to love this.</p>
+<p>CUT TO:<br />
+[INT. HOTEL - MAIN COMPETITION ROOM -- DAY] </p>
+<p>(Rows of tables are set up where dozens of pairs play LOGOS at the 2004 WESTERN REGIONAL LOGOS TOURNAMENT.) </p>
+<p>(BRASS, GRISSOM and SARA interview one of the TOURNAMENT ORGANIZERS.)</p>
+<p><strong>Organizer</strong>: Adam Brenner was one of our top division one players. Ranked in the high 1,800s.</p>
+<p><strong>Grissom</strong>: Is that like the elo system in chess?</p>
+<p><strong>Organizer</strong>: Logos has all the skill of chess combined with the cruel whimsy of fate. Adam once set a tournament record by scoring 735 points in a single game.</p>
+<p><strong>Sara</strong>: It was on his t-shirt.</p>
+<p><strong>Organizer</strong>: Justifiably. It's an incredible achievement.</p>
+<p><strong>Brass</strong>: So, how did the other players feel about that kind of smack-down?</p>
+<p><strong>Organizer</strong>: You actually suggesting that somebody here killed Adam?</p>
+<p>(GRISSOM looks at the tournament in play in the room behind them.)</p>
+<p><strong>Brass</strong>: Cruel whimsy of fate. Guy's from out of town, takes a cab from ..., checks into the hotel. The only thing on his hotel bill is four meals a day. No phone calls. So everybody he talked to is in this room. We're going to need a list of his opponents.</p>
+<p>CUT TO:<br />
+[EXT. MCKINLEY HIGH SCHOOL BASEBALL FIELD -- DAY] </p>
+<p>(NICK interviews the Baseball team coach, RICK CHILSON, while his son, CODY CHILSON, is out on the field practicing his hitting. An OFFICER stands behind the two men.) </p>
+<p><strong>Rick Chilson</strong>: What's with the cop?</p>
+<p><strong>Nick</strong>: We're just talking.</p>
+<p><strong>Rick Chilson</strong>: Ah, about what?</p>
+<p><strong>Nick</strong>: (loudly) Sabrina Abernathy died in her home in a fire on Saturday night.</p>
+<p>(CODY CHILSON hears the comment and misses the ball.)</p>
+<p><strong>Rick Chilson</strong>: Hey! What'd I tell you -- you don't waste a good pitch!</p>
+<p><strong>Nick</strong>: Cody, where were you around 1:00 A.M. on Saturday?</p>
+<p><strong>Cody Chilson</strong>: In bed.</p>
+<p><strong>Rick Chilson</strong>: Cody's in bed every night at 10:00. He gets up at 5:00 to go running.</p>
+<p><strong>Nick</strong>: Except for the nights he's with the team pulling a train on a hooker.</p>
+<p>(CODY lets another ball pass by as he stares at NICK.)</p>
+<p><strong>Rick Chilson</strong>: Cody, keep hitting.</p>
+<p>(RICK CHILSON turns back to NICK.) </p>
+<p><strong>Rick Chilson</strong>: This is Vegas. Who hasn't been with a hooker?</p>
+<p><strong>Nick</strong>: Well, most high school seniors who are being scouted by division one schools. I don't think an expulsion and an arrest would look too good on a scholarship application.</p>
+<p><strong>Rick Chilson</strong>: It's a tradition. Happens every year with every team, and why that little bitch had to scapegoat Cody, I'll never know.</p>
+<p><strong>Nick</strong>: How 'bout you, Cody? Do you know?</p>
+<p>(CODY misses the hit and shakes his head at NICK.)</p>
+<p><strong>Rick Chilson</strong>: Look, I'm sorry the girl's dead.</p>
+<p><strong>Nick</strong>: Yeah, but you're not real sorry the whole mess died with her, are you?</p>
+<p><strong>Rick Chilson</strong>: Yeah, but burning the kid's house down? Come on. Give my son a little credit.</p>
+<p><strong>Nick</strong>: Thanks for your help.</p>
+<p>CUT TO:<br />
+[INT. HOTEL - TOURNAMENT ROOM-- DAY] </p>
+<p>(GRISSOM walks around the room.) </p>
+<p><strong>Wilson Janek</strong>: (o.s.) Hey, hey, hey, no flash drawing. </p>
+<p>(At one of the gaming tables, WILSON JANEK calls for a word check.)</p>
+<p><strong>Wilson Janek</strong>: Challenge. Challenge over here.</p>
+<p>(The WOMAN walks over to the table and checks the word, &quot;GABBONS&quot;.)</p>
+<p><strong>Woman</strong>: Illegal word-- that's a minute penalty.</p>
+<p><strong>Wilson Janek</strong>: Time's up. Game over, baby. (scoffing) Gabbons? </p>
+<p><strong>Challenger</strong>: Whatever.</p>
+<p>(He stands up and leaves.)</p>
+<p><strong>Wilson Janek</strong>: Like I'm really not going to challenge that.</p>
+<p>(GRISSOM walks over to the man at the table.)</p>
+<p><strong>Grissom</strong>: Wilson Janek?</p>
+<p><strong>Wilson Janek</strong>: Yeah. Want to try your luck? Step up, baby.</p>
+<p>(GRISSOM sits down.)</p>
+<p><strong>Wilson Janek</strong>: And you are?</p>
+<p><strong>Grissom</strong>: Gil Grissom. Nice to meet you.</p>
+<p><strong>Wilson Janek</strong>: Nice to meet you, Gil Grissom.</p>
+<p><strong>Grissom</strong>: So ... </p>
+<p>(GRISSOM places his word on the table: ABULIA.)</p>
+<p><strong>Grissom</strong>: What do you hear about Adam Brenner?</p>
+<p>(He stops his clock.)</p>
+<p><strong>Wilson Janek</strong>: Mr. 735? Heard he's dead.</p>
+<p><strong>Grissom</strong>: Well, he was alive last night when he beat you.</p>
+<p><strong>Wilson Janek</strong>: (laughs) Gil ... you think that trash talk's going to break my focus? </p>
+<p>(He puts his word down, BAHT, and stops his clock.) </p>
+<p><strong>Wilson Janek</strong>: You must be new.</p>
+<p><strong>Grissom</strong>: Actually ... I'm from the Las Vegas crime lab. I'm just here to collect your DNA.</p>
+<p>(Using the H in BAHT, GRISSOM builds HADRON. He stops his clock.)</p>
+<p><strong>Wilson Janek</strong>: You're a quick study. But if you think I killed Adam, why don't you go ask Uncle Sam for my DNA? I served my country. Gulf war senior. Memorized word lists for a sanity check. Some guys did ping pong; I did this. I saw enough killing over there. I'm a &quot;make words, not war&quot; kind of guy now.</p>
+<p>[ANOTHER PART OF THE TOURNAMENT] </p>
+<p>(SARA takes a swab from CRAIG who is wearing a t-shirt with black lettering: ECSTACY IS A SEVEN LETTER WORD.) </p>
+<p><strong>Sara</strong>: Word on the floor is Adam Brenner really had your number, Craig.</p>
+<p><strong>Craig</strong>: The universe ebbs and flows.</p>
+<p><strong>Sara</strong>: More ebb than flow in your case. I guess you lost to Adam your last three tournaments in a row?</p>
+<p><strong>Craig's Challenger</strong>: 14 points ... times two is 28 plus 10 bonus points for full logos. 38 points.</p>
+<p>(CRAIG smiles.)</p>
+<p><strong>Sara</strong>: At least you're a good sport.</p>
+<p><strong>Craig</strong>: (smiles) Loss for one is a win for another.</p>
+<p>[YET ANOTHER PART OF THE TOURNAMENT] </p>
+<p>(BRASS interviews another LOGOS PLAYER.)</p>
+<p><strong>Logos Player</strong>: So what if I was the last person to play Adam?</p>
+<p><strong>Brass</strong>: You were the last player who saw him alive.</p>
+<p><strong>Logos Player</strong>: What are you thinking, that with Adam out of the tournament, I could abscond with the big cash prize?</p>
+<p>(BRASS chuckles.)</p>
+<p><strong>Brass</strong>: You tell me. </p>
+<p><strong>Logos Player</strong>: Oh, first prize here is $2,000. </p>
+<p>(BRASS notices that the LOGOS PLAYER has his right hand tucked into his pant's pocket.)</p>
+<p><strong>Logos Player</strong>: Even if I win, the remuneration barely covers my airfare, accommodation and food. No, no, I don't play for the money.</p>
+<p><strong>Brass</strong>: You play for the glory.</p>
+<p><strong>Logos Player</strong>: You ever attempt a New York Times crossword, Captain? Nah, you probably wouldn't make it past Tuesday. I do Sunday ... in pen.</p>
+<p>(BRASS puts several pieces on the holder.)</p>
+<p><strong>Brass</strong>: I can still spell this.</p>
+<p>(He turns it around to show the LOGOS PLAYER the letters: DNA.)</p>
+<p>CUT TO:<br />
+[INT. CSI - TRACE LAB -- DAY] </p>
+<p>(DAVID HODGES fills CATHERINE in on the results of his analysis.) </p>
+<p><strong>David Hodges</strong>: GC/mass spec found no trace of accelerant on the couch residue.</p>
+<p><strong>Catherine</strong>: Well, how can that be? It was an obvious liquid pour pattern.</p>
+<p><strong>David Hodges</strong>: Well, my dear, this is why you should never pick up the couch left for curbside pickup. </p>
+<p>(He shows CATHERINE the test results.)</p>
+<p><strong>David Hodges</strong>: Polyurethane foam. Outlawed in 1988 due to its highly incendiary nature. You light that crap on fire, it heats up, creates a burning pool of liquid, and acts as its own accelerant.</p>
+<p>(Quick flash to: The Couch is on fire. Inside the couch, the foam melts and fuels the fire. End of flash. Resume to present.)</p>
+<p><strong>David Hodges</strong>: Disaster waiting to happen.</p>
+<p><strong>Catherine</strong>: All it needed was a spark.</p>
+<p>(HODGES nods.)</p>
+<p>CUT TO:<br />
+[INT. CSI - GARAGE -- DAY] </p>
+<p>(CATHERINE, NICK and WARRICK go through buckets of the things removed from the house.) </p>
+<p><strong>Catherine</strong>: We've got no accelerant. We've got no match. We have no idea what started this fire.</p>
+<p>(NICK finds a cigarette butt embedded in the mess. He picks it up and smells it.)</p>
+<p><strong>Nick</strong>: Maybe this will help. It kind of smells like a menthol.</p>
+<p>(He hands it to WARRICK. CATHERINE picks it up.)</p>
+<p><strong>Catherine</strong>: Hmm, looks like a one hundred. Longer the cigarette, longer the filter.</p>
+<p><strong>Nick</strong>: Cigarettes are a terrible way to commit arson. Unreliable. They take too long. Possible DNA trace, but ... it just doesn't make any sense.</p>
+<p><strong>Warrick</strong>: It makes sense if the fire was unintentional.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - WAITING ROOM -- DAY] </p>
+<p>(Outside in the hallway, an OFFICER offers SAM ABERNATHY a canned drink. SAM shakes his head, no.) </p>
+<p>(Inside the waiting room, JESSICA and her mother are interviewed by CATHERINE and WARRICK. JESSICA motions to SAM out in the hallway.)</p>
+<p><strong>Jessica Abernathy</strong>: I'm sorry about this. Typically, I leave with Sab ... with Sabrina, but ... </p>
+<p><strong>Catherine</strong>: It's fine.</p>
+<p><strong>Martha James</strong>: Well, why are we here, exactly?</p>
+<p><strong>Warrick</strong>: Well, we think we might have figured out what caused the fire. Ms. Abernathy, does anyone in your house smoke?</p>
+<p><strong>Jessica Abernathy</strong>: I don't.</p>
+<p><strong>Martha James</strong>: Well, don't look at me. I quit twenty years ago.</p>
+<p><strong>Warrick</strong>: Sabrina maybe?</p>
+<p><strong>Jessica Abernathy</strong>: I don't think so.</p>
+<p><strong>Catherine</strong>: Well, we found a cigarette filter in the remains of your couch. And we need a urine sample from each of you so that we can rule you out for nicotine.</p>
+<p><strong>Jessica Abernathy</strong>: My house burned down, and my daughter is dead. And you're asking me to pee into a cup? </p>
+<p>(CATHERINE looks away uncomfortable.)</p>
+<p><strong>Jessica Abernathy</strong>: Sure. Why not?</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - DNA LAB -- DAY] </p>
+<p>(GREG tests the urine samples. Apparently four samples in four containers. The first sample is from ABERNATHY, then from JESSICA, SAM and MARTHA JAMES. He finishes filling the tubes with the sample and takes all four and shakes them before putting them into the centrifuge.) </p>
+<p>(He continues to process the samples.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY - DAY] </p>
+<p>(GREG hands CATHERINE the test results as they walk down the hallway.) </p>
+<p><strong>Greg</strong>: Everyone except for the little guy was getting high and getting by. The girl's on uppers, mom's on downers, and grandma sucks on the cancer stick.</p>
+<p><strong>Catherine</strong>: Ritalin, valium, and grandma's a liar.</p>
+<p><strong>Greg</strong>: Pants on fire.</p>
+<p>(GREG leaves.)</p>
+<p>CUT TO:<br />
+[INT. CSI - TRACE LAB -- DAY] </p>
+<p>(SCOPE VIEW of the black substance GRISSOM lifted from the blood on the bathroom floor.)</p>
+<p>(DAVID HODGES fills GRISSOM in on the test analysis.) </p>
+<p><strong>David Hodges</strong>: That's the black trace you found in the blood pool. It's a mix of PVC resin and liquid plasticizer. When heated together, they form a solid elastomer film called plastisol.</p>
+<p><strong>Grissom</strong>: What's it used for?</p>
+<p><strong>David Hodges</strong>: Mostly Greg Sanders wear. Uh, names, hair band logos, inane sayings, anything that can be put on a t-shirt.</p>
+<p><strong>Grissom</strong>: Well, that narrows it down to just about everybody in the tournament.</p>
+<p>(SARA appears in the doorway carrying slip of paper.)</p>
+<p><strong>Sara</strong>: Hey, we got a match on the blood from the bathroom mirror.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(SARA and BRASS interview the LOGOS PLAYER.) </p>
+<p><strong>Logos Player</strong>: Look, just 'cause I was there doesn't mean I killed Adam Brenner.</p>
+<p><strong>Brass</strong>: Put your hands on the table.</p>
+<p>(The LOGOS PLAYER puts his hands on the table to show the bruises on his knuckles.)</p>
+<p><strong>Sara</strong>: You know, that's seven years bad luck.</p>
+<p><strong>Brass</strong>: More like seven to ten.</p>
+<p><strong>Logos Player</strong>: Yeah, I'm not very proud of that.</p>
+<p><strong>Brass</strong>: Of what?</p>
+<p><strong>Logos Player</strong>: I'm ebullient, you know. I-I feel the wins and the losses. The other night, I lost to a division two blue-hair. But it's not my fault. She was... she was coffee-housing the whole time.</p>
+<p><strong>Sara</strong>: I'm sorry? Coffee-housing? </p>
+<p><strong>Logos Player</strong>: You know, yap, yap, p-p-yapping.</p>
+<p>(Quick flashback to: [TOURNAMENT] The WOMAN playing against the LOGOS PLAYER is constantly talking.)</p>
+<p><strong>Blue-hair Woman</strong>: So when I was at the Southern Regionals in Dallas last year, I went to the book depository. Have you ever been there?</p>
+<p><strong>Logos Player</strong>: Zip it, lady. I'm trying to make a play here.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Logos Player</strong>: I never should have lost that one.</p>
+<p>(Quick flashback to: [BATHROOM] The LOGOS PLAYER talks to himself in the mirror.)</p>
+<p><strong>Logos Player</strong>: What, are you an idiot? What, are you stupid? You're so stupid!</p>
+<p>(He throws a punch at the mirror, smashing it.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: What about Adam Brenner? </p>
+<p><strong>Logos Player</strong>: No, he wasn't there.</p>
+<p><strong>Sara</strong>: But you lost to him, too.</p>
+<p><strong>Brass</strong>: Maybe you took that loss even harder.</p>
+<p><strong>Logos Player</strong>: Adam? No way. He's ranked, what, 1,890? It's like getting art lessons from Picasso. I was honored to even be sitting at the same table with him.</p>
+<p>(Surprised by this remark, SARA and BRASS look at each other.)</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB -- DAY] </p>
+<p>(NICK works on putting a composite of the living room together, rebuilding the set-up from the photos of the burned room.) </p>
+<p>(He puts the couch down into the room. He sets the Ignition Point and Starts the Simulation by putting the couch on fire. He monitors the room temperature.)</p>
+<p>(He shakes his head. The heat in the kitchen is at 650+ degrees while the Living Room is at 841+ degrees.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM #605 -- DAY] </p>
+<p>(WARRICK interviews MARTHA JAMES.) </p>
+<p><strong>Warrick</strong>: Ma'am, earlier you provided us with a urine sample. We found traces of nicotine in yours.</p>
+<p><strong>Martha James</strong>: That's odd because I don't smoke.</p>
+<p><strong>Warrick</strong>: Really? Would you mind opening your purse for me?</p>
+<p>(She opens her purse and finds the open pack of cigarettes inside. She looks at WARRICK.)</p>
+<p><strong>Martha James</strong>: You know what? I do too smoke cigarettes.</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(CATHERINE interviews JESSICA ABERNATHY.)</p>
+<p><strong>Catherine</strong>: Mrs. Abernathy, did your daughter have attention deficit disorder?</p>
+<p><strong>Jessica Abernathy</strong>: Sabrina? No. That girl had the focus like you can't believe.</p>
+<p><strong>Catherine</strong>: Well, we found Ritalin in her system, and as I'm sure you're aware, ritalin is used to treat kids with ADD, but acts as a stimulant in older kids and adults. Teens use it as an upper.</p>
+<p><strong>Jessica Abernathy</strong>: So, Sabrina was taking drugs?</p>
+<p><strong>Catherine</strong>: As were you. Valium.</p>
+<p><strong>Jessica Abernathy</strong>: Fair enough. You know, Sabrina used to scream at me, &quot;I can't wait till I'm old enough to move out of here.&quot; And I would scream back, &quot;yeah, me either.&quot; What kind of mother says that to her kid?</p>
+<p><strong>Catherine</strong>: One with a teenage daughter.</p>
+<p><strong>Jessica Abernathy</strong>: You know what I pictured for this part of my life? S ... Saturday night, leave the kids with grandma, date night with my husband. Instead, I'm stuck home alone with two kids and a 70-year-old infant.</p>
+<p><strong>Catherine</strong>: Mrs. Abernathy ... are you covering for your mother?</p>
+<p><strong>Jessica Abernathy</strong>: Part of me wants to say yes, please just take her away. Let her be the state's problem. You know, she leaves the stove on, and she leaves the water running. I come home, and I find little burn marks in things. But I was with her the whole night. I never saw her smoke.</p>
+<p><strong>Catherine</strong>: Maybe after you went to bed, she came out into the living room.</p>
+<p>(Quick flash to: MARTHA JAMES sleeping on the couch with a lit cigarette in her fingers. The cigarette burns down to the filter, she drops the cigarette into the couch and forgets about it. She gets up.)</p>
+<p>(End of flash. Resume to present.)</p>
+<p><strong>Jessica Abernathy</strong>: I doubt it.</p>
+<p><strong>Catherine</strong>: But it's a possibility?</p>
+<p><strong>Jessica Abernathy</strong>: No. It isn't. Miss Willows, you can go ahead and judge me, but after my mother falls asleep at night, I lock her in her room.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(NICK is in the lab opening an evidence bag. CATHERINE walks into the room.) </p>
+<p><strong>Catherine</strong>: Any luck?</p>
+<p><strong>Nick</strong>: Yeah, the bad kind. My burn scenarios don't match up with your data.</p>
+<p><strong>Catherine</strong>: Did you try different variables?</p>
+<p><strong>Nick</strong>: Ahah. Open windows, uh, drafts from vents, all of it. Here's the problem.</p>
+<p>(NICK holds out the melted refrigerator magnet. He puts it on a metal sheet along with other melted magnets. He puts a heavy magnet on the sheet and tilts it. The melted magnets fall off onto the counter.)</p>
+<p><strong>Nick</strong>: Demagnetized.</p>
+<p><strong>Catherine</strong>: I'm not following.</p>
+<p><strong>Nick</strong>: Okay, the Curie point is the temperature at which all materials lose their magnetic properties, yeah?</p>
+<p><strong>Catherine</strong>: Mm-hmm.</p>
+<p><strong>Nick</strong>: Okay. For the iron in these, the temperature would had to have been 932 degrees in that kitchen.</p>
+<p>(Quick flash to: [KITCHEN] The kitchen is on fire and the refrigerator magnets fall off the door. End of flash. Resume to present.)</p>
+<p><strong>Nick</strong>: With the fire starting in the living room, no matter how hard I tried, I couldn't get it that hot in there. It just doesn't make sense.</p>
+<p><strong>Catherine</strong>: Unless the fire didn't start on the living room couch.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<p>[INT. ABERNATHY RESIDENCE -- DAY] </p>
+<p>(NICK removes the ceiling light cover to show the single light melted light bulb inside.) </p>
+<p><strong>Catherine</strong>: An incandescent light bulb will soften at around 900 degrees, and distend in the direction of the original heat source.</p>
+<p>(They turn and look back at the kitchen. They look back at the light bulb.)</p>
+<p><strong>Catherine</strong>: How did we miss that?</p>
+<p><strong>Nick</strong>: (shrugs) Living room was crammed with combustible materials. It received the most damage. It seems like the point of origin.</p>
+<p><strong>Catherine</strong>: Let's dig in.</p>
+<p>(CATHERINE puts the flashlight down and hands NICK a shovel.)</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p>(She takes her own shovel and they both get to work on digging through the rubble on the floor.)</p>
+<p>(As they clear through the dirt, ash, soot and broken glass, they find a word burned into the kitchen floor: BITCH.)</p>
+<p>(NICK and CATHERINE look at each other.)</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - TRACE LAB] </p>
+<p>(The entire portion of the linoleum kitchen floor with the word, BITCH, on it is in the trace lab. DAVID HODGES removes a black burned substance from the word and tests it.) </p>
+<p>CUT TO:<br />
+[INT. CSI - BREAK ROOM] </p>
+<p>(WARRICK and NICK are in the break room working on paperwork.)</p>
+<p><strong>Catherine</strong>: (o.s.) Do you fondue?</p>
+<p>(CATHERINE hands the trace test results test to WARRICK.)</p>
+<p><strong>Catherine</strong>: The accelerant was ethanol, methanol and petroleum jelly. Chafing dish fuel, like sterno.</p>
+<p>(Quick flash to: [KITCHEN] Someone paints the letters on the floor. The word is on fire. The entire kitchen burns. End of flash. Resume to present.)</p>
+<p>(CATHERINE opens the fridge and looks inside.)</p>
+<p><strong>Catherine</strong>: So it has gone from intentional to accidental to personal. Who have we got?</p>
+<p>(She takes out a water and heads back to take a seat at the table.)</p>
+<p>(WARRICK whips out the photo of VIVA CHARLES.)</p>
+<p><strong>Warrick</strong>: Nick's girlfriend.</p>
+<p>(NICK laughs.)</p>
+<p><strong>Catherine</strong>: She's got no personal connection to the family.</p>
+<p><strong>Nick</strong>: Well, Rick Chilson did call Sabrina a bitch when we were talking.</p>
+<p><strong>Catherine</strong>: Charming.</p>
+<p><strong>Nick</strong>: Yeah, he's an ass, but his alibi checks out. Surveillance at the Mirage has him playing poker the night of the fire.</p>
+<p><strong>Catherine</strong>: What about Cody?</p>
+<p><strong>Nick</strong>: He was right there with him. But I don't think that kid takes a breath without daddy's nod of approval.</p>
+<p><strong>Catherine</strong>: What about suspects within the house?</p>
+<p><strong>Warrick</strong>: Well, who's there? Grandma? I mean aside from being on lockdown, she's arthritic. I don't see her writing on the floor. What about Jessica?</p>
+<p><strong>Catherine</strong>: She seems more frustrated than desperate. Frustration shows you still care.</p>
+<p><strong>Nick</strong>: And the son, Sam?</p>
+<p><strong>Catherine</strong>: I don't think so. &quot;Bitch.&quot; It's such a teenage girl word. </p>
+<p><strong>Warrick</strong>: That brings us back to Sabrina.</p>
+<p><strong>Nick</strong>: Well, she did think the baseball team had it in for her. Her family life was no picnic.</p>
+<p><strong>Warrick</strong>: What are you saying, she's on a kamikaze mission? Trying to take the whole family down with her?</p>
+<p><strong>Catherine</strong>: I might be willing to buy that, but how do we prove it?</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(SARA has a box of the LOGOS game out on the table. She uses ADAM BRENNER'S notes to reconstruct the game. On the table next to her is a list of the 2004<br />
+PLAYER MATCHING.) </p>
+<p>14-APR-04<br />
+ALAN DERSHON VS. RAY ADAMS<br />
+REGGIE LENSEN VS. LOUIE RAYCOMB<br />
+GEORGE HANSEN VS. RICK WESTEL<br />
+ROBERT TRIGGS VS. PAUL BYERS<br />
+HENRY CROSSER VS. BOB GOOD<br />
+KURT HESTEGARD VS. LANCE BOTHEL<br />
+LESTER RINEHART VS. RON HENRY<br />
+VAN HOSKINS VS. BILL JONES<br />
+PETER HINES VS. JOSEPH HICKS<br />
+DOUG HESTE VS. BURT KLEIN<br />
+ADAM BURROWS VS. WILSON JANEK<br />
+WILLIAM LEWIS VS. ADAM WESTEL<br />
+TOM CESTER VS. DANNY RIGGS<br />
+DARREL WALTERS VS. PACO WESCOTT<br />
+LES MOONVES VS. CHRIS CARDAMO-<br />
+SCOTT WENDOVER VS. PETER BOSCO<br />
+AVERY PIERCE VS. JOE DICAPRIO<br />
+TED BUNDY VS. FRANK LEWIS<br />
+DAN O'MALLY VS. LOUIS -<br />
+etc. </p>
+<p>(SARA reconstructs the game. She studies ADAM BRENNER'S word list notes.)</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB] </p>
+<p>(SARA shares her findings with GRISSOM. On the overhead projector, she has ADAM BRENNER'S word list up on the wall.) </p>
+<p><strong>Sara</strong>: Adam Brenner was a meticulous note-taker. He documented every turn of every game he ever played.</p>
+<p><strong>Grissom</strong>: How many words used the letters we found in Adam's body?</p>
+<p><strong>Sara</strong>: None, actually, at least none with that exact combination. But here's the weird part. One the games didn't add up. </p>
+<p>(SARA puts the word list and a photo of CRAIG up on the overhead.)</p>
+<p><strong>Sara</strong>: When Adam played Craig, he had 60 points written down that I couldn't account for. And on that same page of his notebook, I noticed that something had been erased. </p>
+<p>(She points to the word: RESIFT (3).)</p>
+<p><strong>Sara</strong>: So I ran it through ESDA. Adam played &quot;exvin.&quot; Everything but the &quot;S,&quot;<br />
+60 points.</p>
+<p><strong>Grissom</strong>: What's an &quot;exvin&quot;?</p>
+<p><strong>Sara</strong>: You know, I was kind of hoping you'd know. It's not in the OED.</p>
+<p><strong>Grissom</strong>: Well, according to the rules, if you play a bluff and your opponent challenges, you have to take the tiles back, you lose a turn and a minute off your game clock. No points.</p>
+<p><strong>Sara</strong>: Right, and later in that same game, Craig played an &quot;X.&quot; Loxodrome. Now there's only one &quot;X&quot; per game. How did he get it?</p>
+<p>CUT TO:<br />
+[INT. CRAIG'S HOTEL ROOM] </p>
+<p>(SARA goes through CRAIG'S LOGOS set.) </p>
+<p><strong>Craig</strong>: What are you looking for?</p>
+<p><strong>Sara</strong>: A six-letter word.</p>
+<p>(GRISSOM goes through CRAIG'S things and finds a gun. He picks it up and holds it up.)</p>
+<p><strong>Grissom</strong>: P-I-S-T-O-L? It's not the word we were looking for, but it's interesting.</p>
+<p>(Near the tip of the gun, GRISSOM sees some dried blood.)</p>
+<p><strong>Grissom</strong>: It's got blood on it.</p>
+<p><strong>Craig</strong>: It's a replica. I belong to a communist club. We collect replicas from the fall of the soviet union. And I found that tokarev downtown at a pawn shop.</p>
+<p><strong>Grissom</strong>: Hmm. A fake gun for a fake word?</p>
+<p>(Quick flashback to: [TOURNAMENT] ADAM BRENNER plays a word: EXVIN. He stops the clock.)</p>
+<p><strong>Craig</strong>: Exvin?</p>
+<p><strong>Adam Brenner</strong>: A wine afficionado who no longer drinks. Exvin.</p>
+<p>(CRAIG adds an S to the word. He smiles.)</p>
+<p><strong>Craig</strong>: Exvin-S.</p>
+<p>(ADAM BRENNER immediately raises his hand.)</p>
+<p><strong>Adam Brenner</strong>: Challenge!</p>
+<p>(Realizing that he's been set-up, CRAIG glares at ADAM.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: There are six letters missing from your game box. E-X-V I-N-S. You made Adam eat his word.</p>
+<p>(Quick flashback to: [BATHROOM] ADAM flushes the toilet and turns around. CRAIG walks up to him and hits him in the mouth.)</p>
+<p><strong>Craig</strong>: Yeah, huh? You think you're so clever? I'll let you have some Exvins for dinner.</p>
+<p>(He shoves the gun into his stomach and forces the letter pieces down his throat.)</p>
+<p><strong>Craig</strong>: Here. Huh!</p>
+<p>(He continues to shove the letters down his throat. Then ADAM chokes.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Craig</strong>: I just wanted to make it as hard for him to swallow as it was for me. Karmic retribution.</p>
+<p><strong>Sara</strong>: Did you do anything to help him after he started choking?</p>
+<p><strong>Craig</strong>: No. I thought it was another fake-out.</p>
+<p><strong>Grissom</strong>: How about after he fell down on the floor and stopped breathing?<br />
+(CRAIG says nothing.) Out of words?</p>
+<p>CUT TO:<br />
+[INT. ABERNATHY RESIDENCE - KITCHEN -- DAY] </p>
+<p>(CATHERINE and WARRICK are back at the house. They each have an ALS and are looking through the house.) </p>
+<p><strong>Catherine</strong>: This is old school hydrocarbon detection.</p>
+<p><strong>Warrick</strong>: Oh, yeah.</p>
+<p><strong>Catherine</strong>: Chafing dish fuel is alcohol-based, but water would have washed away any trace.</p>
+<p><strong>Warrick</strong>: Let's just hope that whomever wrote it touched something else.</p>
+<p><strong>Catherine</strong>: Well, it's the only shot we've got, I guess.</p>
+<p>(They find something on the bedroom door knob.)</p>
+<p><strong>Catherine</strong>: Hmm. Take a look at this.</p>
+<p><strong>Warrick</strong>: Well, that's good shooting.</p>
+<p>(CATHERINE opens the bedroom door and walks into SAM'S room.)</p>
+<p>(They use the ALS inside the bedroom and find something in the trash.) </p>
+<p><strong>Catherine</strong>: Oh. (She looks at WARRICK.) Hit the jackpot.</p>
+<p><strong>Warrick</strong>: I've got some smudges over here, too.</p>
+<p>(He shines the light on the bed. Hidden under the mattress, they find dozens of matchbooks and a plastic lizard.)</p>
+<p><strong>Catherine</strong>: Mom was locking the wrong door.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(JESSICA talks with her son.) </p>
+<p><strong>Jessica Abernathy</strong>: They're going to ask you some questions about the fire at our house. And you'd better start talking, mister.</p>
+<p>(CATHERINE opens the door and calls JESSICA out of the room.)</p>
+<p><strong>Catherine</strong>: Mrs. Abernathy, would you come with me, please?</p>
+<p>(JESSICA ABERNATHY stands up and leaves SAM. The door closes behind her.)</p>
+<p>(The door opens and WARRICK enters the room carrying a file folder and a mug. He sits at the table opposite SAM.)</p>
+<p><strong>Warrick</strong>: Hey, Sam. </p>
+<p>(WARRICK puts the mug down on the table in front of SAM. He opens the file folder.)</p>
+<p><strong>Warrick</strong>: You okay?</p>
+<p>(SAM stares at WARRICK.)</p>
+<p>(WARRICK reaches into his jacket pocket and takes out a box of matches.)</p>
+<p><strong>Warrick</strong>: So tell me, what kind of things you like to do on the weekends?</p>
+<p>(WARRICK empties the box of matches onto the table in front of SAM.)</p>
+<p><strong>Sam Abernathy</strong>: Watch tv, hang out, play.</p>
+<p>(WARRICK lights a match and holds it up in front of SAM.)</p>
+<p><strong>Warrick</strong>: Like to play with matches?</p>
+<p><strong>Sam Abernathy</strong>: Sometimes.</p>
+<p><strong>Warrick</strong>: Why is that?</p>
+<p><strong>Sam Abernathy</strong>: Fire is cool.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>(WARRICK throws the match into the mug of water, extinguishing it.)</p>
+<p>(SAM looks expectantly at WARRICK. WARRICK nods. SAM picks up the box of matches. He picks up a match and lights it. He puts it out in the mug of water.)</p>
+<p><strong>Warrick</strong>: You ever have trouble sleeping at night?</p>
+<p><strong>Sam Abernathy</strong>: Only when I got woken up.</p>
+<p>(SAM picks up and lights another match.)</p>
+<p><strong>Warrick</strong>: Is that what happened Saturday?</p>
+<p>(SAM nods.)</p>
+<p>(Quick flashback to: [BEDROOM] SABRINA knocks on the back door. SAM looks outside.)</p>
+<p><strong>Sabrina Abernathy</strong>: I lost my key. Let me in.</p>
+<p>(SAM opens the back door for SABRINA.)</p>
+<p><strong>Sabrina Abernathy</strong>: Thanks, dude.</p>
+<p>(She walks into the room. SAM shuts the door behind her.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(SAM strikes another match and puts it out in the mug.)</p>
+<p><strong>Warrick</strong>: Couldn't go back to bed?</p>
+<p><strong>Sam Abernathy</strong>: I got a little bit hungry.</p>
+<p>(Quick flashback: [KITCHEN] SAM looks through the cupboards and takes out a box of something. In the back of the same shelf is the CHAFING DISH FUEL in a small container.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: What'd you find?</p>
+<p><strong>Sam Abernathy</strong>: Purple jelly.</p>
+<p><strong>Warrick</strong>: Purple jelly?</p>
+<p>(SAM strikes another match and puts it out in the mug.)</p>
+<p><strong>Warrick</strong>: Did you eat it?</p>
+<p><strong>Sam Abernathy</strong>: No. Mom uses it for the chocolate pot on our birthdays.</p>
+<p><strong>Warrick</strong>: That sounds like fun.</p>
+<p><strong>Sam Abernathy</strong>: Yeah ... except stupid grandma isn't allowed to have chocolate, so we couldn't do it this year.</p>
+<p><strong>Warrick</strong>: Oh ... that must've made you mad.</p>
+<p><strong>Sam Abernathy</strong>: Ever since grandma moved in, we can't do anything fun.</p>
+<p><strong>Warrick</strong>: So, what happened next?</p>
+<p><strong>Sam Abernathy</strong>: I played for a while.</p>
+<p>(Quick flashback to: [KITCHEN] SAM takes a handful of the fuel and writes on the kitchen floor: BITCH.)</p>
+<p>(He lights a match and sets the word on fire. SAM gets up and leaves.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: Then what?</p>
+<p><strong>Sam Abernathy</strong>: I went to bed ... (SAM perks up) ... and then the firemen came and rescued us.</p>
+<p><strong>Warrick</strong>: You like when the firemen come?</p>
+<p><strong>Sam Abernathy</strong>: (excited) Yeah. They're so nice. They talked to me and showed me all their cool stuff. This one named George -- he said maybe someday I can meet his dog.</p>
+<p><strong>Warrick</strong>: You know, Sam ... that word that you wrote on the floor ... </p>
+<p>[OBSERVATION ROOM]</p>
+<p>(JESSICA listens and cries.)</p>
+<p><strong>Warrick</strong>: you know, that's a really bad word.</p>
+<p><strong>Sam Abernathy</strong>: I hear it all the time. My grandma says it. </p>
+<p>(In the interview room, SAM strikes a match and puts it out in the mug.) </p>
+<p><strong>Sam Abernathy</strong>: My mom says it. </p>
+<p>(SAM strikes another match and puts it out in the mug.) </p>
+<p><strong>Sam Abernathy</strong>: And my sister says it. </p>
+<p>(He strikes another match.)</p>
+<p><strong>Sam Abernathy</strong>: Well... she used to say it.</p>
+<p>(He blows the match out and watches the smoke rise up from the burned match. He drops it into the mug.)</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
- 
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-Fireman: Go pull a line towards the garage.
-
-(Two firemen assist MARTHA JAMES and JESSICA ABERNATHY out of the house.
-Jessica Abernathy: Sam?
-Fireman:  Knock it down.
-Jessica Abernathy:  Sam? Where is Sam?
-Fireman: You're going to be all right.
-
-Jessica Abernathy: What about Sam?! Sam!
-Fireman: I'm going to need you to stay right here, ma'am.
-Jessica Abernathy: Sam. Where is he? Where is...?
-
-Fireman: Hey, I got one more!
-
-Fireman: Here you go, pal. You stay right here with your mom.
-
-Fireman: Ma'am, is there anybody else in there?
-Jessica Abernathy: No.
-
-
-
-Catherine: Hey.
-
-Nick: What's with the 911 page? Fire's not even out yet.
-Warrick: Jack's an arson investigator. We were here on this same street ten days ago. 
-Jack: Garage fire a few houses down. Deemed intentional.
-Catherine: So you think it's a serial?
-Warrick: I don't know, but I'm keeping my eyes peeled. Maybe they came back to take a look.
-Fireman:  We got another one. 
-
-Fireman: Got another one.
-
-Jessica Abernathy: Sabrina?
-Fireman: We need a paramedic right now. She's not breathing.
-
-Jessica Abernathy: Sabrina, what are you doing here? You weren't supposed to be here. Sabrina?
-
-Jessica Abernathy:  Please help me. Please.
-Catherine: I think our arsonist just turned into a murderer.
-
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-FADE IN
- 
-
-Jessica Abernathy: She wasn't even burned.
-Catherine: Smoke inhalation happens really fast. I'm so sorry. I heard you say she wasn't supposed to be home tonight. Was she with her dad?
-Jessica Abernathy: My husband died five years ago in a car accident. She ... was at her friend Molly's house for a sleep-over. At least she was when I went to bed.
-Catherine: What time was that?
-Jessica Abernathy: I don't know, 11:00, 11:30.
-Catherine: Mrs. Abernathy, do you have any idea what may have caused the fire?
-Jessica Abernathy: I go to bed, I make sure the lights are off, lock the doors.
-Catherine: Do you know anyone who might want to set fire to your home?
-Jessica Abernathy: I go to work. I take care of my kids and my mother, and that's my life.
-
-
- 
-Nick: Thanks a lot.
-
-Nick: Okay, folks, any information you feel like you may have...
-
-Martha James: How am I going to get my fosamax?
-Nick: Oh, well, I'll make sure you have your medications by breakfast, okay? You're going to be all right. Everything's okay.
-
-Nick: This man will take care of you, okay? 
- 
- 
-Sam Abernathy: What does that one do?
-Fireman: That one? That turns on the siren, so we can get to places really fast. 
-Sam Abernathy: To help people burning inside?
-Fireman: That's right.
-Sam Abernathy: But not my sister.
-Fireman: Yeah.  I'm sorry, buddy. 
-Sam Abernathy: It's okay.
-
-
-
- 
- 
-Brass: So the morning cleaning crew found him. No ID, but this was in his pocket.
-
-Sara: Looks like some kind of code.
-
-Grissom: &quot;735&quot;?
-Brass: His goal weight?  I'm going to talk to housekeeping.
-
-
-Grissom: That's a nasty head wound.
-Sara: It's always reassuring to see an empty soap dispenser in a public bathroom.
-
-Sara: So I'm thinking this is how the vic got his head smashed in.
-
-
-
-
-Sara: Thank you.
-
-
-Grissom: It's common to find something in blood. Uncommon to find something on blood.
-
-Grissom: Petechial hemorrhaging. Asphyxia.
-Sara: Head bashed in and asphyxiated. No soap was the least of his problems.
-
-
-
-Jack :  The smoke detectors' batteries are all dead. 
- 
- 
-Jack : Sabrina's was the only bedroom that sustained any fire damage at all.
-Catherine: Her mother thought that she wasn't home.
-
-Catherine: But she wasn't asleep.
-Jack : Not in her bed.
-
-
-
-Warrick: That would explain why the firemen didn't find her right away.
-
-Jack : But it doesn't explain what she was doing down there.
-Catherine: If you can explain the behavior of teenagers, more power to you.
-
-
-Jack : Adhesive they use to put this stuff down is highly flammable. Crack in the linoleum, the fire will just seek it out and go for it.
-
-
-Warrick:  This door's unlocked.
-Jack : The firemen said they only used one point of entry and exit: The front door.
-Catherine: Mrs. Abernathy said that she locked all the doors before bed.
-Warrick: Well, this could be how Sabrina got in. Comes home late, forgets to lock the door behind her. It's an opportunity waiting to happen.
-Jack : Let's check out the living room.
-
-
-Jack : A few cheap, wood panel walls. Polyester curtains, couple of fake plants. All highly flammable.
-
-Catherine: Plus ... a bar full of liquid fire with a low flash point.
-
-Jack : Coffee table.
-
-Catherine: Couch?
-Jack : At some point, I think this was a couch.
-Catherine: This looks like a liquid pour pattern. High-intensity burn. You think this could be the point of origin?
-
-Jack : I think this is the area of heaviest damage. The fire spread up and out towards the kitchen.
-
-
-
-
-
-
-
-Catherine: How'd you do?
-
-Warrick: Uh, couple of weak partials. What you got, partner?
-Nick: Newspapers. I found them in the carport.
-Catherine: That's on the other side of the house.
-Nick: Yeah, it's kind of weird. Completely out of the path of the fire and the firemen said they didn't put them there.
-Warrick: You know the fire down the street was in the garage.
-Nick: Well, maybe he started in the carport, Sabrina came home, provided access to the inside of the house.
-Catherine: Did they find an accelerant at the first scene?
-Warrick: Lighter fluid from the garage.
-Catherine: So maybe part of the M.O. is that he uses accelerants that are present.
-Nick: Let's hope he stuck around long enough to witness the damage.
-
- 
- 
-Warrick: This is home video from the first fire.
-Nick: It looks like everybody's neighbor.
-Warrick: Well, they say arsonists often commit crimes where they feel most familiar. The last fire was set during the day in the garage when the family was out of town.
-Nick: A neighbor would know when people were out of town.
-Warrick: Or when the door was left unlocked.
-Nick: If this is a serial situation, to go from an empty garage to a whole house full of people, we're talking about a major escalation here.
-Warrick: Well, a match was found at the first fire. If we could find a match in the debris of the second fire, then we may know for sure.
-
-Nick: Oh, she looks familiar. Hang on. I may have something.
-
-Nick: She was at both fires. I got her name off the canvas.
-Warrick: Let's run her.
-Nick: Yeah.
-(NICK does a name check and finds something. She is:
-Name: VIVA CHARLES
-Address: 22 SUTTER STREET
-LAS VEGAS, NV
-s*x: FEMALE
-Criminal Records: ATTEMPTED ARSON
-MARCH 03, 2000
-Nick: She has a record.
-
- 
- 
-Nick: You were arrested for attempted arson?
-Viva Charles: I was exonerated.
-Nick: I have you on film at both fires on cell crook road.
-Viva Charles: I am not an arsonist.
-Nick: That's not what your file says.
-Viva Charles: The law doesn't make much of a distinction between arsonists and pyromaniacs.
-Nick: What is the distinction?
-Viva Charles: I don't set fires for money or with the intent to cause damage.
-Nick: But you do set fires?
-Viva Charles: Mmm. You go home at night, and you feel a little lonely, you put in a racy video.
-Nick: No, no, no. We're not talking about me.
-Viva Charles: I go home, I rip open my junk mail, and I put it in the fireplace. It's an impulse control disorder ... but it's private. I don't burn down houses and kill children.
-Nick: Maybe not on purpose, but accidents do happen.
-
-
-
-
- 
-
- 
-Greg: You rang?
-Nick: Yeah. Greg, how'd you like to be listed as an assist on an arson case?
-Greg: Is that a rhetorical question?
-Nick: Cool. I collected these matchbooks from the pyromaniac's house, who was ... kind of hot, actually.
-Greg: Really? You dig chicks who dig fire?
-
-Nick: Yeah. This, uh ... this match was used to start a garage fire a couple of weeks ago. See if you can find a match to ...  ... one of those. Thanks, pal.
-
-
- 
- 
-Robbins: All right, David. The three most common ways to asphyxiate: Strangulation, suffocation and...
-David Phillips: Choking.
-Robbins: Good.
-David Phillips: With this guy, my money's on choking.
-
-Robbins: Scissors.
-
-Robbins: Hold this please. Thank you, David.
-
-Robbins: Hmm.
-
- 
- 
-Grissom: An &quot;S&quot;?
-Robbins: Cause of death.
-
-Robbins:  I found it in the trachea.
-
-Grissom: So, he swallows a tile and tries to give himself a Heimlich?
-
-
-Robbins: Or not. I found these in his stomach.
-
-Robbins: You don't swallow six of them by accident.
-
- 
- 
-
-[INT. CSI - GARAGE -- DAY
-
-Greg: Your hottie's matchbook collection came up dead.
-Nick: Hmm. Doesn't mean she didn't do it.
-Greg: True.
-Nick: You know, arson's usually a property crime. Did you ever find out the Abernathys' financial situation, Warrick?
-Warrick: According to Catherine, Jessica Abernathy had major credit card debt but minimal insurance-not even enough to cover what she had. Besides, people tend to remove mementos when they know what's coming.
-
-Greg: So, if the pyro didn't do it for love, and Mrs. A didn't do it for money, who's left?
-
-Nick: Maybe the high school baseball team.
-
-Nick: McKinley High School Gazette.
-Nick: This is tomorrow's edition with the lead story by editor-in-chief Sabrina Abernathy, entitled &quot;Varsity Hazing Ritual.&quot; Now listen to this ... &quot;The question is not whether the so-called student athletes should be expelled, but whether or not they should be arrested.&quot;
-(The article continues:
-&quot;This latest case of Varsity hazing is having serious repercussions not only with the school, but across the entire state. The students concerned may face serious charges including involvement with prostitution. &quot;Every four years we get a new set of students that ready to 'one-up' the previous groups ... &quot;)
-
-Warrick: Why, what'd they do?
-Nick: Apparently, something with several hookers and a lot of testosterone.
-Greg: Whatever happened to toilet paper and trees?
-
- 
- 
-
-Sara: Hey. DNA came back. Blood from the bathroom floor's a match to the vic. Blood from the bathroom mirror is not.
-Grissom: That's interesting.
-Sara: Hmm.  What are you doing?
-Grissom: Anagrams.
-Sara: You think the letters might be a message from the killer?
-(GRISSOM continues to write down possibles on his list:
-VEXINS
-VENIXS
-VEXISN
-NEIS ... )
-Sara:  Six letters. What is that? That's 720 possible combinations, not all of them words, of course. 
-
-Sara: Hmm. You, uh, missed one.
- 
-
-Brass: Hey. We got an ID. Off your DB's prints. His name is Adam Brenner.
-Sara: That guy has a record?
-Brass: Well, sort of. He's a civil servant. He's a postal worker from Orlando.
-Grissom: Do we know why he came to Vegas?
-Brass:  Oh, you're going to love this.
-
- 
- 
-
-Organizer: Adam Brenner was one of our top division one players. Ranked in the high 1,800s.
-Grissom: Is that like the elo system in chess?
-Organizer: Logos has all the skill of chess combined with the cruel whimsy of fate. Adam once set a tournament record by scoring 735 points in a single game.
-Sara: It was on his t-shirt.
-Organizer: Justifiably. It's an incredible achievement.
-Brass: So, how did the other players feel about that kind of smack-down?
-Organizer: You actually suggesting that somebody here killed Adam?
-
-Brass: Cruel whimsy of fate. Guy's from out of town, takes a cab from ..., checks into the hotel. The only thing on his hotel bill is four meals a day. No phone calls. So everybody he talked to is in this room. We're going to need a list of his opponents.
-
- 
- 
-Rick Chilson: What's with the cop?
-Nick: We're just talking.
-Rick Chilson: Ah, about what?
-Nick:  Sabrina Abernathy died in her home in a fire on Saturday night.
-
-Rick Chilson: Hey! What'd I tell you -- you don't waste a good pitch!
-Nick: Cody, where were you around 1:00 A.M. on Saturday?
-Cody Chilson: In bed.
-Rick Chilson: Cody's in bed every night at 10:00. He gets up at 5:00 to go running.
-Nick: Except for the nights he's with the team pulling a train on a hooker.
-
-Rick Chilson: Cody, keep hitting.
- 
-Rick Chilson: This is Vegas. Who hasn't been with a hooker?
-Nick: Well, most high school seniors who are being scouted by division one schools. I don't think an expulsion and an arrest would look too good on a scholarship application.
-Rick Chilson: It's a tradition. Happens every year with every team, and why that little bitch had to scapegoat Cody, I'll never know.
-Nick: How 'bout you, Cody? Do you know?
-
-Rick Chilson: Look, I'm sorry the girl's dead.
-Nick: Yeah, but you're not real sorry the whole mess died with her, are you?
-Rick Chilson: Yeah, but burning the kid's house down? Come on. Give my son a little credit.
-Nick: Thanks for your help.
-
- 
- 
-Wilson Janek:  Hey, hey, hey, no flash drawing. 
-
-Wilson Janek: Challenge. Challenge over here.
-
-Woman: Illegal word-- that's a minute penalty.
-Wilson Janek: Time's up. Game over, baby.  Gabbons? 
-Challenger: Whatever.
-
-Wilson Janek: Like I'm really not going to challenge that.
-
-Grissom: Wilson Janek?
-Wilson Janek: Yeah. Want to try your luck? Step up, baby.
-
-Wilson Janek: And you are?
-Grissom: Gil Grissom. Nice to meet you.
-Wilson Janek: Nice to meet you, Gil Grissom.
-Grissom: So ... 
-
-Grissom: What do you hear about Adam Brenner?
-
-Wilson Janek: Mr. 735? Heard he's dead.
-Grissom: Well, he was alive last night when he beat you.
-Wilson Janek:  Gil ... you think that trash talk's going to break my focus? 
- 
-Wilson Janek: You must be new.
-Grissom: Actually ... I'm from the Las Vegas crime lab. I'm just here to collect your DNA.
-
-Wilson Janek: You're a quick study. But if you think I killed Adam, why don't you go ask Uncle Sam for my DNA? I served my country. Gulf war senior. Memorized word lists for a sanity check. Some guys did ping pong; I did this. I saw enough killing over there. I'm a &quot;make words, not war&quot; kind of guy now.
- 
- 
-Sara: Word on the floor is Adam Brenner really had your number, Craig.
-Craig: The universe ebbs and flows.
-Sara: More ebb than flow in your case. I guess you lost to Adam your last three tournaments in a row?
-Craig's Challenger: 14 points ... times two is 28 plus 10 bonus points for full logos. 38 points.
-
-Sara: At least you're a good sport.
-Craig:  Loss for one is a win for another.
- 
-
-Logos Player: So what if I was the last person to play Adam?
-Brass: You were the last player who saw him alive.
-Logos Player: What are you thinking, that with Adam out of the tournament, I could abscond with the big cash prize?
-
-Brass: You tell me. 
-Logos Player: Oh, first prize here is $2,000. 
-
-Logos Player: Even if I win, the remuneration barely covers my airfare, accommodation and food. No, no, I don't play for the money.
-Brass: You play for the glory.
-Logos Player: You ever attempt a New York Times crossword, Captain? Nah, you probably wouldn't make it past Tuesday. I do Sunday ... in pen.
-
-Brass: I can still spell this.
-
-
- 
- 
-David Hodges: GC/mass spec found no trace of accelerant on the couch residue.
-Catherine: Well, how can that be? It was an obvious liquid pour pattern.
-David Hodges: Well, my dear, this is why you should never pick up the couch left for curbside pickup. 
-
-David Hodges: Polyurethane foam. Outlawed in 1988 due to its highly incendiary nature. You light that crap on fire, it heats up, creates a burning pool of liquid, and acts as its own accelerant.
-
-David Hodges: Disaster waiting to happen.
-Catherine: All it needed was a spark.
-
-
- 
- 
-Catherine: We've got no accelerant. We've got no match. We have no idea what started this fire.
-
-Nick: Maybe this will help. It kind of smells like a menthol.
-
-Catherine: Hmm, looks like a one hundred. Longer the cigarette, longer the filter.
-Nick: Cigarettes are a terrible way to commit arson. Unreliable. They take too long. Possible DNA trace, but ... it just doesn't make any sense.
-Warrick: It makes sense if the fire was unintentional.
-
- 
- 
-
-Jessica Abernathy: I'm sorry about this. Typically, I leave with Sab ... with Sabrina, but ... 
-Catherine: It's fine.
-Martha James: Well, why are we here, exactly?
-Warrick: Well, we think we might have figured out what caused the fire. Ms. Abernathy, does anyone in your house smoke?
-Jessica Abernathy: I don't.
-Martha James: Well, don't look at me. I quit twenty years ago.
-Warrick: Sabrina maybe?
-Jessica Abernathy: I don't think so.
-Catherine: Well, we found a cigarette filter in the remains of your couch. And we need a urine sample from each of you so that we can rule you out for nicotine.
-Jessica Abernathy: My house burned down, and my daughter is dead. And you're asking me to pee into a cup? 
-
-Jessica Abernathy: Sure. Why not?
-
-
-
-;
-
-
-
- 
- 
-
-
- 
- 
-Greg: Everyone except for the little guy was getting high and getting by. The girl's on uppers, mom's on downers, and grandma sucks on the cancer stick.
-Catherine: Ritalin, valium, and grandma's a liar.
-Greg: Pants on fire.
-
-
- 
-
- 
-David Hodges: That's the black trace you found in the blood pool. It's a mix of PVC resin and liquid plasticizer. When heated together, they form a solid elastomer film called plastisol.
-Grissom: What's it used for?
-David Hodges: Mostly Greg Sanders wear. Uh, names, hair band logos, inane sayings, anything that can be put on a t-shirt.
-Grissom: Well, that narrows it down to just about everybody in the tournament.
-
-Sara: Hey, we got a match on the blood from the bathroom mirror.
-
- 
- 
-Logos Player: Look, just 'cause I was there doesn't mean I killed Adam Brenner.
-Brass: Put your hands on the table.
-
-Sara: You know, that's seven years bad luck.
-Brass: More like seven to ten.
-Logos Player: Yeah, I'm not very proud of that.
-Brass: Of what?
-Logos Player: I'm ebullient, you know. I-I feel the wins and the losses. The other night, I lost to a division two blue-hair. But it's not my fault. She was... she was coffee-housing the whole time.
-Sara: I'm sorry? Coffee-housing? 
-Logos Player: You know, yap, yap, p-p-yapping.
-
-Blue-hair Woman: So when I was at the Southern Regionals in Dallas last year, I went to the book depository. Have you ever been there?
-Logos Player: Zip it, lady. I'm trying to make a play here.
-
-Logos Player: I never should have lost that one.
-
-Logos Player: What, are you an idiot? What, are you stupid? You're so stupid!
-
-
-Brass: What about Adam Brenner? 
-Logos Player: No, he wasn't there.
-Sara: But you lost to him, too.
-Brass: Maybe you took that loss even harder.
-Logos Player: Adam? No way. He's ranked, what, 1,890? It's like getting art lessons from Picasso. I was honored to even be sitting at the same table with him.
-
-
- 
- 
-
-
-
- 
- 
-Warrick: Ma'am, earlier you provided us with a urine sample. We found traces of nicotine in yours.
-Martha James: That's odd because I don't smoke.
-Warrick: Really? Would you mind opening your purse for me?
-
-Martha James: You know what? I do too smoke cigarettes.
- 
-
-Catherine: Mrs. Abernathy, did your daughter have attention deficit disorder?
-Jessica Abernathy: Sabrina? No. That girl had the focus like you can't believe.
-Catherine: Well, we found Ritalin in her system, and as I'm sure you're aware, ritalin is used to treat kids with ADD, but acts as a stimulant in older kids and adults. Teens use it as an upper.
-Jessica Abernathy: So, Sabrina was taking drugs?
-Catherine: As were you. Valium.
-Jessica Abernathy: Fair enough. You know, Sabrina used to scream at me, &quot;I can't wait till I'm old enough to move out of here.&quot; And I would scream back, &quot;yeah, me either.&quot; What kind of mother says that to her kid?
-Catherine: One with a teenage daughter.
-Jessica Abernathy: You know what I pictured for this part of my life? S ... Saturday night, leave the kids with grandma, date night with my husband. Instead, I'm stuck home alone with two kids and a 70-year-old infant.
-Catherine: Mrs. Abernathy ... are you covering for your mother?
-Jessica Abernathy: Part of me wants to say yes, please just take her away. Let her be the state's problem. You know, she leaves the stove on, and she leaves the water running. I come home, and I find little burn marks in things. But I was with her the whole night. I never saw her smoke.
-Catherine: Maybe after you went to bed, she came out into the living room.
-
-
-Jessica Abernathy: I doubt it.
-Catherine: But it's a possibility?
-Jessica Abernathy: No. It isn't. Miss Willows, you can go ahead and judge me, but after my mother falls asleep at night, I lock her in her room.
-
- 
- 
-Catherine: Any luck?
-Nick: Yeah, the bad kind. My burn scenarios don't match up with your data.
-Catherine: Did you try different variables?
-Nick: Ahah. Open windows, uh, drafts from vents, all of it. Here's the problem.
-
-Nick: Demagnetized.
-Catherine: I'm not following.
-Nick: Okay, the Curie point is the temperature at which all materials lose their magnetic properties, yeah?
-Catherine: Mm-hmm.
-Nick: Okay. For the iron in these, the temperature would had to have been 932 degrees in that kitchen.
-
-Nick: With the fire starting in the living room, no matter how hard I tried, I couldn't get it that hot in there. It just doesn't make sense.
-Catherine: Unless the fire didn't start on the living room couch.
-
-
- 
- 
-Catherine: An incandescent light bulb will soften at around 900 degrees, and distend in the direction of the original heat source.
-
-Catherine: How did we miss that?
-Nick:  Living room was crammed with combustible materials. It received the most damage. It seems like the point of origin.
-Catherine: Let's dig in.
-
-Nick: Yeah.
-
-
-
-
-
-
-
- 
- 
-
- 
-
-Catherine:  Do you fondue?
-
-Catherine: The accelerant was ethanol, methanol and petroleum jelly. Chafing dish fuel, like sterno.
-
-
-Catherine: So it has gone from intentional to accidental to personal. Who have we got?
-
-
-Warrick: Nick's girlfriend.
-
-Catherine: She's got no personal connection to the family.
-Nick: Well, Rick Chilson did call Sabrina a bitch when we were talking.
-Catherine: Charming.
-Nick: Yeah, he's an ass, but his alibi checks out. Surveillance at the Mirage has him playing poker the night of the fire.
-Catherine: What about Cody?
-Nick: He was right there with him. But I don't think that kid takes a breath without daddy's nod of approval.
-Catherine: What about suspects within the house?
-Warrick: Well, who's there? Grandma? I mean aside from being on lockdown, she's arthritic. I don't see her writing on the floor. What about Jessica?
-Catherine: She seems more frustrated than desperate. Frustration shows you still care.
-Nick: And the son, Sam?
-Catherine: I don't think so. &quot;Bitch.&quot; It's such a teenage girl word. 
-Warrick: That brings us back to Sabrina.
-Nick: Well, she did think the baseball team had it in for her. Her family life was no picnic.
-Warrick: What are you saying, she's on a kamikaze mission? Trying to take the whole family down with her?
-Catherine: I might be willing to buy that, but how do we prove it?
-
- 
-(SARA has a box of the LOGOS game out on the table. She uses ADAM BRENNER'S notes to reconstruct the game. On the table next to her is a list of the 2004
-PLAYER MATCHING.) 
-14-APR-04
-ALAN DERSHON VS. RAY ADAMS
-REGGIE LENSEN VS. LOUIE RAYCOMB
-GEORGE HANSEN VS. RICK WESTEL
-ROBERT TRIGGS VS. PAUL BYERS
-HENRY CROSSER VS. BOB GOOD
-KURT HESTEGARD VS. LANCE BOTHEL
-LESTER RINEHART VS. RON HENRY
-VAN HOSKINS VS. BILL JONES
-PETER HINES VS. JOSEPH HICKS
-DOUG HESTE VS. BURT KLEIN
-ADAM BURROWS VS. WILSON JANEK
-WILLIAM LEWIS VS. ADAM WESTEL
-TOM CESTER VS. DANNY RIGGS
-DARREL WALTERS VS. PACO WESCOTT
-LES MOONVES VS. CHRIS CARDAMO-
-SCOTT WENDOVER VS. PETER BOSCO
-AVERY PIERCE VS. JOE DICAPRIO
-TED BUNDY VS. FRANK LEWIS
-DAN O'MALLY VS. LOUIS -
-etc. 
-
-
- 
- 
-Sara: Adam Brenner was a meticulous note-taker. He documented every turn of every game he ever played.
-Grissom: How many words used the letters we found in Adam's body?
-Sara: None, actually, at least none with that exact combination. But here's the weird part. One the games didn't add up. 
-
-Sara: When Adam played Craig, he had 60 points written down that I couldn't account for. And on that same page of his notebook, I noticed that something had been erased. 
-
-Sara: So I ran it through ESDA. Adam played &quot;exvin.&quot; Everything but the &quot;S,&quot;
-60 points.
-Grissom: What's an &quot;exvin&quot;?
-Sara: You know, I was kind of hoping you'd know. It's not in the OED.
-Grissom: Well, according to the rules, if you play a bluff and your opponent challenges, you have to take the tiles back, you lose a turn and a minute off your game clock. No points.
-Sara: Right, and later in that same game, Craig played an &quot;X.&quot; Loxodrome. Now there's only one &quot;X&quot; per game. How did he get it?
-
- 
- 
-Craig: What are you looking for?
-Sara: A six-letter word.
-
-Grissom: P-I-S-T-O-L? It's not the word we were looking for, but it's interesting.
-
-Grissom: It's got blood on it.
-Craig: It's a replica. I belong to a communist club. We collect replicas from the fall of the soviet union. And I found that tokarev downtown at a pawn shop.
-Grissom: Hmm. A fake gun for a fake word?
-
-Craig: Exvin?
-Adam Brenner: A wine afficionado who no longer drinks. Exvin.
-
-Craig: Exvin-S.
-
-Adam Brenner: Challenge!
-
-
-Sara: There are six letters missing from your game box. E-X-V I-N-S. You made Adam eat his word.
-
-Craig: Yeah, huh? You think you're so clever? I'll let you have some Exvins for dinner.
-
-Craig: Here. Huh!
-
-
-Craig: I just wanted to make it as hard for him to swallow as it was for me. Karmic retribution.
-Sara: Did you do anything to help him after he started choking?
-Craig: No. I thought it was another fake-out.
-Grissom: How about after he fell down on the floor and stopped breathing?
- Out of words?
-
- 
- 
-Catherine: This is old school hydrocarbon detection.
-Warrick: Oh, yeah.
-Catherine: Chafing dish fuel is alcohol-based, but water would have washed away any trace.
-Warrick: Let's just hope that whomever wrote it touched something else.
-Catherine: Well, it's the only shot we've got, I guess.
-
-Catherine: Hmm. Take a look at this.
-Warrick: Well, that's good shooting.
-
- 
-Catherine: Oh.  Hit the jackpot.
-Warrick: I've got some smudges over here, too.
-
-Catherine: Mom was locking the wrong door.
-
- 
- 
-Jessica Abernathy: They're going to ask you some questions about the fire at our house. And you'd better start talking, mister.
-
-Catherine: Mrs. Abernathy, would you come with me, please?
-
-
-Warrick: Hey, Sam. 
-
-Warrick: You okay?
-
-
-Warrick: So tell me, what kind of things you like to do on the weekends?
-
-Sam Abernathy: Watch tv, hang out, play.
-
-Warrick: Like to play with matches?
-Sam Abernathy: Sometimes.
-Warrick: Why is that?
-Sam Abernathy: Fire is cool.
-Warrick: Yeah.
-
-
-Warrick: You ever have trouble sleeping at night?
-Sam Abernathy: Only when I got woken up.
-
-Warrick: Is that what happened Saturday?
-
-
-Sabrina Abernathy: I lost my key. Let me in.
-
-Sabrina Abernathy: Thanks, dude.
-
-
-
-Warrick: Couldn't go back to bed?
-Sam Abernathy: I got a little bit hungry.
-
-
-Warrick: What'd you find?
-Sam Abernathy: Purple jelly.
-Warrick: Purple jelly?
-
-Warrick: Did you eat it?
-Sam Abernathy: No. Mom uses it for the chocolate pot on our birthdays.
-Warrick: That sounds like fun.
-Sam Abernathy: Yeah ... except stupid grandma isn't allowed to have chocolate, so we couldn't do it this year.
-Warrick: Oh ... that must've made you mad.
-Sam Abernathy: Ever since grandma moved in, we can't do anything fun.
-Warrick: So, what happened next?
-Sam Abernathy: I played for a while.
-
-
-
-Warrick: Then what?
-Sam Abernathy: I went to bed ...  ... and then the firemen came and rescued us.
-Warrick: You like when the firemen come?
-Sam Abernathy:  Yeah. They're so nice. They talked to me and showed me all their cool stuff. This one named George -- he said maybe someday I can meet his dog.
-Warrick: You know, Sam ... that word that you wrote on the floor ... 
-
-
-Warrick: you know, that's a really bad word.
-Sam Abernathy: I hear it all the time. My grandma says it. 
- 
-Sam Abernathy: My mom says it. 
- 
-Sam Abernathy: And my sister says it. 
-
-Sam Abernathy: Well... she used to say it.
-
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=04x19+-+Bad+Words&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127372%23p127372" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=04x19+-+Bad+Words&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127372%23p127372" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127372%23p127372&amp;name=04x19+-+Bad+Words" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127372%23p127372" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=1699d6844bb40aaac0594f6f06821794">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=1699d6844bb40aaac0594f6f06821794">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=1699d6844bb40aaac0594f6f06821794">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=1699d6844bb40aaac0594f6f06821794">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

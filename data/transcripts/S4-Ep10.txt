@@ -1,785 +1,1017 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- DAY] 
+[EXT. LAS VEGAS COMMUNITY (STOCK) - EVENING]
+[EXT. CONSTRUCTION SITE - EVENING]
+(Camera close" />
+<meta property="og:title" content="04x10 - Coming of Rage - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- DAY] 
+[EXT. LAS VEGAS COMMUNITY (STOCK) - EVENING]
+[EXT. CONSTRUCTION SITE - EVENING]
+(Camera close" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13268" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>04x10 - Coming of Rage - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13268" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13268">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=72bdef6eac419d6752f1e5e4c0d8fc74"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=72bdef6eac419d6752f1e5e4c0d8fc74">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=72bdef6eac419d6752f1e5e4c0d8fc74">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=72bdef6eac419d6752f1e5e4c0d8fc74">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=72bdef6eac419d6752f1e5e4c0d8fc74">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13268&amp;sid=72bdef6eac419d6752f1e5e4c0d8fc74&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>04x10 - Coming of Rage</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127362">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127362">04x10 - Coming of Rage</a></div>
+							<div class="pull-right text-right"><time datetime="2004-01-01T05:37:40Z">01/01/04 05:37</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- DAY] </p>
+<p>[EXT. LAS VEGAS COMMUNITY (STOCK) - EVENING]</p>
+<p>[EXT. CONSTRUCTION SITE - EVENING]</p>
+<p>(Camera close up of a hammer pounding a nail into the board.)</p>
+<p>(Close up of: A circular saw being used to cut a board into two.)</p>
+<p>(Close up of: A tape measure extended to measure the width, then snapping shut.)</p>
+<p>(Close up of: A power drill.)</p>
+<p>(Close up of: A power stapler drilling nails into wood.)</p>
+<p>(The CONSTRUCTION WORKER carries a box into the building frame. He puts a roll of tape on the box and uses his free arm to push away the plastic sheeting as he walks into the section of the house.)</p>
+<p>(He looks up, sees something horrible, then drops the box to the ground.)</p>
+<p>(Camera pulls away to show the dead body, face down on the floor in the center of the room. The CONSTRUCTION WORKER backs out of the room.)</p>
+<p><strong>Construction Worker</strong>: Boss! Boss! </p>
+<p>(In the background, GREGORY CURTWELL steps down from the ladder as he looks at the CONSTRUCTION WORKER.)</p>
+<p><strong>Construction Worker</strong>: We-we got a problem.</p>
+<p>CUT TO:<br />
+[INT. CONSTRUCTION SITE -- DAY] </p>
+<p>(The building frame is taped off with crime scene tape. GRISSOM ducks under the tape and enters the building. In the background, sirens and indistinct radio chatter sound. GRISSOM makes his way to the room.)</p>
+<p>(He enters the room. BRASS is already there, crouched low on the side and looking at the body.)</p>
+<p>(GRISSOM takes his glasses off and looks at the teenager face down, his head in a splatter of blood. He looks around at the walls.)</p>
+<p><strong>Grissom</strong>: Well, clean surfaces make for good analysis.</p>
+<p>(BRASS gets to his feet. In the background we see what they see, the far walls are covered with blood.)</p>
+<p><strong>Brass</strong>: Yeah. Well, that may be the only good thing. I checked for a wallet, no ID. Nothing on him.</p>
+<p>(GRISSOM puts his kit down on the ground.)</p>
+<p><strong>Brass</strong>: The kid looks like a minor. Coroner's investigator says he's been dead for over twelve hours. Happened sometime this weekend.</p>
+<p>(By the camera angle, we see that the kid is in his underwear, his pants down around his knees. GRISSOM kneels down next to the body and sees something in the kid's grip.)</p>
+<p><strong>Brass</strong>: You going to pry that piece of cloth from his hand?</p>
+<p><strong>Grissom</strong>: Not just yet.</p>
+<p><strong>Brass</strong>: Help me out here. Got any ideas on this one?</p>
+<p>(GRISSOM looks around.)</p>
+<p><strong>Grissom</strong>: Well, based on his pants around the knees, I would say a crime of passion.</p>
+<p>(GRISSOM gets to his feet. Camera shows a top view of the room to give us a better image of the entire scene at play. The body lies in the center of the empty room, the kid's head in a large spatter of blood.)</p>
+<p><strong>Grissom</strong>: Given the brutality of it ... seems to me an act of rage.</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. CONSTRUCTION SITE -- DAY] </p>
+<p>(BRASS talks with the CONSTRUCTION SITE FOREMAN. In the background, a black car drives up and parks.) </p>
+<p><strong>Foreman</strong>: You know, I lose an hour a day cleaning up their beer bottles and their cigarette butts.</p>
+<p><strong>Brass</strong>: Kids use it as a hangout, huh?</p>
+<p><strong>Foreman</strong>: Oh, sure. They think the house doesn't have a lock, it belongs to them.</p>
+<p><strong>Brass</strong>: Well, it's a crime scene, so it belongs to us now.</p>
+<p><strong>Foreman</strong>: Yeah. How long?</p>
+<p><strong>Brass</strong>: (sighs) As long as it takes.</p>
+<p>(WARRICK and SARA get out of the car.)</p>
+<p><strong>Foreman</strong>: You know, I got two teenagers at home, and they know how to respect other people's property. Now, who's going to feed them when I don't get paid for today, huh?</p>
+<p><strong>Brass</strong>: Huh? I can't tell you that.</p>
+<p>CUT TO:<br />
+[INT. CONSTRUCTION SITE - ROOM - DAY -- CONTINUOUS] </p>
+<p>(GRISSOM is in the room taking photos when WARRICK and SARA walk in.) </p>
+<p><strong>Grissom</strong>: Take a look at his head, tell me what you see.</p>
+<p>(SARA steps forward to look down at the body. WARRICK is kneeling in front of the body. He takes off his glasses, then reaches out and pushes the shirt collar aside to show the back of the kid's head.)</p>
+<p>(Camera zooms in on the impact marking.)</p>
+<p><strong>Warrick</strong>: Definitely blunt force.</p>
+<p>(SARA recognizes the markings.)</p>
+<p><strong>Sara</strong>: That's a hammerhead.</p>
+<p>(GRISSOM looks at SARA.)</p>
+<p><strong>Grissom</strong>: I thought you might say that. </p>
+<p>(SARA steps back and heads toward the door. She looks back at GRISSOM.)</p>
+<p><strong>Grissom</strong>: Well, we know that people often commit crimes in places they're familiar with.</p>
+<p>(SARA gets it. She turns and heads out the door. She glances out the hallway, then sees that every single construction worker has their own hammer hooked to their utility belt. That's a lot of hammers.)</p>
+<p>(SARA looks back at GRISSOM.)</p>
+<p><strong>Sara</strong>: You got to be kidding me.</p>
+<p>(GRISSOM looks at SARA and doesn't say anything. He turns his attention to the walls. SARA glares at GRISSOM, then heads out to get those hammers.)</p>
+<p>(GRISSOM takes a picture of the blood spatter on the walls.)</p>
+<p><strong>Warrick</strong>: I'll swab the blood and see if it's all his.</p>
+<p>(WARRICK takes a swab of the blood on the floor under the victim's head. He then pushes the victim's jacket aside to reveal a bloody shoe print underneath.)</p>
+<p><strong>Warrick</strong>: Grissom?</p>
+<p>(GRISSOM turns and looks at the shoe print. He looks at WARRICK.)</p>
+<p><strong>Grissom</strong>: Well, that should help.</p>
+<p>[EXT. CONSTRUCTION SITE - DAY - CONTINUOUS]</p>
+<p>(SARA sets up a table to bag and tag the hammers.)</p>
+<p><strong>Construction Worker</strong>: I'll trade you a hammer for a screw.</p>
+<p>(He laughs and turns to glance back at the long line of workers behind him. They also chuckle along with him.)</p>
+<p><strong>Sara</strong>: Name, please.</p>
+<p><strong>Construction Worker</strong>: I'll tell you mine, you tell me yours.</p>
+<p>(SARA doesn't smile.)</p>
+<p><strong>Construction Worker</strong>: Oh, come on, baby. I'm stuck with these ugly fools all day. A pretty girl comes by. Just having a little fun.</p>
+<p><strong>Sara</strong>: Yeah, murder always makes me feel a little randy, too.</p>
+<p><strong>Construction Worker</strong>: Ooh.</p>
+<p>(The CONSTRUCTION WORKER puts his hammer into SARA'S bag.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<p>[EXT. MITCHELL RESIDENCE -- DAY] </p>
+<p>(DAVID PHILLIPS and DET. SAM VEGA stand around the body of a WOMAN face-up on the grass. NICK approaches the scene.) </p>
+<p><strong>Nick</strong>: Fellows.</p>
+<p><strong>David Phillips</strong>: Hey, uh, Mrs. Marlene Mitchell, 32. Apparent gunshot wound to the chest. Entry, no exit. No other apparent injuries.</p>
+<p>(NICK looks at VEGA.)</p>
+<p><strong>Nick</strong>: Do we know who shot her?</p>
+<p><strong>Vega</strong>: I patted down all her friends. Nobody's carrying. Got a couple officers scanning the neighborhood in case the, uh, weapon got tossed. She was breaking up a fight when she went down.</p>
+<p><strong>Nick</strong>: Nobody saw anything? Nobody heard anything?</p>
+<p><strong>Vega</strong>: No.</p>
+<p><strong>Nick</strong>: Somebody's lying.</p>
+<p>(NICK turns back to see a MAN talking with an OFFICER.)</p>
+<p><strong>Nick</strong>: That the husband?</p>
+<p><strong>Vega</strong>: The current one. The other one -- he's the ex.</p>
+<p>(NICK turns to see another man talking with another OFFICER.)</p>
+<p><strong>Nick</strong>: Interesting family reunion. Whose brilliant idea was that?</p>
+<p><strong>Vega</strong>: The Mitchell's were moving in. The ex stopped by to say hi.</p>
+<p><strong>Nick</strong>: Don't you hate it when hello leads to gunfire?</p>
+<p>(VEGA nods.)</p>
+<p><strong>Nick</strong>: I'll need to GSR both.</p>
+<p>(NICK walks over to the husband.)</p>
+<p><strong>Nick</strong>: Sir? I'm going to need to test your hands for GSR.</p>
+<p><strong>Mr. Mitchell</strong>: What's that?</p>
+<p><strong>Nick</strong>: Gunshot residue.</p>
+<p><strong>Mr. Mitchell</strong>: Why?</p>
+<p><strong>Nick</strong>: To rule you out.</p>
+<p><strong>Mr. Mitchell</strong>: You think I shot my wife the day after our honeymoon.</p>
+<p>(NICK doesn't say anything. He continues to test for GSR.)</p>
+<p><strong>Mr. Mitchell</strong>: We were just moving our stuff. Her ex, Todd, shows up. He knows he's not supposed to come within 100 yards of her. But he did.</p>
+<p>(Quick flashback to: MR. MITCHELL and TODD are locked in a fight when MARLENE walks up to them to break it up.)</p>
+<p><strong>Marlene Mitchell</strong>: Stop it! Please?</p>
+<p>(Suddenly, she slumps back and hits the table out on the lawn. MR. MITCHELL turns from TODD to rush over to MARLENE.)</p>
+<p><strong>Mr. Mitchell</strong>: Marlene?</p>
+<p>(She doesn't respond. MR. MITCHELL turns to TODD.)</p>
+<p><strong>Mr. Mitchell</strong>: Call 911.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Mr. Mitchell</strong>: I thought it was a heart attack. Then I saw the blood.</p>
+<p>(NICK finishes the test, then turns to see VEGA talking with TODD, MARLENE'S ex-husband. We hear part of what he's saying.)</p>
+<p><strong>Vega</strong>: Yes, but there was a restraining order against you. Why were you here?</p>
+<p>(NICK turns back to MR. MITCHELL.)</p>
+<p><strong>Nick</strong>: Thank you.</p>
+<p>(NICK steps away.)</p>
+<p>CUT TO:<br />
+[INT. CONSTRUCTION SITE -- DAY] </p>
+<p>(GRISSOM takes the piece of cloth out of the kid's grip.) </p>
+<p>(Cut to: GRISSOM holds the piece of cloth to the dog's nose.)</p>
+<p><strong>K-9 Officer</strong>: Distinguish! </p>
+<p>(The K-9 OFFICER stands next to SARA as they watch GRISSOM prep the dog.)</p>
+<p><strong>K-9 Officer</strong>: (to GRISSOM) You ready to run?</p>
+<p>(GRISSOM points to SARA.)</p>
+<p><strong>Grissom</strong>: She does all my running.</p>
+<p><strong>Sara</strong>: Thanks.</p>
+<p>(The K-9 OFFICERS and SARA head out.)</p>
+<p><strong>K-9 Officer</strong>: Trail!</p>
+<p>DISSOLVE TO:</p>
+<p>[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<p>[INT. - DAY]</p>
+<p>(The OFFICERS and SARA follow PENNY, the dog, through the mall, down the stopped escalator.)</p>
+<p><strong>Sara</strong>: It's a hell of a place to get lost.</p>
+<p><strong>K-9 Officer</strong>: Yeah. We have five million olfactory sensory receptors. Penny's got 220 million. She sees the world differently.</p>
+<p>[PENNY'S POV]</p>
+<p>(Low Camera shot in black and white with a reddish trail through the mall. She pauses at various other colored &quot;smells&quot; indicated by blues and green hues, but it's the reddish trail she's following.)</p>
+<p>[RESUME POV]</p>
+<p>(PENNY stops.)</p>
+<p><strong>K-9 Officer</strong>: The suspect stopped here.</p>
+<p>(PENNY howls and whimpers. She continues.)</p>
+<p>[PENNY'S POV]</p>
+<p>(Low camera shot in black and white with the reddish smell trailing through the mall.)</p>
+<p>(cc) Trail is still strong here.</p>
+<p>(The group continues to follow PENNY.)</p>
+<p>[EXT. BACK ALLEY]</p>
+<p>(The door opens and the small group exits the mall. PENNY howls and leads them to the dumpster.)</p>
+<p><strong>K-9 Officer</strong>: She's got a hit on the dumpster.</p>
+<p>(SARA opens the dumpster lid and takes out an empty drink and tray. She holds it out for PENNY to sniff.)</p>
+<p><strong>K-9 Officer</strong>: She's getting nothing, but penny will pick up on anything they touched.</p>
+<p>(SARA tosses it aside and reaches into the dumpster for the next item. She pulls out two plastic garbage bags.)</p>
+<p>(PENNY howls as she sniffs the abandoned shopping bag.)</p>
+<p><strong>K-9 Officer</strong>: There we go. </p>
+<p>(SARA opens the bag. </p>
+<p><strong>K-9 Officer</strong>: There's something in the silver bag.</p>
+<p>PENNY smells inside. We see by the reddish hue that the smell is inside the bag.)</p>
+<p><strong>Sara</strong>: What do you think? Bought new clothes, ditched the old ones?</p>
+<p>(SARA takes out a sweater from the bag.)</p>
+<p><strong>K-9 Officer</strong>: What's missing from that sweater's what that dead kid had in his hand.</p>
+<p>(SARA stands up.)</p>
+<p><strong>Sara</strong>: So, we're looking for a girl who bought a new outfit ... </p>
+<p>(She looks at the receipts from the bag.)</p>
+<p>Receipt 1 reads:<br />
+STORE: 00225 REGISTER: 002<br />
+<strong>Cashier</strong>: 724567<br />
+W. SHIRT 29.99<br />
+0000000164038 1 @ 29.99<br />
+PANTS 49.99<br />
+0000000638289 1 @ 51.99<br />
+SUBTOTAL 79.98<br />
+TAX 5.32</p>
+<p>Receipt 2 reads:<br />
+6121 002 8215 12/09/03<br />
+SALE 2.2 11<br />
+59255 EARRINGS 27.99<br />
+SUBTOTAL 27.99<br />
+27.99 TAX 6.50% 1.82<br />
+TOTAL 29.81</p>
+<p><strong>Sara</strong>: Some earrings and a latte. (She puts the receipt up against the garbage bin cover.) Oh, an iced cappuccino, actually.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(ROBBINS has the chest cavity open. NICK stands next to the table watching ROBBINS work on the body.) </p>
+<p><strong>Robbins</strong>: Congealed blood in the pericardium. Heart's what took the bullet.</p>
+<p><strong>Nick</strong>: Explains why she just dropped.</p>
+<p><strong>Robbins</strong>: Yeah, she was dead in seconds. (He feels the heart.) Hmm. Bullet's still in the heart.</p>
+<p>(He cuts the heart open.)</p>
+<p><strong>Robbins</strong>: Here we go.</p>
+<p>(He removes the bullet.)</p>
+<p><strong>Robbins</strong>: There.</p>
+<p>(He holds the bullet out for NICK. NICK takes the bullet and looks at it.)</p>
+<p><strong>Nick</strong>: Well, it looks like a nine millimeter. I'll let Vega know.</p>
+<p><strong>Robbins</strong>: Fairly intact. Want to do the honors?</p>
+<p><strong>Nick</strong>: Sure.</p>
+<p>(NICK takes a rod and sticks it into the heart to find the depth of the bullet.)</p>
+<p><strong>Robbins</strong>: That's it.</p>
+<p>(He removes the rod and measures it.)</p>
+<p><strong>Nick</strong>: Four inches? That's shallow. Standard handgun bullet penetration's twelve.</p>
+<p><strong>Robbins</strong>: Right.</p>
+<p><strong>Nick</strong>: Give me a hand, will you?</p>
+<p><strong>Robbins</strong>: Sure.</p>
+<p>(He hands the ruler to ROBBINS who holds it up as NICK measures the angle.)</p>
+<p><strong>Nick</strong>: Eighty-five degree downward angle?</p>
+<p><strong>Robbins</strong>: Well, that's, uh, fairly standard. Most gunshot wounds are ninety degrees, give or take.</p>
+<p>(NICK puts the bloody bullet in the bindle.)</p>
+<p><strong>Nick</strong>: Oh. Thanks, doc.</p>
+<p><strong>Robbins</strong>: Right.</p>
+<p>(NICK turns to leave the room.)</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(WARRICK swabs the hammer heads and tests them for blood. One by one, they turn up negative. He tosses the used swabs to the side and keeps opening up fresh swabs. Finally, he finds the hammer that turns the swab pink.)</p>
+<p>(He looks at the label on the evidence bag.)<br />
+DATE: 12/10/03<br />
+003-44567<br />
+GREGORY CURTWELL<br />
+CONST. SITE<br />
+SS {signature}<br />
+1. HAMMER</p>
+<p>CUT TO:<br />
+[INT. CSI - AUDIO/VISUAL LAB] </p>
+<p>(ARCHIE reviews the dressing room security tapes. The time stamp at the bottom of the screen reads: 07:52:15: ... ) </p>
+<p><strong>Archie Johnson</strong>: They say in America, you're on camera an average of seven times a day. Go to a mall, and you can at least triple that.</p>
+<p>(SARA stands next to ARCHIE watching the video.)</p>
+<p><strong>Sara</strong>: I guess that's good for us. I'm going to think twice the next time I try on a shirt.</p>
+<p><strong>Archie</strong>: Well, legally, they can't put cameras in dressing rooms, but there's legal, and then there's what people do.</p>
+<p><strong>Sara</strong>: Our girl bought her clothes at 8:31. Let's scan the dressing room footage from 8:00 on.</p>
+<p>(ARCHIE sets the video up and starts the tape.)</p>
+<p><strong>Sara</strong>: Hold it. </p>
+<p>(At 08:01:09, SARA sees the GIRL on the table.)</p>
+<p><strong>Sara</strong>: That's our sweater. And that's our girl.</p>
+<p>(ARCHIE speeds the tape up and sees the girl walk out of the store wearing the new clothes.)</p>
+<p><strong>Archie</strong>: She did a walk out.</p>
+<p><strong>Sara</strong>: A &quot;walk out?&quot;</p>
+<p><strong>Archie</strong>: Yeah, my girlfriend does it all the time. She finds something she likes, rips the tags off in the dressing room, hands them to the clerk, and walks out wearing the new stuff.</p>
+<p><strong>Sara</strong>: (smiling) You go shopping with your girlfriend? That's nice.</p>
+<p>(ARCHIE smiles.)</p>
+<p>(He freeze-frames the video to 08:16:08.)</p>
+<p><strong>Archie</strong>: Well, you can get her prints from the receipts. DNA from the sweater. And you've got a face. You're close.</p>
+<p><strong>Sara</strong>: Well, look at her. She's a minor. She paid in cash. She's not going to be in any database. Without a name, we don't have much.</p>
+<p>(WARRICK enters the lab.)</p>
+<p><strong>Warrick</strong>: Okay, one of our hammers had blood on it. It matches the victim's.</p>
+<p><strong>Sara</strong>: Did Greg analyze the clothes from the dumpster yet?</p>
+<p><strong>Warrick</strong>: Yeah. Blood's a match, too.</p>
+<p><strong>Sara</strong>: Okay. So, the question is, what is the connection between this girl and a construction worker?</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(BRASS and WARRICK interview GREGORY CURTWELL, the owner of the hammer.) </p>
+<p><strong>Brass</strong>: Mr. Curtwell, where were you this weekend?</p>
+<p><strong>Gregory Curtwell</strong>: I was fishing in Tahoe.</p>
+<p><strong>Brass</strong>: Catch anything?</p>
+<p><strong>Gregory Curtwell</strong>: No. Nothing was biting.</p>
+<p><strong>Brass</strong>: Anyone go with you?</p>
+<p><strong>Gregory Curtwell</strong>: No.</p>
+<p><strong>Brass</strong>: How long were you gone?</p>
+<p><strong>Gregory Curtwell</strong>: Friday to Sunday. Look, I thought I was just here to pick up my hammer.</p>
+<p><strong>Warrick</strong>: Do you ever leave your tools at the job site?</p>
+<p><strong>Gregory Curtwell</strong>: No way. That hammer -- it's perfectly balanced.</p>
+<p><strong>Brass</strong>: Then how do you explain the blood on it? And your injuries.</p>
+<p>(He looks down at the bruises on his hand.)</p>
+<p><strong>Gregory Curtwell</strong>: Well a construction site. People get hurt.</p>
+<p><strong>Warrick</strong>: The blood that we found on your hammer ... matches this kid right here.</p>
+<p>(WARRICK stands up and takes a photo of the kid out of the file folder in his hand. He puts it on the table in front of GREGORY CURTWELL. He looks at it and sighs.)</p>
+<p><strong>Gregory Curtwell</strong>: Is that the dead kid from the house?</p>
+<p><strong>Warrick</strong>: Yeah. </p>
+<p><strong>Gregory Curtwell</strong>: I never got a look at him. I-I I didn't go inside.</p>
+<p>(He looks down at the photo and then back at WARRICK and BRASS.)</p>
+<p><strong>Warrick</strong>: What about her?</p>
+<p><strong>Gregory Curtwell</strong>: That's my kid sister, Ashley. Why? What's she got to do with it?</p>
+<p><strong>Brass</strong>: You tell us.</p>
+<p>(GREGORY looks at BRASS.)</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(SARA interviews ASHLEY CURTWELL.) </p>
+<p><strong>Ashley Curtwell</strong>: My parents died in a car accident four years ago.</p>
+<p><strong>Sara</strong>: I'm very sorry. Your brother Gregory is your guardian, right?</p>
+<p><strong>Ashley Curtwell</strong>: Yeah.</p>
+<p><strong>Sara</strong>: And he left you alone all weekend?</p>
+<p><strong>Ashley Curtwell</strong>: He goes away a lot.</p>
+<p><strong>Sara</strong>: Okay. Why don't you tell me what happened last night?</p>
+<p>[OBSERVATION ROOM]</p>
+<p>(WARRICK and BRASS watch the interview.)</p>
+<p><strong>Ashley Curtwell</strong>: (over speaker) I was on my way to the mall to get something to eat. I always cut through the construction site.</p>
+<p>[INTERVIEW ROOM]</p>
+<p><strong>Ashley Curtwell</strong>: My brother tells me not to, but it saves me, like, ten minutes.</p>
+<p><strong>Sara</strong>: That makes sense. What happened after that?</p>
+<p><strong>Ashley Curtwell</strong>: Well, this guy from school, Brian, comes out of nowhere.</p>
+<p><strong>Sara</strong>: Do you know Brian's last name?</p>
+<p><strong>Ashley Curtwell</strong>: (shuddering breath) Yeah. It's, um ... Haddick. We were in homeroom together freshman year. </p>
+<p>(SARA sees that ASHLEY'S hands are fidgeting nervously with her sweater sleeves.)</p>
+<p><strong>Ashley Curtwell</strong>: So, anyway, he says his cat ran away ... and will I help him find it.</p>
+<p><strong>Sara</strong>: And you did?</p>
+<p>(ASHLEY looks down and cries softly.)</p>
+<p><strong>Ashley Curtwell</strong>: A cat. I'm so stupid.</p>
+<p><strong>Sara</strong>: You're not stupid, Ashley. I know this is hard.</p>
+<p>(Tears fall down ASHLEY'S cheeks.)</p>
+<p><strong>Sara</strong>: If we could just go over it from start to finish just one time.</p>
+<p><strong>Ashley Curtwell</strong>: So, we walked into the house ...</p>
+<p>(She starts to cry.)</p>
+<p>(Quick flashback to: [CONSTRUCTION SITE - HOUSE - NIGHT] BRIAN HADDICK leads ASHLEY into the house.)</p>
+<p><strong>Brian Haddick</strong>: Come on. Hurry up.</p>
+<p>(They both walk through the house.)</p>
+<p><strong>Brian Haddick</strong>: I think I saw him come in here.</p>
+<p>(He leads her into the empty room.)</p>
+<p><strong>Ashley Curtwell</strong>: What color is he?</p>
+<p><strong>Brian Haddick</strong>: Gray.</p>
+<p><strong>Ashley Curtwell</strong>: Here, kitty, kitty.</p>
+<p>(With her back to him, he grabs her and pushes her up against the wall.)</p>
+<p><strong>Brian Haddick</strong>: You're going to like it, you dirty bitch. You're going to like it.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(SARA glances and sees the bruises around ASHLEY'S right wrist.)</p>
+<p><strong>Ashley Curtwell</strong>: It was like the more I shouted, the more he liked it.</p>
+<p>(Quick flash to: BRIAN holds ASHLEY up against the wall as she struggles. End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: (swallows) Rape is not about s*x. It's about violence.</p>
+<p>(ASHLEY tugs her sweater sleeves down over her bruised wrists.)</p>
+<p><strong>Sara</strong>: You were against the wall.</p>
+<p>(Quick flashback to: BRIAN HADDICK has ASHLEY pressed up against the wall.)</p>
+<p><strong>Ashley Curtwell</strong>: No!</p>
+<p>(As she struggles and cries, someone comes up behind BRIAN HADDICK and hits him over the head. BRIAN falls to the ground and ASHLEY runs out of the place.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: Did you see who hit Brian?</p>
+<p>(From the Observation Room, WARRICK watches.)</p>
+<p><strong>Sara</strong>: Ashley, after all that had happened, you went shopping?</p>
+<p><strong>Ashley Curtwell</strong>: (crying) He was all over me. I just had to get him off me.</p>
+<p><strong>Sara</strong>: And you got some coffee and some earrings.</p>
+<p><strong>Ashley Curtwell</strong>: What? I bought that stuff? All I remember is getting new clothes and going home. Why does all this bad stuff keep happening to my family?</p>
+<p>[OBSERVATION ROOM]</p>
+<p>(BRASS watches.)</p>
+<p><strong>Brass</strong>: She's covering for her brother.</p>
+<p>(BRASS turns to look at WARRICK.)</p>
+<p><strong>Warrick</strong>: He's got a non-confirmable alibi. I'm sure she doesn't want to lose the only guardian she's got.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - FORENSIC AUTOPSY - DAY]</p>
+<p>(ROBBINS goes over the preliminary findings with GRISSOM.)</p>
+<p><strong>Robbins</strong>: It's pretty obvious the initial blows were to the head.</p>
+<p><strong>Grissom</strong>: Well, according to Sara, that's consistent with the girl's story.</p>
+<p><strong>Robbins</strong>: Whoever attacked him just kept going. Used some real force. Severed his spinal cord at C-l, C-2.</p>
+<p>(ROBBINS points to the viewbox with the x-rays up. GRISSOM glances back at them. He turns to look at ROBBINS.)</p>
+<p><strong>Grissom</strong>: Well, that would have rendered him immobile.</p>
+<p><strong>Robbins</strong>: Right, so why keep hitting?</p>
+<p>(ROBBINS pulls the sheet back to show GRISSOM the marks on the upper arms.)</p>
+<p><strong>Robbins</strong>: The epidermis was disturbed, leaving areas of exposed derma, which we'd normally see as red or purple abrasions. But in this case, no blood rushed to the area.</p>
+<p><strong>Grissom</strong>: He was beaten postmortem.</p>
+<p><strong>Robbins</strong>: Right.</p>
+<p><strong>Grissom</strong>: So, Gregory Curtwell sees Brian attacking his sister. His adrenaline starts going, and he can't stop.</p>
+<p>(ROBBINS shows GRISSOM the bruises on the victim's knuckles.)</p>
+<p><strong>Robbins</strong>: Well, Brian may have gotten off a punch of his own. I can't identify the pattern, but I sent blood and skin transfer to Greg.</p>
+<p>(ROBBINS hands the file with the autopsy photos inside to GRISSOM.)</p>
+<p><strong>Robbins</strong>: And you're going to need these.</p>
+<p><strong>Grissom</strong>: Thanks.</p>
+<p>CUT TO:<br />
+[INT. CSI - INTERVIEW ROOM -- DAY] </p>
+<p>(GRISSOM shows the photos to BRIAN HADDICK'S parents.) </p>
+<p><strong>Mr. Haddick</strong>: That's our son.</p>
+<p><strong>Mrs. Haddick</strong>: Who could have done this to my baby?</p>
+<p><strong>Grissom</strong>: Do you recognize this girl?</p>
+<p>(GRISSOM shows them the security video photo of ASHLEY CURTWELL. They look at the photo and shake their heads.)</p>
+<p><strong>Grissom</strong>: Did Brian ever mention the name Ashley Curtwell?</p>
+<p><strong>Mrs. Haddick</strong>: He got a little out of hand for a while. We couldn't keep track of his friends.</p>
+<p><strong>Grissom</strong>: &quot;Out of hand&quot;?</p>
+<p><strong>Mrs. Haddick</strong>: I found some marijuana in his room. Broke curfew. The nipple piercing was the last straw.</p>
+<p><strong>Mr. Haddick</strong>: I told him he could do anything he wanted to the body God gave him once he moved out. Until then ... </p>
+<p><strong>Mrs. Haddick</strong>: He was grounded. But he was doing so much better. His grades were up. He got a job.</p>
+<p><strong>Grissom</strong>: Where did he work?</p>
+<p><strong>Mr. Haddick</strong>: My brother owns a restaurant. Got him a job bussing and waiting tables. Five hundred bucks every two weeks.</p>
+<p>(GRISSOM nods slowly.)</p>
+<p><strong>Mr. Haddick</strong>: Cash under the table. Pretty good for a kid who can't drive.</p>
+<p>(MRS. HADDICK cries.)</p>
+<p>CUT TO:<br />
+[INT. CSI - BALLISTICS LAB] </p>
+<p>(BOBBY DAWSON goes over the bullet findings with NICK.) </p>
+<p><strong>Bobby Dawson</strong>: No GSR on either the husband's or ex-husband's hands.</p>
+<p><strong>Nick</strong>: That's not definitive. One of them still could have fired the gun and washed his hands.</p>
+<p><strong>Bobby Dawson</strong>: Yeah. Well, you know, you asked me to check Marlene Mitchell's bullet for trace?</p>
+<p><strong>Nick</strong>: (nods) Hmm.</p>
+<p><strong>Bobby Dawson</strong>: Well, there isn't any. It's in pristine condition.</p>
+<p><strong>Nick</strong>: The only reason for shallow penetration is loss of momentum.</p>
+<p><strong>Bobby Dawson</strong>: Yeah, and it was a standard full metal jacket, not a pre-fragmented.</p>
+<p><strong>Nick</strong>: So, assuming that the bullet didn't come in contact with any intervening object, what slowed it down?</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB] </p>
+<p>(GREG is in the lab when WARRICK walks in.) </p>
+<p><strong>Warrick</strong>: Hey, Sanders, you got anything on that knuckle sludge? Grissom's asking.</p>
+<p>(GREG picks up the test results from the side.)</p>
+<p><strong>Greg</strong>: Yeah, a skin sample taken from Brian Haddick's defensive wounds, hair samples from Ashley Curtwell, and buccal swab collected from Gregory Curtwell. No match to the brother or sister. Construction worker didn't do it.</p>
+<p>(GREG hands the test results to WARRICK.)</p>
+<p><strong>Warrick</strong>: Or he didn't do it alone.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CONSTRUCTION SITE - BUILDING ROOM -- CRIME SCENE] </p>
+<p>(GRISSOM, SARA and WARRICK are back at the crime scene.) </p>
+<p><strong>Sara</strong>: Seventy-two-degree impact angle puts Brian here for the initial blows.</p>
+<p>(Quick flashback to: The beating. End of flashback. Resume to present.)</p>
+<p>(SARA kneels down to measure the size of the blood spatter on the wall.)</p>
+<p><strong>Sara</strong>: Width is three millimeters. Length is six.</p>
+<p>(WARRICK punches in the figures in a hand-held calculating device.)</p>
+<p><strong>Warrick</strong>: Arcsine gives us 30 degrees.</p>
+<p><strong>Sara</strong>: So, Brian was crawling.</p>
+<p>(Quick flashback to: The attacker hits BRIAN behind his neck, BRIAN falls to his knees. End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: That must be when his neck was exposed.</p>
+<p>(Quick flashback to: BRIAN is hit behind his neck. Quick CGI POV to a close up of the spinal cord being severed. Resume Flashback. BRIAN is flat on the floor as the attacker continues to beat him on his neck. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: He ended up here on the floor with his spinal cord severed.</p>
+<p><strong>Warrick</strong>: Well, if he was laying down, this looks too high to be a spatter.</p>
+<p>(WARRICK walks over to the blood spatter on the walls.)</p>
+<p><strong>Warrick</strong>: Must be cast-off.</p>
+<p>(SARA looks at the blood spatter on the walls.)</p>
+<p><strong>Sara</strong>: On three walls. Assailants tend to move only in reaction to a target, Brian was stationary.</p>
+<p>(GRISSOM slowly gets to his feet as he gets an idea.)</p>
+<p><strong>Sara</strong>: Why would the attacker keep moving? It doesn't make sense.</p>
+<p><strong>Grissom</strong>: It does if there were three hammers and three attackers.</p>
+<p>(SARA turns to look at GRISSOM.)</p>
+<p>FADE OUT</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. CSI - FILE ROOM -- NIGHT] </p>
+<p>(CATHERINE is going through the filing cabinet drawers as NICK walks past the room. He turns and sees her. He walks into the room.) </p>
+<p><strong>Nick</strong>: Hey, Catherine, feel like doin' some real work?</p>
+<p><strong>Catherine</strong>: And leave all this?</p>
+<p><strong>Nick</strong>: I got a woman who DFO'd in front of her house trying to break up a fight. It's a single gunshot wound to the chest. The penetration is ... shallow. I want to know why.</p>
+<p><strong>Catherine</strong>: And you want me to cook?</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(CATHERINE makes gel molds.) </p>
+<p>(Cut to: In another lab, NICK makes several bullets at varying weights.)</p>
+<p>CUT TO:<br />
+[INT. CSI - BALLISTICS LAB] </p>
+<p>(NICK and BOBBY DAWSON prepare the guns as CATHERINE rolls in the gel molds on a cart.) </p>
+<p><strong>Catherine</strong>: Okay, boys. There's always room for jell-O.</p>
+<p><strong>Nick</strong>: Oh, yeah.</p>
+<p><strong>Bobby Dawson</strong>: Uh, Catherine, technically, that's just gel.</p>
+<p><strong>Catherine</strong>: I wasn't planning on eating it.</p>
+<p>(CATHERINE puts the mold on the table.)</p>
+<p><strong>Bobby Dawson</strong>: Okay, let's shoot it.</p>
+<p>(She walks back where BOBBY offers her ear phones.)</p>
+<p><strong>Bobby Dawson</strong>: Betty Crocker.</p>
+<p>(BOBBY puts on his protective eyewear. Everyone puts on their eye wear and ear phones. BOBBY loads the first bullet.)</p>
+<p><strong>Bobby Dawson</strong>: (loudly) Firing one at 100%!</p>
+<p>(He fires. The bullet pierces into the gel mold.)</p>
+<p><strong>Nick</strong>: Standard velocity is 1,100 feet per second.</p>
+<p>(CATHERINE measures the distance the bullet traveled into the mold.)</p>
+<p><strong>Catherine</strong>: All right, that is A ... twelve-inch penetration.</p>
+<p>(NICK and BOBBY share a look and a smile.)</p>
+<p><strong>Catherine</strong>: So ... a, um ... hundred percent load gives us twelve inches.</p>
+<p>(Cut to: BOBBY fires the second bullet.)</p>
+<p><strong>Bobby Dawson</strong>: (loudly) Firing one at 70%!</p>
+<p>(CATHERINE measures the bullet in the mold.)</p>
+<p><strong>Catherine</strong>: Seven and three-quarter inches.</p>
+<p>(Cut to: BOBBY fires the third bullet.)</p>
+<p><strong>Bobby Dawson</strong>: (loudly) Firing one at 40%!</p>
+<p>(NICK checks the read-out.)</p>
+<p><strong>Nick</strong>: 500 and ... 50 feet per second.</p>
+<p>(CATHERINE measures the penetration.)</p>
+<p><strong>Catherine</strong>: Four inches.</p>
+<p><strong>Bobby Dawson</strong>: Same as Ms. Mitchell.</p>
+<p><strong>Catherine</strong>: So Mrs. Mitchell was shot by a bullet traveling 550 feet per second.</p>
+<p><strong>Nick</strong>: Now that we know the speed, we can calculate the distance. Thanks, Catherine.</p>
+<p>CUT TO:<br />
+[INT. CSI - BALLISTICS LAB -- LATER] </p>
+<p>(BOBBY and NICK figure it out.) </p>
+<p><strong>Bobby Dawson</strong>: So standard velocity for a nine millimeter bullet is 1,100 feet per second.</p>
+<p><strong>Nick</strong>: How far does a nine millimeter bullet have to travel before it slows down to 550 feet per second?</p>
+<p><strong>Bobby Dawson</strong>: Let's see.</p>
+<p>(They put it in the computer and get a calculation.)</p>
+<p><strong>Bobby Dawson</strong>: Eighteen hundred feet. Whoa. We're talking six football fields.</p>
+<p><strong>Nick</strong>: Yeah, that would pretty much eliminate anyone that was in the Mitchell's front yard. Can a nine millimeter bullet even travel that far?</p>
+<p><strong>Bobby Dawson</strong>: Hang on.</p>
+<p>(BOBBY clears the screen and picks up a pen.)</p>
+<p><strong>Bobby Dawson</strong>: All right. If a nine millimeter were fired straight ... it'd go about 600 feet before gravity brought it down, but if a bullet were fired at an angle ... could go a heck of a lot further.</p>
+<p><strong>Nick</strong>: That would account for the distance, but ms. Mitchell was shot at an eighty-five-degree angle. That's basically perpendicular.</p>
+<p><strong>Bobby Dawson</strong>: Um ... bullets are predictable.</p>
+<p><strong>Nick</strong>: People ... aren't.</p>
+<p>(NICK looks at the photos in the file again. He thinks about it.)</p>
+<p>(Quick flashback to: MR. MITCHELL and TODD are fighting. MARLENE MITCHELL steps between them to stop the fight.)</p>
+<p><strong>Marlene Mitchell</strong>: No, stop it!</p>
+<p>(She's pushed back and falls back on the mattress with a bullet hole in her chest.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: I assumed she was standing.</p>
+<p>(NICK reaches for the laptop and pen.)</p>
+<p><strong>Nick</strong>: Okay, this is the Mitchell's house,<br />
+(NICK puts the map of the community on the monitor.)</p>
+<p><strong>Nick</strong>: ... and by all eyewitness accounts, she was standing in front the house, facing away north, when she was shot, so this line represents the 1,800 feet our bullet traveled.</p>
+<p>(NICK calculates the 1800 feet away from the house.)</p>
+<p><strong>Nick</strong>: It had to have come from somewhere ... on that arc.</p>
+<p>(A red line in an arc appears on the monitor.)</p>
+<p><strong>Bobby Dawson</strong>: Good luck knocking on doors.</p>
+<p>(They both smile.)</p>
+<p>CUT TO:<br />
+[INT. CSI -- HALLWAY] </p>
+<p>(BRASS finds GRISSOM in the hallway.) </p>
+<p><strong>Brass</strong>: Here I'm looking for three guys, but you only found one hammer with blood on it, so who do you want me to follow?</p>
+<p><strong>Grissom</strong>: Me.</p>
+<p>(GRISSOM turns and enters the lab. BRASS follows him.)</p>
+<p>[INT. LAB - CONTINUOUS]</p>
+<p>(WARRICK is in the lab sitting at the table at a laptop.)</p>
+<p><strong>Grissom</strong>: What's up?</p>
+<p><strong>Warrick</strong>: The shoe tread I found at the scene -- it's a world industries Diablo. It's a skate shoe. Size 11.</p>
+<p><strong>Brass</strong>: On a construction worker?</p>
+<p><strong>Warrick</strong>: Screams 'teenager', I know.</p>
+<p><strong>Grissom</strong>: Why is Gregory Curtwell hanging out with teenage boys?</p>
+<p><strong>Warrick</strong>: Well, he has a teenage sister.</p>
+<p><strong>Brass</strong>: And the sister and Brian Haddick were both students at McKinley high.</p>
+<p><strong>Grissom</strong>: I bet the shoe also goes to school there.</p>
+<p>CUT TO:<br />
+[EXT. MCKINLEY HIGH -- DAY] </p>
+<p>[INT. MCKINLEY HIGH - GYM - DAY]</p>
+<p>(The kids wearing sneakers are in the gym sitting on the bleachers. WARRICK walks down the bleachers looking at their sneakers.) </p>
+<p><strong>Warrick</strong>: Nice kicks. I like those.</p>
+<p><strong>Teenaged Boy</strong>: Thank you.</p>
+<p><strong>Warrick</strong>: You guys play ball?</p>
+<p><strong>Teenaged Boy</strong>: Yeah.</p>
+<p><strong>Warrick</strong>: Yeah?</p>
+<p><strong>Teenaged Boy</strong>: Uh-huh.</p>
+<p><strong>Warrick</strong>: Nice backpack.</p>
+<p><strong>Teenaged Boy</strong>: Thanks.</p>
+<p>(Cut to: BRASS walks with the PRINCIPAL along floors. The PRINCIPAL appears nervous at what's going on.)</p>
+<p><strong>Principal</strong>: We're treading a razor-thin line of illegal search and seizure here.</p>
+<p><strong>Brass</strong>: Now, I'm not a with you, but shoes are a plain-view item. </p>
+<p>(BRASS leads the PRINCIPAL to GRISSOM.)</p>
+<p><strong>Brass</strong>: Anyway, here's the guy who's going to be investigating ...</p>
+<p>(They're interrupted by a Father who walks along the floors. He motions to his son.)</p>
+<p><strong>Tyler's Dad</strong>: Tyler, come on, we're going.</p>
+<p>(TYLER stands up and follows his dad who walks straight to the group.)</p>
+<p><strong>Tyler's Dad</strong>: Are you crazy? Do you know what my law firm does? You can't question these kids without a parent present.</p>
+<p><strong>Brass</strong>: We're not questioning them, which is why you're here-- so we can.</p>
+<p><strong>Tyler's Dad</strong>: (to the PRINCIPAL) Oh. And I'm holding you responsible.</p>
+<p><strong>Principal</strong>: Clark County Law Enforcement and I have taken every precaution to make sure that these students' rights were not violated.</p>
+<p><strong>Tyler's Dad</strong>: You are sequestering these kids without probable cause. I hate that I've been called out of work to come down here, and I'm going to be so far up your ass, you're not going to be able to sit down straight.</p>
+<p><strong>Grissom</strong>: You know what I hate? People who hurt kids. And you know who those people sometimes are?</p>
+<p><strong>Tyler's Dad</strong>: Cops?</p>
+<p><strong>Grissom</strong>: Other kids. If it had been your son whose skull was smashed in with a hammer, you'd be asking me where I was when I should've been protecting him. Kids bring guns to school to shoot other kids, so who are you protecting?</p>
+<p><strong>Tyler's Dad</strong>: Let's discuss it in court.</p>
+<p>(TYLER'S DAD turns and leaves.)</p>
+<p><strong>Principal</strong>: (to BRASS) Excuse me.</p>
+<p>(The PRINCIPAL follows him.)</p>
+<p><strong>Brass</strong>: Well, way to clear a room.</p>
+<p><strong>Principal</strong>: Those of you with parents here are dismissed, and the rest of you please wait here.</p>
+<p>(Many of the kids stand up and head down the bleachers to the floor. One kid who doesn't move continues to sit there as if he knows that his parents aren't in that group mentioned. WARRICK looks at the kid and notices his sneakers.)</p>
+<p><strong>Warrick</strong>: Brass. </p>
+<p>(BRASS walks over to WARRICK. They both see the blood on his sneakers.)</p>
+<p><strong>Warrick</strong>: Check this out.</p>
+<p><strong>Brass</strong>: Hey, bud. What's your name?</p>
+<p><strong>Benny Lizzio</strong>: Benny.</p>
+<p><strong>Brass</strong>: Benny, where's your father? Is he around?</p>
+<p><strong>Benny Lizzio</strong>: Uh, he's at home. Probably called in drunk.</p>
+<p><strong>Brass</strong>: Well, lucky for you, we make house calls.</p>
+<p>(BRASS smiles.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<p>[INT. LIZZIO RESIDENCE -- DAY] </p>
+<p>(MR. LIZZIO walks into the house to find his son, BENNY, with WARRICK and BRASS.) </p>
+<p><strong>Mr. Lizzio</strong>: You good for nothing little b*st*rd ... I knew you stole that game thing. A hundred and twenty-five bucks, my ass.</p>
+<p><strong>Benny Lizzio</strong>: I told you. I bought that with my own money.</p>
+<p><strong>Mr. Lizzio</strong>: You talkin' back to me? Huh?</p>
+<p>(MR. LIZZIO reaches out and whacks BENNY on the side of his head. BRASS breaks it up.)</p>
+<p><strong>Brass</strong>: Hey ... Let's sit down. Let's all sit down. Come on.</p>
+<p>(MR. LIZZIO and BENNY both move over to the couch. BENNY sits down, but MR. LIZZIO remains standing.)</p>
+<p>(BRASS sighs and moves over to WARRICK.)</p>
+<p><strong>Brass</strong>: Look, I'll take this. Let 'em argue diminished capacity after the fact.</p>
+<p><strong>Warrick</strong>: You think they know how a DNA test works?</p>
+<p><strong>Brass</strong>: I don't know. Let's find out. </p>
+<p>(BRASS turns to MR. LIZZIO.)</p>
+<p><strong>Brass</strong>: Mr. Lizzio, do you mind if we test Benny's sneaker for DNA?</p>
+<p><strong>Mr. Lizzio</strong>: You do what you got to do, officers.</p>
+<p><strong>Warrick</strong>: Lift your right shoe, please.</p>
+<p>(WARRICK takes the sample and tests to see if it's human.)</p>
+<p><strong>Warrick</strong>: We got a problem. The blood on your shoe is a match to Brian Haddick's.</p>
+<p>(WARRICK flips the test to show them.)</p>
+<p><strong>Warrick</strong>: DNA doesn't lie.</p>
+<p><strong>Brass</strong>: So, do you want to tell us how a dead kid's blood ended up on the bottom of your sneaker, Benny?</p>
+<p><strong>Mr. Lizzio</strong>: Yeah, Benny. Why don't you tell us that?</p>
+<p><strong>Benny Lizzio</strong>: Sometimes I go to the construction site just to hang out.</p>
+<p>(Quick flashback to: BENNY walks through the construction site. He's distracted with trying to get a cigarette out of the carton when he realizes that he's nearly upon the body. He backs away, but not before leaving behind the shoeprint.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: So, you just, uh ... happened upon it? Didn't report it to anybody?</p>
+<p><strong>Benny Lizzio</strong>: I was trespassing. I didn't want to get in trouble.</p>
+<p><strong>Warrick</strong>: Mr. Lizzio, would you mind if I took a look around?</p>
+<p><strong>Mr. Lizzio</strong>: Be my guest.</p>
+<p>(WARRICK looks around as BRASS keeps MR. LIZZIO occupied.)</p>
+<p><strong>Brass</strong>: Mr. Lizzio, why don't you sit down? We're going to be a while, okay? You been drinking today, Mr. Lizzio?</p>
+<p><strong>Mr. Lizzio</strong>: Couple of beers.</p>
+<p>(WARRICK leaves the room and looks around. He walks into the garage and finds a tube of lip gloss on the chair. He looks at the CDs. He then sees the smashed watermelons on the floor on the plastic. He sees the hammer on the shelf.)</p>
+<p>(Quick flashback to: Watermelons are being smashed with the hammer. End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: Practice makes perfect.</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(BRASS puts a tape recorder down on the table as he starts his interview with BENNY LIZZIO.) </p>
+<p><strong>Brass</strong>: So, Benny, for the record, you've waived your right to have your parent or an advocate present.</p>
+<p><strong>Benny Lizzio</strong>: Yep.</p>
+<p><strong>Brass</strong>: So, how do you know Brian?</p>
+<p><strong>Benny Lizzio</strong>: We hung out a few times when we were freshmen.</p>
+<p><strong>Brass</strong>: You know Gregory Curtwell?</p>
+<p><strong>Benny Lizzio</strong>: Ashley's brother? Yeah. He bought me beer a couple times.</p>
+<p><strong>Brass</strong>: Oh, so you know Ashley, too?</p>
+<p><strong>Benny Lizzio</strong>: Yeah. I'm a friendly guy.</p>
+<p><strong>Brass</strong>: Well, that's good, Benny, because...</p>
+<p>(BRASS clears his throat and sits down.)</p>
+<p><strong>Brass</strong>: ... you're looking at murder. And if you're friendly and you cooperate, and you tell me what happened to Brian Haddick, maybe I can cut you a deal.</p>
+<p><strong>Benny Lizzio</strong>: Ain't gonna happen. I'm no snitch.</p>
+<p><strong>Brass</strong>: You want to tell me about those melons at your house? You looking to be another Gallagher? You know who that is?</p>
+<p><strong>Benny Lizzio</strong>: Since when is whacking fruit a crime?</p>
+<p><strong>Brass</strong>: When it's practice for whacking people.</p>
+<p>(BENNY nervously looks away for a moment.)</p>
+<p><strong>Brass</strong>: Your hammer had Brian's blood all over it. Understand something, Benny, I'm talking about months versus years of juvenile detention. It's your call.</p>
+<p><strong>Benny Lizzio</strong>: (shrugs) They got cable? Food? My dad locked on the outside? Sounds good to me. Besides, I'm a minor. By the time I'm 21, it's like it never happened.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB]</p>
+<p>(As he puts on his gloves, GRISSOM walks into the lab. GREG follows. WARRICK and SARA are already there. WARRICK looks up.)</p>
+<p><strong>Warrick</strong>: Did he roll?</p>
+<p><strong>Grissom</strong>: Brass says the kid is looking forward to going to jail.</p>
+<p><strong>Warrick</strong>: Hmm.</p>
+<p><strong>Grissom</strong>: So, what do we got here?</p>
+<p><strong>Warrick</strong>: It's hard to tell what's relevant and what's trash. This is everything we brought back from Benny's party room.</p>
+<p>(GRISSOM picks up the small evidence bag of rubber bands. He looks at it unable to make heads or tails of what it is.)</p>
+<p><strong>Grissom</strong>: Are these ... ? </p>
+<p>(He looks at SARA.)</p>
+<p><strong>Grissom</strong>: Spaghetti-oh's?</p>
+<p><strong>Sara</strong>: I don't think so.</p>
+<p><strong>Greg</strong>: Nah. Nah, those would be orthodontic rubber bands. Hook 'em to your braces, uh, upper to lower. Helps pull the jaw in the right direction. Also great for flinging. Yeah, I had it all -- palate expander, braces, retainer, head gear. Ah, five years of misery, but worth every penny, don't you think?</p>
+<p>(GREG looks at SARA and grins, showing her his perfect teeth. GRISSOM opens the bag of lip gloss. He opens the lip gloss and smells it.)</p>
+<p><strong>Greg</strong>: Um, there might be some saliva residue on them. I can see what I can pull off, if you want.</p>
+<p><strong>Sara</strong>: Yeah. Would you?</p>
+<p><strong>Greg</strong>: Well, you're going to need something. Strike three on the knuckles.</p>
+<p>(GREG hands SARA the test results.)</p>
+<p><strong>Warrick</strong>: Benny's DNA doesn't match. Gregory's doesn't match. Ashley's doesn't match. Who did this guy hit?</p>
+<p><strong>Grissom</strong>: Greg, test both of these. </p>
+<p>(GRISSOM hands GREG the two evidence bags.)</p>
+<p><strong>Grissom</strong>: If a third guy has braces, it may explain the strange pattern on Brian's hand.</p>
+<p><strong>Sara</strong>: It's probably another student, but Benny's not talking.</p>
+<p><strong>Warrick</strong>: Benny has a party room, right? You can't have a party without the music. I found some new CD's in his room.</p>
+<p>(GRISSOM looks at the CD's in the evidence bag.)</p>
+<p><strong>Grissom</strong>: What's &quot;C &amp; D&quot;?</p>
+<p><strong>Warrick</strong>: It's like a music club, twelve CDs for the price of one.</p>
+<p>(GRISSOM looks at the address label:<br />
+GILBERT, AARON<br />
+7748 CANYON AVE<br />
+LAS VEGAS, NV 89123</p>
+<p><strong>Grissom</strong>: And Aaron Gilbert was...?</p>
+<p>(SARA picks up a piece of watermelon and looks at it.)</p>
+<p><strong>Warrick</strong>: (to GRISSOM) The deejay maybe?</p>
+<p><strong>Sara</strong>: You know, at this time of year, watermelon isn't cheap, particularly organic. Maybe the music isn't the only thing that Aaron Gilbert brought to the party.</p>
+<p>(SARA shows them the watermelon skin. GRISSOM looks at the sticker on the watermelon skin: GILBERT ORGANIC FARMS.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<p>[INT. RESIDENCE -- DAY] </p>
+<p>(NICK and DET. SAM VEGA interview a YOUNG MOTHER in the community.) </p>
+<p><strong>Young Mother</strong>: Yeah, I heard gunfire a couple of days ago. Johnnie, the idiot behind us, was playing like G.I. Joe in his backyard. I screamed out my window. I got kids, you know? Why do you want to know?</p>
+<p><strong>Nick</strong>: Just curious.</p>
+<p>CUT TO:<br />
+[EXT. JOHNNIE'S RESIDENCE - DAY]</p>
+<p>(NICK and DET. SAM VEGA interview JOHNNIE.)</p>
+<p><strong>Johnnie</strong>: She called you guys, right? It's like having a wife. Gun's brand-new. Shot it one time. She told me to stop, I stopped.</p>
+<p><strong>Det. Sam Vega</strong>: Sir, you're going to have to tell us where that gun is.</p>
+<p>(JOHNNIE turns and heads back into the house to get the gun.)</p>
+<p>CUT TO:<br />
+(NICK has the gun in his hand.)</p>
+<p><strong>Nick</strong>: And this is the gun that you fired?</p>
+<p><strong>Johnnie</strong>: Yeah.</p>
+<p>(NICK checks the cartridge.)</p>
+<p><strong>Nick</strong>: Empty ten-round magazine.</p>
+<p><strong>Det. Sam Vega</strong>: It was full when you started?</p>
+<p><strong>Johnnie</strong>: Yeah.</p>
+<p>(NICK walks over to the target board JOHNNIE set up at the end of the yard. He checks out the holes.)</p>
+<p><strong>Nick</strong>: I, uh, only count nine holes in your target.</p>
+<p><strong>Johnnie</strong>: I must have missed one.</p>
+<p><strong>Nick</strong>: Oh, you didn't miss.</p>
+<p>(Quick flashback to: [EXT. BACKYARD - DAY] JOHNNIE is out in his back yard firing his gun at the board.)</p>
+<p>(The YOUNG MOTHER next door leans out and shouts.)</p>
+<p><strong>Young Mother</strong>: Hey! You want to kill someone?!</p>
+<p>(Distracted, JOHNNIE turns as he fires. The bullet goes high into the air.)</p>
+<p>(cc) YOUNG MOTHER: Put that thing away! I have kids!</p>
+<p>(The bullet comes down and hits MARLENE MITCHELL in the chest.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(SAM VEGA puts the handcuffs on JOHNNIE.)</p>
+<p><strong>Det. Sam Vega</strong>: Just nice and easy. </p>
+<p><strong>Nick</strong>: You see, your neighbor didn't lose her kid, but six blocks away, a guy lost his wife.</p>
+<p><strong>Johnnie</strong>: It was just a little target practice. </p>
+<p><strong>Nick</strong>: And that's why it's illegal to discharge firearms within the city limits, genius.</p>
+<p>(NICK turns and leads VEGA and JOHNNIE out the backyard.)</p>
+<p>CUT TO:<br />
+[INT. McKINLEY HIGH SCHOOL - LOCKERS - DAY]</p>
+<p>(BRASS, WARRICK and SARA walk up to AARON GILBERT.)</p>
+<p><strong>Brass</strong>: Aaron Gilbert?</p>
+<p>(AARON removes the ear phones.)</p>
+<p><strong>Aaron Gilbert</strong>: Yeah.</p>
+<p><strong>Brass</strong>: I'm detective Brass, Las Vegas police. We need to talk.</p>
+<p><strong>Aaron Gilbert</strong>: Oh, dude, I got to get home. My mom's waiting for me and my brother.</p>
+<p><strong>Warrick</strong>: Oh, we talked to your mom.</p>
+<p><strong>Sara</strong>: Yeah, she gave us your hammer and this.</p>
+<p>(SARA shows AARON a twenty dollar bill with a bloody print on it.)</p>
+<p><strong>Jared</strong>: Yo, Dawg, we going or what?</p>
+<p>(SARA turns and sees another boy walk up to AARON. JARED has a cut on his upper lip.)</p>
+<p><strong>Warrick</strong>: Or what ... Dawg.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM A] </p>
+<p>(BRASS interviews AARON GILBERT in the presence of a Child Advocate.) </p>
+<p><strong>Brass</strong>: That's a nice walkman you had. What'd that cost? 125 bucks? Same as Benny's gameboy. Same as your brother's secret stash.</p>
+<p>(AARON doesn't say anything.)</p>
+<p><strong>Brass</strong>: Speaking of Benny, he's not too smart, is he? He wouldn't give up you and your brother for a lesser sentence. You know what? There's an opportunity here, and I think you got more on the ball than Benny. Tell me what happened.</p>
+<p>(Camera pans over from one interview room into the next one.)</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM B]</p>
+<p>(WARRICK interview JARED GILBERT in the presence of a Child Advocate.)</p>
+<p><strong>Warrick</strong>: Jared ... ain't braces a bitch? I see that cut on your lip. Is that where Brian hit you? They do make for a good impression though.</p>
+<p>(WARRICK pushes the photo of the bruises from BRIAN'S knuckles on the table toward JARED.)</p>
+<p><strong>Warrick</strong>: See all these grooves here? It's perfect for storing DNA. That would be your DNA. Look, Jared, I'm not a cop, but if you tell me what happened, I will put in a good word for you.</p>
+<p>CUT TO:<br />
+[INT. CSI - BREAK ROOM]</p>
+<p>(The team meets and discusses the case.)</p>
+<p><strong>Sara</strong>: We have a problem. We have three hammers and four suspects.</p>
+<p><strong>Warrick</strong>: Well, the Gilbert brothers both seem ready to go down for it.</p>
+<p><strong>Brass</strong>: And Benny can't wait to go to jail.</p>
+<p><strong>Sara</strong>: If they were defending Ashley against an attacker, why not say so?</p>
+<p><strong>Grissom</strong>: They weren't. The smashed watermelon suggests the whole thing was premeditated.</p>
+<p><strong>Sara</strong>: Making the motive robbery?</p>
+<p><strong>Warrick</strong>: Well, Benny, Aaron and Jared each had about $125 worth of cash and assorted prizes.</p>
+<p><strong>Grissom</strong>: $375. Brian's parents said that he was being paid $500 every two weeks. Cash under the table.</p>
+<p><strong>Sara</strong>: It was payday, so who got the other $125?</p>
+<p><strong>Warrick</strong>: Well, Gregory Curtwell makes good money. Hundred twenty-five bucks is a spit in the ocean for a construction worker. If he wasn't defending his sister, then he has no motive.</p>
+<p><strong>Brass</strong>: Well, if he didn't do it, how did his hammer end up with Brian's blood on it?</p>
+<p>(SARA looks at ASHLEY'S receipts.)</p>
+<p><strong>Sara</strong>: Clothing-- $85; earrings - $30; coffee-- four dollars. Getting away with murder ...</p>
+<p><strong>Grissom</strong>: ... priceless.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM] </p>
+<p>(SARA re-interviews ASHLEY CURTWELL.) </p>
+<p><strong>Sara</strong>: That hand that holds the wallet is the hand that rules the world. Huh, Ashley? </p>
+<p>(SARA puts the photos on the table to show ASHLEY.)</p>
+<p><strong>Sara</strong>: Your fingerprint in Brian's blood on Jared's money. This is what we call<br />
+&quot;completing the triangle.&quot;</p>
+<p><strong>Ashley</strong>: Okay. So he attacked me, and I did see who defended me. But I didn't want to get my friends in trouble, and the money was for, like ... like, pain and suffering.</p>
+<p><strong>Sara</strong>: (interrupts) You weren't attacked, Ashley. Brian was. We figured none of the boys wore cotton candy, so we had it tested.</p>
+<p>(SARA puts the evidence bag with the lip gloss on the table in front of ASHLEY.)</p>
+<p><strong>Sara</strong>: Turns out you were at Benny's house, too.</p>
+<p>(Quick flashback to: [BENNY'S HOUSE] ASHLEY puts on her lip gloss. She jumps up on the couch as the boys circle the watermelons with their hammers.)</p>
+<p><strong>Ashley Curtwell</strong>: Let's do it!</p>
+<p>(Hard rock music plays in the background as ASHLEY urges the boys on.)</p>
+<p><strong>Ashley</strong>: Come on, guys! Whoo!</p>
+<p>(The boys use the hammers and pulverize the watermelons.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: At the mall, you weren't in shock, you were celebrating.</p>
+<p>(Quick flashback to: ASHLEY shopping at the mall. End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: Your brother was up in Tahoe this past weekend, wasn't he?</p>
+<p><strong>Ashley Curtwell</strong>: He goes away almost every weekend.</p>
+<p><strong>Sara</strong>: (interrupts) You know, I'm done with the Ashley pity party. My guess is Aaron and Jared only had one hammer, but you had access to your brother's tools. Why Brian?</p>
+<p><strong>Ashley Curtwell</strong>: Before he went straight, we were buds, but then he got too good for us, but he wasn't too good to want to get with this.</p>
+<p>(Quick flashback to: [CONSTRUCTION SITE - NIGHT] BRIAN and ASHLEY are at the site.)</p>
+<p><strong>Brian Haddick</strong>: Where do you want to do it at? ASHLEY CURTWELL: Right here. BRIAN HADDICK: In here? ASHLEY CURTWELL: Yeah.</p>
+<p>(BRIAN unbuckles his belt and lowers his pants. ASHLEY laughs and pulls away.)</p>
+<p><strong>Ashley Curtwell</strong>: (laughs) Stop.</p>
+<p>(The other boys walk into the room.)</p>
+<p><strong>Brian Haddick</strong>: You set me up?</p>
+<p><strong>Ashley Curtwell</strong>: Get him!</p>
+<p>(The boys begin to attack BRIAN, beating him with their hammers as they did the watermelons.)</p>
+<p><strong>Ashley Curtwell</strong>: Get him!</p>
+<p>(Blood spurts everywhere.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: You're not a victim, you were a lure. Do you know how many people don't report a rape because they're afraid that no one will believe them?</p>
+<p><strong>Ashley Curtwell</strong>: (wide-eyed) Of course. It's what I was counting on.</p>
+<p><strong>Sara</strong>: I'm going to do everything in my power to make sure that you're tried as an adult.</p>
+<p><strong>Ashley Curtwell</strong>: Good luck. I dress up real nice -- couple barrettes, little lace collar, two dead parents. I'll be the saddest little girl in the world.</p>
+<p>FADE TO BLACK</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
-
-
-
-
-
-
-
-
-
-
-Construction Worker: Boss! Boss! 
-
-Construction Worker: We-we got a problem.
-
- 
-
-
-
-Grissom: Well, clean surfaces make for good analysis.
-
-Brass: Yeah. Well, that may be the only good thing. I checked for a wallet, no ID. Nothing on him.
-
-Brass: The kid looks like a minor. Coroner's investigator says he's been dead for over twelve hours. Happened sometime this weekend.
-
-Brass: You going to pry that piece of cloth from his hand?
-Grissom: Not just yet.
-Brass: Help me out here. Got any ideas on this one?
-
-Grissom: Well, based on his pants around the knees, I would say a crime of passion.
-
-Grissom: Given the brutality of it ... seems to me an act of rage.
-HARD CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Foreman: You know, I lose an hour a day cleaning up their beer bottles and their cigarette butts.
-Brass: Kids use it as a hangout, huh?
-Foreman: Oh, sure. They think the house doesn't have a lock, it belongs to them.
-Brass: Well, it's a crime scene, so it belongs to us now.
-Foreman: Yeah. How long?
-Brass:  As long as it takes.
-
-Foreman: You know, I got two teenagers at home, and they know how to respect other people's property. Now, who's going to feed them when I don't get paid for today, huh?
-Brass: Huh? I can't tell you that.
-
- 
- 
-Grissom: Take a look at his head, tell me what you see.
-
-
-Warrick: Definitely blunt force.
-
-Sara: That's a hammerhead.
-
-Grissom: I thought you might say that. 
-
-Grissom: Well, we know that people often commit crimes in places they're familiar with.
-
-
-Sara: You got to be kidding me.
-
-
-Warrick: I'll swab the blood and see if it's all his.
-
-Warrick: Grissom?
-
-Grissom: Well, that should help.
-
-
-Construction Worker: I'll trade you a hammer for a screw.
-
-Sara: Name, please.
-Construction Worker: I'll tell you mine, you tell me yours.
-
-Construction Worker: Oh, come on, baby. I'm stuck with these ugly fools all day. A pretty girl comes by. Just having a little fun.
-Sara: Yeah, murder always makes me feel a little randy, too.
-Construction Worker: Ooh.
-
-
-
- 
- 
-Nick: Fellows.
-David Phillips: Hey, uh, Mrs. Marlene Mitchell, 32. Apparent gunshot wound to the chest. Entry, no exit. No other apparent injuries.
-
-Nick: Do we know who shot her?
-Vega: I patted down all her friends. Nobody's carrying. Got a couple officers scanning the neighborhood in case the, uh, weapon got tossed. She was breaking up a fight when she went down.
-Nick: Nobody saw anything? Nobody heard anything?
-Vega: No.
-Nick: Somebody's lying.
-
-Nick: That the husband?
-Vega: The current one. The other one -- he's the ex.
-
-Nick: Interesting family reunion. Whose brilliant idea was that?
-Vega: The Mitchell's were moving in. The ex stopped by to say hi.
-Nick: Don't you hate it when hello leads to gunfire?
-
-Nick: I'll need to GSR both.
-
-Nick: Sir? I'm going to need to test your hands for GSR.
-Mr. Mitchell: What's that?
-Nick: Gunshot residue.
-Mr. Mitchell: Why?
-Nick: To rule you out.
-Mr. Mitchell: You think I shot my wife the day after our honeymoon.
-
-Mr. Mitchell: We were just moving our stuff. Her ex, Todd, shows up. He knows he's not supposed to come within 100 yards of her. But he did.
-
-Marlene Mitchell: Stop it! Please?
-
-Mr. Mitchell: Marlene?
-
-Mr. Mitchell: Call 911.
-
-Mr. Mitchell: I thought it was a heart attack. Then I saw the blood.
-
-Vega: Yes, but there was a restraining order against you. Why were you here?
-
-Nick: Thank you.
-
-
- 
- 
-
-K-9 Officer: Distinguish! 
-
-K-9 Officer:  You ready to run?
-
-Grissom: She does all my running.
-Sara: Thanks.
-
-K-9 Officer: Trail!
-DISSOLVE TO:
-
-
-
-Sara: It's a hell of a place to get lost.
-K-9 Officer: Yeah. We have five million olfactory sensory receptors. Penny's got 220 million. She sees the world differently.
-
-
-
-
-K-9 Officer: The suspect stopped here.
-
-
-
- Trail is still strong here.
-
-
-
-K-9 Officer: She's got a hit on the dumpster.
-
-K-9 Officer: She's getting nothing, but penny will pick up on anything they touched.
-
-
-K-9 Officer: There we go. 
-(SARA opens the bag. 
-K-9 Officer: There's something in the silver bag.
-PENNY smells inside. We see by the reddish hue that the smell is inside the bag.)
-Sara: What do you think? Bought new clothes, ditched the old ones?
-
-K-9 Officer: What's missing from that sweater's what that dead kid had in his hand.
-
-Sara: So, we're looking for a girl who bought a new outfit ... 
-
-Receipt 1 reads:
-STORE: 00225 REGISTER: 002
-Cashier: 724567
-W. SHIRT 29.99
-0000000164038 1 @ 29.99
-PANTS 49.99
-0000000638289 1 @ 51.99
-SUBTOTAL 79.98
-TAX 5.32
-Receipt 2 reads:
-6121 002 8215 12/09/03
-SALE 2.2 11
-59255 EARRINGS 27.99
-SUBTOTAL 27.99
-27.99 TAX 6.50% 1.82
-TOTAL 29.81
-Sara: Some earrings and a latte.  Oh, an iced cappuccino, actually.
-
- 
- 
-Robbins: Congealed blood in the pericardium. Heart's what took the bullet.
-Nick: Explains why she just dropped.
-Robbins: Yeah, she was dead in seconds.  Hmm. Bullet's still in the heart.
-
-Robbins: Here we go.
-
-Robbins: There.
-
-Nick: Well, it looks like a nine millimeter. I'll let Vega know.
-Robbins: Fairly intact. Want to do the honors?
-Nick: Sure.
-
-Robbins: That's it.
-
-Nick: Four inches? That's shallow. Standard handgun bullet penetration's twelve.
-Robbins: Right.
-Nick: Give me a hand, will you?
-Robbins: Sure.
-
-Nick: Eighty-five degree downward angle?
-Robbins: Well, that's, uh, fairly standard. Most gunshot wounds are ninety degrees, give or take.
-
-Nick: Oh. Thanks, doc.
-Robbins: Right.
-
-
- 
-
-
-DATE: 12/10/03
-003-44567
-GREGORY CURTWELL
-CONST. SITE
-SS {signature}
-1. HAMMER
-
- 
- 
-Archie Johnson: They say in America, you're on camera an average of seven times a day. Go to a mall, and you can at least triple that.
-
-Sara: I guess that's good for us. I'm going to think twice the next time I try on a shirt.
-Archie: Well, legally, they can't put cameras in dressing rooms, but there's legal, and then there's what people do.
-Sara: Our girl bought her clothes at 8:31. Let's scan the dressing room footage from 8:00 on.
-
-Sara: Hold it. 
-
-Sara: That's our sweater. And that's our girl.
-
-Archie: She did a walk out.
-Sara: A &quot;walk out?&quot;
-Archie: Yeah, my girlfriend does it all the time. She finds something she likes, rips the tags off in the dressing room, hands them to the clerk, and walks out wearing the new stuff.
-Sara:  You go shopping with your girlfriend? That's nice.
-
-
-Archie: Well, you can get her prints from the receipts. DNA from the sweater. And you've got a face. You're close.
-Sara: Well, look at her. She's a minor. She paid in cash. She's not going to be in any database. Without a name, we don't have much.
-
-Warrick: Okay, one of our hammers had blood on it. It matches the victim's.
-Sara: Did Greg analyze the clothes from the dumpster yet?
-Warrick: Yeah. Blood's a match, too.
-Sara: Okay. So, the question is, what is the connection between this girl and a construction worker?
-
- 
- 
-Brass: Mr. Curtwell, where were you this weekend?
-Gregory Curtwell: I was fishing in Tahoe.
-Brass: Catch anything?
-Gregory Curtwell: No. Nothing was biting.
-Brass: Anyone go with you?
-Gregory Curtwell: No.
-Brass: How long were you gone?
-Gregory Curtwell: Friday to Sunday. Look, I thought I was just here to pick up my hammer.
-Warrick: Do you ever leave your tools at the job site?
-Gregory Curtwell: No way. That hammer -- it's perfectly balanced.
-Brass: Then how do you explain the blood on it? And your injuries.
-
-Gregory Curtwell: Well a construction site. People get hurt.
-Warrick: The blood that we found on your hammer ... matches this kid right here.
-
-Gregory Curtwell: Is that the dead kid from the house?
-Warrick: Yeah. 
-Gregory Curtwell: I never got a look at him. I-I I didn't go inside.
-
-Warrick: What about her?
-Gregory Curtwell: That's my kid sister, Ashley. Why? What's she got to do with it?
-Brass: You tell us.
-
-FADE OUT
-
-
-
- 
- 
-Ashley Curtwell: My parents died in a car accident four years ago.
-Sara: I'm very sorry. Your brother Gregory is your guardian, right?
-Ashley Curtwell: Yeah.
-Sara: And he left you alone all weekend?
-Ashley Curtwell: He goes away a lot.
-Sara: Okay. Why don't you tell me what happened last night?
-
-
-Ashley Curtwell:  I was on my way to the mall to get something to eat. I always cut through the construction site.
-
-Ashley Curtwell: My brother tells me not to, but it saves me, like, ten minutes.
-Sara: That makes sense. What happened after that?
-Ashley Curtwell: Well, this guy from school, Brian, comes out of nowhere.
-Sara: Do you know Brian's last name?
-Ashley Curtwell:  Yeah. It's, um ... Haddick. We were in homeroom together freshman year. 
-
-Ashley Curtwell: So, anyway, he says his cat ran away ... and will I help him find it.
-Sara: And you did?
-
-Ashley Curtwell: A cat. I'm so stupid.
-Sara: You're not stupid, Ashley. I know this is hard.
-
-Sara: If we could just go over it from start to finish just one time.
-Ashley Curtwell: So, we walked into the house ...
-
-
-Brian Haddick: Come on. Hurry up.
-
-Brian Haddick: I think I saw him come in here.
-
-Ashley Curtwell: What color is he?
-Brian Haddick: Gray.
-Ashley Curtwell: Here, kitty, kitty.
-
-Brian Haddick: You're going to like it, you dirty bitch. You're going to like it.
-
-
-Ashley Curtwell: It was like the more I shouted, the more he liked it.
-
-Sara:  Rape is not about s*x. It's about violence.
-
-Sara: You were against the wall.
-
-Ashley Curtwell: No!
-
-
-Sara: Did you see who hit Brian?
-
-Sara: Ashley, after all that had happened, you went shopping?
-Ashley Curtwell:  He was all over me. I just had to get him off me.
-Sara: And you got some coffee and some earrings.
-Ashley Curtwell: What? I bought that stuff? All I remember is getting new clothes and going home. Why does all this bad stuff keep happening to my family?
-
-
-Brass: She's covering for her brother.
-
-Warrick: He's got a non-confirmable alibi. I'm sure she doesn't want to lose the only guardian she's got.
-
-
-
-
-Robbins: It's pretty obvious the initial blows were to the head.
-Grissom: Well, according to Sara, that's consistent with the girl's story.
-Robbins: Whoever attacked him just kept going. Used some real force. Severed his spinal cord at C-l, C-2.
-
-Grissom: Well, that would have rendered him immobile.
-Robbins: Right, so why keep hitting?
-
-Robbins: The epidermis was disturbed, leaving areas of exposed derma, which we'd normally see as red or purple abrasions. But in this case, no blood rushed to the area.
-Grissom: He was beaten postmortem.
-Robbins: Right.
-Grissom: So, Gregory Curtwell sees Brian attacking his sister. His adrenaline starts going, and he can't stop.
-
-Robbins: Well, Brian may have gotten off a punch of his own. I can't identify the pattern, but I sent blood and skin transfer to Greg.
-
-Robbins: And you're going to need these.
-Grissom: Thanks.
-
- 
- 
-Mr. Haddick: That's our son.
-Mrs. Haddick: Who could have done this to my baby?
-Grissom: Do you recognize this girl?
-
-Grissom: Did Brian ever mention the name Ashley Curtwell?
-Mrs. Haddick: He got a little out of hand for a while. We couldn't keep track of his friends.
-Grissom: &quot;Out of hand&quot;?
-Mrs. Haddick: I found some marijuana in his room. Broke curfew. The nipple piercing was the last straw.
-Mr. Haddick: I told him he could do anything he wanted to the body God gave him once he moved out. Until then ... 
-Mrs. Haddick: He was grounded. But he was doing so much better. His grades were up. He got a job.
-Grissom: Where did he work?
-Mr. Haddick: My brother owns a restaurant. Got him a job bussing and waiting tables. Five hundred bucks every two weeks.
-
-Mr. Haddick: Cash under the table. Pretty good for a kid who can't drive.
-
-
- 
- 
-Bobby Dawson: No GSR on either the husband's or ex-husband's hands.
-Nick: That's not definitive. One of them still could have fired the gun and washed his hands.
-Bobby Dawson: Yeah. Well, you know, you asked me to check Marlene Mitchell's bullet for trace?
-Nick:  Hmm.
-Bobby Dawson: Well, there isn't any. It's in pristine condition.
-Nick: The only reason for shallow penetration is loss of momentum.
-Bobby Dawson: Yeah, and it was a standard full metal jacket, not a pre-fragmented.
-Nick: So, assuming that the bullet didn't come in contact with any intervening object, what slowed it down?
-
- 
- 
-Warrick: Hey, Sanders, you got anything on that knuckle sludge? Grissom's asking.
-
-Greg: Yeah, a skin sample taken from Brian Haddick's defensive wounds, hair samples from Ashley Curtwell, and buccal swab collected from Gregory Curtwell. No match to the brother or sister. Construction worker didn't do it.
-
-Warrick: Or he didn't do it alone.
-
-
- 
- 
-Sara: Seventy-two-degree impact angle puts Brian here for the initial blows.
-
-
-Sara: Width is three millimeters. Length is six.
-
-Warrick: Arcsine gives us 30 degrees.
-Sara: So, Brian was crawling.
-
-Warrick: That must be when his neck was exposed.
-
-Grissom: He ended up here on the floor with his spinal cord severed.
-Warrick: Well, if he was laying down, this looks too high to be a spatter.
-
-Warrick: Must be cast-off.
-
-Sara: On three walls. Assailants tend to move only in reaction to a target, Brian was stationary.
-
-Sara: Why would the attacker keep moving? It doesn't make sense.
-Grissom: It does if there were three hammers and three attackers.
-
-FADE OUT
-
-
-;
-
-
-
-
- 
- 
-Nick: Hey, Catherine, feel like doin' some real work?
-Catherine: And leave all this?
-Nick: I got a woman who DFO'd in front of her house trying to break up a fight. It's a single gunshot wound to the chest. The penetration is ... shallow. I want to know why.
-Catherine: And you want me to cook?
-
- 
- 
-
-
- 
- 
-Catherine: Okay, boys. There's always room for jell-O.
-Nick: Oh, yeah.
-Bobby Dawson: Uh, Catherine, technically, that's just gel.
-Catherine: I wasn't planning on eating it.
-
-Bobby Dawson: Okay, let's shoot it.
-
-Bobby Dawson: Betty Crocker.
-
-Bobby Dawson:  Firing one at 100%!
-
-Nick: Standard velocity is 1,100 feet per second.
-
-Catherine: All right, that is A ... twelve-inch penetration.
-
-Catherine: So ... a, um ... hundred percent load gives us twelve inches.
-
-Bobby Dawson:  Firing one at 70%!
-
-Catherine: Seven and three-quarter inches.
-
-Bobby Dawson:  Firing one at 40%!
-
-Nick: 500 and ... 50 feet per second.
-
-Catherine: Four inches.
-Bobby Dawson: Same as Ms. Mitchell.
-Catherine: So Mrs. Mitchell was shot by a bullet traveling 550 feet per second.
-Nick: Now that we know the speed, we can calculate the distance. Thanks, Catherine.
-
- 
- 
-Bobby Dawson: So standard velocity for a nine millimeter bullet is 1,100 feet per second.
-Nick: How far does a nine millimeter bullet have to travel before it slows down to 550 feet per second?
-Bobby Dawson: Let's see.
-
-Bobby Dawson: Eighteen hundred feet. Whoa. We're talking six football fields.
-Nick: Yeah, that would pretty much eliminate anyone that was in the Mitchell's front yard. Can a nine millimeter bullet even travel that far?
-Bobby Dawson: Hang on.
-
-Bobby Dawson: All right. If a nine millimeter were fired straight ... it'd go about 600 feet before gravity brought it down, but if a bullet were fired at an angle ... could go a heck of a lot further.
-Nick: That would account for the distance, but ms. Mitchell was shot at an eighty-five-degree angle. That's basically perpendicular.
-Bobby Dawson: Um ... bullets are predictable.
-Nick: People ... aren't.
-
-
-Marlene Mitchell: No, stop it!
-
-
-Nick: I assumed she was standing.
-
-Nick: Okay, this is the Mitchell's house,
-
-Nick: ... and by all eyewitness accounts, she was standing in front the house, facing away north, when she was shot, so this line represents the 1,800 feet our bullet traveled.
-
-Nick: It had to have come from somewhere ... on that arc.
-
-Bobby Dawson: Good luck knocking on doors.
-
-
- 
- 
-Brass: Here I'm looking for three guys, but you only found one hammer with blood on it, so who do you want me to follow?
-Grissom: Me.
-
-
-
-Grissom: What's up?
-Warrick: The shoe tread I found at the scene -- it's a world industries Diablo. It's a skate shoe. Size 11.
-Brass: On a construction worker?
-Warrick: Screams 'teenager', I know.
-Grissom: Why is Gregory Curtwell hanging out with teenage boys?
-Warrick: Well, he has a teenage sister.
-Brass: And the sister and Brian Haddick were both students at McKinley high.
-Grissom: I bet the shoe also goes to school there.
-
- 
-
- 
-Warrick: Nice kicks. I like those.
-Teenaged Boy: Thank you.
-Warrick: You guys play ball?
-Teenaged Boy: Yeah.
-Warrick: Yeah?
-Teenaged Boy: Uh-huh.
-Warrick: Nice backpack.
-Teenaged Boy: Thanks.
-
-Principal: We're treading a razor-thin line of illegal search and seizure here.
-Brass: Now, I'm not a with you, but shoes are a plain-view item. 
-
-Brass: Anyway, here's the guy who's going to be investigating ...
-
-Tyler's Dad: Tyler, come on, we're going.
-
-Tyler's Dad: Are you crazy? Do you know what my law firm does? You can't question these kids without a parent present.
-Brass: We're not questioning them, which is why you're here-- so we can.
-Tyler's Dad:  Oh. And I'm holding you responsible.
-Principal: Clark County Law Enforcement and I have taken every precaution to make sure that these students' rights were not violated.
-Tyler's Dad: You are sequestering these kids without probable cause. I hate that I've been called out of work to come down here, and I'm going to be so far up your ass, you're not going to be able to sit down straight.
-Grissom: You know what I hate? People who hurt kids. And you know who those people sometimes are?
-Tyler's Dad: Cops?
-Grissom: Other kids. If it had been your son whose skull was smashed in with a hammer, you'd be asking me where I was when I should've been protecting him. Kids bring guns to school to shoot other kids, so who are you protecting?
-Tyler's Dad: Let's discuss it in court.
-
-Principal:  Excuse me.
-
-Brass: Well, way to clear a room.
-Principal: Those of you with parents here are dismissed, and the rest of you please wait here.
-
-Warrick: Brass. 
-
-Warrick: Check this out.
-Brass: Hey, bud. What's your name?
-Benny Lizzio: Benny.
-Brass: Benny, where's your father? Is he around?
-Benny Lizzio: Uh, he's at home. Probably called in drunk.
-Brass: Well, lucky for you, we make house calls.
-
-
-
- 
- 
-Mr. Lizzio: You good for nothing little b*st*rd ... I knew you stole that game thing. A hundred and twenty-five bucks, my ass.
-Benny Lizzio: I told you. I bought that with my own money.
-Mr. Lizzio: You talkin' back to me? Huh?
-
-Brass: Hey ... Let's sit down. Let's all sit down. Come on.
-
-
-Brass: Look, I'll take this. Let 'em argue diminished capacity after the fact.
-Warrick: You think they know how a DNA test works?
-Brass: I don't know. Let's find out. 
-
-Brass: Mr. Lizzio, do you mind if we test Benny's sneaker for DNA?
-Mr. Lizzio: You do what you got to do, officers.
-Warrick: Lift your right shoe, please.
-
-Warrick: We got a problem. The blood on your shoe is a match to Brian Haddick's.
-
-Warrick: DNA doesn't lie.
-Brass: So, do you want to tell us how a dead kid's blood ended up on the bottom of your sneaker, Benny?
-Mr. Lizzio: Yeah, Benny. Why don't you tell us that?
-Benny Lizzio: Sometimes I go to the construction site just to hang out.
-
-
-Brass: So, you just, uh ... happened upon it? Didn't report it to anybody?
-Benny Lizzio: I was trespassing. I didn't want to get in trouble.
-Warrick: Mr. Lizzio, would you mind if I took a look around?
-Mr. Lizzio: Be my guest.
-
-Brass: Mr. Lizzio, why don't you sit down? We're going to be a while, okay? You been drinking today, Mr. Lizzio?
-Mr. Lizzio: Couple of beers.
-
-
-Warrick: Practice makes perfect.
-FADE OUT
-
-
-
- 
- 
-Brass: So, Benny, for the record, you've waived your right to have your parent or an advocate present.
-Benny Lizzio: Yep.
-Brass: So, how do you know Brian?
-Benny Lizzio: We hung out a few times when we were freshmen.
-Brass: You know Gregory Curtwell?
-Benny Lizzio: Ashley's brother? Yeah. He bought me beer a couple times.
-Brass: Oh, so you know Ashley, too?
-Benny Lizzio: Yeah. I'm a friendly guy.
-Brass: Well, that's good, Benny, because...
-
-Brass: ... you're looking at murder. And if you're friendly and you cooperate, and you tell me what happened to Brian Haddick, maybe I can cut you a deal.
-Benny Lizzio: Ain't gonna happen. I'm no snitch.
-Brass: You want to tell me about those melons at your house? You looking to be another Gallagher? You know who that is?
-Benny Lizzio: Since when is whacking fruit a crime?
-Brass: When it's practice for whacking people.
-
-Brass: Your hammer had Brian's blood all over it. Understand something, Benny, I'm talking about months versus years of juvenile detention. It's your call.
-Benny Lizzio:  They got cable? Food? My dad locked on the outside? Sounds good to me. Besides, I'm a minor. By the time I'm 21, it's like it never happened.
-
-
-
-Warrick: Did he roll?
-Grissom: Brass says the kid is looking forward to going to jail.
-Warrick: Hmm.
-Grissom: So, what do we got here?
-Warrick: It's hard to tell what's relevant and what's trash. This is everything we brought back from Benny's party room.
-
-Grissom: Are these ... ? 
-
-Grissom: Spaghetti-oh's?
-Sara: I don't think so.
-Greg: Nah. Nah, those would be orthodontic rubber bands. Hook 'em to your braces, uh, upper to lower. Helps pull the jaw in the right direction. Also great for flinging. Yeah, I had it all -- palate expander, braces, retainer, head gear. Ah, five years of misery, but worth every penny, don't you think?
-
-Greg: Um, there might be some saliva residue on them. I can see what I can pull off, if you want.
-Sara: Yeah. Would you?
-Greg: Well, you're going to need something. Strike three on the knuckles.
-
-Warrick: Benny's DNA doesn't match. Gregory's doesn't match. Ashley's doesn't match. Who did this guy hit?
-Grissom: Greg, test both of these. 
-
-Grissom: If a third guy has braces, it may explain the strange pattern on Brian's hand.
-Sara: It's probably another student, but Benny's not talking.
-Warrick: Benny has a party room, right? You can't have a party without the music. I found some new CD's in his room.
-
-Grissom: What's &quot;C &amp; D&quot;?
-Warrick: It's like a music club, twelve CDs for the price of one.
-(GRISSOM looks at the address label:
-GILBERT, AARON
-7748 CANYON AVE
-LAS VEGAS, NV 89123
-Grissom: And Aaron Gilbert was...?
-
-Warrick:  The deejay maybe?
-Sara: You know, at this time of year, watermelon isn't cheap, particularly organic. Maybe the music isn't the only thing that Aaron Gilbert brought to the party.
-
-
-
- 
- 
-Young Mother: Yeah, I heard gunfire a couple of days ago. Johnnie, the idiot behind us, was playing like G.I. Joe in his backyard. I screamed out my window. I got kids, you know? Why do you want to know?
-Nick: Just curious.
-
-
-
-Johnnie: She called you guys, right? It's like having a wife. Gun's brand-new. Shot it one time. She told me to stop, I stopped.
-Det. Sam Vega: Sir, you're going to have to tell us where that gun is.
-
-
-
-Nick: And this is the gun that you fired?
-Johnnie: Yeah.
-
-Nick: Empty ten-round magazine.
-Det. Sam Vega: It was full when you started?
-Johnnie: Yeah.
-
-Nick: I, uh, only count nine holes in your target.
-Johnnie: I must have missed one.
-Nick: Oh, you didn't miss.
-
-
-Young Mother: Hey! You want to kill someone?!
-
- YOUNG MOTHER: Put that thing away! I have kids!
-
-
-
-Det. Sam Vega: Just nice and easy. 
-Nick: You see, your neighbor didn't lose her kid, but six blocks away, a guy lost his wife.
-Johnnie: It was just a little target practice. 
-Nick: And that's why it's illegal to discharge firearms within the city limits, genius.
-
-
-
-
-Brass: Aaron Gilbert?
-
-Aaron Gilbert: Yeah.
-Brass: I'm detective Brass, Las Vegas police. We need to talk.
-Aaron Gilbert: Oh, dude, I got to get home. My mom's waiting for me and my brother.
-Warrick: Oh, we talked to your mom.
-Sara: Yeah, she gave us your hammer and this.
-
-Jared: Yo, Dawg, we going or what?
-
-Warrick: Or what ... Dawg.
-
- 
- 
-Brass: That's a nice walkman you had. What'd that cost? 125 bucks? Same as Benny's gameboy. Same as your brother's secret stash.
-
-Brass: Speaking of Benny, he's not too smart, is he? He wouldn't give up you and your brother for a lesser sentence. You know what? There's an opportunity here, and I think you got more on the ball than Benny. Tell me what happened.
-
-
-
-Warrick: Jared ... ain't braces a bitch? I see that cut on your lip. Is that where Brian hit you? They do make for a good impression though.
-
-Warrick: See all these grooves here? It's perfect for storing DNA. That would be your DNA. Look, Jared, I'm not a cop, but if you tell me what happened, I will put in a good word for you.
-
-
-
-Sara: We have a problem. We have three hammers and four suspects.
-Warrick: Well, the Gilbert brothers both seem ready to go down for it.
-Brass: And Benny can't wait to go to jail.
-Sara: If they were defending Ashley against an attacker, why not say so?
-Grissom: They weren't. The smashed watermelon suggests the whole thing was premeditated.
-Sara: Making the motive robbery?
-Warrick: Well, Benny, Aaron and Jared each had about $125 worth of cash and assorted prizes.
-Grissom: $375. Brian's parents said that he was being paid $500 every two weeks. Cash under the table.
-Sara: It was payday, so who got the other $125?
-Warrick: Well, Gregory Curtwell makes good money. Hundred twenty-five bucks is a spit in the ocean for a construction worker. If he wasn't defending his sister, then he has no motive.
-Brass: Well, if he didn't do it, how did his hammer end up with Brian's blood on it?
-
-Sara: Clothing-- $85; earrings - $30; coffee-- four dollars. Getting away with murder ...
-Grissom: ... priceless.
-
- 
- 
-Sara: That hand that holds the wallet is the hand that rules the world. Huh, Ashley? 
-
-Sara: Your fingerprint in Brian's blood on Jared's money. This is what we call
-&quot;completing the triangle.&quot;
-Ashley: Okay. So he attacked me, and I did see who defended me. But I didn't want to get my friends in trouble, and the money was for, like ... like, pain and suffering.
-Sara:  You weren't attacked, Ashley. Brian was. We figured none of the boys wore cotton candy, so we had it tested.
-
-Sara: Turns out you were at Benny's house, too.
-
-Ashley Curtwell: Let's do it!
-
-Ashley: Come on, guys! Whoo!
-
-
-Sara: At the mall, you weren't in shock, you were celebrating.
-
-Sara: Your brother was up in Tahoe this past weekend, wasn't he?
-Ashley Curtwell: He goes away almost every weekend.
-Sara:  You know, I'm done with the Ashley pity party. My guess is Aaron and Jared only had one hammer, but you had access to your brother's tools. Why Brian?
-Ashley Curtwell: Before he went straight, we were buds, but then he got too good for us, but he wasn't too good to want to get with this.
-
-Brian Haddick: Where do you want to do it at? ASHLEY CURTWELL: Right here. BRIAN HADDICK: In here? ASHLEY CURTWELL: Yeah.
-
-Ashley Curtwell:  Stop.
-
-Brian Haddick: You set me up?
-Ashley Curtwell: Get him!
-
-Ashley Curtwell: Get him!
-
-
-Sara: You're not a victim, you were a lure. Do you know how many people don't report a rape because they're afraid that no one will believe them?
-Ashley Curtwell:  Of course. It's what I was counting on.
-Sara: I'm going to do everything in my power to make sure that you're tried as an adult.
-Ashley Curtwell: Good luck. I dress up real nice -- couple barrettes, little lace collar, two dead parents. I'll be the saddest little girl in the world.
-FADE TO BLACK
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=04x10+-+Coming+of+Rage&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127362%23p127362" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=04x10+-+Coming+of+Rage&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127362%23p127362" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127362%23p127362&amp;name=04x10+-+Coming+of+Rage" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127362%23p127362" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=72bdef6eac419d6752f1e5e4c0d8fc74">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=72bdef6eac419d6752f1e5e4c0d8fc74">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=72bdef6eac419d6752f1e5e4c0d8fc74">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=72bdef6eac419d6752f1e5e4c0d8fc74">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

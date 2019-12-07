@@ -5,7 +5,7 @@ from soupsieve import select
 
 episodes = {}
 
-for i in range(3,15):
+for i in range(3,9):
   
     page = open("data/html/page-" + str(i) + ".html", 'r')
     soup = BeautifulSoup(page.read(), features="lxml")
@@ -28,7 +28,7 @@ for key, value in episodes.items():
   
     with open(filename, 'wb') as handle:
         headers = {'User-Agent': 'Chrome/78.0.3904.106'}
-        response = requests.get(link,headers = headers) #use value["link"] instead of link for pages 1 and 2
+        response = requests.get(link,headers = headers) #use value["link"] instead of link for pages 1 and 2 #use link for other pages
         if response.ok:
             for block in response.iter_content(1024):
                 if not block:

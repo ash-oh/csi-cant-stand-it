@@ -1,680 +1,910 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="FADE IN.
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] 
+[CU: BUFFET PLATE]
+(FAST FORWARD: Food is placed on a plate, paid for and carried to the tabl" />
+<meta property="og:title" content="06x09 - Dog Eat Dog - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="FADE IN.
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] 
+[CU: BUFFET PLATE]
+(FAST FORWARD: Food is placed on a plate, paid for and carried to the tabl" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13318" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>06x09 - Dog Eat Dog - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13318" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13318">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=4f6dcab6a97eb0baf9d6cfae02a9b2ea"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=4f6dcab6a97eb0baf9d6cfae02a9b2ea">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=4f6dcab6a97eb0baf9d6cfae02a9b2ea">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=4f6dcab6a97eb0baf9d6cfae02a9b2ea">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=4f6dcab6a97eb0baf9d6cfae02a9b2ea">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13318&amp;sid=4f6dcab6a97eb0baf9d6cfae02a9b2ea&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>06x09 - Dog Eat Dog</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127412">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127412">06x09 - Dog Eat Dog</a></div>
+							<div class="pull-right text-right"><time datetime="2005-12-08T18:57:08Z">12/08/05 18:57</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>FADE IN.</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] </p>
+<p>[CU: BUFFET PLATE]</p>
+<p>(FAST FORWARD: Food is placed on a plate, paid for and carried to the table. It's eaten and put in the tray when the table is bussed.) </p>
+<p>(The bin is carried into the kitchens. Someone picks up the plate and accidentally drops it on the floor. The place cracks. Someone sweeps the pieces into a dust bin and carries it outside where it's thrown into the garbage.)</p>
+<p>(Inside the garbage is a dead body.) </p>
+<p>CUT TO:<br />
+[PHOTO FLASHES]</p>
+<p>(Grissom takes photos of the dead body in the garbage bin.)</p>
+<p>[EXT. - NIGHT]</p>
+<p>(Brass walks up to Grissom.) </p>
+<p><strong>Brass</strong>: Hey.</p>
+<p><strong>Grissom</strong>: I was happy to hear the review board cleared you.</p>
+<p><strong>Brass</strong>: Well, it's been a rough time, but I'm dealing with it. Anyway, a kitchen worker found him. Says a lot of homeless people hang out here. Says the vic was unfamiliar to him.</p>
+<p><strong>Grissom</strong>: Creased khakis, oxford shirt, new shoes. This guy had a home.</p>
+<p><strong>Brass</strong>: Well, I checked the front pockets, no ID.</p>
+<p><strong>Grissom</strong>: Back pockets?</p>
+<p><strong>Brass</strong>: I was leaving that for you.</p>
+<p>(Grissom turns and looks at the body.)</p>
+<p><strong>Brass</strong>: Looks like some blood around his lips. Maybe somebody punched him in the mouth. What do you think?</p>
+<p>(Grissom reaches into the garbage bin and takes a swab of the red substance around the dead man's smiling lips. He looks at it and smells it.) </p>
+<p><strong>Grissom</strong>: Cranberry sauce.</p>
+<p>(Brass chuckles.) </p>
+<p><strong>Brass</strong>: I know. Happy Thanksgiving.</p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. -- NIGHT] </p>
+<p>(Grissom and Catherine are near the body waiting for David Phillips to finish.) </p>
+<p><strong>Catherine</strong>: This place used to make a hell of a meatloaf sandwich. (to Grissom)<br />
+You ever eat here?</p>
+<p><strong>Grissom</strong>: Not since the chef blew his brains all over the kitchen.</p>
+<p><strong>David Phillips</strong>: I eat here all the time. I like the chili.</p>
+<p><strong>Grissom</strong>: TOD, David?</p>
+<p><strong>David Phillips</strong>: Based on liver temp, he's been dead around two hours.</p>
+<p><strong>Catherine</strong>: Well, it looks like he was knocked out and thrown out. And there's some metallic silver residue on his cheek.</p>
+<p>(Grissom snaps a photo of a white sticky substance on the dead body's hand.) </p>
+<p><strong>Grissom</strong>: What's this gunk in his hands?</p>
+<p>(David pries the stiff hand open.) </p>
+<p><strong>David Phillips</strong>: Mashed potatoes.</p>
+<p><strong>Grissom</strong>: There were mashed potatoes in the dumpster.</p>
+<p>(He notices the man's nails.) </p>
+<p><strong>David Phillips</strong>: No fingernails ... on either hand.</p>
+<p><strong>Catherine</strong>: Maybe he was alive inside there. Digging to get out.</p>
+<p><strong>Grissom</strong>: Or he had really bad table manners.</p>
+<p><strong>Catherine</strong>: There's some scarring on his wrist, but not on the other.</p>
+<p><strong>David Phillips</strong>: Look what I found in his pocket. &quot;Aunt Jackpot's Pretzels.&quot;</p>
+<p>(David shows them the napkin.) </p>
+<p><strong>Catherine</strong>: Oh, now, they make a great pretzel.</p>
+<p><strong>Grissom</strong>: Maybe that's why he's got that smile on his face.</p>
+<p>(Camera lingers on the smile on the man's face.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAWN]</p>
+<p>[EXT. RESIDENCE -- MORNING] </p>
+<p>(A crowd of curious onlookers have gathered outside the taped-off area just outside the residence.) </p>
+<p>(Sofia Curtis, Sara and Nick walk up the driveway toward the house.) </p>
+<p><strong>Sofia Curtis</strong>: 419 times two.</p>
+<p><strong>Nick</strong>: Double murder?</p>
+<p><strong>Sofia Curtis</strong>: Husband and wife.</p>
+<p>(They notice a car with Nevada plates, 656-DHL.) </p>
+<p><strong>Sara</strong>: Beat-up car in a Lexus neighborhood.</p>
+<p><strong>Sofia Curtis</strong>: We ran the plates. RO doesn't live here. We're tracking her down.</p>
+<p>(Nick reads the bumper sticker as they walk past the car.) </p>
+<p><strong>Nick</strong>: &quot;Bitch on wheels.&quot; Can't wait to meet her.</p>
+<p>CUT TO:<br />
+[INT. RESIDENCE - MORNING]</p>
+<p>(Sofia opens the door and they walk inside.) </p>
+<p><strong>Sofia Curtis</strong>: Alarm was triggered at 11:45 P.M. The monitoring company notified PD when the homeowners didn't return their call. Patrol finally arrived at 3:32 A.M.</p>
+<p><strong>Nick</strong>: Residentials are a low priority. They're usually false alarms.</p>
+<p>(On the floor are two dead bodies.) </p>
+<p><strong>Sofia Curtis</strong>: Not this one. Michael and Lori Tinsley. Kitchen door was open when we arrived. His wallet was in his pocket. Her purse was on the counter. Cards, cash, TV, stereo, it's all still here.</p>
+<p><strong>Nick</strong>: If this was a robbery, they missed all the good stuff.</p>
+<p>(Sofia glances at her watch.) </p>
+<p><strong>Sofia Curtis</strong>: The coroner should be here right now. So, uh, I'm gonna go see what's happened to him.</p>
+<p>(Sofia leaves. Sara kneels down and looks at the woman.) </p>
+<p><strong>Sara</strong>: Well, looks like she exsanguinated out her jugular.</p>
+<p><strong>Nick</strong>: Abrasion on his forehead. No visible blood. Blonde hairs on his shirt. Both victims are brunette.</p>
+<p><strong>Sara</strong>: Blonde hairs on the wife, too. And possible skin scrapings under her fingernails. Maybe she got a piece of her attacker.</p>
+<p>(Quick flashback to: Lori Tinsley struggles against her attacker. End of flashback.) </p>
+<p><strong>Nick</strong>: If her neck was sliced with a knife, it was probably serrated. The wound's too jagged for a straight one.</p>
+<p>(Sara looks around and sees the open cabinet.) </p>
+<p><strong>Sara</strong>: Check out that record collection. The cabinet door's open.</p>
+<p>(She walks over to look. She opens the cabinet door and looks at the record collection. Nick leans forward to look at a blood drop on the ground.) </p>
+<p><strong>Sara</strong>: Alphabetized. Classic rock. Looks like several records have been removed recently.</p>
+<p>(Quick flashback to: Someone opens the cabinet door and removes several records. End of flashback.) </p>
+<p><strong>Sara</strong>: I'll dust for prints.</p>
+<p><strong>Nick</strong>: Smudges in the blood trail. Ovoid shapes suggest directionality. Satellite stains also suggest suspect moved this direction. </p>
+<p>(Nick heads in the direction of the blood trail.) </p>
+<p><strong>Sara</strong>: Judging by these gaps, I'd say entire catalogs are missing.</p>
+<p><strong>Nick</strong>: There is good money in vinyl. Especially if it's rare and well-preserved. Who would kill somebody over a bunch of records?</p>
+<p>(He turns on the flashlight and looks at the open back door. The sprinklers are on.) </p>
+<p><strong>Sara</strong>: Something's missing between the Beach Boys and Billy Joel.</p>
+<p><strong>Sara/Nick</strong>: (both) The Beatles.</p>
+<p>(Nick walks outside.) </p>
+<p>(He checks the door latch.) </p>
+<p><strong>Nick</strong>: Loose strike. Would have been pretty easy to get in from back here.</p>
+<p>(From the kitchen, Sara sees the dog bowl.) </p>
+<p><strong>Sara</strong>: They have a dog.</p>
+<p><strong>Nick</strong>: (calls out) Sofia said the door was open; maybe he took off. Bloodstains stop at the grass. Sprinklers are on now, kissing the evidence good-bye.</p>
+<p><strong>Sara</strong>: Hey, Nick.</p>
+<p><strong>Nick</strong>: Yeah?</p>
+<p><strong>Sara</strong>: There was some blood on these dog bowls.</p>
+<p>(Nick steps back into the house.) </p>
+<p><strong>Sara</strong>: Considerable.</p>
+<p>(Nick kneels and looks at the blood on Kahlua's dog bowls.) </p>
+<p>(They hear a thud. Sara looks around, then at Nick. They hear another thud.) </p>
+<p>(They both get up and reach for their guns. They make their way down the hallway. At the end of the hallway is a partially opened door.)</p>
+<p>(They push the door open and find a dog sitting inside an open kennel box.)</p>
+<p>(The dog growls.)</p>
+<p>(On the dog's muzzle is dried blood. The dog's paws are also bloodied.) </p>
+<p><strong>Nick</strong>: I'll call Animal Control.</p>
+<p>(Nick puts his gun away.)</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(Robbins shares his findings with Catherine.) </p>
+<p><strong>Dr. Robbins</strong>: Stomach is massively distended. Human stomachs have a volume of about one liter, a little more than a quart. But they have the ability to expand and hold up to four liters. But looking at this guy, I'd say he was packing around six. And that's your COD.</p>
+<p>(Quick flashback to: The victim is in the garbage bin gasping for breath.) </p>
+<p>(Camera zooms down toward his chest and into his chest.) </p>
+<p><strong>Robbins</strong>: (V.O.) Asphyxia due to mechanical compression of the lungs due to gastric dilatation.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Robbins</strong>: His stomach expanded, leaving no room for the organs. It's going to keep me on my diet for a couple more weeks. Let's take a look.</p>
+<p>(Robbins takes a scalpel and cuts the stomach open.) </p>
+<p><strong>Robbins</strong>: Ooh, the guy was a walking buffet.</p>
+<p><strong>Catherine</strong>: Multiple contusions. He's got a band of dead tissue on his wrist. No fingernails.</p>
+<p><strong>Robbins</strong>: Cuticle's are inflamed and still intact. They weren't pulled off. They were bitten down ... At first I thought tortured and force-fed, but the usual signs of force feeding are absent. No abrasions on the mucosal surface of the lips. No aspirated food in the airways.</p>
+<p><strong>Catherine</strong>: So what are you thinking now?</p>
+<p><strong>Robbins</strong>: He ate himself to death.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. AUNT JACKPOT'S PRETZELS VENDOR STAND -- DAY] </p>
+<p>(Catherine shows a worker a photo of the dead man found in the garbage bin.) </p>
+<p><strong>Catherine</strong>: Do you recognize this face? </p>
+<p><strong>Pretzel Vendor</strong>: I know exactly who that is. Man, dude's crazy.</p>
+<p><strong>Catherine</strong>: Dude got a name?</p>
+<p><strong>Pretzel Vendor</strong>: No name. Oh, but I got a wallet.</p>
+<p><strong>Catherine</strong>: What, he left it behind?</p>
+<p><strong>Pretzel Vendor</strong>: More like he threw it.</p>
+<p>(Quick flashback to: The man rushes up to the pretzel stand, pushing the other customers waiting out of the way.) </p>
+<p><strong>Jerry Gable</strong>: Pretzel, thank you, please.</p>
+<p><strong>Pretzel Vendor</strong>: Hey, pal. Where's your manners?</p>
+<p><strong>Jerry Gable</strong>: Just one pretzel, please. </p>
+<p><strong>Pretzel Vendor</strong>: Oh, no, no, no, no.</p>
+<p><strong>Jerry Gable</strong>: Just a quick, fast one.</p>
+<p>(He pulls out his wallet.) </p>
+<p><strong>Jerry Gable</strong>: Come on.</p>
+<p><strong>Pretzel Vendor</strong>: No, no.</p>
+<p>(He grabs a pretzel and leaves his wallet behind.) </p>
+<p><strong>Pretzel Vendor</strong>: Hey, hey, hey, hey! I said no! Excuse me.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p>(Catherine looks inside the empty wallet.) </p>
+<p><strong>Pretzel Vendor</strong>: See, salty pretzel's $1.50. Only a dollar in the wallet. Jerk. </p>
+<p>(Inside the wallet, Catherine also finds a photo of Jerry with his sister, Sophie and another man.) </p>
+<p><strong>Pretzel Vendor</strong>: Hey, and I took the money, by the way.</p>
+<p>(Catherine finds the following in the wallet:<br />
+* a bus pass for DEC 2005;<br />
+* a business card for<br />
+DIGGER JAMES, Sport Promoter, EXTREME EATING FEDERATION<br />
+Phone: (702) 555-0198<br />
+Fax: (702) 555-0199 )</p>
+<p><strong>Pretzel Vendor</strong>: I didn't care. Oh, I saw that. Sports promotions. Man, I seen his gut, man. He don't look like he no athlete.</p>
+<p><strong>Catherine</strong>: They're calling poker players athletes these days. Seen the guts on them? Hey, can I get a pineapple cinnamon?</p>
+<p><strong>Pretzel Vendor</strong>: Oh, okay, good choice.</p>
+<p><strong>Catherine</strong>: Thank you.</p>
+<p>(The pretzel vendor turns to get her order. Catherine takes out the phone and dials the number on the card.) </p>
+<p><strong>Voice (woman)</strong>: (recording) O198. Please leave your message after the tone.</p>
+<p>(Catherine hangs up.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(The dog kennel box is at the lab. It's tagged and labeled.) </p>
+<p><strong>Jesse Menken</strong>: All right, let's take a look at our Cujo.</p>
+<p>(She opens the box and pulls out the muzzled dog. The dog whines softly.) </p>
+<p><strong>Jesse Menken</strong>: Yeah, she's ferocious.</p>
+<p><strong>Nick</strong>: Yeah, yeah, I'm petrified. So what's the outside chance of rabies?</p>
+<p><strong>Jesse Menken</strong>: She's not salivating excessively or showing any signs of hydrophobia, but rabies doesn't present immediately. She'll be quarantined for the next ten days.</p>
+<p><strong>Nick</strong>: Well, other than rabies, what would make a dog attack its owner? Abuse?</p>
+<p><strong>Jesse Menken</strong>: Abused animals may turn violent. Head traumas may induce unprovoked aggression. And there's always springer rage.</p>
+<p><strong>Nick</strong>: Yeah, yeah, I hate that show, too.</p>
+<p>(She chuckles.) </p>
+<p>(She clips a sample of the dog's hair and puts it in a bindle.) </p>
+<p><strong>Jesse Menken</strong>: It's a form of epilepsy associated with several breeds, including springers and retrievers. Man's best friend will back you corner and attack. Five minutes later, she's licking your face as if nothing ever happened. I'll suppose you want bite impressions?</p>
+<p><strong>Nick</strong>: Yeah, I'll prep the microsil, if you prep the pooch.</p>
+<p>CUT TO:<br />
+[INT. CSI - INTERVIEW ROOM -- DAY] </p>
+<p>(Sara interviews Missy Halter.) </p>
+<p>(She shows her a photo of the car, license #656-DHL.) </p>
+<p><strong>Sara</strong>: This car is registered to you, Ms. Halter?</p>
+<p><strong>Missy Halter</strong>: Yeah. So?</p>
+<p><strong>Sara</strong>: And why was it in the Tinsleys' driveway?</p>
+<p><strong>Missy Halter</strong>: I lent it to Michael; his Beemer's in the shop. I want it back.<br />
+(She points to herself.) This was not meant for public transit.</p>
+<p><strong>Sara</strong>: And your relationship with Michael Tinsley is?</p>
+<p><strong>Missy Halter</strong>: Why is that any of your business? I'm his girlfriend, okay?</p>
+<p><strong>Sara</strong>: How does his wife feel about that?</p>
+<p><strong>Missy Halter</strong>: (scoffs) Not my problem. They're separated, getting divorced. Michael lives with me. I want to talk to Michael now.</p>
+<p><strong>Sara</strong>: Were you at Lori Tinsley's house last night?</p>
+<p><strong>Missy Halter</strong>: No. I've never been inside that psuedo Cape Cod dump.</p>
+<p><strong>Sara</strong>: If you've never been there, then how do you know it's a pseudo Cape Cod dump?</p>
+<p><strong>Missy Halter</strong>: I know her taste.</p>
+<p><strong>Sara</strong>: Well, your fingerprints were at the scene. In fact, you helped yourself to the record collection.</p>
+<p>(She shows her an AFIS REPORT from a fingerprint found at the scene.) </p>
+<p><strong>Missy Halter</strong>: That's why I'm here? Because you think I stole some albums? What did Michael tell you?</p>
+<p><strong>Sara</strong>: Not much.</p>
+<p><strong>Missy Halter</strong>: Look, he said Lori was planning on selling his vinyls. So, last week, when she was out and he was at work, he gave me the keys, the alarm code and a list of albums he couldn't live without.</p>
+<p>(Quick flashback to: [INT. TINSLEY RESIDENCE - DAY] Missy Halter walks into the house and opens the cabinet. The dog comes around her and she hits the dog. The dog yelps.)</p>
+<p>(She goes back to removing the records from the cabinet.) </p>
+<p>(End of flashback.) </p>
+<p><strong>Missy Halter</strong>: Michael's owned those records since high school. He has the white album, autographed by Paul McCartney. </p>
+<p><strong>Sara</strong>: And he didn't break into the house himself because ... because ... </p>
+<p><strong>Missy Halter</strong>: ... he needed an alibi in case Lori pressed charges. Look, I am trying to be helpful here, but I'm not saying another word until you let me talk to Michael.</p>
+<p><strong>Sara</strong>: You have the right to remain silent, but Michael Tinsley and Lori Tinsley are dead.</p>
+<p>(Missy Halter is surprised by the news.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Hodges gets a bucket of the stomach contents. He's grossed out by it, puts his head gear down and pours it out into a flat bin. He picks out the larger pieces of whole or near-whole hot dogs and puts it in a container.) </p>
+<p>(He picks out more pieces and puts it in a second container.)</p>
+<p>(He sifts out some of the smaller pieces and puts it in another container.) </p>
+<p>SHORT TIME CUT TO: </p>
+<p>(Hodges has various containers lined up on the table and labeled.)</p>
+<p>(Catherine walks in.) </p>
+<p><strong>Catherine</strong>: Oh, nice look.</p>
+<p>(Hodges has a clothespin pinned to his nose.) </p>
+<p><strong>Catherine</strong>: That'll guarantee you the chicks.</p>
+<p><strong>Hodges</strong>: Silvery material on your vic's face was graftobian theatrical makeup. Moonlight Silver is the color.</p>
+<p>(Catherine starts laughing. Grissom walks in.) </p>
+<p><strong>Hodges</strong>: Okay, look, I can't stand the smell of hot dogs. They make me sick.</p>
+<p><strong>Grissom</strong>: So, all this stuff was in the vic's stomach?</p>
+<p><strong>Hodges</strong>: Among other things. You know what the worst kind of burp is? Hot dog burp. You know, like your dad's just letting them loose, or maybe the ex-girlfriend ... </p>
+<p>(Hodges removes the clothespin from his nose.) </p>
+<p><strong>Hodges</strong>: Well, as you can see, he wasn't much of a chewer, which was very lucky for us. Made it easier to identify the food. Cake, mac and cheese, pretzels, pasta, beef, shrimp, fish and, of course, hot dogs.</p>
+<p><strong>Grissom</strong>: Food normally takes two to four hours to digest, which means he ate all of this ...</p>
+<p><strong>Hodges</strong>: In two to four hours before he died.</p>
+<p><strong>Catherine</strong>: How many hot dogs did he eat?</p>
+<p><strong>Hodges</strong>: Approximately twenty.</p>
+<p><strong>Catherine</strong>: God, ugh. Do you think we might be able to ID the makers of the hot dogs from the ingredients?</p>
+<p><strong>Hodges</strong>: No. Believe it or not, most hot dog companies are very proprietary over their recipes.</p>
+<p><strong>Catherine</strong>: Well, how about through the griddle marks?</p>
+<p><strong>Hodges</strong>: Oh, yeah, sure. I'll just run it through the hot dog appliance database.</p>
+<p><strong>Grissom</strong>: When was the last time you saw a branded logo on a hot dog?</p>
+<p><strong>Catherine</strong>: Looks like those novelty chatter teeth. Weird.</p>
+<p><strong>Hodges</strong>: You think that's weird? Check this out.</p>
+<p>(He puts a container in front of them.)</p>
+<p><strong>Hodges</strong>: This was in his stomach, too.</p>
+<p>(Grissom takes out the piece of paper. It's an ad.) </p>
+<p><strong>Catherine</strong>: &quot;Circus Town Buffet.&quot;</p>
+<p><strong>Grissom</strong>: &quot;All-U-Can-Eat.&quot;</p>
+<p>CUT TO:<br />
+[INT. CIRCUS TOWN BUFFET - DAY]</p>
+<p>(Catherine and Brass show the buffet manager a picture of Jerry Gable.) </p>
+<p><strong>Buffet Manager</strong>: I know exactly who that is. How could I forget him?</p>
+<p>(Quick flashback to: Jerry Gable is eating the buffet.)</p>
+<p><strong>Buffet Manager</strong>: (V.O.) He didn't even wait to sit down. </p>
+<p>(Jerry fills his plates up and eats at the buffet table. The buffet manager stands on the side watching him eat and eat and eat.)</p>
+<p><strong>Buffet Manager</strong>: (to radio) Hi, we've got a problem. Hurry up before the food's gone.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Buffet Manager</strong>: I called security to kick him out. When they arrived, he was gone.</p>
+<p><strong>Brass</strong>: Kick him out? Sign outside says, &quot;All-U-Can-Eat.&quot;</p>
+<p><strong>Buffet Manager</strong>: Look, he was taking it a little too far.</p>
+<p><strong>Catherine</strong>: Well, he paid, didn't he?</p>
+<p><strong>Buffet Manager</strong>: Yeah, cash.</p>
+<p><strong>Catherine</strong>: So he still had his wallet. Do you have any surveillance on your register?</p>
+<p><strong>Buffet Manager</strong>: For the $1.99 buffet? That would be a no.</p>
+<p><strong>Catherine</strong>: And are those the only hot dogs that you serve?</p>
+<p><strong>Buffet Manager</strong>: Yeah, we're famous for our cocktail wieners. You should try one.</p>
+<p><strong>Brass</strong>: I think we need a couple of cocktails first.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY - DAY] </p>
+<p>(Nick and Sara walk through the hallway and discuss the case.) </p>
+<p><strong>Nick</strong>: DNA confirmed all the blood at the crime scene is Lori Tinsley's.</p>
+<p><strong>Sara</strong>: Sofia talked to their divorce lawyers. Michael and Lori were fighting over everything -- the house, the cars, her jewelry. When she found out that he was stealing his stuff back, she had the locks and the alarm codes changed.</p>
+<p><strong>Nick</strong>: (chuckles) Well, Michael did send his girlfriend Missy over to retrieve his vinyl, but last night he broke in himself, not to mention she was home. That's kind of asking for trouble, isn't it?</p>
+<p>(They enter the DNA Lab.) </p>
+<p><strong>Sara</strong>: Yeah, divorce is war, huh? Sure glad I don't have that problem.</p>
+<p><strong>Nick</strong>: Yeah, me either. Hodges.</p>
+<p>(Hodges has his back to them as he looks through a scope.) </p>
+<p><strong>Hodges</strong>: I'm not done with your samples, okay? And I just received the fingernail scrapings.</p>
+<p><strong>Sara</strong>: Well, I sent the scrapings to DNA.</p>
+<p><strong>Hodges</strong>: DNA kicked them over to me. There were no biologicals in the sample.</p>
+<p><strong>Nick</strong>: Have you processed the hairs yet?</p>
+<p><strong>Hodges</strong>: That, I have done. All the hairs lifted off the victims' clothes were consistent with each other. There's a sample under the scope.</p>
+<p>(Sara looks through the scope.) </p>
+<p><strong>Hodges</strong>: Root is shaped like a spade which is indicative of canine, and the scale pattern is consistent with a golden retriever.</p>
+<p><strong>Sara</strong>: Oh, yeah, the victims have a golden retriever.</p>
+<p><strong>Hodges</strong>: Well, if you'd cracked that mystery at the scene, you would've saved me a lot of time. (sighs) I've been working like a dog.</p>
+<p><strong>Nick</strong>: You know, studies have found that pet owners have lower stress levels. You should check that out.</p>
+<p><strong>Hodges</strong>: Well, I had hamsters growing up. My mother hated them. She said they stank up my room, but I just loved to watch them spinning on their little wheels. One day I came home and they were gone. Somehow they'd gotten out of their cage.</p>
+<p><strong>Sara</strong>: How much did your mother hate them?</p>
+<p><strong>Hodges</strong>: They ran away.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY] </p>
+<p>(David Phillips washes Lori Tinsley's neck. He walks around the body and snaps photos of the marks on her neck.) </p>
+<p>SHORT TIME CUT TO: </p>
+<p>(David Phillips x-rays Michael Tinsley's body.)</p>
+<p>CUT TO:<br />
+(Robbins saws through Michael Tinsley's head to examine the brain. He removes a bullet and puts it in a pan.)</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY - DAY]</p>
+<p>(Sara is holding the bullet. She and Nick both appear very surprised by the find. Robbins reports his findings to them.) </p>
+<p><strong>Nick</strong>: Michael Tinsley was shot?</p>
+<p><strong>Robbins</strong>: Yeah, the bullet penetrated the base of the brain and lodged in the occipital lobe. The hemorrhage was intracranial.</p>
+<p><strong>Nick</strong>: Looks like a .22 caliber.</p>
+<p><strong>Robbins</strong>: Yeah, the scalp abrasion was probably incidental.</p>
+<p><strong>Sara</strong>: We did not check the house for GSR; we didn't know he was shot.</p>
+<p><strong>Robbins</strong>: That's understandable -- the entry wound wasn't visible -- but check this out.</p>
+<p>(Robbins pushes the rod through the opening in the brain and it comes out through the right nostril.) </p>
+<p><strong>Robbins</strong>: Some people will put anything up their nose.</p>
+<p><strong>Sara</strong>: So, Michael Tinsley breaks into his own house, the alarm goes off, all hell breaks loose. She shoots him, the bullet goes up his nose, and then what? Kahlua freaks and rips out the wife's throat?</p>
+<p><strong>Robbins</strong>: It's possible, which is another reason I prefer cats.</p>
+<p><strong>Nick</strong>: The Tinsleys died at home ... alone. So, where's the gun?</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) -- DAY] </p>
+<p>[INT. CSI - GRISSOM'S OFFICE - DAY]</p>
+<p>(Grissom is in his office when Greg walks in carrying two grocery bags.) </p>
+<p><strong>Greg</strong>: I went shopping. Bought every brand of hot dog for sale in Las Vegas.</p>
+<p><strong>Grissom</strong>: Who's paying for it?</p>
+<p><strong>Greg</strong>: You mean the lab's not going to reimburse me?</p>
+<p><strong>Grissom</strong>: No.</p>
+<p><strong>Greg</strong>: Well, I couldn't identify the chatter teeth logo, so I figured I could physically match one of these to the one found in the victim's stomach, you know? Maybe comparing that twisty thing at the end.</p>
+<p><strong>Grissom</strong>: Sounds like a good idea, Greg. I'm still not paying for it.</p>
+<p><strong>Greg</strong>: Fine -- guess I'll just eat hot dogs for the rest of the year.</p>
+<p><strong>Grissom</strong>: &quot;A hot dog at the ballpark tastes better than a steak at the Ritz.&quot;</p>
+<p><strong>Greg</strong>: Well, I can tell when you're quoting something. (Greg sits down in the chair.) Who said it?</p>
+<p><strong>Grissom</strong>: Humphrey Bogart.</p>
+<p><strong>Greg</strong>: Mm.</p>
+<p><strong>Grissom</strong>: Did you know that the term &quot;hot dog&quot; was actually coined at a baseball game?</p>
+<p>(Greg shakes his head.) </p>
+<p><strong>Grissom</strong>: New York Polo Grounds, somewhere around 1867. A German butcher was selling what he called &quot;dachshund sausages&quot; out of his pie wagon. He put them on a roll, so that his customers wouldn't burn their fingers. He'd yell out<br />
+&quot;Get your dachshund sausages, they're red hot!&quot; Soon, all the vendors at the polo grounds were selling them, too. But they were too lazy to say &quot;dachshund sausages,&quot; so they just called them &quot;hot dogs.&quot;</p>
+<p><strong>Greg</strong>: Now there's over 50 major brands.</p>
+<p><strong>Grissom</strong>: Good luck. I'm rooting for you.</p>
+<p><strong>Greg</strong>: Well, hopefully I find a wiener.</p>
+<p>(Greg stands up and leaves. After a beat, Grissom shakes his head.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Greg takes out the hot dog packages from the grocery bags and sets them on the table. He opens the first package and looks at the end, comparing it to the original.) </p>
+<p>(It's not a match. He sets the hot dog aside and opens the second package. He compares it.)</p>
+<p>(Dissolve to: He continues to compare hot dog ends to the original.) </p>
+<p>(He continues to compare hot dogs.)</p>
+<p>(Finally, he finds a match.) </p>
+<p>(He looks at the package: NEL'S. He flips the package over and sees the following ad on the bottom of the flap, &quot;Win a Trip to the Hot Dog Eating Tournament in Las Vegas&quot;, and &quot;Details Under Label&quot;.) </p>
+<p>CUT TO:<br />
+[EXT. EXTREME EATING FEDERATION -- DAY] </p>
+<p>(A man in a hot dog costume holds up a sign:<br />
+NEL'S<br />
+REGIONAL<br />
+HOT DOG<br />
+EATING<br />
+TOURNAMENT<br />
+-- TODAY --<br />
+$10,000!!<br />
+IN PRIZE MONEY )</p>
+<p><strong>Digger James</strong>: Gut check, one, two! Gut check! Ladies and gentlemen! Time for the bib sheets.</p>
+<p>(Close-up of: A hot dog is 'branded' with a logo.) </p>
+<p><strong>Digger James</strong>: Today's match will include some of the most famous gurgitators in the sport. Let's start with one of the finest: The godfather of the sport has a mouth so big he speaks in surround sound, ladies and gentlemen. Three-time lasagna-eating champion, Antonio Colletti. </p>
+<p>(Antonio stands up.) </p>
+<p><strong>Antonio Colletti</strong>: Yeah!</p>
+<p><strong>Digger James</strong>: Patty cake, patty cake, baker's man, she can eat a cake faster than anyone can. Current cupcake champion and the most elegant eater in the sport, Patty Cake Newton.</p>
+<p>(Patty Cake stands up and blows kisses to the crowd. Catherine and Brass are in the crowd.) </p>
+<p><strong>Digger James</strong>: Our most vocal gurgitator ...</p>
+<p><strong>Catherine</strong>: There's the chatter teeth logo.</p>
+<p><strong>Brass</strong>: EXEF Wasn't that the name on the business card you found in the vic's wallet?</p>
+<p><strong>Catherine</strong>: I think we just found our Digger James.</p>
+<p><strong>Digger James</strong>: ... He's said to have two stomachs! Undisputed popcorn shrimp champion, James &quot;Spare Tank&quot; Patterson.</p>
+<p>(James Patterson stands up and belches loudly.) </p>
+<p><strong>Digger James</strong>: And finally, known for his jaw strength, trains with his pit bulls, three-time rib champion -- today he will be wearing the EXEF Hot dog camera -- Marty Mayron, &quot;the meat machine!&quot;</p>
+<p>(Marty stands up and barks to the crowd.) </p>
+<p><strong>Digger James</strong>: All right, gurgitators, you have twelve minutes to eat your way into history.</p>
+<p>(The starting gun is fired and the contestants dig in to the plate of hot dogs in front of them.) </p>
+<p><strong>Digger James</strong>: They're diving straight in there. Marty Mayron going with the Japanese, dipping his bun in lemonade to make it go down easier and then biting that hot dog into little pieces. Not to be outdone, Miomoto going for the double Japanese. Colletti, the old pro, double-fisting it, double-dunking it. That is a Heimlich waiting to happen.</p>
+<p>(The clock reads 10 minutes to go ... )</p>
+<p>DISSOLVE TO: </p>
+<p>(The clock reads 3 minutes to go ... ) </p>
+<p><strong>Digger James</strong>: ... Is not fooling around -- He's doing a reverse Japanese: Bun first, hot dog afterwards. Sort of a &quot;dachshund chaser.&quot; Still pushing it, going old school, like a little kid trying to impress his grandmother at Thanksgiving dinner. Patty Cake going mostly cakey on that one. You can almost see the icing on that hot dog. Colletti having a bit of a problem. Something's slowing him down.</p>
+<p>(Colletti stands up and throws up on the side of his chair.) </p>
+<p><strong>Digger James</strong>: Whoa! Antonio Colletti, a reversal of fortune. That's an immediate disqualification, and, of course, disgusting for all of us to watch. </p>
+<p>(One of the officials pulls Colletti aside.) </p>
+<p><strong>Brass</strong>: Wow.</p>
+<p><strong>Catherine</strong>: Well, which one do you want? The guy in the silver face paint or Digger James?</p>
+<p><strong>Brass</strong>: I don't know -- slimy stuff is your thing. I don't want to get mustard on my suit. I'll take Digger.</p>
+<p><strong>Catherine</strong>: Do I have a choice?</p>
+<p>LATER: </p>
+<p>(The contest is over and the winner holds up his trophy. Brass interviews Digger James and shows him a photo of Jerry Gable.) </p>
+<p><strong>Brass</strong>: Hey, you recognize this guy?</p>
+<p><strong>Digger James</strong>: That's Jerry. By far, one of the best walk-on gurgitators I've ever seen.</p>
+<p><strong>Brass</strong>: So you gave him your business card, right? </p>
+<p><strong>Digger James</strong>: I'm the U.S. rep for the EXEF.</p>
+<p><strong>Brass</strong>: All right, EXEF. What exactly does that stand for?</p>
+<p><strong>Digger James</strong>: It's the Extreme Eating Federation. We're one of the most popular leagues in the sport.</p>
+<p><strong>Brass</strong>: Pounding down hot dogs, that's a sport?</p>
+<p><strong>Digger James</strong>: Since the early days of man. You got thirty Neanderthals in a cave and a rabbit walks in, you have a competitive eating situation, my friend. We have rules, records, prize money. Some of our top competitors earn up to a half a million dollars a year. We're on cable.</p>
+<p><strong>Brass</strong>: No kidding. Well, what does all this have to do with Jerry?</p>
+<p><strong>Digger James</strong>: Everything. Jerry had undeniable gastro-intestinal fortitude. He took third in yesterday's competition. That qualifies him for the finals in Atlantic City. It made the Las Vegas Post.</p>
+<p><strong>Brass</strong>: Hmm.</p>
+<p><strong>Digger James</strong>: Sports section.</p>
+<p>(Quick flashback to: [CONTEST] Jerry is wolfing down hot dogs.) </p>
+<p><strong>Digger James</strong>: Jerry Gable is pounding those dogs.</p>
+<p>(The hot dog girl changes his hot dog count from 16 to 17 ... to 22.)</p>
+<p><strong>Digger James</strong>: Third place goes to walk-on &quot;An Amazing Job&quot; Jerry Gable!</p>
+<p>(Digger James hands Jerry his trophy.)</p>
+<p>(End of flashback. Resume to present.) </p>
+<p>(Brass looks at the newspaper with a photo of Jerry smiling and waving.) </p>
+<p><strong>Brass</strong>: Can I keep this?</p>
+<p><strong>Digger James</strong>: Sure.</p>
+<p><strong>Brass</strong>: Thanks.</p>
+<p><strong>Digger James</strong>: I'm telling you, with proper training, Jerry could've proudly represented the U.S. and taken back the golden weenie from the Japanese champion.</p>
+<p><strong>Brass</strong>: Yeah, got to get that golden weenie back.</p>
+<p>(Digger James nods.) </p>
+<p><strong>Brass</strong>: Uh, so after the tournament, did you see Jerry? </p>
+<p><strong>Digger James</strong>: Paid him, gave him my card, left him to celebrate.</p>
+<p><strong>Brass</strong>: Any idea who he was celebrating with?</p>
+<p>(Behind them, Catherine interviews Marty Mayron.) </p>
+<p><strong>Marty Mayron</strong>: You want a sample of my face paint?</p>
+<p><strong>Catherine</strong>: Yeah, it's part of my investigation.</p>
+<p>(She reaches out and touches the silver paint on his face.) </p>
+<p><strong>Catherine</strong>: Oh, it's still moist. That's good for me.</p>
+<p><strong>Marty Mayron</strong>: I didn't do anything to Jerry Gable. Okay, in the beginning, I admit I was a little pee'd off that I lost to the guy. But then I learned what a disturbed individual he was.</p>
+<p>(Quick flashback to: [AFTER THE CONTEST] Jerry Gable walks around searching for more food.) </p>
+<p><strong>Jerry Gable</strong>: Couple more! Just, just, just, just, a couple ... couple more! Has anybody got more hot dogs? Please!</p>
+<p><strong>Marty Mayron</strong>: What are you trying to prove, huh?</p>
+<p>(Someone hands him something. It's not what he wants and he throws it on the floor.) </p>
+<p><strong>Jerry Gable</strong>: Just give me more! </p>
+<p><strong>Marty Mayron</strong>: Trying to be a big guy, tough guy, huh?</p>
+<p>(Frustrated, Jerry bangs his head against the hot dog counting sign.) </p>
+<p><strong>Jerry Gable</strong>: Please, please!</p>
+<p>(Jerry turns and bumps into Marty Mayron.)</p>
+<p>(End of flashback.)</p>
+<p><strong>Catherine</strong>: And what happened after the friendly hug?</p>
+<p><strong>Marty Mayron</strong>: Some guy in a hat came by, took him out of here.</p>
+<p>(Catherine shows him the photo found in Jerry's wallet. He looks at the third man in the photo, a man in a blue hat.) </p>
+<p><strong>Catherine</strong>: Is that the guy in the hat?</p>
+<p><strong>Marty Mayron</strong>: Sure is.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) -- DAY] </p>
+<p>[INT. TINSLEY RESIDENCE -- DAY] </p>
+<p>(Sara enters the house and closes the door behind her. She looks down at the pool of blood on the floor.) </p>
+<p>(Quick flashback to: The dog barks and Lori screams. End of flashback.) </p>
+<p>(Sara checks the floor in front of the couch and sees a skid mark.)</p>
+<p>(Quick flashback to: The dog barks and the gun slides under the couch. End of flashback.) </p>
+<p>(She checks under the couch and finds the gun.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAB - DAY]</p>
+<p>(Nick takes the mold of Kahlua's teeth and makes an impression of them.)</p>
+<p>(He takes a clear plastic and places it over the photo of the wounds on Lori's neck. He circles the bite marks with a pen. He compares the marks on the neck with the mold.) </p>
+<p>(They don't match.) </p>
+<p>(Sara walks in.) </p>
+<p><strong>Sara</strong>: So I found the murder weapon. It slipped under the living room couch -- presumably when Kahlua attacked Lori.</p>
+<p><strong>Nick</strong>: Well, a dog did attack Lori, but it wasn't Kahlua. The bite marks on Lori's neck are inconsistent with Kahlua's teeth.</p>
+<p><strong>Sara</strong>: Oh, which means Kahlua gets to walk.</p>
+<p><strong>Nick</strong>: Check out this left canine.</p>
+<p><strong>Sara</strong>: The tooth is chipped.</p>
+<p><strong>Nick</strong>: All the dog hair we found at the crime scene was consistent with a golden retriever, which suggests there was another golden retriever in the house. It could've attacked Lori, fled out the kitchen door.</p>
+<p><strong>Sara</strong>: That is like saying there's a second shooter on the grassy knoll -- they only had one dog, Nick.</p>
+<p><strong>Nick</strong>: I'm calling Animal Control. We're looking for another golden retriever, one with a bad tooth and rotten disposition.</p>
+<p>(He pulls his phone out to make the call.) </p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. CSI - BREAK ROOM -- NIGHT] </p>
+<p>(Robbins is carrying a large package and walking down the hallway to the break room. He sees Warrick at the vending machines.) </p>
+<p><strong>Robbins</strong>: Little late to be going to court.</p>
+<p><strong>Warrick</strong>: No, I'm not going to court. I'm taking my Lady Tina to that new Cirque show at the Wynn and I forgot my tickets in my locker.</p>
+<p><strong>Robbins</strong>: That's nice, but if you're looking for something to tide you over, look no further.</p>
+<p>(Robbins takes a pie out from the package.) </p>
+<p><strong>Robbins</strong>: Busy night. Figured the lab could use a little lovin' from the oven.</p>
+<p><strong>Warrick</strong>: Oh, your wife made a pie.</p>
+<p><strong>Robbins</strong>: I made the pie. Strawberry rhubarb.</p>
+<p><strong>Warrick</strong>: I'm impressed.</p>
+<p>(Robbins slices a piece and throws it down on the plate.) </p>
+<p><strong>Warrick</strong>: Let's take it easy with the cutting there, doc, it's starting to look like the hit-and-run on your table last week.</p>
+<p><strong>Robbins</strong>: Just try it.</p>
+<p><strong>Warrick</strong>: Thanks.</p>
+<p><strong>Robbins</strong>: You know, it's vegan. Low fat, low sugar, low carb ... </p>
+<p><strong>Warrick</strong>: Low taste.</p>
+<p>(Robbins turns and catches Catherine walking down the hallway.) </p>
+<p><strong>Robbins</strong>: Catherine, Catherine, come here. I need your opinion on this.</p>
+<p>(He cuts a second piece and tries to give it to her.) </p>
+<p><strong>Robbins</strong>: Try this.</p>
+<p><strong>Catherine</strong>: No, thank you, I just came from Nel's hot dog eating tournament. I'm really done with food.</p>
+<p><strong>Robbins</strong>: It's good.</p>
+<p><strong>Warrick</strong>: I was watching that on cable. Some Japanese guy ate, like, 64 hot dogs in 12 minutes.</p>
+<p><strong>Catherine</strong>: Yeah. He's was the most famous guy in Japan behind Yao Ming.</p>
+<p><strong>Robbins</strong>: Yao Ming is Chinese. Try it.</p>
+<p><strong>Catherine</strong>: They ought to make it an Olympic sport or something.</p>
+<p><strong>Catherine</strong>: Please? No, I can't go there. I can't.</p>
+<p><strong>Warrick</strong>: You know, if you want to cleanse your taste buds, I suggest you try Doc Robbins' pie. Really.</p>
+<p>(Warrick turns to leave.) </p>
+<p><strong>Catherine</strong>: Yeah, that's why you're leaving it behind.</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE -- NIGHT] </p>
+<p>(Grissom is reading when Catherine walks in.) </p>
+<p><strong>Catherine</strong>: I got an ID on dumpster guy. Brass is tracking down a current address.</p>
+<p><strong>Grissom</strong>: Prader-Willi.</p>
+<p><strong>Catherine</strong>: No, his name was Jerry Gable.</p>
+<p><strong>Grissom</strong>: No, Prader-Willi syndrome. A rare gentic disorder that causes ceaseless, uncontrollable excruciating hunger. It's as if your stomach was truly a bottomless pit.</p>
+<p>(Catherine sits down.) </p>
+<p><strong>Catherine</strong>: That could explain why after consuming twenty-two dogs, he wanted more. Could also explain why he was found in the dumpster. He followed the food.</p>
+<p><strong>Grissom</strong>: Prader-Willi syndrome is characterized by short stature, hypotonia, almond-shaped eyes, and obsessive fingernail biting.</p>
+<p><strong>Catherine</strong>: That kind of fits the victim's description.</p>
+<p><strong>Grissom</strong>: Sufferers are born with a flawed hypothalamus. Normal hypothalamus receives a signal from the stomach -- &quot;I'm full, stop eating.&quot;</p>
+<p>(Quick flashback to: [CONTEST] Jerry eats the hot dogs during the contest. Camera follows the piece of hot dog into his mouth.) </p>
+<p>(CGI EFX: The piece of hot dog and bun go down his throat and into his stomach.)</p>
+<p>(Blue sparks representing the signal from the stomach travels up to the brain. The brain doesn't receive or acknowledge it.)</p>
+<p><strong>Grissom</strong>: (V.O.) But with Prader-Willi syndrome, the signal never reaches the brain.</p>
+<p>(End of CGI EFX. Resume to flashback.)</p>
+<p>(Jerry Gable scrambles through the grounds looking for more food. He goes from spot to spot, focusing on the food people eat.) </p>
+<p>(End of flashback.)</p>
+<p><strong>Grissom</strong>: They're always hungry.</p>
+<p><strong>Catherine</strong>: Like having a full tank of gas, and gauge is stuck on empty.</p>
+<p><strong>Grissom</strong>: Guy's like Jerry are monitored their whole lives. Constant supervision 24 hours a day. You remember the scar tissue we found on his wrist?</p>
+<p>(Quick flashback to: Jerry Gable sits in a chair with his right wrist restrained. He struggles. End of flashback.) </p>
+<p><strong>Grissom</strong>: I think it's possible that our vic spent most of his life in restraints.</p>
+<p><strong>Catherine</strong>: So either he escaped or ... someone set him free.</p>
+<p><strong>Grissom</strong>: In which case, they'd be responsible for his death.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY - NIGHT]</p>
+<p>(Hodges catches Nick in the hallway.) </p>
+<p><strong>Hodges</strong>: I heard your case has gone to the dogs.</p>
+<p><strong>Nick</strong>: Oh, Hodges, heel. No, better yet, play dead, man.</p>
+<p><strong>Hodges</strong>: Play nice, I'm throwing you a bone. The fingernail scrapings from your female vic was baking grease. (He hands Nick the results.) How does that fit in the puzzle?</p>
+<p>(Nick stops walking as he thinks about it. He walks away, handing the results back to Hodges as he leaves.) </p>
+<p>[INT. CSI - LAB - NIGHT - CONTINUOUS]</p>
+<p>(Nick finds Sara in one of the lab rooms.) </p>
+<p><strong>Nick</strong>: Hey.</p>
+<p><strong>Sara</strong>: According to the court records, the Tinsleys weren't just fighting over property. They were also engaged in an expensive custody battle.</p>
+<p><strong>Nick</strong>: Custody over what? They didn't have any kids.</p>
+<p><strong>Sara</strong>: They had Kahlua. And evidently, yesterday both parties agreed to let the dog decide for herself. According to Michael's girlfriend, the dog was his, but Kahlua chose Lori.</p>
+<p>(Quick flashback to: Kahlua stands next to a man as both Lori and Michael call Kahlua over.) </p>
+<p><strong>Lori Tinsley</strong>: Here, Kahlua. </p>
+<p><strong>Michael Tinsley</strong>: Come here.</p>
+<p><strong>Lori Tinsley</strong>: Come on, Kahlua.</p>
+<p><strong>Michael Tinsley</strong>: Come here.</p>
+<p><strong>Lori Tinsley</strong>: Come on.</p>
+<p><strong>Michael Tinsley</strong>: Hey.</p>
+<p><strong>Lori Tinsley</strong>: Come to Mama, sweetie.</p>
+<p>(Kahlua goes over to Lori.) </p>
+<p><strong>Lori Tinsley</strong>: Yeah.</p>
+<p>(End of flashback.)</p>
+<p>(Nick puts it together.) </p>
+<p><strong>Nick</strong>: I think I know why.</p>
+<p>(Quick flashback to: Before the meeting, Lori rubs her fingers against some bacon.) </p>
+<p><strong>Nick</strong>: (V.O.) Lori greased up before the big face-off.</p>
+<p>LATER:</p>
+<p>(Lori claps her hands in front of her trying to get Kahlua to her. The scene indicated in blue grease moves from her hands ... ) </p>
+<p><strong>Lori Tinsley</strong>: Here, Kahlua.</p>
+<p><strong>Michael Tinsley</strong>: Come here.</p>
+<p><strong>Lori Tinsley</strong>: Come on, Kahlua.</p>
+<p><strong>Michael Tinsley</strong>: Come here, come on.</p>
+<p><strong>Lori Tinsley</strong>: Come on.</p>
+<p><strong>Michael Tinsley</strong>: Come here.</p>
+<p><strong>Lori Tinsley</strong>: Kahlua, come. </p>
+<p>(... and straight to Kahlua's nose. Kahlua smells the bacon and heads for Lori.) </p>
+<p><strong>Lori Tinsley</strong>: Come to Mama, sweetie. Yeah.</p>
+<p>(End of flashback.) </p>
+<p><strong>Nick</strong>: A dog's sense of smell is 25 times more sensitive than humans. Bacon grease would've been pretty irresistible.</p>
+<p><strong>Sara</strong>: Question is ... &quot;Did Michael know that Lori was playing dirty?&quot;</p>
+<p>(Nick's cell phone rings; he answers it.) </p>
+<p><strong>Nick</strong>: Stokes. Yeah, all right, cool. Our suspect is in custody.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK)]</p>
+<p>[INT. CSI - LAB]</p>
+<p>(Nick and Sara meet up with Jesse Menken and Kahlua 2.) </p>
+<p><strong>Jesse Menken</strong>: Animal Control picked her up near Centennial Park, called the number on the tag, left a voice mail.</p>
+<p><strong>Sara</strong>: Dead people don't return calls.</p>
+<p><strong>Nick</strong>: New collar, new tags. Kahlua. Same name.</p>
+<p><strong>Jesse Menken</strong>: Spoke to Animal Control. Kahlua number two was adopted the same day as the murder. You want to guess the adopter's name?</p>
+<p><strong>Nick</strong>: Michael Tinsley. You bet.</p>
+<p><strong>Sara</strong>: He adopted Kahlua's doppelganger.</p>
+<p><strong>Nick</strong>: Left tooth is chipped. Confirm's ID. She doesn't seem very ferocious.</p>
+<p><strong>Jesse Menken</strong>: You want to see ferocious?</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p>(Jesse puts Kahlua 2 into the kennel box and closes the door. She motions to someone down the hallway.)</p>
+<p>(A gun is fired.)</p>
+<p>(Kahlua 2 barks ferociously.) </p>
+<p><strong>Sara</strong>: How did you know?</p>
+<p><strong>Jesse Menken</strong>: When the guys loaded her up into the Animal Control van, they slammed the door and she went off.</p>
+<p><strong>Nick</strong>: So the gun acted as a trigger. She heard it and attacked Lori.</p>
+<p><strong>Jesse Menken</strong>: Probably abused in the past. If they'd known, they never would've put her up for adoption.</p>
+<p><strong>Sara</strong>: Michael broke into the house intending to swap dogs, hoping that Lori wouldn't even notice the difference.</p>
+<p>(Quick flashback to: [EXT./INT. TINSLEY RESIDENCE - NIGHT] Michael breaks into the back door with a pocket knife. The alarm goes off.)</p>
+<p>SHORT TIME CUT TO: </p>
+<p>(Lori and Michael are arguing in front of the two dogs.) </p>
+<p><strong>Michael Tinsley</strong>: You don't give a damn about Kahlua! You just don't want me to have her!</p>
+<p><strong>Lori Tinsley</strong>: You care more about that stupid dog than you did me!</p>
+<p><strong>Michael Tinsley</strong>: For once you got it right!</p>
+<p>(Lori goes to the desk drawer and takes out a gun.) </p>
+<p>(They struggle for the gun. The gun fires and hits Michael. Michael falls to the ground. Kahlua 2 attacks Lori.)</p>
+<p>(Kahlua 2 runs away.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Sara</strong>: When Kahlua number two took off, Kahlua number one came out of hiding.</p>
+<p>(Quick flashback to: Kahlua approaches Michael and nudges him. Kahlua then goes over to Lori and nudges her. He licks some of the blood getting it on him and his paws, turns, then leaves.) </p>
+<p>(End of flashback.) </p>
+<p><strong>Nick</strong>: The police showed up, she got scared , went back to her closet.</p>
+<p><strong>Sara</strong>: Their marriage ended in a dog fight, and only the dog survived.</p>
+<p>CUT TO:<br />
+[INT. HALLWAY OUTSIDE GABLE APARTMENT - DAY]</p>
+<p>(Brass and Catherine walk down the hallway.) </p>
+<p><strong>Brass</strong>: So I called about a dozen Jerry Gables. One had an answering machine for Jerry and Suzie Gable. This apartment is listed to Jerry and Suzie Gable. Here's Suzie.</p>
+<p>(Brass hands a copy of the NEVADA DRIVER LICENSE to Catherine. It reads:<br />
+LIC # 1800592214 EXPIRES 05-12-2006<br />
+SSN: 503-45-734<br />
+CLASS: C<br />
+BIRTHDATE: 05-12-1977<br />
+s*x: F HEIGHT: 5'4&quot; WEIGHT: 105<br />
+EYES: BRN HAIR: BLN<br />
+SUSAN GABLE<br />
+16 S. MEADOWS LN #103<br />
+LAS VEGAS, NV 89101 )</p>
+<p>(Brass knocks on the door.)</p>
+<p><strong>Brass</strong>: Las Vegas Police.</p>
+<p>(The door opens.) </p>
+<p><strong>Suzie's Boyfriend</strong>: Please tell me you found Jerry.</p>
+<p>(Catherine and Brass look at each other.) </p>
+<p>[INT. GABLE APARTMENT - DAY - CONTINUOUS]</p>
+<p>(Inside the apartment, there are locks on all the cabinets and refrigerator.) </p>
+<p><strong>Brass</strong>: Okay, so who are you?</p>
+<p><strong>Suzie's Boyfriend</strong>: I'm Susie's boyfriend.</p>
+<p><strong>Brass</strong>: All right, Susie's boyfriend, what's your name?</p>
+<p>(As Brass questions Suzie's boyfriend, Catherine looks around the apartment.) </p>
+<p><strong>Suzie's Boyfriend</strong>: Look, I don't have anything else to say. Hey, that's my easiest question.</p>
+<p><strong>Catherine</strong>: Hey, you don't want to give us your name, fine, but you better explain why Jerry's not in this chair.</p>
+<p>(Suzie's boyfriend doesn't say anything.) </p>
+<p><strong>Catherine</strong>: All right, look, I'm going to print this restraint. And when I find your fingerprints all over it, I won't need to ask you again.</p>
+<p><strong>Suzie's Boyfriend</strong>: Okay, okay, all right. He escaped. All right? I was supposed to be watching him, and I conked out for a second, and by the time I got up, he was gone from his chair.</p>
+<p><strong>Brass</strong>: He escaped? So, what, the guy's Houdini?</p>
+<p><strong>Suzie's Boyfriend</strong>: Trust me. He may have been slow, but he was manipulative.</p>
+<p><strong>Brass</strong>: Yeah.</p>
+<p><strong>Suzie's Boyfriend</strong>: Look, how do you deny a 30-year-old man food? I mean, I felt like I was torturing the poor guy.</p>
+<p>(Quick flashback to: Suzie's boyfriend is on the phone. Jerry is strapped in his chair, biting his fingernails.) </p>
+<p><strong>Suzie's Boyfriend</strong>: (to phone) Yeah, I told you them Vikings suck. All right, I'll meet you at the Circus Town Book.</p>
+<p>(He hangs up.) </p>
+<p><strong>Jerry Gable</strong>: Can I go to Circus Town with you? I heard the buffet there is yummy.</p>
+<p>(He shows the ad in the paper to Suzie's boyfriend.) </p>
+<p><strong>Suzie's Boyfriend</strong>: No.</p>
+<p>(Jerry turns in his chair, rips out the ad and eats it.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Suzie's Boyfriend</strong>: My plan was just to drop him off at the buffet while I went back to the sports book. By the time I got back ... oh, man ... </p>
+<p>(Quick flashback to: [INT. CIRCUS TOWN BUFFET - DAY] Suzie's boyfriend returns to the buffet. Jerry is gorging himself on the food.) </p>
+<p>(Just then, the man dressed in a hot dog costume carrying a billboard sign for NEL'S REGIONAL HOT DOG EATING TOURNAMENT walks in through the door.) </p>
+<p>(Suzie's boyfriend focuses in on the $10,000 PRIZE MONEY.)</p>
+<p>(He looks at Jerry.) </p>
+<p>(End of flashback.) </p>
+<p><strong>Suzie's Boyfriend</strong>: I couldn't help myself. I had to sign him up.</p>
+<p><strong>Brass</strong>: So let me guess -- you blew his winnings at the sports book?</p>
+<p><strong>Suzie's Boyfriend</strong>: Well, what was he gonna do with them? He's been strapped to a damn chair his whole life.</p>
+<p><strong>Brass</strong>: You know, you managed to supersize a combo of two deadly sins -- greed and gluttony. Shame on you. So what's he doing in a dumpster?</p>
+<p><strong>Suzie's Boyfriend</strong>: I don't know. Was there food in the dumpster? 'Cause when we were on our way home, Jerry was still hungry. Wanted to hit up Krispy Kreme. And by the time I could tell him no, he was running off down the street. I looked for him all night.</p>
+<p><strong>Brass</strong>: Yeah? Where's Susie?</p>
+<p>DISSOLVE TO:</p>
+<p>[INT. HOSPITAL - SUZIE'S ROOM - DAY]</p>
+<p>(Catherine talks with Suzie Gable, who is in bed after surgery.) </p>
+<p><strong>Suzie Gable</strong>: I knew I shouldn't have left Jerry with my boyfriend. I'd been calling to check in. He wasn't answering. I could tell something was up.</p>
+<p><strong>Catherine</strong>: Why did you leave your brother with somebody you didn't trust?</p>
+<p><strong>Suzie Gable</strong>: There was no one else. I had to get this surgery today or my insurance wasn't going to cover it.</p>
+<p><strong>Catherine</strong>: Couldn't you have left him with a family member?</p>
+<p><strong>Suzie Gable</strong>: We have no family. Our parents died in a car crash years ago.</p>
+<p><strong>Catherine</strong>: What about some kind of professional help?</p>
+<p><strong>Suzie Gable</strong>: I'm a waitress, Miss. I ... I don't make much. There's a really nice institution in Summerlin, but it costs a $100,000 a year. And the last babysitter I hired, Jerry beat up trying to get to the fridge. I swear to you, I really tried to take care of my brother. I really ... did the best I could.</p>
+<p>(She turns away, crying. Catherine takes out the photo of Jerry in the newspaper. Jerry is holding the trophy and smiling.)</p>
+<p>(The caption reads: Jerry Gable takes 3rd in Nel's Regional Hot Dog Eating Tournament yesterday.)</p>
+<p><strong>Suzie Gable</strong>: Jerry took third place?</p>
+<p><strong>Catherine</strong>: (smiling) Yeah.</p>
+<p><strong>Suzie Gable</strong>: I bet he had the time of his life.</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
-
- 
-
- 
-
-
-
-
- 
-Brass: Hey.
-Grissom: I was happy to hear the review board cleared you.
-Brass: Well, it's been a rough time, but I'm dealing with it. Anyway, a kitchen worker found him. Says a lot of homeless people hang out here. Says the vic was unfamiliar to him.
-Grissom: Creased khakis, oxford shirt, new shoes. This guy had a home.
-Brass: Well, I checked the front pockets, no ID.
-Grissom: Back pockets?
-Brass: I was leaving that for you.
-
-Brass: Looks like some blood around his lips. Maybe somebody punched him in the mouth. What do you think?
- 
-Grissom: Cranberry sauce.
- 
-Brass: I know. Happy Thanksgiving.
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Catherine: This place used to make a hell of a meatloaf sandwich. 
-You ever eat here?
-Grissom: Not since the chef blew his brains all over the kitchen.
-David Phillips: I eat here all the time. I like the chili.
-Grissom: TOD, David?
-David Phillips: Based on liver temp, he's been dead around two hours.
-Catherine: Well, it looks like he was knocked out and thrown out. And there's some metallic silver residue on his cheek.
- 
-Grissom: What's this gunk in his hands?
- 
-David Phillips: Mashed potatoes.
-Grissom: There were mashed potatoes in the dumpster.
- 
-David Phillips: No fingernails ... on either hand.
-Catherine: Maybe he was alive inside there. Digging to get out.
-Grissom: Or he had really bad table manners.
-Catherine: There's some scarring on his wrist, but not on the other.
-David Phillips: Look what I found in his pocket. &quot;Aunt Jackpot's Pretzels.&quot;
- 
-Catherine: Oh, now, they make a great pretzel.
-Grissom: Maybe that's why he's got that smile on his face.
- 
-
-
- 
- 
- 
-Sofia Curtis: 419 times two.
-Nick: Double murder?
-Sofia Curtis: Husband and wife.
- 
-Sara: Beat-up car in a Lexus neighborhood.
-Sofia Curtis: We ran the plates. RO doesn't live here. We're tracking her down.
- 
-Nick: &quot;Bitch on wheels.&quot; Can't wait to meet her.
-
-
- 
-Sofia Curtis: Alarm was triggered at 11:45 P.M. The monitoring company notified PD when the homeowners didn't return their call. Patrol finally arrived at 3:32 A.M.
-Nick: Residentials are a low priority. They're usually false alarms.
- 
-Sofia Curtis: Not this one. Michael and Lori Tinsley. Kitchen door was open when we arrived. His wallet was in his pocket. Her purse was on the counter. Cards, cash, TV, stereo, it's all still here.
-Nick: If this was a robbery, they missed all the good stuff.
- 
-Sofia Curtis: The coroner should be here right now. So, uh, I'm gonna go see what's happened to him.
- 
-Sara: Well, looks like she exsanguinated out her jugular.
-Nick: Abrasion on his forehead. No visible blood. Blonde hairs on his shirt. Both victims are brunette.
-Sara: Blonde hairs on the wife, too. And possible skin scrapings under her fingernails. Maybe she got a piece of her attacker.
- 
-Nick: If her neck was sliced with a knife, it was probably serrated. The wound's too jagged for a straight one.
- 
-Sara: Check out that record collection. The cabinet door's open.
- 
-Sara: Alphabetized. Classic rock. Looks like several records have been removed recently.
- 
-Sara: I'll dust for prints.
-Nick: Smudges in the blood trail. Ovoid shapes suggest directionality. Satellite stains also suggest suspect moved this direction. 
- 
-Sara: Judging by these gaps, I'd say entire catalogs are missing.
-Nick: There is good money in vinyl. Especially if it's rare and well-preserved. Who would kill somebody over a bunch of records?
- 
-Sara: Something's missing between the Beach Boys and Billy Joel.
-Sara/Nick:  The Beatles.
- 
- 
-Nick: Loose strike. Would have been pretty easy to get in from back here.
- 
-Sara: They have a dog.
-Nick:  Sofia said the door was open; maybe he took off. Bloodstains stop at the grass. Sprinklers are on now, kissing the evidence good-bye.
-Sara: Hey, Nick.
-Nick: Yeah?
-Sara: There was some blood on these dog bowls.
- 
-Sara: Considerable.
- 
- 
-
-
-
- 
-Nick: I'll call Animal Control.
-
-
- 
- 
-Dr. Robbins: Stomach is massively distended. Human stomachs have a volume of about one liter, a little more than a quart. But they have the ability to expand and hold up to four liters. But looking at this guy, I'd say he was packing around six. And that's your COD.
- 
- 
-Robbins:  Asphyxia due to mechanical compression of the lungs due to gastric dilatation.
- 
-Robbins: His stomach expanded, leaving no room for the organs. It's going to keep me on my diet for a couple more weeks. Let's take a look.
- 
-Robbins: Ooh, the guy was a walking buffet.
-Catherine: Multiple contusions. He's got a band of dead tissue on his wrist. No fingernails.
-Robbins: Cuticle's are inflamed and still intact. They weren't pulled off. They were bitten down ... At first I thought tortured and force-fed, but the usual signs of force feeding are absent. No abrasions on the mucosal surface of the lips. No aspirated food in the airways.
-Catherine: So what are you thinking now?
-Robbins: He ate himself to death.
-
-
-
-
- 
- 
-Catherine: Do you recognize this face? 
-Pretzel Vendor: I know exactly who that is. Man, dude's crazy.
-Catherine: Dude got a name?
-Pretzel Vendor: No name. Oh, but I got a wallet.
-Catherine: What, he left it behind?
-Pretzel Vendor: More like he threw it.
- 
-Jerry Gable: Pretzel, thank you, please.
-Pretzel Vendor: Hey, pal. Where's your manners?
-Jerry Gable: Just one pretzel, please. 
-Pretzel Vendor: Oh, no, no, no, no.
-Jerry Gable: Just a quick, fast one.
- 
-Jerry Gable: Come on.
-Pretzel Vendor: No, no.
- 
-Pretzel Vendor: Hey, hey, hey, hey! I said no! Excuse me.
- 
- 
-Pretzel Vendor: See, salty pretzel's $1.50. Only a dollar in the wallet. Jerk. 
- 
-Pretzel Vendor: Hey, and I took the money, by the way.
-(Catherine finds the following in the wallet:
-* a bus pass for DEC 2005;
-* a business card for
-DIGGER JAMES, Sport Promoter, EXTREME EATING FEDERATION
-Phone:  555-0198
-Fax: 
-Pretzel Vendor: I didn't care. Oh, I saw that. Sports promotions. Man, I seen his gut, man. He don't look like he no athlete.
-Catherine: They're calling poker players athletes these days. Seen the guts on them? Hey, can I get a pineapple cinnamon?
-Pretzel Vendor: Oh, okay, good choice.
-Catherine: Thank you.
- 
-Voice :  O198. Please leave your message after the tone.
- 
-
- 
- 
-Jesse Menken: All right, let's take a look at our Cujo.
- 
-Jesse Menken: Yeah, she's ferocious.
-Nick: Yeah, yeah, I'm petrified. So what's the outside chance of rabies?
-Jesse Menken: She's not salivating excessively or showing any signs of hydrophobia, but rabies doesn't present immediately. She'll be quarantined for the next ten days.
-Nick: Well, other than rabies, what would make a dog attack its owner? Abuse?
-Jesse Menken: Abused animals may turn violent. Head traumas may induce unprovoked aggression. And there's always springer rage.
-Nick: Yeah, yeah, I hate that show, too.
- 
- 
-Jesse Menken: It's a form of epilepsy associated with several breeds, including springers and retrievers. Man's best friend will back you corner and attack. Five minutes later, she's licking your face as if nothing ever happened. I'll suppose you want bite impressions?
-Nick: Yeah, I'll prep the microsil, if you prep the pooch.
-
- 
- 
- 
-Sara: This car is registered to you, Ms. Halter?
-Missy Halter: Yeah. So?
-Sara: And why was it in the Tinsleys' driveway?
-Missy Halter: I lent it to Michael; his Beemer's in the shop. I want it back.
- This was not meant for public transit.
-Sara: And your relationship with Michael Tinsley is?
-Missy Halter: Why is that any of your business? I'm his girlfriend, okay?
-Sara: How does his wife feel about that?
-Missy Halter:  Not my problem. They're separated, getting divorced. Michael lives with me. I want to talk to Michael now.
-Sara: Were you at Lori Tinsley's house last night?
-Missy Halter: No. I've never been inside that psuedo Cape Cod dump.
-Sara: If you've never been there, then how do you know it's a pseudo Cape Cod dump?
-Missy Halter: I know her taste.
-Sara: Well, your fingerprints were at the scene. In fact, you helped yourself to the record collection.
- 
-Missy Halter: That's why I'm here? Because you think I stole some albums? What did Michael tell you?
-Sara: Not much.
-Missy Halter: Look, he said Lori was planning on selling his vinyls. So, last week, when she was out and he was at work, he gave me the keys, the alarm code and a list of albums he couldn't live without.
-
- 
- 
-Missy Halter: Michael's owned those records since high school. He has the white album, autographed by Paul McCartney. 
-Sara: And he didn't break into the house himself because ... because ... 
-Missy Halter: ... he needed an alibi in case Lori pressed charges. Look, I am trying to be helpful here, but I'm not saying another word until you let me talk to Michael.
-Sara: You have the right to remain silent, but Michael Tinsley and Lori Tinsley are dead.
- 
-
- 
- 
-
- 
-
-
- 
-Catherine: Oh, nice look.
- 
-Catherine: That'll guarantee you the chicks.
-Hodges: Silvery material on your vic's face was graftobian theatrical makeup. Moonlight Silver is the color.
- 
-Hodges: Okay, look, I can't stand the smell of hot dogs. They make me sick.
-Grissom: So, all this stuff was in the vic's stomach?
-Hodges: Among other things. You know what the worst kind of burp is? Hot dog burp. You know, like your dad's just letting them loose, or maybe the ex-girlfriend ... 
- 
-Hodges: Well, as you can see, he wasn't much of a chewer, which was very lucky for us. Made it easier to identify the food. Cake, mac and cheese, pretzels, pasta, beef, shrimp, fish and, of course, hot dogs.
-Grissom: Food normally takes two to four hours to digest, which means he ate all of this ...
-Hodges: In two to four hours before he died.
-Catherine: How many hot dogs did he eat?
-Hodges: Approximately twenty.
-Catherine: God, ugh. Do you think we might be able to ID the makers of the hot dogs from the ingredients?
-Hodges: No. Believe it or not, most hot dog companies are very proprietary over their recipes.
-Catherine: Well, how about through the griddle marks?
-Hodges: Oh, yeah, sure. I'll just run it through the hot dog appliance database.
-Grissom: When was the last time you saw a branded logo on a hot dog?
-Catherine: Looks like those novelty chatter teeth. Weird.
-Hodges: You think that's weird? Check this out.
-
-Hodges: This was in his stomach, too.
- 
-Catherine: &quot;Circus Town Buffet.&quot;
-Grissom: &quot;All-U-Can-Eat.&quot;
-
-
- 
-Buffet Manager: I know exactly who that is. How could I forget him?
-
-Buffet Manager:  He didn't even wait to sit down. 
-
-Buffet Manager:  Hi, we've got a problem. Hurry up before the food's gone.
- 
-Buffet Manager: I called security to kick him out. When they arrived, he was gone.
-Brass: Kick him out? Sign outside says, &quot;All-U-Can-Eat.&quot;
-Buffet Manager: Look, he was taking it a little too far.
-Catherine: Well, he paid, didn't he?
-Buffet Manager: Yeah, cash.
-Catherine: So he still had his wallet. Do you have any surveillance on your register?
-Buffet Manager: For the $1.99 buffet? That would be a no.
-Catherine: And are those the only hot dogs that you serve?
-Buffet Manager: Yeah, we're famous for our cocktail wieners. You should try one.
-Brass: I think we need a couple of cocktails first.
-
- 
- 
-Nick: DNA confirmed all the blood at the crime scene is Lori Tinsley's.
-Sara: Sofia talked to their divorce lawyers. Michael and Lori were fighting over everything -- the house, the cars, her jewelry. When she found out that he was stealing his stuff back, she had the locks and the alarm codes changed.
-Nick:  Well, Michael did send his girlfriend Missy over to retrieve his vinyl, but last night he broke in himself, not to mention she was home. That's kind of asking for trouble, isn't it?
- 
-Sara: Yeah, divorce is war, huh? Sure glad I don't have that problem.
-Nick: Yeah, me either. Hodges.
- 
-Hodges: I'm not done with your samples, okay? And I just received the fingernail scrapings.
-Sara: Well, I sent the scrapings to DNA.
-Hodges: DNA kicked them over to me. There were no biologicals in the sample.
-Nick: Have you processed the hairs yet?
-Hodges: That, I have done. All the hairs lifted off the victims' clothes were consistent with each other. There's a sample under the scope.
- 
-Hodges: Root is shaped like a spade which is indicative of canine, and the scale pattern is consistent with a golden retriever.
-Sara: Oh, yeah, the victims have a golden retriever.
-Hodges: Well, if you'd cracked that mystery at the scene, you would've saved me a lot of time.  I've been working like a dog.
-Nick: You know, studies have found that pet owners have lower stress levels. You should check that out.
-Hodges: Well, I had hamsters growing up. My mother hated them. She said they stank up my room, but I just loved to watch them spinning on their little wheels. One day I came home and they were gone. Somehow they'd gotten out of their cage.
-Sara: How much did your mother hate them?
-Hodges: They ran away.
-
- 
- 
-
-
-
-
-
-
- 
-Nick: Michael Tinsley was shot?
-Robbins: Yeah, the bullet penetrated the base of the brain and lodged in the occipital lobe. The hemorrhage was intracranial.
-Nick: Looks like a .22 caliber.
-Robbins: Yeah, the scalp abrasion was probably incidental.
-Sara: We did not check the house for GSR; we didn't know he was shot.
-Robbins: That's understandable -- the entry wound wasn't visible -- but check this out.
- 
-Robbins: Some people will put anything up their nose.
-Sara: So, Michael Tinsley breaks into his own house, the alarm goes off, all hell breaks loose. She shoots him, the bullet goes up his nose, and then what? Kahlua freaks and rips out the wife's throat?
-Robbins: It's possible, which is another reason I prefer cats.
-Nick: The Tinsleys died at home ... alone. So, where's the gun?
-
-
-
-;
-
-
-
- 
-
- 
-Greg: I went shopping. Bought every brand of hot dog for sale in Las Vegas.
-Grissom: Who's paying for it?
-Greg: You mean the lab's not going to reimburse me?
-Grissom: No.
-Greg: Well, I couldn't identify the chatter teeth logo, so I figured I could physically match one of these to the one found in the victim's stomach, you know? Maybe comparing that twisty thing at the end.
-Grissom: Sounds like a good idea, Greg. I'm still not paying for it.
-Greg: Fine -- guess I'll just eat hot dogs for the rest of the year.
-Grissom: &quot;A hot dog at the ballpark tastes better than a steak at the Ritz.&quot;
-Greg: Well, I can tell when you're quoting something.  Who said it?
-Grissom: Humphrey Bogart.
-Greg: Mm.
-Grissom: Did you know that the term &quot;hot dog&quot; was actually coined at a baseball game?
- 
-Grissom: New York Polo Grounds, somewhere around 1867. A German butcher was selling what he called &quot;dachshund sausages&quot; out of his pie wagon. He put them on a roll, so that his customers wouldn't burn their fingers. He'd yell out
-&quot;Get your dachshund sausages, they're red hot!&quot; Soon, all the vendors at the polo grounds were selling them, too. But they were too lazy to say &quot;dachshund sausages,&quot; so they just called them &quot;hot dogs.&quot;
-Greg: Now there's over 50 major brands.
-Grissom: Good luck. I'm rooting for you.
-Greg: Well, hopefully I find a wiener.
- 
-
- 
- 
-
- 
-
- 
- 
-
- 
-(A man in a hot dog costume holds up a sign:
-NEL'S
-REGIONAL
-HOT DOG
-EATING
-TOURNAMENT
--- TODAY --
-$10,000!!
-IN PRIZE MONEY )
-Digger James: Gut check, one, two! Gut check! Ladies and gentlemen! Time for the bib sheets.
- 
-Digger James: Today's match will include some of the most famous gurgitators in the sport. Let's start with one of the finest: The godfather of the sport has a mouth so big he speaks in surround sound, ladies and gentlemen. Three-time lasagna-eating champion, Antonio Colletti. 
- 
-Antonio Colletti: Yeah!
-Digger James: Patty cake, patty cake, baker's man, she can eat a cake faster than anyone can. Current cupcake champion and the most elegant eater in the sport, Patty Cake Newton.
- 
-Digger James: Our most vocal gurgitator ...
-Catherine: There's the chatter teeth logo.
-Brass: EXEF Wasn't that the name on the business card you found in the vic's wallet?
-Catherine: I think we just found our Digger James.
-Digger James: ... He's said to have two stomachs! Undisputed popcorn shrimp champion, James &quot;Spare Tank&quot; Patterson.
- 
-Digger James: And finally, known for his jaw strength, trains with his pit bulls, three-time rib champion -- today he will be wearing the EXEF Hot dog camera -- Marty Mayron, &quot;the meat machine!&quot;
- 
-Digger James: All right, gurgitators, you have twelve minutes to eat your way into history.
- 
-Digger James: They're diving straight in there. Marty Mayron going with the Japanese, dipping his bun in lemonade to make it go down easier and then biting that hot dog into little pieces. Not to be outdone, Miomoto going for the double Japanese. Colletti, the old pro, double-fisting it, double-dunking it. That is a Heimlich waiting to happen.
-
-DISSOLVE TO: 
- 
-Digger James: ... Is not fooling around -- He's doing a reverse Japanese: Bun first, hot dog afterwards. Sort of a &quot;dachshund chaser.&quot; Still pushing it, going old school, like a little kid trying to impress his grandmother at Thanksgiving dinner. Patty Cake going mostly cakey on that one. You can almost see the icing on that hot dog. Colletti having a bit of a problem. Something's slowing him down.
- 
-Digger James: Whoa! Antonio Colletti, a reversal of fortune. That's an immediate disqualification, and, of course, disgusting for all of us to watch. 
- 
-Brass: Wow.
-Catherine: Well, which one do you want? The guy in the silver face paint or Digger James?
-Brass: I don't know -- slimy stuff is your thing. I don't want to get mustard on my suit. I'll take Digger.
-Catherine: Do I have a choice?
-LATER: 
- 
-Brass: Hey, you recognize this guy?
-Digger James: That's Jerry. By far, one of the best walk-on gurgitators I've ever seen.
-Brass: So you gave him your business card, right? 
-Digger James: I'm the U.S. rep for the EXEF.
-Brass: All right, EXEF. What exactly does that stand for?
-Digger James: It's the Extreme Eating Federation. We're one of the most popular leagues in the sport.
-Brass: Pounding down hot dogs, that's a sport?
-Digger James: Since the early days of man. You got thirty Neanderthals in a cave and a rabbit walks in, you have a competitive eating situation, my friend. We have rules, records, prize money. Some of our top competitors earn up to a half a million dollars a year. We're on cable.
-Brass: No kidding. Well, what does all this have to do with Jerry?
-Digger James: Everything. Jerry had undeniable gastro-intestinal fortitude. He took third in yesterday's competition. That qualifies him for the finals in Atlantic City. It made the Las Vegas Post.
-Brass: Hmm.
-Digger James: Sports section.
- 
-Digger James: Jerry Gable is pounding those dogs.
-
-Digger James: Third place goes to walk-on &quot;An Amazing Job&quot; Jerry Gable!
-
- 
- 
-Brass: Can I keep this?
-Digger James: Sure.
-Brass: Thanks.
-Digger James: I'm telling you, with proper training, Jerry could've proudly represented the U.S. and taken back the golden weenie from the Japanese champion.
-Brass: Yeah, got to get that golden weenie back.
- 
-Brass: Uh, so after the tournament, did you see Jerry? 
-Digger James: Paid him, gave him my card, left him to celebrate.
-Brass: Any idea who he was celebrating with?
- 
-Marty Mayron: You want a sample of my face paint?
-Catherine: Yeah, it's part of my investigation.
- 
-Catherine: Oh, it's still moist. That's good for me.
-Marty Mayron: I didn't do anything to Jerry Gable. Okay, in the beginning, I admit I was a little pee'd off that I lost to the guy. But then I learned what a disturbed individual he was.
- 
-Jerry Gable: Couple more! Just, just, just, just, a couple ... couple more! Has anybody got more hot dogs? Please!
-Marty Mayron: What are you trying to prove, huh?
- 
-Jerry Gable: Just give me more! 
-Marty Mayron: Trying to be a big guy, tough guy, huh?
- 
-Jerry Gable: Please, please!
-
-
-Catherine: And what happened after the friendly hug?
-Marty Mayron: Some guy in a hat came by, took him out of here.
- 
-Catherine: Is that the guy in the hat?
-Marty Mayron: Sure is.
-
- 
- 
- 
- 
-
- 
- 
-
-
-
- 
- 
- 
-Sara: So I found the murder weapon. It slipped under the living room couch -- presumably when Kahlua attacked Lori.
-Nick: Well, a dog did attack Lori, but it wasn't Kahlua. The bite marks on Lori's neck are inconsistent with Kahlua's teeth.
-Sara: Oh, which means Kahlua gets to walk.
-Nick: Check out this left canine.
-Sara: The tooth is chipped.
-Nick: All the dog hair we found at the crime scene was consistent with a golden retriever, which suggests there was another golden retriever in the house. It could've attacked Lori, fled out the kitchen door.
-Sara: That is like saying there's a second shooter on the grassy knoll -- they only had one dog, Nick.
-Nick: I'm calling Animal Control. We're looking for another golden retriever, one with a bad tooth and rotten disposition.
- 
-
-
-
-
-
- 
- 
-Robbins: Little late to be going to court.
-Warrick: No, I'm not going to court. I'm taking my Lady Tina to that new Cirque show at the Wynn and I forgot my tickets in my locker.
-Robbins: That's nice, but if you're looking for something to tide you over, look no further.
- 
-Robbins: Busy night. Figured the lab could use a little lovin' from the oven.
-Warrick: Oh, your wife made a pie.
-Robbins: I made the pie. Strawberry rhubarb.
-Warrick: I'm impressed.
- 
-Warrick: Let's take it easy with the cutting there, doc, it's starting to look like the hit-and-run on your table last week.
-Robbins: Just try it.
-Warrick: Thanks.
-Robbins: You know, it's vegan. Low fat, low sugar, low carb ... 
-Warrick: Low taste.
- 
-Robbins: Catherine, Catherine, come here. I need your opinion on this.
- 
-Robbins: Try this.
-Catherine: No, thank you, I just came from Nel's hot dog eating tournament. I'm really done with food.
-Robbins: It's good.
-Warrick: I was watching that on cable. Some Japanese guy ate, like, 64 hot dogs in 12 minutes.
-Catherine: Yeah. He's was the most famous guy in Japan behind Yao Ming.
-Robbins: Yao Ming is Chinese. Try it.
-Catherine: They ought to make it an Olympic sport or something.
-Catherine: Please? No, I can't go there. I can't.
-Warrick: You know, if you want to cleanse your taste buds, I suggest you try Doc Robbins' pie. Really.
- 
-Catherine: Yeah, that's why you're leaving it behind.
-
- 
- 
-Catherine: I got an ID on dumpster guy. Brass is tracking down a current address.
-Grissom: Prader-Willi.
-Catherine: No, his name was Jerry Gable.
-Grissom: No, Prader-Willi syndrome. A rare gentic disorder that causes ceaseless, uncontrollable excruciating hunger. It's as if your stomach was truly a bottomless pit.
- 
-Catherine: That could explain why after consuming twenty-two dogs, he wanted more. Could also explain why he was found in the dumpster. He followed the food.
-Grissom: Prader-Willi syndrome is characterized by short stature, hypotonia, almond-shaped eyes, and obsessive fingernail biting.
-Catherine: That kind of fits the victim's description.
-Grissom: Sufferers are born with a flawed hypothalamus. Normal hypothalamus receives a signal from the stomach -- &quot;I'm full, stop eating.&quot;
- 
-
-
-Grissom:  But with Prader-Willi syndrome, the signal never reaches the brain.
-
- 
-
-Grissom: They're always hungry.
-Catherine: Like having a full tank of gas, and gauge is stuck on empty.
-Grissom: Guy's like Jerry are monitored their whole lives. Constant supervision 24 hours a day. You remember the scar tissue we found on his wrist?
- 
-Grissom: I think it's possible that our vic spent most of his life in restraints.
-Catherine: So either he escaped or ... someone set him free.
-Grissom: In which case, they'd be responsible for his death.
-
-
- 
-Hodges: I heard your case has gone to the dogs.
-Nick: Oh, Hodges, heel. No, better yet, play dead, man.
-Hodges: Play nice, I'm throwing you a bone. The fingernail scrapings from your female vic was baking grease.  How does that fit in the puzzle?
- 
-
- 
-Nick: Hey.
-Sara: According to the court records, the Tinsleys weren't just fighting over property. They were also engaged in an expensive custody battle.
-Nick: Custody over what? They didn't have any kids.
-Sara: They had Kahlua. And evidently, yesterday both parties agreed to let the dog decide for herself. According to Michael's girlfriend, the dog was his, but Kahlua chose Lori.
- 
-Lori Tinsley: Here, Kahlua. 
-Michael Tinsley: Come here.
-Lori Tinsley: Come on, Kahlua.
-Michael Tinsley: Come here.
-Lori Tinsley: Come on.
-Michael Tinsley: Hey.
-Lori Tinsley: Come to Mama, sweetie.
- 
-Lori Tinsley: Yeah.
-
- 
-Nick: I think I know why.
- 
-Nick:  Lori greased up before the big face-off.
-LATER:
- 
-Lori Tinsley: Here, Kahlua.
-Michael Tinsley: Come here.
-Lori Tinsley: Come on, Kahlua.
-Michael Tinsley: Come here, come on.
-Lori Tinsley: Come on.
-Michael Tinsley: Come here.
-Lori Tinsley: Kahlua, come. 
- 
-Lori Tinsley: Come to Mama, sweetie. Yeah.
- 
-Nick: A dog's sense of smell is 25 times more sensitive than humans. Bacon grease would've been pretty irresistible.
-Sara: Question is ... &quot;Did Michael know that Lori was playing dirty?&quot;
- 
-Nick: Stokes. Yeah, all right, cool. Our suspect is in custody.
-
-
-
- 
-Jesse Menken: Animal Control picked her up near Centennial Park, called the number on the tag, left a voice mail.
-Sara: Dead people don't return calls.
-Nick: New collar, new tags. Kahlua. Same name.
-Jesse Menken: Spoke to Animal Control. Kahlua number two was adopted the same day as the murder. You want to guess the adopter's name?
-Nick: Michael Tinsley. You bet.
-Sara: He adopted Kahlua's doppelganger.
-Nick: Left tooth is chipped. Confirm's ID. She doesn't seem very ferocious.
-Jesse Menken: You want to see ferocious?
-Nick: Yeah.
-
-
- 
-Sara: How did you know?
-Jesse Menken: When the guys loaded her up into the Animal Control van, they slammed the door and she went off.
-Nick: So the gun acted as a trigger. She heard it and attacked Lori.
-Jesse Menken: Probably abused in the past. If they'd known, they never would've put her up for adoption.
-Sara: Michael broke into the house intending to swap dogs, hoping that Lori wouldn't even notice the difference.
-
-
- 
-Michael Tinsley: You don't give a damn about Kahlua! You just don't want me to have her!
-Lori Tinsley: You care more about that stupid dog than you did me!
-Michael Tinsley: For once you got it right!
- 
-
- 
- 
-Sara: When Kahlua number two took off, Kahlua number one came out of hiding.
- 
- 
-Nick: The police showed up, she got scared , went back to her closet.
-Sara: Their marriage ended in a dog fight, and only the dog survived.
-
-
- 
-Brass: So I called about a dozen Jerry Gables. One had an answering machine for Jerry and Suzie Gable. This apartment is listed to Jerry and Suzie Gable. Here's Suzie.
-(Brass hands a copy of the NEVADA DRIVER LICENSE to Catherine. It reads:
-LIC # 1800592214 EXPIRES 05-12-2006
-SSN: 503-45-734
-CLASS: C
-BIRTHDATE: 05-12-1977
-s*x: F HEIGHT: 5'4&quot; WEIGHT: 105
-EYES: BRN HAIR: BLN
-SUSAN GABLE
-16 S. MEADOWS LN #103
-LAS VEGAS, NV 89101 )
-
-Brass: Las Vegas Police.
- 
-Suzie's Boyfriend: Please tell me you found Jerry.
- 
-
- 
-Brass: Okay, so who are you?
-Suzie's Boyfriend: I'm Susie's boyfriend.
-Brass: All right, Susie's boyfriend, what's your name?
- 
-Suzie's Boyfriend: Look, I don't have anything else to say. Hey, that's my easiest question.
-Catherine: Hey, you don't want to give us your name, fine, but you better explain why Jerry's not in this chair.
- 
-Catherine: All right, look, I'm going to print this restraint. And when I find your fingerprints all over it, I won't need to ask you again.
-Suzie's Boyfriend: Okay, okay, all right. He escaped. All right? I was supposed to be watching him, and I conked out for a second, and by the time I got up, he was gone from his chair.
-Brass: He escaped? So, what, the guy's Houdini?
-Suzie's Boyfriend: Trust me. He may have been slow, but he was manipulative.
-Brass: Yeah.
-Suzie's Boyfriend: Look, how do you deny a 30-year-old man food? I mean, I felt like I was torturing the poor guy.
- 
-Suzie's Boyfriend:  Yeah, I told you them Vikings suck. All right, I'll meet you at the Circus Town Book.
- 
-Jerry Gable: Can I go to Circus Town with you? I heard the buffet there is yummy.
- 
-Suzie's Boyfriend: No.
- 
- 
-Suzie's Boyfriend: My plan was just to drop him off at the buffet while I went back to the sports book. By the time I got back ... oh, man ... 
- 
- 
-
- 
- 
-Suzie's Boyfriend: I couldn't help myself. I had to sign him up.
-Brass: So let me guess -- you blew his winnings at the sports book?
-Suzie's Boyfriend: Well, what was he gonna do with them? He's been strapped to a damn chair his whole life.
-Brass: You know, you managed to supersize a combo of two deadly sins -- greed and gluttony. Shame on you. So what's he doing in a dumpster?
-Suzie's Boyfriend: I don't know. Was there food in the dumpster? 'Cause when we were on our way home, Jerry was still hungry. Wanted to hit up Krispy Kreme. And by the time I could tell him no, he was running off down the street. I looked for him all night.
-Brass: Yeah? Where's Susie?
-DISSOLVE TO:
-
- 
-Suzie Gable: I knew I shouldn't have left Jerry with my boyfriend. I'd been calling to check in. He wasn't answering. I could tell something was up.
-Catherine: Why did you leave your brother with somebody you didn't trust?
-Suzie Gable: There was no one else. I had to get this surgery today or my insurance wasn't going to cover it.
-Catherine: Couldn't you have left him with a family member?
-Suzie Gable: We have no family. Our parents died in a car crash years ago.
-Catherine: What about some kind of professional help?
-Suzie Gable: I'm a waitress, Miss. I ... I don't make much. There's a really nice institution in Summerlin, but it costs a $100,000 a year. And the last babysitter I hired, Jerry beat up trying to get to the fridge. I swear to you, I really tried to take care of my brother. I really ... did the best I could.
-
-
-Suzie Gable: Jerry took third place?
-Catherine:  Yeah.
-Suzie Gable: I bet he had the time of his life.
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=06x09+-+Dog+Eat+Dog&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127412%23p127412" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=06x09+-+Dog+Eat+Dog&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127412%23p127412" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127412%23p127412&amp;name=06x09+-+Dog+Eat+Dog" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127412%23p127412" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=4f6dcab6a97eb0baf9d6cfae02a9b2ea">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=4f6dcab6a97eb0baf9d6cfae02a9b2ea">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=4f6dcab6a97eb0baf9d6cfae02a9b2ea">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=4f6dcab6a97eb0baf9d6cfae02a9b2ea">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

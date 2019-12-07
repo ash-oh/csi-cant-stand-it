@@ -1,696 +1,926 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] 
+[EXT. BEST BARGAIN SUPERMARKET - PARKING LOT -- NIGHT] 
+(A police car pulls up the parking " />
+<meta property="og:title" content="04x14 - Paper or Plastic? - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] 
+[EXT. BEST BARGAIN SUPERMARKET - PARKING LOT -- NIGHT] 
+(A police car pulls up the parking " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13273" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>04x14 - Paper or Plastic? - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13273" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13273">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=944ed7bbcf081a5ae6f5886b433bb689"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=944ed7bbcf081a5ae6f5886b433bb689">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=944ed7bbcf081a5ae6f5886b433bb689">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=944ed7bbcf081a5ae6f5886b433bb689">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=944ed7bbcf081a5ae6f5886b433bb689">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13273&amp;sid=944ed7bbcf081a5ae6f5886b433bb689&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>04x14 - Paper or Plastic?</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127367">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127367">04x14 - Paper or Plastic?</a></div>
+							<div class="pull-right text-right"><time datetime="2004-02-26T16:00:13Z">02/26/04 16:00</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] </p>
+<p>[EXT. BEST BARGAIN SUPERMARKET - PARKING LOT -- NIGHT] </p>
+<p>(A police car pulls up the parking lot and stops in front of the store.) </p>
+<p>[INT. OFFICER CAR (PARKED) - NIGHT]</p>
+<p><strong>Officer Clay</strong>: What do you need to get?</p>
+<p><strong>Officer Fromansky</strong>: Actually, it's what you need to get, rook.</p>
+<p>(OFFICER FROMANSKY hands OFFICER CLAY some bills.)</p>
+<p><strong>Officer Clay</strong>: Aw, come on, man. We're off duty.</p>
+<p><strong>Officer Fromansky</strong>: You're off when I say you're off. </p>
+<p>(With the bills in his fingers, he motions toward the store. OFFICER CLAY grabs the bills. He opens the car door and gets out.)</p>
+<p><strong>Officer Fromansky</strong>: (through the open window) Don't forget the Ho-Hos.</p>
+<p>(OFFICER CLAY waves the bills over his shoulder as he heads into the supermarket.)</p>
+<p>[INT. BEST BARGAIN SUPERMARKET - NIGHT - CONTINUOUS]</p>
+<p>(OFFICER CLAY walks into the supermarket. Stifling a yawn, he heads toward the aisle to get his things.)</p>
+<p>(Cut to: He looks into the refrigerator racks, finds what he's looking for, opens the door and grabs the container of milk.)</p>
+<p>(Cut to: OFFICER CLAY heads back to the checkout counter.)</p>
+<p><strong>Celeste Turner</strong>: I can help you over here, sir.</p>
+<p>(He points to the light.)</p>
+<p><strong>Officer Clay</strong>: That's not what your light says. </p>
+<p>(She reaches out and turns the light on.)</p>
+<p><strong>Officer Clay</strong>: Slow night?</p>
+<p><strong>Celeste Turner</strong>: Kind of.</p>
+<p>(He puts the container of milk on the check out counter and turns to head back into the aisle.)</p>
+<p><strong>Officer Clay</strong>: Oh ... can't forget the Ho-Hos.</p>
+<p>(He finds the Ho-Ho's and absently glances up at the mirrors in the ceiling. He sees a man in black carrying a gun walking up the next aisle.)</p>
+<p>(OFFICER CLAY unholsters his gun.)</p>
+<p>WHITE FLASH TO:</p>
+<p>[EXT. BEST BARGAIN SUPERMARKET - PARKING LOT -- NIGHT - LATER] </p>
+<p>(GRISSOM, CATHERINE and WARRICK carry their kits past the emergency vehicles in the parking lot and head into the supermarket.) </p>
+<p>(They see bodies on gurneys being rolled into the EMT vehicles. They see a MR. REED desperately trying to get past the officers and into the store.)</p>
+<p><strong>Mr. Reed</strong>: Get out of my way! I've got to get in there! What the hell is wrong with you people? My wife is still in there! Why isn't anybody helping my wife?!</p>
+<p><strong>Officer</strong>: (b.g.) We're doing the best we can, sir. ... </p>
+<p><strong>Mr. Reed</strong>: Please! </p>
+<p><strong>Brass</strong>: Body count's five.</p>
+<p>(GRISSOM looks around and sees OFFICER FROMANSKY sitting on the side, a blanket wrapped around his shoulder. OFFICER FROMANSKY watches GRISSOM head into the store.)</p>
+<p>CUT TO:<br />
+[INT. BEST BARGAIN SUPERMARKET - NIGHT -- CONTINUOUS] </p>
+<p>(BRASS walks into the store followed by CATHERINE, WARRICK and GRISSOM. BRASS stops in front of the fallen officer and kneels down as he gives them the information.) </p>
+<p><strong>Brass</strong>: Officer Clay entered the store unaware of a robbery that was in progress. Officer Fromansky came in after he heard a shot fired. Engaged two suspects. Lit the place up.</p>
+<p>(WARRICK looks down the aisle and sees additional dead bodies.)</p>
+<p><strong>Brass</strong>: The ski masks are John Does. The rest have wallet IDs.</p>
+<p>(Cut to: GRISSOM holds up the camera and snaps photos of the scene.)</p>
+<p>(CATHERINE snaps photos of JULIA REED.)</p>
+<p><strong>Brass</strong>: (V.O.) Woman at the back is Julia Reed, cocktail waitress at the Tangiers.</p>
+<p>(WARRICK snaps photos of RUFUS SANDERS.)</p>
+<p><strong>Brass</strong>: (V.O.) Man on aisle four is Rufus Sanders, cab driver. </p>
+<p>(He snaps more photos. When finished, he moves over to the open bag of cash on the aisle floor. He snaps a photo.)</p>
+<p><strong>Warrick</strong>: How you want us to handle this, Grissom?</p>
+<p><strong>Grissom</strong>: Same way you'd eat an elephant ... one bite at a time.</p>
+<p>(GRISSOM looks around and notices some blood drops on the floor leading to under a table. He makes his way toward it. BRASS finishes up with an officer.)</p>
+<p><strong>Grissom</strong>: Hey, Jim ... did you know that Charles Manson is only 5'2&quot;?</p>
+<p><strong>Brass</strong>: Yeah, little guys tend to overcompensate.</p>
+<p><strong>Grissom</strong>: Do you remember the, uh, story about ... how and where the marshals found old Charlie when they raided barker ranch?</p>
+<p><strong>Brass</strong>: (gets it) Yeah. I always, uh ... </p>
+<p>(BRASS quietly unholsters his gun.)</p>
+<p><strong>Brass</strong>: I always liked that story.</p>
+<p>(He kneels down and aims under the table. GRISSOM moves the cloth aside to show a little boy, awake, huddled on his side, shivering and bleeding from a gunshot wound.) </p>
+<p><strong>Grissom</strong>: (shouts) We need a medic!</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. BEST BARGAIN SUPERMARKET - PARKING LOT] </p>
+<p>(The medics wheel out the HENRY TURNER on a gurney. BRASS and GRISSOM interview OFFICER FROMANSKY.) </p>
+<p><strong>Brass</strong>: All right, tell me what happened.</p>
+<p><strong>Officer Fromansky</strong>: I was in my radio car when I heard shots fired. I called for backup. I went in.</p>
+<p>(Quick flashback to: OFFICER FROMANSKY cautiously enters the supermarket. OFFICER CLAY is already dead on the floor.)</p>
+<p><strong>Officer Fromansky</strong>: Clay, talk to me. Clay!</p>
+<p>(Gun shots are exchanged between OFFICER FROMANSKY and the ARMED SUSPECTS. They fire; he fires. A woman screams.)</p>
+<p>(OFFICER FROMANSKY hits the ARMED SUSPECT.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: How many shots you fire?</p>
+<p><strong>Officer Fromansky</strong>: Three. No, four. I fired four.</p>
+<p><strong>Brass</strong>: Then what?</p>
+<p><strong>Officer Fromansky</strong>: I saw my partner on the floor. I went towards him.</p>
+<p>(Quick flashback to: [FROMANSKY'S POV] OFFICER CLAY is on the floor, dead and bloody, his head in a small pool of blood.)</p>
+<p><strong>Officer Fromansky</strong>: (V.O.) Second gunman came at me.</p>
+<p>(OFFICER FROMANSKY looks up and sees the SECOND GUNMAN. He fires multiple times. He gets hit in the shoulder. A woman screams.)</p>
+<p>(OFFICER FROMANSKY gets back on his feet and continues firing until the GUNMAN goes down. The woman screams.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: How many shots you fire at the second gunman, total?</p>
+<p><strong>Officer Fromansky</strong>: (thinking) Maybe-maybe five. I'd taken a shot in my vest. </p>
+<p><strong>Grissom</strong>: Hard to count under those conditions. Are you sure?</p>
+<p><strong>Officer Fromansky</strong>: No, I'm not sure. That's why I said maybe ... ...but I know I shot four at the third guy. I was going to check on my partner. I caught movement in the back. Black coat, ski mask, gun ... I put him down.</p>
+<p>(Quick flashback to: A THIRD GUNMAN as a dark blur runs across the screen from left to right. OFFICER FROMANSKY kneels next to his partner, looks up, sees the figure and fires multiple shots.)</p>
+<p>(A woman screams. The GUNMAN falls to the floor.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: He fire at you?</p>
+<p><strong>Officer Fromansky</strong>: Didn't give him a chance.</p>
+<p><strong>Brass</strong>: All right, that's all we need to know. I need your weapon.</p>
+<p>(BRASS holds out his hand and OFFICER FROMANSKY hands the gun handle first to him. GRISSOM watches BRASS check the weapon.)</p>
+<p><strong>Officer Fromansky</strong>: My partner ... I want to be the one to tell his wife. He was my responsibility.</p>
+<p><strong>Brass</strong>: All right. </p>
+<p>(OFFICER FROMANSKY stands up to make the call. BRASS turns to GRISSOM.)</p>
+<p><strong>Brass</strong>: All right, look, if you're not going to say it, I will. Fromansky said he killed three, and there are two dead ski masks in there. Now, you cranked him up pretty good on that vigilante case last year. Is that going to be a problem?</p>
+<p><strong>Grissom</strong>: No.</p>
+<p>(GRISSOM turns and walks away.)</p>
+<p>CUT TO:<br />
+[INT. BEST BARGAIN SUPERMARKET - BACK ROOM -- NIGHT -- CONTINUOUS] </p>
+<p>(CATHERINE and WARRICK speak with the other workers and witnesses at the back of the market.) </p>
+<p><strong>Catherine</strong>: Everybody, could I please have your attention? All right, folks, I know that you've been through an awful lot this evening. If you could just bear with me a little longer, I need to talk with every one of you one at a time, so I promise to get you out of here as quickly as possible. (quietly to the officer) Is the, uh, guy in black the cocktail waitress' husband?</p>
+<p><strong>Officer Metcalf</strong>: Yeah. Do you want him first?</p>
+<p>(She looks at him, his head in his hands.)</p>
+<p><strong>Willows</strong>: I don't think he's ready for me just yet. I'm going to get to him soon enough.</p>
+<p>CUT TO:<br />
+[INT. BEST BARGAIN SUPERMARKET - FRONT OF STORE -- DAY] </p>
+<p>(SARA walks into find WARRICK processing OFFICER CLAY.) </p>
+<p>(He puts down evidence marker #55 and #56 near the casing. GRISSOM appears next to SARA.)</p>
+<p><strong>Grissom</strong>: What happened to your assault in Henderson?</p>
+<p><strong>Sara</strong>: I closed it. Where do you need me?</p>
+<p><strong>Grissom</strong>: There's two more bodies over by the beer.</p>
+<p><strong>Sara</strong>: You got it.</p>
+<p>(SARA heads for the back.)</p>
+<p><strong>Warrick</strong>: Barely cleared the holster.</p>
+<p><strong>Grissom</strong>: Reflex, maybe. Pulled the trigger before he had a target.</p>
+<p>(Quick flashback to: OFFICER CLAY pulling out his gun and firing before clearing the holster. End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: Not quick enough.</p>
+<p>(WARRICK looks around at the blood spatter on the SUZY Q boxes. He puts down evidence marker #57 next to OFFICER CLAY'S head.)</p>
+<p>CUT TO:<br />
+[BACK ROOM] </p>
+<p>(CATHERINE interviews the BAGBOY.) </p>
+<p><strong>Bagboy</strong>: Those two guys came out of nowhere ... made everybody go to the corner.</p>
+<p><strong>Catherine</strong>: Where, specifically?</p>
+<p><strong>Bagboy</strong>: Uh ... dry goods. Then one guy grabs Celeste ... </p>
+<p>(Quick flashback to: CELESTE TURNER behind the check out counter.)</p>
+<p>(Cut to: Through the reflection of the ceiling mirror, the GUNMAN pushes CELESTE TURNER, forcing her to open the register.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Which guy?</p>
+<p>(He glances quickly behind him before answering.)</p>
+<p><strong>Bagboy</strong>: I was looking at his piece, not his face, okay?</p>
+<p><strong>Catherine</strong>: Shotgun or handgun?</p>
+<p><strong>Bagboy</strong>: Uh, shotgun. He drags her over to the registers, makes her open 'em up. She does. They're pulling out the cash, and then he sees the cops roll up. Second guy says, &quot;everybody, get down and don't say a freaking word,&quot; so that's what I did.</p>
+<p>(He glances behind him.)</p>
+<p><strong>Catherine</strong>: And then ... </p>
+<p><strong>Bagboy</strong>: ... And then?</p>
+<p>(Quick flashback to: Everyone is huddled in the aisles, the GUNMAN as the gun on them. He looks up and runs over.)</p>
+<p>(There's gunfire everywhere.)</p>
+<p><strong>Bagboy</strong>: (V.O.) ... ankles and flashes and booms.</p>
+<p>(The BAGBOY has his head tucked under his arms.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Bagboy</strong>: That's all I remember.</p>
+<p><strong>Catherine</strong>: And you never moved from that spot?</p>
+<p><strong>Bagboy</strong>: (glances behind him) No, I didn't.</p>
+<p><strong>Catherine</strong>: Do you have somewhere you need to be?</p>
+<p>(He looks at CATHERINE and pauses, embarrassed.)</p>
+<p><strong>Bagboy</strong>: I got to change my pants.</p>
+<p>(She glances down.)</p>
+<p><strong>Catherine</strong>: Sorry.</p>
+<p>CUT TO:<br />
+[MAIN MARKET] </p>
+<p>(GRISSOM processes the scene around the dead GUNMAN. He caps the swab tip, looks at the gunman, then pulls the ski mask down below his chin to look at his face.) </p>
+<p>(Cut to: SARA processes the scene around the SECOND GUNMAN.)</p>
+<p>CUT TO:<br />
+[SECURITY BOOTH] </p>
+<p>(NICK gathers the security tapes from the machines.) </p>
+<p><strong>Manager</strong>: Well, you know, we're not the most modern store around.</p>
+<p><strong>Nick</strong>: How long is the surveillance loop?</p>
+<p><strong>Manager</strong>: About 24 hours.</p>
+<p>(NICK finds some tapes missing.)</p>
+<p><strong>Nick</strong>: What, uh ... what happened to these tapes here?</p>
+<p><strong>Manager</strong>: Nothing.</p>
+<p><strong>Nick</strong>: These are active cameras, right?</p>
+<p><strong>Manager</strong>: Those VCRs are busted. Never got 'em fixed. You know, cutbacks. Over the register and outside works. That's all we really need. Gotta keep an eye on the employees, right?</p>
+<p><strong>Nick</strong>: Right.</p>
+<p><strong>Manager</strong>: They steal worse than the customers.</p>
+<p>CUT TO:<br />
+[SLOT MACHINES] </p>
+<p>(WARRICK checks the win at the machine.) </p>
+<p>CUT TO:<br />
+[SARA] </p>
+<p>(SARA picks up something from the pool of blood. She bags it.) </p>
+<p><strong>Warrick</strong>: You know, this guy hit a $75 jackpot. Probably shoving quarters in his pockets when this whole thing went down.</p>
+<p><strong>Sara</strong>: The door was twenty feet away. He probably could've made a run for it.</p>
+<p><strong>Warrick</strong>: You know, after the MGM grand fire, they found people fused to slot machines. Never even made it out of their seats. This guy probably thought it was his lucky day. I'm sure he wasn't going to leave without his money.</p>
+<p>(Camera holds on the quarters in the blood.)</p>
+<p>CUT TO:<br />
+[BACK OF STORE] </p>
+<p>(CATHERINE interviews an older check out woman.) </p>
+<p><strong>Woman Cashier</strong>: We all just started running when those two psychos started shooting it out with the cop...</p>
+<p>(Quick flashback to: When the gunman turns to exchange bullets with the officer, the group of hostages start running. RUFUS SANDERS gets shot.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Woman Cashier</strong>: I took a first aid course about a hundred years ago,<br />
+(Quick flashback to: The WOMAN rushes over to help him.)</p>
+<p><strong>Woman Cashier</strong>: (V.O.) ... so I-I-I tried to keep pressure on the wound, but it just kept bleeding, you know?</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Woman Cashier</strong>: I couldn't leave Rufus all alone, scared, dying.</p>
+<p><strong>Catherine</strong>: You were friends?</p>
+<p><strong>Woman Cashier</strong>: Mmm, sort of. He-he'd come in a couple of times a week and play the quarter slots.</p>
+<p><strong>Catherine</strong>: From where you and Rufus were, could you see Officer Fromansky?</p>
+<p><strong>Woman Cashier</strong>: Oh, the cop who saved us? (shakes head) No. I couldn't see anything. I just heard all that gunfire just blasting away.</p>
+<p>CUT TO:<br />
+[WARRICK] </p>
+<p>(WARRICK looks around and finds a container of drain cleaner, spilled and empty from the bullet holes.) </p>
+<p>(Quick flash of the bullet hitting the drain cleaner. Resume to present.)</p>
+<p>(He clips it over and reads that the main ingredient is Sodium Hydroxide. He puts the empty container back down on the ground.)</p>
+<p>(He turns and looks at the bullet holes in the glass.)</p>
+<p>(He turns and joins DAVID PHILLIPS who is attending JULIA REED.)</p>
+<p><strong>David Phillips</strong>: Hey.</p>
+<p><strong>Warrick</strong>: Hey.</p>
+<p><strong>David Phillips</strong>: Entry wound's on the left side.</p>
+<p><strong>Warrick</strong>: There's no exit wound?</p>
+<p>(DAVID checks her back and doesn't find it.</p>
+<p><strong>Warrick</strong>: Skin's thicker on the back. Captured the bullet.</p>
+<p><strong>David Phillips</strong>: We'll retrieve it at autopsy.</p>
+<p>CUT TO:<br />
+[BACK OF MARKET] </p>
+<p>(CATHERINE interviews MR. REED, JULIA REED'S husband.) </p>
+<p><strong>Mr. Reed</strong>: I was, uh ... holding Julia's hand trying to find a place to hide ... somewhere safe. It was those stupid heels, you know. She was always forgetting to bring her flats to work.</p>
+<p>(Quick flashback to: MR. REED pulls JULIA through the aisle. Gunshots fire and JULIA falls to the ground.)</p>
+<p><strong>Mr. Reed</strong>: Come on.</p>
+<p>(He turns around and finds her dead. End of flashback. Resume to present.)</p>
+<p><strong>Mr. Reed</strong>: They didn't have to shoot her. They were wearing masks. We didn't even get a good look at them.</p>
+<p><strong>Catherine</strong>: Mr. Reed, you can't look for reasons here.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY] </p>
+<p>(WARRICK watches as DR. ROBBINS extracts the bullet from JULIA REED.) </p>
+<p><strong>Robbins</strong>: We'll have it out in a second. The trick is to apply even pressure all around.</p>
+<p>(ROBBINS uses his fingers and pushes the bullet out.)</p>
+<p><strong>Warrick</strong>: Is there something wrong with tweezers?</p>
+<p><strong>Robbins</strong>: They can mess up the striae. You've got enough to deal with without my toolmarks in the mix. Here we go.</p>
+<p>(He holds up the bullet.)</p>
+<p><strong>Robbins</strong>: Huh. Paper or plastic?</p>
+<p>(In his other hand, he holds up a baggie and a bindle for WARRICK to choose.)</p>
+<p>CUT TO:<br />
+[INT. CSI - MORGUE] </p>
+<p>(GRISSOM walks in to find DAVID PHILLIPS with the other bodies.) </p>
+<p><strong>David Phillips</strong>: Officer Clay's already been processed. We wanted to get him to his family.</p>
+<p><strong>Grissom</strong>: Did you get prints off the two suspects?</p>
+<p><strong>David Phillips</strong>: Uh, yeah. They're right here.</p>
+<p>(DAVID hands them to GRISSOM.)</p>
+<p><strong>David Phillips</strong>: And we also got bullets from both of them.</p>
+<p><strong>Grissom</strong>: Good. (GRISSOM notices the tattoos.) Prison tattoos. They weren't virgins.</p>
+<p>CUT TO:<br />
+[INT. HOSPITAL -- HALLWAY] </p>
+<p>(CATHERINE talks with the nurse at the desk.) </p>
+<p><strong>Catherine</strong>: Hi, I was wondering if I might be able to speak with Celeste Turner. She, uh, has a gunshot wound. She was brought in from the grocery store robbery.</p>
+<p><strong>Nurse</strong>: Right. Curtain three. Just out of surgery. Stable. She's still pretty doped up, though. You're going to have to come back later. You going to need these?</p>
+<p>(She hands the bag with the bullets to CATHERINE.)</p>
+<p><strong>Catherine</strong>: Yes. Thank you.</p>
+<p>(She looks at the bullets.)</p>
+<p><strong>Catherine</strong>: What can you tell me about the little boy who was also brought in from the robbery incident?</p>
+<p><strong>Nurse</strong>: Minor injuries. He's fine. Mostly shock. He's with his mom. Hell of a night, huh? Take your kid to work, both end up shot.</p>
+<p><strong>Catherine</strong>: Wait a minute. So, the little boy's mother is Celeste Turner?</p>
+<p><strong>Nurse</strong>: Yeah.</p>
+<p>[HALLWAY OUTSIDE ROOM] </p>
+<p>(CATHERINE watches through the glass as mother and son share the same bed. They're both sleeping.) </p>
+<p>CUT TO:<br />
+[INT. CSI - AUDIO/VISUAL LAB] </p>
+<p>(CATHERINE watches the security video with NICK.) </p>
+<p><strong>Catherine</strong>: b*st*rd was behind her the whole time.</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p>(He sighs.)</p>
+<p><strong>Nick</strong>: Okay, here's what I got so far ... there's our two DOA suspects. Looks like they just walked in off the street.</p>
+<p><strong>Catherine</strong>: Is there any sign of Fromansky's mystery gunner?</p>
+<p><strong>Nick</strong>: No. All the cars in the parking lot were accounted for, and the loading dock out back was deserted, so ...</p>
+<p>(He hits more keys.)</p>
+<p><strong>Nick</strong>: ... this is the only view of what went down.</p>
+<p>(On video: The GUNMAN pushes CELESTE TURNER back to her cash register.)</p>
+<p><strong>Nick</strong>: And see here? Here comes our cop.</p>
+<p>(On video: OFFICER CLAY steps onto screen, puts the milk container on the check out counter, turns around and walks off frame.)</p>
+<p><strong>Nick</strong>: Three, four feet away, doesn't even see him. The thing I hate the most is the bad guys always know if there's going to be a gunfight.</p>
+<p>(On video: The GUNMAN steps out from around CELEST TURNER to point his gun at OFFICER CLAY.)</p>
+<p>CUT TO:<br />
+[INT. CSI -- HALLWAY] </p>
+<p>(WARRICK, SARA and GRISSOM walk through the hallway.) </p>
+<p><strong>Warrick</strong>: Officer Clay's one shot went into the floor. The bullet fragmented. That's probably how that kid got hit. But Officer Fromansky's beretta and that suspect's tec-9, they both had hollow .9 millimeters. Between the two of them, they shot off 18 rounds.</p>
+<p><strong>Sara</strong>: Shotgun was a mossberg, model 500. Eight rounds fired. Ammo was double-aught buckshot, nine pellets per shell.</p>
+<p><strong>Grissom</strong>: 18 bullets, a total of 26 shells, 72 pellets. Enjoy.</p>
+<p>(GRISSOM turns and heads into the office. SARA and WARRICK sigh.)</p>
+<p>CUT TO:<br />
+[INT. CSI - BALLISTICS LAB] </p>
+<p>(BOBBY DAWSON test fires a weapon.) </p>
+<p><strong>Bobby Dawson</strong>: Firing two shots!</p>
+<p>(Cut to: BOBBY compares the bullets.)</p>
+<p>(Cut to: SARA weighs the bullet.)</p>
+<p>(Cut to: SARA swabs the bullet.)</p>
+<p>(Cut to: SARA puts a sample under the scope.)</p>
+<p>(Cut to: WARRICK works on a computer reinactment of the bullets fired and positions of the people in the market.)</p>
+<p>(Dissolve to: A close up of the crime scene photo of OFFICER CLAY.)</p>
+<p>(Cut to: The computer lines up the bullets and shots fired.)</p>
+<p>(Dissolve to: A close up of the crime scene photo of the dead GUNMAN.)</p>
+<p>(Dissolve back to the computer screen showing the shots fired from the GUNMAN to RUFUS SANDERS.)</p>
+<p>(Dissolve to: A close up of the crime scene photo of the dead RUFUS SANDERS.)</p>
+<p>(Dissolve back to the computer screen showing the shots fired from OFFICER FROMANSKY to JULIA REED.)</p>
+<p>(Dissolve to: A close up of the crime scene photo of JULIA REED.)</p>
+<p>(WARRICK looks at the monitor.)</p>
+<p>(BOBBY DAWSON walks into the lab.) </p>
+<p><strong>Grissom</strong>: Warrick.</p>
+<p>(He hands WARRICK the rest results. WARRICK looks at it.)</p>
+<p>CUT TO:<br />
+[INT. CSI -- HALLWAY] </p>
+<p>(WARRICK finds GRISSOM reading a book and walking in the hallway.) </p>
+<p><strong>Warrick</strong>: Grissom, we got a problem.</p>
+<p><strong>Grissom</strong>: Only one?</p>
+<p><strong>Warrick</strong>: We've identified all the bullets recovered at the scene. There's no evidence of a third gunmen. It gets worse. The bullet that killed the cocktail waitress -- it came from Fromansky's gun.</p>
+<p>(They walk out of camera frame.)</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. POLICE DEPARTMENT - BRASS' OFFICE] </p>
+<p>(BRASS and GRISSOM interview OFFICER FROMANSKY.) </p>
+<p><strong>Brass</strong>: How you feeling, Officer?</p>
+<p><strong>Officer Fromansky</strong>: Little sore.</p>
+<p><strong>Brass</strong>: Desk duty hurts a lot more. Is there anything you want to add to your statement?</p>
+<p><strong>Officer Fromansky</strong>: What's he saying I did this time?</p>
+<p><strong>Brass</strong>: A bullet from your gun killed a cocktail waitress.</p>
+<p><strong>Officer Fromansky</strong>: A ricochet.</p>
+<p><strong>Grissom</strong>: No. A clean shot.</p>
+<p><strong>Officer Fromansky</strong>: Not possible.</p>
+<p><strong>Brass</strong>: No one at the scene saw a third gunman.</p>
+<p><strong>Officer Fromansky</strong>: I would never shoot at a civilian. I saw a guy wearing a ski mask, dark coat, holding a gun.</p>
+<p><strong>Grissom</strong>: The girl was wearing a black sweater, carrying a purse.</p>
+<p><strong>Officer Fromansky</strong>: I didn't shoot at that.</p>
+<p><strong>Brass</strong>: You'd just took a full load in the chest. Maybe you were confused.</p>
+<p><strong>Officer Fromansky</strong>: (shakes his head) Wasn't confused.</p>
+<p><strong>Grissom</strong>: Your statement says that you fired four shots at this third gunman.</p>
+<p><strong>Officer Fromansky</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: Ballistics evidence shows that you spread five shots over the back wall.</p>
+<p><strong>Officer Fromansky</strong>: So I fired more than I thought. So what. I was engaged with multiple hostile targets.</p>
+<p><strong>Brass</strong>: You're not back in the Gulf. You're a police officer. You're supposed to identify a target.</p>
+<p><strong>Officer Fromansky</strong>: (to BRASS) And that's what I did. (to GRISSOM) What are you, pissed off because the last time you tried to jam me up didn't work?</p>
+<p><strong>Brass</strong>: Hey, ease up.</p>
+<p><strong>Officer Fromansky</strong>: What I said in my statement is the truth. </p>
+<p><strong>Grissom</strong>: The truth is, we have a dead civilian with your bullet in her.</p>
+<p>(OFFICER FROMANSKY stops and looks at BRASS.)</p>
+<p><strong>Officer Fromansky</strong>: This going to the next step?</p>
+<p><strong>Brass</strong>: It has to. You're on administrative leave pending an IAB review.</p>
+<p>CUT TO:<br />
+[INT. HOSPITAL ROOM] </p>
+<p>(CATHERINE interviews CELESTE TURNER.) </p>
+<p><strong>Celeste Turner</strong>: There was no way I could warn that cop. I wanted to ... </p>
+<p>(Quick flashback to: [VIDEO VIEW] The GUNMAN stands behind CELESTE at the register.)</p>
+<p><strong>Celeste Turner</strong>: (V.O.) ... but the guy was right there,<br />
+(End of flashback. Resume to present.)</p>
+<p><strong>Celeste Turner</strong>: under the counter ... pushing his gun right in my stomach. I'm sorry. </p>
+<p><strong>Catherine</strong>: You're not the one that pulled the trigger. Ms. Turner, what was your son doing there with you?</p>
+<p><strong>Celeste Turner</strong>: Well, my ex was looking after him that night. Then the son of a bitch shows up at the store. Had a party to go to. Practically shoved Henry out of the car. I mean ... I'm not allowed to bring kids to work. So I snuck Henry into the office, and I told him to stay there.</p>
+<p><strong>Catherine</strong>: Then?</p>
+<p><strong>Celeste Turner</strong>: Then those two maniacs came in. They shot that poor policeman. And then everything just went crazy.</p>
+<p>(Quick flashback to: CELESTE runs to the office.)</p>
+<p><strong>Celeste Turner</strong>: (V.O.) I was running, and I ran to go find Henry ... </p>
+<p><strong>Celeste Turner</strong>: Henry!</p>
+<p>(She turns around and runs out of the office. The GUNMAN shoots her.)</p>
+<p><strong>Celeste Turner</strong>: (V.O.) ... but I couldn't find him anywhere.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Celeste Turner</strong>: That's all I remember. </p>
+<p>(CATHERINE looks at HENRY and sees him asleep, a candy bar clutched in his hand.)</p>
+<p><strong>Catherine</strong>: Henry likes his candy, doesn't he?</p>
+<p><strong>Celeste Turner</strong>: He's got five cavities to prove it. How'd you know? </p>
+<p><strong>Catherine</strong>: Well, we found him in a storage cabinet, near the candy rack.</p>
+<p><strong>Celeste Turner</strong>: He never listens to me.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI -- LAB] </p>
+<p>(A couple of techs count the cash as NICK instructs them.) </p>
+<p><strong>Nick</strong>: Double counts, two people in the room at all times. When you're done, match the total amounts with the register receipts, okay?</p>
+<p>(CATHERINE walks into the room.)</p>
+<p><strong>Catherine</strong>: So, explain to me what all the money was doing in the registers and not the store safe.</p>
+<p>CUT TO:<br />
+[INT. CSI - AUDIO/VISUAL LAB] </p>
+<p>(NICK shots CATHERINE a close up of the cash register on the monitor.) </p>
+<p><strong>Nick</strong>: See that light? It's called a halo. It's keyed to the sensor in the cash register. Now, at a preset amount, that light goes off, letting the store manager know it's time to transfer the cash to the safe. Now check this out ...</p>
+<p>(On video: Most of the cash register lights flash.)</p>
+<p><strong>Catherine</strong>: Most of the halos are lit.</p>
+<p><strong>Nick</strong>: Maximum cash, just lying in the drawers.</p>
+<p><strong>Catherine</strong>: So, those guys did their homework. They picked the perfect time to hit.</p>
+<p><strong>Nick</strong>: Mm-hmm.</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(GRISSOM goes over the autopsy photos with ROBBINS. The photos are spread out on the table.) </p>
+<p><strong>Grissom</strong>: AFIS hits on our suspects, both just recently released from five-year sentences at Lompoc.</p>
+<p><strong>Robbins</strong>: California boys.</p>
+<p><strong>Grissom</strong>: Born and raised.</p>
+<p><strong>Robbins</strong>: Okay. Let's do this. Officer Clay was killed by a single close-range shotgun blast to the back of the head. Excessive penetration and laceration of the brain. Suspect Clyde Tremmel ... </p>
+<p><strong>Grissom</strong>: The tec-9 guy.</p>
+<p><strong>Robbins</strong>: Two distant-range, medium-caliber gunshot wounds to the front of the chest, with penetration of the lung and heart.</p>
+<p>(CATHERINE enters the room and quietly listens.)</p>
+<p><strong>Robbins</strong>: Suspect Jack Delver ...</p>
+<p><strong>Grissom</strong>: Shotgun guy. </p>
+<p><strong>Robbins</strong>: One distant-range, medium-caliber gunshot wound to the forehead. The bullet penetrated the brain and was recovered in the occipital lobe. Rufus Sanders, bystander ... </p>
+<p>(As ROBBINS narrates, GRISSOM takes notes.)</p>
+<p><strong>Robbins</strong>: ... five scattered buckshot perforations on the outer thigh. One severed the femoral artery, resulting in massive hemorrhage. And Julia Reed, cocktail waitress. Single medium-caliber gunshot wound to the left chest. The bullet perforated the lung and thoracic aorta, then perforated the opposite lung. And that's it.</p>
+<p><strong>Grissom</strong>: Thanks, Doc.</p>
+<p>(CATHERINE looks at the photo of JULIA REED.)</p>
+<p><strong>Robbins</strong>: Catherine, something bothering you?</p>
+<p><strong>Catherine</strong>: A little.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - WAITING ROOM -- DAY] </p>
+<p>(CATHERINE re-questions MR. REED.) </p>
+<p><strong>Mr. Reed</strong>: Look, I came here to pick up my wife's body. I already gave you my statement.</p>
+<p><strong>Catherine</strong>: Well, we just need a few more details before we can release the body. I promise this won't be long.</p>
+<p><strong>Mr. Reed</strong>: What?</p>
+<p><strong>Catherine</strong>: Well, you said that your wife fell during the gunfight, that that's how you got separated.</p>
+<p><strong>Mr. Reed</strong>: Yeah.</p>
+<p><strong>Catherine</strong>: Do you recall exactly how she fell?</p>
+<p><strong>Mr. Reed</strong>: Well, what do you mean?</p>
+<p><strong>Catherine</strong>: How did she land? Did she land sideways, backwards ... ?</p>
+<p><strong>Mr. Reed</strong>: She fell forward, I think. </p>
+<p><strong>Catherine</strong>: She fell forward. So her hands broke the fall, landed on her knees?</p>
+<p><strong>Mr. Reed</strong>: Yeah.</p>
+<p><strong>Catherine</strong>: Well, there weren't any bruises or scrapes on her knees or elbows, which is leading me to believe that she didn't fall.</p>
+<p><strong>Mr. Reed</strong>: Well, what's-what's the difference? She's dead.</p>
+<p><strong>Catherine</strong>: Mr. Reed, there were a lot of bullets flying around that store and a lot of victims, and every detail is important, but they don't help if they're not accurate.</p>
+<p><strong>Mr. Reed</strong>: Well, when we started running ... she was right behind me.</p>
+<p>(Quick flashback: MR. REED and JULIA REED run across the aisle as gun shots sound around them. MR. REED ducks behind a display and is separated from JULIA who stands out in the open against the refrigerator doors.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Mr. Reed</strong>: She froze up. Just stood there looking right at me ... scared out of her mind. I ... yelled at her to get down, to come over to me. Sh-she wouldn't move. I mean I'm ... I'm pretty sure I yelled.</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(GRISSOM and WARRICK work on the schematics of gunfire.) </p>
+<p><strong>Grissom</strong>: Highlight the shots that killed the tec-9 shooter. </p>
+<p>(WARRICK puts it on screen.)</p>
+<p><strong>Grissom</strong>: Fromansky said that he fired three or four shots at that target.</p>
+<p><strong>Warrick</strong>: He fired four. That accounts for those shots.</p>
+<p>(Quick flashback to: The gunfire and FROMANSKY firing back. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Okay, the guy with the shotgun was killed with... one bullet.</p>
+<p><strong>Warrick</strong>: Well, those four shots were definitely meant for him.</p>
+<p><strong>Grissom</strong>: But this shot is closer to the second gunman than it is to the cocktail waitress.</p>
+<p><strong>Warrick</strong>: Well, Fromansky was turning when he fired so his shots were spread out.</p>
+<p>(Quick flashback to: FROMANSKY and the GUNMAN fire at each other. FROMANSKY is hit. The GUNMAN is hit. RUFUS SANDERS is hit in the leg. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Okay.</p>
+<p><strong>Warrick</strong>: Which means Fromansky fired four shots at a target at the back of the store.</p>
+<p><strong>Grissom</strong>: Just like he said he did.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(In the observation room, GRISSOM and BRASS watch IAB interview OFFICER FROMANSKY.) </p>
+<p><strong>IAB Officer</strong>: At the walk-through you said that you saw a third suspect at the back of the store. Why did you make the decision to shoot?</p>
+<p><strong>Officer Fromansky</strong>: I was in fear for my life.</p>
+<p><strong>IAB Officer</strong>: Did you see a weapon?</p>
+<p><strong>Officer Fromansky</strong>: Yes.</p>
+<p><strong>IAB Officer</strong>: What kind?</p>
+<p><strong>Officer Fromansky</strong>: A semiautomatic pistol.</p>
+<p><strong>IAB Officer</strong>: So you fired first.</p>
+<p><strong>Officer Fromansky</strong>: Yes. </p>
+<p><strong>IAB Officer</strong>: Four times.</p>
+<p><strong>Officer Fromansky</strong>: Yes.</p>
+<p><strong>IAB Officer</strong>: Can you explain the lack of evidence for a third suspect at the scene?</p>
+<p><strong>Officer Fromansky</strong>: That's not my job.</p>
+<p><strong>Brass</strong>: Right or wrong, there'll be guys on the job who'll think this was personal.</p>
+<p><strong>Grissom</strong>: They'd be wrong.</p>
+<p><strong>IAB Officer</strong>: Did you see Julia Reed in your line of fire?</p>
+<p><strong>Officer Fromansky</strong>: No.</p>
+<p><strong>IAB Officer</strong>: According to Supervising Criminalist Grissom's report, you had an unobstructed view of Ms. Reed, so how do you explain the fact that you didn't see her?</p>
+<p><strong>Officer Fromansky</strong>: I can't.</p>
+<p><strong>IAB Officer</strong>: You don't deny that a bullet from your weapon killed her?</p>
+<p><strong>Officer Fromansky</strong>: I'm not denying that.</p>
+<p><strong>IAB Officer</strong>: But you can't explain it?</p>
+<p><strong>Officer Fromansky</strong>: No.</p>
+<p><strong>IAB Officer</strong>: Look, your partner was dead. You'd been shot. You saw someone you thought was a suspect and you fired. Under those circumstances, any one of us could make a mistake. Did you?</p>
+<p>(OFFICER FROMANSKY doesn't say anything.)</p>
+<p><strong>IAB Officer</strong>: Officer Fromansky, answer the question.</p>
+<p>(He still doesn't say anything.)</p>
+<p>(In the observation room, BRASS watches.)</p>
+<p><strong>Brass</strong>: He says yes, he's a bad cop. He says no, he's a liar.</p>
+<p><strong>Grissom</strong>: Maybe he really doesn't know what happened.</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. BEST BARGAIN SUPERMARKET -- DAY] </p>
+<p>(GRISSOM and WARRICK use dummies and laser lights to show the trajectories of the gunfire.) </p>
+<p><strong>Warrick</strong>: A little over. Perfect.</p>
+<p><strong>Grissom</strong>: Good.</p>
+<p><strong>Warrick</strong>: Let's say I'm Fromansky. </p>
+<p>(WARRICK holds out his hands in front of him as if holding a gun. He </p>
+<p><strong>Warrick</strong>: There's nothing between Fromansky and the cocktail waitress. I got a clean view and a clear shot.</p>
+<p>(GRISSOM notices something in the refrigerator glass.)</p>
+<p><strong>Grissom</strong>: Hey, take a look at this. The cracks in the glass from shot 22 are terminated by the cracks from shot 23.</p>
+<p>(Close up of the shots and the glass cracking.)</p>
+<p><strong>Grissom</strong>: So, shot 23 had to occur before shot 22. Which means that Fromansky was firing from left to right, not right to left.</p>
+<p>(Quick flashback to: FROMANSKY firing four shots. Resume to present.)</p>
+<p><strong>Warrick</strong>: Four shots on a level spread. He was shooting at a moving target.</p>
+<p><strong>Grissom</strong>: According to Catherine's witness, the cocktail waitress wasn't moving. She was a stationary target.</p>
+<p>(Quick flashback to: JULIA REED standing in the middle of the aisle, panicking. Resume to present.)</p>
+<p><strong>Grissom</strong>: So, if he was shooting at a moving target, where was it moving to?</p>
+<p>(He looks in the direction and finds the EXIT door.)</p>
+<p>(Cut to: GRISSOM and WARRICK walk through the exit door and out to the back of the market.)</p>
+<p>[EXT. ALLEYWAY - DAY]</p>
+<p>(WARRICK points to the camera.)</p>
+<p><strong>Warrick</strong>: We have the surveillance tape. Shows nothing going on here before, during or after the robbery.</p>
+<p><strong>Grissom</strong>: Well, just because it shows nothing doesn't mean it's seeing everything.</p>
+<p>CUT TO:<br />
+[SECURITY OFFICE - DAY -- CONTINUOUS] </p>
+<p>(On the monitor, WARRICK stands on the loading dock while looking up at the camera.) </p>
+<p><strong>Warrick</strong>: (to phone) You can see me now, right?</p>
+<p><strong>Grissom</strong>: Keep moving to your right.</p>
+<p><strong>Warrick</strong>: (to phone) All right.</p>
+<p><strong>Grissom</strong>: Keep going. Keep going.</p>
+<p><strong>Warrick</strong>: (to phone) I'm still in?</p>
+<p>GRISSOM Right there. Now you're out.</p>
+<p>(WARRICK looks around at the area outside the camera view. He notices the scrapings on the wall and sees a perfect line up the ramp.)</p>
+<p><strong>Grissom</strong>: Tell me what you see.</p>
+<p><strong>Warrick</strong>: A getaway.</p>
+<p>(Quick flashback to: [NIGHT] The getaway car takes off. Resume to present.)</p>
+<p>(WARRICK notices the skid marks on the ground.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -- DAY] </p>
+<p>(WARRICK, CATHERINE and NICK walk through the hallway.) </p>
+<p><strong>Warrick</strong>: We found metal paint scrapings and skid marks. Both recent on that loading dock. These guys definitely had a wheelman.</p>
+<p><strong>Nick</strong>: Yeah, guy slips in after everything gets started. During the confusion, nobody sees him. Or no one that was alive to tell anyway.</p>
+<p><strong>Warrick</strong>: Except Fromansky.</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p><strong>Catherine</strong>: Well, the suspects knew there was a blind spot. It has to be an inside job.</p>
+<p><strong>Nick</strong>: Oh, no doubt. Matched the cash from the garbage bag to the register receipts-- $878 was missing.</p>
+<p><strong>Catherine</strong>: Somebody came out ahead. Inside guy?</p>
+<p><strong>Nick</strong>: Well, I'll run the employees. Maybe somebody's got a record.</p>
+<p>CUT TO:<br />
+[INT. FBI - TRACE LAB] </p>
+<p>(HODGES works on identifying the source of the paint chips. He identifies the color: AEGEAN BLUE.) </p>
+<p>(Cut to: HODGES reports his findings to WARRICK.)</p>
+<p><strong>Hodges</strong>: Ran your paint chips through ppg and Dupont. Got a hit. Aegean Blue Honda Accord.</p>
+<p><strong>Warrick</strong>: Popular color.</p>
+<p><strong>Hodges</strong>: They carried it over for four years. Go figure. I'm a teal man myself. You? </p>
+<p>(HODGES looks at WARRICK. WARRICK doesn't say anything.) </p>
+<p><strong>Hodges</strong>: Stupid question. Anyway, model years '84 to '87. </p>
+<p><strong>Warrick</strong>: I'll put out a broadcast. Thanks, Hodges.</p>
+<p><strong>Hodges</strong>: Sure.</p>
+<p>(WARRICK leaves the lab.)</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE] </p>
+<p>(GRISSOM works at his desk when OFFICER FROMANSKY walks in.) </p>
+<p><strong>Officer Fromansky</strong>: Before this goes any deeper, I want to hear it from you. Are you going to try to screw me on this? </p>
+<p>(GRISSOM looks at the photos in his hand.)</p>
+<p><strong>Officer Fromansky</strong>: Well?</p>
+<p><strong>Grissom</strong>: I guess it depends on whether I get stuck in traffic on the way to your hearing.</p>
+<p>(GRISSOM looks at OFFICER FROMANSKY. FROMANSKY turns and walks out of the office.)</p>
+<p>CUT TO:<br />
+[EXT. SIDEWALK -- DAY] </p>
+<p>(WARRICK and BRASS head for the getaway car parked on the side of the street.) </p>
+<p><strong>Brass</strong>: So, this car was reported stolen about, uh, oh, about three weeks ago. Why don't you take the front. I'll take the back.</p>
+<p>(They open the doors and look inside. WARRICK notices something white staining the seats. He does a pH test.)</p>
+<p><strong>Warrick</strong>: Ph 13. Sodium hydroxide.</p>
+<p>(Quick flashback to: [THE MARKET] Gunshots hit the drain cleaner stand. Resume to present.)</p>
+<p>(WARRICK notices the busted starter. He photographs it. BRASS finds a cell phone.)</p>
+<p><strong>Brass</strong>: Got a cell phone. There's a lot of scung on it. Won't be too good for prints, but let me check the call history.</p>
+<p>(Received Calls show:<br />
+1. 702-555-0176<br />
+2. 702-555-0176<br />
+3. 702-555-0176</p>
+<p><strong>Brass</strong>: Same number keeps popping up.</p>
+<p>(BRASS pulls out his own phone and dials.)</p>
+<p><strong>Answering Machine</strong>: (recording on phone): Best bargain is temporarily closed. Please check back tomorrow.</p>
+<p><strong>Brass</strong>: Well, this is interesting. Before the robbery went down, somebody at the store was very eager to talk to our suspects. Same number.</p>
+<p><strong>Warrick</strong>: Yeah? Maybe he can tell us who.</p>
+<p>(WARRICK holds up the print card.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(BRASS interviews TODD HALLICKEY.) </p>
+<p><strong>Brass</strong>: Todd Hallickey.</p>
+<p><strong>Todd Hallickey</strong>: Look, I don't know why you guys brought me here, but you got no right tossing my apartment.</p>
+<p><strong>Brass</strong>: We matched your prints from a stolen car off the prints from a prior car theft, and bingo, we had a match. Got a warrant for your apartment.</p>
+<p><strong>Todd Hallickey</strong>: I don't boost cars no more.</p>
+<p><strong>Brass</strong>: (chuckles) Yeah, right.</p>
+<p><strong>Todd Hallickey</strong>: Oh, wait. No, I ... I was looking into getting some wheels a couple of weeks ago. I test-drove this old Honda Accord this guy was trying to unload.</p>
+<p><strong>Brass</strong>: An '86 Aegean Blue with matching velour interior?</p>
+<p><strong>Todd Hallickey</strong>: Yeah, that was it. Must be how my print got there. Well, didn't buy the car. Guy seemed kind of shady.</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(WARRICK takes out a sweater from an evidence box. He examines the sweater as we continue to hear BRASS' interview in voice over.) </p>
+<p><strong>Brass</strong>: (V.O.) You wouldn't happen to remember this shady guy's name, would you?</p>
+<p><strong>Todd Hallickey</strong>: (V.O.) Come on. No one keeps track of stuff like that.</p>
+<p><strong>Brass</strong>: (V.O.) Uh, right. You own any firearms, Mr. Hallickey?</p>
+<p><strong>Todd Hallickey</strong>: (V.O.) No, sir, I'm on parole. Besides, I don't believe in guns. They're dangerous.</p>
+<p>[INTERVIEW -- CONTINUOUS]</p>
+<p>(BRASS notices the red burn marks on TODD HALLICKEY'S knuckles.</p>
+<p><strong>Brass</strong>: You know, that's a nasty injury you got there, Todd. Looks kind of painful. How'd you get it?</p>
+<p><strong>Todd Hallickey</strong>: It's a rash.</p>
+<p><strong>Brass</strong>: Looks like a chemical burn to me. You know what sodium hydroxide is?</p>
+<p><strong>Todd Hallickey</strong>: Never heard of it.</p>
+<p>(Cut back to: WARRICK examines the jacket and finds the hole in the sleeve.)</p>
+<p><strong>Brass</strong>: (V.O.) Let me tell you what it is. It's the active ingredient in drain cleaner. It opens up the pipes, dissolves flesh and fabrics.</p>
+<p>[INTERVIEW - CONTINUOUS]</p>
+<p>(WARRICK walks into the interview with the test results.)</p>
+<p><strong>Todd Hallickey</strong>: Look, you want to pin that car on me, you go ahead and try. </p>
+<p><strong>Warrick</strong>: I got this off the jacket from your apartment. What the hell is this?</p>
+<p><strong>Brown</strong>: It's a bullet wipe. A test for lead. </p>
+<p>(Quick CGI POV to: A bullet is shot and it hits the jacket. End of CGI POV.) </p>
+<p><strong>Warrick</strong>: Congratulations. You passed.</p>
+<p>(TODD HALLICKEY stares at WARRICK and swallows.)</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - BREAK ROOM - LATE DAY] </p>
+<p>(GRISSOM, WARRICK and CATHERINE meet to discuss the case.) </p>
+<p><strong>Warrick</strong>: Hallickey's got no connection to the grocery store. He was just the wheel man. Even, still, he's looking at four counts of felony murder. But he's not talking. He lawyered up.</p>
+<p><strong>Grissom</strong>: We got a bullet hole in a jacket. That's not even enough to prove that he was in the store.</p>
+<p><strong>Catherine</strong>: What about the cash?</p>
+<p><strong>Warrick</strong>: It wasn't in his apartment. Maybe somebody else took it.</p>
+<p><strong>Catherine</strong>: Almost $900 in small bills? We'd have noticed pockets bulging with a wad like that.</p>
+<p><strong>Grissom</strong>: What about the calls from the grocery store to the suspect's cell? That could have been somebody giving the &quot;go&quot; signal.</p>
+<p><strong>Warrick</strong>: There's no way to tell who. The store runs off of an old PBX system, and every call that comes in goes back to the same number. Every employee was near a phone, so, it could have been anybody.</p>
+<p>(NICK walks into the room and takes a seat.)</p>
+<p><strong>Nick</strong>: Hey, y'all. Ran the criminal records for the employees. Came up with a Raul Valdez. Freight loader.</p>
+<p>(NICK hands GRISSOM a photo.)</p>
+<p><strong>Nick</strong>: He clocked in for work that night. Never clocked out.</p>
+<p><strong>Catherine</strong>: No one by that name interviewed at the scene?</p>
+<p><strong>Nick</strong>: Here's the kicker. A few years ago, he spent some time in prison. Lompoc. So, Brass is trying to find him now.</p>
+<p>(GRISSOM hands the photo to CATHERINE.)</p>
+<p>CUT TO:<br />
+[INT. BEST BARGAIN SUPERMARKET] </p>
+<p>(CATHERINE walks through the aisles. She looks at the photo where the bag of money was found and heads for that spot in the aisle. She looks down at the ground.)</p>
+<p>(Quick flash to the bag of money.)</p>
+<p>(CATHERINE looks around. She puts her bag down and checks the aisles.)</p>
+<p>(She finds a brown stain on the floor. She rubs her finger in it and smells it. She knows what it is.)</p>
+<p>(Quick flash to: The interview with the BAGBOY.)</p>
+<p><strong>Bagboy</strong>: I got to change my pants.</p>
+<p>(She looks down and notices the stain. End of flashback. Resume to present.)</p>
+<p>(CATHERINE checks the shelves and finds a box of PUFFIOS stuffed with the missing money.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM] </p>
+<p>(CATHERINE re-interviews the BAGBOY.) </p>
+<p><strong>Catherine</strong>: You left something in the store besides a urine stain. </p>
+<p>(She puts the photo of the box of PUFFIOS in front of him.)</p>
+<p><strong>Catherine</strong>: Just a little too tempting, huh? All that cash just sitting there right in front of your face ...</p>
+<p>(Quick flashback to: With gunfire all around him, the BAGBOY has his head down. He looks up and notices the money in the shelves. He starts grabbing it.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Bagboy</strong>: Look, I go to that store to bag groceries, not to get my ass shot off. I figure I earned the money. Kind of like working overtime.</p>
+<p><strong>Catherine</strong>: Might as well get something for all your trouble, right? Considering the fact that your nice little robbery had gone straight to hell.</p>
+<p><strong>Bagboy</strong>: Whoa, wait a minute. You think ... ? No way.</p>
+<p><strong>Catherine</strong>: It was an inside job. You knew the registers were full. Those gunmen had help from an employee.</p>
+<p><strong>Bagboy</strong>: Not from me, they didn't. Look, you want to bust me for the money, go ahead, I took it. But I did not set the thing up.</p>
+<p>(CATHERINE stares at him.)</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(GRISSOM looks through the scope. WARRICK walks in.) </p>
+<p><strong>Warrick</strong>: You know, Hodges already analyzed trace on the bullets.</p>
+<p><strong>Grissom</strong>: Yeah, I wanted to take a look myself.</p>
+<p><strong>Warrick</strong>: He'll take it personally.</p>
+<p><strong>Grissom</strong>: Good. The report says that the cocktail waitress was wearing a black wool sweater. Was she also wearing something polyester?</p>
+<p><strong>Warrick</strong>: No.</p>
+<p><strong>Grissom</strong>: Take a look at this.</p>
+<p>(WARRICK looks through the scope.)</p>
+<p><strong>Warrick</strong>: Black fibers. Probably synthetic. Mixed in with the wool. If their gunman was wearing a black polyester jacket ... </p>
+<p><strong>Grissom</strong>: Fromansky claims that he was tunnel-visioned on the gunman. So, it's possible that he never even saw the cocktail waitress.</p>
+<p>(Quick flashback to: THE GUNMAN runs across the aisle. FROMANSKY raises his gun and fires at the moving target.)</p>
+<p>(Camera zooms in and follows the bullet as it travels straight for JULIA REED piercing through her clothes and flesh.)</p>
+<p>(The GUNMAN continues to run; JULIA REED falls to the ground.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: You may have just saved Fromansky's ass.</p>
+<p>CUT TO:<br />
+[INT. CSI -- HALLWAY] </p>
+<p>(NICK catches up with CATHERINE in the hallway.) </p>
+<p><strong>Nick</strong>: Hey, Catherine, how'd it go with the bag boy?</p>
+<p><strong>Catherine</strong>: He admitted to swiping the cash, but he wouldn't cop to the robbery.</p>
+<p><strong>Nick</strong>: Then I have something you should see. I was going back through the surveillance tapes covering the loading dock, thinking I might find someone scouting a blind spot, you know? But instead, I found this. Two nights before the robbery.</p>
+<p>(NICK shows CATHERINE what's on the video.)</p>
+<p>(On video: The camera moves to the left.)</p>
+<p><strong>Nick</strong>: There. See that?</p>
+<p><strong>Catherine</strong>: One more time.</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p>(On video: The camera shifts to the left.)</p>
+<p><strong>Nick</strong>: That camera's stationary, so ... </p>
+<p><strong>Catherine</strong>: Somebody moved the camera.</p>
+<p>(NICK smiles.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM] </p>
+<p>(CATHERINE interviews CELESTE TURNER.) </p>
+<p><strong>Catherine</strong>: You used to part-time at the forum shops. We got your prints off your work card. It was the same print that we got off the loading dock surveillance camera. </p>
+<p>(CATHERINE shows the photo to CELESTE TURNER.)</p>
+<p>(Quick flash of CELESTE TURNER moving the security camera.)</p>
+<p>(Cut to: The camera view.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: Raul Valdez, an ex-con -- your co-worker. You got him to give you the names of some guys to do the job. </p>
+<p><strong>Catherine</strong>: You give them the best time to hit the registers. You tell them where to park. It's a good plan. Until your Ex showed up and leaves you with your kid. </p>
+<p><strong>Brass</strong>: Then you panic, and you call your guys, try to call it off, but they won't listen. </p>
+<p><strong>Catherine</strong>: If that's what happened, that could go in your favor. </p>
+<p><strong>Brass</strong>: When we find Raul, he'll give you up in a heartbeat.</p>
+<p><strong>Celeste Turner</strong>: (swallows) I think I need to get a lawyer.</p>
+<p><strong>Brass</strong>: What you need is come clean and cooperate. And you better hope and pray the DA doesn't want to put a needle in your arm for killing five people, including a cop.</p>
+<p><strong>Celeste Turner</strong>: I have been working at that store for five years. Thirty-eight hours a week. Thirty-eight ... not forty. You know why? Because my manager won't give me enough hours to qualify for benefits. I have a kid ... with rotten teeth. I never meant for anybody to get hurt.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. POLICE DEPARTMENT - HALLWAY -- NIGHT] </p>
+<p>(OFFICER FROMANSKY receives an award at the police department. REPORTERS take photos of the presentation.) </p>
+<p><strong>Reporter</strong>: Officer Fromansky, if you could smile, please? REPORTER: Thank you; right over here.</p>
+<p>(BRASS and GRISSOM walk past the gathering.)</p>
+<p><strong>Brass</strong>: Guy from the mayor's office. Fromansky's getting a commendation. What do you think?</p>
+<p><strong>Grissom</strong>: Two dead felons, two dead civilians a dead policeman ... I don't know what to think.</p>
+<p>(They walk out of camera frame.)</p>
+<p>FADE TO BLACK</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
- 
- 
-
-Officer Clay: What do you need to get?
-Officer Fromansky: Actually, it's what you need to get, rook.
-
-Officer Clay: Aw, come on, man. We're off duty.
-Officer Fromansky: You're off when I say you're off. 
-
-Officer Fromansky:  Don't forget the Ho-Hos.
-
-
-
-
-
-Celeste Turner: I can help you over here, sir.
-
-Officer Clay: That's not what your light says. 
-
-Officer Clay: Slow night?
-Celeste Turner: Kind of.
-
-Officer Clay: Oh ... can't forget the Ho-Hos.
-
-
-
- 
- 
-
-Mr. Reed: Get out of my way! I've got to get in there! What the hell is wrong with you people? My wife is still in there! Why isn't anybody helping my wife?!
-Officer:  We're doing the best we can, sir. ... 
-Mr. Reed: Please! 
-Brass: Body count's five.
-
-
- 
- 
-Brass: Officer Clay entered the store unaware of a robbery that was in progress. Officer Fromansky came in after he heard a shot fired. Engaged two suspects. Lit the place up.
-
-Brass: The ski masks are John Does. The rest have wallet IDs.
-
-
-Brass:  Woman at the back is Julia Reed, cocktail waitress at the Tangiers.
-
-Brass:  Man on aisle four is Rufus Sanders, cab driver. 
-
-Warrick: How you want us to handle this, Grissom?
-Grissom: Same way you'd eat an elephant ... one bite at a time.
-
-Grissom: Hey, Jim ... did you know that Charles Manson is only 5'2&quot;?
-Brass: Yeah, little guys tend to overcompensate.
-Grissom: Do you remember the, uh, story about ... how and where the marshals found old Charlie when they raided barker ranch?
-Brass:  Yeah. I always, uh ... 
-
-Brass: I always liked that story.
- 
-Grissom:  We need a medic!
-HARD CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Brass: All right, tell me what happened.
-Officer Fromansky: I was in my radio car when I heard shots fired. I called for backup. I went in.
-
-Officer Fromansky: Clay, talk to me. Clay!
-
-
-
-Brass: How many shots you fire?
-Officer Fromansky: Three. No, four. I fired four.
-Brass: Then what?
-Officer Fromansky: I saw my partner on the floor. I went towards him.
-
-Officer Fromansky:  Second gunman came at me.
-
-
-
-Brass: How many shots you fire at the second gunman, total?
-Officer Fromansky:  Maybe-maybe five. I'd taken a shot in my vest. 
-Grissom: Hard to count under those conditions. Are you sure?
-Officer Fromansky: No, I'm not sure. That's why I said maybe ... ...but I know I shot four at the third guy. I was going to check on my partner. I caught movement in the back. Black coat, ski mask, gun ... I put him down.
-
-
-
-Brass: He fire at you?
-Officer Fromansky: Didn't give him a chance.
-Brass: All right, that's all we need to know. I need your weapon.
-
-Officer Fromansky: My partner ... I want to be the one to tell his wife. He was my responsibility.
-Brass: All right. 
-
-Brass: All right, look, if you're not going to say it, I will. Fromansky said he killed three, and there are two dead ski masks in there. Now, you cranked him up pretty good on that vigilante case last year. Is that going to be a problem?
-Grissom: No.
-
-
- 
- 
-Catherine: Everybody, could I please have your attention? All right, folks, I know that you've been through an awful lot this evening. If you could just bear with me a little longer, I need to talk with every one of you one at a time, so I promise to get you out of here as quickly as possible.  Is the, uh, guy in black the cocktail waitress' husband?
-Officer Metcalf: Yeah. Do you want him first?
-
-Willows: I don't think he's ready for me just yet. I'm going to get to him soon enough.
-
- 
- 
-
-Grissom: What happened to your assault in Henderson?
-Sara: I closed it. Where do you need me?
-Grissom: There's two more bodies over by the beer.
-Sara: You got it.
-
-Warrick: Barely cleared the holster.
-Grissom: Reflex, maybe. Pulled the trigger before he had a target.
-
-Warrick: Not quick enough.
-
-
- 
- 
-Bagboy: Those two guys came out of nowhere ... made everybody go to the corner.
-Catherine: Where, specifically?
-Bagboy: Uh ... dry goods. Then one guy grabs Celeste ... 
-
-
-
-Catherine: Which guy?
-
-Bagboy: I was looking at his piece, not his face, okay?
-Catherine: Shotgun or handgun?
-Bagboy: Uh, shotgun. He drags her over to the registers, makes her open 'em up. She does. They're pulling out the cash, and then he sees the cops roll up. Second guy says, &quot;everybody, get down and don't say a freaking word,&quot; so that's what I did.
-
-Catherine: And then ... 
-Bagboy: ... And then?
-
-
-Bagboy:  ... ankles and flashes and booms.
-
-
-Bagboy: That's all I remember.
-Catherine: And you never moved from that spot?
-Bagboy:  No, I didn't.
-Catherine: Do you have somewhere you need to be?
-
-Bagboy: I got to change my pants.
-
-Catherine: Sorry.
-
- 
- 
-
-
- 
- 
-Manager: Well, you know, we're not the most modern store around.
-Nick: How long is the surveillance loop?
-Manager: About 24 hours.
-
-Nick: What, uh ... what happened to these tapes here?
-Manager: Nothing.
-Nick: These are active cameras, right?
-Manager: Those VCRs are busted. Never got 'em fixed. You know, cutbacks. Over the register and outside works. That's all we really need. Gotta keep an eye on the employees, right?
-Nick: Right.
-Manager: They steal worse than the customers.
-
- 
- 
-
- 
- 
-Warrick: You know, this guy hit a $75 jackpot. Probably shoving quarters in his pockets when this whole thing went down.
-Sara: The door was twenty feet away. He probably could've made a run for it.
-Warrick: You know, after the MGM grand fire, they found people fused to slot machines. Never even made it out of their seats. This guy probably thought it was his lucky day. I'm sure he wasn't going to leave without his money.
-
-
- 
- 
-Woman Cashier: We all just started running when those two psychos started shooting it out with the cop...
-
-
-Woman Cashier: I took a first aid course about a hundred years ago,
-
-Woman Cashier:  ... so I-I-I tried to keep pressure on the wound, but it just kept bleeding, you know?
-
-Woman Cashier: I couldn't leave Rufus all alone, scared, dying.
-Catherine: You were friends?
-Woman Cashier: Mmm, sort of. He-he'd come in a couple of times a week and play the quarter slots.
-Catherine: From where you and Rufus were, could you see Officer Fromansky?
-Woman Cashier: Oh, the cop who saved us?  No. I couldn't see anything. I just heard all that gunfire just blasting away.
-
- 
- 
-
-
-
-
-David Phillips: Hey.
-Warrick: Hey.
-David Phillips: Entry wound's on the left side.
-Warrick: There's no exit wound?
-(DAVID checks her back and doesn't find it.
-Warrick: Skin's thicker on the back. Captured the bullet.
-David Phillips: We'll retrieve it at autopsy.
-
- 
- 
-Mr. Reed: I was, uh ... holding Julia's hand trying to find a place to hide ... somewhere safe. It was those stupid heels, you know. She was always forgetting to bring her flats to work.
-
-Mr. Reed: Come on.
-
-Mr. Reed: They didn't have to shoot her. They were wearing masks. We didn't even get a good look at them.
-Catherine: Mr. Reed, you can't look for reasons here.
-
- 
- 
-Robbins: We'll have it out in a second. The trick is to apply even pressure all around.
-
-Warrick: Is there something wrong with tweezers?
-Robbins: They can mess up the striae. You've got enough to deal with without my toolmarks in the mix. Here we go.
-
-Robbins: Huh. Paper or plastic?
-
-
- 
- 
-David Phillips: Officer Clay's already been processed. We wanted to get him to his family.
-Grissom: Did you get prints off the two suspects?
-David Phillips: Uh, yeah. They're right here.
-
-David Phillips: And we also got bullets from both of them.
-Grissom: Good.  Prison tattoos. They weren't virgins.
-
- 
- 
-Catherine: Hi, I was wondering if I might be able to speak with Celeste Turner. She, uh, has a gunshot wound. She was brought in from the grocery store robbery.
-Nurse: Right. Curtain three. Just out of surgery. Stable. She's still pretty doped up, though. You're going to have to come back later. You going to need these?
-
-Catherine: Yes. Thank you.
-
-Catherine: What can you tell me about the little boy who was also brought in from the robbery incident?
-Nurse: Minor injuries. He's fine. Mostly shock. He's with his mom. Hell of a night, huh? Take your kid to work, both end up shot.
-Catherine: Wait a minute. So, the little boy's mother is Celeste Turner?
-Nurse: Yeah.
- 
- 
-
- 
- 
-Catherine: b*st*rd was behind her the whole time.
-Nick: Yeah.
-
-Nick: Okay, here's what I got so far ... there's our two DOA suspects. Looks like they just walked in off the street.
-Catherine: Is there any sign of Fromansky's mystery gunner?
-Nick: No. All the cars in the parking lot were accounted for, and the loading dock out back was deserted, so ...
-
-Nick: ... this is the only view of what went down.
-
-Nick: And see here? Here comes our cop.
-
-Nick: Three, four feet away, doesn't even see him. The thing I hate the most is the bad guys always know if there's going to be a gunfight.
-
-
- 
- 
-Warrick: Officer Clay's one shot went into the floor. The bullet fragmented. That's probably how that kid got hit. But Officer Fromansky's beretta and that suspect's tec-9, they both had hollow .9 millimeters. Between the two of them, they shot off 18 rounds.
-Sara: Shotgun was a mossberg, model 500. Eight rounds fired. Ammo was double-aught buckshot, nine pellets per shell.
-Grissom: 18 bullets, a total of 26 shells, 72 pellets. Enjoy.
-
-
- 
- 
-Bobby Dawson: Firing two shots!
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-Grissom: Warrick.
-
-
- 
- 
-Warrick: Grissom, we got a problem.
-Grissom: Only one?
-Warrick: We've identified all the bullets recovered at the scene. There's no evidence of a third gunmen. It gets worse. The bullet that killed the cocktail waitress -- it came from Fromansky's gun.
-
-
-
-
-
- 
- 
-Brass: How you feeling, Officer?
-Officer Fromansky: Little sore.
-Brass: Desk duty hurts a lot more. Is there anything you want to add to your statement?
-Officer Fromansky: What's he saying I did this time?
-Brass: A bullet from your gun killed a cocktail waitress.
-Officer Fromansky: A ricochet.
-Grissom: No. A clean shot.
-Officer Fromansky: Not possible.
-Brass: No one at the scene saw a third gunman.
-Officer Fromansky: I would never shoot at a civilian. I saw a guy wearing a ski mask, dark coat, holding a gun.
-Grissom: The girl was wearing a black sweater, carrying a purse.
-Officer Fromansky: I didn't shoot at that.
-Brass: You'd just took a full load in the chest. Maybe you were confused.
-Officer Fromansky:  Wasn't confused.
-Grissom: Your statement says that you fired four shots at this third gunman.
-Officer Fromansky: Yeah.
-Grissom: Ballistics evidence shows that you spread five shots over the back wall.
-Officer Fromansky: So I fired more than I thought. So what. I was engaged with multiple hostile targets.
-Brass: You're not back in the Gulf. You're a police officer. You're supposed to identify a target.
-Officer Fromansky:  What are you, pissed off because the last time you tried to jam me up didn't work?
-Brass: Hey, ease up.
-Officer Fromansky: What I said in my statement is the truth. 
-Grissom: The truth is, we have a dead civilian with your bullet in her.
-
-Officer Fromansky: This going to the next step?
-Brass: It has to. You're on administrative leave pending an IAB review.
-
- 
- 
-Celeste Turner: There was no way I could warn that cop. I wanted to ... 
-
-Celeste Turner:  ... but the guy was right there,
-
-Celeste Turner: under the counter ... pushing his gun right in my stomach. I'm sorry. 
-Catherine: You're not the one that pulled the trigger. Ms. Turner, what was your son doing there with you?
-Celeste Turner: Well, my ex was looking after him that night. Then the son of a bitch shows up at the store. Had a party to go to. Practically shoved Henry out of the car. I mean ... I'm not allowed to bring kids to work. So I snuck Henry into the office, and I told him to stay there.
-Catherine: Then?
-Celeste Turner: Then those two maniacs came in. They shot that poor policeman. And then everything just went crazy.
-
-Celeste Turner:  I was running, and I ran to go find Henry ... 
-Celeste Turner: Henry!
-
-Celeste Turner:  ... but I couldn't find him anywhere.
-
-Celeste Turner: That's all I remember. 
-
-Catherine: Henry likes his candy, doesn't he?
-Celeste Turner: He's got five cavities to prove it. How'd you know? 
-Catherine: Well, we found him in a storage cabinet, near the candy rack.
-Celeste Turner: He never listens to me.
-
-
- 
- 
-Nick: Double counts, two people in the room at all times. When you're done, match the total amounts with the register receipts, okay?
-
-Catherine: So, explain to me what all the money was doing in the registers and not the store safe.
-
- 
- 
-Nick: See that light? It's called a halo. It's keyed to the sensor in the cash register. Now, at a preset amount, that light goes off, letting the store manager know it's time to transfer the cash to the safe. Now check this out ...
-
-Catherine: Most of the halos are lit.
-Nick: Maximum cash, just lying in the drawers.
-Catherine: So, those guys did their homework. They picked the perfect time to hit.
-Nick: Mm-hmm.
-
- 
- 
-Grissom: AFIS hits on our suspects, both just recently released from five-year sentences at Lompoc.
-Robbins: California boys.
-Grissom: Born and raised.
-Robbins: Okay. Let's do this. Officer Clay was killed by a single close-range shotgun blast to the back of the head. Excessive penetration and laceration of the brain. Suspect Clyde Tremmel ... 
-Grissom: The tec-9 guy.
-Robbins: Two distant-range, medium-caliber gunshot wounds to the front of the chest, with penetration of the lung and heart.
-
-Robbins: Suspect Jack Delver ...
-Grissom: Shotgun guy. 
-Robbins: One distant-range, medium-caliber gunshot wound to the forehead. The bullet penetrated the brain and was recovered in the occipital lobe. Rufus Sanders, bystander ... 
-
-Robbins: ... five scattered buckshot perforations on the outer thigh. One severed the femoral artery, resulting in massive hemorrhage. And Julia Reed, cocktail waitress. Single medium-caliber gunshot wound to the left chest. The bullet perforated the lung and thoracic aorta, then perforated the opposite lung. And that's it.
-Grissom: Thanks, Doc.
-
-Robbins: Catherine, something bothering you?
-Catherine: A little.
-
- 
- 
-Mr. Reed: Look, I came here to pick up my wife's body. I already gave you my statement.
-Catherine: Well, we just need a few more details before we can release the body. I promise this won't be long.
-Mr. Reed: What?
-Catherine: Well, you said that your wife fell during the gunfight, that that's how you got separated.
-Mr. Reed: Yeah.
-Catherine: Do you recall exactly how she fell?
-Mr. Reed: Well, what do you mean?
-Catherine: How did she land? Did she land sideways, backwards ... ?
-Mr. Reed: She fell forward, I think. 
-Catherine: She fell forward. So her hands broke the fall, landed on her knees?
-Mr. Reed: Yeah.
-Catherine: Well, there weren't any bruises or scrapes on her knees or elbows, which is leading me to believe that she didn't fall.
-Mr. Reed: Well, what's-what's the difference? She's dead.
-Catherine: Mr. Reed, there were a lot of bullets flying around that store and a lot of victims, and every detail is important, but they don't help if they're not accurate.
-Mr. Reed: Well, when we started running ... she was right behind me.
-
-
-Mr. Reed: She froze up. Just stood there looking right at me ... scared out of her mind. I ... yelled at her to get down, to come over to me. Sh-she wouldn't move. I mean I'm ... I'm pretty sure I yelled.
-
- 
- 
-Grissom: Highlight the shots that killed the tec-9 shooter. 
-
-Grissom: Fromansky said that he fired three or four shots at that target.
-Warrick: He fired four. That accounts for those shots.
-
-Grissom: Okay, the guy with the shotgun was killed with... one bullet.
-Warrick: Well, those four shots were definitely meant for him.
-Grissom: But this shot is closer to the second gunman than it is to the cocktail waitress.
-Warrick: Well, Fromansky was turning when he fired so his shots were spread out.
-
-Grissom: Okay.
-Warrick: Which means Fromansky fired four shots at a target at the back of the store.
-Grissom: Just like he said he did.
-Warrick: Yeah.
-
- 
- 
-IAB Officer: At the walk-through you said that you saw a third suspect at the back of the store. Why did you make the decision to shoot?
-Officer Fromansky: I was in fear for my life.
-IAB Officer: Did you see a weapon?
-Officer Fromansky: Yes.
-IAB Officer: What kind?
-Officer Fromansky: A semiautomatic pistol.
-IAB Officer: So you fired first.
-Officer Fromansky: Yes. 
-IAB Officer: Four times.
-Officer Fromansky: Yes.
-IAB Officer: Can you explain the lack of evidence for a third suspect at the scene?
-Officer Fromansky: That's not my job.
-Brass: Right or wrong, there'll be guys on the job who'll think this was personal.
-Grissom: They'd be wrong.
-IAB Officer: Did you see Julia Reed in your line of fire?
-Officer Fromansky: No.
-IAB Officer: According to Supervising Criminalist Grissom's report, you had an unobstructed view of Ms. Reed, so how do you explain the fact that you didn't see her?
-Officer Fromansky: I can't.
-IAB Officer: You don't deny that a bullet from your weapon killed her?
-Officer Fromansky: I'm not denying that.
-IAB Officer: But you can't explain it?
-Officer Fromansky: No.
-IAB Officer: Look, your partner was dead. You'd been shot. You saw someone you thought was a suspect and you fired. Under those circumstances, any one of us could make a mistake. Did you?
-
-IAB Officer: Officer Fromansky, answer the question.
-
-
-Brass: He says yes, he's a bad cop. He says no, he's a liar.
-Grissom: Maybe he really doesn't know what happened.
-
-
-
-;
-
-
-
-
- 
- 
-Warrick: A little over. Perfect.
-Grissom: Good.
-Warrick: Let's say I'm Fromansky. 
-(WARRICK holds out his hands in front of him as if holding a gun. He 
-Warrick: There's nothing between Fromansky and the cocktail waitress. I got a clean view and a clear shot.
-
-Grissom: Hey, take a look at this. The cracks in the glass from shot 22 are terminated by the cracks from shot 23.
-
-Grissom: So, shot 23 had to occur before shot 22. Which means that Fromansky was firing from left to right, not right to left.
-
-Warrick: Four shots on a level spread. He was shooting at a moving target.
-Grissom: According to Catherine's witness, the cocktail waitress wasn't moving. She was a stationary target.
-
-Grissom: So, if he was shooting at a moving target, where was it moving to?
-
-
-
-
-Warrick: We have the surveillance tape. Shows nothing going on here before, during or after the robbery.
-Grissom: Well, just because it shows nothing doesn't mean it's seeing everything.
-
- 
- 
-Warrick:  You can see me now, right?
-Grissom: Keep moving to your right.
-Warrick:  All right.
-Grissom: Keep going. Keep going.
-Warrick:  I'm still in?
-GRISSOM Right there. Now you're out.
-
-Grissom: Tell me what you see.
-Warrick: A getaway.
-
-
-
- 
- 
-Warrick: We found metal paint scrapings and skid marks. Both recent on that loading dock. These guys definitely had a wheelman.
-Nick: Yeah, guy slips in after everything gets started. During the confusion, nobody sees him. Or no one that was alive to tell anyway.
-Warrick: Except Fromansky.
-Nick: Yeah.
-Catherine: Well, the suspects knew there was a blind spot. It has to be an inside job.
-Nick: Oh, no doubt. Matched the cash from the garbage bag to the register receipts-- $878 was missing.
-Catherine: Somebody came out ahead. Inside guy?
-Nick: Well, I'll run the employees. Maybe somebody's got a record.
-
- 
- 
-
-Hodges: Ran your paint chips through ppg and Dupont. Got a hit. Aegean Blue Honda Accord.
-Warrick: Popular color.
-Hodges: They carried it over for four years. Go figure. I'm a teal man myself. You? 
- 
-Hodges: Stupid question. Anyway, model years '84 to '87. 
-Warrick: I'll put out a broadcast. Thanks, Hodges.
-Hodges: Sure.
-
-
- 
- 
-Officer Fromansky: Before this goes any deeper, I want to hear it from you. Are you going to try to screw me on this? 
-
-Officer Fromansky: Well?
-Grissom: I guess it depends on whether I get stuck in traffic on the way to your hearing.
-
-
- 
- 
-Brass: So, this car was reported stolen about, uh, oh, about three weeks ago. Why don't you take the front. I'll take the back.
-
-Warrick: Ph 13. Sodium hydroxide.
-
-
-Brass: Got a cell phone. There's a lot of scung on it. Won't be too good for prints, but let me check the call history.
-(Received Calls show:
-1. 702-555-0176
-2. 702-555-0176
-3. 702-555-0176
-Brass: Same number keeps popping up.
-
-Answering Machine: : Best bargain is temporarily closed. Please check back tomorrow.
-Brass: Well, this is interesting. Before the robbery went down, somebody at the store was very eager to talk to our suspects. Same number.
-Warrick: Yeah? Maybe he can tell us who.
-
-
-
- 
- 
-Brass: Todd Hallickey.
-Todd Hallickey: Look, I don't know why you guys brought me here, but you got no right tossing my apartment.
-Brass: We matched your prints from a stolen car off the prints from a prior car theft, and bingo, we had a match. Got a warrant for your apartment.
-Todd Hallickey: I don't boost cars no more.
-Brass:  Yeah, right.
-Todd Hallickey: Oh, wait. No, I ... I was looking into getting some wheels a couple of weeks ago. I test-drove this old Honda Accord this guy was trying to unload.
-Brass: An '86 Aegean Blue with matching velour interior?
-Todd Hallickey: Yeah, that was it. Must be how my print got there. Well, didn't buy the car. Guy seemed kind of shady.
-
- 
- 
-Brass:  You wouldn't happen to remember this shady guy's name, would you?
-Todd Hallickey:  Come on. No one keeps track of stuff like that.
-Brass:  Uh, right. You own any firearms, Mr. Hallickey?
-Todd Hallickey:  No, sir, I'm on parole. Besides, I don't believe in guns. They're dangerous.
-
-(BRASS notices the red burn marks on TODD HALLICKEY'S knuckles.
-Brass: You know, that's a nasty injury you got there, Todd. Looks kind of painful. How'd you get it?
-Todd Hallickey: It's a rash.
-Brass: Looks like a chemical burn to me. You know what sodium hydroxide is?
-Todd Hallickey: Never heard of it.
-
-Brass:  Let me tell you what it is. It's the active ingredient in drain cleaner. It opens up the pipes, dissolves flesh and fabrics.
-
-
-Todd Hallickey: Look, you want to pin that car on me, you go ahead and try. 
-Warrick: I got this off the jacket from your apartment. What the hell is this?
-Brown: It's a bullet wipe. A test for lead. 
- 
-Warrick: Congratulations. You passed.
-
-
-
-
-
- 
- 
-Warrick: Hallickey's got no connection to the grocery store. He was just the wheel man. Even, still, he's looking at four counts of felony murder. But he's not talking. He lawyered up.
-Grissom: We got a bullet hole in a jacket. That's not even enough to prove that he was in the store.
-Catherine: What about the cash?
-Warrick: It wasn't in his apartment. Maybe somebody else took it.
-Catherine: Almost $900 in small bills? We'd have noticed pockets bulging with a wad like that.
-Grissom: What about the calls from the grocery store to the suspect's cell? That could have been somebody giving the &quot;go&quot; signal.
-Warrick: There's no way to tell who. The store runs off of an old PBX system, and every call that comes in goes back to the same number. Every employee was near a phone, so, it could have been anybody.
-
-Nick: Hey, y'all. Ran the criminal records for the employees. Came up with a Raul Valdez. Freight loader.
-
-Nick: He clocked in for work that night. Never clocked out.
-Catherine: No one by that name interviewed at the scene?
-Nick: Here's the kicker. A few years ago, he spent some time in prison. Lompoc. So, Brass is trying to find him now.
-
-
- 
-
-
-
-
-
-Bagboy: I got to change my pants.
-
-
-
- 
- 
-Catherine: You left something in the store besides a urine stain. 
-
-Catherine: Just a little too tempting, huh? All that cash just sitting there right in front of your face ...
-
-
-Bagboy: Look, I go to that store to bag groceries, not to get my ass shot off. I figure I earned the money. Kind of like working overtime.
-Catherine: Might as well get something for all your trouble, right? Considering the fact that your nice little robbery had gone straight to hell.
-Bagboy: Whoa, wait a minute. You think ... ? No way.
-Catherine: It was an inside job. You knew the registers were full. Those gunmen had help from an employee.
-Bagboy: Not from me, they didn't. Look, you want to bust me for the money, go ahead, I took it. But I did not set the thing up.
-
-
- 
- 
-Warrick: You know, Hodges already analyzed trace on the bullets.
-Grissom: Yeah, I wanted to take a look myself.
-Warrick: He'll take it personally.
-Grissom: Good. The report says that the cocktail waitress was wearing a black wool sweater. Was she also wearing something polyester?
-Warrick: No.
-Grissom: Take a look at this.
-
-Warrick: Black fibers. Probably synthetic. Mixed in with the wool. If their gunman was wearing a black polyester jacket ... 
-Grissom: Fromansky claims that he was tunnel-visioned on the gunman. So, it's possible that he never even saw the cocktail waitress.
-
-
-
-
-Warrick: You may have just saved Fromansky's ass.
-
- 
- 
-Nick: Hey, Catherine, how'd it go with the bag boy?
-Catherine: He admitted to swiping the cash, but he wouldn't cop to the robbery.
-Nick: Then I have something you should see. I was going back through the surveillance tapes covering the loading dock, thinking I might find someone scouting a blind spot, you know? But instead, I found this. Two nights before the robbery.
-
-
-Nick: There. See that?
-Catherine: One more time.
-Nick: Yeah.
-
-Nick: That camera's stationary, so ... 
-Catherine: Somebody moved the camera.
-
-
- 
- 
-Catherine: You used to part-time at the forum shops. We got your prints off your work card. It was the same print that we got off the loading dock surveillance camera. 
-
-
-
-
-Brass: Raul Valdez, an ex-con -- your co-worker. You got him to give you the names of some guys to do the job. 
-Catherine: You give them the best time to hit the registers. You tell them where to park. It's a good plan. Until your Ex showed up and leaves you with your kid. 
-Brass: Then you panic, and you call your guys, try to call it off, but they won't listen. 
-Catherine: If that's what happened, that could go in your favor. 
-Brass: When we find Raul, he'll give you up in a heartbeat.
-Celeste Turner:  I think I need to get a lawyer.
-Brass: What you need is come clean and cooperate. And you better hope and pray the DA doesn't want to put a needle in your arm for killing five people, including a cop.
-Celeste Turner: I have been working at that store for five years. Thirty-eight hours a week. Thirty-eight ... not forty. You know why? Because my manager won't give me enough hours to qualify for benefits. I have a kid ... with rotten teeth. I never meant for anybody to get hurt.
-
-
- 
- 
-Reporter: Officer Fromansky, if you could smile, please? REPORTER: Thank you; right over here.
-
-Brass: Guy from the mayor's office. Fromansky's getting a commendation. What do you think?
-Grissom: Two dead felons, two dead civilians a dead policeman ... I don't know what to think.
-
-FADE TO BLACK
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=04x14+-+Paper+or+Plastic%3F&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127367%23p127367" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=04x14+-+Paper+or+Plastic%3F&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127367%23p127367" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127367%23p127367&amp;name=04x14+-+Paper+or+Plastic%3F" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127367%23p127367" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=944ed7bbcf081a5ae6f5886b433bb689">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=944ed7bbcf081a5ae6f5886b433bb689">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=944ed7bbcf081a5ae6f5886b433bb689">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=944ed7bbcf081a5ae6f5886b433bb689">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

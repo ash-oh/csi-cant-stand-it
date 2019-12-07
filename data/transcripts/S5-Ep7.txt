@@ -1,736 +1,966 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT] 
+[EXTREME CLOSE-UP]
+(Camera view of the tight weave of material. Camera pulls out and we see " />
+<meta property="og:title" content="05x07 - Formalities - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT] 
+[EXTREME CLOSE-UP]
+(Camera view of the tight weave of material. Camera pulls out and we see " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13289" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>05x07 - Formalities - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13289" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13289">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=c6e88e83393be1ea5dac725f17fb2d2e"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=c6e88e83393be1ea5dac725f17fb2d2e">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=c6e88e83393be1ea5dac725f17fb2d2e">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=c6e88e83393be1ea5dac725f17fb2d2e">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=c6e88e83393be1ea5dac725f17fb2d2e">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13289&amp;sid=c6e88e83393be1ea5dac725f17fb2d2e&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>05x07 - Formalities</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127383">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127383">05x07 - Formalities</a></div>
+							<div class="pull-right text-right"><time datetime="2004-11-25T14:28:01Z">11/25/04 14:28</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT] </p>
+<p>[EXTREME CLOSE-UP]</p>
+<p>(Camera view of the tight weave of material. Camera pulls out and we see a tie. Camera pulls out even more and we see ... </p>
+<p>[GRISSOM]</p>
+<p>(Grissom stands in front of the mirror trying to put on his bow tie. We watch him struggle with it for a moment.)</p>
+<p>[INT. BALLROOM LOBBY - NIGHT]</p>
+<p>(Through the mirror's reflection, we see Catherine walk over to him.) </p>
+<p><strong>Catherine</strong>: What are you doing?</p>
+<p>(Grissom picks up the step-by-step illustrated instruction sheet for how to tie his tie.)</p>
+<p><strong>Grissom</strong>: (frustrated) I'm going insane. I don't understand this diagram.</p>
+<p><strong>Catherine</strong>: (sighs and shakes her head) You don't need a diagram. </p>
+<p>(Grissom starts fiddling with his tie again.) </p>
+<p><strong>Catherine</strong>: You need a woman. </p>
+<p>(From behind, Catherine takes over and ties Grissom's tie for him.</p>
+<p><strong>Catherine</strong>: I'm looking forward to your speech.</p>
+<p><strong>Sheriff Rory Atwater</strong>: (o.s.) ... it wasn't greatly appreciated at the time.</p>
+<p>(The audience chuckles and applauds.) </p>
+<p>[INT. HOTEL - MAIN BALLROOM - NIGHT - CONTINUOUS]</p>
+<p>(Sheriff Rory Atwater is at the podium concluding his speech. He toasts Robert Covallo who is sitting at the table. We also note that Sofia Curtis is sitting next to him.) </p>
+<p><strong>Sheriff Rory Atwater</strong>: But what I think A.D. Covallo will enjoy the most is no longer having to lie about how much work he has to do. Enjoy your retirement, Bob. </p>
+<p>(He looks down and we note that Grissom is busy writing something on a dinner napkin.) </p>
+<p><strong>Sheriff Rory Atwater</strong>: But seriously, folks ... appointing the new Assistant Director for the Crime Lab is not a task I take lightly. I believe in promoting from within. I believe in rewarding years of dedication and devotion to this department. I believe in Conrad Ecklie. </p>
+<p>(The audience applauds. Conrad Ecklie sits at the same table near Grissom.) </p>
+<p>(Conrad Ecklie nods and smiles at the audience. Grissom's pager beeps.) </p>
+<p><strong>Sheriff Rory Atwater</strong>: For a proper introduction, I'd like to turn to his good friend and colleague of many years ...</p>
+<p>(Grissom checks his pager.)</p>
+<p><strong>Sheriff Rory Atwater</strong>: ... Supervisor Gil Grissom.</p>
+<p>(The audience applauds. Catherine glances at Grissom who is reading his pager.)</p>
+<p><strong>Catherine</strong>: Gil ...</p>
+<p><strong>Grissom</strong>: I got a 419.</p>
+<p><strong>Catherine</strong>: Don't even think about it.</p>
+<p><strong>Grissom</strong>: Swing's tapped out. I'm the back-up. (Catherine grits her teeth at Grissom. Ecklie watches them. Grissom hands the dinner napkin to Catherine.)<br />
+Here ... you give my speech. </p>
+<p>(Catherine's eyes widen. Grissom turns to Ecklie and gives him a thumb's up as he gets up to leave the table.) </p>
+<p><strong>Grissom</strong>: Good luck, Conrad.</p>
+<p>(Ecklie watches Grissom leave the table. Grissom turns to Sheriff Rory Atwater on the stage. He points to his pager.)</p>
+<p><strong>Grissom</strong>: (mouths silently) Homicide</p>
+<p><strong>Sheriff Rory Atwater</strong>: Gil ...</p>
+<p>(Grissom walks quickly out of the ballroom.)</p>
+<p><strong>Sheriff Rory Atwater</strong>: (to Catherine) What's going on?</p>
+<p>(Catherine looks down at the dinner napkin and opens it where she reads: &quot;WHAT CAN I SAY ABOUT CONRAD ECKLIE?&quot;)</p>
+<p>(Catherine sighs. Rory Atwater motions to her.) </p>
+<p><strong>Sheriff Rory Atwater</strong>: You want to help me out up here?</p>
+<p>(Catherine takes a deep breath and stands up.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. OLYMPIA HOTEL/CASINO - LOBBY -- NIGHT] </p>
+<p>(Grissom walks into the casino carrying his kit.) </p>
+<p><strong>Officer</strong>: Hey, Griss ... what's with the monkey suit?</p>
+<p><strong>Grissom</strong>: I was at a funeral across the street.</p>
+<p><strong>Officer</strong>: At a casino? My condolences. Scene's in the east penthouse. Gotta use the VIP elevator.</p>
+<p>(He hands Grissom the card key.) </p>
+<p><strong>Grissom</strong>: Thanks.</p>
+<p>(The officer leaves. The elevator bell dings and the doors open. </p>
+<p>[INT. OLYMPIA HOTEL/CASINO - ELEVATOR - NIGHT -- CONTINUOUS] </p>
+<p>(Grissom steps into the elevator. The slides the card key into the security lock. The doors close.) </p>
+<p>(The elevator bell dings and the doors open again. Sofia Curtis walks in. She greets Grissom with familiarity.)</p>
+<p><strong>Sofia Curtis</strong>: Hey.</p>
+<p><strong>Grissom</strong>: Hello. </p>
+<p>(The elevator doors close.)</p>
+<p><strong>Grissom</strong>: What floor did you want?</p>
+<p><strong>Sofia Curtis</strong>: Where do you think I'm going?</p>
+<p><strong>Grissom</strong>: I wouldn't know.</p>
+<p><strong>Sofia Curtis</strong>: You don't recognize me.</p>
+<p><strong>Grissom</strong>: Apparently not.</p>
+<p><strong>Sofia Curtis</strong>: In the lab, I usually wear my hair up.</p>
+<p>(He glances at her, then recognizes her.) </p>
+<p><strong>Grissom</strong>: Oh, yeah ... You're pulling in when I'm pulling out. </p>
+<p><strong>Sofia Curtis</strong>: Sofia Curtis.</p>
+<p><strong>Grissom</strong>: CSI-three, day shift. You work for Ecklie.</p>
+<p><strong>Sofia Curtis</strong>: As of tonight, so do you.</p>
+<p>(The elevator bell dings and the door opens.)</p>
+<p>[INT. OLYMPIA HOTEL - EAST PENTHOUSE - NIGHT -- CONTINUOUS] </p>
+<p>(They both step out into the penthouse where party guests and officers are. Brass walks up to them. He leads them to the room at the end of the hall.) </p>
+<p><strong>Brass</strong>: Hey, Gil ... hey, Sofie. Sorry to drag you away from the chicken cordon bleu. It's the McKinley High homecoming. The dance is downstairs, but the cool kids' party is in here.</p>
+<p>(He opens the doors and leads them into the rooms.)</p>
+<p>[INT. OLYMPIA HOTEL - EAST PENTHOUSE - LIVING ROOM -- NIGHT -- CONTINUOUS] </p>
+<p>(They look around.) </p>
+<p><strong>Sofia Curtis</strong>: This place makes the rain man suite at Caesar's look like my condo.</p>
+<p><strong>Grissom</strong>: These rooms are just for whales and royalty. What's up?</p>
+<p><strong>Brass</strong>: We're running down the VIP host -- see who's got it tonight.</p>
+<p>(He leads them to another room inside where the body is.) </p>
+<p><strong>Brass</strong>: Okay, paramedics pronounced, left the scene undisturbed. Name is Nicole Jensen, 17. Coroner's en route. I'm gonna talk to the MTV generation.</p>
+<p>(Brass leaves. Sofia Curtis starts to walk into the room.) </p>
+<p><strong>Grissom</strong>: Where's your kit?</p>
+<p><strong>Sofia Curtis</strong>: I sent a uniform to bring it up.</p>
+<p>(She walks around the body and sees the vomit on the floor near her mouth.) </p>
+<p><strong>Sofia Curtis</strong>: Teenager abuses drugs and/or booze ... (she kneels down and looks at Grissom who is also kneeling on the other side of the body.) There's a news flash.</p>
+<p>(She notes the bruises on the body's neck.) </p>
+<p><strong>Sofia Curtis</strong>: Contusions on her neck.</p>
+<p><strong>Grissom</strong>: And the position suggests she was grabbed from behind.</p>
+<p>(Sofia glances at the red wrist band: A NIGHT TO REMEMBER.) </p>
+<p><strong>Sofia Curtis</strong>: (reads) &quot;A night to remember.&quot;</p>
+<p><strong>Grissom</strong>: A night to forget.</p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. OLYMPIA HOTEL - EAST PENTHOUSE - LIVING ROOM -- NIGHT] </p>
+<p>(David kneels next to the body and writes his notes on a clipboard. </p>
+<p>[EXT. OLYMPIA HOTEL - EAST PENTHOUSE - BALCONY -- NIGHT -- CONTINUOUS] </p>
+<p>Brass exits the room and steps out into the balcony where Grissom and Sofia are. Above them, are sounds of a helicopter leaving.) </p>
+<p>(Sofia is changing out of her evening gown and into a pair of overalls. Grissom is removing his tie.) </p>
+<p><strong>Brass</strong>: Okay ... so I talked to the VIP host. The room was checked out to Charlie Macklin.</p>
+<p><strong>Grissom</strong>: It's his casino.</p>
+<p><strong>Brass</strong>: Yeah, it's for his daughter, Janelle. She's having an after party with her and her friends.</p>
+<p><strong>Grissom</strong>: Oh, off the streets and out of trouble.</p>
+<p><strong>Brass</strong>: Best laid plans.</p>
+<p><strong>Grissom</strong>: So what's the daughter's story?</p>
+<p><strong>Brass</strong>: You know, I don't know. We haven't seen her yet. We're still looking. </p>
+<p>(Grissom and Brass turn and find Sofia in overalls. Brass turns and leaves the balcony. She looks at Grissom, turns and pulls out her evening gown from her overalls.) </p>
+<p><strong>Sofia Curtis</strong>: I can barely move in this dress and we haven't cleared the bathroom yet, so there it is. Don't worry, I'm wearing underwear. As far as you know.</p>
+<p>[INT. OLYMPIA HOTEL - EAST PENTHOUSE - LIVING ROOM -- NIGHT -- CONTINUOUS] </p>
+<p>(Camera shutter snaps several times as Grissom takes photos of the body.)</p>
+<p><strong>David Phillips</strong>: Liver temp is 97.2. She's been dead less than two hours.</p>
+<p>(In the next room, Sofia finds something.)</p>
+<p><strong>Sofia Curtis</strong>: Banana peel ... g-string ... (she lifts it up) ... scared of that.</p>
+<p>(Grissom turns back to the body.) </p>
+<p><strong>David Phillips</strong>: Ligature marks on both of her wrists. Some kind of adhesive residue, too.</p>
+<p>(Quick flashback to: The kidnappers/attackers wrap thick tape around her wrists. End of flashback. Resume to present.) </p>
+<p><strong>Grissom</strong>: So, she was bound?</p>
+<p>(David turns the body over and notes the bruise on the face.) </p>
+<p><strong>David Phillips</strong>: Marked impression on her left cheek.</p>
+<p>(Grissom snaps a photo.) </p>
+<p><strong>Grissom</strong>: Maybe some sort of circular device pressed against her face?</p>
+<p>(In the next room, Sofia snaps photos of the items on the foot table.) </p>
+<p><strong>Sofia Curtis</strong>: No beer or liquor. Just water, yogurt, and OJ.</p>
+<p>(Grissom looks up as Sofia continues to mutter to herself.) </p>
+<p><strong>Sofia Curtis</strong>: Mixers, not for drinks ... maybe for drugs. Right ph in the stomach speeds the buzz. (She looks around the room.) I think there's narco around here somewhere.</p>
+<p><strong>Grissom</strong>: (loudly) A-a-are you talking to me?</p>
+<p>(Sofia snaps more photos of the food table.) </p>
+<p><strong>Sofia Curtis</strong>: No.</p>
+<p><strong>Grissom</strong>: Do you always process like this?</p>
+<p><strong>Sofia Curtis</strong>: Like what?</p>
+<p>(She snaps another photo.) </p>
+<p><strong>Grissom</strong>: With your mouth.</p>
+<p>(She looks at Grissom.) </p>
+<p><strong>Sofia Curtis</strong>: Whenever I meet someone new, I always say their name out loud a few times. Keeps a picture in my head.</p>
+<p><strong>Grissom</strong>: Hm ... I thought that's why we had cameras.</p>
+<p>FLASH TO:<br />
+[FLASHBACK]</p>
+<p>(Nicole Jensen staggers into the room. She doubles over and vomits on the floor.) </p>
+<p><strong>Miranda</strong>: (V.O.) So, Nikki comes running in and starts laughing at the carpet. </p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(Brass is interviewing Miranda, one of the party-goers.) </p>
+<p><strong>Miranda</strong>: You know, hurling, blowing chunks, vomiting.</p>
+<p><strong>Brass</strong>: I got it, Miranda. I get the picture. I know what it means.</p>
+<p><strong>Miranda</strong>: The others came in, and, uh ... someone tried CPR, I guess. Didn't work. We called 911.</p>
+<p><strong>Brass</strong>: So, uh, you tight with Nikki?</p>
+<p><strong>Miranda</strong>: (scoffs) God, no. Her dad was a freelance limo driver. I mean, you have to have a felony to get that job.</p>
+<p><strong>Brass</strong>: (chuckles) How would you know that?</p>
+<p><strong>Miranda</strong>: Everybody knows that. The guy was an ex-kneebreaker for the old mob. You ever see Casino? The movie?</p>
+<p><strong>Brass</strong>: Yeah, sure, yeah.</p>
+<p><strong>Miranda</strong>: Whatever. The guy Joe Pesci played.</p>
+<p><strong>Brass</strong>: Tony &quot;The Ant&quot; Spilotro.</p>
+<p><strong>Miranda</strong>: Well, he and Nikki's dad were friends.</p>
+<p><strong>Brass</strong>: Oh, yeah?</p>
+<p><strong>Miranda</strong>: In real life. Real lowlifes. That girl was kryptonite to me. I'd be lying if I said any different.</p>
+<p>CUT TO:<br />
+[INT. OLYMPIA HOTEL/CASINO - MAIN FLOOR - NIGHT]</p>
+<p>(Catherine and Nick walk across the casino floor.) </p>
+<p><strong>Nick</strong>: Kids have been going in and out of the suite all night, but the front desk only issued card keys to seven. Brass has five of them upstairs ... (He looks at his notes.) Uh, Janelle Macklin and Sean Paland are unaccounted for, so I'll check the casino.</p>
+<p><strong>Catherine</strong>: I thought you were going to process the scene with Grissom.</p>
+<p><strong>Nick</strong>: I was. He said he had it covered. Sofia Curtis is up there with him.</p>
+<p><strong>Catherine</strong>: Right ... Ecklie's right hand.</p>
+<p><strong>Nick</strong>: Hmm?</p>
+<p><strong>Catherine</strong>: Ever do a case with her?</p>
+<p><strong>Nick</strong>: Uh-uh. Hey, I heard Grissom stuck you with his speech.</p>
+<p><strong>Catherine</strong>: A napkin is not a speech.</p>
+<p>CUT TO:<br />
+[INT. OLYMPIA HOTEL/CASINO - SECURITY ROOM - NIGHT]</p>
+<p>(Catherine talks with the security officer monitoring the cameras.) </p>
+<p><strong>Catherine</strong>: I'm going to need to see everybody who went in or out of the east penthouse since check-in, and that includes stairwells and service entrances.</p>
+<p><strong>Kenny</strong>: You know, that's Janelle Macklin's suite.</p>
+<p><strong>Catherine</strong>: Yeah, I know. Her father owns the casino.</p>
+<p><strong>Kenny</strong>: Okay ... </p>
+<p>(Kenny works the keyboard to bring up the video.) </p>
+<p><strong>Catherine</strong>: Dance is still going strong.</p>
+<p><strong>Kenny</strong>: That's the beauty of high school in Las Vegas. Homecoming in a casino, dance can go all night.</p>
+<p>(Close up of: The dance floor.)</p>
+<p>Security Camera legend:<br />
+BALLROOM M-4<br />
+CAMERA 1</p>
+<p>CUT TO:<br />
+[INT. OLYMPIA HOTEL/CASINO - BALLROOM M-4 - NIGHT]</p>
+<p>(Nick walks in with Sean Paland through the ballroom.) </p>
+<p><strong>Sean Paland</strong>: I've been down here dancing for hours. Ask anybody.</p>
+<p><strong>Nick</strong>: Why don't you come over here and talk to me for a second?</p>
+<p><strong>Sean Paland</strong>: Come on, man!</p>
+<p><strong>Nick</strong>: What, you need to tell your date?</p>
+<p><strong>Sean Paland</strong>: I came stag.</p>
+<p><strong>Nick</strong>: Come here.</p>
+<p><strong>Sean Paland</strong>: If I want a date, I'll get one in there. You know how many couples break up at homecoming? I looked it up. It's like ten percent. It's staggering.</p>
+<p><strong>Nick</strong>: Hm ... you hang out with Nikki a lot?</p>
+<p><strong>Sean Paland</strong>: Please -- the girl's a scarf. Always hanging on the neck of anyone with loot.</p>
+<p><strong>Nick</strong>: Is that what was she doing up in the P. Diddy suite with your buddies?</p>
+<p><strong>Sean Paland</strong>: Guess everybody wanted in on that party. And Nikki wasn't on the list.</p>
+<p>(Quick flashback to: Janelle Mackie and a group of kids are in the elevator doors. Nicole Jensen runs up to her as they start to close.) </p>
+<p><strong>Nicole Jensen</strong>: Hey, wait, Janelle ... Janelle, wait!</p>
+<p>(Janelle turns around.) </p>
+<p><strong>Janelle Mackie</strong>: Look, Nikki, it's no big deal. You're not missing anything.</p>
+<p><strong>Nicole Jensen</strong>: That's easy for you to say. C'mon, Janelle, we're seniors. This is my last homecoming -- please!</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Sean Paland</strong>: Janelle's always taking in strays.</p>
+<p><strong>Nick</strong>: Yeah, Janelle ... do you know where Janelle is now?</p>
+<p><strong>Sean Paland</strong>: I have no idea. You know, when I busted outta there, she was still up there chillin' with the rest of them.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- NIGHT] </p>
+<p>(Robbins is going over the body as he audio tapes his report.) </p>
+<p><strong>Robbins</strong>: Standard SAE kit was collected. Physical finding of sexual activity. Unable to determine if consensual or rape. Collected heart blood sample. Preliminary tox indicates psilocybin, MDMA, and THC in the system. </p>
+<p>(Flash to: Robbins collects from threads from her nose.) </p>
+<p><strong>Robbins</strong>: (V.O.) Green-colored fiber was collected from the nasal passages ... </p>
+<p>(End of flash. Resume to present.)</p>
+<p><strong>Robbins</strong>: ... to be forwarded to trace evidence for analysis. Vomitus mass was found in the throat and lungs and there was petecchial hemorrhaging of the lower eyelids. Preliminary C.O.D. appears to be mechanical asphyxia from aspiration of gastric content as a result of acute drug intoxication. Albert Robbins, M.E., Employee number 228369.</p>
+<p>(Robbins removes the recorder from his ear.)</p>
+<p>CUT TO:<br />
+[INT. OLYMPIA HOTEL/CASINO - EAST PENTHOUSE -- BATHROOM - DAY]</p>
+<p>(Sofia Curtis lifts the lid from the toilet bowl. She reaches into the bowl and pulls out a bag of drugs.) </p>
+<p>CUT TO:<br />
+[INT. OLYMPIA HOTEL/CASINO - EAST PENTHOUSE - LIVING ROOM - DAY -- CONTINUOUS]</p>
+<p>(Grissom is in the living room looking at the floor where the body used to be.) </p>
+<p><strong>Sofia Curtis</strong>: Collected seven used condoms from two bedrooms -- not a record in my book.</p>
+<p>(Sofia walks into the room and puts her kit down.) </p>
+<p><strong>Sofia Curtis</strong>: Fact that the victim wrists were bound suggests possible s*x games. Also pulled a plastic baggie from a toilet containing what looks like ground-up mushrooms, probably not the kind you put on pizza. Could be the source of the psilocybin. (She looks at Grissom.) One of those kids is still holding. (She closes her kit and stands up.) I'm gonna let Brass know.</p>
+<p>(She looks at Grissom who is not paying attention to her.)</p>
+<p><strong>Sofia Curtis</strong>: That time I was talking to you.</p>
+<p><strong>Grissom</strong>: What? (Grissom turns.) Sorry. I was, uh, treating it like white noise.</p>
+<p>(Grissom looks down at the vomit spatter.) </p>
+<p><strong>Sofia Curtis</strong>: What are you seeing?</p>
+<p><strong>Grissom</strong>: Chicken cordon bleu.</p>
+<p><strong>Sofia Curtis</strong>: Okay, there's no evidence of that meal anywhere here, and Ecklie always said you had an odd sense of humor, so that would make this a joke.</p>
+<p>(Grissom stands up.) </p>
+<p><strong>Grissom</strong>: Not really. If you're on your feet when you're throwing up, the vomit goes everywhere.</p>
+<p>(Quick flash of: A woman vomiting.)</p>
+<p><strong>Grissom</strong>: (V.O.) The higher you are, the wider the splash, right?</p>
+<p>(The vomit spatters on the floor.) </p>
+<p>(End of flash. Resume to present.) </p>
+<p><strong>Grissom</strong>: But ... (Grissom kneels down.) this vomit is confined to one specific area. (Sofia kneels down also.) So she was probably lying down when she was throwing up.</p>
+<p><strong>Sofia Curtis</strong>: Maybe unconscious.</p>
+<p><strong>Grissom</strong>: Or already dead.</p>
+<p><strong>Sofia Curtis</strong>: Vomit could've been forced out by CPR compressions.</p>
+<p><strong>Grissom</strong>: But that doesn't explain the bruise on her cheek.</p>
+<p><strong>Sofia Curtis</strong>: Or the green fibers in her nose.</p>
+<p>(They look around the room for the source of the green fibers and sees the pillow on the couch. They both walk over to the touch. Grissom picks up the pillow and finds the vomit stain on the pillow.) </p>
+<p><strong>Grissom</strong>: Well ... may have started here.</p>
+<p>(Quick flash to: Nicole Jansen struggles on the couch.)</p>
+<p><strong>Nikki Jensen</strong>: Let go of me!</p>
+<p><strong>Man's Voice</strong>: Shut up!</p>
+<p><strong>Nikki Jensen</strong>: Stop it! Stop it!</p>
+<p><strong>Man's Voice</strong>: Shut your mouth. <strong>Man's Voice</strong>: There you go! WO<strong>Man's Voice</strong>: Quiet!</p>
+<p>(Close-up of: The pillow is removed and there's a button impression on Nicole's cheek.)</p>
+<p>(End of flash. Resume to present.)</p>
+<p>CUT TO:<br />
+[INT. OLYMPIA HOTEL/CASINO - EAST PENTHOUSE - HALLWAY - DAY -- CONTINUOUS]</p>
+<p>(Brass steps out into the hallway where the party attendees are waiting. He walks up to a young man and grabs him by the arm.) </p>
+<p><strong>Brass</strong>: (to the young man) Come on. (to the rest) You're all done - (to the young man) Let's go.</p>
+<p><strong>Young Man</strong>: What do you mean?</p>
+<p><strong>Brass</strong>: We know you're dealing drugs. Nikki Jensen's dead because of you.</p>
+<p><strong>Young Man</strong>: No, okay, wait, okay, I don't even do ... I don't even drink, okay? You don't ... you don't want me, you... you want Rex.</p>
+<p>(The Young Man turns and looks over at someone in the hallway. Brass turns and looks at the sleek-looking young man.) </p>
+<p><strong>Brass</strong>: Hey, Rex.</p>
+<p>CUT TO:<br />
+[INT. OLYMPIA HOTEL/CASINO - EAST PENTHOUSE - STUDY - DAY -- CONTINUOUS]</p>
+<p>(Brass interviews Gavin.) </p>
+<p><strong>Gavin (Rex)</strong>: Look, my name is Gavin. You got my license, check it.</p>
+<p><strong>Brass</strong>: No, no, it's &quot;Rex,&quot; you know, as in Rx. I guess it's a lot more subtle than &quot;drugstore,&quot; right?</p>
+<p><strong>Gavin (Rex)</strong>: I got nothing to do with drugs, my man. You already searched me. Is there anywhere else you care to look?</p>
+<p>(Gain leans forward on the desk and taps his behind.) </p>
+<p><strong>Brass</strong>: Hey, you better save that position for later, brother. You're gonna need it, where you're going.</p>
+<p>(From the other room, the officer opens the door for Grissom. Grissom walks into the room where Brass and Gavin are.)</p>
+<p><strong>Grissom</strong>: Is this our dealer?</p>
+<p>(Grissom puts his kit on the table.) </p>
+<p><strong>Brass</strong>: Oh, yeah.</p>
+<p><strong>Gavin (Rex)</strong>: Get this straight, okay? I'm not a drug dealer. My dad owns seven restaurants, including one at the Bellagio and the gourmet room downstairs. I don't need drug money.</p>
+<p><strong>Grissom</strong>: Well, maybe you just like getting your friends high.</p>
+<p>(Grissom turns and looks at Brass. Brass turns and looks at Gavin.) </p>
+<p><strong>Brass</strong>: There's a song about that, I think.</p>
+<p>[INT. OLYMPIA HOTEL/CASINO - EAST PENTHOUSE - HALLWAY - DAY -- CONTINUOUS]</p>
+<p>(Out in the hallway, Sofia walks through the hallway as she looks at the students. She passes the small group of young men and over to the small group of young women. One of the young women has red, raw wrists. Sofia notices.) </p>
+<p><strong>Sofia Curtis</strong>: Hold out your hand.</p>
+<p>(The girl shows Sofia her wrist.) </p>
+<p><strong>Sofia Curtis</strong>: Duct tape residue. What do you know?</p>
+<p>[INT. OLYMPIA HOTEL/CASINO - EAST PENTHOUSE - STUDY - DAY -- CONTINUOUS]</p>
+<p>(Grissom takes out the bag with the mushrooms inside.)</p>
+<p><strong>Grissom</strong>: You know, if the water is relatively still, submerged prints can remain for weeks, months, sometimes even years.</p>
+<p>(Grissom sets up on the desk. Brass hands him a circular trash bin.)</p>
+<p><strong>Brass</strong>: Here you go.</p>
+<p>(Grissom puts it on the desk.) </p>
+<p><strong>Grissom</strong>: Thank you. (Grissom picks up the spray bottle.) When we match your prints on this bag, you'll be charged with murder.</p>
+<p>(Grissom sprays the plastic bag.)</p>
+<p>(As the liquid hits the bag, the camera zooms in for a close-up - directly on a print.)</p>
+<p>[INT. OLYMPIA HOTEL/CASINO - EAST PENTHOUSE - HALLWAY - DAY -- CONTINUOUS]</p>
+<p>(Out in the hallway, Sofia has all the kids show her their wrists. One by one, each of them has duct tape residue.)</p>
+<p>[INT. OLYMPIA HOTEL/CASINO - EAST PENTHOUSE - HALLWAY - DAY -- CONTINUOUS]</p>
+<p><strong>Gavin (Rex)</strong>: I didn't give Nikki anything. The 'shrooms were for the room. She was diving in there with both hands, and ...</p>
+<p><strong>Brass</strong>: Did you have s*x with her?</p>
+<p><strong>Gavin (Rex)</strong>: So what if I did? She was ... giving it away.</p>
+<p><strong>Grissom</strong>: You tied her up and forced her down on the couch.</p>
+<p><strong>Gavin (Rex)</strong>: That wasn't me.</p>
+<p>(Grissom's phone rings. He answers it.) </p>
+<p><strong>Grissom</strong>: Grissom.</p>
+<p><strong>Catherine</strong>: (from phone) I just found Janelle Macklin.</p>
+<p>INTERCUT WITH:</p>
+<p>[INT. CSI - AUDIO/VISUAL LAB - DAY]</p>
+<p>(Catherine is on the phone while looking at the monitors.)</p>
+<p><strong>Grissom</strong>: (from phone) Good. We need to talk to her right away.</p>
+<p><strong>Catherine</strong>: That's going to be tough.</p>
+<p>TOWER EAST-VIP ELEVATOR<br />
+CAMERA 1<br />
+{TIME} 10:01:40:--</p>
+<p>(From the security camera: Two men in masks push Janelle Macklin into an elevator. They hold their guns up and look at the camera.)</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. OLYMPIA HOTEL/CASINO - EAST PENTHOUSE - NIGHT -- FLASHBACK]</p>
+<p>(The party in the penthouse is going on. Suddenly, the doors burst open and two men in masks carrying guns start shouting instructions to the kids.) </p>
+<p>(The girls start screaming.) </p>
+<p><strong>Gunman</strong>: Everybody hit the floor! Now! Now! GUNMAN: Now! Now! GUNMAN: Move! Hit the floor!</p>
+<p>(End of flashback. Resume to present.) </p>
+<p>[INT. OLYMPIA HOTEL/CASINO - EAST PENTHOUSE - NIGHT -- PRESENT]</p>
+<p>(Brass interviews three of the kids who attended the party.)</p>
+<p><strong>Young Man 1</strong>: They had duct tape. They tied everyone up, and they dragged Janelle out.</p>
+<p><strong>Brass</strong>: So how did Nikki end up dead?</p>
+<p><strong>Young Man 2</strong>: Um ... eventually, we all ... got ourselves free. Everybody was scared, but Nikki was possessed.</p>
+<p><strong>Miranda</strong>: She was wasted. Freaking out.</p>
+<p>(Quick flashback to: [PARTY] Nikki screams and heads for the door. One of the women stops her.) </p>
+<p><strong>Nikki Jensen</strong>: (screams) No! I'm leaving!</p>
+<p><strong>Miranda</strong>: Shut up! Shut up!</p>
+<p>(The Young Woman pulls her back into the room and throws her on the couch.) </p>
+<p><strong>Young Man</strong>: Shut her up!</p>
+<p><strong>Miranda</strong>: Friggin' 'shrooms!</p>
+<p>(Nikki struggles as the others hold her down trying to keep her quiet. Someone puts a pillow over her head.) </p>
+<p><strong>Young Woman</strong>: Chill, will ya?! YOUNG MAN: Shut up!</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Young Man 2</strong>: We weren't trying to hurt her.</p>
+<p><strong>Brass</strong>: Well, that's for the DA to decide. Why try to hide the kidnapping?</p>
+<p>CUT TO:<br />
+[INT. OLYMPIA HOTEL/CASINO - MAIN FLOOR -- DAY]</p>
+<p>(Catherine and Sheriff Rory Atwater talk with Charlie Macklin, Janelle's father.) </p>
+<p><strong>Charlie Macklin</strong>: I told the kids not to report it. And I told 'em not to leave the room. They were smart enough to listen. Janelle's fine. It's a game.</p>
+<p><strong>Sheriff Rory Atwater</strong>: You know, Mr. Macklin, based on the surveillance videotape ...</p>
+<p><strong>Charlie Macklin</strong>: I've seen it. </p>
+<p><strong>Catherine</strong>: Your daughter looked terrified.</p>
+<p><strong>Charlie Macklin</strong>: She does school plays. Says she wants to be an actor. At least that's the story this month.</p>
+<p><strong>Catherine</strong>: So you think this is all an act? Daddy's little girl begging for attention. </p>
+<p><strong>Charlie Macklin</strong>: Right on the button. Let me tell you about Janelle: I sent her to a nice prep school back east, she flunked out on purpose. I gave her a Bentley for her sweet 16, she wraps it around a tree. I've been putting up with this crap since she was a kid. I'm done.</p>
+<p><strong>Sheriff Rory Atwater</strong>: When was the last time you actually talked to your daughter?</p>
+<p><strong>Charlie Macklin</strong>: Yesterday, when she asked me to comp the suite. You want me to call her, fine. She never goes anywhere without her cell phone.</p>
+<p>(Charlie Macklin takes out his cell phone and dials. He puts it on speaker phone.) </p>
+<p><strong>Digitized Voice</strong>: (from phone) We have Janelle. Wire one million U.S. Dollars to Grand Caymans National Bank, account number 489-27-63. If the money is not deposited within twenty-four hours, she dies.</p>
+<p>(Charlie Macklin hangs up and puts his phone back into his jacket.) </p>
+<p><strong>Catherine</strong>: I take it that's not her usual greeting. If this is a game, why ask for money? She obviously doesn't need it.</p>
+<p><strong>Charlie Macklin</strong>: I pay, she wins. You want to know why the &quot;abductors&quot; want the money wired to the Caymans?</p>
+<p><strong>Sheriff Rory Atwater</strong>: Smart move. Most kidnappers do get busted at the drop. </p>
+<p><strong>Charlie Macklin</strong>: That's where Janelle has her trust is set up. She knows how those banks work.</p>
+<p><strong>Catherine</strong>: When Steve Wynn's daughter was kidnapped, he didn't tell the police. He went to the Mirage Casino Floor, he got 1.4 million in cash, he made the drop ...</p>
+<p><strong>Charlie Macklin</strong>: Got his daughter back in a couple hours. Yeah, I know the story. Steve Wynn's daughter was a real victim. Janelle isn't.</p>
+<p><strong>Sheriff Rory Atwater</strong>: Game or not, Mr. Macklin, one girl is dead your daughter is missing we're compelled to investigate here.</p>
+<p><strong>Charlie Macklin</strong>: You do that. And when Janelle turns up, crying, saying how sorry she is, you make sure she answers for it.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(Robbins pulls out the table from the morgue to show Bobby Jensen his daughter's body.) </p>
+<p><strong>Robbins</strong>: Mr. Jensen, your daughter's personal effects are at the front desk.</p>
+<p>(Bobby Jensen leaves.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - HALLWAY/LOCKER ROOM -- DAY] </p>
+<p>(Ecklie walks through the hallway. He stops in front of the locker room door, peers in and sees Grissom taking off his jacket.) </p>
+<p><strong>Conrad Ecklie</strong>: Least you got your money's worth out of the rental. I just wanted to let you know, no hard feelings about you leaving the banquet. You're just ... doing your job.</p>
+<p><strong>Grissom</strong>: Have you decided yet who's going to be the day shift supervisor?</p>
+<p>(He looks around the hallway.) </p>
+<p><strong>Conrad Ecklie</strong>: Well, Sofia's a logical choice, but nothing's official yet.</p>
+<p><strong>Grissom</strong>: You should consider Catherine. She's earned it.</p>
+<p><strong>Conrad Ecklie</strong>: I'll, uh, I'll give it some thought. </p>
+<p>(Ecklie's about to leave when he turns back.) </p>
+<p><strong>Conrad Ecklie</strong>: Oh, you know ... I'd love to get a copy of your speech. Just a little souvenir for my scrapbook.</p>
+<p><strong>Grissom</strong>: (nods) I'll get you a copy.</p>
+<p><strong>Conrad Ecklie</strong>: That'd be great.</p>
+<p>CUT TO:<br />
+[INT. CSI - AUDIO/VISUAL LAB -- DAY] </p>
+<p>(Greg is reviewing video footage from the<br />
+TOWER EAST - STAIRWELL<br />
+CAMERA 1</p>
+<p>TOWER EAST - VIP ELEVATOR<br />
+CAMERA 1</p>
+<p>TOWER WEST - SERVICE ELEVATOR<br />
+CAMERA 1</p>
+<p><strong>Catherine</strong>: (o.s.) Tell me something.</p>
+<p><strong>Greg</strong>: (o.s.) I think my eyes need band-aids.</p>
+<p>(Catherine walks over to him.) </p>
+<p><strong>Catherine</strong>: Tough shift.</p>
+<p>(Greg rubs his tired eyes.) </p>
+<p><strong>Greg</strong>: You did say &quot;shi-fft,&quot; right? I reviewed roughly eight hours of video surveillance you so generously provided. Janelle Macklin and several friends rode the VIP elevator to the penthouse around eight p.m. The only other time Janelle set foot in the elevator ... she was a ransom note.</p>
+<p>(Quick flashback to: [VIP ELEVATOR] Two masked men with guns push Janelle into the elevator. They all look at the security camera. The two masked men drag Janelle out of the elevator. End of flashback. Resume to present.) </p>
+<p><strong>Catherine</strong>: Well, we know they didn't take the VIP elevator down ...</p>
+<p><strong>Greg</strong>: ... and, based on the video, they didn't use the stairs or the service elevator, either. Maybe's she's still in the suite. It's a big room.</p>
+<p>CUT TO:<br />
+[INT. OLYMPIA HOTEL/CASINO - ELEVATOR -- DAY]</p>
+<p>(Nick snaps several photos of shoe prints on the floor. Catherine walks into the elevator behind Nick.) </p>
+<p><strong>Nick</strong>: Man, there must be over a hundred shoeprints in here.</p>
+<p>(She looks over at the floor panel.) </p>
+<p><strong>Catherine</strong>: Even more fingerprints on those buttons. Good luck.</p>
+<p>(She gives him a thumb's up sign and leaves.) </p>
+<p><strong>Nick</strong>: (calls out) Thanks a lot.</p>
+<p>CUT TO:<br />
+[INT. OLYMPIA HOTEL/CASINO - LINEN HALLWAY - DAY]</p>
+<p>(Warrick is in the linen hallway looking through the housekeeper's cart. Catherine walks by.) </p>
+<p><strong>Catherine</strong>: How's it going?</p>
+<p><strong>Warrick</strong>: Great. Got all the towels we need here.</p>
+<p><strong>Catherine</strong>: Yeah ... </p>
+<p>(Catherine snaps a photo of the linen closet.)</p>
+<p><strong>Catherine</strong>: I might stick a few of those in my trunk.</p>
+<p>(Warrick finds something in the laudry bag. He takes out dark-colored overalls.) </p>
+<p><strong>Warrick</strong>: The same costumes as the kidnappers.</p>
+<p>(Catherine snaps a photo of it.) </p>
+<p><strong>Catherine</strong>: These guys definitely knew their way around this hotel.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>(She walks over to the service elevator and presses the button. Warrick walks over to the next laundry cart and looks inside.) </p>
+<p>(The elevator doors open. Catherine snaps photos of the service elevator.)</p>
+<p>(Cut to: [VIP ELEVATOR] Nick takes photos of the elevator. Nick looks around and then looks up at the security camera.) </p>
+<p>(Quick flashback to: [ELEVATOR] The two kidnappers push Janelle into the elevator. End of flashback. Resume to present.)</p>
+<p>(Nick looks around and finds some fibers stuck on the elevator door.)</p>
+<p>(Quick flashback to: One of the kidnappers brushes up against the door as he gets inside. End of flashback. Resume to present.) </p>
+<p>(Nick picks up the fiber.)</p>
+<p>(Cut back to: Warrick looks inside the laundry cart and finds the discarded masks.)</p>
+<p><strong>Warrick</strong>: Hey, Catherine ... (He holds up the masks.) ... got everything we need for Halloween except the candy.</p>
+<p>(Catherine takes a photo of the masks.) </p>
+<p><strong>Warrick</strong>: The abductors exposed their faces to Janelle Macklin. That's one of two things -- either she knew them, or they were going to whack her.</p>
+<p>(Catherine turns around and walks into the service elevator. She looks around at the buttons. She takes a photo of the unmarked wall inside the service elevator.)</p>
+<p>CUT TO:<br />
+[SECURITY VIDEO]</p>
+<p>(Close-up of the marked wall in the TOWER WEST -SERVICE ELEVATOR / CAMERA 1.)</p>
+<p>[INT. OLYMPIA HOTEL/CASINO - SURVEILLANCE ROOM - DAY]</p>
+<p>(Catherine looks at the two video cameras for the VIP Elevator and for the Service Elevator. She sees something.) </p>
+<p><strong>Kenny Bristol</strong>: Look, I don't know why you had to drag me down here on my day off.</p>
+<p>(Catherine turns and looks at Kenny. She looks at the wire hook-up behind the computers. She finds something. She takes out the box.) </p>
+<p><strong>Catherine</strong>: What's this, Kenny?</p>
+<p><strong>Kenny Bristol</strong>: (shakes his head) I don't know.</p>
+<p><strong>Catherine</strong>: Sure you do.</p>
+<p><strong>Kenny Bristol</strong>: A digital video time-delay. </p>
+<p><strong>Catherine</strong>: TIVO-ing the casino. Now that's ballsy. You time-shifted the signal from the west penthouse service elevator and you fed it to the east monitor. </p>
+<p>(Catherine looks at Kenny.) </p>
+<p><strong>Catherine</strong>: You were in on it.</p>
+<p><strong>Kenny Bristol</strong>: Janelle asked me to do her a favor. I really like her. You know, I practically watched her grow up, I mean, through the ... cameras.</p>
+<p>(He starts crying.)</p>
+<p><strong>Kenny Bristol</strong>: I'm so fired. I screwed with Charlie Macklin. I'm probably dead. </p>
+<p><strong>Catherine</strong>: Where is she?</p>
+<p><strong>Kenny Bristol</strong>: I don't know. She said she wanted to sneak some guys up to her suite that Mr. Macklin wouldn't like. What was I supposed to do? I mean, she's the boss' daughter.</p>
+<p><strong>Catherine</strong>: She's also a person of interest in the death of Nicole Jensen. If you know anything ...</p>
+<p><strong>Kenny Bristol</strong>: I'm telling you, I don't know where she is.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Various views of the fiber being processed.) </p>
+<p>(Grissom processes the fiber Nick found in the elevator.) </p>
+<p><strong>Grissom</strong>: (to himself) Definitely not synthetic. Medulla is 14 microns in diameter. Continuous cortex. Imbricate scales. </p>
+<p>(Catherine passes by in the hallway and stops. She watches Grissom talk and answer himself.) </p>
+<p><strong>Grissom</strong>: (to himself) I'm thinking sheep. (types it in) Merino. Fine wool for fine fabrics.</p>
+<p>(He finds a match.) </p>
+<p><strong>Catherine</strong>: Why are you talking to yourself?</p>
+<p><strong>Grissom</strong>: I'm trying a new technique.</p>
+<p><strong>Catherine</strong>: Is it working?</p>
+<p><strong>Grissom</strong>: I have no idea.</p>
+<p>(Grissom picks up the printer results.) </p>
+<p><strong>Grissom</strong>: Aniline dye. Most likely BASF or Dupont. Probably used by every high-end garment maker in the world.</p>
+<p><strong>Catherine</strong>: And black wool is definitely not used for party dresses. So it's got to be from those tuxedo boys in the suite.</p>
+<p><strong>Grissom</strong>: You'll have to take their clothes.</p>
+<p>(Catherine smiles at Grissom.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Dean Tate sits with his Lawyer as they go over photographs of the fiber evidence found.) </p>
+<p>(Brass walks into the room.) </p>
+<p><strong>Brass</strong>: Thread's from your tux, kid. Nothing's going to change that. So the DA's offered you immunity in Nicole Jensen's death for your full cooperation in the kidnapping of Janelle Macklin. Let's hear it.</p>
+<p>(Brass sits down.) </p>
+<p><strong>Brass</strong>: Go ahead.</p>
+<p><strong>Dean Tate</strong>: All right, straight up. Janelle hired an eye-in-the-sky geek to knock out the cameras in the service area.</p>
+<p>(Quick flashback to: [SERVICE ELEVATOR] The two guys in masks cock their guns in the elevator.)</p>
+<p><strong>Gunman</strong>: Let's rock 'n roll.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Dean Tate</strong>: We swooped in, scooped her out, and bam, I mean, we were over it.</p>
+<p><strong>Brass</strong>: So she paid you to kidnap her?</p>
+<p><strong>Dean Tate</strong>: No. I wouldn't take a penny from Janelle. We've been friends since grade school.</p>
+<p><strong>Brass</strong>: Oh, so you did it out of the goodness of your own heart.</p>
+<p><strong>Dean Tate</strong>: Look, my parents have dealt cards for twenty years, all right? I didn't grow up with squat. Janelle, she didn't care about that. She still kicked it with me. So when she asked for my help, I helped. </p>
+<p><strong>Brass</strong>: Even if it involved several felonies?</p>
+<p><strong>Dean Tate</strong>: I wasn't even thinking about that. You don't even get it. You don't understand what it's like to be born and raised here. I mean, Vegas was a dirt lot until the '60s. I mean, it's lucky that I'm not a drug dealer, and Mr. Mack should be happy Janelle's not a junkie stripper. I mean, he was never there for her like my parents were there for me. They instilled good values in my head.</p>
+<p><strong>Brass</strong>: Like kidnapping?</p>
+<p>(Dean Tate sits back in his chair.) </p>
+<p><strong>Brass</strong>: Who's your partner? Look, counselor, you better educate your client on the meaning of full cooperation.</p>
+<p><strong>Dean Tate</strong>: Uh-uh, nah. Vegas has got too many rats, and I'm not gonna be one of them. You want to know where Janelle is, I'll tell you. But you're not going to believe me.</p>
+<p><strong>Brass</strong>: Try me.</p>
+<p>CUT TO:<br />
+[INT. HOTEL -- HALLWAY - DAY]</p>
+<p>(Officers and the Manager rush down the hallway and surround the door to Room<br />
+1503.)</p>
+<p>(The Officer knocks on the door.) </p>
+<p><strong>Officer</strong>: Las Vegas Police!</p>
+<p><strong>Officer</strong>: All right. Open it.</p>
+<p>(The Manager unlocks the door with the card key.) </p>
+<p>(They open the door and enter the room.)</p>
+<p>[INT. HOTEL - ROOM 1503 - DAY]</p>
+<p>(They quickly rush into the room. The bed is a mess, the lamp is overturned. The television set is on loudly.) </p>
+<p>(The room is empty.) </p>
+<p><strong>Television</strong>: Don't, don't ... do it! Do it! No, son! No!</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - OFFICE -- DAY] </p>
+<p>(Dean Tate is being Polygraphed.) </p>
+<p><strong>Polygraphist</strong>: Why did you volunteer to take a polygraph test?</p>
+<p><strong>Dean Tate</strong>: I want to clear my name.</p>
+<p><strong>Polygraphist</strong>: What crime have you been accused of?</p>
+<p><strong>Dean Tate</strong>: Kidnapping Janelle Macklin.</p>
+<p>INTERCUT WITH:</p>
+<p>[INT. HOTEL - ROOM 1530 - DAY]</p>
+<p>(Nick and Warrick are looking through the room. Nick is using an ASL on the bed while Warrick snaps photos. He notes the torn camisole on the floor.) </p>
+<p>(Nick moves the bed covers aside and finds some body fluid on the bed sheets. He looks at Warrick who is holding up the torn camisole.) </p>
+<p>(Quick flash of: [HOTEL] Janelle is crying. One man holds her down on the bed while the other removes his pants.)</p>
+<p><strong>Gunman</strong>: Shut up! You know you want it!</p>
+<p>(End of flash. Resume to present.) </p>
+<p>CUT BACK TO:</p>
+<p>[INT. CSI - OFFICE -- DAY] </p>
+<p><strong>Polygraphist</strong>: Did you physically assault Janelle Macklin?</p>
+<p><strong>Dean Tate</strong>: No way.</p>
+<p><strong>Polygraphist</strong>: Did your partner assault Janelle Macklin?</p>
+<p><strong>Dean Tate</strong>: No. I don't know.</p>
+<p>[INT. HOTEL - ROOM 1530 - DAY]</p>
+<p>(On the breakfast tray is a half-eaten plate of food. Warrick dusts the food tray cover. He finds a print.) </p>
+<p>[INT. CSI - OFFICE -- DAY] </p>
+<p><strong>Polygraphist</strong>: Did you kill Janelle Macklin?</p>
+<p><strong>Dean Tate</strong>: No.</p>
+<p><strong>Polygraphist</strong>: Do you know where she is now?</p>
+<p><strong>Dean Tate</strong>: No. It was just a prank.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -- DAY] </p>
+<p>(Catherine reports the polygraph results to Nick.) </p>
+<p><strong>Catherine</strong>: &quot;Not deceptive.&quot;</p>
+<p><strong>Nick</strong>: So, Dean Tate was telling the truth.</p>
+<p><strong>Catherine</strong>: Well, according to the polygraph, yeah.</p>
+<p>(Warrick leans against the door frame.) </p>
+<p><strong>Warrick</strong>: Hey, guys, I got a work card hit off of that maple syrup print.</p>
+<p><strong>Catherine</strong>: Let me guess. Mrs. Butterworth?</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY]</p>
+<p>(Nick and Brass interview Sean Paland.) </p>
+<p><strong>Sean Paland</strong>: What are you accusing me of, eating french toast? What, eating carbs is against the law now?</p>
+<p><strong>Brass</strong>: No, but kidnapping is.</p>
+<p><strong>Sean Paland</strong>: I don't know anything about that. My prints are in that room because it was Deano's room. He got it so we'd have a place to bring the ladies after the dance.</p>
+<p>(Nick puts the photos of the masks out on the table in front of the suspect.) </p>
+<p><strong>Nick</strong>: So you're telling me when I take a sample of your DNA and compare it to the kabuki masks here ... that's not going to be you?</p>
+<p>(Quick CGI POV: Close-up of the Kabuki mask. Camera zooms in on the mouth piece. Sounds of breathing as breath and warm air exhale from the mask's mouthpiece.)</p>
+<p>(End of CGI POV. Resume to present.)</p>
+<p><strong>Sean Paland</strong>: Deano rat me?</p>
+<p><strong>Nick</strong>: No. No, the evidence did that.</p>
+<p><strong>Sean Paland</strong>: Look, we were playing around. I bus tables every day after school, all right? A grand's a lot of dough for me. You know, this was a joke.</p>
+<p><strong>Nick</strong>: You see us laughing? </p>
+<p><strong>Brass</strong>: Where's Janelle?</p>
+<p><strong>Sean Paland</strong>: I don't know.</p>
+<p><strong>Brass</strong>: When's the last time you saw her?</p>
+<p><strong>Sean Paland</strong>: After the kidnapping. Janelle planted one on my lips. You know, to thank me. I felt it was more than that. You know, I felt a vibe. I gave her an hour to chill, then I called her. Asked her if I could bring her anything. She said she was kind of hungry, so I told her I'd bring her something sweet to eat, other than me.</p>
+<p>(Quick flashback to: [ROOM 1503] Sean Paland lifts the lid off the food tray. Janelle sits on the bed and giggles. The phone rings.) </p>
+<p><strong>Sean Paland</strong>: (V.O.) For a couple seconds, I thought I was in. </p>
+<p>(Janelle answers her phone.) </p>
+<p><strong>Sean Paland</strong>: (V.O.) Then she got a voice mail ... checked it and flipped out.</p>
+<p>(She tosses the food tray in frustration and leaves the room.)</p>
+<p>(Sean Paland takes a bite of the toast and tosses it back on the tray.)</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Sean Paland</strong>: I figured that was my cue to bolt, so I rolled back down to the dance to continue with the honeys I was already working. I haven't seen Janelle since. I swear to god.</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB - DAY]</p>
+<p>(Greg watches as Catherine checks the security video and finds Sean Paland walking back into the elevator.) </p>
+<p><strong>Catherine</strong>: Well, there he is, stepping onto the main elevator from the 15th floor. Alone.</p>
+<p>(She chuckles as she watches Gunman two working his mirror reflection.)</p>
+<p><strong>Catherine</strong>: You crack this kid's head open, all that would come out would be T and A.</p>
+<p><strong>Greg</strong>: I think you said that about me once.</p>
+<p><strong>Catherine</strong>: Actually, more than once.</p>
+<p><strong>Greg</strong>: What's the time code?</p>
+<p><strong>Catherine</strong>: 2:04 A.M.</p>
+<p>(Greg checks the cell phone log.) </p>
+<p><strong>Greg</strong>: That's right after Janelle Macklin's last call to her voice mail. Just like he said. Let me access the message.</p>
+<p><strong>Catherine</strong>: So when are you going to be doing your final proficiency?</p>
+<p><strong>Greg</strong>: Every time I ask Grissom, he says, &quot;next time out.&quot; And then I end up here.</p>
+<p>(Catherine smiles.) </p>
+<p><strong>Greg</strong>: Okay, here it is.</p>
+<p><strong>Charlie Macklin</strong>: (from recording) I'm really disappointed with you, Janelle. All these years you spent around me at the casino and you think you can put something like this over on me? The only thing I'm giving you tonight are four little words: Get ... your ... ass ... home.</p>
+<p>CUT TO:<br />
+[INT. CSI - LOUNGE - DAY]</p>
+<p>(Catherine, Grissom and Sofia Curtis sit around the table reviewing the information.) </p>
+<p><strong>Catherine</strong>: And since the surveillance feed was still being time-shifted at that point, my guess is that Janelle took the service elevator out.</p>
+<p><strong>Sofia Curtis</strong>: So ... where does that leave us?</p>
+<p>(Grissom takes his glasses off.) </p>
+<p><strong>Grissom</strong>: I think we're done.</p>
+<p><strong>Catherine</strong>: No actual crime was committed. The kidnapping wasn't real.</p>
+<p><strong>Sofia Curtis</strong>: Nicole Jensen's death was plenty real. Janelle Macklin's ultimately responsible for putting into motion the events that led to Nicole's death.</p>
+<p><strong>Grissom</strong>: Well, the broadcast's out on Janelle and her car. When she turns up, she'll have to answer for it.</p>
+<p><strong>Sofia Curtis</strong>: Well, that's ... (She glances behind her.) ...highly unsatisfying.</p>
+<p>(Sofia stands up. She puts Grissom's tie on the table.) </p>
+<p><strong>Sofia Curtis</strong>: You forgot this at the suite. I fixed it for you. You never know when you might need to get dressed up again.</p>
+<p>(Sofia leaves the room; Grissom watches her go. Catherine picks up the tie.) </p>
+<p><strong>Catherine</strong>: (amused) She glued it.</p>
+<p>(Catherine's phone rings.)</p>
+<p><strong>Catherine</strong>: Just keep in mind, Gil, that she is on Ecklie's team.</p>
+<p>(She checks her message: 419 McCARRAN AIRPORT.) </p>
+<p>CUT TO:<br />
+[EXT. MCCARRAN AIRPORT - NIGHT]</p>
+<p>(Warrick and Catherine exit the car. They meet up with Brass who is looking in the back of an open trunk.) </p>
+<p>(Brass shakes his head.) </p>
+<p><strong>Brass</strong>: State trooper reported the car.</p>
+<p>(In the trunk, Janelle Macklin is dead, a piece of cloth shoved down her mouth.)</p>
+<p><strong>Brass</strong>: Who wants to tell Mr. Macklin?</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - FORENSIC AUTOPSY -- NIGHT] </p>
+<p>(Catherine snaps photos of Janelle Macklin's body on the table. Janelle's wrists are tied behind her back.) </p>
+<p>(Quick flashback to: [TRUNK] Someone ties Janelle's wrists behind her back as she screams. End of flashback. Resume to present.)</p>
+<p>(Catherine snaps more photos. Warrick puts on his gloves and joins her. He notes the scarf shoved in Janelle's mouth.)</p>
+<p>(Quick flashback to: [TRUNK] Someone shoves a scarf into Janelle's mouth, then closes the trunk door. End of flashback. Resume to present.)</p>
+<p>(Warrick removes the scarf.)</p>
+<p>(Quick CGI POV. Camera zooms down the scarf - down Janelle's mouth - down her throat. The scarf is removed. Camera zooms back out of Janelle's mouth along with the scarf. End of Quick CGI POV. Resume to present.) </p>
+<p>(Warrick checks the scarf.)</p>
+<p>(Catherine puts two strips of tape on the material used to tie Janelle's wrists together. Between the two strips of tape, Catherine cuts the material. She puts the scissors aside and removes the material.) </p>
+<p>(Catherine looks at the material.)</p>
+<p><strong>Charlie Macklin</strong>: (V.O.) Janelle left a message a couple hours ago. She ... </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - BRASS' OFFICE -- NIGHT] </p>
+<p>(Charlie Macklin meets with Brass.) </p>
+<p><strong>Charlie Macklin</strong>: (shocked) She was all worked up, she was crying, saying how someone threw her in the trunk of her car. And then the call cuts off. I thought it was just more drama. This time didn't seem any different from all the others. (He sits back in his chair.) I mean, what kind of kidnapper ... lets you keep your cell phone?</p>
+<p><strong>Brass</strong>: You should let us answer that question.</p>
+<p><strong>Charlie Macklin</strong>: Where did you find her, Captain?</p>
+<p><strong>Brass</strong>: Sunset Road. Near McCarran.</p>
+<p><strong>Charlie Macklin</strong>: Janelle loved airplanes when she was a kid. She was always ... begging me to go ... see them take off and land. I took her down there. A couple of times, I think. Her mother is in Paris. That's, uh ... what ... nine hours ahead. Kind of late to call right now.</p>
+<p>(A young woman walks into the office.) </p>
+<p><strong>Mrs. Macklin</strong>: Oh, my god, Charlie. They told me about Janelle. I'm so sorry, honey.</p>
+<p>(They kiss. Charlie Macklin makes the introductions.) </p>
+<p><strong>Charlie Macklin</strong>: Captain Brass, my wife.</p>
+<p><strong>Brass</strong>: How do you do?</p>
+<p><strong>Charlie Macklin</strong>: I want you to find whoever did this.</p>
+<p><strong>Brass</strong>: That's what we're trying to do.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[EXT. ROAD - NIGHT]</p>
+<p>(An officer exits the car and walks around the limo to look through the open driver's window at Bobby Jensen.) </p>
+<p><strong>Bobby Jensen</strong>: Now what?</p>
+<p><strong>Officer</strong>: Mr. Jensen, we need to ask you a couple of questions regarding Janelle Macklin.</p>
+<p><strong>Bobby Jensen</strong>: Hmm. And I thought you were gonna tell me you were gonna charge somebody with my daughter's death. Drink?</p>
+<p><strong>Officer</strong>: Step out of the car, sir.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - NIGHT]</p>
+<p>(Brass interviews Bobby Jensen.) </p>
+<p><strong>Bobby Jensen</strong>: Not a peep about my daughter, but page one on Macklin's rich bitch. Oh, you boys sure move quicker when there's cash behind it.</p>
+<p><strong>Brass</strong>: Can you account for your whereabouts in the last six hours?</p>
+<p><strong>Bobby Jensen</strong>: Why don't you kiss my ass.</p>
+<p><strong>Brass</strong>: Look, we have a witness who saw Janelle Macklin get into a town car near the Hard Rock earlier this evening.</p>
+<p>(Quick flashback to: [EARLIER] Nick is going through the front seat of the car.)</p>
+<p><strong>Brass</strong>: (V.O.) That's why we impounded your vehicle.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p>(Brass takes out a photo of a bracelet.) </p>
+<p><strong>Brass</strong>: Found Janelle's bracelet in your car. (He shows the photo to Bobby Jensen.) What do you think something like this is worth? Hundred G's at least. Huh? Enough maybe to help ease the pain?</p>
+<p><strong>Bobby Jensen</strong>: For you, maybe. I got a call for a pickup. I went. Trying to keep my head in the work, 'cause what else do I have left?</p>
+<p>(Quick flashback to: [INT. CAR - NIGHT] Janelle is trying to apologize to Mr. Jensen.) </p>
+<p><strong>Janelle Macklin</strong>: Mr. Jensen, you've got to believe me, I never meant for anything to happen to Nikki.</p>
+<p><strong>Bobby Jensen</strong>: You get out of this car.</p>
+<p>(She takes her bracelet off and holds it out to him.)</p>
+<p><strong>Janelle Macklin</strong>: I-I can pay ... whatever you need until the day I die.</p>
+<p>(He knocks it out of her hands and grabs her chin.) </p>
+<p><strong>Bobby Jensen</strong>: (shouts) You wanna pay!? You wanna pay!?</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Bobby Jensen</strong>: I told her I was gonna put two bullets in her head and dump her on her daddy's front step.</p>
+<p><strong>Brass</strong>: But then what, you decided maybe it'd be more fun to tie her up, let her choke to death in the trunk of her own car?</p>
+<p><strong>Bobby Jensen</strong>: No. I told her what I felt like doing so her father would know the way I feel. And she got out, and she ran, and it's a good thing she ran, because I might've changed my mind.</p>
+<p><strong>Brass</strong>: Maybe you did.</p>
+<p><strong>Bobby Jensen</strong>: (sighs) I'm not that guy anymore.</p>
+<p><strong>Brass</strong>: You sure about that?</p>
+<p><strong>Bobby Jensen</strong>: It really doesn't make any difference what you do to me.</p>
+<p>(He sighs.)</p>
+<p><strong>Bobby Jensen</strong>: My baby's dead.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- NIGHT] </p>
+<p>(The autopsy photos are spread out on the table. Robbins goes over them with Catherine.) </p>
+<p><strong>Robbins</strong>: C.O.D. was asphyxia. Scarf lodged all the way down the esophagus, obstructing the epiglottis. Completely cut off her air.</p>
+<p><strong>Catherine</strong>: And the tox came back positive for benzodiazepines.</p>
+<p><strong>Robbins</strong>: Yeah, that makes sense. They suppress the gag reflex.</p>
+<p><strong>Catherine</strong>: And knock you out at the same time. Girl probably didn't even realize she was suffocating.</p>
+<p><strong>Robbins</strong>: Would've been something like falling asleep.</p>
+<p><strong>Catherine</strong>: All right, so ... based on the time that she called her father and the time we found the car, she was in the trunk at least three hours. That's a slow way to go.</p>
+<p>(Warrick walks into the lab.) </p>
+<p><strong>Warrick</strong>: I just got off the phone with Brass.</p>
+<p><strong>Catherine</strong>: Let me guess: Jensen lawyered up?</p>
+<p><strong>Warrick</strong>: No. He says he didn't do it. And based off the DNA report, I believe him. </p>
+<p>(Warrick hands the report to Robbins and Catherine.) </p>
+<p><strong>Warrick</strong>: Mia found saliva and epithelials on the gag and ligature. We ran them against all known suspects.</p>
+<p><strong>Catherine</strong>: Everything matches Janelle Macklin.</p>
+<p>CUT TO:<br />
+[EXT. CSI - PARKING LOT - EARLY MORNING]</p>
+<p>(Grissom is leaving and heading to his car. Sofia Curtis pulls up in the parking stall. Grissom has his keys out and is about to unlock the car door when he turns around and sees Sofia. Her hair is down.)</p>
+<p>(He turns back to his car and opens the door.) </p>
+<p>(Sofia gets out of her car and notices Grissom.) </p>
+<p>(She shuts her car door and heads to the building. Off screen, Grissom closes his car door.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY - DAY]</p>
+<p>(Sofia walks through the building. She walks by an open door and glances in as she passes by.) </p>
+<p>(Inside the room, Catherine is still going over the autopsy photos.) </p>
+<p>(Catherine notices the way the scarf is tied around Janelle's wrists - with the knot on the inside, not the outside.) </p>
+<p>(She puts her own wrists up and crossed - then turns them inward toward her.) </p>
+<p>(Quick flashback to: [McCARRAN AIRPORT - NIGHT] Janelle stands outside the car. She's on the cell phone.) </p>
+<p><strong>Janelle Macklin</strong>: (to phone) Daddy, I'm ... I'm in really big trouble. Um, some guys threw me in the trunk of my car.</p>
+<p>(Cut to: Janelle sits in the trunk of her car and closes the hood down on herself. Her hands are tied. She use her teeth and tightens the knot on the scarf.)</p>
+<p><strong>Catherine</strong>: (V.O.) The position of the knot was the key. </p>
+<p>(Janelle shifts her hands from the front to the back. She swallows some of the scarf which is stuffed in her mouth.) </p>
+<p><strong>Catherine</strong>: (V.O.) Between her wrists and her back, The only way that it could've ended up in that position was if she had tied it herself. And her saliva on the ends of the scarf confirmed it.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Brass</strong>: You saying she committed suicide?</p>
+<p>(Brass takes a drink from his glass. Catherine sighs as she nurses her drink.)</p>
+<p><strong>Catherine</strong>: I guess I am. Although I don't think that was her intention.</p>
+<p>CUT TO:<br />
+[INT. OLYMPIA HOTEL/CASINO - LOBBY - DAY]</p>
+<p><strong>Catherine</strong>: (V.O.) I think that she was ... hoping that her father would save her in time.</p>
+<p>(Charlie Macklin walks down the center of the hotel lobby. He dials and puts the phone to his ear.) </p>
+<p><strong>Janelle Macklin</strong>: (over phone) Daddy, I'm in real big trouble. Um, some guys threw me in the trunk of my car. Oh, dad. You've got to believe me. I-I can hear airplanes. Um, I-I must be near the airport. I know you'll find me. </p>
+<p>FADE TO BLACK</p>
+<p><strong>Janelle Macklin</strong>: (from phone) Please hurry.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
-
-(Camera view of the tight weave of material. Camera pulls out and we see a tie. Camera pulls out even more and we see ... 
-
-
-
- 
-Catherine: What are you doing?
-
-Grissom:  I'm going insane. I don't understand this diagram.
-Catherine:  You don't need a diagram. 
- 
-Catherine: You need a woman. 
-(From behind, Catherine takes over and ties Grissom's tie for him.
-Catherine: I'm looking forward to your speech.
-Sheriff Rory Atwater:  ... it wasn't greatly appreciated at the time.
- 
-
- 
-Sheriff Rory Atwater: But what I think A.D. Covallo will enjoy the most is no longer having to lie about how much work he has to do. Enjoy your retirement, Bob. 
- 
-Sheriff Rory Atwater: But seriously, folks ... appointing the new Assistant Director for the Crime Lab is not a task I take lightly. I believe in promoting from within. I believe in rewarding years of dedication and devotion to this department. I believe in Conrad Ecklie. 
- 
- 
-Sheriff Rory Atwater: For a proper introduction, I'd like to turn to his good friend and colleague of many years ...
-
-Sheriff Rory Atwater: ... Supervisor Gil Grissom.
-
-Catherine: Gil ...
-Grissom: I got a 419.
-Catherine: Don't even think about it.
-Grissom: Swing's tapped out. I'm the back-up. 
-Here ... you give my speech. 
- 
-Grissom: Good luck, Conrad.
-
-Grissom:  Homicide
-Sheriff Rory Atwater: Gil ...
-
-Sheriff Rory Atwater:  What's going on?
-
- 
-Sheriff Rory Atwater: You want to help me out up here?
-
-
-
- 
- 
-Officer: Hey, Griss ... what's with the monkey suit?
-Grissom: I was at a funeral across the street.
-Officer: At a casino? My condolences. Scene's in the east penthouse. Gotta use the VIP elevator.
- 
-Grissom: Thanks.
-(The officer leaves. The elevator bell dings and the doors open. 
- 
- 
-
-Sofia Curtis: Hey.
-Grissom: Hello. 
-
-Grissom: What floor did you want?
-Sofia Curtis: Where do you think I'm going?
-Grissom: I wouldn't know.
-Sofia Curtis: You don't recognize me.
-Grissom: Apparently not.
-Sofia Curtis: In the lab, I usually wear my hair up.
- 
-Grissom: Oh, yeah ... You're pulling in when I'm pulling out. 
-Sofia Curtis: Sofia Curtis.
-Grissom: CSI-three, day shift. You work for Ecklie.
-Sofia Curtis: As of tonight, so do you.
-
- 
- 
-Brass: Hey, Gil ... hey, Sofie. Sorry to drag you away from the chicken cordon bleu. It's the McKinley High homecoming. The dance is downstairs, but the cool kids' party is in here.
-
- 
- 
-Sofia Curtis: This place makes the rain man suite at Caesar's look like my condo.
-Grissom: These rooms are just for whales and royalty. What's up?
-Brass: We're running down the VIP host -- see who's got it tonight.
- 
-Brass: Okay, paramedics pronounced, left the scene undisturbed. Name is Nicole Jensen, 17. Coroner's en route. I'm gonna talk to the MTV generation.
- 
-Grissom: Where's your kit?
-Sofia Curtis: I sent a uniform to bring it up.
- 
-Sofia Curtis: Teenager abuses drugs and/or booze ...  There's a news flash.
- 
-Sofia Curtis: Contusions on her neck.
-Grissom: And the position suggests she was grabbed from behind.
- 
-Sofia Curtis:  &quot;A night to remember.&quot;
-Grissom: A night to forget.
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
-(David kneels next to the body and writes his notes on a clipboard. 
- 
-Brass exits the room and steps out into the balcony where Grissom and Sofia are. Above them, are sounds of a helicopter leaving.) 
- 
-Brass: Okay ... so I talked to the VIP host. The room was checked out to Charlie Macklin.
-Grissom: It's his casino.
-Brass: Yeah, it's for his daughter, Janelle. She's having an after party with her and her friends.
-Grissom: Oh, off the streets and out of trouble.
-Brass: Best laid plans.
-Grissom: So what's the daughter's story?
-Brass: You know, I don't know. We haven't seen her yet. We're still looking. 
- 
-Sofia Curtis: I can barely move in this dress and we haven't cleared the bathroom yet, so there it is. Don't worry, I'm wearing underwear. As far as you know.
- 
-
-David Phillips: Liver temp is 97.2. She's been dead less than two hours.
-
-Sofia Curtis: Banana peel ... g-string ...  ... scared of that.
- 
-David Phillips: Ligature marks on both of her wrists. Some kind of adhesive residue, too.
- 
-Grissom: So, she was bound?
- 
-David Phillips: Marked impression on her left cheek.
- 
-Grissom: Maybe some sort of circular device pressed against her face?
- 
-Sofia Curtis: No beer or liquor. Just water, yogurt, and OJ.
- 
-Sofia Curtis: Mixers, not for drinks ... maybe for drugs. Right ph in the stomach speeds the buzz.  I think there's narco around here somewhere.
-Grissom:  A-a-are you talking to me?
- 
-Sofia Curtis: No.
-Grissom: Do you always process like this?
-Sofia Curtis: Like what?
- 
-Grissom: With your mouth.
- 
-Sofia Curtis: Whenever I meet someone new, I always say their name out loud a few times. Keeps a picture in my head.
-Grissom: Hm ... I thought that's why we had cameras.
-
-
- 
-Miranda:  So, Nikki comes running in and starts laughing at the carpet. 
-
- 
-Miranda: You know, hurling, blowing chunks, vomiting.
-Brass: I got it, Miranda. I get the picture. I know what it means.
-Miranda: The others came in, and, uh ... someone tried CPR, I guess. Didn't work. We called 911.
-Brass: So, uh, you tight with Nikki?
-Miranda:  God, no. Her dad was a freelance limo driver. I mean, you have to have a felony to get that job.
-Brass:  How would you know that?
-Miranda: Everybody knows that. The guy was an ex-kneebreaker for the old mob. You ever see Casino? The movie?
-Brass: Yeah, sure, yeah.
-Miranda: Whatever. The guy Joe Pesci played.
-Brass: Tony &quot;The Ant&quot; Spilotro.
-Miranda: Well, he and Nikki's dad were friends.
-Brass: Oh, yeah?
-Miranda: In real life. Real lowlifes. That girl was kryptonite to me. I'd be lying if I said any different.
-
-
- 
-Nick: Kids have been going in and out of the suite all night, but the front desk only issued card keys to seven. Brass has five of them upstairs ...  Uh, Janelle Macklin and Sean Paland are unaccounted for, so I'll check the casino.
-Catherine: I thought you were going to process the scene with Grissom.
-Nick: I was. He said he had it covered. Sofia Curtis is up there with him.
-Catherine: Right ... Ecklie's right hand.
-Nick: Hmm?
-Catherine: Ever do a case with her?
-Nick: Uh-uh. Hey, I heard Grissom stuck you with his speech.
-Catherine: A napkin is not a speech.
-
-
- 
-Catherine: I'm going to need to see everybody who went in or out of the east penthouse since check-in, and that includes stairwells and service entrances.
-Kenny: You know, that's Janelle Macklin's suite.
-Catherine: Yeah, I know. Her father owns the casino.
-Kenny: Okay ... 
- 
-Catherine: Dance is still going strong.
-Kenny: That's the beauty of high school in Las Vegas. Homecoming in a casino, dance can go all night.
-
-Security Camera legend:
-BALLROOM M-4
-CAMERA 1
-
-
- 
-Sean Paland: I've been down here dancing for hours. Ask anybody.
-Nick: Why don't you come over here and talk to me for a second?
-Sean Paland: Come on, man!
-Nick: What, you need to tell your date?
-Sean Paland: I came stag.
-Nick: Come here.
-Sean Paland: If I want a date, I'll get one in there. You know how many couples break up at homecoming? I looked it up. It's like ten percent. It's staggering.
-Nick: Hm ... you hang out with Nikki a lot?
-Sean Paland: Please -- the girl's a scarf. Always hanging on the neck of anyone with loot.
-Nick: Is that what was she doing up in the P. Diddy suite with your buddies?
-Sean Paland: Guess everybody wanted in on that party. And Nikki wasn't on the list.
- 
-Nicole Jensen: Hey, wait, Janelle ... Janelle, wait!
- 
-Janelle Mackie: Look, Nikki, it's no big deal. You're not missing anything.
-Nicole Jensen: That's easy for you to say. C'mon, Janelle, we're seniors. This is my last homecoming -- please!
- 
-Sean Paland: Janelle's always taking in strays.
-Nick: Yeah, Janelle ... do you know where Janelle is now?
-Sean Paland: I have no idea. You know, when I busted outta there, she was still up there chillin' with the rest of them.
-
- 
- 
-Robbins: Standard SAE kit was collected. Physical finding of sexual activity. Unable to determine if consensual or rape. Collected heart blood sample. Preliminary tox indicates psilocybin, MDMA, and THC in the system. 
- 
-Robbins:  Green-colored fiber was collected from the nasal passages ... 
-
-Robbins: ... to be forwarded to trace evidence for analysis. Vomitus mass was found in the throat and lungs and there was petecchial hemorrhaging of the lower eyelids. Preliminary C.O.D. appears to be mechanical asphyxia from aspiration of gastric content as a result of acute drug intoxication. Albert Robbins, M.E., Employee number 228369.
-
-
-
- 
-
-
- 
-Sofia Curtis: Collected seven used condoms from two bedrooms -- not a record in my book.
- 
-Sofia Curtis: Fact that the victim wrists were bound suggests possible s*x games. Also pulled a plastic baggie from a toilet containing what looks like ground-up mushrooms, probably not the kind you put on pizza. Could be the source of the psilocybin.  I'm gonna let Brass know.
-
-Sofia Curtis: That time I was talking to you.
-Grissom: What?  Sorry. I was, uh, treating it like white noise.
- 
-Sofia Curtis: What are you seeing?
-Grissom: Chicken cordon bleu.
-Sofia Curtis: Okay, there's no evidence of that meal anywhere here, and Ecklie always said you had an odd sense of humor, so that would make this a joke.
- 
-Grissom: Not really. If you're on your feet when you're throwing up, the vomit goes everywhere.
-
-Grissom:  The higher you are, the wider the splash, right?
- 
- 
-Grissom: But ...  So she was probably lying down when she was throwing up.
-Sofia Curtis: Maybe unconscious.
-Grissom: Or already dead.
-Sofia Curtis: Vomit could've been forced out by CPR compressions.
-Grissom: But that doesn't explain the bruise on her cheek.
-Sofia Curtis: Or the green fibers in her nose.
- 
-Grissom: Well ... may have started here.
-
-Nikki Jensen: Let go of me!
-Man's Voice: Shut up!
-Nikki Jensen: Stop it! Stop it!
-Man's Voice: Shut your mouth. Man's Voice: There you go! WOMan's Voice: Quiet!
-
-
-
-
- 
-Brass:  Let's go.
-Young Man: What do you mean?
-Brass: We know you're dealing drugs. Nikki Jensen's dead because of you.
-Young Man: No, okay, wait, okay, I don't even do ... I don't even drink, okay? You don't ... you don't want me, you... you want Rex.
- 
-Brass: Hey, Rex.
-
-
- 
-Gavin : Look, my name is Gavin. You got my license, check it.
-Brass: No, no, it's &quot;Rex,&quot; you know, as in Rx. I guess it's a lot more subtle than &quot;drugstore,&quot; right?
-Gavin : I got nothing to do with drugs, my man. You already searched me. Is there anywhere else you care to look?
- 
-Brass: Hey, you better save that position for later, brother. You're gonna need it, where you're going.
-
-Grissom: Is this our dealer?
- 
-Brass: Oh, yeah.
-Gavin : Get this straight, okay? I'm not a drug dealer. My dad owns seven restaurants, including one at the Bellagio and the gourmet room downstairs. I don't need drug money.
-Grissom: Well, maybe you just like getting your friends high.
- 
-Brass: There's a song about that, I think.
-
- 
-Sofia Curtis: Hold out your hand.
- 
-Sofia Curtis: Duct tape residue. What do you know?
-
-
-Grissom: You know, if the water is relatively still, submerged prints can remain for weeks, months, sometimes even years.
-
-Brass: Here you go.
- 
-Grissom: Thank you.  When we match your prints on this bag, you'll be charged with murder.
-
-
-
-
-
-Gavin : I didn't give Nikki anything. The 'shrooms were for the room. She was diving in there with both hands, and ...
-Brass: Did you have s*x with her?
-Gavin : So what if I did? She was ... giving it away.
-Grissom: You tied her up and forced her down on the couch.
-Gavin : That wasn't me.
- 
-Grissom: Grissom.
-Catherine:  I just found Janelle Macklin.
-
-
-
-Grissom:  Good. We need to talk to her right away.
-Catherine: That's going to be tough.
-TOWER EAST-VIP ELEVATOR
-CAMERA 1
-{TIME} 10:01:40:--
-
-
-
-
-
-
- 
- 
-Gunman: Everybody hit the floor! Now! Now! GUNMAN: Now! Now! GUNMAN: Move! Hit the floor!
- 
-
-
-Young Man 1: They had duct tape. They tied everyone up, and they dragged Janelle out.
-Brass: So how did Nikki end up dead?
-Young Man 2: Um ... eventually, we all ... got ourselves free. Everybody was scared, but Nikki was possessed.
-Miranda: She was wasted. Freaking out.
- 
-Nikki Jensen:  No! I'm leaving!
-Miranda: Shut up! Shut up!
- 
-Young Man: Shut her up!
-Miranda: Friggin' 'shrooms!
- 
-Young Woman: Chill, will ya?! YOUNG MAN: Shut up!
- 
-Young Man 2: We weren't trying to hurt her.
-Brass: Well, that's for the DA to decide. Why try to hide the kidnapping?
-
-
- 
-Charlie Macklin: I told the kids not to report it. And I told 'em not to leave the room. They were smart enough to listen. Janelle's fine. It's a game.
-Sheriff Rory Atwater: You know, Mr. Macklin, based on the surveillance videotape ...
-Charlie Macklin: I've seen it. 
-Catherine: Your daughter looked terrified.
-Charlie Macklin: She does school plays. Says she wants to be an actor. At least that's the story this month.
-Catherine: So you think this is all an act? Daddy's little girl begging for attention. 
-Charlie Macklin: Right on the button. Let me tell you about Janelle: I sent her to a nice prep school back east, she flunked out on purpose. I gave her a Bentley for her sweet 16, she wraps it around a tree. I've been putting up with this crap since she was a kid. I'm done.
-Sheriff Rory Atwater: When was the last time you actually talked to your daughter?
-Charlie Macklin: Yesterday, when she asked me to comp the suite. You want me to call her, fine. She never goes anywhere without her cell phone.
- 
-Digitized Voice:  We have Janelle. Wire one million U.S. Dollars to Grand Caymans National Bank, account number 489-27-63. If the money is not deposited within twenty-four hours, she dies.
- 
-Catherine: I take it that's not her usual greeting. If this is a game, why ask for money? She obviously doesn't need it.
-Charlie Macklin: I pay, she wins. You want to know why the &quot;abductors&quot; want the money wired to the Caymans?
-Sheriff Rory Atwater: Smart move. Most kidnappers do get busted at the drop. 
-Charlie Macklin: That's where Janelle has her trust is set up. She knows how those banks work.
-Catherine: When Steve Wynn's daughter was kidnapped, he didn't tell the police. He went to the Mirage Casino Floor, he got 1.4 million in cash, he made the drop ...
-Charlie Macklin: Got his daughter back in a couple hours. Yeah, I know the story. Steve Wynn's daughter was a real victim. Janelle isn't.
-Sheriff Rory Atwater: Game or not, Mr. Macklin, one girl is dead your daughter is missing we're compelled to investigate here.
-Charlie Macklin: You do that. And when Janelle turns up, crying, saying how sorry she is, you make sure she answers for it.
-
- 
- 
-Robbins: Mr. Jensen, your daughter's personal effects are at the front desk.
-
-
-
- 
- 
-Conrad Ecklie: Least you got your money's worth out of the rental. I just wanted to let you know, no hard feelings about you leaving the banquet. You're just ... doing your job.
-Grissom: Have you decided yet who's going to be the day shift supervisor?
- 
-Conrad Ecklie: Well, Sofia's a logical choice, but nothing's official yet.
-Grissom: You should consider Catherine. She's earned it.
-Conrad Ecklie: I'll, uh, I'll give it some thought. 
- 
-Conrad Ecklie: Oh, you know ... I'd love to get a copy of your speech. Just a little souvenir for my scrapbook.
-Grissom:  I'll get you a copy.
-Conrad Ecklie: That'd be great.
-
- 
-(Greg is reviewing video footage from the
-TOWER EAST - STAIRWELL
-CAMERA 1
-TOWER EAST - VIP ELEVATOR
-CAMERA 1
-TOWER WEST - SERVICE ELEVATOR
-CAMERA 1
-Catherine:  Tell me something.
-Greg:  I think my eyes need band-aids.
- 
-Catherine: Tough shift.
- 
-Greg: You did say &quot;shi-fft,&quot; right? I reviewed roughly eight hours of video surveillance you so generously provided. Janelle Macklin and several friends rode the VIP elevator to the penthouse around eight p.m. The only other time Janelle set foot in the elevator ... she was a ransom note.
- 
-Catherine: Well, we know they didn't take the VIP elevator down ...
-Greg: ... and, based on the video, they didn't use the stairs or the service elevator, either. Maybe's she's still in the suite. It's a big room.
-
-
- 
-Nick: Man, there must be over a hundred shoeprints in here.
- 
-Catherine: Even more fingerprints on those buttons. Good luck.
- 
-Nick:  Thanks a lot.
-
-
- 
-Catherine: How's it going?
-Warrick: Great. Got all the towels we need here.
-Catherine: Yeah ... 
-
-Catherine: I might stick a few of those in my trunk.
- 
-Warrick: The same costumes as the kidnappers.
- 
-Catherine: These guys definitely knew their way around this hotel.
-Warrick: Yeah.
- 
-
- 
-
-
- 
-
-
-Warrick: Hey, Catherine ...  ... got everything we need for Halloween except the candy.
- 
-Warrick: The abductors exposed their faces to Janelle Macklin. That's one of two things -- either she knew them, or they were going to whack her.
-
-
-
-
-
- 
-Kenny Bristol: Look, I don't know why you had to drag me down here on my day off.
- 
-Catherine: What's this, Kenny?
-Kenny Bristol:  I don't know.
-Catherine: Sure you do.
-Kenny Bristol: A digital video time-delay. 
-Catherine: TIVO-ing the casino. Now that's ballsy. You time-shifted the signal from the west penthouse service elevator and you fed it to the east monitor. 
- 
-Catherine: You were in on it.
-Kenny Bristol: Janelle asked me to do her a favor. I really like her. You know, I practically watched her grow up, I mean, through the ... cameras.
-
-Kenny Bristol: I'm so fired. I screwed with Charlie Macklin. I'm probably dead. 
-Catherine: Where is she?
-Kenny Bristol: I don't know. She said she wanted to sneak some guys up to her suite that Mr. Macklin wouldn't like. What was I supposed to do? I mean, she's the boss' daughter.
-Catherine: She's also a person of interest in the death of Nicole Jensen. If you know anything ...
-Kenny Bristol: I'm telling you, I don't know where she is.
-
- 
- 
- 
-Grissom:  Definitely not synthetic. Medulla is 14 microns in diameter. Continuous cortex. Imbricate scales. 
- 
-Grissom:  Merino. Fine wool for fine fabrics.
- 
-Catherine: Why are you talking to yourself?
-Grissom: I'm trying a new technique.
-Catherine: Is it working?
-Grissom: I have no idea.
- 
-Grissom: Aniline dye. Most likely BASF or Dupont. Probably used by every high-end garment maker in the world.
-Catherine: And black wool is definitely not used for party dresses. So it's got to be from those tuxedo boys in the suite.
-Grissom: You'll have to take their clothes.
- 
-
- 
- 
- 
-Brass: Thread's from your tux, kid. Nothing's going to change that. So the DA's offered you immunity in Nicole Jensen's death for your full cooperation in the kidnapping of Janelle Macklin. Let's hear it.
- 
-Brass: Go ahead.
-Dean Tate: All right, straight up. Janelle hired an eye-in-the-sky geek to knock out the cameras in the service area.
-
-Gunman: Let's rock 'n roll.
- 
-Dean Tate: We swooped in, scooped her out, and bam, I mean, we were over it.
-Brass: So she paid you to kidnap her?
-Dean Tate: No. I wouldn't take a penny from Janelle. We've been friends since grade school.
-Brass: Oh, so you did it out of the goodness of your own heart.
-Dean Tate: Look, my parents have dealt cards for twenty years, all right? I didn't grow up with squat. Janelle, she didn't care about that. She still kicked it with me. So when she asked for my help, I helped. 
-Brass: Even if it involved several felonies?
-Dean Tate: I wasn't even thinking about that. You don't even get it. You don't understand what it's like to be born and raised here. I mean, Vegas was a dirt lot until the '60s. I mean, it's lucky that I'm not a drug dealer, and Mr. Mack should be happy Janelle's not a junkie stripper. I mean, he was never there for her like my parents were there for me. They instilled good values in my head.
-Brass: Like kidnapping?
- 
-Brass: Who's your partner? Look, counselor, you better educate your client on the meaning of full cooperation.
-Dean Tate: Uh-uh, nah. Vegas has got too many rats, and I'm not gonna be one of them. You want to know where Janelle is, I'll tell you. But you're not going to believe me.
-Brass: Try me.
-
-
-(Officers and the Manager rush down the hallway and surround the door to Room
-1503.)
- 
-Officer: Las Vegas Police!
-Officer: All right. Open it.
- 
-
-
- 
- 
-Television: Don't, don't ... do it! Do it! No, son! No!
-
-
-
-;
-
-
-
-
- 
- 
-Polygraphist: Why did you volunteer to take a polygraph test?
-Dean Tate: I want to clear my name.
-Polygraphist: What crime have you been accused of?
-Dean Tate: Kidnapping Janelle Macklin.
-
-
- 
- 
-
-Gunman: Shut up! You know you want it!
- 
-
- 
-Polygraphist: Did you physically assault Janelle Macklin?
-Dean Tate: No way.
-Polygraphist: Did your partner assault Janelle Macklin?
-Dean Tate: No. I don't know.
-
- 
- 
-Polygraphist: Did you kill Janelle Macklin?
-Dean Tate: No.
-Polygraphist: Do you know where she is now?
-Dean Tate: No. It was just a prank.
-
- 
- 
-Catherine: &quot;Not deceptive.&quot;
-Nick: So, Dean Tate was telling the truth.
-Catherine: Well, according to the polygraph, yeah.
- 
-Warrick: Hey, guys, I got a work card hit off of that maple syrup print.
-Catherine: Let me guess. Mrs. Butterworth?
-
-
- 
-Sean Paland: What are you accusing me of, eating french toast? What, eating carbs is against the law now?
-Brass: No, but kidnapping is.
-Sean Paland: I don't know anything about that. My prints are in that room because it was Deano's room. He got it so we'd have a place to bring the ladies after the dance.
- 
-Nick: So you're telling me when I take a sample of your DNA and compare it to the kabuki masks here ... that's not going to be you?
-
-
-Sean Paland: Deano rat me?
-Nick: No. No, the evidence did that.
-Sean Paland: Look, we were playing around. I bus tables every day after school, all right? A grand's a lot of dough for me. You know, this was a joke.
-Nick: You see us laughing? 
-Brass: Where's Janelle?
-Sean Paland: I don't know.
-Brass: When's the last time you saw her?
-Sean Paland: After the kidnapping. Janelle planted one on my lips. You know, to thank me. I felt it was more than that. You know, I felt a vibe. I gave her an hour to chill, then I called her. Asked her if I could bring her anything. She said she was kind of hungry, so I told her I'd bring her something sweet to eat, other than me.
- 
-Sean Paland:  For a couple seconds, I thought I was in. 
- 
-Sean Paland:  Then she got a voice mail ... checked it and flipped out.
-
-
- 
-Sean Paland: I figured that was my cue to bolt, so I rolled back down to the dance to continue with the honeys I was already working. I haven't seen Janelle since. I swear to god.
-
-
- 
-Catherine: Well, there he is, stepping onto the main elevator from the 15th floor. Alone.
-
-Catherine: You crack this kid's head open, all that would come out would be T and A.
-Greg: I think you said that about me once.
-Catherine: Actually, more than once.
-Greg: What's the time code?
-Catherine: 2:04 A.M.
- 
-Greg: That's right after Janelle Macklin's last call to her voice mail. Just like he said. Let me access the message.
-Catherine: So when are you going to be doing your final proficiency?
-Greg: Every time I ask Grissom, he says, &quot;next time out.&quot; And then I end up here.
- 
-Greg: Okay, here it is.
-Charlie Macklin:  I'm really disappointed with you, Janelle. All these years you spent around me at the casino and you think you can put something like this over on me? The only thing I'm giving you tonight are four little words: Get ... your ... ass ... home.
-
-
- 
-Catherine: And since the surveillance feed was still being time-shifted at that point, my guess is that Janelle took the service elevator out.
-Sofia Curtis: So ... where does that leave us?
- 
-Grissom: I think we're done.
-Catherine: No actual crime was committed. The kidnapping wasn't real.
-Sofia Curtis: Nicole Jensen's death was plenty real. Janelle Macklin's ultimately responsible for putting into motion the events that led to Nicole's death.
-Grissom: Well, the broadcast's out on Janelle and her car. When she turns up, she'll have to answer for it.
-Sofia Curtis: Well, that's ...  ...highly unsatisfying.
- 
-Sofia Curtis: You forgot this at the suite. I fixed it for you. You never know when you might need to get dressed up again.
- 
-Catherine:  She glued it.
-
-Catherine: Just keep in mind, Gil, that she is on Ecklie's team.
- 
-
-
- 
- 
-Brass: State trooper reported the car.
-
-Brass: Who wants to tell Mr. Macklin?
-
-
-
-
- 
- 
-
-
-
-
- 
-
- 
-
-Charlie Macklin:  Janelle left a message a couple hours ago. She ... 
-
- 
- 
-Charlie Macklin:  I mean, what kind of kidnapper ... lets you keep your cell phone?
-Brass: You should let us answer that question.
-Charlie Macklin: Where did you find her, Captain?
-Brass: Sunset Road. Near McCarran.
-Charlie Macklin: Janelle loved airplanes when she was a kid. She was always ... begging me to go ... see them take off and land. I took her down there. A couple of times, I think. Her mother is in Paris. That's, uh ... what ... nine hours ahead. Kind of late to call right now.
- 
-Mrs. Macklin: Oh, my god, Charlie. They told me about Janelle. I'm so sorry, honey.
- 
-Charlie Macklin: Captain Brass, my wife.
-Brass: How do you do?
-Charlie Macklin: I want you to find whoever did this.
-Brass: That's what we're trying to do.
-
-
-
- 
-Bobby Jensen: Now what?
-Officer: Mr. Jensen, we need to ask you a couple of questions regarding Janelle Macklin.
-Bobby Jensen: Hmm. And I thought you were gonna tell me you were gonna charge somebody with my daughter's death. Drink?
-Officer: Step out of the car, sir.
-
-
- 
-Bobby Jensen: Not a peep about my daughter, but page one on Macklin's rich bitch. Oh, you boys sure move quicker when there's cash behind it.
-Brass: Can you account for your whereabouts in the last six hours?
-Bobby Jensen: Why don't you kiss my ass.
-Brass: Look, we have a witness who saw Janelle Macklin get into a town car near the Hard Rock earlier this evening.
-
-Brass:  That's why we impounded your vehicle.
- 
- 
-Brass: Found Janelle's bracelet in your car.  What do you think something like this is worth? Hundred G's at least. Huh? Enough maybe to help ease the pain?
-Bobby Jensen: For you, maybe. I got a call for a pickup. I went. Trying to keep my head in the work, 'cause what else do I have left?
- 
-Janelle Macklin: Mr. Jensen, you've got to believe me, I never meant for anything to happen to Nikki.
-Bobby Jensen: You get out of this car.
-
-Janelle Macklin: I-I can pay ... whatever you need until the day I die.
- 
-Bobby Jensen:  You wanna pay!? You wanna pay!?
- 
-Bobby Jensen: I told her I was gonna put two bullets in her head and dump her on her daddy's front step.
-Brass: But then what, you decided maybe it'd be more fun to tie her up, let her choke to death in the trunk of her own car?
-Bobby Jensen: No. I told her what I felt like doing so her father would know the way I feel. And she got out, and she ran, and it's a good thing she ran, because I might've changed my mind.
-Brass: Maybe you did.
-Bobby Jensen:  I'm not that guy anymore.
-Brass: You sure about that?
-Bobby Jensen: It really doesn't make any difference what you do to me.
-
-Bobby Jensen: My baby's dead.
-
- 
- 
-Robbins: C.O.D. was asphyxia. Scarf lodged all the way down the esophagus, obstructing the epiglottis. Completely cut off her air.
-Catherine: And the tox came back positive for benzodiazepines.
-Robbins: Yeah, that makes sense. They suppress the gag reflex.
-Catherine: And knock you out at the same time. Girl probably didn't even realize she was suffocating.
-Robbins: Would've been something like falling asleep.
-Catherine: All right, so ... based on the time that she called her father and the time we found the car, she was in the trunk at least three hours. That's a slow way to go.
- 
-Warrick: I just got off the phone with Brass.
-Catherine: Let me guess: Jensen lawyered up?
-Warrick: No. He says he didn't do it. And based off the DNA report, I believe him. 
- 
-Warrick: Mia found saliva and epithelials on the gag and ligature. We ran them against all known suspects.
-Catherine: Everything matches Janelle Macklin.
-
-
-
- 
- 
-
-
-
- 
- 
- 
- 
- 
-Janelle Macklin:  Daddy, I'm ... I'm in really big trouble. Um, some guys threw me in the trunk of my car.
-
-Catherine:  The position of the knot was the key. 
- 
-Catherine:  Between her wrists and her back, The only way that it could've ended up in that position was if she had tied it herself. And her saliva on the ends of the scarf confirmed it.
- 
-Brass: You saying she committed suicide?
-
-Catherine: I guess I am. Although I don't think that was her intention.
-
-
-Catherine:  I think that she was ... hoping that her father would save her in time.
- 
-Janelle Macklin:  Daddy, I'm in real big trouble. Um, some guys threw me in the trunk of my car. Oh, dad. You've got to believe me. I-I can hear airplanes. Um, I-I must be near the airport. I know you'll find me. 
-FADE TO BLACK
-Janelle Macklin:  Please hurry.
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=05x07+-+Formalities&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127383%23p127383" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=05x07+-+Formalities&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127383%23p127383" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127383%23p127383&amp;name=05x07+-+Formalities" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127383%23p127383" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=c6e88e83393be1ea5dac725f17fb2d2e">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=c6e88e83393be1ea5dac725f17fb2d2e">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=c6e88e83393be1ea5dac725f17fb2d2e">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=c6e88e83393be1ea5dac725f17fb2d2e">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

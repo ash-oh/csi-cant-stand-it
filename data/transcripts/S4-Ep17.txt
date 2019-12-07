@@ -1,720 +1,954 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. LAS VEGAS DESERT (STOCK) - DAY]
+[EXT. HIGHWAY (STOCK) - DAY]
+[EXT. ROADWAY (STOCK) - DAY]
+[EXT. ROADWAY - DAY]
+(A bus travels along t" />
+<meta property="og:title" content="04x17 - XX - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. LAS VEGAS DESERT (STOCK) - DAY]
+[EXT. HIGHWAY (STOCK) - DAY]
+[EXT. ROADWAY (STOCK) - DAY]
+[EXT. ROADWAY - DAY]
+(A bus travels along t" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13276" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>04x17 - XX - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13276" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13276">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=ae89fef2e9c505df52b776ecc77704da"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=ae89fef2e9c505df52b776ecc77704da">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=ae89fef2e9c505df52b776ecc77704da">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=ae89fef2e9c505df52b776ecc77704da">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=ae89fef2e9c505df52b776ecc77704da">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13276&amp;sid=ae89fef2e9c505df52b776ecc77704da&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>04x17 - XX</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127370">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127370">04x17 - XX</a></div>
+							<div class="pull-right text-right"><time datetime="2004-03-25T16:04:55Z">03/25/04 16:04</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. LAS VEGAS DESERT (STOCK) - DAY]</p>
+<p>[EXT. HIGHWAY (STOCK) - DAY]</p>
+<p>[EXT. ROADWAY (STOCK) - DAY]</p>
+<p>[EXT. ROADWAY - DAY]</p>
+<p>(A bus travels along the roadway. A car with a young couple in it follows closely behind. The car horn beeps impatiently. The bus continues to travel at its current speed which is apparently way too slow for the car behind it.)</p>
+<p>(The driver of the car behind the bus continues to beep his car horn.)</p>
+<p><strong>Man (driver)</strong>: (shouts) Come on!</p>
+<p>(The man in the car behind the bus continues to beep his car horn in frustration.)</p>
+<p><strong>Woman (passenger)</strong>: Honey, just pass him.</p>
+<p>(He pulls the car a little toward the center line to see if there's room enough to pass.)</p>
+<p><strong>Man (driver)</strong>: (shouts) Move it!</p>
+<p><strong>Woman (passenger)</strong>: Calm down and just pass him.</p>
+<p>(The man takes her advice and speeds up to overtake the bus but an oncoming SUV stops him. He pulls back into his lane behind the bus to avoid an accident.)</p>
+<p>(The bus hits a bump in the road and a human appendage from under the bus flies out and hits the car in the windshield leaving a trail of goo on the glass.)</p>
+<p>(The MAN and the WOMAN in the car scream.)</p>
+<p>(He hits the brakes and pulls the car over to the side of the road.)</p>
+<p>[EXT. ROADWAY - DAY - LATER]</p>
+<p>(BRASS looks at the mess on the car's windshield.)</p>
+<p><strong>Catherine</strong>: (o.s.) Hey, Jim!</p>
+<p>(BRASS turns around to see CATHERINE and NICK walk toward him.)</p>
+<p><strong>Catherine</strong>: We got a call. A possible 4-19. Is there a dead body or not?</p>
+<p><strong>Brass</strong>: That arm crash-landed on the windshield of the car. According to the driver, it shot out from under the bus. Generally speaking, where there's an arm, there's a body.</p>
+<p><strong>Nick</strong>: What say we check out the bus?</p>
+<p><strong>Brass</strong>: Good call.</p>
+<p>(NICK heads over to the bus, passing the female inmates along the way.)</p>
+<p><strong>Brass</strong>: Now, the, uh, passengers were on their way to St. Matthew's Church in Pioche. They were from a work release program at Nevada Correctional Institution.</p>
+<p>(CATHERINE looks at the wheels.)</p>
+<p><strong>Catherine</strong>: Okay, well, I got some blood on the wheel well.</p>
+<p>(She kneels down to look under the bus.)</p>
+<p><strong>Catherine</strong>: Oh, yeah, that's a definite on the 4-19. </p>
+<p>(Under the bus, they see torn bloodied sheets and what's left of the body hanging from the underside rails.)</p>
+<p><strong>Catherine</strong>: Um, well ... appears to be female. Caucasian.</p>
+<p><strong>Nick</strong>: Tied to the undercarriage ... maybe.</p>
+<p><strong>Brass</strong>: Hitch a ride under a bus. Well, that's one way to get out jail.</p>
+<p><strong>Nick</strong>: Yeah, and I bet this big boy spit out body parts all the way down the road.</p>
+<p><strong>Catherine</strong>: So ... the bus is traveling sixty-five miles per hour. What's the distance from the tip of her nose to the tip of her toes?</p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. ROADSIDE -- NIGHT] </p>
+<p>(CATHERINE climbs out from under the bus. NICK walks over to her.) </p>
+<p><strong>Catherine</strong>: Well, looks like she used strips from a white cotton sheet.</p>
+<p><strong>Nick</strong>: Yeah, use whatever's available when you're breaking out of prison, I guess.</p>
+<p>(Quick flashback to: [EXT. HIGHWAY - DAY] Under the bus, the female inmate hangs on to the sheets. End of flashback. Resume to present.)</p>
+<p>(CATHERINE looks at the cotton sheet.)</p>
+<p><strong>Catherine</strong>: Low thread count. Average tensile strength wasn't strong enough to support her weight.</p>
+<p>(Quick flashback to: [UNDER THE BUS] The prison inmate hangs by the cotton sheets under the bus. As the tires spin, she falls to the road. End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: The torque of the spinning axle ripped her apart like the rubber off a bad retread.</p>
+<p><strong>Catherine</strong>: Yep. If she'd used a nylon rope, she'd be on her way to Tijuana.</p>
+<p><strong>Nick</strong>: Right. I'll call auto detail, have the bus sent to the garage, yeah?</p>
+<p><strong>Catherine</strong>: Oh, hey, after that, grab Sara and go directly to jail. I'm going to supervise this body part collection.</p>
+<p>FLASH TO:<br />
+(CATHERINE takes photos while DAVID PHILLIPS collects the body parts.)</p>
+<p>(Various flash cuts of the various body parts being collected: The leg, a finger, what looks like an ear, another body part, and even more body parts.)</p>
+<p>(Finished, CATHERINE looks around.)</p>
+<p><strong>Catherine</strong>: Okay, David, I think that's it.</p>
+<p>(DAVID fills out the evidence bag info sheets.)</p>
+<p><strong>David Phillips</strong>: I'll get these parts to Dr. Robbins. He'll start putting her back together.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) -- NIGHT] </p>
+<p>(A siren wails in the distance.) </p>
+<p>[INT. ADAMS' RESIDENCE - NIGHT]</p>
+<p>(GRISSOM looks around and sees the bloodied mess on the floor leading up to the dead body. The knife, presumably the murder weapon, is on the floor next to the body.)</p>
+<p>(WARRICK snaps a photo of the body. From where he stands, GRISSOM looks around the apartment.)</p>
+<p>(WARRICK snaps a photo of the knife.)</p>
+<p>(GRISSOM spots more blood on the sofa.)</p>
+<p>(WARRICK looks up from the camera and sighs.)</p>
+<p><strong>Warrick</strong>: Helter-skelter.</p>
+<p><strong>Grissom</strong>: Yeah ... except there's no blood spatter on the walls or the ceiling.</p>
+<p><strong>Warrick</strong>: We have the murder weapon. He was stabbed in the chest.</p>
+<p>(Quick flashback to: [CLOSE UP] of the knife in someone's hand. He stabs the man in the chest. The man grunts. Blood falls to the floor. He falls down. End of flashback. Resume to present.)</p>
+<p>(Quick flashes of the body.)</p>
+<p>[INT. ADAMS' APARTMENT BUILDING - HALLWAY -- NIGHT]</p>
+<p>(DET. VARTANN interviews the LANDLORD.)</p>
+<p><strong>Landlord</strong>: There's two of them in that apartment. The name's Adanto Adams. He don't live in that apartment. He's visiting from out of town. That's Zero's little brother.</p>
+<p><strong>Det. Vartann</strong>: 'Zero'?</p>
+<p><strong>Landlord</strong>: Zero Adams. He's the one who lives there.</p>
+<p>[INT. ADAMS' APARTMENT - NIGHT -- CONTINUOUS]</p>
+<p>(GRISSOM walks over to the sofa. He looks from the blood spot on the sofa cushion over to the body on the floor.)</p>
+<p><strong>Grissom</strong>: Well, unless he was bending over the sofa with his chest pushed against this cushion, this bloodstain is inconsistent with that wound.</p>
+<p><strong>Grissom</strong>: Paul, would you turn him over for us?</p>
+<p><strong>Paul</strong>: Okay.</p>
+<p>(The CORONER standing nearby walks over and moves the body for GRISSOM. On the victim's back, they find more stab wounds. WARRICK and GRISSOM both kneel down to look at the wounds.)</p>
+<p><strong>Warrick</strong>: Oh, yeah. Stabbed in the chest and the back.</p>
+<p>(WARRICK snaps more photos of the wounds.)</p>
+<p>[INT. ADAMS' APARTMENT BUILDING - HALLWAY -- NIGHT]</p>
+<p>(The LANDLORD tries to look at the body inside the apartment. DET. VARTANN turns him back to answer the questions.)</p>
+<p><strong>Det. Vartann</strong>: So, uh, where is this Zero now?</p>
+<p><strong>Landlord</strong>: I don't know. I'm not his mother. I'm his landlord.</p>
+<p><strong>Det. Vartann</strong>: Well, if you see him, give me a call.</p>
+<p>(DET. VARTANN gives the LANDLORD his card. The LANDLORD takes it.)</p>
+<p><strong>Landlord</strong>: Yeah, yeah, sure.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. CSI - FORENSIC AUTOPSY - NIGHT]</p>
+<p>(DR. ROBBINS goes over the preliminary findings with CATHERINE.)</p>
+<p><strong>Catherine</strong>: When I do a jigsaw puzzle, I like to start with a corner piece.</p>
+<p><strong>Robbins</strong>: When the puzzle's a body, the corner piece is the pelvis. Oh, uh, Nick ID'd your vic. She missed her last bed check. Convict number sixty-nine twenty.</p>
+<p>(ROBBINS hands CATHERINE the file with information and photo. She reads through it.)</p>
+<p><strong>Catherine</strong>: Antoinette Stella. Two-year sentence for identity theft. She was due for release next month. Guess she was in a hurry.</p>
+<p><strong>Robbins</strong>: No, she wasn't trying to escape. She was murdered. </p>
+<p>(ROBBINS picks up the arm off the table.)</p>
+<p><strong>Robbins</strong>: I dissected her arm.</p>
+<p>(Camera zooms in for a close up of inside the arm.)</p>
+<p><strong>Robbins</strong>: The blood in the brachial artery is clotted, which is indicative of a post-mortem laceration.</p>
+<p><strong>Catherine</strong>: Have you determined the cause of death?</p>
+<p><strong>Robbins</strong>: Yep. Cranio-cerebral injury...</p>
+<p>(He peels back the hair on the head to show the injury underneath.)</p>
+<p><strong>Robbins</strong>: ... due to blunt-force trauma. Depressed skull fracture imbedded with tiny white fibers. Given the depth and position of the, uh, fracture, I'd say she was hit on the head with something hard on the inside and white and fuzzy on the outside.</p>
+<p><strong>Catherine</strong>: I'd like a clean look at that fracture.</p>
+<p><strong>Robbins</strong>: Sure. I'll start her bath.</p>
+<p><strong>Catherine</strong>: Anything else?</p>
+<p><strong>Robbins</strong>: Well, you might want to check out her left forearm.</p>
+<p>(CATHERINE looks but doesn't see anything.)</p>
+<p><strong>Catherine</strong>: Birthmark?</p>
+<p><strong>Robbins</strong>: Rap sheet's referenced &quot;dermatological anomalies.&quot; According to her, she didn't have any. I'll take a slice down to histology.</p>
+<p>(ROBBINS grabs a knife off the table and prepares to cut off the skin.)</p>
+<p>CUT TO:<br />
+[EXT. FALLBROOK WOMEN'S CORRECTIONAL FACILITY (STOCK) - DAY]</p>
+<p>[INT. FALLBROOK WOMEN'S CORRECTIONAL FACILITY - CORRIDOR -- DAY]</p>
+<p>(WARDEN HUTTON escorts SARA and NICK through the facility to the victim's cell.)</p>
+<p><strong>Warden Hutton</strong>: We locked down as soon as we got the call. We do bed checks six times a day. All inmates were accounted for at thirteen hours.</p>
+<p><strong>Nick</strong>: What time did the bus leave for church?</p>
+<p><strong>Warden Hutton</strong>: Thirteen-thirty.</p>
+<p><strong>Harris (inmate)</strong>: Hey, sexy, how 'bout you come back here on your day off? </p>
+<p>(NICK turns and sees HARRIS hanging out through the bars. She tapes the bottom of her chin with the back of her hand.)</p>
+<p><strong>Harris (inmate)</strong>: No gag reflex.</p>
+<p><strong>Warden Hutton</strong>: Watch it, Harris. Got a drawer full of C-9s with your name on<br />
+'em.</p>
+<p>(They continue through the hallway to the victim's cell. As they pass a cell, the inmate yells out to them.)</p>
+<p><strong>Inmate</strong>: What are you lookin' at?</p>
+<p>(They stop in front of the victim's cell where CHRISTINE stands inside.)</p>
+<p><strong>Nick</strong>: What can you tell us about the vic?</p>
+<p><strong>Warden Hutton</strong>: Antoinette? She was popular with the other inmates. No enemies to speak of.</p>
+<p>(The cell door opens.)</p>
+<p><strong>Warden Hutton</strong>: This was Antoinette's cell. Christine, you're going to step out. Officer.</p>
+<p>(The OFFICER steps forward to escort CHRISTINE out of the cell. SARA and NICK walk into the cell.)</p>
+<p><strong>Warden Hutton</strong>: When's the last time you saw baby girl?</p>
+<p><strong>Christine</strong>: I'll need to check my calendar.</p>
+<p><strong>Warden Hutton</strong>: Don't get stupid on me, Christine.</p>
+<p><strong>Nick</strong>: Baby girl -- was that a street name?</p>
+<p><strong>Warden Hutton</strong>: Yes. That's what everyone called her. Christine?</p>
+<p><strong>Christine</strong>: I saw baby girl at lunch 'bout an hour before we got on the bus.</p>
+<p>(The WARDEN steps into the cell and unlocks the lock on a locker.)</p>
+<p><strong>Christine</strong>: Hey, that's my locker. I didn't take none of Baby's stuff.</p>
+<p><strong>Warden Hutton</strong>: Didn't say you did.</p>
+<p><strong>Christine</strong>: Look ... I didn't hardly know baby girl. She only lived up in here eight days.</p>
+<p><strong>Sara</strong>: Eight days?</p>
+<p><strong>Warden Hutton</strong>: In this cell. Few weeks ago, I found her smuggling contraband.</p>
+<p><strong>Christine</strong>: It was just a silver necklace.</p>
+<p><strong>Warden Hutton</strong>: Inmates aren't allowed jewelry. It wasn't a major infraction, but I transferred her cell.</p>
+<p><strong>Sara</strong>: Makeup, deodorant, shampoo.</p>
+<p><strong>Warden Hutton</strong>: Inmates are allowed commissary visits once a month, unless they rack up two weeks in nights.</p>
+<p>(SARA finds the shoes at the bottom of the locker and checks it.)</p>
+<p><strong>Sara</strong>: Do you keep track of purchases?</p>
+<p><strong>Warden Hutton</strong>: I can get you a list. And just for the record, in the state of Nevada, there's never been a homicide in a Female Correctional Facility.</p>
+<p><strong>Sara</strong>: Until now.</p>
+<p>(NICK uses the ALS on CHRISTINE'S bed. She sees him and appears alarmed.)</p>
+<p><strong>Christine</strong>: What are you doing?</p>
+<p><strong>Nick</strong>: I'm ruling you out as a suspect, ma'am.</p>
+<p>(He finishes, straightens and sighs.)</p>
+<p><strong>Nick</strong>: No evidence of blood.</p>
+<p><strong>Christine</strong>: I could've told you that.</p>
+<p><strong>Sara</strong>: Warden, could you show us where the bus was parked before it left the facility?</p>
+<p>CUT TO:<br />
+[EXT. FALLBROOK WOMEN'S CORRECTIONAL FACILITY - GARAGE - DAY]</p>
+<p>(DOUG HANSON, the bus driver and prison guard at the facility, escorts SARA to the bus.)</p>
+<p><strong>Doug Hanson</strong>: The bus was stationed right here.</p>
+<p><strong>Sara</strong>: Are you the only driver?</p>
+<p><strong>Doug Hanson</strong>: Only bus driver. Got my CDLC last May.</p>
+<p>MAN (over P.A. System) Attention, inmates ...</p>
+<p><strong>Sara</strong>: Officer, before you drove out of here, did you inspect the vehicle?</p>
+<p><strong>Doug Hanson</strong>: Miss ... Sidle, I don't get time to scratch my ass. I haven't had a junior officer in my department in two years. Now, usually, I work the road, and when the warden asks, I take inmates on field trips.</p>
+<p><strong>Sara</strong>: Did you know the dead woman, baby girl, Antoinette Stella?</p>
+<p><strong>Doug Hanson</strong>: Start seeing 'em as real people, start carin' when they go back to their pimp dealer scumbag boyfriend?</p>
+<p><strong>Sara</strong>: That's enlightened.</p>
+<p><strong>Doug Hanson</strong>: That's reality.</p>
+<p>(NICK joins them.)</p>
+<p><strong>Nick</strong>: No sign of a struggle, no evidence of a body drag. If the attack didn't happen in her cell or in here, maybe it happened on the bus.</p>
+<p><strong>Sara</strong>: Who maintains your transpo fleet?</p>
+<p>(Off to the side, JUANITA peers around the wire fence. She has a bucket in her hand.)</p>
+<p><strong>Doug Hanson</strong>: Fleet? We got three antique buses. Inmates do all the work.</p>
+<p><strong>Nick</strong>: You allow inmates to service your prison vehicles?</p>
+<p><strong>Doug Hanson</strong>: You bet. On Saturday, I even bring in my SUV. Juanita washes it.</p>
+<p>(He nods over to her.)</p>
+<p><strong>Doug Hanson</strong>: Ain't that right, Juan'a? I've got to get something on top of my<br />
+$11.65 an hour. (NICK walks away.) Look, we're in the middle of the desert. We're a hundred miles from the pit of nowhere.</p>
+<p><strong>Sara</strong>: Is that gate always unlocked?</p>
+<p><strong>Doug Hanson</strong>: It's not like someone's going to hot-wire the bus and hightail it out of here.</p>
+<p><strong>Sara</strong>: Right, so essentially anyone in the prison population could have walked into the garage, onto the bus and no one would have said boo?</p>
+<p><strong>Doug Hanson</strong>: Boo.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - SUNSET]</p>
+<p>[INT. CSI - PRINT LAB]</p>
+<p>(GRISSOM processes the knife. He finds a coating of something on the knife. He scrapes off a sample of it.)</p>
+<p>(He fumes the knife and finds a fingerprint.)</p>
+<p>(He removes the knife from the container and dusts the print.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - SUNSET]</p>
+<p><strong>Frank Samuels</strong>: (V.O.) I got a call at work and was told to get over here right away and he's not here.</p>
+<p>[INT. APARTMENT BUILDING - HALLWAY]</p>
+<p>(DET. VARTANN is out in the hallway with FRANK SAMUELS when WARRICK approaches them.)</p>
+<p><strong>Warrick</strong>: Detective, I got your page.</p>
+<p>(DET. VARTANN steps away from FRANK SAMUELS and heads for WARRICK.)</p>
+<p><strong>Det. Vartann</strong>: Hey, we were canvassing the area when Mr. Samuels showed up. He says he's the tenant's guardian. He's got questions.</p>
+<p><strong>Warrick</strong>: So do I.</p>
+<p>(They both turn back to FRANK SAMUELS.)</p>
+<p><strong>Warrick</strong>: Mr. Samuels, I'm Warrick Brown. I'm from the crime lab.</p>
+<p><strong>Frank Samuels</strong>: What happened to Zero? There's crime tape on his door. These guys won't let me in.</p>
+<p><strong>Warrick</strong>: His brother was murdered.</p>
+<p><strong>Frank Samuels</strong>: Adanto?</p>
+<p><strong>Warrick</strong>: Did you know him?</p>
+<p><strong>Frank Samuels</strong>: Yeah, I've known them both since they were kids.</p>
+<p>(ZERO ADAMS steps into the hallway accompanied by an OFFICER. ZERO'S shirt is bloodied.)</p>
+<p><strong>Zero Adams</strong>: Frank ...</p>
+<p><strong>Frank Samuels</strong>: Zero.</p>
+<p><strong>Zero Adams</strong>: I'm so sorry. I'm sorry.</p>
+<p>CUT TO:<br />
+[EXT. FALLBROOK WOMEN'S CORRECTIONAL FACILITY - GARAGE - NIGHT]</p>
+<p>(SARA and NICK examine the inside of the bus. They start from the front and work their way to the back.)</p>
+<p>(At the back of the bus, NICK finds something.)</p>
+<p><strong>Nick</strong>: Absorption.</p>
+<p>(SARA joins him.)</p>
+<p><strong>Sara</strong>: Blood?</p>
+<p><strong>Nick</strong>: Yeah, and it's more than just a paper cut.</p>
+<p><strong>Sara</strong>: I'll swab it for DNA.</p>
+<p>(SARA opens her kit and takes a swab sample of the blood.)</p>
+<p>(As she does that, NICK checks out the other side of the bus and finds something else.)</p>
+<p><strong>Nick</strong>: Florescence. Bluish-white.</p>
+<p>(NICK swabs and tests the fluorescence.)</p>
+<p><strong>Nick</strong>: Acid phosphatase tests positive.</p>
+<p><strong>Sara</strong>: What is semen doing in the back of a female prison bus?</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. POLICE DEPARTMENT - WAITING ROOM -- NIGHT] </p>
+<p>(ZERO ADAMS is being questioned by WARRICK and DET. VARTANN in FRANK SAMUELS' presence.) </p>
+<p><strong>Frank Samuels</strong>: It's okay, Zero. Just answer the questions.</p>
+<p><strong>Zero Adams</strong>: I said I was sorry 'cause I'm not supposed to be out by myself.</p>
+<p><strong>Warrick</strong>: So, why did you go out?</p>
+<p><strong>Zero Adams</strong>: Well, I came home from special school, I found Adanto in the kitchen.</p>
+<p>(Quick flashback to: ZERO holds ADANTO and cries.)</p>
+<p><strong>Zero Adams</strong>: I love you.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: When was the last time you talked to your brother?</p>
+<p><strong>Zero Adams</strong>: Just before school.</p>
+<p>(Quick flashback to: [INT. ADAMS' APARTMENT - KITCHEN] ZERO and ADANTO sit across each other at the kitchen table.)</p>
+<p><strong>Adanto Adams</strong>: What I'm about to tell you, you can't tell anybody.</p>
+<p><strong>Zero Adams</strong>: No. No, I won't. Scout's honor.</p>
+<p><strong>Adanto Adams</strong>: We're going to be rich like we always talked about. </p>
+<p>(ADANTOA drops a deck of cards on the table. He reaches out and touches ZERO affectionately.)</p>
+<p><strong>Adanto Adams</strong>: I love you, kid.</p>
+<p><strong>Zero Adams</strong>: I love you, too.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Zero Adams</strong>: Said he was going to buy me a shiny new car and a driver to take me anywhere I wanted to go. </p>
+<p>(ZERO leans in close to WARRICK. WARRICK leans in close as if receiving a secret.)</p>
+<p><strong>Zero Adams</strong>: (confidentially) He said we were going to be rich.</p>
+<p>CUT TO:<br />
+[EXT. DESERT (STOCK) - EVENING]</p>
+<p>(Thunder rumbles in the distance.)</p>
+<p>[INT. FALLBROOK WOMEN'S CORRECTIONAL FACILITY - WARDEN HUTTON'S OFFICE --<br />
+EVENING] </p>
+<p>(CATHERINE questions JUANITA ROYA in WARDEN HUTTON'S office.) </p>
+<p><strong>Warden Hutton</strong>: Juanita's in charge of bus detail. I'm sure she'll be happy to answer your questions.</p>
+<p><strong>Catherine</strong>: Juanita? Do you recall the last time that you washed out the interior of the bus?</p>
+<p><strong>Juanita Roya</strong>: Yesterday, a few hours before we left for work release. (JUANITA turns to look at the WARDEN.) If something's missing, it wasn't me. You can check my locker.</p>
+<p><strong>Catherine</strong>: Did you notice anything unusual in the back of the bus?</p>
+<p><strong>Juanita Roya</strong>: Like what?</p>
+<p><strong>Catherine</strong>: Blood or ... semen?</p>
+<p><strong>Juanita Roya</strong>: Didn't see any blood.</p>
+<p><strong>Catherine</strong>: What about semen?</p>
+<p><strong>Juanita Roya</strong>: Don't they still do it in the backseat in the free world?</p>
+<p><strong>Catherine</strong>: Yeah. But I doubt if conjugal visits are permitted in a prison bus.</p>
+<p><strong>Juanita Roya</strong>: Conjugal visits aren't permitted anywhere. The ACLU was going to bring a case that's ...</p>
+<p>(JUANITA looks at the WARDEN, then abruptly stops talking. CATHERINE turns to look at the WARDEN.)</p>
+<p><strong>Juanita Roya</strong>: The only men permitted in this correctional facility are the correctional officers.</p>
+<p><strong>Warden Hutton</strong>: It's a class &quot;d&quot; felony for a co to have sexual contact with an inmate.</p>
+<p><strong>Catherine</strong>: Lots of things are felonies, but people still do them. Otherwise, you and I'd be out of a job.</p>
+<p>CUT TO:<br />
+[INT. CSI - TRACE LAB -- NIGHT] </p>
+<p>(OPEN on the evidence bag label:<br />
+Article: CLOTH FIBERS<br />
+Data Found, Located or Developed: 3/11/04<br />
+Where This Article Was Found: SKULL<br />
+Investigation Officer: C. WILLOWS<br />
+002-12654-4655-01</p>
+<p><strong>David Hodges</strong>: The white fibers from the head wound were straight out of any Wal-market. </p>
+<p>(HODGES hands the sample bag to NICK as he reports to him and SARA.)</p>
+<p><strong>David Hodges</strong>: Seventy-eight percent cotton, fourteen percent polyester and seven percent nylon elastic.</p>
+<p><strong>Nick</strong>: Sounds like we're looking for a lethal pair of white underpants.</p>
+<p><strong>David Hodges</strong>: Yeah, or a bra, pair of socks. The skin discoloration, that was a real challenge. You know, uh, on her forearm. Looked like a birthmark. Yeah, that skin sample was supposed to be sent to histology. Yeah, well, they kicked it back to me. Uh, the coloration was an adulterant. Aluminum chelate of carminic acid.</p>
+<p><strong>Nick</strong>: Aluminum ch ... ? I've never heard of this before.</p>
+<p><strong>Sara</strong>: It's a cochineal.</p>
+<p><strong>Nick</strong>: A what?</p>
+<p><strong>Sara</strong>: A cochineal. They're scaled insects. Carminic acid is found in their intestines. </p>
+<p>(Quick flash of the bug eating a leaf.)</p>
+<p><strong>Sara</strong>: (V.O.) It's bitter, so it discourages predators. </p>
+<p>(End of flash. Resume to SARA.)</p>
+<p><strong>Sara</strong>: As a dye, it's been prized for centuries.</p>
+<p><strong>David Hodges</strong>: Since when did you become an insects expert?</p>
+<p><strong>Sara</strong>: Entomology textbook. Grissom gave it to me last Christmas. </p>
+<p><strong>David Hodges</strong>: Oh. </p>
+<p><strong>Sara</strong>: When I can't sleep, I read.</p>
+<p>(HODGES turns to look at NICK.)</p>
+<p><strong>Nick</strong>: Funny, I didn't get a Christmas gift from Grissom. Did you?</p>
+<p><strong>David Hodges</strong>: No. Uh, so, assuming that she was tattooed in prison, how'd she get a hold of the bugs?</p>
+<p><strong>Sara</strong>: Well, um, cochineals feed on cactus plants. They probably grow wild in the prison area.</p>
+<p>(Quick flash of: [EXT. DESERT] ANTOINETTE STELLA collects the bugs and smashes them up.)</p>
+<p><strong>Sara</strong>: (V.O.) Baby girl could've smashed up a few bugs, used the carminic acid to tattoo herself.</p>
+<p>(She uses the acid like ink to tattoo her arm.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: Do you have a photo of the tattoo?</p>
+<p><strong>David Hodges</strong>: Yeah.</p>
+<p>(HODGES shows SARA the tattoo. She and NICK look at the photo.)</p>
+<p><strong>Nick</strong>: Looks like a half moon. Gang moniker, maybe.</p>
+<p><strong>Sara</strong>: Every woman knows what that is. It's a heart. Well, half a heart.</p>
+<p>(NICK turns the photo on its side where it's recognizable to him.)</p>
+<p><strong>Nick</strong>: Oh. Yeah. Where's the other half?</p>
+<p>(NICK looks at SARA.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. POLICE DEPARTMENT - DAY]</p>
+<p>(WARRICK and DET. VARTANN interview FRANK SAMUELS.)</p>
+<p><strong>Warrick</strong>: Mr. Samuels, we found your prints on the knife used to kill Adanto Adams.</p>
+<p><strong>Frank Samuels</strong>: Now, wait a minute. I didn't stab Adanto.</p>
+<p>(Quick flashback to: [INT. ADAMS' RESIDENCE] FRANK SAMUELS walks into the apartment and sees ADANTO on the floor. He starts yelling for ZERO.)</p>
+<p><strong>Frank Samuels</strong>: Oh, my god. Zero?! FRANK SAMUELS: Zero?!</p>
+<p>(He reaches down and pulls the knife out from the body.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: But you didn't call 9-1-1. Or the police. You just took off?</p>
+<p><strong>Det. Vartann</strong>: That's a felony.</p>
+<p><strong>Frank Samuels</strong>: Look, I was concerned about Zero. He's a nine-year-old kid in a man's body. I didn't know if he did it. Zero's like a son to me. I've been his guardian since he was fourteen. Everybody used to make fun of him. Called him &quot;Zero.&quot; I told him only special people get nicknames.</p>
+<p><strong>Warrick</strong>: Where's his parents now?</p>
+<p><strong>Frank Samuels</strong>: They passed away. He left a small inheritance for his boys and ... Zero doesn't spend much.</p>
+<p><strong>Det. Vartann</strong>: Okay, I'll ask again. You found the body and then you went to work?</p>
+<p><strong>Frank Samuels</strong>: I just needed some time to think.</p>
+<p><strong>Warrick</strong>: Well, you'll get plenty of that now.</p>
+<p><strong>Det. Vartann</strong>: Twenty-four hours in a holding cell. Come on. Let's go.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY] </p>
+<p>(ROBBINS goes over the body with GRISSOM.) </p>
+<p><strong>Robbins</strong>: It's very peculiar. Take a look at his chest wound. No right or left angulation. No up or down. Straight in, straight out.</p>
+<p>(He makes the motions with his hands.)</p>
+<p><strong>Grissom</strong>: Well, the crime scene suggests he was moving around his apartment while being stabbed so, &quot;straight in, straight out&quot; doesn't seem likely.</p>
+<p><strong>Robbins</strong>: Well, one time is an anomaly. Five times? </p>
+<p>(ROBBINS lifts up the body to show the back wounds to GRISSOM.)</p>
+<p><strong>Robbins</strong>: All four back wounds are clustered and parallel.</p>
+<p>(He puts the body back down on the table.)</p>
+<p><strong>Robbins</strong>: And the chest wound is at the same distance from the crown of his head as the other four.</p>
+<p><strong>Grissom</strong>: What about defensive wounds?</p>
+<p><strong>Robbins</strong>: There are none.</p>
+<p><strong>Grissom</strong>: Okay, so, he's running around his apartment trying to get away from his attacker and he incurs no nicks or cuts?</p>
+<p><strong>Robbins</strong>: Nope.</p>
+<p><strong>Grissom</strong>: What else?</p>
+<p><strong>Robbins</strong>: Well, I found this in his stomach.</p>
+<p>(ROBBINS picks up the clump from the metal container and shows it to GRISSOM.)</p>
+<p><strong>Robbins</strong>: Looks like a paper wad of some sort.</p>
+<p><strong>Grissom</strong>: Maybe a treasure map.</p>
+<p>CUT TO:<br />
+[INT. CSI - QUESTIONED DOCUMENTS LAB]</p>
+<p>(RONNIE LITRE works on opening up the clump taken from ADANTO ADAMS' stomach.)</p>
+<p><strong>Ronnie Litre</strong>: Good thing this guy's not concerned with his cholesterol. He ate fatty foods. Paper's pretty well preserved. Uh, most of the ink is washed off. </p>
+<p>(He gets the paper opened and sees something.)</p>
+<p><strong>Ronnie Litre</strong>: Whoa, whoa, whoa, whoa. There's something there in the corner.</p>
+<p>(The camera servo clicks in rapid succession.)</p>
+<p><strong>Ronnie Litre</strong>: Help me put it in there, Warrick.</p>
+<p>(Together, they put the piece of paper between two sheets of plastic. WARRICK puts it under the scope.)</p>
+<p><strong>Warrick</strong>: (reading) Uh ... &quot;P-A... L...&quot; Oh, the Palms. I know what this is. It's a receipt for a marker.</p>
+<p>(WARRICK looks down to get the amount.)</p>
+<p><strong>Warrick</strong>: For ten grand.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - SUNSET]</p>
+<p>[INT. PALMS CASINO/HOTEL]</p>
+<p>(WARRICK shows the MANAGER the photo of ADANTO ADAMS. The MANAGER recognizes him immediately.)</p>
+<p><strong>Manager</strong>: Oh, yeah, that's him. Adanto Adams. Said he wanted to play BJ in the no-limit area. So I had the cage check his credit. (He signs a clip board and hands it back to the man.) Qualified for ten grand.</p>
+<p><strong>Worker</strong>: Thank you.</p>
+<p><strong>Manager</strong>: And I wrote him up.</p>
+<p><strong>Warrick</strong>: Did he have some kind of a system?</p>
+<p><strong>Manager</strong>: They all got systems. This one was a small-time double-up type thing. Bet 100, lose; bet 200 lose. Bet four, lose. Double-up-till-you-win type thing. </p>
+<p>(Quick flashback to: [INT. PALMS CASINO - BLACKJACK TABLE] ADANTO plays the cards and gets frustrated at losing. He looks at the dealer.)</p>
+<p><strong>Adanto Adams</strong>: Now, don't you get anything other than a 20? Hmm?</p>
+<p>(He bangs the table in frustration.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Manager</strong>: The one thing about systems in this town -- if you got one, we want you here.</p>
+<p><strong>Warrick</strong>: Can I get a copy of that footage?</p>
+<p><strong>Manager</strong>: Listen, you look familiar. I seen you before? You been in here?</p>
+<p><strong>Warrick</strong>: Maybe just on a case. How about that footage?</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY]</p>
+<p>(SARA enters the hallway and rushes to catch up with CATHERINE.)</p>
+<p><strong>Sara</strong>: Hey, got your page. What's up?</p>
+<p><strong>Catherine</strong>: Oh, the Warden faxed over Baby Girl's commissary purchases. She bought one twenty-count box of tampons every month like clockwork, but check out the last few months.</p>
+<p>(CATHERINE shows the list to SARA.)</p>
+<p><strong>Sara</strong>: What are you thinking? She might not have needed any for, oh, nine months? </p>
+<p><strong>Catherine</strong>: I think Baby Girl was having a baby.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY] </p>
+<p>(ROBBINS is cooking the skull in a large pot. He lifts the skull up from the pot just as CATHERINE walks into the room.) </p>
+<p><strong>Robbins</strong>: Skull's not ready yet. Enzymes are still eating away at the proteins.</p>
+<p><strong>Catherine</strong>: Did you, by any chance, do a pregnancy test on Baby Girl?</p>
+<p><strong>Robbins</strong>: I thought she'd been incarcerated for the last 23 months.</p>
+<p><strong>Catherine</strong>: (nods) She had been.</p>
+<p>CUT TO:<br />
+(ROBBINS pulls out the table from the morgue cabinet. He pulls the sheet away from the body. He plunges a syringe into the necessary area to get the liquid sample. CATHERINE watches.)</p>
+<p><strong>Robbins</strong>: Urine ... you're out.</p>
+<p>(He fills the syringe with urine.)</p>
+<p><strong>Robbins</strong>: Okay ...</p>
+<p>(He expels the urine into a petrie dish and reaches for a Home Pregnancy Test Kit.)</p>
+<p><strong>Catherine</strong>: Home Pregnancy Test, huh?</p>
+<p><strong>Robbins</strong>: About ten times cheaper than the brand sold by our medical supply company, and just as accurate.</p>
+<p>(He sticks the stick into the urine and waits.)</p>
+<p><strong>Catherine</strong>: Eye on the bottom line. I find that very ...</p>
+<p><strong>Robbins</strong>: (prompts) ... sexy?</p>
+<p><strong>Catherine</strong>: &quot;Prudent&quot;. But that was a good try.</p>
+<p>(He removes the stick and shows the results to CATHERINE.)</p>
+<p><strong>Robbins</strong>: Yeah, plus sign. You know what that means.</p>
+<p><strong>Catherine</strong>: Who's your daddy?</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - A/V LAB] </p>
+<p>(ARCHIE is in the AV Lab reviewing casino video when WARRICK walks in.) </p>
+<p><strong>Warrick</strong>: Archie?</p>
+<p><strong>Archie</strong>: Hey. Got your surveillance tape of Zero's brother.</p>
+<p><strong>Warrick</strong>: Roll it. Now, according to the pit boss, the kid was playing a double-up system. What I want to know is, how many hands did he back himself up?</p>
+<p><strong>Archie</strong>: Let's find out.</p>
+<p>(ARCHIE fast forwards the video.)</p>
+<p><strong>Archie</strong>: First hand, hundred. Loser.</p>
+<p><strong>Archie</strong>: Second hand, two hundred. Lose.</p>
+<p><strong>Archie</strong>: Third hand, four hundred. Lose.</p>
+<p>(WARRICK shakes his head.)</p>
+<p><strong>Archie</strong>: Fourth hand, Eight hundred. So he's doubling every bet.</p>
+<p><strong>Warrick</strong>: Yeah, that's the classic double-up system. </p>
+<p>(They watch for a moment.)</p>
+<p><strong>Warrick</strong>: Go back out wide.</p>
+<p>(ARCHIE changes the view.)</p>
+<p><strong>Archie</strong>: Looks like he's all in.</p>
+<p><strong>Warrick</strong>: Tenth bet, $51,200. Adanto has 20. He sticks. She has two up. Another two, and thats four. Two, three, two. That's eleven. Ace, ace, ace, ace. Fifteen. Six.</p>
+<p><strong>Archie</strong>: Ten-card twenty-one. What are the odds of that?</p>
+<p><strong>Warrick</strong>: The record's an eleven-card twenty-one. That was back in '78.</p>
+<p>(On video, ADANTO leaves the table.)</p>
+<p><strong>Archie</strong>: So he loses $102,300 in ten hands. What's the $10,000 marker for?</p>
+<p><strong>Warrick</strong>: Try to chase back the 102.</p>
+<p>(They watch him play.)</p>
+<p><strong>Warrick</strong>: He lost it all.</p>
+<p>(On video, they watch ADANTO fold up the marker and put it in his mouth.)</p>
+<p><strong>Warrick</strong>: He swallowed his loss.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. POLICE DEPARTMENT - WAITING ROOM -- NIGHT] </p>
+<p><strong>Woman</strong>: (over intercom) All COs sign in with the desk sergeant. All COs sign in with the desk sergeant. </p>
+<p>(WARDEN HUTTON walks over to CATHERINE.)</p>
+<p><strong>Warden Hutton</strong>: Miss Willows. My COs are level 3 peace officers. I will not subject them to a DNA lineup that is nothing more than a wild goose chase.</p>
+<p><strong>Catherine</strong>: We have probable cause to believe that a Correctional Officer was involved with Baby Girl.</p>
+<p><strong>Warden Hutton</strong>: Involved in getting her pregnant, maybe, but that's a far cry from homicide.</p>
+<p><strong>Catherine</strong>: Nevertheless, as you pointed out, s*x with an inmate is a crime. Which is the basis for my warrant. </p>
+<p>(CATHERINE holds out the warrant for the WARDEN. The WARDEN takes it and CATHERINE walks away.)</p>
+<p>(She opens the door to the waiting room and walks inside.)</p>
+<p><strong>Catherine</strong>: Okay, everybody, can I have your attention, please?</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -- DAY] </p>
+<p>(DET. VARTANN finds WARRICK.) </p>
+<p><strong>Det. Vartann</strong>: Hey, I did some digging. Withdrawal slip from Zero Adams' custodial account the day of the murder.</p>
+<p><strong>Warrick</strong>: How much?</p>
+<p><strong>Det. Vartann</strong>: $102,000 even.</p>
+<p><strong>Warrick</strong>: Who are the signatories?</p>
+<p>DET. VARTANN Zero Zdams and Frank Samuels.</p>
+<p>(DET. VARTANN shows WARRICK the slip.)</p>
+<p>CUT TO:<br />
+[INT. OFFICE -- DAY] </p>
+<p>(DET. VARTANN and WARRICK take their findings to FRANK SAMUELS.) </p>
+<p><strong>Frank Samuels</strong>: Uh, this is not my signature. This is Zero's account. I'm the custodian, but, um, I didn't sign this. Adanto. That son of a ...</p>
+<p><strong>Warrick</strong>: What? You knew about this?</p>
+<p><strong>Frank Samuels</strong>: Indirectly. We had it out.</p>
+<p>(Quick flashback to: [APARTMENT] FRANK is pacing the floors upset at ADANTO who sits there with his head in his hands.)</p>
+<p><strong>Frank Samuels</strong>: Tell you something, you degenerate. All I've heard from you is how much money you blow day-trading, and now you want to touch your brother's life savings? You can forget about it.</p>
+<p><strong>Adanto Adams</strong>: Don't you see? If I play perfect blackjack, there is no way we can lose ...</p>
+<p>(Around the corner out of sight, ZERO has his hands over his ears as he listens to them arguing.)</p>
+<p><strong>Frank Samuels</strong>: There is no perfect blackjack.</p>
+<p>(The men continue to argue.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(WARRICK puts a piece of paper in front of FRANK.)</p>
+<p><strong>Warrick</strong>: I'm going to need, uh, a sample of ... of your handwriting. Also need a sample from Zero.</p>
+<p>(FRANK takes the paper.)</p>
+<p><strong>Frank Samuels</strong>: Just copy this?</p>
+<p><strong>Warrick</strong>: Yes.</p>
+<p>(He writes.)</p>
+<p>(Fade to: ZERO ADAMS gives a sample of his writing.)</p>
+<p>(Fade to: The sheet.)</p>
+<p>CUT TO:<br />
+[INT. CSI - QUESTIONED DOCUMENTS] </p>
+<p>(RONNIE LITRE goes over his findings of the writing samples with WARRICK.) </p>
+<p><strong>Ronnie Litre</strong>: London letters is one of my favorite standard writing tests. Uh, the paragraph has every capital letter in the alphabet, as well as numbers one through nine.</p>
+<p><strong>Warrick</strong>: Just tell me who's lying.</p>
+<p><strong>Ronnie Litre</strong>: Uh, okay. Uh, Zero's not. Uh, his signature is authentic. Proof is in the &quot;Z.&quot; </p>
+<p>(RONNIE puts an enlarged sheet of paper on the table.)</p>
+<p><strong>Ronnie Litre</strong>: Okay, uh, look at the &quot;F&quot; in &quot;Frank Samuels&quot; from the withdrawal slip, and then look at the &quot;F&quot; from the London Letters.</p>
+<p>(He puts another sheet down on the table.)</p>
+<p><strong>Ronnie Litre</strong>: Different. As well as the &quot;S&quot; in &quot;Samuels,&quot; and the &quot;S&quot; in<br />
+&quot;Switzerland.&quot; Again, way off. I hate to tell you, Warrick, but I think your guardian might be telling you the truth. And from what I can see, Zero didn't forge it.</p>
+<p><strong>Warrick</strong>: Well, then who did? Adanto?</p>
+<p><strong>Ronnie Litre</strong>: (shrugs) Without a sample, I can't tell you.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY] </p>
+<p>(CATHERINE walks through the hallway when a smiling GREG finds her.) </p>
+<p><strong>Catherine</strong>: Start talking.</p>
+<p><strong>Greg</strong>: The blood Nick and Sara found in the back of the bus-- consistent with the victim.</p>
+<p><strong>Catherine</strong>: Not a surprise.</p>
+<p><strong>Greg</strong>: Semen found in the back of the bus matches your bus driver's DNA.</p>
+<p><strong>Catherine</strong>: Also, not a surprise.</p>
+<p><strong>Greg</strong>: Try this one. Bus driver's DNA has 13 alleles in common with the victim's unborn fetus.</p>
+<p>(GREG walks away leaving CATHERINE with her mouth open in surprise.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM]</p>
+<p>(CATHERINE interviews the bus driver DOUG HANSON in the presence of his attorney.)</p>
+<p><strong>Doug Hanson</strong>: I don't believe you.</p>
+<p><strong>Catherine</strong>: She was pregnant. Twelve weeks. And you're the father. Your attorney has reviewed your case file.</p>
+<p>(DOUG HANSON turns to his LAWYER.)</p>
+<p><strong>Lawyer</strong>: It's in there.</p>
+<p>[OBSERVATION ROOM]</p>
+<p>(NICK and SARA watch the interview.)</p>
+<p><strong>Nick</strong>: When he said he expected something on top of his $11.65 an hour, I thought he was talking about free car washes.</p>
+<p><strong>Sara</strong>: There's no evidence of anti- or paramortem rape. He'll claim it was consensual.</p>
+<p><strong>Nick</strong>: It's still rape. Under cover of authority.</p>
+<p>[INTERVIEW ROOM]</p>
+<p><strong>Doug Hanson</strong>: She swore she couldn't have kids. Too many turns at the coat hanger ... (CATHERINE shakes her head.) ... her words.</p>
+<p><strong>Catherine</strong>: Yeah. I imagine that you were pissed off when she broke the news. It kind of changes the power dynamics.</p>
+<p><strong>Nick</strong>: And she blabs to the warden. He's demoted from officer to inmate.</p>
+<p><strong>Sara</strong>: That is murder.</p>
+<p><strong>Doug Hanson</strong>: I swear, I had no idea.</p>
+<p><strong>Lawyer</strong>: Doug, let me handle this. If the DA had sufficient evidence to file murder charges, he would have.</p>
+<p><strong>Catherine</strong>: Well, your client's already been charged with a felony. DA has all the time in the world.</p>
+<p><strong>Doug Hanson</strong>: Look, I can't fight the evidence.</p>
+<p><strong>Lawyer</strong>: Doug, Doug, would you be quiet?</p>
+<p><strong>Doug Hanson</strong>: (to his lawyer) Look, I got her pregnant. I admit it. I'll do the time, okay? (to CATHERINE) But you can't prove that I killed her because I didn't.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. CSI - HALLWAY] </p>
+<p>(WARRICK finds HODGES.) </p>
+<p><strong>Warrick</strong>: How's the knife handle coming?</p>
+<p><strong>David Hodges</strong>: Handled. The substance Grissom scraped off was interior latex house paint with titanium dioxide.</p>
+<p><strong>Warrick</strong>: That would be glossy, right?</p>
+<p><strong>David Hodges</strong>: Mm-hmm.</p>
+<p><strong>Warrick</strong>: What's house paint doing on a knife handle?</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB]</p>
+<p>(WARRICK talks with GRISSOM.)</p>
+<p><strong>Grissom</strong>: In 1984, William Bergstrom asked old man Binion if he could come into his casino and bet a million dollars on one roll of craps. That November, he put a briefcase full of $1 million on the &quot;don't pass&quot; line, rolled a seven on the come-up.</p>
+<p><strong>Warrick</strong>: Loser.</p>
+<p><strong>Grissom</strong>: Soon after that, he killed himself.</p>
+<p><strong>Warrick</strong>: So, what are you getting at?</p>
+<p><strong>Grissom</strong>: If the wounds couldn't have been made by a handheld knife, maybe the knife wasn't handheld.</p>
+<p><strong>Warrick</strong>: How else are you going to stab a guy?</p>
+<p><strong>Grissom</strong>: Well, put the evidence aside for a second. What was Adanto's state of mind? You've had a few bad runs.</p>
+<p><strong>Warrick</strong>: Guy comes into town, convinces his brother to invest in some two-bit double-up system, ends up losing his life savings in a ten-card twenty-one. In a word: Desperate.</p>
+<p><strong>Grissom</strong>: So put that into context with your evidence.</p>
+<p>(WARRICK looks at the knife.)</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB] </p>
+<p>(CATHERINE walks into the lab.) </p>
+<p><strong>Catherine</strong>: Greg.</p>
+<p><strong>Greg</strong>: Do you think skin cells can survive fifty miles of rough desert road?</p>
+<p><strong>Catherine</strong>: That's what I asked you.</p>
+<p><strong>Greg</strong>: I analyzed every strip of fabric from the bus' chassis. Zilch. But I'm a guy who likes to tie up loose ends, so I asked Doc Robbins to send over the scraps that were tied to the body parts. That's where I found them. Fresh, abraded epithelials.</p>
+<p>(Quick flashback to: Someone ties the wrists to the bus. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: So, if the epithelial DNA matches the bus driver, this case is closed.</p>
+<p><strong>Greg</strong>: One problem. Double &quot;X&quot; marks the spot.</p>
+<p><strong>Catherine</strong>: It's female DNA? Well, I guess we're looking at an inmate.</p>
+<p><strong>Greg</strong>: Or female staff.</p>
+<p>(ROBBINS walks into the lab.)</p>
+<p><strong>Robbins</strong>: Excuse me. Am I interrupting?</p>
+<p><strong>Catherine</strong>: Oh, not if the vic's skull is in that bag.</p>
+<p>(ROBBINS pulls out the plastic bag with the skull in it and looks at it.)</p>
+<p><strong>Robbins</strong>: Alas, poor Yorick. (looks at GREG) I knew him, Horatio. </p>
+<p>(He shows the skull to CATHERINE.)</p>
+<p><strong>Robbins</strong>: The occipital bone retained the shape of the murder weapon.</p>
+<p>CUT TO:<br />
+[INT. ADAMS' RESIDENCE] </p>
+<p>(WARRICK looks around the apartment.) </p>
+<p>(Quick flashback of: [KITCHEN] ADANTO sits alone in the kitchen looking at the knife in his hands. End of flashback. Resume to present.)</p>
+<p>(WARRICK sighs.)</p>
+<p><strong>Warrick</strong>: Desperation.</p>
+<p>(He lifts up his flashlight and looks at the blood on the sofa cushion.)</p>
+<p>(Quick flashback to: ADANTO sits on the sofa. End of flashback.)</p>
+<p>(WARRICK steps forward and looks at the blood on the floor.)</p>
+<p>(Quick flashback to: ADANTO lying on the floor, the knife in his chest. End of flashback.)</p>
+<p>(WARRICK continues to look around. He sees the damaged wood bits on the floor. He kneels down to look at it. Then, he looks up and sees the damage in the wall.)</p>
+<p>(Quick flashback to: ADANTO wedges the knife in the wall.)</p>
+<p><strong>Adanto Adams</strong>: (voice overs) No way we can lose.</p>
+<p>(ADANTO turns around, his back to the knife.)</p>
+<p><strong>Adanto Adams</strong>: (V.O.) This is Vegas. ADANTO ADAMS: (V.O.) Anything can happen.</p>
+<p>(He slams his back into the knife. Over and over again.)</p>
+<p>(He staggers over to the sofa and rests on it for a moment. It's not enough. He looks at the knife again.)</p>
+<p><strong>Adanto Adams</strong>: (V.O.) I found a way to make us some money.</p>
+<p>(He grits his teeth, gets up and heads back to the knife.)</p>
+<p><strong>Adanto Adams</strong>: We're going to be rich like we always talked about. I love you, kid.</p>
+<p><strong>Zero Adams</strong>: I love you, too.</p>
+<p>(He slams his chest into the knife.)</p>
+<p>(End of flashback.)</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM]</p>
+<p><strong>Zero Adams</strong>: He killed himself?</p>
+<p><strong>Warrick</strong>: I'm afraid so.</p>
+<p><strong>Zero Adams</strong>: No. Why would he do that?</p>
+<p><strong>Det. Vartann</strong>: Your brother took out an insurance policy with an accidental death clause. It means that if he was murdered, the beneficiary would be entitled to a million dollars. You're the beneficiary.</p>
+<p><strong>Warrick</strong>: Unfortunately, the coroner is going to rule the case a suicide ... and not a homicide, which makes that policy worthless.</p>
+<p><strong>Zero Adams</strong>: I-I was just trying to help my brother. Oh ... (groans) I want Frank.</p>
+<p><strong>Det. Vartann</strong>: Listen to me. Frank will be facing charges of obstructing justice. Do you understand? The court will appoint you another guardian.</p>
+<p><strong>Zero Adams</strong>: No, I don't want another guardian. (shouts) I want Frank!</p>
+<p>(He looks imploringly at WARRICK.)</p>
+<p><strong>Warrick</strong>: (softly) I'm sorry.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI -- LAB] </p>
+<p>(The skull is on a rotating metal plate as it's being scanned into computer.) </p>
+<p><strong>Nick</strong>: This program is scanning the topography of the skull and building a three-dimensional image based on the data. It should be done in a second, but you can already see two concentric arcs. </p>
+<p>(The monitor shows the 3-d image of the skull.)</p>
+<p><strong>Nick</strong>: Inner arc is impressed just a little bit deeper into the skull. Check it out.</p>
+<p>(It pauses on the wound.)</p>
+<p><strong>Sara</strong>: Like a crater in a crater.</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p><strong>Sara</strong>: Can you enlarge to full screen?</p>
+<p><strong>Nick</strong>: There. </p>
+<p>(On the monitor, the image of the skull focuses on the injury.)</p>
+<p><strong>Nick</strong>: Small ... </p>
+<p>(The image moves even closer to the injury.)</p>
+<p><strong>Nick</strong>: ... evenly spaced indentations on the edge of the inner arc.</p>
+<p><strong>Sara</strong>: I know what that is.</p>
+<p>(The shape of the injury fades into the shape of a locker padlock.)</p>
+<p>(The CGI padlock flips over and dissolves into the real padlock on the locker.)</p>
+<p>DISSOLVE TO:</p>
+<p>[INT. FALLBROOK WOMEN'S CORRECTIONAL FACILITY - CELL -- DAY]</p>
+<p>(CLOSE-UP: PADLOCK on locker.) </p>
+<p>(CATHERINE lifts up the padlock on CHRISTINE'S locker and sprays it to test for blood.)</p>
+<p><strong>Christine</strong>: Skinny-ass feather worth as much trouble dead as she was alive? I didn't ask her to move in here.</p>
+<p><strong>Warden Hutton</strong>: No one asked you.</p>
+<p>(CATHERINE finds nothing. She turns and looks at BRASS.)</p>
+<p><strong>Brass</strong>: So, Warden, baby girl was transferred to this cell about a week ago?</p>
+<p><strong>Warden Hutton</strong>: That's right.</p>
+<p><strong>Brass</strong>: Where was she last housed?</p>
+<p><strong>Warden Hutton</strong>: &quot;D&quot; block.</p>
+<p>CUT TO:<br />
+[INT. FALLBROOK WOMEN'S CORRECTIONAL FACILITY - D BLOCK -- DAY]</p>
+<p>(CATHERINE tests the padlock on JUANITA ROYA'S locker. The padlock glows.)</p>
+<p>(She looks at the padlock and find something else.)</p>
+<p><strong>Catherine</strong>: (softly) White fibers.</p>
+<p>(CATHERINE looks around the small cell.)</p>
+<p><strong>Catherine</strong>: Warden, how often do the inmates have their laundry washed?</p>
+<p><strong>Warden Hutton</strong>: Twice a week: One day for colors, one day for whites. Tomorrow's a white day.</p>
+<p>(CATHERINE grabs the laundry bag and checks it.)</p>
+<p><strong>Catherine</strong>: You don't mind if I empty out your laundry bag, do you?</p>
+<p>(CATHERINE goes through the whites in the bag. She walks over to JUANITA.)</p>
+<p><strong>Catherine</strong>: Juanita, would you remove your shoes, please?</p>
+<p>(JUANITA doesn't move.)</p>
+<p><strong>Warden Hutton</strong>: Now.</p>
+<p>(JUANITA removes her left shoe.)</p>
+<p><strong>Warden Hutton</strong>: The other.</p>
+<p>(JUANITA removes her right shoe. CATHERINE checks under JUANITA'S feet and finds a blood stain under her right foot.)</p>
+<p><strong>Catherine</strong>: A lock in a sock.</p>
+<p>CUT TO:<br />
+[EXT. FALLBROOK WOMEN'S CORRECTIONAL FACILITY - (STOCK) -- DAY]</p>
+<p>[INT. FALLBROOK WOMEN'S CORRECTIONAL FACILITY - INTERVIEW ROOM -- DAY]</p>
+<p>(CATHERINE interviews JUANITA ROYA.)</p>
+<p><strong>Catherine</strong>: Juanita, I read your rap sheet. Possession with intent to sell. Your old man was using you as a drug meal, right?</p>
+<p><strong>Juanita Roya</strong>: He was supposed to protect me. He said if I got caught, he'd take the fall. After the drug raid, he disappeared. Vanished. I get locked up. I should've known better.</p>
+<p><strong>Catherine</strong>: (sighs) Well ... my ex drained my bank account. I was saving up for this nice little house for my daughter and me, and ... </p>
+<p><strong>Juanita Roya</strong>: as soon as you let 'em in, huh?</p>
+<p>(JUANITA moves her arm and CATHERINE sees a tattoo of a half a heart on her arm.) </p>
+<p><strong>Catherine</strong>: (sighs) Gets lonely in prison, doesn't it? Was it the first time you had a relationship with a woman?</p>
+<p>(JUANITA looks at CATHERINE.)</p>
+<p><strong>Catherine</strong>: Tattoo. Baby Girl had the other half.</p>
+<p><strong>Juanita Roya</strong>: I'm not ... like that.</p>
+<p><strong>Catherine</strong>: It wouldn't be the first time to cross gender lines in search of some ... affection.</p>
+<p><strong>Juanita Roya</strong>: It was the first time I felt that way about anyone.</p>
+<p><strong>Catherine</strong>: And Baby Girl ended up pregnant. It's not like she could hide that from you.</p>
+<p><strong>Juanity</strong>: She said she had the flu. Yeah, right.</p>
+<p>(Quick flashback to: BABY GIRL is throwing up in the toilet. JUANITA is angry.)</p>
+<p><strong>Juanita Roya</strong>: That's what you get for lying to me, for sneaking around.</p>
+<p>(Flash to: BABY GIRL walks up to the bars, her back is to JUANITA.)</p>
+<p><strong>Antoinette Stella (Baby Girl)</strong>: I was just playing him, Juanita. I was doing it for us.</p>
+<p><strong>Juanita Roya</strong>: (angrily) You're a liar!</p>
+<p><strong>Antoinette Stella (Baby Girl)</strong>: Want to know the truth, Juanita? In one month, I am out of this hole ... and away from you.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Juanita Roya</strong>: And then, later that night, she said she was sorry, and we made up. The next day, she got the Warden to transfer her ... out of our cell. She wasn't playing Doug. She was playing me.</p>
+<p><strong>Catherine</strong>: So you killed her?</p>
+<p><strong>Juanita Roya</strong>: She promised to end it with Doug.</p>
+<p>(Quick flashback to: [THE BUS] JUANITA goes to the bus to clean it and finds BABY GIRL and DOUG HANSON inside. She turns and runs out of the bus.)</p>
+<p>(Cut to: [THE CELL] JUANITA takes the pad lock off the locker and slips it into a sock. She angrily hits the bedding.)</p>
+<p>(Cut back to: [THE BUS] DOUG HANSON walks out of the bus. JUANITA slips into the bus where she finds BABY GIRL putting her clothes on. She walks up behind BABY GIRL and hits her on the head with the sock. BABY GIRL falls to the floor.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: You tied her body to the undercarriage of the bus and assumed we'd think that she died while attempting to escape ... right?</p>
+<p><strong>Juanita Roya</strong>: If there's one thing I learned in prison ... it's to stick up for myself ... because nobody else will.</p>
+<p><strong>Catherine</strong>: I think that you should know that Baby Girl was telling the truth about the transfer. It wasn't her request. It was Warden Hutton's decision. </p>
+<p>(CATHERINE shows JUANITA the necklace.)</p>
+<p><strong>Catherine</strong>: She was caught trying to smuggle in this necklace and was reprimanded. I'm guessing it was for you.</p>
+<p>(JUANITA looks at the necklace and cries.)</p>
+<p>CUT TO:<br />
+[EXT./INT. FALLBROOK WOMEN'S CORRECTIONAL FACILITY - DAY]</p>
+<p>(Various cuts of: JUANITA is escorted through the facility and put back into her cell. The cell door closes behind her.)</p>
+<p>(JUANITA climbs up on the top bunk and lies down.)</p>
+<p>(Camera holds on JUANITA.)</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-
-
-Man :  Come on!
-
-Woman : Honey, just pass him.
-
-Man :  Move it!
-Woman : Calm down and just pass him.
-
-
-
-
-
-
-Catherine:  Hey, Jim!
-
-Catherine: We got a call. A possible 4-19. Is there a dead body or not?
-Brass: That arm crash-landed on the windshield of the car. According to the driver, it shot out from under the bus. Generally speaking, where there's an arm, there's a body.
-Nick: What say we check out the bus?
-Brass: Good call.
-
-Brass: Now, the, uh, passengers were on their way to St. Matthew's Church in Pioche. They were from a work release program at Nevada Correctional Institution.
-
-Catherine: Okay, well, I got some blood on the wheel well.
-
-Catherine: Oh, yeah, that's a definite on the 4-19. 
-
-Catherine: Um, well ... appears to be female. Caucasian.
-Nick: Tied to the undercarriage ... maybe.
-Brass: Hitch a ride under a bus. Well, that's one way to get out jail.
-Nick: Yeah, and I bet this big boy spit out body parts all the way down the road.
-Catherine: So ... the bus is traveling sixty-five miles per hour. What's the distance from the tip of her nose to the tip of her toes?
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Catherine: Well, looks like she used strips from a white cotton sheet.
-Nick: Yeah, use whatever's available when you're breaking out of prison, I guess.
-
-
-Catherine: Low thread count. Average tensile strength wasn't strong enough to support her weight.
-
-Nick: The torque of the spinning axle ripped her apart like the rubber off a bad retread.
-Catherine: Yep. If she'd used a nylon rope, she'd be on her way to Tijuana.
-Nick: Right. I'll call auto detail, have the bus sent to the garage, yeah?
-Catherine: Oh, hey, after that, grab Sara and go directly to jail. I'm going to supervise this body part collection.
-
-
-
-
-Catherine: Okay, David, I think that's it.
-
-David Phillips: I'll get these parts to Dr. Robbins. He'll start putting her back together.
-
- 
- 
-
-
-
-
-
-
-Warrick: Helter-skelter.
-Grissom: Yeah ... except there's no blood spatter on the walls or the ceiling.
-Warrick: We have the murder weapon. He was stabbed in the chest.
-
-
-
-
-Landlord: There's two of them in that apartment. The name's Adanto Adams. He don't live in that apartment. He's visiting from out of town. That's Zero's little brother.
-Det. Vartann: 'Zero'?
-Landlord: Zero Adams. He's the one who lives there.
-
-
-Grissom: Well, unless he was bending over the sofa with his chest pushed against this cushion, this bloodstain is inconsistent with that wound.
-Grissom: Paul, would you turn him over for us?
-Paul: Okay.
-
-Warrick: Oh, yeah. Stabbed in the chest and the back.
-
-
-
-Det. Vartann: So, uh, where is this Zero now?
-Landlord: I don't know. I'm not his mother. I'm his landlord.
-Det. Vartann: Well, if you see him, give me a call.
-
-Landlord: Yeah, yeah, sure.
-
-
-
-
-Catherine: When I do a jigsaw puzzle, I like to start with a corner piece.
-Robbins: When the puzzle's a body, the corner piece is the pelvis. Oh, uh, Nick ID'd your vic. She missed her last bed check. Convict number sixty-nine twenty.
-
-Catherine: Antoinette Stella. Two-year sentence for identity theft. She was due for release next month. Guess she was in a hurry.
-Robbins: No, she wasn't trying to escape. She was murdered. 
-
-Robbins: I dissected her arm.
-
-Robbins: The blood in the brachial artery is clotted, which is indicative of a post-mortem laceration.
-Catherine: Have you determined the cause of death?
-Robbins: Yep. Cranio-cerebral injury...
-
-Robbins: ... due to blunt-force trauma. Depressed skull fracture imbedded with tiny white fibers. Given the depth and position of the, uh, fracture, I'd say she was hit on the head with something hard on the inside and white and fuzzy on the outside.
-Catherine: I'd like a clean look at that fracture.
-Robbins: Sure. I'll start her bath.
-Catherine: Anything else?
-Robbins: Well, you might want to check out her left forearm.
-
-Catherine: Birthmark?
-Robbins: Rap sheet's referenced &quot;dermatological anomalies.&quot; According to her, she didn't have any. I'll take a slice down to histology.
-
-
-
-
-
-Warden Hutton: We locked down as soon as we got the call. We do bed checks six times a day. All inmates were accounted for at thirteen hours.
-Nick: What time did the bus leave for church?
-Warden Hutton: Thirteen-thirty.
-Harris : Hey, sexy, how 'bout you come back here on your day off? 
-
-Harris : No gag reflex.
-Warden Hutton: Watch it, Harris. Got a drawer full of C-9s with your name on
-'em.
-
-Inmate: What are you lookin' at?
-
-Nick: What can you tell us about the vic?
-Warden Hutton: Antoinette? She was popular with the other inmates. No enemies to speak of.
-
-Warden Hutton: This was Antoinette's cell. Christine, you're going to step out. Officer.
-
-Warden Hutton: When's the last time you saw baby girl?
-Christine: I'll need to check my calendar.
-Warden Hutton: Don't get stupid on me, Christine.
-Nick: Baby girl -- was that a street name?
-Warden Hutton: Yes. That's what everyone called her. Christine?
-Christine: I saw baby girl at lunch 'bout an hour before we got on the bus.
-
-Christine: Hey, that's my locker. I didn't take none of Baby's stuff.
-Warden Hutton: Didn't say you did.
-Christine: Look ... I didn't hardly know baby girl. She only lived up in here eight days.
-Sara: Eight days?
-Warden Hutton: In this cell. Few weeks ago, I found her smuggling contraband.
-Christine: It was just a silver necklace.
-Warden Hutton: Inmates aren't allowed jewelry. It wasn't a major infraction, but I transferred her cell.
-Sara: Makeup, deodorant, shampoo.
-Warden Hutton: Inmates are allowed commissary visits once a month, unless they rack up two weeks in nights.
-
-Sara: Do you keep track of purchases?
-Warden Hutton: I can get you a list. And just for the record, in the state of Nevada, there's never been a homicide in a Female Correctional Facility.
-Sara: Until now.
-
-Christine: What are you doing?
-Nick: I'm ruling you out as a suspect, ma'am.
-
-Nick: No evidence of blood.
-Christine: I could've told you that.
-Sara: Warden, could you show us where the bus was parked before it left the facility?
-
-
-
-Doug Hanson: The bus was stationed right here.
-Sara: Are you the only driver?
-Doug Hanson: Only bus driver. Got my CDLC last May.
-MAN  Attention, inmates ...
-Sara: Officer, before you drove out of here, did you inspect the vehicle?
-Doug Hanson: Miss ... Sidle, I don't get time to scratch my ass. I haven't had a junior officer in my department in two years. Now, usually, I work the road, and when the warden asks, I take inmates on field trips.
-Sara: Did you know the dead woman, baby girl, Antoinette Stella?
-Doug Hanson: Start seeing 'em as real people, start carin' when they go back to their pimp dealer scumbag boyfriend?
-Sara: That's enlightened.
-Doug Hanson: That's reality.
-
-Nick: No sign of a struggle, no evidence of a body drag. If the attack didn't happen in her cell or in here, maybe it happened on the bus.
-Sara: Who maintains your transpo fleet?
-
-Doug Hanson: Fleet? We got three antique buses. Inmates do all the work.
-Nick: You allow inmates to service your prison vehicles?
-Doug Hanson: You bet. On Saturday, I even bring in my SUV. Juanita washes it.
-
-Doug Hanson: Ain't that right, Juan'a? I've got to get something on top of my
-$11.65 an hour.  Look, we're in the middle of the desert. We're a hundred miles from the pit of nowhere.
-Sara: Is that gate always unlocked?
-Doug Hanson: It's not like someone's going to hot-wire the bus and hightail it out of here.
-Sara: Right, so essentially anyone in the prison population could have walked into the garage, onto the bus and no one would have said boo?
-Doug Hanson: Boo.
-
-
-
-
-
-
-
-
-Frank Samuels:  I got a call at work and was told to get over here right away and he's not here.
-
-
-Warrick: Detective, I got your page.
-
-Det. Vartann: Hey, we were canvassing the area when Mr. Samuels showed up. He says he's the tenant's guardian. He's got questions.
-Warrick: So do I.
-
-Warrick: Mr. Samuels, I'm Warrick Brown. I'm from the crime lab.
-Frank Samuels: What happened to Zero? There's crime tape on his door. These guys won't let me in.
-Warrick: His brother was murdered.
-Frank Samuels: Adanto?
-Warrick: Did you know him?
-Frank Samuels: Yeah, I've known them both since they were kids.
-
-Zero Adams: Frank ...
-Frank Samuels: Zero.
-Zero Adams: I'm so sorry. I'm sorry.
-
-
-
-
-Nick: Absorption.
-
-Sara: Blood?
-Nick: Yeah, and it's more than just a paper cut.
-Sara: I'll swab it for DNA.
-
-
-Nick: Florescence. Bluish-white.
-
-Nick: Acid phosphatase tests positive.
-Sara: What is semen doing in the back of a female prison bus?
-
-
-
-
-
- 
- 
-Frank Samuels: It's okay, Zero. Just answer the questions.
-Zero Adams: I said I was sorry 'cause I'm not supposed to be out by myself.
-Warrick: So, why did you go out?
-Zero Adams: Well, I came home from special school, I found Adanto in the kitchen.
-
-Zero Adams: I love you.
-
-Warrick: When was the last time you talked to your brother?
-Zero Adams: Just before school.
-
-Adanto Adams: What I'm about to tell you, you can't tell anybody.
-Zero Adams: No. No, I won't. Scout's honor.
-Adanto Adams: We're going to be rich like we always talked about. 
-
-Adanto Adams: I love you, kid.
-Zero Adams: I love you, too.
-
-Zero Adams: Said he was going to buy me a shiny new car and a driver to take me anywhere I wanted to go. 
-
-Zero Adams:  He said we were going to be rich.
-
-
-
-[INT. FALLBROOK WOMEN'S CORRECTIONAL FACILITY - WARDEN HUTTON'S OFFICE --
-EVENING] 
- 
-Warden Hutton: Juanita's in charge of bus detail. I'm sure she'll be happy to answer your questions.
-Catherine: Juanita? Do you recall the last time that you washed out the interior of the bus?
-Juanita Roya: Yesterday, a few hours before we left for work release.  If something's missing, it wasn't me. You can check my locker.
-Catherine: Did you notice anything unusual in the back of the bus?
-Juanita Roya: Like what?
-Catherine: Blood or ... semen?
-Juanita Roya: Didn't see any blood.
-Catherine: What about semen?
-Juanita Roya: Don't they still do it in the backseat in the free world?
-Catherine: Yeah. But I doubt if conjugal visits are permitted in a prison bus.
-Juanita Roya: Conjugal visits aren't permitted anywhere. The ACLU was going to bring a case that's ...
-
-Juanita Roya: The only men permitted in this correctional facility are the correctional officers.
-Warden Hutton: It's a class &quot;d&quot; felony for a co to have sexual contact with an inmate.
-Catherine: Lots of things are felonies, but people still do them. Otherwise, you and I'd be out of a job.
-
- 
-(OPEN on the evidence bag label:
-Article: CLOTH FIBERS
-Data Found, Located or Developed: 3/11/04
-Where This Article Was Found: SKULL
-Investigation Officer: C. WILLOWS
-002-12654-4655-01
-David Hodges: The white fibers from the head wound were straight out of any Wal-market. 
-
-David Hodges: Seventy-eight percent cotton, fourteen percent polyester and seven percent nylon elastic.
-Nick: Sounds like we're looking for a lethal pair of white underpants.
-David Hodges: Yeah, or a bra, pair of socks. The skin discoloration, that was a real challenge. You know, uh, on her forearm. Looked like a birthmark. Yeah, that skin sample was supposed to be sent to histology. Yeah, well, they kicked it back to me. Uh, the coloration was an adulterant. Aluminum chelate of carminic acid.
-Nick: Aluminum ch ... ? I've never heard of this before.
-Sara: It's a cochineal.
-Nick: A what?
-Sara: A cochineal. They're scaled insects. Carminic acid is found in their intestines. 
-
-Sara:  It's bitter, so it discourages predators. 
-
-Sara: As a dye, it's been prized for centuries.
-David Hodges: Since when did you become an insects expert?
-Sara: Entomology textbook. Grissom gave it to me last Christmas. 
-David Hodges: Oh. 
-Sara: When I can't sleep, I read.
-
-Nick: Funny, I didn't get a Christmas gift from Grissom. Did you?
-David Hodges: No. Uh, so, assuming that she was tattooed in prison, how'd she get a hold of the bugs?
-Sara: Well, um, cochineals feed on cactus plants. They probably grow wild in the prison area.
-
-Sara:  Baby girl could've smashed up a few bugs, used the carminic acid to tattoo herself.
-
-
-Sara: Do you have a photo of the tattoo?
-David Hodges: Yeah.
-
-Nick: Looks like a half moon. Gang moniker, maybe.
-Sara: Every woman knows what that is. It's a heart. Well, half a heart.
-
-Nick: Oh. Yeah. Where's the other half?
-
-
-
-
-
-Warrick: Mr. Samuels, we found your prints on the knife used to kill Adanto Adams.
-Frank Samuels: Now, wait a minute. I didn't stab Adanto.
-
-Frank Samuels: Oh, my god. Zero?! FRANK SAMUELS: Zero?!
-
-
-Warrick: But you didn't call 9-1-1. Or the police. You just took off?
-Det. Vartann: That's a felony.
-Frank Samuels: Look, I was concerned about Zero. He's a nine-year-old kid in a man's body. I didn't know if he did it. Zero's like a son to me. I've been his guardian since he was fourteen. Everybody used to make fun of him. Called him &quot;Zero.&quot; I told him only special people get nicknames.
-Warrick: Where's his parents now?
-Frank Samuels: They passed away. He left a small inheritance for his boys and ... Zero doesn't spend much.
-Det. Vartann: Okay, I'll ask again. You found the body and then you went to work?
-Frank Samuels: I just needed some time to think.
-Warrick: Well, you'll get plenty of that now.
-Det. Vartann: Twenty-four hours in a holding cell. Come on. Let's go.
-
- 
- 
-Robbins: It's very peculiar. Take a look at his chest wound. No right or left angulation. No up or down. Straight in, straight out.
-
-Grissom: Well, the crime scene suggests he was moving around his apartment while being stabbed so, &quot;straight in, straight out&quot; doesn't seem likely.
-Robbins: Well, one time is an anomaly. Five times? 
-
-Robbins: All four back wounds are clustered and parallel.
-
-Robbins: And the chest wound is at the same distance from the crown of his head as the other four.
-Grissom: What about defensive wounds?
-Robbins: There are none.
-Grissom: Okay, so, he's running around his apartment trying to get away from his attacker and he incurs no nicks or cuts?
-Robbins: Nope.
-Grissom: What else?
-Robbins: Well, I found this in his stomach.
-
-Robbins: Looks like a paper wad of some sort.
-Grissom: Maybe a treasure map.
-
-
-
-Ronnie Litre: Good thing this guy's not concerned with his cholesterol. He ate fatty foods. Paper's pretty well preserved. Uh, most of the ink is washed off. 
-
-Ronnie Litre: Whoa, whoa, whoa, whoa. There's something there in the corner.
-
-Ronnie Litre: Help me put it in there, Warrick.
-
-Warrick:  Uh ... &quot;P-A... L...&quot; Oh, the Palms. I know what this is. It's a receipt for a marker.
-
-Warrick: For ten grand.
-
-
-
-
-Manager: Oh, yeah, that's him. Adanto Adams. Said he wanted to play BJ in the no-limit area. So I had the cage check his credit.  Qualified for ten grand.
-Worker: Thank you.
-Manager: And I wrote him up.
-Warrick: Did he have some kind of a system?
-Manager: They all got systems. This one was a small-time double-up type thing. Bet 100, lose; bet 200 lose. Bet four, lose. Double-up-till-you-win type thing. 
-
-Adanto Adams: Now, don't you get anything other than a 20? Hmm?
-
-
-Manager: The one thing about systems in this town -- if you got one, we want you here.
-Warrick: Can I get a copy of that footage?
-Manager: Listen, you look familiar. I seen you before? You been in here?
-Warrick: Maybe just on a case. How about that footage?
-
-
-
-Sara: Hey, got your page. What's up?
-Catherine: Oh, the Warden faxed over Baby Girl's commissary purchases. She bought one twenty-count box of tampons every month like clockwork, but check out the last few months.
-
-Sara: What are you thinking? She might not have needed any for, oh, nine months? 
-Catherine: I think Baby Girl was having a baby.
-
- 
- 
-Robbins: Skull's not ready yet. Enzymes are still eating away at the proteins.
-Catherine: Did you, by any chance, do a pregnancy test on Baby Girl?
-Robbins: I thought she'd been incarcerated for the last 23 months.
-Catherine:  She had been.
-
-
-Robbins: Urine ... you're out.
-
-Robbins: Okay ...
-
-Catherine: Home Pregnancy Test, huh?
-Robbins: About ten times cheaper than the brand sold by our medical supply company, and just as accurate.
-
-Catherine: Eye on the bottom line. I find that very ...
-Robbins:  ... sexy?
-Catherine: &quot;Prudent&quot;. But that was a good try.
-
-Robbins: Yeah, plus sign. You know what that means.
-Catherine: Who's your daddy?
-
-
-
-;
-
-
-
- 
- 
-Warrick: Archie?
-Archie: Hey. Got your surveillance tape of Zero's brother.
-Warrick: Roll it. Now, according to the pit boss, the kid was playing a double-up system. What I want to know is, how many hands did he back himself up?
-Archie: Let's find out.
-
-Archie: First hand, hundred. Loser.
-Archie: Second hand, two hundred. Lose.
-Archie: Third hand, four hundred. Lose.
-
-Archie: Fourth hand, Eight hundred. So he's doubling every bet.
-Warrick: Yeah, that's the classic double-up system. 
-
-Warrick: Go back out wide.
-
-Archie: Looks like he's all in.
-Warrick: Tenth bet, $51,200. Adanto has 20. He sticks. She has two up. Another two, and thats four. Two, three, two. That's eleven. Ace, ace, ace, ace. Fifteen. Six.
-Archie: Ten-card twenty-one. What are the odds of that?
-Warrick: The record's an eleven-card twenty-one. That was back in '78.
-
-Archie: So he loses $102,300 in ten hands. What's the $10,000 marker for?
-Warrick: Try to chase back the 102.
-
-Warrick: He lost it all.
-
-Warrick: He swallowed his loss.
-
-
- 
-Woman:  All COs sign in with the desk sergeant. All COs sign in with the desk sergeant. 
-
-Warden Hutton: Miss Willows. My COs are level 3 peace officers. I will not subject them to a DNA lineup that is nothing more than a wild goose chase.
-Catherine: We have probable cause to believe that a Correctional Officer was involved with Baby Girl.
-Warden Hutton: Involved in getting her pregnant, maybe, but that's a far cry from homicide.
-Catherine: Nevertheless, as you pointed out, s*x with an inmate is a crime. Which is the basis for my warrant. 
-
-
-Catherine: Okay, everybody, can I have your attention, please?
-
- 
- 
-Det. Vartann: Hey, I did some digging. Withdrawal slip from Zero Adams' custodial account the day of the murder.
-Warrick: How much?
-Det. Vartann: $102,000 even.
-Warrick: Who are the signatories?
-DET. VARTANN Zero Zdams and Frank Samuels.
-
-
- 
- 
-Frank Samuels: Uh, this is not my signature. This is Zero's account. I'm the custodian, but, um, I didn't sign this. Adanto. That son of a ...
-Warrick: What? You knew about this?
-Frank Samuels: Indirectly. We had it out.
-
-Frank Samuels: Tell you something, you degenerate. All I've heard from you is how much money you blow day-trading, and now you want to touch your brother's life savings? You can forget about it.
-Adanto Adams: Don't you see? If I play perfect blackjack, there is no way we can lose ...
-
-Frank Samuels: There is no perfect blackjack.
-
-
-
-Warrick: I'm going to need, uh, a sample of ... of your handwriting. Also need a sample from Zero.
-
-Frank Samuels: Just copy this?
-Warrick: Yes.
-
-
-
-
- 
- 
-Ronnie Litre: London letters is one of my favorite standard writing tests. Uh, the paragraph has every capital letter in the alphabet, as well as numbers one through nine.
-Warrick: Just tell me who's lying.
-Ronnie Litre: Uh, okay. Uh, Zero's not. Uh, his signature is authentic. Proof is in the &quot;Z.&quot; 
-
-Ronnie Litre: Okay, uh, look at the &quot;F&quot; in &quot;Frank Samuels&quot; from the withdrawal slip, and then look at the &quot;F&quot; from the London Letters.
-
-Ronnie Litre: Different. As well as the &quot;S&quot; in &quot;Samuels,&quot; and the &quot;S&quot; in
-&quot;Switzerland.&quot; Again, way off. I hate to tell you, Warrick, but I think your guardian might be telling you the truth. And from what I can see, Zero didn't forge it.
-Warrick: Well, then who did? Adanto?
-Ronnie Litre:  Without a sample, I can't tell you.
-
- 
- 
-Catherine: Start talking.
-Greg: The blood Nick and Sara found in the back of the bus-- consistent with the victim.
-Catherine: Not a surprise.
-Greg: Semen found in the back of the bus matches your bus driver's DNA.
-Catherine: Also, not a surprise.
-Greg: Try this one. Bus driver's DNA has 13 alleles in common with the victim's unborn fetus.
-
-
-
-
-
-Doug Hanson: I don't believe you.
-Catherine: She was pregnant. Twelve weeks. And you're the father. Your attorney has reviewed your case file.
-
-Lawyer: It's in there.
-
-
-Nick: When he said he expected something on top of his $11.65 an hour, I thought he was talking about free car washes.
-Sara: There's no evidence of anti- or paramortem rape. He'll claim it was consensual.
-Nick: It's still rape. Under cover of authority.
-
-Doug Hanson: She swore she couldn't have kids. Too many turns at the coat hanger ...  ... her words.
-Catherine: Yeah. I imagine that you were pissed off when she broke the news. It kind of changes the power dynamics.
-Nick: And she blabs to the warden. He's demoted from officer to inmate.
-Sara: That is murder.
-Doug Hanson: I swear, I had no idea.
-Lawyer: Doug, let me handle this. If the DA had sufficient evidence to file murder charges, he would have.
-Catherine: Well, your client's already been charged with a felony. DA has all the time in the world.
-Doug Hanson: Look, I can't fight the evidence.
-Lawyer: Doug, Doug, would you be quiet?
-Doug Hanson:  But you can't prove that I killed her because I didn't.
-
-
-
-
-
- 
- 
-Warrick: How's the knife handle coming?
-David Hodges: Handled. The substance Grissom scraped off was interior latex house paint with titanium dioxide.
-Warrick: That would be glossy, right?
-David Hodges: Mm-hmm.
-Warrick: What's house paint doing on a knife handle?
-
-
-
-Grissom: In 1984, William Bergstrom asked old man Binion if he could come into his casino and bet a million dollars on one roll of craps. That November, he put a briefcase full of $1 million on the &quot;don't pass&quot; line, rolled a seven on the come-up.
-Warrick: Loser.
-Grissom: Soon after that, he killed himself.
-Warrick: So, what are you getting at?
-Grissom: If the wounds couldn't have been made by a handheld knife, maybe the knife wasn't handheld.
-Warrick: How else are you going to stab a guy?
-Grissom: Well, put the evidence aside for a second. What was Adanto's state of mind? You've had a few bad runs.
-Warrick: Guy comes into town, convinces his brother to invest in some two-bit double-up system, ends up losing his life savings in a ten-card twenty-one. In a word: Desperate.
-Grissom: So put that into context with your evidence.
-
-
- 
- 
-Catherine: Greg.
-Greg: Do you think skin cells can survive fifty miles of rough desert road?
-Catherine: That's what I asked you.
-Greg: I analyzed every strip of fabric from the bus' chassis. Zilch. But I'm a guy who likes to tie up loose ends, so I asked Doc Robbins to send over the scraps that were tied to the body parts. That's where I found them. Fresh, abraded epithelials.
-
-Catherine: So, if the epithelial DNA matches the bus driver, this case is closed.
-Greg: One problem. Double &quot;X&quot; marks the spot.
-Catherine: It's female DNA? Well, I guess we're looking at an inmate.
-Greg: Or female staff.
-
-Robbins: Excuse me. Am I interrupting?
-Catherine: Oh, not if the vic's skull is in that bag.
-
-Robbins: Alas, poor Yorick.  I knew him, Horatio. 
-
-Robbins: The occipital bone retained the shape of the murder weapon.
-
- 
- 
-
-
-Warrick: Desperation.
-
-
-
-
-
-
-Adanto Adams:  No way we can lose.
-
-Adanto Adams:  Anything can happen.
-
-
-Adanto Adams:  I found a way to make us some money.
-
-Adanto Adams: We're going to be rich like we always talked about. I love you, kid.
-Zero Adams: I love you, too.
-
-
-
-Zero Adams: He killed himself?
-Warrick: I'm afraid so.
-Zero Adams: No. Why would he do that?
-Det. Vartann: Your brother took out an insurance policy with an accidental death clause. It means that if he was murdered, the beneficiary would be entitled to a million dollars. You're the beneficiary.
-Warrick: Unfortunately, the coroner is going to rule the case a suicide ... and not a homicide, which makes that policy worthless.
-Zero Adams: I-I was just trying to help my brother. Oh ...  I want Frank.
-Det. Vartann: Listen to me. Frank will be facing charges of obstructing justice. Do you understand? The court will appoint you another guardian.
-Zero Adams: No, I don't want another guardian.  I want Frank!
-
-Warrick:  I'm sorry.
-
-
- 
- 
-Nick: This program is scanning the topography of the skull and building a three-dimensional image based on the data. It should be done in a second, but you can already see two concentric arcs. 
-
-Nick: Inner arc is impressed just a little bit deeper into the skull. Check it out.
-
-Sara: Like a crater in a crater.
-Nick: Yeah.
-Sara: Can you enlarge to full screen?
-Nick: There. 
-
-Nick: Small ... 
-
-Nick: ... evenly spaced indentations on the edge of the inner arc.
-Sara: I know what that is.
-
-
-DISSOLVE TO:
-
- 
-
-Christine: Skinny-ass feather worth as much trouble dead as she was alive? I didn't ask her to move in here.
-Warden Hutton: No one asked you.
-
-Brass: So, Warden, baby girl was transferred to this cell about a week ago?
-Warden Hutton: That's right.
-Brass: Where was she last housed?
-Warden Hutton: &quot;D&quot; block.
-
-
-
-
-Catherine:  White fibers.
-
-Catherine: Warden, how often do the inmates have their laundry washed?
-Warden Hutton: Twice a week: One day for colors, one day for whites. Tomorrow's a white day.
-
-Catherine: You don't mind if I empty out your laundry bag, do you?
-
-Catherine: Juanita, would you remove your shoes, please?
-
-Warden Hutton: Now.
-
-Warden Hutton: The other.
-
-Catherine: A lock in a sock.
-
-
-
-
-Catherine: Juanita, I read your rap sheet. Possession with intent to sell. Your old man was using you as a drug meal, right?
-Juanita Roya: He was supposed to protect me. He said if I got caught, he'd take the fall. After the drug raid, he disappeared. Vanished. I get locked up. I should've known better.
-Catherine:  Well ... my ex drained my bank account. I was saving up for this nice little house for my daughter and me, and ... 
-Juanita Roya: as soon as you let 'em in, huh?
- 
-Catherine:  Gets lonely in prison, doesn't it? Was it the first time you had a relationship with a woman?
-
-Catherine: Tattoo. Baby Girl had the other half.
-Juanita Roya: I'm not ... like that.
-Catherine: It wouldn't be the first time to cross gender lines in search of some ... affection.
-Juanita Roya: It was the first time I felt that way about anyone.
-Catherine: And Baby Girl ended up pregnant. It's not like she could hide that from you.
-Juanity: She said she had the flu. Yeah, right.
-
-Juanita Roya: That's what you get for lying to me, for sneaking around.
-
-Antoinette Stella : I was just playing him, Juanita. I was doing it for us.
-Juanita Roya:  You're a liar!
-Antoinette Stella : Want to know the truth, Juanita? In one month, I am out of this hole ... and away from you.
-
-Juanita Roya: And then, later that night, she said she was sorry, and we made up. The next day, she got the Warden to transfer her ... out of our cell. She wasn't playing Doug. She was playing me.
-Catherine: So you killed her?
-Juanita Roya: She promised to end it with Doug.
-
-
-
-
-Catherine: You tied her body to the undercarriage of the bus and assumed we'd think that she died while attempting to escape ... right?
-Juanita Roya: If there's one thing I learned in prison ... it's to stick up for myself ... because nobody else will.
-Catherine: I think that you should know that Baby Girl was telling the truth about the transfer. It wasn't her request. It was Warden Hutton's decision. 
-
-Catherine: She was caught trying to smuggle in this necklace and was reprimanded. I'm guessing it was for you.
-
-
-
-
-
-
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=04x17+-+XX&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127370%23p127370" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=04x17+-+XX&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127370%23p127370" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127370%23p127370&amp;name=04x17+-+XX" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127370%23p127370" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=ae89fef2e9c505df52b776ecc77704da">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=ae89fef2e9c505df52b776ecc77704da">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=ae89fef2e9c505df52b776ecc77704da">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=ae89fef2e9c505df52b776ecc77704da">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

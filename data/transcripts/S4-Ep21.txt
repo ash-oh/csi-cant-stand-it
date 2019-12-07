@@ -1,672 +1,902 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) -- DAY] 
+[EXT. LAS VEGAS CITY (STOCK) - EARLY EVENING]
+[EXT. SPHINX AMUSEMENT PARK - PARKING LOT / ENTRACE - D" />
+<meta property="og:title" content="04x21 - Turn of the Screws - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) -- DAY] 
+[EXT. LAS VEGAS CITY (STOCK) - EARLY EVENING]
+[EXT. SPHINX AMUSEMENT PARK - PARKING LOT / ENTRACE - D" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13280" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>04x21 - Turn of the Screws - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13280" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13280">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=beb6b719ecdabe0aa8631ff00581ce06"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=beb6b719ecdabe0aa8631ff00581ce06">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=beb6b719ecdabe0aa8631ff00581ce06">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=beb6b719ecdabe0aa8631ff00581ce06">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=beb6b719ecdabe0aa8631ff00581ce06">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13280&amp;sid=beb6b719ecdabe0aa8631ff00581ce06&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>04x21 - Turn of the Screws</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127374">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127374">04x21 - Turn of the Screws</a></div>
+							<div class="pull-right text-right"><time datetime="2004-05-20T19:56:31Z">05/20/04 19:56</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) -- DAY] </p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - EARLY EVENING]</p>
+<p>[EXT. SPHINX AMUSEMENT PARK - PARKING LOT / ENTRACE - DAY]</p>
+<p>[EXT. VARIOUS RIDES - DAY]</p>
+<p>[EXT. SPHINX AMUSEMENT PARK -- PHARAOH'S FEVER RIDE (MOVING) - DAY]</p>
+<p>(The chains pull the roller coaster up the large ramp. The MOTHER and DAUGHTER sit in their seat just behind JOEY.) </p>
+<p><strong>Daughter</strong>: (groans) I don't wanna go! Ooh! Oh, mommy.</p>
+<p>(JOEY unbuckles his seat belt and turns around to look back at them.)</p>
+<p><strong>Joey</strong>: We're all going to die.</p>
+<p><strong>Daughter</strong>: Cut it out!</p>
+<p><strong>Mother</strong>: Joey, put your seat belt on. Now!</p>
+<p>(The cars reach the top and they can feel it as it starts its journey down the rails.)</p>
+<p><strong>Voice</strong>: Here we go! VOICE: Oh, my goodness! VOICE: Whoa!</p>
+<p>(A close up of the coaster wheels shows it wobbling.)</p>
+<p>(Various cuts of the roller coaster ride with some emphasis on the wheels.)</p>
+<p>(The roller coaster comes to a stop at the platform.)</p>
+<p><strong>Mother</strong>: Okay, guys, come on.</p>
+<p>(The family gets off of the ride.)</p>
+<p><strong>Daughter</strong>: That was so fun.</p>
+<p>(The next set of passengers board the coaster ride.)</p>
+<p><strong>Zack Lawrence</strong>: All right, ladies and gentlemen, welcome to Pharaoh's Fever. Buckle up. Get ready to scream.</p>
+<p>(The passengers are locked in and the ride starts.)</p>
+<p>(The young family steps out onto the walkway and heads over to the nearby food vendor. The kids are still excited about the ride.)</p>
+<p><strong>Joey</strong>: That was so awesome.</p>
+<p><strong>Daughter</strong>: When can we ride again?</p>
+<p><strong>Mother</strong>: Um, we'll ride it in a minute.</p>
+<p>(The MOTHER turns to place in the order.)</p>
+<p><strong>Mother</strong>: Um, Four King Tut burgers, uh, two Nile River ice teas and two milks.</p>
+<p><strong>Daughter</strong>: Milk is nasty.</p>
+<p><strong>Mother</strong>: (absently) Yeah.</p>
+<p>(At the sounds of the excessive screams, the family looks up in time to see the roller coaster cars fly off of the tracks </p>
+<p>(The roller coaster cars crash head first into the red car parked in the parking lot.)</p>
+<p>CUT TO:<br />
+[EXT. SPHINX AMUSEMENT PARK -- PARKING LOT -- NIGHT] </p>
+<p>(BRASS stands in front of the wrecked car. The bodies of the riders are still on the pavement. GRISSOM ducks under the crime scene tape and walks over to BRASS.) </p>
+<p><strong>Brass</strong>: So, Dr. Thrillseeker, you ever been on this roller coaster?</p>
+<p>(GRISSOM looks up at the ride.)</p>
+<p><strong>Grissom</strong>: Pharaoh's Fever, yeah ... but my ride ended at the platform. What do you know?</p>
+<p><strong>Brass</strong>: Six dead. Park full of eyewitnesses saw the train fly off the tracks. Four-oh-one-B.</p>
+<p><strong>Grissom</strong>: Accident with injury.</p>
+<p><strong>Brass</strong>: Uh-huh.</p>
+<p><strong>Grissom</strong>: It's also a Four-Eighteen-B.</p>
+<p><strong>Brass</strong>: A runaway?</p>
+<p><strong>Grissom</strong>: (nods) A runaway train.</p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. SPHINX AMUSEMENT PARK - PARKING LOT -- NIGHT] </p>
+<p>(The amusement park parking lot is filled with personnel, curious on-lookers and the media. An OFFICER holds up the tape for NICK, SARA and GREG. GREG is carrying SARA'S kit for her in addition to his own. They make their way over to GRISSOM.) </p>
+<p><strong>Nick</strong>: Hey. Sorry we're late. There was a news van blocking the entrance.</p>
+<p><strong>Grissom</strong>: This is the first time a roller coaster has derailed in Clark County. Huge criminal and civil liabilities issues, so keep it quiet. Photograph the scene. Bag and tag all the detritus. Forklift anything bigger than Greg. We're going to put up a tent on the other side of the parking lot for accident reconstruction. Questions?</p>
+<p><strong>Greg</strong>: Yeah. What's that guy doing so far away from the others?</p>
+<p>(They look over at the lone body on the ground away from the wreckage.)</p>
+<p><strong>Grissom</strong>: Curious, isn't it?</p>
+<p>(GRISSOM turns and leaves. GREG looks at SARA.)</p>
+<p><strong>Greg</strong>: So, when he asks if anybody has any questions, he's not really asking?</p>
+<p><strong>Sara</strong>: Well, I don't know much about roller coaster accidents, but in auto collisions, the victims found furthest away from the car usually weren't wearing a seat belt. That'd be my bet.</p>
+<p>(Quick flashback to: [DAY] The roller coaster car flies off the track. The lone body flies out of the car. End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: Okay, let's go to work.</p>
+<p><strong>Greg</strong>: What should I do?</p>
+<p><strong>Nick</strong>: Uh, photo-evidence log -- just record everything we collect, okay?</p>
+<p>CUT TO:<br />
+[EXT. MOUNTAIN BRIDGE -- NIGHT] </p>
+<p>(The OFFICER shows WARRICK and CATHERINE to the body. DAVID PHILLIPS is already there logging his findings.) </p>
+<p><strong>Officer</strong>: Couple of mountain bikers called in the body. Coroner just arrived.</p>
+<p><strong>Catherine</strong>: Hi, David.</p>
+<p><strong>David Phillips</strong>: Hey. Tessa Press. School I.D. was in her pocket. She's 13.</p>
+<p>(CATHERINE and WARRICK kneels down next to the body to get a better look.)</p>
+<p><strong>Warrick</strong>: I hate these cases.</p>
+<p><strong>Catherine</strong>: Now ... the body position is inconsistent with her lividity.</p>
+<p><strong>David Phillips</strong>: After she died, blood settled to her anterior and lividity fixed. </p>
+<p><strong>Catherine</strong>: So she had been facedown.</p>
+<p><strong>David Phillips</strong>: Yeah.</p>
+<p><strong>Warrick</strong>: And someone dumped her face up.</p>
+<p>(DAVID PHILLIPS nods.)</p>
+<p><strong>Catherine</strong>: How long has she been here?</p>
+<p><strong>David Phillips</strong>: I'll defer that question to the insects.</p>
+<p>(DAVID rolls the body and shows them to CATHERINE.)</p>
+<p><strong>Catherine</strong>: Instar maggots.</p>
+<p><strong>David Phillips</strong>: Given the ambient temperature and last night's rain, I'd estimate she's been out here twenty-four hours.</p>
+<p><strong>Catherine</strong>: Takes that long for blowfly eggs to hatch.</p>
+<p><strong>Warrick</strong>: I guess the rain would've washed away any trace evidence: Tire prints, shoe impressions.</p>
+<p><strong>Catherine</strong>: Let's just hope there's some evidence on her body.</p>
+<p><strong>David Phillips</strong>: If you're going to drive all the way out here to dump a body, why not take another ten minutes and bury her?</p>
+<p><strong>Warrick</strong>: Guess it wasn't worth the killer's time.</p>
+<p>CUT TO:<br />
+[VARIOUS FLASHES OF BLACK &amp; WHITE PHOTOS OF THE BODIES AT THE PARKING LOT]</p>
+<p>[EXT. SPHINX AMUSEMENT PARK - PARKING LOT -- NIGHT] </p>
+<p>(SARA continues to snap photos of the evidence and evidence markers on the asphalt. NICK bags the evidence while GREG logs them down. They work methodotically.) </p>
+<p>(In the background, we see the CORONERS remove the bodies.)</p>
+<p>(A large crane arrives to move the larger pieces -- smashed red car and roller coaster car.)</p>
+<p>CUT TO:<br />
+[EXT. SPHINX AMUSEMENT PARK - NEAR THE PHARAOH'S FEVER -- NIGHT] </p>
+<p>(BRASS questions ZACK LAWRENCE.)</p>
+<p><strong>Brass</strong>: So, how long you been operating the roller coaster?</p>
+<p><strong>Zack Lawrence</strong>: Couple of months. I got a promotion. I used to work the merry-go-round.</p>
+<p><strong>Brass</strong>: That's a promotion, huh?</p>
+<p><strong>Zack Lawrence</strong>: Yeah. Only little kids go on the merry-go-round.</p>
+<p><strong>Brass</strong>: Oh, I see. So you get to meet girls your own age on Pharaoh's Fever.</p>
+<p><strong>Zack Lawrence</strong>: Yeah, something like that.</p>
+<p><strong>Brass</strong>: What kind of training do you get to be an operator?</p>
+<p><strong>Zack Lawrence</strong>: (scoffs) Training? I release the brake. I press a button. It's green and marked &quot;start&quot;.</p>
+<p><strong>Brass</strong>: I get the picture. All right, look, there are six victims. It'd be helpful to know where each of them was sitting.</p>
+<p><strong>Zack Lawrence</strong>: Um ... front bench was a girl. She was blond.</p>
+<p><strong>Brass</strong>: Yeah?</p>
+<p><strong>Zack Lawrence</strong>: Cute.</p>
+<p>(Quick flashback to: ZACK presses the green button. The ride starts.)</p>
+<p><strong>Zack Lawrence</strong>: (V.O.) Uh, followed by a punk, old folks and some other dude.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: That's only five.</p>
+<p><strong>Zack Lawrence</strong>: That's all I remember.</p>
+<p>(BRASS looks over at the photo vendor stand. There's a big sign on it: SEE YOURSELF SCREAM!)</p>
+<p><strong>Brass</strong>: &quot;See yourself scream&quot;? What's this about?</p>
+<p><strong>Zack Lawrence</strong>: We got a digital camera. It's mounted right over there.</p>
+<p><strong>Brass</strong>: How does that work?</p>
+<p><strong>Zack Lawrence</strong>: Camera's on a trigger. Train passes by, automatically snaps a picture and stores it in the computer's hard drive. The train was airborne. Never even got close to the camera.</p>
+<p><strong>Brass</strong>: I'm still going to want to take that computer.</p>
+<p>CUT TO:<br />
+[EXT. SPHINX AMUSEMENT PARK - NEAR THE FERRIS WHEEL-- NIGHT] </p>
+<p>(GRISSOM interviews WOODY.) </p>
+<p><strong>Woody</strong>: I'm the park's chief engineer. Been working on coasters since before I was tall enough to ride 'em.</p>
+<p><strong>Grissom</strong>: You responsible for maintaining this roller coaster?</p>
+<p><strong>Woody</strong>: I keep all the rides up to code.</p>
+<p><strong>Grissom</strong>: You have any idea what would cause this train to go off the track?</p>
+<p><strong>Woody</strong>: Well, in theory, I didn't think it was possible. There's never been an accident like this anywhere.</p>
+<p><strong>Grissom</strong>: So, you're an expert?</p>
+<p><strong>Woody</strong>: On roller coasters? Hell yeah. Ten years of service on Six Flags'<br />
+American Eagle before moving to Vegas.</p>
+<p>(GRISSOM looks down and sees the nut. He uses his pen and picks it up.)</p>
+<p><strong>Grissom</strong>: Do you know what that is?</p>
+<p><strong>Woody</strong>: That's a nut. It, uh ... secures the wheel to the screw.</p>
+<p><strong>Grissom</strong>: Well, one loose screw ... couldn't cause a train to derail, could it?</p>
+<p><strong>Woody</strong>: No, no, there's, uh ... eight wheels per train. They-they'd all have to be loose, and, uh ... that just doesn't happen.</p>
+<p>(Camera holds on a close up of the nut.)</p>
+<p>CUT TO:<br />
+[EXT. SPHINX AMUSEMENT PARK - PARKING LOT -- NIGHT] </p>
+<p>[EXT. SPHINX AMUSEMENT PARK - TENT -- PARKING LOT -- NIGHT] </p>
+<p>(They've set up a large tent in the parking lot. Inside, GRISSOM walks in. A long table has been set up with the various pieces of evidence gathered on it. NICK, SARA and GREG are going through everything.)</p>
+<p><strong>Grissom</strong>: &quot;There are three things in human life that are important. The first is to be kind; the second one is to be kind; and the third one is to be kind.&quot;</p>
+<p><strong>Sara</strong>: Henry James.</p>
+<p><strong>Grissom</strong>: Very good. Author of one of the greatest horror stories ever written: Turn of the Screw. And I'm looking for one.</p>
+<p>(He holds up the baggie with the nut.)</p>
+<p><strong>Sara</strong>: A screw?</p>
+<p><strong>Grissom</strong>: Yes.</p>
+<p><strong>Nick</strong>: Oh, well ... technically, these are eccentric shafts, not screws.</p>
+<p><strong>Grissom</strong>: Well, as long as you can screw a nut on it, it's a screw.</p>
+<p><strong>Sara</strong>: &quot;Turn of the Screw&quot; isn't really a horror story. It's more of a mystery. Did the governess kill the little boy, or did the ghost do it?</p>
+<p><strong>Grissom</strong>: Well, it's only a mystery if you believe in ghosts.</p>
+<p>(GRISSOM picks up a screw and looks at the threads.)</p>
+<p><strong>Grissom</strong>: End threads are stripped.</p>
+<p><strong>Nick</strong>: Means the nuts were loose. Excessive play on the screws would've worn down the threads.</p>
+<p><strong>Grissom</strong>: And the nuts would've popped off.</p>
+<p>(Quick flashback to: [ROLLER COASTER WHEELS] The nut is loose and pops off. End of flashback. Resume to present.)</p>
+<p><strong>Greg</strong>: Nuts don't just pop off by themselves.</p>
+<p><strong>Grissom</strong>: We got tool marks.</p>
+<p><strong>Grissom</strong>: Vertical striations, evenly spaced. </p>
+<p><strong>Nick</strong>: Could've been a pipe wrench.</p>
+<p><strong>Sara</strong>: Maybe whoever maintains the roll coaster uses a pipe wrench to tighten the nuts.</p>
+<p><strong>Nick</strong>: Or whoever loosened the nuts screwed up.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - WAITING ROOM -- NIGHT] </p>
+<p>(WARRICK hands the morgue photo to RAINA to look at.) </p>
+<p><strong>Raina Press</strong>: It's Tessa. I don't understand. How could this ... ? My baby.</p>
+<p><strong>Catherine</strong>: I'm very sorry.</p>
+<p><strong>Raina Press</strong>: She's beautiful, isn't she?</p>
+<p><strong>Warrick</strong>: Ma'am, the coroner believes that Tessa died over twenty-four hours ago. Had you reported her missing?</p>
+<p><strong>Raina Press</strong>: Couple nights a week, she'd sleep at her friend Carrie's. There's just the two of us. I'm a waitress. Work nights. That way I can ... make her breakfast and be there when she gets home from school.</p>
+<p><strong>Warrick</strong>: When was the last time that you saw her?</p>
+<p><strong>Raina Press</strong>: Yesterday morning. I got home around 6:00. We made pancakes. I packed her lunch and kissed her good-bye. When she didn't come home from school, I just figured she was at Carrie's. I should have called, but I didn't want to be a nag. I want to see her.</p>
+<p><strong>Catherine</strong>: Officer, could you please escort Ms. Press ... to the morgue.</p>
+<p>(RAINA PRESS stands up and leaves. CATHERINE also stands up. WARRICK and CATHERINE watch her go.)</p>
+<p><strong>Warrick</strong>: When's the last time you went twenty-four hours without talking to Lindsey?</p>
+<p><strong>Catherine</strong>: A single mother, working nights.</p>
+<p><strong>Warrick</strong>: I'm just saying, she didn't check on her own kid, you know?</p>
+<p><strong>Catherine</strong>: Ah, you do the best you can.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY] </p>
+<p>(ROBBINS goes over the bodies with GRISSOM.) </p>
+<p><strong>Robbins</strong>: Introductions. Shelly Hoffman, 25. Cause of death -- lacerated ventricle. Noah Nuland, 15. C.O.D.-- Head contusion. The swelling of the brain killed him within minutes. Now, Gary Clodfelter died of shock. His wife, May, exsanguinated. And their son, Cameron - another head contusion.</p>
+<p><strong>Grissom</strong>: What about this guy?</p>
+<p><strong>Robbins</strong>: Jim Nevins, 20. Park employee. Died from a temporal herniation. Impact to the head caused the brain to swell, which, in turn, put pressure on the brain stem.</p>
+<p><strong>Grissom</strong>: According the ride operator, there were only five passengers on the roller coaster, and no employees.</p>
+<p><strong>Robbins</strong>: Right.</p>
+<p><strong>Grissom</strong>: So ... maybe Nevins was just an unfortunate bystander. Hit in the head by a falling roller coaster.</p>
+<p><strong>Robbins</strong>: The chicken little theory? But here's the hitch. The others died roughly ten hours ago. Mr. Nevins' rigor mortis is fixed. Body temp puts the time of his death approximately sixteen hours before the others -- right around<br />
+1:00 a.m.</p>
+<p>(GRISSOM sighs.)</p>
+<p><strong>Grissom</strong>: (sighs) Albert... dead men don't ride roller coasters.</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. VARIOUS AMUSEMENT PARK (STOCK) - DAY]</p>
+<p>[EXT. AMUSEMENT PARK - WALKWAY -- DAY] </p>
+<p>(GRISSOM and SARA walk with WOODY.) </p>
+<p><strong>Grissom</strong>: We're going to need to see the underside of the loading platform.</p>
+<p><strong>Woody</strong>: Oh, follow me. Rumor has it the park's going to shut down Pharaoh's Fever for good. You know anything about that?</p>
+<p><strong>Grissom</strong>: No.</p>
+<p><strong>Woody</strong>: Newspaper called it &quot;A Death Trap.&quot; An &quot;Accident waiting to happen&quot;.</p>
+<p><strong>Sara</strong>: You disagree with that?</p>
+<p>(They reach the platform. WOODY opens the gate.)</p>
+<p><strong>Woody</strong>: Well, she's old and wrinkled, but I took good care of her.</p>
+<p>(SARA and GRISSOM crawl under the platform. WOODY starts to follow them, but GRISSOM stops him.)</p>
+<p><strong>Grissom</strong>: Uh, Woody? We'd like to be alone.</p>
+<p><strong>Woody</strong>: Holler if you need anything.</p>
+<p>(He shuts the gate behind them, turns and leaves.)</p>
+<p>[UNDER THE PLATFORM - DAY -- CONTINUOUS]</p>
+<p>(GRISSOM and SARA both look at the coaster railings from under the platform. They envision the train cars rolling in, pausing, and rolling out. The cars vanish.)</p>
+<p><strong>Grissom</strong>: Well, easy access. Wheels are in reach.</p>
+<p><strong>Sara</strong>: Anyone could have loosened the nuts from down here.</p>
+<p>(SARA sees something.)</p>
+<p><strong>Sara</strong>: Check this out. Is that lubricant, maybe?</p>
+<p><strong>Grissom</strong>: It's a funny place for lubricant. It's not even on the track.</p>
+<p><strong>Sara</strong>: I'll swab it.</p>
+<p>(SARA takes a sample. GRISSOM looks up when he hears the sound of metal upon metal in the wind.)</p>
+<p><strong>Grissom</strong>: Hey, look at that. </p>
+<p><strong>Sara</strong>: That's worse than just a wrinkle.</p>
+<p><strong>Woody</strong>: (o.s.) It's got a support beam under it. </p>
+<p>(At the sound of his voice, they both turn and see WOODY peering at them through the grate.)</p>
+<p><strong>Woody</strong>: It's just a cosmetic problem.</p>
+<p><strong>Sara</strong>: Sir, you need to step away. </p>
+<p>(SARA opens the gate door and steps out from under the platform. GRISSOM follows her.)</p>
+<p><strong>Sara</strong>: We need some time. This is an active investigation.</p>
+<p>[WALKWAY - CONTINUOUS]</p>
+<p><strong>Grissom</strong>: Were you aware that that support beam was detached?</p>
+<p><strong>Woody</strong>: Well, hell, yeah. Fixed it a half dozen times this year. It's in my maintenance log. But like I said, that cross bar is supported by the metal beam. (He points and GRISSOM looks up.) But since my hours were cut back last November, I've had to prioritize my &quot;fix-ums.&quot; Yeah, it's really too back, but, uh, you know--</p>
+<p>(GRISSOM notices the wrench in WODDY'S tool belt. He glances at SARA, then back at WOODY.)</p>
+<p><strong>Grissom</strong>: Woody, we'd like to requisition your pipe wrench.</p>
+<p><strong>Woody</strong>: It's, uh, not technically mine.</p>
+<p><strong>Sara</strong>: Are you the only one that uses it?</p>
+<p><strong>Woody</strong>: Yeah, but it's the property of the park.</p>
+<p><strong>Grissom</strong>: Well, I promise we'll get it back to you.</p>
+<p>(SARA takes out an evidence bag and WOODY puts his pipe wrench in it.)</p>
+<p><strong>Sara</strong>: Thank you.</p>
+<p>(GRISSOM'S phone rings, he answers it.)</p>
+<p><strong>Grissom</strong>: (to phone) Yeah?</p>
+<p>INTERCUT WITH:</p>
+<p>[INT. CSI - LAB - DAY]</p>
+<p>(NICK holds up a tweezer with the red fiber.)</p>
+<p><strong>Nick</strong>: (to phone) I'm processing the dead park employee's clothing. The shirt and the pants are covered in red fibers.</p>
+<p>(He looks through the scope at the fiber.)</p>
+<p><strong>Grissom</strong>: (from phone) Anything distinctive?</p>
+<p><strong>Nick</strong>: (to phone) Well, they're trilobal.</p>
+<p><strong>Grissom</strong>: (to phone) Very good. Thanks, Nick. (He hangs up.) Well, we need to find a car with a red interior.</p>
+<p>CUT TO:<br />
+[INT. PARKING LOT - TENT - DAY -CONTINUOUS]</p>
+<p>(GREG works on logging in the various car parts.)</p>
+<p><strong>Sara</strong>: Hi.</p>
+<p>(He looks up and sees SARA walk in with GRISSOM. He gets to his feet.)</p>
+<p><strong>Greg</strong>: The roller coaster broke into one hundred and six parts. I just logged the final piece.</p>
+<p><strong>Sara</strong>: Good work.</p>
+<p><strong>Greg</strong>: I found something a little unusual, for a roller coaster.</p>
+<p>(GREG motions for them to follow him. He shows them the roller coaster car.)</p>
+<p><strong>Greg</strong>: Not a sailor, but a ...</p>
+<p><strong>Sara</strong>: (surprised) Semen? s*x on the roller coaster?</p>
+<p><strong>Greg</strong>: Or some kid shaking hands with shorty.</p>
+<p>(He grabs the ALS and shows it to them.)</p>
+<p><strong>Grissom</strong>: The release of epinephrine and adrenaline while riding a roller coaster can produce a stimulatory effect. It enhances ejaculation.</p>
+<p><strong>Greg</strong>: Right. But is it probative to our investigation?</p>
+<p><strong>Sara</strong>: Well, um, why don't you swab a sample, and you can tell us.</p>
+<p><strong>Grissom</strong>: Greg, do we know who the R.O. of this t-bird is?</p>
+<p>(GREG grabs the registration papers and reads off the name.)</p>
+<p><strong>Greg</strong>: Uh ... Jim Nevins.</p>
+<p><strong>Grissom</strong>: The dead employee.</p>
+<p><strong>Greg</strong>: I didn't realize the cars were relevant to our investigation.</p>
+<p><strong>Grissom</strong>: Everything's relevant Greg, until it's not.</p>
+<p>(GRISSOM and SARA both look into the car. SARA sees something in the trunk.)</p>
+<p><strong>Sara</strong>: Grissom.</p>
+<p>(She takes out a glove and uses it to pick up the wrench.)</p>
+<p><strong>Sara</strong>: Take a look at this.</p>
+<p>(She shows it to him.)</p>
+<p><strong>Grissom</strong>: A pipe wrench.</p>
+<p>(She turns it around and sees something else.)</p>
+<p><strong>Sara</strong>: Blood.</p>
+<p><strong>Grissom</strong>: Greg, may I?</p>
+<p>(He holds out his hand and GREG hands him the ALS. GRISSOM checks the back of the trunk and envisions the dead body over it.)</p>
+<p><strong>Grissom</strong>: Blood pool.</p>
+<p>(End of vision. GRISSOM turns to look at SARA and GREG.)</p>
+<p><strong>Grissom</strong>: Camouflaged by the red carpet. That explains the autopsy findings. Nevins may have never been in the roller coaster. Possibly killed by that wrench and stuffed in his own trunk.</p>
+<p><strong>Sara</strong>: And, uh, then what? (She shakes her head as she continues his line of thinking.) A renegade roller coaster comes along sixteen hours later, and propels Nevin's body from the trunk to the blacktop?</p>
+<p><strong>Grissom</strong>: I'm just following the evidence.</p>
+<p><strong>Sara</strong>: I'll call Brass, see if he can find an eyewitness that can place the car in the parking lot at the time of Nevin's death.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - EVENING]</p>
+<p>[INT. POLICE DEPARTMENT - BRASS' OFFICE - EVENING]</p>
+<p>(BRASS re-interviews ZACK LAWRENCE.)</p>
+<p><strong>Zack Lawrence</strong>: Uh, so, Woody said that I might be able to help you with your investigation.</p>
+<p><strong>Brass</strong>: Zack, you close up shop at the Sphinx at night.</p>
+<p><strong>Zack Lawrence</strong>: Yeah, Monday to Friday. Uh, class till 3:00. Tutor kids in math till 5:00, and then I head over to the park. We close at 10:00.</p>
+<p><strong>Brass</strong>: Did you notice any cars in the parking lot after closing on Thursday night?</p>
+<p><strong>Zack Lawrence</strong>: Jimmy Nevins. His red t-bird was out there.</p>
+<p><strong>Brass</strong>: Oh, you know Jimmy?</p>
+<p><strong>Zack Lawrence</strong>: Yeah, sure; pretty cool guy. Worked the bumper cars. I still can't believe what happened, you know? I mean, I must have rode that coaster, like, phew, a hundred times, maybe more. Anyway, sometimes Jimmy stayed after closing.</p>
+<p><strong>Brass</strong>: Why? </p>
+<p><strong>Zack Lawrence</strong>: Look, I'm not trying to get anybody in trouble, but occasionally, Jimmy would take his ... dates for rides on The Fever, you know? Everybody knew about it. It was really no big deal.</p>
+<p><strong>Brass</strong>: Do you happen to know the name of his date on Thursday night?</p>
+<p><strong>Zack Lawrence</strong>: No, sorry.</p>
+<p><strong>Brass</strong>: How did Jimmy get access to the park? I mean, all the power is shut down at night.</p>
+<p><strong>Zack Lawrence</strong>: The same key that opens up the men's room door opens up all the power boxes at the park.</p>
+<p><strong>Brass</strong>: (shakes his head) No kidding.</p>
+<p><strong>Zack Lawrence</strong>: It's just hanging outside Woody's office.</p>
+<p><strong>Brass</strong>: What about security?</p>
+<p><strong>Zack Lawrence</strong>: Nope. Night guy got laid off. Budget cuts last winter. It's not like anybody's going break into an amusement park and steal a coaster, you know?</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- NIGHT] </p>
+<p>(DAVID goes over the findings with WARRICK. He shows WARRICK the x-ray.) </p>
+<p><strong>David Phillips</strong>: X-rayed Tessa's neck. Blade appears to have perforated her fifth cervical intervertebral disc, lacerating the spinal cord. </p>
+<p>(Quick CGI POV of: Close up of the back of TESSA'S neck. The blade swipes across and -- her vertebrae snaps in two. End of CGI POV. Resume to present.)</p>
+<p><strong>David Phillips</strong>: Type of trauma suggests we're looking at asphyxia due to diaphragmatic paralysis.</p>
+<p>(WARRICK leans in close.)</p>
+<p><strong>Warrick</strong>: It looks like there's soil inside of her wound.</p>
+<p><strong>David Phillips</strong>: Well, we did find her outside.</p>
+<p><strong>Warrick</strong>: Right. Should be soil around the wound. And on the wound, but not inside of it.</p>
+<p>(WARRICK takes a swab sample of the wound.)</p>
+<p>CUT TO:<br />
+[CLOSE UP: TWO PIPE WRENCHES ON THE LAB TABLE] </p>
+<p>[INT. CSI - LAB - NIGHT]</p>
+<p>(NICK works on taking mold samples of the wrench grips. He sets up a screw, takes a sample of the wrench grip on the screw and makes molds of the markings.) </p>
+<p>(He puts the samples under the scope and compares the two.)</p>
+<p><strong>Nick</strong>: (mutters) Oh, I am the man.</p>
+<p>(GRISSOM walks into the lab and hears him.)</p>
+<p><strong>Grissom</strong>: Are you?</p>
+<p><strong>Nick</strong>: I microsilled the pipe wrenches you and Sara turned into evidence. I excluded Woody's wrench. Take a look at the tool marks from the wrench found in the t-bird. On the left, the sabotaged nut. On the right, the test marks.</p>
+<p>(GRISSOM looks through the scope and lines up the two samples.)</p>
+<p><strong>Grissom</strong>: Perfect match.</p>
+<p><strong>Nick</strong>: I have a theory maybe Jim Nevins sabotaged the roller coaster. </p>
+<p>(Quick flashback to: JIM NEVINS loosens the screw on the coaster. End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: When he left the park, someone attacked him, grabbed his wrench and hit him over the head with it.</p>
+<p>(Quick flashback to: SOMEONE drags JIM NEVINS body over to the car and dumps it into the trunk. He tosses the pipe wrench in the trunk with the body. End of flashback. Resume to present.</p>
+<p><strong>Grissom</strong>: Did you any prints off the wrench?</p>
+<p><strong>Nick</strong>: I got a partial. And I had a tech print the T-bird. Found two sets of prints on the trunk's lid.</p>
+<p>(GREG walks into the lab.)</p>
+<p><strong>Nick</strong>: One belonged to the vic, the other unknown, but it did match the partial.</p>
+<p>(Quick flashback to: SOMEONE closes the trunk, their hand lingering on the trunk hood. End of flashback. Resume to present.)</p>
+<p><strong>Greg</strong>: That semen from the coaster's cab was just processed in my lab. All I can say is, Nevins was a cad.</p>
+<p><strong>Nick</strong>: Semen match the dead guy's?</p>
+<p><strong>Greg</strong>: Yup. And Sara spoke to Brass, who says Nevins was known for taking girls on private rides. Pharaoh's fever was his Spanish fly.</p>
+<p><strong>Nick</strong>: Well, there goes my theory. No one tampers with their s*x machine.</p>
+<p>FADE OUT</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - AUDIO/VISUAL LAB -- NIGHT] </p>
+<p>(SARA goes through the security camera pictures. NICK sits next to her at the table.) </p>
+<p><strong>Sara</strong>: Multitrack digital camera snaps photos of all the passengers. The park finally sent over their computer, so I'm scanning through the day of the accident.</p>
+<p><strong>Nick</strong>: Can you go back in time, to the night before?</p>
+<p><strong>Sara</strong>: Yeah. Why?</p>
+<p><strong>Nick</strong>: Jim Nevins may have been on that coaster. I want to see if anyone was with him.</p>
+<p>(SARA scrolls back and finds the photo of JIM NEVINS with a woman on the coaster.)</p>
+<p><strong>Nick</strong>: Oh. So much for safe s*x.</p>
+<p><strong>Sara</strong>: Who's the girl?</p>
+<p><strong>Nick</strong>: Reverse one more pic.</p>
+<p>(SARA goes back a couple of pictures and sees JIM NEVINS and his date side by side in the coaster, both their arms raised as they enjoy the ride.)</p>
+<p><strong>Nick</strong>: Now, that picture's worth five bucks.</p>
+<p><strong>Sara</strong>: Last time stamp of the night was 12:45 A.M. Coroner placed Nevins' T.O.D at 1:00 A.M.</p>
+<p><strong>Nick</strong>: We need to find that girl.</p>
+<p>CUT TO:<br />
+[VARIOUS CLOSE-UP FLASHES OF THE WOMAN IN THE PHOTO]</p>
+<p>[EXT. MINI-MART - PARKING LOT - DAY]</p>
+<p>(CATHERINE gets out of the car. WARRICK is already there.)</p>
+<p><strong>Catherine</strong>: Hey.</p>
+<p><strong>Warrick</strong>: Hey.</p>
+<p><strong>Catherine</strong>: Got your page. What's up?</p>
+<p><strong>Warrick</strong>: Tessa Press took the bus to and from school, not far from here.</p>
+<p><strong>Catherine</strong>: Mm-hmm.</p>
+<p><strong>Warrick</strong>: I showed her picture to the mini-mart manager. She remembers seeing her the day that she was killed.</p>
+<p>(CATHERINE looks around and sees a lot of kids there hanging out after school.)</p>
+<p><strong>Catherine</strong>: Wow. This place is crawling with kids. She remembers her?</p>
+<p><strong>Warrick</strong>: She says she came in every afternoon and bought a little Debbie and a soda.</p>
+<p><strong>Catherine</strong>: Have we tracked down her friend, Carrie?</p>
+<p><strong>Warrick</strong>: Officer Ray did speak with Carrie and her parents, and they confirmed that Tessa sleeps at least two nights a week over their place.</p>
+<p><strong>Catherine</strong>: And was she supposed to sleep over the day that she was killed?</p>
+<p><strong>Warrick</strong>: I don't think they had any kind of a schedule. She would just show up, and when she didn't, they'd assumed that she was at home.</p>
+<p>(CATHERINE sees the security camera. She points to it.)</p>
+<p><strong>Catherine</strong>: Warrick.</p>
+<p><strong>Warrick</strong>: I've already secured the footage.</p>
+<p>CUT TO:<br />
+[EXT. AMUSEMENT PARK - WALKWAY -- DAY] </p>
+<p>(GRISSOM and SARA walk through the park. SARA looks through the folder with the photos of the young woman on the ride while GRISSOM munches on a box of popcorn. She looks up and sees WOODY headed toward them.) </p>
+<p><strong>Sara</strong>: Oh, roller coaster wacko at 12:00.</p>
+<p><strong>Woody</strong>: I heard you were looking for someone.</p>
+<p><strong>Sara</strong>: Sir, do you recognize this young woman?</p>
+<p>(She shows him the photo.)</p>
+<p><strong>Woody</strong>: Oh, sure, it's Cleopatra. She works in food services. Second pyramid on the left.</p>
+<p><strong>Grissom</strong>: Thank you, Woody.</p>
+<p>(GRISSOM and SARA head in that direction.)</p>
+<p>[VENDOR STAND]</p>
+<p>(GRISSOM and SARA reach the food stand.)</p>
+<p><strong>Marc Anthony</strong>: Hey, can I help you?</p>
+<p><strong>Sara</strong>: Actually, we're looking for Cleopatra.</p>
+<p><strong>Marc Anthony</strong>: (points) She's on break. But can I get you anything?</p>
+<p>(They turn to look at the WOMAN sitting at the bench.)</p>
+<p><strong>Sara</strong>: No, thanks.</p>
+<p>(They both leave the stand and walk over to the woman who is going through her text book. GRISSOM looks over her shoulder as SARA sits down.)</p>
+<p><strong>Grissom</strong>: Quadratic equations? That's not easy.</p>
+<p><strong>Lisa Hunt</strong>: Glad you think so. I have a &quot;D&quot; average. If I fail the final, my family's going to Hawaii without me.</p>
+<p><strong>Sara</strong>: We're with the Crime Lab. We have some questions.</p>
+<p>(SARA shows her the photos.)</p>
+<p><strong>Lisa Hunt</strong>: I had no idea those cameras worked at night. </p>
+<p><strong>Grissom</strong>: Is your name really Cleopatra?</p>
+<p><strong>Lisa Hunt</strong>: Lisa. Lisa Hunt.</p>
+<p><strong>Sara</strong>: Lisa, you know your friend in this photograph is dead, right?</p>
+<p><strong>Lisa Hunt</strong>: Right.</p>
+<p><strong>Sara</strong>: You don't seem too upset about that.</p>
+<p><strong>Lisa Hunt</strong>: D.L. on Jimmy Nevins: Four years ago, when I was a frosh and he was a senior, he was my Jordan Catalano. Know what I mean? But he didn't know my name. So four years later, when I started working here, he's still working here-- total loser, but still really hot -- so when he asked me out, there was only one answer: &quot;When and where?&quot; </p>
+<p><strong>Sara</strong>: After hours at the roller coaster.</p>
+<p><strong>Lisa Hunt</strong>: I know, I thought the same thing -- cheez whiz. But, I mean, what the hell? I'd never done it on a roller coaster.</p>
+<p><strong>Sara</strong>: It was your first date.</p>
+<p><strong>Lisa Hunt</strong>: (rolls her eyes) You sound like my mother. Oh, god, you're not going to tell her, are you? I just turned eighteen. There is nothing statutory about it, I swear.</p>
+<p><strong>Grissom</strong>: Lisa, we need to know what the two of you did when you got off the ride.</p>
+<p><strong>Lisa Hunt</strong>: We talked. I mean, not that he had much to say. He offered to drive me home, but I only live a few blocks from here, so I told him I'd huff it. Mm, we kissed - way too much slobber. And that was it.</p>
+<p><strong>Sara</strong>: Was there anyone else around?</p>
+<p><strong>Lisa Hunt</strong>: (shakes her head) I-I didn't see anybody, but I wasn't really looking.</p>
+<p>CUT TO:<br />
+[INT. CSI - AUDIO/VISUAL LAB] </p>
+<p>(WARRICK looks through the security camera footage from the mini-mart. CATHERINE walks into the room and joins him.) </p>
+<p><strong>Warrick</strong>: I found Tessa.</p>
+<p>(On the screen, they watch as a young boy grabs TESSA by the hand and pull her toward the car.)</p>
+<p><strong>Catherine</strong>: Yeah, you're not the only one.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>(On the monitor, they both walk off screen.)</p>
+<p><strong>Catherine</strong>: Can you enlarge it?</p>
+<p>(WARRICK blocks and enlarges the photo of HENRY with TESSA.)</p>
+<p>CUT TO:<br />
+[INT. CSI - INTERVIEW ROOM -- DAY] </p>
+<p>(CATHERINE shows the photo to HENRY. She interviews HENRY while his mother sits and listens.) </p>
+<p><strong>Henry</strong>: Yeah, that's me.</p>
+<p><strong>Catherine</strong>: And who's that with you?</p>
+<p><strong>Henry</strong>: Tessa Press.</p>
+<p><strong>Catherine</strong>: You two were friends?</p>
+<p><strong>Henry</strong>: (shrugs) We sat next to each other on the bus.</p>
+<p><strong>Catherine</strong>: She was thirteen. How old are you?</p>
+<p>(HENRY'S eyes widen at the implication.)</p>
+<p><strong>Henry's Mother</strong>: (interrupts) What's that supposed to mean?</p>
+<p><strong>Henry</strong>: No, mom, it's okay. I-I'm 15. I felt sorry for her. The girls picked on her. Made fun of her frizzy hair, her old clothes. Stuff like that. She'd sit next to me, and they'd leave her alone.</p>
+<p><strong>Catherine</strong>: In the photo, you're grabbing her arm.</p>
+<p><strong>Henry</strong>: It wasn't like that. I just got my learner's permit. My mom was waiting in the car. We were just going to get slushies. I saw Tessa in the parking lot.</p>
+<p>(Quick flashback to: [MINI-MART-DAY] HENRY walks over to the mini-mart and sees TESSA standing outside.)</p>
+<p><strong>Henry</strong>: Hey, Tessa. Hey.</p>
+<p><strong>Tessa Press</strong>: Henry.</p>
+<p><strong>Henry</strong>: You want a ride, just door to door?</p>
+<p><strong>Tessa Press</strong>: No, that's okay.</p>
+<p><strong>Henry</strong>: Oh, come on. You're not scared to drive with me, are you?</p>
+<p>(He grabs her arm playfully and pulls her toward the car.)</p>
+<p><strong>Tessa Press</strong>: No, it's okay. I got it.</p>
+<p>(She pulls away and backs up.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Henry</strong>: She said she was getting a ride from someone else.</p>
+<p><strong>Catherine</strong>: Did she say who?</p>
+<p><strong>Henry</strong>: No. But when we pulled away, I saw her getting into a truck. I didn't see the driver.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY/TRACE LAB -- DAY] </p>
+<p>(SARA walks through the hallway when DAVID HODGES steps out, grabs her arm and tugs her into the trace lab.) </p>
+<p><strong>David Hodges</strong>: (excited) I've got a question for you. What substance contains the following ingredients: Sorbitol, cetyl alcohol, isopropyl myristate, glyceryl, stearate, peg-100 stearate, petrolatum, benzylalcohol, titanium dioxide and purified water?</p>
+<p><strong>Sara</strong>: Okay, I assume that you've identified the substance we found on the roller coaster track?</p>
+<p><strong>David Hodges</strong>: Correct. It's doxepin ointment.</p>
+<p>(He chuckles.) </p>
+<p><strong>David Hodges</strong>: Sounds Klingon, huh? Anyway, uh, it's prescribed by doctors to treat dermatological inflammations caused by contact with certain types of plants. </p>
+<p><strong>Sara</strong>: Maybe whoever messed with the tracks transferred the ointment when they loosened the wheels.</p>
+<p>(Quick flashback to: A hand holding the pipe wrench reaches out under the platform. Camera focuses on the person's arm. End of flashback. Resume to present.)</p>
+<p><strong>David Hodges</strong>: Your killer has a rash.</p>
+<p><strong>Sara</strong>: And we need to catch it.</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - HALLWAY] </p>
+<p>(CATHERINE turns the hallway corner and sees WARRICK talking with someone. He sees her and waves her over. The WOMAN takes the folder and leaves.) </p>
+<p><strong>Warrick</strong>: I've been looking for you.</p>
+<p><strong>Catherine</strong>: What's up?</p>
+<p><strong>Warrick</strong>: Hodges analyzed the trace from inside Tessa's wound. (He hands her the test results.) It seems it was zoodoo.</p>
+<p><strong>Catherine</strong>: Come again.</p>
+<p><strong>Warrick</strong>: Hoof stock. It's a combination of feces from rhinos, zebras, and bison.</p>
+<p><strong>Catherine</strong>: You're kidding?</p>
+<p><strong>Warrick</strong>: They say that the smell of wild animal crap keeps the deer away.</p>
+<p><strong>Catherine</strong>: Who knew? Uh, so can we track the source of ... ?</p>
+<p><strong>Warrick</strong>: There is a zoo in Auckland that exports it. And there's only one landscaping company in Clark County that imports it -- ADL. I contacted ADL, and guess what they told me? Couple of months back, they were hired by the victim's mother.</p>
+<p>CUT TO:<br />
+[EXT. PRESS RESIDENCE -- DAY] </p>
+<p>(CATHERINE and an OFFICER exit their cars. CATHERINE is carrying a camera. She notices the sign on the truck: ADL LANDSCAPE.) </p>
+<p><strong>Brown</strong>: Hmm. ADL landscaping. Must've been a big job -- she hired them months ago.</p>
+<p>(In the back of the truck is a partially opened bag of ZOODOO COMPOST.)</p>
+<p><strong>Catherine</strong>: Zoodoo.</p>
+<p>(CATHERINE takes a picture of the bag.)</p>
+<p>[FRONT PORCH - CONTINUOUS]</p>
+<p>(CATHERINE knocks on the front door. RAINA PRESS opens the door, JUSTIN MACK is behind her. He's wearing a gray t-shirt with ADL LANDSCAPE on the front.)</p>
+<p><strong>Catherine</strong>: Hello.</p>
+<p><strong>Raina Press</strong>: Hi. I just left you a message. Any news? Honey, these guys are from the crime lab. (CATHERINE notices him. RAINA PRESS makes the introductions.) Justin Mack, my boyfriend.</p>
+<p><strong>Justin Mack</strong>: How you doing?</p>
+<p><strong>Warrick</strong>: Hey. Could I have a word with you outside for a moment?</p>
+<p><strong>Justin Mack</strong>: Why?</p>
+<p><strong>Warrick</strong>: Why not?</p>
+<p>(JUSTIN steps out of the house and follows WARRICK. RAINA PRESS watches him go with alarm, but she doesn't say anything. CATHERINE looks at her.)</p>
+<p><strong>Catherine</strong>: May I?</p>
+<p>CUT TO:<br />
+[INT. PRESS RESIDENCE - LIVING ROOM - DAY]</p>
+<p>(CATHERINE follows RAINA PRESS into the living room.)</p>
+<p><strong>Raina Press</strong>: How can you be sure it was Justin's truck?</p>
+<p><strong>Catherine</strong>: At this point, we're just following a lead. How long have you known Justin?</p>
+<p><strong>Raina Press</strong>: Uh ... few months. Hired him to lay sod. Now we're in the midst of an outdoor overhaul.</p>
+<p><strong>Catherine</strong>: And where's Tessa's father?</p>
+<p><strong>Raina Press</strong>: L.A., maybe. I don't know. I haven't heard from him since the divorce. He'll find a way to blame me for this. </p>
+<p>[OUTSIDE - CONTINUOUS]</p>
+<p>(WARRICK questions JUSTIN MACK.)</p>
+<p><strong>Justin Mack</strong>: You see, Raina said it was important for Tessa to take the bus to school. Said it helps build independence. But sometimes I'd pick her up at the bus stop, buy her an ice-cream cone, and drop her off here.</p>
+<p><strong>Warrick</strong>: Did you pick her up that afternoon?</p>
+<p><strong>Justin Mack</strong>: Look, I know there are a lot of whack-jobs in the world, and you're just doing your job, but watch it.</p>
+<p><strong>Warrick</strong>: You mind if I take a look in the back of your truck? </p>
+<p><strong>Justin Mack</strong>: Don't you need a warrant?</p>
+<p><strong>Warrick</strong>: Only if you deny me access.</p>
+<p>(JUSTIN steps aside.)</p>
+<p><strong>Justin Mack</strong>: Go ahead.</p>
+<p><strong>Warrick</strong>: Thanks.</p>
+<p>[INSIDE THE HOUSE -- CONTINUOUS]</p>
+<p><strong>Catherine</strong>: Have you ever left Tessa alone with Justin?</p>
+<p><strong>Raina Press</strong>: Sure. He's over here all the time. He's a good man. He wouldn't hurt anybody, especially not Tessa. (She starts crying.) Damn, I keep expecting her to walk through that door.</p>
+<p>[OUTSIDE - CONTINUOUS]</p>
+<p>(WARRICK covers the back of the truck. He sprays the tools with luminol. The tip of the shovel glows with the presence of blood.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(WARRICK reads through a file.) </p>
+<p><strong>Warrick</strong>: In 1988, your client was arrested for a drunk and disorderly. Your fingerprints were then entered into our database. They match the fingerprints that we found on this shovel.</p>
+<p>(He points to the shovel in the plastic bag on the table behind him.)</p>
+<p>(RAINA PRESS doesn't say anything.)</p>
+<p><strong>Catherine</strong>: The blood on the blade matches your daughter's DNA.</p>
+<p><strong>Lawyer (woman)</strong>: My client is landscaping her backyard with her boyfriend. Explains her prints on his shovel. </p>
+<p><strong>Warrick</strong>: They were the only prints on the shovel.</p>
+<p><strong>Raina Press</strong>: Justin wears work gloves.</p>
+<p><strong>Lawyer (woman)</strong>: Which explains the absence of his prints.</p>
+<p><strong>Warrick</strong>: That's possible. But your client's fingerprints provided a sufficient basis for a warrant to search her vehicle. </p>
+<p>(Quick flashback to: [BACK OF CAR] WARRICK sprays luminol on the back seat. It starts to glow.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: The choice of weapon and the manner of disposal suggest that this was not a premeditated murder.</p>
+<p>(He puts the shovel on the table.)</p>
+<p><strong>Catherine</strong>: You can help yourself here. You can avoid murder one by telling us what set you off.</p>
+<p><strong>Raina Press</strong>: You wouldn't understand.</p>
+<p><strong>Catherine</strong>: Try me.</p>
+<p><strong>Raina Press</strong>: I bought Tessa a bus pass, and that little slut still gets my guy to pick her up after school.</p>
+<p><strong>Lawyer (woman)</strong>: Raina ... </p>
+<p><strong>Raina Press</strong>: Shut up! We all know why. </p>
+<p><strong>Catherine</strong>: Why don't you tell us?</p>
+<p><strong>Raina Press</strong>: She was trying to steal him from me.</p>
+<p>(Quick flashback to: [THAT AFTERNOON] RAINA watches grimly as JUSTIN'S truck turns into her driveway. TESSA gets out of the truck.)</p>
+<p><strong>Tessa</strong>: Bye! Thanks, Justin!</p>
+<p>(She closes the truck door, adjusts her backpack and heads for the house.)</p>
+<p><strong>Raina Press</strong>: What the hell were you doing with him?</p>
+<p><strong>Tessa Press</strong>: Mom, he just gave me a ride home.</p>
+<p><strong>Raina Press</strong>: You think you got him wrapped around your little finger?</p>
+<p><strong>Tessa Press</strong>: He's just being nice, okay?</p>
+<p><strong>Raina Press</strong>: Were you nice back?</p>
+<p><strong>Tessa Press</strong>: Don't do this again, please!</p>
+<p><strong>Raina Press</strong>: You don't talk to me like that, you little bitch.</p>
+<p><strong>Tessa Press</strong>: Mom, you're being ridiculous.</p>
+<p>(TESSA turns and heads for the house.)</p>
+<p><strong>Raina Press</strong>: Where the hell do you think you're going? (RAINA picks up the shovel.) I've given you everything. </p>
+<p>(She swings and hits TESSA on the back of her head. She falls.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Raina Press</strong>: Justin was the best thing in my life.</p>
+<p><strong>Catherine</strong>: No. Your daughter was the best thing in your life.</p>
+<p>(CATHERINE stands up.)</p>
+<p><strong>Raina Press</strong>: You didn't know her.</p>
+<p><strong>Catherine</strong>: (scoffs) I know she was thirteen years old. A child.</p>
+<p>(CATHERINE leaves.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -- DAY] </p>
+<p>(GRISSOM and SARA walk through the hallway. SARA fills GRISSOM in.) </p>
+<p><strong>Sidle</strong>: I just got the court order from the pharmaceutical database. Fortunately, dioxipin isn't widely prescribed. FDA only approved it two years ago, and most dermatologists don't even know what it is.</p>
+<p><strong>Grissom</strong>: How many names on the list?</p>
+<p><strong>Sara</strong>: Well, in Clark County, twelve prescriptions were filled. I cross-referenced them with the employees from the park, and I got a hit. You want a clue? Her death ended the Ptolemy dynasty's reign in ancient Egypt, hence making her the last pharaoh.</p>
+<p><strong>Grissom</strong>: Ah, the lovely Cleopatra.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(GRISSOM and SARA interview LISA HUNT. Her lawyer sits next to her.) </p>
+<p><strong>Lisa Hunt</strong>: I had a rash. So what? That's not a crime.</p>
+<p><strong>Lawyer (man)</strong>: I read the court order. Uh, you found trace amounts of some ointment on the roller coaster tracks? Is that the only reason for this conversation?</p>
+<p><strong>Grissom</strong>: Your client had a prescription for doxepin. May we see your arms, please?</p>
+<p><strong>Lisa Hunt</strong>: Rash was on my legs. Went away days ago. You want to see?</p>
+<p><strong>Sara</strong>: Uh, that's okay.</p>
+<p><strong>Lawyer (man)</strong>: Unless you want to argue that my client stood on her head and held a wrench in her toes, we're done here.</p>
+<p><strong>Grissom</strong>: Do you know how you contracted the rash, Lisa?</p>
+<p><strong>Lisa Hunt</strong>: Best guess, I was getting some help with my homework. We were studying outside on the grass. Took a break, went for a walk. I think I brushed up against something.</p>
+<p><strong>Sara</strong>: Who's &quot;we&quot;?</p>
+<p><strong>Lisa Hunt</strong>: My math tutor.</p>
+<p><strong>Sara</strong>: And what's his name?</p>
+<p><strong>Lisa Hunt</strong>: Zack Lawrence.</p>
+<p><strong>Grissom</strong>: Do you know if he contracted the rash, as well?</p>
+<p><strong>Lisa Hunt</strong>: Yeah. Actually, I gave him some of my ointment.</p>
+<p>CUT TO:<br />
+[EXT. AMUSEMENT PARK - CAROUSEL -- NIGHT] </p>
+<p>(BRASS and SARA walk up to ZACK LAWRENCE standing on the carousel.) </p>
+<p><strong>Brass</strong>: Hey, Zack.</p>
+<p><strong>Zack Lawrence</strong>: Oh, hey, guys.</p>
+<p><strong>Brass</strong>: We spoke with Lisa. She said she gave you some ointment for some nasty rash you have.</p>
+<p><strong>Zack Lawrence</strong>: Yeah, yeah.</p>
+<p><strong>Sara</strong>: You know, it's illegal to use someone else's prescription medications.</p>
+<p><strong>Zack Lawrence</strong>: Is that why you guys are here?</p>
+<p><strong>Brass</strong>: Not exactly.</p>
+<p><strong>Zack Lawrence</strong>: Um, you guys mind if we talk about this somewhere else?</p>
+<p><strong>Brass</strong>: Hey, good idea. Why don't we go downtown? We can talk there.</p>
+<p>(ZACK LAWRENCE leaves his broom and steps off the carousel.)</p>
+<p><strong>Brass</strong>: Come on. Come on.</p>
+<p>ZACK LAWRENCE. All right.</p>
+<p>(SARA stands there thinking a moment. BRASS turns to look at her.)</p>
+<p><strong>Brass</strong>: You coming?</p>
+<p><strong>Sara</strong>: You know, I'm going to catch up.</p>
+<p><strong>Brass</strong>: Okay.</p>
+<p>(SARA steps up onto the carousel, puts her kit down, takes out a pair of gloves and dusts the broom handle for fingerprints.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- NIGHT] </p>
+<p>(SARA and GRISSOM interview ZACK LAWRENCE as his lawyer sits next to him. He shows them his arm.) </p>
+<p><strong>Zack Lawrence</strong>: Yeah, it's, uh, just a little bit of a rash. It's really no big deal.</p>
+<p><strong>Grissom</strong>: Zack, what do you have against roller coasters?</p>
+<p><strong>Zack Lawrence</strong>: What do ... ? I-I don't understand.</p>
+<p><strong>Sara</strong>: This a fingerprint analysis. (She shows him the report.) Zack, I lifted some fingerprints off your broom back at the park. Turns out, they're a match to prints that we lifted off of Jim Nevins' T-Bird and the wrench that was used to kill him.</p>
+<p><strong>Lawyer (man)</strong>: Circumstantial evidence at best.</p>
+<p><strong>Sara</strong>: I also talked to your school principal. You're a straight &quot;A&quot; student, mathalete. Science team. You had a full ride to Stanford next year. You don't sound like the kind of kid that would mess with a roller coaster just for kicks.</p>
+<p><strong>Grissom</strong>: You're a smart guy, Zack. So, uh ... let's talk this out, logically. According to your previous statement, when you locked up on Thursday night, Jim Nevins' car was the only one in the parking lot, right?</p>
+<p><strong>Zack Lawrence</strong>: Yes, sir, that's correct.</p>
+<p><strong>Grissom</strong>: And you knew he was staying in the park to ride the roller coaster.</p>
+<p><strong>Zack Lawrence</strong>: I don't care about Jim Nevins.</p>
+<p><strong>Sara</strong>: What about Lisa Hunt? You tutor her, right? Did Lisa tell you that she had a date with Jim?</p>
+<p><strong>Zack Lawrence</strong>: No, she didn't say anything. It was all over the park. Jim was going to take Lisa on one of his coaster dates. I asked her about it. She said it was a rumor.</p>
+<p><strong>Sara</strong>: It seems to matter to you that she had a date with Jim.</p>
+<p><strong>Zack Lawrence</strong>: Lady, I make $20 an hour tutoring. Why do you think I'd take minimum wage at the Sphinx?</p>
+<p><strong>Sara</strong>: I'm thinking, you want Lisa to see you away from the textbooks.</p>
+<p><strong>Zack Lawrence</strong>: We started hanging out at breaks. Having dinner. And then last week, after tutoring, we went for a walk. And she grabbed my hand.</p>
+<p><strong>Grissom</strong>: Did you think that meant something?</p>
+<p><strong>Zack Lawrence</strong>: Of course.</p>
+<p><strong>Grissom</strong>: But ... you didn't trust her.</p>
+<p><strong>Zack Lawrence</strong>: No. I wanted to.</p>
+<p>(Quick flashback to: [ROLLER COASTER] ZACK stands on the ground and watches LISA on the roller coaster with JIMMY. End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: You tampered with the screws. If she wasn't lying, she wouldn't be on the roller coaster. No harm, no foul.</p>
+<p><strong>Zack Lawrence</strong>: Oh, but you see, she was lying.</p>
+<p><strong>Grissom</strong>: Uh-huh. But you didn't loosen the wheels enough, did you?</p>
+<p><strong>Lawyer (man)</strong>: Don't answer that.</p>
+<p><strong>Grissom</strong>: So when the roller coaster didn't derail, you took things into your own hands.</p>
+<p>(Quick flashback to: [NIGHT] ZACK LAWRENCE waits outside as JIMMY and LISA kiss and make their way off of the ride. End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: Lisa walked home. Jim walked over to his car.</p>
+<p>(Quick flashback to: ZACK attacks JIM and knocks him over the back of the head with the wrench. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: What I don't understand is why you didn't go back and fix the roller coaster.</p>
+<p><strong>Zack Lawrence</strong>: Guess I just didn't think about it.</p>
+<p><strong>Sara</strong>: You'll be thinking about it now. And for the rest of your life.</p>
+<p>CUT TO:<br />
+[EXT. SPHINX AMUSEMENT PARK -- DAY] </p>
+<p>(The OFFICERS remove the crime scene tape and open the ride.) </p>
+<p><strong>Worker</strong>: All right, ladies and gentlemen. Welcome to Pharaoh's Fever. Buckle up. Get ready to scream.</p>
+<p>[VENDOR - CONTINUOUS]</p>
+<p>(GRISSOM and WOODY sit at the vendor's booth sipping from their drinks.)</p>
+<p><strong>Woody</strong>: I should have caught those loose screws. Used to check 'em every morning, but since management cut back on my hours ...</p>
+<p><strong>Grissom</strong>: You're not to blame for this, Woody.</p>
+<p><strong>Woody</strong>: Oh, I just hope they don't blame the coaster. It may not be the Manhattan Express at New York, New York or the Desperado in Primm, but it-it ... it still makes grown men scream.</p>
+<p><strong>Grissom</strong>: My first week in Vegas, I road the Desperado. </p>
+<p><strong>Woody</strong>: My first coaster marathon. I rode that monster for a week straight.</p>
+<p><strong>Grissom</strong>: Hmm. The steel phantom, Kennywood Park, Pennsylvania -- I actually hold the marathon record there.</p>
+<p><strong>Woody</strong>: Uh, uh. My-my favorite's still the, um, King's Island. The Beast.</p>
+<p><strong>Grissom</strong>: Mm. I presented a paper at an entomology convention in Cincinnati just so I could ride Son of Beast. Head over heels on a wooden track.</p>
+<p><strong>Woody</strong>: Ah. So, you prefer wood over steel?</p>
+<p><strong>Grissom</strong>: No. Not really. For me, it's not about the track. (smiles) It's about the thrill.</p>
+<p>(The riders on the roller coaster scream as it swoops down the track.)</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
-
-
-
-
- 
-Daughter:  I don't wanna go! Ooh! Oh, mommy.
-
-Joey: We're all going to die.
-Daughter: Cut it out!
-Mother: Joey, put your seat belt on. Now!
-
-Voice: Here we go! VOICE: Oh, my goodness! VOICE: Whoa!
-
-
-
-Mother: Okay, guys, come on.
-
-Daughter: That was so fun.
-
-Zack Lawrence: All right, ladies and gentlemen, welcome to Pharaoh's Fever. Buckle up. Get ready to scream.
-
-
-Joey: That was so awesome.
-Daughter: When can we ride again?
-Mother: Um, we'll ride it in a minute.
-
-Mother: Um, Four King Tut burgers, uh, two Nile River ice teas and two milks.
-Daughter: Milk is nasty.
-Mother:  Yeah.
-(At the sounds of the excessive screams, the family looks up in time to see the roller coaster cars fly off of the tracks 
-
-
- 
- 
-Brass: So, Dr. Thrillseeker, you ever been on this roller coaster?
-
-Grissom: Pharaoh's Fever, yeah ... but my ride ended at the platform. What do you know?
-Brass: Six dead. Park full of eyewitnesses saw the train fly off the tracks. Four-oh-one-B.
-Grissom: Accident with injury.
-Brass: Uh-huh.
-Grissom: It's also a Four-Eighteen-B.
-Brass: A runaway?
-Grissom:  A runaway train.
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Nick: Hey. Sorry we're late. There was a news van blocking the entrance.
-Grissom: This is the first time a roller coaster has derailed in Clark County. Huge criminal and civil liabilities issues, so keep it quiet. Photograph the scene. Bag and tag all the detritus. Forklift anything bigger than Greg. We're going to put up a tent on the other side of the parking lot for accident reconstruction. Questions?
-Greg: Yeah. What's that guy doing so far away from the others?
-
-Grissom: Curious, isn't it?
-
-Greg: So, when he asks if anybody has any questions, he's not really asking?
-Sara: Well, I don't know much about roller coaster accidents, but in auto collisions, the victims found furthest away from the car usually weren't wearing a seat belt. That'd be my bet.
-
-Nick: Okay, let's go to work.
-Greg: What should I do?
-Nick: Uh, photo-evidence log -- just record everything we collect, okay?
-
- 
- 
-Officer: Couple of mountain bikers called in the body. Coroner just arrived.
-Catherine: Hi, David.
-David Phillips: Hey. Tessa Press. School I.D. was in her pocket. She's 13.
-
-Warrick: I hate these cases.
-Catherine: Now ... the body position is inconsistent with her lividity.
-David Phillips: After she died, blood settled to her anterior and lividity fixed. 
-Catherine: So she had been facedown.
-David Phillips: Yeah.
-Warrick: And someone dumped her face up.
-
-Catherine: How long has she been here?
-David Phillips: I'll defer that question to the insects.
-
-Catherine: Instar maggots.
-David Phillips: Given the ambient temperature and last night's rain, I'd estimate she's been out here twenty-four hours.
-Catherine: Takes that long for blowfly eggs to hatch.
-Warrick: I guess the rain would've washed away any trace evidence: Tire prints, shoe impressions.
-Catherine: Let's just hope there's some evidence on her body.
-David Phillips: If you're going to drive all the way out here to dump a body, why not take another ten minutes and bury her?
-Warrick: Guess it wasn't worth the killer's time.
-
-
- 
- 
-
-
-
- 
-
-Brass: So, how long you been operating the roller coaster?
-Zack Lawrence: Couple of months. I got a promotion. I used to work the merry-go-round.
-Brass: That's a promotion, huh?
-Zack Lawrence: Yeah. Only little kids go on the merry-go-round.
-Brass: Oh, I see. So you get to meet girls your own age on Pharaoh's Fever.
-Zack Lawrence: Yeah, something like that.
-Brass: What kind of training do you get to be an operator?
-Zack Lawrence:  Training? I release the brake. I press a button. It's green and marked &quot;start&quot;.
-Brass: I get the picture. All right, look, there are six victims. It'd be helpful to know where each of them was sitting.
-Zack Lawrence: Um ... front bench was a girl. She was blond.
-Brass: Yeah?
-Zack Lawrence: Cute.
-
-Zack Lawrence:  Uh, followed by a punk, old folks and some other dude.
-
-Brass: That's only five.
-Zack Lawrence: That's all I remember.
-
-Brass: &quot;See yourself scream&quot;? What's this about?
-Zack Lawrence: We got a digital camera. It's mounted right over there.
-Brass: How does that work?
-Zack Lawrence: Camera's on a trigger. Train passes by, automatically snaps a picture and stores it in the computer's hard drive. The train was airborne. Never even got close to the camera.
-Brass: I'm still going to want to take that computer.
-
- 
- 
-Woody: I'm the park's chief engineer. Been working on coasters since before I was tall enough to ride 'em.
-Grissom: You responsible for maintaining this roller coaster?
-Woody: I keep all the rides up to code.
-Grissom: You have any idea what would cause this train to go off the track?
-Woody: Well, in theory, I didn't think it was possible. There's never been an accident like this anywhere.
-Grissom: So, you're an expert?
-Woody: On roller coasters? Hell yeah. Ten years of service on Six Flags'
-American Eagle before moving to Vegas.
-
-Grissom: Do you know what that is?
-Woody: That's a nut. It, uh ... secures the wheel to the screw.
-Grissom: Well, one loose screw ... couldn't cause a train to derail, could it?
-Woody: No, no, there's, uh ... eight wheels per train. They-they'd all have to be loose, and, uh ... that just doesn't happen.
-
-
- 
- 
-
-Grissom: &quot;There are three things in human life that are important. The first is to be kind; the second one is to be kind; and the third one is to be kind.&quot;
-Sara: Henry James.
-Grissom: Very good. Author of one of the greatest horror stories ever written: Turn of the Screw. And I'm looking for one.
-
-Sara: A screw?
-Grissom: Yes.
-Nick: Oh, well ... technically, these are eccentric shafts, not screws.
-Grissom: Well, as long as you can screw a nut on it, it's a screw.
-Sara: &quot;Turn of the Screw&quot; isn't really a horror story. It's more of a mystery. Did the governess kill the little boy, or did the ghost do it?
-Grissom: Well, it's only a mystery if you believe in ghosts.
-
-Grissom: End threads are stripped.
-Nick: Means the nuts were loose. Excessive play on the screws would've worn down the threads.
-Grissom: And the nuts would've popped off.
-
-Greg: Nuts don't just pop off by themselves.
-Grissom: We got tool marks.
-Grissom: Vertical striations, evenly spaced. 
-Nick: Could've been a pipe wrench.
-Sara: Maybe whoever maintains the roll coaster uses a pipe wrench to tighten the nuts.
-Nick: Or whoever loosened the nuts screwed up.
-
- 
- 
-Raina Press: It's Tessa. I don't understand. How could this ... ? My baby.
-Catherine: I'm very sorry.
-Raina Press: She's beautiful, isn't she?
-Warrick: Ma'am, the coroner believes that Tessa died over twenty-four hours ago. Had you reported her missing?
-Raina Press: Couple nights a week, she'd sleep at her friend Carrie's. There's just the two of us. I'm a waitress. Work nights. That way I can ... make her breakfast and be there when she gets home from school.
-Warrick: When was the last time that you saw her?
-Raina Press: Yesterday morning. I got home around 6:00. We made pancakes. I packed her lunch and kissed her good-bye. When she didn't come home from school, I just figured she was at Carrie's. I should have called, but I didn't want to be a nag. I want to see her.
-Catherine: Officer, could you please escort Ms. Press ... to the morgue.
-
-Warrick: When's the last time you went twenty-four hours without talking to Lindsey?
-Catherine: A single mother, working nights.
-Warrick: I'm just saying, she didn't check on her own kid, you know?
-Catherine: Ah, you do the best you can.
-
- 
- 
-Robbins: Introductions. Shelly Hoffman, 25. Cause of death -- lacerated ventricle. Noah Nuland, 15. C.O.D.-- Head contusion. The swelling of the brain killed him within minutes. Now, Gary Clodfelter died of shock. His wife, May, exsanguinated. And their son, Cameron - another head contusion.
-Grissom: What about this guy?
-Robbins: Jim Nevins, 20. Park employee. Died from a temporal herniation. Impact to the head caused the brain to swell, which, in turn, put pressure on the brain stem.
-Grissom: According the ride operator, there were only five passengers on the roller coaster, and no employees.
-Robbins: Right.
-Grissom: So ... maybe Nevins was just an unfortunate bystander. Hit in the head by a falling roller coaster.
-Robbins: The chicken little theory? But here's the hitch. The others died roughly ten hours ago. Mr. Nevins' rigor mortis is fixed. Body temp puts the time of his death approximately sixteen hours before the others -- right around
-1:00 a.m.
-
-Grissom:  Albert... dead men don't ride roller coasters.
-FADE OUT
-
-
-
-
- 
- 
-Grissom: We're going to need to see the underside of the loading platform.
-Woody: Oh, follow me. Rumor has it the park's going to shut down Pharaoh's Fever for good. You know anything about that?
-Grissom: No.
-Woody: Newspaper called it &quot;A Death Trap.&quot; An &quot;Accident waiting to happen&quot;.
-Sara: You disagree with that?
-
-Woody: Well, she's old and wrinkled, but I took good care of her.
-
-Grissom: Uh, Woody? We'd like to be alone.
-Woody: Holler if you need anything.
-
-
-
-Grissom: Well, easy access. Wheels are in reach.
-Sara: Anyone could have loosened the nuts from down here.
-
-Sara: Check this out. Is that lubricant, maybe?
-Grissom: It's a funny place for lubricant. It's not even on the track.
-Sara: I'll swab it.
-
-Grissom: Hey, look at that. 
-Sara: That's worse than just a wrinkle.
-Woody:  It's got a support beam under it. 
-
-Woody: It's just a cosmetic problem.
-Sara: Sir, you need to step away. 
-
-Sara: We need some time. This is an active investigation.
-
-Grissom: Were you aware that that support beam was detached?
-Woody: Well, hell, yeah. Fixed it a half dozen times this year. It's in my maintenance log. But like I said, that cross bar is supported by the metal beam.  But since my hours were cut back last November, I've had to prioritize my &quot;fix-ums.&quot; Yeah, it's really too back, but, uh, you know--
-
-Grissom: Woody, we'd like to requisition your pipe wrench.
-Woody: It's, uh, not technically mine.
-Sara: Are you the only one that uses it?
-Woody: Yeah, but it's the property of the park.
-Grissom: Well, I promise we'll get it back to you.
-
-Sara: Thank you.
-
-Grissom:  Yeah?
-
-
-
-Nick:  I'm processing the dead park employee's clothing. The shirt and the pants are covered in red fibers.
-
-Grissom:  Anything distinctive?
-Nick:  Well, they're trilobal.
-Grissom:  Well, we need to find a car with a red interior.
-
-
-
-Sara: Hi.
-
-Greg: The roller coaster broke into one hundred and six parts. I just logged the final piece.
-Sara: Good work.
-Greg: I found something a little unusual, for a roller coaster.
-
-Greg: Not a sailor, but a ...
-Sara:  Semen? s*x on the roller coaster?
-Greg: Or some kid shaking hands with shorty.
-
-Grissom: The release of epinephrine and adrenaline while riding a roller coaster can produce a stimulatory effect. It enhances ejaculation.
-Greg: Right. But is it probative to our investigation?
-Sara: Well, um, why don't you swab a sample, and you can tell us.
-Grissom: Greg, do we know who the R.O. of this t-bird is?
-
-Greg: Uh ... Jim Nevins.
-Grissom: The dead employee.
-Greg: I didn't realize the cars were relevant to our investigation.
-Grissom: Everything's relevant Greg, until it's not.
-
-Sara: Grissom.
-
-Sara: Take a look at this.
-
-Grissom: A pipe wrench.
-
-Sara: Blood.
-Grissom: Greg, may I?
-
-Grissom: Blood pool.
-
-Grissom: Camouflaged by the red carpet. That explains the autopsy findings. Nevins may have never been in the roller coaster. Possibly killed by that wrench and stuffed in his own trunk.
-Sara: And, uh, then what?  A renegade roller coaster comes along sixteen hours later, and propels Nevin's body from the trunk to the blacktop?
-Grissom: I'm just following the evidence.
-Sara: I'll call Brass, see if he can find an eyewitness that can place the car in the parking lot at the time of Nevin's death.
-
-
-
-
-Zack Lawrence: Uh, so, Woody said that I might be able to help you with your investigation.
-Brass: Zack, you close up shop at the Sphinx at night.
-Zack Lawrence: Yeah, Monday to Friday. Uh, class till 3:00. Tutor kids in math till 5:00, and then I head over to the park. We close at 10:00.
-Brass: Did you notice any cars in the parking lot after closing on Thursday night?
-Zack Lawrence: Jimmy Nevins. His red t-bird was out there.
-Brass: Oh, you know Jimmy?
-Zack Lawrence: Yeah, sure; pretty cool guy. Worked the bumper cars. I still can't believe what happened, you know? I mean, I must have rode that coaster, like, phew, a hundred times, maybe more. Anyway, sometimes Jimmy stayed after closing.
-Brass: Why? 
-Zack Lawrence: Look, I'm not trying to get anybody in trouble, but occasionally, Jimmy would take his ... dates for rides on The Fever, you know? Everybody knew about it. It was really no big deal.
-Brass: Do you happen to know the name of his date on Thursday night?
-Zack Lawrence: No, sorry.
-Brass: How did Jimmy get access to the park? I mean, all the power is shut down at night.
-Zack Lawrence: The same key that opens up the men's room door opens up all the power boxes at the park.
-Brass:  No kidding.
-Zack Lawrence: It's just hanging outside Woody's office.
-Brass: What about security?
-Zack Lawrence: Nope. Night guy got laid off. Budget cuts last winter. It's not like anybody's going break into an amusement park and steal a coaster, you know?
-
- 
- 
-David Phillips: X-rayed Tessa's neck. Blade appears to have perforated her fifth cervical intervertebral disc, lacerating the spinal cord. 
-
-David Phillips: Type of trauma suggests we're looking at asphyxia due to diaphragmatic paralysis.
-
-Warrick: It looks like there's soil inside of her wound.
-David Phillips: Well, we did find her outside.
-Warrick: Right. Should be soil around the wound. And on the wound, but not inside of it.
-
-
- 
-
- 
-
-Nick:  Oh, I am the man.
-
-Grissom: Are you?
-Nick: I microsilled the pipe wrenches you and Sara turned into evidence. I excluded Woody's wrench. Take a look at the tool marks from the wrench found in the t-bird. On the left, the sabotaged nut. On the right, the test marks.
-
-Grissom: Perfect match.
-Nick: I have a theory maybe Jim Nevins sabotaged the roller coaster. 
-
-Nick: When he left the park, someone attacked him, grabbed his wrench and hit him over the head with it.
-(Quick flashback to: SOMEONE drags JIM NEVINS body over to the car and dumps it into the trunk. He tosses the pipe wrench in the trunk with the body. End of flashback. Resume to present.
-Grissom: Did you any prints off the wrench?
-Nick: I got a partial. And I had a tech print the T-bird. Found two sets of prints on the trunk's lid.
-
-Nick: One belonged to the vic, the other unknown, but it did match the partial.
-
-Greg: That semen from the coaster's cab was just processed in my lab. All I can say is, Nevins was a cad.
-Nick: Semen match the dead guy's?
-Greg: Yup. And Sara spoke to Brass, who says Nevins was known for taking girls on private rides. Pharaoh's fever was his Spanish fly.
-Nick: Well, there goes my theory. No one tampers with their s*x machine.
-FADE OUT
-
-
-;
-
-
-
- 
- 
-Sara: Multitrack digital camera snaps photos of all the passengers. The park finally sent over their computer, so I'm scanning through the day of the accident.
-Nick: Can you go back in time, to the night before?
-Sara: Yeah. Why?
-Nick: Jim Nevins may have been on that coaster. I want to see if anyone was with him.
-
-Nick: Oh. So much for safe s*x.
-Sara: Who's the girl?
-Nick: Reverse one more pic.
-
-Nick: Now, that picture's worth five bucks.
-Sara: Last time stamp of the night was 12:45 A.M. Coroner placed Nevins' T.O.D at 1:00 A.M.
-Nick: We need to find that girl.
-
-
-
-
-Catherine: Hey.
-Warrick: Hey.
-Catherine: Got your page. What's up?
-Warrick: Tessa Press took the bus to and from school, not far from here.
-Catherine: Mm-hmm.
-Warrick: I showed her picture to the mini-mart manager. She remembers seeing her the day that she was killed.
-
-Catherine: Wow. This place is crawling with kids. She remembers her?
-Warrick: She says she came in every afternoon and bought a little Debbie and a soda.
-Catherine: Have we tracked down her friend, Carrie?
-Warrick: Officer Ray did speak with Carrie and her parents, and they confirmed that Tessa sleeps at least two nights a week over their place.
-Catherine: And was she supposed to sleep over the day that she was killed?
-Warrick: I don't think they had any kind of a schedule. She would just show up, and when she didn't, they'd assumed that she was at home.
-
-Catherine: Warrick.
-Warrick: I've already secured the footage.
-
- 
- 
-Sara: Oh, roller coaster wacko at 12:00.
-Woody: I heard you were looking for someone.
-Sara: Sir, do you recognize this young woman?
-
-Woody: Oh, sure, it's Cleopatra. She works in food services. Second pyramid on the left.
-Grissom: Thank you, Woody.
-
-
-
-Marc Anthony: Hey, can I help you?
-Sara: Actually, we're looking for Cleopatra.
-Marc Anthony:  She's on break. But can I get you anything?
-
-Sara: No, thanks.
-
-Grissom: Quadratic equations? That's not easy.
-Lisa Hunt: Glad you think so. I have a &quot;D&quot; average. If I fail the final, my family's going to Hawaii without me.
-Sara: We're with the Crime Lab. We have some questions.
-
-Lisa Hunt: I had no idea those cameras worked at night. 
-Grissom: Is your name really Cleopatra?
-Lisa Hunt: Lisa. Lisa Hunt.
-Sara: Lisa, you know your friend in this photograph is dead, right?
-Lisa Hunt: Right.
-Sara: You don't seem too upset about that.
-Lisa Hunt: D.L. on Jimmy Nevins: Four years ago, when I was a frosh and he was a senior, he was my Jordan Catalano. Know what I mean? But he didn't know my name. So four years later, when I started working here, he's still working here-- total loser, but still really hot -- so when he asked me out, there was only one answer: &quot;When and where?&quot; 
-Sara: After hours at the roller coaster.
-Lisa Hunt: I know, I thought the same thing -- cheez whiz. But, I mean, what the hell? I'd never done it on a roller coaster.
-Sara: It was your first date.
-Lisa Hunt:  You sound like my mother. Oh, god, you're not going to tell her, are you? I just turned eighteen. There is nothing statutory about it, I swear.
-Grissom: Lisa, we need to know what the two of you did when you got off the ride.
-Lisa Hunt: We talked. I mean, not that he had much to say. He offered to drive me home, but I only live a few blocks from here, so I told him I'd huff it. Mm, we kissed - way too much slobber. And that was it.
-Sara: Was there anyone else around?
-Lisa Hunt:  I-I didn't see anybody, but I wasn't really looking.
-
- 
- 
-Warrick: I found Tessa.
-
-Catherine: Yeah, you're not the only one.
-Warrick: Yeah.
-
-Catherine: Can you enlarge it?
-
-
- 
- 
-Henry: Yeah, that's me.
-Catherine: And who's that with you?
-Henry: Tessa Press.
-Catherine: You two were friends?
-Henry:  We sat next to each other on the bus.
-Catherine: She was thirteen. How old are you?
-
-Henry's Mother:  What's that supposed to mean?
-Henry: No, mom, it's okay. I-I'm 15. I felt sorry for her. The girls picked on her. Made fun of her frizzy hair, her old clothes. Stuff like that. She'd sit next to me, and they'd leave her alone.
-Catherine: In the photo, you're grabbing her arm.
-Henry: It wasn't like that. I just got my learner's permit. My mom was waiting in the car. We were just going to get slushies. I saw Tessa in the parking lot.
-
-Henry: Hey, Tessa. Hey.
-Tessa Press: Henry.
-Henry: You want a ride, just door to door?
-Tessa Press: No, that's okay.
-Henry: Oh, come on. You're not scared to drive with me, are you?
-
-Tessa Press: No, it's okay. I got it.
-
-
-Henry: She said she was getting a ride from someone else.
-Catherine: Did she say who?
-Henry: No. But when we pulled away, I saw her getting into a truck. I didn't see the driver.
-
- 
- 
-David Hodges:  I've got a question for you. What substance contains the following ingredients: Sorbitol, cetyl alcohol, isopropyl myristate, glyceryl, stearate, peg-100 stearate, petrolatum, benzylalcohol, titanium dioxide and purified water?
-Sara: Okay, I assume that you've identified the substance we found on the roller coaster track?
-David Hodges: Correct. It's doxepin ointment.
- 
-David Hodges: Sounds Klingon, huh? Anyway, uh, it's prescribed by doctors to treat dermatological inflammations caused by contact with certain types of plants. 
-Sara: Maybe whoever messed with the tracks transferred the ointment when they loosened the wheels.
-
-David Hodges: Your killer has a rash.
-Sara: And we need to catch it.
-FADE OUT
-
-
-
- 
- 
-Warrick: I've been looking for you.
-Catherine: What's up?
-Warrick: Hodges analyzed the trace from inside Tessa's wound.  It seems it was zoodoo.
-Catherine: Come again.
-Warrick: Hoof stock. It's a combination of feces from rhinos, zebras, and bison.
-Catherine: You're kidding?
-Warrick: They say that the smell of wild animal crap keeps the deer away.
-Catherine: Who knew? Uh, so can we track the source of ... ?
-Warrick: There is a zoo in Auckland that exports it. And there's only one landscaping company in Clark County that imports it -- ADL. I contacted ADL, and guess what they told me? Couple of months back, they were hired by the victim's mother.
-
- 
- 
-Brown: Hmm. ADL landscaping. Must've been a big job -- she hired them months ago.
-
-Catherine: Zoodoo.
-
-
-
-Catherine: Hello.
-Raina Press: Hi. I just left you a message. Any news? Honey, these guys are from the crime lab.  Justin Mack, my boyfriend.
-Justin Mack: How you doing?
-Warrick: Hey. Could I have a word with you outside for a moment?
-Justin Mack: Why?
-Warrick: Why not?
-
-Catherine: May I?
-
-
-
-Raina Press: How can you be sure it was Justin's truck?
-Catherine: At this point, we're just following a lead. How long have you known Justin?
-Raina Press: Uh ... few months. Hired him to lay sod. Now we're in the midst of an outdoor overhaul.
-Catherine: And where's Tessa's father?
-Raina Press: L.A., maybe. I don't know. I haven't heard from him since the divorce. He'll find a way to blame me for this. 
-
-
-Justin Mack: You see, Raina said it was important for Tessa to take the bus to school. Said it helps build independence. But sometimes I'd pick her up at the bus stop, buy her an ice-cream cone, and drop her off here.
-Warrick: Did you pick her up that afternoon?
-Justin Mack: Look, I know there are a lot of whack-jobs in the world, and you're just doing your job, but watch it.
-Warrick: You mind if I take a look in the back of your truck? 
-Justin Mack: Don't you need a warrant?
-Warrick: Only if you deny me access.
-
-Justin Mack: Go ahead.
-Warrick: Thanks.
-
-Catherine: Have you ever left Tessa alone with Justin?
-Raina Press: Sure. He's over here all the time. He's a good man. He wouldn't hurt anybody, especially not Tessa.  Damn, I keep expecting her to walk through that door.
-
-
-
- 
- 
-Warrick: In 1988, your client was arrested for a drunk and disorderly. Your fingerprints were then entered into our database. They match the fingerprints that we found on this shovel.
-
-
-Catherine: The blood on the blade matches your daughter's DNA.
-Lawyer : My client is landscaping her backyard with her boyfriend. Explains her prints on his shovel. 
-Warrick: They were the only prints on the shovel.
-Raina Press: Justin wears work gloves.
-Lawyer : Which explains the absence of his prints.
-Warrick: That's possible. But your client's fingerprints provided a sufficient basis for a warrant to search her vehicle. 
-
-
-Warrick: The choice of weapon and the manner of disposal suggest that this was not a premeditated murder.
-
-Catherine: You can help yourself here. You can avoid murder one by telling us what set you off.
-Raina Press: You wouldn't understand.
-Catherine: Try me.
-Raina Press: I bought Tessa a bus pass, and that little slut still gets my guy to pick her up after school.
-Lawyer : Raina ... 
-Raina Press: Shut up! We all know why. 
-Catherine: Why don't you tell us?
-Raina Press: She was trying to steal him from me.
-
-Tessa: Bye! Thanks, Justin!
-
-Raina Press: What the hell were you doing with him?
-Tessa Press: Mom, he just gave me a ride home.
-Raina Press: You think you got him wrapped around your little finger?
-Tessa Press: He's just being nice, okay?
-Raina Press: Were you nice back?
-Tessa Press: Don't do this again, please!
-Raina Press: You don't talk to me like that, you little bitch.
-Tessa Press: Mom, you're being ridiculous.
-
-Raina Press: Where the hell do you think you're going?  I've given you everything. 
-
-
-Raina Press: Justin was the best thing in my life.
-Catherine: No. Your daughter was the best thing in your life.
-
-Raina Press: You didn't know her.
-Catherine:  I know she was thirteen years old. A child.
-
-
- 
- 
-Sidle: I just got the court order from the pharmaceutical database. Fortunately, dioxipin isn't widely prescribed. FDA only approved it two years ago, and most dermatologists don't even know what it is.
-Grissom: How many names on the list?
-Sara: Well, in Clark County, twelve prescriptions were filled. I cross-referenced them with the employees from the park, and I got a hit. You want a clue? Her death ended the Ptolemy dynasty's reign in ancient Egypt, hence making her the last pharaoh.
-Grissom: Ah, the lovely Cleopatra.
-
- 
- 
-Lisa Hunt: I had a rash. So what? That's not a crime.
-Lawyer : I read the court order. Uh, you found trace amounts of some ointment on the roller coaster tracks? Is that the only reason for this conversation?
-Grissom: Your client had a prescription for doxepin. May we see your arms, please?
-Lisa Hunt: Rash was on my legs. Went away days ago. You want to see?
-Sara: Uh, that's okay.
-Lawyer : Unless you want to argue that my client stood on her head and held a wrench in her toes, we're done here.
-Grissom: Do you know how you contracted the rash, Lisa?
-Lisa Hunt: Best guess, I was getting some help with my homework. We were studying outside on the grass. Took a break, went for a walk. I think I brushed up against something.
-Sara: Who's &quot;we&quot;?
-Lisa Hunt: My math tutor.
-Sara: And what's his name?
-Lisa Hunt: Zack Lawrence.
-Grissom: Do you know if he contracted the rash, as well?
-Lisa Hunt: Yeah. Actually, I gave him some of my ointment.
-
- 
- 
-Brass: Hey, Zack.
-Zack Lawrence: Oh, hey, guys.
-Brass: We spoke with Lisa. She said she gave you some ointment for some nasty rash you have.
-Zack Lawrence: Yeah, yeah.
-Sara: You know, it's illegal to use someone else's prescription medications.
-Zack Lawrence: Is that why you guys are here?
-Brass: Not exactly.
-Zack Lawrence: Um, you guys mind if we talk about this somewhere else?
-Brass: Hey, good idea. Why don't we go downtown? We can talk there.
-
-Brass: Come on. Come on.
-ZACK LAWRENCE. All right.
-
-Brass: You coming?
-Sara: You know, I'm going to catch up.
-Brass: Okay.
-
-
- 
- 
-Zack Lawrence: Yeah, it's, uh, just a little bit of a rash. It's really no big deal.
-Grissom: Zack, what do you have against roller coasters?
-Zack Lawrence: What do ... ? I-I don't understand.
-Sara: This a fingerprint analysis.  Zack, I lifted some fingerprints off your broom back at the park. Turns out, they're a match to prints that we lifted off of Jim Nevins' T-Bird and the wrench that was used to kill him.
-Lawyer : Circumstantial evidence at best.
-Sara: I also talked to your school principal. You're a straight &quot;A&quot; student, mathalete. Science team. You had a full ride to Stanford next year. You don't sound like the kind of kid that would mess with a roller coaster just for kicks.
-Grissom: You're a smart guy, Zack. So, uh ... let's talk this out, logically. According to your previous statement, when you locked up on Thursday night, Jim Nevins' car was the only one in the parking lot, right?
-Zack Lawrence: Yes, sir, that's correct.
-Grissom: And you knew he was staying in the park to ride the roller coaster.
-Zack Lawrence: I don't care about Jim Nevins.
-Sara: What about Lisa Hunt? You tutor her, right? Did Lisa tell you that she had a date with Jim?
-Zack Lawrence: No, she didn't say anything. It was all over the park. Jim was going to take Lisa on one of his coaster dates. I asked her about it. She said it was a rumor.
-Sara: It seems to matter to you that she had a date with Jim.
-Zack Lawrence: Lady, I make $20 an hour tutoring. Why do you think I'd take minimum wage at the Sphinx?
-Sara: I'm thinking, you want Lisa to see you away from the textbooks.
-Zack Lawrence: We started hanging out at breaks. Having dinner. And then last week, after tutoring, we went for a walk. And she grabbed my hand.
-Grissom: Did you think that meant something?
-Zack Lawrence: Of course.
-Grissom: But ... you didn't trust her.
-Zack Lawrence: No. I wanted to.
-
-Sara: You tampered with the screws. If she wasn't lying, she wouldn't be on the roller coaster. No harm, no foul.
-Zack Lawrence: Oh, but you see, she was lying.
-Grissom: Uh-huh. But you didn't loosen the wheels enough, did you?
-Lawyer : Don't answer that.
-Grissom: So when the roller coaster didn't derail, you took things into your own hands.
-
-Sara: Lisa walked home. Jim walked over to his car.
-
-Grissom: What I don't understand is why you didn't go back and fix the roller coaster.
-Zack Lawrence: Guess I just didn't think about it.
-Sara: You'll be thinking about it now. And for the rest of your life.
-
- 
- 
-Worker: All right, ladies and gentlemen. Welcome to Pharaoh's Fever. Buckle up. Get ready to scream.
-
-
-Woody: I should have caught those loose screws. Used to check 'em every morning, but since management cut back on my hours ...
-Grissom: You're not to blame for this, Woody.
-Woody: Oh, I just hope they don't blame the coaster. It may not be the Manhattan Express at New York, New York or the Desperado in Primm, but it-it ... it still makes grown men scream.
-Grissom: My first week in Vegas, I road the Desperado. 
-Woody: My first coaster marathon. I rode that monster for a week straight.
-Grissom: Hmm. The steel phantom, Kennywood Park, Pennsylvania -- I actually hold the marathon record there.
-Woody: Uh, uh. My-my favorite's still the, um, King's Island. The Beast.
-Grissom: Mm. I presented a paper at an entomology convention in Cincinnati just so I could ride Son of Beast. Head over heels on a wooden track.
-Woody: Ah. So, you prefer wood over steel?
-Grissom: No. Not really. For me, it's not about the track.  It's about the thrill.
-
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=04x21+-+Turn+of+the+Screws&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127374%23p127374" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=04x21+-+Turn+of+the+Screws&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127374%23p127374" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127374%23p127374&amp;name=04x21+-+Turn+of+the+Screws" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127374%23p127374" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=beb6b719ecdabe0aa8631ff00581ce06">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=beb6b719ecdabe0aa8631ff00581ce06">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=beb6b719ecdabe0aa8631ff00581ce06">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=beb6b719ecdabe0aa8631ff00581ce06">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

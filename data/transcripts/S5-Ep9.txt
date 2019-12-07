@@ -1,715 +1,945 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- DAY] 
+[EXT. LAS VEGAS CITY COURTHOUSE (STOCK) - DAY]
+Jeffrey Sinclair: (V.O.) I need you to answer " />
+<meta property="og:title" content="05x09 - Mea Culpa - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- DAY] 
+[EXT. LAS VEGAS CITY COURTHOUSE (STOCK) - DAY]
+Jeffrey Sinclair: (V.O.) I need you to answer " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13291" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>05x09 - Mea Culpa - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13291" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13291">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=429e357543e03814a789f6a1d7e0817d"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=429e357543e03814a789f6a1d7e0817d">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=429e357543e03814a789f6a1d7e0817d">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=429e357543e03814a789f6a1d7e0817d">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=429e357543e03814a789f6a1d7e0817d">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13291&amp;sid=429e357543e03814a789f6a1d7e0817d&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>05x09 - Mea Culpa</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127385">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127385">05x09 - Mea Culpa</a></div>
+							<div class="pull-right text-right"><time datetime="2004-12-10T00:54:54Z">12/10/04 00:54</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- DAY] </p>
+<p>[EXT. LAS VEGAS CITY COURTHOUSE (STOCK) - DAY]</p>
+<p><strong>Jeffrey Sinclair</strong>: (V.O.) I need you to answer the same questions I asked you at the first trial.</p>
+<p>[INT. LAS VEGAS COUNTY COURTHOUSE - JUDGE WITHERSPOON'S COURTROOM - DAY]</p>
+<p>(Trial is in session. The attorney is cross-examining Grissom who is currently on the stand. The jury box is full.) </p>
+<p><strong>Jeffrey Sinclair</strong>: And I need you to answer them honestly, just as you did back then. On December 20, 1999, you responded to a call at 2028 Boulder Highway. Is that correct?</p>
+<p><strong>Grissom</strong>: Yes.</p>
+<p><strong>Jeffrey Sinclair</strong>: Can you describe the crime scene?</p>
+<p><strong>Grissom</strong>: It was a hardware store. I entered through the back door.</p>
+<p>(Quick flashback to: [HARDWARE STORE] Camera's from Grissom's POV as he enters the hardware store and sees the body on the floor.) </p>
+<p><strong>Grissom</strong>: (V.O.) The victim had been severely beaten. </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Grissom</strong>: And our forensics determined that the murder weapon was a wrench.</p>
+<p>(Jeffrey Sinclair picks up the evidence bag.) </p>
+<p><strong>Jeffrey Sinclair</strong>: Exhibit A. Do you recognize this object?</p>
+<p>(He shows the evidence bag to Grissom.) </p>
+<p><strong>Grissom</strong>: Yes. I bagged and processed this wrench. My initials are on the seal.</p>
+<p><strong>Jeffrey Sinclair</strong>: Where did you find it?</p>
+<p><strong>Grissom</strong>: It was in a toolbox under the kitchen sink at Garbett's Gourmet, which is a restaurant next to the crime scene.</p>
+<p><strong>Jeffrey Sinclair</strong>: Now, are you certain that this wrench was used to kill the victim?</p>
+<p><strong>Grissom</strong>: Yes. We found trace blood in the metal grooves. And the DNA matched the victim's.</p>
+<p><strong>Jeffrey Sinclair</strong>: What, if anything, did you find on the handle?</p>
+<p><strong>Grissom</strong>: We found the defendant, Mr. Garbett's, fingerprints. We also found his prints at the hardware store.</p>
+<p>(Quick flash of: [HARDWARE STORE] Max Larson is in the store when Jason Garbett walks in and attacks him. End of flashback. Resume to present.) </p>
+<p><strong>Jeffrey Sinclair</strong>: What else did you find at the store?</p>
+<p>(Quick flashback to: [HARDWARE STORE] Jason Garbett tries to set a fire with some old crumpled newspaper. A book of matches is nearby.) </p>
+<p><strong>Grissom</strong>: (V.O.) Well, it appeared that the killer tried to cover his tracks by setting a fire, ... </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Grissom</strong>: (V.O.) ... a lack of sufficient combustibles may have thwarted his effort.</p>
+<p><strong>Jeffrey Sinclair</strong>: Dr. Grissom. Exhibit B. Do you recognize this?</p>
+<p>(The attorney gives Grissom the second bagged evidence. Grissom looks at it.)</p>
+<p><strong>Grissom</strong>: Yes. It's a matchbook.</p>
+<p>(While looking at the matchbook, Grissom sees something he hadn't seen there before.) </p>
+<p><strong>Jeffrey Sinclair</strong>: Did you find this matchbook at the scene?</p>
+<p>(Grissom doesn't answer the question.) </p>
+<p>(The evidence label on the bag reads:<br />
+MATCHBOOK 002<br />
+12-20-99<br />
+2028 BOULDER HWY LV, NV<br />
+GIL GRISSOM G.G.</p>
+<p>(On the inside of the matchbook cover is a red thumbprint.) </p>
+<p><strong>Jeffrey Sinclair</strong>: Dr. Grissom, just so we can be clear, this is the matchbook that you found at the crime scene. Is that correct?</p>
+<p><strong>Grissom</strong>: Your honor, may I take a short break?</p>
+<p><strong>Jeffrey Sinclair</strong>: Um ... prosecution requests a ten-minute recess.</p>
+<p><strong>Defense Attorney</strong>: The defense asks that Dr. Grissom answer the question now.</p>
+<p><strong>Judge Witherspoon</strong>: Answer the question, then we'll break.</p>
+<p><strong>Grissom</strong>: Yes, this is the matchbook I collected at the crime scene.</p>
+<p><strong>Judge Witherspoon</strong>: All right, we'll take a ten-minute recess.</p>
+<p>CUT TO:<br />
+[INT. COURTHOUSE - CONFERENCE ROOM - RECESS - DAY]</p>
+<p>(Grissom is in a conference room looking through the reports.) </p>
+<p><strong>Jeffrey Sinclair</strong>: So, you wanna tell me what this is all about? Grissom, the defendant was found guilty at his first trial. The only reason we're back in court is because his new lawyer convinced some appellate judge the original jury instructions were faulty. This has nothing to do with the evidence.</p>
+<p>(Grissom picks up the matchbook and sighs as he looks at it.) </p>
+<p><strong>Grissom</strong>: There's a fingerprint on this matchbook.</p>
+<p><strong>Jeffrey Sinclair</strong>: So?</p>
+<p><strong>Grissom</strong>: I don't remember it. It's not in my notes. </p>
+<p><strong>Jeffrey Sinclair</strong>: The evidence seal isn't broken. If the print's there now, it was there before.</p>
+<p>(Grissom compares the print on the matchbook with the defendant's print card.) </p>
+<p><strong>Grissom</strong>: The defendant's fingerprints are all loop patterns. This is an arch. It's not a match. This is not the defendant's print.</p>
+<p><strong>Jeffrey Sinclair</strong>: Are you sure? </p>
+<p>(Grissom takes his glasses off and puts the matchbook down on the table.) </p>
+<p><strong>Jeffrey Sinclair</strong>: You know, when the defense hears about this, they are going to call every other piece of evidence into question. I don't need to tell you what that means.</p>
+<p><strong>Grissom</strong>: I've given them reasonable doubt.</p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - HALLWAY -- DAY] </p>
+<p>(Grissom is returning back to work when Conrad Ecklie catches up with him.) </p>
+<p><strong>Conrad Ecklie</strong>: Heard we have a problem.</p>
+<p><strong>Grissom</strong>: The Middle East has a problem.</p>
+<p><strong>Conrad Ecklie</strong>: You missed a fingerprint on a key piece of evidence.</p>
+<p><strong>Grissom</strong>: I'm trying to keep an open mind.</p>
+<p><strong>Conrad Ecklie</strong>: Then how do you explain it?</p>
+<p><strong>Grissom</strong>: At the moment, I can't.</p>
+<p><strong>Conrad Ecklie</strong>: Could someone have substituted a different matchbook?</p>
+<p><strong>Grissom</strong>: Well, the evidence seal wasn't broken. The matchbook's appearance is consistent with the crime scene photos.</p>
+<p><strong>Conrad Ecklie</strong>: Since your original testimony differs from the actual physical evidence, I thought I'd inform you I've opened a supervisory inquiry.</p>
+<p><strong>Grissom</strong>: Well, that's good, Conrad. You know, I can't recall a lab director as expeditious as you.</p>
+<p>(Suddenly, a gunshot sounds along with glass shattering.)</p>
+<p><strong>Voice</strong>: (b.g.) Man! What happened! VOICE: (b.g.) Who's that?</p>
+<p>[INT. CSI - BALLISTICS LAB - DAY - CONTINUOUS]</p>
+<p>(Bobby removes his earphones. He stares at the broken glass when Grissom and Ecklie rush into the lab.) </p>
+<p><strong>Grissom</strong>: You okay, Bobby?</p>
+<p><strong>Bobby Dawson</strong>: Been better.</p>
+<p><strong>Conrad Ecklie</strong>: What the hell happened?</p>
+<p><strong>Bobby Dawson</strong>: I was about to test-fire the mac-10 when it accidentally discharged. Don't know how it happened. Should've been more careful.</p>
+<p><strong>Conrad Ecklie</strong>: Whose, uh, whose case you working?</p>
+<p><strong>Bobby Dawson</strong>: Uh ... (He glances nervously at Grissom.) Sara Sidle and Greg Sanders. Gun was found next to a dead body at an off-strip parking lot.</p>
+<p><strong>Conrad Ecklie</strong>: All right. Make sure you file a report.</p>
+<p><strong>Bobby Dawson</strong>: Yes, sir.</p>
+<p><strong>Conrad Ecklie</strong>: (to everyone) Everybody back to work. (to Grissom) Just keep me posted.</p>
+<p>(Ecklie turns and leaves.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Grissom meets with Catherine, Warrick and Nick to discuss the Max Lawson case.) </p>
+<p><strong>Catherine</strong>: I remember this case. The Garbetts owned a restaurant that was next door to the victim's hardware store. Max Larson owned the private alleyway that was behind both places.</p>
+<p>(Quick flashback to: [ALLEYWAY] Jason Garbett walks out and pulls the garbage bin off to the side.)</p>
+<p><strong>Grissom</strong>: (V.O.) That's right. He blocked the alleyway with a dumpster.</p>
+<p><strong>Jason Garbett</strong>: (under his breath) Jerk.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: Yeah, the guy was a jerk.</p>
+<p><strong>Catherine</strong>: Well, he claimed the restaurant's delivery trucks were clogging the alley.</p>
+<p><strong>Warrick</strong>: Didn't the Garbetts sue to have the dumpster removed?</p>
+<p><strong>Grissom</strong>: They lost. There was no easement in their title.</p>
+<p><strong>Catherine</strong>: And without access for deliveries, the restaurant business just dried up.</p>
+<p><strong>Grissom</strong>: All the physical evidence pointed to Garbett. And according to the victim's business partner, Garbett had an argument with the victim the day before the murder. </p>
+<p><strong>Warrick</strong>: Garbett's appeal didn't call the forensics into question. Why are we here?</p>
+<p><strong>Grissom</strong>: I'm calling the forensics into question. (He holds up the matchbook.)<br />
+I printed this matchbook. There was no print. Take a look at it now.</p>
+<p>(He hands the matchbook to Catherine.) </p>
+<p><strong>Catherine</strong>: Well, the fingerprint's pink -- so you used ninhydrin?</p>
+<p><strong>Grissom</strong>: Mm-hmm.</p>
+<p>(Quick flashback to: [PAST] Grissom sprays the matchbook. End of flashback. Resume to present.) </p>
+<p><strong>Catherine</strong>: Well, I know that on some surfaces, ninhydrin can take time to develop a print. It was in, uh, last May's &quot;Journal of Forensic Sciences&quot;.</p>
+<p><strong>Grissom</strong>: I remember the article. But I can't remember whether the variables in the test case are consistent with ours.</p>
+<p><strong>Nick</strong>: Well, if the print matches the suspect, who cares?</p>
+<p><strong>Grissom</strong>: It doesn't match. So, you and Warrick take over the file -- make sure all of the other evidence is beyond reproach. Catherine, you supervise. To avoid any appearance of impropriety, I'm going to be hands off.</p>
+<p>(Grissom leaves the office.) </p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE -- DAY] </p>
+<p>(Grissom is in his office going through old magazines. There's a soft knock at his door.) </p>
+<p><strong>Grissom</strong>: Sofia.</p>
+<p>(Sofia walks into the office. She sees the &quot;Journal of Forensic Science&quot; magazines scattered on Grissom's desk.) </p>
+<p><strong>Sofia Curtis</strong>: You do know that the &quot;Journal's&quot; back issues are available on-line. The lab has a password. </p>
+<p><strong>Grissom</strong>: When you read from a computer screen, you have to lean in. I like to lean back. Therefore, I prefer a hard copy.</p>
+<p>(She glances down on the desk and picks up a &quot;Journal&quot;.) </p>
+<p><strong>Sofia Curtis</strong>: Is this what you're looking for?</p>
+<p>(She hands it to Grissom. He looks at it.<br />
+VOLUME 48<br />
+NUMBER 3<br />
+MAY 2003</p>
+<p><strong>Grissom</strong>: May. Yes. Thank you. News travels so fast around here.</p>
+<p><strong>Sofia Curtis</strong>: Ecklie travels fast. </p>
+<p><strong>Grissom</strong>: Hmm.</p>
+<p><strong>Sofia Curtis</strong>: Look, in case you're not up-to-date on your QA/QC memos, I've been the lab's Quality Control Officer for the past year.</p>
+<p><strong>Grissom</strong>: Congratulations. That job requires a detail-oriented person.</p>
+<p><strong>Sofia Curtis</strong>: Grissom, I've been assigned to your inquiry. I just wanted to give you the heads-up. I'll be impartial.</p>
+<p><strong>Grissom</strong>: I'd expect nothing less.</p>
+<p>(Sofia turns and heads for the door.) </p>
+<p><strong>Grissom</strong>: &quot;Margaritaville&quot;? </p>
+<p>(She stops and looks at Grissom.) </p>
+<p><strong>Grissom</strong>: That is still the lab's password, right?</p>
+<p>(She smiles and leaves.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Catherine, Warrick and Nick go over the case files.) </p>
+<p><strong>Catherine</strong>: Warrick, in your field report, you documented the collection of several hairs near the body, but DNA never analyzed them.</p>
+<p><strong>Warrick</strong>: Well, the DA had sufficient evidence and filed charges before I could give the hair to Greg, so I moved on to another case.</p>
+<p><strong>Catherine</strong>: Process the hairs now.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p><strong>Nick</strong>: Catherine, do you remember why you were late to this crime scene? Eddie had a gig and you couldn't find a baby-sitter.</p>
+<p><strong>Catherine</strong>: Actually, I kind of made that up. Eddie did have a gig. It ended early and he and I ... well, let's just say that not all my memories of him are bad ones. (to Warrick) Which reminds me you, at the time, were going out with that Assistant Manager of the Flamingo--</p>
+<p><strong>Warrick</strong>: Oh, Susan.</p>
+<p><strong>Catherine</strong>: Boy, did she have it bad for you. She kept calling while we were working the scene. You had to shut your phone off.</p>
+<p><strong>Warrick</strong>: Yeah, well, now she's VP of Food Services, so I get free steak and eggs every Sunday morning.</p>
+<p><strong>Nick</strong>: Free steak and eggs means she didn't know about the flight attendant.</p>
+<p><strong>Warrick</strong>: Does everyone know my business around here?</p>
+<p><strong>Catherine</strong>: Okay, Nicky, since you have such a good memory, why don't you explain the unidentified prints that you lifted from the murder weapon.</p>
+<p><strong>Nick</strong>: I lifted six prints off the wrench. I ran them through I-AFIS. Five were a match to the suspect. One was unidentified. Now, at the time, we all agreed that that print was irrelevant, because the wrench was found in the common area.</p>
+<p><strong>Catherine</strong>: Okay, well, we're going to have to compare that unidentified print with this matchbook print.</p>
+<p><strong>Nick</strong>: Will do. Hey, Catherine ... we didn't do anything wrong here.</p>
+<p><strong>Catherine</strong>: I agree. But the prosecution may not see it that way.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC PATHOLOGY - DAY]</p>
+<p>(Sara and Greg are walking into the room.) </p>
+<p><strong>Sara</strong>: (o.s.) Well, the doc should be able to clear this up.</p>
+<p><strong>Robbins</strong>: Hey, how's Bobby doing?</p>
+<p><strong>Sara</strong>: Shaken, but working hard. Trying to figure out why the gun discharged.</p>
+<p><strong>Robbins</strong>: Well, fortunately, Bobby dodged his bullet -- unlike our victim.</p>
+<p>(Sara glances down at the victim's arm and notices the &quot;RITA&quot; tattoo. Robbins and David go over the body with Sara and Greg.) </p>
+<p><strong>Robbins</strong>: C.O.D's a single gunshot wound to the leg.</p>
+<p>(Robbins points to the bullet hole.) </p>
+<p><strong>David Phillips</strong>: And it severed the femoral artery.</p>
+<p><strong>Greg</strong>: We processed the guy's jeans. Tight GSR pattern around the entrance hole.</p>
+<p><strong>Sara</strong>: So, he was either shot by someone at close range who left the gun behind, or it was self-inflicted.</p>
+<p><strong>David Phillips</strong>: Why would the shooter leave the gun behind?</p>
+<p><strong>Sara</strong>: He probably wouldn't.</p>
+<p><strong>Robbins</strong>: And most suicides are through the torso or through the head.</p>
+<p><strong>Sara</strong>: So if it wasn't intentional ...</p>
+<p><strong>Greg</strong>: It was accidental.</p>
+<p><strong>Robbins</strong>: Greg ... insert this rod into the hole.</p>
+<p>(Robbins hands Greg a colored rod. Greg inserts it into the bullet hole.)</p>
+<p>(Quick CGI POV of: The rod is inserted clear through the flesh and comes out the back of the leg. End of CGI POV. Resume to present.) </p>
+<p><strong>Robbins</strong>: Trajectory is up to down.</p>
+<p><strong>Sara</strong>: Consistent with a self-inflicted, accidental injury.</p>
+<p>(Quick flashback to: [NIGHT] The victim shoots himself in the leg and falls to the ground in pain. End of flashback. Resume to present.) </p>
+<p><strong>Sara</strong>: Have you been able to I.D. Him?</p>
+<p><strong>Robbins</strong>: No wallet. Prints didn't hit. No relatives came forward. So, I'm calling him John Doe Number 124.</p>
+<p>CUT TO:<br />
+[INT. CSI - PRINT LAB] </p>
+<p>(Nick scans the fingerprint from the matchbook into the computer as Catherine watches.) </p>
+<p>(He scans the fingerprint from the wrench into the computer. He compares the two.) </p>
+<p><strong>Nick</strong>: A perfect match.</p>
+<p><strong>Catherine</strong>: Someone other than the suspect touched the matches and the wrench.</p>
+<p><strong>Nick</strong>: The wrench was found in a toolbox in the suspect's restaurant. The murder happened after closing.</p>
+<p><strong>Catherine</strong>: Who else had access to that restaurant?</p>
+<p>CUT TO:<br />
+[INT. CSI - WAITING ROOM -- DAY] </p>
+<p>(Nick meets with Mrs. Katz.) </p>
+<p><strong>Nick</strong>: Mrs. Garbett.</p>
+<p><strong>Mrs. Katz</strong>: It's, uh, Mrs. Katz now. I remarried.</p>
+<p>(They shake hands.) </p>
+<p><strong>Nick</strong>: Oh, okay-- Mrs. Katz. Duly noted. (She sits down.) Please, have a seat. I appreciate you coming down here and meeting with me.</p>
+<p><strong>Mrs. Katz</strong>: Look, my ex-husband called me from jail. I know about the new trial. But this case has nothing to do with me. Not anymore. He got a life sentence. The crime lab testified.</p>
+<p><strong>Nick</strong>: You think he's guilty?</p>
+<p>(She sighs.) </p>
+<p><strong>Mrs. Katz</strong>: Jason was a quiet man. Bottled everything up. In twenty-five years of marriage, he raised his voice ... maybe ... a dozen times. But when he expressed himself ... the neighborhood knew.</p>
+<p>(The door opens and Keith Garbett walks inside.) </p>
+<p><strong>Keith Garbett</strong>: Mom, I got your voice mail.</p>
+<p><strong>Mrs. Katz</strong>: Keith.</p>
+<p><strong>Keith Garbett</strong>: What's going on?</p>
+<p><strong>Mrs. Katz</strong>: Uh, Mr. Stokes is with the crime lab.</p>
+<p><strong>Keith Garbett</strong>: Hi. Look, we'll help in any way we can.</p>
+<p>(Keith sits down.) </p>
+<p><strong>Nick</strong>: What I'd really like to do is get a list of anyone who had access to that restaurant five years ago.</p>
+<p><strong>Keith Garbett</strong>: Sure. May I ask why? </p>
+<p><strong>Nick</strong>: Recent evidence has come to light ...</p>
+<p><strong>Keith Garbett</strong>: What evidence?</p>
+<p><strong>Nick</strong>: Oh, now that I can't discuss.</p>
+<p><strong>Keith Garbett</strong>: My father's innocent.</p>
+<p><strong>Mrs. Katz</strong>: My son has never stopped believing in his father. He has sacrificed everything for Jason: Moved back to Vegas, hired a new attorney, poured all his money into the appeal.</p>
+<p><strong>Nick</strong>: So you weren't living in town at the time of the murder?</p>
+<p><strong>Keith Garbett</strong>: No, I was living in L.A.</p>
+<p><strong>Nick</strong>: Oh, okay.</p>
+<p><strong>Keith Garbett</strong>: Look ... whatever you need from us ... (he looks at his mother) ... mom ... ?</p>
+<p><strong>Mrs. Katz</strong>: Um ... I have some old records back at the house. I could send them over.</p>
+<p><strong>Nick</strong>: Yeah, that'd be great.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY]</p>
+<p>(Close-up of the file box on the table.) </p>
+<p>SUSPECT: GARBETT, JASON<br />
+VICTIM: LARSON, MAX<br />
+DATE AND TIME OF RECOVERY 12-20-99<br />
+RECOVERED BY GIL. GRISSOM<br />
+DESCRIPTION AND/OR LOCATION: 2028 BOULDER HIGHWAY<br />
+SEALED BY ??? DATE 12/99</p>
+<p>(Sofia opens the box cover. She starts putting things into the box. In the hallway in the background, we see Warrick walking up to the DNA lab door. He pauses, turns and sees Sofia working in the lab.) </p>
+<p>(He opens the door and leaves.)</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB -- DAY] </p>
+<p>(Warrick walks into the lab where Mia has the tape on. Avril Lavigne is singing<br />
+&quot;Don't Tell Me&quot;.) </p>
+<p><strong>Warrick</strong>: You're listening to music.</p>
+<p>(She reaches up and turns it down.) </p>
+<p><strong>Mia Dickerson</strong>: It was Greg's suggestion.</p>
+<p><strong>Warrick</strong>: No, it's good. Well, maybe not your music taste, but we'll work on that. You have my DNA profile for the hair sample I gave you?</p>
+<p><strong>Mia Dickerson</strong>: No.</p>
+<p><strong>Warrick</strong>: No? Do you need more time?</p>
+<p><strong>Mia Dickerson</strong>: No ... the sample you sent me wasn't human ... so I sent it over to trace. Maybe Hodges can tell you something.</p>
+<p><strong>Warrick</strong>: All right. Thank you. (Warrick heads for the door. He stops and turns around.) And Mia, Avril's fine, but if you really want to experience musical heartache, you should check out, uh ... Nina Simone.</p>
+<p>(He leaves. Mia turns the music up again.)</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Grissom is conducting his own experiment with a group of matchbooks. He presses his print on the matchbooks and pins them up on the line. He sprays them and closes the fume hood.) </p>
+<p>(The door opens. Attorney Jeffrey Sinclair and Conrad Ecklie walk into the lab just as Grissom is writing his notes on the clipboard.) </p>
+<p><strong>Jeffrey Sinclair</strong>: Grissom, Judge Witherspoon wants me in her chambers first thing in the morning. </p>
+<p><strong>Conrad Ecklie</strong>: She's going to demand a full update, Gil.</p>
+<p><strong>Grissom</strong>: I can't explain the appearance of the print on the matchbook. That's what I'm trying to figure out.</p>
+<p><strong>Conrad Ecklie</strong>: You're making the lab look bad.</p>
+<p><strong>Jeffrey Sinclair</strong>: Word has it you've reopened the entire case. An unexamined hair and an unidentified print on the murder weapon? Grissom, did we make a mistake and arrest the wrong guy?</p>
+<p><strong>Grissom</strong>: I don't know.</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. PARKING LOT -- DAY] </p>
+<p>(Grissom closes his car door when Brass catches up with him.) </p>
+<p><strong>Brass</strong>: Hey. We gotta talk. Ecklie's used his hot line to the Sheriff. The whole department knows about the inquiry.</p>
+<p><strong>Grissom</strong>: There's nothing I can do about that.</p>
+<p><strong>Brass</strong>: Yeah, well, I want to give you a heads-up, 'cause here's how it's gonna break down: In order to appear objective, Ecklie's gonna follow Sofia's recommendations. The problem is, she's Acting Supervisor of days, so she needs Ecklie to sign off to keep her gig. And you think she'll say whatever Ecklie wants. Yeah. And this isn't just about the Garbett case. He's looking into your whole team. And your ability to lead them.</p>
+<p><strong>Grissom</strong>: Poor Conrad.</p>
+<p><strong>Brass</strong>: I hate to tell you, but when it comes to politics, he whips your ass. So watch your back; it's gonna get ugly.</p>
+<p><strong>Grissom</strong>: Thanks.</p>
+<p>CUT TO:<br />
+[INT. CSI - TRACE LAB - DAY]</p>
+<p>(Hodges goes over the hair findings with Warrick.) </p>
+<p><strong>Hodges</strong>: The hair on the right is a human hair. The hair on the left is from your five-year-old crime scene. Given the big fat medulla, I'd say canine, and given its coarseness ... I'd say it could be a poodle or a Portuguese water dog.</p>
+<p><strong>Warrick</strong>: What?! A Portuguese water dog.</p>
+<p><strong>Hodges</strong>: Mm-hmm. They were found on fishing vessels in the 1800s.</p>
+<p><strong>Warrick</strong>: Are you serious</p>
+<p>(Catherine walks into the lab.) </p>
+<p><strong>Catherine</strong>: Warrick, I thought you were following it up with DNA.</p>
+<p><strong>Warrick</strong>: I am. The hairs got kicked to trace.</p>
+<p><strong>Hodges</strong>: Yeah, they're from a dog. Very obvious under the microscope.</p>
+<p><strong>Warrick</strong>: I will find out if the victim or suspect owned a dog. I'm on it.</p>
+<p><strong>Catherine</strong>: Thanks.</p>
+<p>(Warrick leaves the lab.) </p>
+<p><strong>Hodges</strong>: Ecklie was so pissed when I told him about these hairs.</p>
+<p><strong>Catherine</strong>: You told Ecklie?</p>
+<p><strong>Hodges</strong>: Yeah. He's a friend. I sent him a card for his promotion. The guy was very touched by my thoughtfulness.</p>
+<p><strong>Catherine</strong>: Oh, we all are.</p>
+<p><strong>Hodges</strong>: (smiles) Oh.</p>
+<p>CUT TO:<br />
+[INT. CSI - BALLISTICS LAB - DAY]</p>
+<p>(Sara and Bobby Dawson discuss the gun.) </p>
+<p><strong>Sara</strong>: Are you finished with the gun?</p>
+<p><strong>Bobby Dawson</strong>: Yeah, I figured out what caused that A.D. Some garage gunsmith tried to turn this baby into a machine gun.</p>
+<p><strong>Sara</strong>: That is a big-time felony.</p>
+<p><strong>Bobby Dawson</strong>: Not to mention dangerous. Here, take a look. See, the trip has been ground down, which prevents the bolt from locking back.</p>
+<p>(Quick flash to: [NIGHT] The gun lever is pulled back, the trip fails and the gun fires.) </p>
+<p>(Quick CGI POV of: The bullet exits the barrel and enters the leg. End of CGI POV. Resume to flashback.)</p>
+<p>(The shooter falls backward to the ground.) </p>
+<p>(Extreme close-up of the artery bleeding out. Sounds of a heart beating loudly are heard. White flash to present.) </p>
+<p><strong>Sara</strong>: Vic never even pulled the trigger. Did you get an I.D. off the serial number?</p>
+<p><strong>Bobby Dawson</strong>: It's also ground down. Nearly halfway through the metal.</p>
+<p><strong>Sara</strong>: Well, I love a challenge.</p>
+<p><strong>Bobby Dawson</strong>: Well, it's all yours.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY - DAY]</p>
+<p>(Nick reports to Catherine.) </p>
+<p><strong>Nick</strong>: The Garbetts' restaurant employed six waiters, two cooks, and a busboy.</p>
+<p><strong>Catherine</strong>: All of whom would've had access to the kitchen and to the wrench.</p>
+<p><strong>Nick</strong>: Right: Garbett's ex-wife's, three of the waiters' and both cooks' prints were in I-AFIS because of work cards, but none was a match to the mystery print.</p>
+<p><strong>Catherine</strong>: And what about the other four?</p>
+<p><strong>Nick</strong>: I ran their socials to get their addresses. I'll grab a uniform, go bang on some doors.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[EXT. FRONT PORCH 1 - DAY]</p>
+<p>(Nick knocks on a door. A woman answers the door.)</p>
+<p><strong>Nick</strong>: Hi. I'm Nick Stokes.</p>
+<p>CUT TO:<br />
+[EXT. FRONT PORCH 2 - DAY]</p>
+<p>(A man answers the door.) </p>
+<p><strong>Nick</strong>: Good day, sir. My name's Nick Stokes. I'm with the Las Vegas Crime Lab.</p>
+<p>[EXT. FRONT PORCH 1 - DAY]</p>
+<p>(Nick talks with the woman.) </p>
+<p><strong>Nick</strong>: I'm reinvestigating Max Larson's homicide.</p>
+<p>[EXT. FRONT WALK 3 - DAY]</p>
+<p>(Nick talks with Man 2.)</p>
+<p><strong>Nick</strong>: I was hoping to get your, uh, your fingerprints if I could. It would help eliminate you as a suspect.</p>
+<p>(Nick is fingerprinting Woman 2.)</p>
+<p><strong>Nick</strong>: Thank you, ma'am.</p>
+<p>CUT TO:<br />
+[INT. STORE - DAY]</p>
+<p>(Warrick interviews Max Larson's ex-partner, Rich Reeba.)</p>
+<p><strong>Rich Reeba</strong>: Max didn't like dogs. We don't allow them in the store.</p>
+<p><strong>Warrick</strong>: How about you, Mr. Reeba. Do you down a dog?</p>
+<p><strong>Rich Reeba</strong>: No. Mr. Brown, what's this about?</p>
+<p><strong>Warrick</strong>: I'm sorry, I'm not at liberty to discuss ongoing cases.</p>
+<p><strong>Rich Reeba</strong>: Look, I have a right to know. Max was my business partner.</p>
+<p><strong>Warrick</strong>: Well, all I can tell you is that the defendant was granted a new trial.</p>
+<p><strong>Rich Reeba</strong>: Based on a friggin' technicality. I talked to the D.A. myself.</p>
+<p><strong>Warrick</strong>: The crime lab is reviewing the case file now.</p>
+<p><strong>Rich Reeba</strong>: Garbett killed Max. I was right here when he tried to shake us down.</p>
+<p>(Quick flashback to: [HARDWARE STORE] Jason Garbett storms into the hardware store to talk with Max Larson.) </p>
+<p><strong>Jason Garbett</strong>: If you don't move that dumpster, I swear, I'm gonna kill you!</p>
+<p><strong>Max Larson</strong>: Judge says I'm in the right. You can go to hell.</p>
+<p><strong>Jason Garbett</strong>: You're gonna regret this.</p>
+<p><strong>Max Larson</strong>: So tell me: How many customers did you have tonight? Hey, Rick ... what's a number less than one?</p>
+<p><strong>Jason Garbett</strong>: This isn't over.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Rich Reeba</strong>: I guess he could've handled it better. But Garbett's delivery trucks -- they were always blocking access to our parking lot. We complained -- he refused to do anything about it, so we exercised our legal rights. A judge rules in our favor. Two days later, Max is murdered. Can you imagine killing over an incident like this?</p>
+<p><strong>Warrick</strong>: I've seen people kill for a lot less, sir. Mr. Reeba, you and your partner were joint owners of this property, right?</p>
+<p><strong>Rich Reeba</strong>: Yes.</p>
+<p><strong>Warrick</strong>: With right of survivorship.</p>
+<p><strong>Rich Reeba</strong>: Correct.</p>
+<p><strong>Warrick</strong>: And when he died, you got it all, isn't that right?</p>
+<p><strong>Rich Reeba</strong>: What are you getting at?</p>
+<p><strong>Warrick</strong>: Nothing. It's just a question.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - LAB -- DAY] </p>
+<p>(Catherine is fiddling with a machine when Nick walks into the lab. She adjusts the item in the machine and checks the view on the monitor.) </p>
+<p><strong>Catherine</strong>: Hi.</p>
+<p><strong>Nick</strong>: Hi. Video spectral analysis.</p>
+<p><strong>Catherine</strong>: I want to see if I can bring out the image on the matchbook.</p>
+<p><strong>Nick</strong>: We didn't have this equipment five years ago.</p>
+<p><strong>Catherine</strong>: That's why I'm doing it now. How was the door-to-door?</p>
+<p><strong>Nick</strong>: Good exercise. Everyone volunteered their prints but ... no match.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -- DAY] </p>
+<p>(Warrick is walking through the hallway when Conrad Ecklie catches up with him.) </p>
+<p><strong>Conrad Ecklie</strong>: Warrick, just the guy I wanted to see.</p>
+<p><strong>Warrick</strong>: Ecklie, you know I'm real busy...</p>
+<p><strong>Conrad Ecklie</strong>: Ah, it won't take long. My office.</p>
+<p>(Ecklie leaves. Warrick follows.)</p>
+<p>[INT. CSI - ECKLIE'S OFFICE - DAY - CONTINUOUS]</p>
+<p>(Warrick steps into the office.) </p>
+<p><strong>Conrad Ecklie</strong>: Uh ... I'll cut to the chase. Did Supervisor Grissom instruct you to analyze the hairs you found near Max Larson's body?</p>
+<p><strong>Warrick</strong>: It was my job to bring the hairs to DNA.</p>
+<p><strong>Conrad Ecklie</strong>: Did you?</p>
+<p><strong>Warrick</strong>: Yes.</p>
+<p><strong>Conrad Ecklie</strong>: Five years ago.</p>
+<p><strong>Warrick</strong>: No, yesterday. Look, if there was a problem ...</p>
+<p><strong>Conrad Ecklie</strong>: Have a seat. </p>
+<p>(Warrick sits down.) </p>
+<p><strong>Conrad Ecklie</strong>: In my capacity as Assistant Director, I'm now privy to personnel files. Um ... you've done outstanding work over the years, Warrick. Truly. I see commendations from detectives and D.A.'s ... I also see you have a gambling problem.</p>
+<p><strong>Warrick</strong>: I had a gambling problem. What's your point?</p>
+<p><strong>Conrad Ecklie</strong>: Well, it appears Supervisor Grissom counseled you appropriately.</p>
+<p><strong>Warrick</strong>: That's correct. So ...</p>
+<p><strong>Conrad Ecklie</strong>: He gave you access to departmental resources to help you deal with the problem?</p>
+<p><strong>Warrick</strong>: No ... he helped me, uh ... by being a friend.</p>
+<p><strong>Conrad Ecklie</strong>: Good. You've been a big help. Thanks.</p>
+<p>CUT TO:<br />
+[INT. CSI - BREAK ROOM -- DAY] </p>
+<p>(Catherine walks through the lab and sees Sofia going through the old case files.) </p>
+<p><strong>Catherine</strong>: Hey. </p>
+<p>(Catherine opens the refrigerator and puts her drink inside. She shuts the door and walks over to Sofia where the lightly looks at the file folders stacked on the table.) </p>
+<p><strong>Sofia Curtis</strong>: This is, uh, confidential. I don't have an office, so ... </p>
+<p><strong>Catherine</strong>: The inquiry into Grissom. </p>
+<p><strong>Sofia Curtis</strong>: Just reviewing all documentation. Case identifiers, analysts' initials ... </p>
+<p><strong>Catherine</strong>: Your responsibility is to confirm that all conclusions drawn are supported by the data. They are.</p>
+<p><strong>Sofia Curtis</strong>: Excuse me?</p>
+<p><strong>Catherine</strong>: I worked on this case. The conclusions, they are supported. I assume that's what you're finding?</p>
+<p><strong>Sofia Curtis</strong>: Catherine ... I appreciate your interest, but I think it's prudent to reserve my findings for the Assistant Director.</p>
+<p><strong>Catherine</strong>: Right.</p>
+<p>(Catherine turns and leaves.) </p>
+<p>FADE OUT</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - LAB -- DAY] </p>
+<p>(Grissom walks into the lab.) </p>
+<p><strong>Grissom</strong>: Neil, you got a minute?</p>
+<p><strong>Neil Jansen</strong>: I don't think I have any work pending for you.</p>
+<p><strong>Grissom</strong>: I need your expertise.</p>
+<p><strong>Neil Jansen</strong>: Matchbook print. Everybody's talking about it.</p>
+<p><strong>Grissom</strong>: Well, good. Scientific discoveries arise through discourse. Now ... ninhydrin works by reacting to one end of a protein chain to form ruhemann's purple ...</p>
+<p><strong>Neil Jansen</strong>: Which makes fingerprints visible.</p>
+<p><strong>Grissom</strong>: Protein chains are made up of a series of amino acids, sometimes a hundred units long. But only one end of the chain has the h-n-H ...</p>
+<p><strong>Neil Jansen</strong>: The n-terminus. </p>
+<p>(Quick flash of: the end of the protein chain. Resume to present.) </p>
+<p><strong>Neil Jansen</strong>: It's the only part of the protein molecule that interacts with ninhydrin.</p>
+<p><strong>Grissom</strong>: But fingerprints are subjected to bacterial degradation, which causes the proteins to break down into smaller amino acids.</p>
+<p><strong>Neil Jansen</strong>: Upping the number of n-termini.</p>
+<p><strong>Grissom</strong>: And making the fingerprint more visible. But because new fingerprints are sometimes composed of fully intact proteins, you could spray ninhydrin, and not see a result for months, yes?</p>
+<p><strong>Neil Jansen</strong>: Or in rare cases, years -- depending on the rate of degradation.</p>
+<p><strong>Grissom</strong>: My matchbook print was inside a plastic evidence bag. That could affect the rate.</p>
+<p><strong>Neil Jansen</strong>: Let's see ... plastic ... plastic traps in heat and humidity.</p>
+<p>(Quick flash to: Extreme close-up of the protein chain and various reactions.)</p>
+<p><strong>Neil Jansen</strong>: (V.O.) Bacteria would continue to break down over time.</p>
+<p>(End of flash. Resume to present.) </p>
+<p><strong>Grissom</strong>: So theoretically, the bag was acting as a humidifying chamber.</p>
+<p><strong>Neil Jansen</strong>: I'd say you were processing a print in slow motion.</p>
+<p><strong>Grissom</strong>: Thank you, Neil.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Sara and Greg are in the lab. They each have on a pair of goggles.) </p>
+<p><strong>Greg</strong>: I'm confused. Do we think the dead guy bought a defective gun, or was he selling a gun he'd already modified?</p>
+<p><strong>Sara</strong>: Maybe he modified it for his own use.</p>
+<p><strong>Greg</strong>: Well, if that was the case, then why would he need to file down the serial numbers?</p>
+<p><strong>Sara</strong>: Good point. Okay, so you take the polishing compound, and you rub it on the obliterated serial number.</p>
+<p>(Sara rubs the compound on the serial number with a swab.)</p>
+<p><strong>Sara</strong>: And then you hit the spot with the wheel until it's mirror smooth.</p>
+<p>(She turns on a sanding machine and rubs the compound down. When she's done, she turns the machine off.) </p>
+<p><strong>Sara</strong>: Fry's reagent. It differentially eats away at the compressed area.</p>
+<p>(She adds the liquid to the serial number and dabs at it with the swab.) </p>
+<p><strong>Greg</strong>: To expose the denser metal of the serial number.</p>
+<p><strong>Sara</strong>: Take a look.</p>
+<p><strong>Greg</strong>: And pop goes the serial number! </p>
+<p><strong>Sara</strong>: Run it through NCIC and local pawn shops. See if we can get an address.</p>
+<p><strong>Greg</strong>: All right.</p>
+<p>(Greg turns to leave the lab. On his way out, he meets Conrad Ecklie walking in.) </p>
+<p><strong>Greg</strong>: Excuse me.</p>
+<p><strong>Conrad Ecklie</strong>: Excuse me. (Ecklie walks up to Sara.) Sara. You got a minute?</p>
+<p><strong>Sara</strong>: I guess.</p>
+<p><strong>Conrad Ecklie</strong>: Flitz's compound. I'm sure you're not polishing your jewelry in the lab. That would be unauthorized.</p>
+<p><strong>Sara</strong>: What can I do for you?</p>
+<p><strong>Conrad Ecklie</strong>: Ah. As you know, it's my job to review everyone's file. I just want to make sure you finished up with your PEAP Counselor.</p>
+<p><strong>Sara</strong>: That's none of your business, Ecklie.</p>
+<p><strong>Conrad Ecklie</strong>: Well, not only is it my business, but I plan to speak with your supervisor.</p>
+<p><strong>Sara</strong>: About what? </p>
+<p><strong>Conrad Ecklie</strong>: You have updated him, right?</p>
+<p><strong>Sara</strong>: Yeah, yeah, we've had an abbreviated conversation. I'm doing fine. Completed my required number of sessions months ago.</p>
+<p><strong>Conrad Ecklie</strong>: Huh. Grissom failed to note that conversation in your file. Um ... but I'll take care of it. All right.</p>
+<p>(Ecklie turns and leaves.) </p>
+<p><strong>Sara</strong>: Thanks.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB - DAY]</p>
+<p>(Catherine and Nick continue to process the matchbook cover.) </p>
+<p><strong>Nick</strong>: Expose the matchbook to white, and that covers the spectrum.</p>
+<p><strong>Catherine</strong>: I'll bring out the illuminants and contrast.</p>
+<p><strong>Nick</strong>: Rotate it 180.</p>
+<p><strong>Catherine</strong>: (reads) &quot;Club PCH.&quot;</p>
+<p><strong>Nick</strong>: &quot;Los Angeles.&quot;</p>
+<p><strong>Catherine</strong>: Is that probative?</p>
+<p><strong>Nick</strong>: Maybe. Defendant's son lived in L.A.</p>
+<p>(Catherine turns and looks at him.)</p>
+<p>CUT TO:<br />
+[EXT. GARBETT RESIDENCE (HOUSE #10716)- FRONT DRIVE - DAY]</p>
+<p>(Brass and Nick walk up the driveway to the front door.) </p>
+<p><strong>Brass</strong>: So did a background check on Keith Garbett. He has no record. Moved to California two years before the murder. He opened a veterinary practice in Encino.</p>
+<p><strong>Nick</strong>: He was a Veterinarian?</p>
+<p><strong>Brass</strong>: Didn't I just say that?</p>
+<p><strong>Nick</strong>: We found some dog hairs at the crime scene. Out of context, it didn't really mean anything.</p>
+<p><strong>Brass</strong>: Well, now it does.</p>
+<p>(Brass knocks on the front door. Keith Garbett opens the door.) </p>
+<p><strong>Keith Garbett</strong>: Mr. Stokes.</p>
+<p><strong>Nick</strong>: Keith.</p>
+<p><strong>Keith Garbett</strong>: Well, tell me you've got some good news. Dad's lawyer says the case could get tossed.</p>
+<p><strong>Brass</strong>: I'm Detective Jim Brass, Las Vegas police. We'd like to ask you a couple questions.</p>
+<p><strong>Keith Garbett</strong>: Sure.</p>
+<p><strong>Brass</strong>: You ever been to Club PCH?</p>
+<p><strong>Keith Garbett</strong>: I did some clubbing in my twenties. What does this have to do with the investigation?</p>
+<p><strong>Nick</strong>: Keith, what we'd really like to go ahead and do is get a set of your fingerprints, if we could. Okay?</p>
+<p><strong>Keith Garbett</strong>: Why? You know, I'm sorry, but I don't exactly trust you guys. You destroyed my family. You let my dad rot in jail for five years, and now you're coming after me? No way. Forget it.</p>
+<p>(Keith backs up and slams the door closed.)</p>
+<p><strong>Brass</strong>: I thought that went well.</p>
+<p>(Brass and Nick walk back down the driveway to the two trash bins on the sidewalk.) </p>
+<p><strong>Nick</strong>: There's more than one way to get his prints. Trash on the curb -- public property, right?</p>
+<p><strong>Brass</strong>: Don't need a warrant.</p>
+<p>(Nick opens the trash bin and lifts the garbage bag up. Brass shrugs at him.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - ECKLIE'S OFFICE - DAY]</p>
+<p>(Ecklie meets with Catherine.) </p>
+<p><strong>Conrad Ecklie</strong>: This conversation is on the record. Part of the official inquiry into the Max Larson case.</p>
+<p><strong>Catherine</strong>: Understood.</p>
+<p><strong>Conrad Ecklie</strong>: Five years ago, were you part of a team that processed a homicide at 2028 Boulevard Highway?</p>
+<p><strong>Catherine</strong>: You know I was.</p>
+<p><strong>Conrad Ecklie</strong>: Specifically what tasks did Supervisor Grissom assign to you?</p>
+<p><strong>Catherine</strong>: Gil doesn't micro-manage. We know what needs to be done. I photo-documented the scene, I collected blood evidence, and I brought the charred newspaper to trace.</p>
+<p><strong>Conrad Ecklie</strong>: In the analysis phase, did Grissom review your reports with you?</p>
+<p><strong>Catherine</strong>: Are you asking if he performed a supervisory review?</p>
+<p><strong>Conrad Ecklie</strong>: It's policy.</p>
+<p><strong>Catherine</strong>: He must have. I'm sure he did.</p>
+<p>(Ecklie smiles at her. He doesn't believe her.) </p>
+<p><strong>Catherine</strong>: Are you doing all this for the sake of the lab or to indict Grissom?</p>
+<p><strong>Conrad Ecklie</strong>: Catherine, there a number of talented CSIs, like yourself, who have put in to be supervisors. I just want to make sure the right people are in the right place.</p>
+<p><strong>Catherine</strong>: About my request -- I really would like to supervise days.</p>
+<p><strong>Conrad Ecklie</strong>: Right. You're a single mother. Better hours. And I bet you could use the extra cash.</p>
+<p><strong>Catherine</strong>: No, this promotion isn't about money.</p>
+<p><strong>Conrad Ecklie</strong>: Must be nice to be independently wealthy.</p>
+<p><strong>Catherine</strong>: We're done here, right?</p>
+<p>(Catherine stands up and leaves.) </p>
+<p><strong>Conrad Ecklie</strong>: Yeah.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB - DAY]</p>
+<p>(Nick cuts a portion of the garbage bag off and puts it in the machine when Catherine walks in.)</p>
+<p><strong>Catherine</strong>: Vacuum metal deposition.</p>
+<p><strong>Nick</strong>: Sometimes the evidence isn't in the bag ... it's on it.</p>
+<p>(Quick flash to: The garbage bag is being fumed and a print is found. End of flash. Resume to present.)</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB - DAY]</p>
+<p>(Catherine sits at the computer and pulls up the unidentified print for case #<br />
+436770-99).</p>
+<p>(Nick walks in with Keith's print off the garbage bag. Catherine flips the scanner lid up.)</p>
+<p><strong>Nick</strong>: Thank you.</p>
+<p>(They scan the print into the computer and run a comparison.) </p>
+<p><strong>Catherine</strong>: Comparing unknown matchbook print to garbage bag print.</p>
+<p><strong>Nick</strong>: Game, set.</p>
+<p><strong>Catherine</strong>: Match.</p>
+<p>(Quick flashback to: [HARDWARE STORE] Ketih Garbett walks into the store with the wrench in his hand.) </p>
+<p><strong>Max Larson</strong>: We're closed. Hey, did you hear me? I said we're closed.</p>
+<p>(He walks around the counter and sees Keith Garbett walking swiftly up to him.) </p>
+<p><strong>Max Larson</strong>: Hey... help!</p>
+<p>(Keith swings and hits Max Larson in the head. He falls to the floor and he swings again.) </p>
+<p>(When it's over, he lights a match to a piece of crumpled newspaper.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY]</p>
+<p>(Nick and Catherine interview Keith Garbett. His lawyer is with him.) </p>
+<p><strong>Keith Garbett</strong>: It wasn't my restaurant. It wasn't my problem.</p>
+<p><strong>Nick</strong>: You lied to us. Said you were living in L.A. at the time of the murder.</p>
+<p><strong>Catherine</strong>: while your parents were in court, suing to have that dumpster removed, you were running the restaurant. In fact, you signed the vendor checks that week.</p>
+<p><strong>Nick</strong>: They were in a box of records your mother sent over. You saw the business was going under. Their marriage was in trouble. And while the judge ruled against them, you snapped.</p>
+<p><strong>Lawyer</strong>: The evidence is circumstantial at best.</p>
+<p><strong>Catherine</strong>: You can play it that way. It's fine with us. You and your father can both stand trial. I mean, after all he was the one who had motive. He threatened Larson. His prints were on the wrench.</p>
+<p><strong>Lawyer</strong>: You think the D.A. is going to try two people for the same crime?</p>
+<p><strong>Nick</strong>: Oh, yes, ma'am. At minimum, they're looking at conspiracy.</p>
+<p><strong>Catherine</strong>: As far as we know, they could've been in it together. It's easier to overpower a guy when it's two against one.</p>
+<p><strong>Nick</strong>: Yeah, but I don't think it went down that way. After your father was convicted, you gave up on your veterinary practice. Moved back to Vegas -- spent every last dime you had on his defense. Now, that tells me you had a guilty conscience.</p>
+<p><strong>Keith Garbett</strong>: It should tell you that I love my father.</p>
+<p><strong>Nick</strong>: Your father spent the last five years in prison, man. If you love him so much, why don't you tell the truth? Set him free.</p>
+<p><strong>Keith Garbett</strong>: My father had nothing to do with it.</p>
+<p><strong>Lawyer</strong>: Keith ... I never thought that they would convict an innocent man. So ... I kept quiet.</p>
+<p><strong>Nick</strong>: To protect yourself.</p>
+<p>[INT. POLICE DEPARTMENT -- OBSERVATION ROOM - DAY - CONTINUOUS]</p>
+<p>(Grissom and Conrad Ecklie both watch the interview.) </p>
+<p><strong>Conrad Ecklie</strong>: We'll convene in my office at end of your shift.</p>
+<p><strong>Grissom</strong>: Regarding what? This case is over.</p>
+<p><strong>Conrad Ecklie</strong>: Don't be late.</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. TURLOCK RESIDENCE - FRONT - EVENING/NIGHT] </p>
+<p>(Det. Vartann is waiting out front as Sara and Greg drive up.) </p>
+<p><strong>Det. Vartann</strong>: Hey.</p>
+<p><strong>Sara</strong>: Hey.</p>
+<p><strong>Det. Vartann</strong>: What's going on? Dispatch said to meet you here.</p>
+<p>(Sara gets out of the car.) </p>
+<p><strong>Sara</strong>: Well, three days ago we found a John Doe who was shot to death in an abandoned parking lot off strip. Uh, there was a mac-10 near the body. Gun is registered to a Paul Turlock, who happens to be the owner of the house.</p>
+<p>(Greg joins them and they head for the house.) </p>
+<p><strong>Det. Vartann</strong>: Oh, so you want to see if Paul Turlock and John Doe are one and the same.</p>
+<p><strong>Sara</strong>: Yeah.</p>
+<p><strong>Det. Vartann</strong>: Okay.</p>
+<p>(They reach the front door and see the newspaper on the ground.) </p>
+<p><strong>Det. Vartann</strong>: Odds are looking pretty good so far.</p>
+<p>(Det. Vartann takes out his gun and flashlight. Sara knocks on the door and it creaks open. He leans in toward the door as Sara takes out her weapon and gets behind Vartan.) </p>
+<p><strong>Det. Vartann</strong>: Police! Anybody here?</p>
+<p>(He lifts up his weapon and pushes the door open.)</p>
+<p>[INT. TURLOCK RESIDENCE - LIVING ROOM - EVENING - CONTINUOUS]</p>
+<p>(Det. Vartann and Sara enter the residence with their guns raised. After a while, it's apparent that no one's there. Sara puts her gun down. Vartann puts his gun away.) </p>
+<p>(Greg walks in and they all look around the house.)</p>
+<p>(Greg sees a box and looks inside.)</p>
+<p>(On the coffee table on an old newspaper, Vartann finds a photo of two men drinking beer.)</p>
+<p><strong>Det. Vartann</strong>: Sara.</p>
+<p>(She walks over.) </p>
+<p><strong>Det. Vartann</strong>: Any of these look like your guy?</p>
+<p><strong>Sara</strong>: Guy on the end with the &quot;Rita&quot; tattoo.</p>
+<p><strong>Det. Vartann</strong>: Think Rita's his mom or his girlfriend?</p>
+<p><strong>Sara</strong>: If it's not crossed out, it's definitely his mom.</p>
+<p>(Vartann nods.) </p>
+<p><strong>Greg</strong>: Mac in the box. Five of them. Serials obliterated. </p>
+<p>(They both turn and head over toward Greg.)</p>
+<p><strong>Sara</strong>: Files and grinding stone.</p>
+<p><strong>Det. Vartann</strong>: It's all the tools needed to convert a semi into an auto and then cover your tracks.</p>
+<p><strong>Greg</strong>: Each modified weapon's a separate count. Each filed-off serial number's a separate count. This guy was looking at ten felonies.</p>
+<p><strong>Sara</strong>: Actually, he already got the death penalty.</p>
+<p>(Vartann walks over and checks the answering machine.)</p>
+<p><strong>Man's Voice</strong>: (answering machine) Hey, Paulie, we, uh, liked what we saw. The deal's a go. Five large for five units. I'll call you back to arrange a time.</p>
+<p>(The answering machine beeps.)</p>
+<p><strong>Man's Voice</strong>: (answering machine) Paulie. 9:00 P.M. Monday. </p>
+<p>(The machine clicks off. Vartann turns and looks at Sara and Greg.) </p>
+<p><strong>Greg</strong>: That's tonight.</p>
+<p><strong>Det. Vartann</strong>: &quot;We liked what we saw&quot;? That tells me that Paulie's already met with the buyers-- probably to show them the prototype of the mac-10.</p>
+<p><strong>Sara</strong>: Maybe they met at the parking lot where we found the body.</p>
+<p>(Vartann looks at his watch.) </p>
+<p><strong>Det. Vartann</strong>: You know, most likely they'd hook up at the same location to complete the sale.</p>
+<p><strong>Greg</strong>: Buyers don't know he's dead.</p>
+<p><strong>Sara</strong>: Lucky for us.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY TO LAB -- NIGHT] </p>
+<p>(We follow behind Conrad Ecklie as he walks down the hallway. He peers in through the window and sees Nick working. He opens the door.) </p>
+<p><strong>Conrad Ecklie</strong>: Hell of a job on the Larson case, Nick. If it weren't for you, the son would've walked.</p>
+<p><strong>Nick</strong>: (shrugs) It was a team effort.</p>
+<p><strong>Conrad Ecklie</strong>: Team effort? Just like the Westanson case, right? Last year, that woman who burned to ashes in a barrel of diesel fuel.</p>
+<p><strong>Nick</strong>: Yeah. Yeah, I'm familiar with the case, Conrad.</p>
+<p><strong>Conrad Ecklie</strong>: I reviewed Grissom's report. It seems to me that you were a ... one-man CSI machine. (He chuckles.) Grissom rejected Fay Minden's testimony, but not you.</p>
+<p><strong>Nick</strong>: (corrects) No, Grissom allowed me to pursue a new lead, under his supervision.</p>
+<p><strong>Conrad Ecklie</strong>: Did he offer you any other CSIs as support staff? (Nick catches on to what Ecklie's doing.) D-don't worry about it. I respect your independence. (Nick's not impressed.) Anyway, good work.</p>
+<p>(Ecklie leaves the lab.) </p>
+<p>CUT TO:<br />
+[EXT. PARKING LOT -- NIGHT] </p>
+<p>(A car drives into the parking lot and circles around. The engine stops and a man steps out of the car. He looks around and zips up his jacket.) </p>
+<p>(Sirens wail as police cars circle and pull up into the parking lot. Vartann exits his car, his gun pointed at the buyer.)</p>
+<p><strong>Det. Vartann</strong>: Keep your hands up. No sudden moves.</p>
+<p>(Sara and Greg exit the car.) </p>
+<p><strong>ATF Agent</strong>: ATF. I'm an agent.</p>
+<p><strong>Det. Vartann</strong>: Just keep your hands where I can see 'em, and you won't get hurt.</p>
+<p>(Another non-descript car pulls up. An ATF agent gets out of the car and holds out his badge.) </p>
+<p><strong>John Calder (ATF)</strong>: Special Agent John Calder, ATF. He's an undercover agent.</p>
+<p><strong>Sara</strong>: I don't believe this.</p>
+<p><strong>Det. Vartann</strong>: You're involved in a buy bust for some firearms?</p>
+<p><strong>John Calder (ATF)</strong>: You boys burned us bad. We were gonna make an arrest tonight.</p>
+<p><strong>Sara</strong>: Suspect's name is Paul Turlock?</p>
+<p><strong>John Calder</strong>: Yeah.</p>
+<p><strong>Sara</strong>: Mr. Turlock A.D.'d a mac into his femoral artery. You guys are four days too late.</p>
+<p>CUT TO:<br />
+[INT. CSI - ECKLIE'S OFFICE -- NIGHT] </p>
+<p>(Ecklie meets with Grissom and Sofia Curtis.) </p>
+<p><strong>Conrad Ecklie</strong>: If I understand you correctly, the latent fingerprint on the matchbook ... continued to process itself after you were finished.</p>
+<p><strong>Grissom</strong>: Theoretically, yes.</p>
+<p><strong>Conrad Ecklie</strong>: As I know you are aware, I've asked Sofia to review your handling of the Max Larson homicide. (to Sofia) Did Supervisor Grissom violate any procedures in mishandling the evidence?</p>
+<p>(She looks at Grissom.) </p>
+<p><strong>Sofia Curtis</strong>: I don't believe he mishandled anything. He followed laboratory protocol, and when he saw that the evidence didn't correspond to his records, he notified the D.A. and recused himself from case review.</p>
+<p><strong>Conrad Ecklie</strong>: Are you saying that, uh, his handling of the discovery of new evidence while on the stand is within our protocols?</p>
+<p><strong>Sofia Curtis</strong>: (carefully) As it applies to this case, yes.</p>
+<p><strong>Conrad Ecklie</strong>: In the, uh ... in the process of investigating this case, your ability to supervise has come into question.</p>
+<p><strong>Grissom</strong>: Isn't that a little beyond the scope of this inquiry?</p>
+<p><strong>Sofia Curtis</strong>: Again, we have no evidence that Grissom violated any protocols or proce ...</p>
+<p><strong>Conrad Ecklie</strong>: (interrupts) Thank you for your input.</p>
+<p><strong>Grissom</strong>: (tired) Okay, Conrad, what do you got? Let's hear it.</p>
+<p><strong>Conrad Ecklie</strong>: Well, taken individually, there's nothing specific that warrants disciplinary action. However, my investigation has led me to question the effectiveness of your team and your ability to lead it. I'm breaking you guys up.</p>
+<p><strong>Grissom</strong>: Excuse me?</p>
+<p><strong>Conrad Ecklie</strong>: I've already spoken with the Director. Staff assignments are under my purview. Effective immediately, Catherine Willows will be promoted to Swing Shift Supervisor ...</p>
+<p><strong>Grissom</strong>: Wait a minute, Catherine applied for days.</p>
+<p><strong>Conrad Ecklie</strong>: I do what's best for the lab. I've decided to move the Swing Shift Supervisor to days ... </p>
+<p><strong>Sofia Curtis</strong>: I've been the Acting Supervisor of days for the past month -- I believe I've proven myself capable.</p>
+<p><strong>Conrad Ecklie</strong>: (ignores her) Warrick Brown and Nick Stokes will report to Catherine. Greg Sanders, pending his proficiency, Sara Sidle and Sofia will report to you.</p>
+<p><strong>Sofia Curtis</strong>: (stunned) You're demoting me.</p>
+<p><strong>Conrad Ecklie</strong>: I think you and Grissom suit each other.</p>
+<p>(Sofia stares at Ecklie in disbelief and shakes her head.) </p>
+<p><strong>Grissom</strong>: (quietly) Why are you doing this?</p>
+<p><strong>Conrad Ecklie</strong>: There's been a chronic lack of supervision on the graveyard shift. Your people have been covering for you, Gil. For your shortcomings. Before your mismanagement jeopardizes this lab, I'm rectifying the situation.</p>
+<p>(Grissom shakes his head and scoffs.)</p>
+<p><strong>Conrad Ecklie</strong>: My decision is final.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. DINER -- DAY] </p>
+<p>(Nick and Warrick meet with Grissom.) </p>
+<p><strong>Nick</strong>: He kind of talked to all of us.</p>
+<p><strong>Warrick</strong>: It was more like he ambushed all of us. Real sorry, Grissom.</p>
+<p><strong>Grissom</strong>: There's no reason to be. Look, Ecklie doesn't have a scientific bone in his body. He starts with the answers he wants and then devises the questions to get them.</p>
+<p><strong>Warrick</strong>: This sucks. This guy has been kissing ass all his life, he's trying to tell me -- he's trying to tell us what makes a good supervisor. What makes a good team?</p>
+<p><strong>Grissom</strong>: Well, if a team gets used to doing things a certain way just because that's the way they've always done them, then they start to lose their effectiveness.</p>
+<p><strong>Nick</strong>: Oh, come on. You don't really believe that.</p>
+<p><strong>Grissom</strong>: No. I believe that the longer a team works together, the stronger they become. But I'm not in charge of the lab, nor would I want to be.</p>
+<p>(The waitress puts the bill on the table. Nick picks up the bill and looks at it.) </p>
+<p><strong>Nick</strong>: I got this -- that's the kind of cash I'm bringing down right now.</p>
+<p>(Nick leaves the booth.) </p>
+<p><strong>Warrick</strong>: I always knew there'd come a time when we weren't, uh, working together anymore. I just didn't think it'd be under these circumstances.</p>
+<p>(Warrick's phone rings. He answers it.)</p>
+<p><strong>Warrick</strong>: (to phone) Brown. Okay. All right. No, I'll tell Nick. We'll see you there. Uh, congrats, by the way. (He hangs up.) (to Grissom) All right. My new supervisor.</p>
+<p><strong>Grissom</strong>: Catherine?</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: (nods) Good.</p>
+<p><strong>Warrick</strong>: Well, I got to get some rest. Swing shift starts at four in the afternoon. That's a big change.</p>
+<p><strong>Grissom</strong>: Heracleitus once said, &quot;It is in changing that we find purpose.&quot;</p>
+<p><strong>Warrick</strong>: Well, thanks to you, this job, I already know my purpose. See ya.</p>
+<p>(Warrick gets up and leaves the booth.)</p>
+<p>(Grissom sits at the table alone.) </p>
+<p>FADE TO BLACK</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
-
-Jeffrey Sinclair:  I need you to answer the same questions I asked you at the first trial.
-
- 
-Jeffrey Sinclair: And I need you to answer them honestly, just as you did back then. On December 20, 1999, you responded to a call at 2028 Boulder Highway. Is that correct?
-Grissom: Yes.
-Jeffrey Sinclair: Can you describe the crime scene?
-Grissom: It was a hardware store. I entered through the back door.
- 
-Grissom:  The victim had been severely beaten. 
- 
-Grissom: And our forensics determined that the murder weapon was a wrench.
- 
-Jeffrey Sinclair: Exhibit A. Do you recognize this object?
- 
-Grissom: Yes. I bagged and processed this wrench. My initials are on the seal.
-Jeffrey Sinclair: Where did you find it?
-Grissom: It was in a toolbox under the kitchen sink at Garbett's Gourmet, which is a restaurant next to the crime scene.
-Jeffrey Sinclair: Now, are you certain that this wrench was used to kill the victim?
-Grissom: Yes. We found trace blood in the metal grooves. And the DNA matched the victim's.
-Jeffrey Sinclair: What, if anything, did you find on the handle?
-Grissom: We found the defendant, Mr. Garbett's, fingerprints. We also found his prints at the hardware store.
- 
-Jeffrey Sinclair: What else did you find at the store?
- 
-Grissom:  Well, it appeared that the killer tried to cover his tracks by setting a fire, ... 
- 
-Grissom:  ... a lack of sufficient combustibles may have thwarted his effort.
-Jeffrey Sinclair: Dr. Grissom. Exhibit B. Do you recognize this?
-
-Grissom: Yes. It's a matchbook.
- 
-Jeffrey Sinclair: Did you find this matchbook at the scene?
- 
-(The evidence label on the bag reads:
-MATCHBOOK 002
-12-20-99
-2028 BOULDER HWY LV, NV
-GIL GRISSOM G.G.
- 
-Jeffrey Sinclair: Dr. Grissom, just so we can be clear, this is the matchbook that you found at the crime scene. Is that correct?
-Grissom: Your honor, may I take a short break?
-Jeffrey Sinclair: Um ... prosecution requests a ten-minute recess.
-Defense Attorney: The defense asks that Dr. Grissom answer the question now.
-Judge Witherspoon: Answer the question, then we'll break.
-Grissom: Yes, this is the matchbook I collected at the crime scene.
-Judge Witherspoon: All right, we'll take a ten-minute recess.
-
-
- 
-Jeffrey Sinclair: So, you wanna tell me what this is all about? Grissom, the defendant was found guilty at his first trial. The only reason we're back in court is because his new lawyer convinced some appellate judge the original jury instructions were faulty. This has nothing to do with the evidence.
- 
-Grissom: There's a fingerprint on this matchbook.
-Jeffrey Sinclair: So?
-Grissom: I don't remember it. It's not in my notes. 
-Jeffrey Sinclair: The evidence seal isn't broken. If the print's there now, it was there before.
- 
-Grissom: The defendant's fingerprints are all loop patterns. This is an arch. It's not a match. This is not the defendant's print.
-Jeffrey Sinclair: Are you sure? 
- 
-Jeffrey Sinclair: You know, when the defense hears about this, they are going to call every other piece of evidence into question. I don't need to tell you what that means.
-Grissom: I've given them reasonable doubt.
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Conrad Ecklie: Heard we have a problem.
-Grissom: The Middle East has a problem.
-Conrad Ecklie: You missed a fingerprint on a key piece of evidence.
-Grissom: I'm trying to keep an open mind.
-Conrad Ecklie: Then how do you explain it?
-Grissom: At the moment, I can't.
-Conrad Ecklie: Could someone have substituted a different matchbook?
-Grissom: Well, the evidence seal wasn't broken. The matchbook's appearance is consistent with the crime scene photos.
-Conrad Ecklie: Since your original testimony differs from the actual physical evidence, I thought I'd inform you I've opened a supervisory inquiry.
-Grissom: Well, that's good, Conrad. You know, I can't recall a lab director as expeditious as you.
-
-Voice:  Who's that?
-
- 
-Grissom: You okay, Bobby?
-Bobby Dawson: Been better.
-Conrad Ecklie: What the hell happened?
-Bobby Dawson: I was about to test-fire the mac-10 when it accidentally discharged. Don't know how it happened. Should've been more careful.
-Conrad Ecklie: Whose, uh, whose case you working?
-Bobby Dawson: Uh ...  Sara Sidle and Greg Sanders. Gun was found next to a dead body at an off-strip parking lot.
-Conrad Ecklie: All right. Make sure you file a report.
-Bobby Dawson: Yes, sir.
-Conrad Ecklie:  Just keep me posted.
- 
-
- 
- 
-Catherine: I remember this case. The Garbetts owned a restaurant that was next door to the victim's hardware store. Max Larson owned the private alleyway that was behind both places.
-
-Grissom:  That's right. He blocked the alleyway with a dumpster.
-Jason Garbett:  Jerk.
-
-Nick: Yeah, the guy was a jerk.
-Catherine: Well, he claimed the restaurant's delivery trucks were clogging the alley.
-Warrick: Didn't the Garbetts sue to have the dumpster removed?
-Grissom: They lost. There was no easement in their title.
-Catherine: And without access for deliveries, the restaurant business just dried up.
-Grissom: All the physical evidence pointed to Garbett. And according to the victim's business partner, Garbett had an argument with the victim the day before the murder. 
-Warrick: Garbett's appeal didn't call the forensics into question. Why are we here?
-Grissom: I'm calling the forensics into question. 
-I printed this matchbook. There was no print. Take a look at it now.
- 
-Catherine: Well, the fingerprint's pink -- so you used ninhydrin?
-Grissom: Mm-hmm.
- 
-Catherine: Well, I know that on some surfaces, ninhydrin can take time to develop a print. It was in, uh, last May's &quot;Journal of Forensic Sciences&quot;.
-Grissom: I remember the article. But I can't remember whether the variables in the test case are consistent with ours.
-Nick: Well, if the print matches the suspect, who cares?
-Grissom: It doesn't match. So, you and Warrick take over the file -- make sure all of the other evidence is beyond reproach. Catherine, you supervise. To avoid any appearance of impropriety, I'm going to be hands off.
- 
-
- 
- 
-Grissom: Sofia.
- 
-Sofia Curtis: You do know that the &quot;Journal's&quot; back issues are available on-line. The lab has a password. 
-Grissom: When you read from a computer screen, you have to lean in. I like to lean back. Therefore, I prefer a hard copy.
- 
-Sofia Curtis: Is this what you're looking for?
-(She hands it to Grissom. He looks at it.
-VOLUME 48
-NUMBER 3
-MAY 2003
-Grissom: May. Yes. Thank you. News travels so fast around here.
-Sofia Curtis: Ecklie travels fast. 
-Grissom: Hmm.
-Sofia Curtis: Look, in case you're not up-to-date on your QA/QC memos, I've been the lab's Quality Control Officer for the past year.
-Grissom: Congratulations. That job requires a detail-oriented person.
-Sofia Curtis: Grissom, I've been assigned to your inquiry. I just wanted to give you the heads-up. I'll be impartial.
-Grissom: I'd expect nothing less.
- 
-Grissom: &quot;Margaritaville&quot;? 
- 
-Grissom: That is still the lab's password, right?
- 
-
- 
- 
-Catherine: Warrick, in your field report, you documented the collection of several hairs near the body, but DNA never analyzed them.
-Warrick: Well, the DA had sufficient evidence and filed charges before I could give the hair to Greg, so I moved on to another case.
-Catherine: Process the hairs now.
-Warrick: Yeah.
-Nick: Catherine, do you remember why you were late to this crime scene? Eddie had a gig and you couldn't find a baby-sitter.
-Catherine: Actually, I kind of made that up. Eddie did have a gig. It ended early and he and I ... well, let's just say that not all my memories of him are bad ones.  Which reminds me you, at the time, were going out with that Assistant Manager of the Flamingo--
-Warrick: Oh, Susan.
-Catherine: Boy, did she have it bad for you. She kept calling while we were working the scene. You had to shut your phone off.
-Warrick: Yeah, well, now she's VP of Food Services, so I get free steak and eggs every Sunday morning.
-Nick: Free steak and eggs means she didn't know about the flight attendant.
-Warrick: Does everyone know my business around here?
-Catherine: Okay, Nicky, since you have such a good memory, why don't you explain the unidentified prints that you lifted from the murder weapon.
-Nick: I lifted six prints off the wrench. I ran them through I-AFIS. Five were a match to the suspect. One was unidentified. Now, at the time, we all agreed that that print was irrelevant, because the wrench was found in the common area.
-Catherine: Okay, well, we're going to have to compare that unidentified print with this matchbook print.
-Nick: Will do. Hey, Catherine ... we didn't do anything wrong here.
-Catherine: I agree. But the prosecution may not see it that way.
-
-
- 
-Sara:  Well, the doc should be able to clear this up.
-Robbins: Hey, how's Bobby doing?
-Sara: Shaken, but working hard. Trying to figure out why the gun discharged.
-Robbins: Well, fortunately, Bobby dodged his bullet -- unlike our victim.
- 
-Robbins: C.O.D's a single gunshot wound to the leg.
- 
-David Phillips: And it severed the femoral artery.
-Greg: We processed the guy's jeans. Tight GSR pattern around the entrance hole.
-Sara: So, he was either shot by someone at close range who left the gun behind, or it was self-inflicted.
-David Phillips: Why would the shooter leave the gun behind?
-Sara: He probably wouldn't.
-Robbins: And most suicides are through the torso or through the head.
-Sara: So if it wasn't intentional ...
-Greg: It was accidental.
-Robbins: Greg ... insert this rod into the hole.
-
- 
-Robbins: Trajectory is up to down.
-Sara: Consistent with a self-inflicted, accidental injury.
- 
-Sara: Have you been able to I.D. Him?
-Robbins: No wallet. Prints didn't hit. No relatives came forward. So, I'm calling him John Doe Number 124.
-
- 
- 
- 
-Nick: A perfect match.
-Catherine: Someone other than the suspect touched the matches and the wrench.
-Nick: The wrench was found in a toolbox in the suspect's restaurant. The murder happened after closing.
-Catherine: Who else had access to that restaurant?
-
- 
- 
-Nick: Mrs. Garbett.
-Mrs. Katz: It's, uh, Mrs. Katz now. I remarried.
- 
-Nick: Oh, okay-- Mrs. Katz. Duly noted.  Please, have a seat. I appreciate you coming down here and meeting with me.
-Mrs. Katz: Look, my ex-husband called me from jail. I know about the new trial. But this case has nothing to do with me. Not anymore. He got a life sentence. The crime lab testified.
-Nick: You think he's guilty?
- 
-Mrs. Katz: Jason was a quiet man. Bottled everything up. In twenty-five years of marriage, he raised his voice ... maybe ... a dozen times. But when he expressed himself ... the neighborhood knew.
- 
-Keith Garbett: Mom, I got your voice mail.
-Mrs. Katz: Keith.
-Keith Garbett: What's going on?
-Mrs. Katz: Uh, Mr. Stokes is with the crime lab.
-Keith Garbett: Hi. Look, we'll help in any way we can.
- 
-Nick: What I'd really like to do is get a list of anyone who had access to that restaurant five years ago.
-Keith Garbett: Sure. May I ask why? 
-Nick: Recent evidence has come to light ...
-Keith Garbett: What evidence?
-Nick: Oh, now that I can't discuss.
-Keith Garbett: My father's innocent.
-Mrs. Katz: My son has never stopped believing in his father. He has sacrificed everything for Jason: Moved back to Vegas, hired a new attorney, poured all his money into the appeal.
-Nick: So you weren't living in town at the time of the murder?
-Keith Garbett: No, I was living in L.A.
-Nick: Oh, okay.
-Keith Garbett: Look ... whatever you need from us ...  ... mom ... ?
-Mrs. Katz: Um ... I have some old records back at the house. I could send them over.
-Nick: Yeah, that'd be great.
-
-
- 
-SUSPECT: GARBETT, JASON
-VICTIM: LARSON, MAX
-DATE AND TIME OF RECOVERY 12-20-99
-RECOVERED BY GIL. GRISSOM
-DESCRIPTION AND/OR LOCATION: 2028 BOULDER HIGHWAY
-SEALED BY ??? DATE 12/99
- 
-
-
- 
-(Warrick walks into the lab where Mia has the tape on. Avril Lavigne is singing
-&quot;Don't Tell Me&quot;.) 
-Warrick: You're listening to music.
- 
-Mia Dickerson: It was Greg's suggestion.
-Warrick: No, it's good. Well, maybe not your music taste, but we'll work on that. You have my DNA profile for the hair sample I gave you?
-Mia Dickerson: No.
-Warrick: No? Do you need more time?
-Mia Dickerson: No ... the sample you sent me wasn't human ... so I sent it over to trace. Maybe Hodges can tell you something.
-Warrick: All right. Thank you.  And Mia, Avril's fine, but if you really want to experience musical heartache, you should check out, uh ... Nina Simone.
-
-
- 
- 
- 
-Jeffrey Sinclair: Grissom, Judge Witherspoon wants me in her chambers first thing in the morning. 
-Conrad Ecklie: She's going to demand a full update, Gil.
-Grissom: I can't explain the appearance of the print on the matchbook. That's what I'm trying to figure out.
-Conrad Ecklie: You're making the lab look bad.
-Jeffrey Sinclair: Word has it you've reopened the entire case. An unexamined hair and an unidentified print on the murder weapon? Grissom, did we make a mistake and arrest the wrong guy?
-Grissom: I don't know.
-FADE OUT
-
-
-
- 
- 
-Brass: Hey. We gotta talk. Ecklie's used his hot line to the Sheriff. The whole department knows about the inquiry.
-Grissom: There's nothing I can do about that.
-Brass: Yeah, well, I want to give you a heads-up, 'cause here's how it's gonna break down: In order to appear objective, Ecklie's gonna follow Sofia's recommendations. The problem is, she's Acting Supervisor of days, so she needs Ecklie to sign off to keep her gig. And you think she'll say whatever Ecklie wants. Yeah. And this isn't just about the Garbett case. He's looking into your whole team. And your ability to lead them.
-Grissom: Poor Conrad.
-Brass: I hate to tell you, but when it comes to politics, he whips your ass. So watch your back; it's gonna get ugly.
-Grissom: Thanks.
-
-
- 
-Hodges: The hair on the right is a human hair. The hair on the left is from your five-year-old crime scene. Given the big fat medulla, I'd say canine, and given its coarseness ... I'd say it could be a poodle or a Portuguese water dog.
-Warrick: What?! A Portuguese water dog.
-Hodges: Mm-hmm. They were found on fishing vessels in the 1800s.
-Warrick: Are you serious
- 
-Catherine: Warrick, I thought you were following it up with DNA.
-Warrick: I am. The hairs got kicked to trace.
-Hodges: Yeah, they're from a dog. Very obvious under the microscope.
-Warrick: I will find out if the victim or suspect owned a dog. I'm on it.
-Catherine: Thanks.
- 
-Hodges: Ecklie was so pissed when I told him about these hairs.
-Catherine: You told Ecklie?
-Hodges: Yeah. He's a friend. I sent him a card for his promotion. The guy was very touched by my thoughtfulness.
-Catherine: Oh, we all are.
-Hodges:  Oh.
-
-
- 
-Sara: Are you finished with the gun?
-Bobby Dawson: Yeah, I figured out what caused that A.D. Some garage gunsmith tried to turn this baby into a machine gun.
-Sara: That is a big-time felony.
-Bobby Dawson: Not to mention dangerous. Here, take a look. See, the trip has been ground down, which prevents the bolt from locking back.
- 
-
- 
- 
-Sara: Vic never even pulled the trigger. Did you get an I.D. off the serial number?
-Bobby Dawson: It's also ground down. Nearly halfway through the metal.
-Sara: Well, I love a challenge.
-Bobby Dawson: Well, it's all yours.
-
-
- 
-Nick: The Garbetts' restaurant employed six waiters, two cooks, and a busboy.
-Catherine: All of whom would've had access to the kitchen and to the wrench.
-Nick: Right: Garbett's ex-wife's, three of the waiters' and both cooks' prints were in I-AFIS because of work cards, but none was a match to the mystery print.
-Catherine: And what about the other four?
-Nick: I ran their socials to get their addresses. I'll grab a uniform, go bang on some doors.
-
-
-
-
-Nick: Hi. I'm Nick Stokes.
-
-
- 
-Nick: Good day, sir. My name's Nick Stokes. I'm with the Las Vegas Crime Lab.
-
- 
-Nick: I'm reinvestigating Max Larson's homicide.
-
-
-Nick: I was hoping to get your, uh, your fingerprints if I could. It would help eliminate you as a suspect.
-
-Nick: Thank you, ma'am.
-
-
-
-Rich Reeba: Max didn't like dogs. We don't allow them in the store.
-Warrick: How about you, Mr. Reeba. Do you down a dog?
-Rich Reeba: No. Mr. Brown, what's this about?
-Warrick: I'm sorry, I'm not at liberty to discuss ongoing cases.
-Rich Reeba: Look, I have a right to know. Max was my business partner.
-Warrick: Well, all I can tell you is that the defendant was granted a new trial.
-Rich Reeba: Based on a friggin' technicality. I talked to the D.A. myself.
-Warrick: The crime lab is reviewing the case file now.
-Rich Reeba: Garbett killed Max. I was right here when he tried to shake us down.
- 
-Jason Garbett: If you don't move that dumpster, I swear, I'm gonna kill you!
-Max Larson: Judge says I'm in the right. You can go to hell.
-Jason Garbett: You're gonna regret this.
-Max Larson: So tell me: How many customers did you have tonight? Hey, Rick ... what's a number less than one?
-Jason Garbett: This isn't over.
- 
-Rich Reeba: I guess he could've handled it better. But Garbett's delivery trucks -- they were always blocking access to our parking lot. We complained -- he refused to do anything about it, so we exercised our legal rights. A judge rules in our favor. Two days later, Max is murdered. Can you imagine killing over an incident like this?
-Warrick: I've seen people kill for a lot less, sir. Mr. Reeba, you and your partner were joint owners of this property, right?
-Rich Reeba: Yes.
-Warrick: With right of survivorship.
-Rich Reeba: Correct.
-Warrick: And when he died, you got it all, isn't that right?
-Rich Reeba: What are you getting at?
-Warrick: Nothing. It's just a question.
-
-
- 
- 
-Catherine: Hi.
-Nick: Hi. Video spectral analysis.
-Catherine: I want to see if I can bring out the image on the matchbook.
-Nick: We didn't have this equipment five years ago.
-Catherine: That's why I'm doing it now. How was the door-to-door?
-Nick: Good exercise. Everyone volunteered their prints but ... no match.
-
- 
- 
-Conrad Ecklie: Warrick, just the guy I wanted to see.
-Warrick: Ecklie, you know I'm real busy...
-Conrad Ecklie: Ah, it won't take long. My office.
-
-
- 
-Conrad Ecklie: Uh ... I'll cut to the chase. Did Supervisor Grissom instruct you to analyze the hairs you found near Max Larson's body?
-Warrick: It was my job to bring the hairs to DNA.
-Conrad Ecklie: Did you?
-Warrick: Yes.
-Conrad Ecklie: Five years ago.
-Warrick: No, yesterday. Look, if there was a problem ...
-Conrad Ecklie: Have a seat. 
- 
-Conrad Ecklie: In my capacity as Assistant Director, I'm now privy to personnel files. Um ... you've done outstanding work over the years, Warrick. Truly. I see commendations from detectives and D.A.'s ... I also see you have a gambling problem.
-Warrick: I had a gambling problem. What's your point?
-Conrad Ecklie: Well, it appears Supervisor Grissom counseled you appropriately.
-Warrick: That's correct. So ...
-Conrad Ecklie: He gave you access to departmental resources to help you deal with the problem?
-Warrick: No ... he helped me, uh ... by being a friend.
-Conrad Ecklie: Good. You've been a big help. Thanks.
-
- 
- 
-Catherine: Hey. 
- 
-Sofia Curtis: This is, uh, confidential. I don't have an office, so ... 
-Catherine: The inquiry into Grissom. 
-Sofia Curtis: Just reviewing all documentation. Case identifiers, analysts' initials ... 
-Catherine: Your responsibility is to confirm that all conclusions drawn are supported by the data. They are.
-Sofia Curtis: Excuse me?
-Catherine: I worked on this case. The conclusions, they are supported. I assume that's what you're finding?
-Sofia Curtis: Catherine ... I appreciate your interest, but I think it's prudent to reserve my findings for the Assistant Director.
-Catherine: Right.
- 
-FADE OUT
-
-
-;
-
-
-
- 
- 
-Grissom: Neil, you got a minute?
-Neil Jansen: I don't think I have any work pending for you.
-Grissom: I need your expertise.
-Neil Jansen: Matchbook print. Everybody's talking about it.
-Grissom: Well, good. Scientific discoveries arise through discourse. Now ... ninhydrin works by reacting to one end of a protein chain to form ruhemann's purple ...
-Neil Jansen: Which makes fingerprints visible.
-Grissom: Protein chains are made up of a series of amino acids, sometimes a hundred units long. But only one end of the chain has the h-n-H ...
-Neil Jansen: The n-terminus. 
- 
-Neil Jansen: It's the only part of the protein molecule that interacts with ninhydrin.
-Grissom: But fingerprints are subjected to bacterial degradation, which causes the proteins to break down into smaller amino acids.
-Neil Jansen: Upping the number of n-termini.
-Grissom: And making the fingerprint more visible. But because new fingerprints are sometimes composed of fully intact proteins, you could spray ninhydrin, and not see a result for months, yes?
-Neil Jansen: Or in rare cases, years -- depending on the rate of degradation.
-Grissom: My matchbook print was inside a plastic evidence bag. That could affect the rate.
-Neil Jansen: Let's see ... plastic ... plastic traps in heat and humidity.
-
-Neil Jansen:  Bacteria would continue to break down over time.
- 
-Grissom: So theoretically, the bag was acting as a humidifying chamber.
-Neil Jansen: I'd say you were processing a print in slow motion.
-Grissom: Thank you, Neil.
-
- 
- 
-Greg: I'm confused. Do we think the dead guy bought a defective gun, or was he selling a gun he'd already modified?
-Sara: Maybe he modified it for his own use.
-Greg: Well, if that was the case, then why would he need to file down the serial numbers?
-Sara: Good point. Okay, so you take the polishing compound, and you rub it on the obliterated serial number.
-
-Sara: And then you hit the spot with the wheel until it's mirror smooth.
- 
-Sara: Fry's reagent. It differentially eats away at the compressed area.
- 
-Greg: To expose the denser metal of the serial number.
-Sara: Take a look.
-Greg: And pop goes the serial number! 
-Sara: Run it through NCIC and local pawn shops. See if we can get an address.
-Greg: All right.
- 
-Greg: Excuse me.
-Conrad Ecklie: Excuse me.  Sara. You got a minute?
-Sara: I guess.
-Conrad Ecklie: Flitz's compound. I'm sure you're not polishing your jewelry in the lab. That would be unauthorized.
-Sara: What can I do for you?
-Conrad Ecklie: Ah. As you know, it's my job to review everyone's file. I just want to make sure you finished up with your PEAP Counselor.
-Sara: That's none of your business, Ecklie.
-Conrad Ecklie: Well, not only is it my business, but I plan to speak with your supervisor.
-Sara: About what? 
-Conrad Ecklie: You have updated him, right?
-Sara: Yeah, yeah, we've had an abbreviated conversation. I'm doing fine. Completed my required number of sessions months ago.
-Conrad Ecklie: Huh. Grissom failed to note that conversation in your file. Um ... but I'll take care of it. All right.
- 
-Sara: Thanks.
-
-
- 
-Nick: Expose the matchbook to white, and that covers the spectrum.
-Catherine: I'll bring out the illuminants and contrast.
-Nick: Rotate it 180.
-Catherine:  &quot;Club PCH.&quot;
-Nick: &quot;Los Angeles.&quot;
-Catherine: Is that probative?
-Nick: Maybe. Defendant's son lived in L.A.
-
-
-
- 
-Brass: So did a background check on Keith Garbett. He has no record. Moved to California two years before the murder. He opened a veterinary practice in Encino.
-Nick: He was a Veterinarian?
-Brass: Didn't I just say that?
-Nick: We found some dog hairs at the crime scene. Out of context, it didn't really mean anything.
-Brass: Well, now it does.
- 
-Keith Garbett: Mr. Stokes.
-Nick: Keith.
-Keith Garbett: Well, tell me you've got some good news. Dad's lawyer says the case could get tossed.
-Brass: I'm Detective Jim Brass, Las Vegas police. We'd like to ask you a couple questions.
-Keith Garbett: Sure.
-Brass: You ever been to Club PCH?
-Keith Garbett: I did some clubbing in my twenties. What does this have to do with the investigation?
-Nick: Keith, what we'd really like to go ahead and do is get a set of your fingerprints, if we could. Okay?
-Keith Garbett: Why? You know, I'm sorry, but I don't exactly trust you guys. You destroyed my family. You let my dad rot in jail for five years, and now you're coming after me? No way. Forget it.
-
-Brass: I thought that went well.
- 
-Nick: There's more than one way to get his prints. Trash on the curb -- public property, right?
-Brass: Don't need a warrant.
-
-
-
-
- 
-Conrad Ecklie: This conversation is on the record. Part of the official inquiry into the Max Larson case.
-Catherine: Understood.
-Conrad Ecklie: Five years ago, were you part of a team that processed a homicide at 2028 Boulevard Highway?
-Catherine: You know I was.
-Conrad Ecklie: Specifically what tasks did Supervisor Grissom assign to you?
-Catherine: Gil doesn't micro-manage. We know what needs to be done. I photo-documented the scene, I collected blood evidence, and I brought the charred newspaper to trace.
-Conrad Ecklie: In the analysis phase, did Grissom review your reports with you?
-Catherine: Are you asking if he performed a supervisory review?
-Conrad Ecklie: It's policy.
-Catherine: He must have. I'm sure he did.
- 
-Catherine: Are you doing all this for the sake of the lab or to indict Grissom?
-Conrad Ecklie: Catherine, there a number of talented CSIs, like yourself, who have put in to be supervisors. I just want to make sure the right people are in the right place.
-Catherine: About my request -- I really would like to supervise days.
-Conrad Ecklie: Right. You're a single mother. Better hours. And I bet you could use the extra cash.
-Catherine: No, this promotion isn't about money.
-Conrad Ecklie: Must be nice to be independently wealthy.
-Catherine: We're done here, right?
- 
-Conrad Ecklie: Yeah.
-
-
-
-Catherine: Vacuum metal deposition.
-Nick: Sometimes the evidence isn't in the bag ... it's on it.
-
-
-
-(Catherine sits at the computer and pulls up the unidentified print for case #
-436770-99).
-
-Nick: Thank you.
- 
-Catherine: Comparing unknown matchbook print to garbage bag print.
-Nick: Game, set.
-Catherine: Match.
- 
-Max Larson: We're closed. Hey, did you hear me? I said we're closed.
- 
-Max Larson: Hey... help!
- 
-
-
-
- 
-Keith Garbett: It wasn't my restaurant. It wasn't my problem.
-Nick: You lied to us. Said you were living in L.A. at the time of the murder.
-Catherine: while your parents were in court, suing to have that dumpster removed, you were running the restaurant. In fact, you signed the vendor checks that week.
-Nick: They were in a box of records your mother sent over. You saw the business was going under. Their marriage was in trouble. And while the judge ruled against them, you snapped.
-Lawyer: The evidence is circumstantial at best.
-Catherine: You can play it that way. It's fine with us. You and your father can both stand trial. I mean, after all he was the one who had motive. He threatened Larson. His prints were on the wrench.
-Lawyer: You think the D.A. is going to try two people for the same crime?
-Nick: Oh, yes, ma'am. At minimum, they're looking at conspiracy.
-Catherine: As far as we know, they could've been in it together. It's easier to overpower a guy when it's two against one.
-Nick: Yeah, but I don't think it went down that way. After your father was convicted, you gave up on your veterinary practice. Moved back to Vegas -- spent every last dime you had on his defense. Now, that tells me you had a guilty conscience.
-Keith Garbett: It should tell you that I love my father.
-Nick: Your father spent the last five years in prison, man. If you love him so much, why don't you tell the truth? Set him free.
-Keith Garbett: My father had nothing to do with it.
-Lawyer: Keith ... I never thought that they would convict an innocent man. So ... I kept quiet.
-Nick: To protect yourself.
-
- 
-Conrad Ecklie: We'll convene in my office at end of your shift.
-Grissom: Regarding what? This case is over.
-Conrad Ecklie: Don't be late.
-FADE OUT
-
-
-
- 
- 
-Det. Vartann: Hey.
-Sara: Hey.
-Det. Vartann: What's going on? Dispatch said to meet you here.
- 
-Sara: Well, three days ago we found a John Doe who was shot to death in an abandoned parking lot off strip. Uh, there was a mac-10 near the body. Gun is registered to a Paul Turlock, who happens to be the owner of the house.
- 
-Det. Vartann: Oh, so you want to see if Paul Turlock and John Doe are one and the same.
-Sara: Yeah.
-Det. Vartann: Okay.
- 
-Det. Vartann: Odds are looking pretty good so far.
- 
-Det. Vartann: Police! Anybody here?
-
-
- 
-
-
-
-Det. Vartann: Sara.
- 
-Det. Vartann: Any of these look like your guy?
-Sara: Guy on the end with the &quot;Rita&quot; tattoo.
-Det. Vartann: Think Rita's his mom or his girlfriend?
-Sara: If it's not crossed out, it's definitely his mom.
- 
-Greg: Mac in the box. Five of them. Serials obliterated. 
-
-Sara: Files and grinding stone.
-Det. Vartann: It's all the tools needed to convert a semi into an auto and then cover your tracks.
-Greg: Each modified weapon's a separate count. Each filed-off serial number's a separate count. This guy was looking at ten felonies.
-Sara: Actually, he already got the death penalty.
-
-Man's Voice:  Hey, Paulie, we, uh, liked what we saw. The deal's a go. Five large for five units. I'll call you back to arrange a time.
-
-Man's Voice:  Paulie. 9:00 P.M. Monday. 
- 
-Greg: That's tonight.
-Det. Vartann: &quot;We liked what we saw&quot;? That tells me that Paulie's already met with the buyers-- probably to show them the prototype of the mac-10.
-Sara: Maybe they met at the parking lot where we found the body.
- 
-Det. Vartann: You know, most likely they'd hook up at the same location to complete the sale.
-Greg: Buyers don't know he's dead.
-Sara: Lucky for us.
-
- 
- 
-Conrad Ecklie: Hell of a job on the Larson case, Nick. If it weren't for you, the son would've walked.
-Nick:  It was a team effort.
-Conrad Ecklie: Team effort? Just like the Westanson case, right? Last year, that woman who burned to ashes in a barrel of diesel fuel.
-Nick: Yeah. Yeah, I'm familiar with the case, Conrad.
-Conrad Ecklie: I reviewed Grissom's report. It seems to me that you were a ... one-man CSI machine.  Grissom rejected Fay Minden's testimony, but not you.
-Nick:  No, Grissom allowed me to pursue a new lead, under his supervision.
-Conrad Ecklie: Did he offer you any other CSIs as support staff?  Anyway, good work.
- 
-
- 
- 
-
-Det. Vartann: Keep your hands up. No sudden moves.
- 
-ATF Agent: ATF. I'm an agent.
-Det. Vartann: Just keep your hands where I can see 'em, and you won't get hurt.
- 
-John Calder : Special Agent John Calder, ATF. He's an undercover agent.
-Sara: I don't believe this.
-Det. Vartann: You're involved in a buy bust for some firearms?
-John Calder : You boys burned us bad. We were gonna make an arrest tonight.
-Sara: Suspect's name is Paul Turlock?
-John Calder: Yeah.
-Sara: Mr. Turlock A.D.'d a mac into his femoral artery. You guys are four days too late.
-
- 
- 
-Conrad Ecklie: If I understand you correctly, the latent fingerprint on the matchbook ... continued to process itself after you were finished.
-Grissom: Theoretically, yes.
-Conrad Ecklie: As I know you are aware, I've asked Sofia to review your handling of the Max Larson homicide.  Did Supervisor Grissom violate any procedures in mishandling the evidence?
- 
-Sofia Curtis: I don't believe he mishandled anything. He followed laboratory protocol, and when he saw that the evidence didn't correspond to his records, he notified the D.A. and recused himself from case review.
-Conrad Ecklie: Are you saying that, uh, his handling of the discovery of new evidence while on the stand is within our protocols?
-Sofia Curtis:  As it applies to this case, yes.
-Conrad Ecklie: In the, uh ... in the process of investigating this case, your ability to supervise has come into question.
-Grissom: Isn't that a little beyond the scope of this inquiry?
-Sofia Curtis: Again, we have no evidence that Grissom violated any protocols or proce ...
-Conrad Ecklie:  Thank you for your input.
-Grissom:  Okay, Conrad, what do you got? Let's hear it.
-Conrad Ecklie: Well, taken individually, there's nothing specific that warrants disciplinary action. However, my investigation has led me to question the effectiveness of your team and your ability to lead it. I'm breaking you guys up.
-Grissom: Excuse me?
-Conrad Ecklie: I've already spoken with the Director. Staff assignments are under my purview. Effective immediately, Catherine Willows will be promoted to Swing Shift Supervisor ...
-Grissom: Wait a minute, Catherine applied for days.
-Conrad Ecklie: I do what's best for the lab. I've decided to move the Swing Shift Supervisor to days ... 
-Sofia Curtis: I've been the Acting Supervisor of days for the past month -- I believe I've proven myself capable.
-Conrad Ecklie:  Warrick Brown and Nick Stokes will report to Catherine. Greg Sanders, pending his proficiency, Sara Sidle and Sofia will report to you.
-Sofia Curtis:  You're demoting me.
-Conrad Ecklie: I think you and Grissom suit each other.
- 
-Grissom:  Why are you doing this?
-Conrad Ecklie: There's been a chronic lack of supervision on the graveyard shift. Your people have been covering for you, Gil. For your shortcomings. Before your mismanagement jeopardizes this lab, I'm rectifying the situation.
-
-Conrad Ecklie: My decision is final.
-
-
- 
- 
-Nick: He kind of talked to all of us.
-Warrick: It was more like he ambushed all of us. Real sorry, Grissom.
-Grissom: There's no reason to be. Look, Ecklie doesn't have a scientific bone in his body. He starts with the answers he wants and then devises the questions to get them.
-Warrick: This sucks. This guy has been kissing ass all his life, he's trying to tell me -- he's trying to tell us what makes a good supervisor. What makes a good team?
-Grissom: Well, if a team gets used to doing things a certain way just because that's the way they've always done them, then they start to lose their effectiveness.
-Nick: Oh, come on. You don't really believe that.
-Grissom: No. I believe that the longer a team works together, the stronger they become. But I'm not in charge of the lab, nor would I want to be.
- 
-Nick: I got this -- that's the kind of cash I'm bringing down right now.
- 
-Warrick: I always knew there'd come a time when we weren't, uh, working together anymore. I just didn't think it'd be under these circumstances.
-
-Warrick:  All right. My new supervisor.
-Grissom: Catherine?
-Warrick: Yeah.
-Grissom:  Good.
-Warrick: Well, I got to get some rest. Swing shift starts at four in the afternoon. That's a big change.
-Grissom: Heracleitus once said, &quot;It is in changing that we find purpose.&quot;
-Warrick: Well, thanks to you, this job, I already know my purpose. See ya.
-
- 
-FADE TO BLACK
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=05x09+-+Mea+Culpa&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127385%23p127385" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=05x09+-+Mea+Culpa&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127385%23p127385" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127385%23p127385&amp;name=05x09+-+Mea+Culpa" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127385%23p127385" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=429e357543e03814a789f6a1d7e0817d">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=429e357543e03814a789f6a1d7e0817d">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=429e357543e03814a789f6a1d7e0817d">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=429e357543e03814a789f6a1d7e0817d">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

@@ -1,687 +1,919 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="FADE IN.
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - DAY]
+Reporter (woman): (V.O.) This is Channel 8 news ... 
+[EXT. LAS VEGAS CITY (STOCK) - DAY] 
+(A news" />
+<meta property="og:title" content="06x08 - A Bullet Runs Through It (2) - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="FADE IN.
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - DAY]
+Reporter (woman): (V.O.) This is Channel 8 news ... 
+[EXT. LAS VEGAS CITY (STOCK) - DAY] 
+(A news" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13317" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>06x08 - A Bullet Runs Through It (2) - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13317" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13317">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=f933cb0be5bdcb767dd3771516c14f82"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=f933cb0be5bdcb767dd3771516c14f82">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=f933cb0be5bdcb767dd3771516c14f82">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=f933cb0be5bdcb767dd3771516c14f82">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=f933cb0be5bdcb767dd3771516c14f82">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13317&amp;sid=f933cb0be5bdcb767dd3771516c14f82&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>06x08 - A Bullet Runs Through It (2)</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127411">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127411">06x08 - A Bullet Runs Through It (2)</a></div>
+							<div class="pull-right text-right"><time datetime="2005-12-01T20:11:18Z">12/01/05 20:11</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>FADE IN.</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) - DAY]</p>
+<p><strong>Reporter (woman)</strong>: (V.O.) This is Channel 8 news ... </p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - DAY] </p>
+<p>(A news helicopter flies overhead.) </p>
+<p><strong>Reporter (woman)</strong>: (V.O.) ... reporting with an update to yesterday's wild police pursuit and shootout where three suspects and one police officer were killed by gunfire at Third and Jefferson ... </p>
+<p>[EXT. MOTEL - PARKING LOT - DAY]</p>
+<p>(Camera close-up of the long, thin line of blood on the asphalt. Camera follows the blood trail straight to Jose Fausto, dead on the ground.) </p>
+<p><strong>Reporter (woman)</strong>: (V.O.) ... Shortly after being taken into custody, Jose Fausto, the last suspect, was gunned down by an unknown ... </p>
+<p>[EARLIER]</p>
+<p>[Scene from 6X07: A Bullet Runs Through It (1)]</p>
+<p>(A gunshot rings out. A woman screams. Warrick is spattered with blood from Jose Fausto.)</p>
+<p><strong>Cavaliere</strong>: Down! Everybody down! Down!</p>
+<p>(Officers scramble, their guns raised and looking around for the shooter.) </p>
+<p>(Camera lingers on Jose Fausto, dead on the parking lot ground.) </p>
+<p>[EXT. MOTEL - PARKING LOT - DAY -- PRESENT]</p>
+<p>(Officers tape up the parking lot crime scene. Warrick and Cavaliere kneel down next to the body.) </p>
+<p><strong>Cavaliere</strong>: Somebody shot this guy in front of all these cops? They did not want him talking to us.</p>
+<p><strong>Warrick</strong>: This was not some doped up drive-by. The shooter had skill. Just one shot went through the ten ring. </p>
+<p><strong>Cavaliere</strong>: How'd they know Fausto was here?</p>
+<p><strong>Warrick</strong>: I don't know.</p>
+<p><strong>Cavaliere</strong>: I bet you he tried to reach out for help, you know? Maybe money or a ticket out of here.</p>
+<p><strong>Warrick</strong>: I'll check the phone records and see if there was any calls in or out.</p>
+<p><strong>Cavaliere</strong>: Glad I'm not Vartann. He's got to tell the undersheriff.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY - DAY]</p>
+<p>(Vartann and Undersheriff McKeen are walking through the hallway as Vartann delivers the bad news.) </p>
+<p><strong>Undersheriff McKeen</strong>: Are you seriously telling me our only live suspect, a cop killer, was gunned down in your custody?</p>
+<p><strong>Vartann</strong>: I'm sorry to say yes, sir.</p>
+<p><strong>Undersheriff McKeen</strong>: And you didn't catch the shooter?</p>
+<p><strong>Vartann</strong>: That's also correct, sir.</p>
+<p><strong>Undersheriff McKeen</strong>: Stop calling me sir, you worthless ... (He sighs.) </p>
+<p>(They turn and walk into the room.)</p>
+<p><strong>Undersheriff McKeen</strong>: Where's Grissom?</p>
+<p><strong>Conrad Ecklie</strong>: He's on his way.</p>
+<p><strong>Undersheriff McKeen</strong>: All right, let's start without him.</p>
+<p>(On the wall monitor are large photos of Jose Fausto, dead on the parking lot ground.) </p>
+<p>[INT. POLICE DEPARTMENT - CONFERENCE ROOM - DAY - CONTINUOUS]</p>
+<p>(Inside the conference room, Nestor Ortega presents his findings to Undersherrif McKeen, Ecklie and Vartann.) </p>
+<p><strong>Nestor Ortega</strong>: Sergeant Adams and Officer Bell were making a routine traffic stop on a Buick. Before they were able to effect the stop, a stolen Caprice intervened.</p>
+<p>(Quick flashback to: [EXT. STREET - DAY]</p>
+<p>[All flashbacks are scenes from 6X07: A Bullet Runs Through It (1)]</p>
+<p>(A dark Caprice turns in front of the officers.) </p>
+<p><strong>Nestor Ortega</strong>: (V.O.) Adams said they just cut him off and started firing.</p>
+<p>(Gunfire erupts from the dark Caprice.) </p>
+<p>(Additional officer cars join behind them.) </p>
+<p><strong>Nestor Ortega</strong>: (V.O.) They were followed in pursuit by Officers Davis and Carroll and Detectives Brass and Curtis.</p>
+<p>(End of flashback.) </p>
+<p><strong>Nestor Ortega</strong>: The, uh, Caprice TC'd during the pursuit.</p>
+<p>(Quick flashback to: The dark Caprice flips over.) </p>
+<p><strong>Nestor Ortega</strong>: (V.O.) And they just kept firing.</p>
+<p>(The gunmen crawl out of the car and continue firing at the officers.) </p>
+<p>(End of flashback.) </p>
+<p><strong>Vartann</strong>: We got three of them off of prints. Priors for narcotics and connections to the Mexican mafia.</p>
+<p><strong>Conrad Ecklie</strong>: And additional set of prints from the Caprice came back to Jose Fausto, the guy shot at the motel.</p>
+<p><strong>Undersheriff McKeen</strong>: I've heard enough about him. Why would these knuckleheads pull in front of a police car making a traffic stop and engage us in a gunfight?</p>
+<p><strong>Nestor Ortega</strong>: If the Buick was moving drugs, maybe the Caprice was providing security, keeping the cops and rival gang members away.</p>
+<p><strong>Conrad Ecklie</strong>: We don't have the Buick, so there's no evidence to confirm that.</p>
+<p><strong>Undersheriff McKeen</strong>: Well, if these guys were a bunch of drug-dealing thugs, why on the news were they unarmed and we shot 'em in the back?</p>
+<p><strong>Conrad Ecklie</strong>: Because that's what the eyewitnesses are saying.</p>
+<p><strong>Undersheriff McKeen</strong>: Oh. And that we shot an innocent high school kid riding his bike.</p>
+<p><strong>Conrad Ecklie</strong>: Uh, Ricardo Estevez, male Hispanic, 22, shot in the alley east of Third.</p>
+<p>(Ecklie circles the area on the map on the table.)</p>
+<p>(Quick flashback to: [ALLEY BACK OF THIRD (EAST) - DAY] The gunman in a white t-shirt is shot.)</p>
+<p><strong>Conrad Ecklie</strong>: (V.O.) Three entrance wounds to the front torso, none to the back.</p>
+<p>(End of flashback.) </p>
+<p><strong>Conrad Ecklie</strong>: Ballistics matched the bullets to Sergeant Carroll's gun. Recovered a .45 auto next to the body.</p>
+<p>(The overhead shows evidence marker #14 next to a gun by the body.)</p>
+<p><strong>Nestor Ortega</strong>: Captain Brass states the suspect had it pointed at the sergeant when he came around the corner.</p>
+<p><strong>Vartann</strong>: Now, we have eyewitnesses who claim that they saw the suspect with his hands raised just before he was shot.</p>
+<p><strong>Undersheriff McKeen</strong>: Can we resolve this?</p>
+<p><strong>Nestor Ortega</strong>: Sergeant Carroll partially confirms eyewitness accounts. When Captain Brass approached, he momentarily took his eyes off the suspect. When he looked back, the suspect was holding a gun.</p>
+<p><strong>Vartann</strong>: Probably pulled it from his waistband.</p>
+<p><strong>Conrad Ecklie</strong>: There's no evidence to place the gun in the suspect's hand at that point.</p>
+<p><strong>Undersheriff McKeen</strong>: What about the guy in the other alley?</p>
+<p>(He circles the area on the satellite surveillance photos.)</p>
+<p>(Camera zooms into the photo for a flashback: The gunman in the black tank is shot.) </p>
+<p><strong>Conrad Ecklie</strong>: (V.O.) Salvador Rosario, 19, also shot in the front.</p>
+<p>(End of flashback.) </p>
+<p><strong>Conrad Ecklie</strong>: Autopsy's pending. Chemical tests show that he held a gun. You're not going to believe this. A bullet from Officer Davis' gun hit the suspect's revolver, jamming the cylinder.</p>
+<p><strong>Undersheriff McKeen</strong>: That would mean the revolver had to be pointing at Officer Davis.</p>
+<p><strong>Vartann</strong>: There are several eyewitnesses who claim that they saw him plant the gun on the body.</p>
+<p><strong>Nestor Ortega</strong>: It wasn't planted. It was mishandled.</p>
+<p><strong>Undersheriff McKeen</strong>: Mishandled by who?</p>
+<p><strong>Nestor Ortega</strong>: Contrary to policy, Officer Davis prematurely picked up the gun.</p>
+<p>(Quick flashback to: [ALLEY BACK OF THIRD (WEST) - DAY]</p>
+<p>(Officer David picks up the gun.) </p>
+<p><strong>Nestor Ortega</strong>: (V.O.) Detective Curtis instructed him to set it back down, which he did.</p>
+<p><strong>Sofia Curtis</strong>: What are you doing? Put it down.</p>
+<p><strong>Officer Davis</strong>: Sorry, I was just trying to secure his gun.</p>
+<p>(End of flashback.) </p>
+<p><strong>Conrad Ecklie</strong>: An eyewitness seeing that certainly could misinterpret it as planting a gun.</p>
+<p>(Grissom walks in.) </p>
+<p><strong>Undersheriff McKeen</strong>: : Please tell me you've got some good news.</p>
+<p><strong>Grissom</strong>: I have the autopsy findings on Leandro Chavez. He died of survivable wounds. Bled out at the crime scene waiting for transport.</p>
+<p>(Quick flashback to: Leandro Chavez is shot in the thigh. He talks to the officer watching him.) </p>
+<p><strong>Leandro Chavez</strong>: Dame una ambulanica quey.</p>
+<p><strong>Officer</strong>: I don't speak Spanish.</p>
+<p>(End of flashback.) </p>
+<p><strong>Vartann</strong>: There's justification for this.</p>
+<p><strong>Undersheriff McKeen</strong>: I can't wait to hear what that is.</p>
+<p><strong>Vartann</strong>: Paramedics prioritized transport of the injured. Downed officer first, civilians next. By the time they got to the suspect, he'd passed on. You know, just a little retroactive birth control.</p>
+<p><strong>Conrad Ecklie</strong>: See, this is the problem that the community has with us. You don't speak Spanish, so you think they don't speak English and then when you run your mouth ...</p>
+<p><strong>Undersheriff McKeen</strong>: All right, keep on point here. Which one of these buttheads shot Officer Bell?</p>
+<p><strong>Grissom</strong>: We have reason to believe that Officer Bell was killed by friendly fire.</p>
+<p>(Quick flashback to: Officer Bell is shot and falls to the ground. End of flashback.) </p>
+<p>(Various photos of Officer Bell on the ground at the crime scene are shown overhead.) </p>
+<p><strong>Grissom</strong>: It was a through-and-through, and we haven't recovered the bullet yet. It's a big crime scene.</p>
+<p><strong>Undersheriff McKeen</strong>: Unacceptable. Get back out there and find that bullet. I don't care if it takes everybody you got working around the clock.</p>
+<p><strong>Grissom</strong>: I said we haven't found it yet. I didn't say we weren't looking.</p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - HALLWAY -- DAY] </p>
+<p>(Grissom and Undersheriff McKeen are walking through the hallway.) </p>
+<p><strong>Undersheriff McKeen</strong>: Just do whatever it takes to find that bullet. Don't worry about the overtime. (He glances at his watch.) As soon as day shift comes in, I'll send them out, too.</p>
+<p>(Undersherrif McKeen leaves down the hallway. Grissom meets up with Bobby Dawson and they continue down the hallway.) </p>
+<p><strong>Bobby Dawson</strong>: Hey, Grissom. So Warrick recovered a nine-millimeter pistol from Fausto's motel room, and I matched it to the cartridge case from the kid in the hospital. I also found the kid's bike there.</p>
+<p>(Bobby Dawson turns the corner and leaves. Grissom walks into his office.)</p>
+<p>[INT. CSI - GRISSOM'S OFFICE - DAY - CONTINUOUS]</p>
+<p>(Grissom mutters to himself.) </p>
+<p><strong>Grissom</strong>: Shot him in the back for his bike. Great.</p>
+<p>(Grissom moves behind his desk.) </p>
+<p><strong>Sofia Curtis</strong>: (o.s.) Hey.</p>
+<p>(Grissom looks up and sees Sofia in his office.) </p>
+<p><strong>Sofia Curtis</strong>: I left you a couple of messages.</p>
+<p><strong>Grissom</strong>: Oh, yeah ... I haven't gotten to them yet. Sorry. You're on administrative leave, though. You should be home getting some rest.</p>
+<p><strong>Sofia Curtis</strong>: Yeah, I tried. But I ... can't stop thinking about this ... this Bell shooting.</p>
+<p><strong>Grissom</strong>: It's understandable.</p>
+<p><strong>Sofia Curtis</strong>: Grissom, I think there may be a possibility that maybe ... I shot him.</p>
+<p><strong>Grissom</strong>: Sofia ... we can't discuss the investigation.</p>
+<p><strong>Sofia Curtis</strong>: (interrupts) It's, it's something I remember when I was giving my statement.</p>
+<p><strong>Grissom</strong>: Then it's already on the record.</p>
+<p><strong>Sofia Curtis</strong>: No, something I didn't mention.</p>
+<p><strong>Grissom</strong>: Sofia ...</p>
+<p><strong>Sofia Curtis</strong>: (interrupts) Please listen to me. Bell was between me and the suspect. I was shooting over his cover, which is a violation of policy. </p>
+<p>(Quick flashback to: [GUNFIRE] Sofia is firing her gun. Officer Bell falls to the ground. End of flashback.)</p>
+<p><strong>Sofia Curtis</strong>: I was, I was just trying to stay alive. But if I did it, I ...</p>
+<p>(Sara walks into Grissom's office.) </p>
+<p><strong>Sara</strong>: Hey, Grissom, I have a question.</p>
+<p>(She stops when she sees Sofia.) </p>
+<p><strong>Sara</strong>: Sofia? You're on administrative leave.</p>
+<p><strong>Sofia Curtis</strong>: I know.</p>
+<p><strong>Sara</strong>: You should not be in this building.</p>
+<p><strong>Sofia Curtis</strong>: I was just talking to a friend. If I can't talk to a friend, who the hell am I supposed to talk to?</p>
+<p><strong>Sara</strong>: Any friend outside the department.</p>
+<p><strong>Sofia Curtis</strong>: And how many friends outside of work do you have, Sara? Maybe I should go talk to my mother. Oh, no, sorry. I forgot. She's a cop, too.</p>
+<p><strong>Sara</strong>: I can recommend a departmental psychologist.</p>
+<p><strong>Sofia Curtis</strong>: All right, then. This was a really bad idea. I'm sorry.</p>
+<p>(Sofia turns and leaves the office.) </p>
+<p>(Sara turns and looks at Grissom.) </p>
+<p>CUT TO:<br />
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[EXT. MOTEL - PARKING LOT -- DAY] </p>
+<p>(Detective Cavaliere walks over to Warrick.) </p>
+<p><strong>Chris Cavaliere</strong>: Hey, listen. One of the officers searching for the shooter found an expended cartridge up there on the seventh floor.</p>
+<p>(He points to a building across the street. Warrick looks down at the bloodstain on the ground, then back up at the building.) </p>
+<p><strong>Warrick</strong>: That would put him in the right position.</p>
+<p>(Cavaliere is already moving in that direction. Warrick follows him.) </p>
+<p><strong>Chris Cavaliere</strong>: Freemont Street's not far. It makes for an easy escape.</p>
+<p>CUT TO:<br />
+[INT. MOTEL ACROSS THE STREET -- HALLWAY / ROOM -- DAY] </p>
+<p>(Detective Cavaliere and Warrick walk through the hallway. They pass by the officer standing outside the door of the room where the cartridge was found.) </p>
+<p><strong>Warrick</strong>: (to the officer) Good job.</p>
+<p>(They walk through the main room and into the bedroom. There, on the floor is the cartridge.) </p>
+<p>(Warrick looks at the cartridge, then out the window. It's an unobstructed view to the parking lot.) </p>
+<p><strong>Warrick</strong>: Nice.</p>
+<p>(He puts a ruler down next to the cartridge and snaps some photos of it before picking it up.) </p>
+<p><strong>Warrick</strong>: .223 Remington. Most likely from a semi-auto.</p>
+<p><strong>Chris Cavaliere</strong>: Didn't even bother to pick it up.</p>
+<p><strong>Warrick</strong>: Yeah. Wasn't afraid of getting caught. I'll give it to Bobby. Have him run it through IBIS. See if the gun was used before.</p>
+<p>CUT TO:<br />
+[EXT. MOTEL - PARKING LOT -- DAY] </p>
+<p>(Out in the parking lot, the area is bustling with observers and officers.) </p>
+<p><strong>Cavaliere</strong>: (over radio) Vartann, this is Cavaliere. We've recovered an expended .223 cartridge case from a building overlooking the motel. It's on its way to the lab now. Scene here is secure. Patrol just called. They found a 411-a behind 5203 Maryland Parkway. Sounds like it might be the Buick Regal. I'm going to head over there now.</p>
+<p>(Inside the car, Brass is listening to the police band radio.) </p>
+<p>CUT TO:<br />
+[EXT. ALLEYWAY -- DAY] </p>
+<p>(Officer cars block the alleyway. In the center is a smoking car burned to a crisp.) </p>
+<p><strong>Chris Cavaliere</strong>: Buick Regal, no plates. You run the VIN?</p>
+<p><strong>Patrol Officer</strong>: Yeah. It came up stolen.</p>
+<p><strong>Chris Cavaliere</strong>: Yeah. It's a good chance this is the car we're looking for.</p>
+<p>(He looks inside.) </p>
+<p><strong>Chris Cavaliere</strong>: Yep. Torched it to destroy any evidence. Let's get this thing towed back to the lab, okay?</p>
+<p><strong>Patrol Officer</strong>: You got it.</p>
+<p>CUT TO:<br />
+[EXT. STREET - DAY]</p>
+<p>(Sergeant Adams is with Nestor Ortega and Catherine. They're walking through the EASY AUTO PARTS parking lot as Sergeant Adams shows them what happened.) </p>
+<p><strong>Nestor Ortega</strong>: Sergeant Adams, this is your standard after-shooting walk through, okay? Now I want you to describe to us exactly what happened yesterday morning.</p>
+<p><strong>Sgt. Adams</strong>: We were southbound on Roosevelt. Bell observed a male and female Hispanic having a domestic dispute.</p>
+<p><strong>Catherine</strong>: Where were they?</p>
+<p><strong>Sgt. Adams</strong>: Over in that last spot.</p>
+<p>(Quick flashback to: A man grabs a pregnant woman by her hair and pushes her into he car.) </p>
+<p><strong>Sgt. Adams</strong>: (V.O.) They got out of a green Geo Metro. Walked this way. By the time we'd turned around, they'd gotten into the Buick Regal.</p>
+<p>(End of flashback.) </p>
+<p><strong>Sgt. Adams</strong>: They were driving away. She was pregnant, about to pop, just like Bell's wife. He said we should pull 'em over.</p>
+<p><strong>Nestor Ortega</strong>: Which way'd they go?</p>
+<p><strong>Sgt. Adams</strong>: Southbound on Roosevelt. As soon as we turned on Desert Springs, the Caprice cut us off.</p>
+<p><strong>Nestor Ortega</strong>: Okay, thanks. Hey, hang around for about a minute or two, okay? I'll give you a ride home.</p>
+<p>(Sgt. Adams steps aside as Ortega turns to Catherine.) </p>
+<p><strong>Nestor Ortega</strong>: Your thoughts?</p>
+<p><strong>Catherine</strong>: I wonder if that camera works.</p>
+<p>(Catherine points to the security camera nearby. Ortega turns to look.) </p>
+<p><strong>Nestor Ortega</strong>: Well, it's worth checking out. Come on. I'll even let you buy me a donut.</p>
+<p>(Ortega walks out of camera frame.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(The bullets gathered from the crime scenes are lined up on the table and labeled. Also on the table is a clipboard and photos of the crime scene area.) </p>
+<p>(Greg writes down something on one of the photos.) </p>
+<p>CUT TO:<br />
+(Grissom walks into the lab from the hallway. Greg reports.) </p>
+<p><strong>Greg</strong>: I got to the end of my road.</p>
+<p><strong>Grissom</strong>: And?</p>
+<p><strong>Greg</strong>: Well, the suspect started shooting near the intersection of Jefferson and Desert Springs. That's nearly 20 blocks north of the crime scene. All ammo evidence was 7.62-millimeter casings and bullets.</p>
+<p><strong>Grissom</strong>: Only AK ammo? No police cartridge cases or bullets?</p>
+<p><strong>Greg</strong>: Not one out of 233 items. But cops don't get to shoot car-to-car, only bad guys do, right?</p>
+<p>(Hodges walks into the room.) </p>
+<p><strong>Hodges</strong>: Oh, hey, Greg. Been on vacation? (to Grissom) Look, I know the undersheriff's on your back, so I figured I better get to you quick.</p>
+<p>(He shows Grissom the file folder.) </p>
+<p><strong>Grissom</strong>: Okay, you got to me.</p>
+<p><strong>Hodges</strong>: Found red clay chips and dust in the gouges on Ricardo Estevez's .45. </p>
+<p>(He hands the report to Grissom. The report reads:<br />
+RED 7.5 NONE 1.5mn None<br />
+9 mm N/A N/A SYNTH</p>
+<p>RED CLAY, CONSISTENT OF ROOF TILES, POTTERY</p>
+<p><strong>Hodges</strong>: He was the guy that was in the east alley with Brass.</p>
+<p><strong>Grissom</strong>: Red clay chips?</p>
+<p><strong>Hodges</strong>: Traces consistent with roof tiles and clay pots.</p>
+<p><strong>Greg</strong>: Who keeps their gun in a clay pot?</p>
+<p><strong>Hodges</strong>: That would be no one. Trace evidence is fresh, so it definitely came from the alley. In a crisis, you can always count on me.</p>
+<p>(Hodges leaves.) </p>
+<p><strong>Greg</strong>: Doesn't he bug you?</p>
+<p><strong>Grissom</strong>: No more so than anyone else around here.</p>
+<p>(Grissom leaves.) </p>
+<p>CUT TO:<br />
+[EXT. MAIN CRIME SCENE -- DAY] </p>
+<p>(Various members of Forensics are removing bullets embedded in walls and other areas. Officers are there looking around and gathering anything that may be a part of the investigation.) </p>
+<p>(Sara is sitting in the back of the SUV. Grissom walks up to her. He's got a ladder slung over his shoulder.) </p>
+<p><strong>Grissom</strong>: Sara? Will you come with me to the east alley, please?</p>
+<p><strong>Sara</strong>: I thought my top priority as per the undersheriff was finding the bullet that went through Bell.</p>
+<p><strong>Grissom</strong>: Well, this is per me. Come on. It'll be fun.</p>
+<p><strong>Sara</strong>: (shrugs) Okay.</p>
+<p>CUT TO:<br />
+[EXT. ALLEY BEHIND THIRD (EAST) - DAY]</p>
+<p>(Grissom uses a ladder to climb up to examine a roof of a nearby building. He sees some clay roof tiles.) </p>
+<p>(Quick flashback to: [LAB - DAY] Hodges scrapes the clay off the gun handle. End of flashback.) </p>
+<p><strong>Grissom</strong>: Sara?</p>
+<p><strong>Sara</strong>: Yeah?</p>
+<p><strong>Grissom</strong>: Call Hodges at the lab. Have him bring two exemplar .45s out here. I'll get Ortega to bring Brass and Sergeant Carroll.</p>
+<p><strong>Sara</strong>: Are ... you gonna tell me what's going on?</p>
+<p><strong>Grissom</strong>: What goes up ... must come down.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. ALLEY BEHIND THIRD (EAST) - DAY]</p>
+<p>(Ortega, Brass, Officer Carroll and Hodges are in the alley with Grissom and Sara.) </p>
+<p><strong>Grissom</strong>: So, where exactly was Estevez standing when you guys saw him?</p>
+<p><strong>Brass</strong>: Right there, facing this way.</p>
+<p><strong>Officer Carroll</strong>: That's right.</p>
+<p><strong>Grissom</strong>: And he had a gun in his hand.</p>
+<p><strong>Brass</strong>: He had a gun in his hand. </p>
+<p><strong>Officer Carroll</strong>: And I shot a, uh, armed suspect who'd been shooting at the police, sir.</p>
+<p><strong>Grissom</strong>: I believe you. But the witnesses may also be right.</p>
+<p><strong>Brass</strong>: Look, don't make this some intellectual exercise for your own personal amusement.</p>
+<p><strong>Grissom</strong>: Check it out. Hodges, stand over here.</p>
+<p><strong>Hodges</strong>: Yes, sir. (Hodges moves to position.) Right here.</p>
+<p><strong>Grissom</strong>: See that roof?</p>
+<p><strong>Hodges</strong>: It's red clay.</p>
+<p><strong>Grissom</strong>: Toss one of the guns up there.</p>
+<p><strong>Hodges</strong>: Actually, they're Bobby Dawson's guns. He made me sign for them -- I'm sure he wouldn't appreciate if we brought them back damaged.</p>
+<p><strong>Grissom</strong>: Technically, they're my guns -- so toss one up there.</p>
+<p><strong>Hodges</strong>: Just for the record, I've never really been good at sports.</p>
+<p><strong>Grissom</strong>: Sara?</p>
+<p><strong>Sara</strong>: Yeah.</p>
+<p>(Sara moves into position. Hodges gives her one of the guns. She tosses the gun up onto the roof.) </p>
+<p>(Quick flashback to: Ricardo Estevez partially climbs the fence and tosses the gun up onto the roof. It stops there. End of flashback.) </p>
+<p><strong>Nestor Ortega</strong>: How does that prove the guy tossed the gun up there? You recovered it from the ground.</p>
+<p><strong>Grissom</strong>: There's a cracked tile up on the roof. I found a series of scratches stretching from the cracked tile to the end of the roof.</p>
+<p><strong>Hodges</strong>: I found scratches and red clay dust in the suspect's 5.</p>
+<p><strong>Grissom</strong>: It explains how the witnesses could see Estevez with his hands up, and Sergeant Carroll then saw him with a gun in his hand.</p>
+<p><strong>Nestor Ortega</strong>: The gun's still up there.</p>
+<p><strong>Grissom</strong>: Sara ... </p>
+<p>(Hodges hands Grissom the second gun.) </p>
+<p><strong>Grissom</strong>: Try it again.</p>
+<p>(Sara tosses the gun up onto the roof.) </p>
+<p>(Quick flashback to: Officer Carroll turns into the alley and runs toward Ricardo Estevez, who is partially up the fence.)<br />
+<strong>Officer Carroll</strong>: Stop! Police! Get down! </p>
+<p>(Ricardo Estevez climbs down the fence.) </p>
+<p><strong>Officer Carroll</strong>: Don't move.</p>
+<p>(Officer Carroll hears a sound and turns to see Brass enter the alley behind him. The gun slides down the roof and Ricardo catches it.) </p>
+<p>(Officer Carroll turns back to see Ricardo holding the gun. He's shot several times.) </p>
+<p>(End of flashback.)</p>
+<p>(Just then, the gun Sara threw up the roof slides down. She catches it.) </p>
+<p>(Brass and Officer Carroll both sigh.) </p>
+<p><strong>Grissom</strong>: There you have it.</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB -- DAY] </p>
+<p>(Catherine and Ecklie are reviewing the donut shop security video.) </p>
+<p>(On the video, the Buick Regal enters the parking lot and parks.) </p>
+<p><strong>Catherine</strong>: There's the Geo Metro. There's the Buick Regal.</p>
+<p>(The man and the pregnant woman get out of the car.) </p>
+<p><strong>Conrad Ecklie</strong>: Oh, she's pregnant, all right. Doesn't look like she wants to go with him.</p>
+<p><strong>Catherine</strong>: He's not giving her much choice. So, just how bad was the meeting with the undersheriff?</p>
+<p><strong>Conrad Ecklie</strong>: Worse than the dentist. Better than the proctologist.</p>
+<p><strong>Catherine</strong>: Mm.</p>
+<p>(On the video, the man checks the back tire rim.) </p>
+<p><strong>Conrad Ecklie</strong>: What's he doing?</p>
+<p><strong>Catherine</strong>: Looks like he's pulling out a hide-a-key.</p>
+<p>(Catherine enhances the portion of video.) </p>
+<p><strong>Conrad Ecklie</strong>: Means the car was waiting for them.</p>
+<p><strong>Catherine</strong>: Whatever they were about to do, they weren't going to do it in the Metro.</p>
+<p>CUT TO:<br />
+[INT. CSI - GARAGE -- DAY] </p>
+<p>(Nick is looking through the burned Buick. Catherine walks in.) </p>
+<p><strong>Catherine</strong>: Hey, Nick?</p>
+<p><strong>Nick</strong>: Hey.</p>
+<p><strong>Catherine</strong>: Have you checked the inside of the wheel wells?</p>
+<p><strong>Nick</strong>: No. I was having too much fun in here.</p>
+<p><strong>Catherine</strong>: Oh, yeah, I can see that. Um, well ... since you're already dirty, would you mind checking out the left rear one for me?</p>
+<p><strong>Nick</strong>: Yeah, sure.</p>
+<p><strong>Catherine</strong>: Thank you.</p>
+<p><strong>Nick</strong>: What are you looking for?</p>
+<p><strong>Catherine</strong>: I am looking for something to hide a key in.</p>
+<p><strong>Nick</strong>: Okay. Although, most hide-a-keys are held on with a magnet, which would've been demagnetized by the heat of the gasoline fire.</p>
+<p><strong>Catherine</strong>: Right.</p>
+<p>(He checks and doesn't find anything.) </p>
+<p><strong>Nick</strong>: Nope.</p>
+<p><strong>Catherine</strong>: Well, it probably fell off at the location.</p>
+<p><strong>Nick</strong>: Maybe. Auto transport usually sweeps up the debris. Good luck with that.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY / LAB -- DAY] </p>
+<p>(Catherine carries the paint pail bucket labeled AUTO DETAIL into the lab.) </p>
+<p>(She empties the bucket and goes through the debris from the site.) </p>
+<p>(She finds the key holder.) </p>
+<p>(She opens it and removes the cover.)</p>
+<p>(She puts on some goggles and scans it under the ALS. She finds a print.) </p>
+<p>(Quick flashback to: [EXT. PARKING LOT -- DAY] The man puts the key holder back under the tire rim. End of flashback.) </p>
+<p>(Camera holds on Catherine.)</p>
+<p>CUT TO:<br />
+[EXT. SIDEWALK -- DAY] </p>
+<p>(Sofia jogs down the sidewalk and is haunted by the memory of the shooting.) </p>
+<p>INTERCUT WITH: </p>
+<p>(Quick flashbacks of: [SHOOTOUT] From Sofia's POV, we see Officer Bell's back as he stands up and is hit by the bullet. He turns around and looks at her.) </p>
+<p>(Officer Bell falls.)</p>
+<p>(Sofia continues running.) </p>
+<p><strong>Danilo Zamesca</strong>: (V.O.) My son was riding his bike to school.</p>
+<p>CUT TO:<br />
+[INT. HOSPITAL - GERALDO'S ROOM] </p>
+<p>(Mrs. Zamesca sits next to her son's bed.) </p>
+<p><strong>Danilo Zamesca</strong>: (V.O.) Today he's in a coma. But ... </p>
+<p>[INT. POLICE DEPARTMENT -- DAY]</p>
+<p>(Danilo Zamesca is on tv during a press conference. The officers watch. ) </p>
+<p><strong>Danilo Zamesca</strong>: ... when he wakes up, when he ... opens his eyes again and smiles at his mother, he will see all the ... flowers and cards that he's been sent from total strangers wishing him well and ... praying for his recovery. Sheriff Burdick h-hasn't called. I've left so many messages I've lost count. It's inconvenient, I know, but I have questions. Who did this to my son? Why did they do it? No one wants to answer me? If the cops didn't shoot him, why won't they talk to me? If I have to go to court to find out, if I have to sue each and every officer involved, I'll do it. I will put the sheriff in front of a jury and get my answers there.</p>
+<p>(Out in the hallway, Undersheriff McKeen watches the news report. His phone rings; he answers it.) </p>
+<p><strong>Undersheriff McKeen</strong>: (to phone) McKeen. Yes, sir. I saw the news. I still think we should wait to issue a statement, at least until the lab has something concrete.</p>
+<p>CUT TO:<br />
+[INT. CSI - BALLISTICS LAB - DAY]</p>
+<p>(Hodges, Bobby Dawson and Sara are in the lab.) </p>
+<p><strong>Bobby Dawson</strong>: Hodges, it's not so much that these guns are my babies, okay? It's just that in order to replace them, I got to go to property, got to locate another gun, fill out all that paperwork, so all I'm saying is, I would appreciate not being left out of the loop, okay?</p>
+<p><strong>Hodges</strong>: I'm only a soldier in this war. The general gave me an order, and I followed it.</p>
+<p><strong>Bobby Dawson</strong>: Whatever.</p>
+<p><strong>Hodges</strong>: I've finished checking this batch for trace.</p>
+<p>(Warrick steps into the lab.) </p>
+<p><strong>Warrick</strong>: Bobby, police said they entered my cartridge case from the sniper into IBIS.</p>
+<p><strong>Bobby Dawson</strong>: It has become my priority, or so I was informed by Undersheriff McKeen -- give me about an hour?</p>
+<p><strong>Warrick</strong>: Okay.</p>
+<p>(Warrick leaves.) </p>
+<p>(Hodges takes a swab from a bullet. He tests it.) </p>
+<p><strong>Hodges</strong>: I got blood.</p>
+<p><strong>Sara</strong>: Where's it from?</p>
+<p><strong>Hodges</strong>: Expended bullet, Torres house, candle in the living room.</p>
+<p><strong>Sara</strong>: That's our through-and-through.</p>
+<p><strong>Bobby Dawson</strong>: Looks like a copper-jacketed nine-millimeter, consistent with cop ammo.</p>
+<p>(Quick flashback of: [SHOOTOUT] Various cuts of the officers shooting. Officer Bell is hit. He grunts from the impact.)</p>
+<p>(CGI EFX: The bullet zooms through Officer Bell and across the street and into the Torres' window. It smashes through the glass, goes through the living room and hits the candle on the shelf, embedding in the wax.) </p>
+<p>(End of flash.) </p>
+<p><strong>Sara</strong>: Brass, Sofia, Adams, Davis and Carroll were all shooting nines. Compare it with their firearms ASAP. I'm gonna go tell Grissom.</p>
+<p>(Bobby nods.) </p>
+<p>CUT TO:<br />
+[INT. CSI - GARAGE -- DAY] </p>
+<p>(Grissom walks up to the burned Buick and looks at it. Nick notices him.) </p>
+<p><strong>Nick</strong>: Looking for something?</p>
+<p>(Grissom holds up the bagged hubcap.) </p>
+<p><strong>Grissom</strong>: At least this car still has a nice hubcap.</p>
+<p><strong>Nick</strong>: Where'd you find that?</p>
+<p><strong>Grissom</strong>: On the pursuit route, Jefferson, about ten blocks north of Third.</p>
+<p><strong>Nick</strong>: (nods) Well, I've been through this car twice. There's no evidence of cartridge casings, blood, drugs of any kind. So there was nothing here to begin with, they cleaned it out pretty good before they torched it.</p>
+<p>(Sara enters the room.) </p>
+<p><strong>Sara</strong>: Hey, Nick, Grissom. We found the through-and-through bullet. Bobby's doing a comparison. I sent a sample of blood to DNA.</p>
+<p>(Grissom sighs.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. DINER -- DAY] </p>
+<p>(Sofia sits at a table staring out at nothing.) </p>
+<p><strong>Brass</strong>: (o.s.) Hey.</p>
+<p>(She looks up as Brass joins her.) </p>
+<p><strong>Brass</strong>: I'm glad you called. I've been thinking about you.</p>
+<p><strong>Sofia Curtis</strong>: Good. Yeah, I wasn't sure.</p>
+<p><strong>Brass</strong>: How you doing?</p>
+<p><strong>Sofia Curtis</strong>: I've gone a little crazy.</p>
+<p><strong>Brass</strong>: Yeah. It's the waiting.</p>
+<p><strong>Sofia Curtis</strong>: Yeah.</p>
+<p><strong>Brass</strong>: You know, I've beensuspended or disciplined like six or seven times, and it's always the same, the waiting. What you never forget is that you know a police officer lost his life.</p>
+<p>(Quick flashbacks of: [SHOOTOUT] From Sofia's POV, we see Officer Bell's back as he stands up and is hit by the bullet. He turns around and looks at her.) </p>
+<p>(End of flashback.)</p>
+<p><strong>Sofia Curtis</strong>: I have seen it so many times, I don't know if it's real or not.</p>
+<p>(Quick flashback of: Officer Bell falls. End of flashback.) </p>
+<p><strong>Sofia Curtis</strong>: Jim, it's like he's looking at me -- like as if he ... as if he knew.</p>
+<p>(Quick flashback of: Officer Bell falls. End of flashback.) </p>
+<p><strong>Brass</strong>: Sofia, you got to get it out of your head; that's poison.</p>
+<p><strong>Sofia Curtis</strong>: You telling me you're not thinking about it?</p>
+<p><strong>Brass</strong>: Oh, I'm thinking; I'm thinking about a lot of stuff.</p>
+<p>(On the television monitor over the counter, the coroners remove a body on a gurney. The body is covered with a white sheet.) </p>
+<p>(Sofia can't take her eyes off the TV. Brass turns to see what she's looking at.) </p>
+<p><strong>Reporter</strong>: (from tv) ... an officer killed in the cross-fire ... </p>
+<p>(Brass takes a sip from his cup.) </p>
+<p><strong>Brass</strong>: Let me tell you something. You know, when I was a young cop in Jersey, there was this kid -- responded to an all shots fired. Never got a radio call, never knew what hit him. I was the first officer on the scene -- a patrolman, too. You know, it tore up the department pretty good. Everybody was all twisted and ... but we managed somehow to ... I don't know, get through it, some way.</p>
+<p><strong>Sofia Curtis</strong>: Who shot him?</p>
+<p><strong>Brass</strong>: It really doesn't matter.</p>
+<p><strong>Sofia Curtis</strong>: It does matter. I could see Bell's face when I was shooting him, which means I was ... I was shooting near him. I made a mistake. I shouldn't have fired.</p>
+<p><strong>Brass</strong>: No, come on. It was chaos. You were just responding to a situation. It was instinct, it was training.</p>
+<p>(As Brass talks, two officers walk into the diner. Sofia imagines they're talking about them.) </p>
+<p><strong>Brass</strong>: No. Don't, don't think that way.</p>
+<p>(The officer looks up straight at Sofia. Brass turns to see what she's looking at. The two officers take their order and leave the diner.) </p>
+<p><strong>Sofia Curtis</strong>: I'm always going to be the cop who shot a cop.</p>
+<p>CUT TO:<br />
+[EXT. NEIGHBORHOOD - DAY]</p>
+<p>(Nestor Ortega, Catherine and several officers approach the driveway with the green Metro.) </p>
+<p><strong>Nestor Ortega</strong>: There's the green Geo Metro. (to the officers) Okay, you come with me. You two cover the back. Stay with her.</p>
+<p>(The officers head for the front door.) </p>
+<p><strong>Nestor Ortega</strong>: Police! We have a search warrant! Open up!</p>
+<p>(The side window smashes and someone crawls out. Catherine sees him and shouts to the officers.) </p>
+<p><strong>Catherine</strong>: Hey! </p>
+<p>(The officer with Catherine chases the suspect.) </p>
+<p><strong>Catherine</strong>: Suspect on the run!</p>
+<p>(The suspect runs to the back and starts climbing the fence. The officer reaches him, grabs him and pulls him down.) </p>
+<p>(A second officer arrives.) </p>
+<p><strong>Officer</strong>: Get him. Get him.</p>
+<p>(They apprehend the suspect.)</p>
+<p>SHORT TIME CUT TO: </p>
+<p>(The two officers walk out with the suspect in handcuffs between them.) </p>
+<p>(Another officer escorts the girlfriend out of the house. She, too, is in handcuffs and she's no longer pregnant.) </p>
+<p><strong>Officer</strong>: Okay, come on. We have her, Detective.</p>
+<p><strong>Catherine</strong>: Wow. You had the baby and got your figure back in one day.</p>
+<p><strong>Nestor Ortega</strong>: That's impossible. Believe me, I know. My wife's had five kids.</p>
+<p>CUT TO:<br />
+[INT. CSI - BREAK ROOM -- DAY] </p>
+<p>(Warrick checks his sandwich as Sara quietly watches.) </p>
+<p><strong>Warrick</strong>: (groans) Oh, Tina, baby -- no. Peanut butter without the jelly? She's trying to get me to cut down on sugar. But this is ridiculous.</p>
+<p>(Sara gives him half of her sandwich.) </p>
+<p><strong>Sara</strong>: Here.</p>
+<p><strong>Warrick</strong>: Thanks.</p>
+<p><strong>Sara</strong>: Do you ever want to be a cop?</p>
+<p><strong>Warrick</strong>: Every time I get a speeding ticket, yeah.</p>
+<p><strong>Sara</strong>: No, I mean like guns and car chases and &quot;put your back against the wall,&quot; that kind of stuff.</p>
+<p><strong>Warrick</strong>: No, I prefer the scientific side of law enforcement.</p>
+<p><strong>Sara</strong>: Me, too.</p>
+<p>(Warrick's phone rings; he answers it.) </p>
+<p><strong>Warrick</strong>: (to phone) Brown. Hey, Catherine.</p>
+<p>INTERCUT WITH: </p>
+<p>[EXT. NEIGHBORHOOD -- DAY] </p>
+<p>(Catherine is holding the 'pregnant woman' padding.) </p>
+<p><strong>Catherine</strong>: We got the couple driving the Buick. Female wasn't pregnant. She was a mule.</p>
+<p><strong>Warrick</strong>: Really.</p>
+<p><strong>Catherine</strong>: Found her rig for transporting narco inside the house, and unless these guys were in the mail order business, I think they were being shipped drugs.</p>
+<p>(She looks at the box #834662324880 with the label that reads:<br />
+FROM: ETHAN KEISO 702-555-0160<br />
+32 POINT VIEW<br />
+LAS VEGAS NV 89120</p>
+<p>TO: BIANCA GUERRO 702-555-????</p>
+<p><strong>Warrick</strong>: And delivering them to the guys up the food chain.</p>
+<p><strong>Catherine</strong>: Yeah.</p>
+<p><strong>Warrick</strong>: You think these are the same guys who whacked Fausto?</p>
+<p><strong>Catherine</strong>: It's the best lead we've got.</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Nestor Ortega questions Bianca Guerro. Her lawyer and Catherine are there.) </p>
+<p><strong>Nestor Ortega</strong>: You were a passenger in a stolen vehicle that failed to yield to the police. We've also connected you to a drug ring which was responsible for the death of a police officer. Miss Guerro? You're looking at prison time, so think about it. Whatever you could tell us about these guys will be in your best interest.</p>
+<p><strong>Catherine</strong>: Surveillance footage from Angie's Donut Shop shows you carrying drugs and getting into the delivery car. That alone gets you ten years.</p>
+<p><strong>Nestor Ortega</strong>: Okay, this is your last chance for your client to help herself out.</p>
+<p>(Bianca Guerro confers with her lawyer.) </p>
+<p><strong>Bianca Guerro</strong>: You don't understand. We had no choice. They would have killed us.</p>
+<p><strong>Nestor Ortega</strong>: Who would've killed you?</p>
+<p><strong>Bianca Guerro</strong>: There is nothing that you can do to me that is worse than what they can do. I'm done. I'm not talking no more.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM 2 - DAY]</p>
+<p>(Cavaliere interviews Carlos Contranos with his lawyer. Warrick is there.) </p>
+<p><strong>Chris Cavaliere</strong>: Mr. Contranos has served time for narcotics possession. He's been deported three times for entering the country illegally. This time, we're going to throw away the key.</p>
+<p><strong>Lawyer</strong>: Mr. Contranos has no interest in speaking to you.</p>
+<p><strong>Warrick</strong>: We're talking about the difference between life without parole and the needle, here.</p>
+<p><strong>Lawyer</strong>: He's prepared to do his time.</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE - DAY]</p>
+<p>(Warrick walks into Grissom's office.) </p>
+<p><strong>Warrick</strong>: Grissom, I managed to get a hit off of that sniper's cartridge case. Links up to a drug rip-off in L.A. last year -- unsolved.</p>
+<p><strong>Grissom</strong>: What about the phone records from the motel?</p>
+<p><strong>Warrick</strong>: Fausto made one call about an hour before he died. We ran it down to a disposable mobile phone.</p>
+<p>(Ecklie walks in.) </p>
+<p><strong>Conrad Ecklie</strong>: So is there anything I can tell the undersheriff?</p>
+<p><strong>Grissom</strong>: Yeah. Dead end on Fausto.</p>
+<p><strong>Conrad Ecklie</strong>: You tell him.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY TO DNA LAB -- DAY] </p>
+<p>(Grissom walks through the hallway and heads to the DNA Lab where Wendy Simms reports her findings.) </p>
+<p><strong>Wendy Simms</strong>: I got your results from the blood on the bullet. It definitely belongs to Officer Bell.</p>
+<p>(She hands the results to Grissom.) </p>
+<p><strong>Wendy Simms</strong>: This is my first deceased police officer. I heard that his wife is pregnant.</p>
+<p><strong>Grissom</strong>: Wendy, you understand that this is confidential.</p>
+<p><strong>Wendy Simms</strong>: Yes, sir.</p>
+<p><strong>Grissom</strong>: And you can't discuss it, even with your coworkers.</p>
+<p><strong>Wendy Simms</strong>: I understand what this means.</p>
+<p>(He nods.)</p>
+<p>CUT TO:<br />
+[INT. CSI - BALLISTICS LAB -- DAY] </p>
+<p>(Bobby Dawson reports his findings to Grissom.) </p>
+<p><strong>Bobby Dawson</strong>: Hey. Warrick tell you about the IBIS hit?</p>
+<p><strong>Grissom</strong>: Yeah. How are you doing with Bell's bullet?</p>
+<p><strong>Bobby Dawson</strong>: I was confirming my findings. Don't want to make any mistakes.</p>
+<p><strong>Grissom</strong>: Does that mean you have results?</p>
+<p><strong>Bobby Dawson</strong>: The bullet has the right GRC's for a Sig-sauer. Sergeant Adams carries a Beretta. Carroll, too. Davis has a Glock, so that rules him out. However, both detectives Brass and Curtis carry Sigs. But take a look.</p>
+<p>(He turns the monitor toward Grissom to look at a close-up of the bullet.) </p>
+<p><strong>Grissom</strong>: There's hardly any jacket left.</p>
+<p><strong>Bobby Dawson</strong>: Means there's almost no chance of identifying that to a specific gun.</p>
+<p><strong>Grissom</strong>: What if you had more time? Could you do it?</p>
+<p><strong>Bobby Dawson</strong>: Sorry, boss. I mean, there's just no way I can tell you who shot Officer Bell.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Catherine looks at the delivery box. Ecklie is in the lab with her.) </p>
+<p><strong>Catherine</strong>: You know, based on the dates of these address labels, it appears that Carlos and Bianca were receiving two to three drug shipments a day.</p>
+<p><strong>Conrad Ecklie</strong>: So the dogs hit on the boxes?</p>
+<p><strong>Catherine</strong>: Yes, and Narco found trace amounts of cocaine, for whatever that's worth. Well, the return addresses are all bogus, the couple is not talking, and all four suspects are dead. There's nothing more we can do.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) -- DAY] </p>
+<p>[EXT. MAIN CRIME SCENE -- DAY] </p>
+<p>(Grissom and the team are back at the crime scene.) </p>
+<p><strong>Grissom</strong>: Okay, Nick, the Cruiser's right front tire is 19 feet, 5 inches from the south curb.</p>
+<p>(Nick measures the distance. He motions for the car to move forward and to stop.) </p>
+<p><strong>Grissom</strong>: Sara, the detective unit's left front tire is five feet two inches from the south curb. </p>
+<p>(Sara measures the distance and the second car moves into position.) </p>
+<p><strong>Grissom</strong>: All right. Nick, you be Brass. Sara, you be Sofia.</p>
+<p><strong>Sara</strong>: Good. </p>
+<p><strong>Grissom</strong>: I'll be Bell. Officer Bell was crouched down behind his door.</p>
+<p>(Grissom kneels down behind the door.) </p>
+<p>(Quick flashback to: The shootout begins. The gunmen fire. Officer Bell, kneeling behind his car door, fires.) </p>
+<p>(End of flashback.)</p>
+<p>(Grissom is behind his door.)</p>
+<p>(Sara positions herself behind her door. She can't see Grissom.) </p>
+<p><strong>Sara</strong>: Griss -- ? I can't see you from here. You're blocked by both cars.</p>
+<p><strong>Nick</strong>: Yeah, me either. I'd have to shoot through both cars to get to you. I processed them both -- no shots entered from the back.</p>
+<p>(Grissom thinks about it, then stands up.) </p>
+<p><strong>Grissom</strong>: Can you see me here?</p>
+<p><strong>Sara</strong>: Yeah, I can see you.</p>
+<p><strong>Nick</strong>: Yeah, now.</p>
+<p><strong>Sara</strong>: What would make Bell stand up in the middle of a gunfight?</p>
+<p><strong>Grissom</strong>: Maybe he had to change positions. We know that the suspects were starting to run, right?</p>
+<p><strong>Nick</strong>: Okay, he popped up, took one in the vest.</p>
+<p><strong>Grissom</strong>: Let's assume that. We'll line up the exit trajectories with the apartment window, and we'll use lasers, but we may have to wait until it's dark.</p>
+<p>DISSOLVE TO: </p>
+<p>[EXT. MAIN CRIME SCENE -- DAY] </p>
+<p>(It's dark. Grissom has a dummy positioned where Officer Bell stood behind his car door. In the dummy's neck is a laser rod.) </p>
+<p><strong>Sara</strong>: (to phone) We're turning on the lasers. Is the candle in position?</p>
+<p>(Inside the Torres' residence, Greg is in the living room and on the phone.) </p>
+<p><strong>Greg</strong>: (to phone) I'm ready on this end. </p>
+<p><strong>Sara</strong>: (to phone) Let me know when the beam hits the candle. (to Grissom)<br />
+Good to go!</p>
+<p>(Down on the street, Grissom turns the laser light on.) </p>
+<p>(In the Torres' apartment, Greg keeps his eye on the beam.) </p>
+<p><strong>Greg</strong>: (to phone) Uh ... good height. Move it six inches to the left.</p>
+<p><strong>Sara</strong>: (to Grissom) Six inches to the left.</p>
+<p>(Grissom moves the beam. Greg turns and sees the light going in the wrong direction, away from the candle.) </p>
+<p><strong>Greg</strong>: (to phone) Oh, no, no. My left.</p>
+<p><strong>Sara</strong>: (to Grissom) He meant the other left.</p>
+<p><strong>Greg</strong>: A little more. Little more. (The beam hits the candle.) Right there. </p>
+<p><strong>Sara</strong>: Perfect. (to phone) I'll call you back.</p>
+<p><strong>Grissom</strong>: Okay, we got the exit. Now we need the entrance. Sara, turn your laser on.</p>
+<p>(Sara turns her laser on. Grissom can't find the beam. He holds up his hand and sees the beam is completely off.) </p>
+<p><strong>Sara</strong>: The path of my laser is off.</p>
+<p><strong>Grissom</strong>: Yeah, it's a bad angle. Move it to the left.</p>
+<p>(Sara tries, but can't.) </p>
+<p><strong>Sara</strong>: Gris ...</p>
+<p><strong>Grissom</strong>: Hmm?</p>
+<p><strong>Sara</strong>: It's blocked by the car. It's not possible.</p>
+<p><strong>Grissom</strong>: Turn it off. Nick, turn yours on.</p>
+<p><strong>Nick</strong>: Mine's been on the whole time. It's still blocked.</p>
+<p><strong>Grissom</strong>: Raise it up. </p>
+<p>(Nick raises the laser. It hits the dummy perfectly. Grissom and Nick both look at the path of the beams.) </p>
+<p><strong>Nick</strong>: He stood up.</p>
+<p>(Quick flashback to: [SHOOTOUT] Brass fires. As the suspect runs, Brass stands. He follows the line of sight of the suspect running.)</p>
+<p>(He fires.)</p>
+<p>(And hits Officer Bell in the neck.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p>(Everyone is silent.) </p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. BRASS' RESIDENCE -- DAY] </p>
+<p>(Grissom sits in his car waiting for Brass. Brass steps out and gets into the car.) </p>
+<p><strong>Brass</strong>: Hey. Well, your call was a little cryptic. Must've got the results from the ballistics test.</p>
+<p><strong>Grissom</strong>: We did, but it was inconclusive, so I went back to the intersection and ran a reconstruction.</p>
+<p><strong>Brass</strong>: Well, I don't know how you reconstruct a war zone. You have no idea what it was like. I mean, it was a firefight. Have you talked to Sofia? </p>
+<p><strong>Grissom</strong>: It wasn't Sofia. You must have stood up ... fired at the suspects over the black and whites. Officer Bell stood up at the same time, right into your line of fire. Fausto shot him in the vest, which spun him a little. At the same time, you hit him in the neck.</p>
+<p><strong>Brass</strong>: (sighs) Oh, I-I swear, I was behind the car, I ... I-I stood up?</p>
+<p><strong>Grissom</strong>: Sheriff wants me to present our findings at a community meeting in an hour.</p>
+<p>(Brass sighs.) </p>
+<p><strong>Brass</strong>: Don't keep 'em waiting.</p>
+<p>(Brass gets out of the car and leaves. He slams the car door behind him.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - OFFICE -- DAY] </p>
+<p>(Nestor Ortega talks with Sofia.) </p>
+<p><strong>Nestor Ortega</strong>: I just received a report from the shooting review board. You've been cleared. (He gives her back her gun and her badge.) You can go back to work.</p>
+<p><strong>Sofia Curtis</strong>: Thank you.</p>
+<p>(She takes her gun and her badge off the desk.) </p>
+<p>CUT TO:<br />
+[EXT. COMMUNITY CHURCH (STOCK) - DAY]</p>
+<p>[INT. COMMUNITY CHURCH -- DAY] </p>
+<p>(The church is filled with every seat taken. Reporters line the back. Grissom is standing up front to deliver his report.) </p>
+<p><strong>Grissom</strong>: Hello. My name is Dr. Gil Grissom. I'm the night shift supervisor for the Las Vegas Police Department's Crime Lab. I'm not a police officer; I'm a scientist.</p>
+<p><strong>Man</strong>: You work for the cops. That makes you a cop. You're not on our side.</p>
+<p>(The audience clamors. Grissom waits for them to quiet down.) </p>
+<p><strong>Grissom</strong>: Actually, I'm a forensics expert. My job is to identify, collect, and examine physical evidence from a crime scene, to determine who did what to whom and how did they do it. I've been asked to come here today by the mayor and Sheriff Burdick to present our analysis of the evidence in this case to your community.</p>
+<p><strong>Woman</strong>: Why aren't they here? Why should we believe your evidence?</p>
+<p><strong>Grissom</strong>: Physical evidence cannot be wrong. It doesn't lie. It's not influenced by emotion or prejudice. It's ... it's not confused by the excitement of the moment. I'm here, in God's house, to explain to you the truth about exactly what happened the other day. I'd like to start by showing you some photos. (Grissom shows the bullet on screen.) This is a bullet that was recovered from the Kevlar vest of Officer Daniel Bell, now deceased.</p>
+<p>(Danilo Zamesca stands up.) </p>
+<p><strong>Danilo Zamesca</strong>: (interrupts) What about my son? What-what does the evidence say about my son?</p>
+<p><strong>Grissom</strong>: Okay, if you like, we can start there.</p>
+<p><strong>Danilo Zamesca</strong>: Please.</p>
+<p>(Grissom moves over to the second display.) </p>
+<p><strong>Grissom</strong>: This photo is a comparison of two cartridge cases. The one on the right was found next to your son. The one on the left was test-fired from Jose Fausto's pistol. As you can see, there are corresponding individual marks on both cartridges. These are unique, like fingerprints. It means that they were fired from the same gun. It proves that while attempting to escape from the police ... Jose Fausto shot your son Geraldo in the back.</p>
+<p><strong>Danilo Zamesca</strong>: Why would he do that?</p>
+<p><strong>Grissom</strong>: We recovered your son's bicycle from Jose Fausto's motel room. Your son was on his way to football practice.</p>
+<p>(Quick flashback to: [EXT. SIDEWALK - DAY] Geraldo Zamesca is on his bike and riding down the sidewalk. Jose Fausto shoots him in the back. End of flashback.) </p>
+<p><strong>Grissom</strong>: It appears that Jose Fausto shot your son so he could use his bike.</p>
+<p>(Danilo Zamesca is quiet. He sits down.) </p>
+<p>DISSOLVE TO: </p>
+<p>[EXT. NEVADA MOUNTAINS (STOCK) -- DAY] </p>
+<p>[EXT. COMMUNITY (STOCK) - DAY]</p>
+<p>[INT. BELL RESIDENCE - DAY]</p>
+<p>(The side table is filled with framed family photos. The house is filled with family and friends there to support Tracy Bell and her family.) </p>
+<p>(In the foyer is a large framed photo of Officer Bell in uniform.) </p>
+<p>(Brass walks in. He's dressed in uniform as well.)</p>
+<p>(Undersheriff McKeen is talking with Nestor Ortega. They both notice Brass. Brass removes his hat.) </p>
+<p>(Sofia walks up to him.) </p>
+<p><strong>Sofia Curtis</strong>: Jim, I was just on my way out, but if you want me to stay ...</p>
+<p><strong>Brass</strong>: No, I-I think I can handle it. I think. Thanks.</p>
+<p><strong>Sofia Curtis</strong>: Okay.</p>
+<p>(Sofia leaves. Brass walks in. The officers there clear away from him as he makes his way around the room. No one approaches him.)</p>
+<p>(Brass sits down and puts his hand down on the seat next to him. The other officers stare at him. Brass fiddles nervously with his fingers.) </p>
+<p>(Nestor Ortega takes the seat next to Brass.) </p>
+<p><strong>Nestor Ortega</strong>: The shooting review board wants to talk to you. You're going to have to explain your tactical decision for shooting in the direction of a fellow officer.</p>
+<p><strong>Brass</strong>: I'm ready when they are.</p>
+<p><strong>Nestor Ortega</strong>: As far as I'm concerned, there's no question ... it was a bad shoot. </p>
+<p><strong>Brass</strong>: I'll have to live with that.</p>
+<p>(Nestor Ortega stands up and leaves.) </p>
+<p>(Brass looks over and sees Tracy Bell in the next room drying her tears. She steps out and heads into the main room.)</p>
+<p>(Just then, Jeannie Bell skips and trips in front of Brass. He quickly reaches out and catches her from falling.) </p>
+<p><strong>Brass</strong>: Oh, whoa! Hey. What's your name?</p>
+<p><strong>Jeannie Bell</strong>: Jeannie.</p>
+<p><strong>Brass</strong>: Well, that's a pretty name. (Tracy sees Brass with Jeannie and smiles.)<br />
+Is that your mom over there?</p>
+<p>(Jeannie nods.) </p>
+<p><strong>Brass</strong>: Huh? Okay, be careful, Jeannie ...</p>
+<p>(The officer standing next to Tracy leans over and whispers into her ear. Tracy looks over at Brass. Brass stands up and walks over to her.) </p>
+<p>(The room gets quiet as everyone watches them. Tracy walks up to Brass.) </p>
+<p><strong>Brass</strong>: Mrs. Bell ... I'm Jim Brass.</p>
+<p><strong>Tracy Bell</strong>: I know.</p>
+<p><strong>Brass</strong>: (voice breaking) I want you to know ... if there's, um ... if there's any, um ... </p>
+<p>(She holds up her hand and stops him.) </p>
+<p>(She reaches out and holds him as she cries.) </p>
+<p><strong>Tracy Bell</strong>: (whispers) I know it wasn't your fault.</p>
+<p><strong>Brass</strong>: (crying) I ... I'm ... I'm so sorry.</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-Reporter :  This is Channel 8 news ... 
- 
- 
-Reporter :  ... reporting with an update to yesterday's wild police pursuit and shootout where three suspects and one police officer were killed by gunfire at Third and Jefferson ... 
-
- 
-Reporter :  ... Shortly after being taken into custody, Jose Fausto, the last suspect, was gunned down by an unknown ... 
-
-
-
-Cavaliere: Down! Everybody down! Down!
- 
- 
-
- 
-Cavaliere: Somebody shot this guy in front of all these cops? They did not want him talking to us.
-Warrick: This was not some doped up drive-by. The shooter had skill. Just one shot went through the ten ring. 
-Cavaliere: How'd they know Fausto was here?
-Warrick: I don't know.
-Cavaliere: I bet you he tried to reach out for help, you know? Maybe money or a ticket out of here.
-Warrick: I'll check the phone records and see if there was any calls in or out.
-Cavaliere: Glad I'm not Vartann. He's got to tell the undersheriff.
-
-
- 
-Undersheriff McKeen: Are you seriously telling me our only live suspect, a cop killer, was gunned down in your custody?
-Vartann: I'm sorry to say yes, sir.
-Undersheriff McKeen: And you didn't catch the shooter?
-Vartann: That's also correct, sir.
-Undersheriff McKeen: Stop calling me sir, you worthless ...  
-
-Undersheriff McKeen: Where's Grissom?
-Conrad Ecklie: He's on his way.
-Undersheriff McKeen: All right, let's start without him.
- 
-
- 
-Nestor Ortega: Sergeant Adams and Officer Bell were making a routine traffic stop on a Buick. Before they were able to effect the stop, a stolen Caprice intervened.
-(Quick flashback to: 
-
- 
-Nestor Ortega:  Adams said they just cut him off and started firing.
- 
- 
-Nestor Ortega:  They were followed in pursuit by Officers Davis and Carroll and Detectives Brass and Curtis.
- 
-Nestor Ortega: The, uh, Caprice TC'd during the pursuit.
- 
-Nestor Ortega:  And they just kept firing.
- 
- 
-Vartann: We got three of them off of prints. Priors for narcotics and connections to the Mexican mafia.
-Conrad Ecklie: And additional set of prints from the Caprice came back to Jose Fausto, the guy shot at the motel.
-Undersheriff McKeen: I've heard enough about him. Why would these knuckleheads pull in front of a police car making a traffic stop and engage us in a gunfight?
-Nestor Ortega: If the Buick was moving drugs, maybe the Caprice was providing security, keeping the cops and rival gang members away.
-Conrad Ecklie: We don't have the Buick, so there's no evidence to confirm that.
-Undersheriff McKeen: Well, if these guys were a bunch of drug-dealing thugs, why on the news were they unarmed and we shot 'em in the back?
-Conrad Ecklie: Because that's what the eyewitnesses are saying.
-Undersheriff McKeen: Oh. And that we shot an innocent high school kid riding his bike.
-Conrad Ecklie: Uh, Ricardo Estevez, male Hispanic, 22, shot in the alley east of Third.
-
-
-Conrad Ecklie:  Three entrance wounds to the front torso, none to the back.
- 
-Conrad Ecklie: Ballistics matched the bullets to Sergeant Carroll's gun. Recovered a .45 auto next to the body.
-
-Nestor Ortega: Captain Brass states the suspect had it pointed at the sergeant when he came around the corner.
-Vartann: Now, we have eyewitnesses who claim that they saw the suspect with his hands raised just before he was shot.
-Undersheriff McKeen: Can we resolve this?
-Nestor Ortega: Sergeant Carroll partially confirms eyewitness accounts. When Captain Brass approached, he momentarily took his eyes off the suspect. When he looked back, the suspect was holding a gun.
-Vartann: Probably pulled it from his waistband.
-Conrad Ecklie: There's no evidence to place the gun in the suspect's hand at that point.
-Undersheriff McKeen: What about the guy in the other alley?
-
- 
-Conrad Ecklie:  Salvador Rosario, 19, also shot in the front.
- 
-Conrad Ecklie: Autopsy's pending. Chemical tests show that he held a gun. You're not going to believe this. A bullet from Officer Davis' gun hit the suspect's revolver, jamming the cylinder.
-Undersheriff McKeen: That would mean the revolver had to be pointing at Officer Davis.
-Vartann: There are several eyewitnesses who claim that they saw him plant the gun on the body.
-Nestor Ortega: It wasn't planted. It was mishandled.
-Undersheriff McKeen: Mishandled by who?
-Nestor Ortega: Contrary to policy, Officer Davis prematurely picked up the gun.
- - DAY]
- 
-Nestor Ortega:  Detective Curtis instructed him to set it back down, which he did.
-Sofia Curtis: What are you doing? Put it down.
-Officer Davis: Sorry, I was just trying to secure his gun.
- 
-Conrad Ecklie: An eyewitness seeing that certainly could misinterpret it as planting a gun.
- 
-Undersheriff McKeen: : Please tell me you've got some good news.
-Grissom: I have the autopsy findings on Leandro Chavez. He died of survivable wounds. Bled out at the crime scene waiting for transport.
- 
-Leandro Chavez: Dame una ambulanica quey.
-Officer: I don't speak Spanish.
- 
-Vartann: There's justification for this.
-Undersheriff McKeen: I can't wait to hear what that is.
-Vartann: Paramedics prioritized transport of the injured. Downed officer first, civilians next. By the time they got to the suspect, he'd passed on. You know, just a little retroactive birth control.
-Conrad Ecklie: See, this is the problem that the community has with us. You don't speak Spanish, so you think they don't speak English and then when you run your mouth ...
-Undersheriff McKeen: All right, keep on point here. Which one of these buttheads shot Officer Bell?
-Grissom: We have reason to believe that Officer Bell was killed by friendly fire.
- 
- 
-Grissom: It was a through-and-through, and we haven't recovered the bullet yet. It's a big crime scene.
-Undersheriff McKeen: Unacceptable. Get back out there and find that bullet. I don't care if it takes everybody you got working around the clock.
-Grissom: I said we haven't found it yet. I didn't say we weren't looking.
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Undersheriff McKeen: Just do whatever it takes to find that bullet. Don't worry about the overtime.  As soon as day shift comes in, I'll send them out, too.
- 
-Bobby Dawson: Hey, Grissom. So Warrick recovered a nine-millimeter pistol from Fausto's motel room, and I matched it to the cartridge case from the kid in the hospital. I also found the kid's bike there.
-
-
- 
-Grissom: Shot him in the back for his bike. Great.
- 
-Sofia Curtis:  Hey.
- 
-Sofia Curtis: I left you a couple of messages.
-Grissom: Oh, yeah ... I haven't gotten to them yet. Sorry. You're on administrative leave, though. You should be home getting some rest.
-Sofia Curtis: Yeah, I tried. But I ... can't stop thinking about this ... this Bell shooting.
-Grissom: It's understandable.
-Sofia Curtis: Grissom, I think there may be a possibility that maybe ... I shot him.
-Grissom: Sofia ... we can't discuss the investigation.
-Sofia Curtis:  It's, it's something I remember when I was giving my statement.
-Grissom: Then it's already on the record.
-Sofia Curtis: No, something I didn't mention.
-Grissom: Sofia ...
-Sofia Curtis:  Please listen to me. Bell was between me and the suspect. I was shooting over his cover, which is a violation of policy. 
-
-Sofia Curtis: I was, I was just trying to stay alive. But if I did it, I ...
- 
-Sara: Hey, Grissom, I have a question.
- 
-Sara: Sofia? You're on administrative leave.
-Sofia Curtis: I know.
-Sara: You should not be in this building.
-Sofia Curtis: I was just talking to a friend. If I can't talk to a friend, who the hell am I supposed to talk to?
-Sara: Any friend outside the department.
-Sofia Curtis: And how many friends outside of work do you have, Sara? Maybe I should go talk to my mother. Oh, no, sorry. I forgot. She's a cop, too.
-Sara: I can recommend a departmental psychologist.
-Sofia Curtis: All right, then. This was a really bad idea. I'm sorry.
- 
- 
-
-
- 
- 
-Chris Cavaliere: Hey, listen. One of the officers searching for the shooter found an expended cartridge up there on the seventh floor.
- 
-Warrick: That would put him in the right position.
- 
-Chris Cavaliere: Freemont Street's not far. It makes for an easy escape.
-
- 
- 
-Warrick:  Good job.
- 
- 
-Warrick: Nice.
- 
-Warrick: .223 Remington. Most likely from a semi-auto.
-Chris Cavaliere: Didn't even bother to pick it up.
-Warrick: Yeah. Wasn't afraid of getting caught. I'll give it to Bobby. Have him run it through IBIS. See if the gun was used before.
-
- 
- 
-Cavaliere:  Vartann, this is Cavaliere. We've recovered an expended .223 cartridge case from a building overlooking the motel. It's on its way to the lab now. Scene here is secure. Patrol just called. They found a 411-a behind 5203 Maryland Parkway. Sounds like it might be the Buick Regal. I'm going to head over there now.
- 
-
- 
- 
-Chris Cavaliere: Buick Regal, no plates. You run the VIN?
-Patrol Officer: Yeah. It came up stolen.
-Chris Cavaliere: Yeah. It's a good chance this is the car we're looking for.
- 
-Chris Cavaliere: Yep. Torched it to destroy any evidence. Let's get this thing towed back to the lab, okay?
-Patrol Officer: You got it.
-
-
- 
-Nestor Ortega: Sergeant Adams, this is your standard after-shooting walk through, okay? Now I want you to describe to us exactly what happened yesterday morning.
-Sgt. Adams: We were southbound on Roosevelt. Bell observed a male and female Hispanic having a domestic dispute.
-Catherine: Where were they?
-Sgt. Adams: Over in that last spot.
- 
-Sgt. Adams:  They got out of a green Geo Metro. Walked this way. By the time we'd turned around, they'd gotten into the Buick Regal.
- 
-Sgt. Adams: They were driving away. She was pregnant, about to pop, just like Bell's wife. He said we should pull 'em over.
-Nestor Ortega: Which way'd they go?
-Sgt. Adams: Southbound on Roosevelt. As soon as we turned on Desert Springs, the Caprice cut us off.
-Nestor Ortega: Okay, thanks. Hey, hang around for about a minute or two, okay? I'll give you a ride home.
- 
-Nestor Ortega: Your thoughts?
-Catherine: I wonder if that camera works.
- 
-Nestor Ortega: Well, it's worth checking out. Come on. I'll even let you buy me a donut.
- 
-
- 
- 
- 
-
- 
-Greg: I got to the end of my road.
-Grissom: And?
-Greg: Well, the suspect started shooting near the intersection of Jefferson and Desert Springs. That's nearly 20 blocks north of the crime scene. All ammo evidence was 7.62-millimeter casings and bullets.
-Grissom: Only AK ammo? No police cartridge cases or bullets?
-Greg: Not one out of 233 items. But cops don't get to shoot car-to-car, only bad guys do, right?
- 
-Hodges: Oh, hey, Greg. Been on vacation?  Look, I know the undersheriff's on your back, so I figured I better get to you quick.
- 
-Grissom: Okay, you got to me.
-Hodges: Found red clay chips and dust in the gouges on Ricardo Estevez's .45. 
-(He hands the report to Grissom. The report reads:
-RED 7.5 NONE 1.5mn None
-9 mm N/A N/A SYNTH
-RED CLAY, CONSISTENT OF ROOF TILES, POTTERY
-Hodges: He was the guy that was in the east alley with Brass.
-Grissom: Red clay chips?
-Hodges: Traces consistent with roof tiles and clay pots.
-Greg: Who keeps their gun in a clay pot?
-Hodges: That would be no one. Trace evidence is fresh, so it definitely came from the alley. In a crisis, you can always count on me.
- 
-Greg: Doesn't he bug you?
-Grissom: No more so than anyone else around here.
- 
-
- 
- 
- 
-Grissom: Sara? Will you come with me to the east alley, please?
-Sara: I thought my top priority as per the undersheriff was finding the bullet that went through Bell.
-Grissom: Well, this is per me. Come on. It'll be fun.
-Sara:  Okay.
-
-
- 
- 
-Grissom: Sara?
-Sara: Yeah?
-Grissom: Call Hodges at the lab. Have him bring two exemplar .45s out here. I'll get Ortega to bring Brass and Sergeant Carroll.
-Sara: Are ... you gonna tell me what's going on?
-Grissom: What goes up ... must come down.
-
-
-
-
-
- 
-Grissom: So, where exactly was Estevez standing when you guys saw him?
-Brass: Right there, facing this way.
-Officer Carroll: That's right.
-Grissom: And he had a gun in his hand.
-Brass: He had a gun in his hand. 
-Officer Carroll: And I shot a, uh, armed suspect who'd been shooting at the police, sir.
-Grissom: I believe you. But the witnesses may also be right.
-Brass: Look, don't make this some intellectual exercise for your own personal amusement.
-Grissom: Check it out. Hodges, stand over here.
-Hodges: Yes, sir.  Right here.
-Grissom: See that roof?
-Hodges: It's red clay.
-Grissom: Toss one of the guns up there.
-Hodges: Actually, they're Bobby Dawson's guns. He made me sign for them -- I'm sure he wouldn't appreciate if we brought them back damaged.
-Grissom: Technically, they're my guns -- so toss one up there.
-Hodges: Just for the record, I've never really been good at sports.
-Grissom: Sara?
-Sara: Yeah.
- 
- 
-Nestor Ortega: How does that prove the guy tossed the gun up there? You recovered it from the ground.
-Grissom: There's a cracked tile up on the roof. I found a series of scratches stretching from the cracked tile to the end of the roof.
-Hodges: I found scratches and red clay dust in the suspect's 5.
-Grissom: It explains how the witnesses could see Estevez with his hands up, and Sergeant Carroll then saw him with a gun in his hand.
-Nestor Ortega: The gun's still up there.
-Grissom: Sara ... 
- 
-Grissom: Try it again.
- 
-
-Officer Carroll: Stop! Police! Get down! 
- 
-Officer Carroll: Don't move.
- 
- 
-
- 
- 
-Grissom: There you have it.
-
- 
- 
- 
-Catherine: There's the Geo Metro. There's the Buick Regal.
- 
-Conrad Ecklie: Oh, she's pregnant, all right. Doesn't look like she wants to go with him.
-Catherine: He's not giving her much choice. So, just how bad was the meeting with the undersheriff?
-Conrad Ecklie: Worse than the dentist. Better than the proctologist.
-Catherine: Mm.
- 
-Conrad Ecklie: What's he doing?
-Catherine: Looks like he's pulling out a hide-a-key.
- 
-Conrad Ecklie: Means the car was waiting for them.
-Catherine: Whatever they were about to do, they weren't going to do it in the Metro.
-
- 
- 
-Catherine: Hey, Nick?
-Nick: Hey.
-Catherine: Have you checked the inside of the wheel wells?
-Nick: No. I was having too much fun in here.
-Catherine: Oh, yeah, I can see that. Um, well ... since you're already dirty, would you mind checking out the left rear one for me?
-Nick: Yeah, sure.
-Catherine: Thank you.
-Nick: What are you looking for?
-Catherine: I am looking for something to hide a key in.
-Nick: Okay. Although, most hide-a-keys are held on with a magnet, which would've been demagnetized by the heat of the gasoline fire.
-Catherine: Right.
- 
-Nick: Nope.
-Catherine: Well, it probably fell off at the location.
-Nick: Maybe. Auto transport usually sweeps up the debris. Good luck with that.
-
- 
- 
- 
- 
-
- 
- 
-
-
- 
- 
-
- 
-
- 
-Danilo Zamesca:  My son was riding his bike to school.
-
- 
- 
-Danilo Zamesca:  Today he's in a coma. But ... 
-
- 
-Danilo Zamesca: ... when he wakes up, when he ... opens his eyes again and smiles at his mother, he will see all the ... flowers and cards that he's been sent from total strangers wishing him well and ... praying for his recovery. Sheriff Burdick h-hasn't called. I've left so many messages I've lost count. It's inconvenient, I know, but I have questions. Who did this to my son? Why did they do it? No one wants to answer me? If the cops didn't shoot him, why won't they talk to me? If I have to go to court to find out, if I have to sue each and every officer involved, I'll do it. I will put the sheriff in front of a jury and get my answers there.
- 
-Undersheriff McKeen:  McKeen. Yes, sir. I saw the news. I still think we should wait to issue a statement, at least until the lab has something concrete.
-
-
- 
-Bobby Dawson: Hodges, it's not so much that these guns are my babies, okay? It's just that in order to replace them, I got to go to property, got to locate another gun, fill out all that paperwork, so all I'm saying is, I would appreciate not being left out of the loop, okay?
-Hodges: I'm only a soldier in this war. The general gave me an order, and I followed it.
-Bobby Dawson: Whatever.
-Hodges: I've finished checking this batch for trace.
- 
-Warrick: Bobby, police said they entered my cartridge case from the sniper into IBIS.
-Bobby Dawson: It has become my priority, or so I was informed by Undersheriff McKeen -- give me about an hour?
-Warrick: Okay.
- 
- 
-Hodges: I got blood.
-Sara: Where's it from?
-Hodges: Expended bullet, Torres house, candle in the living room.
-Sara: That's our through-and-through.
-Bobby Dawson: Looks like a copper-jacketed nine-millimeter, consistent with cop ammo.
-
- 
- 
-Sara: Brass, Sofia, Adams, Davis and Carroll were all shooting nines. Compare it with their firearms ASAP. I'm gonna go tell Grissom.
- 
-
- 
- 
-Nick: Looking for something?
- 
-Grissom: At least this car still has a nice hubcap.
-Nick: Where'd you find that?
-Grissom: On the pursuit route, Jefferson, about ten blocks north of Third.
-Nick:  Well, I've been through this car twice. There's no evidence of cartridge casings, blood, drugs of any kind. So there was nothing here to begin with, they cleaned it out pretty good before they torched it.
- 
-Sara: Hey, Nick, Grissom. We found the through-and-through bullet. Bobby's doing a comparison. I sent a sample of blood to DNA.
- 
-
-
- 
- 
-Brass:  Hey.
- 
-Brass: I'm glad you called. I've been thinking about you.
-Sofia Curtis: Good. Yeah, I wasn't sure.
-Brass: How you doing?
-Sofia Curtis: I've gone a little crazy.
-Brass: Yeah. It's the waiting.
-Sofia Curtis: Yeah.
-Brass: You know, I've beensuspended or disciplined like six or seven times, and it's always the same, the waiting. What you never forget is that you know a police officer lost his life.
- 
-
-Sofia Curtis: I have seen it so many times, I don't know if it's real or not.
- 
-Sofia Curtis: Jim, it's like he's looking at me -- like as if he ... as if he knew.
- 
-Brass: Sofia, you got to get it out of your head; that's poison.
-Sofia Curtis: You telling me you're not thinking about it?
-Brass: Oh, I'm thinking; I'm thinking about a lot of stuff.
- 
- 
-Reporter:  ... an officer killed in the cross-fire ... 
- 
-Brass: Let me tell you something. You know, when I was a young cop in Jersey, there was this kid -- responded to an all shots fired. Never got a radio call, never knew what hit him. I was the first officer on the scene -- a patrolman, too. You know, it tore up the department pretty good. Everybody was all twisted and ... but we managed somehow to ... I don't know, get through it, some way.
-Sofia Curtis: Who shot him?
-Brass: It really doesn't matter.
-Sofia Curtis: It does matter. I could see Bell's face when I was shooting him, which means I was ... I was shooting near him. I made a mistake. I shouldn't have fired.
-Brass: No, come on. It was chaos. You were just responding to a situation. It was instinct, it was training.
- 
-Brass: No. Don't, don't think that way.
- 
-Sofia Curtis: I'm always going to be the cop who shot a cop.
-
-
- 
-Nestor Ortega: There's the green Geo Metro.  Okay, you come with me. You two cover the back. Stay with her.
- 
-Nestor Ortega: Police! We have a search warrant! Open up!
- 
-Catherine: Hey! 
- 
-Catherine: Suspect on the run!
- 
- 
-Officer: Get him. Get him.
-
-
- 
- 
-Officer: Okay, come on. We have her, Detective.
-Catherine: Wow. You had the baby and got your figure back in one day.
-Nestor Ortega: That's impossible. Believe me, I know. My wife's had five kids.
-
- 
- 
-Warrick:  Oh, Tina, baby -- no. Peanut butter without the jelly? She's trying to get me to cut down on sugar. But this is ridiculous.
- 
-Sara: Here.
-Warrick: Thanks.
-Sara: Do you ever want to be a cop?
-Warrick: Every time I get a speeding ticket, yeah.
-Sara: No, I mean like guns and car chases and &quot;put your back against the wall,&quot; that kind of stuff.
-Warrick: No, I prefer the scientific side of law enforcement.
-Sara: Me, too.
- 
-Warrick:  Brown. Hey, Catherine.
-
- 
- 
-Catherine: We got the couple driving the Buick. Female wasn't pregnant. She was a mule.
-Warrick: Really.
-Catherine: Found her rig for transporting narco inside the house, and unless these guys were in the mail order business, I think they were being shipped drugs.
-(She looks at the box #834662324880 with the label that reads:
-FROM: ETHAN KEISO 702-555-0160
-32 POINT VIEW
-LAS VEGAS NV 89120
-TO: BIANCA GUERRO 702-555-????
-Warrick: And delivering them to the guys up the food chain.
-Catherine: Yeah.
-Warrick: You think these are the same guys who whacked Fausto?
-Catherine: It's the best lead we've got.
-
-
-
-;
-
-
-
- 
- 
-Nestor Ortega: You were a passenger in a stolen vehicle that failed to yield to the police. We've also connected you to a drug ring which was responsible for the death of a police officer. Miss Guerro? You're looking at prison time, so think about it. Whatever you could tell us about these guys will be in your best interest.
-Catherine: Surveillance footage from Angie's Donut Shop shows you carrying drugs and getting into the delivery car. That alone gets you ten years.
-Nestor Ortega: Okay, this is your last chance for your client to help herself out.
- 
-Bianca Guerro: You don't understand. We had no choice. They would have killed us.
-Nestor Ortega: Who would've killed you?
-Bianca Guerro: There is nothing that you can do to me that is worse than what they can do. I'm done. I'm not talking no more.
-
-
- 
-Chris Cavaliere: Mr. Contranos has served time for narcotics possession. He's been deported three times for entering the country illegally. This time, we're going to throw away the key.
-Lawyer: Mr. Contranos has no interest in speaking to you.
-Warrick: We're talking about the difference between life without parole and the needle, here.
-Lawyer: He's prepared to do his time.
-
-
- 
-Warrick: Grissom, I managed to get a hit off of that sniper's cartridge case. Links up to a drug rip-off in L.A. last year -- unsolved.
-Grissom: What about the phone records from the motel?
-Warrick: Fausto made one call about an hour before he died. We ran it down to a disposable mobile phone.
- 
-Conrad Ecklie: So is there anything I can tell the undersheriff?
-Grissom: Yeah. Dead end on Fausto.
-Conrad Ecklie: You tell him.
-
- 
- 
-Wendy Simms: I got your results from the blood on the bullet. It definitely belongs to Officer Bell.
- 
-Wendy Simms: This is my first deceased police officer. I heard that his wife is pregnant.
-Grissom: Wendy, you understand that this is confidential.
-Wendy Simms: Yes, sir.
-Grissom: And you can't discuss it, even with your coworkers.
-Wendy Simms: I understand what this means.
-
-
- 
- 
-Bobby Dawson: Hey. Warrick tell you about the IBIS hit?
-Grissom: Yeah. How are you doing with Bell's bullet?
-Bobby Dawson: I was confirming my findings. Don't want to make any mistakes.
-Grissom: Does that mean you have results?
-Bobby Dawson: The bullet has the right GRC's for a Sig-sauer. Sergeant Adams carries a Beretta. Carroll, too. Davis has a Glock, so that rules him out. However, both detectives Brass and Curtis carry Sigs. But take a look.
- 
-Grissom: There's hardly any jacket left.
-Bobby Dawson: Means there's almost no chance of identifying that to a specific gun.
-Grissom: What if you had more time? Could you do it?
-Bobby Dawson: Sorry, boss. I mean, there's just no way I can tell you who shot Officer Bell.
-
- 
- 
-Catherine: You know, based on the dates of these address labels, it appears that Carlos and Bianca were receiving two to three drug shipments a day.
-Conrad Ecklie: So the dogs hit on the boxes?
-Catherine: Yes, and Narco found trace amounts of cocaine, for whatever that's worth. Well, the return addresses are all bogus, the couple is not talking, and all four suspects are dead. There's nothing more we can do.
-
- 
- 
- 
-Grissom: Okay, Nick, the Cruiser's right front tire is 19 feet, 5 inches from the south curb.
- 
-Grissom: Sara, the detective unit's left front tire is five feet two inches from the south curb. 
- 
-Grissom: All right. Nick, you be Brass. Sara, you be Sofia.
-Sara: Good. 
-Grissom: I'll be Bell. Officer Bell was crouched down behind his door.
- 
- 
-
-
- 
-Sara: Griss -- ? I can't see you from here. You're blocked by both cars.
-Nick: Yeah, me either. I'd have to shoot through both cars to get to you. I processed them both -- no shots entered from the back.
- 
-Grissom: Can you see me here?
-Sara: Yeah, I can see you.
-Nick: Yeah, now.
-Sara: What would make Bell stand up in the middle of a gunfight?
-Grissom: Maybe he had to change positions. We know that the suspects were starting to run, right?
-Nick: Okay, he popped up, took one in the vest.
-Grissom: Let's assume that. We'll line up the exit trajectories with the apartment window, and we'll use lasers, but we may have to wait until it's dark.
-DISSOLVE TO: 
- 
- 
-Sara:  We're turning on the lasers. Is the candle in position?
- 
-Greg:  I'm ready on this end. 
-Sara: 
-Good to go!
- 
- 
-Greg:  Uh ... good height. Move it six inches to the left.
-Sara:  Six inches to the left.
- 
-Greg:  Oh, no, no. My left.
-Sara:  He meant the other left.
-Greg: A little more. Little more.  Right there. 
-Sara: Perfect.  I'll call you back.
-Grissom: Okay, we got the exit. Now we need the entrance. Sara, turn your laser on.
- 
-Sara: The path of my laser is off.
-Grissom: Yeah, it's a bad angle. Move it to the left.
- 
-Sara: Gris ...
-Grissom: Hmm?
-Sara: It's blocked by the car. It's not possible.
-Grissom: Turn it off. Nick, turn yours on.
-Nick: Mine's been on the whole time. It's still blocked.
-Grissom: Raise it up. 
- 
-Nick: He stood up.
-
-
- 
- 
- 
-
-
-
-
- 
- 
-Brass: Hey. Well, your call was a little cryptic. Must've got the results from the ballistics test.
-Grissom: We did, but it was inconclusive, so I went back to the intersection and ran a reconstruction.
-Brass: Well, I don't know how you reconstruct a war zone. You have no idea what it was like. I mean, it was a firefight. Have you talked to Sofia? 
-Grissom: It wasn't Sofia. You must have stood up ... fired at the suspects over the black and whites. Officer Bell stood up at the same time, right into your line of fire. Fausto shot him in the vest, which spun him a little. At the same time, you hit him in the neck.
-Brass:  Oh, I-I swear, I was behind the car, I ... I-I stood up?
-Grissom: Sheriff wants me to present our findings at a community meeting in an hour.
- 
-Brass: Don't keep 'em waiting.
- 
-
- 
- 
-Nestor Ortega: I just received a report from the shooting review board. You've been cleared.  You can go back to work.
-Sofia Curtis: Thank you.
- 
-
-
- 
- 
-Grissom: Hello. My name is Dr. Gil Grissom. I'm the night shift supervisor for the Las Vegas Police Department's Crime Lab. I'm not a police officer; I'm a scientist.
-Man: You work for the cops. That makes you a cop. You're not on our side.
- 
-Grissom: Actually, I'm a forensics expert. My job is to identify, collect, and examine physical evidence from a crime scene, to determine who did what to whom and how did they do it. I've been asked to come here today by the mayor and Sheriff Burdick to present our analysis of the evidence in this case to your community.
-Woman: Why aren't they here? Why should we believe your evidence?
-Grissom: Physical evidence cannot be wrong. It doesn't lie. It's not influenced by emotion or prejudice. It's ... it's not confused by the excitement of the moment. I'm here, in God's house, to explain to you the truth about exactly what happened the other day. I'd like to start by showing you some photos.  This is a bullet that was recovered from the Kevlar vest of Officer Daniel Bell, now deceased.
- 
-Danilo Zamesca:  What about my son? What-what does the evidence say about my son?
-Grissom: Okay, if you like, we can start there.
-Danilo Zamesca: Please.
- 
-Grissom: This photo is a comparison of two cartridge cases. The one on the right was found next to your son. The one on the left was test-fired from Jose Fausto's pistol. As you can see, there are corresponding individual marks on both cartridges. These are unique, like fingerprints. It means that they were fired from the same gun. It proves that while attempting to escape from the police ... Jose Fausto shot your son Geraldo in the back.
-Danilo Zamesca: Why would he do that?
-Grissom: We recovered your son's bicycle from Jose Fausto's motel room. Your son was on his way to football practice.
- 
-Grissom: It appears that Jose Fausto shot your son so he could use his bike.
- 
-DISSOLVE TO: 
- 
-
-
- 
- 
-
- 
- 
-Sofia Curtis: Jim, I was just on my way out, but if you want me to stay ...
-Brass: No, I-I think I can handle it. I think. Thanks.
-Sofia Curtis: Okay.
-
- 
- 
-Nestor Ortega: The shooting review board wants to talk to you. You're going to have to explain your tactical decision for shooting in the direction of a fellow officer.
-Brass: I'm ready when they are.
-Nestor Ortega: As far as I'm concerned, there's no question ... it was a bad shoot. 
-Brass: I'll have to live with that.
- 
-
- 
-Brass: Oh, whoa! Hey. What's your name?
-Jeannie Bell: Jeannie.
-Brass: Well, that's a pretty name. 
-Is that your mom over there?
- 
-Brass: Huh? Okay, be careful, Jeannie ...
- 
- 
-Brass: Mrs. Bell ... I'm Jim Brass.
-Tracy Bell: I know.
-Brass:  I want you to know ... if there's, um ... if there's any, um ... 
- 
- 
-Tracy Bell:  I know it wasn't your fault.
-Brass:  I ... I'm ... I'm so sorry.
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=06x08+-+A+Bullet+Runs+Through+It+%282%29&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127411%23p127411" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=06x08+-+A+Bullet+Runs+Through+It+%282%29&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127411%23p127411" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127411%23p127411&amp;name=06x08+-+A+Bullet+Runs+Through+It+%282%29" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127411%23p127411" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=f933cb0be5bdcb767dd3771516c14f82">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=f933cb0be5bdcb767dd3771516c14f82">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=f933cb0be5bdcb767dd3771516c14f82">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=f933cb0be5bdcb767dd3771516c14f82">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

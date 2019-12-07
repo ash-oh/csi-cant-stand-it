@@ -1,750 +1,982 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY SCENES (STOCK) -- NIGHT] 
+(Sirens wail in the distance.)
+[DR. ROBBINS] 
+(Dr. Robbins is wearing a biohazard su" />
+<meta property="og:title" content="05x04 - Crow's Feet - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY SCENES (STOCK) -- NIGHT] 
+(Sirens wail in the distance.)
+[DR. ROBBINS] 
+(Dr. Robbins is wearing a biohazard su" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13286" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>05x04 - Crow's Feet - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13286" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13286">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=36bc4b3575972cf8c599103dde2f1ba7"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=36bc4b3575972cf8c599103dde2f1ba7">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=36bc4b3575972cf8c599103dde2f1ba7">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=36bc4b3575972cf8c599103dde2f1ba7">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=36bc4b3575972cf8c599103dde2f1ba7">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13286&amp;sid=36bc4b3575972cf8c599103dde2f1ba7&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>05x04 - Crow's Feet</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127380">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127380">05x04 - Crow's Feet</a></div>
+							<div class="pull-right text-right"><time datetime="2004-11-04T21:48:02Z">11/04/04 21:48</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY SCENES (STOCK) -- NIGHT] </p>
+<p>(Sirens wail in the distance.)</p>
+<p>[DR. ROBBINS] </p>
+<p>(Dr. Robbins is wearing a biohazard suit and breathing heavily through a respirator. He's sealed up tightly.) </p>
+<p>[INT. HOTEL - HALLWAY -- NIGHT] </p>
+<p>(He makes his way through the hallway and slowly approaches the hotel room.) </p>
+<p><strong>Det. Vartann</strong>: (to phone) (o.s.) I've already been exposed. It's too late. Get a list of all the countries she's visited in the past thirty days.</p>
+<p>(Dr. Robbins turns into the hotel room. Det. Vartann is standing in the doorway and is on the phone.)</p>
+<p><strong>Det. Vartann</strong>: (to phone) Yeah, her passport.</p>
+<p>(Dr. Robbins walks in through the hotel room and finds the distraught housekeeper talking with an Officer.) </p>
+<p><strong>Det. Vartann</strong>: (to phone) Try the State Department.</p>
+<p><strong>Housekeeper</strong>: (crying) My husband, please. Yeah. I have to tell my husband! Oh, please. Call my husband!</p>
+<p>(Dr. Robbins walks into the bedroom where he meets up with David Phillips. He appears very nervous. He stands next to the bed holding his usual clipboard.) </p>
+<p>(Dr. Robbins leans forward and examines the red, spotted lesions on the dead woman's arms.)</p>
+<p>FLASH TO:<br />
+[INT. HOTEL LOBBY -- NIGHT] </p>
+<p>(Catherine shows her ID to the officer at the outer hotel door. He opens the lobby door for her and she walks in, again flashing her ID to the next officer standing on the inside.) </p>
+<p>(The building lobby is very crowded. It's as if everyone was evacuated out of their room and down to the lobby.) </p>
+<p><strong>Officer</strong>: (o.s.) No, absolutely not, sir. You need to step aside.</p>
+<p>(Catherine walks up to the officer standing guard over the crime scene tape.) </p>
+<p><strong>Officer</strong>: Ma'am, I'm sorry, but you can't go up.</p>
+<p>(She shows him her ID.)</p>
+<p><strong>Catherine</strong>: Catherine Willows, Crime Lab.</p>
+<p><strong>Officer</strong>: I know who you are, but hotel rooms are under quarantine. No one goes up, no one goes down.</p>
+<p><strong>Catherine</strong>: Quarantine?</p>
+<p>[INT. HOTEL - ROOM - NIGHT] </p>
+<p>(Dr. Robbins examines the body. He holds out his hand.) </p>
+<p><strong>Robbins</strong>: Come on. Nasal Spec.</p>
+<p>(David Phillips digs into his bag for the instrument. He finds it and hands it to Dr. Robbins.) </p>
+<p>(Dr. Robbins examines the woman's nose and finds it clean and clear. David looks at Dr. Robbins anxiously. Dr. Robbins checks the dead woman's eyes. They too are clear.) </p>
+<p><strong>Robbins</strong>: It's okay, David. </p>
+<p>(David helps Dr. Robbins take off his biohazard mask. Dr. Robbins removes his respirator.) </p>
+<p><strong>Robbins</strong>: (louder) False alarm. We're clear.</p>
+<p>FLASH TO:<br />
+[INT. HOTEL - HALLWAY - NIGHT]</p>
+<p>(Catherine makes her way to the hotel room. As she gets closer, the distraught, crying housekeeper is escorted out of the room by an officer.) </p>
+<p>(Catherine walks into the room.)</p>
+<p>[INT. HOTEL - ROOM - NIGHT - CONTINUOUS]</p>
+<p>(She looks around. She turns the corner toward the bedroom and sees Det. Vartann.) </p>
+<p><strong>Det. Vartann</strong>: Hey.</p>
+<p><strong>Catherine</strong>: Hi. </p>
+<p><strong>Det. Vartann</strong>: (motions) Go on in.</p>
+<p>(On the bed, she sees the dead woman's body. Robbins and David are both near the bed. Det. Vartann steps into the room behind Catherine.) </p>
+<p><strong>Catherine</strong>: Someone want to fill me in here?</p>
+<p><strong>Robbins</strong>: David assessed a potentially infectious agent, and per protocol, he remained at the site and called it in.</p>
+<p><strong>David Phillips</strong>: Her-her red blotches are consistent with CDC photos of ebola.</p>
+<p><strong>Robbins</strong>: You did the right thing.</p>
+<p><strong>Catherine</strong>: (nods) So what are we looking at?</p>
+<p><strong>Det. Vartann</strong>: Um, 419, suspicious circs. Uh, honestly, I have no idea.</p>
+<p>[BEDSIDE MIRROR]</p>
+<p>(Through the mirror's reflection, we see Catherine turn and look around.)</p>
+<p><strong>Catherine</strong>: Okay, it's my turn now. Clear the scene.</p>
+<p>SMASH CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - FORENSIC AUTOPSY -- NIGHT] </p>
+<p>(Robbins uses his glasses and looks at the burns on the Julie Stern's arm.) </p>
+<p>(Catherine walks in.)</p>
+<p><strong>Catherine</strong>: Sorry I'm late. I was processing the scene. Nothing probative.</p>
+<p><strong>Robbins</strong>: There are forty-two distinct laser burns on Julie Stern's body.</p>
+<p><strong>Catherine</strong>: Lasers?</p>
+<p><strong>Robbins</strong>: Lasers cauterize the skin as they destroy tissue. Lack of blood and scabbing confirms their use, so best guess would be she recently underwent a cosmetic procedure.</p>
+<p>(Quick flashback to: Julie Stern sits under the light and gets laser treatments.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: That's consistent with the hotel manager's statement. Said the vic had booked into the Safari Suite.</p>
+<p><strong>Robbins</strong>: Please tell me that has nothing to do with hunting wild game.</p>
+<p><strong>Catherine</strong>: Women who ... don't want their friends to know that they're freshening up will check into the suite while they heal.</p>
+<p><strong>Robbins</strong>: Well, five-star hotel's got to be cheaper than a hospital stay.</p>
+<p><strong>Catherine</strong>: So, could complications from this procedure have resulted in her death?</p>
+<p><strong>Robbins</strong>: No. Histamine levels are normal. There's no post-op infection. But look at her fingernails.</p>
+<p>(He picks up her hand and shows the lines on the nails.</p>
+<p><strong>Catherine</strong>: Mees lines; indicative of heavy metal poisoning.</p>
+<p><strong>Robbins</strong>: I sent blood and hair samples to tox.</p>
+<p><strong>Catherine</strong>: Anything else?</p>
+<p><strong>Robbins</strong>: I'm not sure if it's probative, but I found ten cc's of urine in her stomach. Digestive system's intact. There are no bruises or abrasions in her mouth, so there's only one way it could have gotten there.</p>
+<p><strong>Catherine</strong>: Chugalug.</p>
+<p><strong>Robbins</strong>: Mm-hmm.</p>
+<p>CUT TO:<br />
+[EXT. BECKMAN RESIDENCE - FRONT DRIVE -- DAY] </p>
+<p>(Officers and other personnel gather outside the tented house. Grissom parks the SUV out on the street front. He, Greg and Sara exit the car.) </p>
+<p>(They meet up with Brass who fills them in.) </p>
+<p><strong>Brass</strong>: (consulting his notebook) Okay. So two days ago the residence was tented for termites. This morning, the bug guys came to clear the house. They found the homeowner exterminated.</p>
+<p>(They make their way under the crime scene tape toward the front house entrance.) </p>
+<p><strong>Brass</strong>: He's ID'd as Elliot Beckman, 42, lived alone. Body's in the family room.</p>
+<p><strong>Grissom</strong>: Who's been inside?</p>
+<p><strong>Brass</strong>: Just the exterminators and the paramedics who pronounced. They entered and exited through the front door. Good luck.</p>
+<p>(Brass turns and leaves as Grissom, Greg and Sara walk into the tented house.)</p>
+<p>[INT. BECKMAN RESIDENCE - LIVING ROOM - DAY]</p>
+<p>(Grissom opens the front door. He turns on his flashlight and sees the dead insects on the floor.) </p>
+<p><strong>Grissom</strong>: Exterminators use sulfuryl flouride. It kills the bugs and then evaporates. Agro scientists call it the &quot;safety&quot; fumigant.</p>
+<p><strong>Sara</strong>: You know, I'm sure he would disagree.</p>
+<p>(They approach the dead body, face down on the floor.)</p>
+<p>(Sara and Grissom are nearest the body. Greg steps on a dead insect. The crunching sound is loud in the house. He kneels in front of something.) </p>
+<p><strong>Greg</strong>: Eyeglasses on the floor.</p>
+<p>(Near the eyeglasses he finds a pool of throw-up.) </p>
+<p><strong>Greg</strong>: Got vomit?</p>
+<p>(Quick flash to: [INT. BECKMAN RESIDENCE] The house fills with gas. Elliot Beckman is on his hands and knees crawling, gasping and coughing. He throws-up on the floor.)</p>
+<p>(End of flashback. Resume to present.) </p>
+<p>(Greg stands up and continues to look around the house. Sara opens her kit.) </p>
+<p>[INT. NEXT ROOM - DAY - CONTINUOUS]</p>
+<p>(Greg looks around in the other room and finds a blue feather on the desk and a cluster of blue feathers on the floor. He heads back into the living room.) </p>
+<p>[INT. LIVING ROOM - DAY - CONTINUOUS]</p>
+<p><strong>Greg</strong>: What flies when they're on and floats when they're off?</p>
+<p><strong>Grissom</strong>: Feathers.</p>
+<p><strong>Greg</strong>: Long and blue. I'll bag 'em.</p>
+<p>(Sara takes photos of the body.) </p>
+<p><strong>Sara</strong>: His cheek is bruised.</p>
+<p><strong>Grissom</strong>: What was he doing in here?</p>
+<p>CUT TO:<br />
+[EXT. BECKMAN RESIDENCE - FRONT DRIVE - DAY]</p>
+<p>(Brass interviews Ted Martin and Nate Allen.) </p>
+<p><strong>Ted Martin</strong>: Per the R&amp;R's, we conducted a thorough walk-through before releasing the gas. No plants, people or animals were left behind.</p>
+<p><strong>Brass</strong>: All right, so you released the gas, then what?</p>
+<p><strong>Ted Martin</strong>: I took off.</p>
+<p><strong>Nate Allen</strong>: Can't stick around baby-sitting houses, you know?</p>
+<p><strong>Brass</strong>: Once you left the house, could Beckman have snuck back in in any way?</p>
+<p><strong>Ted Martin</strong>: Yeah, if he had a death wish. The house is toxic for the first twelve hours.</p>
+<p><strong>Nate Allen</strong>: Mm-hmm. Not to mention it gets wrapped up tighter than a Christmas present.</p>
+<p><strong>Brass</strong>: You know tented houses -- they're prime targets for burglars.</p>
+<p><strong>Ted Martin</strong>: But, we, uh, secure these on the outside of every doorknob. Clamshell locks. Nobody gets inside.</p>
+<p><strong>Brass</strong>: Yeah, says you.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - INTERVIEW ROOM -- DAY] </p>
+<p>(Nick and Catherine interviews Dr. Tony Malaga, the plastic surgeon. He returns the morgue photo back to them.) </p>
+<p><strong>Dr. Tony Malaga</strong>: Yes, Ms. Stern was in my care.</p>
+<p><strong>Catherine</strong>: And when was the last time you saw her, Dr. Malaga?</p>
+<p>(He reviews his file.) </p>
+<p><strong>Dr. Tony Malaga</strong>: Uh, I ablated her liver spots three days ago. Checked on her yesterday at the Mediterranean. I applied post-op ointment to prevent scabbing and infection.</p>
+<p>(Quick flashback to: [HOTEL ROOM] Dr. Malaga uses a swab and treats Julie Stern.)</p>
+<p><strong>Dr. Tony Malaga</strong>: (V.O.) She seemed, uh ... in good spirits.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p>(He smiles at Catherine.) </p>
+<p><strong>Nick</strong>: From the marks, it looks like you lasered over forty spots. In one session?</p>
+<p><strong>Dr. Tony Malaga</strong>: (to Catherine) Well, post op, the patient's skin is very red and raw. It's really quite ugly, to be blunt. Most patients prefer to minimize the amount of time they spend in recovery.</p>
+<p><strong>Catherine</strong>: So you supersized the procedure. You did it all in one sitting?</p>
+<p><strong>Dr. Tony Malaga</strong>: It's perfectly safe.</p>
+<p><strong>Nick</strong>: We'll need a copy of her medical records.</p>
+<p>(Nick stares at Dr. Malaga. He turns to glance at Nick, but answers the question to Catherine.) </p>
+<p><strong>Dr. Tony Malaga</strong>: Oh, I'm sorry, but her file contains medical history of the family. I would be breaching doctor-patient confidentiality if I let you have that.</p>
+<p>(Again, he smiles at Catherine. Catherine carefully brushes the hair away from her face and tentatively smiles back.) </p>
+<p><strong>Nick</strong>: Hey, uh, do you have a problem with me, doctor?</p>
+<p><strong>Dr. Tony Malaga</strong>: Excuse me?</p>
+<p><strong>Nick</strong>: Well, there are two of us here and you're only addressing my colleague, so...</p>
+<p><strong>Dr. Tony Malaga</strong>: Well, she's a very beautiful woman. You have Venus de Milo aesthetics.</p>
+<p><strong>Catherine</strong>: We'll be getting a court order for Ms. Stern's records.</p>
+<p><strong>Dr. Tony Malaga</strong>: I'd appreciate that. </p>
+<p>CUT TO:<br />
+[EXT. BECKMAN RESIDENCE -- DAY] </p>
+<p>(Sara examines the outside of the tented house. She snaps photos of the tent and of the clips holding the tent sides together.) </p>
+<p>(She steps around the house and we see Greg also photographing the side of the house.)</p>
+<p><strong>Greg</strong>: Sara.</p>
+<p>(Sara takes a photo and walks over to Greg.) </p>
+<p><strong>Greg</strong>: Looks like someone tampered with the tent.</p>
+<p>(He pushes the tent aside to reveal a partially opened window.) </p>
+<p><strong>Greg</strong>: Window's open.</p>
+<p><strong>Sara</strong>: Well, exterminators leave some windows open to help circulate the gas. This could have been the victim's way in.</p>
+<p>(Quick flashback to: Beckman pushes the window open. End of flash. Resume to present.) </p>
+<p><strong>Sara</strong>: Once inside, he was overcome by the fumes.</p>
+<p>(Quick flashback to: The gas pump starts. Camera quick zooms following the hose from the pump truck, across the front lawn and to the inside of the house.) </p>
+<p>(Beckman is inside the house as it begins to fill with gas. He coughs and crawls toward the door. He collapses.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Greg</strong>: He must be an idiot to go inside a tented house.</p>
+<p><strong>Sara</strong>: Maybe he forgot something. Figured the gas had dissipated.</p>
+<p><strong>Greg</strong>: Well, assuming you're right, and he went in and never left, shouldn't the window be open wider?</p>
+<p>(Sara looks at the window and tries to open it. It doesn't catch and slides back down.) </p>
+<p><strong>Sara</strong>: It's old. The rope has snapped.</p>
+<p><strong>Greg</strong>: Okay. Now, Mr. Beckman never came out of the house. Why is there a trail of sand leading away from it and straight to the neighbor's house?</p>
+<p>(Greg holds up the crime scene tape for Sara and they both head for the neighbor's house.) </p>
+<p><strong>Sara</strong>: That's a good question.</p>
+<p>(Sara and Greg walk over and knock on the neighbor's back door.)</p>
+<p>[INT. KENDELL RESIDENCE - BACK DOOR - DAY - CONTINUOUS]</p>
+<p>(The neighbor is coughing as he answers the back door.) </p>
+<p><strong>Rory Kendell</strong>: Can I help you?</p>
+<p><strong>Sara</strong>: Yeah, we're with the crime lab. We're investigating the death of your neighbor next door.</p>
+<p><strong>Rory Kendell</strong>: Elliot? What happened?</p>
+<p><strong>Sara</strong>: That's what we're trying to figure out.</p>
+<p>(He coughs.) </p>
+<p><strong>Greg</strong>: Have you been in his house recently?</p>
+<p><strong>Rory Kendell</strong>: Look, man, I've been laid up for the past two days puking my guts out. I haven't left my place.</p>
+<p><strong>Sara</strong>: Do you live alone, Mr ... ?</p>
+<p><strong>Rory Kendell</strong>: Rory Kendell. My wife bailed a few months ago.</p>
+<p><strong>Greg</strong>: Rory, have you felt dizzy or disoriented?</p>
+<p><strong>Rory Kendell</strong>: How would you know?</p>
+<p><strong>Sara</strong>: We're going to need a urine sample.</p>
+<p><strong>Rory Kendell</strong>: Why?</p>
+<p><strong>Greg</strong>: You may be suffering from sulfuryl fluoride gas poisoning. Urination's the only way for the poison to get out.</p>
+<p><strong>Rory Kendell</strong>: I got the flu.</p>
+<p><strong>Sara</strong>: If that's true, then your urine will be sulfuryl-flouride free.</p>
+<p><strong>Greg</strong>: But if you're lying, &quot;you're in&quot; big trouble.</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - LAB -- DAY] </p>
+<p>(Nick is in the lab when Catherine walks in.) </p>
+<p><strong>Nick</strong>: What do Ozzy Osbourne, Iron Maiden and our victim all have in common?</p>
+<p>(He hands her the file. Catherine looks through it.) </p>
+<p><strong>Catherine</strong>: Heavy metal.</p>
+<p><strong>Nick</strong>: Arsenic in her system, poisoning was chronic.</p>
+<p><strong>Catherine</strong>: Looks like it began approximately three months ago.</p>
+<p><strong>Nick</strong>: Techs collected the ingestibles found at her home. None were contaminated.</p>
+<p><strong>Catherine</strong>: Can tox confirm that arsenic poisoning was the cause of death?</p>
+<p><strong>Nick</strong>: Not yet. Until the quants come back, we won't know if the concentration was lethal.</p>
+<p><strong>Catherine</strong>: In poisoning cases, the killer's usually a relative.</p>
+<p><strong>Nick</strong>: Right. Someone with access to the victim.</p>
+<p><strong>Catherine</strong>: (reading through file) Next-of-kin is an only child, a son. Who has a vineyard in Pahrump. </p>
+<p>CUT TO:<br />
+[INT. CSI - INTERVIEW ROOM - DAY]</p>
+<p>(Catherine and Nick interview Kevin Stern, Julie Stern's son.) </p>
+<p><strong>Kevin Stern</strong>: You sent a cop all the way to Pahrump to bring me in. What couldn't we discuss on the phone?</p>
+<p><strong>Nick</strong>: When's the last time you saw your mother?</p>
+<p><strong>Kevin Stern</strong>: It was about three months ago. She came to my vineyard for a visit.</p>
+<p><strong>Nick</strong>: How'd that go?</p>
+<p><strong>Kevin Stern</strong>: She left early. Said she felt sick.</p>
+<p><strong>Catherine</strong>: But you didn't think so.</p>
+<p><strong>Kevin Stern</strong>: Mom was uncomfortable around my four-year-old.</p>
+<p><strong>Nick</strong>: Why's that?</p>
+<p><strong>Kevin Stern</strong>: He made her feel old.</p>
+<p>(Nick looks away and nods.) </p>
+<p><strong>Catherine</strong>: &quot;Grandma&quot; was a dirty word.</p>
+<p><strong>Kevin Stern</strong>: She could hardly look at him. It's nice, huh?</p>
+<p><strong>Nick</strong>: Mr. Stern, I also did a background check and you recently maxed out three credit cards.</p>
+<p><strong>Kevin Stern</strong>: My vines contracted black rot last spring. It's an expensive problem. Why are you checking my credit?</p>
+<p><strong>Nick</strong>: You're weren't worried about paying off your debt, were you?</p>
+<p><strong>Kevin Stern</strong>: What the hell are you implying?</p>
+<p><strong>Catherine</strong>: You're about to come into some money.</p>
+<p><strong>Kevin Stern</strong>: When my dad died, he left my mother boatloads of cash. On her last visit, I asked her for a loan.</p>
+<p><strong>Catherine</strong>: Let me guess -- she turned you down.</p>
+<p><strong>Kevin Stern</strong>: She'd spend thousands on designer clothes, jewelry, plastic surgery ... but wouldn't lend me a dime.</p>
+<p><strong>Nick</strong>: Do you use pesticides on your grapevines?</p>
+<p><strong>Kevin Stern</strong>: Yeah. Organic's a fad.</p>
+<p><strong>Nick</strong>: We're going to need a sample of that.</p>
+<p><strong>Kevin Stern</strong>: Whatever. (He stands up ready to leave.) We done?</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY - DAY]</p>
+<p>(Robbins goes over the autopsy findings with Sara.) </p>
+<p><strong>Robbins</strong>: This one's easy -- he drowned.</p>
+<p><strong>Sara</strong>: What?</p>
+<p>(Camera zooms down toward the victim's mouth.) </p>
+<p>(Quick CGI POV to: Inside the victim's mouth, the camera follows the path of the gas down through the victim's trachea and into the lungs.)</p>
+<p><strong>Robbins</strong>: (V.O.) The termite fumigant entered his bronchioles causing his lungs to fill with fluid.</p>
+<p>(The lungs fill with fluid.)</p>
+<p>(End of CGI POV. Resume to present.)</p>
+<p><strong>Robbins</strong>: COD is pulmonary edema and respiratory arrest.</p>
+<p><strong>Sara</strong>: Just like a drowning victim. Doc, tell me about the bruise on his cheek.</p>
+<p>(Camera zooms in for a close-up of the bruise on the victim's cheek.) </p>
+<p>ROBBINS; Zygoma's fractured. (He points.) Check the x-ray. Given the force needed to cause this type of damage, the injury's more consistent with inflicted blunt force trauma than a simple fall, if that's what you're asking.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB - DAY]</p>
+<p>(Catherine goes over the lab results with the technician Travis Watson.) </p>
+<p><strong>Catherine</strong>: (reading) Arsenic is the active ingredient in the vineyard pesticide, but you're ruling it out as the source of the poisoning?</p>
+<p><strong>Travis Watson</strong>: The pesticide is a copper-arsenate mix. It's chemically different than the arsenic ingested by Ms. Stern. And, FYI, that pesticide was outlawed by the EPA years ago. This guy is poisoning the soil.</p>
+<p><strong>Catherine</strong>: So he's not a killer, he's a polluter.</p>
+<p><strong>Travis Watson</strong>: He should still be arrested, if you ask me. People are saying that you found urine in the vic's stomach.</p>
+<p><strong>Catherine</strong>: Not sure if it's hinky or kinky.</p>
+<p><strong>Travis Watson</strong>: (laughs) When I used to play ball for the Stars, we would pee on our palms during spring training to toughen them up, you know.</p>
+<p><strong>Catherine</strong>: Remind me never to shake your hand.</p>
+<p>(Catherine turns to leave.) </p>
+<p><strong>Travis Watson</strong>: I'll put on a glove first.</p>
+<p><strong>Catherine</strong>: (smiles) That's always a good idea.</p>
+<p>(Travis chuckles.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Sara is at the computer running a search through the database when Greg walks in.) </p>
+<p><strong>Greg</strong>: Just came from tox. Rory Kendell's urine analysis is still pending. I know we're not supposed to get ahead of the evidence here, but if he's not guilty ...</p>
+<p>(Sara picks up the print lifts and interrupts Greg.) </p>
+<p><strong>Sara</strong>: I lifted several prints off the clamps you found by the open window. I AFIS-matched them to a neighbor. The guy's on file for a D&amp;D in '82.</p>
+<p><strong>Greg</strong>: It's Rory, right.</p>
+<p><strong>Sara</strong>: No. Zach Alfano.</p>
+<p><strong>Greg</strong>: Who?</p>
+<p>(Greg turns around to look at the computer screen.) </p>
+<p><strong>Sara</strong>: He's the neighbor on the other side. I called his house. His daughter said he was picked up in an ambulance two days ago. Apparently, he was vomiting, he couldn't breathe, he passed out. Brass is taking a statement. </p>
+<p>(She puts Zach Alfano's photo up on the screen.) </p>
+<p><strong>Sara</strong>: He's still in the hospital.</p>
+<p>CUT TO:<br />
+[INT. HOSPITAL - ZACH ALFANO'S ROOM -- DAY] </p>
+<p>(Brass interviews Zach Alfano.) </p>
+<p><strong>Brass</strong>: So why didn't you contact the police?</p>
+<p><strong>Zach Alfano</strong>: (hoarsely) I had... (He clears his throat.) I had a tube down my throat till a half hour ago.</p>
+<p><strong>Brass</strong>: All right, let me get this straight -- so you came in from a run and then what happened?</p>
+<p><strong>Zach Alfano</strong>: I heard screaming from inside the house.</p>
+<p>(Quick flashback to: Zach Alfano runs past the house on his way to his house. He hears a voice calling out from inside the tented house.) </p>
+<p><strong>Elliot Beckman</strong>: (o.s.) Someone help me!</p>
+<p>(Zach crawls into the house through the window.) </p>
+<p><strong>Zach Alfano</strong>: (V.O.) ... by the time I got to Beckman, he'd already passed out.</p>
+<p>(Zach tries to drag the body across the room.) </p>
+<p><strong>Zach Alfano</strong>: (V.O.) ... I started to choke on the gas, so I got out of there.</p>
+<p>(Zach gets out of the house without Mr. Beckman.) </p>
+<p><strong>Zach Alfano</strong>: (V.O.) ... Ran to my neighbor's house, Rory Kendell's, for help.</p>
+<p>(He runs over to the Kendell's house and rings the doorbell. Next to the side of the house, he throws up into the bushes.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Zach Alfano</strong>: I remember my daughter calling 911. Next thing I know ... I'm here.</p>
+<p>(He coughs.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<p>[EXT. KENDELL RESIDENCE - FRONT PORCH - DAY]</p>
+<p>(Greg fingerprints the front door. He tape lifts a print off the doorbell.)</p>
+<p>CUT TO:<br />
+[INT. BECKMAN RESIDENCE - LIVING ROOM - DAY]</p>
+<p>(Sara stands in the center of the living room looking at the rug on the floor.) </p>
+<p>(Greg walks in and reports.) </p>
+<p><strong>Greg</strong>: The print on the doorbell is a match to Zach, and I found vomit in the bushes. Both support his account. Sara?</p>
+<p><strong>Sara</strong>: We missed something.</p>
+<p><strong>Greg</strong>: What?</p>
+<p><strong>Sara</strong>: The directionality of the floor rug. The center of the rug is pointing towards the side window. </p>
+<p>(She looks back at the window.) </p>
+<p>(Quick flashback to: As Zach pulls Beckman, the rug is scrunched up.)</p>
+<p><strong>Sara</strong>: (V.O.) Also confirms Zach Alfano's story.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Sara</strong>: We're back to Rory Kendell. If he didn't leave the house for two days, how come he didn't answer the door when Zach Alfano rang the bell?</p>
+<p>CUT TO:<br />
+[INT. CSI - INTERVIEW ROOM - DAY]</p>
+<p>(Sara and Brass interview Rory Kendell.) </p>
+<p><strong>Rory Kendell</strong>: I was sick. I figured it was some girl scout selling cookies.</p>
+<p><strong>Sara</strong>: We got back the results of your urine analysis. There was sulfuryl fluoride in your system. You were at Elliot's house.</p>
+<p><strong>Rory Kendell</strong>: No.</p>
+<p>(Sara sits down.) </p>
+<p><strong>Sara</strong>: Here's a thought -- after the exterminators left, you met up with Elliot. You had a fight, you knocked him out, and you dragged him into the house through the side window.</p>
+<p><strong>Brass</strong>: You figured the fumigation would cover your tracks, that we'd chalk it up to an accident.</p>
+<p><strong>Rory Kendell</strong>: Why would I want to kill Elliot?</p>
+<p><strong>Brass</strong>: You've had five noise complaints against him last year.</p>
+<p><strong>Rory Kendell</strong>: That's hardly reason to kill somebody.</p>
+<p><strong>Brass</strong>: Or is it a reason to commit assault? He filed charges against you last May.</p>
+<p><strong>Rory Kendell</strong>: I knocked on his door, and I asked him to turn down that classical crap. He refused. I overreacted. I apologized. Charges were dropped. (He looks at them.) I swear.</p>
+<p><strong>Brass</strong>: Save the swearing for trial. You're under arrest.</p>
+<p>(He starts coughing.) </p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(Renita Loakes' body is on the morgue table.) </p>
+<p><strong>Dr. Robbins</strong>: (V.O.) Renita Loakes, 38, from Seven Hills. New case.</p>
+<p>(Robbins picks up the knife.) </p>
+<p><strong>Dr. Robbins</strong>: (V.O.) Started as a routine autopsy. </p>
+<p>(He starts to make the Y incision as we get an extremely good look of the knife cutting through the skin.) </p>
+<p><strong>Dr. Robbins</strong>: (V.O.) She was shopping at the Venetian, keeled over at Lacoste. Physically, she was in excellent condition, ... </p>
+<p>(Dissolve to: Top view down of Robbins pulling out the cut torso piece. He touches the squishy organs with the tip of his finger.) </p>
+<p><strong>Dr. Robbins</strong>: (V.O.) ... so I figured spontaneous aortic dissection or maybe pulmonary embolism.</p>
+<p>(End of voice over. Resume to present.)</p>
+<p><strong>Dr. Robbins</strong>: Then I noticed mees lines.</p>
+<p>(Catherine leans forward and looks at the victim's hands. Close-up of her fingernails.) </p>
+<p><strong>Catherine</strong>: Ah ... just like Julie Stern.</p>
+<p>(Flashback to Voice over of the autopsy exam: Robbins continues his autopsy. Close-up of a &quot;Toluidine Blue&quot; bottle.)</p>
+<p>(Robbins picks up the bottle and starts to paint the victim's face Toluidine Blue. Several dissolves and Robbins finishes.) </p>
+<p><strong>Dr. Robbins</strong>: (V.O.) I spotted the tiny pinpricks on her face, so I painted her with toluidine blue to highlight the marks. </p>
+<p>(End of voice over. Resume to present.)</p>
+<p>(Robbins hands a drawing of the marks on the face to Catherine for her and Nick to look over.) </p>
+<p><strong>Robbins</strong>: Have a look at this. </p>
+<p>(He hands Catherine a magnifying glass.) </p>
+<p><strong>Robbins</strong>: Now check out Renita's face.</p>
+<p>(Camera zooms in for a close-up of the marks on the face. She compares it to the drawing.) </p>
+<p><strong>Catherine</strong>: An exact match.</p>
+<p><strong>Robbins</strong>: It's an acupuncture facial designed to reduce the signs of aging.</p>
+<p>(Flashback to Voice over of the autopsy exam: Robbins digs out the victim's stomach to get its contents.)</p>
+<p><strong>Dr. Robbins</strong>: (V.O.) For only the second time in my career, in the space of two days, I found urine in the decedent's stomach.</p>
+<p>(End of voice over. Resume to present.)</p>
+<p><strong>Nick</strong>: (nods) That's more than a coincidence.</p>
+<p><strong>Catherine</strong>: Two women, both fighting the toll of time, die prematurely. Why?</p>
+<p>FADE OUT</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. LOAKES' APARTMENT -- DAY] </p>
+<p>(The front door opens.) </p>
+<p><strong>Officer</strong>: This is Renita's apartment.</p>
+<p><strong>Nick</strong>: Thanks.</p>
+<p><strong>Officer</strong>: You bet.</p>
+<p>(The Officer closes the door behind them. Nick and Catherine walk into the apartment. Nick flicks the light on.) </p>
+<p><strong>Nick</strong>: Dr. Robbins did say Renita was in good shape.</p>
+<p>(He notices the gym equipment and calls Catherine's attention to it.) </p>
+<p>(Catherine notes the bottles on the table. She puts her kit down to look at the them.)</p>
+<p>(Nick takes photos of the books on the table: STOP AGING NOW!, THE SOUTH BEACH DIET, TAI CHI and THE HAMPTON'S DIET.)</p>
+<p>(Catherine finds Renita's diary on the table.) </p>
+<p><strong>Catherine</strong>: &quot;Supplement diary.&quot; (reads) &quot;Daily youth regimen: Coenzyme q-10--<br />
+50 mg; bee pollen-- 500 mg; ... </p>
+<p>(Nick puts the book down and walks over to Catherine.) </p>
+<p><strong>Catherine</strong>: ... grape seed-- 200 mg; deer antler drops; chinese mountain ant extract; tincture of wild reishi.&quot; And that's just for breakfast.</p>
+<p><strong>Nick</strong>: How'd she have room for pancakes?</p>
+<p>(Nick picks up a bottle.) </p>
+<p><strong>Nick</strong>: Do you think these supplements really do any good?</p>
+<p><strong>Catherine</strong>: Why are you asking me?</p>
+<p><strong>Nick</strong>: I'm just asking a question, Catherine.</p>
+<p>(Catherine closes the journal and puts it aside.) </p>
+<p><strong>Catherine</strong>: Scientifically, there's not a whole lot of evidence.</p>
+<p>(She walks over to the vanity table and looks at its contents. In the background, Nick snaps photos.) </p>
+<p>(Catherine picks up the tube of StriViactin-SD lotion. Under the price tag reads $135. She puts it down and picks up the small container of facial crème. The price tag reads $145.)</p>
+<p>(Nick walks up to her.)</p>
+<p><strong>Nick</strong>: More lotions and potions.</p>
+<p><strong>Catherine</strong>: You gonna ask me if this stuff works, too?</p>
+<p><strong>Nick</strong>: No. I'm gonna process the bathroom.</p>
+<p>(Nick heads for the bathroom. Catherine continues to survey the vanity table. In front of the photo of Renita Loakes, she picks up a small bottle and looks at it.) </p>
+<p>[INT. LOAKES' APARTMENT - BATHROOM - DAY - CONTINUOUS]</p>
+<p>(Nick walks into the bathroom and sees a wine glass on the sink counter next to the toilet. On the bowl, there is a stainless steel pan. Nick snaps photos of the toilet.)</p>
+<p><strong>Nick</strong>: Hey, Catherine.</p>
+<p><strong>Catherine</strong>: (o.s.) Yeah?</p>
+<p>(He snaps a photo of the wine glass.) </p>
+<p><strong>Nick</strong>: You might want to come take a look at this.</p>
+<p>(Nick picks up the wine glass and sniffs at it.) </p>
+<p>(Catherine walks into the bathroom. She sees the bedpan on the toilet.) </p>
+<p><strong>Nick</strong>: Urine in the bedpan and in the glass. </p>
+<p>(Quick flashback to: [BATHROOM] Renita Loakes empties the urine from the bedpan into the wine glass. She drinks it down. End of flashback. Resume to present.)</p>
+<p>(Nick looks at the wine glass.) </p>
+<p><strong>Nick</strong>: She liked it fresh.</p>
+<p>(Catherine looks horrified.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Greg goes through the database looking for a match to the blue feather. Sara walks in.) </p>
+<p><strong>Sara</strong>: How's it going?</p>
+<p><strong>Greg</strong>: Ornithological database just ID'd the feathers I collected at the crime scene. (He hands the evidence bag with the feathers to Sara.) Hyacinth macaw. So how come you and Brass didn't involve me in the interrogation?</p>
+<p><strong>Sara</strong>: Greg, you still have the solo to complete, and, technically, you're still a trainee, but you're doing a great job.</p>
+<p><strong>Greg</strong>: Thanks.</p>
+<p>(Sara turns and leaves. Greg goes back to the computer.) </p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE - DAY]</p>
+<p>(Grissom is mixing up a concoction when Sara walks in.) </p>
+<p><strong>Sara</strong>: What are you doing with potassium nitrate?</p>
+<p><strong>Grissom</strong>: I'm making a bomb. Two bombs actually.</p>
+<p>(He takes a scoop of sugar out of the sugar bag.) </p>
+<p><strong>Sara</strong>: And sugar. You're making sweet bombs?</p>
+<p><strong>Grissom</strong>: I'm making smoke bombs.</p>
+<p>[INT. BECKMAN'S RESIDENCE - LIVING ROOM -- DAY]</p>
+<p><strong>Grissom</strong>: Ready?</p>
+<p>(Grissom and Sara pull down their face masks. They kneel down in front of two canisters.)</p>
+<p><strong>Grissom</strong>: One, two, three.</p>
+<p>(They each uncover the canisters and the room starts to fill with a white smoke.) </p>
+<p>(Various dissolves of the white smoke filling up the room as they wait. Sara and Grissom walk around the room.)</p>
+<p>CUT TO:<br />
+[EXT. BECKMAN'S FRONT YARD TO KENDELL'S BACK YARD - DAY -- CONTINUOUS] </p>
+<p>(Greg stands in the bedroom at the back of the house looking around for something. He passes the hallway and sees white smoke leaking out from under the closet door.) </p>
+<p>(The fire alarm rings. Greg opens the closet and finds white smoke leaking into the house from an opening at the bottom of the closet.) </p>
+<p><strong>Greg</strong>: (to phone) Grissom. We got smoke. Coming from an uncapped electrical conduit.</p>
+<p>(Camera zooms into the uncapped electrical conduit and follows the wires into Beckman's house.)</p>
+<p>[INT. BECKMAN'S RESIDENCE - LIVING ROOM -- DAY]</p>
+<p><strong>Sara</strong>: Hey, I found it!</p>
+<p>(Sara finds the opposite opening in the wall. She turns around to report to Grissom as he walks into the living room.) </p>
+<p><strong>Sara</strong>: It's right behind the speaker. Music traveled through the conduit directly into Rory's house. No wonder he was so pissed off.</p>
+<p><strong>Grissom</strong>: At one time, both houses must've been connected to the same electrical meter.</p>
+<p><strong>Sara</strong>: A single property. How did you figure that?</p>
+<p><strong>Grissom</strong>: We found fumigant in Rory Kendell's urine. But he claimed he was never in the victim's house.</p>
+<p><strong>Sara</strong>: So you devised the experiment to prove he was lying?</p>
+<p><strong>Grissom</strong>: Exactly. But, he was telling the truth.</p>
+<p><strong>Sara</strong>: So now what?</p>
+<p>CUT TO:<br />
+[EXT. -- DAY</p>
+<p>(Brass and Grissom interview Nate Allen and Ted Martin.)</p>
+<p><strong>Brass</strong>: So you're the last one to see Elliot Beckman alive. So did he drive away from his house?</p>
+<p><strong>Ted Martin</strong>: Oh, we saw him walk away. His, uh, his car was in the shop or something. He was staying down at some motel down the street.</p>
+<p><strong>Brass</strong>: And that's the last time you saw him?</p>
+<p><strong>Ted Martin</strong>: Yeah.</p>
+<p><strong>Nate Allen</strong>: No. Ted is our, our gas-man, so he stayed behind to release the fumigants. I headed on over to the next job. Saw the dude on the side of the road, so I-I gave him a lift to the motel. (chuckles) That bird crapped in my truck.</p>
+<p><strong>Grissom</strong>: Can you describe the bird?</p>
+<p><strong>Nate Allen</strong>: It was blue.</p>
+<p><strong>Grissom</strong>: What motel?</p>
+<p><strong>Nate Allen</strong>: Uh, four aces, down there on boulder highway and water street.</p>
+<p><strong>Grissom</strong>: Does it ever bother you that you make your living killing insects?</p>
+<p>(The two fumigators stare at Grissom.) </p>
+<p><strong>Ted Martin</strong>: What kind of question is that?</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Catherine looks up the website.) </p>
+<p>URINE THERAPY<br />
+Nature's Elixir for Good Health</p>
+<p>JESUS' FOUNTAIN OF YOUTH</p>
+<p><strong>Catherine</strong>: (reads) &quot;If you believe in me, you will never thirst. Rivers of Living water shall flow from your bellies. John 7:38.&quot;</p>
+<p><strong>Nick</strong>: (nods) You getting religious on me?</p>
+<p><strong>Catherine</strong>: Apparently, some fringe health professionals have used the biblical passage as justification for urine therapy.</p>
+<p><strong>Nick</strong>: Drinking your own pee?</p>
+<p><strong>Catherine</strong>: I ran an Amazon search, I found fifteen books touting urine's supposed health benefits, including its magical powers to reduce the signs of aging. Listen to this.</p>
+<p><strong>Nick</strong>: It is a perversion of medicine, not to mention the bible. I don't get it. These women-- the time, the pain, the effort. For what? Smoother skin? Please.</p>
+<p><strong>Catherine</strong>: Make a muscle, Nicky.</p>
+<p><strong>Nick</strong>: What?</p>
+<p><strong>Catherine</strong>: Roll up your sleeve, make a muscle.</p>
+<p>(Nick rolls up his sleeve and makes a muscle. Catherine feels the muscle.)</p>
+<p><strong>Catherine</strong>: (impressed) Oh. Now, how much time and effort went into this? I'm gonna guess five days a week a the gym, low carb, low fat, slow burn, and for what, Nicky? For what?</p>
+<p><strong>Nick</strong>: That's a good point, but it's not the same thing.</p>
+<p><strong>Catherine</strong>: No. It's nice, though.</p>
+<p><strong>Nick</strong>: (chuckles) Well, thanks, I'm not even flexing it yet either.</p>
+<p><strong>Catherine</strong>: Really? But it's rock hard.</p>
+<p>(David Phillips walks up to the door and clears his throat.)</p>
+<p><strong>David Phillips</strong>: Sorry, I didn't mean to interrupt ... barge in. I ... normally would've knocked, but the door isn't ...</p>
+<p><strong>Nick</strong>: No, no, it's all right, Super Dave. Nice purse.</p>
+<p><strong>David Phillips</strong>: Oh, uh ... paramedics just delivered it.</p>
+<p>(He hands the black bag to Nick.) </p>
+<p><strong>David Phillips</strong>: Got separated from Ms. Loakes when she was loaded into the ambulance.</p>
+<p><strong>Nick</strong>: Anything else?</p>
+<p><strong>David Phillips</strong>: Oh, no, no.</p>
+<p><strong>Catherine</strong>: Thanks, David.</p>
+<p><strong>David Phillips</strong>: Sure.</p>
+<p>(David Phillips leaves. Nick opens the bag and dumps its contents on the table. Catherine finds a spray bottle. The instructions read:<br />
+DIRECTIONS<br />
+One Spray twice a day under the tongue<br />
+TO REORDER<br />
+Contact Dr. Tony Malaga (702) 555-0195</p>
+<p><strong>Catherine</strong>: &quot;Dorian Spray.&quot; &quot;One spray twice a day under the tongue.&quot;</p>
+<p>(She shows the label to Nick.) </p>
+<p><strong>Catherine</strong>: Hey, check out that second ingredient.</p>
+<p>The label reads:<br />
+INGREDIENTS: VITAMIN B6, ARSENICUM, VITAMIN E, ZINC, SELENIUM, GLYCINE, LYSINE, ORNITINE, DEIONIZED WATER, GLYCERINE AND GINSENG.</p>
+<p><strong>Nick</strong>: (reads) &quot;Arsenicum.&quot; Holistic for arsenic. An oral spray? &quot;For refills, contact Dr. Malaga.&quot;</p>
+<p>CUT TO:<br />
+[INT. SAGEBRUSH SPA - MAIN LOBBY -- DAY] </p>
+<p>(Catherine and Nick walk into the lobby and head for the reception desk.) </p>
+<p><strong>Nick</strong>: This is a doctor's office?</p>
+<p><strong>Catherine</strong>: According to Vartann, Dr. Malaga bought the spa two years ago and incorporated his practice.</p>
+<p><strong>Receptionist</strong>: Hi, and welcome to the sagebrush spa.</p>
+<p><strong>Nick</strong>: Thanks. I'm Nick Stokes. This is Catherine Willows. We're with the crime lab. We're here to see Dr. Malaga.</p>
+<p><strong>Receptionist</strong>: Is he expecting you?</p>
+<p><strong>Catherine</strong>: Just tell him we're here.</p>
+<p><strong>Receptionist</strong>: (to phone) Dr. Malaga.</p>
+<p>(Nick picks up a brochure and looks at it. It reads:<br />
+&quot;JOURNEY TO ---<br />
+relaxation is enhanced by a combination ...<br />
+therapy. Experience the ultimate facial that ...<br />
+and soothe. Includes hand and foot treatment ...<br />
+and shoulder massage. 110 minutes $160 + </p>
+<p>BOTOX INJECTIONS- The result ...<br />
+Administered treatment is a temporary res -<br />
+Wrinkles between the eyes. Restores skin ...<br />
+Appearance. $500.</p>
+<p>RESTAYLANE INJECTIONS- These ...<br />
+Moderate to severe wrinkles around the no ...<br />
+Volume and fullness to skin. $500</p>
+<p><strong>Nick</strong>: Botox injections-- 500 bucks. Restaylane injections-- 500. Micropeel--<br />
+300. </p>
+<p><strong>Catherine</strong>: (shakes her head) That's my car payment.</p>
+<p><strong>Nick</strong>: You don't actually think you need this stuff, do you?</p>
+<p><strong>Catherine</strong>: It's Vegas, Nicky. Everybody needs it.</p>
+<p><strong>Nick</strong>: You don't.</p>
+<p>(She smiles at him. The title of the book displayed catches her eye: UNRINE THERAPY: Nature's Elixir for Good Health.)</p>
+<p><strong>Catherine</strong>: (reads) &quot;Urine therapy. Nature's elixir ... &quot;</p>
+<p>(Dr. Tony Malaga appears.) </p>
+<p><strong>Dr. Tony Malaga</strong>: My clients swear by it. Let's go to my office.</p>
+<p>(He turns and leads them to his office. They follow.) </p>
+<p><strong>Catherine</strong>: You sold Dorian spray to both Renita Loakes and Julie Stern.</p>
+<p><strong>Dr. Tony Malaga</strong>: Yeah. It's my own formulation, and I can assure you that it's perfectly safe.</p>
+<p><strong>Nick</strong>: Doctor, you are aware that arsenic is a poison, right?</p>
+<p><strong>Dr. Tony Malaga</strong>: So is botox. But 2.2 million people had injections last year. And foxglove is a deadly plant that also doubles as a cardiac medication.</p>
+<p><strong>Catherine</strong>: I'm familiar with digitalis.</p>
+<p><strong>Dr. Tony Malaga</strong>: Well, arsenic, in extremely small doses, fights premature aging by improving skin elasticity.</p>
+<p>[INT. SAGEBRUSH SPA - DR. MALAGA'S OFFICE - DAY -- CONTINUOUS] </p>
+<p>(The door opens and they walk inside.) </p>
+<p><strong>Dr. Tony Malaga</strong>: Look, even if Ms. Loakes and Ms. Stern drank a whole case of that spray, the arsenic content wouldn't be lethal.</p>
+<p>(Nick notes the Degree from Western Las Vegas University hanging on the wall.) </p>
+<p><strong>Nick</strong>: Well, they teach you about arsenic in medical school?</p>
+<p><strong>Dr. Tony Malaga</strong>: I did a course in holistic medicine a couple of years ago.</p>
+<p><strong>Catherine</strong>: Did you also take a course in spa management?</p>
+<p>(Dr. Malaga turns on the computer laptop on his desk. He photographs Catherine as she sits across from him.) </p>
+<p><strong>Dr. Tony Malaga</strong>: Medical School left me with a lot of debts and with HMOs cutting their fees, my practice was barely breaking even.</p>
+<p>(As he talks, he maps out various improvements on her facial features.) </p>
+<p><strong>Dr. Tony Malaga</strong>: You know, th-the whole profession is changing.</p>
+<p>(He grids the digital image of Catherine and starts to make adjustments to the image – lifts, nip here, tuck there.) </p>
+<p><strong>Dr. Tony Malaga</strong>: Doctors have to seek out their patients. The HMOs don't recognize aging as a disease, so I'm free to charge whatever the market will bear.</p>
+<p><strong>Catherine</strong>: Hang on. You consider aging a disease?</p>
+<p>(Nick sits down on the couch behind Catherine. Dr. Malaga turns the laptop monitor off.) </p>
+<p><strong>Dr. Tony Malaga</strong>: With a 100% mortality rate. Aging wreaks havoc with every one of our systems: Respiratory, cardiovascular, nervous, musculo-skeletal and immune.</p>
+<p><strong>Catherine</strong>: But you're not treating the body. You're battling crow's feet.</p>
+<p><strong>Dr. Tony Malaga</strong>: (chuckles) Righteous indignation. That's one step before acceptance.</p>
+<p><strong>Catherine</strong>: Acceptance of what?</p>
+<p><strong>Dr. Tony Malaga</strong>: What I do. The, uh ... procedures and products. You've seen the ads in all the beauty magazines. You've studied all the before and after photos. It's okay, Ms. Willows. We'll all get older, and nobody wants to look their age. I give you what you need. I give you what you want.</p>
+<p>(What he says affects Catherine. She doesn't reply.) </p>
+<p><strong>Nick</strong>: So, what Ponce de Leon couldn't find, you did, huh? The Fountain of Youth. Snake oil in a fancy bottle.</p>
+<p><strong>Dr. Tony Malaga</strong>: Medicine is about hope. And like any good doctor, that's what I sell.</p>
+<p><strong>Nick</strong>: Medicine is about healing. Hope is about prayer. That should be free.</p>
+<p><strong>Catherine</strong>: We need Ms. Sterns' and Ms. Loakes' medical records. And, uh, this time, we've got a court order.</p>
+<p>(Catherine hands the warrant to Dr. Malaga.)</p>
+<p>CUT TO:<br />
+[INT. CSI - BREAK ROOM -- DAY] </p>
+<p>(Brass walks into the break room where Sara and Greg sit at the table.) </p>
+<p><strong>Brass</strong>: Sherlock Holmes and Dr. Watson, I presume?</p>
+<p><strong>Sara</strong>: What do you need, Brass?</p>
+<p><strong>Brass</strong>: Well, it may be elementary, but I have a conundrum. I just got back from the Four Aces. The hotel manager said Elliot tried to check in with his bird. The guy turned him down because he didn't have a cage, so supposedly Elliot went home to retrieve it, but neither he nor the bird ever returned.</p>
+<p><strong>Greg</strong>: Looks like we need to find that bird.</p>
+<p>CUT TO:<br />
+[INT. BECKMAN RESIDENCE - LIVING ROOM -- DAY] </p>
+<p>(The door opens. Greg and Sara walk inside. They immediately split up and look around the area. Greg heads for the hallway to check out the bedrooms; Sara heads for the kitchen.) </p>
+<p>[INT. BECKMAN RESIDENCE - KITCHEN -- DAY] </p>
+<p>(From an open storage cabinet, flies buzz.)</p>
+<p><strong>Sara</strong>: Greg.</p>
+<p>(Greg walks up next to Sara and sees the flies. Lots and lots of flies.)</p>
+<p><strong>Greg</strong>: Oh. There were no flies in here when we processed the house.</p>
+<p>(Sara and Greg head for the c</p>
+<p><strong>Sara</strong>: Fumigation kills all household insects, and it takes time for new flies to find a portal of entry.</p>
+<p><strong>Greg</strong>: Well, bird could've flown up somewhere and died.</p>
+<p>(The flies are coming from the top shelf in the pantry. Sara gets a step ladder to check it out. She finds a dead rat.)</p>
+<p><strong>Sara</strong>: Carcass with a fresh colony of maggots. The bird's not here; it's a dead rat.</p>
+<p><strong>Greg</strong>: Which means the macaw was either bird-napped or he flew the coop.</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. BUY BUY BIRDIE -- DAY] </p>
+<p>(Grissom walks into the bird shop and finds the Bird Shop Manager trying to teach the Cockatoo to speak.) </p>
+<p><strong>Bird Shop Manager</strong>: I love you. <strong>Bird Shop Manager</strong>: I love you. <strong>Bird Shop Manager</strong>: I love you.</p>
+<p><strong>Grissom</strong>: Teaching him to speak?</p>
+<p><strong>Bird Shop Manager</strong>: Although the cockatoo is intelligent, birds don't speak. To speak requires a cognitive ability to understand, which they don't. They just imitate. And Edweena is a she. How can I help you?</p>
+<p><strong>Grissom</strong>: I'm looking for a macaw.</p>
+<p><strong>Bird Shop Manager</strong>: Well, you came to the right place. &quot;Buy Buy Birdie&quot;'s the only exotic bird store in Clark County. </p>
+<p><strong>Grissom</strong>: Has anyone tried to sell you a macaw in the last few days?</p>
+<p><strong>Bird Shop Manager</strong>: No. Why?</p>
+<p><strong>Grissom</strong>: Well, I'm trying to locate a missing blue hyacinth.</p>
+<p><strong>Bird Shop Manager</strong>: Very rare. In my whole career, I've only sold one.</p>
+<p><strong>Grissom</strong>: Do you remember the buyer's name?</p>
+<p><strong>Bird Shop Manager</strong>: Sure. Mr. Beckman. He's in here all the time. Bob likes to eat cashews out of my pocket. Mr. Beckman doesn't go anywhere without Bob.</p>
+<p><strong>Grissom</strong>: Mr. Beckman, um, died three days ago. We found these ... feathers in his house. </p>
+<p>(He shows the Bird Shop Manager the photo of three feathers taken at the scene.) </p>
+<p><strong>Bird Shop Manager</strong>: Tail feathers. That's not good.</p>
+<p><strong>Grissom</strong>: Why is that?</p>
+<p><strong>Bird Shop Manager</strong>: (worriedly) Macaws only molt one tail feather at a time. Get a pile like this, someone yanked. Real hard.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - LAB -- DAY] </p>
+<p>(Nick looks at the file results.) </p>
+<p><strong>Nick</strong>: So, Dr. Malaga was telling the truth -- both women were poisoned. But that's not what killed them.</p>
+<p><strong>Travis Watson</strong>: Yeah, so we can rule out arsenic as a cause of death.</p>
+<p>(Catherine is sitting at the counter looking at the tube of blood.) </p>
+<p><strong>Catherine</strong>: Hey, Travis? These are the vials from our decedents, right?</p>
+<p>(He and Nick walk up to her.) </p>
+<p><strong>Travis Watson</strong>: Yeah, I just finished with them yesterday. Why?</p>
+<p><strong>Catherine</strong>: Well, the red blood cells haven't separated from the serum.</p>
+<p><strong>Travis Watson</strong>: Is that relevant?</p>
+<p><strong>Catherine</strong>: Maybe. I mean, normally, we'd see a yellow band of serum on top of the crimson blood. These vials are solid crimson.</p>
+<p><strong>Nick</strong>: Which means the red blood cells have lysed.</p>
+<p>(Quick CGI POV of: Close-up of the red blood cells in the blood pop.) </p>
+<p><strong>Nick</strong>: (V.O.) Something caused the red blood cells to lyse, or pop. The hemoglobin from inside those cells infiltrated the serum.</p>
+<p>(End of CGI POV. Resume to present.)</p>
+<p><strong>Nick</strong>: If a sufficient number of red blood cells lyse, a person dies.</p>
+<p><strong>Travis Watson</strong>: So, what caused the lysis?</p>
+<p><strong>Nick</strong>: We answer that question, we solve this case.</p>
+<p>(Catherine puts the tube back on the rack.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY - DAY - CONTINUOUS]</p>
+<p>(Catherine and Nick walk through the hallway.) </p>
+<p><strong>Catherine</strong>: So, the women were thirty years apart in age. They lived on different sides of town. They probably didn't know each other. But they both drank their own urine and were patients of Dr. Malaga's.</p>
+<p><strong>Nick</strong>: Well, were either one of their procedures sufficiently invasive as to compromise their blood?</p>
+<p><strong>Catherine</strong>: (looks through the file) Well, last monday, two days before liver spot removal, Ms. Stern had a body wrap and ... hydrogen peroxide therapy.</p>
+<p><strong>Nick</strong>: (looks through Loakes' file) Ms. Loakes also underwent hydrogen peroxide therapy... on the same day? Here's the menu of services provided by the spa.<br />
+(He looks at the brochure.) Let's see ... &quot;hydrogen peroxide therapy -- a three percent solution is injected directly into a client's vein, bathing the red blood cells in nourishing oxygen, boosting the immune system and reversing the signs of aging.&quot;</p>
+<p><strong>Catherine</strong>: Question is, is it deadly?</p>
+<p><strong>Nick</strong>: Well, let's find out. I'll get the hydrogen peroxide.</p>
+<p><strong>Catherine</strong>: I'll get the blood.</p>
+<p><strong>Nick</strong>: Okay.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Grissom dusts one of the blue bird feathers. He finds a print. He takes a picture of the print on the feather, then tape lifts the print off the feather.) </p>
+<p><strong>Cue Sound</strong>: (PRELAP) KNOCKING ON DOOR</p>
+<p>[INT. MARTIN RESIDENCE -- DAY] </p>
+<p>(Ted Martin answers the door. He finds Brass, Sara and Grissom outside.) </p>
+<p><strong>Brass</strong>: Mr. Martin, we have a warrant to search your apartment. Please, stay with me. Stay ahead of me.</p>
+<p>(They walk into the house.) </p>
+<p><strong>Ted Martin</strong>: Look, if you guys tell me what you're looking for, maybe I can help you out, um ...</p>
+<p><strong>Brass</strong>: Look, shut up and stay still.</p>
+<p>(Sara opens a drawer in the kitchen. She opens a d cabinet and continues to look around. She opens the counter drawer and finds it filled with watches.) </p>
+<p><strong>Sara</strong>: Brass? How many watches do you own?</p>
+<p><strong>Brass</strong>: Couple of sport, couple of dress. Why?</p>
+<p><strong>Sara</strong>: Mr. Martin has about twenty here.</p>
+<p><strong>Brass</strong>: Twenty?</p>
+<p><strong>Ted Martin</strong>: I'm a collector.</p>
+<p>(She picks up a woman's watch.)</p>
+<p><strong>Sara</strong>: This is a little small for your wrist, don't you think? </p>
+<p>(She opens another drawer.) </p>
+<p><strong>Sara</strong>: Several rings, a necklace, cufflinks and a gold pen. You know, these things all have one thing in common -- you can kind of slip them into your pocket. This is engraved -- &quot;Joan Arryington.&quot; I wonder what the odds are that Mrs. Arryington is a client of Oden Pest Control.</p>
+<p>[INT. MARTIN'S APARTMENT - BEDROOM - DAY]</p>
+<p>(Grissom looks through the night stand drawers. He hears a bird squawk come from the bathroom.) </p>
+<p>[INT. MARTIN'S APARTMENT - BATHROOM - DAY -- CONTINUOUS]</p>
+<p>(Grissom walks into the bathroom and opens the shower. He finds Bob in his cage.) </p>
+<p><strong>Grissom</strong>: (smiles) Hello, Bob.</p>
+<p>(Bob squawks.) </p>
+<p>[INT. MARTIN RESIDENCE - LIVING ROOM -- DAY] </p>
+<p>(Grissom walks out with the cage.) </p>
+<p><strong>Grissom</strong>: Look what I found.</p>
+<p>(Bob squawks.) </p>
+<p><strong>Sara</strong>: I think we all know what happened here. After your buddies left, you were poking around Mr. Beckman's house. But he surprised you.</p>
+<p>(Quick flashback to: Elliot Beckman walks back to his house with Bob on his arm.</p>
+<p><strong>Elliot Beckman</strong>: (mutters) A cage! I can't believe that manager.</p>
+<p>(Mr. Beckman walks into the house.)</p>
+<p>(In the study, Ted Martin goes through the desk when Elliott Beckman walks in.)</p>
+<p><strong>Elliot Beckman</strong>: What the hell are you doing?</p>
+<p><strong>Ted Martin</strong>: Just getting ready for the fume.</p>
+<p><strong>Elliot Beckman</strong>: You were rifling through my stuff ... </p>
+<p><strong>Ted Martin</strong>: Oh, no, no, no, no, man. I was just making sure that everything, uh, was, is secure.</p>
+<p><strong>Elliot Beckman</strong>: I'm going to call the police.</p>
+<p>(Mr. Beckman walks into the living room and picks up the phone.) </p>
+<p><strong>Elliot Beckman</strong>: (mutters) He can't do that. No, he can't.</p>
+<p>(Ted hits Elliot Beckman in the face. Bob flutters around. Ted Martin grabs Bob.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Sara</strong>: Somehow, you managed to get the bird in the cage, seal the tent and release the gas.</p>
+<p>(Quick flashback to: Ted Martin turns the gas pump on. The gas starts to fill the house. Elliot Beckman comes to and starts suffocating on the gas. He tries to crawl along the floor. He drops his glasses and continues to crawl on the floor.)</p>
+<p><strong>Elliot Beckman</strong>: Someone help me!</p>
+<p>(Elliot Beckman continues to cough.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Brass</strong>: Despite his neighbor's best efforts, he was a goner.</p>
+<p><strong>Ted Martin</strong>: I'm not admitting to anything.</p>
+<p><strong>Grissom</strong>: You don't have to, Ted. We know why the caged bird sings.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. CSI - LAB -- NIGHT] </p>
+<p>(Nick and Catherine sit side-by-side at the table.) </p>
+<p><strong>Catherine</strong>: So, hand me the syringe with the three percent concentration.</p>
+<p>(Nick hands Catherine the first syringe.) </p>
+<p><strong>Nick</strong>: Here you go.</p>
+<p>(She injects it into the tube of blood.) </p>
+<p><strong>Catherine</strong>: No effect.</p>
+<p>(Nick fills the second syringe.) </p>
+<p><strong>Nick</strong>: Upping the concentration of hydrogen peroxide to ... seven percent.</p>
+<p>(He hands her the syringe. She injects the tube of blood. She sets it aside.) </p>
+<p><strong>Nick</strong>: Okay.</p>
+<p>(Nick fills the next syringe.) </p>
+<p>(Dissolve to: Catherine holds the tube of blood.) </p>
+<p><strong>Nick</strong>: Fifteen percent ... </p>
+<p>(She puts that tube back in the holder. Catherine picks up the next test tube.) </p>
+<p>(Camera moves slowly across the row of Hydrogen Peroxide concentrates and stops at the final bottle: 30%.)</p>
+<p>(Nick picks it up and fills the syringe. He hands it to Catherine.) </p>
+<p><strong>Nick</strong>: Concentration level 30%.</p>
+<p>(Catherine injects the syringe into the test tube.)</p>
+<p>(Quick CGI POV of: The red blood cells pop and burst. End of CGI POV. Resume to present.) </p>
+<p><strong>Catherine</strong>: Lysis.</p>
+<p><strong>Nick</strong>: Concentration at 30%. That's ten times the three percent specified on the menu.</p>
+<p><strong>Catherine</strong>: The death was in the decimal.</p>
+<p>CUT TO:<br />
+[INT. SAGEBRUSH SPA - DR. MALAGA'S OFFICE - NIGHT]</p>
+<p>(Catherine meets with Dr. Tony Malaga and his lawyer, Adam Matthews.) </p>
+<p><strong>Adam Matthews</strong>: Dr. Malaga has not committed a crime.</p>
+<p><strong>Catherine</strong>: He injected a lethal batch of hydrogen peroxide into two of his patients.</p>
+<p><strong>Adam Matthews</strong>: Even if that were true, you may have uncovered a very tragic accident, a very horrible mistake -- but certainly nothing criminal, or we'd be downtown right now. No A.D.A.'S going to prosecute. The procedures were elective. Catherine, you don't need me to tell you how many people die every day as a result of physician error.</p>
+<p><strong>Catherine</strong>: Well, I am not talking about other people. I'm talking about Julie Stern and Renita Loakes.</p>
+<p><strong>Dr. Tony Malaga</strong>: Yeah, both of whom looked in the mirror ... and wanted to turn back time.</p>
+<p><strong>Catherine</strong>: They put their trust in you because you're an M.D. Your professional degree made them feel safe.</p>
+<p><strong>Dr. Tony Malaga</strong>: All procedures carry a risk.</p>
+<p><strong>Catherine</strong>: Is that what you tell yourself? And when you screw up again, what happens?</p>
+<p><strong>Adam Matthews</strong>: His malpractice premiums go up.</p>
+<p><strong>Catherine</strong>: Oh. I'll be notifying the victims' families. You can count on a civil suit.</p>
+<p>(Catherine leaves.) </p>
+<p>[INT. SAGEBRUSH SPA - HALLWAY - NIGHT]</p>
+<p>(Catherine walks out of the office and heads down the hallway. She passes a Spa Worker on her way out.) </p>
+<p><strong>Worker</strong>: Good night.</p>
+<p><strong>Catherine</strong>: Good night.</p>
+<p>(Catherine walks up to the mirror and stares at her reflection.) </p>
+<p>(Camera holds on Catherine.) </p>
+<p>FADE TO BLACK</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
-
- 
- 
- 
- 
-Det. Vartann:  I've already been exposed. It's too late. Get a list of all the countries she's visited in the past thirty days.
-
-Det. Vartann:  Yeah, her passport.
- 
-Det. Vartann:  Try the State Department.
-Housekeeper:  My husband, please. Yeah. I have to tell my husband! Oh, please. Call my husband!
- 
-
-
- 
- 
- 
-Officer:  No, absolutely not, sir. You need to step aside.
- 
-Officer: Ma'am, I'm sorry, but you can't go up.
-
-Catherine: Catherine Willows, Crime Lab.
-Officer: I know who you are, but hotel rooms are under quarantine. No one goes up, no one goes down.
-Catherine: Quarantine?
- 
- 
-Robbins: Come on. Nasal Spec.
- 
- 
-Robbins: It's okay, David. 
- 
-Robbins:  False alarm. We're clear.
-
-
- 
-
-
- 
-Det. Vartann: Hey.
-Catherine: Hi. 
-Det. Vartann:  Go on in.
- 
-Catherine: Someone want to fill me in here?
-Robbins: David assessed a potentially infectious agent, and per protocol, he remained at the site and called it in.
-David Phillips: Her-her red blotches are consistent with CDC photos of ebola.
-Robbins: You did the right thing.
-Catherine:  So what are we looking at?
-Det. Vartann: Um, 419, suspicious circs. Uh, honestly, I have no idea.
-
-
-Catherine: Okay, it's my turn now. Clear the scene.
-SMASH CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-
-Catherine: Sorry I'm late. I was processing the scene. Nothing probative.
-Robbins: There are forty-two distinct laser burns on Julie Stern's body.
-Catherine: Lasers?
-Robbins: Lasers cauterize the skin as they destroy tissue. Lack of blood and scabbing confirms their use, so best guess would be she recently underwent a cosmetic procedure.
-
-
-Catherine: That's consistent with the hotel manager's statement. Said the vic had booked into the Safari Suite.
-Robbins: Please tell me that has nothing to do with hunting wild game.
-Catherine: Women who ... don't want their friends to know that they're freshening up will check into the suite while they heal.
-Robbins: Well, five-star hotel's got to be cheaper than a hospital stay.
-Catherine: So, could complications from this procedure have resulted in her death?
-Robbins: No. Histamine levels are normal. There's no post-op infection. But look at her fingernails.
-(He picks up her hand and shows the lines on the nails.
-Catherine: Mees lines; indicative of heavy metal poisoning.
-Robbins: I sent blood and hair samples to tox.
-Catherine: Anything else?
-Robbins: I'm not sure if it's probative, but I found ten cc's of urine in her stomach. Digestive system's intact. There are no bruises or abrasions in her mouth, so there's only one way it could have gotten there.
-Catherine: Chugalug.
-Robbins: Mm-hmm.
-
- 
- 
- 
-Brass:  Okay. So two days ago the residence was tented for termites. This morning, the bug guys came to clear the house. They found the homeowner exterminated.
- 
-Brass: He's ID'd as Elliot Beckman, 42, lived alone. Body's in the family room.
-Grissom: Who's been inside?
-Brass: Just the exterminators and the paramedics who pronounced. They entered and exited through the front door. Good luck.
-
-
- 
-Grissom: Exterminators use sulfuryl flouride. It kills the bugs and then evaporates. Agro scientists call it the &quot;safety&quot; fumigant.
-Sara: You know, I'm sure he would disagree.
-
- 
-Greg: Eyeglasses on the floor.
- 
-Greg: Got vomit?
-
- 
- 
-
- 
-
-Greg: What flies when they're on and floats when they're off?
-Grissom: Feathers.
-Greg: Long and blue. I'll bag 'em.
- 
-Sara: His cheek is bruised.
-Grissom: What was he doing in here?
-
-
- 
-Ted Martin: Per the R&amp;R's, we conducted a thorough walk-through before releasing the gas. No plants, people or animals were left behind.
-Brass: All right, so you released the gas, then what?
-Ted Martin: I took off.
-Nate Allen: Can't stick around baby-sitting houses, you know?
-Brass: Once you left the house, could Beckman have snuck back in in any way?
-Ted Martin: Yeah, if he had a death wish. The house is toxic for the first twelve hours.
-Nate Allen: Mm-hmm. Not to mention it gets wrapped up tighter than a Christmas present.
-Brass: You know tented houses -- they're prime targets for burglars.
-Ted Martin: But, we, uh, secure these on the outside of every doorknob. Clamshell locks. Nobody gets inside.
-Brass: Yeah, says you.
-
-
- 
- 
-Dr. Tony Malaga: Yes, Ms. Stern was in my care.
-Catherine: And when was the last time you saw her, Dr. Malaga?
- 
-Dr. Tony Malaga: Uh, I ablated her liver spots three days ago. Checked on her yesterday at the Mediterranean. I applied post-op ointment to prevent scabbing and infection.
-
-Dr. Tony Malaga:  She seemed, uh ... in good spirits.
- 
- 
-Nick: From the marks, it looks like you lasered over forty spots. In one session?
-Dr. Tony Malaga:  Well, post op, the patient's skin is very red and raw. It's really quite ugly, to be blunt. Most patients prefer to minimize the amount of time they spend in recovery.
-Catherine: So you supersized the procedure. You did it all in one sitting?
-Dr. Tony Malaga: It's perfectly safe.
-Nick: We'll need a copy of her medical records.
- 
-Dr. Tony Malaga: Oh, I'm sorry, but her file contains medical history of the family. I would be breaching doctor-patient confidentiality if I let you have that.
- 
-Nick: Hey, uh, do you have a problem with me, doctor?
-Dr. Tony Malaga: Excuse me?
-Nick: Well, there are two of us here and you're only addressing my colleague, so...
-Dr. Tony Malaga: Well, she's a very beautiful woman. You have Venus de Milo aesthetics.
-Catherine: We'll be getting a court order for Ms. Stern's records.
-Dr. Tony Malaga: I'd appreciate that. 
-
- 
- 
-
-Greg: Sara.
- 
-Greg: Looks like someone tampered with the tent.
- 
-Greg: Window's open.
-Sara: Well, exterminators leave some windows open to help circulate the gas. This could have been the victim's way in.
- 
-Sara: Once inside, he was overcome by the fumes.
- 
-
-
-Greg: He must be an idiot to go inside a tented house.
-Sara: Maybe he forgot something. Figured the gas had dissipated.
-Greg: Well, assuming you're right, and he went in and never left, shouldn't the window be open wider?
- 
-Sara: It's old. The rope has snapped.
-Greg: Okay. Now, Mr. Beckman never came out of the house. Why is there a trail of sand leading away from it and straight to the neighbor's house?
- 
-Sara: That's a good question.
-
-
- 
-Rory Kendell: Can I help you?
-Sara: Yeah, we're with the crime lab. We're investigating the death of your neighbor next door.
-Rory Kendell: Elliot? What happened?
-Sara: That's what we're trying to figure out.
- 
-Greg: Have you been in his house recently?
-Rory Kendell: Look, man, I've been laid up for the past two days puking my guts out. I haven't left my place.
-Sara: Do you live alone, Mr ... ?
-Rory Kendell: Rory Kendell. My wife bailed a few months ago.
-Greg: Rory, have you felt dizzy or disoriented?
-Rory Kendell: How would you know?
-Sara: We're going to need a urine sample.
-Rory Kendell: Why?
-Greg: You may be suffering from sulfuryl fluoride gas poisoning. Urination's the only way for the poison to get out.
-Rory Kendell: I got the flu.
-Sara: If that's true, then your urine will be sulfuryl-flouride free.
-Greg: But if you're lying, &quot;you're in&quot; big trouble.
-FADE OUT
-
-
-
- 
- 
-Nick: What do Ozzy Osbourne, Iron Maiden and our victim all have in common?
- 
-Catherine: Heavy metal.
-Nick: Arsenic in her system, poisoning was chronic.
-Catherine: Looks like it began approximately three months ago.
-Nick: Techs collected the ingestibles found at her home. None were contaminated.
-Catherine: Can tox confirm that arsenic poisoning was the cause of death?
-Nick: Not yet. Until the quants come back, we won't know if the concentration was lethal.
-Catherine: In poisoning cases, the killer's usually a relative.
-Nick: Right. Someone with access to the victim.
-Catherine:  Next-of-kin is an only child, a son. Who has a vineyard in Pahrump. 
-
-
- 
-Kevin Stern: You sent a cop all the way to Pahrump to bring me in. What couldn't we discuss on the phone?
-Nick: When's the last time you saw your mother?
-Kevin Stern: It was about three months ago. She came to my vineyard for a visit.
-Nick: How'd that go?
-Kevin Stern: She left early. Said she felt sick.
-Catherine: But you didn't think so.
-Kevin Stern: Mom was uncomfortable around my four-year-old.
-Nick: Why's that?
-Kevin Stern: He made her feel old.
- 
-Catherine: &quot;Grandma&quot; was a dirty word.
-Kevin Stern: She could hardly look at him. It's nice, huh?
-Nick: Mr. Stern, I also did a background check and you recently maxed out three credit cards.
-Kevin Stern: My vines contracted black rot last spring. It's an expensive problem. Why are you checking my credit?
-Nick: You're weren't worried about paying off your debt, were you?
-Kevin Stern: What the hell are you implying?
-Catherine: You're about to come into some money.
-Kevin Stern: When my dad died, he left my mother boatloads of cash. On her last visit, I asked her for a loan.
-Catherine: Let me guess -- she turned you down.
-Kevin Stern: She'd spend thousands on designer clothes, jewelry, plastic surgery ... but wouldn't lend me a dime.
-Nick: Do you use pesticides on your grapevines?
-Kevin Stern: Yeah. Organic's a fad.
-Nick: We're going to need a sample of that.
-Kevin Stern: Whatever.  We done?
-
-
- 
-Robbins: This one's easy -- he drowned.
-Sara: What?
- 
-
-Robbins:  The termite fumigant entered his bronchioles causing his lungs to fill with fluid.
-
-
-Robbins: COD is pulmonary edema and respiratory arrest.
-Sara: Just like a drowning victim. Doc, tell me about the bruise on his cheek.
- 
-ROBBINS; Zygoma's fractured.  Check the x-ray. Given the force needed to cause this type of damage, the injury's more consistent with inflicted blunt force trauma than a simple fall, if that's what you're asking.
-
-
- 
-Catherine:  Arsenic is the active ingredient in the vineyard pesticide, but you're ruling it out as the source of the poisoning?
-Travis Watson: The pesticide is a copper-arsenate mix. It's chemically different than the arsenic ingested by Ms. Stern. And, FYI, that pesticide was outlawed by the EPA years ago. This guy is poisoning the soil.
-Catherine: So he's not a killer, he's a polluter.
-Travis Watson: He should still be arrested, if you ask me. People are saying that you found urine in the vic's stomach.
-Catherine: Not sure if it's hinky or kinky.
-Travis Watson:  When I used to play ball for the Stars, we would pee on our palms during spring training to toughen them up, you know.
-Catherine: Remind me never to shake your hand.
- 
-Travis Watson: I'll put on a glove first.
-Catherine:  That's always a good idea.
- 
-
- 
- 
-Greg: Just came from tox. Rory Kendell's urine analysis is still pending. I know we're not supposed to get ahead of the evidence here, but if he's not guilty ...
- 
-Sara: I lifted several prints off the clamps you found by the open window. I AFIS-matched them to a neighbor. The guy's on file for a D&amp;D in '82.
-Greg: It's Rory, right.
-Sara: No. Zach Alfano.
-Greg: Who?
- 
-Sara: He's the neighbor on the other side. I called his house. His daughter said he was picked up in an ambulance two days ago. Apparently, he was vomiting, he couldn't breathe, he passed out. Brass is taking a statement. 
- 
-Sara: He's still in the hospital.
-
- 
- 
-Brass: So why didn't you contact the police?
-Zach Alfano:  I had a tube down my throat till a half hour ago.
-Brass: All right, let me get this straight -- so you came in from a run and then what happened?
-Zach Alfano: I heard screaming from inside the house.
- 
-Elliot Beckman:  Someone help me!
- 
-Zach Alfano:  ... by the time I got to Beckman, he'd already passed out.
- 
-Zach Alfano:  ... I started to choke on the gas, so I got out of there.
- 
-Zach Alfano:  ... Ran to my neighbor's house, Rory Kendell's, for help.
- 
- 
-Zach Alfano: I remember my daughter calling 911. Next thing I know ... I'm here.
- 
-
-
-
-
-
-
- 
- 
-Greg: The print on the doorbell is a match to Zach, and I found vomit in the bushes. Both support his account. Sara?
-Sara: We missed something.
-Greg: What?
-Sara: The directionality of the floor rug. The center of the rug is pointing towards the side window. 
- 
-
-Sara:  Also confirms Zach Alfano's story.
- 
-Sara: We're back to Rory Kendell. If he didn't leave the house for two days, how come he didn't answer the door when Zach Alfano rang the bell?
-
-
- 
-Rory Kendell: I was sick. I figured it was some girl scout selling cookies.
-Sara: We got back the results of your urine analysis. There was sulfuryl fluoride in your system. You were at Elliot's house.
-Rory Kendell: No.
- 
-Sara: Here's a thought -- after the exterminators left, you met up with Elliot. You had a fight, you knocked him out, and you dragged him into the house through the side window.
-Brass: You figured the fumigation would cover your tracks, that we'd chalk it up to an accident.
-Rory Kendell: Why would I want to kill Elliot?
-Brass: You've had five noise complaints against him last year.
-Rory Kendell: That's hardly reason to kill somebody.
-Brass: Or is it a reason to commit assault? He filed charges against you last May.
-Rory Kendell: I knocked on his door, and I asked him to turn down that classical crap. He refused. I overreacted. I apologized. Charges were dropped.  I swear.
-Brass: Save the swearing for trial. You're under arrest.
- 
-
- 
- 
-Dr. Robbins:  Renita Loakes, 38, from Seven Hills. New case.
- 
-Dr. Robbins:  Started as a routine autopsy. 
- 
-Dr. Robbins:  She was shopping at the Venetian, keeled over at Lacoste. Physically, she was in excellent condition, ... 
- 
-Dr. Robbins:  ... so I figured spontaneous aortic dissection or maybe pulmonary embolism.
-
-Dr. Robbins: Then I noticed mees lines.
- 
-Catherine: Ah ... just like Julie Stern.
-
- 
-Dr. Robbins:  I spotted the tiny pinpricks on her face, so I painted her with toluidine blue to highlight the marks. 
-
- 
-Robbins: Have a look at this. 
- 
-Robbins: Now check out Renita's face.
- 
-Catherine: An exact match.
-Robbins: It's an acupuncture facial designed to reduce the signs of aging.
-
-Dr. Robbins:  For only the second time in my career, in the space of two days, I found urine in the decedent's stomach.
-
-Nick:  That's more than a coincidence.
-Catherine: Two women, both fighting the toll of time, die prematurely. Why?
-FADE OUT
-
-
-;
-
-
-
- 
- 
-Officer: This is Renita's apartment.
-Nick: Thanks.
-Officer: You bet.
- 
-Nick: Dr. Robbins did say Renita was in good shape.
- 
-
-
- 
-Catherine: &quot;Supplement diary.&quot;  &quot;Daily youth regimen: Coenzyme q-10--
-50 mg; bee pollen-- 500 mg; ... 
- 
-Catherine: ... grape seed-- 200 mg; deer antler drops; chinese mountain ant extract; tincture of wild reishi.&quot; And that's just for breakfast.
-Nick: How'd she have room for pancakes?
- 
-Nick: Do you think these supplements really do any good?
-Catherine: Why are you asking me?
-Nick: I'm just asking a question, Catherine.
- 
-Catherine: Scientifically, there's not a whole lot of evidence.
- 
-
-
-Nick: More lotions and potions.
-Catherine: You gonna ask me if this stuff works, too?
-Nick: No. I'm gonna process the bathroom.
- 
-
-
-Nick: Hey, Catherine.
-Catherine:  Yeah?
- 
-Nick: You might want to come take a look at this.
- 
- 
-Nick: Urine in the bedpan and in the glass. 
-
- 
-Nick: She liked it fresh.
- 
-
- 
- 
-Sara: How's it going?
-Greg: Ornithological database just ID'd the feathers I collected at the crime scene.  Hyacinth macaw. So how come you and Brass didn't involve me in the interrogation?
-Sara: Greg, you still have the solo to complete, and, technically, you're still a trainee, but you're doing a great job.
-Greg: Thanks.
- 
-
-
- 
-Sara: What are you doing with potassium nitrate?
-Grissom: I'm making a bomb. Two bombs actually.
- 
-Sara: And sugar. You're making sweet bombs?
-Grissom: I'm making smoke bombs.
-
-Grissom: Ready?
-
-Grissom: One, two, three.
- 
-
-
- 
- 
- 
-Greg:  Grissom. We got smoke. Coming from an uncapped electrical conduit.
-
-
-Sara: Hey, I found it!
- 
-Sara: It's right behind the speaker. Music traveled through the conduit directly into Rory's house. No wonder he was so pissed off.
-Grissom: At one time, both houses must've been connected to the same electrical meter.
-Sara: A single property. How did you figure that?
-Grissom: We found fumigant in Rory Kendell's urine. But he claimed he was never in the victim's house.
-Sara: So you devised the experiment to prove he was lying?
-Grissom: Exactly. But, he was telling the truth.
-Sara: So now what?
-
-[EXT. -- DAY
-
-Brass: So you're the last one to see Elliot Beckman alive. So did he drive away from his house?
-Ted Martin: Oh, we saw him walk away. His, uh, his car was in the shop or something. He was staying down at some motel down the street.
-Brass: And that's the last time you saw him?
-Ted Martin: Yeah.
-Nate Allen: No. Ted is our, our gas-man, so he stayed behind to release the fumigants. I headed on over to the next job. Saw the dude on the side of the road, so I-I gave him a lift to the motel.  That bird crapped in my truck.
-Grissom: Can you describe the bird?
-Nate Allen: It was blue.
-Grissom: What motel?
-Nate Allen: Uh, four aces, down there on boulder highway and water street.
-Grissom: Does it ever bother you that you make your living killing insects?
- 
-Ted Martin: What kind of question is that?
-
- 
- 
-URINE THERAPY
-Nature's Elixir for Good Health
-JESUS' FOUNTAIN OF YOUTH
-Catherine:  &quot;If you believe in me, you will never thirst. Rivers of Living water shall flow from your bellies. John 7:38.&quot;
-Nick:  You getting religious on me?
-Catherine: Apparently, some fringe health professionals have used the biblical passage as justification for urine therapy.
-Nick: Drinking your own pee?
-Catherine: I ran an Amazon search, I found fifteen books touting urine's supposed health benefits, including its magical powers to reduce the signs of aging. Listen to this.
-Nick: It is a perversion of medicine, not to mention the bible. I don't get it. These women-- the time, the pain, the effort. For what? Smoother skin? Please.
-Catherine: Make a muscle, Nicky.
-Nick: What?
-Catherine: Roll up your sleeve, make a muscle.
-
-Catherine:  Oh. Now, how much time and effort went into this? I'm gonna guess five days a week a the gym, low carb, low fat, slow burn, and for what, Nicky? For what?
-Nick: That's a good point, but it's not the same thing.
-Catherine: No. It's nice, though.
-Nick:  Well, thanks, I'm not even flexing it yet either.
-Catherine: Really? But it's rock hard.
-
-David Phillips: Sorry, I didn't mean to interrupt ... barge in. I ... normally would've knocked, but the door isn't ...
-Nick: No, no, it's all right, Super Dave. Nice purse.
-David Phillips: Oh, uh ... paramedics just delivered it.
- 
-David Phillips: Got separated from Ms. Loakes when she was loaded into the ambulance.
-Nick: Anything else?
-David Phillips: Oh, no, no.
-Catherine: Thanks, David.
-David Phillips: Sure.
-(David Phillips leaves. Nick opens the bag and dumps its contents on the table. Catherine finds a spray bottle. The instructions read:
-DIRECTIONS
-One Spray twice a day under the tongue
-TO REORDER
-Contact Dr. Tony Malaga  555-0195
-Catherine: &quot;Dorian Spray.&quot; &quot;One spray twice a day under the tongue.&quot;
- 
-Catherine: Hey, check out that second ingredient.
-The label reads:
-INGREDIENTS: VITAMIN B6, ARSENICUM, VITAMIN E, ZINC, SELENIUM, GLYCINE, LYSINE, ORNITINE, DEIONIZED WATER, GLYCERINE AND GINSENG.
-Nick:  &quot;Arsenicum.&quot; Holistic for arsenic. An oral spray? &quot;For refills, contact Dr. Malaga.&quot;
-
- 
- 
-Nick: This is a doctor's office?
-Catherine: According to Vartann, Dr. Malaga bought the spa two years ago and incorporated his practice.
-Receptionist: Hi, and welcome to the sagebrush spa.
-Nick: Thanks. I'm Nick Stokes. This is Catherine Willows. We're with the crime lab. We're here to see Dr. Malaga.
-Receptionist: Is he expecting you?
-Catherine: Just tell him we're here.
-Receptionist:  Dr. Malaga.
-(Nick picks up a brochure and looks at it. It reads:
-&quot;JOURNEY TO ---
-relaxation is enhanced by a combination ...
-therapy. Experience the ultimate facial that ...
-and soothe. Includes hand and foot treatment ...
-and shoulder massage. 110 minutes $160 + 
-BOTOX INJECTIONS- The result ...
-Administered treatment is a temporary res -
-Wrinkles between the eyes. Restores skin ...
-Appearance. $500.
-RESTAYLANE INJECTIONS- These ...
-Moderate to severe wrinkles around the no ...
-Volume and fullness to skin. $500
-Nick: Botox injections-- 500 bucks. Restaylane injections-- 500. Micropeel--
-300. 
-Catherine:  That's my car payment.
-Nick: You don't actually think you need this stuff, do you?
-Catherine: It's Vegas, Nicky. Everybody needs it.
-Nick: You don't.
-
-Catherine:  &quot;Urine therapy. Nature's elixir ... &quot;
- 
-Dr. Tony Malaga: My clients swear by it. Let's go to my office.
- 
-Catherine: You sold Dorian spray to both Renita Loakes and Julie Stern.
-Dr. Tony Malaga: Yeah. It's my own formulation, and I can assure you that it's perfectly safe.
-Nick: Doctor, you are aware that arsenic is a poison, right?
-Dr. Tony Malaga: So is botox. But 2.2 million people had injections last year. And foxglove is a deadly plant that also doubles as a cardiac medication.
-Catherine: I'm familiar with digitalis.
-Dr. Tony Malaga: Well, arsenic, in extremely small doses, fights premature aging by improving skin elasticity.
- 
- 
-Dr. Tony Malaga: Look, even if Ms. Loakes and Ms. Stern drank a whole case of that spray, the arsenic content wouldn't be lethal.
- 
-Nick: Well, they teach you about arsenic in medical school?
-Dr. Tony Malaga: I did a course in holistic medicine a couple of years ago.
-Catherine: Did you also take a course in spa management?
- 
-Dr. Tony Malaga: Medical School left me with a lot of debts and with HMOs cutting their fees, my practice was barely breaking even.
- 
-Dr. Tony Malaga: You know, th-the whole profession is changing.
- 
-Dr. Tony Malaga: Doctors have to seek out their patients. The HMOs don't recognize aging as a disease, so I'm free to charge whatever the market will bear.
-Catherine: Hang on. You consider aging a disease?
- 
-Dr. Tony Malaga: With a 100% mortality rate. Aging wreaks havoc with every one of our systems: Respiratory, cardiovascular, nervous, musculo-skeletal and immune.
-Catherine: But you're not treating the body. You're battling crow's feet.
-Dr. Tony Malaga:  Righteous indignation. That's one step before acceptance.
-Catherine: Acceptance of what?
-Dr. Tony Malaga: What I do. The, uh ... procedures and products. You've seen the ads in all the beauty magazines. You've studied all the before and after photos. It's okay, Ms. Willows. We'll all get older, and nobody wants to look their age. I give you what you need. I give you what you want.
- 
-Nick: So, what Ponce de Leon couldn't find, you did, huh? The Fountain of Youth. Snake oil in a fancy bottle.
-Dr. Tony Malaga: Medicine is about hope. And like any good doctor, that's what I sell.
-Nick: Medicine is about healing. Hope is about prayer. That should be free.
-Catherine: We need Ms. Sterns' and Ms. Loakes' medical records. And, uh, this time, we've got a court order.
-
-
- 
- 
-Brass: Sherlock Holmes and Dr. Watson, I presume?
-Sara: What do you need, Brass?
-Brass: Well, it may be elementary, but I have a conundrum. I just got back from the Four Aces. The hotel manager said Elliot tried to check in with his bird. The guy turned him down because he didn't have a cage, so supposedly Elliot went home to retrieve it, but neither he nor the bird ever returned.
-Greg: Looks like we need to find that bird.
-
- 
- 
- 
-
-Sara: Greg.
-
-Greg: Oh. There were no flies in here when we processed the house.
-(Sara and Greg head for the c
-Sara: Fumigation kills all household insects, and it takes time for new flies to find a portal of entry.
-Greg: Well, bird could've flown up somewhere and died.
-
-Sara: Carcass with a fresh colony of maggots. The bird's not here; it's a dead rat.
-Greg: Which means the macaw was either bird-napped or he flew the coop.
-FADE OUT
-
-
-
- 
- 
-Bird Shop Manager: I love you. Bird Shop Manager: I love you. Bird Shop Manager: I love you.
-Grissom: Teaching him to speak?
-Bird Shop Manager: Although the cockatoo is intelligent, birds don't speak. To speak requires a cognitive ability to understand, which they don't. They just imitate. And Edweena is a she. How can I help you?
-Grissom: I'm looking for a macaw.
-Bird Shop Manager: Well, you came to the right place. &quot;Buy Buy Birdie&quot;'s the only exotic bird store in Clark County. 
-Grissom: Has anyone tried to sell you a macaw in the last few days?
-Bird Shop Manager: No. Why?
-Grissom: Well, I'm trying to locate a missing blue hyacinth.
-Bird Shop Manager: Very rare. In my whole career, I've only sold one.
-Grissom: Do you remember the buyer's name?
-Bird Shop Manager: Sure. Mr. Beckman. He's in here all the time. Bob likes to eat cashews out of my pocket. Mr. Beckman doesn't go anywhere without Bob.
-Grissom: Mr. Beckman, um, died three days ago. We found these ... feathers in his house. 
- 
-Bird Shop Manager: Tail feathers. That's not good.
-Grissom: Why is that?
-Bird Shop Manager:  Macaws only molt one tail feather at a time. Get a pile like this, someone yanked. Real hard.
-
-
- 
- 
-Nick: So, Dr. Malaga was telling the truth -- both women were poisoned. But that's not what killed them.
-Travis Watson: Yeah, so we can rule out arsenic as a cause of death.
- 
-Catherine: Hey, Travis? These are the vials from our decedents, right?
- 
-Travis Watson: Yeah, I just finished with them yesterday. Why?
-Catherine: Well, the red blood cells haven't separated from the serum.
-Travis Watson: Is that relevant?
-Catherine: Maybe. I mean, normally, we'd see a yellow band of serum on top of the crimson blood. These vials are solid crimson.
-Nick: Which means the red blood cells have lysed.
- 
-Nick:  Something caused the red blood cells to lyse, or pop. The hemoglobin from inside those cells infiltrated the serum.
-
-Nick: If a sufficient number of red blood cells lyse, a person dies.
-Travis Watson: So, what caused the lysis?
-Nick: We answer that question, we solve this case.
-
-
-
- 
-Catherine: So, the women were thirty years apart in age. They lived on different sides of town. They probably didn't know each other. But they both drank their own urine and were patients of Dr. Malaga's.
-Nick: Well, were either one of their procedures sufficiently invasive as to compromise their blood?
-Catherine:  Well, last monday, two days before liver spot removal, Ms. Stern had a body wrap and ... hydrogen peroxide therapy.
-Nick:  Ms. Loakes also underwent hydrogen peroxide therapy... on the same day? Here's the menu of services provided by the spa.
- Let's see ... &quot;hydrogen peroxide therapy -- a three percent solution is injected directly into a client's vein, bathing the red blood cells in nourishing oxygen, boosting the immune system and reversing the signs of aging.&quot;
-Catherine: Question is, is it deadly?
-Nick: Well, let's find out. I'll get the hydrogen peroxide.
-Catherine: I'll get the blood.
-Nick: Okay.
-
- 
- 
-Cue Sound:  KNOCKING ON DOOR
- 
- 
-Brass: Mr. Martin, we have a warrant to search your apartment. Please, stay with me. Stay ahead of me.
- 
-Ted Martin: Look, if you guys tell me what you're looking for, maybe I can help you out, um ...
-Brass: Look, shut up and stay still.
- 
-Sara: Brass? How many watches do you own?
-Brass: Couple of sport, couple of dress. Why?
-Sara: Mr. Martin has about twenty here.
-Brass: Twenty?
-Ted Martin: I'm a collector.
-
-Sara: This is a little small for your wrist, don't you think? 
- 
-Sara: Several rings, a necklace, cufflinks and a gold pen. You know, these things all have one thing in common -- you can kind of slip them into your pocket. This is engraved -- &quot;Joan Arryington.&quot; I wonder what the odds are that Mrs. Arryington is a client of Oden Pest Control.
-
- 
-
- 
-Grissom:  Hello, Bob.
- 
- 
- 
-Grissom: Look what I found.
- 
-Sara: I think we all know what happened here. After your buddies left, you were poking around Mr. Beckman's house. But he surprised you.
-(Quick flashback to: Elliot Beckman walks back to his house with Bob on his arm.
-Elliot Beckman:  A cage! I can't believe that manager.
-
-
-Elliot Beckman: What the hell are you doing?
-Ted Martin: Just getting ready for the fume.
-Elliot Beckman: You were rifling through my stuff ... 
-Ted Martin: Oh, no, no, no, no, man. I was just making sure that everything, uh, was, is secure.
-Elliot Beckman: I'm going to call the police.
- 
-Elliot Beckman:  He can't do that. No, he can't.
- 
- 
-Sara: Somehow, you managed to get the bird in the cage, seal the tent and release the gas.
-
-Elliot Beckman: Someone help me!
- 
- 
-Brass: Despite his neighbor's best efforts, he was a goner.
-Ted Martin: I'm not admitting to anything.
-Grissom: You don't have to, Ted. We know why the caged bird sings.
-
-
- 
- 
-Catherine: So, hand me the syringe with the three percent concentration.
- 
-Nick: Here you go.
- 
-Catherine: No effect.
- 
-Nick: Upping the concentration of hydrogen peroxide to ... seven percent.
- 
-Nick: Okay.
- 
- 
-Nick: Fifteen percent ... 
- 
-
- 
-Nick: Concentration level 30%.
-
- 
-Catherine: Lysis.
-Nick: Concentration at 30%. That's ten times the three percent specified on the menu.
-Catherine: The death was in the decimal.
-
-
- 
-Adam Matthews: Dr. Malaga has not committed a crime.
-Catherine: He injected a lethal batch of hydrogen peroxide into two of his patients.
-Adam Matthews: Even if that were true, you may have uncovered a very tragic accident, a very horrible mistake -- but certainly nothing criminal, or we'd be downtown right now. No A.D.A.'S going to prosecute. The procedures were elective. Catherine, you don't need me to tell you how many people die every day as a result of physician error.
-Catherine: Well, I am not talking about other people. I'm talking about Julie Stern and Renita Loakes.
-Dr. Tony Malaga: Yeah, both of whom looked in the mirror ... and wanted to turn back time.
-Catherine: They put their trust in you because you're an M.D. Your professional degree made them feel safe.
-Dr. Tony Malaga: All procedures carry a risk.
-Catherine: Is that what you tell yourself? And when you screw up again, what happens?
-Adam Matthews: His malpractice premiums go up.
-Catherine: Oh. I'll be notifying the victims' families. You can count on a civil suit.
- 
-
- 
-Worker: Good night.
-Catherine: Good night.
- 
- 
-FADE TO BLACK
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=05x04+-+Crow%27s+Feet&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127380%23p127380" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=05x04+-+Crow%27s+Feet&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127380%23p127380" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127380%23p127380&amp;name=05x04+-+Crow%27s+Feet" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127380%23p127380" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=36bc4b3575972cf8c599103dde2f1ba7">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=36bc4b3575972cf8c599103dde2f1ba7">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=36bc4b3575972cf8c599103dde2f1ba7">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=36bc4b3575972cf8c599103dde2f1ba7">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

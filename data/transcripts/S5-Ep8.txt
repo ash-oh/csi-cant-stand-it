@@ -1,743 +1,973 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) - NIGHT] 
+[EXT. HIGHWAY - NIGHT]
+(A Thunderbird speeds down the highway. The woman driving the car pick" />
+<meta property="og:title" content="05x08 - Ch-Ch-Changes - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) - NIGHT] 
+[EXT. HIGHWAY - NIGHT]
+(A Thunderbird speeds down the highway. The woman driving the car pick" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13290" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>05x08 - Ch-Ch-Changes - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13290" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13290">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=ec762cb5176e6addad5113ddcbaa91d6"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=ec762cb5176e6addad5113ddcbaa91d6">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=ec762cb5176e6addad5113ddcbaa91d6">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=ec762cb5176e6addad5113ddcbaa91d6">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=ec762cb5176e6addad5113ddcbaa91d6">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13290&amp;sid=ec762cb5176e6addad5113ddcbaa91d6&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>05x08 - Ch-Ch-Changes</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127384">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127384">05x08 - Ch-Ch-Changes</a></div>
+							<div class="pull-right text-right"><time datetime="2004-12-03T03:16:48Z">12/03/04 03:16</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. LAS VEGAS CITY LIGHTS (STOCK) - NIGHT] </p>
+<p>[EXT. HIGHWAY - NIGHT]</p>
+<p>(A Thunderbird speeds down the highway. The woman driving the car picks up speed. She zooms past a parked police car. The police car pulls out from the side and chases after her.) </p>
+<p>FLASH TO:<br />
+[EXT. HIGHWAY - NIGHT]</p>
+<p>(The Woman in the car fixes her hair and removes her scarf as she checks herself in the rearview mirror. The lights from the police car parked behind her flash.) </p>
+<p>(Officer Mann shuts the door. He walks over to check on the driver.) </p>
+<p><strong>Wendy Garner</strong>: Officer ... thank God you're here.</p>
+<p><strong>Officer Mann</strong>: You know why I stopped you?</p>
+<p><strong>Wendy Garner</strong>: Yeah, I ... I ... I was speeding, uh ... of course, but you have to understand, you see, someone is chasing me.</p>
+<p>(He nods.) </p>
+<p><strong>Wendy Garner</strong>: You see, I have videos. </p>
+<p><strong>Officer Mann</strong>: I bet you do. Let's start with license and registration.</p>
+<p><strong>Wendy Garner</strong>: Officer, if I could ... if I could just show you.</p>
+<p>(He looks at her.)</p>
+<p>FLASH TO:<br />
+[EXT. HIGHWAY -- NIGHT] </p>
+<p>(Wendy Garner is dead, her eyes wide open. Her throat is slashed and gouged as she sits tilted sideways behind the driver's wheel.)</p>
+<p>(Grissom snaps photos of the body in the car.) </p>
+<p>(Behind him, Catherine puts down evidence marker #4 next to an open video camera. She snaps photos of it and picks it up.) </p>
+<p><strong>Catherine</strong>: Found a camcorder. No tape inside.</p>
+<p>(Grissom continues to take pictures of the body. Catherine looks around the area. She sees some tire marks in the dirt.) </p>
+<p><strong>Catherine</strong>: Not much traffic. Makes it a lot easier to run someone off the road ... (quietly) ... and slash their throat.</p>
+<p>(Catherine walks over to Grissom.) </p>
+<p><strong>Grissom</strong>: She was slashed south of the border, as well.</p>
+<p>(Top View down of the body in the car shows her blood-soaked lap.) </p>
+<p><strong>Catherine</strong>: Women in convertibles are low-hanging fruit.</p>
+<p><strong>Grissom</strong>: -- And it was a top-down night.</p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - FORENSIC AUTOPSY -- NIGHT] </p>
+<p>(David Phillips is washing the body as he prepares the body for autopsy. He turns the water off. Catherine stands next to the table.) </p>
+<p>(David Phillips notices the large engagement ring on her finger.) </p>
+<p><strong>David Phillips</strong>: That's a nice ring. It's at least four carats. </p>
+<p>(Off Catherine's look, he explains.) </p>
+<p><strong>David Phillips</strong>: We've been shopping. (Catherine smiles.) Lots of surgical procedures here: Artificial breasts, cheek implants ... collagen lips ... you'd be surprised how many women I get on this table with fake parts.</p>
+<p><strong>Catherine</strong>: Plastic lasts longer.</p>
+<p>(David Phillips manages to remove the ring. He looks at it.)</p>
+<p>CUT TO:<br />
+[INT. CSI - GARAGE - NIGHT]</p>
+<p>(Sara and Warrick are examining the car.)</p>
+<p>(Warrick takes out the center arm rest and finds a woman's cosmetics bag in it. He opens it and is impressed by the quantity of its contents.)</p>
+<p><strong>Warrick</strong>: Wow. Mascara, tweezers ... under-eye cream ... ... neck-firming lotion. (He shakes his head and mutters.) Girls. Pads ... one, two, three, four jars of depilatory cream?</p>
+<p><strong>Sara</strong>: That's a lot of bikini wax. Some girls hate the nether-stubble.</p>
+<p><strong>Warrick</strong>: Nether-stubble?</p>
+<p>(Under the floor carpet, Sara finds a Tangiers Employee ID badge.)</p>
+<p><strong>Sara</strong>: Swipe card. Entertainment Department, Tangiers.</p>
+<p>(Warrick checks the glove compartment and finds a driver's license.)</p>
+<p>--733 EXPIRES 04-14-2007<br />
+CLANCY, WALTER<br />
+1712 MOUNTAIN VISTA<br />
+LAS VEGAS, NV 89101</p>
+<p><strong>Warrick</strong>: Well ... Walter Clancy didn't mind stubble.</p>
+<p><strong>Sara</strong>: Who's Walter?</p>
+<p>(Warrick looks at the registration papers:<br />
+BODY TYPE MODEL<br />
+THUNDERBIRD G<br />
+TYPE VEHICLE USE / DATE<br />
+AUTOMOBILE / 02/11/--<br />
+REGISTERED OWNER<br />
+CLANCY, WALTER<br />
+1712 MOUNTAIN VISTA<br />
+LAS VEGAS NV 89101</p>
+<p><strong>Warrick</strong>: The registered owner of this vehicle.</p>
+<p>(Warrick holds up the Driver's License.) </p>
+<p><strong>Sara</strong>: So she either borrowed this car ... or she stole it.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY - NIGHT]</p>
+<p>(Robbins goes over his report with Grissom and Catherine.)</p>
+<p><strong>Robbins</strong>: Genital wounds were more profound than I expected.</p>
+<p><strong>Grissom</strong>: Profound how?</p>
+<p><strong>Robbins</strong>: Well, I was looking for ovaries and I found a prostate.</p>
+<p>(Grissom looks surprised.) </p>
+<p><strong>Catherine</strong>: &quot;She&quot; was a &quot;He&quot;?</p>
+<p><strong>Robbins</strong>: &quot;She&quot; had genital reassignment surgery.</p>
+<p><strong>Catherine</strong>: And what does that mean exactly?</p>
+<p><strong>Robbins</strong>: Exactly? Her testicles were removed and her pen1s was inverted, creating a v*g1n*.</p>
+<p><strong>Grissom</strong>: And, evidently, the killer kept subtracting.</p>
+<p><strong>Catherine</strong>: Subtracting what?</p>
+<p><strong>Grissom</strong>: Well, they don't call it an Adam's apple for nothing. A man with issues might become upset if he found one on his woman. Cause?</p>
+<p><strong>Robbins</strong>: Severed carotid and jugular complex. Uh, incised wounds are almost surgical in nature. Used an extremely sharp weapon. Vicious attack. Probably from someone emotionally involved.</p>
+<p><strong>Grissom</strong>: Time?</p>
+<p><strong>Robbins</strong>: Best estimate, between 8:00 and midnight. I collected a standard SAE kit.</p>
+<p><strong>Catherine</strong>: Good. Because top or bottom, this looks like a sexual assault that turned into a hate crime.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - BRASS' OFFICE - NIGHT]</p>
+<p>(Brass interviews Officer Mann.)</p>
+<p><strong>Officer Mann</strong>: Clocked the Thunderbird doing ninety. I nail it. The skirt driving tells me she's being chased. And then she asks if she can show me some videos.</p>
+<p><strong>Brass</strong>: How were they?</p>
+<p><strong>Officer Mann</strong>: I didn't bite. She was working it.</p>
+<p><strong>Brass</strong>: Rough duty.</p>
+<p><strong>Officer Mann</strong>: Look, she gave me this lame story about the car being her brother's, and that she had lost her license, but she has his license, and yakety-yak. I just let her off with a warning.</p>
+<p><strong>Brass</strong>: So you had speeding, driving without a license, possible stolen vehicle, and you let her off with a warning.</p>
+<p><strong>Officer Mann</strong>: What are you implying?</p>
+<p><strong>Brass</strong>: She got off pretty easy. How about you?</p>
+<p>(Brass takes a sip from his cup.) </p>
+<p><strong>Officer Mann</strong>: I resent that.</p>
+<p><strong>Brass</strong>: Well, I'm sure that she resented being sexually harassed and slaughtered two miles from the place you pulled her over!</p>
+<p><strong>Officer Mann</strong>: I didn't know about that until you called me in here.</p>
+<p><strong>Brass</strong>: You know, you have a sexual harassment flag in your file.</p>
+<p><strong>Officer Mann</strong>: Oh, so that makes me a s*x murderer?</p>
+<p>(Quick flash to: [NIGHT] Officer Mann talks with Wendy Garner.) </p>
+<p><strong>Officer Mann</strong>: I know a place about two miles up. It's a little more private.</p>
+<p>(End of flash. Resume to present.) </p>
+<p><strong>Brass</strong>: I mean, you know, if ... if I found out that the gal who was stripping my gears was a guy, I mean, I'd be mad, too.</p>
+<p>(Quick flash to: [NIGHT] Officer Mann is kissing Wendy Garner. He reaches down her body ... </p>
+<p><strong>Officer Mann</strong>: What are you?!</p>
+<p>(He pushes her against the car.)</p>
+<p>(End of flash. Resume to present.) </p>
+<p><strong>Brass</strong>: Or maybe you prefer a stick.</p>
+<p>(Brass takes a sip from his cup. Officer Mann leans forward in his chair.) </p>
+<p><strong>Officer Mann</strong>: I told you, nothing happened.</p>
+<p><strong>Brass</strong>: You're on administrative duty until we confirm that. You mind submitting your DNA?</p>
+<p><strong>Officer Mann</strong>: Just tell me where to spit.</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB - NIGHT]</p>
+<p>(Catherine and Warrick work with Archie Johnson on the two photos - one of Wendy Garner and the other of Walter Clancy.) </p>
+<p><strong>Catherine</strong>: Ran her prints through AFIS and I got two hits. A Wendy Garner was a dancer at the Tangiers, and Walter Clancy, a blackjack dealer at the Riviera in the mid-'90s.</p>
+<p>(Archie has both photos on the monitors.) </p>
+<p><strong>Archie Johnson</strong>: Okay, let's give this a shot.</p>
+<p><strong>Catherine</strong>: The coroner noted that she had collagened lips.</p>
+<p>(Archie thins out the lips from the Wendy photo.) </p>
+<p><strong>Catherine</strong>: Okay, so 86 those cheek implants.</p>
+<p>(Archie makes the adjustments.) </p>
+<p><strong>Catherine</strong>: Now, estrogen would've rounded out the face, so square that jaw.</p>
+<p><strong>Archie Johnson</strong>: Got that. I'm gonna give her a haircut. Add some whiskers ...</p>
+<p>(As soon as the hair is shortened, the resemblance takes shape.) </p>
+<p><strong>Warrick</strong>: Wow. Take away the, uh ... eye makeup ... fix the eyebrows.</p>
+<p><strong>Catherine</strong>: Well, one thing's for certain: Walter didn't kill Wendy.</p>
+<p><strong>Warrick</strong>: No, it's more like Wendy killed Walter.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB - NIGHT]</p>
+<p>(Mia walks into the lab where Sara is working.) </p>
+<p><strong>Mia Dickerson</strong>: Okay, Wendy's mouth had two foreign DNA donors: One seminal, one saliva. Neither was a match for Officer Mann.</p>
+<p><strong>Sara</strong>: Huh.</p>
+<p>(Mia sees the ring that Sara's looking at under the scope.) </p>
+<p><strong>Mia Dickerson</strong>: Wow. That is some rock. Platinum setting. Princess cut. Somebody really loved her-- oh-- him.</p>
+<p><strong>Sara</strong>: I think &quot;She's&quot; a &quot;Her&quot;. </p>
+<p><strong>Mia Dickerson</strong>: Right. Well ... a diamond that big, you hope she had it lojacked. </p>
+<p><strong>Sara</strong>: That is what I'm counting on. </p>
+<p>[SCOPE VIEW]</p>
+<p>(The serial number is NW-583.)</p>
+<p><strong>Sara</strong>: There's a serial number micro-etched into the band around the diamond --<br />
+I'm hoping it gets me a groom.</p>
+<p>(Mia nods. Then a thought occurs to her and she chuckles quietly to herself.) </p>
+<p><strong>Mia Dickerson</strong>: You know, I once heard this story about this man who became a woman because he was obsessed with a lesbian ... who was really a man.</p>
+<p>(Sara looks at Mia. There's a brief, awkward pause.) </p>
+<p><strong>Mia Dickerson</strong>: Overshare.</p>
+<p>(Mia turns and leaves the lab.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<p>[INT. LANER RESIDENCE - LIVING ROOM - DAY]</p>
+<p>(Brass interviews Wendy Garner's fiancee, Aaron Laner, while Sara and Grissom look around the house.)</p>
+<p><strong>Aaron Laner</strong>: Wendy just bought her wedding gown. She, uh, she would've been a beautiful bride. </p>
+<p>(Grissom looks at the framed photos on the mantle of the happy couple.) </p>
+<p><strong>Aaron Laner</strong>: We just wrote our wedding vows last week. I just figured that she was at a friend's house -- a girlfriend's house -- for the night.</p>
+<p><strong>Grissom</strong>: Mr. Laner, how long had Wendy been a dancer?</p>
+<p>(Grissom points to a framed photo on the mantle of Wendy in her Las Vegas Showgirl's costume.) </p>
+<p><strong>Aaron Laner</strong>: About two or three years in the line. I mean, never topless. But, uh, in her costume, she was a vision.</p>
+<p><strong>Brass</strong>: How long had you known each other?</p>
+<p><strong>Aaron Laner</strong>: About a year. We met in a grief support group. I'd lost my wife.</p>
+<p><strong>Grissom</strong>: Sorry for your loss.</p>
+<p><strong>Aaron Laner</strong>: Thank you.</p>
+<p><strong>Grissom</strong>: Who was Wendy grieving for?</p>
+<p><strong>Aaron Laner</strong>: Uh, she'd ... lost her twin brother.</p>
+<p>(Grissom and Brass share a silent, knowing look.) </p>
+<p><strong>Brass</strong>: Would that be Walter?</p>
+<p><strong>Aaron Laner</strong>: Yeah, Walter. Did you know him?</p>
+<p><strong>Brass</strong>: Sort of.</p>
+<p>INTERCUT WITH:</p>
+<p>[INT. LANER RESIDENCE - BEDROOM/BATHROOM - DAY]</p>
+<p>(Sara walks into the bedroom and notes the two separate, single beds. She looks at the photo of the happy couple on the beach.)</p>
+<p>(Sara heads into the master bathroom. On Sara's right, there's a bare sink and counter with only a hair dryer. She turns to her left and sees the woman's sink. Sara puts her kit down and looks at the false eyelashes.) </p>
+<p>(She opens the medicine cabinet and finds over a half-dozen prescription bottles on the shelf. On the inside of the cabinet door are a couple of yellow post-it notes. The upper post-it reads:<br />
+4X W/MEALS<br />
+Yellow - morning on empty stomach<br />
+Blue - 2 before bed<br />
+Green - 1 before dinner<br />
+White - Morning w/food<br />
+Pink - 1 before bed<br />
+White (oral) 1 before breakfast<br />
+Yellow (oral) 2 before bed</p>
+<p>(Quick flash of: [BATHROOM] Wendy is in front of her sink, the medicine cabinet is open and she grabs and drinks down her pills one by one. She checks her post-it note and takes more pills. End of flash. Resume to present.)</p>
+<p>(Sara removes the post-it note and puts it in a bag. The second post-it note reads:<br />
+G-105<br />
+SECTION E<br />
+21 - 33 - 14</p>
+<p>(Sara removes that note also.)</p>
+<p>(Sara walks over to the trash bin between the toilet and shower. She peers inside and picks up a blood-stained pad still bent into three.)</p>
+<p>[INT. LANER RESIDENCE -- LIVING ROOM - DAY -- CONTINUOUS]</p>
+<p>(Sara joins the group in the living room.) </p>
+<p><strong>Sara</strong>: Mr. Laner, I need to ask you a personal question, if you don't mind -- it may help us. Did you and your fiancée sleep in separate beds?</p>
+<p>(Aaron Laner stands up.) </p>
+<p><strong>Aaron Laner</strong>: Uh ... we were an old-fashioned couple. Neither of us believed in premarital sexual relations. I mean, that's why I fell in love with her, because of her traditional values.</p>
+<p>(Grissom looks over at Sara. She glances at him.)</p>
+<p>CUT TO:<br />
+[EXT. LANER RESIDENCE - FRONT WALK - DAY -- CONTINUOUS] </p>
+<p>(Grissom, Sara and Brass and walking back to their car. Grissom is holding the plastic bag with the pad in it.) </p>
+<p><strong>Grissom</strong>: This is confusing.</p>
+<p><strong>Brass</strong>: She had her period?</p>
+<p><strong>Grissom</strong>: Impossible. No uterus, no period.</p>
+<p><strong>Brass</strong>: So a guy desperate to change his s*x hooks up with a guy desperate not to have any.</p>
+<p><strong>Grissom</strong>: A match made in heaven.</p>
+<p><strong>Sara</strong>: I think we need to tell Mr. Laner the truth.</p>
+<p><strong>Grissom</strong>: Are we sure he doesn't know?</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. TANGIERS - SHOWSTAGE] </p>
+<p>(The dancers walk out on stage in full costume. They perform their routine and take a bow as the audience applauds.) </p>
+<p>[INT. TANGIERS - BACKSTAGE -- CONTINUOUS] </p>
+<p>(The Stage Manager motions for Grissom and Catherine to follow him backstage.) </p>
+<p><strong>Stage Manager</strong>: All right, this way.</p>
+<p>(He turns and heads backstage as he talks into a walkie-talkie. Grissom follows Catherine.) </p>
+<p><strong>Grissom</strong>: Aborigines say they dance naked to make the gods happy.</p>
+<p><strong>Catherine</strong>: The gods would be happy in Vegas.</p>
+<p>(They turn and follow the Stage Manager down the stairs to the dressing rooms.) </p>
+<p>[INT. TANGIERS - STAIRS - CONTINUOUS]</p>
+<p><strong>Grissom</strong>: Did you ever see any transsexuals when you danced?</p>
+<p><strong>Catherine</strong>: Gil, only civilians confuse strippers and showgirls. You can't cheat the full monty.</p>
+<p>CUT TO:<br />
+[INT. TANGIERS - BACKSTAGE DRESSING ROOM - CONTINUOUS]</p>
+<p>(Grissom and Catherine step into the crowded dressing room.) </p>
+<p><strong>Stage Manager</strong>: That's Wendy's station over there.</p>
+<p><strong>Catherine</strong>: Thank you.</p>
+<p>(The Stage Manager leaves.) </p>
+<p><strong>Catherine</strong>: Hello, ladies.</p>
+<p><strong>Showgirl</strong>: Hi, honey.</p>
+<p><strong>Catherine</strong>: I'm Catherine Willows. This is Gil Grissom. We're with the crime lab. Do any of you know if Wendy Garner worked last night?</p>
+<p><strong>Pink</strong>: No, she had the day off. But she should be working tonight. And she is late. That's not like her.</p>
+<p><strong>Purple</strong>: Why, did something happen to Wendy?</p>
+<p><strong>Catherine</strong>: Unfortunately, she was found dead last night.</p>
+<p><strong>Pink</strong>: It was all those hormones she was taking, wasn't it?</p>
+<p><strong>Purple</strong>: Shut up. What do you know?</p>
+<p><strong>Grissom</strong>: Do you know that Wendy was a, uh ... ?</p>
+<p><strong>Purple</strong>: Trannie? All the best showgirls are.</p>
+<p><strong>Pink</strong>: Yeah, and it don't matter if they're packin' a lop job or a gaff.</p>
+<p><strong>Grissom</strong>: Okay, lop job I get. What's a gaff?</p>
+<p><strong>Mimosa</strong>: It's like a jockstrap, only it hides what it's supposed to strap. </p>
+<p><strong>Purple</strong>: We all get work done. Who cares if it's up north or down south? Pretty's pretty.</p>
+<p><strong>Catherine</strong>: So do you know where she got her work done?</p>
+<p><strong>Purple</strong>: You want the best, you go to Dr. Mercer.</p>
+<p>CUT TO:<br />
+[EXT. HOSPITAL (STOCK) - DAY]</p>
+<p>[INT. DR. MERCER'S OFFICE - DAY]</p>
+<p>(Bev is leading a Women's Group.) </p>
+<p><strong>Bev</strong>: Okay, so on tonight's agenda, we're going to be talking about hair removal, gait, and we'll do our pride walk, hormones, and voice pitch ... </p>
+<p>(Warrick and Catherine walk into the group session, causing a distraction among the women in the group.) </p>
+<p><strong>Bev</strong>: Ladies, come on. Over here. Now, regarding hair removal ...</p>
+<p><strong>Warrick</strong>: (to Dr. Mercer) Are they all women?</p>
+<p><strong>Dr. Mercer</strong>: The ratio of MTFs to FTMs is four to one.</p>
+<p><strong>Catherine</strong>: Males to females rather than females to males?</p>
+<p><strong>Dr. Mercer</strong>: Bev is one of my patients.</p>
+<p><strong>Bev</strong>: Right. Now, who hasn't done their pride walk?</p>
+<p><strong>Woman In Group</strong>: I haven't.</p>
+<p>CUT TO:<br />
+[INT. DR. MERCER'S OFFICE - DAY - CONTINUOUS]</p>
+<p>(Catherine and Warrick talk with Dr. Mercer in his office.) </p>
+<p><strong>Dr. Mercer</strong>: The law requires re-gender candidates to spend one year on hormones and one living as the s*x of preference. Wendy wanted to fast-track the process and I wouldn't do that.</p>
+<p><strong>Catherine</strong>: I guess she found somebody who would.</p>
+<p><strong>Dr. Mercer</strong>: Every field has its bottom feeders. Surgery is the easy part. Life afterwards is the challenge. Some candidates get depressed. They're unhappy about their lives and they think surgery is going to chase away all their emotional problems.</p>
+<p><strong>Warrick</strong>: Dr. Mercer, Wendy didn't commit suicide. She was killed.</p>
+<p><strong>Dr. Mercer</strong>: (sadly) Oh, God. I am so sorry. As ready as my patients are for the world, I guess the world isn't always ready for them.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY - DAY]</p>
+<p>(Sara catches up with Mia Dickerson in the hallway.) </p>
+<p><strong>Sara</strong>: Hey.</p>
+<p><strong>Mia Dickerson</strong>: Hey.</p>
+<p><strong>Sara</strong>: Anything on those pads I collected?</p>
+<p><strong>Mia Dickerson</strong>: Uh, yeah, traces of EDTA.</p>
+<p><strong>Sara</strong>: Isn't that an anticoagulant?</p>
+<p><strong>Mia Dickerson</strong>: (nods) Yeah. Used in blood-collection vials.</p>
+<p><strong>Sara</strong>: So it wasn't the victim's blood?</p>
+<p><strong>Mia Dickerson</strong>: No, it was hers. His?</p>
+<p><strong>Sara</strong>: Hers.</p>
+<p><strong>Mia Dickerson</strong>: But no epithelials or fibrinogen, so clearly it wasn't menstrual.</p>
+<p><strong>Sara</strong>: So Wendy was having blood drawn and putting it on pads? </p>
+<p><strong>Mia Dickerson</strong>: She ... was faking her period.</p>
+<p>(Quick flash to: [BATHROOM] Wendy opens a pad and pours some blood in the center of the pad. She throws the pad away. End of flash. Resume to present.) </p>
+<p>(Mia and Sara walk into the lab.) </p>
+<p><strong>Mia Dickerson</strong>: What I don't get is why she would do that.</p>
+<p><strong>Sara</strong>: Well, she was living as a woman, and that's part of it. I-I don't know.</p>
+<p><strong>Mia Dickerson</strong>: Yeah, but you don't draw your own blood. I mean, she had to have help.</p>
+<p><strong>Sara</strong>: Maybe the same doctor that was keeping her medicine cabinet filled.</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE]</p>
+<p>(Greg gives his report to Grissom. He holds out the file folder.) </p>
+<p><strong>Greg</strong>: Hey, these are the pills Eric collected from Wendy Garner's bathroom. For the record, I really like having a pen1s.</p>
+<p>(Grissom glances at Greg, then goes back to the report.) </p>
+<p><strong>Greg</strong>: Okay, the reds and blues are bootleg estrogen conjugates out of Mexico.<br />
+(Grissom looks at a photo of a blue pill with the number 44 on it.) Apparently, HMO's don't consider being differently sexed a life-threatening condition.</p>
+<p><strong>Grissom</strong>: So patients resort to Mexican pharmacies.</p>
+<p><strong>Greg</strong>: Premarin's green, a heavy-duty hormonal supplement. Name's short for &quot;Pregnant Mare Urine.&quot; Talk about your PETA nightmare.</p>
+<p><strong>Grissom</strong>: What about these other pills?</p>
+<p><strong>Greg</strong>: Mexican-grade painkillers, tranquilizers, and a broad-spectrum antibiotic. Sounds like a post-surgery cocktail to me.</p>
+<p>(The phone rings; Grissom answers it.) </p>
+<p><strong>Grissom</strong>: (to phone) Grissom. Yes. Mimosa? (Grissom glances at Greg.) Yes. Today? The Apple Martini, one o'clock. I'll be there. </p>
+<p><strong>Greg</strong>: Did you just get a lunch date?</p>
+<p>(Grissom looks at Greg. Greg smiles knowingly at Grissom, he turns and walks out of the office, the smile still on his face.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. THE APPLE MARTINI - DAY - 1 PM]</p>
+<p>(Grissom walks into the lounge. The place is busy. He walks over to the bar and sits next to Mimosa.)</p>
+<p><strong>Grissom</strong>: Hello.</p>
+<p><strong>Mimosa</strong>: I'm glad you agreed to meet me. Can I buy you a drink?</p>
+<p><strong>Grissom</strong>: Thanks, but I'm still on the clock.</p>
+<p><strong>Mimosa</strong>: But you still let me lure you away from the lab. Is that because I'm a beautiful woman? Well, I'm a beautiful woman now.</p>
+<p><strong>Grissom</strong>: Beauty is a societal construction.</p>
+<p><strong>Mimosa</strong>: So is gender. People find out you're MTF, and they think you're psycho; Michael Caine with a bad wig and a pair of sunglasses stabbing Angie Dickinson in &quot;Dressed to Kill&quot;.</p>
+<p>(She takes a sip of her drink.) </p>
+<p><strong>Mimosa</strong>: De Palma had some issues. You're an outsider. That's why I trusted you. (She reaches out and lightly touches his hand.) You get it. Don't worry, Mr. Grissom. This isn't about s*x. It's about soul.</p>
+<p><strong>Grissom</strong>: What was it you that you wanted to trust me with?</p>
+<p><strong>Mimosa</strong>: I loved Wendy. I was there with her through her whole transition. I was going to be her maid of honor. Do you know how hard it is for people like us to find love?</p>
+<p><strong>Grissom</strong>: Do you know what happened?</p>
+<p><strong>Mimosa</strong>: She called me, hysterical. Uh, I don't know. She kept going on about avideo tape or something.</p>
+<p><strong>Grissom</strong>: What kind of tape, do you know? Blackmail? Pornography?</p>
+<p><strong>Mimosa</strong>: p0rn? (She laughs.) Oh, my God. Wendy was such a prude, she'd cover the mirror when she got out of the shower.</p>
+<p><strong>Grissom</strong>: People confuse your obsession with sexuality as an obsession with s*x.</p>
+<p>(He shrugs.) </p>
+<p><strong>Mimosa</strong>: Imagine being three years old, tormented by the sensation that you had the wrong parts. Your body's like a foreign country and you're stuck without a passport. All because in your first trimester your &quot;X&quot; and &quot;Y&quot; chromosomes split off and went different directions; girl brain, boy body.</p>
+<p><strong>Grissom</strong>: It's like the Guiterman poem: Amoebas at the start were not complex; But then they tore themselves apart and started s*x.</p>
+<p>[Note: Arthur Guiterman, (November 20, 1871 to January 11, 1943).]</p>
+<p><strong>Mimosa</strong>: Well, in the beginning, Wendy's chromosomes might have been tearing themselves apart, but in the end, she was tearing herself apart.</p>
+<p><strong>Grissom</strong>: Do you know why?</p>
+<p><strong>Mimosa</strong>: I don't know. Planning a wedding, working a rookie v*g1n*, and about to lose her cherry to a man who doesn't know?</p>
+<p><strong>Grissom</strong>: So she talked to you?</p>
+<p><strong>Mimosa</strong>: She talked about it in group.</p>
+<p><strong>Grissom</strong>: May I ask the name of your therapist?</p>
+<p><strong>Mimosa</strong>: Dr. Lavalle.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB]</p>
+<p>(Warrick takes photos of the clothes Wendy Garner was wearing when she died. He carefully rolls up the dress when Mia Dickerson walks in.)</p>
+<p><strong>Mia Dickerson</strong>: Hey, I've been looking for you.</p>
+<p><strong>Warrick</strong>: You found me.</p>
+<p><strong>Mia Dickerson</strong>: I analyzed the blood on the shoes you gave me. I expected it to be Wendy's blood. It's not hers and it's not Officer Mann's.</p>
+<p><strong>Warrick</strong>: So it might be the killer's.</p>
+<p>(She nods.) </p>
+<p><strong>Warrick</strong>: Well, given the nature of this case, it might be misleading, but I'll ask anyway -- male or female?</p>
+<p><strong>Mia Dickerson</strong>: One donor. All male.</p>
+<p>(Mia turns and leaves.)</p>
+<p>CUT TO:<br />
+[EXT. LEPIDRO CLINIC - FRONT WALK - DAY]</p>
+<p>(Grissom and Brass head for the clinic.) </p>
+<p><strong>Brass</strong>: Lepidro. What kind of name is that?</p>
+<p><strong>Grissom</strong>: It's from Lepidoptera, meaning &quot;butterfly.&quot; Walter Clancy started out a gender-dysmorphic caterpillar and turned into a bloody butterfly.</p>
+<p><strong>Brass</strong>: Love hurts.</p>
+<p>CUT TO:<br />
+[INT. LEPIDRO CLINIC - LIVING ROOM - DAY] </p>
+<p>(Amber waves to Tippi.) </p>
+<p><strong>Amber Hamshaw</strong>: Bye-bye, scrumptious pumpkin.</p>
+<p><strong>Tippi</strong>: Bye, Amber.</p>
+<p>(Amber leaves as Grissom and Brass walk into the clinic.)</p>
+<p><strong>Brass</strong>: Dr. Lavalle?</p>
+<p><strong>Francis</strong>: No, I'm Francis. My wife is the doc.</p>
+<p><strong>Tippi</strong>: Grownups always do that.</p>
+<p><strong>Francis</strong>: It's gender-stereotyping, honey.</p>
+<p><strong>Brass</strong>: Okay, Francis. I'm Jim Brass, Las Vegas Police. This is Gil Grissom from the crime lab.</p>
+<p>(Francis stands up.) </p>
+<p><strong>Francis</strong>: Well, if I'm being intrusive, please tell me, but, I mean, why are you here?</p>
+<p><strong>Brass</strong>: Wendy Garner.</p>
+<p><strong>Tippi</strong>: I know Wendy.</p>
+<p><strong>Francis</strong>: She's a patient.</p>
+<p><strong>Brass</strong>: She was a patient.</p>
+<p><strong>Francis</strong>: My wife is in group.</p>
+<p>(He turns and leaves. Brass and Grissom follow.) </p>
+<p>[EXT. LEPIDRO CLINIC -- BACK YARD - DAY - CONTINUOUS]</p>
+<p>(Francis leads Brass and Grissom out to the back yard where Mona Lavalle is in the middle of group with other couples.) </p>
+<p><strong>Ed</strong>: This is really frustrating. They don't get it. She is a beautiful woman now and I love her.</p>
+<p><strong>Dina</strong>: Our pastor doesn't know.</p>
+<p><strong>Mona Lavalle</strong>: You need to tell him. The truth goes a long way.</p>
+<p><strong>Francis</strong>: Mona? These folks need to speak to you.</p>
+<p><strong>Mona Lavalle</strong>: Eddie, would you take over?</p>
+<p><strong>Ed</strong>: Sure.</p>
+<p>CUT TO:<br />
+[INT. LEPIDRO CLINIC - LIVING ROOM - DAY] </p>
+<p>(Grissom looks at some of the framed photos she has on her shelves.) </p>
+<p><strong>Mona Lavalle</strong>: In the sanctuary alliance I saw an eritrean girl who had her labia sewn shut. I looked into her eyes and I found a cause. Six thousand women a day suffer genital mutilation.</p>
+<p><strong>Grissom</strong>: So you travel around the world treating the victims of sexual treachery?</p>
+<p><strong>Mona Lavalle</strong>: You don't have to travel to find the genitally disenfranchised.</p>
+<p><strong>Brass</strong>: Like Wendy Garner?</p>
+<p><strong>Mona Lavalle</strong>: Wendy came to me. She was denied surgery. That's devastating. I tried to help her work through that.</p>
+<p><strong>Grissom</strong>: By finding a doctor who would operate on her?</p>
+<p><strong>Mona Lavalle</strong>: By working with her on what made her an unacceptable candidate.</p>
+<p><strong>Grissom</strong>: Which was?</p>
+<p><strong>Mona Lavalle</strong>: Patience.</p>
+<p><strong>Brass</strong>: When was the last time you saw her?</p>
+<p>(She looks at her appointment book.) </p>
+<p><strong>Mona Lavalle</strong>: Last night. 7:00 to 8:00 for her individual consultation.</p>
+<p><strong>Brass</strong>: How did she seem?</p>
+<p><strong>Mona Lavalle</strong>: She was agitated. She was worried about whether her fiancée would receive her well on their wedding night.</p>
+<p><strong>Brass</strong>: So he didn't know?</p>
+<p><strong>Mona Lavalle</strong>: I don't recommend what we call &quot;passing.&quot; I suggested that Aaron come at a group. Wendy was adamant that he never know the truth.</p>
+<p><strong>Grissom</strong>: Doctor, do you videotape your sessions?</p>
+<p><strong>Mona Lavalle</strong>: No, never. That would violate the doctor-patient privilege.</p>
+<p>(Grissom nods.)</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB - DAY]</p>
+<p>(Nick is working on the computer in the lab. He has a large map on the monitor. Warrick is in the lab with him.)</p>
+<p>(Note that the monitor reads:<br />
+WENDY JONES - HOUSE<br />
+118 SUNSHINE LANE<br />
+GREEN VALLEY, NV</p>
+<p><strong>Nick</strong>: Wendy lived here at 118 Sunshine Road in Green Valley. </p>
+<p>(He presses a button and a dotted line appears from Wendy's house to Therapy.)</p>
+<p><strong>Nick</strong>: She left her weekly session with Dr. Lavalle at 8:00 P.M. here. Now, Officer Mann pulled her over on Industrial Road 24 minutes later.</p>
+<p>(A third dotted line appears on the monitor.) </p>
+<p><strong>Warrick</strong>: Well, she was found dead two miles south of there, supposedly on her way to her friend Mimosa's house here.</p>
+<p><strong>Nick</strong>: Takes ten minutes to drive from the clinic to Industrial Road.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p><strong>Nick</strong>: Yeah. I had Greg run it.</p>
+<p>(They both chuckle.)</p>
+<p><strong>Warrick</strong>: Classic. Fourteen minutes of Wendy's time unaccounted for.</p>
+<p><strong>Nick</strong>: That's what I'm saying. She must've stopped somewhere between the clinic and where Officer Mann clocked her doing ninety.</p>
+<p><strong>Nick</strong>: Somewhere in this highlighted area.</p>
+<p><strong>Warrick</strong>: Yeah, but there's nothing out there. </p>
+<p><strong>Nick</strong>: Not so fast. Sara found this in the medicine cabinet. It's a post-it.</p>
+<p>(Nick shows Warrick the note.) </p>
+<p><strong>Warrick</strong>: (reads) &quot;G-105, Section E.&quot; What does that have to do with her medicine cabinet?</p>
+<p><strong>Nick</strong>: Doesn't have anything to do with the medicine cabinet. I thought it was map coordinates or something like that, but it's not. You know what they have a lot of up in this area?</p>
+<p>(Nick walks up to the large wall monitor and points to the area he's talking about.) </p>
+<p><strong>Nick</strong>: Storage facilities.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. E-Z ACCESS STORAGE -- HALLWAY TO UNIT - NIGHT]</p>
+<p>(Catherine, Nick and Warrick head for the storage unit, G-105.) </p>
+<p><strong>Warrick</strong>: What's the number again?</p>
+<p><strong>Nick</strong>: G-105. Should be right down here.</p>
+<p>(As they approach, Warrick sees the bloody shoeprints on the floor.) </p>
+<p><strong>Warrick</strong>: Hey, hey, watch your step. Watch your step. I got footprints.</p>
+<p><strong>Catherine</strong>: Those look like bloody footprints.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>(They stop in front of the door. Nick kneels down in front of the padlock and tries the combination found on the yellow post-it.)</p>
+<p>(The padlock opens. Warrick takes out his gun. Nick opens the door.)</p>
+<p>[INT. E-Z ACCESS STORAGE -- UNIT G-105 - NIGHT - CONTINUOUS]</p>
+<p>(Warrick steps into the unit. He sees the blood on the floor. The further he goes in, the worse it looks. There's a body still on the table. We can hear flies buzzing in the background.)</p>
+<p><strong>Warrick</strong>: Nick, hit the lights.</p>
+<p>(Nick turns the lights on and they find the blonde woman's body still on the operating table, her eyes wide-open, legs spread wide and blood all over the place. It appears that she may have died mid-operation. A grotesque sight for even the experienced.) </p>
+<p><strong>Warrick</strong>: Oh, God.</p>
+<p>(Warrick, Catherine and Nick can't believe their eyes.) </p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>DUE TO ADULT CONTENT, VIEWER DISCRETION IS ADVISED</p>
+<p>FADE IN.</p>
+<p>[INT. E-Z ACCESS STORAGE -- HALLWAY TO UNIT - NIGHT]</p>
+<p>(Warrick works on getting the shoe prints on the hallway floor while Nick works on printing the door frame to the warehouse unit.) </p>
+<p>(Nick dusts the door frame; Warrick snaps a photo of the shoe print.)</p>
+<p>[INT. E-Z ACCESS STORAGE -- UNIT G-105 - NIGHT - CONTINUOUS]</p>
+<p>(Catherine works inside the warehouse. She snaps photos of the body on the make-shift operating table.</p>
+<p><strong>Nick</strong>: Catherine.</p>
+<p><strong>Catherine</strong>: Yeah?</p>
+<p><strong>Nick</strong>: What do you think went on here?</p>
+<p><strong>Catherine</strong>: Someone outsourced their health care to the wrong provider.</p>
+<p>(Catherine snaps a photo of the table with the bloody tools on it. On the floor, she finds a bloody used latex glove. She picks it up.) </p>
+<p><strong>Catherine</strong>: At least ... something was sterile.</p>
+<p><strong>Nick</strong>: Maybe why I'm not getting any prints.</p>
+<p>(Brass walks into the unit. He greets Nick on his way to report to Catherine.) </p>
+<p><strong>Brass</strong>: Hey.</p>
+<p><strong>Nick</strong>: Hi, Jim.</p>
+<p><strong>Brass</strong>: (to Catherine) So I, uh ... I talked to the manager. All he said was, the renter paid cash, he was a guy, he seemed normal.</p>
+<p><strong>Catherine</strong>: Normal people don't torture people in storage bins.</p>
+<p>(Catherine turns around and takes more photos of the body on the table.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]</p>
+<p>[INT. CSI - FORENSIC AUTOPSY - NIGHT]</p>
+<p>(Robbins x-rays the body. On the monitor, they find piano wires in the body's lower abdomen.) </p>
+<p><strong>Robbins</strong>: Piano wires. They're used to mobilize the lower part of the abdominal skin and anchor the neo-vagina, so it can heal in place.</p>
+<p><strong>Catherine</strong>: I can only imagine those cramps.</p>
+<p><strong>Robbins</strong>: The surgeon stuffs the portal with a cylinder wrapped in gauze to hold its shape while it heals, and sutures it.</p>
+<p><strong>Catherine</strong>: And how long does milady have to wear a wire?</p>
+<p><strong>Robbins</strong>: Well, after five days, the v*g1n* is un-sutured, and the wires are removed. Scarring indicates multiple surgeries.</p>
+<p>(Catherine and Robbins walk around the monitor and toward the body.) </p>
+<p><strong>Robbins</strong>: She appears to have gone in for repair due to infection.</p>
+<p><strong>Catherine</strong>: I take it that wasn't supposed to happen.</p>
+<p><strong>Robbins</strong>: Maybe someone wasn't taking their hormones.</p>
+<p><strong>Catherine</strong>: Or they were taking some bad Mexican bootlegs. Now, that is more than a five o'clock shadow.</p>
+<p><strong>Robbins</strong>: It's a myth that hair grows after death. What happens is, the skin contracts, revealing whiskers.</p>
+<p>(Quick CGI POV of: Extreme close-up of the chin and hair getting longer as the skin contracts.)</p>
+<p><strong>Robbins</strong>: (V.O.) Contraction of the erector pilae muscles, combined with fixed lividity, indicates time of death was at least two days ago.</p>
+<p>(End of CGI POV. Resume to present.)</p>
+<p><strong>Catherine</strong>: So she died before Wendy.</p>
+<p><strong>Robbins</strong>: Yeah, sad as this is, it presents as accidental. Loss of blood due to hemorrhaging. Pelvic artery was severed. My theory: Surgery one, they botched. Round two, they repaired her to death.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB - NIGHT]</p>
+<p>(Catherine takes out the various items taken from the operating table in the storage unit - the latex gloves, gauze and other items - all bloodied.) </p>
+<p>(She finds an item rolled up in some gauze. She unrolls it and finds a tartar control toothpaste tube inside a rubber glove.)</p>
+<p>(Using a magnifying glass, she finds a bloodied finger print on the toothpaste tube.) </p>
+<p>CUT TO:<br />
+(In the DNA Lab, Mia inverts the latex glove. She looks inside.)</p>
+<p>(Quick camera zoom into the glove: Inside the glove are drops of sweat. Resume to present.)</p>
+<p>(Mia takes a swab of the drops from inside the glove. She puts it in the test tube.)</p>
+<p>CUT TO:<br />
+(Nick is working on the computer. He puts a digital scan of the woman found on the operating table under &quot;JOHN DOE&quot;, CASE NO: 041118-28765S. He digitizes the fingerprints from the body and runs it through AFIS. He finds one match to:<br />
+VERN SALDUSKY<br />
+LAST KNOWN ADDRESS:<br />
+THE COCKPIT LOUNGE<br />
+87225 BUDLONG AVE. LV<br />
+ALIAS: TAWNY, PEACHES, VAVA --</p>
+<p>(Nick nods.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]</p>
+<p>[INT. THE COCKPIT LOUNGE - NIGHT]</p>
+<p>(Nick and Grissom walk into the Cockpit Lounge. They walk up to the bartender.)</p>
+<p><strong>Nick</strong>: Hi. Do you know a Vern Saldusky, aka Tawny, Peaches, Vava? </p>
+<p><strong>Bartender</strong>: One second, Honey.</p>
+<p>(Grissom smiles. Nick appears out of his league. He looks around the bar.)</p>
+<p><strong>Nick</strong>: Okay.</p>
+<p>(The Bartender returns.) </p>
+<p><strong>Bartender</strong>: You want to talk to Mercedes. She's in the back.</p>
+<p><strong>Grissom</strong>: Thank you.</p>
+<p><strong>Bartender</strong>: You're welcome.</p>
+<p><strong>Nick</strong>: Thanks.</p>
+<p>(Grissom turns and heads for the back. Nick follows him.) </p>
+<p>[INT. THE COCKPIT LOUNGE - BACK ROOM - NIGHT -- CONTINUOUS]</p>
+<p>(On their way to the backroom, they see a lot of sights - various people sitting and talking as well as standing around watching them.) </p>
+<p>(In the backroom, they find a woman sitting in front of a vanity mirror injecting herself in the face. Another pair of women are injecting each other in the face.) </p>
+<p><strong>Nick</strong>: I've never seen junkies shoot up in the face before.</p>
+<p><strong>Woman</strong>: It's not smack, it's silicone. Gives you good cheek bones.</p>
+<p><strong>Mercedes</strong>: The ones who can't buy silicone ... shoot motor oil.</p>
+<p><strong>Nick</strong>: Do they?</p>
+<p><strong>Mercedes</strong>: Calm down, pretty boy. We're not the monsters. The real freaks are the suit-and-ties want to take a walk on the wild side -- before sneaking back to the wife and kids. Want to go?</p>
+<p><strong>Nick</strong>: (shakes his head) Mm-mm.</p>
+<p><strong>Grissom</strong>: (interrupts) Mercedes, I presume? We're with the Las Vegas Crime Lab, and we're looking for somebody.</p>
+<p><strong>Mercedes</strong>: Isn't this where you say my P.O. would be interested to know that I'm hustling, and you ask for a freebie?</p>
+<p><strong>Grissom</strong>: I'm actually not interested in your ass, but the person we're looking for is a human butcher who might be.</p>
+<p><strong>Mercedes</strong>: I'm listening.</p>
+<p><strong>Grissom</strong>: The game is helping transgenders who have been turned down for surgery.</p>
+<p>(Mecedes motions to them to step aside with her.) </p>
+<p><strong>Mercedes</strong>: You want Benway. Benway did my transition, but something went wrong. And now I can't be a man or a woman. Want to see?</p>
+<p><strong>Nick</strong>: No. No, that's all right.</p>
+<p><strong>Mercedes</strong>: No, it's not all right. He keeps canceling my corrective surgery.</p>
+<p><strong>Grissom</strong>: That may be why you're still alive.</p>
+<p><strong>Mercedes</strong>: A friend of mine had to go back four times. Finally, he fitted her with a colostomy bag. Benway felt so bad, he hooked it up for free. </p>
+<p><strong>Nick</strong>: Where can we find this humanitarian?</p>
+<p><strong>Mercedes</strong>: Bulgaria, Romania, Bosnia -- one of the &quot;ias&quot;, I don't know. He flies in and flies out. No one's ever seen him. He shows up as you go under, and splits before you come to.</p>
+<p><strong>Nick</strong>: Do you know Vern Saldusky?</p>
+<p><strong>Mercedes</strong>: You mean Tawny? Yeah, Benway just did her.</p>
+<p>CUT TO:<br />
+[INT. CSI - BREAK ROOM - NIGHT]</p>
+<p>(Catherine walks into the Break Room to report to Sara and Warrick. She looks down at the open file folder in her hands.) </p>
+<p><strong>Catherine</strong>: Jacqui got an AFIS hit off the bloody fingerprint from the toothpaste tube found in Vern's v*g1n*.</p>
+<p><strong>Sara</strong>: Wow.</p>
+<p><strong>Catherine</strong>: Came back a Dr. Karl Benway, military service.</p>
+<p><strong>Warrick</strong>: Well, we found out that this creepy looking thing is an abdominal retractor, used to keep the cavity open during surgery.</p>
+<p><strong>Sara</strong>: It's only sold in surgical supply stores. And other than hospitals, the only individual who's purchased one in the last year and a half in Las Vegas, Nevada, is Dr. Karl Benway.</p>
+<p>(Nick and Grissom step into the Break Room.) </p>
+<p><strong>Nick</strong>: We know the name of the butcher.</p>
+<p><strong>Catherine / Warrick / Sara</strong>: (together) Benway.</p>
+<p>(Grissom looks at all of them.) </p>
+<p><strong>Grissom</strong>: Okay. What do you know about him, and do we have an address?</p>
+<p><strong>Sara</strong>: Total dead end-- he's not registered with the AMA; he's not in the DMV database; he has no passport issued in the State of Nevada.</p>
+<p>(Greg walks to the hallway headed straight for the Break Room.) </p>
+<p><strong>Catherine</strong>: So we've got a non-doctor who served in the military who doesn't drive and never leaves the country.</p>
+<p><strong>Greg</strong>: Sara, you asked for some ... research. Microfiche. Medical Journals. The stacks. There's not a lot on this guy, but this is what I've been able to find.</p>
+<p>(Greg tosses the stack of photos on the table. Catherine looks through them.)</p>
+<p><strong>Greg</strong>: Vietnam vet -- served as medic. Then it looks like he did a short stint with the sanctuary alliance in Ghana.</p>
+<p>(As she finishes them, she hands them to Grissom.) </p>
+<p><strong>Greg</strong>: He goes from Ghana to Mexico, where he's arrested and deported for performing illegal abortions.</p>
+<p>(Grissom finds the mug shot of a man holding a board that reads:<br />
+SALTILLO<br />
+COAMULA DE GARAGOZA<br />
+173120-<br />
+NOMBRE: KARL BENWAY<br />
+PECHA: 02/05/79\<br />
+TYPO DE ***: ABORTE ILEGAL</p>
+<p>(There's something about the photo that has Grissom looking at it a little more closely.)</p>
+<p><strong>Sara</strong>: Was his medical license revoked?</p>
+<p><strong>Greg</strong>: No. Benway never went to medical school.</p>
+<p>(Grissom sees the next photo and recognizes Benway immediately.)</p>
+<p><strong>Greg</strong>: In 1983, he was arrested for protesting outside the Supreme Court. </p>
+<p>(Grissom looks at the photo from the Anti-Nuclear Rally. This Benway is instantly recognizable.) </p>
+<p><strong>Greg</strong>: 1987, San Francisco Chronicle article. He was interviewed at an anti-nuke rally.</p>
+<p><strong>Grissom</strong>: -- and photographed. You know what? I believe Dr. Lavalle ... is Dr. Benway.</p>
+<p>FADE OUT.</p>
+<p>FADE IN.</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- NIGHT] </p>
+<p>(Brass and Grissom interview Mona Lavalle - a.k.a. Karl Benway.) </p>
+<p><strong>Brass</strong>: Boy, you must get pretty jet-lagged flying back and forth to Bulgaria. Or is it Romania ... Karl?</p>
+<p><strong>Mona Lavalle (Karl Benway)</strong>: I haven't been Karl Benway for a very long time.</p>
+<p><strong>Brass</strong>: Yeah, like three days ago, when you killed Vern Saldusky at the E-Z Access Storage Unit? That's a hell of a place for an operating room. I mean, why not go all the way and use the men's room at the bus station?</p>
+<p><strong>Grissom</strong>: We found your fingerprint there.</p>
+<p><strong>Mona Lavalle (Karl Benway)</strong>: I never said I wasn't there. I attended Vern's surgery. He was ... terrified. I tried to calm him.</p>
+<p><strong>Brass</strong>: Can't get any calmer than dead.</p>
+<p><strong>Mona Lavalle (Karl Benway)</strong>: I'm a counselor.</p>
+<p><strong>Brass</strong>: (sighs) Is that how your fingerprint ended up on a three-day-old v*g1n*? Counseling?</p>
+<p>(Quick flashback to: [E-Z ACCESS STORAGE UNIT] During surgery, Mona Lavalle works with the tubing, her hands bloodied. End of flashback. Resume to present.) </p>
+<p><strong>Mona Lavalle (Karl Benway)</strong>: I've devoted my life to helping those who are cast out by gender prejudice. Where would these souls be without me? Who will stand in judgment? As to who's a candidate and who's not. Dr. Mercer? I was the only one willing to help them. I was nineteen in the rice paddies of Vietnam ... sewing legs back on grunts. (She stands up.) I performed abortions in Mexico ... on rape victims when the church turned its back on them. I have been doing gender reassignment surgery for ten years.</p>
+<p><strong>Grissom</strong>: You've been performing surgeries without a medical degree ... doctor. </p>
+<p><strong>Brass</strong>: How many Vern's have there been?</p>
+<p><strong>Grissom</strong>: How many Wendy's?</p>
+<p>(She sits back down.) </p>
+<p><strong>Mona Lavalle (Karl Benway)</strong>: Vern was an unfortunate tragedy. I have no idea what happened to Wendy.</p>
+<p><strong>Brass</strong>: She saw you with Vern. So you killed her, so she wouldn't expose you.</p>
+<p><strong>Mona Lavalle (Karl Benway)</strong>: That's impossible. After I saw Wendy at the clinic, I went straight to my daughter's soccer game. I have nothing more to say.</p>
+<p><strong>Grissom</strong>: We need you to say &quot;ahh.&quot;</p>
+<p>(He holds out a swab.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY - NIGHT]</p>
+<p>(Catherine and Mia walk through the hallway.) </p>
+<p><strong>Mia Dickerson</strong>: So, I heard Brass arrested Dr. Lavalle, who is really Dr. Benway?</p>
+<p><strong>Catherine</strong>: Mm-hmm.</p>
+<p><strong>Mia Dickerson</strong>: Which means her DNA is male.</p>
+<p><strong>Catherine</strong>: Right.</p>
+<p><strong>Mia Dickerson</strong>: In one of the latex gloves at the storage facility, I found female DNA.</p>
+<p><strong>Catherine</strong>: Well, Vern was a male, and Dr. Lavalle was a male.</p>
+<p><strong>Mia Dickerson</strong>: So the doctor had help.</p>
+<p>(They walk out of camera frame.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]</p>
+<p>[INT. LEPIDRO CLINIC - LIVING ROOM - NIGHT] </p>
+<p>(Nick and Warrick are in the living room looking around. Francis is heard off screen struggling with a couple of officers.) </p>
+<p><strong>Francis</strong>: (o.s.) This is absurd! This is ridiculous! What you have done to my wife is disgraceful! You're not gonna find anything here!</p>
+<p><strong>Warrick</strong>: Officer, could you escort this man outside.</p>
+<p><strong>Francis</strong>: This is discrimination. We are normal people, trying to live a normal life.</p>
+<p>(The officers take Francis outside. Nick notices something.) </p>
+<p><strong>Nick</strong>: I think we have a spitter, my friend.</p>
+<p>(Off screen, the door closes.) </p>
+<p><strong>Warrick</strong>: Really?</p>
+<p><strong>Nick</strong>: Oh, yeah.</p>
+<p>(Nick takes out his flashlight and definitely finds a spot of spit on the table.) </p>
+<p><strong>Warrick</strong>: I'll check the back.</p>
+<p><strong>Nick</strong>: All right.</p>
+<p>(Nick takes a swab sample of it.)</p>
+<p>(Cut to: Warrick goes into the Utility Room and looks into the cabinets. He finds vials of a clear liquid. He also finds a camcorder video cartridge, its film pulled out.)</p>
+<p>(Quick flashback to: [NIGHT] Someone struggles to remove the video film cartridge from the camcorder. End of flashback. Resume to present.)</p>
+<p>[EXT. LEPIDRO CLINIC - FRONT DRIVEWAY - DAY] </p>
+<p>(While Nick watches, Amber and Tippy get out of the car to find the police in their driveway.) </p>
+<p><strong>Francis</strong>: (shouts) Take her home! Would you ... just get her out of here!</p>
+<p>(Francis struggles against the Officer's hold on him.)</p>
+<p><strong>Francis</strong>: (scathing) (to Officer) Can I take care of my daughter, please?</p>
+<p>(Francis walks up to Tippy.) </p>
+<p><strong>Amber Hamshaw</strong>: Francis, what is going on?</p>
+<p><strong>Tippy</strong>: Daddy, what's going on?</p>
+<p><strong>Francis</strong>: It's okay, honey. Amber's gonna take you home.</p>
+<p><strong>Tippy</strong>: I want to go with you.</p>
+<p><strong>Francis</strong>: I know.</p>
+<p><strong>Tippy</strong>: Where's Mommy?</p>
+<p><strong>Francis</strong>: Mommy's gonna be right back.</p>
+<p><strong>Amber Hamshaw</strong>: I can't take her. I have the night shift at the hospital. Fr ...</p>
+<p><strong>Francis</strong>: She shouldn't be seeing this. She's your kid, too. Take some responsibility.</p>
+<p><strong>Amber Hamshaw</strong>: Okay, fine.</p>
+<p><strong>Francis</strong>: Good.</p>
+<p>(Francis turns away; Amber drops the cigarette she's smoking onto the driveway and puts it out with the toe of her shoe. Nick notes the move.) </p>
+<p>(Amber goes back to help Tippy into the car.)</p>
+<p><strong>Amber Hamshaw</strong>: (o.s.) Put your belt on. Come on, can you pull it?</p>
+<p>(Nick walks up to the cigarette on the driveway.) </p>
+<p><strong>Amber Hamshaw</strong>: (o.s.) Get out of the way.</p>
+<p>(Camera zooms in on the lipstick on the tip of the still-smoking cigarette.) </p>
+<p>CUT TO:<br />
+[INT. CSI - INTERVIEW ROOM - NIGHT]</p>
+<p>(Nick holds out the cigarette in an evidence bag and shows it to Amber.) </p>
+<p><strong>Amber Hamshaw</strong>: I don't understand why I'm here.</p>
+<p><strong>Nick</strong>: Well, you're here because I compared your DNA from this cigarette butt to sweat recovered from the inside of a latex glove at the crime scene.</p>
+<p>(Amber closes her eyes.)</p>
+<p>(Quick flashback to: [E-Z ACCESS STORAGE UNIT] Amber is inside the storage unit assisting with the surgery on the woman on the table. The heart monitor gives a steady tone.) </p>
+<p><strong>Amber Hamshaw</strong>: Look! She's bleeding out! Busted artery!</p>
+<p>(Sweat forms on Amber's forehead, drops and falls into her latex glove.) </p>
+<p><strong>Nick</strong>: Ms. Hamshaw ... Dr. Lavalle was performing illegal surgeries, and you were assisting. Now, why would you be involved with something like that?</p>
+<p><strong>Amber Hamshaw</strong>: Mona and Francis helped me clean up. They gave me money to be a surrogate mom for Tippi and got me my RN degree. They're family.</p>
+<p><strong>Nick</strong>: So Tippi has two dads and one mom?</p>
+<p><strong>Amber Hamshaw</strong>: Actually, it's two moms and a dad.</p>
+<p><strong>Nick</strong>: Okay, tell me about Wendy Garner.</p>
+<p><strong>Amber Hamshaw</strong>: Her procedure was completely successful.</p>
+<p><strong>Nick</strong>: Well, right up till her death.</p>
+<p><strong>Amber Hamshaw</strong>: I had nothing to do with that. I was at Tippi's soccer game with Mona.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB - NIGHT]</p>
+<p>(Greg dusts the video film and lifts off a fingerprint. He scans the print into the computer.)</p>
+<p>(Cut to: Archie fixes the video cartridge and pops it into the machine. He reviews the film with Warrick.) </p>
+<p>[FROM VIDEO]</p>
+<p>(The video footage is fuzzy, but it shows Wendy Garner's bridal shower.) </p>
+<p><strong>Woman 1</strong>: (from video) Okay, now what's next? <strong>Woman 2</strong>: (from video) I don't know. WOMAN 3: (from video) We've got Belle. WENDY GARNER: (from video) Okay. Belle. Belle. That's so sweet...</p>
+<p>(The video footage changes and shows the storage unit. The woman on the table is already dead and everyone's gone.)</p>
+<p><strong>Wendy Garner</strong>: (crying) (o.s. from video) Oh, my God, what is this? How could you do this? I just wanted you to keep my secret from Aaron, not this. I trusted you. How could you just leave her like this? </p>
+<p>(The video footage shows the body on the table, the bloody instruments and abandoned surgical trash.) </p>
+<p><strong>Wendy Garner</strong>: (o.s. from video) (moans) So much blood.</p>
+<p>(The video footage cuts back to the bridal shower.) </p>
+<p><strong>Wendy Garner</strong>: (from video) I mean, this day means so much to me. And to have girlfriends like you, it's just amazing. </p>
+<p>(Archie pauses the video.) </p>
+<p><strong>Archie Johnson</strong>: Thirty seconds of mutilation recorded over a bridal shower.</p>
+<p><strong>Warrick</strong>: She told her best friend and Officer Mann that she had some videos to show. I think she must have been trying to expose Lavalle.</p>
+<p>(Warrick's phone rings. He answers it.)</p>
+<p><strong>Warrick</strong>: Brown. Really? Thanks. (He hangs up.) That was Brass. Ten soccer moms confirm they saw Dr. Lavalle and Amber Hamshaw at the soccer game the night Wendy was killed. Another dead end.</p>
+<p>(Greg walks into the lab.) </p>
+<p><strong>Greg</strong>: Those fingerprints on the video tape you recovered? We got a match.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - NIGHT]</p>
+<p>(Catherine interviews Francis.) </p>
+<p><strong>Catherine</strong>: Wendy's video tape ... your fingerprint. </p>
+<p><strong>Brass</strong>: Doctor, help me understand something. Wendy videotaped the storage area, threatening to expose your wife's &quot;good work&quot; because your wife was threatening to tell Wendy's fiancee that she's not what she appears to be. </p>
+<p>(Brass sits down.) </p>
+<p><strong>Brass</strong>: But the three of you were still getting it on.</p>
+<p><strong>Francis</strong>: I beg your pardon?</p>
+<p><strong>Catherine</strong>: Based on the DNA that we found in Wendy's cheek, you were swapping spit with her, and your wife was swapping something else with her.</p>
+<p><strong>Brass</strong>: Now we know that post-ops can't ejaculate. So the only way I can explain the semen in Wendy's mouth is your wife is still packing.</p>
+<p><strong>Francis</strong>: Yes, and I performed fellatio on my wife ... after lunch. Is that a crime? I have no idea how anything got into Wendy's mouth. My wife and I did not cheat. (He looks at them.) You don't get it, do you? Because we're different. We still love. We still honor.</p>
+<p><strong>Brass</strong>: Is that why you hacked out Wendy's Adam's apple? Love and honor? You went back to the storage area to get rid of Vern's body. You saw Wendy leaving.</p>
+<p>(Quick flashback to: [EXT. STORAGE UNIT - NIGHT] Wendy runs out of the storage unit with the camcorder in her hand. She looks around. She gets into her car and starts her car engine.)</p>
+<p>(In the car nearby, Francis watches her as she pulls out.) </p>
+<p>(Cut to: Officer Mann drives away. Again, Francis watches from his parked car. He follows Wendy.) </p>
+<p><strong>Wendy Garner</strong>: (o.s. to phone) Mimosa, look, it's me. I need your help, okay? I have these videos and I have to show you them. You're never going to believe what's on them. These people ... they have to be stopped.</p>
+<p>(While Wendy is on the phone, Francis pulls up alongside her and runs her off the road. He gets out of the car and runs up to Wendy, who is standing outside her car. He attacks her.) </p>
+<p><strong>Francis</strong>: (angry) How dare you?! </p>
+<p>(Francis pushes Wendy back into the car.) </p>
+<p><strong>Francis</strong>: (angry) You don't appreciate anything she does for you!</p>
+<p>(He takes out a knife and slits her throat. He picks up the camcorder and rips out the video tape, throwing the recorder off to the side.) </p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Francis</strong>: I tried to protect my wife's work. Not just for us. For all the people like us. </p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY - NIGHT]</p>
+<p>(Catherine and Sara walk through the hallway.) </p>
+<p><strong>Catherine</strong>: So the man admits to murder but not infidelity. </p>
+<p><strong>Sara</strong>: Well, maybe he wasn't unfaithful. You know, I read a paper in the JFS documenting a case where a woman kissed a man, who had smoked a cigarette. When they tested the cigarette butt, they found both their DNA on it.</p>
+<p><strong>Catherine</strong>: So you're saying it was transfer?</p>
+<p><strong>Sara</strong>: Well, if Francis gave his wife fellatio shortly before he killed Wendy, it's possible that some of the semen was still in his mouth, and it got transferred onto her through his spit.</p>
+<p>(Quick flashback to: [STRUGGLE] Francis struggles with Wendy. Spit flies out of his mouth.)</p>
+<p>(Camera zooms in close-up to the spit.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Right.</p>
+<p><strong>Sara</strong>: Don't you think?</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE -- NIGHT] </p>
+<p>(Grissom meets with Mimosa.) </p>
+<p><strong>Grissom</strong>: I thought you'd want to know what happened to Wendy.</p>
+<p><strong>Mimosa</strong>: I appreciate your telling me. Killed by someone in our own community. As if we don't have enough enemies. Her parents never understood her, but still I think they should know. What do I say?</p>
+<p><strong>Grissom</strong>: Show them an oyster.</p>
+<p><strong>Mimosa</strong>: I'm sorry?</p>
+<p><strong>Grissom</strong>: There are two types of male oysters, and one of them can change genders at will. And before man crawled out of the muck, maybe he had the same option. Maybe originally we were supposed to be able to switch genders, and being born with just one s*x ... is a mutation.</p>
+<p>FADE TO BLACK</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
-
- 
-
-
- 
- 
-Wendy Garner: Officer ... thank God you're here.
-Officer Mann: You know why I stopped you?
-Wendy Garner: Yeah, I ... I ... I was speeding, uh ... of course, but you have to understand, you see, someone is chasing me.
- 
-Wendy Garner: You see, I have videos. 
-Officer Mann: I bet you do. Let's start with license and registration.
-Wendy Garner: Officer, if I could ... if I could just show you.
-
-
- 
-
- 
- 
-Catherine: Found a camcorder. No tape inside.
- 
-Catherine: Not much traffic. Makes it a lot easier to run someone off the road ...  ... and slash their throat.
- 
-Grissom: She was slashed south of the border, as well.
- 
-Catherine: Women in convertibles are low-hanging fruit.
-Grissom: -- And it was a top-down night.
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
- 
-David Phillips: That's a nice ring. It's at least four carats. 
- 
-David Phillips: We've been shopping.  Lots of surgical procedures here: Artificial breasts, cheek implants ... collagen lips ... you'd be surprised how many women I get on this table with fake parts.
-Catherine: Plastic lasts longer.
-
-
-
-
-
-Warrick: Wow. Mascara, tweezers ... under-eye cream ... ... neck-firming lotion.  Girls. Pads ... one, two, three, four jars of depilatory cream?
-Sara: That's a lot of bikini wax. Some girls hate the nether-stubble.
-Warrick: Nether-stubble?
-
-Sara: Swipe card. Entertainment Department, Tangiers.
-
---733 EXPIRES 04-14-2007
-CLANCY, WALTER
-1712 MOUNTAIN VISTA
-LAS VEGAS, NV 89101
-Warrick: Well ... Walter Clancy didn't mind stubble.
-Sara: Who's Walter?
-(Warrick looks at the registration papers:
-BODY TYPE MODEL
-THUNDERBIRD G
-TYPE VEHICLE USE / DATE
-AUTOMOBILE / 02/11/--
-REGISTERED OWNER
-CLANCY, WALTER
-1712 MOUNTAIN VISTA
-LAS VEGAS NV 89101
-Warrick: The registered owner of this vehicle.
- 
-Sara: So she either borrowed this car ... or she stole it.
-
-
-
-Robbins: Genital wounds were more profound than I expected.
-Grissom: Profound how?
-Robbins: Well, I was looking for ovaries and I found a prostate.
- 
-Catherine: &quot;She&quot; was a &quot;He&quot;?
-Robbins: &quot;She&quot; had genital reassignment surgery.
-Catherine: And what does that mean exactly?
-Robbins: Exactly? Her testicles were removed and her pen1s was inverted, creating a v*g1n*.
-Grissom: And, evidently, the killer kept subtracting.
-Catherine: Subtracting what?
-Grissom: Well, they don't call it an Adam's apple for nothing. A man with issues might become upset if he found one on his woman. Cause?
-Robbins: Severed carotid and jugular complex. Uh, incised wounds are almost surgical in nature. Used an extremely sharp weapon. Vicious attack. Probably from someone emotionally involved.
-Grissom: Time?
-Robbins: Best estimate, between 8:00 and midnight. I collected a standard SAE kit.
-Catherine: Good. Because top or bottom, this looks like a sexual assault that turned into a hate crime.
-
-
-
-Officer Mann: Clocked the Thunderbird doing ninety. I nail it. The skirt driving tells me she's being chased. And then she asks if she can show me some videos.
-Brass: How were they?
-Officer Mann: I didn't bite. She was working it.
-Brass: Rough duty.
-Officer Mann: Look, she gave me this lame story about the car being her brother's, and that she had lost her license, but she has his license, and yakety-yak. I just let her off with a warning.
-Brass: So you had speeding, driving without a license, possible stolen vehicle, and you let her off with a warning.
-Officer Mann: What are you implying?
-Brass: She got off pretty easy. How about you?
- 
-Officer Mann: I resent that.
-Brass: Well, I'm sure that she resented being sexually harassed and slaughtered two miles from the place you pulled her over!
-Officer Mann: I didn't know about that until you called me in here.
-Brass: You know, you have a sexual harassment flag in your file.
-Officer Mann: Oh, so that makes me a s*x murderer?
- 
-Officer Mann: I know a place about two miles up. It's a little more private.
- 
-Brass: I mean, you know, if ... if I found out that the gal who was stripping my gears was a guy, I mean, I'd be mad, too.
-(Quick flash to:  Officer Mann is kissing Wendy Garner. He reaches down her body ... 
-Officer Mann: What are you?!
-
- 
-Brass: Or maybe you prefer a stick.
- 
-Officer Mann: I told you, nothing happened.
-Brass: You're on administrative duty until we confirm that. You mind submitting your DNA?
-Officer Mann: Just tell me where to spit.
-
-
- 
-Catherine: Ran her prints through AFIS and I got two hits. A Wendy Garner was a dancer at the Tangiers, and Walter Clancy, a blackjack dealer at the Riviera in the mid-'90s.
- 
-Archie Johnson: Okay, let's give this a shot.
-Catherine: The coroner noted that she had collagened lips.
- 
-Catherine: Okay, so 86 those cheek implants.
- 
-Catherine: Now, estrogen would've rounded out the face, so square that jaw.
-Archie Johnson: Got that. I'm gonna give her a haircut. Add some whiskers ...
- 
-Warrick: Wow. Take away the, uh ... eye makeup ... fix the eyebrows.
-Catherine: Well, one thing's for certain: Walter didn't kill Wendy.
-Warrick: No, it's more like Wendy killed Walter.
-
-
- 
-Mia Dickerson: Okay, Wendy's mouth had two foreign DNA donors: One seminal, one saliva. Neither was a match for Officer Mann.
-Sara: Huh.
- 
-Mia Dickerson: Wow. That is some rock. Platinum setting. Princess cut. Somebody really loved her-- oh-- him.
-Sara: I think &quot;She's&quot; a &quot;Her&quot;. 
-Mia Dickerson: Right. Well ... a diamond that big, you hope she had it lojacked. 
-Sara: That is what I'm counting on. 
-
-
-Sara: There's a serial number micro-etched into the band around the diamond --
-I'm hoping it gets me a groom.
- 
-Mia Dickerson: You know, I once heard this story about this man who became a woman because he was obsessed with a lesbian ... who was really a man.
- 
-Mia Dickerson: Overshare.
-
-
-
-
-
-Aaron Laner: Wendy just bought her wedding gown. She, uh, she would've been a beautiful bride. 
- 
-Aaron Laner: We just wrote our wedding vows last week. I just figured that she was at a friend's house -- a girlfriend's house -- for the night.
-Grissom: Mr. Laner, how long had Wendy been a dancer?
- 
-Aaron Laner: About two or three years in the line. I mean, never topless. But, uh, in her costume, she was a vision.
-Brass: How long had you known each other?
-Aaron Laner: About a year. We met in a grief support group. I'd lost my wife.
-Grissom: Sorry for your loss.
-Aaron Laner: Thank you.
-Grissom: Who was Wendy grieving for?
-Aaron Laner: Uh, she'd ... lost her twin brother.
- 
-Brass: Would that be Walter?
-Aaron Laner: Yeah, Walter. Did you know him?
-Brass: Sort of.
-
-
-
- 
-(She opens the medicine cabinet and finds over a half-dozen prescription bottles on the shelf. On the inside of the cabinet door are a couple of yellow post-it notes. The upper post-it reads:
-4X W/MEALS
-Yellow - morning on empty stomach
-Blue - 2 before bed
-Green - 1 before dinner
-White - Morning w/food
-Pink - 1 before bed
-White  1 before breakfast
-Yellow  2 before bed
-
-(Sara removes the post-it note and puts it in a bag. The second post-it note reads:
-G-105
-SECTION E
-21 - 33 - 14
-
-
-
- 
-Sara: Mr. Laner, I need to ask you a personal question, if you don't mind -- it may help us. Did you and your fiancée sleep in separate beds?
- 
-Aaron Laner: Uh ... we were an old-fashioned couple. Neither of us believed in premarital sexual relations. I mean, that's why I fell in love with her, because of her traditional values.
-
-
- 
- 
-Grissom: This is confusing.
-Brass: She had her period?
-Grissom: Impossible. No uterus, no period.
-Brass: So a guy desperate to change his s*x hooks up with a guy desperate not to have any.
-Grissom: A match made in heaven.
-Sara: I think we need to tell Mr. Laner the truth.
-Grissom: Are we sure he doesn't know?
-
-
-
-
- 
- 
- 
- 
-Stage Manager: All right, this way.
- 
-Grissom: Aborigines say they dance naked to make the gods happy.
-Catherine: The gods would be happy in Vegas.
- 
-
-Grissom: Did you ever see any transsexuals when you danced?
-Catherine: Gil, only civilians confuse strippers and showgirls. You can't cheat the full monty.
-
-
- 
-Stage Manager: That's Wendy's station over there.
-Catherine: Thank you.
- 
-Catherine: Hello, ladies.
-Showgirl: Hi, honey.
-Catherine: I'm Catherine Willows. This is Gil Grissom. We're with the crime lab. Do any of you know if Wendy Garner worked last night?
-Pink: No, she had the day off. But she should be working tonight. And she is late. That's not like her.
-Purple: Why, did something happen to Wendy?
-Catherine: Unfortunately, she was found dead last night.
-Pink: It was all those hormones she was taking, wasn't it?
-Purple: Shut up. What do you know?
-Grissom: Do you know that Wendy was a, uh ... ?
-Purple: Trannie? All the best showgirls are.
-Pink: Yeah, and it don't matter if they're packin' a lop job or a gaff.
-Grissom: Okay, lop job I get. What's a gaff?
-Mimosa: It's like a jockstrap, only it hides what it's supposed to strap. 
-Purple: We all get work done. Who cares if it's up north or down south? Pretty's pretty.
-Catherine: So do you know where she got her work done?
-Purple: You want the best, you go to Dr. Mercer.
-
-
-
- 
-Bev: Okay, so on tonight's agenda, we're going to be talking about hair removal, gait, and we'll do our pride walk, hormones, and voice pitch ... 
- 
-Bev: Ladies, come on. Over here. Now, regarding hair removal ...
-Warrick:  Are they all women?
-Dr. Mercer: The ratio of MTFs to FTMs is four to one.
-Catherine: Males to females rather than females to males?
-Dr. Mercer: Bev is one of my patients.
-Bev: Right. Now, who hasn't done their pride walk?
-Woman In Group: I haven't.
-
-
- 
-Dr. Mercer: The law requires re-gender candidates to spend one year on hormones and one living as the s*x of preference. Wendy wanted to fast-track the process and I wouldn't do that.
-Catherine: I guess she found somebody who would.
-Dr. Mercer: Every field has its bottom feeders. Surgery is the easy part. Life afterwards is the challenge. Some candidates get depressed. They're unhappy about their lives and they think surgery is going to chase away all their emotional problems.
-Warrick: Dr. Mercer, Wendy didn't commit suicide. She was killed.
-Dr. Mercer:  Oh, God. I am so sorry. As ready as my patients are for the world, I guess the world isn't always ready for them.
-
-
- 
-Sara: Hey.
-Mia Dickerson: Hey.
-Sara: Anything on those pads I collected?
-Mia Dickerson: Uh, yeah, traces of EDTA.
-Sara: Isn't that an anticoagulant?
-Mia Dickerson:  Yeah. Used in blood-collection vials.
-Sara: So it wasn't the victim's blood?
-Mia Dickerson: No, it was hers. His?
-Sara: Hers.
-Mia Dickerson: But no epithelials or fibrinogen, so clearly it wasn't menstrual.
-Sara: So Wendy was having blood drawn and putting it on pads? 
-Mia Dickerson: She ... was faking her period.
- 
- 
-Mia Dickerson: What I don't get is why she would do that.
-Sara: Well, she was living as a woman, and that's part of it. I-I don't know.
-Mia Dickerson: Yeah, but you don't draw your own blood. I mean, she had to have help.
-Sara: Maybe the same doctor that was keeping her medicine cabinet filled.
-
-
- 
-Greg: Hey, these are the pills Eric collected from Wendy Garner's bathroom. For the record, I really like having a pen1s.
- 
-Greg: Okay, the reds and blues are bootleg estrogen conjugates out of Mexico.
- Apparently, HMO's don't consider being differently sexed a life-threatening condition.
-Grissom: So patients resort to Mexican pharmacies.
-Greg: Premarin's green, a heavy-duty hormonal supplement. Name's short for &quot;Pregnant Mare Urine.&quot; Talk about your PETA nightmare.
-Grissom: What about these other pills?
-Greg: Mexican-grade painkillers, tranquilizers, and a broad-spectrum antibiotic. Sounds like a post-surgery cocktail to me.
- 
-Grissom:  Yes. Today? The Apple Martini, one o'clock. I'll be there. 
-Greg: Did you just get a lunch date?
- 
-
-
-
-
-Grissom: Hello.
-Mimosa: I'm glad you agreed to meet me. Can I buy you a drink?
-Grissom: Thanks, but I'm still on the clock.
-Mimosa: But you still let me lure you away from the lab. Is that because I'm a beautiful woman? Well, I'm a beautiful woman now.
-Grissom: Beauty is a societal construction.
-Mimosa: So is gender. People find out you're MTF, and they think you're psycho; Michael Caine with a bad wig and a pair of sunglasses stabbing Angie Dickinson in &quot;Dressed to Kill&quot;.
- 
-Mimosa: De Palma had some issues. You're an outsider. That's why I trusted you.  You get it. Don't worry, Mr. Grissom. This isn't about s*x. It's about soul.
-Grissom: What was it you that you wanted to trust me with?
-Mimosa: I loved Wendy. I was there with her through her whole transition. I was going to be her maid of honor. Do you know how hard it is for people like us to find love?
-Grissom: Do you know what happened?
-Mimosa: She called me, hysterical. Uh, I don't know. She kept going on about avideo tape or something.
-Grissom: What kind of tape, do you know? Blackmail? Pornography?
-Mimosa: p0rn?  Oh, my God. Wendy was such a prude, she'd cover the mirror when she got out of the shower.
-Grissom: People confuse your obsession with sexuality as an obsession with s*x.
- 
-Mimosa: Imagine being three years old, tormented by the sensation that you had the wrong parts. Your body's like a foreign country and you're stuck without a passport. All because in your first trimester your &quot;X&quot; and &quot;Y&quot; chromosomes split off and went different directions; girl brain, boy body.
-Grissom: It's like the Guiterman poem: Amoebas at the start were not complex; But then they tore themselves apart and started s*x.
-
-Mimosa: Well, in the beginning, Wendy's chromosomes might have been tearing themselves apart, but in the end, she was tearing herself apart.
-Grissom: Do you know why?
-Mimosa: I don't know. Planning a wedding, working a rookie v*g1n*, and about to lose her cherry to a man who doesn't know?
-Grissom: So she talked to you?
-Mimosa: She talked about it in group.
-Grissom: May I ask the name of your therapist?
-Mimosa: Dr. Lavalle.
-
-
-
-Mia Dickerson: Hey, I've been looking for you.
-Warrick: You found me.
-Mia Dickerson: I analyzed the blood on the shoes you gave me. I expected it to be Wendy's blood. It's not hers and it's not Officer Mann's.
-Warrick: So it might be the killer's.
- 
-Warrick: Well, given the nature of this case, it might be misleading, but I'll ask anyway -- male or female?
-Mia Dickerson: One donor. All male.
-
-
-
- 
-Brass: Lepidro. What kind of name is that?
-Grissom: It's from Lepidoptera, meaning &quot;butterfly.&quot; Walter Clancy started out a gender-dysmorphic caterpillar and turned into a bloody butterfly.
-Brass: Love hurts.
-
- 
- 
-Amber Hamshaw: Bye-bye, scrumptious pumpkin.
-Tippi: Bye, Amber.
-
-Brass: Dr. Lavalle?
-Francis: No, I'm Francis. My wife is the doc.
-Tippi: Grownups always do that.
-Francis: It's gender-stereotyping, honey.
-Brass: Okay, Francis. I'm Jim Brass, Las Vegas Police. This is Gil Grissom from the crime lab.
- 
-Francis: Well, if I'm being intrusive, please tell me, but, I mean, why are you here?
-Brass: Wendy Garner.
-Tippi: I know Wendy.
-Francis: She's a patient.
-Brass: She was a patient.
-Francis: My wife is in group.
- 
-
- 
-Ed: This is really frustrating. They don't get it. She is a beautiful woman now and I love her.
-Dina: Our pastor doesn't know.
-Mona Lavalle: You need to tell him. The truth goes a long way.
-Francis: Mona? These folks need to speak to you.
-Mona Lavalle: Eddie, would you take over?
-Ed: Sure.
-
- 
- 
-Mona Lavalle: In the sanctuary alliance I saw an eritrean girl who had her labia sewn shut. I looked into her eyes and I found a cause. Six thousand women a day suffer genital mutilation.
-Grissom: So you travel around the world treating the victims of sexual treachery?
-Mona Lavalle: You don't have to travel to find the genitally disenfranchised.
-Brass: Like Wendy Garner?
-Mona Lavalle: Wendy came to me. She was denied surgery. That's devastating. I tried to help her work through that.
-Grissom: By finding a doctor who would operate on her?
-Mona Lavalle: By working with her on what made her an unacceptable candidate.
-Grissom: Which was?
-Mona Lavalle: Patience.
-Brass: When was the last time you saw her?
- 
-Mona Lavalle: Last night. 7:00 to 8:00 for her individual consultation.
-Brass: How did she seem?
-Mona Lavalle: She was agitated. She was worried about whether her fiancée would receive her well on their wedding night.
-Brass: So he didn't know?
-Mona Lavalle: I don't recommend what we call &quot;passing.&quot; I suggested that Aaron come at a group. Wendy was adamant that he never know the truth.
-Grissom: Doctor, do you videotape your sessions?
-Mona Lavalle: No, never. That would violate the doctor-patient privilege.
-
-
-
-
-(Note that the monitor reads:
-WENDY JONES - HOUSE
-118 SUNSHINE LANE
-GREEN VALLEY, NV
-Nick: Wendy lived here at 118 Sunshine Road in Green Valley. 
-
-Nick: She left her weekly session with Dr. Lavalle at 8:00 P.M. here. Now, Officer Mann pulled her over on Industrial Road 24 minutes later.
- 
-Warrick: Well, she was found dead two miles south of there, supposedly on her way to her friend Mimosa's house here.
-Nick: Takes ten minutes to drive from the clinic to Industrial Road.
-Warrick: Yeah.
-Nick: Yeah. I had Greg run it.
-
-Warrick: Classic. Fourteen minutes of Wendy's time unaccounted for.
-Nick: That's what I'm saying. She must've stopped somewhere between the clinic and where Officer Mann clocked her doing ninety.
-Nick: Somewhere in this highlighted area.
-Warrick: Yeah, but there's nothing out there. 
-Nick: Not so fast. Sara found this in the medicine cabinet. It's a post-it.
- 
-Warrick:  &quot;G-105, Section E.&quot; What does that have to do with her medicine cabinet?
-Nick: Doesn't have anything to do with the medicine cabinet. I thought it was map coordinates or something like that, but it's not. You know what they have a lot of up in this area?
- 
-Nick: Storage facilities.
-
-
-
- 
-Warrick: What's the number again?
-Nick: G-105. Should be right down here.
- 
-Warrick: Hey, hey, watch your step. Watch your step. I got footprints.
-Catherine: Those look like bloody footprints.
-Warrick: Yeah.
-
-
-
-
-Warrick: Nick, hit the lights.
- 
-Warrick: Oh, God.
- 
-
-
-
-;
-
-
-DUE TO ADULT CONTENT, VIEWER DISCRETION IS ADVISED
-
-
- 
-
-
-(Catherine works inside the warehouse. She snaps photos of the body on the make-shift operating table.
-Nick: Catherine.
-Catherine: Yeah?
-Nick: What do you think went on here?
-Catherine: Someone outsourced their health care to the wrong provider.
- 
-Catherine: At least ... something was sterile.
-Nick: Maybe why I'm not getting any prints.
- 
-Brass: Hey.
-Nick: Hi, Jim.
-Brass:  So I, uh ... I talked to the manager. All he said was, the renter paid cash, he was a guy, he seemed normal.
-Catherine: Normal people don't torture people in storage bins.
-
-
-
-
- 
-Robbins: Piano wires. They're used to mobilize the lower part of the abdominal skin and anchor the neo-vagina, so it can heal in place.
-Catherine: I can only imagine those cramps.
-Robbins: The surgeon stuffs the portal with a cylinder wrapped in gauze to hold its shape while it heals, and sutures it.
-Catherine: And how long does milady have to wear a wire?
-Robbins: Well, after five days, the v*g1n* is un-sutured, and the wires are removed. Scarring indicates multiple surgeries.
- 
-Robbins: She appears to have gone in for repair due to infection.
-Catherine: I take it that wasn't supposed to happen.
-Robbins: Maybe someone wasn't taking their hormones.
-Catherine: Or they were taking some bad Mexican bootlegs. Now, that is more than a five o'clock shadow.
-Robbins: It's a myth that hair grows after death. What happens is, the skin contracts, revealing whiskers.
-
-Robbins:  Contraction of the erector pilae muscles, combined with fixed lividity, indicates time of death was at least two days ago.
-
-Catherine: So she died before Wendy.
-Robbins: Yeah, sad as this is, it presents as accidental. Loss of blood due to hemorrhaging. Pelvic artery was severed. My theory: Surgery one, they botched. Round two, they repaired her to death.
-
-
- 
-
- 
-
-
-
-
-
-(Nick is working on the computer. He puts a digital scan of the woman found on the operating table under &quot;JOHN DOE&quot;, CASE NO: 041118-28765S. He digitizes the fingerprints from the body and runs it through AFIS. He finds one match to:
-VERN SALDUSKY
-LAST KNOWN ADDRESS:
-THE COCKPIT LOUNGE
-87225 BUDLONG AVE. LV
-ALIAS: TAWNY, PEACHES, VAVA --
-
-
-
-
-
-Nick: Hi. Do you know a Vern Saldusky, aka Tawny, Peaches, Vava? 
-Bartender: One second, Honey.
-
-Nick: Okay.
- 
-Bartender: You want to talk to Mercedes. She's in the back.
-Grissom: Thank you.
-Bartender: You're welcome.
-Nick: Thanks.
- 
-
- 
- 
-Nick: I've never seen junkies shoot up in the face before.
-Woman: It's not smack, it's silicone. Gives you good cheek bones.
-Mercedes: The ones who can't buy silicone ... shoot motor oil.
-Nick: Do they?
-Mercedes: Calm down, pretty boy. We're not the monsters. The real freaks are the suit-and-ties want to take a walk on the wild side -- before sneaking back to the wife and kids. Want to go?
-Nick:  Mm-mm.
-Grissom:  Mercedes, I presume? We're with the Las Vegas Crime Lab, and we're looking for somebody.
-Mercedes: Isn't this where you say my P.O. would be interested to know that I'm hustling, and you ask for a freebie?
-Grissom: I'm actually not interested in your ass, but the person we're looking for is a human butcher who might be.
-Mercedes: I'm listening.
-Grissom: The game is helping transgenders who have been turned down for surgery.
- 
-Mercedes: You want Benway. Benway did my transition, but something went wrong. And now I can't be a man or a woman. Want to see?
-Nick: No. No, that's all right.
-Mercedes: No, it's not all right. He keeps canceling my corrective surgery.
-Grissom: That may be why you're still alive.
-Mercedes: A friend of mine had to go back four times. Finally, he fitted her with a colostomy bag. Benway felt so bad, he hooked it up for free. 
-Nick: Where can we find this humanitarian?
-Mercedes: Bulgaria, Romania, Bosnia -- one of the &quot;ias&quot;, I don't know. He flies in and flies out. No one's ever seen him. He shows up as you go under, and splits before you come to.
-Nick: Do you know Vern Saldusky?
-Mercedes: You mean Tawny? Yeah, Benway just did her.
-
-
- 
-Catherine: Jacqui got an AFIS hit off the bloody fingerprint from the toothpaste tube found in Vern's v*g1n*.
-Sara: Wow.
-Catherine: Came back a Dr. Karl Benway, military service.
-Warrick: Well, we found out that this creepy looking thing is an abdominal retractor, used to keep the cavity open during surgery.
-Sara: It's only sold in surgical supply stores. And other than hospitals, the only individual who's purchased one in the last year and a half in Las Vegas, Nevada, is Dr. Karl Benway.
- 
-Nick: We know the name of the butcher.
-Catherine / Warrick / Sara:  Benway.
- 
-Grissom: Okay. What do you know about him, and do we have an address?
-Sara: Total dead end-- he's not registered with the AMA; he's not in the DMV database; he has no passport issued in the State of Nevada.
- 
-Catherine: So we've got a non-doctor who served in the military who doesn't drive and never leaves the country.
-Greg: Sara, you asked for some ... research. Microfiche. Medical Journals. The stacks. There's not a lot on this guy, but this is what I've been able to find.
-
-Greg: Vietnam vet -- served as medic. Then it looks like he did a short stint with the sanctuary alliance in Ghana.
- 
-Greg: He goes from Ghana to Mexico, where he's arrested and deported for performing illegal abortions.
-(Grissom finds the mug shot of a man holding a board that reads:
-SALTILLO
-COAMULA DE GARAGOZA
-173120-
-NOMBRE: KARL BENWAY
-PECHA: 02/05/79\
-TYPO DE ***: ABORTE ILEGAL
-
-Sara: Was his medical license revoked?
-Greg: No. Benway never went to medical school.
-
-Greg: In 1983, he was arrested for protesting outside the Supreme Court. 
- 
-Greg: 1987, San Francisco Chronicle article. He was interviewed at an anti-nuke rally.
-Grissom: -- and photographed. You know what? I believe Dr. Lavalle ... is Dr. Benway.
-
-
- 
- 
-Brass: Boy, you must get pretty jet-lagged flying back and forth to Bulgaria. Or is it Romania ... Karl?
-Mona Lavalle : I haven't been Karl Benway for a very long time.
-Brass: Yeah, like three days ago, when you killed Vern Saldusky at the E-Z Access Storage Unit? That's a hell of a place for an operating room. I mean, why not go all the way and use the men's room at the bus station?
-Grissom: We found your fingerprint there.
-Mona Lavalle : I never said I wasn't there. I attended Vern's surgery. He was ... terrified. I tried to calm him.
-Brass: Can't get any calmer than dead.
-Mona Lavalle : I'm a counselor.
-Brass:  Is that how your fingerprint ended up on a three-day-old v*g1n*? Counseling?
- 
-Mona Lavalle : I've devoted my life to helping those who are cast out by gender prejudice. Where would these souls be without me? Who will stand in judgment? As to who's a candidate and who's not. Dr. Mercer? I was the only one willing to help them. I was nineteen in the rice paddies of Vietnam ... sewing legs back on grunts.  I performed abortions in Mexico ... on rape victims when the church turned its back on them. I have been doing gender reassignment surgery for ten years.
-Grissom: You've been performing surgeries without a medical degree ... doctor. 
-Brass: How many Vern's have there been?
-Grissom: How many Wendy's?
- 
-Mona Lavalle : Vern was an unfortunate tragedy. I have no idea what happened to Wendy.
-Brass: She saw you with Vern. So you killed her, so she wouldn't expose you.
-Mona Lavalle : That's impossible. After I saw Wendy at the clinic, I went straight to my daughter's soccer game. I have nothing more to say.
-Grissom: We need you to say &quot;ahh.&quot;
-
-
-
- 
-Mia Dickerson: So, I heard Brass arrested Dr. Lavalle, who is really Dr. Benway?
-Catherine: Mm-hmm.
-Mia Dickerson: Which means her DNA is male.
-Catherine: Right.
-Mia Dickerson: In one of the latex gloves at the storage facility, I found female DNA.
-Catherine: Well, Vern was a male, and Dr. Lavalle was a male.
-Mia Dickerson: So the doctor had help.
-
-
-
- 
- 
-Francis:  This is absurd! This is ridiculous! What you have done to my wife is disgraceful! You're not gonna find anything here!
-Warrick: Officer, could you escort this man outside.
-Francis: This is discrimination. We are normal people, trying to live a normal life.
- 
-Nick: I think we have a spitter, my friend.
- 
-Warrick: Really?
-Nick: Oh, yeah.
- 
-Warrick: I'll check the back.
-Nick: All right.
-
-
-
- 
- 
-Francis:  Take her home! Would you ... just get her out of here!
-
-Francis:  Can I take care of my daughter, please?
- 
-Amber Hamshaw: Francis, what is going on?
-Tippy: Daddy, what's going on?
-Francis: It's okay, honey. Amber's gonna take you home.
-Tippy: I want to go with you.
-Francis: I know.
-Tippy: Where's Mommy?
-Francis: Mommy's gonna be right back.
-Amber Hamshaw: I can't take her. I have the night shift at the hospital. Fr ...
-Francis: She shouldn't be seeing this. She's your kid, too. Take some responsibility.
-Amber Hamshaw: Okay, fine.
-Francis: Good.
- 
-
-Amber Hamshaw:  Put your belt on. Come on, can you pull it?
- 
-Amber Hamshaw:  Get out of the way.
- 
-
-
- 
-Amber Hamshaw: I don't understand why I'm here.
-Nick: Well, you're here because I compared your DNA from this cigarette butt to sweat recovered from the inside of a latex glove at the crime scene.
-
- 
-Amber Hamshaw: Look! She's bleeding out! Busted artery!
- 
-Nick: Ms. Hamshaw ... Dr. Lavalle was performing illegal surgeries, and you were assisting. Now, why would you be involved with something like that?
-Amber Hamshaw: Mona and Francis helped me clean up. They gave me money to be a surrogate mom for Tippi and got me my RN degree. They're family.
-Nick: So Tippi has two dads and one mom?
-Amber Hamshaw: Actually, it's two moms and a dad.
-Nick: Okay, tell me about Wendy Garner.
-Amber Hamshaw: Her procedure was completely successful.
-Nick: Well, right up till her death.
-Amber Hamshaw: I had nothing to do with that. I was at Tippi's soccer game with Mona.
-
-
-
- 
-
- 
-Woman 1:  Okay. Belle. Belle. That's so sweet...
-
-Wendy Garner:  Oh, my God, what is this? How could you do this? I just wanted you to keep my secret from Aaron, not this. I trusted you. How could you just leave her like this? 
- 
-Wendy Garner:  So much blood.
- 
-Wendy Garner:  I mean, this day means so much to me. And to have girlfriends like you, it's just amazing. 
- 
-Archie Johnson: Thirty seconds of mutilation recorded over a bridal shower.
-Warrick: She told her best friend and Officer Mann that she had some videos to show. I think she must have been trying to expose Lavalle.
-
-Warrick: Brown. Really? Thanks.  That was Brass. Ten soccer moms confirm they saw Dr. Lavalle and Amber Hamshaw at the soccer game the night Wendy was killed. Another dead end.
- 
-Greg: Those fingerprints on the video tape you recovered? We got a match.
-
-
- 
-Catherine: Wendy's video tape ... your fingerprint. 
-Brass: Doctor, help me understand something. Wendy videotaped the storage area, threatening to expose your wife's &quot;good work&quot; because your wife was threatening to tell Wendy's fiancee that she's not what she appears to be. 
- 
-Brass: But the three of you were still getting it on.
-Francis: I beg your pardon?
-Catherine: Based on the DNA that we found in Wendy's cheek, you were swapping spit with her, and your wife was swapping something else with her.
-Brass: Now we know that post-ops can't ejaculate. So the only way I can explain the semen in Wendy's mouth is your wife is still packing.
-Francis: Yes, and I performed fellatio on my wife ... after lunch. Is that a crime? I have no idea how anything got into Wendy's mouth. My wife and I did not cheat.  You don't get it, do you? Because we're different. We still love. We still honor.
-Brass: Is that why you hacked out Wendy's Adam's apple? Love and honor? You went back to the storage area to get rid of Vern's body. You saw Wendy leaving.
-
- 
- 
-Wendy Garner:  Mimosa, look, it's me. I need your help, okay? I have these videos and I have to show you them. You're never going to believe what's on them. These people ... they have to be stopped.
- 
-Francis:  How dare you?! 
- 
-Francis:  You don't appreciate anything she does for you!
- 
-
-Francis: I tried to protect my wife's work. Not just for us. For all the people like us. 
-
-
- 
-Catherine: So the man admits to murder but not infidelity. 
-Sara: Well, maybe he wasn't unfaithful. You know, I read a paper in the JFS documenting a case where a woman kissed a man, who had smoked a cigarette. When they tested the cigarette butt, they found both their DNA on it.
-Catherine: So you're saying it was transfer?
-Sara: Well, if Francis gave his wife fellatio shortly before he killed Wendy, it's possible that some of the semen was still in his mouth, and it got transferred onto her through his spit.
-
-
-
-Catherine: Right.
-Sara: Don't you think?
-
- 
- 
-Grissom: I thought you'd want to know what happened to Wendy.
-Mimosa: I appreciate your telling me. Killed by someone in our own community. As if we don't have enough enemies. Her parents never understood her, but still I think they should know. What do I say?
-Grissom: Show them an oyster.
-Mimosa: I'm sorry?
-Grissom: There are two types of male oysters, and one of them can change genders at will. And before man crawled out of the muck, maybe he had the same option. Maybe originally we were supposed to be able to switch genders, and being born with just one s*x ... is a mutation.
-FADE TO BLACK
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=05x08+-+Ch-Ch-Changes&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127384%23p127384" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=05x08+-+Ch-Ch-Changes&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127384%23p127384" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127384%23p127384&amp;name=05x08+-+Ch-Ch-Changes" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127384%23p127384" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=ec762cb5176e6addad5113ddcbaa91d6">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=ec762cb5176e6addad5113ddcbaa91d6">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=ec762cb5176e6addad5113ddcbaa91d6">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=ec762cb5176e6addad5113ddcbaa91d6">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

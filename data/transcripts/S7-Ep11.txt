@@ -1,660 +1,890 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="FADE IN: 
+[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]
+(We start with the Las Vegas city lights, then rise up to look over the horizon.) 
+FL" />
+<meta property="og:title" content="07x11 - Leaving Las Vegas - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="FADE IN: 
+[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]
+(We start with the Las Vegas city lights, then rise up to look over the horizon.) 
+FL" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13344" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>07x11 - Leaving Las Vegas - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13344" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13344">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=feb7aa4e5a6798e0cc0c6b32ed47e885"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=feb7aa4e5a6798e0cc0c6b32ed47e885">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=feb7aa4e5a6798e0cc0c6b32ed47e885">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=feb7aa4e5a6798e0cc0c6b32ed47e885">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=feb7aa4e5a6798e0cc0c6b32ed47e885">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13344&amp;sid=feb7aa4e5a6798e0cc0c6b32ed47e885&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>07x11 - Leaving Las Vegas</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127438">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127438">07x11 - Leaving Las Vegas</a></div>
+							<div class="pull-right text-right"><time datetime="2007-01-18T20:12:52Z">01/18/07 20:12</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>FADE IN: </p>
+<p>[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]</p>
+<p>(We start with the Las Vegas city lights, then rise up to look over the horizon.) </p>
+<p>FLASH TO:<br />
+[EXT. COUNTRY HOUSE -- NIGHT] </p>
+<p>(A two-story farmhouse with a windmill outside. The lights are on inside. Through the windows, we see movement.) </p>
+<p>[INT. FINCH RESIDENCE – KITCHEN -- NIGHT</p>
+<p>(Addie Finch is watching a television cooking show while doing the dishes. The reception isn't good and she whacks the set with frustration.) </p>
+<p><strong>Addie Finch</strong>: (mutters) Piece of crap.</p>
+<p>(She goes back to doing the dishes. She hears the door open.) </p>
+<p><strong>Addie Finch</strong>: Jay? Is that you?</p>
+<p>(There's no answer. She continues wiping the dishes.)</p>
+<p>(Someone comes up from behind Addie and stabs her in the back with a knife.)</p>
+<p>(She gasps.)</p>
+<p>(The man stabs her in the chest and she falls to the kitchen floor. She gasps for breath as the bloodied knife drips on her.) </p>
+<p><strong>Catherine</strong>: (V.O.) CSI processed the knife and found blood from four different sources, -- </p>
+<p>FLASH TO:<br />
+[INT. COURTROOM – DAY]</p>
+<p>(Catherine is on the stand. A photo of the knife and ruler is on the monitor.) </p>
+<p><strong>Catherine</strong>: -- three of which were intermingled together on the blade. One matched Addie Finch, the victim. </p>
+<p>(Catherine changes the image on the monitor to a close-up of the knife blade.) </p>
+<p><strong>Catherine</strong>: The other two were also female. And based on the number of DNA markers they have in common, they're either sisters or mother and daughter. They are not related to Addie Finch. And both remain unidentified.</p>
+<p><strong>ADA Jasmine Davis</strong>: And the fourth DNA source?</p>
+<p><strong>Catherine</strong>: When I disassembled the knife, I found blood on the tang, which is the steel area under the handle.</p>
+<p><strong>ADA Jasmine Davis</strong>: Were you able to identify this DNA?</p>
+<p><strong>Catherine</strong>: It was a match to the victim's son, Jay Gregory Finch.</p>
+<p><strong>ADA Jasmine Davis</strong>: The defendant.</p>
+<p><strong>Catherine</strong>: That's right.</p>
+<p><strong>ADA Jasmine Davis</strong>: No further questions, Your Honor.</p>
+<p><strong>Judge Hyak</strong>: Cross-examination, Mr. Novak?</p>
+<p>(Adam Novak looks up.) </p>
+<p><strong>Adam Novak</strong>: Did you recover the knife from the scene three years ago?</p>
+<p><strong>Catherine</strong>: No, the defendant turned it in to PD.</p>
+<p>(He stands up and walks toward the jury.) </p>
+<p><strong>Adam Novak</strong>: A man comes home ... only to find his mother bleeding on the floor, a knife stuck in her chest. In a desperate attempt to save her life, he removes the knife from her chest. But it's too late. He takes the knife in question to the authorities, cooperates with their investigation, and then you charge him with murder.</p>
+<p><strong>Catherine</strong>: The defendant did not call for help, and he waited five days to turn it in.</p>
+<p><strong>Adam Novak</strong>: He was in shock. You found two unknown sources of blood on that knife. Isn't it possible that one or both of them killed Addie Finch?</p>
+<p><strong>ADA Jasmine Davis</strong>: Objection. Speculative.</p>
+<p><strong>Judge Hyak</strong>: I'll allow it.</p>
+<p><strong>Catherine</strong>: It's possible. However, Mr. Finch's blood was found isolated near the handle. Stabbing is a messy business. I believe that Mr. Finch cut himself ...</p>
+<p><strong>Adam Novak</strong>: You've been warned about speculation, Ms. Willows.</p>
+<p><strong>Catherine</strong>: It's not speculation.</p>
+<p><strong>Adam Novak</strong>: From his birth until the time of his mother's death, Mr. Finch lived in that house. Isn't it equally possible he cut himself on that knife at a separate occasion?</p>
+<p><strong>Catherine</strong>: Yes, but ...</p>
+<p><strong>Adam Novak</strong>: For the record, her answer was &quot;Yes, it's possible.&quot; No further questions.</p>
+<p>TIME CUT TO: </p>
+<p>(ADA Jasmine Davis re-directs. Catherine is still on the stand.) </p>
+<p><strong>ADA Jasmine Davis</strong>: Though Addie Finch received multiple stab wounds, the actual cause of death was a gunshot wound. Isn't that correct?</p>
+<p><strong>Catherine</strong>: We believe that the defendant stabbed his mother multiple times, stood over her while she was dying, and shot her in the forehead to complete the act.</p>
+<p><strong>Adam Novak</strong>: You recovered a bullet from Ms. Finch's body. Did you also recover a gun?</p>
+<p><strong>Catherine</strong>: No.</p>
+<p><strong>Adam Novak</strong>: So you have nothing with which to forensically match the bullet?</p>
+<p><strong>Catherine</strong>: The bullet was a .38. The defendant's father, who passed away in<br />
+1989, was seen in photographs holding a .38. We also found an empty gun case in the defendant's closet which tested positive for chromium steel.</p>
+<p><strong>Adam Novak</strong>: My belt buckle is also made of metal. If I kept it in a box, wouldn't it also test positive?</p>
+<p><strong>Catherine</strong>: Do you keep it in a velvet-lined gun box?</p>
+<p><strong>Adam Novak</strong>: No further questions.</p>
+<p>FLASH TO:<br />
+[LATER]</p>
+<p>(The head juror reads the verdict.) </p>
+<p><strong>Head Juror</strong>: On the sole count of murder in the first degree, we, the jury, find the defendant, Jay Gregory Finch ... not guilty.</p>
+<p>(The judge bangs the gavel. Jay Finch sighs. Adam Novak turns and shakes his hand.) </p>
+<p><strong>Adam Novak</strong>: You won.</p>
+<p><strong>Jay Finch</strong>: Thank you.</p>
+<p><strong>Adam Novak</strong>: Take care of yourself.</p>
+<p>(Adam Novak turns to leave. Catherine turns to talk with him.) </p>
+<p><strong>Catherine</strong>: Quite the salesman, Mr. Novak.</p>
+<p>(They head out of the courtroom.) </p>
+<p><strong>Adam Novak</strong>: Not a hard sell.</p>
+<p><strong>Catherine</strong>: Finch is guilty.</p>
+<p><strong>Adam Novak</strong>: You once said the same about me. You were wrong then, too.</p>
+<p><strong>Catherine</strong>: Yeah, you're not a murderer; you just set them free.</p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. CSI – CATHERIN'E OFFICE -- DAY] </p>
+<p>(Catherine and Nick watch Jay Finch's interview video. The date stamp on the bottom of the monitor is from DEC 18.) </p>
+<p><strong>Brass</strong>: (from video) (o.s.) Why didn't you bring the knife directly in to us.</p>
+<p><strong>Jay Finch</strong>: (from video) I get these anxiety attacks ... since I hit my head real bad playing football my senior year. I get these brutal headaches. So, I climb into my car and drive. Sometimes for days. It ... it calms me. Mom and I took care of each other. We were a good team.</p>
+<p><strong>Catherine</strong>: What a load of crap. (She gets up.) We found his bags packed near the door. Addie raised a momma's boy and she'd finally had enough. She was kicking his ass out and he snapped.</p>
+<p><strong>Nick</strong>: Did Finch have a history of violence?</p>
+<p><strong>Catherine</strong>: No, but his CT scan showed damage to the amygdala and the frontal lobe. That kind of injury has been known to change personality, to make a person more inclined to violence. We need to ID his other two victims. Charge Finch with a new crime. No double jeopardy. We can even use the knife again.</p>
+<p><strong>Nick</strong>: Catherine, we tried three years ago. There were no other female-related crimes in the Vegas metro area that week.</p>
+<p><strong>Catherine</strong>: He drove for five days, Nick.</p>
+<p><strong>Nick</strong>: Yes, and as I recall, we put out a broadcast covering cities statewide.</p>
+<p><strong>Catherine</strong>: But not to any of the small towns in between. They aren't connected to a central network.</p>
+<p><strong>Nick</strong>: (sighs) Needle in a haystack.</p>
+<p><strong>Catherine</strong>: It's our job to find a needle in a haystack.</p>
+<p>CUT TO:<br />
+[INT. CSI – GRISSOM'S OFFICE] </p>
+<p>(Grissom opens the present and finds a WILLIAMS sweatshirt inside. Hodges stands in front of the desk and grins as Grissom takes the sweatshirt out of the box.) </p>
+<p><strong>Grissom</strong>: How did you know about this?</p>
+<p><strong>Hodges</strong>: I saw an approved leave of absence form on Ecklie's desk. Don't worry, I didn't say anything to anyone else. Did you think that you were going to teach at my alma mater in the dead of winter without warm clothes?</p>
+<p><strong>Grissom</strong>: I thought you went to college in San Diego.</p>
+<p><strong>Hodges</strong>: Graduate school. Undergraduate was all about the Bay State. Crazy times, my friend, crazy times. Those Hampshire girls down in Amherst? Insane.</p>
+<p><strong>Grissom</strong>: Thank you.</p>
+<p><strong>Hodges</strong>: You're welcome.</p>
+<p>(Grissom sets the sweatshirt and box to the side. Hodges sits down in the chair.)</p>
+<p><strong>Hodges</strong>: What are you teaching?</p>
+<p><strong>Grissom</strong>: The seasonal fluctuations in observed behaviors of the Walden Pond swamp mosquito.</p>
+<p><strong>Hodges</strong>: Excellent. Yeah, I don't know what college was like for you, but for me it was a new beginning, a chance to reinvent myself. For the first time in my life, I felt like I fit in. Not like now. I mean ... you and I are close, but sometimes I just don't think the others get me.</p>
+<p>(Catherine knocks on the door.) </p>
+<p><strong>Catherine</strong>: You got a second?</p>
+<p><strong>Hodges</strong>: He's kind of busy.</p>
+<p>(Grissom and Catherine both look at Hodges. Hodges gets to his feet.) </p>
+<p><strong>Hodges</strong>: Oh. When you get a chance, hit the Purple Pint. Ask for Cookie. Tell her Davey Hodges sent you. Drinks'll be on the house. </p>
+<p><strong>Grissom</strong>: Crazy times.</p>
+<p><strong>Hodges</strong>: Yeah.</p>
+<p>(Hodges leaves the office.) </p>
+<p><strong>Catherine</strong>: Jay Finch got an oil change the day that he killed his mother. We compared the odometer reading on the work order against what it read when we impounded his car. The difference was 350 miles. We used that to create a search radius. Nick and I just spent six hours on the phone with sheriffs in every county inside that area. There was one unsolved case that matched our criteria in Larkston: a Laura Montoya and her 12-year-old daughter, Robyn.</p>
+<p><strong>Grissom</strong>: Why are we talking about this? Finch got off, didn't he?</p>
+<p><strong>Catherine</strong>: And I don't buy it. I need to go to Larkston.</p>
+<p><strong>Grissom</strong>: You can't.</p>
+<p><strong>Catherine</strong>: Look, I want a second shot at this guy. I want to get him before he kills again.</p>
+<p><strong>Grissom</strong>: I'm going on sabbatical. You're gonna be the acting supervisor while I'm gone.</p>
+<p>(By the look on Catherine's face, this is news to her.) </p>
+<p><strong>Catherine</strong>: When are you leaving?</p>
+<p><strong>Grissom</strong>: Tomorrow night.</p>
+<p><strong>Catherine</strong>: I'll be back before then.</p>
+<p>(Catherine starts to leave, then turns and looks at Grissom.) </p>
+<p><strong>Catherine</strong>: How long have you known about this?</p>
+<p>(Grissom shakes his head. Catherine gives up and heads out.) </p>
+<p>(We hold on Grissom.) </p>
+<p>CUT TO:<br />
+[EXT. CSI -- PARKING LOT -- NIGHT] </p>
+<p>(Catherine exits the building with her bag and her kit. On her way to her car, Adam Novak walks up to her.) </p>
+<p><strong>Adam Novak</strong>: Need a vacation?</p>
+<p><strong>Catherine</strong>: I guess I should be grateful you didn't stop by my house.</p>
+<p><strong>Adam Novak</strong>: And get a gun in my face? No, thank you. I can take a hint.</p>
+<p><strong>Catherine</strong>: What do you want?</p>
+<p>(Catherine puts her things in the car and slams the door.) </p>
+<p><strong>Adam Novak</strong>: I'm here waving a white flag. Look, I owe you an apology. I regret the way I've behaved toward you in the past. I've sobered up, and I want to make amends.</p>
+<p><strong>Catherine</strong>: Climbing the 12 Steps. </p>
+<p><strong>Adam Novak</strong>: Got a few more to go. </p>
+<p><strong>Catherine</strong>: Well, you can check me off the list. Thank you for stopping by.</p>
+<p>(Catherine turns her back on him and climbs into her car.</p>
+<p><strong>Adam Novak</strong>: Hey ... which pissed you off more, that Finch went free or that I won?</p>
+<p><strong>Catherine</strong>: I'm fifty-fifty.</p>
+<p><strong>Adam Novak</strong>: (smiles) There's still hope for me.</p>
+<p>(Adam turns and walks away. He passes Nick, who is on his way to the car. Catherine starts the engine.) </p>
+<p><strong>Nick</strong>: You all right?</p>
+<p><strong>Catherine</strong>: Perfect timing. Let's go.</p>
+<p>CUT TO:<br />
+[EXT. VARIOUS LAS VEGAS DESERT HIGHWAY (STOCK) – DAY]</p>
+<p>[INT. CAR (TRAVELING) – DAY] </p>
+<p>(Nick talks with Catherine as they drive through the town.) </p>
+<p><strong>Nick</strong>: Sabbatical's usually a euphemism for &quot;sayonara.&quot; I don't think Grissom's coming back.</p>
+<p><strong>Catherine</strong>: Why wouldn't he?</p>
+<p><strong>Nick</strong>: I don't know. He shaved his beard, he's lost a little weight, he's been leaving when shift is over. I think he even took a day off last week.</p>
+<p><strong>Catherine</strong>: Maybe he's got himself a girlfriend.</p>
+<p><strong>Nick</strong>: That's what I'm saying. You know, I thought you were going to leave a few months ago.</p>
+<p><strong>Catherine</strong>: (deadpans) Why, 'cause I shaved my beard?</p>
+<p><strong>Nick</strong>: (chuckles) No, I mean, I ... you don't really have to work anymore if you don't want to, right?</p>
+<p><strong>Catherine</strong>: What are you talking about?</p>
+<p><strong>Nick</strong>: Well ... Sam, with your dad ... the whole thing.</p>
+<p><strong>Catherine</strong>: Oh, is that what people think? That daddy's little girl got herself a big inheritance? Well, let me tell you something, Nicky. All of Sam's money is tied up in a big hole in the ground on a very nice piece of Strip real estate, but I got no dog in that fight.</p>
+<p>(NO AUDIO) NICK: Well, I'm glad that someone's sticking around.</p>
+<p>CUT TO:<br />
+[EXT. LARKSTON -- DAY] </p>
+<p>(The large road sign reads:<br />
+WELCOME TO LARKSTON<br />
+CITY LIMIT<br />
+POPULATION 1291</p>
+<p>(Catherine turns the car into the parking lot. She pulls up alongside Sheriff Beth McGuire, who is leaning against her own officer car.) </p>
+<p>(Catherine and Nick get out of the car.) </p>
+<p><strong>Sheriff Beth McGuire</strong>: Hey. Now you guys aren't here to make me look bad, are you?</p>
+<p><strong>Nick</strong>: No. </p>
+<p><strong>Sheriff Beth McGuire</strong>: Just busting chops. Sheriff Beth McGuire.</p>
+<p>(They shake hands.) </p>
+<p><strong>Nick</strong>: Nick Stokes. Nice to meet you.</p>
+<p><strong>Catherine</strong>: Catherine Willows. Nice to meet you.</p>
+<p>(Beth turns and heads over to the outside tables.) </p>
+<p><strong>Sheriff Beth McGuire</strong>: Hi. I just read that file that you sent over. Jay Finch, he looks like a real son of a bitch. Laura Montoya, she was a good friend of mine. So, uh ...</p>
+<p>(A woman walks past.) </p>
+<p><strong>Sheriff Beth McGuire</strong>: Hey, Ronnie. How you doing?</p>
+<p><strong>Ronnie</strong>: Hi, Sheriff. </p>
+<p><strong>Sheriff Beth McGuire</strong>: I would really be happy to see this case solved.</p>
+<p><strong>Catherine</strong>: Yeah, as would we.</p>
+<p><strong>Nick</strong>: Why don't you ... run us through it, Sheriff?</p>
+<p><strong>Sheriff Beth McGuire</strong>: Okay. Uh ... Laura ... and her daughter were right ... here eating burgers and drinking shakes. They were the last customers of the night.</p>
+<p>(Quick flashback to: Jake Hanson closes up.) </p>
+<p><strong>Sheriff Beth McGuire</strong>: (V.O.) Luke Hanson closed up, and then he left and they were still right here, eating.</p>
+<p>[Note: It sounds like she says &quot;Luke.&quot;]</p>
+<p><strong>Jake Hanson</strong>: I'm heading home, girls. Don't you stay all night.</p>
+<p><strong>Laura Montoya</strong>: Stay hi to your mom, Jake.</p>
+<p>(End of flashback.) </p>
+<p><strong>Sheriff Beth McGuire</strong>: And I was called about 10:00 p.m. Couple of local skateboarders. They saw the blood and they just, you know, called it in.</p>
+<p><strong>Nick</strong>: No bodies?</p>
+<p><strong>Sheriff Beth McGuire</strong>: No. Just a blood pool ... here. (She points.) I found some blood drops leading out through the parking lot towards the main road.</p>
+<p><strong>Catherine</strong>: Abduction?</p>
+<p><strong>Sheriff Beth McGuire</strong>: I don't know. One minute, my best friend is just having an Oreo smoothie with her kid, and then the next minute all I got is blood drops.</p>
+<p><strong>Nick</strong>: Did you identify who the blood belonged to?</p>
+<p><strong>Sheriff Beth McGuire</strong>: We sent a sample to the Reno Lab. Came back a match to Laura. </p>
+<p>(Nick looks around the table and stops at the other side.) </p>
+<p><strong>Catherine</strong>: Mother's the bigger threat. Probably took her out first. And once she was injured, the daughter got scared into compliance.</p>
+<p><strong>Nick</strong>: Any idea on the mode of death?</p>
+<p><strong>Beth McGuire</strong>: Well, I know your guy used a knife and a gun, but I didn't recover any weapons.</p>
+<p><strong>Catherine</strong>: We're gonna need a blood sample to compare to our knife.</p>
+<p><strong>Beth McGuire</strong>: I-I got that back in the fridge at the station.</p>
+<p><strong>Nick</strong>: You know, there are quite a few nicks in the pavement down here.</p>
+<p>(Catherine is standing.) </p>
+<p><strong>Catherine</strong>: So if Laura was seated here ... the shooter would've had to aim downward to impact the asphalt.</p>
+<p>(Nick indicates his chest.) </p>
+<p><strong>Nick</strong>: Then this would have been the trajectory of the bullet. Now, there's what appears to be a ricochet mark headed in the right direction.</p>
+<p>(A CGI image of Laura appears sitting at the table.) </p>
+<p><strong>Catherine</strong>: Killer shoots Laura from behind...</p>
+<p>(Catherine points her finger as if she were shooting a gun. BAM! A CGI bullet fires from the tip of her finger, through the CGI image of Laura and hits the asphalt.)</p>
+<p><strong>Nick</strong>: Wait a minute.</p>
+<p>(Nick looks under the table and finds the bullet.) </p>
+<p><strong>Nick</strong>: Oh, yeah. I think we're in business, ladies.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. CSI – GRISSOM'S OFFICE -- DAY] </p>
+<p>(Grissom is boxing up the miniature crime scenes. He places one in a plexi-glass container when Warrick walks in.) </p>
+<p><strong>Warrick</strong>: Hey, Gris. So, uh, Hodges tells me you're flying the coop. What's the matter, you sick of baby-sitting?</p>
+<p><strong>Grissom</strong>: Just the opposite. I'm a teacher without any students.</p>
+<p><strong>Warrick</strong>: I've still got a lot to learn. Besides, having you around kinda keeps me honest.</p>
+<p><strong>Grissom</strong>: Whether you know it or not, you're the rock of my team. Catherine's going to be in charge for a while while I'm gone. Be there for her like you've been there for me and we'll all be fine.</p>
+<p><strong>Warrick</strong>: Thanks. It means a lot. You know I got you covered. What, are you sending those to the... the Louvre?</p>
+<p><strong>Grissom</strong>: Ernie Dell did kill with an artistic touch.</p>
+<p>CUT TO:<br />
+[EXT. NEVADA DESERT (STOCK) – DAY]</p>
+<p>[EXT. LARKSTON -- DAY] </p>
+<p>(Nick and Catherine have the table on its side as Nick removes the bullet.) </p>
+<p><strong>Nick</strong>: .25 caliber.</p>
+<p><strong>Catherine</strong>: Finch used a .38.</p>
+<p><strong>Beth McGuire</strong>: No dice, huh?</p>
+<p><strong>Nick</strong>: Finch could've used a different gun, but chances are, yeah, they're unrelated.</p>
+<p><strong>Beth McGuire</strong>: When you guys called, I ... I let myself believe that Laura was still alive. Well, now, I'm-I'm just gonna pray that she's dead. I just don't want to think about the alternative. </p>
+<p><strong>Catherine</strong>: Thank you for your help, Beth.</p>
+<p>(They shake hands.) </p>
+<p><strong>Beth McGuire</strong>: I gotta call her sister in Denver. This'll be the second time I've gotten her hopes up.</p>
+<p><strong>Catherine</strong>: There was a first time?</p>
+<p><strong>Beth McGuire</strong>: Well, there was a double murder the day after Laura went missing. It was about twenty miles outside of Larkston--a Mary Acheson and her daughter, Heather Curtis. (Catherine is stunned.) At first, I-I thought it was related to the disappearance of Robin and Laura, but, but it wasn't. </p>
+<p><strong>Catherine</strong>: Why didn't you tell us this before?</p>
+<p><strong>Beth McGuire</strong>: It's a closed case. We got the guy.</p>
+<p>CUT TO:<br />
+[INT. LARKSTON P.D. – FILE ROOM – DAY]</p>
+<p>(Beth heads over to the file cabinet and looks for the case file. She shows Catherine and Nick the photos.) </p>
+<p><strong>Beth McGuire</strong>: Robert Guffey. Okay ... He's in, uh ... Carson City. He's doing a life term in the Nevada State Prison. Yeah. His bloody fingerprints were all over the crime scene, and he confessed the next day.</p>
+<p><strong>Catherine</strong>: So you initially thought that Guffey was also good for your friend Laura and her daughter's abduction. What changed your mind?</p>
+<p><strong>Beth McGuire</strong>: There was no evidence to link him and, uh, he had an alibi. Plus, he would only admit to Heather and Mary's murders.</p>
+<p><strong>Nick</strong>: How'd he kill them?</p>
+<p><strong>Catherine</strong>: Stabbed, then shot.</p>
+<p><strong>Beth McGuire</strong>: This is Heather Curtis. She and her husband lived with Mary Acheson, her mother. So, uh ... Shawn was at work, and then he called home, and then when nobody answered the phone, he knew that something was wrong.</p>
+<p><strong>Nick</strong>: So the son was home?</p>
+<p><strong>Beth McGuire</strong>: He was hiding.</p>
+<p>(They look at a photo of Guffey.) </p>
+<p><strong>Beth McGuire</strong>: That. That's Robert Guffey.</p>
+<p><strong>Nick</strong>: So Guffey knew the victims?</p>
+<p><strong>Beth McGuire</strong>: He was their plumber. Yeah. Old house, bad pipes. Oh, he was there all the time.</p>
+<p><strong>Catherine</strong>: Says here he has a history of violence.</p>
+<p><strong>Beth McGuire</strong>: Beat his girlfriend. Oh, yeah, and his ex-wife has a TRO against him. But this is his very first murder. Unless, of course, he killed Addie Finch first. So maybe you're looking for my guy.</p>
+<p><strong>Catherine</strong>: Was Guffey in Vegas that week?</p>
+<p><strong>Beth McGuire</strong>: I don't know. I didn't ask him.</p>
+<p><strong>Nick</strong>: Did you recover a handgun?</p>
+<p><strong>Beth McGuire</strong>: Yeah. Oh, yeah, at his house. It was a .38, same caliber as your case.</p>
+<p><strong>Catherine</strong>: But you couldn't match the bullets to it?</p>
+<p><strong>Beth McGuire</strong>: Reno Lab said that the bullets were too damaged, you know, from bouncing around inside the victims' skulls so they just couldn't get any kind of comparison at all. </p>
+<p><strong>Catherine</strong>: I'm assuming you have the blood samples from the two victims?</p>
+<p><strong>Beth McGuire</strong>: They're at the Reno Lab, but, uh ... I can do you one better. You can take your own samples.</p>
+<p>CUT TO:<br />
+[EXT. CURTIS HOUSE -- DAY] </p>
+<p>(The sheriff leads Catherine and Nick to the Curtis house. They stop at the closed gate. There's a windmill out front. The cars park and the sheriff exits her car.) </p>
+<p><strong>Beth McGuire</strong>: Just a sec, I'm gonna open this thing.</p>
+<p>(Beth opens the gate.) </p>
+<p><strong>Nick</strong>: You thinking what I'm thinking?</p>
+<p><strong>Catherine</strong>: Looks like Addie Finch's house.</p>
+<p>(Quick flashback to: The Finch's residence complete with windmill out front. End flashback.) </p>
+<p>CUT TO:<br />
+(Beth, Catherine and Nick head for the front door.) </p>
+<p><strong>Beth McGuire</strong>: Danny and Shawn got an apartment in town. They've never been back here. And Shawn, he can't quite bring himself to sell the place.</p>
+<p><strong>Nick</strong>: So, nothing inside's been touched in three years?</p>
+<p><strong>Beth McGuire</strong>: Nope. This door is a time machine.</p>
+<p>(She unlocks and opens the front door.) </p>
+<p>[INT. CURTIS HOUSE – DAY – CONTINUOUS]</p>
+<p>(They enter the house. The sheriff starts to walk them through what happened and where as she points to the various bloodstains on the floor.) </p>
+<p><strong>Beth McGuire</strong>: This blood pool belongs to Mary, the mom. And, uh ... this blood down here belongs to Heather, the daughter.</p>
+<p><strong>Nick</strong>: Screen door's ripped.</p>
+<p><strong>Beth McGuire</strong>: Must have been a struggle. We printed it, only got smeared partials.</p>
+<p><strong>Catherine</strong>: Mary answers the door. The killer forces his way in ... stabs her.</p>
+<p>(Quick flashback to: The killer forces his way into the house and stabs Mary. End flashback.) </p>
+<p><strong>Catherine</strong>: Heather comes to her mother's aid.</p>
+<p>(Catherine turns and visualizes a CGI Heather standing at the kitchen sink. She turns and heads over to help her mother.) </p>
+<p><strong>Heather Curtis</strong>: Mom?</p>
+<p>(Heather struggles with the intruder and gets stabbed.) </p>
+<p><strong>Catherine</strong>: (V.O.) Gets stabbed herself.</p>
+<p>(Heather crawls on the floor.) </p>
+<p><strong>Catherine</strong>: (V.O.) And flees to the kitchen.</p>
+<p>(Nick takes a swab sample of the blood in front of him.) </p>
+<p><strong>Nick</strong>: The killer finishes Mary off and hunts Heather down.</p>
+<p><strong>Catherine</strong>: He catches up with Heather and executes her as well.</p>
+<p>(End of visualization and flashbacks.) </p>
+<p>(Beth shows Catherine and Nick the sink.) </p>
+<p><strong>Beth McGuire</strong>: This is where we found Danny. Poor little guy had peed in his pants. He wouldn't come out to anybody but his dad.</p>
+<p>(Nick looks out the window into the back yard.) </p>
+<p><strong>Catherine</strong>: Is this the phone that you pulled Guffey's prints from?</p>
+<p><strong>Beth McGuire</strong>: Uh ... yeah. Guffey admitted to having made an anonymous 911 call from the house at 3:20 p.m. And he didn't stick around.</p>
+<p><strong>Nick</strong>: Whose blood on the door handle?</p>
+<p><strong>Beth McGuire</strong>: Oh, we tested it. That's a mixture of the victims'.</p>
+<p><strong>Nick</strong>: I think whoever did this might have seen Danny's toys in the backyard, thought the job wasn't done yet ... and went outside to finish it.</p>
+<p>(Nick walks outside.) </p>
+<p>[EXT. CURTIS RESIDENCE – BACK YARD – DAY – CONTINUOUS]</p>
+<p>(Nick looks outside. He finds a rabbit hutch with the skeletal remains of several rabbits.) </p>
+<p>(He removes the sideboard and looks inside the hutch and finds another rabbit skeleton.) </p>
+<p><strong>Nick</strong>: He shot the rabbits.</p>
+<p><strong>Beth McGuire</strong>: I believe that Guffey thought that Danny was inside. We got a confession. We didn't need those bullets, so we didn't collect them.</p>
+<p><strong>Catherine</strong>: So we found one bullet in Addie Finch, you found one in Mary, one in Heather. There're three in this hutch.</p>
+<p><strong>Nick</strong>: If all these bullets were shot from the same .38, six would kick it. Three murders, one gun, one killer.</p>
+<p><strong>Catherine</strong>: But was it Guffey, or was it Finch?</p>
+<p><strong>Nick</strong>: Well, these bullets should answer that question.</p>
+<p><strong>Catherine</strong>: Let's start digging.</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. CURTIS RESIDENCE – BACK YARD – DAY]</p>
+<p>(Catherine and Nick remove the rabbit hutch. Nick snaps photos while Catherine uses a metal detector on the grounds.) </p>
+<p>DISSOLVE TO: </p>
+<p>(She finds something and the detector beeps steadily.)</p>
+<p>DISSOLVE TO: </p>
+<p>(Nick starts digging; Catherine sifts through the dirt.) </p>
+<p>(Catherine finds a bullet.)</p>
+<p><strong>Catherine</strong>: Hey.</p>
+<p>(She picks it up and looks at it.) </p>
+<p><strong>Catherine</strong>: There's enough here for a comparison.</p>
+<p><strong>Nick</strong>: Good. Good, if it matches Guffey's gun, he stays in prison, but if it doesn't, we've got no gun to tie to Finch.</p>
+<p><strong>Catherine</strong>: You need to get all the evidence back to the lab.</p>
+<p>(Nick takes the bullet from Catherine.) </p>
+<p><strong>Nick</strong>: What are you gonna do?</p>
+<p><strong>Catherine</strong>: I'm gonna go see Guffey.</p>
+<p><strong>Nick</strong>: He's not gonna talk to you, Catherine.</p>
+<p><strong>Catherine</strong>: We'll see.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – DAY]</p>
+<p>[INT. CSI – BREAK ROOM -- DAY] </p>
+<p>(Grissom enters the room and finds Greg pouring himself a cup of coffee.) </p>
+<p><strong>Grissom</strong>: Hey, how's it going on your civil case? Did you get a lawyer?</p>
+<p><strong>Greg</strong>: LVPD said they'll provide me with an attorney.</p>
+<p><strong>Grissom</strong>: Get your own counsel, Greg. That's your right.</p>
+<p><strong>Greg</strong>: Well, are you gonna give me a raise? Because otherwise I can't afford that.</p>
+<p><strong>Grissom</strong>: Call the PPACE, talk to your union rep. This was an on-duty incident. They'll provide you with an attorney.</p>
+<p><strong>Greg</strong>: How's the union lawyer gonna be any different? </p>
+<p><strong>Grissom</strong>: The department's only interest is the department. They'll throw you under the bus to protect themselves. When's your deposition?</p>
+<p><strong>Greg</strong>: Three weeks from tomorrow.</p>
+<p><strong>Grissom</strong>: Stick to whatever you put in the report. Don't waiver, be consistent. Everything's gonna be fine.</p>
+<p>CUT TO:<br />
+[INT. CSI – LAYOUT ROOM -- DAY] </p>
+<p>(Robbins has the autopsy photos spread out on the table and has his phone in his hand. He listens to the end of Catherine's answering machine.) </p>
+<p><strong>Catherine</strong>: (from phone) Hi, you've reached CSI Catherine Willows. Please leave a message at the tone.</p>
+<p><strong>Robbins</strong>: (to phone) Yeah, Cath, it's Doc Robbins.</p>
+<p>[INT. NEVADA STATE PRISON – DAY]</p>
+<p>(Catherine hands over her cell phone and keys.) </p>
+<p><strong>Robbins</strong>: (V.O.) (to phone) I reviewed the autopsy photos on all three victims.</p>
+<p>(Catherine signs in.) </p>
+<p><strong>Robbins</strong>: (V.O.) (to phone) The wounds appear consistent in all three cases. Vics were stabbed in the chest, and then presumably while choking on their own blood, they were shot. COD for each: single GSW to the head.</p>
+<p>(She turns around and the guard sweeps a hand-held metal detector over her front and back.) </p>
+<p>(Catherine picks up her file folder and heads for the visiting room. She does up the buttons on the top of her blouse. The guard opens the door.) </p>
+<p><strong>Catherine</strong>: Robert Guffey?</p>
+<p>(The guard points to the man sitting on the other side of the glass. Catherine enters the room.) </p>
+<p>[INT. NEVADA STATE PRISON – VISITING ROOM – DAY – CONTINUOUS]</p>
+<p>(Catherine sits down and picks up the phone. Robert Guffey picks up the phone on his end.) </p>
+<p><strong>Robert Guffey</strong>: I don't know you.</p>
+<p><strong>Catherine</strong>: You can call me Catherine.</p>
+<p><strong>Robert Guffey</strong>: Unless you're here for a conjugal, I'm not calling you anything.</p>
+<p><strong>Catherine</strong>: What do you like to be called?</p>
+<p><strong>Robert Guffey</strong>: &quot;The best I ever had.&quot;</p>
+<p>(He looks at Catherine, then he looks at her buttoned-up chest. Catherine notes the look.) </p>
+<p><strong>Catherine</strong>: There was a murder that was committed in Vegas two days before the Acheson-Curtis murders. I think the same person committed both crimes and I think that person is you. Mr. Guffey, this is how this is going to work. Every time you answer one of my questions, I unbutton a button. Are you ready?</p>
+<p><strong>Robert Guffey</strong>: (chuckles) Does that count as a question?</p>
+<p>(Catherine undoes the top button. She holds up a morgue photo of Addie Finch.) </p>
+<p><strong>Catherine</strong>: You recognize this woman?</p>
+<p><strong>Robert Guffey</strong>: Nope.</p>
+<p>(Catherine undoes the next button.) </p>
+<p><strong>Robert Guffey</strong>: (pleased) That's it. Playing ball.</p>
+<p><strong>Catherine</strong>: Why did you kill Mary Acheson and Heather Curtis?</p>
+<p><strong>Robert Guffey</strong>: Ah, 'cause sometimes women get killed.</p>
+<p>(Catherine buttons up a button.) </p>
+<p><strong>Robert Guffey</strong>: Oh, don't be like that.</p>
+<p><strong>Catherine</strong>: Well, that wasn't an answer.</p>
+<p><strong>Robert Guffey</strong>: It was enough for those other cops.</p>
+<p><strong>Catherine</strong>: What's that supposed to mean?</p>
+<p><strong>Robert Guffey</strong>: That, uh, means I didn't do it.</p>
+<p><strong>Catherine</strong>: Well, then why did you confess?</p>
+<p><strong>Robert Guffey</strong>: They had me in a room for twelve hours ... no food, no water, no sleep. I had to beg to use the bathroom.</p>
+<p><strong>Catherine</strong>: So now you're claiming you were coerced.</p>
+<p><strong>Robert Guffey</strong>: I've been claiming that since day one. I recanted the next morning. (He points.) Button.</p>
+<p>(Catherine undoes the button.) </p>
+<p><strong>Robert Guffey</strong>: That bitch cop ... grabs my arm, points to this vein and says, &quot;That's where the needle will go when they put you down like the dog you are.&quot; If I wanted to avoid the death penalty, all I had to tell her was what she and-and-and her deputies wanted to hear. (points) That's worth two.</p>
+<p>(Catherine undoes just one.) </p>
+<p><strong>Catherine</strong>: Just pace yourself. How come your prints were found all over the house?</p>
+<p><strong>Robert Guffey</strong>: Front door was open ...</p>
+<p>(Quick flashback to: The front door opens and Robert Guffey looks inside. He finds Mary on the floor in a pool of blood.) </p>
+<p><strong>Robert Guffey</strong>: Mary? Mary?!</p>
+<p>(He rushes over to check her pulse. He looks up and sees Heather on the floor near the kitchen. He rushes over to check her pulse.) </p>
+<p>(He turns and picks up the phone.)</p>
+<p>(Flash to: Robert calls for help.) </p>
+<p><strong>Robert Guffey</strong>: (to phone) There are two dead bodies at the Curtis house. No, no, no, no.</p>
+<p>(He quickly turns and puts the phone down on the counter. He leaves the house.)</p>
+<p>(End flashback.) </p>
+<p><strong>Catherine</strong>: So you called for help, but didn't stick around.</p>
+<p><strong>Robert Guffey</strong>: I done ... a few nights in prison for smacking my wife around, my girlfriend before that. I knew how it'd look. No good deed, right? How about just one more for good behavior?</p>
+<p><strong>Catherine</strong>: Let's see if your story checks out.</p>
+<p>(Catherine hangs up. She stands up and heads out as he watches.) </p>
+<p>CUT TO:<br />
+[INT. CSI – HALLWAY -- DAY] </p>
+<p>(Nick returns to the office with a cooler of samples. Grissom steps out of his office and calls out to him.) </p>
+<p><strong>Grissom</strong>: Hey, Nick.</p>
+<p><strong>Nick</strong>: Hey.</p>
+<p><strong>Grissom</strong>: Where's Catherine?</p>
+<p><strong>Nick</strong>: Not back yet. I got a ride here with a local deputy.</p>
+<p><strong>Grissom</strong>: She told me she was going to be back before I left.</p>
+<p><strong>Nick</strong>: Oh, yeah. Listen, about that ... I told my folks when I went to college I'd be back, you know? Go to work at the D.A.'s office with my dad. You can kinda see how that turned out. Anyway, I just wanted to say it's been great, man. </p>
+<p>(Nick gives a bewildered Grissom in a big hug.) </p>
+<p><strong>Nick</strong>: Really, I've learned a lot from you, man.</p>
+<p><strong>Grissom</strong>: I'll be back in four weeks. Stop hugging me.</p>
+<p>(Nick lets Grissom go.) </p>
+<p><strong>Nick</strong>: Yes, sir.</p>
+<p>(Grissom shakes his head, turns and heads back into the office. Nick turns and continues down the hallway.) </p>
+<p>CUT TO:<br />
+[INT. CSI – BALLISTICS LAB -- DAY] </p>
+<p>(Nick test-fires the gun. He gets the bullet and puts it under a scope to compare it with the bullet they found.) </p>
+<p>(Nick takes his phone out and calls Catherine.) </p>
+<p><strong>Nick</strong>: (to phone) Hey, Catherine, I tested the rabbit bullet to Guffey's gun. No match.</p>
+<p>INTERCUT WITH: </p>
+<p>[EXT. LARKSTON – DAY]</p>
+<p><strong>Catherine</strong>: He's probably innocent.</p>
+<p><strong>Nick</strong>: But, but it did match the stria to the bullet that killed Addie Finch.</p>
+<p><strong>Catherine</strong>: Which brings us back to Jay Finch and his missing .38.</p>
+<p><strong>Nick</strong>: Yes, ma'am, it does.</p>
+<p><strong>Catherine</strong>: Well, look, the only way we're gonna get a conviction is we place Finch at the Curtis house. In the meantime, have Brass put a tail on Finch. I'm not sure if he's a flight risk. I don't want to take a chance.</p>
+<p><strong>Nick</strong>: Okay, okay. And hey, one more thing. Tell the sheriff that I ran the bullet from her abduction case through IBIS and there was no hit as well. Sorry.</p>
+<p><strong>Catherine</strong>: I'll tell her.</p>
+<p>(Catherine walks into the Police Department building.) </p>
+<p>[INT. LARKSTON POLICE DEPARTMENT – DAY]</p>
+<p>(Catherine talks with Beth McGuire.) </p>
+<p><strong>Catherine</strong>: Robert Guffey alleges that he was coerced into a false confession.</p>
+<p><strong>Beth McGuire</strong>: And you've never heard that one before?</p>
+<p><strong>Catherine</strong>: Did anything unorthodox happen during his interrogation?</p>
+<p><strong>Beth McGuire</strong>: What is your point, Catherine?</p>
+<p><strong>Catherine</strong>: Did you ever do an interrogation tired, Beth? Use your frustration, snap at the suspect just so you can go home? Use all that edge to get a confession?</p>
+<p><strong>Beth McGuire</strong>: Am I being interrogated now?</p>
+<p><strong>Catherine</strong>: You questioned Robert Guffey the exact week your best friend and her daughter disappeared. That's not just edge, that's a whole blade.</p>
+<p><strong>Beth McGuire</strong>: I was sure Guffey was guilty till you showed up. Who admits to a crime he didn't commit? Who does that?</p>
+<p><strong>Catherine</strong>: People under duress.</p>
+<p><strong>Beth McGuire</strong>: You come into this town, you make me wrong, and then you go ride off into the sunset. And where does that leave me?</p>
+<p><strong>Catherine</strong>: With the opportunity to right a wrong.</p>
+<p>CUT TO:<br />
+[INT. CSI – RECEPTION – DAY]</p>
+<p>(Adam Novak argues with the receptionist.) </p>
+<p><strong>Receptionist</strong>: Sir, someone will be with you ...</p>
+<p><strong>Adam Novak</strong>: Look, I already told you, babe, I ain't going anywhere. So unless you want to have a really screwed-up day, I suggest you get her down here now.</p>
+<p>(Nick walks up to him.)</p>
+<p><strong>Nick</strong>: Mr. Novak.</p>
+<p><strong>Adam Novak</strong>: Where's Willows?</p>
+<p><strong>Nick</strong>: Out. How can I help you?</p>
+<p><strong>Adam Novak</strong>: Why the hell is this department tailing my client? </p>
+<p><strong>Nick</strong>: Concern for his safety?</p>
+<p><strong>Adam Novak</strong>: That's cute. Jay Finch was acquitted of his mother's murder. He deserves all the rights of a free man.</p>
+<p><strong>Nick</strong>: With all due respect, Mr. Novak, no laws have been broken here.</p>
+<p><strong>Adam Novak</strong>: You can't try Finch twice for the same crime.</p>
+<p><strong>Nick</strong>: No, but you can for a different crime.</p>
+<p><strong>Adam Novak</strong>: Oh, I see. This is a personal vendetta by CSI Willows.</p>
+<p><strong>Nick</strong>: Personal to who? </p>
+<p><strong>Adam Novak</strong>: Me. She's a man-hater. No surprise, but how long do we have to pay for the sins of her father?</p>
+<p><strong>Nick</strong>: You know, Catherine and I get along just great. Maybe it's you.</p>
+<p><strong>Adam Novak</strong>: Well, you tell Catherine she continues badgering my client, I will file a claim with the Attorney General's office for oppression under cover of law.</p>
+<p><strong>Nick</strong>: Duly noted.</p>
+<p>(Novak turns and leaves.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS DESERT (STOCK) – DAY]</p>
+<p>[EXT. CURTIS RESIDENCE – FRONT -- DAY] </p>
+<p>(Catherine and Beth McGuire talk with Shawn Curtis. Danny Curtis sits in the truck.) </p>
+<p><strong>Shawn Curtis</strong>: What do you mean, he's innocent? He confessed.</p>
+<p><strong>Beth McGuire</strong>: I screwed up, Shawn.</p>
+<p><strong>Shawn Curtis</strong>: He dragged their blood through my house and took off. This is bull ... </p>
+<p>(He turns and looks back at Danny sitting in the truck.) </p>
+<p><strong>Shawn Curtis</strong>: I spent three years trying to get those memories out of my head. Are you telling me it's gonna start all over again?</p>
+<p><strong>Beth McGuire</strong>: I get that. I get that, Shawn. I really do. And I wouldn't drag you and Danny out here if it weren't important.</p>
+<p><strong>Catherine</strong>: Guffey was in your house, but probably after the fact. We believe we know who actually committed the crimes. </p>
+<p><strong>Beth McGuire</strong>: And unless we find the evidence that he was in there, we'll never know for sure.</p>
+<p><strong>Catherine</strong>: Mr. Curtis, your son was the only one that got out alive. He may have seen something.</p>
+<p><strong>Shawn Curtis</strong>: I don't think I can go in there. How can I ask my son to do it?</p>
+<p><strong>Catherine</strong>: May I ask him?</p>
+<p>(He gives his approval.)</p>
+<p><strong>Catherine</strong>: Thank you.</p>
+<p>(Catherine walks over to the truck.) </p>
+<p><strong>Catherine</strong>: Hi, Danny. I'm Catherine. I'm trying to catch the bad guy that hurt your mom and your grandma, and I could really use your help.</p>
+<p><strong>Danny</strong>: Do you think they're with God?</p>
+<p><strong>Catherine</strong>: What do you think?</p>
+<p><strong>Danny</strong>: I think they're still in there.</p>
+<p><strong>Catherine</strong>: Why?</p>
+<p><strong>Danny</strong>: They're waiting to fly up to heaven.</p>
+<p><strong>Catherine</strong>: What are they waiting for?</p>
+<p><strong>Danny</strong>: For me to say good-bye. </p>
+<p>(Danny opens the truck door and climbs out.) </p>
+<p>[INT. CURTIS RESIDENCE – DAY -- CONTINUOUS] </p>
+<p>(The door opens and Danny walks in. He stops in front of the first bloodstain. He turns around and looks at his father standing just outside the doorway.) </p>
+<p><strong>Danny</strong>: Come on, Dad.</p>
+<p>(Shawn steps into the house and joins Danny. Beth and Catherine follow.)</p>
+<p><strong>Danny</strong>: Mom had made cookies.</p>
+<p>(Flashback to: Four-year-old Danny walks into the kitchen in search of cookies. He opens the moo-cow cookie jar and swipes a cookie. The cookie jar moos.) </p>
+<p><strong>Heather</strong>: (o.s.) Danny, I can hear you. Put the cookie back.</p>
+<p>(Instead, Danny opens the cupboard under the sink and hides there to eat his cookie. Heather comes down the stairs just as Danny shuts the cabinet door.)</p>
+<p>(End flashback.)</p>
+<p>(Danny heads over to the cabinet. He looks down and sees the splotches leading up to the second blood pool. He walks past the blood pool and heads over to the sink.) </p>
+<p><strong>Danny</strong>: I hid in here.</p>
+<p>(Danny hesitates and looks back at Shawn. Shawn motions for him to go on. Danny opens the cabinet under the sink and tries to get inside.) </p>
+<p><strong>Shawn</strong>: He's a lot bigger now. Heather always said he grew fast.</p>
+<p>(Danny sits under the sink.) </p>
+<p><strong>Danny</strong>: Then there was someone at the door.</p>
+<p>(Quick flashback to: Mary struggles with someone at the door who is trying to get inside the house.) </p>
+<p><strong>Mary Acheson</strong>: No!</p>
+<p><strong>Man</strong>: This is my house!</p>
+<p><strong>Heather</strong>: (o.s.) Mom, what's going on? Mom?</p>
+<p>(Danny watches as Heather arrives to help.)</p>
+<p>(Mary groans as she's stabbed first.) </p>
+<p>(Heather struggles with the man at the door. He stabs them with the knife.)</p>
+<p>(She crawls a little toward the kitchen, then a gun fires. A second gunshot is heard.) </p>
+<p>(Danny gasps, scared.)</p>
+<p>(The man heads over in Danny's direction. He comes close enough that Danny can see the knife in his hand dripping with blood.)</p>
+<p>(The cookie jar cow moos.) </p>
+<p>(End flashback.)</p>
+<p>(Danny sits under the sink.</p>
+<p><strong>Catherine</strong>: And then what happened, Danny?</p>
+<p><strong>Danny</strong>: I heard him eat a cookie. Then he went out the back door. I heard some more bangs. Thought he was gone, and then he came back in through the front door, called the police.</p>
+<p>(Catherine looks back at Beth.) </p>
+<p><strong>Beth McGuire</strong>: Guffey.</p>
+<p>(Shawn motions to Danny. Danny gets out of the cabinet under the sink and gives his dad a hug.) </p>
+<p><strong>Shawn</strong>: You did great, buddy.</p>
+<p>(Catherine looks around and opens the cookie jar. The cow moos, its batteries dying. On the inside cover of the cookie jar, Catherine finds a bloodied print.) </p>
+<p><strong>Danny</strong>: Say good-bye, Dad.</p>
+<p><strong>Shawn</strong>: Good-bye, baby.</p>
+<p>(Shawn cries.)</p>
+<p>(We hold on Catherine.) </p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]</p>
+<p>[INT. CSI – LAB -- NIGHT] </p>
+<p>(Catherine takes digital photos of the print inside the cookie jar. She removes the card from the camera.) </p>
+<p>(The digital image of the print is in the computer. Catherine runs the print through the database.)</p>
+<p>(She takes a swab sample of the blood and heads out of the lab.) </p>
+<p>(Dissolve to: Catherine is typing in the computer when her phone rings. She checks the caller ID:<br />
+ADAM NOVAK<br />
+01/04/07<br />
+7:30 p.m.</p>
+<p>(She hangs up and puts the phone aside. The printer prints the results.)</p>
+<p>(Nick walks in.) </p>
+<p><strong>Nick</strong>: Hey, Catherine. Wendy found two DNA markers from the bloody fingerprint on the cookie jar. Related females -- Heather and Mary.</p>
+<p><strong>Catherine</strong>: And the knife?</p>
+<p><strong>Nick</strong>: Also a match.</p>
+<p><strong>Catherine</strong>: (smiles) We got him, Nick.</p>
+<p>(They knock fists. She looks at the printout.) </p>
+<p><strong>Catherine</strong>: AFIS hit -- Jay Finch.</p>
+<p>CUT TO:<br />
+[EXT. FINCH RESIDENCE – NIGHT]</p>
+<p>(A couple police cars roll quietly up the front. Their car lights are dark.)</p>
+<p>[INT. FINCH RESIDENCE – NIGHT]</p>
+<p>(Jay Finch is in the kitchen.)</p>
+<p>(Through the living room windows, we see the officers just outside on the porch. They give the signal and they enter the house quietly, their guns held in position.) </p>
+<p>(They make their way toward the kitchen. The SWAT officer opens the kitchen door.)</p>
+<p>(Inside the kitchen, Jay Finch cuts the crusts off the sandwiches he's making. He gets ready to cut the tomato when the SWAT surrounds the kitchen from all entry points.) </p>
+<p>(Jay cuts his tomatoes.)</p>
+<p>(The SWAT leader gives his signal and they enter the kitchen.) </p>
+<p><strong>SWAT Leader</strong>: Mr. Finch, Las Vegas Police. Put the knife down. Stand back with your hands up.</p>
+<p>(Jay goes back to his sandwich. He puts butter on his bread.) </p>
+<p><strong>Jay Finch</strong>: What are you doing in my house?</p>
+<p><strong>SWAT Leader</strong>: Mr. Finch, put the knife down.</p>
+<p><strong>Jay Finch</strong>: This is my house.</p>
+<p><strong>SWAT Leader</strong>: I'm not gonna ask you again. Put it down.</p>
+<p><strong>Jay Finch</strong>: No ...</p>
+<p>(Jay puts his sandwich together, picks up his plate and sits at the kitchen table. SWAT steps into the kitchen. Jay takes a bite of his sandwich.) </p>
+<p><strong>SWAT Leader</strong>: Get him.</p>
+<p>(They handcuff Jay and lead him out of the kitchen.) </p>
+<p>(On their way out, they walk past Catherine and Nick waiting out on the porch.) </p>
+<p>CUT TO:<br />
+[INT. FINCH RESIDENCE – JAY'S BEDROOM -- NIGHT]</p>
+<p>(The bed is covered with a hand-stitched cover with his name on it, JAY.)</p>
+<p>(Catherine and Nick stand at the base of the bed. Catherine looks around the bedroom while Nick snaps photos.) </p>
+<p><strong>Catherine</strong>: Norman Bates is keeping his mother alive and well.</p>
+<p><strong>Nick</strong>: Yeah, looks like everything's still in the exact same place. </p>
+<p><strong>Catherine</strong>: Including the gun. </p>
+<p>(Catherine heads for the closet.) </p>
+<p><strong>Catherine</strong>: He kept the gun case in here.</p>
+<p>(Catherine pushes the closet covering aside.) </p>
+<p><strong>Nick</strong>: Well, we searched everywhere the first time. He ditched the gun.</p>
+<p>(Nick snaps photos of the contents on the dresser.) </p>
+<p>(Catherine finds a box in the back of the closet shelf. In the box, she finds a composition notebook filled with pages and pages of, &quot;There's no place like home.&quot;)</p>
+<p>(Nick stops and looks at Catherine She sighs and looks at him. She shows Nick the notebook.) </p>
+<p><strong>Catherine</strong>: In court, he was always writing in his notebook. Now I know why.</p>
+<p>(Nick snaps a photo of the book.) </p>
+<p><strong>Nick</strong>: Now I think I know why Finch stopped by the Curtis farm. He'd been driving for days. He was exhausted, disoriented. He thought he was home. </p>
+<p>(Quick flash to: Mary Acheson talks with Jay Finch at the front door.) </p>
+<p><strong>Jay Finch</strong>: This is my house. MARY ACHESON: No, you have the wrong house.</p>
+<p><strong>Jay Finch</strong>: What are you doing in my house? MARY ACHESON: I'm sorry, you have the wrong house ...</p>
+<p>(Back to scene.) </p>
+<p><strong>Catherine</strong>: Old woman answers the door, denies him access ...</p>
+<p><strong>Nick</strong>: And all Finch saw was his mom.</p>
+<p><strong>Catherine</strong>: And then he saw red.</p>
+<p>(Quick flash to: Jay Finch tries to get into the house. Mary Acheson pushes the door closed on him. He pushes back.) </p>
+<p><strong>Jay Finch</strong>: This is my house!</p>
+<p>(He steps into the house and stabs Mary. Heather heads over to help her.) </p>
+<p><strong>Heather Curtis</strong>: Mom?</p>
+<p>(He grabs Heather and stabs her as well.) </p>
+<p>(Cut to: He walks over to Heather and fires.) </p>
+<p>WHITE FLASH TO: </p>
+<p>[EXT. LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]</p>
+<p>[INT. POLICE DEPARTMENT – HALLWAY -- NIGHT] </p>
+<p>(Catherine looks through the window into the interview room where Jay Finch is sitting. She turns and heads down the hallway. Adam Novak steps into the hallway in front of her.) </p>
+<p><strong>Adam Novak</strong>: Do you always get what you want?</p>
+<p><strong>Catherine</strong>: (shakes her head) Clearly not, but you don't have enough tricks in your bag to get him off this time.</p>
+<p><strong>Adam Novak</strong>: I don't take on cases I don't think I can win.</p>
+<p><strong>Catherine</strong>: Hey, you really want to defend the innocent? There's a guy doing life up in Carson City that could use an advocate -- Robert Guffey. Might even out your karma.</p>
+<p><strong>Adam Novak</strong>: Ah, you're worried about me.</p>
+<p><strong>Catherine</strong>: Just looking to keep my faith in the court system. Everyone deserves justice. If not the first time around, then the second.</p>
+<p>(She walks out of screen and we hold on Adam Novak.) </p>
+<p>CUT TO:<br />
+[INT. CSI – LOCKER ROOM] </p>
+<p>(Sara is in the locker room. She takes her jacket off.) </p>
+<p>(Grissom walks by and stops in the doorway.) </p>
+<p><strong>Grissom</strong>: Hey.</p>
+<p>(Sara looks up.) </p>
+<p><strong>Grissom</strong>: My cab's here.</p>
+<p><strong>Sara</strong>: So, you're going.</p>
+<p><strong>Grissom</strong>: Yeah.</p>
+<p><strong>Sara</strong>: I'll see you when you get back.</p>
+<p>(Sara turns back to her locker. Grissom waits a beat. He turns and looks down the hallway, then looks back at Sara. Sara is putting her ID badge on her belt.) </p>
+<p>(Grissom steps into the room. He lingers in the doorway, looking at Sara. Sara removes her gun from the locker. She turns and looks at Grissom.) </p>
+<p><strong>Grissom</strong>: I'll miss you.</p>
+<p>(Sara nods.) </p>
+<p>(After a moment, Grissom leaves the room. We hold on Sara.) </p>
+<p>DISSOLVE TO: </p>
+<p>[INT. CSI -- GRISSOM'S OFFICE – NIGHT]</p>
+<p>(The lights are off in the office. A man carries in a large box and puts it on Grissom's desk. The man leaves.) </p>
+<p>(CAMERA focuses on the box on the desk, then slowly moves in closer and closer. The box is marked FRAGILE and labeled to:<br />
+GIL GRISSOM<br />
+LAS VEGAS CRIME LAB<br />
+3057 WESTFALL AVE<br />
+LAS VEGAS, NV 81956</p>
+<p>(CAMERA picks up speed, ZOOMING in close to the packaging label – THROUGH THE BOX – THROUGH THE PACKAGING – </p>
+<p>[INT. BOX]</p>
+<p>-- where its stops on a MINIATURE desklamp with a light shining on a MINIATURE newspaper for the LAS VEGAS GLOBE. The headline reads: </p>
+<p>ANOTHER BODY FOUND!</p>
+<p>(Also on the front page is the photo of the doll's face—one eye open and one eye shut, bleeding from the forehead and in a pool of blood.) </p>
+<p>SMASH TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
- 
-
- 
- 
-[INT. FINCH RESIDENCE – KITCHEN -- NIGHT
- 
-Addie Finch:  Piece of crap.
- 
-Addie Finch: Jay? Is that you?
-
-
-
- 
-Catherine:  CSI processed the knife and found blood from four different sources, -- 
-
-
- 
-Catherine: -- three of which were intermingled together on the blade. One matched Addie Finch, the victim. 
- 
-Catherine: The other two were also female. And based on the number of DNA markers they have in common, they're either sisters or mother and daughter. They are not related to Addie Finch. And both remain unidentified.
-ADA Jasmine Davis: And the fourth DNA source?
-Catherine: When I disassembled the knife, I found blood on the tang, which is the steel area under the handle.
-ADA Jasmine Davis: Were you able to identify this DNA?
-Catherine: It was a match to the victim's son, Jay Gregory Finch.
-ADA Jasmine Davis: The defendant.
-Catherine: That's right.
-ADA Jasmine Davis: No further questions, Your Honor.
-Judge Hyak: Cross-examination, Mr. Novak?
- 
-Adam Novak: Did you recover the knife from the scene three years ago?
-Catherine: No, the defendant turned it in to PD.
- 
-Adam Novak: A man comes home ... only to find his mother bleeding on the floor, a knife stuck in her chest. In a desperate attempt to save her life, he removes the knife from her chest. But it's too late. He takes the knife in question to the authorities, cooperates with their investigation, and then you charge him with murder.
-Catherine: The defendant did not call for help, and he waited five days to turn it in.
-Adam Novak: He was in shock. You found two unknown sources of blood on that knife. Isn't it possible that one or both of them killed Addie Finch?
-ADA Jasmine Davis: Objection. Speculative.
-Judge Hyak: I'll allow it.
-Catherine: It's possible. However, Mr. Finch's blood was found isolated near the handle. Stabbing is a messy business. I believe that Mr. Finch cut himself ...
-Adam Novak: You've been warned about speculation, Ms. Willows.
-Catherine: It's not speculation.
-Adam Novak: From his birth until the time of his mother's death, Mr. Finch lived in that house. Isn't it equally possible he cut himself on that knife at a separate occasion?
-Catherine: Yes, but ...
-Adam Novak: For the record, her answer was &quot;Yes, it's possible.&quot; No further questions.
-
- 
-ADA Jasmine Davis: Though Addie Finch received multiple stab wounds, the actual cause of death was a gunshot wound. Isn't that correct?
-Catherine: We believe that the defendant stabbed his mother multiple times, stood over her while she was dying, and shot her in the forehead to complete the act.
-Adam Novak: You recovered a bullet from Ms. Finch's body. Did you also recover a gun?
-Catherine: No.
-Adam Novak: So you have nothing with which to forensically match the bullet?
-Catherine: The bullet was a .38. The defendant's father, who passed away in
-1989, was seen in photographs holding a .38. We also found an empty gun case in the defendant's closet which tested positive for chromium steel.
-Adam Novak: My belt buckle is also made of metal. If I kept it in a box, wouldn't it also test positive?
-Catherine: Do you keep it in a velvet-lined gun box?
-Adam Novak: No further questions.
-
-
- 
-Head Juror: On the sole count of murder in the first degree, we, the jury, find the defendant, Jay Gregory Finch ... not guilty.
- 
-Adam Novak: You won.
-Jay Finch: Thank you.
-Adam Novak: Take care of yourself.
- 
-Catherine: Quite the salesman, Mr. Novak.
- 
-Adam Novak: Not a hard sell.
-Catherine: Finch is guilty.
-Adam Novak: You once said the same about me. You were wrong then, too.
-Catherine: Yeah, you're not a murderer; you just set them free.
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Brass:  Why didn't you bring the knife directly in to us.
-Jay Finch:  I get these anxiety attacks ... since I hit my head real bad playing football my senior year. I get these brutal headaches. So, I climb into my car and drive. Sometimes for days. It ... it calms me. Mom and I took care of each other. We were a good team.
-Catherine: What a load of crap.  We found his bags packed near the door. Addie raised a momma's boy and she'd finally had enough. She was kicking his ass out and he snapped.
-Nick: Did Finch have a history of violence?
-Catherine: No, but his CT scan showed damage to the amygdala and the frontal lobe. That kind of injury has been known to change personality, to make a person more inclined to violence. We need to ID his other two victims. Charge Finch with a new crime. No double jeopardy. We can even use the knife again.
-Nick: Catherine, we tried three years ago. There were no other female-related crimes in the Vegas metro area that week.
-Catherine: He drove for five days, Nick.
-Nick: Yes, and as I recall, we put out a broadcast covering cities statewide.
-Catherine: But not to any of the small towns in between. They aren't connected to a central network.
-Nick:  Needle in a haystack.
-Catherine: It's our job to find a needle in a haystack.
-
- 
- 
-Grissom: How did you know about this?
-Hodges: I saw an approved leave of absence form on Ecklie's desk. Don't worry, I didn't say anything to anyone else. Did you think that you were going to teach at my alma mater in the dead of winter without warm clothes?
-Grissom: I thought you went to college in San Diego.
-Hodges: Graduate school. Undergraduate was all about the Bay State. Crazy times, my friend, crazy times. Those Hampshire girls down in Amherst? Insane.
-Grissom: Thank you.
-Hodges: You're welcome.
-
-Hodges: What are you teaching?
-Grissom: The seasonal fluctuations in observed behaviors of the Walden Pond swamp mosquito.
-Hodges: Excellent. Yeah, I don't know what college was like for you, but for me it was a new beginning, a chance to reinvent myself. For the first time in my life, I felt like I fit in. Not like now. I mean ... you and I are close, but sometimes I just don't think the others get me.
- 
-Catherine: You got a second?
-Hodges: He's kind of busy.
- 
-Hodges: Oh. When you get a chance, hit the Purple Pint. Ask for Cookie. Tell her Davey Hodges sent you. Drinks'll be on the house. 
-Grissom: Crazy times.
-Hodges: Yeah.
- 
-Catherine: Jay Finch got an oil change the day that he killed his mother. We compared the odometer reading on the work order against what it read when we impounded his car. The difference was 350 miles. We used that to create a search radius. Nick and I just spent six hours on the phone with sheriffs in every county inside that area. There was one unsolved case that matched our criteria in Larkston: a Laura Montoya and her 12-year-old daughter, Robyn.
-Grissom: Why are we talking about this? Finch got off, didn't he?
-Catherine: And I don't buy it. I need to go to Larkston.
-Grissom: You can't.
-Catherine: Look, I want a second shot at this guy. I want to get him before he kills again.
-Grissom: I'm going on sabbatical. You're gonna be the acting supervisor while I'm gone.
- 
-Catherine: When are you leaving?
-Grissom: Tomorrow night.
-Catherine: I'll be back before then.
- 
-Catherine: How long have you known about this?
- 
- 
-
- 
- 
-Adam Novak: Need a vacation?
-Catherine: I guess I should be grateful you didn't stop by my house.
-Adam Novak: And get a gun in my face? No, thank you. I can take a hint.
-Catherine: What do you want?
- 
-Adam Novak: I'm here waving a white flag. Look, I owe you an apology. I regret the way I've behaved toward you in the past. I've sobered up, and I want to make amends.
-Catherine: Climbing the 12 Steps. 
-Adam Novak: Got a few more to go. 
-Catherine: Well, you can check me off the list. Thank you for stopping by.
-(Catherine turns her back on him and climbs into her car.
-Adam Novak: Hey ... which pissed you off more, that Finch went free or that I won?
-Catherine: I'm fifty-fifty.
-Adam Novak:  There's still hope for me.
- 
-Nick: You all right?
-Catherine: Perfect timing. Let's go.
-
-
- 
- 
-Nick: Sabbatical's usually a euphemism for &quot;sayonara.&quot; I don't think Grissom's coming back.
-Catherine: Why wouldn't he?
-Nick: I don't know. He shaved his beard, he's lost a little weight, he's been leaving when shift is over. I think he even took a day off last week.
-Catherine: Maybe he's got himself a girlfriend.
-Nick: That's what I'm saying. You know, I thought you were going to leave a few months ago.
-Catherine:  Why, 'cause I shaved my beard?
-Nick:  No, I mean, I ... you don't really have to work anymore if you don't want to, right?
-Catherine: What are you talking about?
-Nick: Well ... Sam, with your dad ... the whole thing.
-Catherine: Oh, is that what people think? That daddy's little girl got herself a big inheritance? Well, let me tell you something, Nicky. All of Sam's money is tied up in a big hole in the ground on a very nice piece of Strip real estate, but I got no dog in that fight.
- NICK: Well, I'm glad that someone's sticking around.
-
- 
-(The large road sign reads:
-WELCOME TO LARKSTON
-CITY LIMIT
-POPULATION 1291
- 
- 
-Sheriff Beth McGuire: Hey. Now you guys aren't here to make me look bad, are you?
-Nick: No. 
-Sheriff Beth McGuire: Just busting chops. Sheriff Beth McGuire.
- 
-Nick: Nick Stokes. Nice to meet you.
-Catherine: Catherine Willows. Nice to meet you.
- 
-Sheriff Beth McGuire: Hi. I just read that file that you sent over. Jay Finch, he looks like a real son of a bitch. Laura Montoya, she was a good friend of mine. So, uh ...
- 
-Sheriff Beth McGuire: Hey, Ronnie. How you doing?
-Ronnie: Hi, Sheriff. 
-Sheriff Beth McGuire: I would really be happy to see this case solved.
-Catherine: Yeah, as would we.
-Nick: Why don't you ... run us through it, Sheriff?
-Sheriff Beth McGuire: Okay. Uh ... Laura ... and her daughter were right ... here eating burgers and drinking shakes. They were the last customers of the night.
- 
-Sheriff Beth McGuire:  Luke Hanson closed up, and then he left and they were still right here, eating.
-
-Jake Hanson: I'm heading home, girls. Don't you stay all night.
-Laura Montoya: Stay hi to your mom, Jake.
- 
-Sheriff Beth McGuire: And I was called about 10:00 p.m. Couple of local skateboarders. They saw the blood and they just, you know, called it in.
-Nick: No bodies?
-Sheriff Beth McGuire: No. Just a blood pool ... here.  I found some blood drops leading out through the parking lot towards the main road.
-Catherine: Abduction?
-Sheriff Beth McGuire: I don't know. One minute, my best friend is just having an Oreo smoothie with her kid, and then the next minute all I got is blood drops.
-Nick: Did you identify who the blood belonged to?
-Sheriff Beth McGuire: We sent a sample to the Reno Lab. Came back a match to Laura. 
- 
-Catherine: Mother's the bigger threat. Probably took her out first. And once she was injured, the daughter got scared into compliance.
-Nick: Any idea on the mode of death?
-Beth McGuire: Well, I know your guy used a knife and a gun, but I didn't recover any weapons.
-Catherine: We're gonna need a blood sample to compare to our knife.
-Beth McGuire: I-I got that back in the fridge at the station.
-Nick: You know, there are quite a few nicks in the pavement down here.
- 
-Catherine: So if Laura was seated here ... the shooter would've had to aim downward to impact the asphalt.
- 
-Nick: Then this would have been the trajectory of the bullet. Now, there's what appears to be a ricochet mark headed in the right direction.
- 
-Catherine: Killer shoots Laura from behind...
-
-Nick: Wait a minute.
- 
-Nick: Oh, yeah. I think we're in business, ladies.
-
-
-
-
- 
- 
-Warrick: Hey, Gris. So, uh, Hodges tells me you're flying the coop. What's the matter, you sick of baby-sitting?
-Grissom: Just the opposite. I'm a teacher without any students.
-Warrick: I've still got a lot to learn. Besides, having you around kinda keeps me honest.
-Grissom: Whether you know it or not, you're the rock of my team. Catherine's going to be in charge for a while while I'm gone. Be there for her like you've been there for me and we'll all be fine.
-Warrick: Thanks. It means a lot. You know I got you covered. What, are you sending those to the... the Louvre?
-Grissom: Ernie Dell did kill with an artistic touch.
-
-
- 
- 
-Nick: .25 caliber.
-Catherine: Finch used a .38.
-Beth McGuire: No dice, huh?
-Nick: Finch could've used a different gun, but chances are, yeah, they're unrelated.
-Beth McGuire: When you guys called, I ... I let myself believe that Laura was still alive. Well, now, I'm-I'm just gonna pray that she's dead. I just don't want to think about the alternative. 
-Catherine: Thank you for your help, Beth.
- 
-Beth McGuire: I gotta call her sister in Denver. This'll be the second time I've gotten her hopes up.
-Catherine: There was a first time?
-Beth McGuire: Well, there was a double murder the day after Laura went missing. It was about twenty miles outside of Larkston--a Mary Acheson and her daughter, Heather Curtis.  At first, I-I thought it was related to the disappearance of Robin and Laura, but, but it wasn't. 
-Catherine: Why didn't you tell us this before?
-Beth McGuire: It's a closed case. We got the guy.
-
-
- 
-Beth McGuire: Robert Guffey. Okay ... He's in, uh ... Carson City. He's doing a life term in the Nevada State Prison. Yeah. His bloody fingerprints were all over the crime scene, and he confessed the next day.
-Catherine: So you initially thought that Guffey was also good for your friend Laura and her daughter's abduction. What changed your mind?
-Beth McGuire: There was no evidence to link him and, uh, he had an alibi. Plus, he would only admit to Heather and Mary's murders.
-Nick: How'd he kill them?
-Catherine: Stabbed, then shot.
-Beth McGuire: This is Heather Curtis. She and her husband lived with Mary Acheson, her mother. So, uh ... Shawn was at work, and then he called home, and then when nobody answered the phone, he knew that something was wrong.
-Nick: So the son was home?
-Beth McGuire: He was hiding.
- 
-Beth McGuire: That. That's Robert Guffey.
-Nick: So Guffey knew the victims?
-Beth McGuire: He was their plumber. Yeah. Old house, bad pipes. Oh, he was there all the time.
-Catherine: Says here he has a history of violence.
-Beth McGuire: Beat his girlfriend. Oh, yeah, and his ex-wife has a TRO against him. But this is his very first murder. Unless, of course, he killed Addie Finch first. So maybe you're looking for my guy.
-Catherine: Was Guffey in Vegas that week?
-Beth McGuire: I don't know. I didn't ask him.
-Nick: Did you recover a handgun?
-Beth McGuire: Yeah. Oh, yeah, at his house. It was a .38, same caliber as your case.
-Catherine: But you couldn't match the bullets to it?
-Beth McGuire: Reno Lab said that the bullets were too damaged, you know, from bouncing around inside the victims' skulls so they just couldn't get any kind of comparison at all. 
-Catherine: I'm assuming you have the blood samples from the two victims?
-Beth McGuire: They're at the Reno Lab, but, uh ... I can do you one better. You can take your own samples.
-
- 
- 
-Beth McGuire: Just a sec, I'm gonna open this thing.
- 
-Nick: You thinking what I'm thinking?
-Catherine: Looks like Addie Finch's house.
- 
-
- 
-Beth McGuire: Danny and Shawn got an apartment in town. They've never been back here. And Shawn, he can't quite bring himself to sell the place.
-Nick: So, nothing inside's been touched in three years?
-Beth McGuire: Nope. This door is a time machine.
- 
-
- 
-Beth McGuire: This blood pool belongs to Mary, the mom. And, uh ... this blood down here belongs to Heather, the daughter.
-Nick: Screen door's ripped.
-Beth McGuire: Must have been a struggle. We printed it, only got smeared partials.
-Catherine: Mary answers the door. The killer forces his way in ... stabs her.
- 
-Catherine: Heather comes to her mother's aid.
- 
-Heather Curtis: Mom?
- 
-Catherine:  Gets stabbed herself.
- 
-Catherine:  And flees to the kitchen.
- 
-Nick: The killer finishes Mary off and hunts Heather down.
-Catherine: He catches up with Heather and executes her as well.
- 
- 
-Beth McGuire: This is where we found Danny. Poor little guy had peed in his pants. He wouldn't come out to anybody but his dad.
- 
-Catherine: Is this the phone that you pulled Guffey's prints from?
-Beth McGuire: Uh ... yeah. Guffey admitted to having made an anonymous 911 call from the house at 3:20 p.m. And he didn't stick around.
-Nick: Whose blood on the door handle?
-Beth McGuire: Oh, we tested it. That's a mixture of the victims'.
-Nick: I think whoever did this might have seen Danny's toys in the backyard, thought the job wasn't done yet ... and went outside to finish it.
- 
-
- 
- 
-Nick: He shot the rabbits.
-Beth McGuire: I believe that Guffey thought that Danny was inside. We got a confession. We didn't need those bullets, so we didn't collect them.
-Catherine: So we found one bullet in Addie Finch, you found one in Mary, one in Heather. There're three in this hutch.
-Nick: If all these bullets were shot from the same .38, six would kick it. Three murders, one gun, one killer.
-Catherine: But was it Guffey, or was it Finch?
-Nick: Well, these bullets should answer that question.
-Catherine: Let's start digging.
-
-
-
-;
-
-
-
-
- 
-DISSOLVE TO: 
-
-DISSOLVE TO: 
- 
-
-Catherine: Hey.
- 
-Catherine: There's enough here for a comparison.
-Nick: Good. Good, if it matches Guffey's gun, he stays in prison, but if it doesn't, we've got no gun to tie to Finch.
-Catherine: You need to get all the evidence back to the lab.
- 
-Nick: What are you gonna do?
-Catherine: I'm gonna go see Guffey.
-Nick: He's not gonna talk to you, Catherine.
-Catherine: We'll see.
-
-
- 
- 
-Grissom: Hey, how's it going on your civil case? Did you get a lawyer?
-Greg: LVPD said they'll provide me with an attorney.
-Grissom: Get your own counsel, Greg. That's your right.
-Greg: Well, are you gonna give me a raise? Because otherwise I can't afford that.
-Grissom: Call the PPACE, talk to your union rep. This was an on-duty incident. They'll provide you with an attorney.
-Greg: How's the union lawyer gonna be any different? 
-Grissom: The department's only interest is the department. They'll throw you under the bus to protect themselves. When's your deposition?
-Greg: Three weeks from tomorrow.
-Grissom: Stick to whatever you put in the report. Don't waiver, be consistent. Everything's gonna be fine.
-
- 
- 
-Catherine:  Hi, you've reached CSI Catherine Willows. Please leave a message at the tone.
-Robbins:  Yeah, Cath, it's Doc Robbins.
-
- 
-Robbins:  I reviewed the autopsy photos on all three victims.
- 
-Robbins:  The wounds appear consistent in all three cases. Vics were stabbed in the chest, and then presumably while choking on their own blood, they were shot. COD for each: single GSW to the head.
- 
- 
-Catherine: Robert Guffey?
- 
-
- 
-Robert Guffey: I don't know you.
-Catherine: You can call me Catherine.
-Robert Guffey: Unless you're here for a conjugal, I'm not calling you anything.
-Catherine: What do you like to be called?
-Robert Guffey: &quot;The best I ever had.&quot;
- 
-Catherine: There was a murder that was committed in Vegas two days before the Acheson-Curtis murders. I think the same person committed both crimes and I think that person is you. Mr. Guffey, this is how this is going to work. Every time you answer one of my questions, I unbutton a button. Are you ready?
-Robert Guffey:  Does that count as a question?
- 
-Catherine: You recognize this woman?
-Robert Guffey: Nope.
- 
-Robert Guffey:  That's it. Playing ball.
-Catherine: Why did you kill Mary Acheson and Heather Curtis?
-Robert Guffey: Ah, 'cause sometimes women get killed.
- 
-Robert Guffey: Oh, don't be like that.
-Catherine: Well, that wasn't an answer.
-Robert Guffey: It was enough for those other cops.
-Catherine: What's that supposed to mean?
-Robert Guffey: That, uh, means I didn't do it.
-Catherine: Well, then why did you confess?
-Robert Guffey: They had me in a room for twelve hours ... no food, no water, no sleep. I had to beg to use the bathroom.
-Catherine: So now you're claiming you were coerced.
-Robert Guffey: I've been claiming that since day one. I recanted the next morning.  Button.
- 
-Robert Guffey: That bitch cop ... grabs my arm, points to this vein and says, &quot;That's where the needle will go when they put you down like the dog you are.&quot; If I wanted to avoid the death penalty, all I had to tell her was what she and-and-and her deputies wanted to hear.  That's worth two.
- 
-Catherine: Just pace yourself. How come your prints were found all over the house?
-Robert Guffey: Front door was open ...
- 
-Robert Guffey: Mary? Mary?!
- 
-
- 
-Robert Guffey:  There are two dead bodies at the Curtis house. No, no, no, no.
-
- 
-Catherine: So you called for help, but didn't stick around.
-Robert Guffey: I done ... a few nights in prison for smacking my wife around, my girlfriend before that. I knew how it'd look. No good deed, right? How about just one more for good behavior?
-Catherine: Let's see if your story checks out.
- 
-
- 
- 
-Grissom: Hey, Nick.
-Nick: Hey.
-Grissom: Where's Catherine?
-Nick: Not back yet. I got a ride here with a local deputy.
-Grissom: She told me she was going to be back before I left.
-Nick: Oh, yeah. Listen, about that ... I told my folks when I went to college I'd be back, you know? Go to work at the D.A.'s office with my dad. You can kinda see how that turned out. Anyway, I just wanted to say it's been great, man. 
- 
-Nick: Really, I've learned a lot from you, man.
-Grissom: I'll be back in four weeks. Stop hugging me.
- 
-Nick: Yes, sir.
- 
-
- 
- 
- 
-Nick:  Hey, Catherine, I tested the rabbit bullet to Guffey's gun. No match.
-
-
-Catherine: He's probably innocent.
-Nick: But, but it did match the stria to the bullet that killed Addie Finch.
-Catherine: Which brings us back to Jay Finch and his missing .38.
-Nick: Yes, ma'am, it does.
-Catherine: Well, look, the only way we're gonna get a conviction is we place Finch at the Curtis house. In the meantime, have Brass put a tail on Finch. I'm not sure if he's a flight risk. I don't want to take a chance.
-Nick: Okay, okay. And hey, one more thing. Tell the sheriff that I ran the bullet from her abduction case through IBIS and there was no hit as well. Sorry.
-Catherine: I'll tell her.
- 
-
- 
-Catherine: Robert Guffey alleges that he was coerced into a false confession.
-Beth McGuire: And you've never heard that one before?
-Catherine: Did anything unorthodox happen during his interrogation?
-Beth McGuire: What is your point, Catherine?
-Catherine: Did you ever do an interrogation tired, Beth? Use your frustration, snap at the suspect just so you can go home? Use all that edge to get a confession?
-Beth McGuire: Am I being interrogated now?
-Catherine: You questioned Robert Guffey the exact week your best friend and her daughter disappeared. That's not just edge, that's a whole blade.
-Beth McGuire: I was sure Guffey was guilty till you showed up. Who admits to a crime he didn't commit? Who does that?
-Catherine: People under duress.
-Beth McGuire: You come into this town, you make me wrong, and then you go ride off into the sunset. And where does that leave me?
-Catherine: With the opportunity to right a wrong.
-
-
- 
-Receptionist: Sir, someone will be with you ...
-Adam Novak: Look, I already told you, babe, I ain't going anywhere. So unless you want to have a really screwed-up day, I suggest you get her down here now.
-
-Nick: Mr. Novak.
-Adam Novak: Where's Willows?
-Nick: Out. How can I help you?
-Adam Novak: Why the hell is this department tailing my client? 
-Nick: Concern for his safety?
-Adam Novak: That's cute. Jay Finch was acquitted of his mother's murder. He deserves all the rights of a free man.
-Nick: With all due respect, Mr. Novak, no laws have been broken here.
-Adam Novak: You can't try Finch twice for the same crime.
-Nick: No, but you can for a different crime.
-Adam Novak: Oh, I see. This is a personal vendetta by CSI Willows.
-Nick: Personal to who? 
-Adam Novak: Me. She's a man-hater. No surprise, but how long do we have to pay for the sins of her father?
-Nick: You know, Catherine and I get along just great. Maybe it's you.
-Adam Novak: Well, you tell Catherine she continues badgering my client, I will file a claim with the Attorney General's office for oppression under cover of law.
-Nick: Duly noted.
- 
-
-
- 
- 
-Shawn Curtis: What do you mean, he's innocent? He confessed.
-Beth McGuire: I screwed up, Shawn.
-Shawn Curtis: He dragged their blood through my house and took off. This is bull ... 
- 
-Shawn Curtis: I spent three years trying to get those memories out of my head. Are you telling me it's gonna start all over again?
-Beth McGuire: I get that. I get that, Shawn. I really do. And I wouldn't drag you and Danny out here if it weren't important.
-Catherine: Guffey was in your house, but probably after the fact. We believe we know who actually committed the crimes. 
-Beth McGuire: And unless we find the evidence that he was in there, we'll never know for sure.
-Catherine: Mr. Curtis, your son was the only one that got out alive. He may have seen something.
-Shawn Curtis: I don't think I can go in there. How can I ask my son to do it?
-Catherine: May I ask him?
-
-Catherine: Thank you.
- 
-Catherine: Hi, Danny. I'm Catherine. I'm trying to catch the bad guy that hurt your mom and your grandma, and I could really use your help.
-Danny: Do you think they're with God?
-Catherine: What do you think?
-Danny: I think they're still in there.
-Catherine: Why?
-Danny: They're waiting to fly up to heaven.
-Catherine: What are they waiting for?
-Danny: For me to say good-bye. 
- 
- 
- 
-Danny: Come on, Dad.
-
-Danny: Mom had made cookies.
- 
-Heather:  Danny, I can hear you. Put the cookie back.
-
-
- 
-Danny: I hid in here.
- 
-Shawn: He's a lot bigger now. Heather always said he grew fast.
- 
-Danny: Then there was someone at the door.
- 
-Mary Acheson: No!
-Man: This is my house!
-Heather:  Mom, what's going on? Mom?
-
- 
-
- 
-
-
- 
-
-(Danny sits under the sink.
-Catherine: And then what happened, Danny?
-Danny: I heard him eat a cookie. Then he went out the back door. I heard some more bangs. Thought he was gone, and then he came back in through the front door, called the police.
- 
-Beth McGuire: Guffey.
- 
-Shawn: You did great, buddy.
- 
-Danny: Say good-bye, Dad.
-Shawn: Good-bye, baby.
-
- 
-
-
-
-
-
- 
- 
-
- 
-(Dissolve to: Catherine is typing in the computer when her phone rings. She checks the caller ID:
-ADAM NOVAK
-01/04/07
-7:30 p.m.
-
- 
-Nick: Hey, Catherine. Wendy found two DNA markers from the bloody fingerprint on the cookie jar. Related females -- Heather and Mary.
-Catherine: And the knife?
-Nick: Also a match.
-Catherine:  We got him, Nick.
- 
-Catherine: AFIS hit -- Jay Finch.
-
-
-
-
-
- 
-
- 
-
- 
-SWAT Leader: Mr. Finch, Las Vegas Police. Put the knife down. Stand back with your hands up.
- 
-Jay Finch: What are you doing in my house?
-SWAT Leader: Mr. Finch, put the knife down.
-Jay Finch: This is my house.
-SWAT Leader: I'm not gonna ask you again. Put it down.
-Jay Finch: No ...
- 
-SWAT Leader: Get him.
- 
- 
-
-
-
- 
-Catherine: Norman Bates is keeping his mother alive and well.
-Nick: Yeah, looks like everything's still in the exact same place. 
-Catherine: Including the gun. 
- 
-Catherine: He kept the gun case in here.
- 
-Nick: Well, we searched everywhere the first time. He ditched the gun.
- 
-
- 
-Catherine: In court, he was always writing in his notebook. Now I know why.
- 
-Nick: Now I think I know why Finch stopped by the Curtis farm. He'd been driving for days. He was exhausted, disoriented. He thought he was home. 
- 
-Jay Finch: This is my house. MARY ACHESON: No, you have the wrong house.
-Jay Finch: What are you doing in my house? MARY ACHESON: I'm sorry, you have the wrong house ...
- 
-Catherine: Old woman answers the door, denies him access ...
-Nick: And all Finch saw was his mom.
-Catherine: And then he saw red.
- 
-Jay Finch: This is my house!
- 
-Heather Curtis: Mom?
- 
- 
-
-
- 
- 
-Adam Novak: Do you always get what you want?
-Catherine:  Clearly not, but you don't have enough tricks in your bag to get him off this time.
-Adam Novak: I don't take on cases I don't think I can win.
-Catherine: Hey, you really want to defend the innocent? There's a guy doing life up in Carson City that could use an advocate -- Robert Guffey. Might even out your karma.
-Adam Novak: Ah, you're worried about me.
-Catherine: Just looking to keep my faith in the court system. Everyone deserves justice. If not the first time around, then the second.
- 
-
- 
- 
- 
-Grissom: Hey.
- 
-Grissom: My cab's here.
-Sara: So, you're going.
-Grissom: Yeah.
-Sara: I'll see you when you get back.
- 
- 
-Grissom: I'll miss you.
- 
- 
-DISSOLVE TO: 
-
- 
-(CAMERA focuses on the box on the desk, then slowly moves in closer and closer. The box is marked FRAGILE and labeled to:
-GIL GRISSOM
-LAS VEGAS CRIME LAB
-3057 WESTFALL AVE
-LAS VEGAS, NV 81956
-(CAMERA picks up speed, ZOOMING in close to the packaging label – THROUGH THE BOX – THROUGH THE PACKAGING – 
-
--- where its stops on a MINIATURE desklamp with a light shining on a MINIATURE newspaper for the LAS VEGAS GLOBE. The headline reads: 
-ANOTHER BODY FOUND!
- 
-SMASH TO BLACK.
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=07x11+-+Leaving+Las+Vegas&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127438%23p127438" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=07x11+-+Leaving+Las+Vegas&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127438%23p127438" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127438%23p127438&amp;name=07x11+-+Leaving+Las+Vegas" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127438%23p127438" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=feb7aa4e5a6798e0cc0c6b32ed47e885">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=feb7aa4e5a6798e0cc0c6b32ed47e885">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=feb7aa4e5a6798e0cc0c6b32ed47e885">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=feb7aa4e5a6798e0cc0c6b32ed47e885">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

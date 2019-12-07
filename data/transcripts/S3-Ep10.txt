@@ -1,782 +1,1018 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. (VARIOUS) LAS VEGAS CITY (STOCK) - NIGHT]
+CUT TO:
 
+[EXT. SIDEWALK -- NIGHT]
+(A couple of roller bladers play on the sidewalk.)
+(Camer" />
+<meta property="og:title" content="03x10 - High and Low - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. (VARIOUS) LAS VEGAS CITY (STOCK) - NIGHT]
+CUT TO:
 
+[EXT. SIDEWALK -- NIGHT]
+(A couple of roller bladers play on the sidewalk.)
+(Camer" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13245" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>03x10 - High and Low - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13245" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13245">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=8d3ee1a11c93cf83bcc6e767303afc74"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=8d3ee1a11c93cf83bcc6e767303afc74">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=8d3ee1a11c93cf83bcc6e767303afc74">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=8d3ee1a11c93cf83bcc6e767303afc74">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=8d3ee1a11c93cf83bcc6e767303afc74">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13245&amp;sid=8d3ee1a11c93cf83bcc6e767303afc74&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>03x10 - High and Low</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127339">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127339">03x10 - High and Low</a></div>
+							<div class="pull-right text-right"><time datetime="2002-12-26T12:32:49Z">12/26/02 12:32</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. (VARIOUS) LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. SIDEWALK -- NIGHT]</p>
+<p>(A couple of roller bladers play on the sidewalk.)</p>
+<p>(Camera close up of the roller blades of the first person as he jumps on the metal rail and rides it from one end to the other. He jumps off, excited.)</p>
+<p><strong>Blader 1</strong>: All the way across! Did you see that! Dude! Dude! Come on, bust it, bro.</p>
+<p><strong>Blader 2</strong>: Relax man! I'm going! </p>
+<p><strong>Blader 1</strong>: You've got it. Don't puss out on me!</p>
+<p>(The second blader takes a running leap and tries the same trick. He jumps off excited when he's done.)</p>
+<p><strong>Blader 1</strong>: Oh!</p>
+<p><strong>Blader 2</strong>: Oh! (raises his hands in triumph) Sick yeah!</p>
+<p><strong>Blader 1</strong>: Yeah, I thought for sure you were going to eat it, though.</p>
+<p><strong>Blader 2</strong>: No, way, man. I had that thing hooked up.</p>
+<p><strong>Blader 1</strong>: Oh you got lucky, man.</p>
+<p>(The two roller bladers stop by the side of the building. From above, a body falls to the ground with a loud thud. SKATER 1 edges closer for a look.)</p>
+<p><strong>Blader 1</strong>: (looking down at the body) Ugh! Oh, my god!</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. BUILDING -- NIGHT]</p>
+<p>(Camera opens on the dead body. The Emergency Personnel are already there. NICK and WARRICK make their way toward BRASS.)</p>
+<p><strong>Nick</strong>: We beat Grissom here? That's a first.</p>
+<p><strong>Warrick</strong>: Yeah? Maybe for you.</p>
+<p>(BRASS leads them under the crime scene tape and toward the body.)</p>
+<p><strong>Brass</strong>: Hey, how you doing? The jumper's John Doe. No wallet no keys, no ID.</p>
+<p>(NICK leans in to look at the body.)</p>
+<p><strong>Nick</strong>: Yeah, that's the least of this guy's problem.</p>
+<p>(BRASS looks up at the building top.)</p>
+<p><strong>Brass</strong>: The building's gotta be what? Six stories high? </p>
+<p><strong>Warrick</strong>: Six stories, sixty stories. It's not how you fall, it's how you land.</p>
+<p><strong>Nick</strong>: You know, if you landed head first, there should be more blood.</p>
+<p><strong>Warrick</strong>: Yeah, and more brain matter.</p>
+<p>(WARRICK'S phone beeps.)</p>
+<p><strong>Grissom</strong>: (over phone) He didn't jump.</p>
+<p>(It beeps again.)</p>
+<p><strong>Grissom</strong>: Up here.</p>
+<p>(They look up to see GRISSOM looking down at them from the top of the building.)</p>
+<p>[TOP OF BUILDING]</p>
+<p>(Where GRISSOM stands, there's a whole lot of blood mess on the rooftop.)</p>
+<p><strong>Grissom</strong>: It's never the fall that kills you.</p>
+<p>HARD CUT TO END OF TEASER. ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[EXT. BUILDING - ROOF -- NIGHT]</p>
+<p>(GRISSOM and NICK check out the building rooftop.)</p>
+<p><strong>Nick</strong>: Rain or not, I'm not finding any shoe prints.</p>
+<p><strong>Grissom</strong>: High velocity spatter usually implies a gunshot.</p>
+<p><strong>Nick</strong>: No casings or bullets, either.</p>
+<p><strong>Grissom</strong>: (indicating the blood mess) Severe head trauma. It happened before the fall.</p>
+<p><strong>Nick</strong>: Sure looks like it. Hand to hand combat?</p>
+<p><strong>Grissom</strong>: (shakes his head) Kill and dump.</p>
+<p>(Quick visualization to: A person pushes the body off the roof of the building. The body falls down on the ground in front of WARRICK ... End of visualization. Resume to present.)</p>
+<p>[DOWN ON THE GROUND]</p>
+<p>(WARRICK snaps pictures of the body in front of him. He puts the camera aside and looks at the body. He finds something on the pants hem. Camera zooms in for a close up of white specks on the cloth. WARRICK takes a tape lift of it.)</p>
+<p>(DAVID PHILLIPS walks up to WARRICK.</p>
+<p><strong>David Phillips</strong>: Hey.</p>
+<p><strong>Warrick</strong>: Hey. I think the prints are out. Bones burst right through the skin.</p>
+<p>(DAVID checks out the victim's hand.)</p>
+<p><strong>David Phillips</strong>: Compound fracture of the long bones including the phalanges. Extensive laceration. </p>
+<p><strong>Warrick</strong>: What about dental?</p>
+<p>(DAVID checks out the victim's teeth.)</p>
+<p><strong>David Phillips</strong>: Yeah. There might be enough to work with.</p>
+<p><strong>Warrick</strong>: You think? Hey, wait a minute. Look. You might have another option. Check out that artwork.</p>
+<p><strong>David Phillips</strong>: Tattoo.</p>
+<p><strong>Warrick</strong>: You think you can stretch that out?</p>
+<p><strong>David Phillips</strong>: Yeah, no problem.</p>
+<p>(WARRICK takes a picture of the tattoo.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. PARKING LOT -- NIGHT]</p>
+<p>(O'RILEY and CATHERINE walk to the crime scene.)</p>
+<p><strong>O'Riley</strong>: Wallet was with the vic. Money, cards, I.D.'S. Name's Roger Edmonds. Car's his, too.</p>
+<p>(CATHERINE puts her kit down and they both kneel to look at the body.</p>
+<p><strong>Catherine</strong>: Single gunshot wound to the chest, through and through. Entry wound is massive. </p>
+<p>(CATHERINE takes a picture of the wound.)</p>
+<p><strong>Catherine</strong>: Unburned gunpowder. He was shot at close range.</p>
+<p>(Camera close up of the wound to show the gunpowder. CATHERINE stands up to look at the car.)</p>
+<p><strong>Catherine</strong>: Car door ... is closed ... but not latched. Vic was in a hurry?</p>
+<p><strong>O'Riley</strong>: To get in or get out?</p>
+<p><strong>Catherine</strong>: Good question. I don't see any bullet holes.</p>
+<p>(They walk around the car where CATHERINE finds something on the front license plate.)</p>
+<p><strong>Catherine</strong>: What's this? Ah, blood and hair. Maybe the vic got a piece of the perp.</p>
+<p><strong>O'Riley</strong>: Waitress phoned it in.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. RESTAURANT -- NIGHT]</p>
+<p>(CATHERINE and O'RILEY question the WAITRESS.)</p>
+<p><strong>Waitress</strong>: Look, I got to get out of here, okay? My kid's with a sitter and it's not like this gig covers day care.</p>
+<p><strong>Catherine</strong>: Yeah, I know what that's like. I got a kid at home myself.</p>
+<p><strong>Waitress</strong>: (retorts) So what, now we're, like, related?</p>
+<p><strong>Catherine</strong>: Ah, you know what, get it off your chest. It sucks. You're living for everybody but yourself. But you know what? You're still breathing.</p>
+<p><strong>O'Riley</strong>: So?</p>
+<p><strong>Waitress</strong>: So, I'm out here busing tables, and I hear voices.</p>
+<p>(Quick flashback to: The WAITRESS looks out the window and sees two men arguing.)</p>
+<p><strong>Waitress</strong>: (V.O.) It's nothing new around here.</p>
+<p>(The WAITRESS doesn't think anything of it. She turns away and continues to work. A few moments later, she's startled by a gunshot. End of flashback. Resume to present.)</p>
+<p><strong>Waitress</strong>: And it's like a bomb goes off. I mean ... I thought I was deaf.</p>
+<p><strong>O'Riley</strong>: Then what?</p>
+<p><strong>Waitress</strong>: And then one guy's on the ground and the other guy's taking off. And no, I didn't see his face.</p>
+<p><strong>Catherine</strong>: Did you see a license plate?</p>
+<p><strong>Waitress</strong>: No.</p>
+<p><strong>Catherine</strong>: Can you describe the vehicle?</p>
+<p><strong>Waitress</strong>: It was a pickup. </p>
+<p>(Quick flashback to: The pickup truck drives away, tires screeching. End of flashback. Resume to present.)</p>
+<p><strong>Waitress</strong>: With one of those cover things on the back, you know, a ... </p>
+<p><strong>O'Riley</strong>: Camper top.</p>
+<p><strong>Waitress</strong>: I know what it's called. Look, Roger was a regular, okay? Draft beer. Tonight, he's drinking J.D. Straight up, six in an hour. If you ask me, he was looking for trouble.CUT TO:</p>
+<hr />
+[EXT. BUILDING ROOF -- NIGHT]</p>
+<p>(NICK is on the rooftop looking around. He walks to GRISSOM and stops to stand right in front of him.)</p>
+<p><strong>Nick</strong>: I've been searching high and low for a blunt object. Crow bar, two-by-four, brick, something like that. Nothing. But I did find this crack pipe. I'll get it back to the lab see if I can get some prints off of it. </p>
+<p>(As NICK speaks, GRISSOM starts to lose his hearing and for a moment, he can't hear what NICK'S saying at all.)</p>
+<p><strong>Nick</strong>: (sound muffled to no sound at all) This roof's not that accessible, you know? Besides, coming all the way up here to get high and low. But still, little extreme for this part of town don't you think?</p>
+<p>(GRISSOM looks at NICK and takes his best guess.)</p>
+<p><strong>Grissom</strong>: Swab it, print it, bag it. See if you can find out who smoked it.</p>
+<p>(GRISSOM picks up his stuff and leaves.)</p>
+<p><strong>Nick</strong>: Okay.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. RESTAURANT - PARKING LOT -- NIGHT]</p>
+<p>(CATHERINE walks along the parking lot looking for evidence. She kneels down and sees a bullet casing.)</p>
+<p><strong>O'Riley</strong>: 50 caliber.</p>
+<p><strong>Catherine</strong>: Yeah, you need a cannon to fire a hunk of lead that big.</p>
+<p><strong>O'Riley</strong>: Feel like hunting for a bullet?</p>
+<p>(CATHERINE bags it.)</p>
+<p><strong>Catherine</strong>: Anything that might have hit it would have ripped right through. Thing's probably still moving.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(WARRICK walks to the lab.)</p>
+<p><strong>Warrick</strong>: Leah! Good to have you back on nights.</p>
+<p><strong>Leah</strong>: I know. I hate days.</p>
+<p><strong>Warrick</strong>: I came to see you for your expert opinion.</p>
+<p><strong>Leah</strong>: Shoot.</p>
+<p><strong>Warrick</strong>: See what you can make of this.</p>
+<p>(WARRICK takes out a photograph of the tattoo. LEAH looks at it with magnifying glass.)</p>
+<p><strong>Leah</strong>: Hmm. Use of only black and gray ink is known as fine-line. Not a<br />
+&quot;scratcher&quot; job.</p>
+<p><strong>Warrick</strong>: You recognize this?</p>
+<p><strong>Leah</strong>: Signed by the artist himself. Take a look.</p>
+<p><strong>Warrick</strong>: I-I?</p>
+<p><strong>Leah</strong>: In roman numerals, two. As in &quot;tat-too.&quot; Premier skin artist in Vegas. Also a Ph.D. in psychology.</p>
+<p><strong>Warrick</strong>: He's a shrink?</p>
+<p><strong>Leah</strong>: Mm-hmm.</p>
+<p><strong>Warrick</strong>: So he gets in your head and under your skin, huh? You're a gem.</p>
+<p><strong>Leah</strong>: Thank you. I got a new one.</p>
+<p><strong>Warrick</strong>: Really?</p>
+<p><strong>Leah</strong>: Check it out.</p>
+<p>(LEAH takes her coat off to show WARRICK a butterfly tattoo on her right shoulder.)</p>
+<p><strong>Warrick</strong>: Nice. The rose is still my favorite, though.</p>
+<p>(WARRICK smiles at her and leaves. Camera holds on LEAH.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[INT. TATTOO PARLOR -- NIGHT]</p>
+<p>(NICK and WARRICK walk in to the establishment.)</p>
+<p><strong>Nick</strong>: Is the doctor in?</p>
+<p><strong>Doctor</strong>: Yes, I am.</p>
+<p>SHORT TIME CUT TO:<br />
+(The DOCTOR looks at a photograph of the tattoo. NICK looks at something off of the shelf next to a stack of books on mythology. He looks at the DOCTOR and notices him watching. NICK puts the thing back on the shelf.)</p>
+<p><strong>Nick</strong>: Hmm.</p>
+<p><strong>Doctor</strong>: Skin and ink, ink and skin -- one makes the other one live. You see, that's strength ... </p>
+<p>(The DOCTOR points to the &quot;wings&quot; in the tattoo. Camera focuses in for a close up of the &quot;wings&quot;.) </p>
+<p><strong>Doctor</strong>: ... and that's superiority ...</p>
+<p>(Camera flashes to the entire tattoo.) </p>
+<p><strong>Doctor</strong>: ... and that's ambition without limit. See, it's the chosen one.</p>
+<p>(He holds up the photograph for them to look at. NICK nods.)</p>
+<p><strong>Nick</strong>: Hmm.</p>
+<p>(The DOCTOR pushes his chair back to get a binder that a customer is looking at.)</p>
+<p><strong>Doctor</strong>: Can I borrow that? Excuse me. (He shows them the binder.) It's my book. All my victims. (He flips a page.) His name was Jimmy Maurer.</p>
+<p>(He shows them the photo of a young, blonde man proudly showing off his new tattoo for the camera.)</p>
+<p>(Quick flashback to: JIMMY MAURER looking at his tattoo. End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: Was? What do you mean, that's not his name anymore?</p>
+<p><strong>Doctor</strong>: He died, didn't he? Well, his fate was inevitable. I simply gave it form.</p>
+<p><strong>Warrick</strong>: (looking at the photo) Strength, superiority, and ambition, huh? Not exactly the characteristics of an angel.</p>
+<p><strong>Doctor</strong>: No, it's not an angel. It's Greek mythology. Icarus. He flew too close to the sun on wings of feathers and wax.</p>
+<p><strong>Warrick</strong>: And when the wax melted, he plunged to his death.</p>
+<p><strong>Doctor</strong>: Hubris. Is that what brought Jimmy down, as well?</p>
+<p><strong>Nick</strong>: Hey, man, you tell us.</p>
+<p><strong>Doctor</strong>: How should I know?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - DNA LAB]</p>
+<p>(CATHERINE walks into the lab.)</p>
+<p><strong>Catherine</strong>: Hey, Greggy, any luck on those blood and hair samples?</p>
+<p><strong>Greg</strong>: Don't insult me. Luck is for those without skill.</p>
+<p><strong>Catherine</strong>: Hmm, spoken like a man who's never hit a jackpot.</p>
+<p><strong>Greg</strong>: Hmm, sad but true. (GREG grabs the results from the printer.) Slot plot on the blood and hair ... came back negative. Not human. They're animal.</p>
+<p>(CATHERINE looks at the results.)</p>
+<p><strong>Catherine</strong>: Hmm.</p>
+<p>(She turns and heads out of the lab.)</p>
+<p><strong>Greg</strong>: You can take that with you if you want.</p>
+<p><strong>Catherine</strong>: Thanks, I will.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY]</p>
+<p>(NICK and WARRICK walk through the door to the hallway on their way to the Autopsy room.)</p>
+<p><strong>Nick</strong>: And I spoke with Brass. That squirrelly tattoo artist had a record.</p>
+<p><strong>Warrick</strong>: For what?</p>
+<p><strong>Nick</strong>: Drug conviction: Crack, cocaine.</p>
+<p><strong>Warrick</strong>: You got a print off of that pipe?</p>
+<p><strong>Nick</strong>: Lab's working on it.</p>
+<p>(They enter the Autopsy Room.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY -- CONTINUOUS]</p>
+<p>(DOC ROBBINS is already there.)</p>
+<p><strong>Nick</strong>: Hey, Doc.</p>
+<p><strong>Robbins</strong>: Hi, fellows. Cause of Death -- any takers?</p>
+<p><strong>Nick</strong>: (sighs) Blunt force trauma.</p>
+<p><strong>Warrick</strong>: You know if he's asking we're not going to figure it out.</p>
+<p><strong>Robbins</strong>: Nicely played. It's suffocation. After I cleaned him up, noticed bluish discolorations on his lips (Camera moves slowly down the victim's right side to show the bluish colored skin.) ... and on what's left of his nail beds. </p>
+<p>(Camera zooms in to the victim's fingernails.) </p>
+<p><strong>Nick</strong>: Cyanosis? Body was starved for oxygen.</p>
+<p><strong>Warrick</strong>: Strangled, and then thrown off of the roof?</p>
+<p><strong>Robbins</strong>: Found no ligature marks on his neck no petechial hemorrhaging. Hence, no forcible suffocation.</p>
+<p><strong>Nick</strong>: Okay, not beaten to death, not strangled to death. But something bad went down on that roof. He left half his head up there, man </p>
+<p><strong>Robbins</strong>: uh, more like... uh ... 25%.</p>
+<p>(Camera shows the victim's damaged head.)</p>
+<p><strong>Warrick</strong>: Suffocation means he died with his brain still in his head.</p>
+<p><strong>Nick</strong>: Yeah, but there's no evidence of anyone else at the scene. How do you suffocate alone on a rooftop?</p>
+<p><strong>Robbins</strong>: You don't.</p>
+<p><strong>Warrick</strong>: All right. High impact from a high altitude.</p>
+<p><strong>Robbins</strong>: Well, above 15,000 feet, hypoxia can occur in minutes.</p>
+<p><strong>Nick</strong>: (nods) He died in the sky.</p>
+<p><strong>Warrick</strong>: Yeah... and the rest is gravity.</p>
+<p>(Quick flashback to: JIMMY MAURER falls from the sky at a high speed. He hits the side of the building rooftop and continues to fall to the ground below.)</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI -- HALLWAY]</p>
+<p>(WARRICK and BRASS walk down the hallway. )</p>
+<p><strong>Brass</strong>: You know, your vic was an interesting guy. He had no home address. Just post office boxes in California, Utah, Vegas.</p>
+<p>(BRASS hands WARRICK a file.)</p>
+<p><strong>Warrick</strong>: Drive a car?</p>
+<p><strong>Brass</strong>: Nissan Xterra. Cali tags and license, but he was all squared away.</p>
+<p><strong>Warrick</strong>: None of this explains how he dropped out of the sky.</p>
+<p><strong>Brass</strong>: Well, the, uh, possibilities are limited. Either he was pushed out of a plane or he stowed away in the landing gear, or, um ... skydiving gone bad.</p>
+<p><strong>Warrick</strong>: All right, none of that works. I talked to air traffic control and they had no aircraft operating in that area at that time.</p>
+<p>(BRASS walks into his office. After a beat, he walks back out.)</p>
+<p><strong>Brass</strong>: &quot;La lluvia de peces.&quot;</p>
+<p><strong>Warrick</strong>: What?</p>
+<p><strong>Brass</strong>: The raining of fish. Occasionally, usually in the early spring in Yoro, Honduras, it rains, um ... (nods) ... sardines.</p>
+<p><strong>Warrick</strong>: (scoffs) Sardines? That's funny.</p>
+<p><strong>Brass</strong>: Really. I've seen it. (rambling) I mean, the scientific explanation is ... this sounds like a Grissom thing ... is that they get sucked out of the ocean by these waterspouts that are like, you know you know, tornadoes, and, uh, then ... look, the point is, Rick they got to come from somewhere. They gotta come from somewhere.</p>
+<p>(BRASS walks back into his office. WARRICK gets ready to leave, when he stops.)</p>
+<p><strong>Warrick</strong>: What the hell were you doing in Honduras?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - BALLISTICS LAB]</p>
+<p>(CATHERINE walks into the Ballistics Lab.)</p>
+<p><strong>Catherine</strong>: Bobby.</p>
+<p><strong>Bobby</strong>: Not a lot of guns chambered for 50 AE. It kind of narrows the field. Got AMT auto mag five, LAR grizzly...</p>
+<p><strong>Catherine</strong>: Desert eagle?</p>
+<p><strong>Bobby</strong>: Yeah, how'd you know?</p>
+<p><strong>Catherine</strong>: Had O'Riley run the vic for registered firearms. It turns out that Roger Mitchel purchased a magnum research desert eagle mark-seven three weeks ago.</p>
+<p><strong>Bobby</strong>: I know the gun. Idiot-big and shiny.</p>
+<p><strong>Catherine</strong>: Right, well, you know some men feel the need to compensate. </p>
+<p><strong>Bobby</strong>: Actually, a gun like that intimidates, makes a statement.</p>
+<p><strong>Catherine</strong>: Yes, it does. Beer drinker switches to bourbon. He's got himself a brand-new gun. He's just looking for a fight. Statement is, &quot;bring it on.&quot; </p>
+<p>(Quick flashback to: The two men fight. One man swings and misses. The other man runs to his car and gets out his gun. He absently shuts the door.)</p>
+<p><strong>Catherine</strong>: (V.O.) So, full of liquid courage, he hauls out the big iron. </p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: But a drunk is not hard to disarm.</p>
+<p>(Quick flashback to: The two men struggle for the gun. The gun goes off. End of flashback. Resume to present.)</p>
+<p><strong>Bobby</strong>: (nods) Vic gets shot with his own weapon.</p>
+<p><strong>Catherine</strong>: And the perp walks away with the murder weapon.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(NICK works on the computer)</p>
+<p><strong>Nick</strong>: According to trace, the yellow dust on Jimmy Maurer's leg was pinion pine pollen.</p>
+<p><strong>Warrick</strong>: Say that three times fast.</p>
+<p><strong>Nick</strong>: Pinion's a desert tree found in higher elevations 4,500 feet and up.</p>
+<p><strong>Warrick</strong>: 4,500 feet ... Mount Potosi.</p>
+<p><strong>Nick</strong>: Yeah, it fits the bill to a tee. Think our vic was there before he died.</p>
+<p><strong>Warrick</strong>: That's on the ground. Let's get on the net and figure out how he got into the air.</p>
+<p><strong>Nick</strong>: Yeah, look under what? Hot air balloons? There was nothing in the air. I mean, we can ...</p>
+<p>(WARRICK types in &quot;Flying&quot; for a search.)</p>
+<p><strong>Nick</strong>: Flying? You're a genius.</p>
+<p><strong>Warrick</strong>: Of course.</p>
+<p>(The computer spews out some results:</p>
+<p>[Adventures Development Corp.<br />
+(702) 555-0189</p>
+<p>Potosi Glide Center<br />
+702-555-0143</p>
+<p>Guidway Travel<br />
+(702) 555-0152</p>
+<p>Meadowlark Travel<br />
+(702) 555-0176 ]</p>
+<p><strong>Nick</strong>: (murmuring) Pinion pine pollen, pinion pine pollen, pinion pine pollen.</p>
+<p>(WARRICK looks at NICK and shakes his head. NICK smiles.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS (STOCK) - DAY]</p>
+<hr />
+[EXT. -- DAY]</p>
+<p>(CATHERINE and O'RILEY walk up to the house.)</p>
+<p><strong>O'Riley</strong>: That camper-top pickup was reported stolen. The R.O. is a Ned Bookman. Lives in Henderson.</p>
+<p><strong>Catherine</strong>: Well, that's three miles from here. That's walking distance.</p>
+<p><strong>O'Riley</strong>: Gets better. Ned Bookman and our vic live on the same street.</p>
+<p><strong>Catherine</strong>: Ooh, neighbors.</p>
+<p>(They see the pickup truck and start examining it.)</p>
+<p><strong>O'Riley</strong>: Ignition block's intact. No sign of forced entry.</p>
+<p><strong>Catherine</strong>: Hey, do you smell something?</p>
+<p><strong>O'Riley</strong>: Like what?</p>
+<p><strong>Catherine</strong>: Something ... fruity.</p>
+<p><strong>O'Riley</strong>: I thought it was your perfume.</p>
+<p><strong>Catherine</strong>: No. I never wear perfume at work. It dulls the sense of smell. </p>
+<p>(CATHERINE walks to the back of the truck. She opens the camper and looks in the back. They see pieces of tree and fruit.</p>
+<p><strong>Catherine</strong>: A-ha. (CATHERINE picks up a fruit and smells it. Mulberries.</p>
+<p>(O'RILEY nods.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. PHYSICIAN'S OFFICE]</p>
+<p>(GRISSOM is in the doctor's office taking an auditory test.)</p>
+<p>(As he hears the tones, he lifts up his finger. The lower tones are stronger, the higher tones are weaker.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. MOUNTAIN -- DAY]</p>
+<p>(A photographer takes pictures of the paraglider taking off.)</p>
+<p><strong>Nick</strong>: It's amazing how simple it is. Air fills the canopy and you're off.</p>
+<p><strong>Warrick</strong>: Yeah, sounds like you want to go for a spin.</p>
+<p><strong>Nick</strong>: Well, it looks like it might be a rush.</p>
+<p><strong>Rick Weston (instructor)</strong>: Paragliding's a two-piece system -- harness and canopy. Now, the canopies are fitted to you according to body weight so if anyone has dropped a few for vanity speak up now, please. No? Okay. You're going to want to look around. Take in the sights. Do it. Enjoy it. The best view in the world. But don't forget, we weren't born with wings. We had to make them. So respect the equipment, okay? All right, then. It's time to fly. Any last questions?</p>
+<p>(NICK and WARRICK walk toward RICK WESTON just as he's finishing up class.)</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p>(WARRICK raises his hand.)</p>
+<p>SHORT TIME CUT TO:</p>
+<hr />
+[EXT. MOUNTAIN - DAY -- CONTINUOUS]</p>
+<p>(NICK and WARRICK walk with the INSTRUCTOR, RICK WESTON.)</p>
+<p><strong>Rick Weston</strong>: Yeah, I know Jimmy. The guy's got an attitude. Cocky. Might be able to handle his own in the air but I don't care for his style.</p>
+<p><strong>Warrick</strong>: What's his style?</p>
+<p><strong>Rick Weston</strong>: Well, he likes to grandstand. You know, this sport's about soaring. He's about showing off.</p>
+<p><strong>Warrick</strong>: Looks like it should be about having fun.</p>
+<p><strong>Rick Weston</strong>: Yeah, it's about having fun. But also, there's etiquette. I mean, a guy breezes in from nowhere does things his own way ... ah, maybe the ... walk back'll humble him a little.</p>
+<p><strong>Nick</strong>: The walk back?</p>
+<p><strong>Rick Weston</strong>: When you fly you need thermals or upshots of air used for lift. I mean, on a good day, you can stay airborne for hours.</p>
+<p><strong>Nick</strong>: How high do these thermals get?</p>
+<p><strong>Rick Weston</strong>: Well, you can take them as fars they take you. One time I was above 18,000 feet, when I came down I was about 35 miles from where I launched.</p>
+<p><strong>Nick</strong>: Whoa. Yeah, the walk back.</p>
+<p><strong>Rick Weston</strong>: (nods toward the truck) That's Jimmy's truck, it's been there since yesterday. What kind of trouble is he in, anyway?</p>
+<p><strong>Nick</strong>: The worst kind. Thanks, Rick.</p>
+<p>(He nods) </p>
+<p>CUT TO:</p>
+<hr />
+[EXT. NED BOOKMAN'S GARAGE/DRIVEWAY -- DAY]</p>
+<p>(NED'S garage door opens. He shows it to CATHERINE and O'RILEY.)</p>
+<p><strong>Ned Bookman</strong>: Ah, crap!</p>
+<p><strong>O'Riley</strong>: Like we said, your truck's not here. Why did you report it stolen?</p>
+<p><strong>Ned Bookman</strong>: Look, I got another car. I hardly ever use the pickup. I work nights. Anybody could've stolen it. You know, I mean ... it could happen.</p>
+<p>(CATHERINE looks up and sees the container up in the garage door. She stretches up and grabs it.)</p>
+<p><strong>Catherine</strong>: Hmm. Hide-a-key. (She opens it.) Empty. Anybody else know about this?</p>
+<p><strong>Ned Bookman</strong>: (dryly) Apparently.</p>
+<p><strong>O'Riley</strong>: Now how well did you know the victim?</p>
+<p><strong>Ned Bookman</strong>: Roger lived across the street. Didn't make us pals, just neighbors.</p>
+<p>(CATHERINE turns around to look at ROGER EDMONDS' house.)</p>
+<p><strong>Catherine</strong>: Looks like Roger's got a mulberry tree. So, Ned, we found mulberry branches in your pickup and there's a mulberry tree in your dead neighbor's yard. I'm starting to like you, Ned and not in a good way.</p>
+<p><strong>Ned Bookman</strong>: (nervously) Uh, F-F-Frank Kraft stole my truck. Uh ... I mean, I mean he-he &quot;borrowed&quot; it. He-he ... he borrows my stuff. I don't mind.</p>
+<p><strong>Catherine</strong>: Let me guess, um, Frank Craft lives in the blue house on the other side of the fence.</p>
+<p><strong>Ned Bookman</strong>: He and Roger, uh ... had problems. But you didn't hear it from me. </p>
+<p>(CATHERINE tosses the hide-a-key container to NED. He doesn't catch it and bends to pick it up.)</p>
+<p><strong>Ned Bookman</strong>: (calls out) Please don't say anything.</p>
+<p>(CATHERINE and O'RILEY walk down the driveway.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. MOUNTAIN - DAY] </p>
+<p>(WARRICK and NICK search JIMMY MAURER'S car. WARRICK checks out the contents of the back.)</p>
+<p><strong>Warrick</strong>: Guy's got a surfboard for California and a snowboard for Utah.<br />
+(NICK opens the bag in the car.)</p>
+<p><strong>Nick</strong>: And a paragliding canopy for Nevada. Ripped to shreds. It's mine now. I'll swab it for epithelials.</p>
+<p><strong>Warrick</strong>: If his canopy was ripped to shreds what the hell was he flying with?</p>
+<p>(WARRICK finds a note under the windshield wiper.)</p>
+<p><strong>Nick</strong>: What's that?</p>
+<p><strong>Warrick</strong>: &quot;Guess you can fly with anything. Find me when you get back-- T.&quot;</p>
+<p><strong>Nick</strong>: What?</p>
+<p>(WARRICK shows NICK the note. Under the note is a number: 555-1086.)</p>
+<p><strong>Nick</strong>: I'll check it out.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<hr />
+[INT. T'S RESIDENCE -- DAY]</p>
+<p>(NICK interviews T.)</p>
+<p><strong>T (photographer)</strong>: Jimmy once told me, &quot;Only a paraglider knows why the birds sing.&quot;</p>
+<p><strong>Nick</strong>: That sounds like a line.</p>
+<p><strong>T (photographer)</strong>: It is. They all use it. Skydivers, hang gliders, pilots. On some girls it even works.</p>
+<p><strong>Nick</strong>: Did it work on you?</p>
+<p><strong>T (photographer)</strong>: My art is an attempt to express what it feels like to fly and Jimmy was helping me do that.</p>
+<p>(She shows NICK some photos of JIMMY MAURER.)</p>
+<p><strong>Nick</strong>: Jimmy's leg loops are unbuckled. How come?</p>
+<p><strong>T (photographer)</strong>: He never buckled them. Jimmy enjoyed showing people up. It wasn't enough for him to be a great flyer. He needed everyone to see that he was fearless.</p>
+<p><strong>Nick</strong>: Well, I bet that didn't settle real well with Rick Weston. (NICK looks at a particular photo.) When did you take this one?</p>
+<p><strong>T (photographer)</strong>: Yesterday.</p>
+<p><strong>Nick</strong>: And is that the canopy Jimmy normally flew with?</p>
+<p><strong>T (photographer)</strong>: (shakes her head) Mm-mm.</p>
+<p><strong>Nick</strong>: Where'd he get it?</p>
+<p><strong>T (photographer)</strong>: I don't know. He told me somebody messed with his rig but that wasn't going to keep him out of the air.</p>
+<p>(NICK looks at another photo.)</p>
+<p><strong>Nick</strong>: And who's he butting heads with here?</p>
+<p><strong>T (photographer)</strong>: Fred Dacks.</p>
+<p><strong>Nick</strong>: Who's that?</p>
+<p><strong>T (photographer)</strong>: He's a good flyer. He's very competitive.</p>
+<p><strong>Nick</strong>: And by the looks of things he was pretty competitive with Jimmy.</p>
+<p><strong>T (photographer)</strong>: Always.</p>
+<p>(Quick flashback to: FRED DACKS walking by.)</p>
+<p><strong>Jimmy Maurer</strong>: You think that's going to give you the edge? I could fly with anything.</p>
+<p><strong>Fred Dacks</strong>: Then show me some air, punk.</p>
+<p>(Cut to: T snaps photos.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: Is that Fred there in the yellow and white canopy?</p>
+<p><strong>T (photographer)</strong>: Jimmy followed his line. He went after him hard. Had to win at all costs.</p>
+<p><strong>Nick</strong>: Expensive price to pay.</p>
+<p>FADE TO BLACK.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[EXT. ROADWAY TO KRAFT'S HOUSE -- DAY]</p>
+<p>(CATHERINE and O'RILEY make their way to FRANK KRAFT'S house.)</p>
+<p><strong>O'Riley</strong>: This guy Kraft's had a dozen complaints filed against him by residents on the block. Property line disputes, petty thefts, one assault.</p>
+<p><strong>Catherine</strong>: A regular Mister Rogers.</p>
+<p><strong>O'Riley</strong>: Yeah.</p>
+<p>(CATHERINE looks at the groves in the front lawn.)</p>
+<p><strong>Catherine</strong>: Check this out.</p>
+<p><strong>O'Riley</strong>: Creative parking?</p>
+<p><strong>Catherine</strong>: Something.</p>
+<p>(They walk on the lawn and see that the tracks go all the way up to the tree. They continue walking to the front door.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. KRAFT'S RESIDENCE - DAY - CONTINUOUS]</p>
+<p>(CATHERINE knocks on the door. FRANK KRAFT opens the door.)</p>
+<p><strong>Frank Kraft</strong>: What do you want?</p>
+<p><strong>O'Riley</strong>: Frank Kraft?</p>
+<p><strong>Frank Kraft</strong>: So what?</p>
+<p><strong>O'Riley</strong>: Detective O'Riley. Vegas P.D. This is Catherine Willows from the crime lab. We'd like to have a few words with you.</p>
+<p><strong>Frank Kraft</strong>: Show me the badge.</p>
+<p>(O'RILEY shows FRANK KRAFT his badge.)</p>
+<p><strong>Catherine</strong>: That's a hell of a bruise you've got on your chin, Mr. Kraft. How did you get that?</p>
+<p><strong>Frank Kraft</strong>: I sent away for it. You want one of your own?</p>
+<p>(CATHERINE chuckles lightly.)</p>
+<p><strong>Catherine</strong>: Recoil's a bitch, isn't it?</p>
+<p>(Quick flashback to: The gun firing and FRANK grunting from the recoil. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Do you have a dog?</p>
+<p><strong>Frank Kraft</strong>: Do you have a warrant?</p>
+<p><strong>O'Riley</strong>: No, we're just talking here.</p>
+<p>(FRANK steps back and closes the door.)</p>
+<p><strong>O'Riley</strong>: Nice fellow.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. SPORTING GOODS STORE -- DAY]</p>
+<p>(WARRICK and NICK walk into the store.)</p>
+<p><strong>Warrick</strong>: According to the manager Fred Dacks has been working here for three years. Model employee, knows his gear. (to the SALESWOMAN) Hi.</p>
+<p><strong>Saleswoman</strong>: Hi.</p>
+<p><strong>Warrick</strong>: I'm looking for Fred Dacks.</p>
+<p><strong>Saleswoman</strong>: (points) He's right over there.</p>
+<p><strong>Warrick</strong>: Thanks.</p>
+<p><strong>Saleswoman</strong>: You're welcome.</p>
+<p>(WARRICK and NICK walks on.)</p>
+<p><strong>Warrick</strong>: But guess who just got hired here a month ago?</p>
+<p><strong>Nick</strong>: Uh, Jimmy Maurer?</p>
+<p><strong>Warrick</strong>: Yeah. Small world, huh?</p>
+<p><strong>Nick</strong>: Yeah, I'll say.</p>
+<p><strong>Warrick</strong>: Fred Dacks?</p>
+<p><strong>Fred Dacks</strong>: Yeah, what can I do for you? </p>
+<p><strong>Warrick</strong>: I'm Warrick Brown, this is Nick Stokes. We're from the Las Vegas Crime Lab. We need to ask you a few questions about Jimmy Maurer.</p>
+<p><strong>Fred Dacks</strong>: Jimmy. The guy was a punk. Other than paragliding and working here we had nothing in common.</p>
+<p><strong>Warrick</strong>: Except maybe that tattoo right there.</p>
+<p><strong>Fred Dacks</strong>: Yeah, only 'cause that fool bit it off me. (Indicates his tattoo.)<br />
+This was a one-of-a-kind around here until he rolled in with his little birdman or whatever.</p>
+<p><strong>Warrick</strong>: You mean Icarus, right?</p>
+<p><strong>Fred Dacks</strong>: Yeah, whatever. It doesn't change a thing. The guy was a mouth. He threw shade all over the place.</p>
+<p><strong>Nick</strong>: Really?</p>
+<p><strong>Fred Dacks</strong>: Yeah.</p>
+<p><strong>Nick</strong>: Funny, that's what we heard about you.</p>
+<p><strong>Fred Dacks</strong>: Oh, is that right? From who? That artsy chick? He was sticking it to her. What did you think she was going to say? Plus, she was still pissed at me that I didn't take part in her little &quot;masterpiece.&quot;</p>
+<p><strong>Nick</strong>: That really doesn't concern me, Mr. Dacks. What I want to know is, did you fly with Jimmy the day he died?</p>
+<p><strong>Fred Dacks</strong>: Hell, no. I wouldn't fly with him. Dude can't match my skills. Nothing but a menace.</p>
+<p><strong>Warrick</strong>: Try again. Your yellow canopy.</p>
+<p>(WARRICK stops FRED DACKS by showing him the photograph of the two flying.)</p>
+<p><strong>Nick</strong>: We know that's you, Fred.</p>
+<p><strong>Fred Dacks</strong>: Oh, yeah. See? Tight line, leading edge to the wind. Carving it up. Must be me.</p>
+<p>(Quick flashback to: FRED DACKS taking off and leaving JIMMY MAURER back on the ledge preparing to fly. Cut to: JIMMY MAURER taking off. End of flashback. Resume to present.)</p>
+<p><strong>Fred Dacks</strong>: Yeah, yeah, I remember now, all right? Last time I saw Jimmy, he was still on the ground tugging his junk.</p>
+<p><strong>Warrick</strong>: It wasn't his junk, it was someone else's.</p>
+<p><strong>Fred Dacks</strong>: Well, then, why are you talking to me, man? 'Cause the only rig I got is my own. (He tightens the sleeping bag string and puts it on the shelf.)<br />
+We done?</p>
+<p><strong>Warrick</strong>: Yeah, for now.</p>
+<p><strong>Fred Dacks</strong>: Uh-huh.</p>
+<p>(FRED DACKS walks away. NICK picks the sleeping bag that FRED DACKS just handled and tells the SALESWOMAN.)</p>
+<p><strong>Nick</strong>: Uh, you know what? I'll take this one.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. ROGER EDMONDS' HOUSE -- DAY]</p>
+<p>(O'RILEY walks back toward CATHERINE from talking with NED.)</p>
+<p><strong>Catherine</strong>: Let me guess. Citizen Ned doesn't want to get involved?</p>
+<p><strong>O'Riley</strong>: Kraft scares the crap out of the guy.</p>
+<p><strong>Catherine</strong>: Well, I guess he doesn't want to be seen talking to us.</p>
+<p><strong>O'Riley</strong>: Boiled down, basically he said Kraft and the vic had a pretty bad history.</p>
+<p><strong>Catherine</strong>: Yeah, that's becoming really clear. Check this out. Kraft was stealing cable from Edmonds. Edmonds cuts the line. Hate thy neighbor. Did Ned mention anything about Kraft's dog?</p>
+<p><strong>O'Riley</strong>: Only that it was always chained up in the yard. And always barking.</p>
+<p>(CATHERINE looks at the chain tied up around the tree.)</p>
+<p>(Quick flashback to: A car driving up the lawn and toward the dog. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: I'm starting to think the victim may have taken care of that.</p>
+<p><strong>O'Riley</strong>: What about the tire marks?</p>
+<p><strong>Catherine</strong>: Not enough detail -- we'd never get a match. We can't check Kraft's property out without a warrant. But ... </p>
+<p>(CATHERINE picks up the shears.)</p>
+<p><strong>O'Riley</strong>: Oh, that won't get you a warrant, either.</p>
+<p>(CATHERINE smiles at O'RILEY.)</p>
+<p><strong>Catherine</strong>: You like jigsaw puzzles?</p>
+<p>(Cut to: CATHERINE up in the mulberry tree. She marks the branch with a red pen, then cuts it off. She hands it to O'RILEY down below. She marks another branch, then cuts it off.)</p>
+<p>(O'RILEY bags the branches that CATHERINE hands to him. CATHERINE continues to mark and cut.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - DNA LAB]</p>
+<p>(NICK sits in the chair waiting for the test results. WARRICK stands getting in GREG'S way. GREG gets the results and hands it to NICK.)</p>
+<p><strong>Greg</strong>: Epithelials on the slashed canopy match the ones on the sleeping bag drawstring. Fred Dacks, both places. Thank you and good night.</p>
+<p>(GREG goes back to work.)</p>
+<p><strong>Warrick</strong>: So Fred does a number on Jimmy's canopy to keep him from flying.</p>
+<p><strong>Nick</strong>: He's threatened by the guy. It's to keep from getting shown up, you know.</p>
+<p><strong>Warrick</strong>: He needs to be the Top Dog, huh?</p>
+<p><strong>Nick</strong>: Hmm.</p>
+<p><strong>Warrick</strong>: Yeah, that sounds like you.</p>
+<p><strong>Nick</strong>: Who?</p>
+<p><strong>Warrick</strong>: You.</p>
+<p><strong>Greg</strong>: That sounds like both of you. Now please, can you take this somewhere else?</p>
+<p><strong>Warrick</strong>: (ignoring GREG) So ... Jimmy gets a new canopy. Flies, dies. Comes down unattached. We got no canopy, we got no harness.</p>
+<p><strong>Nick</strong>: If we want to find out what happened we need to find that rig.</p>
+<p><strong>Greg</strong>: Well, you're not going to find it here.</p>
+<p>(GREG takes his stuff out of NICK'S hands and pushes him off of his chair.)</p>
+<p><strong>Nick</strong>: Hey, hey, hey, hey, hey.</p>
+<p><strong>Warrick</strong>: Have you taken your medication today?</p>
+<p><strong>Greg</strong>: See ya.</p>
+<p>(NICK and WARRICK leave the office.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. HALLWAY/PHYSICIAN'S OFFICE -- DAY]</p>
+<p>(GRISSOM and the DOCTOR walk into the hallway.)</p>
+<p><strong>Grissom</strong>: 125 hertz?</p>
+<p><strong>Physician</strong>: Minus 30 decibels. It's a significant decline from your last visit.</p>
+<p><strong>Grissom</strong>: Yes, but most human speech is above 300 hertz. My midrange is still clear.</p>
+<p><strong>Physician</strong>: If it were clear all the time, you wouldn't be here. I think it's time to consider something like ... surgery. Think about it. Let me know.</p>
+<p>(The DOCTOR walks away.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - AUDIO/VISUAL LAB -- DAY]</p>
+<p>(WARRICK and NICK look at the topography on the computer.)</p>
+<p><strong>Warrick</strong>: He took off here and he came down here, right?</p>
+<p><strong>Nick</strong>: Yeah. Now, the canopy's designed to soar. Has to fall downwind of the body. And at 15,000 feet, wind was northeast at 22 miles per hour.</p>
+<p><strong>Warrick</strong>: Well, we get a little classical dynamics going on we can find this rig.</p>
+<p>(NICK does the computer manipulations and they find a generic area where the rig could possibly be located at. WARRICK points to the monitor.)</p>
+<p><strong>Warrick</strong>: Search area is northeast Summerlin.</p>
+<p><strong>Nick</strong>: Yeah, let's put out a broadcast.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. -- DAY]</p>
+<p>(WARRICK and NICK walk toward the canopy and rig.)</p>
+<p><strong>Nick</strong>: Patrol unit spotted it on a routine traffic stop.</p>
+<p><strong>Warrick</strong>: Yeah, we lucked out.</p>
+<p>(They reach the rig.)</p>
+<p><strong>Nick</strong>: What have we got?</p>
+<p><strong>Warrick</strong>: Well ... </p>
+<p>(WARRICK kneels down and sees JIMMY MAURER'S name on the harness.)</p>
+<p><strong>Nick</strong>: Bingo.</p>
+<p><strong>Warrick</strong>: These leg loops, they're unbuckled. I guess there's no surprise there.</p>
+<p><strong>Nick</strong>: 15,000 feet up, no helmet the only thing holding you in are two shoulder harnesses and a chest strap.</p>
+<p><strong>Warrick</strong>: Not the kind of rush you're looking for?</p>
+<p><strong>Nick</strong>: Uh-uh.</p>
+<p>(WARRICK and NICK look over the glider. WARRICK finds something.)</p>
+<p><strong>Warrick</strong>: Check this out. &quot;Property of Potosi Glide Center.&quot;</p>
+<p><strong>Nick</strong>: That makes two liars.</p>
+<p><strong>Warrick</strong>: Weston didn't tell us he gave Jimmy his replacement rig.</p>
+<p><strong>Nick</strong>: 'Cause he knew how it would end up.</p>
+<p>(NICK looks at the cut lines.)</p>
+<p><strong>Nick</strong>: Jimmy never had a chance, man.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY]</p>
+<p>(WARRICK and BRASS question RICK WESTON.)</p>
+<p><strong>Rick Weston</strong>: No way. I wanted to see him get his ass kicked, not killed.</p>
+<p><strong>Brass</strong>: Yeah, problem is he did get killed. Flying your canopy.</p>
+<p><strong>Rick Weston</strong>: I don't know how that happened.</p>
+<p><strong>Warrick</strong>: Well, it seems the lines leading to the a-riser were cut.</p>
+<p>(Quick flashback to: JIMMY MAURER is up in the air. Something goes wrong. JIMMY looks up at his lines and sees that they're about to break. The lines break. End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: Your rig, your responsibility. This is your chance. I'd take it.</p>
+<p><strong>Rick Weston</strong>: Fred said that, uh ... he just wanted to teach Jimmy a lesson.</p>
+<p>(Quick flashback to: FRED DACKS approaches RICK WESTON as he puts a rig together.)</p>
+<p><strong>Fred Dacks</strong>: Rick.</p>
+<p><strong>Rick Weston</strong>: Yeah?</p>
+<p><strong>Fred Dacks</strong>: Jimmy's going to hit you up for a canopy. Why don't you give him something big and slow?</p>
+<p><strong>Rick Weston</strong>: Oh, I got that blue-green trainer. That ought to be fun.</p>
+<p><strong>Fred Dacks</strong>: (chuckles ): Perfect.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Rick Weston</strong>: Ten minutes later Jimmy shows up all hot. He asked, I gave, he took.</p>
+<p><strong>Warrick</strong>: Couldn't let Fred get the better of him.</p>
+<p><strong>Rick Weston</strong>: Look, Jimmy lacked discipline. He needed to be brought down a peg or two.</p>
+<p><strong>Brass</strong>: You brought him all the way down</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(WARRICK walks into the lab. NICK is already there.)</p>
+<p><strong>Nick</strong>: Don't tell me. Rick pleaded ignorance.</p>
+<p><strong>Warrick</strong>: Right before he lawyered it up.</p>
+<p><strong>Nick</strong>: Really? Well, , that guy's wasting his money. Take a look.</p>
+<p>(NICK hands WARRICK the tip of the frayed line.)</p>
+<p><strong>Warrick</strong>: It's frayed. You're saying if he had cut it with a tool, it'd be clean.</p>
+<p><strong>Nick</strong>: These lines are spun polymer. They're lightweight, but strong as hell covered in a plastic shell; now, over time that plastic coating wears down. Unprotected lines rub against one another ...</p>
+<p>(Quick flashback to: Two lines rubbing against one another one strong, the other frayed.)</p>
+<p><strong>Nick</strong>: ... (V.O.) weakening, fraying, until ... </p>
+<p>(The frayed line breaks. End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: ...snap! It's normal wear and tear, man.</p>
+<p><strong>Warrick</strong>: But Weston knew that that canopy was in bad shape. And we don't have any evidence to suggest that he sabotaged it.</p>
+<p><strong>Nick</strong>: Do you remember a case about a year ago? Diablo canyon?</p>
+<p><strong>Warrick</strong>: Oh, the victim of sudden weather that you thought was murdered.</p>
+<p><strong>Nick</strong>: Yeah. You fool me once, shame on you. You fool me twice ... shame on me.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(CATHERINE is in the lab working on the bags. SARA walks in. She clears her throat to get CATHERINE'S attention.)</p>
+<p><strong>Sara</strong>: Can you help me out?</p>
+<p><strong>Catherine</strong>: Uh ... depends.</p>
+<p><strong>Sara</strong>: I can't get out into the field because I'm maxed out on overtime for the month.</p>
+<p><strong>Catherine</strong>: Ah, and you're confined to the lab, huh? Well, hey, look, it's regular hours. I mean, go have dinner with the boyfriend ... Hank, right? And, and ... go, go to a spa.</p>
+<p><strong>Sara</strong>: Hank is not my boyfriend. And you know, those places are filled with bacteria.</p>
+<p><strong>Catherine</strong>: Sara, I don't make the rules around here. You've got to talk to Grissom about that.</p>
+<p><strong>Sara</strong>: Yeah ... he's, um, not really in a talking mood.</p>
+<p><strong>Catherine</strong>: What makes you think he's going talk to me? (SARA shrugs.) Get some rest.</p>
+<p><strong>Sara</strong>: I'm not tired. Really. I'm not tired.</p>
+<p>(SARA walks out of the lab.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAB -- CONTINUOUS]</p>
+<p>(CATHERINE starts working on her tree branch pieces. Using the shears, she cuts a piece off of the branch and looks at the cut under a scope.)</p>
+<p>(SCOPE VIEW)</p>
+<p>(CATHERINE then takes the first branch piece and tries to match it to the pieces she cut earlier. She finds the match and puts it on the side. She picks up the next branch.)</p>
+<p>(CATHERINE finds the match to the branch and puts the set on the side.)</p>
+<p>(Dissolve to: CATHERINE continues to match the branches to the cut pieces.)</p>
+<p>(Dissolve to: CATHERINE is nearly done.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(NICK and WARRICK study the photograph of the two paragliders.)</p>
+<p><strong>Warrick</strong>: That's the cumulus cloud formed by warm air rising? The thermals?</p>
+<p><strong>Nick</strong>: Yeah, the bigger the cloud, the more air that gets sucked in the stronger the thermal. And check out our boys. Heading straight for it.</p>
+<p><strong>Warrick</strong>: Yep. He's probably getting the ride of his life.</p>
+<p>(Quick flashback to: JIMMY MAURER up flying and the wind gusting. In front of him FRED DACKS continues to fly. JIMMY gets caught in a particular gust. He looks up at his rig.)</p>
+<p><strong>Warrick</strong>: (V.O.) He's rising fast.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: Air is getting thinner. 15,000 feet he passes out and suffocates.</p>
+<p>(Quick flashback to: JIMMY MAURER flying high in the wind gusts. He gasps for air and passes out.</p>
+<p><strong>Nick</strong>: You catch a good thermal and you take it as far as it takes you -- dead or alive.</p>
+<p>(Quick flashback to: JIMMY MAURER is passed out and flying too high. He falls off of his rig. End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: And to show Fred up, Jimmy had to fly higher.</p>
+<p><strong>Warrick</strong>: But he had an oxygen tank ... on his harness. Why didn't he use it?</p>
+<p><strong>Nick</strong>: Good question.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. KRAFT'S RESIDENCE -- NIGHT]</p>
+<p>(POLICE OFFICERS search FRANK KRAFT'S residence. CATHERINE and O'RILEY talk with FRANK KRAFT, who sits at the table.)</p>
+<p><strong>Catherine</strong>: The key word here: Retaliation. Roger Edmonds cuts the cable that you stole.</p>
+<p><strong>Frank Kraft</strong>: He was stealing it himself.</p>
+<p><strong>Catherine</strong>: Of course, he was. (She sighs.) So, then you ... chop up his tree ... </p>
+<p>(Quick flashback to: FRANK KRAFT cuts up ROGER EDMONDS' mulberry tree. When he's done, he throws the shears into ROGER'S yard. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: ... &quot;borrow&quot; Ned's truck to dump the branches ... </p>
+<p><strong>Frank Kraft</strong>: I borrow Ned's stuff all the time; he doesn't mind. It's not important to him; it's no big deal ...</p>
+<p><strong>Catherine</strong>: (interrupting) Shut up. This isn't about Ned. It's about Roger. So ... while you're out dumping the branches, Roger comes home and sees what you've done to his tree. He ups the ante.</p>
+<p>(Quick flashback to: FRANK KRAFT'S dog is tied to the tree in the front yard and barking. ROGER EDMONDS drives up the front lawn and into the dog. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: You return home ... find your dog ... start looking for Roger.</p>
+<p>(Quick flashback to: FRANK KRAFT kneeling next to his dead dog. White flash to: FRANK KRAFT drives NED'S truck to the bar where ROGER is drinking. ROGER swallows his drink and goes to meet FRANK out in the parking lot. FRANK gets out of his car.)</p>
+<p><strong>Roger Edmonds</strong>: Your dog look as bad as my tree?</p>
+<p>(FRANK grabs ROGER and pushes him into the truck where he takes a swing and misses. ROGER breaks away and opens his car and gets out his gun.)</p>
+<p><strong>Frank Kraft</strong>: ... my dog!</p>
+<p><strong>Roger Edmonds</strong>: Huh, you want some of this, pal, huh?! Come on, come on!</p>
+<p>(They both fight over the gun. The gun goes off. ROGER falls to the ground and gasps for air. End of flashback.</p>
+<p><strong>Officer</strong>: Detective.</p>
+<p>(The OFFICER holds up the missing weapon. He gives it to O'RILEY.)</p>
+<p><strong>O'Riley</strong>: Desert Eagle.</p>
+<p><strong>Catherine</strong>: Something else you ... borrowed?</p>
+<p><strong>Frank Kraft</strong>: He killed my dog.</p>
+<p>(The OFFICERS cuff FRANK KRAFT.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(WARRICK and NICK has JIMMY MAURER'S rig set up in the lab. They examine the oxygen tank.)</p>
+<p><strong>Warrick</strong>: Well, the gauge reads full.</p>
+<p><strong>Nick</strong>: Yeah, I don't think it works, bro.</p>
+<p><strong>Warrick</strong>: There's only one way to find out.</p>
+<p>(WARRICK tests the oxygen tank.)</p>
+<p><strong>Warrick</strong>: Flowing fine.</p>
+<p>(NICK sighs and thinks out loud.)</p>
+<p><strong>Nick</strong>: An experienced flyer, prepared for the altitude. There's no reason not to use his oxygen.</p>
+<p>(He scoffs.)</p>
+<p><strong>Warrick</strong>: (holding the altimeter) Unless he didn't think he needed it.</p>
+<p>(Cut to: NICK checks the inside of the altimeter. WARRICK goes over the computer topography.)</p>
+<p><strong>Warrick</strong>: Okay. Las Vegas is 2,030 feet above sea level. You got that thing plugged in yet?</p>
+<p>(NICK sets it up.)</p>
+<p><strong>Nick</strong>: There it is.</p>
+<p><strong>Warrick</strong>: Let's see what we've got.</p>
+<p>(The computer beeps.)</p>
+<p><strong>Warrick</strong>: 30 feet.</p>
+<p>(NICK chuckles)</p>
+<p><strong>Nick</strong>: I, uh, I think we're off by a couple of G's. I'll dust it.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM]</p>
+<p>(WARRICK, NICK and BRASS question FRED DACKS.)</p>
+<p><strong>Brass</strong>: Jimmy's altimeter, your fingerprints ... on the inside.</p>
+<p><strong>Fred Dacks</strong>: That's cute. You should put it in a frame. So I fix gear for other flyers sometimes, big deal.</p>
+<p><strong>Warrick</strong>: Oh, you fixed it, all right. You decalibrated it. It was off by<br />
+2,000 feet.</p>
+<p>(Quick flashback to: FRED DACKS in the back of JIMMY MAURER'S car. He goes through his bag and takes out the altimeter. He opens the altimeter and changes something inside. He closes it up. End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: In the air, you lose perspective. You have to trust your instruments </p>
+<p><strong>Brass</strong>: Jimmy didn't know how high he actually was.</p>
+<p>(Quick flashback to: JIMMY MAURER up in the air and going higher. The wind gusts and JIMMY goes higher. FRED DACKS looks up at JIMMY. JIMMY looks down at FRED DACKS below him and laughs. JIMMY looks at his altimeter which reads<br />
+10.039 +. He looks at his second machine and reads +12 / 12,040 ft. End of flashback. Resume to present.)</p>
+<p><strong>Fred Dacks</strong>: Hey, I already told you, man, this dude was soft in the air. He could've turned back anytime.</p>
+<p><strong>Brass</strong>: But you knew he wouldn't. You set him up.</p>
+<p><strong>Warrick</strong>: Yeah, you had perfect sky massive canopy, bitchen thermals, dude and a challenge he'd never refuse. You played him against himself.</p>
+<p>(Quick flashback to: JIMMY MAURER riding high in the air and hiding higher. The altimeter reads 18.517+. End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: You couldn't stand the fact that he was better than you.</p>
+<p><strong>Fred Dacks</strong>: Hey, I called him out, he took me on. Bigger air, higher altitudes push the limit, dude -- that's why we fly.</p>
+<p><strong>Warrick</strong>: No, it's not why you fly. The truth is on your arm. Alecto ... Magaera, Tisiphone; the three furies. Unceasing anger, vengeance and jealousy. That's what you're about.</p>
+<p><strong>Nick</strong>: Sorry, dude.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LOCKER ROOM]</p>
+<p>(CATHERINE gets her stuff out of the locker. WARRICK walks in.)</p>
+<p><strong>Warrick</strong>: Hey, Catherine.</p>
+<p><strong>Catherine</strong>: Hey ... I heard you know your Greek mythology. I'm impressed -- never would've guessed.</p>
+<p>(WARRICK goes to his locker to get his things.)</p>
+<p><strong>Warrick</strong>: Yeah, I'm a mystery.</p>
+<p><strong>Catherine</strong>: Yes, you are.</p>
+<p>(WARRICK chuckles.)</p>
+<p><strong>Catherine</strong>: So, where's Nick?</p>
+<p><strong>Warrick</strong>: He bugged out early.</p>
+<p><strong>Catherine</strong>: Well, good work, you guys -- both of you. Would you let him know?</p>
+<p><strong>Warrick</strong>: Thanks. Yeah, I will.</p>
+<p><strong>Catherine</strong>: I'll see you around.</p>
+<p><strong>Warrick</strong>: All right. Have a good morning.</p>
+<p><strong>Catherine</strong>: You, too.</p>
+<p>(CATHERINE walks out of the locker room.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GRISSOM'S OFFICE -- CONTINUOUS]</p>
+<p>(CATHERINE passes by GRISSOM'S office and sees that he's inside. She knocks on his door lightly before entering.)</p>
+<p><strong>Catherine</strong>: Closed that murder I was working. A man's life for a dog's life for a mulberry tree. (she sighs) Sometimes I wonder if people are meant to live together.</p>
+<p><strong>Grissom</strong>: Well, you know what they say -- &quot;good fences make good neighbors.&quot;</p>
+<p><strong>Catherine</strong>: Then you'd make a great neighbor.</p>
+<p><strong>Grissom</strong>: Hmm.</p>
+<p>(CATHERINE chuckles )</p>
+<p>(GRISSOM looks down at his laptop screen. He's looking up information on<br />
+&quot;Otosclerosis&quot;. CATHERINE looks down at the laptop.)</p>
+<p><strong>Catherine</strong>: New case?</p>
+<p><strong>Grissom</strong>: Ongoing.</p>
+<p>(She leans in to look at what he's reading. Unwilling to let anyone in, GRISSOM changes the screen to show something on &quot;The Longhorned Beetle&quot;.)</p>
+<p><strong>Catherine</strong>: Oh ... bugs.</p>
+<p><strong>Grissom</strong>: (nods) Mm.</p>
+<p><strong>Catherine</strong>: Enjoy.</p>
+<p>(CATHERINE leaves the office. GRISSOM switches screens back to &quot;Otosclerosis&quot;. He sighs and goes back to reading.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. MOUNT POTOSI]</p>
+<p>(All rigged up and ready to fly, NICK smiles and takes a deep breath before letting go with the wind.)</p>
+<p><strong>Nick</strong>: Whoo-hoo!</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-
-
-Blader 1: All the way across! Did you see that! Dude! Dude! Come on, bust it, bro.
-Blader 2: Relax man! I'm going! 
-Blader 1: You've got it. Don't puss out on me!
-
-Blader 1: Oh!
-Blader 2: Oh!  Sick yeah!
-Blader 1: Yeah, I thought for sure you were going to eat it, though.
-Blader 2: No, way, man. I had that thing hooked up.
-Blader 1: Oh you got lucky, man.
-
-Blader 1:  Ugh! Oh, my god!
-
-
-
-
-Nick: We beat Grissom here? That's a first.
-Warrick: Yeah? Maybe for you.
-
-Brass: Hey, how you doing? The jumper's John Doe. No wallet no keys, no ID.
-
-Nick: Yeah, that's the least of this guy's problem.
-
-Brass: The building's gotta be what? Six stories high? 
-Warrick: Six stories, sixty stories. It's not how you fall, it's how you land.
-Nick: You know, if you landed head first, there should be more blood.
-Warrick: Yeah, and more brain matter.
-
-Grissom:  He didn't jump.
-
-Grissom: Up here.
-
-
-
-Grissom: It's never the fall that kills you.
-
-
-
-
-
-
-
-Nick: Rain or not, I'm not finding any shoe prints.
-Grissom: High velocity spatter usually implies a gunshot.
-Nick: No casings or bullets, either.
-Grissom:  Severe head trauma. It happened before the fall.
-Nick: Sure looks like it. Hand to hand combat?
-Grissom:  Kill and dump.
-
-
-
-(DAVID PHILLIPS walks up to WARRICK.
-David Phillips: Hey.
-Warrick: Hey. I think the prints are out. Bones burst right through the skin.
-
-David Phillips: Compound fracture of the long bones including the phalanges. Extensive laceration. 
-Warrick: What about dental?
-
-David Phillips: Yeah. There might be enough to work with.
-Warrick: You think? Hey, wait a minute. Look. You might have another option. Check out that artwork.
-David Phillips: Tattoo.
-Warrick: You think you can stretch that out?
-David Phillips: Yeah, no problem.
-
-
-
-
-
-O'Riley: Wallet was with the vic. Money, cards, I.D.'S. Name's Roger Edmonds. Car's his, too.
-(CATHERINE puts her kit down and they both kneel to look at the body.
-Catherine: Single gunshot wound to the chest, through and through. Entry wound is massive. 
-
-Catherine: Unburned gunpowder. He was shot at close range.
-
-Catherine: Car door ... is closed ... but not latched. Vic was in a hurry?
-O'Riley: To get in or get out?
-Catherine: Good question. I don't see any bullet holes.
-
-Catherine: What's this? Ah, blood and hair. Maybe the vic got a piece of the perp.
-O'Riley: Waitress phoned it in.
-
-
-
-
-Waitress: Look, I got to get out of here, okay? My kid's with a sitter and it's not like this gig covers day care.
-Catherine: Yeah, I know what that's like. I got a kid at home myself.
-Waitress:  So what, now we're, like, related?
-Catherine: Ah, you know what, get it off your chest. It sucks. You're living for everybody but yourself. But you know what? You're still breathing.
-O'Riley: So?
-Waitress: So, I'm out here busing tables, and I hear voices.
-
-Waitress:  It's nothing new around here.
-
-Waitress: And it's like a bomb goes off. I mean ... I thought I was deaf.
-O'Riley: Then what?
-Waitress: And then one guy's on the ground and the other guy's taking off. And no, I didn't see his face.
-Catherine: Did you see a license plate?
-Waitress: No.
-Catherine: Can you describe the vehicle?
-Waitress: It was a pickup. 
-
-Waitress: With one of those cover things on the back, you know, a ... 
-O'Riley: Camper top.
-
-
-
-
-Nick: I've been searching high and low for a blunt object. Crow bar, two-by-four, brick, something like that. Nothing. But I did find this crack pipe. I'll get it back to the lab see if I can get some prints off of it. 
-
-Nick:  This roof's not that accessible, you know? Besides, coming all the way up here to get high and low. But still, little extreme for this part of town don't you think?
-
-Grissom: Swab it, print it, bag it. See if you can find out who smoked it.
-
-Nick: Okay.
-
-
-
-
-O'Riley: 50 caliber.
-Catherine: Yeah, you need a cannon to fire a hunk of lead that big.
-O'Riley: Feel like hunting for a bullet?
-
-Catherine: Anything that might have hit it would have ripped right through. Thing's probably still moving.
-
-
-
-
-Warrick: Leah! Good to have you back on nights.
-Leah: I know. I hate days.
-Warrick: I came to see you for your expert opinion.
-Leah: Shoot.
-Warrick: See what you can make of this.
-
-Leah: Hmm. Use of only black and gray ink is known as fine-line. Not a
-&quot;scratcher&quot; job.
-Warrick: You recognize this?
-Leah: Signed by the artist himself. Take a look.
-Warrick: I-I?
-Leah: In roman numerals, two. As in &quot;tat-too.&quot; Premier skin artist in Vegas. Also a Ph.D. in psychology.
-Warrick: He's a shrink?
-Leah: Mm-hmm.
-Warrick: So he gets in your head and under your skin, huh? You're a gem.
-Leah: Thank you. I got a new one.
-Warrick: Really?
-Leah: Check it out.
-
-Warrick: Nice. The rose is still my favorite, though.
-
-
-
-
-
-
-Nick: Is the doctor in?
-Doctor: Yes, I am.
-
-
-Nick: Hmm.
-Doctor: Skin and ink, ink and skin -- one makes the other one live. You see, that's strength ... 
- 
-Doctor: ... and that's superiority ...
- 
-Doctor: ... and that's ambition without limit. See, it's the chosen one.
-
-Nick: Hmm.
-
-Doctor: Can I borrow that? Excuse me.  His name was Jimmy Maurer.
-
-
-Nick: Was? What do you mean, that's not his name anymore?
-Doctor: He died, didn't he? Well, his fate was inevitable. I simply gave it form.
-Warrick:  Strength, superiority, and ambition, huh? Not exactly the characteristics of an angel.
-Doctor: No, it's not an angel. It's Greek mythology. Icarus. He flew too close to the sun on wings of feathers and wax.
-Warrick: And when the wax melted, he plunged to his death.
-Doctor: Hubris. Is that what brought Jimmy down, as well?
-Nick: Hey, man, you tell us.
-Doctor: How should I know?
-
-
-
-
-Catherine: Hey, Greggy, any luck on those blood and hair samples?
-Greg: Don't insult me. Luck is for those without skill.
-Catherine: Hmm, spoken like a man who's never hit a jackpot.
-Greg: Hmm, sad but true.  Slot plot on the blood and hair ... came back negative. Not human. They're animal.
-
-Catherine: Hmm.
-
-Greg: You can take that with you if you want.
-Catherine: Thanks, I will.
-
-
-
-
-Nick: And I spoke with Brass. That squirrelly tattoo artist had a record.
-Warrick: For what?
-Nick: Drug conviction: Crack, cocaine.
-Warrick: You got a print off of that pipe?
-Nick: Lab's working on it.
-
-
-
-
-
-Nick: Hey, Doc.
-Robbins: Hi, fellows. Cause of Death -- any takers?
-Nick:  Blunt force trauma.
-Warrick: You know if he's asking we're not going to figure it out.
-Robbins: Nicely played. It's suffocation. After I cleaned him up, noticed bluish discolorations on his lips  ... and on what's left of his nail beds. 
- 
-Nick: Cyanosis? Body was starved for oxygen.
-Warrick: Strangled, and then thrown off of the roof?
-Robbins: Found no ligature marks on his neck no petechial hemorrhaging. Hence, no forcible suffocation.
-Nick: Okay, not beaten to death, not strangled to death. But something bad went down on that roof. He left half his head up there, man 
-Robbins: uh, more like... uh ... 25%.
-
-Warrick: Suffocation means he died with his brain still in his head.
-Nick: Yeah, but there's no evidence of anyone else at the scene. How do you suffocate alone on a rooftop?
-Robbins: You don't.
-Warrick: All right. High impact from a high altitude.
-Robbins: Well, above 15,000 feet, hypoxia can occur in minutes.
-Nick:  He died in the sky.
-Warrick: Yeah... and the rest is gravity.
-
-
-
-
-
-
-
-
-Brass: You know, your vic was an interesting guy. He had no home address. Just post office boxes in California, Utah, Vegas.
-
-Warrick: Drive a car?
-Brass: Nissan Xterra. Cali tags and license, but he was all squared away.
-Warrick: None of this explains how he dropped out of the sky.
-Brass: Well, the, uh, possibilities are limited. Either he was pushed out of a plane or he stowed away in the landing gear, or, um ... skydiving gone bad.
-Warrick: All right, none of that works. I talked to air traffic control and they had no aircraft operating in that area at that time.
-
-Brass: &quot;La lluvia de peces.&quot;
-Warrick: What?
-Brass: The raining of fish. Occasionally, usually in the early spring in Yoro, Honduras, it rains, um ...  ... sardines.
-Warrick:  Sardines? That's funny.
-Brass: Really. I've seen it.  I mean, the scientific explanation is ... this sounds like a Grissom thing ... is that they get sucked out of the ocean by these waterspouts that are like, you know you know, tornadoes, and, uh, then ... look, the point is, Rick they got to come from somewhere. They gotta come from somewhere.
-
-Warrick: What the hell were you doing in Honduras?
-
-
-
-
-Catherine: Bobby.
-Bobby: Not a lot of guns chambered for 50 AE. It kind of narrows the field. Got AMT auto mag five, LAR grizzly...
-Catherine: Desert eagle?
-Bobby: Yeah, how'd you know?
-Catherine: Had O'Riley run the vic for registered firearms. It turns out that Roger Mitchel purchased a magnum research desert eagle mark-seven three weeks ago.
-Bobby: I know the gun. Idiot-big and shiny.
-Catherine: Right, well, you know some men feel the need to compensate. 
-Bobby: Actually, a gun like that intimidates, makes a statement.
-Catherine: Yes, it does. Beer drinker switches to bourbon. He's got himself a brand-new gun. He's just looking for a fight. Statement is, &quot;bring it on.&quot; 
-
-Catherine:  So, full of liquid courage, he hauls out the big iron. 
-
-Catherine: But a drunk is not hard to disarm.
-
-Bobby:  Vic gets shot with his own weapon.
-Catherine: And the perp walks away with the murder weapon.
-
-
-
-
-Nick: According to trace, the yellow dust on Jimmy Maurer's leg was pinion pine pollen.
-Warrick: Say that three times fast.
-Nick: Pinion's a desert tree found in higher elevations 4,500 feet and up.
-Warrick: 4,500 feet ... Mount Potosi.
-Nick: Yeah, it fits the bill to a tee. Think our vic was there before he died.
-Warrick: That's on the ground. Let's get on the net and figure out how he got into the air.
-Nick: Yeah, look under what? Hot air balloons? There was nothing in the air. I mean, we can ...
-
-Nick: Flying? You're a genius.
-Warrick: Of course.
-(The computer spews out some results:
-[Adventures Development Corp.
- 555-0189
-Potosi Glide Center
-702-555-0143
-Guidway Travel
- 555-0152
-Meadowlark Travel
- 555-0176 ]
-Nick:  Pinion pine pollen, pinion pine pollen, pinion pine pollen.
-
-
-
-
-
-
-O'Riley: That camper-top pickup was reported stolen. The R.O. is a Ned Bookman. Lives in Henderson.
-Catherine: Well, that's three miles from here. That's walking distance.
-O'Riley: Gets better. Ned Bookman and our vic live on the same street.
-Catherine: Ooh, neighbors.
-
-O'Riley: Ignition block's intact. No sign of forced entry.
-Catherine: Hey, do you smell something?
-O'Riley: Like what?
-Catherine: Something ... fruity.
-O'Riley: I thought it was your perfume.
-Catherine: No. I never wear perfume at work. It dulls the sense of smell. 
-(CATHERINE walks to the back of the truck. She opens the camper and looks in the back. They see pieces of tree and fruit.
-Catherine: A-ha. (CATHERINE picks up a fruit and smells it. Mulberries.
-
-
-
-
-
-
-
-
-
-
-Nick: It's amazing how simple it is. Air fills the canopy and you're off.
-Warrick: Yeah, sounds like you want to go for a spin.
-Nick: Well, it looks like it might be a rush.
-Rick Weston : Paragliding's a two-piece system -- harness and canopy. Now, the canopies are fitted to you according to body weight so if anyone has dropped a few for vanity speak up now, please. No? Okay. You're going to want to look around. Take in the sights. Do it. Enjoy it. The best view in the world. But don't forget, we weren't born with wings. We had to make them. So respect the equipment, okay? All right, then. It's time to fly. Any last questions?
-
-Nick: Yeah.
-
-
-
-
-
-Rick Weston: Yeah, I know Jimmy. The guy's got an attitude. Cocky. Might be able to handle his own in the air but I don't care for his style.
-Warrick: What's his style?
-Rick Weston: Well, he likes to grandstand. You know, this sport's about soaring. He's about showing off.
-Warrick: Looks like it should be about having fun.
-Rick Weston: Yeah, it's about having fun. But also, there's etiquette. I mean, a guy breezes in from nowhere does things his own way ... ah, maybe the ... walk back'll humble him a little.
-Nick: The walk back?
-Rick Weston: When you fly you need thermals or upshots of air used for lift. I mean, on a good day, you can stay airborne for hours.
-Nick: How high do these thermals get?
-Rick Weston: Well, you can take them as fars they take you. One time I was above 18,000 feet, when I came down I was about 35 miles from where I launched.
-Nick: Whoa. Yeah, the walk back.
-Rick Weston:  That's Jimmy's truck, it's been there since yesterday. What kind of trouble is he in, anyway?
-Nick: The worst kind. Thanks, Rick.
- 
-
-
-
-
-Ned Bookman: Ah, crap!
-O'Riley: Like we said, your truck's not here. Why did you report it stolen?
-Ned Bookman: Look, I got another car. I hardly ever use the pickup. I work nights. Anybody could've stolen it. You know, I mean ... it could happen.
-
-Catherine: Hmm. Hide-a-key.  Empty. Anybody else know about this?
-Ned Bookman:  Apparently.
-O'Riley: Now how well did you know the victim?
-Ned Bookman: Roger lived across the street. Didn't make us pals, just neighbors.
-
-Catherine: Looks like Roger's got a mulberry tree. So, Ned, we found mulberry branches in your pickup and there's a mulberry tree in your dead neighbor's yard. I'm starting to like you, Ned and not in a good way.
-Ned Bookman:  Uh, F-F-Frank Kraft stole my truck. Uh ... I mean, I mean he-he &quot;borrowed&quot; it. He-he ... he borrows my stuff. I don't mind.
-Catherine: Let me guess, um, Frank Craft lives in the blue house on the other side of the fence.
-Ned Bookman: He and Roger, uh ... had problems. But you didn't hear it from me. 
-
-Ned Bookman:  Please don't say anything.
-
-
-
- 
-
-Warrick: Guy's got a surfboard for California and a snowboard for Utah.
-
-Nick: And a paragliding canopy for Nevada. Ripped to shreds. It's mine now. I'll swab it for epithelials.
-Warrick: If his canopy was ripped to shreds what the hell was he flying with?
-
-Nick: What's that?
-Warrick: &quot;Guess you can fly with anything. Find me when you get back-- T.&quot;
-Nick: What?
-
-Nick: I'll check it out.
-
-
-
-
-
-T : Jimmy once told me, &quot;Only a paraglider knows why the birds sing.&quot;
-Nick: That sounds like a line.
-T : It is. They all use it. Skydivers, hang gliders, pilots. On some girls it even works.
-Nick: Did it work on you?
-T : My art is an attempt to express what it feels like to fly and Jimmy was helping me do that.
-
-Nick: Jimmy's leg loops are unbuckled. How come?
-T : He never buckled them. Jimmy enjoyed showing people up. It wasn't enough for him to be a great flyer. He needed everyone to see that he was fearless.
-Nick: Well, I bet that didn't settle real well with Rick Weston.  When did you take this one?
-T : Yesterday.
-Nick: And is that the canopy Jimmy normally flew with?
-T :  Mm-mm.
-Nick: Where'd he get it?
-T : I don't know. He told me somebody messed with his rig but that wasn't going to keep him out of the air.
-
-Nick: And who's he butting heads with here?
-T : Fred Dacks.
-Nick: Who's that?
-T : He's a good flyer. He's very competitive.
-Nick: And by the looks of things he was pretty competitive with Jimmy.
-T : Always.
-
-Jimmy Maurer: You think that's going to give you the edge? I could fly with anything.
-Fred Dacks: Then show me some air, punk.
-
-
-Nick: Is that Fred there in the yellow and white canopy?
-T : Jimmy followed his line. He went after him hard. Had to win at all costs.
-Nick: Expensive price to pay.
-
-
-
-;
-
-
-
-
-
-
-O'Riley: This guy Kraft's had a dozen complaints filed against him by residents on the block. Property line disputes, petty thefts, one assault.
-Catherine: A regular Mister Rogers.
-O'Riley: Yeah.
-
-Catherine: Check this out.
-O'Riley: Creative parking?
-Catherine: Something.
-
-
-
-
-
-Frank Kraft: What do you want?
-O'Riley: Frank Kraft?
-Frank Kraft: So what?
-O'Riley: Detective O'Riley. Vegas P.D. This is Catherine Willows from the crime lab. We'd like to have a few words with you.
-Frank Kraft: Show me the badge.
-
-Catherine: That's a hell of a bruise you've got on your chin, Mr. Kraft. How did you get that?
-Frank Kraft: I sent away for it. You want one of your own?
-
-Catherine: Recoil's a bitch, isn't it?
-
-Catherine: Do you have a dog?
-Frank Kraft: Do you have a warrant?
-O'Riley: No, we're just talking here.
-
-O'Riley: Nice fellow.
-
-
-
-
-Warrick: According to the manager Fred Dacks has been working here for three years. Model employee, knows his gear.  Hi.
-Saleswoman: Hi.
-Warrick: I'm looking for Fred Dacks.
-Saleswoman:  He's right over there.
-Warrick: Thanks.
-Saleswoman: You're welcome.
-
-Warrick: But guess who just got hired here a month ago?
-Nick: Uh, Jimmy Maurer?
-Warrick: Yeah. Small world, huh?
-Nick: Yeah, I'll say.
-Warrick: Fred Dacks?
-Fred Dacks: Yeah, what can I do for you? 
-Warrick: I'm Warrick Brown, this is Nick Stokes. We're from the Las Vegas Crime Lab. We need to ask you a few questions about Jimmy Maurer.
-Fred Dacks: Jimmy. The guy was a punk. Other than paragliding and working here we had nothing in common.
-Warrick: Except maybe that tattoo right there.
-Fred Dacks: Yeah, only 'cause that fool bit it off me. 
-This was a one-of-a-kind around here until he rolled in with his little birdman or whatever.
-Warrick: You mean Icarus, right?
-Fred Dacks: Yeah, whatever. It doesn't change a thing. The guy was a mouth. He threw shade all over the place.
-Nick: Really?
-Fred Dacks: Yeah.
-Nick: Funny, that's what we heard about you.
-Fred Dacks: Oh, is that right? From who? That artsy chick? He was sticking it to her. What did you think she was going to say? Plus, she was still pissed at me that I didn't take part in her little &quot;masterpiece.&quot;
-Nick: That really doesn't concern me, Mr. Dacks. What I want to know is, did you fly with Jimmy the day he died?
-Fred Dacks: Hell, no. I wouldn't fly with him. Dude can't match my skills. Nothing but a menace.
-Warrick: Try again. Your yellow canopy.
-
-Nick: We know that's you, Fred.
-Fred Dacks: Oh, yeah. See? Tight line, leading edge to the wind. Carving it up. Must be me.
-
-Fred Dacks: Yeah, yeah, I remember now, all right? Last time I saw Jimmy, he was still on the ground tugging his junk.
-Warrick: It wasn't his junk, it was someone else's.
-Fred Dacks: Well, then, why are you talking to me, man? 'Cause the only rig I got is my own. 
-We done?
-Warrick: Yeah, for now.
-Fred Dacks: Uh-huh.
-
-Nick: Uh, you know what? I'll take this one.
-
-
-
-
-Catherine: Let me guess. Citizen Ned doesn't want to get involved?
-O'Riley: Kraft scares the crap out of the guy.
-Catherine: Well, I guess he doesn't want to be seen talking to us.
-O'Riley: Boiled down, basically he said Kraft and the vic had a pretty bad history.
-Catherine: Yeah, that's becoming really clear. Check this out. Kraft was stealing cable from Edmonds. Edmonds cuts the line. Hate thy neighbor. Did Ned mention anything about Kraft's dog?
-O'Riley: Only that it was always chained up in the yard. And always barking.
-
-
-Catherine: I'm starting to think the victim may have taken care of that.
-O'Riley: What about the tire marks?
-Catherine: Not enough detail -- we'd never get a match. We can't check Kraft's property out without a warrant. But ... 
-
-O'Riley: Oh, that won't get you a warrant, either.
-
-Catherine: You like jigsaw puzzles?
-
-
-
-
-
-
-Greg: Epithelials on the slashed canopy match the ones on the sleeping bag drawstring. Fred Dacks, both places. Thank you and good night.
-
-Warrick: So Fred does a number on Jimmy's canopy to keep him from flying.
-Nick: He's threatened by the guy. It's to keep from getting shown up, you know.
-Warrick: He needs to be the Top Dog, huh?
-Nick: Hmm.
-Warrick: Yeah, that sounds like you.
-Nick: Who?
-Warrick: You.
-Greg: That sounds like both of you. Now please, can you take this somewhere else?
-Warrick:  So ... Jimmy gets a new canopy. Flies, dies. Comes down unattached. We got no canopy, we got no harness.
-Nick: If we want to find out what happened we need to find that rig.
-Greg: Well, you're not going to find it here.
-
-Nick: Hey, hey, hey, hey, hey.
-Warrick: Have you taken your medication today?
-Greg: See ya.
-
-
-
-
-
-Grissom: 125 hertz?
-Physician: Minus 30 decibels. It's a significant decline from your last visit.
-Grissom: Yes, but most human speech is above 300 hertz. My midrange is still clear.
-Physician: If it were clear all the time, you wouldn't be here. I think it's time to consider something like ... surgery. Think about it. Let me know.
-
-
-
-
-
-Warrick: He took off here and he came down here, right?
-Nick: Yeah. Now, the canopy's designed to soar. Has to fall downwind of the body. And at 15,000 feet, wind was northeast at 22 miles per hour.
-Warrick: Well, we get a little classical dynamics going on we can find this rig.
-
-Warrick: Search area is northeast Summerlin.
-Nick: Yeah, let's put out a broadcast.
-
-
-
-
-Nick: Patrol unit spotted it on a routine traffic stop.
-Warrick: Yeah, we lucked out.
-
-Nick: What have we got?
-Warrick: Well ... 
-
-Nick: Bingo.
-Warrick: These leg loops, they're unbuckled. I guess there's no surprise there.
-Nick: 15,000 feet up, no helmet the only thing holding you in are two shoulder harnesses and a chest strap.
-Warrick: Not the kind of rush you're looking for?
-Nick: Uh-uh.
-
-Warrick: Check this out. &quot;Property of Potosi Glide Center.&quot;
-Nick: That makes two liars.
-Warrick: Weston didn't tell us he gave Jimmy his replacement rig.
-Nick: 'Cause he knew how it would end up.
-
-Nick: Jimmy never had a chance, man.
-
-
-
-
-Rick Weston: No way. I wanted to see him get his ass kicked, not killed.
-Brass: Yeah, problem is he did get killed. Flying your canopy.
-Rick Weston: I don't know how that happened.
-Warrick: Well, it seems the lines leading to the a-riser were cut.
-
-Brass: Your rig, your responsibility. This is your chance. I'd take it.
-Rick Weston: Fred said that, uh ... he just wanted to teach Jimmy a lesson.
-
-Fred Dacks: Rick.
-Rick Weston: Yeah?
-Fred Dacks: Jimmy's going to hit you up for a canopy. Why don't you give him something big and slow?
-Rick Weston: Oh, I got that blue-green trainer. That ought to be fun.
-Fred Dacks: : Perfect.
-
-Rick Weston: Ten minutes later Jimmy shows up all hot. He asked, I gave, he took.
-Warrick: Couldn't let Fred get the better of him.
-Rick Weston: Look, Jimmy lacked discipline. He needed to be brought down a peg or two.
-Brass: You brought him all the way down
-
-
-
-
-
-
-
-Nick: Don't tell me. Rick pleaded ignorance.
-Warrick: Right before he lawyered it up.
-Nick: Really? Well, , that guy's wasting his money. Take a look.
-
-Warrick: It's frayed. You're saying if he had cut it with a tool, it'd be clean.
-Nick: These lines are spun polymer. They're lightweight, but strong as hell covered in a plastic shell; now, over time that plastic coating wears down. Unprotected lines rub against one another ...
-
-Nick: ...  weakening, fraying, until ... 
-
-Nick: ...snap! It's normal wear and tear, man.
-Warrick: But Weston knew that that canopy was in bad shape. And we don't have any evidence to suggest that he sabotaged it.
-Nick: Do you remember a case about a year ago? Diablo canyon?
-Warrick: Oh, the victim of sudden weather that you thought was murdered.
-Nick: Yeah. You fool me once, shame on you. You fool me twice ... shame on me.
-
-
-
-
-Sara: Can you help me out?
-Catherine: Uh ... depends.
-Sara: I can't get out into the field because I'm maxed out on overtime for the month.
-Catherine: Ah, and you're confined to the lab, huh? Well, hey, look, it's regular hours. I mean, go have dinner with the boyfriend ... Hank, right? And, and ... go, go to a spa.
-Sara: Hank is not my boyfriend. And you know, those places are filled with bacteria.
-Catherine: Sara, I don't make the rules around here. You've got to talk to Grissom about that.
-Sara: Yeah ... he's, um, not really in a talking mood.
-Catherine: What makes you think he's going talk to me?  Get some rest.
-Sara: I'm not tired. Really. I'm not tired.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Warrick: That's the cumulus cloud formed by warm air rising? The thermals?
-Nick: Yeah, the bigger the cloud, the more air that gets sucked in the stronger the thermal. And check out our boys. Heading straight for it.
-Warrick: Yep. He's probably getting the ride of his life.
-
-Warrick:  He's rising fast.
-
-Warrick: Air is getting thinner. 15,000 feet he passes out and suffocates.
-(Quick flashback to: JIMMY MAURER flying high in the wind gusts. He gasps for air and passes out.
-Nick: You catch a good thermal and you take it as far as it takes you -- dead or alive.
-
-Nick: And to show Fred up, Jimmy had to fly higher.
-Warrick: But he had an oxygen tank ... on his harness. Why didn't he use it?
-Nick: Good question.
-
-
-
-
-Catherine: The key word here: Retaliation. Roger Edmonds cuts the cable that you stole.
-Frank Kraft: He was stealing it himself.
-Catherine: Of course, he was.  So, then you ... chop up his tree ... 
-
-Catherine: ... &quot;borrow&quot; Ned's truck to dump the branches ... 
-Frank Kraft: I borrow Ned's stuff all the time; he doesn't mind. It's not important to him; it's no big deal ...
-Catherine:  Shut up. This isn't about Ned. It's about Roger. So ... while you're out dumping the branches, Roger comes home and sees what you've done to his tree. He ups the ante.
-
-Catherine: You return home ... find your dog ... start looking for Roger.
-
-Roger Edmonds: Your dog look as bad as my tree?
-
-Frank Kraft: ... my dog!
-Roger Edmonds: Huh, you want some of this, pal, huh?! Come on, come on!
-(They both fight over the gun. The gun goes off. ROGER falls to the ground and gasps for air. End of flashback.
-Officer: Detective.
-
-O'Riley: Desert Eagle.
-Catherine: Something else you ... borrowed?
-Frank Kraft: He killed my dog.
-
-
-
-
-
-Warrick: Well, the gauge reads full.
-Nick: Yeah, I don't think it works, bro.
-Warrick: There's only one way to find out.
-
-Warrick: Flowing fine.
-
-Nick: An experienced flyer, prepared for the altitude. There's no reason not to use his oxygen.
-
-Warrick:  Unless he didn't think he needed it.
-
-Warrick: Okay. Las Vegas is 2,030 feet above sea level. You got that thing plugged in yet?
-
-Nick: There it is.
-Warrick: Let's see what we've got.
-
-Warrick: 30 feet.
-
-Nick: I, uh, I think we're off by a couple of G's. I'll dust it.
-
-
-
-
-Brass: Jimmy's altimeter, your fingerprints ... on the inside.
-Fred Dacks: That's cute. You should put it in a frame. So I fix gear for other flyers sometimes, big deal.
-Warrick: Oh, you fixed it, all right. You decalibrated it. It was off by
-2,000 feet.
-
-Nick: In the air, you lose perspective. You have to trust your instruments 
-Brass: Jimmy didn't know how high he actually was.
-(Quick flashback to: JIMMY MAURER up in the air and going higher. The wind gusts and JIMMY goes higher. FRED DACKS looks up at JIMMY. JIMMY looks down at FRED DACKS below him and laughs. JIMMY looks at his altimeter which reads
-10.039 +. He looks at his second machine and reads +12 / 12,040 ft. End of flashback. Resume to present.)
-Fred Dacks: Hey, I already told you, man, this dude was soft in the air. He could've turned back anytime.
-Brass: But you knew he wouldn't. You set him up.
-Warrick: Yeah, you had perfect sky massive canopy, bitchen thermals, dude and a challenge he'd never refuse. You played him against himself.
-
-Nick: You couldn't stand the fact that he was better than you.
-Fred Dacks: Hey, I called him out, he took me on. Bigger air, higher altitudes push the limit, dude -- that's why we fly.
-Warrick: No, it's not why you fly. The truth is on your arm. Alecto ... Magaera, Tisiphone; the three furies. Unceasing anger, vengeance and jealousy. That's what you're about.
-Nick: Sorry, dude.
-
-
-
-
-Warrick: Hey, Catherine.
-Catherine: Hey ... I heard you know your Greek mythology. I'm impressed -- never would've guessed.
-
-Warrick: Yeah, I'm a mystery.
-Catherine: Yes, you are.
-
-Catherine: So, where's Nick?
-Warrick: He bugged out early.
-Catherine: Well, good work, you guys -- both of you. Would you let him know?
-Warrick: Thanks. Yeah, I will.
-Catherine: I'll see you around.
-Warrick: All right. Have a good morning.
-Catherine: You, too.
-
-
-
-
-
-Catherine: Closed that murder I was working. A man's life for a dog's life for a mulberry tree.  Sometimes I wonder if people are meant to live together.
-Grissom: Well, you know what they say -- &quot;good fences make good neighbors.&quot;
-Catherine: Then you'd make a great neighbor.
-Grissom: Hmm.
-
-(GRISSOM looks down at his laptop screen. He's looking up information on
-&quot;Otosclerosis&quot;. CATHERINE looks down at the laptop.)
-Catherine: New case?
-Grissom: Ongoing.
-
-Catherine: Oh ... bugs.
-Grissom:  Mm.
-Catherine: Enjoy.
-
-
-
-
-
-Nick: Whoo-hoo!
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=03x10+-+High+and+Low&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127339%23p127339" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=03x10+-+High+and+Low&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127339%23p127339" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127339%23p127339&amp;name=03x10+-+High+and+Low" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127339%23p127339" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=8d3ee1a11c93cf83bcc6e767303afc74">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=8d3ee1a11c93cf83bcc6e767303afc74">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=8d3ee1a11c93cf83bcc6e767303afc74">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=8d3ee1a11c93cf83bcc6e767303afc74">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

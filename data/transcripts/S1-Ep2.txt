@@ -1,843 +1,1073 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="Narrator (William Petersen): Previously on C.S.I. ...
+[Scenes from 1X01: Pilot]
+[INT. GRISSOM'S OFFICE - NIGHT]
+(HOLLY GRIBBS gasps and jumps in surpr" />
+<meta property="og:title" content="01x02 - Cool Change - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="Narrator (William Petersen): Previously on C.S.I. ...
+[Scenes from 1X01: Pilot]
+[INT. GRISSOM'S OFFICE - NIGHT]
+(HOLLY GRIBBS gasps and jumps in surpr" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13184" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>01x02 - Cool Change - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13184" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13184">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=5d4066b40ac86386ae66da28df0d68d2"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=5d4066b40ac86386ae66da28df0d68d2">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=5d4066b40ac86386ae66da28df0d68d2">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=5d4066b40ac86386ae66da28df0d68d2">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=5d4066b40ac86386ae66da28df0d68d2">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13184&amp;sid=5d4066b40ac86386ae66da28df0d68d2&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>01x02 - Cool Change</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127278">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127278">01x02 - Cool Change</a></div>
+							<div class="pull-right text-right"><time datetime="2000-10-27T12:11:52Z">10/27/00 12:11</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p><strong>Narrator (William Petersen)</strong>: Previously on C.S.I. ...</p>
+<p>[Scenes from 1X01: Pilot]</p>
+<p>[INT. GRISSOM'S OFFICE - NIGHT]</p>
+<p>(HOLLY GRIBBS gasps and jumps in surprise.)</p>
+<p><strong>Gil Grissom</strong>: Hi, sorry. Welcome to Forensics. Gil Grissom, I'm your supervisor on grayayard.</p>
+<p><strong>Holly Gribbs</strong>: Holly Gribbs.</p>
+<p>(The shake hands. She exhales with relief and smiles.)</p>
+<p>CUT TO:<br />
+[INT. JIM BRASS' OFFICE - NIGHT]</p>
+<p>(In CAPT JIM BRASS' office, GRISSOM takes a seat on the couch near the window, HOLLY remains standing in front of his desk.)</p>
+<p><strong>Jim Brass</strong>: (angry) Well, congratulations, Gribbs. You're the fifth person I've been forced to hire. </p>
+<p><strong>Holly Gribbs</strong>: Well, that's not fair.</p>
+<p><strong>Jim Brass</strong>: Putting a juiced-in Lieutenant's daughter on the shift is fair?</p>
+<p>CUT TO:<br />
+[INT. COFFEE SHOP - NIGHT]</p>
+<p><strong>Holly Gribbs</strong>: I'm fulfilling her dreams, not mine.</p>
+<p><strong>Catherine Willows</strong>: I can sit here, and I can baby you and I can tell you to quit, but I'm not going to do that at least until you've solved your first, and if, after that, you don't feel like King Kong on cocaine, then you can quit.</p>
+<p>CUT TO:<br />
+[INT. CSI - BRASS' OFFICE - MORNING]</p>
+<p><strong>Jim Brass</strong>: Grissom!</p>
+<p>(GRISSOM, standing out in the hallway, turns and heads for the office.)</p>
+<p><strong>Jim Brass</strong>: Have Warrick shadow Gribbs for the next three weeks or until Nicky makes his 100th, whatever comes first.</p>
+<p><strong>Warrick</strong>: People walk every day because of you.</p>
+<p><strong>Gil Grissom</strong>: That's enough. Warrick, let's go!</p>
+<p>CUT TO:<br />
+[HALLWAY - CONTINUOUS]</p>
+<p>(GRISSOM talks with WARRICK</p>
+<p><strong>Gil Grissom</strong>: The minute you started thinking about yourself instead of the case, you lost him.</p>
+<p>CUT TO:<br />
+[INT. PATHFINDER - MORNING]</p>
+<p><strong>Warrick Brown</strong>: You be okay on your own?</p>
+<p><strong>Holly Gribbs</strong>: Are you kidding? I'm fired up, ready to go. Besides, there's an officer here.</p>
+<p>CUT TO:<br />
+[EXT. JUDGE COHEN'S HOUSE - NIGHT]</p>
+<p><strong>Warrick Brown</strong>: I'm sorry, Judge. Captain Brass wouldn't call you for a search warrant. I got a whopper on the line with a 100 pound test.</p>
+<p><strong>Judge Cohen</strong>: You got a winner for me?</p>
+<p><strong>Warrick Brown</strong>: Favre.</p>
+<p><strong>Judge Cohen</strong>: You put $5,000 down on the Pack for me I'll give you a blank warrant.</p>
+<p>CUT TO:<br />
+[INT. CSI - BREAK ROOM]</p>
+<p><strong>Gil Grissom</strong>: Congratulations, Nicky, my boy. You are now a C.S.I. Level three.</p>
+<p><strong>Nick Stokes</strong>: Woo! </p>
+<p>CUT TO:<br />
+[INT. PATHFINDER OUTSIDE THE PARLAY HUT - MORNING]</p>
+<p><strong>Warrick Brown</strong>: (to radio) Woo-hoo! Yeah! I'll be right there. </p>
+<p>(He puts the radio down.)</p>
+<p><strong>Warrick Brown</strong>: Uh, give me 'Niners for five dimes.</p>
+<p>(WARRICK hands the CLERK a stack of cash.)</p>
+<p>CUT TO:<br />
+[EXT. RESIDENCE - SUMMERLIN - DAY]</p>
+<p>(Just after they arrested the HUSBAND and while GRISSOM and WARRICK stand out in the front yard watching the arrest.)</p>
+<p><strong>Gil Grissom</strong>: Weren't you supposed to be shadowing holly?</p>
+<p><strong>Warrick Brown</strong>: Oh. She's cool. She's doing prints on that 4-0-7. There's an officer there.</p>
+<p>CUT TO:<br />
+[INT. MARTIN LUTHER KING RESIDENCE - MORNING]</p>
+<p>(HOLLY is dusting for prints.)</p>
+<p><strong>Jerrod Cooper</strong>: Excuse me, miss.</p>
+<p>(She gasps and turns around.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY - MORNING]</p>
+<p><strong>Jim Brass</strong>: Holly Gribbs has been shot. They don't think she's going to make it.</p>
+<p>(Camera holds on GRISSOM.)</p>
+<p>FADE TO BLACK: END OF PREVIOUSLY ON:</p>
+<p>FADE IN.</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[INT. HOTEL CASINO - MAIN FLOOR -- NIGHT]</p>
+<p>(The camera pans around the busy casino floor.)</p>
+<p>(A Young Man and Young Woman hesitantly walk along the casino floor. JAMIE spots the large $40 Million MegaMillion Jackpot sign.)</p>
+<p><strong>Jamie</strong>: Hey, look. Oh, $40 million. Could you imagine?</p>
+<p><strong>Ted Sallenger</strong>: Never happen. You got a better chance of going to the moon.</p>
+<p><strong>Jamie</strong>: Oh, give me a $20. Hurry! I just got a premonition.</p>
+<p><strong>Ted Sallenger</strong>: You got your own money. Go play.</p>
+<p><strong>Jamie</strong>: But I left my purse in the room.</p>
+<p>(TED SALLENGER takes out a twenty, but doesn't give it to her.)</p>
+<p><strong>Ted Sallenger</strong>: I'll play. Wait here.</p>
+<p>(He sighs and heads for the slot machine.)</p>
+<p><strong>Clerk</strong>: (to TED) Is this your slot card?</p>
+<p><strong>Ted Sallenger</strong>: No.</p>
+<p>(The CLERK takes the card and leaves. TED looks over at JAMIE and without looking, turns the handle to the machine. JAMIE cranes her neck from the side to see his results.)</p>
+<p>(TED turns the handle again.)</p>
+<p><strong>Ted Sallenger</strong>: Your little premonition has cost me $20. Happy now? Here.</p>
+<p>(For a third time, TED turns the handle again. Without even looking or waiting for it to stop, TED leaves the machine and heads back to JAMIE.)</p>
+<p><strong>Ted Sallenger</strong>: (sarcastically) Watch out. Here come the millions.</p>
+<p>(JAMIE watches as the machine stops on the three jackpot dollar signs. She starts screaming with excitement.)</p>
+<p><strong>Jamie</strong>: (pointing and screaming) Oh, my God! </p>
+<p>(Sirens start blaring. JAMIE jumps into TED'S arms.)</p>
+<p>(The sirens continue to blare and JAMIE screams.)</p>
+<p><strong>Jamie</strong>: We won!</p>
+<p>CUT TO:</p>
+<hr />
+[INT. HOTEL MONACO - MAIN CASINO AREA - LATER]</p>
+<p>(TED holds up a large check for $40,002,349.00 over his head. JAMIE stands next to TED. She's still screaming with excitement. TED shakes the Hotel Owner's hand.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CORRIDOR - HOTEL MONACO -- NIGHT]</p>
+<p>(ELIAS leads TED SALLENGER and JAMIE down the hallway toward their room.)</p>
+<p><strong>Elias Templeton</strong>: $40 million. You'll be having lobster tonight.</p>
+<p>(TED tries to put the card key in the lock, but can't do it.)</p>
+<p><strong>Jamie</strong>: (puts her arms around TED) They gave us the presidential suite. Can you believe it?</p>
+<p><strong>Elias Templeton</strong>: Here, Richard Gere, why don't you let me help you with that?</p>
+<p>(ELIAS chuckles, then opens the room door. The lock beeps and the door opens.)</p>
+<p><strong>Ted Sallenger</strong>: Thank you.</p>
+<p>(JAMIE rushes into the room. TED takes the large promotional check from ELIAS and follows her inside.)</p>
+<p>[INT. PRESIDENTIAL SUITE - NIGHT]</p>
+<p>(JAMIE runs across the room for the balcony. TED puts the fake check aside and takes off his t-shirt.)</p>
+<p><strong>Jamie</strong>: Oh! Look at our view! </p>
+<p>(JAMIE opens the balcony doors and looks outside. TED joins her and stops behind her.)</p>
+<p><strong>Jamie</strong>: Wow!</p>
+<p>[EXT. BALCONY - PRESIDENTIAL SUITE - NIGHT]</p>
+<p><strong>Ted Sallenger</strong>: (quietly) Take a hike. </p>
+<p>(JAMIE can't believe what she just heard.)</p>
+<p><strong>Ted Sallenger</strong>: Get lost.</p>
+<p>(She turns around to look at TED.)</p>
+<p><strong>Jamie</strong>: Excuse me?</p>
+<p><strong>Ted</strong>: Come on, Jamie. I'm a millionaire now. Now, why would I want to waste anymore time with you?</p>
+<p>(There's a knock at the front door. They both turn to look at the door.)</p>
+<p><strong>Voice Outside</strong>: (o.s.) Room service?</p>
+<p>WHITE FLASH TO:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - MORNING]</p>
+<hr />
+[EXT. HOTEL MONACO - FRONT SIDEWALK - MORNING]</p>
+<p>(GRISSOM approaches the scene. He's on the phone.)</p>
+<p><strong>Gil Grissom</strong>: (to phone) All right, the minute you hear anything on Holly Gribbs's condition I want you to page me. </p>
+<p>(He ducks under the crime scene tape.)</p>
+<p><strong>Gil Grissom</strong>: (to phone) All right? Bye.</p>
+<p>(He hangs up.)</p>
+<p><strong>Dispatcher</strong>: (from b.g. radio) ... Call back at 4-7-7 Desert Inn Road.</p>
+<p><strong>Gil Grissom</strong>: So he pulled a &quot;Louganis&quot;, huh?</p>
+<p><strong>Detective Barns</strong>: Yeah, 150 feet. The giga-millions curse strikes again. Past four winners ended up dead or missing. What do you think, Grissom? It's a conspiracy.</p>
+<p><strong>Gil Grissom</strong>: Coincidence. I worked those four cases. There was never any evidence of foul play. Was he in town with anybody?</p>
+<p><strong>Detective Barns</strong>: His girlfriend. She's upstairs in police custody. Do you want to talk to her?</p>
+<p><strong>Gil Grissom</strong>: Not yet. Right now, I want to talk to him.</p>
+<p><strong>Detective Barns</strong>: How do you talk to a dead body?</p>
+<p>(GRISSOM moves in closer to the body and kneels down to look at it.)</p>
+<p><strong>Gil Grissom</strong>: I let him talk to me, actually. </p>
+<p>(He pulls off his dark glasses and reaches out for something next to the body.)</p>
+<p><strong>Gil Grissom</strong>: In fact, he just spoke. Didn't you hear him? He just told me that he didn't commit suicide.</p>
+<p>(GRISSOM holds up a pair of broken glasses.)</p>
+<p><strong>Detective Barns</strong>: No. You-you lost me.</p>
+<p><strong>Gil Grissom</strong>: This guy fell to his death wearing prescription eyeglasses. Jumpers take their glasses off. Suicide is the ultimate form of selfishness, Detective. It's unlikely that anyone cowardly enough to take his own life would be brave enough to watch his own death.</p>
+<p><strong>Detective Barns</strong>: (laughs) You can tell all that just by looking at a pair of eyeglasses?</p>
+<p><strong>Gil Grissom</strong>: You have no idea.</p>
+<p>HARD CUT TO: END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI -- RECEPTION AREA -- MORNING]</p>
+<p>(GRISSOM walks in past the receptionist. More out of habit, then really expecting anything, GRISSOM asks for his messages and continues walking past the receptionist.)</p>
+<p><strong>Gil Grissom</strong>: Messages?</p>
+<p>(Without a word, The Receptionist reaches for the stack of white telephone messages slips in front of her. GRISSOM stops, surprised. He takes them and leafs through them. He heads on down the hallway.)</p>
+<p>(As he passes by people in the hallway and inside the labs, they look up and stare at GRISSOM.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - BRASS' OFFICE - DAY -- CONTINUOUS]</p>
+<p>(In his office, BRASS has cleared out his desk. On it is a file box. GRISSOM appears in the doorway.)</p>
+<p><strong>Gil Grissom</strong>: I just got off the phone with the Sheriff. He says he wants me to run the unit.</p>
+<p><strong>Jim Brass</strong>: You're the boss. </p>
+<p>(GRISSOM walks into the office.)</p>
+<p><strong>Jim Brass</strong>: I mean, I can't say I didn't do it to myself.</p>
+<p><strong>Gil Grissom</strong>: Where are they going to place you?</p>
+<p><strong>Jim Brass</strong>: Homicide. Believe that?</p>
+<p>(He chuckles humorlessly.)</p>
+<p><strong>Jim Brass</strong>: Instead of moving up, I'm moving back in a time capsule, like it's<br />
+1979 again. So, I guess, this might put you and me at odds.</p>
+<p>(BRASS picks up his box and starts toward the door.)</p>
+<p><strong>Gil Grissom</strong>: Cop versus scientist. Interesting, huh?</p>
+<p>(BRASS stops and looks at GRISSOM.)</p>
+<p><strong>Jim Brass</strong>: (nods quietly) Yeah.</p>
+<p>(BRASS continues to head toward the door carrying his file box.)</p>
+<p><strong>Gil Grissom</strong>: You got any advice for me? </p>
+<p><strong>Jim Brass</strong>: Yeah, cover your ass ... and hide. They're all yours, pal.</p>
+<p>(With his file box in his hands, JIM BRASS walks out of the office.)</p>
+<p>CUT TO:</p>
+<hr />
+[TELEVISION SCREEN NEWS REPORT]</p>
+<p><strong>Paula Francis</strong>: (on tv) Tragedy struck early this morning when an on-duty Las Vegas Criminalist was brutally gunned down. </p>
+<p>[INT. CSI - BREAK ROOM - MORNING]</p>
+<p>(CATHERINE and NICK stand in front of the television set watching the news report.)</p>
+<p><strong>Paula Francis</strong>: (on tv) It was her first night on the job. Victim Holly Gribbs was investigating a robbery/homicide in an apartment on the corner of M.L.K. and Warm Springs.</p>
+<p>(WARRICK sits off to the side. He's also listening to the news report.)</p>
+<p><strong>Paula Francis</strong>: (on tv) The crime lab now faces the daunting task of investigating the shooting of one of their own. The wounded C.S.I. has been taken to Desert Palm where she is listed in critical condition. The suspect is still at large. </p>
+<p><strong>Newscaster (male)</strong>: (b.g.) In other news ...</p>
+<p>(CATHERINE turns around to look at WARRICK. NICK also turns around.)</p>
+<p><strong>Catherine Willows</strong>: Weren't you supposed to be shadowing Holly?</p>
+<p><strong>Nick Stokes</strong>: Warrick, man, what happened?</p>
+<p><strong>Warrick Brown</strong>: I left her to hook up with Grissom on that toenail case ... and then, I came back here.</p>
+<p><strong>Catherine Willows</strong>: You left Holly solo?</p>
+<p><strong>Warrick Brown</strong>: It was just supposed to be an easy print job. Look, I feel bad enough, okay?</p>
+<p>(The door to the break room opens and GRISSOM walks in.)</p>
+<p><strong>Gil Grissom</strong>: Here's what we know. Brass assigned Warrick to shadow Holly on a robbery. </p>
+<p>(GRISSOM heads for the coffee pot to pour himself a cup of coffee. In his other hand, he holds the assignment sheets.)</p>
+<p><strong>Gil Grissom</strong>: He left her at the scene. The suspect returned and Holly was shot. The sheriff phoned me earlier this morning. Brass has been moved back to homicide.</p>
+<p><strong>Nick Stokes</strong>: Who's going to run the unit?</p>
+<p><strong>Gil Grissom</strong>: For now? Me. </p>
+<p>(CATHERINE looks at GRISSOM.)</p>
+<p><strong>Gil Grissom</strong>: (looking at CATHERINE) I know. We'll just play it by ear, okay? </p>
+<p>(GRISSOM turns his head to look at WARRICK and it's the first that we notice that WARRICK is standing way on the other side of the break room, separate from the others.)</p>
+<p><strong>Gil Grissom</strong>: All right. Last night, a jackpot winner took a swan dive off the Hotel Monaco about the time Holly was shot. I'm going to work the leaper. Nick?</p>
+<p><strong>Nick Stokes</strong>: (stands up) Yes, sir.</p>
+<p><strong>Gil Grissom</strong>: You work the Holly case.</p>
+<p>(GRISSOM gives the assignment sheet to NICK.)</p>
+<p><strong>Catherine Willows</strong>: Wait a minute. Uh, you-you can't give him the Holly case. I mean, all due respect, Nick. I want this one.</p>
+<p><strong>Gil Grissom</strong>: Nicky is the only one that didn't have any personal contact with Holly. I don't want you on this, Cath.</p>
+<p><strong>Catherine Willows</strong>: Why?</p>
+<p><strong>Gil Grissom</strong>: Because you're emotionally involved.</p>
+<p><strong>Catherine Willows</strong>: Yeah. She was going to walk. I convinced her to stay. If anyone's to blame here, it's me, and I want this case. </p>
+<p>(CATHERINE grabs the assignment sheet from NICK.)</p>
+<p><strong>Catherine Willows</strong>: Fire me.</p>
+<p><strong>Gil Grissom</strong>: I'm not firing anybody. Look. I know we're pulling a double. We're on edge 'cause of Holly. I just want everyone to stay calm and to do their jobs for the next ten hours. And as of now we're short of help. So, I'm bringing in Sara Sidle to give us a hand. </p>
+<p><strong>Catherine Willows</strong>: Sara Sidle?</p>
+<p><strong>Warrick Brown</strong>: Who's that?</p>
+<p><strong>Gil Grissom</strong>: She's a CSI out of San Francisco. She's a friend of mine, someone I trust. She's going to handle our internal investigation and I want to keep this in-house. I don't want I.A. Involved.</p>
+<p>(NICK nods his head.)</p>
+<p><strong>Catherine Willows</strong>: (shakes her head) Great, that's just what we need, somebody sniffing around.</p>
+<p>(CATHERINE leaves the room.)</p>
+<p><strong>Gil Grissom</strong>: Nicky, you can back me up on the D.B. at the Monaco.</p>
+<p>(GRISSOM hands the second assignment sheet to NICK.)</p>
+<p><strong>Nick Stokes</strong>: You got it.</p>
+<p><strong>Gil Grissom</strong>: That's it.</p>
+<p>(NICK glances up at WARRICK. He doesn't say anything and leaves the room.)</p>
+<p><strong>Warrick Brown</strong>: That's it? What about me?</p>
+<p><strong>Gil Grissom</strong>: You're on leave. You get some personal time.</p>
+<p><strong>Warrick Brown</strong>: I don't want any personal time. I want to help. You're the boss now. You can reinstate me.</p>
+<p><strong>Gil Grissom</strong>: Go home, Warrick. Get your story straight before Sara gets here.</p>
+<p>(GRISSOM turns to leave the room. Camera holds on WARRICK.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<hr />
+[INT. MARTIN LUTHER KING (MLK) APARTMENTS -- DAY]</p>
+<p>(The OFFICER opens the apartment door. CATHERINE walks inside with her kits.)</p>
+<p><strong>Catherine Willows</strong>: A little late for the brigade.</p>
+<p><strong>Officer</strong>: What do you think happened here?</p>
+<p>(CATHERINE looks around.)</p>
+<p><strong>Catherine Willows</strong>: First blush?</p>
+<p>(Quick flashback to: JERROD COOPER reaches for his gun tucked in the back waist band of his jeans. In front of him, HOLLY GRIBBS turns and continues to dust for prints near the window.)</p>
+<p><strong>Jerrod Cooper</strong>: (muffled) Don't move.</p>
+<p>(HOLLY turns around at the intrusion. She puts her hands up.)</p>
+<p><strong>Holly Gribbs</strong>: Hey, it's okay. I'm not a cop. I just ... I just analyze the scene.</p>
+<p>(JERROD COOPER raises the gun and fires. HOLLY falls down. She hits the couch and the table, bringing the phone down to the floor with her.)</p>
+<p>(HOLLY is on the floor. She exhales.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(CATHERINE picks up the gun on the floor and looks at it.)</p>
+<p><strong>Catherine Willows</strong>: This is Holly's gun. </p>
+<p>(CATHERINE checks the bullets.)</p>
+<p><strong>Catherine Willows</strong>: She shot back.</p>
+<p>(A pager beeps catching CATHERINE'S attention. She looks around and finds the pager under the couch.)</p>
+<p>(She looks at the display. It reads: LOW BATTERY.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY -- DAY]</p>
+<p>(DR. JENNA WILLIAMS goes over the body with GRISSOM and NICK.)</p>
+<p><strong>Dr. Jenna Williams</strong>: He's all rigored up. Now pull it like a slot machine. It's been three weeks since my last jumper. At least this one died a millionaire.</p>
+<p>(GRISSOM manages to move the arm. He looks at the markings on TED SALLENGER'S inner wrist.)</p>
+<p><strong>Gil Grissom</strong>: Geez, these look like defensive wounds, maybe.</p>
+<p><strong>Nick Stokes</strong>: Somebody came after this guy with something pretty sharp.</p>
+<p><strong>Gil Grissom</strong>: You have any idea what it might be?</p>
+<p><strong>Dr. Jenna Williams</strong>: Glass, maybe. We found tiny shards in the incised wound. </p>
+<p>(She comes up behind GRISSOM and takes out a piece of glass from the wound to show GRISSOM.)</p>
+<p><strong>Dr. Jenna Williams</strong>: Take a look.</p>
+<p><strong>Gil Grissom</strong>: Not just glass ...</p>
+<p>(Camera zooms in for an extreme close up of the piece of glass.)</p>
+<p><strong>Gil Grissom</strong>: ... black glass.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CASINO (STOCK) - DAY]</p>
+<hr />
+[INT. HOTEL MONACO - PRESIDENTIAL SUITE -- DAY]</p>
+<p>(GRISSOM and NICK walk into the Presidential Suite. GRISSOM puts his kit down. NICK looks around.)</p>
+<p><strong>Nick Stokes</strong>: Broken glass.</p>
+<p>(GRISSOM looks down and around.)</p>
+<p><strong>Gil Grissom</strong>: Blood drops, leading to ... bloody towels. No effort to hide.</p>
+<p><strong>Nick Stokes</strong>: Hey! </p>
+<p>(NICK kneels in front of the couch and holds a broken champagne bottle neck. GRISSOM walks over to take a look.)</p>
+<p><strong>Nick Stokes</strong>: Defensive wounds.</p>
+<p><strong>Gil Grissom</strong>: Champagne bottle. Black glass. I missed that.</p>
+<p>(NICK stands up and looks at GRISSOM.)</p>
+<p><strong>Nick Stokes</strong>: What do you think, boss?</p>
+<p><strong>Gil Grissom</strong>: You're C.S.I. three, now. You call it.</p>
+<p><strong>Nick Stokes</strong>: What? You want me to play it blind?</p>
+<p><strong>Gil Grissom</strong>: You've read the woman's statement. The room is full of evidentiary clues. </p>
+<p>(GRISSOM backs away and takes a seat.)</p>
+<p><strong>Gil Grissom</strong>: Talk it out. What does the room say?</p>
+<p>(NICK looks around.)</p>
+<p><strong>Nick Stokes</strong>: Okay. Well, according to the girlfriend's statement they were on the balcony when they had a lovers' quarrel.</p>
+<p>(Quick flashback to: TED and JAMIE are on the balcony arguing.)</p>
+<p><strong>Ted Sallenger</strong>: Come on, Jamie. I'm a millionaire now. Now, why would I want to waste any more time with you?</p>
+<p>(There's a knock at the door.)</p>
+<p>(The camera pans around quickly to the door and lands on ... )</p>
+<p>(End of flashback. Resume to ... )</p>
+<p>(... NICK. NICK points to the door.)</p>
+<p><strong>Nick Stokes</strong>: ... room service.</p>
+<p>(Quick flashback to: A cart is wheeled into the room.)</p>
+<p><strong>Ted Sallenger</strong>: Thank you.</p>
+<p><strong>Bellboy</strong>: You're welcome.</p>
+<p>(TED SALLENGER calmly pours himself a glass of champagne.)</p>
+<p><strong>Jamie</strong>: (crying) So what was I this whole time, huh? Just someone to bang?</p>
+<p><strong>Ted Sallenger</strong>: Yeah.</p>
+<p>(JAMIE grabs the champagne bottle and breaks it against the cart. She attacks TED with the broken bottle.)</p>
+<p><strong>Jamie</strong>: (screams) Why?</p>
+<p>(TED fights to defend himself. He pushes her back and she falls against the couch. TED turns to attend to his bleeding arm.)</p>
+<p><strong>Ted Sallenger</strong>: Crazy broad!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Gil Grissom</strong>: (V.O.) And then what happened?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY]</p>
+<p>(GRISSOM and NICK interview JAMIE.)</p>
+<p><strong>Jamie</strong>: He took off. I cut him up pretty good. He probably went to the lobby to fetch some first aid.</p>
+<p><strong>Gil Grissom</strong>: And he never came back to the room?</p>
+<p><strong>Jamie</strong>: No.</p>
+<p><strong>Gil Grissom</strong>: You sure? The Presidential Suite at the Hotel Monaco is a secured room. They keep a log. Every time someone enters with a card key ...</p>
+<p><strong>Jamie</strong>: Well, if they keep a record check it for yourself. Why are you bothering me?</p>
+<p><strong>Gil Grissom</strong>: Nicky, what does the log say?</p>
+<p><strong>Nick Stokes</strong>: Well, she's right. The only entry I see here is when hotel security checked them in.</p>
+<p><strong>Jamie</strong>: Can I go now?</p>
+<p><strong>Gil Grissom</strong>: Yes, ma'am. </p>
+<p>(JAMIE stands up and heads for the door. She stops when NICK reaches over for the door knob to open the door for her. JAMIE leaves the interview room.)</p>
+<p><strong>Gil Grissom</strong>: Her story checks out.</p>
+<p>(The door shuts.)</p>
+<p><strong>Gil Grissom</strong>: She doesn't have any financial motive. She was his girlfriend, not his wife. Any money won by the deceased goes directly to the family estate.</p>
+<p><strong>Nick Stokes</strong>: Well, if he didn't fall from his own balcony where else could it have happened?</p>
+<p>(They think about it. GRISSOM looks at NICK.)</p>
+<p><strong>Gil Grissom</strong>: The roof.</p>
+<p>(NICK and GRISSOM head out of the room.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - BREAK ROOM -- DAY]</p>
+<p>(WARRICK is on his cell phone, pacing the floor.)</p>
+<p><strong>Warrick Brown</strong>: (to phone) Yeah, uh, Emergency Room, please. (pause)<br />
+Patient's name is Holly Gribbs. (to phone) Thanks.</p>
+<p>(WARRICK hangs up.)</p>
+<p><strong>Warrick Brown</strong>: (to phone) Warrick here. </p>
+<p><strong>Judge Cohen</strong>: (from phone) Warrick, Judge Cohen. You bet the wrong team, you idiot. </p>
+<p>INTERCUT WITH:</p>
+<p>[EXT. FOUNTAIN - DAY]</p>
+<p><strong>Judge Cohen</strong>: (to phone) I said Packers. I got the 49ers for five grand. The spot in fifteen minutes.</p>
+<p>(Camera holds on WARRICK.)</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<hr />
+[EXT. HOTEL MONACO - ROOFTOP-- DAY]</p>
+<p>(On the rooftop, GRISSOM and NICK are setting up for their experiment. NICK kneels in front of a large bag of somethings.)</p>
+<p><strong>Gil Grissom</strong>: Okay, I think we're ready for Operation Norman.</p>
+<p>(He dusts himself off as he stands.)</p>
+<p><strong>Gil Grissom</strong>: (to NICK) You'll never get that off. It's Meyer's roof dust. All the hotels use it now. It diverts the sun's rays. Keeps the utility bills down in the summer.</p>
+<p><strong>Nick Stokes</strong>: Yeah? How do you know all this crap?</p>
+<p><strong>Gil Grissom</strong>: It's our job to know stuff.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. HOTEL MONACO - FRONT SIDEWALK - DAY -- CONTINUOUS]</p>
+<p>(Standing down below on the sidewalk in front of the Hotel Monaco, GRISSOM looks up at the roof and speaks into the walkie-talkie. Behind him, a large crowd of spectators gather just beyond the crime scene tape.)</p>
+<p><strong>Gil Grissom</strong>: (to radio) All right, Nick, standing by for Operation Norman. Let him fly.</p>
+<p>(The first crash dummy &quot;body&quot; flies off of the rooftop and crashes to the sidewalk in front of GRISSOM with a thud.)</p>
+<p><strong>Spectator (male)</strong>: Oh!</p>
+<p>(The large crowd of spectators applaud. GRISSOM looks up and around at them, surprised by their reaction.)</p>
+<p>(The second crash dummy flies off of the rooftop and onto the sidewalk below. The crowd cheers.)</p>
+<p>(The third and final crash dummy flies off of the rooftop and lands with a thud. The crowd applauds.)</p>
+<p>(GRISSOM raises his hand and acknowledges them as he walks toward the dummies.)</p>
+<p><strong>Gil Grissom</strong>: Yes, yes.</p>
+<p>(GRISSOM raises his camera.)</p>
+<p><strong>Gil Grissom</strong>: Norman &quot;pushed&quot;.</p>
+<p>(He takes pictures of the dummy. He turns to snap photos of the second dummy.)</p>
+<p><strong>Gil Grissom</strong>: Norman &quot;jumped&quot;.</p>
+<p>(GRISSOM takes pictures of the third dummy.)</p>
+<p><strong>Gil Grissom</strong>: Norman &quot;fell&quot;.</p>
+<p><strong>Sara Sidle</strong>: (o.s.) Wouldn't you if you were married to Mrs. Roper?</p>
+<p>(At the sound of her voice, GRISSOM puts the camera down. Behind him, SARA puts her bag down on the ground, a huge grin on her face.)</p>
+<p><strong>Gil Grissom</strong>: I don't even have to turn around. Sara Sidle.</p>
+<p><strong>Sara Sidle</strong>: That's me. Still tossing simulation dummies? There are other ways to tell, you know?</p>
+<p><strong>Gil Grissom</strong>: How? Computer simulation? No thanks. I'm a scientist I like to see it. Newton dropped the apple, I drop dummies.</p>
+<p><strong>Sara Sidle</strong>: You're old school.</p>
+<p><strong>Gil Grissom</strong>: Exactly. And this guy was pushed.</p>
+<p>(SARA'S faces changes, as she as talks about more serious issues.)</p>
+<p><strong>Sara Sidle</strong>: How's the girl?</p>
+<p><strong>Gil Grissom</strong>: She's still in surgery. She's not doing very well.</p>
+<p><strong>Sara Sidle</strong>: That's too bad.</p>
+<p><strong>Gil Grissom</strong>: God, Sara, I have so many unanswered &quot;why&quot;s.</p>
+<p><strong>Sara Sidle</strong>: There's only one why that matters now. Why did Warrick Brown leave that scene?</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. &quot;THE SPOT&quot; PARKING STRUCTURE -- DAY]</p>
+<p>(WARRICK walks across the parking garage up to a moving car that stops in front of him.)</p>
+<p><strong>Judge Cohen</strong>: What are you, dyslexic? You owe me ten grand, buddy.</p>
+<p>(JUDGE COHEN gives his ticket to WARRICK. He takes it.)</p>
+<p><strong>Warrick Brown</strong>: All I got is four.</p>
+<p>(WARRICK hands the ticket back to JUDGE COHEN.)</p>
+<p><strong>Judge Cohen</strong>: So what are you breathing here for? Get out there and get my money.</p>
+<p><strong>Warrick Brown</strong>: Hey, look, a girl was shot on my watch 'cause I was doing you a favor.</p>
+<p><strong>Judge Cohen</strong>: Hey, you came to me.</p>
+<p><strong>Warrick Brown</strong>: All right, Judge, I'll get your money but I need more time. You got to give me a day.</p>
+<p><strong>Judge Cohen</strong>: You got an hour.</p>
+<p>(JUDGE COHEN drives off, leaving WARRICK staring at his dust..)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - EVIDENCE ROOM -- DAY]</p>
+<p>(CATHERINE is working on the laptop in the room. The door opens and SARA walks in.)</p>
+<p><strong>Sara Sidle</strong>: Do you know where I can find Catherine Willows? </p>
+<p><strong>Catherine Willows</strong>: (without looking up) She's out in the field. </p>
+<p>(SARA stops and looks down at the piece of paper in her hand. CATHERINE looks up at SARA.)</p>
+<p><strong>Catherine Willows</strong>: Let me guess ... Sara Sidle?</p>
+<p><strong>Sara Sidle</strong>: I know who I am. I think you're a little confused.</p>
+<p><strong>Catherine Willows</strong>: If you think you're taking my case ... forget it.</p>
+<p>(SARA shuts the door.)</p>
+<p><strong>Sara Sidle</strong>: Look, we can stand here and argue ... or ... we can get out there and find out who did this to Holly Gribbs. (beat) Two sharp women are better than one.</p>
+<p>(CATHERINE considers it for a moment, then turns and grabs the evidence bag next to her. She holds it up.)</p>
+<p><strong>Catherine Willows</strong>: Pager. </p>
+<p>(CATHERINE takes the pager out of the bag.)</p>
+<p><strong>Catherine Willows</strong>: Found at the crime scene.</p>
+<p>(SARA walks around the table to look at what CATHERINE'S working on.)</p>
+<p><strong>Sara Sidle</strong>: Where'd you get the pager nest?</p>
+<p><strong>Catherine Willows</strong>: Grissom. He won it on e-bay.</p>
+<p><strong>Sara Sidle</strong>: They're great for tracing if you can rely on the suspect's honesty.</p>
+<p>[FULL ON COMPUTER MONITOR]</p>
+<p><strong>Catherine Willows</strong>: Uh ... Desmond Tutu.</p>
+<p><strong>Sara Sidle</strong>: See what I mean? Don't feel bad. My last four traces came back Eminem, (smiles) ... so ... look, you seem to have everything under control here.</p>
+<p><strong>Sara Sidle</strong>: Where can I find Warrick Brown?</p>
+<p><strong>Catherine Willows</strong>: Try one of the casinos on Blue Diamond Road.</p>
+<p>(SARA nods and slowly heads for the door. CATHERINE stops her.)</p>
+<p><strong>Catherine Willows</strong>: (holding pager up) Oh, I'll page you with any information.</p>
+<p>(SARA smiles and leaves the room.)</p>
+<p>CUT TO:<br />
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[CLOSE UP OF POKER CHIPS]</p>
+<hr />
+[INT. HOTEL MONACO -- SURVEILLANCE ROOM -- DAY]</p>
+<p>(GRISSOM and NICK are in the Surveillance room looking at the video footage.)</p>
+<p><strong>Gil Grissom</strong>: There's our jumper.</p>
+<p><strong>Surveillance Director</strong>: So, you want to see everything one minute before and one minute after he won the jackpot, right?</p>
+<p><strong>Gil Grissom</strong>: (nods) Please.</p>
+<p>(The SURVEILLANCE DIRECTOR clicks on the keyboard and the footage on the monitor skips. GRISSOM sees something.)</p>
+<p><strong>Gil Grissom</strong>: Wait a minute. Go back. </p>
+<p>(Close up of the monitor shows the clerk talking with TED SALLENGER at the slot machine. The video is on pause.)</p>
+<p><strong>Gil Grissom</strong>: (to NICK) There! It looks like she's offering him his slot redemption card back. (to the SURVEILLANCE DIRECTOR) Could I see the person that was sitting at this machine right before the victim?</p>
+<p><strong>Surveillance Director</strong>: Sure.</p>
+<p>(He clicks on the keyboard and the video footage moves backward to where another man is sitting at the slot machine.)</p>
+<p><strong>Gil Grissom</strong>: Is there any way of telling how long he was sitting there?</p>
+<p>(The keyboard clicks and the footage rewinds backward. The counter appears on the monitor and stops at the time.)</p>
+<p><strong>Surveillance Director</strong>: 11 hours, 13 minutes ... 15 seconds. At three bucks a tug, hell, he could have gone through ten, 20 thou.</p>
+<p>(GRISSOM looks surprised by this information. He turns back to the monitor.)</p>
+<p><strong>Gil Grissom</strong>: Nick, call the slot host. Get this guy's name from the slot card. I'm going to talk to this man.</p>
+<p>(NICK nods.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - BALLISTICS - FIRING RANGE -- DAY]</p>
+<p>(CATHERINE puts on her goggles. BOBBY DAWSON walks into the room carrying the gun.)</p>
+<p><strong>Bobby Dawson</strong>: All right. Here you go. Holly's weapon's already loaded. So, just point at the gun entry hole there to do your test fire.</p>
+<p><strong>Catherine Willows</strong>: Okay, thanks, Bobby.</p>
+<p>(BOBBY gives the gun to CATHERINE. BOBBY stands behind CATHERINE and puts his ear phones on.)</p>
+<p>CAMERA SLOW MOTION</p>
+<p>(CATHERINE puts her hand and gun in the entry hole and fires.)</p>
+<p>(Camera close up of the bullet as it breaks through the water. Change camera angle where the bullet is in direct line with the camera.)</p>
+<p>SHORT TIME CUT TO:</p>
+<hr />
+[INT. CSI - BALLISTICS -- DAY]</p>
+<p>(BOBBY DAWSON looks through the scope to compare the two bullets.)</p>
+<p><strong>Bobby Dawson</strong>: Okay, now, in order to eliminate Holly's gun as the possible weapon we start by looking for imperfections in the bullet's stria ... now, that's odd.</p>
+<p><strong>Catherine Willows</strong>: What's wrong?</p>
+<p><strong>Bobby Dawson</strong>: We don't have an elimination. We got a match.</p>
+<p>(BOBBY steps aside and CATHERINE looks through the scope. She sighs.)</p>
+<p><strong>Catherine Willows</strong>: Shot her with her own gun.</p>
+<p>(Quick flashback to: [INT. MARTIN LUTHER KING APARTMENT - MORNING] HOLLY GRIBBS has her hands up as she talks with JERROD COOPER.)</p>
+<p><strong>Holly Gribbs</strong>: It's okay, I'm not a cop. I just ... I just analyze the scene.</p>
+<p>(JERROD COOPER takes a step forward.)</p>
+<p><strong>Jerrod Cooper</strong>: Throw the gun down! </p>
+<p>(HOLLY takes her gun and tosses it to the floor.)</p>
+<p><strong>Jerrod Cooper</strong>: All right now, yank the phone out of the wall. I'm taking my prints with me.</p>
+<p>(HOLLY yanks the phone out of the wall. JERROD'S pager beeps. He looks down. HOLLY takes the opportunity to hit JERROD with the phone.)</p>
+<p>(They struggle. He gets free and grabs HOLLY'S gun from the floor. He fires multiple times at her.)</p>
+<p>(He grabs his things and runs leaving HOLLY behind.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(Camera holds on CATHERINE.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. HOTEL MONACO - MAIN FLOOR -- DAY]</p>
+<p>(The FLOOR CLERK leads GRISSOM and NICK across the main casino floor.)</p>
+<p><strong>Floor Clerk (woman)</strong>: I pulled the slot card for you. (pointing) That's the gentleman, right over there.</p>
+<p><strong>Gil Grissom</strong>: Thank you.</p>
+<p><strong>Floor Clerk (woman)</strong>: Mm-hmm. </p>
+<p>(GRISSOM hands NICK his cell phone and tucks his ID into his shirt.)</p>
+<p><strong>Gil Grissom</strong>: Hold this. I think I'll play a little.</p>
+<p>(GRISSOM makes his way to the man at the slot machine. He takes the empty seat two machines to the right of the man.)</p>
+<p><strong>Red Carlton</strong>: Double down, always get a winner. Oh, yes, a winner. The winner. Double nine.</p>
+<p><strong>Gil Grissom</strong>: (laughs) Double Jacks or better! (beat) You're under arrest.</p>
+<p><strong>Red Carlton</strong>: Oh yeah? What for?</p>
+<p><strong>Gil Grissom</strong>: First-degree murder.</p>
+<p><strong>Red Carlton</strong>: Oh. On what grounds?</p>
+<p>(GRISSOM glances down at the man's pants.)</p>
+<p><strong>Gil Grissom</strong>: Roof dust.</p>
+<p><strong>Security Officers</strong>: Sir, would you please come with us?</p>
+<p>(GRISSOM turns to stand up. His machine starts to ring ... and ding and the sounds of coins falling is heard. GRISSOM turns around and hands the empty tub to NICK.)</p>
+<p><strong>Gil Grissom</strong>: (smiling) Nicky, my boy, collect my winnings. It's a C.S.I. three initiation.</p>
+<p>(NICK takes the empty container and smiles as GRISSOM leaves.)</p>
+<p>CUT TO:<br />
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - DAY]</p>
+<hr />
+[INT. CASINO - DAY]</p>
+<p>(WARRICK is at the blackjack table playing six hands.)</p>
+<p><strong>Dealer</strong>: You're up 11 G's. Hit or stay?</p>
+<p>(Behind WARRICK, SARA walks up to him.)</p>
+<p><strong>Sara Sidle</strong>: Stay. I want to talk to you. </p>
+<p>(WARRICK glances up at SARA.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CASINO - COFFEE SHOP - DAY -- CONTINUOUS]</p>
+<p>(WARRICK is sitting at the counter nursing a cup of coffee. SARA sits next to him.) </p>
+<p><strong>Sara Sidle</strong>: You were playing $100 on every spot. You have a system?</p>
+<p><strong>Warrick Brown</strong>: I'm counting cards.</p>
+<p><strong>Sara Sidle</strong>: Isn't that illegal?</p>
+<p><strong>Warrick Brown</strong>: Not if you do the math in your head.</p>
+<p><strong>Sara Sidle</strong>: You play anything else?</p>
+<p><strong>Warrick Brown</strong>: I bet sports from time to time.</p>
+<p><strong>Sara Sidle</strong>: So ... let me get this straight. You were assigned by Brass to shadow a trainee, a robbery comes up on M.L.K, and you go for coffee.</p>
+<p><strong>Warrick Brown</strong>: An officer was there.</p>
+<p><strong>Sara Sidle</strong>: So, you felt safe to leave? Do you know the policies and procedures for clearing a scene?</p>
+<p><strong>Warrick Brown</strong>: Yes.</p>
+<p><strong>Sara Sidle</strong>: Then, why'd you leave? I mean, what was so important that you had to rush out of there?</p>
+<p><strong>Warrick Brown</strong>: I told you. I went for coffee.</p>
+<p><strong>Sara Sidle</strong>: Was that before or after you made your bets? Sunday ... Vegas ... NFL football ... guy like you ... come on, you trying to tell me that you didn't make a little pit stop? </p>
+<p>(WARRICK doesn't say anything.)</p>
+<p><strong>Sara Sidle</strong>: Look at me. Did you log on ... tell dispatch where you were going?</p>
+<p><strong>Warrick Brown</strong>: Do you know how many times I've been left alone at a crime scene when I was a rookie?</p>
+<p><strong>Sara Sidle</strong>: Yeah, well, this time is different.</p>
+<p><strong>Warrick Brown</strong>: Yeah, why's that?</p>
+<p><strong>Sara Sidle</strong>: Holly Gribbs died on the operating table twenty minutes ago.</p>
+<p>(WARRICK turns to look at SARA, shocked by the news. He's absolutely stunned.)</p>
+<p>(Cut to: CATHERINE)</p>
+<p>(Cut to: BRASS)</p>
+<p>(Cut to: NICK.)</p>
+<p>(Cut to: GRISSOM.)</p>
+<p>FADE TO BLACK.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI -- HALLWAY DAY]</p>
+<p>(SARA walks into the break room. CATHERINE'S inside, leaning against the counter, her hands rubbing her temples.)</p>
+<p><strong>Sara Sidle</strong>: Mind if I get a soda?</p>
+<p>(CATHERINE looks at SARA, puzzled by the request. SARA indicates the refrigerator behind CATHERINE.)</p>
+<p><strong>Catherine Willows</strong>: Oh, yeah. Sorry.</p>
+<p>(CATHERINE moves.)</p>
+<p><strong>Sara Sidle</strong>: You want one? </p>
+<p>(SARA holds out the soda can.)</p>
+<p><strong>Catherine Willows</strong>: Is there anything in there with alcohol?</p>
+<p><strong>Sara Sidle</strong>: Root beer.</p>
+<p><strong>Catherine Willows</strong>: No.</p>
+<p>(A pager beeps. Both CATHERINE and SARA check their pagers. The pager continues to beep.)</p>
+<p>(CATHERINE grabs the bagged pager on the table, the one from the crime scene. She checks it.)</p>
+<p><strong>Catherine</strong>: Oh ... god.</p>
+<p>(CATHERINE scrambles to get her cell phone out. SARA hands her the pager. CATHERINE dials.)</p>
+<p><strong>Sara Sidle</strong>: (smiles) What are you going to say? &quot;Hi, I'm a Criminalist. I was in the neighborhood ... &quot;</p>
+<p><strong>Catherine Willows</strong>: Shh. It's ringing.</p>
+<p>INTERCUT WITH:</p>
+<p>[THREE ACES MOTEL - ROOM 202]</p>
+<p><strong>Jerrod Cooper</strong>: (to phone) Hello.</p>
+<p><strong>Catherine Willows</strong>: (from phone) Uh, hey.</p>
+<p><strong>Jerrod Cooper</strong>: Who's this? I just dialed my own damn beeper.</p>
+<p><strong>Catherine Willows</strong>: Uh-uh. It's my beeper now. I found it.</p>
+<p><strong>Jerrod Cooper</strong>: It ain't your beeper, girl. It's mine. </p>
+<p>(SARA sits down and listens intently as CATHERINE talks on the phone.)</p>
+<p><strong>Jerrod Cooper</strong>: I do a lot of business on that beeper.</p>
+<p><strong>Catherine Willows</strong>: What kind of business?</p>
+<p><strong>Jerrod Cooper</strong>: You know -- slinging a little something-something.</p>
+<p><strong>Catherine Willows</strong>: Oh, a little something-something. Or maybe a little bling-bling?</p>
+<p><strong>Jerrod Cooper</strong>: So what you know about some bling-bling?</p>
+<p><strong>Catherine Willows</strong>: Well, invite me over to your crib, baby and you might find out.</p>
+<p><strong>Jerrod Cooper</strong>: It's on. Three Aces Motel, Room 202.</p>
+<p><strong>Catherine Willows</strong>: Three Aces Motel, Room 202.</p>
+<p>(She sighs expectantly.)</p>
+<p><strong>Jerrod Cooper</strong>: See you soon.</p>
+<p>(CATHERINE smiles and hangs up. She turns to SARA.)</p>
+<p><strong>Catherine Willows</strong>: Did I just do that?</p>
+<p><strong>Sara Sidle</strong>: What's a &quot;bling-bling&quot;?</p>
+<p><strong>Catherine Willows</strong>: Got me.</p>
+<p>(SARA stands up.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY]</p>
+<p>(NICK and GRISSOM question RED CARLTON.)</p>
+<p><strong>Red Carlton</strong>: Yeah, I was up on that roof. I didn't push him off. I did talk to him, though.</p>
+<p><strong>Nick Stokes</strong>: We know. Hey, what did you drink? Gin and tonic or amaretto sours?</p>
+<p><strong>Red Carlton</strong>: Amaretto sours. How'd you know that?</p>
+<p><strong>Nick Stokes</strong>: We got a record of the victim's room charges. Chief.</p>
+<p><strong>Gil Grissom</strong>: At 1:27 A.M. Our victim, Ted Sallenger, made a couple of purchases in the gift shop--</p>
+<p>(Quick flashback to: TED SALLENGER grabbing his package and leaving the gift shop.)</p>
+<p><strong>Gil Grissom</strong>: (V.O.) ... band-aids and antiseptic. At 1:40 A.M ...</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Gil Grissom</strong>: ... we tracked a purchase at the la promenade--</p>
+<p>(Quick flashback to: TED SALLENGER looking into the display window of the store and smiling.)</p>
+<p><strong>Gil Grissom</strong>: (V.O.) ... a $30,000 designer watch. </p>
+<p>(He walks into the store.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Gil Grissom</strong>: At 1:45 A.M., you both started knocking them back in the hotel bar.</p>
+<p>(Quick flashback to: TED SALLENGER at the bar admiring his new watch.)</p>
+<p><strong>Ted Sallenger</strong>: Sweet.</p>
+<p>(RED CARLTON walks up to TED SALLENGER.)</p>
+<p><strong>Red Carlton</strong>: Hey. You won my money.</p>
+<p><strong>Ted Sallenger</strong>: What?</p>
+<p><strong>Red Carlton</strong>: That was my machine. I put everything I had in that machine. </p>
+<p><strong>Ted Sallenger</strong>: So you're a degenerate. What do you want from me? </p>
+<p>(RED CARLTON turns to leave. TED SALLENGER stops him.)</p>
+<p><strong>Ted Sallenger</strong>: Hey, old timer, come on, sit down. I'll buy you a drink for second place. What are you having? It's on me.</p>
+<p><strong>Red Carlton</strong>: It's on you? All right. In that case, I'll have a, uh ... Amaretto Sour.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Nick Stokes</strong>: The first hour, you both drank tit for tat but by hour two, Ted started ordering doubles ... and you quit drinking.</p>
+<p><strong>Gil Grissom</strong>: Drank decaf coffee instead. My guess is that you were getting him lathered up for your little elevator ride.</p>
+<p>(Quick flashback to: TED SALLENGER and RED CARLTON appear in the hallway.)</p>
+<p><strong>Ted Sallenger</strong>: Have a nice life, huh? I know I will.</p>
+<p>(TED laughs. End of flashback. Resume to present.)</p>
+<p><strong>Gil Grissom</strong>: And from there, you went to the roof.</p>
+<p>(Quick flashback to: Camera close up of a man's foot close to the roof's edge. It's RED CARLTON. He takes his glasses off and looks down. He cries. End of flashback. Resume to present.)</p>
+<p><strong>Red Carlton</strong>: (cries) I couldn't go through with it. I'm a born failure. I failed at my marriage; I failed at my work. Then I couldn't even commit suicide right. One pull away ... the story of my life.</p>
+<p><strong>Gil Grissom</strong>: Mr. Carlton, we're not detectives. We're crime scene analysts. We're trained to ignore verbal accounts and rely instead on the evidence a scene sets before us. But I have to be honest with you, Red ... I believe you. I do.<br />
+(pause) So ... here's what we're going to do: You're going to stay here until we get back. If you pushed this guy off the roof he will, without a doubt, have roof dust on his shoes. If he does, we'll have you arrested for murder. But if dust is not present, then you'll be free to go.</p>
+<p>(RED CARLTON thinks about it. He smiles a bit.)</p>
+<p><strong>Red Carlton</strong>: I like this guy.</p>
+<p>(NICK looks at GRISSOM and smiles.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. THREE ACES MOTEL - SECOND FLOOR - ROOM 202 -- DAY]</p>
+<p>(The OFFICERS clear out the motel rooms. CATHERINE is standing on the stairway. BRASS rushes up the stairs and takes out his gun. He cocks it as he passes CATHERINE.)</p>
+<p><strong>Catherine Willows</strong>: What are you doing here?</p>
+<p>(BRASS turns around to look at CATHERINE.)</p>
+<p><strong>Jim Brass</strong>: Guilt therapy.</p>
+<p>(BRASS leads the officers as they surround the door to room 202. He hits the door with his foot.)</p>
+<p><strong>Jim Brass</strong>: Police officers! Open up!</p>
+<p>(The OFFICER kicks the door in.)</p>
+<p>(JERROD COOPER is lying on the bed. He jumps out and heads for the window when the OFFICERS burst in through the door.)</p>
+<p><strong>Officer</strong>: Get down. OFFICER: Hold him down on the ground! OFFICER: Put your hands behind your back! OFFICER: Get him down!</p>
+<p>(The OFFICERS successfully apprehend JERROD COOPER. CATHERINE walks in through the doorway. The OFFICERS push JERROD COOPER face down into the bed. He looks up and sees CATHERINE.)</p>
+<p><strong>Catherine Willows</strong>: Now that's a bling-bling.</p>
+<p><strong>Jerrod Cooper</strong>: That was you on the phone?</p>
+<p><strong>Catherine Willows</strong>: (nods) Yep.</p>
+<p>(The OFFICERS get the handcuffs on him and push him toward the door. As they pass CATHERINE, she notices something.)</p>
+<p><strong>Catherine Willows</strong>: Where'd you get that scratch?</p>
+<p>(Camera close up of the scratch to his right eye.)</p>
+<p><strong>Sara Sidle</strong>: For a conviction, we're going to need a DNA sample.</p>
+<p><strong>Jim Brass</strong>: Okay, let's sit him down. Let's get a saliva sample.</p>
+<p><strong>Catherine Willows</strong>: (to radio) Hey, guys, it's Catherine.</p>
+<p>(Cut to: WARRICK pulls out his radio and listens.)</p>
+<p><strong>Catherine Willows</strong>: (to radio) For whoever is listening we got him. Repeat. Holly Gribbs' suspect is in custody.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. &quot;THE SPOT&quot; - PARKING STRUCTURE - DAY -- CONTINUOUS]</p>
+<p>(WARRICK puts the radio away as he walks around the parking structure toward JUDGE COHEN who is standing next to his parked car.)</p>
+<p>(WARRICK hands the cash to JUDGE COHEN.)</p>
+<p><strong>Warrick Brown</strong>: Ten Thousand. See you around, Judge.</p>
+<p>(WARRICK turns to leave. JUDGE COHEN stops him.)</p>
+<p><strong>Judge Cohen</strong>: You don't leave until I tell you to leave.</p>
+<p><strong>Warrick Brown</strong>: What? What are you going to do, hold me in contempt?</p>
+<p><strong>Judge Cohen</strong>: You're already in contempt with me. We're in bed, pal. I own you.</p>
+<p><strong>Warrick Brown</strong>: Nobody owns me.</p>
+<p><strong>Judge Cohen</strong>: Yeah? Let me tell you something. You ever heard of a wolf in sheep's clothing? You and me -- we're going to do business together whether you like it or not. Keep your cell phone charged.</p>
+<p>(JUDGE COHEN gets into his car and leaves WARRICK standing there.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. FORENSIC AUTOPSY - FORENSIC SCIENCE/LABORATORIES DIVISION - HALLWAY --<br />
+DAY]</p>
+<p>(GRISSOM leans against the wall. CATHERINE walks down the hallway toward him. She's carrying her kit.)</p>
+<p><strong>Catherine Willows</strong>: You didn't have to come.</p>
+<p><strong>Gil Grissom</strong>: I know. I wanted to. In case you need me.</p>
+<p><strong>Catherine Willows</strong>: I probably do. But this is something I'd rather do alone.</p>
+<p>(CATHERINE walks past GRISSOM toward the door.)</p>
+<p><strong>Gil Grissom</strong>: Fifteen seconds, you're in, you're out we make a DNA match and it's over, okay?</p>
+<p><strong>Catherine Willows</strong>: (nods) Okay.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. FORENSIC AUTOPSY - FORENSIC SCIENCE/LABORATORIES DIVISION - DAY]</p>
+<p>(Camera opens on the morgue cabinet label for &quot;GRIBBS, HOLLY&quot;. CATHERINE stares at the card. She closes her eyes for a brief moment.)</p>
+<p>(CATHERINE opens the cabinet door and pulls out the table. She unzips the bag and reaches into her kit. She takes HOLLY'S hand and gets the sample.)</p>
+<p><strong>Catherine Willows</strong>: (whispers) I'm sorry.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - TEMPORARY EVIDENCE ROOM -- DAY]</p>
+<p>(GRISSOM and NICK examine TED SALLENGER'S shoes.)</p>
+<p><strong>Nick Stokes</strong>: Will the real Red Skelton please ... stand up?</p>
+<p><strong>Gil Grissom</strong>: You're too young to remember who Red Skelton was.</p>
+<p><strong>Nick Stokes</strong>: Hey, Nick at Nite. You should check it out. </p>
+<p>(GRISSOM looks for dust.)</p>
+<p><strong>Nick Stokes</strong>: No dust. Great.</p>
+<p><strong>Gil Grissom</strong>: I thought so. Turns out he's red herring. There's got to be something else. </p>
+<p>(GRISSOM cuts the envelope open and empties its contents on the table. He examines the watch.)</p>
+<p><strong>Gil Grissom</strong>: Nice watch.</p>
+<p>(He sees something.)</p>
+<p><strong>Gil Grissom</strong>: Look at this. </p>
+<p>(Camera zooms in to the fibers caught in the watch.)</p>
+<p><strong>Gil Grissom</strong>: These look like fibers.</p>
+<p><strong>Nick Stokes</strong>: Yeah. You think he was dragged?</p>
+<p><strong>Gil Grissom</strong>: Maybe.</p>
+<p><strong>Nick Stokes</strong>: Well, I'll go back to the Presidential Suite ... take a swatch of the carpet, see if we can match the fibers.</p>
+<p><strong>Gil Grissom</strong>: Get a hold of the girl while you're at it.</p>
+<p><strong>Nick Stokes</strong>: Why, is she a suspect?</p>
+<p><strong>Gil Grissom</strong>: She is now.</p>
+<p>(NICK nods and leaves the room. GRISSOM continues to examine the watch.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY -- ROOM A -- DAY] </p>
+<p>(GRISSOM walks into the room.)</p>
+<p><strong>Grissom</strong>: All right. What do you have?</p>
+<p><strong>Dr. Jenna Williams</strong>: Hey. I thought you might like to see this.</p>
+<p>(She shows him the mark on TED SALLENGER'S head.)</p>
+<p><strong>Gil Grissom</strong>: What the hell is that?</p>
+<p><strong>Dr. Jenna Williams</strong>: I found it after I shaved his head. Something hard with a diamond insignia on the back. You find that, I bet you find your killer.</p>
+<p><strong>Gil Grissom</strong>: Was this first blow?</p>
+<p><strong>Dr. Jenna Williams</strong>: First and fatal. Crushed his skull. So he was killed, then he was pushed.</p>
+<p><strong>Dr. Jenna Williams</strong>: Without a doubt.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - BREAK ROOM / DNA LAB -- DAY]</p>
+<p>(SARA and CATHERINE are sitting in the break room.)</p>
+<p><strong>Sara Sidle</strong>: Nicorette?</p>
+<p><strong>Catherine Willows</strong>: No, thanks. Got my own.</p>
+<p>(GREG SANDERS opens the door to his lab and calls out to CATHERINE.)</p>
+<p><strong>Greg Sanders</strong>: Boss, your DNA results are back. </p>
+<p>(CATHERINE and SARA stand and rush into the DNA lab. GREG looks at the results.)</p>
+<p><strong>Greg Sanders</strong>: Well, according to my DNA data the types are 814 quadrillion to one that your suspect is our killer.</p>
+<p><strong>Sara Sidle</strong>: Pretty good stats! Whoo!</p>
+<p><strong>Catherine</strong>: Yeah, considering there's only about six billion people in the world ... ah, thanks.</p>
+<p>(CATHERINE looks at the results, shakes her head and sighs.)</p>
+<p><strong>Catherine Willows</strong>: She gave me just enough ... just enough to catch him.</p>
+<p>(Quick flashback to: JERROD COOPER advances into the room, the gun in his hand and pointed at HOLLY GRIBBS.)</p>
+<p><strong>Jerrod Cooper</strong>: Don't move!</p>
+<p>(HOLLY turns around and raises her hands.)</p>
+<p><strong>Holly Gribbs</strong>: Hey, hey, it's okay. I'm not a cop. I just ... I just analyze the scene. This is my first day. Believe me, I'm-I'm no threat. </p>
+<p>(Cut to: HOLLY rips the phone out of the wall. She holds it out to JERROD COOPER.)</p>
+<p><strong>Holly Gribbs</strong>: Um, look ... phone with your prints on it? Here, take it. Okay? Here.</p>
+<p>(His pager beeps. He's distracted for a moment and looks down. HOLLY uses it and throws the phone at JERROD. She hits him and he drops his gun. He goes for her gun. They struggle.)</p>
+<p><strong>Catherine Willows</strong>: (V.O.) but she held on long enough to give us a clue.</p>
+<p>(HOLLY reaches up and scratches him in the eyes. He yells. He manages to get her gun. He takes a couple steps back, aims and fires.)</p>
+<p>(JERROD drops HOLLY'S gun, he grabs his gun and runs. HOLLY looks up and pushes JERROD'S pager under the couch. Camera holds on HOLLY GRIBBS.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Sara Sidle</strong>: Nice work, Catherine.</p>
+<p>(CATHERINE turns to look at SARA and shrugs.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAB]</p>
+<p>(NICK is in one of the labs where he compares the fibers from the watch with the fibers from the carpet.)</p>
+<p>(NICK looks up from the scope.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. HOTEL MONACO - PRESIDENTIAL SUITE -- DAY]</p>
+<p>(GRISSOM walks into the room and puts his kit down. He sees the large square cut out in the middle of the room.)</p>
+<p><strong>Gil Grissom</strong>: Nice swatch, Nick. Pizza box-sized.</p>
+<p>(GRISSOM looks around and sees something. One of the candlestick holders has a card suit symbol on each of its sides. He picks it up. He smiles.)</p>
+<p>(GRISSOM walks over to the balcony doors and puts his kit down. He opens it and takes out the luminol. He sprays the carpet in front of the balcony and finds the blood stains.)</p>
+<p>(GRISSOM'S phone rings. He answers it.)</p>
+<p><strong>Gil Grissom</strong>: Grissom. </p>
+<p><strong>Nick Stokes</strong>: (from phone) It's Nick. I just finished the carpet swatch comparisons. Got a match.</p>
+<p><strong>Gil Grissom</strong>: I'm starting to get that feeling, Nicky, my boy.</p>
+<p><strong>Nick Stokes</strong>: (from phone) Yeah, so am I.</p>
+<p><strong>Gil Grissom</strong>: Listen, I'll meet you at the interrogation. I still got one more thing I want to check.</p>
+<p><strong>Nick Stokes</strong>: (from phone) Okay. Bye. </p>
+<p>(GRISSOM hands up.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. HOTEL MONACO - HALLWAY IN FRONT OF PRESIDENTIAL SUITE - ROOM 1227 - DAY -<br />
+CONTINUOUS]</p>
+<p>(GRISSOM opens the door and shows the card key to ELIAS.)</p>
+<p><strong>Gil Grissom</strong>: Okay, I'm ready to try this now.</p>
+<p><strong>Elias Templeton</strong>: (to radio) Stand by, house.</p>
+<p>(With the door open, GRISSOM puts the card key into the lock, then closes the door. He opens the door and removes the card key.)</p>
+<p><strong>Gil Grissom</strong>: Did your security log record that?</p>
+<p><strong>Elias Templeton</strong>: (to radio) You guys get that? (to GRISSOM) No. Well, I'll be damned. The curse. Hell, I ain't playing those machines no more. It's true. You win, you die.</p>
+<p>(GRISSOM takes his things out of the room and hands the card key to ELIAS. He walks down the hallway.)</p>
+<p><strong>Gil Grissom</strong>: (under his breath) Gotcha.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY]</p>
+<p>(GRISSOM and NICK interview JAMIE again.)</p>
+<p><strong>Jamie</strong>: Got me with what?</p>
+<p><strong>Gil Grissom</strong>: Capital murder.</p>
+<p><strong>Jamie</strong>: Oh, are you kidding me?</p>
+<p><strong>Gil Grissom</strong>: I never kid about murder. What do you think, Nick? My turn to play it &quot;blind&quot;?</p>
+<p>(Quick flashback to: TED SALLENGER and RED CARLTON walk into the hallway after their drinks at the bar.)</p>
+<p><strong>Ted Sallenger</strong>: Hey, Red, have a nice life, huh? (laughs) I know I will.</p>
+<p>(TED staggers down the hallway toward his room.)</p>
+<p>(Cut to: TED uses the card and tries to open the door. He's not too successful. JAMIE rushes up to the door carrying the candlestick holder. She peeks in through they peep hole.)</p>
+<p><strong>Ted Sallenger</strong>: What the ... ? What the hell's with this thing?</p>
+<p>(TED still has problems with the card key. JAMIE jerks the door open and TED stumbles into the room. She hits him on the head with the candlestick. He falls to the floor.)</p>
+<p>(Quick flash to: JAMIE drags TED across the room toward the balcony.)</p>
+<p><strong>Gil Grissom</strong>: (V.O.) Now, the funny thing is if Ted didn't come back to the room then why were presidential carpet fibers found in the band of his brand-new watch? 'Cause he did come back. </p>
+<p>(JAMIE drags TED across the room floor.)</p>
+<p>(Cut to: JAMIE cleans the carpet.)</p>
+<p><strong>Gil Grissom</strong>: (V.O.) And you do the smart thing: After you throw him over the balcony you cleaned up the crime scene. You left blood-soaked towels in plain sight. Your alibi? The blood came from Ted's forearms.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Gil Grissom</strong>: How am I doing so far, Nicky?</p>
+<p><strong>Nick Stokes</strong>: Yeah, I'm into it.</p>
+<p><strong>Gil Grissom</strong>: According to your statement, you felt slighted 'cause Ted had just won $40 million and dumped you within half an hour giving you motive enough to kill him and you exercised that motive.</p>
+<p>(Without saying a word, JAMIE holds out her wrists for them to cuff. GRISSOM looks at her, then heads for the door to get an OFFICER.)</p>
+<p>(NICK leans forward.)</p>
+<p><strong>Nick Stokes</strong>: Can I ask you a question?</p>
+<p><strong>Jamie</strong>: Sure.</p>
+<p><strong>Nick Stokes</strong>: How are you so cool? You took someone's life. Don't you care?</p>
+<p><strong>Jamie</strong>: No.</p>
+<p>(GRISSOM opens the door and calls out to the OFFICER outside.)</p>
+<p><strong>Gil Grissom</strong>: Deputy, we're going to have her arrested.</p>
+<p><strong>Jamie</strong>: (to GRISSOM) So, could I ask you a question?</p>
+<p><strong>Gil Grissom</strong>: Maybe.</p>
+<p><strong>Jamie</strong>: All that stuff you rattled off. How'd you know about all that?</p>
+<p><strong>Gil Grissom</strong>: Your boyfriend told me.</p>
+<p>(The door closes behind them.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. HALLWAY -- DAY]</p>
+<p>(WARRICK sits alone in the hallway. GRISSOM and NICK walk down the hallway. GRISSOM sees WARRICK.)</p>
+<p><strong>Gil Grissom</strong>: (to NICK) I'll see you outside, okay?</p>
+<p>(NICK leaves. GRISSOM approaches WARRICK. He sits down next to him.)</p>
+<p><strong>Gil Grissom</strong>: They say I have to let you go. You violated the policies and procedures for clearing a scene. I read Sara's report.</p>
+<p><strong>Warrick Brown</strong>: I know. I messed up. And Holly's dead. </p>
+<p>(WARRICK reaches for his gun and badge and hands them to GRISSOM.)</p>
+<p><strong>Warrick Brown</strong>: I'm sorry, Gil.</p>
+<p><strong>Gil Grissom</strong>: I'm sorry, too. I don't want to do this.</p>
+<p><strong>Warrick Brown</strong>: You got to. You know where I was?</p>
+<p><strong>Gil Grissom</strong>: I think I have a pretty good idea.</p>
+<p><strong>Warrick Brown</strong>: I went to lay a bet. I didn't even think I was doing anything wrong. Never occurred to me.</p>
+<p><strong>Gil Grissom</strong>: It never occurred to me, either.</p>
+<p>(GRISSOM stands up and stands in front of WARRICK.)</p>
+<p><strong>Gil Grissom</strong>: You know what? If I let you go I got to let me go, too. (beat)<br />
+And Catherine ... and Brass. We're all culpable in this. (beat) I don't care what the book says. I lost one good person today. I don't want to lose another-- here.</p>
+<p>(GRISSOM hands WARRICK back his gun and badge. WARRICK looks at them, takes them and stands up.)</p>
+<p><strong>Warrick Brown</strong>: I won't let you down again.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. POLICE DEPARTMENT - PARKING LOT - DAY]</p>
+<p>(All the CSIs are standing in the parking lot under the hot sun. NICK looks up and signals to CATHERINE.)</p>
+<p>(BRASS walks outside with JERROD COOPER in handcuffs. He looks up at all the CSIs standing there and walks JERROD COOPER to the vehicle where they both get inside.)</p>
+<p>(The Vehicle drives off, past them.)</p>
+<p><strong>Gil Grissom</strong>: Let's go home.</p>
+<p>(One by one, they leave. Camera holds on WARRICK as he lingers.)</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-							Narrator : Previously on C.S.I. ...
-
-
-
-Gil Grissom: Hi, sorry. Welcome to Forensics. Gil Grissom, I'm your supervisor on grayayard.
-Holly Gribbs: Holly Gribbs.
-
-
-
-
-Jim Brass:  Well, congratulations, Gribbs. You're the fifth person I've been forced to hire. 
-Holly Gribbs: Well, that's not fair.
-Jim Brass: Putting a juiced-in Lieutenant's daughter on the shift is fair?
-
-
-Holly Gribbs: I'm fulfilling her dreams, not mine.
-Catherine Willows: I can sit here, and I can baby you and I can tell you to quit, but I'm not going to do that at least until you've solved your first, and if, after that, you don't feel like King Kong on cocaine, then you can quit.
-
-
-Jim Brass: Grissom!
-
-Jim Brass: Have Warrick shadow Gribbs for the next three weeks or until Nicky makes his 100th, whatever comes first.
-Warrick: People walk every day because of you.
-Gil Grissom: That's enough. Warrick, let's go!
-
-
-(GRISSOM talks with WARRICK
-Gil Grissom: The minute you started thinking about yourself instead of the case, you lost him.
-
-
-Warrick Brown: You be okay on your own?
-Holly Gribbs: Are you kidding? I'm fired up, ready to go. Besides, there's an officer here.
-
-
-Warrick Brown: I'm sorry, Judge. Captain Brass wouldn't call you for a search warrant. I got a whopper on the line with a 100 pound test.
-Judge Cohen: You got a winner for me?
-Warrick Brown: Favre.
-Judge Cohen: You put $5,000 down on the Pack for me I'll give you a blank warrant.
-
-
-Gil Grissom: Congratulations, Nicky, my boy. You are now a C.S.I. Level three.
-Nick Stokes: Woo! 
-
-
-Warrick Brown:  Woo-hoo! Yeah! I'll be right there. 
-
-Warrick Brown: Uh, give me 'Niners for five dimes.
-
-
-
-
-Gil Grissom: Weren't you supposed to be shadowing holly?
-Warrick Brown: Oh. She's cool. She's doing prints on that 4-0-7. There's an officer there.
-
-
-
-Jerrod Cooper: Excuse me, miss.
-
-
-
-Jim Brass: Holly Gribbs has been shot. They don't think she's going to make it.
-
-
-
-
-
-
-
-
-Jamie: Hey, look. Oh, $40 million. Could you imagine?
-Ted Sallenger: Never happen. You got a better chance of going to the moon.
-Jamie: Oh, give me a $20. Hurry! I just got a premonition.
-Ted Sallenger: You got your own money. Go play.
-Jamie: But I left my purse in the room.
-
-Ted Sallenger: I'll play. Wait here.
-
-Clerk:  Is this your slot card?
-Ted Sallenger: No.
-
-
-Ted Sallenger: Your little premonition has cost me $20. Happy now? Here.
-
-Ted Sallenger:  Watch out. Here come the millions.
-
-Jamie:  Oh, my God! 
-
-
-Jamie: We won!
-
-
-
-
-
-
-
-
-Elias Templeton: $40 million. You'll be having lobster tonight.
-
-Jamie:  They gave us the presidential suite. Can you believe it?
-Elias Templeton: Here, Richard Gere, why don't you let me help you with that?
-
-Ted Sallenger: Thank you.
-
-
-
-Jamie: Oh! Look at our view! 
-
-Jamie: Wow!
-
-Ted Sallenger:  Take a hike. 
-
-Ted Sallenger: Get lost.
-
-Jamie: Excuse me?
-Ted: Come on, Jamie. I'm a millionaire now. Now, why would I want to waste anymore time with you?
-
-Voice Outside:  Room service?
-
-
-
-
-
-Gil Grissom:  All right, the minute you hear anything on Holly Gribbs's condition I want you to page me. 
-
-Gil Grissom:  All right? Bye.
-
-Dispatcher:  ... Call back at 4-7-7 Desert Inn Road.
-Gil Grissom: So he pulled a &quot;Louganis&quot;, huh?
-Detective Barns: Yeah, 150 feet. The giga-millions curse strikes again. Past four winners ended up dead or missing. What do you think, Grissom? It's a conspiracy.
-Gil Grissom: Coincidence. I worked those four cases. There was never any evidence of foul play. Was he in town with anybody?
-Detective Barns: His girlfriend. She's upstairs in police custody. Do you want to talk to her?
-Gil Grissom: Not yet. Right now, I want to talk to him.
-Detective Barns: How do you talk to a dead body?
-
-Gil Grissom: I let him talk to me, actually. 
-
-Gil Grissom: In fact, he just spoke. Didn't you hear him? He just told me that he didn't commit suicide.
-
-Detective Barns: No. You-you lost me.
-Gil Grissom: This guy fell to his death wearing prescription eyeglasses. Jumpers take their glasses off. Suicide is the ultimate form of selfishness, Detective. It's unlikely that anyone cowardly enough to take his own life would be brave enough to watch his own death.
-Detective Barns:  You can tell all that just by looking at a pair of eyeglasses?
-Gil Grissom: You have no idea.
-
-
-
-
-
-
-
-Gil Grissom: Messages?
-
-
-
-
-
-
-Gil Grissom: I just got off the phone with the Sheriff. He says he wants me to run the unit.
-Jim Brass: You're the boss. 
-
-Jim Brass: I mean, I can't say I didn't do it to myself.
-Gil Grissom: Where are they going to place you?
-Jim Brass: Homicide. Believe that?
-
-Jim Brass: Instead of moving up, I'm moving back in a time capsule, like it's
-1979 again. So, I guess, this might put you and me at odds.
-
-Gil Grissom: Cop versus scientist. Interesting, huh?
-
-Jim Brass:  Yeah.
-
-Gil Grissom: You got any advice for me? 
-Jim Brass: Yeah, cover your ass ... and hide. They're all yours, pal.
-
-
-
-
-Paula Francis:  Tragedy struck early this morning when an on-duty Las Vegas Criminalist was brutally gunned down. 
-
-
-Paula Francis:  It was her first night on the job. Victim Holly Gribbs was investigating a robbery/homicide in an apartment on the corner of M.L.K. and Warm Springs.
-
-Paula Francis:  The crime lab now faces the daunting task of investigating the shooting of one of their own. The wounded C.S.I. has been taken to Desert Palm where she is listed in critical condition. The suspect is still at large. 
-Newscaster :  In other news ...
-
-Catherine Willows: Weren't you supposed to be shadowing Holly?
-Nick Stokes: Warrick, man, what happened?
-Warrick Brown: I left her to hook up with Grissom on that toenail case ... and then, I came back here.
-Catherine Willows: You left Holly solo?
-Warrick Brown: It was just supposed to be an easy print job. Look, I feel bad enough, okay?
-
-Gil Grissom: Here's what we know. Brass assigned Warrick to shadow Holly on a robbery. 
-
-Gil Grissom: He left her at the scene. The suspect returned and Holly was shot. The sheriff phoned me earlier this morning. Brass has been moved back to homicide.
-Nick Stokes: Who's going to run the unit?
-Gil Grissom: For now? Me. 
-
-Gil Grissom:  I know. We'll just play it by ear, okay? 
-
-Gil Grissom: All right. Last night, a jackpot winner took a swan dive off the Hotel Monaco about the time Holly was shot. I'm going to work the leaper. Nick?
-Nick Stokes:  Yes, sir.
-Gil Grissom: You work the Holly case.
-
-Catherine Willows: Wait a minute. Uh, you-you can't give him the Holly case. I mean, all due respect, Nick. I want this one.
-Gil Grissom: Nicky is the only one that didn't have any personal contact with Holly. I don't want you on this, Cath.
-Catherine Willows: Why?
-Gil Grissom: Because you're emotionally involved.
-Catherine Willows: Yeah. She was going to walk. I convinced her to stay. If anyone's to blame here, it's me, and I want this case. 
-
-Catherine Willows: Fire me.
-Gil Grissom: I'm not firing anybody. Look. I know we're pulling a double. We're on edge 'cause of Holly. I just want everyone to stay calm and to do their jobs for the next ten hours. And as of now we're short of help. So, I'm bringing in Sara Sidle to give us a hand. 
-Catherine Willows: Sara Sidle?
-Warrick Brown: Who's that?
-Gil Grissom: She's a CSI out of San Francisco. She's a friend of mine, someone I trust. She's going to handle our internal investigation and I want to keep this in-house. I don't want I.A. Involved.
-
-Catherine Willows:  Great, that's just what we need, somebody sniffing around.
-
-Gil Grissom: Nicky, you can back me up on the D.B. at the Monaco.
-
-Nick Stokes: You got it.
-Gil Grissom: That's it.
-
-Warrick Brown: That's it? What about me?
-Gil Grissom: You're on leave. You get some personal time.
-Warrick Brown: I don't want any personal time. I want to help. You're the boss now. You can reinstate me.
-Gil Grissom: Go home, Warrick. Get your story straight before Sara gets here.
-
-
-
-
-
-
-Catherine Willows: A little late for the brigade.
-Officer: What do you think happened here?
-
-Catherine Willows: First blush?
-
-Jerrod Cooper:  Don't move.
-
-Holly Gribbs: Hey, it's okay. I'm not a cop. I just ... I just analyze the scene.
-
-
-
-
-Catherine Willows: This is Holly's gun. 
-
-Catherine Willows: She shot back.
-
-
-
-
-
-
-Dr. Jenna Williams: He's all rigored up. Now pull it like a slot machine. It's been three weeks since my last jumper. At least this one died a millionaire.
-
-Gil Grissom: Geez, these look like defensive wounds, maybe.
-Nick Stokes: Somebody came after this guy with something pretty sharp.
-Gil Grissom: You have any idea what it might be?
-Dr. Jenna Williams: Glass, maybe. We found tiny shards in the incised wound. 
-
-Dr. Jenna Williams: Take a look.
-Gil Grissom: Not just glass ...
-
-Gil Grissom: ... black glass.
-
-
-
-
-
-Nick Stokes: Broken glass.
-
-Gil Grissom: Blood drops, leading to ... bloody towels. No effort to hide.
-Nick Stokes: Hey! 
-
-Nick Stokes: Defensive wounds.
-Gil Grissom: Champagne bottle. Black glass. I missed that.
-
-Nick Stokes: What do you think, boss?
-Gil Grissom: You're C.S.I. three, now. You call it.
-Nick Stokes: What? You want me to play it blind?
-Gil Grissom: You've read the woman's statement. The room is full of evidentiary clues. 
-
-Gil Grissom: Talk it out. What does the room say?
-
-Nick Stokes: Okay. Well, according to the girlfriend's statement they were on the balcony when they had a lovers' quarrel.
-
-Ted Sallenger: Come on, Jamie. I'm a millionaire now. Now, why would I want to waste any more time with you?
-
-
-
-
-Nick Stokes: ... room service.
-
-Ted Sallenger: Thank you.
-Bellboy: You're welcome.
-
-Jamie:  So what was I this whole time, huh? Just someone to bang?
-Ted Sallenger: Yeah.
-
-Jamie:  Why?
-
-Ted Sallenger: Crazy broad!
-
-Gil Grissom:  And then what happened?
-
-
-
-
-Jamie: He took off. I cut him up pretty good. He probably went to the lobby to fetch some first aid.
-Gil Grissom: And he never came back to the room?
-Jamie: No.
-Gil Grissom: You sure? The Presidential Suite at the Hotel Monaco is a secured room. They keep a log. Every time someone enters with a card key ...
-Jamie: Well, if they keep a record check it for yourself. Why are you bothering me?
-Gil Grissom: Nicky, what does the log say?
-Nick Stokes: Well, she's right. The only entry I see here is when hotel security checked them in.
-Jamie: Can I go now?
-Gil Grissom: Yes, ma'am. 
-
-Gil Grissom: Her story checks out.
-
-Gil Grissom: She doesn't have any financial motive. She was his girlfriend, not his wife. Any money won by the deceased goes directly to the family estate.
-Nick Stokes: Well, if he didn't fall from his own balcony where else could it have happened?
-
-Gil Grissom: The roof.
-
-
-
-
-
-Warrick Brown: 
-Patient's name is Holly Gribbs.  Thanks.
-
-Warrick Brown:  Warrick here. 
-Judge Cohen:  Warrick, Judge Cohen. You bet the wrong team, you idiot. 
-
-
-Judge Cohen:  I said Packers. I got the 49ers for five grand. The spot in fifteen minutes.
-
-
-
-
-
-
-
-
-
-Gil Grissom: Okay, I think we're ready for Operation Norman.
-
-Gil Grissom:  You'll never get that off. It's Meyer's roof dust. All the hotels use it now. It diverts the sun's rays. Keeps the utility bills down in the summer.
-Nick Stokes: Yeah? How do you know all this crap?
-Gil Grissom: It's our job to know stuff.
-
-
-
-
-Gil Grissom:  All right, Nick, standing by for Operation Norman. Let him fly.
-
-Spectator : Oh!
-
-
-
-
-Gil Grissom: Yes, yes.
-
-Gil Grissom: Norman &quot;pushed&quot;.
-
-Gil Grissom: Norman &quot;jumped&quot;.
-
-Gil Grissom: Norman &quot;fell&quot;.
-Sara Sidle:  Wouldn't you if you were married to Mrs. Roper?
-
-Gil Grissom: I don't even have to turn around. Sara Sidle.
-Sara Sidle: That's me. Still tossing simulation dummies? There are other ways to tell, you know?
-Gil Grissom: How? Computer simulation? No thanks. I'm a scientist I like to see it. Newton dropped the apple, I drop dummies.
-Sara Sidle: You're old school.
-Gil Grissom: Exactly. And this guy was pushed.
-
-Sara Sidle: How's the girl?
-Gil Grissom: She's still in surgery. She's not doing very well.
-Sara Sidle: That's too bad.
-Gil Grissom: God, Sara, I have so many unanswered &quot;why&quot;s.
-Sara Sidle: There's only one why that matters now. Why did Warrick Brown leave that scene?
-
-
-
-
-Judge Cohen: What are you, dyslexic? You owe me ten grand, buddy.
-
-Warrick Brown: All I got is four.
-
-Judge Cohen: So what are you breathing here for? Get out there and get my money.
-Warrick Brown: Hey, look, a girl was shot on my watch 'cause I was doing you a favor.
-Judge Cohen: Hey, you came to me.
-Warrick Brown: All right, Judge, I'll get your money but I need more time. You got to give me a day.
-Judge Cohen: You got an hour.
-
-
-
-
-
-Sara Sidle: Do you know where I can find Catherine Willows? 
-Catherine Willows:  She's out in the field. 
-
-Catherine Willows: Let me guess ... Sara Sidle?
-Sara Sidle: I know who I am. I think you're a little confused.
-Catherine Willows: If you think you're taking my case ... forget it.
-
-Sara Sidle: Look, we can stand here and argue ... or ... we can get out there and find out who did this to Holly Gribbs.  Two sharp women are better than one.
-
-Catherine Willows: Pager. 
-
-Catherine Willows: Found at the crime scene.
-
-Sara Sidle: Where'd you get the pager nest?
-Catherine Willows: Grissom. He won it on e-bay.
-Sara Sidle: They're great for tracing if you can rely on the suspect's honesty.
-
-Catherine Willows: Uh ... Desmond Tutu.
-Sara Sidle: See what I mean? Don't feel bad. My last four traces came back Eminem,  ... so ... look, you seem to have everything under control here.
-Sara Sidle: Where can I find Warrick Brown?
-Catherine Willows: Try one of the casinos on Blue Diamond Road.
-
-Catherine Willows:  Oh, I'll page you with any information.
-
-
-
-
-
-
-
-Gil Grissom: There's our jumper.
-Surveillance Director: So, you want to see everything one minute before and one minute after he won the jackpot, right?
-Gil Grissom:  Please.
-
-Gil Grissom: Wait a minute. Go back. 
-
-Gil Grissom:  Could I see the person that was sitting at this machine right before the victim?
-Surveillance Director: Sure.
-
-Gil Grissom: Is there any way of telling how long he was sitting there?
-
-Surveillance Director: 11 hours, 13 minutes ... 15 seconds. At three bucks a tug, hell, he could have gone through ten, 20 thou.
-
-Gil Grissom: Nick, call the slot host. Get this guy's name from the slot card. I'm going to talk to this man.
-
-
-
-
-
-Bobby Dawson: All right. Here you go. Holly's weapon's already loaded. So, just point at the gun entry hole there to do your test fire.
-Catherine Willows: Okay, thanks, Bobby.
-
-CAMERA SLOW MOTION
-
-
-
-
-
-
-Bobby Dawson: Okay, now, in order to eliminate Holly's gun as the possible weapon we start by looking for imperfections in the bullet's stria ... now, that's odd.
-Catherine Willows: What's wrong?
-Bobby Dawson: We don't have an elimination. We got a match.
-
-Catherine Willows: Shot her with her own gun.
-
-Holly Gribbs: It's okay, I'm not a cop. I just ... I just analyze the scene.
-
-Jerrod Cooper: Throw the gun down! 
-
-Jerrod Cooper: All right now, yank the phone out of the wall. I'm taking my prints with me.
-
-
-
-
-
-
-
-
-
-Floor Clerk : I pulled the slot card for you.  That's the gentleman, right over there.
-Gil Grissom: Thank you.
-Floor Clerk : Mm-hmm. 
-
-Gil Grissom: Hold this. I think I'll play a little.
-
-Red Carlton: Double down, always get a winner. Oh, yes, a winner. The winner. Double nine.
-Gil Grissom:  You're under arrest.
-Red Carlton: Oh yeah? What for?
-Gil Grissom: First-degree murder.
-Red Carlton: Oh. On what grounds?
-
-Gil Grissom: Roof dust.
-Security Officers: Sir, would you please come with us?
-
-Gil Grissom:  Nicky, my boy, collect my winnings. It's a C.S.I. three initiation.
-
-
-
-
-
-
-Dealer: You're up 11 G's. Hit or stay?
-
-Sara Sidle: Stay. I want to talk to you. 
-
-
-
-
- 
-Sara Sidle: You were playing $100 on every spot. You have a system?
-Warrick Brown: I'm counting cards.
-Sara Sidle: Isn't that illegal?
-Warrick Brown: Not if you do the math in your head.
-Sara Sidle: You play anything else?
-Warrick Brown: I bet sports from time to time.
-Sara Sidle: So ... let me get this straight. You were assigned by Brass to shadow a trainee, a robbery comes up on M.L.K, and you go for coffee.
-Warrick Brown: An officer was there.
-Sara Sidle: So, you felt safe to leave? Do you know the policies and procedures for clearing a scene?
-Warrick Brown: Yes.
-Sara Sidle: Then, why'd you leave? I mean, what was so important that you had to rush out of there?
-Warrick Brown: I told you. I went for coffee.
-Sara Sidle: Was that before or after you made your bets? Sunday ... Vegas ... NFL football ... guy like you ... come on, you trying to tell me that you didn't make a little pit stop? 
-
-Sara Sidle: Look at me. Did you log on ... tell dispatch where you were going?
-Warrick Brown: Do you know how many times I've been left alone at a crime scene when I was a rookie?
-Sara Sidle: Yeah, well, this time is different.
-Warrick Brown: Yeah, why's that?
-Sara Sidle: Holly Gribbs died on the operating table twenty minutes ago.
-
-
-
-
-
-
-
-
-;
-
-
-
-
-
-
-Sara Sidle: Mind if I get a soda?
-
-Catherine Willows: Oh, yeah. Sorry.
-
-Sara Sidle: You want one? 
-
-Catherine Willows: Is there anything in there with alcohol?
-Sara Sidle: Root beer.
-Catherine Willows: No.
-
-
-Catherine: Oh ... god.
-
-Sara Sidle:  What are you going to say? &quot;Hi, I'm a Criminalist. I was in the neighborhood ... &quot;
-Catherine Willows: Shh. It's ringing.
-
-
-Jerrod Cooper:  Hello.
-Catherine Willows:  Uh, hey.
-Jerrod Cooper: Who's this? I just dialed my own damn beeper.
-Catherine Willows: Uh-uh. It's my beeper now. I found it.
-Jerrod Cooper: It ain't your beeper, girl. It's mine. 
-
-Jerrod Cooper: I do a lot of business on that beeper.
-Catherine Willows: What kind of business?
-Jerrod Cooper: You know -- slinging a little something-something.
-Catherine Willows: Oh, a little something-something. Or maybe a little bling-bling?
-Jerrod Cooper: So what you know about some bling-bling?
-Catherine Willows: Well, invite me over to your crib, baby and you might find out.
-Jerrod Cooper: It's on. Three Aces Motel, Room 202.
-Catherine Willows: Three Aces Motel, Room 202.
-
-Jerrod Cooper: See you soon.
-
-Catherine Willows: Did I just do that?
-Sara Sidle: What's a &quot;bling-bling&quot;?
-Catherine Willows: Got me.
-
-
-
-
-
-Red Carlton: Yeah, I was up on that roof. I didn't push him off. I did talk to him, though.
-Nick Stokes: We know. Hey, what did you drink? Gin and tonic or amaretto sours?
-Red Carlton: Amaretto sours. How'd you know that?
-Nick Stokes: We got a record of the victim's room charges. Chief.
-Gil Grissom: At 1:27 A.M. Our victim, Ted Sallenger, made a couple of purchases in the gift shop--
-
-Gil Grissom:  ... band-aids and antiseptic. At 1:40 A.M ...
-
-Gil Grissom: ... we tracked a purchase at the la promenade--
-
-Gil Grissom:  ... a $30,000 designer watch. 
-
-
-Gil Grissom: At 1:45 A.M., you both started knocking them back in the hotel bar.
-
-Ted Sallenger: Sweet.
-
-Red Carlton: Hey. You won my money.
-Ted Sallenger: What?
-Red Carlton: That was my machine. I put everything I had in that machine. 
-Ted Sallenger: So you're a degenerate. What do you want from me? 
-
-Ted Sallenger: Hey, old timer, come on, sit down. I'll buy you a drink for second place. What are you having? It's on me.
-Red Carlton: It's on you? All right. In that case, I'll have a, uh ... Amaretto Sour.
-
-Nick Stokes: The first hour, you both drank tit for tat but by hour two, Ted started ordering doubles ... and you quit drinking.
-Gil Grissom: Drank decaf coffee instead. My guess is that you were getting him lathered up for your little elevator ride.
-
-Ted Sallenger: Have a nice life, huh? I know I will.
-
-Gil Grissom: And from there, you went to the roof.
-
-Red Carlton:  I couldn't go through with it. I'm a born failure. I failed at my marriage; I failed at my work. Then I couldn't even commit suicide right. One pull away ... the story of my life.
-Gil Grissom: Mr. Carlton, we're not detectives. We're crime scene analysts. We're trained to ignore verbal accounts and rely instead on the evidence a scene sets before us. But I have to be honest with you, Red ... I believe you. I do.
- So ... here's what we're going to do: You're going to stay here until we get back. If you pushed this guy off the roof he will, without a doubt, have roof dust on his shoes. If he does, we'll have you arrested for murder. But if dust is not present, then you'll be free to go.
-
-Red Carlton: I like this guy.
-
-
-
-
-
-Catherine Willows: What are you doing here?
-
-Jim Brass: Guilt therapy.
-
-Jim Brass: Police officers! Open up!
-
-
-Officer: Get down. OFFICER: Hold him down on the ground! OFFICER: Put your hands behind your back! OFFICER: Get him down!
-
-Catherine Willows: Now that's a bling-bling.
-Jerrod Cooper: That was you on the phone?
-Catherine Willows:  Yep.
-
-Catherine Willows: Where'd you get that scratch?
-
-Sara Sidle: For a conviction, we're going to need a DNA sample.
-Jim Brass: Okay, let's sit him down. Let's get a saliva sample.
-Catherine Willows:  Hey, guys, it's Catherine.
-
-Catherine Willows:  For whoever is listening we got him. Repeat. Holly Gribbs' suspect is in custody.
-
-
-
-
-
-Warrick Brown: Ten Thousand. See you around, Judge.
-
-Judge Cohen: You don't leave until I tell you to leave.
-Warrick Brown: What? What are you going to do, hold me in contempt?
-Judge Cohen: You're already in contempt with me. We're in bed, pal. I own you.
-Warrick Brown: Nobody owns me.
-Judge Cohen: Yeah? Let me tell you something. You ever heard of a wolf in sheep's clothing? You and me -- we're going to do business together whether you like it or not. Keep your cell phone charged.
-
-
-
-[INT. FORENSIC AUTOPSY - FORENSIC SCIENCE/LABORATORIES DIVISION - HALLWAY --
-DAY]
-
-Catherine Willows: You didn't have to come.
-Gil Grissom: I know. I wanted to. In case you need me.
-Catherine Willows: I probably do. But this is something I'd rather do alone.
-
-Gil Grissom: Fifteen seconds, you're in, you're out we make a DNA match and it's over, okay?
-Catherine Willows:  Okay.
-
-
-
-
-
-Catherine Willows:  I'm sorry.
-
-
-
-
-Nick Stokes: Will the real Red Skelton please ... stand up?
-Gil Grissom: You're too young to remember who Red Skelton was.
-Nick Stokes: Hey, Nick at Nite. You should check it out. 
-
-Nick Stokes: No dust. Great.
-Gil Grissom: I thought so. Turns out he's red herring. There's got to be something else. 
-
-Gil Grissom: Nice watch.
-
-Gil Grissom: Look at this. 
-
-Gil Grissom: These look like fibers.
-Nick Stokes: Yeah. You think he was dragged?
-Gil Grissom: Maybe.
-Nick Stokes: Well, I'll go back to the Presidential Suite ... take a swatch of the carpet, see if we can match the fibers.
-Gil Grissom: Get a hold of the girl while you're at it.
-Nick Stokes: Why, is she a suspect?
-Gil Grissom: She is now.
-
-
-
- 
-
-Grissom: All right. What do you have?
-Dr. Jenna Williams: Hey. I thought you might like to see this.
-
-Gil Grissom: What the hell is that?
-Dr. Jenna Williams: I found it after I shaved his head. Something hard with a diamond insignia on the back. You find that, I bet you find your killer.
-Gil Grissom: Was this first blow?
-Dr. Jenna Williams: First and fatal. Crushed his skull. So he was killed, then he was pushed.
-Dr. Jenna Williams: Without a doubt.
-
-
-
-
-Sara Sidle: Nicorette?
-Catherine Willows: No, thanks. Got my own.
-
-Greg Sanders: Boss, your DNA results are back. 
-
-Greg Sanders: Well, according to my DNA data the types are 814 quadrillion to one that your suspect is our killer.
-Sara Sidle: Pretty good stats! Whoo!
-Catherine: Yeah, considering there's only about six billion people in the world ... ah, thanks.
-
-Catherine Willows: She gave me just enough ... just enough to catch him.
-
-Jerrod Cooper: Don't move!
-
-Holly Gribbs: Hey, hey, it's okay. I'm not a cop. I just ... I just analyze the scene. This is my first day. Believe me, I'm-I'm no threat. 
-
-Holly Gribbs: Um, look ... phone with your prints on it? Here, take it. Okay? Here.
-
-Catherine Willows:  but she held on long enough to give us a clue.
-
-
-
-Sara Sidle: Nice work, Catherine.
-
-
-
-
-
-
-
-
-
-
-Gil Grissom: Nice swatch, Nick. Pizza box-sized.
-
-
-
-Gil Grissom: Grissom. 
-Nick Stokes:  It's Nick. I just finished the carpet swatch comparisons. Got a match.
-Gil Grissom: I'm starting to get that feeling, Nicky, my boy.
-Nick Stokes:  Yeah, so am I.
-Gil Grissom: Listen, I'll meet you at the interrogation. I still got one more thing I want to check.
-Nick Stokes:  Okay. Bye. 
-
-
-
-[INT. HOTEL MONACO - HALLWAY IN FRONT OF PRESIDENTIAL SUITE - ROOM 1227 - DAY -
-CONTINUOUS]
-
-Gil Grissom: Okay, I'm ready to try this now.
-Elias Templeton:  Stand by, house.
-
-Gil Grissom: Did your security log record that?
-Elias Templeton:  No. Well, I'll be damned. The curse. Hell, I ain't playing those machines no more. It's true. You win, you die.
-
-Gil Grissom:  Gotcha.
-
-
-
-
-Jamie: Got me with what?
-Gil Grissom: Capital murder.
-Jamie: Oh, are you kidding me?
-Gil Grissom: I never kid about murder. What do you think, Nick? My turn to play it &quot;blind&quot;?
-
-Ted Sallenger: Hey, Red, have a nice life, huh?  I know I will.
-
-
-Ted Sallenger: What the ... ? What the hell's with this thing?
-
-
-Gil Grissom:  Now, the funny thing is if Ted didn't come back to the room then why were presidential carpet fibers found in the band of his brand-new watch? 'Cause he did come back. 
-
-
-Gil Grissom:  And you do the smart thing: After you throw him over the balcony you cleaned up the crime scene. You left blood-soaked towels in plain sight. Your alibi? The blood came from Ted's forearms.
-
-Gil Grissom: How am I doing so far, Nicky?
-Nick Stokes: Yeah, I'm into it.
-Gil Grissom: According to your statement, you felt slighted 'cause Ted had just won $40 million and dumped you within half an hour giving you motive enough to kill him and you exercised that motive.
-
-
-Nick Stokes: Can I ask you a question?
-Jamie: Sure.
-Nick Stokes: How are you so cool? You took someone's life. Don't you care?
-Jamie: No.
-
-Gil Grissom: Deputy, we're going to have her arrested.
-Jamie:  So, could I ask you a question?
-Gil Grissom: Maybe.
-Jamie: All that stuff you rattled off. How'd you know about all that?
-Gil Grissom: Your boyfriend told me.
-
-
-
-
-
-Gil Grissom:  I'll see you outside, okay?
-
-Gil Grissom: They say I have to let you go. You violated the policies and procedures for clearing a scene. I read Sara's report.
-Warrick Brown: I know. I messed up. And Holly's dead. 
-
-Warrick Brown: I'm sorry, Gil.
-Gil Grissom: I'm sorry, too. I don't want to do this.
-Warrick Brown: You got to. You know where I was?
-Gil Grissom: I think I have a pretty good idea.
-Warrick Brown: I went to lay a bet. I didn't even think I was doing anything wrong. Never occurred to me.
-Gil Grissom: It never occurred to me, either.
-
-Gil Grissom: You know what? If I let you go I got to let me go, too. 
-And Catherine ... and Brass. We're all culpable in this.  I don't care what the book says. I lost one good person today. I don't want to lose another-- here.
-
-Warrick Brown: I won't let you down again.
-
-
-
-
-
-
-Gil Grissom: Let's go home.
-
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=01x02+-+Cool+Change&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127278%23p127278" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=01x02+-+Cool+Change&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127278%23p127278" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127278%23p127278&amp;name=01x02+-+Cool+Change" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127278%23p127278" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=5d4066b40ac86386ae66da28df0d68d2">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=5d4066b40ac86386ae66da28df0d68d2">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=5d4066b40ac86386ae66da28df0d68d2">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=5d4066b40ac86386ae66da28df0d68d2">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

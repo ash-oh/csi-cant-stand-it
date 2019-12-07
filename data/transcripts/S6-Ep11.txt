@@ -1,654 +1,886 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="FADE IN.
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]
+(It's raining. Thunder rumbles; lightning flashes.) 
+Cue Sound: (PRE-LAP) RING TONE
+[PHONE BOOT" />
+<meta property="og:title" content="06x11 - Werewolves - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="FADE IN.
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]
+(It's raining. Thunder rumbles; lightning flashes.) 
+Cue Sound: (PRE-LAP) RING TONE
+[PHONE BOOT" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13320" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>06x11 - Werewolves - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13320" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13320">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=69c348df1d166ecb385c3f1af53aebdd"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=69c348df1d166ecb385c3f1af53aebdd">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=69c348df1d166ecb385c3f1af53aebdd">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=69c348df1d166ecb385c3f1af53aebdd">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=69c348df1d166ecb385c3f1af53aebdd">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13320&amp;sid=69c348df1d166ecb385c3f1af53aebdd&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>06x11 - Werewolves</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127414">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127414">06x11 - Werewolves</a></div>
+							<div class="pull-right text-right"><time datetime="2006-01-19T20:59:45Z">01/19/06 20:59</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>FADE IN.</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>(It's raining. Thunder rumbles; lightning flashes.) </p>
+<p><strong>Cue Sound</strong>: (PRE-LAP) RING TONE</p>
+<p>[PHONE BOOTH] </p>
+<p>(Through the smoky glass, we see the figure of someone inside the phone booth making a call.) </p>
+<p><strong>Officer Mularz</strong>: (over phone) LVPD. Officer Mularz. Can I help you?</p>
+<p>(There's no response.) </p>
+<p><strong>Officer Mularz</strong>: (over phone) Is anybody there?</p>
+<p>(Inside the phone booth, someone wearing a hooded jacket is on the phone. There's a prolonged pause before the person speaks.) </p>
+<p><strong>Whisperer</strong>: (to phone) I'd like to report a murder.</p>
+<p><strong>Officer Mularz</strong>: (over phone) Your name?</p>
+<p>(There's another pause.) </p>
+<p><strong>Officer Mularz</strong>: (over phone) Hello? Is there somebody there?</p>
+<p>(The person in the phone booth puts their gloved hand on the glass.) </p>
+<p><strong>Whisperer</strong>: (to phone) The body can be found at 1812 White Oak Road.</p>
+<p><strong>Officer Mularz</strong>: (over phone) I'd like to help you. Please identify yourself.</p>
+<p><strong>Whisperer</strong>: (to phone) Send someone to pick up the body.</p>
+<p>(The camera blurs on the figure inside the phone booth.) </p>
+<p>WHITE FLASH TO: </p>
+<p>[EXT. BRADFORD RESIDENCE -- NIGHT] </p>
+<p>(There's a full moon shining down on the scene. Officer cars are parked outside the residence.) </p>
+<p>(Warrick, Grissom and Sara walk down the front drive toward the house. Brass exits the house to meet up with them.) </p>
+<p><strong>Brass</strong>: So an anonymous call came into metro about an hour ago. (He checks his watch.) Investigating officer found the dead body. The coroner's inside.</p>
+<p>(They turn and head toward the house.) </p>
+<p><strong>Brass</strong>: The, uh ... the door was open. Unlocked.</p>
+<p>[INT. BRADFORD RESIDENCE - HALLWAY - NIGHT - CONTINUOUS]</p>
+<p>(Brass leads them through the hallway. They note the multiple tufts of hair on the floor.) </p>
+<p><strong>Brass</strong>: So the house is owned by the decedent, Hayden Bradford. Neighbor says he lives alone.</p>
+<p><strong>Grissom</strong>: The floor is covered in hair. Has he got a cat or a dog?</p>
+<p><strong>Brass</strong>: Nope. But as you can see our dead guy is ... I guess you could say he's hirsute.</p>
+<p>(They reach the body and it's apparent that Hayden Bradford is very, very hairy.) </p>
+<p><strong>David Phillips</strong>: &quot;Hirsute&quot; is an understatement. It's like he's wearing a pelt.</p>
+<p>(Grissom notes the hairy legs and arms. There's blood on his left shoulder where he was shot. Hayden's eyes are open.) </p>
+<p>(We hear buzzing. Everyone checks their pager. Warrick motions to the pager next to the dead body.) </p>
+<p><strong>Warrick</strong>: Hey, David, would you grab that?</p>
+<p>(David picks up the cell phone out of the victim's pocket and hands it to Warrick. </p>
+<p><strong>Warrick</strong>: Thanks.</p>
+<p>(Warrick checks it. The information shows:<br />
+MISSED<br />
+MICHELLE 702-555-0194</p>
+<p><strong>Warrick</strong>: A missed call from a Michelle.</p>
+<p>(Additional information of the calls missed shows:<br />
+Michelle 702-555-0194 12:08 a.m.<br />
+Michelle 702-555-0194 11:44 p.m.<br />
+Michelle 702-555-0194 10:15 p.m.<br />
+Michelle 702-555-0194 8:32 p.m.<br />
+Michelle 702-555-0194 6:02 p.m.<br />
+Michelle 702-555-0194 3:53 p.m. )</p>
+<p><strong>Warrick</strong>: She called six times since 3:53 p.m.</p>
+<p><strong>David Phillips</strong>: Liver temp's 80 degrees. Been dead around twelve hours.</p>
+<p><strong>Sara</strong>: Which makes TOD around 3:00 p.m.</p>
+<p>(Grissom examines a tuft of fallen hair.) </p>
+<p><strong>David Phillips</strong>: Explains why he didn't take her calls. COD -- bullet to the chest.</p>
+<p>(David pulls the shirt aside to show the wound.) </p>
+<p><strong>Grissom</strong>: These strands are smooth, not coarse. They're human. </p>
+<p><strong>Sara</strong>: Are the roots intact?</p>
+<p><strong>Grissom</strong>: Yeah. (shrugs) Evidently, this guy was shedding.</p>
+<p>SMASH CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. BRADFORD RESIDENCE - FRONT STREET -- DAY] </p>
+<p>(David and James push the gurney out the front walk and across the road.) </p>
+<p>(Catherine and Nick head toward them on the way into the house.) </p>
+<p><strong>Catherine</strong>: Hey, Dave, James.</p>
+<p>(Just then, the gurney's back wheel gets stuck in a rut in the dirt road. David struggles with it for a moment.) </p>
+<p><strong>David Phillips</strong>: Aw, c'mon.</p>
+<p>(David lifts up the gurney to get it out of the rut. Nick and Catherine walk past David.) </p>
+<p><strong>Catherine</strong>: Hey, Dave, you've got to pick it up.</p>
+<p><strong>Nick</strong>: Lift with the knees, Super Dave, lift with the knees.</p>
+<p><strong>Catherine</strong>: Yeah.</p>
+<p><strong>David Phillips</strong>: (irritated) Thanks, I ... have done this before.</p>
+<p>(David lifts up the gurney and the victim's right arm falls out from under the sheet and hangs off the side of the gurney exposing his very, very hairy arm.) </p>
+<p>(Sara exits the house.) </p>
+<p><strong>Sara</strong>: Hey.</p>
+<p><strong>Catherine</strong>: So, Brass gave us a quick briefing. How can we help?</p>
+<p><strong>Sara</strong>: Warrick and I are processing the interior, room to room.</p>
+<p><strong>Catherine</strong>: So that leaves the perimeter.</p>
+<p><strong>Sara</strong>: Thanks.</p>
+<p>(Sara leaves.) </p>
+<p>CUT TO:<br />
+[INT. BRADFORD RESIDENCE - LIVING ROOM - DAY]</p>
+<p>(Warrick looks at the framed photos on the table. They are photos of Hayden with a pretty, blonde-haired woman. He picks up a photo as Sara re-enters the living room and heads for her kit.) </p>
+<p><strong>Warrick</strong>: Well, this victim definitely had a lady in his life.</p>
+<p><strong>Sara</strong>: That's odd. There is not a single feminine touch in this house.</p>
+<p>(Sara turns her flashlight on and looks around the room as she heads over toward Warrick. Warrick flips the framed photo over and removes it from the frame. On the back is some writing:<br />
+MICHELLE<br />
+CHRISTMAS 2004 )</p>
+<p><strong>Sara</strong>: Michelle. Christmas, 2004.</p>
+<p><strong>Warrick</strong>: Probably the same Michelle that tried to reach him six times on his cell phone.</p>
+<p>CUT TO:<br />
+[EXT. BRADFORD RESIDENCE - OUTER PERIMETER - DAY -- CONTINUOUS] </p>
+<p>(Catherine and Nick walk around the side of the house, paying close attention to the ground and windows.) </p>
+<p>(Catherine finds a broken window.) </p>
+<p><strong>Catherine</strong>: Broken window.</p>
+<p>(She takes a photo of it.) </p>
+<p>(She sticks her hand inside the broken pane and pushes the window open.) </p>
+<p><strong>Catherine</strong>: Yeah. It slides. The front door was locked. The killer probably broke the window and exited out the front.</p>
+<p>(Quick flash of: The killer smashes the glass window. End of flash.) </p>
+<p><strong>Nick</strong>: I'll need to print the window, but, uh ... why don't we get to this first.</p>
+<p>(He points to the ground. They both kneel down in front of a large rock.) </p>
+<p><strong>Catherine</strong>: Doesn't look big enough to have done the job.</p>
+<p>(Catherine sees the broken shards of glass on the ground and reaches out to pick one up. Nick dusts the rock for prints.) </p>
+<p>(He finds a print and smiles.) </p>
+<p><strong>Nick</strong>: We have a print.</p>
+<p>CUT TO:<br />
+[INT. BRADFORD RESIDENCE - LIVING ROOM - DAY -- CONTINUOUS] </p>
+<p>(Sara and Warrick enter the bedroom. They note the various pictures and color schemes on the desk. Warrick takes the printed e-mail from the printer and reads:<br />
+1/02/06<br />
+From: casinodan(a)gmail.com<br />
+To: misterbradford(a)gmail.com<br />
+Date: January 2, 2006 12:08 pm pst</p>
+<p><strong>Warrick</strong>: &quot;Hey, jackass-- this is your last chance. Pay your debt or I'll hunt you down.&quot; </p>
+<p>(Sara stands up from what she's looking at to read the e-mail.) </p>
+<p><strong>Warrick</strong>: Makes our job easier when the suspect prints out his motive. He has an e-mail printout from casinodan(a)gmail.com to (a)misterbradford(a)gmail.com.</p>
+<p>(Outside, Catherine and Nick continue surveying the perimeter of the house. Near the back of the house, they find a patch of disturbed dirt.) </p>
+<p><strong>Catherine</strong>: Well, that ain't no anthill. That dirt's fresh. Looks like something's buried there. </p>
+<p>(Nick kneels down next to Catherine.)</p>
+<p><strong>Catherine</strong>: Hang on.</p>
+<p>(She snaps a photo of the dirt.)</p>
+<p>(Nick brushes the dirt away and they find a gun.) </p>
+<p><strong>Nick</strong>: No way.</p>
+<p>(Catherine snaps more photos. Nick picks up the gun.) </p>
+<p><strong>Nick</strong>: .32 Beretta. Victim was shot, right? It's going to be hard to get a print, but I'll get it to Ballistics.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(Robbins shaves the area around the bullet hole on Hayden Bradford's chest. Grissom watches.) </p>
+<p><strong>Grissom</strong>: Well, we knew he was hairy. I didn't realize the full extent.</p>
+<p><strong>Robbins</strong>: Hypertrichosis. I've only read about it. Excessive hair growth. Genetic. Extremely rare. His case was relatively mild. In some individuals, hair grows everywhere except the eyes and the mouth.</p>
+<p><strong>Grissom</strong>: The human werewolf syndrome.</p>
+<p><strong>Robbins</strong>: In Mexico, there's a family thirty members are afflicted. Two of the teen boys were recently adopted by the National Circus.</p>
+<p><strong>Grissom</strong>: Great. The bearded lady, the dog-faced boy -- physical deformities as family entertainment.</p>
+<p><strong>Robbins</strong>: I cleared a path for the bullet. </p>
+<p>(Robbins extracts the bullet and looks at it. He puts it in a bindle.) </p>
+<p><strong>Robbins</strong>: I figured you'd want to get this to ballistics ASAP.</p>
+<p><strong>Grissom</strong>: Thank you, Al.</p>
+<p>(Robbins gives the bindle to Grissom.) </p>
+<p><strong>Robbins</strong>: You know, Gil, we're all intrigued by our nightmares, and when we watch freak shows, basically we're all thinking the same thing.</p>
+<p><strong>Grissom</strong>: Yeah, I'm glad they're not looking at me.</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB -- DAY] </p>
+<p>(Greg walks into the lab. Archie is working at the computers.) </p>
+<p><strong>Greg</strong>: Hey, Archie.</p>
+<p><strong>Archie</strong>: Hey.</p>
+<p><strong>Greg</strong>: Please tell me you've ID.'d Casino Dan.</p>
+<p><strong>Archie</strong>: Yep. The ISP provider sent over the subscriber information for a casinodan(a)gmail.com. It's registered to a Dan Nobler, who runs a gambling website.</p>
+<p>(The information pops up on screen:<br />
+Domain Name: CasinoDan.com<br />
+IP Address: 121.198.253.172 )</p>
+<p><strong>Greg</strong>: If I wanted to visit Dan in person, where would I go?</p>
+<p><strong>Archie</strong>: Well, the server for casinodan.com is in Argentina, which allows him to skirt U.S. gaming laws. However, he's got a Nevada business license. And I have the address.</p>
+<p>(Archie holds out a slip of paper. Greg takes it and looks at it.) </p>
+<p><strong>Greg</strong>: Anything else I should know?</p>
+<p><strong>Archie</strong>: Uh, well, I don't know if it's relevant, but he recently opened an account with peopledetectors.com. </p>
+<p><strong>Greg</strong>: Who was he looking for?</p>
+<p><strong>Archie</strong>: I don't know. I'll triage the computer's hard drive.</p>
+<p>CUT TO:<br />
+[EXT. NOBLER RESIDENCE - FRONT WALK -- DAY] </p>
+<p>(Warrick and Greg head for the Nobler residence. A car pulls up. Dan Nobler gets out.) </p>
+<p><strong>Archie</strong>: (V.O.) Reconstruct the deleted e-mails. I'll get back to you on that.</p>
+<p><strong>Dan Nobler</strong>: Can I help you?</p>
+<p><strong>Greg</strong>: You Dan Nobler?</p>
+<p><strong>Dan Nobler</strong>: Yeah.</p>
+<p><strong>Warrick</strong>: We're from the Crime Lab. We need to ask you a few questions.</p>
+<p>(Dan quickly walks past them and heads for the house. Warrick and Greg follow him.) </p>
+<p><strong>Dan Nobler</strong>: Look, if you're here about my business, you can save it for my attorney.</p>
+<p><strong>Warrick</strong>: No, actually we're inquiring about a Mr. Hayden Bradford. You sent him some threatening e-mails.</p>
+<p>(Dan stops and turns around to look at them.) </p>
+<p><strong>Dan Nobler</strong>: Bradford is a lying son of a bitch.</p>
+<p><strong>Greg</strong>: Care to elaborate on that?</p>
+<p><strong>Dan Nobler</strong>: I run an online gambling business. Bradford had an account, ran up<br />
+$10,000 in debt and refused to pay it.</p>
+<p><strong>Warrick</strong>: Isn't it true in online gambling you have to submit your credit card, prior to gambling, to insure your losses?</p>
+<p><strong>Dan Nobler</strong>: That's true. And when Brad was winning, it wasn't a problem. But when his luck changed, he called his credit card holder and said the charges were fraudulent. The credit card company issued a charge back and I got screwed.</p>
+<p><strong>Warrick</strong>: Is that when you decided to hunt him down?</p>
+<p><strong>Dan Nobler</strong>: Look, I wrote him an e-mail, hoping to scare him. Sorry. I was angry. If I write an apology, can we drop this? </p>
+<p><strong>Warrick</strong>: No, Mr. Nobler, I'm sorry, we can't do that. Mr. Bradford's dead.</p>
+<p>(He looks at them both.) </p>
+<p><strong>Dan Nobler</strong>: Any other questions, contact my lawyer. We're done here.</p>
+<p>(He turns and heads into the house. Before he enters the house, he wipes his feet on the mat. Warrick sees him.) </p>
+<p><strong>Warrick</strong>: You see that?</p>
+<p><strong>Greg</strong>: Yeah, the guy's a jerk.</p>
+<p>(Warrick heads for the mat.) </p>
+<p><strong>Warrick</strong>: No, he wiped his feet on the mat. I'm hoping to get a little trace evidence here. Yeah, you see these pebbles? They look like the same ones that were found at the crime scene.</p>
+<p>CUT TO:<br />
+[INT. CSI - BALLISTICS LAB -- DAY] </p>
+<p>(Bobby Dawson puts his earphonesand protective eyewear on. He picks up the gun and puts it in the firing container. He cocks the weapon.) </p>
+<p><strong>Bobby Dawson</strong>: Fire in the hole!</p>
+<p>(He fires.)</p>
+<p>(Quick CGI POV: The bullet travels out of the gun and into the container full of pellets. End of CGI POV.)</p>
+<p>(Bobby removes the canister and empties out the contents into a plastic bin. He finds the bullet and puts it under the scope to scan into the computer.)</p>
+<p>(Catherine enters the lab.) </p>
+<p><strong>Catherine</strong>: Bobby.</p>
+<p><strong>Bobby Dawson</strong>: Hey. </p>
+<p>(He compares the two bullets.) </p>
+<p><strong>Bobby Dawson</strong>: So, that, uh, buried gun y'all recovered, wasn't used to kill Bradford.</p>
+<p>(He turns the monitor to show Catherine.) </p>
+<p><strong>Catherine</strong>: GRCs aren't even close.</p>
+<p><strong>Bobby Dawson</strong>: Most bullets are copper, but take a look at the fatal bullet. It's silver.</p>
+<p><strong>Catherine</strong>: How do you kill a werewolf?</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(David Phillips is combing the body's hair, catching the trace material in a metal bin. There's a knock at the door.) </p>
+<p>(The door opens.) </p>
+<p><strong>David Phillips</strong>: No one's home.</p>
+<p>(Hodges, Archie and Henry Adams walk in.) </p>
+<p><strong>Hodges</strong>: We want to see the Wolfman.</p>
+<p><strong>David Phillips</strong>: Yeah, well, he's not available right now. I am trying to prep him for autopsy.</p>
+<p>(They all surround the body.) </p>
+<p><strong>Hodges</strong>: Wow. And I thought Robin Williams had hairy arms.</p>
+<p><strong>Henry Adams</strong>: Can I touch him?</p>
+<p><strong>Archie</strong>: You mean &quot;pet&quot; him. </p>
+<p>(Henry reaches out to touch him; David Phillips smacks his hand away. Archie raises a camera to snap a photo of the body.) </p>
+<p><strong>David Phillips</strong>: No! You may not touch or pet the decedent.</p>
+<p><strong>Hodges</strong>: Is it soft like fur or ... ?</p>
+<p>(Henry Adams leans forward, turns and smiles for the camera. Archie snaps the photo.) </p>
+<p><strong>David Phillips</strong>: I was supposed to have him prepped hours ago. Please. Okay, you guys gotta go.</p>
+<p><strong>Hodges</strong>: Relax, Dave. It's not every day that Chaka ends up on a slab.</p>
+<p><strong>David Phillips</strong>: Yeah, I need you to leave.</p>
+<p><strong>Archie</strong>: Whoa.</p>
+<p><strong>Hodges</strong>: Fine, but if I get a Sleestak in my lab, and you want to see it, I'm gonna get cranky.</p>
+<p>(The guys leave.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Nick interviews Brent Moyer.) </p>
+<p><strong>Nick</strong>: Mr. Moyer, you're here about Hayden Bradford. Do you know him?</p>
+<p><strong>Brent Moyer</strong>: Of course. He's one of my closest friends.</p>
+<p><strong>Nick</strong>: Yeah ... yeah, I'm sorry. We found his body this morning. You didn't recently try to break in his home ... did you?</p>
+<p><strong>Brent Moyer</strong>: Excuse me. What?</p>
+<p><strong>Nick</strong>: We found a rock by a broken window, with your fingerprint on it.</p>
+<p>(He chuckles.)</p>
+<p><strong>Nick</strong>: Is that funny?</p>
+<p><strong>Brent Moyer</strong>: No. It's just. Uh ... last week we were playing toss with a ball.</p>
+<p>(Quick flashback to: [EXT. BRADFORD RESIDENCE - FRONT - DAY] Brent and another guy are playing toss. The ball overshoots the catcher and smashes into the window. End of flash.)</p>
+<p><strong>Nick</strong>: That still doesn't explain to me how your fingerprint got there.</p>
+<p>(Quick flashback to: Brent walks up to the broken window.) </p>
+<p><strong>Brent Moyer</strong>: (V.O.) There was glass everywhere, so I knocked out the loose pieces.</p>
+<p>(He uses the rock to smash out the jagged edges. End of flash.) </p>
+<p><strong>Nick</strong>: You guys being good friends ... you were aware of his medical condition, right?</p>
+<p><strong>Brent Moyer</strong>: That he was a hairy SOB? Yeah. Of course. Why?</p>
+<p><strong>Nick</strong>: Do you know why anybody'd want to hurt him?</p>
+<p><strong>Brent Moyer</strong>: He's a friendly, quiet guy. I've known him since high school. He's been dating my sister. Oh, God. She doesn't know yet, does she?</p>
+<p><strong>Nick</strong>: Who, Michelle?</p>
+<p><strong>Brent Moyer</strong>: Yeah.</p>
+<p><strong>Nick</strong>: I tried to call her cell phone and ...</p>
+<p><strong>Brent Moyer</strong>: She's at my parents, in Pahrump. Her cell phone's probably out of range.</p>
+<p><strong>Nick</strong>: But you can get me their home number, address, all that?</p>
+<p><strong>Brent Moyer</strong>: Sure. But if it's okay, I'd ... I should break the news to her in person.</p>
+<p>CUT TO:<br />
+[EXT. ROAD - PHONE BOOTH -- NIGHT] </p>
+<p>(Sofia leans against the outside phone booth. Sara walks toward her carrying her kit.) </p>
+<p><strong>Sofia Curtis</strong>: I've been waiting for you.</p>
+<p><strong>Sara</strong>: Sorry. I headed out as soon as I got your page.</p>
+<p><strong>Sofia Curtis</strong>: Really? 'Cause, uh ... I left a voicemail several hours ago.</p>
+<p><strong>Sara</strong>: What's up?</p>
+<p><strong>Sofia Curtis</strong>: The anonymous call was traced to this phone booth, so I figured you'd want to process.</p>
+<p>(Sara looks at the phone and sees the print powder on it.) </p>
+<p><strong>Sara</strong>: There is fingerprint powder on the phone.</p>
+<p><strong>Sofia Curtis</strong>: Yeah, I got bored waiting. I thought you might need some help. No usable prints, but check out the floor.</p>
+<p><strong>Sara</strong>: There's a lot of hair. Similar to the crime scene.</p>
+<p><strong>Sofia Curtis</strong>: The victim was killed twelve hours before this call was made. If that's his hair, what's it doing here?</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB - NIGHT] </p>
+<p>(Wendy Simms reports her findings to Sara.) </p>
+<p><strong>Wendy Simms</strong>: The hair isn't Hayden's. The chromosomes are XX.</p>
+<p><strong>Sara</strong>: Female.</p>
+<p><strong>Wendy Simms</strong>: Yeah. So I took the liberty of comparing the sample's DNA to the victim's DNA. There are seven alleles in common.</p>
+<p><strong>Sara</strong>: Brother and sister.</p>
+<p><strong>Wendy Simms</strong>: (nods) Mm-hmm.</p>
+<p><strong>Sara</strong>: She's likely our anonymous caller. </p>
+<p><strong>Wendy Simms</strong>: Yeah, well, given the amount of hair that you collected, she's also probably a very hairy woman.</p>
+<p><strong>Sara</strong>: Wendy, can you do me a favor?</p>
+<p><strong>Wendy Simms</strong>: Hmm?</p>
+<p><strong>Sara</strong>: Can you see if any of the follicles from the crime scene are a match to the hairs from the phone booth?</p>
+<p><strong>Wendy Simms</strong>: You want to see if the sister was in the victim's house.</p>
+<p><strong>Sara</strong>: If she was, she's not just the caller, she's a suspect. </p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY - NIGHT -- CONTINUOUS] </p>
+<p>(Catherine and Sara walk and talk through the hallway.) </p>
+<p><strong>Catherine</strong>: I hear the vic has a sister.</p>
+<p><strong>Sara</strong>: A twin sister, in fact. I tracked down the victim's birth certificate. He was born to a Rita Bradford in Fresno, California. Ms. Bradford apparently had twins, Hayden and Allison. There's no record of any other children.</p>
+<p><strong>Catherine</strong>: I'm assuming you contacted Allison.</p>
+<p><strong>Sara</strong>: Well, that's where it gets odd. Allison Bradford has never filed with the IRS, has never had a driver's license, has never filled out a W-2. How do you go through life without a paper trail?</p>
+<p><strong>Catherine</strong>: She's dead.</p>
+<p><strong>Sara</strong>: There's no record of a death certificate. We found her hair in the phone booth. And DNA just confirmed that some of the hair follicles that we collected at the crime scene are hers.</p>
+<p><strong>Catherine</strong>: Well, other than hair, when you and Warrick processed the house, did you find any evidence of a sister?</p>
+<p><strong>Sara</strong>: No, but we were not looking for one.</p>
+<p><strong>Catherine</strong>: We are now.</p>
+<p>CUT TO:<br />
+[EXT. BRADFORD RESIDENCE - NIGHT]</p>
+<p>(Officer cars are parked in the front. The porch light is on.)</p>
+<p>[INT. BRADFORD RESIDENCE - BEDROOM -- NIGHT]</p>
+<p>(Sara steps into the bedroom and looks around, taking note of the desk area. She looks at the screen saver on the monitor.) </p>
+<p>[INT. BRADFORD RESIDENCE - KITCHEN - NIGHT -- CONTINUOUS]</p>
+<p>(Warrick is looking through the kitchen area. He looks around. He stops in front of the kitchen table where a chess board is set up with evidence of a game in play.) </p>
+<p>[INT. BRADFORD RESIDENCE - LIVING ROOM - NIGHT -- CONTINUOUS]</p>
+<p>(Catherine looks around the shelves in the living room. She goes through the mail for:<br />
+HAYDEN BRADFORD<br />
+1812 WHITE OAK ROAD<br />
+LAS VEGAS, NV 89147</p>
+<p>(Warrick steps out of the kitchen.) </p>
+<p><strong>Warrick</strong>: Catherine, I've covered the kitchen. I've found no evidence of a sister living here. </p>
+<p>(Sara exits the bedrooms.) </p>
+<p><strong>Sara</strong>: Ditto for the bedroom. I think I'm gonna take a look outside.</p>
+<p><strong>Warrick</strong>: I'll do the same.</p>
+<p>(Both Sara and Warrick leave.) </p>
+<p><strong>Catherine</strong>: Thanks, guys.</p>
+<p>(Catherine looks around and notices a small hole in the wall. She kneels down and looks through the hole and sees light moving behind the wall.) </p>
+<p>(She looks down under the wall and sees the light turn off.) </p>
+<p>(Catherine knocks on the living room wall and finds that part of the paneling is hollow. She pushes the paneling and the wall gives, moving forward.) </p>
+<p>(There's a surprised grunt behind the paneling.)</p>
+<p>(Catherine is shocked.) </p>
+<p><strong>Allison Bradford</strong>: (muffled behind wall) Please go away.</p>
+<p><strong>Catherine</strong>: Allison?</p>
+<p><strong>Allison Bradford</strong>: (muffled behind wall) This is my home. I would like you to leave.</p>
+<p><strong>Catherine</strong>: Allison ... (Catherine stands up.) I need to talk with you. Can you please come out?</p>
+<p><strong>Allison Bradford</strong>: (muffled behind wall) I'd rather not.</p>
+<p><strong>Catherine</strong>: Allison, my name is Catherine Willows. I'm with the Las Vegas Crime Lab. I know that you suffer from hypertrichosis. I understand why you would rather not talk with me. But we need to discuss your brother's murder. Would you please come out?</p>
+<p>(The paneling opens to reveal a hidden bedroom. Catherine takes a step forward. Allison is hidden by the shadows coming from the light behind her.) </p>
+<p><strong>Catherine</strong>: May I ... ?</p>
+<p>(Allison shies back, not wanting Catherine any closer.) </p>
+<p><strong>Catherine</strong>: Would you step out? Please? </p>
+<p><strong>Allison Bradford</strong>: You want to see what I look like?</p>
+<p><strong>Catherine</strong>: No, I ... no. I don't want you to have to hide from me. Allison ... I'm a scientist. Excess body hair does not evoke fear ... or morbid fascination. It's simply a genetic quirk, like ... blue eyes or flat feet. </p>
+<p>(Allison steps forward. Catherine's eyes widen imperceptibly. Catherine holds her hand out.) </p>
+<p><strong>Catherine</strong>: It's nice to meet you, Allison.</p>
+<p>(They shake hands. We note that Allison's entire hand and arm are covered with hair.) </p>
+<p><strong>Allison Bradford</strong>: How can I help you, Ms. Willows?</p>
+<p>(Allison steps forward and we see that her entire face is covered with hair.) </p>
+<p><strong>Catherine</strong>: What can you tell me about your brother's murder?</p>
+<p><strong>Allison Bradford</strong>: No one knows I live here, so when we get a visitor, I go to my room. </p>
+<p>(Catherine notes the yarn quilt on Allison's bed over the duvet.) </p>
+<p><strong>Allison Bradford</strong>: Yesterday, around 3:30, the doorbell rang.</p>
+<p>(Quick flashback to: [INT. BRADFORD RESIDENCE - LIVING ROOM - DAY] The doorbell rings. Bradford turns.) </p>
+<p><strong>Hayden Bradford</strong>: (shouts) Just a sec!</p>
+<p>(Allison goes into her room and shuts the door.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Allison Bradford</strong>: And when I came out of my room, Hayden was dead.</p>
+<p><strong>Catherine</strong>: Why did you wait twelve hours to call the police?</p>
+<p><strong>Allison Bradford</strong>: Because I didn't want the call traced to the house, back to me, so ... I waited till midnight, and then I walked to a pay phone. You weren't supposed to find me.</p>
+<p><strong>Catherine</strong>: Do you have any idea why someone would want to hurt your brother?</p>
+<p>(She shakes her head.) </p>
+<p><strong>Allison Bradford</strong>: He was my only friend. (cries) He was my connection to the outside world.</p>
+<p><strong>Catherine</strong>: What about your parents?</p>
+<p><strong>Allison Bradford</strong>: I never knew my father. My mother died when we were teenagers. </p>
+<p><strong>Catherine</strong>: No one else knows that you exist?</p>
+<p><strong>Allison Bradford</strong>: I hope ... I hope you'll help me.</p>
+<p><strong>Catherine</strong>: Help you-- with what?</p>
+<p><strong>Allison Bradford</strong>: Staying secret. It's best for everyone.</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - GRISSOM'S OFFICE -- NIGHT] </p>
+<p>(Grissom is going through the Internet and is looking at a page with a GERMAN WEREWOLF WOODCUT, 1722, picture.) </p>
+<p>(Nick walks into the office.) </p>
+<p><strong>Nick</strong>: Hey, Grissom, you got a second?</p>
+<p><strong>Grissom</strong>: Did you know the word &quot;werewolf&quot; was derived from the old English word<br />
+&quot;Wargwolf,&quot; which is a synonym for &quot;serial killer&quot;?</p>
+<p><strong>Nick</strong>: No, I didn't.</p>
+<p><strong>Grissom</strong>: Imagine if you had some deep, dark secret ... something that brought you tremendous shame. But instead of being able to hide it away, you had to wear it out on your skin, so that the first time anyone saw you, they saw your secret.</p>
+<p><strong>Nick</strong>: You talking about Allison?</p>
+<p><strong>Grissom</strong>: Yeah. Catherine said she's scared to death of people and what they'll think of her.</p>
+<p><strong>Nick</strong>: Well, if that's the case, why not try electrolysis or depilatory lasers?</p>
+<p><strong>Grissom</strong>: With that much hair -- be a lot of scarring, and a great deal of pain. Plus, imagine how expensive it would be. What have you got?</p>
+<p><strong>Nick</strong>: Well, I just ran into Archie. The decedent used a company called peopledetectors.com to try to locate his mother.</p>
+<p><strong>Grissom</strong>: Catherine spoke to Allison. Their mother's dead.</p>
+<p><strong>Nick</strong>: Apparently not. She's alive and well, and has an address in Henderson, so I'm gonna go out there, check it out.</p>
+<p>(Nick turns to leave. Grissom stops him.) </p>
+<p><strong>Grissom</strong>: Hey, Nick.</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: Bring her back here, will you?</p>
+<p><strong>Nick</strong>: Sure. Why?</p>
+<p><strong>Grissom</strong>: I want to talk to her. Find out why a mother would play dead.</p>
+<p>CUT TO:<br />
+[INT. CSI - TRACE LAB]</p>
+<p>(Hodges is in the lab when Greg and Warrick walk in.) </p>
+<p><strong>Hodges</strong>: Oh, good, you're here. I love an audience.</p>
+<p><strong>Greg</strong>: Well, don't expect any applause.</p>
+<p><strong>Warrick</strong>: What do you got?</p>
+<p><strong>Hodges</strong>: I compared pebbles from the crime scene to the pebbles from Dan Nobler's doormat. They're consistent with each other -- a composite commonly known as pea gravel. The pebbles weren't the only trace elements I found in that doormat. I also found several slivers of glass ... glass consistent with a broken window.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY]</p>
+<p>(Warrick is talking with Dan Nobler and his lawyer, Duane McWane.) </p>
+<p><strong>Dan Nobler</strong>: I'm here about pebbles and glass. Come on.</p>
+<p><strong>Duane McWane</strong>: Look, this is ridiculous. I mean, we're talking about trace evidence on a doormat? Come on. Besides, I read the file. A guy named Brent Moyer already admitted to breaking the window.</p>
+<p><strong>Warrick</strong>: This is true; he did. But we believe that Mr. Nobler here stepped in the shards of glass. Listen, neither the glass nor the pebbles are probative on their own, but together, they put your client at the crime scene. Not to mention, his threatening e-mail gives us motive.</p>
+<p><strong>Dan Nobler</strong>: Fine. I was there.</p>
+<p><strong>Duane McWane</strong>: Dan ...</p>
+<p><strong>Dan Nobler</strong>: No, look, I get ripped off by jerks all over the world. This guy was a local. I knew his address and, yeah, I wanted to shake him down. Let him know that by declaring credit card fraud, he was stealing from me.</p>
+<p><strong>Warrick</strong>: Okay, I'm listening.</p>
+<p><strong>Dan Nobler</strong>: A few days ago, I went over to his house. Then I started thinking, &quot;What if this guy's like twice my size?&quot; I figured I should get a look at him before I had our &quot;conversation,&quot; so I went around back ...</p>
+<p>(Quick flashback to: [EXT. BRADFORD RESIDENCE - BACK WINDOW - DAY] Dan Nobler quietly walks up to the back of the house. The window is already broken. He steps in the glass and peers into the window.) </p>
+<p>(Hayden sees him, gets up and heads for the window.) </p>
+<p><strong>Hayden Bradford</strong>: Hey ... hey, hey!</p>
+<p>(Dan Nobler turns and runs.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Dan Nobler</strong>: At first, I thought he was wearing a costume, but then I realized, it was ... it was real hair. Disgusting, right?</p>
+<p><strong>Warrick</strong>: What happened next?</p>
+<p><strong>Dan Nobler</strong>: Well, when the dude saw me, I took off.</p>
+<p><strong>Warrick</strong>: Why?</p>
+<p><strong>Dan Nobler</strong>: Uh, he was a freak of nature. I no longer wish to speak with him.</p>
+<p>CUT TO:<br />
+[INT. CSI - TRACE LAB - DAY]</p>
+<p>(Hodges pushes his chair back and rolls across the floor toward one of the machines. He opens it and puts the silver bullet inside. He closes the machine and starts it.)</p>
+<p>(Quick CGI POV: Inside the machine, a red laser light beams from the top straight down to the core of the bullet. End of CGI POV.) </p>
+<p>(Hodges fiddles with the knobs and makes adjustments as he looks at the bullet through the computer monitor.) </p>
+<p>(He gets a reading:<br />
+92.5% SILVER<br />
+Ag )</p>
+<p>(Nick walks in.) </p>
+<p><strong>Nick</strong>: Hey, man.</p>
+<p><strong>Hodges</strong>: Hey.</p>
+<p><strong>Nick</strong>: What are you smiling about?</p>
+<p><strong>Hodges</strong>: Oh, I was just thinking of the Howling II: The Werewolf Bitch. I don't care what anyone says. It was much better than the first one.</p>
+<p><strong>Nick</strong>: Is it?</p>
+<p><strong>Hodges</strong>: Yeah, yeah. I got the whole anthology. Want to borrow it?</p>
+<p><strong>Nick</strong>: No, thanks. I would like to know about my bullet, however. I assume it was homemade since the manufacturer doesn't sell it in silver.</p>
+<p><strong>Hodges</strong>: Right. Simple clamshell mold.</p>
+<p>(Quick flash of: Someone melts silver and pours it into a mold. They then pop out the bullet from the mold. End of flash.) </p>
+<p><strong>Hodges</strong>: Ninety-two point five percent pure with trace amounts of copper, nickel and chromium lead.</p>
+<p><strong>Nick</strong>: Elemental properties are consistent with sterling silver jewelry.</p>
+<p><strong>Hodges</strong>: And sterling silver has a high melting point. Someone went through a lot of trouble to make it.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - WAITING ROOM -- DAY] </p>
+<p>(Catherine and Sofia Curtis interview Michelle Moyer.) </p>
+<p><strong>Michelle Moyer</strong>: Sorry I didn't get here sooner. I was pretty upset.</p>
+<p><strong>Catherine</strong>: Michelle, your relationship with Hayden, was it serious?</p>
+<p><strong>Michelle Moyer</strong>: We were engaged. I can't believe he's gone.</p>
+<p><strong>Sofia Curtis</strong>: The day he died, you called him six times.</p>
+<p><strong>Michelle Moyer</strong>: There was a golf tournament on ESPN that night. He wanted me to tape it for him. I was trying to reach him because I was at my folks' place and the VCR was broken. Sounds so silly now. I'd like to see him ... to say good-bye.</p>
+<p>(Catherine looks at Sofia.) </p>
+<p><strong>Sofia Curtis</strong>: He's with the coroner. </p>
+<p><strong>Catherine</strong>: Michelle, I understand that you were at your folks and you were trying to get a hold of Hayden on your cell, but we were unable to reach you on it. Can you explain?</p>
+<p><strong>Michelle Moyer</strong>: I called Hayden so many times that my battery died. (sniffs)<br />
+I'm sorry. </p>
+<p><strong>Catherine</strong>: Do you have any idea who could have done this? </p>
+<p>(She looks at them.) </p>
+<p><strong>Michelle Moyer</strong>: You know about his condition, right? It made him really sweet. I mean, it was like he was constantly trying to make up for his physical imperfections by doing everything perfectly. He was the perfect boyfriend, the perfect lover, my best friend. I don't know what I'm going to do without him.</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE -- DAY] </p>
+<p>(Grissom meets with Rita Bradford. She stirs her cup of coffee.) </p>
+<p><strong>Rita Bradford</strong>: I was in labor for 27 hours. They didn't want to come out. Who could blame 'em.</p>
+<p><strong>Grissom</strong>: Mrs. Bradford, why does Allison think you're dead?</p>
+<p><strong>Rita Bradford</strong>: I thought it would be easier.</p>
+<p><strong>Grissom</strong>: Easier than what?</p>
+<p><strong>Rita Bradford</strong>: I did the best I could, Mr. Grissom. Their father couldn't look at 'em. Took off when they were a few weeks old. Babies are supposed to be cute.</p>
+<p>(She takes a sip of coffee.) </p>
+<p><strong>Grissom</strong>: Mrs. Bradford ... ?</p>
+<p><strong>Rita Bradford</strong>: At the time, we were living in Fresno. Family, friends stopped visiting. They were scared of my children. Especially Allison. She ... she looked like ... when she started nursery school, the kids teased her, called her names, made her cry.</p>
+<p><strong>Grissom</strong>: So you moved to Vegas and decided to keep her a secret?</p>
+<p><strong>Rita Bradford</strong>: It was best for everyone but she became completely dependent on me, and for eighteen years, I took care of her.</p>
+<p><strong>Grissom</strong>: I'm sorry, but I still don't understand why she believes you're dead.</p>
+<p><strong>Rita Bradford</strong>: One day, Allison wanted to take a walk ... outside. I didn't want anyone to see her. We had a fight. I locked her in her room -- my own child - because she wanted fresh air. At that moment, I knew I needed to leave. I told Hayden to tell her I was in a car accident. Two days later, he put on a black suit, told her he was going to my funeral.</p>
+<p><strong>Grissom</strong>: And she didn't go because she couldn't leave the house.</p>
+<p>(Rita Bradford nods.) </p>
+<p><strong>Grissom</strong>: You thought it would be easier for her to accept your death than your abandonment?</p>
+<p><strong>Rita Bradford</strong>: Please don't judge me. I spend enough time doing that.</p>
+<p><strong>Grissom</strong>: I'm just trying to find out who killed your son.</p>
+<p><strong>Rita Bradford</strong>: I haven't seen either of them for seven years. I wouldn't have any idea.</p>
+<p><strong>Grissom</strong>: You know, Mrs. Bradford, your daughter's all alone now. It's not too late for you to go back to her.</p>
+<p><strong>Rita Bradford</strong>: And tell her what? That I faked my death to escape from her? How do you say that to your own flesh and blood?</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(Robbins is looking at the body completely devoid of hair. He's shaved it all off; the hair on the table around the body.) </p>
+<p>(Catherine walks in.) </p>
+<p><strong>Catherine</strong>: What's up with the 911?</p>
+<p><strong>Robbins</strong>: David didn't notice the victim's lividity at the crime scene because it was obscured by his body hair. But when we shaved him ... well, check out his left side.</p>
+<p><strong>Catherine</strong>: So it was on his side where the blood settled.</p>
+<p><strong>Robbins</strong>: Correct, but he was found face up.</p>
+<p>(Robbins hands her the file.) </p>
+<p><strong>Catherine</strong>: So, uh, somebody moved him several hours postmortem.</p>
+<p><strong>Robbins</strong>: There's more. Vic was found on a hardwood floor, but when David brushed his body hair for trace, he found blue carpet fibers.</p>
+<p>(He hands the tape sample to Catherine.) </p>
+<p><strong>Catherine</strong>: Well, there was blue carpet in the sister's room.</p>
+<p>(Quick flashback to: Catherine notices the blue carpet in Allison's bedroom as she talks with her. End of flashback.) </p>
+<p><strong>Robbins</strong>: Hayden was shot through the chest; it would have exsanguinated on impact. Any blood in the sister's room?</p>
+<p><strong>Catherine</strong>: I'll get back to you on that one.</p>
+<p>CUT TO:<br />
+[INT. BRADFORD RESIDENCE - LIVING ROOM -- DAY] </p>
+<p>(Catherine and Sofia Curtis walk through the living room and head toward Allison's bedroom door. Catherine knocks.) </p>
+<p><strong>Catherine</strong>: Allison, it's Catherine. I need you to step out.</p>
+<p><strong>Allison Bradford</strong>: (muffled through door) Who else is there?</p>
+<p><strong>Catherine</strong>: There's another woman with me.</p>
+<p><strong>Sofia Curtis</strong>: Allison, I'm Detective Curtis. </p>
+<p>(The door opens. Sofia sees Allison and is a little startled. Allison clutches a doll to her.) </p>
+<p><strong>Catherine</strong>: (softly) I need to get inside your room.</p>
+<p>(Allison steps aside. Catherine enters the room.) </p>
+<p><strong>Catherine</strong>: Thank you.</p>
+<p>(Catherine moves to close the bedroom door, shutting Allison out in the living room with Sofia.) </p>
+<p>(An awkward silence falls between the two women.) </p>
+<p>[INT. BRADFORD RESIDENCE - ALLISON'S BEDROOM - DAY - CONTINUOUS]</p>
+<p>(Catherine uses the hand-held ALS in Allison's room, looking for blood.) </p>
+<p>(The far wall is covered with various porcelain dolls. In front of the wall is an elaborate miniature dollhouse. Catherine steps closer to it for a better look.) </p>
+<p>(She turns around and notices a stain on the carpet in the center of the room. She looks under the bed and sees another stain.) </p>
+<p>SHORT TIME CUT TO: </p>
+<p>(Catherine and Sofia Curtis question Allison. Allison has her doll clutched tightly to her.) </p>
+<p><strong>Allison Bradford</strong>: I don't know anything about it.</p>
+<p><strong>Catherine</strong>: You can't expect us to believe that you live in a secret room that only you go into, yet you can't explain why your bed is covering up blood.</p>
+<p>(Allison's very quiet.) </p>
+<p><strong>Catherine</strong>: Did you kill him?</p>
+<p><strong>Allison Bradford</strong>: What?!</p>
+<p><strong>Catherine</strong>: Did you?</p>
+<p><strong>Allison Bradford</strong>: (distressed) Hayden's all I had. He's the only one that knew about me. Why would I kill him?</p>
+<p><strong>Catherine</strong>: Because he was going to leave you ... for Michelle. That had to have been scary for you.</p>
+<p><strong>Allison Bradford</strong>: You think I'm some sort of animal? I wanted him to be happy. I loved Hayden, I wanted him to be happy.</p>
+<p><strong>Sofia Curtis</strong>: Did Michelle know about you?</p>
+<p>(She starts to pet her doll.) </p>
+<p><strong>Allison Bradford</strong>: (rambles) No, but he said that he was going to tell her and that she was going to move in here and she would accept me -- Hayden promised.</p>
+<p><strong>Catherine</strong>: Allison ... if you didn't kill him, who did?</p>
+<p>(Allison doesn't answer her.) </p>
+<p><strong>Sofia Curtis</strong>: (bursts out) Okay, I'm sorry. We can do this here or we can take this downtown.</p>
+<p><strong>Allison Bradford</strong>: No, please. Please.</p>
+<p><strong>Catherine</strong>: Okay, okay. I know that you're scared ... but you have got to tell us what happened.</p>
+<p><strong>Allison Bradford</strong>: The doorbell rang. I went into my room.</p>
+<p>(Quick flashback to: [ALLISON'S BEDROOM - DAY] The door opens and Hayden rushes in.) </p>
+<p><strong>Hayden Bradford</strong>: Allison, where's the gun?</p>
+<p><strong>Allison Bradford</strong>: I ... I ...</p>
+<p><strong>Hayden Bradford</strong>: Damn it, Allison, where's the gun?</p>
+<p>(He opens a drawer, looking for the gun. He turns and faces the living room. A gun fires and Hayden is hit in the chest. He falls to the floor.) </p>
+<p>(End of flashback.) </p>
+<p><strong>Catherine</strong>: And when he was shot, what did you do?</p>
+<p><strong>Allison Bradford</strong>: I hid. Behind the door.</p>
+<p>(Catherine moves behind the door. She looks at Allison, who nods, that's where she was. Catherine looks around and sees Sofia in the reflection of the small television set.) </p>
+<p><strong>Catherine</strong>: Was the television on?</p>
+<p><strong>Allison Bradford</strong>: No. It's busted. It hasn't worked in years.</p>
+<p><strong>Catherine</strong>: So you had a pretty good view of the living room through the reflection in the tube. What did you see?</p>
+<p>(Quick flashback to: [ALLISON'S BEDROOM - DAY] The door bursts open. Hayden turns around. A gun fires and Hayden falls to the ground. In front of him is Brent Moyer.) </p>
+<p>(Allison hides behind the door as Brent steps forward to check on Hayden. Allison looks at the television set and sees Brent Moyer's reflection in the monitor.) </p>
+<p>(Brent walks up to Hayden and looks at him.) </p>
+<p><strong>Brent Moyer</strong>: Freak.</p>
+<p>(Brent turns and leaves.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Catherine</strong>: You're sure that it was Brent?</p>
+<p><strong>Allison Bradford</strong>: I've seen him through the peephole. They were best friends.</p>
+<p><strong>Catherine</strong>: Okay, um ... let's just go back to the gun.</p>
+<p><strong>Allison Bradford</strong>: A couple of days ago, Hayden said he saw a guy sneaking around the back. So he bought me a gun for safety. But I don't like guns so ... I just buried it in the backyard.</p>
+<p><strong>Catherine</strong>: (nods) Yes, we found it.</p>
+<p><strong>Sofia Curtis</strong>: Allison ... why was it so difficult for you to tell us the truth?</p>
+<p><strong>Allison Bradford</strong>: I think you're going to make me testify and I won't do that. I want Brent to go to jail, but I won't be the sideshow freak.</p>
+<p><strong>Catherine</strong>: Well, we can try to build a case without you.</p>
+<p>(Allison nods.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY - DAY]</p>
+<p>(Catherine talks with Grissom.) </p>
+<p><strong>Grissom</strong>: You can't get a warrant unless she goes on record.</p>
+<p><strong>Catherine</strong>: Well, just hear me out. We have a rock with Brent Moyer's fingerprints on it.</p>
+<p><strong>Grissom</strong>: Yeah, but Allison told you that Brent entered through the front door. The rock is extraneous evidence, isn't it?</p>
+<p><strong>Catherine</strong>: Well, let's just leave Allison's testimony out of it. We simply inform the judge that our suspect's fingerprints were on a rock that may have been used to break a window at the murder scene.</p>
+<p><strong>Grissom</strong>: If you have no qualms about filing the petition, then file it.</p>
+<p><strong>Catherine</strong>: Oh, no, I don't have any qualms. It's just that my moral compass doesn't always point in the same direction as yours.</p>
+<p><strong>Grissom</strong>: So if I tell you not to file it, you won't?</p>
+<p><strong>Catherine</strong>: (carefully) I'd take it under advisement. Why, is that what you're recommending?</p>
+<p><strong>Grissom</strong>: How many times have we been prevented from getting a warrant when we knew we had the right guy?</p>
+<p><strong>Catherine</strong>: Way too many.</p>
+<p><strong>Grissom</strong>: Right. So rock and roll.</p>
+<p>(They continue walking out of camera frame.)</p>
+<p>CUT TO:<br />
+[EXT. MOYER RESIDENCE - FRONT YARD -- DAY] </p>
+<p>(Sofia Curtis and several officers walk up to Brent Moyer's front door. She knocks.) </p>
+<p><strong>Sofia Curtis</strong>: Las Vegas PD. We have a search warrant.</p>
+<p>(The door opens.) </p>
+<p><strong>Brent Moyer</strong>: What's going on?</p>
+<p><strong>Sofia Curtis</strong>: Please step outside.</p>
+<p>(Brent steps outside.)</p>
+<p>[INT. MOYER RESIDENCE - LIVING ROOM - DAY - CONTINUOUS]</p>
+<p>(Sofia and the officers look around the living room. She sees the rifle rack and four rifles on the wall. The television set is on.) </p>
+<p>(They continue into the kitchen.)</p>
+<p>(In the room, Sofia finds the mold and slivers of silver on the worktable.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY]</p>
+<p>(Catherine and Sofia Curtis question Brent Moyer with his lawyer, Margaret Finn.) </p>
+<p><strong>Brent Moyer</strong>: Why would I kill my best friend?</p>
+<p><strong>Sofia Curtis</strong>: That's a very good question.</p>
+<p><strong>Margaret Finn</strong>: A bullet clamshell isn't enough for the DA to file. What am I missing here?</p>
+<p><strong>Catherine</strong>: Our Trace Lab analyzed the silver found in the bullet mold. It's identical composition to the bullet in the victim. DA says it's a slam dunk.</p>
+<p><strong>Brent Moyer</strong>: Hayden was going to marry my sister.</p>
+<p><strong>Margaret Finn</strong>: (interrupts) Brent, I recommend that ...</p>
+<p>(He looks at her. She stops. He continues.) </p>
+<p><strong>Brent Moyer</strong>: I couldn't let that happen. He was diseased. Wasn't a problem for me. But my sister deserved better.</p>
+<p><strong>Sofia Curtis</strong>: So you killed him?</p>
+<p><strong>Brent Moyer</strong>: Did you see his body? Hayden was a monster passing for a regular Joe. My parents blamed me for introducing them. You know, the werewolf disease, it's hereditary. It means my sister could've given birth to freaks.</p>
+<p><strong>Catherine</strong>: And the silver bullet?</p>
+<p><strong>Brent Moyer</strong>: Figured it was appropriate.</p>
+<p><strong>Catherine</strong>: So you left your parents', you went back to your place to make the bullet and then you went over to Hayden's.</p>
+<p><strong>Brent Moyer</strong>: Yeah.</p>
+<p><strong>Catherine</strong>: So it was premeditated. I guess you can forget heat of the moment as a mitigating factor here.</p>
+<p><strong>Brent Moyer</strong>: I did the right thing. My sister's out there waiting. Since I confessed, can I at least go out and talk to her? Explain why I did it.</p>
+<p><strong>Sofia Curtis</strong>: Why don't I do that for you.</p>
+<p>(Sofia stands up and leaves.) </p>
+<p>[INT. POLICE DEPARTMENT - HALLWAY - DAY - CONTINUOUS]</p>
+<p>(Sofia exits the interview room and walks over to Michelle, sitting in the hallway.)<br />
+<strong>Sofia Curtis</strong>: Ms. Moyer ... your brother confessed to killing Hayden. </p>
+<p>(Sofia sits down next to Michelle.) </p>
+<p><strong>Sofia Curtis</strong>: After our last conversation, I checked the TV listings. There was no golf tournament that night. I think you were calling Hayden to warn him about Brent.</p>
+<p>(She nods.) </p>
+<p><strong>Michelle Moyer</strong>: I had just announced our engagement to my family. Brent flipped out. I was upset. Everyone was yelling at me. I went for a long walk to clear my head. And when I got back, Brent was gone. He told my parents that he was going to &quot;speak&quot; with Hayden.</p>
+<p><strong>Sofia Curtis</strong>: But you had your doubts.</p>
+<p><strong>Michelle Moyer</strong>: My brother has a temper.</p>
+<p><strong>Sofia Curtis</strong>: Why didn't you tell us this before?</p>
+<p><strong>Michelle Moyer</strong>: When Brent called and told me that Hayden was dead, he said that if I told you guys ... if I implicated him ... </p>
+<p><strong>Sofia Curtis</strong>: He threatened you. (She nods and cries.) It's okay. (She puts a comforting hand on Michelle's leg.) You're safe now.</p>
+<p>CUT TO:<br />
+[INT. BRADFORD RESIDENCE - LIVING ROOM -- NIGHT] </p>
+<p>(Allison holds a cup in her hand.) </p>
+<p><strong>Catherine</strong>: Allison ... what are you going to do now?</p>
+<p><strong>Allison Bradford</strong>: I'll be okay. It's not like when I was a kid. I can pretty much get anything I need off the Internet.</p>
+<p>INTERCUT WITH: </p>
+<p>[EXT. BRADFORD RESIDENCE - FRONT - NIGHT]</p>
+<p>(A car pulls up.) </p>
+<p><strong>Catherine</strong>: (V.O.) And you're set with money?</p>
+<p><strong>Allison Bradford</strong>: (V.O.) I'll manage.</p>
+<p><strong>Catherine</strong>: (V.O.) Allison, I have every confidence that you're going to be just fine here, but ... </p>
+<p>(The car parks and the door opens. Rita Bradford steps out of the car.) </p>
+<p>[INT. BRADFORD RESIDENCE - LIVING ROOM - NIGHT -- CONTINUOUS] </p>
+<p><strong>Catherine</strong>: If you ever need anything, would you please give me a call?</p>
+<p><strong>Allison Bradford</strong>: I-I will, Ms. Willows.</p>
+<p><strong>Catherine</strong>: Catherine.</p>
+<p><strong>Allison Bradford</strong>: Catherine. I haven't been completely honest with you. I told you my mother was dead, but that's not true. </p>
+<p><strong>Catherine</strong>: I'm not sure I follow.</p>
+<p><strong>Allison Bradford</strong>: Hayden told me she was in a car wreck ... </p>
+<p>[EXT. BRADFORD RESIDENCE - FRONT - NIGHT -- CONTINUOUS]</p>
+<p>(Rita Bradford walks toward the front door.) </p>
+<p><strong>Allison Bradford</strong>: (V.O.) ... and I called the funeral home to send flowers and they had never heard of her, so I called the local hospitals. Same thing. </p>
+<p>(Rita stops before she reaches the front porch. She stares at the door.) </p>
+<p>[INT. BRADFORD RESIDENCE - LIVING ROOM -- NIGHT -- CONTINUOUS] </p>
+<p>(Allison plays with the rim of her cup.) </p>
+<p><strong>Allison Bradford</strong>: Recently, I contacted peopledetectors.com and, apparently, she lives in Las Vegas. She just couldn't live with me.</p>
+<p>[EXT. BRADFORD RESIDENCE - FRONT - NIGHT -- CONTINUOUS]</p>
+<p>(Outside, Rita turns and heads back to her car.) </p>
+<p><strong>Catherine</strong>: (V.O.) So you were the one that contacted peopledetectors.</p>
+<p>(Rita walks back to the car and reaches for the door handle. She stops and suddenly turns around.) </p>
+<p><strong>Allison Bradford</strong>: (V.O.) Yeah. When my brother was out, I used his computer.</p>
+<p>(She heads back to the front door. She walks up the front steps and stops in front of the door.) </p>
+<p>(She takes a deep breath.) </p>
+<p>(She raises her hand and knocks.) </p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
- 
-Cue Sound:  RING TONE
- 
- 
-Officer Mularz:  LVPD. Officer Mularz. Can I help you?
- 
-Officer Mularz:  Is anybody there?
- 
-Whisperer:  I'd like to report a murder.
-Officer Mularz:  Your name?
- 
-Officer Mularz:  Hello? Is there somebody there?
- 
-Whisperer:  The body can be found at 1812 White Oak Road.
-Officer Mularz:  I'd like to help you. Please identify yourself.
-Whisperer:  Send someone to pick up the body.
- 
-
- 
- 
- 
-Brass: So an anonymous call came into metro about an hour ago.  Investigating officer found the dead body. The coroner's inside.
- 
-Brass: The, uh ... the door was open. Unlocked.
-
- 
-Brass: So the house is owned by the decedent, Hayden Bradford. Neighbor says he lives alone.
-Grissom: The floor is covered in hair. Has he got a cat or a dog?
-Brass: Nope. But as you can see our dead guy is ... I guess you could say he's hirsute.
- 
-David Phillips: &quot;Hirsute&quot; is an understatement. It's like he's wearing a pelt.
- 
- 
-Warrick: Hey, David, would you grab that?
-(David picks up the cell phone out of the victim's pocket and hands it to Warrick. 
-Warrick: Thanks.
-(Warrick checks it. The information shows:
-MISSED
-MICHELLE 702-555-0194
-Warrick: A missed call from a Michelle.
-(Additional information of the calls missed shows:
-Michelle 702-555-0194 12:08 a.m.
-Michelle 702-555-0194 11:44 p.m.
-Michelle 702-555-0194 10:15 p.m.
-Michelle 702-555-0194 8:32 p.m.
-Michelle 702-555-0194 6:02 p.m.
-Michelle 702-555-0194 3:53 p.m. )
-Warrick: She called six times since 3:53 p.m.
-David Phillips: Liver temp's 80 degrees. Been dead around twelve hours.
-Sara: Which makes TOD around 3:00 p.m.
- 
-David Phillips: Explains why he didn't take her calls. COD -- bullet to the chest.
- 
-Grissom: These strands are smooth, not coarse. They're human. 
-Sara: Are the roots intact?
-Grissom: Yeah.  Evidently, this guy was shedding.
-SMASH CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
- 
-Catherine: Hey, Dave, James.
- 
-David Phillips: Aw, c'mon.
- 
-Catherine: Hey, Dave, you've got to pick it up.
-Nick: Lift with the knees, Super Dave, lift with the knees.
-Catherine: Yeah.
-David Phillips:  Thanks, I ... have done this before.
- 
- 
-Sara: Hey.
-Catherine: So, Brass gave us a quick briefing. How can we help?
-Sara: Warrick and I are processing the interior, room to room.
-Catherine: So that leaves the perimeter.
-Sara: Thanks.
- 
-
-
- 
-Warrick: Well, this victim definitely had a lady in his life.
-Sara: That's odd. There is not a single feminine touch in this house.
-(Sara turns her flashlight on and looks around the room as she heads over toward Warrick. Warrick flips the framed photo over and removes it from the frame. On the back is some writing:
-MICHELLE
-CHRISTMAS 2004 )
-Sara: Michelle. Christmas, 2004.
-Warrick: Probably the same Michelle that tried to reach him six times on his cell phone.
-
- 
- 
- 
-Catherine: Broken window.
- 
- 
-Catherine: Yeah. It slides. The front door was locked. The killer probably broke the window and exited out the front.
- 
-Nick: I'll need to print the window, but, uh ... why don't we get to this first.
- 
-Catherine: Doesn't look big enough to have done the job.
- 
- 
-Nick: We have a print.
-
- 
-(Sara and Warrick enter the bedroom. They note the various pictures and color schemes on the desk. Warrick takes the printed e-mail from the printer and reads:
-1/02/06
-From: casinodangmail.com
-To: misterbradfordgmail.com
-Date: January 2, 2006 12:08 pm pst
-Warrick: &quot;Hey, jackass-- this is your last chance. Pay your debt or I'll hunt you down.&quot; 
- 
-Warrick: Makes our job easier when the suspect prints out his motive. He has an e-mail printout from casinodangmail.com.
- 
-Catherine: Well, that ain't no anthill. That dirt's fresh. Looks like something's buried there. 
-
-Catherine: Hang on.
-
- 
-Nick: No way.
- 
-Nick: .32 Beretta. Victim was shot, right? It's going to be hard to get a print, but I'll get it to Ballistics.
-
- 
- 
-Grissom: Well, we knew he was hairy. I didn't realize the full extent.
-Robbins: Hypertrichosis. I've only read about it. Excessive hair growth. Genetic. Extremely rare. His case was relatively mild. In some individuals, hair grows everywhere except the eyes and the mouth.
-Grissom: The human werewolf syndrome.
-Robbins: In Mexico, there's a family thirty members are afflicted. Two of the teen boys were recently adopted by the National Circus.
-Grissom: Great. The bearded lady, the dog-faced boy -- physical deformities as family entertainment.
-Robbins: I cleared a path for the bullet. 
- 
-Robbins: I figured you'd want to get this to ballistics ASAP.
-Grissom: Thank you, Al.
- 
-Robbins: You know, Gil, we're all intrigued by our nightmares, and when we watch freak shows, basically we're all thinking the same thing.
-Grissom: Yeah, I'm glad they're not looking at me.
-
- 
- 
-Greg: Hey, Archie.
-Archie: Hey.
-Greg: Please tell me you've ID.'d Casino Dan.
-Archie: Yep. The ISP provider sent over the subscriber information for a casinodangmail.com. It's registered to a Dan Nobler, who runs a gambling website.
-(The information pops up on screen:
-Domain Name: CasinoDan.com
-IP Address: 121.198.253.172 )
-Greg: If I wanted to visit Dan in person, where would I go?
-Archie: Well, the server for casinodan.com is in Argentina, which allows him to skirt U.S. gaming laws. However, he's got a Nevada business license. And I have the address.
- 
-Greg: Anything else I should know?
-Archie: Uh, well, I don't know if it's relevant, but he recently opened an account with peopledetectors.com. 
-Greg: Who was he looking for?
-Archie: I don't know. I'll triage the computer's hard drive.
-
- 
- 
-Archie:  Reconstruct the deleted e-mails. I'll get back to you on that.
-Dan Nobler: Can I help you?
-Greg: You Dan Nobler?
-Dan Nobler: Yeah.
-Warrick: We're from the Crime Lab. We need to ask you a few questions.
- 
-Dan Nobler: Look, if you're here about my business, you can save it for my attorney.
-Warrick: No, actually we're inquiring about a Mr. Hayden Bradford. You sent him some threatening e-mails.
- 
-Dan Nobler: Bradford is a lying son of a bitch.
-Greg: Care to elaborate on that?
-Dan Nobler: I run an online gambling business. Bradford had an account, ran up
-$10,000 in debt and refused to pay it.
-Warrick: Isn't it true in online gambling you have to submit your credit card, prior to gambling, to insure your losses?
-Dan Nobler: That's true. And when Brad was winning, it wasn't a problem. But when his luck changed, he called his credit card holder and said the charges were fraudulent. The credit card company issued a charge back and I got screwed.
-Warrick: Is that when you decided to hunt him down?
-Dan Nobler: Look, I wrote him an e-mail, hoping to scare him. Sorry. I was angry. If I write an apology, can we drop this? 
-Warrick: No, Mr. Nobler, I'm sorry, we can't do that. Mr. Bradford's dead.
- 
-Dan Nobler: Any other questions, contact my lawyer. We're done here.
- 
-Warrick: You see that?
-Greg: Yeah, the guy's a jerk.
- 
-Warrick: No, he wiped his feet on the mat. I'm hoping to get a little trace evidence here. Yeah, you see these pebbles? They look like the same ones that were found at the crime scene.
-
- 
- 
-Bobby Dawson: Fire in the hole!
-
-
-
- 
-Catherine: Bobby.
-Bobby Dawson: Hey. 
- 
-Bobby Dawson: So, that, uh, buried gun y'all recovered, wasn't used to kill Bradford.
- 
-Catherine: GRCs aren't even close.
-Bobby Dawson: Most bullets are copper, but take a look at the fatal bullet. It's silver.
-Catherine: How do you kill a werewolf?
-
-
-
-
- 
- 
- 
-David Phillips: No one's home.
- 
-Hodges: We want to see the Wolfman.
-David Phillips: Yeah, well, he's not available right now. I am trying to prep him for autopsy.
- 
-Hodges: Wow. And I thought Robin Williams had hairy arms.
-Henry Adams: Can I touch him?
-Archie: You mean &quot;pet&quot; him. 
- 
-David Phillips: No! You may not touch or pet the decedent.
-Hodges: Is it soft like fur or ... ?
- 
-David Phillips: I was supposed to have him prepped hours ago. Please. Okay, you guys gotta go.
-Hodges: Relax, Dave. It's not every day that Chaka ends up on a slab.
-David Phillips: Yeah, I need you to leave.
-Archie: Whoa.
-Hodges: Fine, but if I get a Sleestak in my lab, and you want to see it, I'm gonna get cranky.
- 
-
- 
- 
-Nick: Mr. Moyer, you're here about Hayden Bradford. Do you know him?
-Brent Moyer: Of course. He's one of my closest friends.
-Nick: Yeah ... yeah, I'm sorry. We found his body this morning. You didn't recently try to break in his home ... did you?
-Brent Moyer: Excuse me. What?
-Nick: We found a rock by a broken window, with your fingerprint on it.
-
-Nick: Is that funny?
-Brent Moyer: No. It's just. Uh ... last week we were playing toss with a ball.
-
-Nick: That still doesn't explain to me how your fingerprint got there.
- 
-Brent Moyer:  There was glass everywhere, so I knocked out the loose pieces.
- 
-Nick: You guys being good friends ... you were aware of his medical condition, right?
-Brent Moyer: That he was a hairy SOB? Yeah. Of course. Why?
-Nick: Do you know why anybody'd want to hurt him?
-Brent Moyer: He's a friendly, quiet guy. I've known him since high school. He's been dating my sister. Oh, God. She doesn't know yet, does she?
-Nick: Who, Michelle?
-Brent Moyer: Yeah.
-Nick: I tried to call her cell phone and ...
-Brent Moyer: She's at my parents, in Pahrump. Her cell phone's probably out of range.
-Nick: But you can get me their home number, address, all that?
-Brent Moyer: Sure. But if it's okay, I'd ... I should break the news to her in person.
-
- 
- 
-Sofia Curtis: I've been waiting for you.
-Sara: Sorry. I headed out as soon as I got your page.
-Sofia Curtis: Really? 'Cause, uh ... I left a voicemail several hours ago.
-Sara: What's up?
-Sofia Curtis: The anonymous call was traced to this phone booth, so I figured you'd want to process.
- 
-Sara: There is fingerprint powder on the phone.
-Sofia Curtis: Yeah, I got bored waiting. I thought you might need some help. No usable prints, but check out the floor.
-Sara: There's a lot of hair. Similar to the crime scene.
-Sofia Curtis: The victim was killed twelve hours before this call was made. If that's his hair, what's it doing here?
-
- 
- 
-Wendy Simms: The hair isn't Hayden's. The chromosomes are XX.
-Sara: Female.
-Wendy Simms: Yeah. So I took the liberty of comparing the sample's DNA to the victim's DNA. There are seven alleles in common.
-Sara: Brother and sister.
-Wendy Simms:  Mm-hmm.
-Sara: She's likely our anonymous caller. 
-Wendy Simms: Yeah, well, given the amount of hair that you collected, she's also probably a very hairy woman.
-Sara: Wendy, can you do me a favor?
-Wendy Simms: Hmm?
-Sara: Can you see if any of the follicles from the crime scene are a match to the hairs from the phone booth?
-Wendy Simms: You want to see if the sister was in the victim's house.
-Sara: If she was, she's not just the caller, she's a suspect. 
-
- 
- 
-Catherine: I hear the vic has a sister.
-Sara: A twin sister, in fact. I tracked down the victim's birth certificate. He was born to a Rita Bradford in Fresno, California. Ms. Bradford apparently had twins, Hayden and Allison. There's no record of any other children.
-Catherine: I'm assuming you contacted Allison.
-Sara: Well, that's where it gets odd. Allison Bradford has never filed with the IRS, has never had a driver's license, has never filled out a W-2. How do you go through life without a paper trail?
-Catherine: She's dead.
-Sara: There's no record of a death certificate. We found her hair in the phone booth. And DNA just confirmed that some of the hair follicles that we collected at the crime scene are hers.
-Catherine: Well, other than hair, when you and Warrick processed the house, did you find any evidence of a sister?
-Sara: No, but we were not looking for one.
-Catherine: We are now.
-
-
-
-
- 
-
- 
-
-(Catherine looks around the shelves in the living room. She goes through the mail for:
-HAYDEN BRADFORD
-1812 WHITE OAK ROAD
-LAS VEGAS, NV 89147
- 
-Warrick: Catherine, I've covered the kitchen. I've found no evidence of a sister living here. 
- 
-Sara: Ditto for the bedroom. I think I'm gonna take a look outside.
-Warrick: I'll do the same.
- 
-Catherine: Thanks, guys.
- 
- 
- 
-
- 
-Allison Bradford:  Please go away.
-Catherine: Allison?
-Allison Bradford:  This is my home. I would like you to leave.
-Catherine: Allison ...  I need to talk with you. Can you please come out?
-Allison Bradford:  I'd rather not.
-Catherine: Allison, my name is Catherine Willows. I'm with the Las Vegas Crime Lab. I know that you suffer from hypertrichosis. I understand why you would rather not talk with me. But we need to discuss your brother's murder. Would you please come out?
- 
-Catherine: May I ... ?
- 
-Catherine: Would you step out? Please? 
-Allison Bradford: You want to see what I look like?
-Catherine: No, I ... no. I don't want you to have to hide from me. Allison ... I'm a scientist. Excess body hair does not evoke fear ... or morbid fascination. It's simply a genetic quirk, like ... blue eyes or flat feet. 
- 
-Catherine: It's nice to meet you, Allison.
- 
-Allison Bradford: How can I help you, Ms. Willows?
- 
-Catherine: What can you tell me about your brother's murder?
-Allison Bradford: No one knows I live here, so when we get a visitor, I go to my room. 
- 
-Allison Bradford: Yesterday, around 3:30, the doorbell rang.
- 
-Hayden Bradford:  Just a sec!
- 
- 
-Allison Bradford: And when I came out of my room, Hayden was dead.
-Catherine: Why did you wait twelve hours to call the police?
-Allison Bradford: Because I didn't want the call traced to the house, back to me, so ... I waited till midnight, and then I walked to a pay phone. You weren't supposed to find me.
-Catherine: Do you have any idea why someone would want to hurt your brother?
- 
-Allison Bradford: He was my only friend.  He was my connection to the outside world.
-Catherine: What about your parents?
-Allison Bradford: I never knew my father. My mother died when we were teenagers. 
-Catherine: No one else knows that you exist?
-Allison Bradford: I hope ... I hope you'll help me.
-Catherine: Help you-- with what?
-Allison Bradford: Staying secret. It's best for everyone.
-
-
-
-;
-
-
-
- 
- 
- 
-Nick: Hey, Grissom, you got a second?
-Grissom: Did you know the word &quot;werewolf&quot; was derived from the old English word
-&quot;Wargwolf,&quot; which is a synonym for &quot;serial killer&quot;?
-Nick: No, I didn't.
-Grissom: Imagine if you had some deep, dark secret ... something that brought you tremendous shame. But instead of being able to hide it away, you had to wear it out on your skin, so that the first time anyone saw you, they saw your secret.
-Nick: You talking about Allison?
-Grissom: Yeah. Catherine said she's scared to death of people and what they'll think of her.
-Nick: Well, if that's the case, why not try electrolysis or depilatory lasers?
-Grissom: With that much hair -- be a lot of scarring, and a great deal of pain. Plus, imagine how expensive it would be. What have you got?
-Nick: Well, I just ran into Archie. The decedent used a company called peopledetectors.com to try to locate his mother.
-Grissom: Catherine spoke to Allison. Their mother's dead.
-Nick: Apparently not. She's alive and well, and has an address in Henderson, so I'm gonna go out there, check it out.
- 
-Grissom: Hey, Nick.
-Nick: Yeah.
-Grissom: Bring her back here, will you?
-Nick: Sure. Why?
-Grissom: I want to talk to her. Find out why a mother would play dead.
-
-
- 
-Hodges: Oh, good, you're here. I love an audience.
-Greg: Well, don't expect any applause.
-Warrick: What do you got?
-Hodges: I compared pebbles from the crime scene to the pebbles from Dan Nobler's doormat. They're consistent with each other -- a composite commonly known as pea gravel. The pebbles weren't the only trace elements I found in that doormat. I also found several slivers of glass ... glass consistent with a broken window.
-
-
- 
-Dan Nobler: I'm here about pebbles and glass. Come on.
-Duane McWane: Look, this is ridiculous. I mean, we're talking about trace evidence on a doormat? Come on. Besides, I read the file. A guy named Brent Moyer already admitted to breaking the window.
-Warrick: This is true; he did. But we believe that Mr. Nobler here stepped in the shards of glass. Listen, neither the glass nor the pebbles are probative on their own, but together, they put your client at the crime scene. Not to mention, his threatening e-mail gives us motive.
-Dan Nobler: Fine. I was there.
-Duane McWane: Dan ...
-Dan Nobler: No, look, I get ripped off by jerks all over the world. This guy was a local. I knew his address and, yeah, I wanted to shake him down. Let him know that by declaring credit card fraud, he was stealing from me.
-Warrick: Okay, I'm listening.
-Dan Nobler: A few days ago, I went over to his house. Then I started thinking, &quot;What if this guy's like twice my size?&quot; I figured I should get a look at him before I had our &quot;conversation,&quot; so I went around back ...
- 
- 
-Hayden Bradford: Hey ... hey, hey!
- 
- 
-Dan Nobler: At first, I thought he was wearing a costume, but then I realized, it was ... it was real hair. Disgusting, right?
-Warrick: What happened next?
-Dan Nobler: Well, when the dude saw me, I took off.
-Warrick: Why?
-Dan Nobler: Uh, he was a freak of nature. I no longer wish to speak with him.
-
-
-
- 
- 
-(He gets a reading:
-92.5% SILVER
-Ag )
- 
-Nick: Hey, man.
-Hodges: Hey.
-Nick: What are you smiling about?
-Hodges: Oh, I was just thinking of the Howling II: The Werewolf Bitch. I don't care what anyone says. It was much better than the first one.
-Nick: Is it?
-Hodges: Yeah, yeah. I got the whole anthology. Want to borrow it?
-Nick: No, thanks. I would like to know about my bullet, however. I assume it was homemade since the manufacturer doesn't sell it in silver.
-Hodges: Right. Simple clamshell mold.
- 
-Hodges: Ninety-two point five percent pure with trace amounts of copper, nickel and chromium lead.
-Nick: Elemental properties are consistent with sterling silver jewelry.
-Hodges: And sterling silver has a high melting point. Someone went through a lot of trouble to make it.
-
- 
- 
-Michelle Moyer: Sorry I didn't get here sooner. I was pretty upset.
-Catherine: Michelle, your relationship with Hayden, was it serious?
-Michelle Moyer: We were engaged. I can't believe he's gone.
-Sofia Curtis: The day he died, you called him six times.
-Michelle Moyer: There was a golf tournament on ESPN that night. He wanted me to tape it for him. I was trying to reach him because I was at my folks' place and the VCR was broken. Sounds so silly now. I'd like to see him ... to say good-bye.
- 
-Sofia Curtis: He's with the coroner. 
-Catherine: Michelle, I understand that you were at your folks and you were trying to get a hold of Hayden on your cell, but we were unable to reach you on it. Can you explain?
-Michelle Moyer: I called Hayden so many times that my battery died. 
-I'm sorry. 
-Catherine: Do you have any idea who could have done this? 
- 
-Michelle Moyer: You know about his condition, right? It made him really sweet. I mean, it was like he was constantly trying to make up for his physical imperfections by doing everything perfectly. He was the perfect boyfriend, the perfect lover, my best friend. I don't know what I'm going to do without him.
-
- 
- 
-Rita Bradford: I was in labor for 27 hours. They didn't want to come out. Who could blame 'em.
-Grissom: Mrs. Bradford, why does Allison think you're dead?
-Rita Bradford: I thought it would be easier.
-Grissom: Easier than what?
-Rita Bradford: I did the best I could, Mr. Grissom. Their father couldn't look at 'em. Took off when they were a few weeks old. Babies are supposed to be cute.
- 
-Grissom: Mrs. Bradford ... ?
-Rita Bradford: At the time, we were living in Fresno. Family, friends stopped visiting. They were scared of my children. Especially Allison. She ... she looked like ... when she started nursery school, the kids teased her, called her names, made her cry.
-Grissom: So you moved to Vegas and decided to keep her a secret?
-Rita Bradford: It was best for everyone but she became completely dependent on me, and for eighteen years, I took care of her.
-Grissom: I'm sorry, but I still don't understand why she believes you're dead.
-Rita Bradford: One day, Allison wanted to take a walk ... outside. I didn't want anyone to see her. We had a fight. I locked her in her room -- my own child - because she wanted fresh air. At that moment, I knew I needed to leave. I told Hayden to tell her I was in a car accident. Two days later, he put on a black suit, told her he was going to my funeral.
-Grissom: And she didn't go because she couldn't leave the house.
- 
-Grissom: You thought it would be easier for her to accept your death than your abandonment?
-Rita Bradford: Please don't judge me. I spend enough time doing that.
-Grissom: I'm just trying to find out who killed your son.
-Rita Bradford: I haven't seen either of them for seven years. I wouldn't have any idea.
-Grissom: You know, Mrs. Bradford, your daughter's all alone now. It's not too late for you to go back to her.
-Rita Bradford: And tell her what? That I faked my death to escape from her? How do you say that to your own flesh and blood?
-
-
-
-
- 
- 
- 
-Catherine: What's up with the 911?
-Robbins: David didn't notice the victim's lividity at the crime scene because it was obscured by his body hair. But when we shaved him ... well, check out his left side.
-Catherine: So it was on his side where the blood settled.
-Robbins: Correct, but he was found face up.
- 
-Catherine: So, uh, somebody moved him several hours postmortem.
-Robbins: There's more. Vic was found on a hardwood floor, but when David brushed his body hair for trace, he found blue carpet fibers.
- 
-Catherine: Well, there was blue carpet in the sister's room.
- 
-Robbins: Hayden was shot through the chest; it would have exsanguinated on impact. Any blood in the sister's room?
-Catherine: I'll get back to you on that one.
-
- 
- 
-Catherine: Allison, it's Catherine. I need you to step out.
-Allison Bradford:  Who else is there?
-Catherine: There's another woman with me.
-Sofia Curtis: Allison, I'm Detective Curtis. 
- 
-Catherine:  I need to get inside your room.
- 
-Catherine: Thank you.
- 
- 
-
- 
- 
- 
-
- 
-Allison Bradford: I don't know anything about it.
-Catherine: You can't expect us to believe that you live in a secret room that only you go into, yet you can't explain why your bed is covering up blood.
- 
-Catherine: Did you kill him?
-Allison Bradford: What?!
-Catherine: Did you?
-Allison Bradford:  Hayden's all I had. He's the only one that knew about me. Why would I kill him?
-Catherine: Because he was going to leave you ... for Michelle. That had to have been scary for you.
-Allison Bradford: You think I'm some sort of animal? I wanted him to be happy. I loved Hayden, I wanted him to be happy.
-Sofia Curtis: Did Michelle know about you?
- 
-Allison Bradford:  No, but he said that he was going to tell her and that she was going to move in here and she would accept me -- Hayden promised.
-Catherine: Allison ... if you didn't kill him, who did?
- 
-Sofia Curtis:  Okay, I'm sorry. We can do this here or we can take this downtown.
-Allison Bradford: No, please. Please.
-Catherine: Okay, okay. I know that you're scared ... but you have got to tell us what happened.
-Allison Bradford: The doorbell rang. I went into my room.
- 
-Hayden Bradford: Allison, where's the gun?
-Allison Bradford: I ... I ...
-Hayden Bradford: Damn it, Allison, where's the gun?
- 
- 
-Catherine: And when he was shot, what did you do?
-Allison Bradford: I hid. Behind the door.
- 
-Catherine: Was the television on?
-Allison Bradford: No. It's busted. It hasn't worked in years.
-Catherine: So you had a pretty good view of the living room through the reflection in the tube. What did you see?
- 
- 
- 
-Brent Moyer: Freak.
- 
- 
-Catherine: You're sure that it was Brent?
-Allison Bradford: I've seen him through the peephole. They were best friends.
-Catherine: Okay, um ... let's just go back to the gun.
-Allison Bradford: A couple of days ago, Hayden said he saw a guy sneaking around the back. So he bought me a gun for safety. But I don't like guns so ... I just buried it in the backyard.
-Catherine:  Yes, we found it.
-Sofia Curtis: Allison ... why was it so difficult for you to tell us the truth?
-Allison Bradford: I think you're going to make me testify and I won't do that. I want Brent to go to jail, but I won't be the sideshow freak.
-Catherine: Well, we can try to build a case without you.
-
-
-
- 
-Grissom: You can't get a warrant unless she goes on record.
-Catherine: Well, just hear me out. We have a rock with Brent Moyer's fingerprints on it.
-Grissom: Yeah, but Allison told you that Brent entered through the front door. The rock is extraneous evidence, isn't it?
-Catherine: Well, let's just leave Allison's testimony out of it. We simply inform the judge that our suspect's fingerprints were on a rock that may have been used to break a window at the murder scene.
-Grissom: If you have no qualms about filing the petition, then file it.
-Catherine: Oh, no, I don't have any qualms. It's just that my moral compass doesn't always point in the same direction as yours.
-Grissom: So if I tell you not to file it, you won't?
-Catherine:  I'd take it under advisement. Why, is that what you're recommending?
-Grissom: How many times have we been prevented from getting a warrant when we knew we had the right guy?
-Catherine: Way too many.
-Grissom: Right. So rock and roll.
-
-
- 
- 
-Sofia Curtis: Las Vegas PD. We have a search warrant.
- 
-Brent Moyer: What's going on?
-Sofia Curtis: Please step outside.
-
-
- 
-
- 
-
-
- 
-Brent Moyer: Why would I kill my best friend?
-Sofia Curtis: That's a very good question.
-Margaret Finn: A bullet clamshell isn't enough for the DA to file. What am I missing here?
-Catherine: Our Trace Lab analyzed the silver found in the bullet mold. It's identical composition to the bullet in the victim. DA says it's a slam dunk.
-Brent Moyer: Hayden was going to marry my sister.
-Margaret Finn:  Brent, I recommend that ...
- 
-Brent Moyer: I couldn't let that happen. He was diseased. Wasn't a problem for me. But my sister deserved better.
-Sofia Curtis: So you killed him?
-Brent Moyer: Did you see his body? Hayden was a monster passing for a regular Joe. My parents blamed me for introducing them. You know, the werewolf disease, it's hereditary. It means my sister could've given birth to freaks.
-Catherine: And the silver bullet?
-Brent Moyer: Figured it was appropriate.
-Catherine: So you left your parents', you went back to your place to make the bullet and then you went over to Hayden's.
-Brent Moyer: Yeah.
-Catherine: So it was premeditated. I guess you can forget heat of the moment as a mitigating factor here.
-Brent Moyer: I did the right thing. My sister's out there waiting. Since I confessed, can I at least go out and talk to her? Explain why I did it.
-Sofia Curtis: Why don't I do that for you.
- 
-
-
-Sofia Curtis: Ms. Moyer ... your brother confessed to killing Hayden. 
- 
-Sofia Curtis: After our last conversation, I checked the TV listings. There was no golf tournament that night. I think you were calling Hayden to warn him about Brent.
- 
-Michelle Moyer: I had just announced our engagement to my family. Brent flipped out. I was upset. Everyone was yelling at me. I went for a long walk to clear my head. And when I got back, Brent was gone. He told my parents that he was going to &quot;speak&quot; with Hayden.
-Sofia Curtis: But you had your doubts.
-Michelle Moyer: My brother has a temper.
-Sofia Curtis: Why didn't you tell us this before?
-Michelle Moyer: When Brent called and told me that Hayden was dead, he said that if I told you guys ... if I implicated him ... 
-Sofia Curtis: He threatened you.  You're safe now.
-
- 
- 
-Catherine: Allison ... what are you going to do now?
-Allison Bradford: I'll be okay. It's not like when I was a kid. I can pretty much get anything I need off the Internet.
-
-
- 
-Catherine:  And you're set with money?
-Allison Bradford:  I'll manage.
-Catherine:  Allison, I have every confidence that you're going to be just fine here, but ... 
- 
- 
-Catherine: If you ever need anything, would you please give me a call?
-Allison Bradford: I-I will, Ms. Willows.
-Catherine: Catherine.
-Allison Bradford: Catherine. I haven't been completely honest with you. I told you my mother was dead, but that's not true. 
-Catherine: I'm not sure I follow.
-Allison Bradford: Hayden told me she was in a car wreck ... 
-
- 
-Allison Bradford:  ... and I called the funeral home to send flowers and they had never heard of her, so I called the local hospitals. Same thing. 
- 
- 
- 
-Allison Bradford: Recently, I contacted peopledetectors.com and, apparently, she lives in Las Vegas. She just couldn't live with me.
-
- 
-Catherine:  So you were the one that contacted peopledetectors.
- 
-Allison Bradford:  Yeah. When my brother was out, I used his computer.
- 
- 
- 
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=06x11+-+Werewolves&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127414%23p127414" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=06x11+-+Werewolves&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127414%23p127414" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127414%23p127414&amp;name=06x11+-+Werewolves" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127414%23p127414" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=69c348df1d166ecb385c3f1af53aebdd">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=69c348df1d166ecb385c3f1af53aebdd">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=69c348df1d166ecb385c3f1af53aebdd">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=69c348df1d166ecb385c3f1af53aebdd">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

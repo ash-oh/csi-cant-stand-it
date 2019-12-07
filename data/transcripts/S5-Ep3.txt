@@ -1,839 +1,1069 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - DAY]
+[EXT. ST. ANDREW'S SCHOOL - DAY]
+(Open on the statue of St. Andrew. The school bell rings marki" />
+<meta property="og:title" content="05x03 - Harvest - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - DAY]
+[EXT. ST. ANDREW'S SCHOOL - DAY]
+(Open on the statue of St. Andrew. The school bell rings marki" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13285" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>05x03 - Harvest - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13285" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13285">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=56b4d7cf4708d47ff4da61a1400ba233"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=56b4d7cf4708d47ff4da61a1400ba233">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=56b4d7cf4708d47ff4da61a1400ba233">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=56b4d7cf4708d47ff4da61a1400ba233">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=56b4d7cf4708d47ff4da61a1400ba233">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13285&amp;sid=56b4d7cf4708d47ff4da61a1400ba233&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>05x03 - Harvest</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127379">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127379">05x03 - Harvest</a></div>
+							<div class="pull-right text-right"><time datetime="2004-10-28T03:29:45Z">10/28/04 03:29</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[EXT. ST. ANDREW'S SCHOOL - DAY]</p>
+<p>(Open on the statue of St. Andrew. The school bell rings marking the end of the day.)</p>
+<p>[FRONT DOOR]</p>
+<p>(Slow motion. The double doors to the school open and children run out of the school, whooping and cheering that school is over.)</p>
+<p>(Resume motion. School boys and school girls walk along the front of the school.)</p>
+<p>(A car horn honks.)</p>
+<p>(Sister Teresa, talking with another Nun, looks up at the source of the blaring car horn.)</p>
+<p><strong>Sister Teresa</strong>: Could you excuse me?</p>
+<p>(Sister Teresa walks over to the parked car on the side of the road. Inside the car, Sybil Perez waits impatiently for her daughter.)</p>
+<p>(Sister Teresa knocks on the passenger-side window. Sybil rolls the window down.) </p>
+<p><strong>Sister Teresa</strong>: Everything all right, Sybil?</p>
+<p><strong>Sybil Perez</strong>: I'm fine. What's taking Alicia so long? We have a doctor's appointment in forty minutes.</p>
+<p><strong>Sister Teresa</strong>: She's not here.</p>
+<p><strong>Sybil Perez</strong>: Well, she has to be. I saw her leave for school this morning.</p>
+<p><strong>Sister Teresa</strong>: Alicia hasn't been in any of her classes.</p>
+<p>(Sybil's phone rings. She answers it.)</p>
+<p><strong>Sybil Perez</strong>: (to phone) April, get off the phone. I can't talk right now.</p>
+<p><strong>April Perez</strong>: (from phone) Somebody took Alicia.</p>
+<p>CUT TO:<br />
+[EXT. CONVENIENCE STORE - PARKING LOT - DAY]</p>
+<p>(Sybil Perez parks in the parking lot. She gets out of the car and rushes over to her daughter.)</p>
+<p><strong>Sybil Perez</strong>: What did you do?! (yells) What the hell did you do?!</p>
+<p>(April turns from the Officer toward her mom.) </p>
+<p><strong>April Perez</strong>: Mom, I don't know ...</p>
+<p>(Sybil slaps April hard across the face.) </p>
+<p><strong>Sybil Perez</strong>: Where is she?!</p>
+<p><strong>April Perez</strong>: I'm not sure.</p>
+<p>(Two officers keep the two women apart.) </p>
+<p><strong>Sybil Perez</strong>: (screams) Where is she?!</p>
+<p>(Sybil Perez fights the officer, pounding on his chest with her fists and screaming.)</p>
+<p><strong>Sybil Perez</strong>: Get off of me! SYBIL PEREZ: Go find my daughter! Go find my daughter!</p>
+<p>FLASH TO:<br />
+[EXT. CONVENIENCE STORE - PARKING LOT - DAY -- LATER]</p>
+<p>(Brass interviews April Perez.) </p>
+<p><strong>April Perez</strong>: I really didn't see Alicia all that much. Um, I don't get to. Her life sucks, so sometimes she would just, you know, play hooky and spend the day with me.</p>
+<p><strong>Brass</strong>: After girls' day out, you, uh, stopped here for a snack.</p>
+<p>(Off screen, we hear Sybil crying. Brass turns around at the sounds of sobbing. As he watches, Carlos Perez walks up and hugs Sybil.) </p>
+<p><strong>Brass</strong>: Is that your father?</p>
+<p><strong>April Perez</strong>: Yeah. Um ... I was just went in, and ... you know, to get something while she changed back into her uniform.</p>
+<p><strong>Brass</strong>: In the car?</p>
+<p><strong>April Perez</strong>: It's not that big of a deal. It's like, you know, the skirt over the jeans, and back to school before mom knows anything.</p>
+<p><strong>Brass</strong>: So what did he look like? What kind of car did he drive?</p>
+<p>(Quick flash to: [EARLIER] April runs out of the convenience store.)</p>
+<p><strong>April Perez</strong>: Alicia!</p>
+<p>(She sees Alicia in the passenger seat of a black car. The car is driving out of the parking lot.) </p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>April Perez</strong>: A black guy, uh ... He had a beard and he had a crappy black Buick. But, um ... I don't know, maybe it was blue.</p>
+<p>(Quick flash to: [EARLIER] April is in the car looking out the window and screaming. The car drives away.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>April Perez</strong>: I don't really ...</p>
+<p><strong>Brass</strong>: No, that's ... that's good. </p>
+<p><strong>April Perez</strong>: Okay.</p>
+<p><strong>Brass</strong>: You did good. That's good. Thank you. </p>
+<p><strong>April Perez</strong>: Okay.</p>
+<p>(Cut to: A police siren blurbs off and on. Grissom leans forward looking into April's red car through the window. He snaps a photo.) </p>
+<p>(Carols and Sybil Perez walk up to Grissom.) </p>
+<p><strong>Carlos Perez</strong>: The cops won't tell us. What are the chances of finding our daughter?</p>
+<p><strong>Grissom</strong>: Well, we're doing everything we can.</p>
+<p><strong>Carlos Perez</strong>: That's what everyone keeps saying. No one will tell us anything.</p>
+<p>(Grissom sees something.) </p>
+<p><strong>Grissom</strong>: Did you injure yourself, Mrs. Perez?</p>
+<p>(On the edge of her blouse is a large blood stain.)</p>
+<p><strong>Sybil Perez</strong>: Oh, a nosebleed.</p>
+<p><strong>Grissom</strong>: That's a lot of blood. I'm going to need to take your shirt.</p>
+<p><strong>Carlos Perez</strong>: Why?</p>
+<p><strong>Grissom</strong>: If you like, I can have someone follow you home so that you can change.</p>
+<p><strong>Sybil Perez</strong>: (getting angry) You think we had something to do with it? Our daughter is missing. She's out there somewhere alone and scared. What are you doing about that?!</p>
+<p><strong>Grissom</strong>: I'm just collecting evidence.</p>
+<p><strong>Sybil Perez</strong>: Fine. Here! </p>
+<p>(She removes her shirt and throws it at Grissom.)</p>
+<p><strong>Sybil Perez</strong>: Take it! Go find her!</p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. VARIOUS LAS VEGAS SCENES (STOCK) - DAY]</p>
+<p>[EXT. CONVENIENCE STORE - PARKING LOT -- DAY] </p>
+<p>(Brass is calling in the alert.) </p>
+<p><strong>Brass</strong>: This is Captain Jim Brass. I want to issue a Missing Persons Emergency Alert Amber. Notify all radio and casino signatories. The description is as follows ...</p>
+<p>[DISPATCH]</p>
+<p>(Dispatch types in the Alert.)</p>
+<p>[TELEVISION SET]</p>
+<p>(Programs are interrupted as BREAKING NEWS is reported.)</p>
+<p><strong>News Anchorman</strong>: We have breaking news from the channel 8 newsroom right now. An Amber Alert has been issued for missing 13-year-old Alicia Perez.</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[EXT. LAS VEGAS HIGHWAYS (STOCK) - DAY]</p>
+<p><strong>News Anchorman</strong>: (V.O.) The suspect in Alicia's abduction is described as an African American man, 35 to 45 years old, about six feet tall.</p>
+<p>[EXT. LAS VEGAS HIGHWAYS (STOCK) - DAY]</p>
+<p>(The highway sign on the side of the road flashes:<br />
+AMBER ALERT<br />
+BLACK BUICK<br />
+NEV LIC. -----CA</p>
+<p>[EXT. CONVENIENCE STORE - PARKING LOT - DAY]</p>
+<p>(Warrick and Nick are going through April's red car.)</p>
+<p><strong>Warrick</strong>: How'd you shoot, man?</p>
+<p><strong>Nick</strong>: Rusty. They say I have a flinch.</p>
+<p><strong>Warrick</strong>: You and I need to go practice some, huh?</p>
+<p><strong>Nick</strong>: Yeah, when do we have time to do that?</p>
+<p>(Nick dusts the door for prints.)</p>
+<p><strong>Nick</strong>: If we're not processing a scene or working evidence, we're in court. </p>
+<p><strong>Warrick</strong>: Well, when they take your piece, you'll make time.</p>
+<p><strong>Nick</strong>: This girl seemed a little old to be lured by a lost puppy. So how'd this guy pull this off in a lot this public?</p>
+<p><strong>Warrick</strong>: Easy. With a map and a smile.</p>
+<p>(Over by the front of the convenience store, Warrick watches as Catherine measures the distance.)</p>
+<p><strong>Warrick</strong>: Rolls up -- &quot;Hey, little girl, I'm lost. You from around here?&quot;<br />
+(Nick nods.) She gets close enough he pulls her out of her sister's car, into his car ... Bam, she's done.</p>
+<p><strong>Nick</strong>: I bet he had a weapon. Threatened her, so he could drive.</p>
+<p>(Catherine continues to measure the distance into the parking lot toward the car.)</p>
+<p><strong>Catherine</strong>: Probably used his fists. b*st*rd had to have hit her.</p>
+<p>(Quick flash to: [EARLIER] Alicia screams. The blurred figure pulls her into the car and hits her as she kicks and screams.)</p>
+<p>(The car door slams shut.)</p>
+<p>(End of flash. Resume to present.)</p>
+<p>[INT. CONVENIENCE STORE - DAY]</p>
+<p>(Brass interviews the Convenience Store Clerk as he carries a box of drinks.) </p>
+<p><strong>Clerk</strong>: Look, dude, I didn't see it.</p>
+<p>(The Clerk puts the box down on the side.) </p>
+<p><strong>Clerk</strong>: Chica had a nice, round ass and that's what I was scoping.</p>
+<p><strong>Brass</strong>: What time was that?</p>
+<p><strong>Clerk</strong>: About three. She comes in, grabs some candy, looks outside, waves at somebody. The next thing I know, she flips her wig. She's screaming about her sister. I didn't see the girl or a car. Besides, there's a lot of traffic out there.</p>
+<p><strong>Brass</strong>: Was it busy?</p>
+<p><strong>Clerk</strong>: Kind of.</p>
+<p><strong>Brass</strong>: How many surveillance cameras do you have in here?</p>
+<p><strong>Clerk</strong>: Inside we got five. They're all state-of-the-art. Place gets hit a lot. Outside they're all dummies.</p>
+<p><strong>Brass</strong>: Well, I'm glad to see you're so concerned about your customers after they leave the store.</p>
+<p>[EXT. CONVENIENCE STORE - PARKING LOT - DAY - CONTINUOUS]</p>
+<p>(Catherine's phone rings. She answers it and her side of the conversation fades into the background.)</p>
+<p><strong>Catherine</strong>: (to phone) Hello.</p>
+<p>(Camera follows Grissom as he walks out of the convenience store.)</p>
+<p><strong>Catherine</strong>: (to phone) (o.s.) Who's calling? Yes. Uh, yes. Speaking.</p>
+<p>(Grissom heads toward Nick.) </p>
+<p><strong>Grissom</strong>: Nick, you failed firearms qualification. You can't be here.</p>
+<p><strong>Nick</strong>: Oh, yeah. Well, I'm taking it again day after tomorrow, so I figured I could work.</p>
+<p><strong>Grissom</strong>: Not in the field.</p>
+<p><strong>Nick</strong>: You're serious?</p>
+<p><strong>Grissom</strong>: You're in violation just carrying the weapon.</p>
+<p><strong>Catherine</strong>: (to phone) (o.s.) She's what? Uh - uhm ... </p>
+<p>(Nick turns and looks at Warrick. Warrick looks away.) </p>
+<p><strong>Nick</strong>: Copy that. I'll be in the lab.</p>
+<p><strong>Catherine</strong>: Uh, Nick, let me catch a lift with you. (to Grissom) There's something going on with Lindsay.</p>
+<p>(Catherine follows Nick back to his car.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. POLICE DEPARTMENT - WAITING ROOM -- DAY] </p>
+<p>(Catherine walks up to the Officer watching Lindsay.) </p>
+<p><strong>Catherine</strong>: I'm Catherine Willows. What's the trouble?</p>
+<p><strong>Officer</strong>: With the Amber Alert, we've been keeping an eye out. Found your daughter up on Boulder Highway trying to hitch a ride downtown. (Catherine glares at Lindsay who rolls her eyes at her mom.) Now, kids this age, they need a firm hand at home, and ... </p>
+<p><strong>Catherine</strong>: (interrupts) Thank you, Officer. I appreciate everything you've done. Let's go.</p>
+<p>(Catherine leads Lindsay away.) </p>
+<p>[INT. POLICE DEPARTMENT - CONFERENCE ROOM - DAY - CONTINUOUS]</p>
+<p>(Catherine and Lindsay go into an empty room. They both sit down.)</p>
+<p><strong>Catherine</strong>: Okay, what or who is on Fremont Street that you would risk your life to get to? Mouthing off to teachers, slipping grades and now hitchhiking. I mean, what is next, Lindsay?</p>
+<p><strong>Lindsay Willows</strong>: (mutters) Stripping.</p>
+<p><strong>Catherine</strong>: What did you just say? (exasperated chuckle) Okay, no phone, no friends, no nothing.</p>
+<p><strong>Lindsay Willows</strong>: For how long?</p>
+<p><strong>Catherine</strong>: A month.</p>
+<p><strong>Lindsay Willows</strong>: (rolls her eyes) Whatever.</p>
+<p>(Lindsay gets up.) </p>
+<p><strong>Catherine</strong>: Hey, you want to make it two?</p>
+<p><strong>Lindsay Willows</strong>: Dad always said you were a drama queen.</p>
+<p><strong>Catherine</strong>: Well, what do you expect, Lindsay, since he was always high.</p>
+<p><strong>Lindsay Willows</strong>: I'd take dad high over you any day! Nana's coming to pick me up. I'll be out front.</p>
+<p>(Lindsay grabs her backpack and leaves the room.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Greg and Mia Dickerson, the new DNA Technician, walk into the lab. Warrick is sitting at the table with an array of items on it.) </p>
+<p><strong>Greg</strong>: You paged.</p>
+<p>(He doesn't look up.)</p>
+<p><strong>Warrick</strong>: Yeah. (Points to the items on the table.) What's missing?</p>
+<p>(Greg takes a moment and looks at the various school books and bags on the table.) </p>
+<p><strong>Greg</strong>: I give up.</p>
+<p><strong>Warrick</strong>: Her sister said the victim changed back into her school uniform in the car. </p>
+<p><strong>Mia Dickerson</strong>: So? Where are the clothes she changed out of? </p>
+<p>(At the sound of a new voce, Warrick looks up.) </p>
+<p><strong>Warrick</strong>: Hello.</p>
+<p>(Greg makes the introductions.) </p>
+<p><strong>Greg</strong>: Mia Dickerson, Warrick Brown.</p>
+<p><strong>Warrick</strong>: Welcome.</p>
+<p><strong>Mia Dickerson</strong>: Look, I already know you have a running bet with another CSI over how long the new hire lasts, so let's skip it. You got something for DNA?</p>
+<p>(Warrick grabs the evidence bag and tosses it toward her.) </p>
+<p><strong>Warrick</strong>: The mother's bloody t-shirt.</p>
+<p><strong>Mia Dickerson</strong>: Exemplar?</p>
+<p><strong>Warrick</strong>: It's on its way.</p>
+<p><strong>Mia Dickerson</strong>: Thank you.</p>
+<p>(Mia leaves the room. Warrick watches her. He looks sufficiently impressed. Greg turns and looks at Warrick.)</p>
+<p><strong>Greg</strong>: (smiles) Just hedging my bets.</p>
+<p><strong>Warrick</strong>: How so?</p>
+<p><strong>Greg</strong>: Well, I need field experience, but before I get that, I need to find a replacement. So far, I'm oh-for-one. Plus, she's hot and thinks you're a tool, so I'm way ahead.</p>
+<p>(Greg turns and leaves Warrick chuckling.) </p>
+<p>CUT TO:<br />
+[INT. PEREZ RESIDENCE - LIVING ROOM -- DAY] </p>
+<p>(Camera slowly pans across the counter of framed photos. Every photo is of a little boy in various stages of growth. There is one photo with April in it standing next to the little boy, but none of Alicia that we can see.) </p>
+<p>(In the living room, Brass interviews Carlos and Sybil Perez.) </p>
+<p><strong>Carlos Perez</strong>: A gardener and a pool man come in once a week.</p>
+<p><strong>Brass</strong>: How long have they worked for you?</p>
+<p><strong>Carlos Perez</strong>: Years.</p>
+<p><strong>Brass</strong>: How about a housekeeper or a maid?</p>
+<p><strong>Sybil Perez</strong>: I do it.</p>
+<p><strong>Brass</strong>: Let's talk about your daughter's routines. Her routes to and from school, any extra-curricular activities, a list of friends. </p>
+<p><strong>Sybil Perez</strong>: There wasn't any after school stuff. Alicia isn't a joiner. She walks to school, I pick her up. That's it.</p>
+<p><strong>Brass</strong>: How often did April get her sister to skip school?</p>
+<p>(They look at each other.) </p>
+<p><strong>Carlos Perez</strong>: We don't know. We ... we just found out ourselves.</p>
+<p><strong>Brass</strong>: I'm curious because April said she hardly ever gets to see Alicia. Why didn't she just come here?</p>
+<p><strong>Sybil Perez</strong>: Because she wasn't welcome. We kicked her out. </p>
+<p><strong>Carlos Perez</strong>: April's a troubled girl. Problems with drugs, the police. You might as well know, she also did some time. Juvenile lockup.</p>
+<p><strong>Brass</strong>: For what?</p>
+<p><strong>Carlos Perez</strong>: Heroin possession. Intent to distribute.</p>
+<p>CUT TO:<br />
+[INT. PEREZ RESIDENCE - ALICIA'S BEDROOM - DAY -- CONTINUOUS] </p>
+<p>(Sara sits at Alicia's desk looking at the contents on her computer. Grissom examines the rest of the room for evidence.) </p>
+<p><strong>Sara</strong>: There's nothing suspicious on the server. Only hits are music downloads. Wait a minute. An organ transplant site. For kidneys, heart, lungs and liver.</p>
+<p><strong>Grissom</strong>: What is that? Homework research?</p>
+<p><strong>Sara</strong>: Maybe. These are pretty detailed biochem and immunosuppressant citations. It's a little over a seventh grader's head, don't you think?</p>
+<p><strong>Grissom</strong>: I don't know. I bet you were a pretty smart seventh grader.</p>
+<p>(Sara can't help but smile. Grissom picks up a purple and blue plastic backpack and looks at it.) </p>
+<p>(Sara opens Alicia's notebook where she finds doodling of &quot;Mrs. Jimmy Jones&quot;, &quot;Mrs. Alicia Jones&quot;, &quot;Love Jimmy&quot;, red hearts and flowers.)</p>
+<p><strong>Sara</strong>: She has a serious crush on a boy named Jimmy Jones.</p>
+<p>(Grissom looks around and finds &quot;I Hate Mom &amp; Dad&quot; written on the edge of the linens.) </p>
+<p><strong>Grissom</strong>: Sara. </p>
+<p>(Sara turns.) </p>
+<p><strong>Grissom</strong>: (reads) &quot;I hate mom &amp; dad.&quot;</p>
+<p>(Daniel Perez appears in the doorway.) </p>
+<p><strong>Daniel Perez</strong>: Who doesn't once in a while?</p>
+<p>(Grissom and Sara look up. He introduces himself.) </p>
+<p><strong>Daniel Perez</strong>: Daniel Perez. And you are ... ?</p>
+<p><strong>Grissom</strong>: Gil Grissom, Sara Sidle, Las Vegas Crime Lab.</p>
+<p><strong>Daniel Perez</strong>: I guess that's why you're pawing through my sister's private stuff.</p>
+<p><strong>Sara</strong>: It's going to help us find her. Do you know a Jimmy Jones?</p>
+<p><strong>Daniel Perez</strong>: Yeah, a boy from school. She liked him.</p>
+<p><strong>Grissom</strong>: What's your sister like? Personable, friendly, outgoing, trusting, maybe?</p>
+<p><strong>Daniel Perez</strong>: She's a giver - from the day she was born.</p>
+<p>(Daniel's nose starts to bleed.) </p>
+<p><strong>Grissom</strong>: Uh, Daniel... you're bleeding.</p>
+<p>(Grissom points to his own nose.) </p>
+<p><strong>Daniel Perez</strong>: I'm sorry. </p>
+<p>(Daniel uses his blood-stained tissue to wipe his nose.) </p>
+<p><strong>Daniel Perez</strong>: You want to know my sister, you should check her diary under the mattress.</p>
+<p>(Daniel turns and leaves. Sara steps forward and checks under the mattress. Sure enough, there's Alicia's diary.) </p>
+<p>(Sara opens the book. Grissom leans sideways to look.) </p>
+<p><strong>Sara</strong>: (reading) &quot;Last night I didn't sleep very good. I kept thinking about the surgery.&quot; I guess we know why she was doing transplant research.</p>
+<p>[INT. PEREZ RESIDENCE - LIVING ROOM - DAY - CONTINUOUS]</p>
+<p>(Brass continues to interview Carlos and Sybil Perez.) </p>
+<p><strong>Sybil Perez</strong>: Serious illness takes a toll on a family. (Sybil turns and looks at Carlos.) Alicia never complained. (She looks at Brass.) She's used to the doctors. She has friends there -- people who understand -- go through the same hell.</p>
+<p><strong>Brass</strong>: You know, if a victim has a serious illness, you really should disclose it right away.</p>
+<p><strong>Carlos Perez</strong>: Our daughter isn't sick. Our son's kidneys are failing. Alicia is his matching donor. Without her, he'd die.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - BRASS' OFFICE -- DAY] </p>
+<p>(Brass and Catherine interview Jimmy Jones. His mother is there.) </p>
+<p><strong>Jimmy Jones</strong>: Well, Alicia was a great half-back -- strong right leg, aggressive. You don't see that too much in girls.</p>
+<p><strong>Catherine</strong>: She played soccer?</p>
+<p><strong>Jimmy Jones</strong>: Yeah, for awhile. She quit before she got cut. She missed a lot of practice 'cause she was always going to the doctor, and you can't really play with one kidney anyway, so ...</p>
+<p><strong>Catherine</strong>: She told you about her brother?</p>
+<p><strong>Jimmy Jones</strong>: Yeah, on the way to school. Hell, I thought that it was cool that she was saving his life, but she seemed pretty pissed.</p>
+<p><strong>Mrs. Jones</strong>: Jimmy ... language.</p>
+<p><strong>Jimmy Jones</strong>: Sorry. Anyway, uh, she didn't seem too happy. Said she had no life and never would.</p>
+<p><strong>Brass</strong>: So, Jimmy, on your way to and from school, did anyone ever bother you or approach you in any way?</p>
+<p><strong>Jimmy Jones</strong>: Um ... there was this one guy, with a track suit, he's supposed to be running. He gave me the creeps.</p>
+<p><strong>Brass</strong>: What gave you the creeps?</p>
+<p><strong>Jimmy Jones</strong>: Well, start with his gear. I mean, nobody runs in velour. And he never had any water and he was always on the phone.</p>
+<p><strong>Brass</strong>: What'd he look like?</p>
+<p><strong>Jimmy Jones</strong>: Black guy. He was not a runner, but he was in shape. Bald, mustache, beard.</p>
+<p><strong>Catherine</strong>: How old would you say he is, Jimmy?</p>
+<p><strong>Jimmy Jones</strong>: Qld ... like 30. (He glances unsure at Catherine.) ... I just ... never liked the way he looked at Alicia.</p>
+<p><strong>Brass</strong>: Thanks. You've been a great help, Jimmy. Thank you. Uh, if it's okay with your mom, I'm going to have you hang around, look at some photos. All right?</p>
+<p><strong>Jimmy Jones</strong>: Sure.</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB -- DAY] </p>
+<p>(Nick is on the computer mapping out and showing Warrick and Grissom the community and surrounding area where Alicia Perez disappeared. As he narrates, the lights appear up on the monitor.) </p>
+<p><strong>Nick</strong>: Here's the Perez house, Alicia's walk route to school, and the convenience store where she was taken. All the locations are within a half-mile, plus or minus three-tenths.</p>
+<p>(He works on the keyboard.) </p>
+<p><strong>Nick</strong>: This is a map of all registered s*x offenders in the state, the county, and the neighborhood.</p>
+<p>(The neighborhood area is covered with red squares.)</p>
+<p><strong>Warrick</strong>: Phew! That's a lot of perverts.</p>
+<p><strong>Nick</strong>: Get out of jail, come to Vegas. They're listed in tiers of projected recidivism, zero through three. Three being the most dangerous.</p>
+<p><strong>Grissom</strong>: They're the ones most likely to plan an abduction and find the privacy for sexual assault and murder.</p>
+<p><strong>Nick</strong>: If I remove the zeroes and ones, since they have a low or moderate risk designation, this is what we're left with.</p>
+<p>(Nick makes more adjustments and all the O's and 1's disappear leaving a slew of<br />
+2's and 3's on the screen.) </p>
+<p><strong>Warrick</strong>: That's still a lot of perverts.</p>
+<p><strong>Nick</strong>: Mm, maybe not.</p>
+<p>(He makes more adjustments to the monitor.) </p>
+<p><strong>Nick</strong>: Here, I'll isolate the Perez neighborhood.</p>
+<p>(A name card appears on screen for:<br />
+MARLON WAYLORD<br />
+- Tier Two s*x Offender<br />
+Race: African American<br />
+Occupation: Handyman<br />
+Status: Lives Alone<br />
+Hgt: 6 feet Wgt: 205 lbs<br />
+Address: 23278 Koval Ln., Apt #12<br />
+Summerlin, NV 89129</p>
+<p><strong>Nick</strong>: (reads) Marlon Waylord, tier two, 38, black, lives alone, sometimes handyman and fits Jimmy Jones' description.</p>
+<p>(Grissom sits back and smiles.)</p>
+<p>CUT TO:<br />
+[EXT. WAYLORD RESIDENCE - APT 12 -- DAY] </p>
+<p>(Brass knocks on the front door. A couple of officers, Grissom and Sara wait outside.) </p>
+<p>(The door opens.) </p>
+<p><strong>Marlon Waylord</strong>: Officer.</p>
+<p>(Brass notices a smudge of blood on Marlon's chin.) </p>
+<p><strong>Brass</strong>: Did you, uh, cut yourself shaving, Mr. Waylord. (Marlon Waylord doesn't say anything.) Marlon must be shy.</p>
+<p><strong>Marlon Waylord</strong>: Marlon didn't do nothing. </p>
+<p><strong>Brass</strong>: And I believe you, too. Come on, step over here, please.</p>
+<p>(Marlon Waylord steps out of the apartment, his arms held out away from his sides.) </p>
+<p><strong>Marlon Waylord</strong>: You all know that s*x offenders under a felony conviction have absolutely no unconditional release and are under lifetime supervision, automatically assigned by the Nevada Criminal State justice system. </p>
+<p>(Marlon Waylord is handcuffed. Grissom and Sara head into the apartment.) </p>
+<p><strong>Marlon Waylord</strong>: Mandated, of course, by state and federal Megan's Law in effect<br />
+5/17/96 and therefore I am required to register and update my information ... whenever I move from my current, uh, domicile.</p>
+<p><strong>Brass</strong>: Well, that's a big word. Well, you got all your facts right, Marlon. Help us with this one. We know you own a Buick. Where is it?</p>
+<p><strong>Marlon Waylord</strong>: Tangiers' parking lot. It wouldn't start.</p>
+<p><strong>Brass</strong>: I hate that. I'll have it towed to the lab.</p>
+<p><strong>Marlon Waylord</strong>: You do that.</p>
+<p>CUT TO:<br />
+[INT. WAYLORD RESIDENCE - LIVING ROOM - DAY -- CONTINUOUS] </p>
+<p>(Grissom and Sara look around the sparse living room.)</p>
+<p>INTERCUT WITH:</p>
+<p>[BEDROOM]</p>
+<p>(Sara walks into the bedroom.)</p>
+<p>(In the living room, Grissom looks at the jacket hanging on the doorless closet and finds a strand of hair) </p>
+<p>(Sara uses the ALS on the bed and finds body fluids.) </p>
+<p><strong>Sara</strong>: Presence of semen.</p>
+<p>(Grissom picks up the cell phone.)</p>
+<p>(Sara pushes the bedsheets and blankets aside. She finds some children's underwear. That also has semen on it.)</p>
+<p>(Sara walks back into the living room.)</p>
+<p><strong>Sara</strong>: There's children's underwear in the bedroom.</p>
+<p>(Grissom scrolls through the photos on the phone of Alicia and Jimmy.) </p>
+<p><strong>Grissom</strong>: Photos of children on his phone, including Alicia.</p>
+<p>(He hands the phone to Sara.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Brass and Grissom interview Marlon Waylord.) </p>
+<p><strong>Brass</strong>: So here's the deal: When you go up, I won't yell short eyes first. How's that sound?</p>
+<p><strong>Marlon Waylord</strong>: Sounds like a really good deal ... You know, if I was, um, guilty.</p>
+<p><strong>Brass</strong>: The inmates didn't treat you too gentle the last time. Did they?</p>
+<p>(Marlon turns and glares at Brass.) </p>
+<p><strong>Marlon Waylord</strong>: You know they didn't.</p>
+<p><strong>Brass</strong>: So tell me what you did with Alicia.</p>
+<p><strong>Marlon Waylord</strong>: Who?</p>
+<p>(Brass puts a photo on the table.) </p>
+<p><strong>Grissom</strong>: She's been all over the news, non-stop. It's that why you shaved?</p>
+<p>(Marlon licks his finger and touches the photo, alongside Alicia's face.)</p>
+<p><strong>Brass</strong>: Oh, come on. Don't make me smack you.</p>
+<p>(Marlon looks at Grissom.)</p>
+<p><strong>Grissom</strong>: Her friend tells us that you were always looking at her. You went out in the morning and watched them go to school.</p>
+<p>(Grissom shows the phone photos to Marlon.) </p>
+<p><strong>Marlon Waylord</strong>: She's sweet, very sweet, but, fellas ... I wasn't looking at her. You all should check my file.</p>
+<p><strong>Brass</strong>: No, I did. I know that your recent preference is for little boys, but, uh, your first time was with a female cousin. Let me read what you said. &quot;I couldn't help myself 'cause she was acting so hot. It was her fault; she was really hot.&quot;</p>
+<p>(Brass tosses the file on the table in front of Marlon.) </p>
+<p><strong>Grissom</strong>: How does a six-year-old act hot?</p>
+<p>(Brass' phone beeps. Brass checks it.)</p>
+<p><strong>Marlon Waylon</strong>: Listen ... I'm, uh... I'm sick. You know, I got this-this this illness, which ... look. I don't want to go back to prison. That's why I'm being so compliant. Now, yo, I don't work near no little kids. I stay a hundred yards from the school grounds. Man, I don't even go to the park.</p>
+<p><strong>Grissom</strong>: It's not a disease. It's a compulsion.</p>
+<p><strong>Marlon Waylord</strong>: I stay away from youth organizations, after-school programs, churches ... </p>
+<p><strong>Grissom</strong>: We found a pair of boy's underwear in your bedroom. Explain that.</p>
+<p><strong>Marlon Waylord</strong>: I look at the photos. I look at the photos and I have the briefs for, um ... release.</p>
+<p><strong>Grissom</strong>: So you fantasize, and eventually, the fantasy's not enough and you relapse.</p>
+<p><strong>Marlon Waylord</strong>: Hey, they're mine. I bought the underwear!</p>
+<p><strong>Grissom</strong>: Well, if that's true, then you were in a store where little children were shopping with their mothers.</p>
+<p><strong>Marlon Waylord</strong>: And what would you have me do, huh, man? What?! I mean, I even thought about chemical castration.</p>
+<p><strong>Grissom</strong>: Medroxyprogesterone is inconclusive. It renders the subject incapable of erection, but it doesn't remove the drive. You would still be capable of sexual assault using other objects.</p>
+<p><strong>Marlon Waylord</strong>: Listen ... um, I haven't done anything, uh, illegal, so you can't hold me in here forever. Oh, is that killing look in your eyes a compulsion, Mr. Grissom?</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB -- DAY] </p>
+<p>(Warrick walks into the lab. Mia reports to him.) </p>
+<p><strong>Warrick</strong>: What's up?</p>
+<p><strong>Mia Dickerson</strong>: The seminal fluid on the boy's underwear matches your pedophile.</p>
+<p><strong>Warrick</strong>: Epithelials?</p>
+<p>(Mia starts to answer, but Greg interrupts.) </p>
+<p><strong>Greg</strong>: His. And only his.</p>
+<p><strong>Warrick</strong>: That confirms his story that the briefs were never worn. Hair?</p>
+<p>(Again, Greg interrupts.) </p>
+<p><strong>Greg</strong>: Synthetic. Probably from a wig.</p>
+<p><strong>Warrick</strong>: Great. That means we have to let the b*st*rd go. It's only a matter of time before he snatches up another kid.</p>
+<p>(Warrick turns to leave, Mia stops him.) </p>
+<p><strong>Mia Dickerson</strong>: You got any friends in uniform?</p>
+<p><strong>Warrick</strong>: Yeah, but they can't watch him indefinitely.</p>
+<p><strong>Mia Dickerson</strong>: Okay, look. Megan's law has holes. Police aren't required to notify a community about a predator. So flood his block with flyers detailing his crimes. Trust me, the neighbors won't let him out of their sight.</p>
+<p><strong>Warrick</strong>: Or they'll kill him.</p>
+<p>(Warrick's pager beeps. He checks it.)</p>
+<p><strong>Warrick</strong>: They found Alicia Perez.</p>
+<p>CUT TO:<br />
+[EXT. WOODS -- DAY] </p>
+<p>(Alicia Perez is on the ground. There are blood stains on the blanket wrapped around her body. Her face is covered.) </p>
+<p>(Brass stands over the body. Grissom, Catherine and Warrick walk toward the scene.) </p>
+<p><strong>Brass</strong>: A tour helicopter spotted her around 4:00 P.M.</p>
+<p>(They put their kits down.) </p>
+<p><strong>Grissom</strong>: How many people have walked through the crime scene?</p>
+<p><strong>Brass</strong>: Just the responding officers, lug soles, sizes 10 and 11.</p>
+<p><strong>Grissom</strong>: We're going to need some time here, Jim.</p>
+<p><strong>Brass</strong>: (sighs heavily) Yeah, well, there's no rush now.</p>
+<p>(Warrick kneels down next to the body.) </p>
+<p><strong>Warrick</strong>: She's wrapped up pretty tight.</p>
+<p><strong>Grissom</strong>: Protecting her against insects and carrion, maybe.</p>
+<p>(Catherine opens the blanket up and away from Alicia's face.) </p>
+<p><strong>Grissom</strong>: Somebody, uh, wanted her intact. </p>
+<p><strong>Catherine</strong>: Well, her face is covered, that means remorse, guilt ... somebody cared.</p>
+<p>(Catherine notices the mis-aligned buttons on Alicia's blouse.) </p>
+<p><strong>Catherine</strong>: She's been re-dressed.</p>
+<p>(She also checks under Alicia's skirt.) </p>
+<p><strong>Catherine</strong>: Her panties are missing.</p>
+<p><strong>Grissom</strong>: All right. 360-degree grid search. Sometimes rapists like to relive the event. He may have wanted to watch her. So keep the body in view. We're looking for shoe prints, sperm clusters ... anything else you can find.</p>
+<p>(David Phillips walks up to the crime scene.)</p>
+<p>(Cut to and various dissolves of: Catherine and Warrick look around the area.)</p>
+<p>(Warrick finds a shoe print in the dirt. He puts a ruler down and snaps photos of the print.) </p>
+<p>(Grissom takes his glasses off.)</p>
+<p>(David Phillips inserts the meat thermometer to take the body's temperature. After a moment, he checks it.)</p>
+<p><strong>David Phillips</strong>: 90 degrees? Given the timeline, it should be higher. That-that can't be right.</p>
+<p><strong>Grissom</strong>: Well, today's temp, last night's weather ... may have had something to do with it.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY - DAY]</p>
+<p>(David Phillips and Grissom check the body.)</p>
+<p><strong>David Phillips</strong>: No signs of sexual assault.</p>
+<p>(Grissom checks Alicia's hands.) </p>
+<p><strong>Grissom</strong>: No defensive wounds. No wounds of any kind.</p>
+<p><strong>David Phillips</strong>: Were you expecting some?</p>
+<p>(The shutter clicks as Grissom takes a photo.) </p>
+<p><strong>Grissom</strong>: Well, she was wrapped in a bloody blanket. Since there's no trauma, maybe the blood belongs to her killer.</p>
+<p>(David rolls her body over.) </p>
+<p><strong>Grissom</strong>: Roll her.</p>
+<p>(On Alicia's back there are two long parallel bruising marks.)</p>
+<p><strong>Grissom</strong>: (voice softens in surprise) Look at those marks. There was nothing underneath her at the crime scene that, uh, would've made those.</p>
+<p><strong>David Phillips</strong>: Well, maybe she was moved. Trunk of car? Tire iron?</p>
+<p>(Grissom takes another picture.) </p>
+<p><strong>Grissom</strong>: Yeah, but there's, uh, two impressions, and they're too long to be a lug wrench.</p>
+<p>(Grissom raises the camera to take another picture. He looks down at the body through the camera lens. After a long moment, he puts the camera down without taking the photo. He stares at the body of the dead child. Something about it just affects him.)</p>
+<p>(David turns around and stares at Grissom.)</p>
+<p>(Grissom stares at Alicia. He shakes his head.)</p>
+<p>(Camera holds on Alicia.)</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - HALLWAY -- DAY] </p>
+<p>(Grissom sits in the hallway, his forehead resting on the hand holding his glasses. A door opens and closes.) </p>
+<p>(Catherine walks up to him.) </p>
+<p><strong>Catherine</strong>: Have you been to bed?</p>
+<p>(Grissom looks up.) </p>
+<p><strong>Grissom</strong>: Yes.</p>
+<p>(Catherine sits down next to him.) </p>
+<p><strong>Catherine</strong>: Did you sleep?</p>
+<p>(He doesn't answer her.) </p>
+<p><strong>Catherine</strong>: Me neither. She was the same age as Lindsay. She was trying to hitchhike.</p>
+<p><strong>Grissom</strong>: Where was she going?</p>
+<p><strong>Catherine</strong>: Fremont Street.</p>
+<p><strong>Grissom</strong>: Was she buying drugs?</p>
+<p><strong>Catherine</strong>: (appalled) No! She's twelve. (She sighs.) She's ... just so angry. She doesn't talk to me.</p>
+<p><strong>Grissom</strong>: Well, if enough people knew what was out there hunting them, they'd never leave their house. I think you need to sit her down.</p>
+<p><strong>Catherine</strong>: Well, I don't want to scare her. I don't want my daughter to be this ... frightened, paranoid kid who's always looking over her shoulder.</p>
+<p><strong>Grissom</strong>: Catherine, there's a big difference between scaring her and preparing her. And all the reasons why you should are in that room.</p>
+<p>(Catherine thinks about it.) </p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(Dr. Robbins shows Grissom Alicia's x-rays. Grissom points to the white spots on the x-ray.) </p>
+<p><strong>Grissom</strong>: What is all this bone scarring?</p>
+<p><strong>Dr. Robbins</strong>: I thought you should be interested. Twelve holes exactly made by a large bore needle.</p>
+<p><strong>Grissom</strong>: Marrow harvest?</p>
+<p><strong>Robbins</strong>: Young Alicia donated bone marrow at least twice. Pretty selfless thing to do once, considering how painful the procedure is.</p>
+<p><strong>Grissom</strong>: Let me ask you: What most likely causes shortness of breath, obvious bruising, sudden nosebleeds, petechiae?</p>
+<p>(Quick flashback to: [DANIEL PEREZ] As Grissom remembers, Daniel Perez stands in the doorway. Quick pulses of the bruises on his arms and of Daniel lifting the tissue to his bleeding nose.) </p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Robbins</strong>: Sounds like acute leukemia, but without immunophenotyping, I couldn't tell you what kind.</p>
+<p><strong>Grissom</strong>: Alicia's cause of death?</p>
+<p><strong>Robbins</strong>: Cardiopulmonary arrest.</p>
+<p><strong>Grissom</strong>: Time of death?</p>
+<p><strong>Robbins</strong>: That's a little trickier. No solids in the stomach contents, just a milky liquid. Liver mortis was fixed and deep purple with a vitreous humor potassium level of 20 millimoles per liter with faint putrefaction. So, I'd say she's been dead about... 44 hours between midnight and 8:00 A.M., the day of her kidnapping.</p>
+<p><strong>Grissom</strong>: Which means April Perez was lying about the abduction.</p>
+<p><strong>Robbins</strong>: Yep. Story's got more holes than her sister's bones.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Brass interviews April Perez.) </p>
+<p><strong>Brass</strong>: I bought it the hell we all bought it. But your sister was already dead when you raised that alarm. Her body told us that. There was no sexual assault. The evidence told us that, too. So you didn't think this through, sweetheart. So what are we left with? A false police report and a murdered little girl. So it's one to four for the Amber Alert. And for your sister, life imprisonment if it's an accident, and the needle if it's not.</p>
+<p><strong>April Perez</strong>: I didn't kill Alicia.</p>
+<p><strong>Brass</strong>: But you know, I get it. I get the picture. I mean, your brother's the center of attention. He's sick, he's dying. Your cells don't match. Your parents have Alicia. She's his savior. So, where do you fit in? What are you to this family?</p>
+<p><strong>April Perez</strong>: I'm invisible.</p>
+<p><strong>Brass</strong>: But not anymore you're not. She's dead, and your brother's sick. When he goes ...</p>
+<p><strong>April Perez</strong>: That's crazy, okay. I told you, I didn't kill my sister.</p>
+<p><strong>Brass</strong>: I want to believe that. Come on. Help me to believe that. It just means you were in on it because you put on one hell of a show. You still using?</p>
+<p><strong>April Perez</strong>: No.</p>
+<p><strong>Brass</strong>: Maybe we should run your blood just to be sure, huh?</p>
+<p><strong>April Perez</strong>: I use now and then to take the edge off.</p>
+<p><strong>Brass</strong>: So how do you pay for this habit? Are you pimping your sister for drugs, April?</p>
+<p><strong>April Perez</strong>: Why don't you make up your mind? No signs of rape. If I was selling my sister, there would be, wouldn't there?</p>
+<p><strong>Brass</strong>: Depends on who you sold it to. You're not gonna talk your way out of this one. You need to get clean.</p>
+<p><strong>April Perez</strong>: What I need is a lawyer, which means this conversation is over.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Catherine and Grissom are in the lab going over the medical records.) </p>
+<p><strong>Catherine</strong>: Daniel Perez was diagnosed with relapsing acute promyelocytic leukemia or APL when he was ten. It's rare, it's nasty, and it usually hits Hispanics.</p>
+<p>(The whiteboard timeline chart in front of them shows the following:</p>
+<p>DANIEL ALICIA<br />
+1-DIAGNOSED APL (red)<br />
+2-STEM CELLS FROM ALICIA (red) - BORN CORD BLOOD DONOR (blue)</p>
+<p><strong>Catherine</strong>: His sister, Alicia was conceived in vitro to be a genetic match.</p>
+<p><strong>Grissom</strong>: Well, it's not unheard of. Have a baby, get the undeveloped stem cells from cord blood. New parents are even storing it now.</p>
+<p><strong>Catherine</strong>: But when she was four, they took her blood for a transfusion.</p>
+<p>(Quick flashback to: [HOSPITAL] Alicia complains as they insert the needle for the transfusion.)</p>
+<p><strong>Alicia Perez</strong>: (crying) No ... no!</p>
+<p><strong>Sybil Perez</strong>: It's all right, it's okay, sweetheart.</p>
+<p><strong>Alicia Perez</strong>: No... !!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: At seven, they took her blood to remove stem cells.</p>
+<p>(Quick flashback to: [HOSPITAL] Alicia turns and looks at the large machine next to her whirring.)</p>
+<p>(Various flashes of Alicia in the chair.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Well, Daniel must have relapsed because they took bone marrow twice.</p>
+<p>(He indicates the notations on the whiteboard.</p>
+<p>-- Bone Marrow Recipient (red) - Bone Marrow Donor (blue)<br />
+-- Bone Marrow Recipient (red) - Bone Marrow Donor (blue)</p>
+<p>(Quick flashback to: [HOSPITAL] Alicia is having Bone Marrow removed. She's on her stomach on the table. The large bore needle is inserted.)</p>
+<p>(Quick CGI POV: The large bore needle pierces through the flesh down to the bone. Close-up of the bone shows the needle digging into the bone for a sample.)</p>
+<p>(Cut to: The physician takes a large syringe sample.)</p>
+<p>(Quick CGI POV of: Camera shows the liquid in the syringe. Close-up of the reddish colored liquid shows the bone fragments.)</p>
+<p>(End of CGI POV. The physician continues with the sampling.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: It takes one to one-and-a-half liters of marrow for a successful harvest.</p>
+<p><strong>Grissom</strong>: A living DNA factory.</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB -- DAY] </p>
+<p>(Mia puts a sample into the blender container and grinds it up. Greg sits at the table watching her. She smiles at him as he watches her, prompting her along, helping her by holding out the next instrument she's going to be using.) </p>
+<p><strong>Mia Dickerson</strong>: I don't need help.</p>
+<p><strong>Greg</strong>: I know. I'm just trying to make the transition seamless. Forget I'm here. </p>
+<p>(He sits back in his chair as she continues to work.) </p>
+<p><strong>Greg</strong>: So would you like to grab a bite later? I know a diner down the street that serves a mean liver and onions.</p>
+<p><strong>Mia Dickerson</strong>: I don't eat out.</p>
+<p><strong>Greg</strong>: Never ever?</p>
+<p><strong>Mia Dickerson</strong>: I don't like expectorant.</p>
+<p><strong>Greg</strong>: Really?</p>
+<p><strong>Mia Dickerson</strong>: Kitchen staff talk while they prepare your food and then the wait staff repeats your order over the plate, and by the time you get your meal, there are several DNA samples coating it.</p>
+<p><strong>Greg</strong>: Wow.</p>
+<p><strong>Mia Dickerson</strong>: Yeah. No, thank you. </p>
+<p>(She puts the sample in the machine.) </p>
+<p><strong>Mia Dickerson</strong>: I don't eat birthday cake either.</p>
+<p><strong>Greg</strong>: Oh, blowing out the candles.</p>
+<p><strong>Mia Dickerson</strong>: Ugh. Don't get me started.</p>
+<p>(She turns the machine on.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - EVENING]</p>
+<p>[INT. POLICE DEPARTMENT - WAITING ROOM / HALLWAY -- EVENING] </p>
+<p>(Sybil Perez sits in the waiting room. She looks up and sees Catherine walking in the hallway. She gets up and exits the waiting room to catch up with Catherine.) </p>
+<p><strong>Sybil Perez</strong>: Excuse me. </p>
+<p>(Catherine turns around.) </p>
+<p><strong>Sybil Perez</strong>: Um ... what happens to April now?</p>
+<p><strong>Catherine</strong>: She is being charged and processed and the court will probably grant her bill.</p>
+<p><strong>Sybil Perez</strong>: Do you know how much...?</p>
+<p><strong>Catherine</strong>: Why?</p>
+<p><strong>Sybil Perez</strong>: She's my daughter. </p>
+<p><strong>Catherine</strong>: She's refusing to talk about what happened to your youngest child, Mrs. Perez. </p>
+<p><strong>Sybil Perez</strong>: I can't leave her in jail.</p>
+<p><strong>Catherine</strong>: I think it might be the best place for her.</p>
+<p><strong>Sybil Perez</strong>: (sighs) This is my fault. I ... I was never there for her. I ...</p>
+<p><strong>Catherine</strong>: Why don't we step in here, please? </p>
+<p>(They both step back into the waiting room.) </p>
+<p><strong>Sybil Perez</strong>: I spent all my energy getting Daniel to the next ... thing -- the next pill, the next treatment, the next remission, hoping that this time ... </p>
+<p>(They both sit down.) </p>
+<p><strong>Catherine</strong>: And, uh ... where did Alicia fit in, except for what she could give to your son?</p>
+<p><strong>Sybil Perez</strong>: You have no idea what it's like.</p>
+<p><strong>Catherine</strong>: I saw her medical records. I looked at her x-rays. I know what that little girl suffered, what you put her through.</p>
+<p><strong>Sybil Perez</strong>: So you would let your child die and do nothing. Never. No, you'd talk to doctors and research. And then you'd find out that the national bone marrow registry can't help you 'cause your son is mixed race. And even if he wasn't, there aren't enough donors. Out of four million, only 205,000 are Latino. I did what I had to do.</p>
+<p><strong>Catherine</strong>: You put one child over another.</p>
+<p><strong>Sybil Perez</strong>: (scoffs) I don't expect you to understand. You don't have kids.</p>
+<p>(Sybil stands up.) </p>
+<p><strong>Catherine</strong>: Uh, I have a daughter.</p>
+<p><strong>Sybil Perez</strong>: (chuckles wryly) So, what kind of mother are you? When do you see her? You work nights. You probably don't even know where she half the time. Alicia's life may not have been simple, but at least I knew her. Can you say the same?</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB] </p>
+<p>(Mia's working the lab when Grissom appears in the doorway.) </p>
+<p><strong>Grissom</strong>: Where's Greg?</p>
+<p><strong>Mia Dickerson</strong>: Helping, uh ... Sara.</p>
+<p><strong>Grissom</strong>: I need the tox results for Alicia Perez.</p>
+<p><strong>Mia Dickerson</strong>: The report is still pending, but the blood on the mother's t-shirt matches the blood on the blanket. (She hands the results to him.) Belongs to the victim.</p>
+<p><strong>Grissom</strong>: Menstrual?</p>
+<p><strong>Mia Dickerson</strong>: Negative.</p>
+<p><strong>Grissom</strong>: Well, the volume of blood that was found on the blanket suggests injury or some kind of trauma. </p>
+<p><strong>Mia Dickerson</strong>: (nods, considers) Nevertheless ...</p>
+<p>(Grissom looks at her doubtfully.) </p>
+<p><strong>Mia Dickerson</strong>: I was very thorough.</p>
+<p><strong>Grissom</strong>: Run it again, please.</p>
+<p>(He hands the file folder back to her and leaves.) </p>
+<p>CUT TO:<br />
+[INT. CSI - TRACE LAB -- DAY] </p>
+<p>(Sara and Greg stand at opposite ends of the trace table. On it are two boxes filled with bags of evidence.) </p>
+<p><strong>Sara</strong>: Greg, you said you wanted to help out.</p>
+<p><strong>Greg</strong>: Well, yeah, with searching April's apartment, maybe finding the bad guy.</p>
+<p><strong>Sara</strong>: This counts as field work, you know?</p>
+<p><strong>Greg</strong>: Oh, I'm smiling on the inside.</p>
+<p><strong>Sara</strong>: Dirty laundry or garbage. (Greg starts to answer, but Sara makes the choice.) You know what? You take the garbage.</p>
+<p><strong>Greg</strong>: Thanks.</p>
+<p>(They each grab their box. They place it in front of themselves and open the bags inside.) </p>
+<p>(Sara goes through the clothes' pockets. Greg picks through the garbage.) </p>
+<p>(Greg pulls out a scrunched up piece of paper. It's of a map.) </p>
+<p><strong>Greg</strong>: April own a computer?</p>
+<p><strong>Sara</strong>: No. Why?</p>
+<p><strong>Greg</strong>: Well, she MapQuest the directions to the convenience store from the pedophile's address.</p>
+<p>(Greg hands the paper to Sara.) </p>
+<p>CUT TO:<br />
+[INT. CSI - MORGUE -- DAY] </p>
+<p>(The doors to the morgue open. Catherine leads Lindsay into the morgue where the bodies are kept.) </p>
+<p><strong>Lindsay Willows</strong>: I already told you, mom, I heard you. Can we go now?</p>
+<p>(Catherine leads Lindsay to the storage area.)</p>
+<p><strong>Catherine</strong>: No. You need to see for yourself why you can't ever hitchhike or go downtown or be careless with your safety. Are you ready?</p>
+<p><strong>Lindsay Willows</strong>: Just do it. I'm not scared.</p>
+<p>(Catherine opens the container door and pulls out the body of the dead woman. It's not a pretty sight.) </p>
+<p><strong>Catherine</strong>: (softly) She was waiting for a bus downtown when she was attacked. She's was 23. She was taller and stronger than you, Lindsay. She fought back and didn't win. Someone's gonna have to tell her family. Her parents are gonna have to see her like this. Do you get it now?</p>
+<p>(Lindsay looks at Catherine, then runs out of the morgue. Robbins walks into the morgue.)</p>
+<p><strong>Robbins</strong>: Kids don't belong in the coroner's office unless they're in a drawer. You should've found a different way to deal with your daughter's rebellion.</p>
+<p>(He walks up to Catherine as she puts the drawer back.) </p>
+<p><strong>Catherine</strong>: Well, with due respect, Doc, this doesn't concern you.</p>
+<p>(Catherine turns to follow her daughter.) </p>
+<p><strong>Robbins</strong>: Ever notice how childhood keeps getting shorter and shorter? Whose fault is that?</p>
+<p><strong>Catherine</strong>: (whirls around) I honestly don't know!</p>
+<p>(Catherine leaves. Dr. Robbins watches her go.) </p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - A/V LAB -- DAY] </p>
+<p>(Archie goes over the MapQuest computer information with Sara. He's online at MapQuest.) </p>
+<p><strong>Archie Johnson</strong>: We subpoenaed MapQuest -- they store each page on a different server. All queries are saved for 72 hours, then they dump the core.</p>
+<p><strong>Sara</strong>: The suspect doesn't have a computer, but she could've gone to the library or used a service.</p>
+<p><strong>Archie Johnson</strong>: No, physical location doesn't matter. What we do is a reversal process.</p>
+<p>(Archie runs a reverse internet search.)<br />
+&gt; Refining Search Parameters:<br />
+SEARCH DATE: 10-5-07<br />
+TIME: 5PM TO 6 AM]</p>
+<p><strong>Archie Johnson</strong>: Using the internet protocol number, we can get to the server.</p>
+<p><strong>Sara</strong>: Which will ultimately lead to the internet account holder.</p>
+<p><strong>Archie Johnson</strong>: Right. We hunt for child pornographers the same way.</p>
+<p>RESULTS 1 OF 7<br />
+IP ADDRESS: 492864.298476.22876.22<br />
+NAME: GEORGA CLEIN<br />
+ADDRESS: 311 SEPHILL RD., LV, NV<br />
+ACCOUNT#: 47462-286-11937-26</p>
+<p>RESULTS 2 OF 7<br />
+IP ADDRESS: 55736.2271.3383.11940<br />
+NAME: JULIA STEELE<br />
+ADDRESS: 2672 W. 6TH ST., LV, NV<br />
+ACCOUN#: 10197-4993-52-006</p>
+<p>RESULTS 3 OF 7<br />
+IP ADDRESS: 474908.8080-28263.10487<br />
+NAME: NINA ELAM<br />
+ADDRESS: 141 N. MEADOWS LN. LV,--<br />
+ACCOUNT#: 47264-20104-6768-F298</p>
+<p>RESULTS 4 OF 7<br />
+IP ADDRESS: 848736.4469.101048.181<br />
+NAME: LEONARD DEAN<br />
+ADDRESS: 517 BOURBON WAY, LV, NV<br />
+ACCOUNT#: HD039-2846-11039-YU393</p>
+<p><strong>Sara</strong>: Who does the account belong to?</p>
+<p>(The final results appear on screen.) </p>
+<p>RESULTS 5 OF 7 10/06--<br />
+IP ADDRESS: 21057.38610.3884.1816<br />
+NAME: MABEL HINTON<br />
+ADDRESS: 826 HERRICK LN., LV, NV--<br />
+ACCOUNT#: 389AH-3947-S42762-MH3091</p>
+<p>RESULTS 6 OF 7<br />
+IP ADDRESS: 58563.289464.1010.4846<br />
+NAME: PETER CROFT<br />
+ADDRESS: 25135 KOVAL LN., LV, NV<br />
+ACCOUNT#: PC3947-22946-0049827-AD9367</p>
+<p>RESULTS 7 OF 7<br />
+IP ADDRESS: 48763.20947.4829.1-09<br />
+NAME: SYBIL PEREZ<br />
+ADDRESS: 493 PYRAMID WAY<br />
+SUMMERLIN, NV 89129<br />
+ACCOUNT#: SP3947-54059-AK039-1044</p>
+<p><strong>Archie Johnson</strong>: Sybil Perez.</p>
+<p>CUT TO:<br />
+[INT. PEREZ RESIDENCE - FRONT PORCH -- DAY] </p>
+<p>(Brass knocks on the front door. The door opens.) </p>
+<p><strong>Brass</strong>: Mr. and Mrs. Perez...</p>
+<p>(Brass holds up the warrant.)</p>
+<p><strong>Carlos Perez</strong>: What's going on?</p>
+<p><strong>Brass</strong>: I'll tell you on the way to the police station - where's your son?</p>
+<p><strong>Sybil Perez</strong>: He's at church. Why?</p>
+<p><strong>Brass</strong>: Let's go.</p>
+<p>(Sybil and Carlos Perez step out of the house past Warrick, Sara and Grisosm who head inside.) </p>
+<p>VARIOUS CUTS OF:</p>
+<p>[INT. PEREZ RESIDENCE - LIVING ROOM -- DAY] </p>
+<p>(Sara stands in front of the open laptop on the dining room table holding the camera in her hands.) </p>
+<p>(She snaps a photo of the laptop.) </p>
+<p>(Sara opens the cabinet and finds dozens of prescription containers. She snaps a couple of photos of the shelf. She turns and snaps a photo of the whiteboard calendar logging the medication schedule.)</p>
+<p>(She looks at a prescription bottle label.)<br />
+SKADDEN'S PHARMACY<br />
+493 BRIARWAY --<br />
+DANIEL PEREZ<br />
+09/22/01<br />
+PHONE NO: 555-0187<br />
+-- FOR PAIN AS NEEDED<br />
+OXYCODONE<br />
+EXPIRES: 12/04/03<br />
+REFILLS: 3<br />
+USE BY: 12/31/0--</p>
+<p>(She looks at a second bottle's label.)<br />
+SKADDEN'S PHARMACY<br />
+493 BRIARWAY --<br />
+ALICIA PEREZ<br />
+--/19/03 4789--<br />
+PHONE NO: 555-0187 L.P--<br />
+-- TAKE ONE AT BED TIME<br />
+DIAZEPAM<br />
+EXPIRES: --/02/05<br />
+REFILLS: --<br />
+USE BY: 12/31/05</p>
+<p>(Cut to: Warrick looks at the sole of the father's workboots. He sees a shoe print that's familiar.) </p>
+<p>(Quick flash to: [CRIME SCENE] Close-up of the shoe print Warrick found in the sand.)</p>
+<p>(Cut to: Warrick places the ruler down on the ground next to the shoe print.)</p>
+<p>(End of flash. Resume to present.)</p>
+<p>(Warrick reaches down for his kit.)</p>
+<p>[EXT. PEREZ RESIDENCE - FRONT DRIVE - DAY]</p>
+<p>(Nick is out by the Perez' car. He's looking at the back trunk and looks at the various items.)</p>
+<p>[INT. PEREZ RESIDENCE - BED ROOM -- DAY] </p>
+<p>(Warrick walks into the bedroom and looks around. He finds the bloody handkerchief on the night stand. He picks it up and puts his kit down. As he kneels next to the bed, he finds some blue fibers on the bedsheet.) </p>
+<p>(He picks it up and looks at it.) </p>
+<p>(Quick flashes of: [WOODS] Various flashes of Alicia Perez's body and the blanket wrapped around her.) </p>
+<p>(End of flash. Resume to present.) </p>
+<p>(Sara walks into the bedroom.) </p>
+<p><strong>Sara</strong>: Daniel Perez is taking oxycodone for pain, and Alicia was on diazepam.</p>
+<p>(Sara looks a the prescription bottles.) </p>
+<p><strong>Warrick</strong>: Diazepam? That's a pretty hard-core antidepressant for a kid that small.</p>
+<p><strong>Sara</strong>: I guess they didn't want her complaining while they were mining her body for healthy cells.</p>
+<p><strong>Warrick</strong>: You think they didn't care about her?</p>
+<p><strong>Sara</strong>: I don't know.</p>
+<p><strong>Warrick</strong>: Well, it must've been hard, trying to keep their son alive, keep the family together. Couldn't have been easy.</p>
+<p><strong>Sara</strong>: It wasn't for Alicia.</p>
+<p>(Warrick looks at Sara.) </p>
+<p><strong>Sara</strong>: Did you find anything?</p>
+<p><strong>Warrick</strong>: (sighs) Yeah. Blue fibers.</p>
+<p>[EXT. PEREZ RESIDENCE - FRONT DRIVE - DAY]</p>
+<p>(Sara and Warrick step out of the house and see Nick on the Front Drive. Nick has a tripod set up just outside the car.) </p>
+<p><strong>Warrick</strong>: I take it you qualified at the range.</p>
+<p><strong>Nick</strong>: You take it right.</p>
+<p><strong>Warrick</strong>: What'd you shoot?</p>
+<p><strong>Nick</strong>: 260 out of 300. 225's passing, which, I believe, was your high score.</p>
+<p>(Warrick chuckles.) </p>
+<p><strong>Warrick</strong>: Where are you doing?</p>
+<p><strong>Nick</strong>: Well, this is dad's car. You ever see those guys out in the street, with the scope, measuring distances? Always thought they were nuts for standing out in traffic, but ... </p>
+<p>(Nick closes the tripod and shows them the leg rods together.) </p>
+<p><strong>Nick</strong>: Look familiar?</p>
+<p>(Quick flashback to: [FORENSIC AUTOPSY] The long double parallel marks down Alicia's back. End of flashback. Resume to present.) </p>
+<p><strong>Sara</strong>: Looks like the lividity marks on Alicia's body.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY]</p>
+<p>(Brass interviews Carlos Perez.) </p>
+<p><strong>Brass</strong>: I don't get you, man. I mean, even if you could explain it, I would never understand how you could stuff your daughter in the trunk of your car and dump her body in the woods!</p>
+<p><strong>Carlos Perez</strong>: I had to protect my family.</p>
+<p><strong>Brass</strong>: Wasn't Alicia part of your family? You're her father, you dumb b*st*rd! You're supposed to protect her. What kind of man are you?</p>
+<p><strong>Carlos Perez</strong>: Guilty.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM B - DAY]</p>
+<p>(Brass interviews Sybil Perez.) </p>
+<p><strong>Brass</strong>: You know, we got enough evidence to charge you with premeditated murder.</p>
+<p><strong>Sybil Perez</strong>: You don't have any proof I killed my daughter. </p>
+<p><strong>Brass</strong>: You helped your husband move the body. You know, I really don't see him taking her underpants off, so that job was left to you. Then you or your daughter, April, checked the s*x offenders' registry, and you tried to frame an innocent man.</p>
+<p><strong>Sybil Perez</strong>: (scoffs) Innocent? You trying to make me believe you really give a damn about a pedophile? Please.</p>
+<p><strong>Brass</strong>: Forget about that; this is about you. You're the tough one. You run the house. You run the family. People do what you say in a crisis.</p>
+<p><strong>Sybil Perez</strong>: So?</p>
+<p><strong>Brass</strong>: So this time Alicia said no. She wanted to keep her kidney, and that pissed you off. So you killed her.</p>
+<p><strong>Sybil Perez</strong>: That's ridiculous.</p>
+<p><strong>Brass</strong>: She was angry -- she wanted to play on the soccer team, she wanted a life. </p>
+<p><strong>Sybil Perez</strong>: Alicia got angry, sometimes. Just sick of it. We all did. But she'd have been devastated if Daniel had died and she did nothing to prevent it. She loved her brother.</p>
+<p><strong>Brass</strong>: And you're just the type of woman that would never let her forget it. Come on, Alicia wanted out of this game, and you couldn't let that happen. Not to Daniel, not to your only son, your favorite child.</p>
+<p>(Quick flashback to: [INT. PEREZ RESIDENCE - KITCHEN] Sybil takes some Oxycodone and grinds it in a mortar.)</p>
+<p><strong>Brass</strong>: (V.O.) You slipped Alicia some of Daniel's oxycodone.</p>
+<p>(She puts the ground-up pills in a glass and pours some milk in it.) </p>
+<p><strong>Sybil Perez</strong>: Alicia? Time for your pills.</p>
+<p>(She gives Alicia her pills with the milk. Alicia drinks the milk.)</p>
+<p>(End of flash. Resume to present.) </p>
+<p><strong>Brass</strong>: So now you got a problem -- you had a dead body in the house and no plausible explanation. What are you gonna do? So you call your daughter April. You make up a story, you play your roles, and put on a show.</p>
+<p>(Quick flashback to: [NIGHT] April and Carlos carry Alicia wrapped in a blanket out from the house and into the back of Carlos' car.)</p>
+<p><strong>Sybil Perez</strong>: Wait. We have to do this right.</p>
+<p>(Sybil removes Alicia's panties.)</p>
+<p>(End of flash. Resume to present.) </p>
+<p><strong>Brass</strong>: Oh, you know, I-I thought the, uh, the slap was a nice touch.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -- DAY] </p>
+<p>(Warrick finds Grissom in the hallway. He hands him the results.) </p>
+<p><strong>Warrick</strong>: I have a confirmation. Those blue fibers are consistent with the blanket that the girl was wrapped in. And the shoe prints that I found at the scene, they're a match to the father's work boots. </p>
+<p>(Greg walks up to Grissom and Warrick.) </p>
+<p><strong>Greg</strong>: I re-tested the t-shirt and the blanket. The blood still matches Alicia Perez. The evidence supports this ... unless you'd like to second-guess that also.</p>
+<p>(Warrick's eyes widen. He quietly steps away from the two.) </p>
+<p><strong>Grissom</strong>: I just expect things to be done correctly, Greg.</p>
+<p><strong>Greg</strong>: (carefully) We all have to learn how to accept change. Mia's doing a great job. It would be nice if someone other than me said so.</p>
+<p><strong>Grissom</strong>: You're right. What about the handkerchief?</p>
+<p><strong>Greg</strong>: I compared that to the other blood evidence. It's also match to the victim.</p>
+<p>(Grissom realizes what it means.)</p>
+<p>CUT TO:<br />
+[INT. CHURCH -- DAY] </p>
+<p>(Grissom walks down the aisle toward the front of the church where Daniel Perez sits. Grissom sits in the pew behind Daniel.) </p>
+<p><strong>Daniel Perez</strong>: I didn't realize until ... today ... how lucky I am. I know pretty much ... how and when I'm gonna die. Most people don't. It's what they're afraid of.</p>
+<p><strong>Grissom</strong>: Was your sister afraid?</p>
+<p>(Daniel turns to look at Grissom.) </p>
+<p><strong>Daniel Perez</strong>: Never. </p>
+<p>(He looks back at the front of the church.) </p>
+<p><strong>Daniel Perez</strong>: I'm 11 years older than her, and she took care of me. She was my best friend, and I miss her. </p>
+<p>(Quick flashback to: [HOSPITAL] Daniel is on the bed hooked up to the machine. Next to him, Alicia holds his hand.)</p>
+<p>(End of flash. Resume to present.) </p>
+<p><strong>Daniel Perez</strong>: As much pain as ... I caused her ... and she wouldn't give up, and she ... she wouldn't let me, either. That's why ... during the last relapse, I made my parents swear that it was the very last time.</p>
+<p><strong>Grissom</strong>: But then your kidneys failed, and they broke their word, huh?</p>
+<p><strong>Daniel Perez</strong>: They told me they ... swore not to fight the cancer, so this didn't count. I wasn't gonna lose this fight.</p>
+<p>(Quick flashback to: [DANIEL] He pours the ground up Oxycodone into Alicia's milk. He gives the milk to Alicia.)</p>
+<p><strong>Daniel Perez</strong>: (o.s.) Here you go. Makes it better.</p>
+<p>(Alicia drinks it.)</p>
+<p>(Cut to: Alicia drops the empty milk glass.) </p>
+<p><strong>Sybil Perez</strong>: (V.O.) Oh my god! Please...</p>
+<p>(Sybil and Carlos finds Alicia dead.)</p>
+<p><strong>Carlos Perez</strong>: We have to call the police.</p>
+<p><strong>Sybil Perez</strong>: They'll put him in prison.</p>
+<p>(End of flash. Resume to present.) </p>
+<p><strong>Daniel Perez</strong>: I couldn't watch her suffer anymore.</p>
+<p><strong>Grissom</strong>: This wasn't a mercy killing, Daniel. This was an execution. Bone marrow, transfusions ... that's her blood in your veins. </p>
+<p>(Quick flashback to: [HOSPITAL] Daniel's on the bed receiving a transfusion.)</p>
+<p>(End of flash. Resume to present.) </p>
+<p><strong>Grissom</strong>: It dripped out of your nose onto the blanket while you were killing her. If you cared so much for Alicia, why didn't you take your own life instead of hers?</p>
+<p><strong>Daniel Perez</strong>: Suicide isn't an option. It's an unforgivable sin in the eyes of God.</p>
+<p><strong>Grissom</strong>: But you believe your God forgives murder? If that's your defense, it won't keep you out of jail.</p>
+<p>(Daniel turns around to look at Grissom. His cheeks are stained with tears.) </p>
+<p><strong>Daniel Perez</strong>: (crying) But my death will. See, I've got about six more months. I'll be dead before there's even a trial.</p>
+<p>(Daniel stands up.)</p>
+<p><strong>Daniel Perez</strong>: I-I do want to thank you, though.</p>
+<p><strong>Grissom</strong>: For what?</p>
+<p><strong>Daniel Perez</strong>: For speaking for Alicia. You're probably the first person in her life to think only of her. You know, you may not believe in God, sir, but you do his work.</p>
+<p>(Daniel nods and leaves. He walks up to the officer who handcuffs him.)</p>
+<p>(Grissom remains behind in the pew. He looks up at the statue of Jesus on the wall with his arms outstretched.)</p>
+<p>(Camera holds on Grissom.) </p>
+<p>FADE TO BLACK</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-
-
-
-
-Sister Teresa: Could you excuse me?
-
- 
-Sister Teresa: Everything all right, Sybil?
-Sybil Perez: I'm fine. What's taking Alicia so long? We have a doctor's appointment in forty minutes.
-Sister Teresa: She's not here.
-Sybil Perez: Well, she has to be. I saw her leave for school this morning.
-Sister Teresa: Alicia hasn't been in any of her classes.
-
-Sybil Perez:  April, get off the phone. I can't talk right now.
-April Perez:  Somebody took Alicia.
-
-
-
-Sybil Perez: What did you do?!  What the hell did you do?!
- 
-April Perez: Mom, I don't know ...
- 
-Sybil Perez: Where is she?!
-April Perez: I'm not sure.
- 
-Sybil Perez:  Where is she?!
-
-Sybil Perez: Get off of me! SYBIL PEREZ: Go find my daughter! Go find my daughter!
-
-
- 
-April Perez: I really didn't see Alicia all that much. Um, I don't get to. Her life sucks, so sometimes she would just, you know, play hooky and spend the day with me.
-Brass: After girls' day out, you, uh, stopped here for a snack.
- 
-Brass: Is that your father?
-April Perez: Yeah. Um ... I was just went in, and ... you know, to get something while she changed back into her uniform.
-Brass: In the car?
-April Perez: It's not that big of a deal. It's like, you know, the skirt over the jeans, and back to school before mom knows anything.
-Brass: So what did he look like? What kind of car did he drive?
-
-April Perez: Alicia!
- 
-
-April Perez: A black guy, uh ... He had a beard and he had a crappy black Buick. But, um ... I don't know, maybe it was blue.
-
-
-April Perez: I don't really ...
-Brass: No, that's ... that's good. 
-April Perez: Okay.
-Brass: You did good. That's good. Thank you. 
-April Perez: Okay.
- 
- 
-Carlos Perez: The cops won't tell us. What are the chances of finding our daughter?
-Grissom: Well, we're doing everything we can.
-Carlos Perez: That's what everyone keeps saying. No one will tell us anything.
- 
-Grissom: Did you injure yourself, Mrs. Perez?
-
-Sybil Perez: Oh, a nosebleed.
-Grissom: That's a lot of blood. I'm going to need to take your shirt.
-Carlos Perez: Why?
-Grissom: If you like, I can have someone follow you home so that you can change.
-Sybil Perez:  You think we had something to do with it? Our daughter is missing. She's out there somewhere alone and scared. What are you doing about that?!
-Grissom: I'm just collecting evidence.
-Sybil Perez: Fine. Here! 
-
-Sybil Perez: Take it! Go find her!
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
- 
- 
-Brass: This is Captain Jim Brass. I want to issue a Missing Persons Emergency Alert Amber. Notify all radio and casino signatories. The description is as follows ...
-
-
-
-
-News Anchorman: We have breaking news from the channel 8 newsroom right now. An Amber Alert has been issued for missing 13-year-old Alicia Perez.
-
-
-News Anchorman:  The suspect in Alicia's abduction is described as an African American man, 35 to 45 years old, about six feet tall.
-
-(The highway sign on the side of the road flashes:
-AMBER ALERT
-BLACK BUICK
-NEV LIC. -----CA
-
-
-Warrick: How'd you shoot, man?
-Nick: Rusty. They say I have a flinch.
-Warrick: You and I need to go practice some, huh?
-Nick: Yeah, when do we have time to do that?
-
-Nick: If we're not processing a scene or working evidence, we're in court. 
-Warrick: Well, when they take your piece, you'll make time.
-Nick: This girl seemed a little old to be lured by a lost puppy. So how'd this guy pull this off in a lot this public?
-Warrick: Easy. With a map and a smile.
-
-Warrick: Rolls up -- &quot;Hey, little girl, I'm lost. You from around here?&quot;
- She gets close enough he pulls her out of her sister's car, into his car ... Bam, she's done.
-Nick: I bet he had a weapon. Threatened her, so he could drive.
-
-Catherine: Probably used his fists. b*st*rd had to have hit her.
-
-
-
-
- 
-Clerk: Look, dude, I didn't see it.
- 
-Clerk: Chica had a nice, round ass and that's what I was scoping.
-Brass: What time was that?
-Clerk: About three. She comes in, grabs some candy, looks outside, waves at somebody. The next thing I know, she flips her wig. She's screaming about her sister. I didn't see the girl or a car. Besides, there's a lot of traffic out there.
-Brass: Was it busy?
-Clerk: Kind of.
-Brass: How many surveillance cameras do you have in here?
-Clerk: Inside we got five. They're all state-of-the-art. Place gets hit a lot. Outside they're all dummies.
-Brass: Well, I'm glad to see you're so concerned about your customers after they leave the store.
-
-
-Catherine:  Hello.
-
-Catherine:  Who's calling? Yes. Uh, yes. Speaking.
- 
-Grissom: Nick, you failed firearms qualification. You can't be here.
-Nick: Oh, yeah. Well, I'm taking it again day after tomorrow, so I figured I could work.
-Grissom: Not in the field.
-Nick: You're serious?
-Grissom: You're in violation just carrying the weapon.
-Catherine:  She's what? Uh - uhm ... 
- 
-Nick: Copy that. I'll be in the lab.
-Catherine: Uh, Nick, let me catch a lift with you.  There's something going on with Lindsay.
-
-
-
- 
- 
-Catherine: I'm Catherine Willows. What's the trouble?
-Officer: With the Amber Alert, we've been keeping an eye out. Found your daughter up on Boulder Highway trying to hitch a ride downtown.  Now, kids this age, they need a firm hand at home, and ... 
-Catherine:  Thank you, Officer. I appreciate everything you've done. Let's go.
- 
-
-
-Catherine: Okay, what or who is on Fremont Street that you would risk your life to get to? Mouthing off to teachers, slipping grades and now hitchhiking. I mean, what is next, Lindsay?
-Lindsay Willows:  Stripping.
-Catherine: What did you just say?  Okay, no phone, no friends, no nothing.
-Lindsay Willows: For how long?
-Catherine: A month.
-Lindsay Willows:  Whatever.
- 
-Catherine: Hey, you want to make it two?
-Lindsay Willows: Dad always said you were a drama queen.
-Catherine: Well, what do you expect, Lindsay, since he was always high.
-Lindsay Willows: I'd take dad high over you any day! Nana's coming to pick me up. I'll be out front.
- 
-
- 
- 
-Greg: You paged.
-
-Warrick: Yeah.  What's missing?
- 
-Greg: I give up.
-Warrick: Her sister said the victim changed back into her school uniform in the car. 
-Mia Dickerson: So? Where are the clothes she changed out of? 
- 
-Warrick: Hello.
- 
-Greg: Mia Dickerson, Warrick Brown.
-Warrick: Welcome.
-Mia Dickerson: Look, I already know you have a running bet with another CSI over how long the new hire lasts, so let's skip it. You got something for DNA?
- 
-Warrick: The mother's bloody t-shirt.
-Mia Dickerson: Exemplar?
-Warrick: It's on its way.
-Mia Dickerson: Thank you.
-
-Greg:  Just hedging my bets.
-Warrick: How so?
-Greg: Well, I need field experience, but before I get that, I need to find a replacement. So far, I'm oh-for-one. Plus, she's hot and thinks you're a tool, so I'm way ahead.
- 
-
- 
- 
- 
-Carlos Perez: A gardener and a pool man come in once a week.
-Brass: How long have they worked for you?
-Carlos Perez: Years.
-Brass: How about a housekeeper or a maid?
-Sybil Perez: I do it.
-Brass: Let's talk about your daughter's routines. Her routes to and from school, any extra-curricular activities, a list of friends. 
-Sybil Perez: There wasn't any after school stuff. Alicia isn't a joiner. She walks to school, I pick her up. That's it.
-Brass: How often did April get her sister to skip school?
- 
-Carlos Perez: We don't know. We ... we just found out ourselves.
-Brass: I'm curious because April said she hardly ever gets to see Alicia. Why didn't she just come here?
-Sybil Perez: Because she wasn't welcome. We kicked her out. 
-Carlos Perez: April's a troubled girl. Problems with drugs, the police. You might as well know, she also did some time. Juvenile lockup.
-Brass: For what?
-Carlos Perez: Heroin possession. Intent to distribute.
-
- 
- 
-Sara: There's nothing suspicious on the server. Only hits are music downloads. Wait a minute. An organ transplant site. For kidneys, heart, lungs and liver.
-Grissom: What is that? Homework research?
-Sara: Maybe. These are pretty detailed biochem and immunosuppressant citations. It's a little over a seventh grader's head, don't you think?
-Grissom: I don't know. I bet you were a pretty smart seventh grader.
- 
-
-Sara: She has a serious crush on a boy named Jimmy Jones.
- 
-Grissom: Sara. 
- 
-Grissom:  &quot;I hate mom &amp; dad.&quot;
- 
-Daniel Perez: Who doesn't once in a while?
- 
-Daniel Perez: Daniel Perez. And you are ... ?
-Grissom: Gil Grissom, Sara Sidle, Las Vegas Crime Lab.
-Daniel Perez: I guess that's why you're pawing through my sister's private stuff.
-Sara: It's going to help us find her. Do you know a Jimmy Jones?
-Daniel Perez: Yeah, a boy from school. She liked him.
-Grissom: What's your sister like? Personable, friendly, outgoing, trusting, maybe?
-Daniel Perez: She's a giver - from the day she was born.
- 
-Grissom: Uh, Daniel... you're bleeding.
- 
-Daniel Perez: I'm sorry. 
- 
-Daniel Perez: You want to know my sister, you should check her diary under the mattress.
- 
- 
-Sara:  &quot;Last night I didn't sleep very good. I kept thinking about the surgery.&quot; I guess we know why she was doing transplant research.
-
- 
-Sybil Perez: Serious illness takes a toll on a family.  She's used to the doctors. She has friends there -- people who understand -- go through the same hell.
-Brass: You know, if a victim has a serious illness, you really should disclose it right away.
-Carlos Perez: Our daughter isn't sick. Our son's kidneys are failing. Alicia is his matching donor. Without her, he'd die.
-
-
-
-
- 
- 
-Jimmy Jones: Well, Alicia was a great half-back -- strong right leg, aggressive. You don't see that too much in girls.
-Catherine: She played soccer?
-Jimmy Jones: Yeah, for awhile. She quit before she got cut. She missed a lot of practice 'cause she was always going to the doctor, and you can't really play with one kidney anyway, so ...
-Catherine: She told you about her brother?
-Jimmy Jones: Yeah, on the way to school. Hell, I thought that it was cool that she was saving his life, but she seemed pretty pissed.
-Mrs. Jones: Jimmy ... language.
-Jimmy Jones: Sorry. Anyway, uh, she didn't seem too happy. Said she had no life and never would.
-Brass: So, Jimmy, on your way to and from school, did anyone ever bother you or approach you in any way?
-Jimmy Jones: Um ... there was this one guy, with a track suit, he's supposed to be running. He gave me the creeps.
-Brass: What gave you the creeps?
-Jimmy Jones: Well, start with his gear. I mean, nobody runs in velour. And he never had any water and he was always on the phone.
-Brass: What'd he look like?
-Jimmy Jones: Black guy. He was not a runner, but he was in shape. Bald, mustache, beard.
-Catherine: How old would you say he is, Jimmy?
-Jimmy Jones: Qld ... like 30.  ... I just ... never liked the way he looked at Alicia.
-Brass: Thanks. You've been a great help, Jimmy. Thank you. Uh, if it's okay with your mom, I'm going to have you hang around, look at some photos. All right?
-Jimmy Jones: Sure.
-
- 
- 
-Nick: Here's the Perez house, Alicia's walk route to school, and the convenience store where she was taken. All the locations are within a half-mile, plus or minus three-tenths.
- 
-Nick: This is a map of all registered s*x offenders in the state, the county, and the neighborhood.
-
-Warrick: Phew! That's a lot of perverts.
-Nick: Get out of jail, come to Vegas. They're listed in tiers of projected recidivism, zero through three. Three being the most dangerous.
-Grissom: They're the ones most likely to plan an abduction and find the privacy for sexual assault and murder.
-Nick: If I remove the zeroes and ones, since they have a low or moderate risk designation, this is what we're left with.
-(Nick makes more adjustments and all the O's and 1's disappear leaving a slew of
-2's and 3's on the screen.) 
-Warrick: That's still a lot of perverts.
-Nick: Mm, maybe not.
- 
-Nick: Here, I'll isolate the Perez neighborhood.
-(A name card appears on screen for:
-MARLON WAYLORD
-- Tier Two s*x Offender
-Race: African American
-Occupation: Handyman
-Status: Lives Alone
-Hgt: 6 feet Wgt: 205 lbs
-Address: 23278 Koval Ln., Apt #12
-Summerlin, NV 89129
-Nick:  Marlon Waylord, tier two, 38, black, lives alone, sometimes handyman and fits Jimmy Jones' description.
-
-
- 
- 
- 
-Marlon Waylord: Officer.
- 
-Brass: Did you, uh, cut yourself shaving, Mr. Waylord.  Marlon must be shy.
-Marlon Waylord: Marlon didn't do nothing. 
-Brass: And I believe you, too. Come on, step over here, please.
- 
-Marlon Waylord: You all know that s*x offenders under a felony conviction have absolutely no unconditional release and are under lifetime supervision, automatically assigned by the Nevada Criminal State justice system. 
- 
-Marlon Waylord: Mandated, of course, by state and federal Megan's Law in effect
-5/17/96 and therefore I am required to register and update my information ... whenever I move from my current, uh, domicile.
-Brass: Well, that's a big word. Well, you got all your facts right, Marlon. Help us with this one. We know you own a Buick. Where is it?
-Marlon Waylord: Tangiers' parking lot. It wouldn't start.
-Brass: I hate that. I'll have it towed to the lab.
-Marlon Waylord: You do that.
-
- 
-
-
-
-
- 
- 
-Sara: Presence of semen.
-
-
-
-Sara: There's children's underwear in the bedroom.
- 
-Grissom: Photos of children on his phone, including Alicia.
- 
-
- 
- 
-Brass: So here's the deal: When you go up, I won't yell short eyes first. How's that sound?
-Marlon Waylord: Sounds like a really good deal ... You know, if I was, um, guilty.
-Brass: The inmates didn't treat you too gentle the last time. Did they?
- 
-Marlon Waylord: You know they didn't.
-Brass: So tell me what you did with Alicia.
-Marlon Waylord: Who?
- 
-Grissom: She's been all over the news, non-stop. It's that why you shaved?
-
-Brass: Oh, come on. Don't make me smack you.
-
-Grissom: Her friend tells us that you were always looking at her. You went out in the morning and watched them go to school.
- 
-Marlon Waylord: She's sweet, very sweet, but, fellas ... I wasn't looking at her. You all should check my file.
-Brass: No, I did. I know that your recent preference is for little boys, but, uh, your first time was with a female cousin. Let me read what you said. &quot;I couldn't help myself 'cause she was acting so hot. It was her fault; she was really hot.&quot;
- 
-Grissom: How does a six-year-old act hot?
-
-Marlon Waylon: Listen ... I'm, uh... I'm sick. You know, I got this-this this illness, which ... look. I don't want to go back to prison. That's why I'm being so compliant. Now, yo, I don't work near no little kids. I stay a hundred yards from the school grounds. Man, I don't even go to the park.
-Grissom: It's not a disease. It's a compulsion.
-Marlon Waylord: I stay away from youth organizations, after-school programs, churches ... 
-Grissom: We found a pair of boy's underwear in your bedroom. Explain that.
-Marlon Waylord: I look at the photos. I look at the photos and I have the briefs for, um ... release.
-Grissom: So you fantasize, and eventually, the fantasy's not enough and you relapse.
-Marlon Waylord: Hey, they're mine. I bought the underwear!
-Grissom: Well, if that's true, then you were in a store where little children were shopping with their mothers.
-Marlon Waylord: And what would you have me do, huh, man? What?! I mean, I even thought about chemical castration.
-Grissom: Medroxyprogesterone is inconclusive. It renders the subject incapable of erection, but it doesn't remove the drive. You would still be capable of sexual assault using other objects.
-Marlon Waylord: Listen ... um, I haven't done anything, uh, illegal, so you can't hold me in here forever. Oh, is that killing look in your eyes a compulsion, Mr. Grissom?
-
- 
- 
-Warrick: What's up?
-Mia Dickerson: The seminal fluid on the boy's underwear matches your pedophile.
-Warrick: Epithelials?
- 
-Greg: His. And only his.
-Warrick: That confirms his story that the briefs were never worn. Hair?
- 
-Greg: Synthetic. Probably from a wig.
-Warrick: Great. That means we have to let the b*st*rd go. It's only a matter of time before he snatches up another kid.
- 
-Mia Dickerson: You got any friends in uniform?
-Warrick: Yeah, but they can't watch him indefinitely.
-Mia Dickerson: Okay, look. Megan's law has holes. Police aren't required to notify a community about a predator. So flood his block with flyers detailing his crimes. Trust me, the neighbors won't let him out of their sight.
-Warrick: Or they'll kill him.
-
-Warrick: They found Alicia Perez.
-
- 
- 
- 
-Brass: A tour helicopter spotted her around 4:00 P.M.
- 
-Grissom: How many people have walked through the crime scene?
-Brass: Just the responding officers, lug soles, sizes 10 and 11.
-Grissom: We're going to need some time here, Jim.
-Brass:  Yeah, well, there's no rush now.
- 
-Warrick: She's wrapped up pretty tight.
-Grissom: Protecting her against insects and carrion, maybe.
- 
-Grissom: Somebody, uh, wanted her intact. 
-Catherine: Well, her face is covered, that means remorse, guilt ... somebody cared.
- 
-Catherine: She's been re-dressed.
- 
-Catherine: Her panties are missing.
-Grissom: All right. 360-degree grid search. Sometimes rapists like to relive the event. He may have wanted to watch her. So keep the body in view. We're looking for shoe prints, sperm clusters ... anything else you can find.
-
-
- 
-
-
-David Phillips: 90 degrees? Given the timeline, it should be higher. That-that can't be right.
-Grissom: Well, today's temp, last night's weather ... may have had something to do with it.
-
-
-
-David Phillips: No signs of sexual assault.
- 
-Grissom: No defensive wounds. No wounds of any kind.
-David Phillips: Were you expecting some?
- 
-Grissom: Well, she was wrapped in a bloody blanket. Since there's no trauma, maybe the blood belongs to her killer.
- 
-Grissom: Roll her.
-
-Grissom:  Look at those marks. There was nothing underneath her at the crime scene that, uh, would've made those.
-David Phillips: Well, maybe she was moved. Trunk of car? Tire iron?
- 
-Grissom: Yeah, but there's, uh, two impressions, and they're too long to be a lug wrench.
-
-
-
-
-
-
-
-;
-
-
-
- 
- 
- 
-Catherine: Have you been to bed?
- 
-Grissom: Yes.
- 
-Catherine: Did you sleep?
- 
-Catherine: Me neither. She was the same age as Lindsay. She was trying to hitchhike.
-Grissom: Where was she going?
-Catherine: Fremont Street.
-Grissom: Was she buying drugs?
-Catherine:  She's ... just so angry. She doesn't talk to me.
-Grissom: Well, if enough people knew what was out there hunting them, they'd never leave their house. I think you need to sit her down.
-Catherine: Well, I don't want to scare her. I don't want my daughter to be this ... frightened, paranoid kid who's always looking over her shoulder.
-Grissom: Catherine, there's a big difference between scaring her and preparing her. And all the reasons why you should are in that room.
- 
-
- 
- 
-Grissom: What is all this bone scarring?
-Dr. Robbins: I thought you should be interested. Twelve holes exactly made by a large bore needle.
-Grissom: Marrow harvest?
-Robbins: Young Alicia donated bone marrow at least twice. Pretty selfless thing to do once, considering how painful the procedure is.
-Grissom: Let me ask you: What most likely causes shortness of breath, obvious bruising, sudden nosebleeds, petechiae?
- 
-
-Robbins: Sounds like acute leukemia, but without immunophenotyping, I couldn't tell you what kind.
-Grissom: Alicia's cause of death?
-Robbins: Cardiopulmonary arrest.
-Grissom: Time of death?
-Robbins: That's a little trickier. No solids in the stomach contents, just a milky liquid. Liver mortis was fixed and deep purple with a vitreous humor potassium level of 20 millimoles per liter with faint putrefaction. So, I'd say she's been dead about... 44 hours between midnight and 8:00 A.M., the day of her kidnapping.
-Grissom: Which means April Perez was lying about the abduction.
-Robbins: Yep. Story's got more holes than her sister's bones.
-
- 
- 
-Brass: I bought it the hell we all bought it. But your sister was already dead when you raised that alarm. Her body told us that. There was no sexual assault. The evidence told us that, too. So you didn't think this through, sweetheart. So what are we left with? A false police report and a murdered little girl. So it's one to four for the Amber Alert. And for your sister, life imprisonment if it's an accident, and the needle if it's not.
-April Perez: I didn't kill Alicia.
-Brass: But you know, I get it. I get the picture. I mean, your brother's the center of attention. He's sick, he's dying. Your cells don't match. Your parents have Alicia. She's his savior. So, where do you fit in? What are you to this family?
-April Perez: I'm invisible.
-Brass: But not anymore you're not. She's dead, and your brother's sick. When he goes ...
-April Perez: That's crazy, okay. I told you, I didn't kill my sister.
-Brass: I want to believe that. Come on. Help me to believe that. It just means you were in on it because you put on one hell of a show. You still using?
-April Perez: No.
-Brass: Maybe we should run your blood just to be sure, huh?
-April Perez: I use now and then to take the edge off.
-Brass: So how do you pay for this habit? Are you pimping your sister for drugs, April?
-April Perez: Why don't you make up your mind? No signs of rape. If I was selling my sister, there would be, wouldn't there?
-Brass: Depends on who you sold it to. You're not gonna talk your way out of this one. You need to get clean.
-April Perez: What I need is a lawyer, which means this conversation is over.
-
- 
- 
-Catherine: Daniel Perez was diagnosed with relapsing acute promyelocytic leukemia or APL when he was ten. It's rare, it's nasty, and it usually hits Hispanics.
-(The whiteboard timeline chart in front of them shows the following:
-DANIEL ALICIA
-1-DIAGNOSED APL 
-2-STEM CELLS FROM ALICIA 
-Catherine: His sister, Alicia was conceived in vitro to be a genetic match.
-Grissom: Well, it's not unheard of. Have a baby, get the undeveloped stem cells from cord blood. New parents are even storing it now.
-Catherine: But when she was four, they took her blood for a transfusion.
-
-Alicia Perez:  No ... no!
-Sybil Perez: It's all right, it's okay, sweetheart.
-Alicia Perez: No... !!
-
-Catherine: At seven, they took her blood to remove stem cells.
-
-
-
-Grissom: Well, Daniel must have relapsed because they took bone marrow twice.
-(He indicates the notations on the whiteboard.
--- Bone Marrow Recipient 
--- Bone Marrow Recipient 
-
-
-
-
-
-
-Catherine: It takes one to one-and-a-half liters of marrow for a successful harvest.
-Grissom: A living DNA factory.
-
- 
- 
-Mia Dickerson: I don't need help.
-Greg: I know. I'm just trying to make the transition seamless. Forget I'm here. 
- 
-Greg: So would you like to grab a bite later? I know a diner down the street that serves a mean liver and onions.
-Mia Dickerson: I don't eat out.
-Greg: Never ever?
-Mia Dickerson: I don't like expectorant.
-Greg: Really?
-Mia Dickerson: Kitchen staff talk while they prepare your food and then the wait staff repeats your order over the plate, and by the time you get your meal, there are several DNA samples coating it.
-Greg: Wow.
-Mia Dickerson: Yeah. No, thank you. 
- 
-Mia Dickerson: I don't eat birthday cake either.
-Greg: Oh, blowing out the candles.
-Mia Dickerson: Ugh. Don't get me started.
-
-
-
- 
- 
-Sybil Perez: Excuse me. 
- 
-Sybil Perez: Um ... what happens to April now?
-Catherine: She is being charged and processed and the court will probably grant her bill.
-Sybil Perez: Do you know how much...?
-Catherine: Why?
-Sybil Perez: She's my daughter. 
-Catherine: She's refusing to talk about what happened to your youngest child, Mrs. Perez. 
-Sybil Perez: I can't leave her in jail.
-Catherine: I think it might be the best place for her.
-Sybil Perez:  This is my fault. I ... I was never there for her. I ...
-Catherine: Why don't we step in here, please? 
- 
-Sybil Perez: I spent all my energy getting Daniel to the next ... thing -- the next pill, the next treatment, the next remission, hoping that this time ... 
- 
-Catherine: And, uh ... where did Alicia fit in, except for what she could give to your son?
-Sybil Perez: You have no idea what it's like.
-Catherine: I saw her medical records. I looked at her x-rays. I know what that little girl suffered, what you put her through.
-Sybil Perez: So you would let your child die and do nothing. Never. No, you'd talk to doctors and research. And then you'd find out that the national bone marrow registry can't help you 'cause your son is mixed race. And even if he wasn't, there aren't enough donors. Out of four million, only 205,000 are Latino. I did what I had to do.
-Catherine: You put one child over another.
-Sybil Perez:  I don't expect you to understand. You don't have kids.
- 
-Catherine: Uh, I have a daughter.
-Sybil Perez:  So, what kind of mother are you? When do you see her? You work nights. You probably don't even know where she half the time. Alicia's life may not have been simple, but at least I knew her. Can you say the same?
-
- 
- 
-Grissom: Where's Greg?
-Mia Dickerson: Helping, uh ... Sara.
-Grissom: I need the tox results for Alicia Perez.
-Mia Dickerson: The report is still pending, but the blood on the mother's t-shirt matches the blood on the blanket.  Belongs to the victim.
-Grissom: Menstrual?
-Mia Dickerson: Negative.
-Grissom: Well, the volume of blood that was found on the blanket suggests injury or some kind of trauma. 
-Mia Dickerson:  Nevertheless ...
- 
-Mia Dickerson: I was very thorough.
-Grissom: Run it again, please.
- 
-
- 
- 
-Sara: Greg, you said you wanted to help out.
-Greg: Well, yeah, with searching April's apartment, maybe finding the bad guy.
-Sara: This counts as field work, you know?
-Greg: Oh, I'm smiling on the inside.
-Sara: Dirty laundry or garbage.  You know what? You take the garbage.
-Greg: Thanks.
- 
- 
- 
-Greg: April own a computer?
-Sara: No. Why?
-Greg: Well, she MapQuest the directions to the convenience store from the pedophile's address.
- 
-
- 
- 
-Lindsay Willows: I already told you, mom, I heard you. Can we go now?
-
-Catherine: No. You need to see for yourself why you can't ever hitchhike or go downtown or be careless with your safety. Are you ready?
-Lindsay Willows: Just do it. I'm not scared.
- 
-Catherine:  She was waiting for a bus downtown when she was attacked. She's was 23. She was taller and stronger than you, Lindsay. She fought back and didn't win. Someone's gonna have to tell her family. Her parents are gonna have to see her like this. Do you get it now?
-
-Robbins: Kids don't belong in the coroner's office unless they're in a drawer. You should've found a different way to deal with your daughter's rebellion.
- 
-Catherine: Well, with due respect, Doc, this doesn't concern you.
- 
-Robbins: Ever notice how childhood keeps getting shorter and shorter? Whose fault is that?
-Catherine:  I honestly don't know!
- 
-
-
-
-
- 
- 
-Archie Johnson: We subpoenaed MapQuest -- they store each page on a different server. All queries are saved for 72 hours, then they dump the core.
-Sara: The suspect doesn't have a computer, but she could've gone to the library or used a service.
-Archie Johnson: No, physical location doesn't matter. What we do is a reversal process.
-
-&gt; Refining Search Parameters:
-SEARCH DATE: 10-5-07
-TIME: 5PM TO 6 AM]
-Archie Johnson: Using the internet protocol number, we can get to the server.
-Sara: Which will ultimately lead to the internet account holder.
-Archie Johnson: Right. We hunt for child pornographers the same way.
-RESULTS 1 OF 7
-IP ADDRESS: 492864.298476.22876.22
-NAME: GEORGA CLEIN
-ADDRESS: 311 SEPHILL RD., LV, NV
-ACCOUNT#: 47462-286-11937-26
-RESULTS 2 OF 7
-IP ADDRESS: 55736.2271.3383.11940
-NAME: JULIA STEELE
-ADDRESS: 2672 W. 6TH ST., LV, NV
-ACCOUN#: 10197-4993-52-006
-RESULTS 3 OF 7
-IP ADDRESS: 474908.8080-28263.10487
-NAME: NINA ELAM
-ADDRESS: 141 N. MEADOWS LN. LV,--
-ACCOUNT#: 47264-20104-6768-F298
-RESULTS 4 OF 7
-IP ADDRESS: 848736.4469.101048.181
-NAME: LEONARD DEAN
-ADDRESS: 517 BOURBON WAY, LV, NV
-ACCOUNT#: HD039-2846-11039-YU393
-Sara: Who does the account belong to?
- 
-RESULTS 5 OF 7 10/06--
-IP ADDRESS: 21057.38610.3884.1816
-NAME: MABEL HINTON
-ADDRESS: 826 HERRICK LN., LV, NV--
-ACCOUNT#: 389AH-3947-S42762-MH3091
-RESULTS 6 OF 7
-IP ADDRESS: 58563.289464.1010.4846
-NAME: PETER CROFT
-ADDRESS: 25135 KOVAL LN., LV, NV
-ACCOUNT#: PC3947-22946-0049827-AD9367
-RESULTS 7 OF 7
-IP ADDRESS: 48763.20947.4829.1-09
-NAME: SYBIL PEREZ
-ADDRESS: 493 PYRAMID WAY
-SUMMERLIN, NV 89129
-ACCOUNT#: SP3947-54059-AK039-1044
-Archie Johnson: Sybil Perez.
-
- 
- 
-Brass: Mr. and Mrs. Perez...
-
-Carlos Perez: What's going on?
-Brass: I'll tell you on the way to the police station - where's your son?
-Sybil Perez: He's at church. Why?
-Brass: Let's go.
- 
-
- 
- 
- 
-
-
-SKADDEN'S PHARMACY
-493 BRIARWAY --
-DANIEL PEREZ
-09/22/01
-PHONE NO: 555-0187
--- FOR PAIN AS NEEDED
-OXYCODONE
-EXPIRES: 12/04/03
-REFILLS: 3
-USE BY: 12/31/0--
-
-SKADDEN'S PHARMACY
-493 BRIARWAY --
-ALICIA PEREZ
---/19/03 4789--
-PHONE NO: 555-0187 L.P--
--- TAKE ONE AT BED TIME
-DIAZEPAM
-EXPIRES: --/02/05
-REFILLS: --
-USE BY: 12/31/05
- 
-
-
-
-
-
-
- 
- 
- 
- 
- 
- 
-Sara: Daniel Perez is taking oxycodone for pain, and Alicia was on diazepam.
- 
-Warrick: Diazepam? That's a pretty hard-core antidepressant for a kid that small.
-Sara: I guess they didn't want her complaining while they were mining her body for healthy cells.
-Warrick: You think they didn't care about her?
-Sara: I don't know.
-Warrick: Well, it must've been hard, trying to keep their son alive, keep the family together. Couldn't have been easy.
-Sara: It wasn't for Alicia.
- 
-Sara: Did you find anything?
-Warrick:  Yeah. Blue fibers.
-
- 
-Warrick: I take it you qualified at the range.
-Nick: You take it right.
-Warrick: What'd you shoot?
-Nick: 260 out of 300. 225's passing, which, I believe, was your high score.
- 
-Warrick: Where are you doing?
-Nick: Well, this is dad's car. You ever see those guys out in the street, with the scope, measuring distances? Always thought they were nuts for standing out in traffic, but ... 
- 
-Nick: Look familiar?
- 
-Sara: Looks like the lividity marks on Alicia's body.
-
-
- 
-Brass: I don't get you, man. I mean, even if you could explain it, I would never understand how you could stuff your daughter in the trunk of your car and dump her body in the woods!
-Carlos Perez: I had to protect my family.
-Brass: Wasn't Alicia part of your family? You're her father, you dumb b*st*rd! You're supposed to protect her. What kind of man are you?
-Carlos Perez: Guilty.
-
-
- 
-Brass: You know, we got enough evidence to charge you with premeditated murder.
-Sybil Perez: You don't have any proof I killed my daughter. 
-Brass: You helped your husband move the body. You know, I really don't see him taking her underpants off, so that job was left to you. Then you or your daughter, April, checked the s*x offenders' registry, and you tried to frame an innocent man.
-Sybil Perez:  Innocent? You trying to make me believe you really give a damn about a pedophile? Please.
-Brass: Forget about that; this is about you. You're the tough one. You run the house. You run the family. People do what you say in a crisis.
-Sybil Perez: So?
-Brass: So this time Alicia said no. She wanted to keep her kidney, and that pissed you off. So you killed her.
-Sybil Perez: That's ridiculous.
-Brass: She was angry -- she wanted to play on the soccer team, she wanted a life. 
-Sybil Perez: Alicia got angry, sometimes. Just sick of it. We all did. But she'd have been devastated if Daniel had died and she did nothing to prevent it. She loved her brother.
-Brass: And you're just the type of woman that would never let her forget it. Come on, Alicia wanted out of this game, and you couldn't let that happen. Not to Daniel, not to your only son, your favorite child.
-
-Brass:  You slipped Alicia some of Daniel's oxycodone.
- 
-Sybil Perez: Alicia? Time for your pills.
-
- 
-Brass: So now you got a problem -- you had a dead body in the house and no plausible explanation. What are you gonna do? So you call your daughter April. You make up a story, you play your roles, and put on a show.
-
-Sybil Perez: Wait. We have to do this right.
-
- 
-Brass: Oh, you know, I-I thought the, uh, the slap was a nice touch.
-
- 
- 
-Warrick: I have a confirmation. Those blue fibers are consistent with the blanket that the girl was wrapped in. And the shoe prints that I found at the scene, they're a match to the father's work boots. 
- 
-Greg: I re-tested the t-shirt and the blanket. The blood still matches Alicia Perez. The evidence supports this ... unless you'd like to second-guess that also.
- 
-Grissom: I just expect things to be done correctly, Greg.
-Greg:  We all have to learn how to accept change. Mia's doing a great job. It would be nice if someone other than me said so.
-Grissom: You're right. What about the handkerchief?
-Greg: I compared that to the other blood evidence. It's also match to the victim.
-
-
- 
- 
-Daniel Perez: I didn't realize until ... today ... how lucky I am. I know pretty much ... how and when I'm gonna die. Most people don't. It's what they're afraid of.
-Grissom: Was your sister afraid?
- 
-Daniel Perez: Never. 
- 
-Daniel Perez: I'm 11 years older than her, and she took care of me. She was my best friend, and I miss her. 
-
- 
-Daniel Perez: As much pain as ... I caused her ... and she wouldn't give up, and she ... she wouldn't let me, either. That's why ... during the last relapse, I made my parents swear that it was the very last time.
-Grissom: But then your kidneys failed, and they broke their word, huh?
-Daniel Perez: They told me they ... swore not to fight the cancer, so this didn't count. I wasn't gonna lose this fight.
-
-Daniel Perez:  Here you go. Makes it better.
-
- 
-Sybil Perez:  Oh my god! Please...
-
-Carlos Perez: We have to call the police.
-Sybil Perez: They'll put him in prison.
- 
-Daniel Perez: I couldn't watch her suffer anymore.
-Grissom: This wasn't a mercy killing, Daniel. This was an execution. Bone marrow, transfusions ... that's her blood in your veins. 
-
- 
-Grissom: It dripped out of your nose onto the blanket while you were killing her. If you cared so much for Alicia, why didn't you take your own life instead of hers?
-Daniel Perez: Suicide isn't an option. It's an unforgivable sin in the eyes of God.
-Grissom: But you believe your God forgives murder? If that's your defense, it won't keep you out of jail.
- 
-Daniel Perez:  But my death will. See, I've got about six more months. I'll be dead before there's even a trial.
-
-Daniel Perez: I-I do want to thank you, though.
-Grissom: For what?
-Daniel Perez: For speaking for Alicia. You're probably the first person in her life to think only of her. You know, you may not believe in God, sir, but you do his work.
-
-
- 
-FADE TO BLACK
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=05x03+-+Harvest&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127379%23p127379" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=05x03+-+Harvest&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127379%23p127379" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127379%23p127379&amp;name=05x03+-+Harvest" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127379%23p127379" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=56b4d7cf4708d47ff4da61a1400ba233">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=56b4d7cf4708d47ff4da61a1400ba233">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=56b4d7cf4708d47ff4da61a1400ba233">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=56b4d7cf4708d47ff4da61a1400ba233">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

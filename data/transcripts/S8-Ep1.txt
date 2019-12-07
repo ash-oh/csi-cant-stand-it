@@ -1,691 +1,921 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN: 
+[INT. NATALIE'S LAIR – NIGHT]
+(From the hallway, camera ZOOMS IN close to Natalie as she works.) 
+Catherine: (V.O.) Previously on CSI .." />
+<meta property="og:title" content="08x01 - Dead Doll (2) - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN: 
+[INT. NATALIE'S LAIR – NIGHT]
+(From the hallway, camera ZOOMS IN close to Natalie as she works.) 
+Catherine: (V.O.) Previously on CSI .." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13358" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>08x01 - Dead Doll (2) - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13358" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13358">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=0c6d4f19019ab8b60e6a880e67e22662"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=0c6d4f19019ab8b60e6a880e67e22662">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=0c6d4f19019ab8b60e6a880e67e22662">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=0c6d4f19019ab8b60e6a880e67e22662">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=0c6d4f19019ab8b60e6a880e67e22662">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13358&amp;sid=0c6d4f19019ab8b60e6a880e67e22662&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>08x01 - Dead Doll (2)</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127452">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127452">08x01 - Dead Doll (2)</a></div>
+							<div class="pull-right text-right"><time datetime="2007-10-11T16:30:41Z">10/11/07 16:30</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN: </p>
+<p>[INT. NATALIE'S LAIR – NIGHT]</p>
+<p>(From the hallway, camera ZOOMS IN close to Natalie as she works.) </p>
+<p><strong>Catherine</strong>: (V.O.) Previously on CSI ... </p>
+<p>VARIOUS CUTS OF: </p>
+<p>(She snips the head off a doll.) </p>
+<p>(She hits the door of a red toy car with a hammer.) </p>
+<p>(She looks at the dents in the toy car with a critical eye.)</p>
+<p><strong>Grissom</strong>: (V.O.) Her name is Natalie Davis. She works for our janitorial service.</p>
+<p>[INT. CSI – HALLWAY – NIGHT]</p>
+<p>(Natalie Davis pushes her janitor's cart through the hallway. She has a cardboard box on it and looks around to make sure no one's watching her.) </p>
+<p>[INT. CSI – LAYOUT ROOM – NIGHT]</p>
+<p>(Grissom meets with Catherine, Nick, Warrick and Greg.) </p>
+<p><strong>Grissom</strong>: This girl holds me responsible for the death of Ernie Dell. </p>
+<p>(They look at crime scene photos.) </p>
+<p>(At a particular crime scene, Grissom remembers reaching out and touching Sara.) </p>
+<p><strong>Grissom</strong>: I took away the only person she ever loved so she's going to do the same thing to me.</p>
+<p>[INT. PARKING GARAGE – NIGHT]</p>
+<p>ON NATALIE NATALIE DAVIS: Sara? </p>
+<p>[INT. CSI – GRISSOM'S OFFICE]</p>
+<p>(Natalie pushes her cart into Grissom's office. She closes the door.) </p>
+<p>[GRISSOM]</p>
+<p>(Grissom finds the miniature. He picks up the red car and finds a miniature SARA SIDLE under it.)</p>
+<p>[INT. PD – INTERVIEW ROOM]</p>
+<p>(Grissom shakes Natalie.) </p>
+<p><strong>Grissom</strong>: (shouts) Stop this! Tell me where Sara is!</p>
+<p>FADE OUT. END OF PREVIOUSLY ON</p>
+<p>FADE IN: </p>
+<p>[EXT. DESERT – NIGHT]</p>
+<p>(It's dark and raining. The overturned red Mustang is smashed and damaged. We move closer to the car.)</p>
+<p>(Sara's arm is sticking out from under the car. The rainwater pools and flows down toward the car – under it.) </p>
+<p>(Sara's hand isn't moving. The rain continues to fall. Thunder rumbles in the background.)</p>
+<p>(Under the car, Sara's eyes are open, her forehead bloodied.) </p>
+<p>[EXT. LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]</p>
+<p>(It rains in Las Vegas. Thunder rumbles, lightning flashes. It doesn't look like it's going to stop raining soon.) </p>
+<p>[INT. PARKING GARAGE – NIGHT]</p>
+<p><strong>Dispatch</strong>: (over radio) All units, 444 in progress. Still no response from C-<br />
+27. WFA, five foot-nine, 120, brown-green. Last known location: parking structure at Imperial and Las Vegas Boulevard.</p>
+<p>(The area where Sara's car is found is taped off. The back hood of the car is wide open. Officers are at the scene looking around for evidence. Rain pelts down outside the structure, but the inside is wet – the concrete floor is wet and water drips from the ceiling.)</p>
+<p>(Greg and Catherine talk with the parking structure security guard as they look up at the nearby camera.) </p>
+<p><strong>Greg</strong>: There are two cameras on each level. This eye has the best view of Sara's car.</p>
+<p><strong>Catherine</strong>: Great. Now if we could just see what it saw. (to the security guard) Where are the damn tapes?</p>
+<p><strong>Security Guard</strong>: Like I've been telling everyone, this is a strip mall, not a casino. The feeds go off-site. My boss is bringing it right now.</p>
+<p><strong>Catherine</strong>: You recognize this woman?</p>
+<p>(Catherine shows him Natalie Davis's photo.) </p>
+<p><strong>Security Guard</strong>: No. </p>
+<p><strong>Catherine</strong>: What about her?</p>
+<p>(She shows him Sara's photo.) </p>
+<p><strong>Security Guard</strong>: Yeah, she ... uh ... she eats at the veggie place downstairs a couple times a week.</p>
+<p><strong>Catherine</strong>: When was she here tonight?</p>
+<p><strong>Security Guard</strong>: I don't know, like 7:30, maybe. That's when she usually comes. </p>
+<p><strong>Greg</strong>: That gives us a time frame. I'll take care of the tapes.</p>
+<p>(Greg leaves with the security guard.) </p>
+<p>(Catherine takes out her flashlight and looks around the area. It's been raining for a while now, the water runs down the concrete.) </p>
+<p>CUT TO:<br />
+[INT. NATALIE'S APARTMENT – NIGHT] </p>
+<p>(CLOSE UP of various porcelain dolls.) </p>
+<p>(Warrick stands in the center of Natalie's workstation as he looks around.) </p>
+<p>(Nick walks in and looks around the room.) </p>
+<p>(In the workstation, Warrick notes the various electrical equipment all within arm's reach, bottles of supplies and parts. The main concentration of light is set up above the workstation.) </p>
+<p>(Warrick picks up a sketchpad and flips through the pages of random sketches.) </p>
+<p><strong>Warrick</strong>: A lot of desert landscape drawings.</p>
+<p><strong>Nick</strong>: The whole city's a desert. Could be anywhere. </p>
+<p>(Nick picks up another sketchpad and looks through it. It's filled with various sketches of Grissom and Sara at a crime scene.) </p>
+<p><strong>Nick</strong>: Warrick, take a look at this.</p>
+<p>(He shows the sketch of Grissom and Sara to Warrick.) </p>
+<p><strong>Nick</strong>: In those photos of Natalie observing Grissom and Sara at the crime scene, I never remember a sketchpad or a camera in her hand or anything like that.</p>
+<p><strong>Warrick</strong>: You saying she drew this from memory?</p>
+<p><strong>Nick</strong>: Well, maybe she's eidetic. You know, a human camera. The eyes snap a photo, scan it to the brain.</p>
+<p><strong>Warrick</strong>: Great. Sara's location is probably locked away inside of her head.</p>
+<p>INTERCUT WITH: </p>
+<p>[INT. PD – INTERVIEW ROOM – NIGHT]</p>
+<p>(EXTREME BLUR and SLOWLY REFOCUS into NATALIE. She appears catatonic and stares out in front of her, barely moving. She whispers random, inaudible words. Her mind is gone.) </p>
+<p><strong>Cue Sound</strong>: (PRE-LAP) CELL PHONE RINGS</p>
+<p>[INT. NATALIE'S APARTMENT – NIGHT] </p>
+<p>(Warrick answers his phone.) </p>
+<p><strong>Warrick</strong>: (to phone) Brown. (pause) Great. I'll take it. Keep it there.</p>
+<p>(He hangs up and looks at Nick.) </p>
+<p><strong>Warrick</strong>: They found Natalie's car on Fremont Street.</p>
+<p>(Warrick heads out.) </p>
+<p><strong>Nick</strong>: All right, go ahead. I'm not leaving here till I find something.</p>
+<p>(Nick looks around.) </p>
+<p>CUT TO:<br />
+[INT. PD – HALLWAY OUTSIDE INTERVIEW ROOM – NIGHT]</p>
+<p>(An officer escorts Natalie out of the room. They turn the corner and head out of frame.) </p>
+<p>(In the foreground, RE-FOCUS on Grissom, who is watching them. He turns to listen to Brass.) </p>
+<p><strong>Brass</strong>: I just got off the horn with Search and Rescue. We have three choppers in the air with night vision and IR. Now, the weather's getting cooler, so a warm body will be easier to find.</p>
+<p><strong>Grissom</strong>: If Sara's under the car, the metal will conceal her.</p>
+<p><strong>Brass</strong>: (hopeful) Maybe she got out.</p>
+<p>(Grissom doesn't say anything. He looks beyond Brass at the television monitor.) </p>
+<p><strong>Reporter</strong>: (on TV) They've just issued a severe weather alert for north Las Vegas, so let's go right to Gina for the latest on these thunderstorms.</p>
+<p>(Grissom steps closer to the monitor to hear the report.) </p>
+<p><strong>Gina</strong>: Three thunderstorms are converging and heading right for us. So, up to three inches of rain. They're expected to hit in the next eight hours. Flash-flood warnings have been issued for the city and surrounding desert areas.</p>
+<p>(We hold on Grissom. This is not good.) </p>
+<p>CUT TO:<br />
+CLOSE ON: A FLASK OF WATER</p>
+<p>(Grissom makes his way through the hallway on his way to the layout room.) </p>
+<p>[INT. CSI – LAYOUT ROOM – NIGHT]</p>
+<p>(He stops in front of the desert scene, then pours the water near the toy Mustang. The water floods under the car, the Sara doll face-down in the pool of water.) </p>
+<p>[EXT. DESERT – NIGHT]</p>
+<p>(The rainwater flows down the sand.) </p>
+<p>(Sara is under the car, conscious and breathing hard. She keeps her head lifted above the water as much as she can, but can't move very far as her arm is caught under the overturned car.) </p>
+<p>(We linger on Sara's hand, clutching the sand under the layer of rainwater.) </p>
+<p>[CU: DIORAMA]</p>
+<p>(The miniature Sara's hand opens and closes under the layer of water.) </p>
+<p>(Then, it stops.) </p>
+<p>(We hold on Grissom.) </p>
+<p>SMASH CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. DESERT – NIGHT]</p>
+<p>(Thunder rumbles. It continues to rain heavily on the overturned Mustang. Sara's arm moves back and forth as she struggles to free herself.) </p>
+<p>(She tugs and pulls, trying to get her arm out from under the car.) </p>
+<p>[INT. CSI – GARAGE – NIGHT]</p>
+<p>(Grissom scrapes the front of Natalie's car. He finds a seed sample and puts it in a container.) </p>
+<p>(Warrick is hooking up the car's GPS computer.) </p>
+<p>[INT. NATALIE'S APARTMENT – NIGHT]</p>
+<p>(Nick sits at Natalie's desk and is looking through her laptop. He's checking off the RECENT ROUTES off a website.<br />
+RED ROCK CANYON (19 MILES)<br />
+SUNRISE MOUNTAIN (24 MILES)<br />
+LAKE MEAD (26 MILES)<br />
+LAS VEGAS DUNES (28 MILES)<br />
+SPRING MOUNTAIN (29 MILES)<br />
+LEE CANYON (31 MILES)<br />
+CATHEDRAL ROCK (33 MILES)<br />
+RAINBOW MOUNTAIN (57 MILES)<br />
+LOWELL CANYON (54 MILES)</p>
+<p>(He's checking the distances from Natalie's apartment to the various sites.) </p>
+<p>(He picks up his cell phone and dials.) </p>
+<p>INTERCUT WITH: </p>
+<p>[INT. CSI – GARAGE – NIGHT]</p>
+<p>(Both Grissom and Warrick are going over Natalie's car. Grissom's phone rings.) </p>
+<p><strong>Grissom</strong>: (to phone) What do you know, Nick?</p>
+<p><strong>Nick</strong>: Compassroute.com. Natalie's been spending a lot of time in the desert. About a dozen different spots, all off the beaten path. No roads, just general locations.</p>
+<p><strong>Grissom</strong>: (to phone) Hang on.</p>
+<p>(Grissom turns to Warrick.) </p>
+<p><strong>Grissom</strong>: Warrick, how far was the last trip?</p>
+<p><strong>Warrick</strong>: Give me a second, I'm getting it right now. </p>
+<p>(He turns the SOLUS PRO SCANNER on. It beeps and calibrates the distance:<br />
+34.2.) </p>
+<p><strong>Warrick</strong>: Thirty-four miles, one way.</p>
+<p><strong>Grissom</strong>: (to phone) Nick, get all those locations to Brass. Tell him to focus his search on any destination within 34 miles.</p>
+<p><strong>Nick</strong>: (from phone) Done.</p>
+<p>(Grissom closes his phone.) </p>
+<p>INSERT: FLASHBACK (Scene from 2X05: Scuba Doobie-Doo)</p>
+<p>(Sara reaches out and wipes his cheek. He looks at her.) </p>
+<p>END FLASHBACK.</p>
+<p>(Hold on Grissom.) </p>
+<p>CUT TO:<br />
+[INT. PD – INTERVIEW ROOM – NIGHT]</p>
+<p>(Dr. Krachler checks Natalie's head. He runs his fingertips around the top of Natalie's head and down her cheeks to stop under her chin. Natalie doesn't move.) </p>
+<p>(Hodges walks in.)</p>
+<p>(Sofia fills him in.) </p>
+<p><strong>Sofia</strong>: She has wounds on her scalp. Swab for DNA and trace. No scumbag defense attorney is going to make their reputation setting her free.</p>
+<p>(Hodges puts his kit down and gets his supplies ready.)</p>
+<p><strong>Dr. Kachler</strong>: A blow to the head can cause many things -- memory toss ... delirium ... dementia.</p>
+<p>(Dr. Kachler leans forward and looks at Natalie's eyes.) </p>
+<p><strong>Dr. Kachler</strong>: But not psychosis.</p>
+<p>(Hodges turns around and reaches out to check Natalie's head wound for evidence.) </p>
+<p><strong>Natalie</strong>: (whispers) They wouldn't understand.</p>
+<p>(Hodges stops, spooked.) </p>
+<p><strong>Hodges</strong>: She said something.</p>
+<p><strong>Dr. Kachler</strong>: She's not talking to you ... or anyone else here.</p>
+<p>(Hodges goes ahead and takes a swab of the wound.) </p>
+<p><strong>Dr. Kachler</strong>: This patient is exhibiting all the signs of a psychotic break: delusions, hallucinations, disorganized thought.</p>
+<p><strong>Sofia</strong>: How long is she going to be like this?</p>
+<p><strong>Dr. Kachler</strong>: Days. Months. Any longer, we're looking at schizophrenia.</p>
+<p>(Hodges picks up Natalie's hand to scrape under her nails.) </p>
+<p>(Natalie whispers something. Hodges stops and looks at her.) </p>
+<p><strong>Natalie</strong>: (whispers) I promise. </p>
+<p>(Natalie looks at Hodges.) </p>
+<p><strong>Natalie</strong>: (whispers) Your special girl.</p>
+<p>(Hodges is spooked. He goes back to getting the evidence.) </p>
+<p><strong>Sound</strong>: (PRE-LAP) THUNDER</p>
+<p>CUT TO:<br />
+[INT. PARKING GARAGE – NIGHT]</p>
+<p>(Thunder rumbles. It continues to rain as Catherine looks around Sara's car. The trunk is wide open. Still behind the car, Catherine crouches and looks under the back bumper. She finds a something stuck in the tire grooves.) </p>
+<p>(She reaches down and pulls it out.) </p>
+<p><strong>Officer Mitchell</strong>: Did you find something?</p>
+<p><strong>Catherine</strong>: Taser barb. It doesn't tell us where, just how.</p>
+<p>(She looks at the sharp needle-like point of the taser barb.) </p>
+<p><strong>Sound</strong>: (PRE-LAP) CELL PHONE RINGING</p>
+<p>[INT. PARKING GARAGE ELEVATOR – NIGHT – FLASHBACK] </p>
+<p>(Sara answers her phone.) </p>
+<p><strong>Sara</strong>: (to phone) Hello, Gilbert.</p>
+<p><strong>Grissom</strong>: (from phone) Hey, we got an ID on the miniature killer. Her name is Natalie Davis. </p>
+<p>(The elevator stops, the bell dings and the doors open. Sara picks up her kit and heads out.) </p>
+<p><strong>Sara</strong>: (to phone) One of Ernie Dell's fosters?</p>
+<p>(Sara heads for her car.) </p>
+<p><strong>Grissom</strong>: (from phone) Yeah. Catherine and I just spoke to the biological father. He says he put Natalie up for adoption after she shoved her kid sister out of a tree house.</p>
+<p><strong>Sara</strong>: (to phone) Does he know where she is now?</p>
+<p><strong>Grissom</strong>: (from phone) No, but with a name, it's just a matter of time.</p>
+<p><strong>Sara</strong>: (to phone) All right, I'll be right there. I'll meet you at the lab.</p>
+<p>(Sara closes her phone as she reaches her car.)</p>
+<p>(The car alarm beeps off and she opens the trunk to put her kit down inside.) </p>
+<p>(Behind her, Natalie stands up.) </p>
+<p><strong>Natalie</strong>: Sara?</p>
+<p>(Sara turns. Natalie raises the taser gun and fires. The barb hits Sara in the chest and we hear the electrical crackling sounds. Sara gasps and falls to the ground. Her body shakes and she grunts.)</p>
+<p>(Natalie walks over to her.) </p>
+<p>WHITE FLASH TO: </p>
+<p>[INT. CSI – A/V LAB – NIGHT]</p>
+<p>[CU: MONITOR]</p>
+<p>(Natalie drags Sara's unconscious body along the garage floor.) </p>
+<p>(Grissom watches the security footage. The computer beeps.)</p>
+<p>(On the monitor, Natalie drives away.) </p>
+<p>(The computer beeps. Another security view appears for LEVEL 2, CAMERA 26. Natalie's car appears on screen and passes by. The date on the cameras is for<br />
+05/18/07.) </p>
+<p>(PULL BACK on the monitor to show various cameras on screen. Natalie's car is picked up by another security camera as it leaves the parking garage.) </p>
+<p>(Both Grissom and Greg are reviewing the security footage. They note the direction the car takes. Greg enhances the sign: IMPERIAL BOULEVARD.) </p>
+<p><strong>Greg</strong>: She went west on Imperial.</p>
+<p>(Grissom takes his phone out. Greg enhances the car license plate: 623 EYO.) </p>
+<p><strong>Grissom</strong>: (to phone) Jim. Restrict your search to targets in the western desert.</p>
+<p>(Both Grissom and Greg leave the room. We linger on the car license plate still on the monitor.) </p>
+<p>SOUNDS: (PRE-LAP) RAIN</p>
+<p>CUT TO:<br />
+[EXT. CAR (MOVING) – NIGHT -- FLASHBACK]</p>
+<p>CU: CAR TAIL LIGHT</p>
+<p>[INT. CAR (MOVING) – NIGHT]</p>
+<p>(Sara's eyes open. Her face is cast in the reddish hue from the car rear lights. She wakes up and gets her bearings. Her wrists are bound behind her back with plastic ties. She struggles against her bindings for a moment.) </p>
+<p>(She looks out in front of her and sees the trunk latch. Just below it are the picture instructions for popping the trunk from the inside.) </p>
+<p>(Sara looks around inside the trunk.) </p>
+<p>[EXT. CAR (MOVING) – NIGHT]</p>
+<p>(Natalie is driving with single-minded determinedness. She stares at the road in front of her, barely blinking as she drives.) </p>
+<p>[INT. CAR (MOVING) – TRUNK]</p>
+<p>(The taser barb is stuck in Sara's vest. She grabs it with her teeth and pulls it out of her vest. She spits it behind her, near her hands. She picks it up with her bound hands.) </p>
+<p>[INT. FRONT]</p>
+<p>(Natalie continues to drive.) </p>
+<p>[INT. CAR (MOVING) – TRUNK]</p>
+<p>(Sara uses the needle-sharp point to pop open the plastic tie. Her hands are free.) </p>
+<p>[INT. FRONT]</p>
+<p>(Natalie drives.) </p>
+<p>(The light on her dashboard panel – the one indicating the trunk is open – glows red.) </p>
+<p>[CU: SARA]</p>
+<p>(Sara opens the trunk and looks outside. She sees that Natalie is driving rather fast on the road. There's nothing but blackness behind them.) </p>
+<p>[INT. FRONT]</p>
+<p>(Natalie drives. She doesn't notice the open trunk light on the dashboard.) </p>
+<p>[CU: SARA]</p>
+<p>(Sara has to decide what to do. They pass the lights of a Nativity display. The lights grow dimmer as they move farther away from it.) </p>
+<p>[INT. FRONT]</p>
+<p>(Natalie continues to drive. She still doesn't notice the light on her dashboard.) </p>
+<p>[CU: SARA]</p>
+<p>(Sara closes the trunk.) </p>
+<p>[CU: DASHBOARD]</p>
+<p>(The light on the dashboard turns off.) </p>
+<p>[EXT. CAR – NIGHT]</p>
+<p>(The car turns into a dirt road.) </p>
+<p>[CU: SARA]</p>
+<p>(In the trunk, Sara has to decide what to do. She looks at the car speakers. She reaches up and unscrews the speaker. She removes the speaker and sees a tear in the material.) </p>
+<p>[INT. FRONT]</p>
+<p>(Natalie continues to drive.) </p>
+<p>[INT. CAR (MOVING) – TRUNK]</p>
+<p>(Sara looks out through the tear in the plastic . She sees Natalie driving.) </p>
+<p>(Sara reaches out through the tear in the plastic and grabs a hold of the switch to lower the back seat. She pushes the back seat down and gets out of the trunk.) </p>
+<p>(Natalie turns and notices the movement behind her. Sara jumps Natalie, grabbing her from behind.) </p>
+<p>(The car turns wildly in the dirt parking area as the two women struggle.) </p>
+<p>(Natalie pushes Sara's hold off her. Sara hits the back seat window.) </p>
+<p>(The car swerves.) </p>
+<p>(Natalie regains control of the car.) </p>
+<p>(Inside, Sara grabs Natalie's hair. Again, Natalie pushes Sara off her.) </p>
+<p>(The car makes a wide turn on the dirt road, smashing into a pile of dirt and stray rocks.)</p>
+<p>(Sara smashes Natalie's head through the driver's side window, shattering the glass.) </p>
+<p>(The car turns. Sara opens the back door and jumps out. She rolls and falls awkwardly on her arm.) </p>
+<p>(Natalie stops the car and brings the car around.) </p>
+<p>(Sara's vision is blurry and her face bloodied. She turns and sees Natalie's car pulled up in front of her.) </p>
+<p>(Natalie kneels down in front of Sara and looks at her with the same unblinking gaze.) </p>
+<p>ABRUPT CUT TO: </p>
+<p>[EXT. DESERT – NIGHT – PRESENT]</p>
+<p>(Sara is under the car, the water rising from the rain. She grunts as she struggles to free her arm trapped under the car.) </p>
+<p>(She pulls and pulls and pulls.) </p>
+<p>(She moves her foot. She looks around the car, then yanks.)</p>
+<p>SNAP!</p>
+<p>(Her bone snaps. Sara screams from the pain. Her arm is still caught.) </p>
+<p>(Sara cries.) </p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. CSI -- LOUNGE] </p>
+<p>(The news report continues.) </p>
+<p><strong>Gail (weather girl)</strong>: Rain over our dry desert has really caused a lot of problems; one of the biggest storms we've seen over the past few years.</p>
+<p>(Various images are displayed on screen.) </p>
+<p><strong>Gail (weather girl)</strong>: Mudslides are already a big problem for the valley and most areas will be evacuated, especially low-lying areas, so stay tuned.</p>
+<p>(A small group of techs gather to watch the report.) </p>
+<p>(Out in the hallway, Hodges hurries. He's flipping through a book, looking for something.) </p>
+<p>(He finds it, turns and hurries back to his lab.) </p>
+<p>[INT. CSI – TRACE LAB – CONTINUING]</p>
+<p>(Hodges has a specimen slide on the table. He puts the book down and picks up the slide. He puts the slide in the scope.) </p>
+<p>(We look past Hodges. In the garage, Warrick works on Natalie's car.) </p>
+<p>[INT. CSI – GARAGE – CONTINUING]</p>
+<p>(Warrick climbs into the back seat and peers over the seats into the front. He sees the shattered driver's glass and finds some blood on it.) </p>
+<p>(He thinks about it, then continues looking at the back seat. He sees the hole in the plastic covering the speakers. He pulls open the back seat to look inside the trunk.)</p>
+<p>(He finds the speaker removed. He sticks his arm into the trunk and pops it out through the hole in the plastic.) </p>
+<p>[SCOPE VIEW: POLLEN]</p>
+<p>(Hodges looks at the pollen under the scope and finds it in the book. He also notes the area where the pollen is found.) </p>
+<p>(He picks up the book and looks at the map he has spread out on the table. He marks the area with an orange 4 and colors in the area.) </p>
+<p>(He looks at the map and notes the various different colors and numbers – 1 in red, 2 in green, 3 in blue – all in a certain area. The orange area is removed from the others.) </p>
+<p>(He puts the pen down and walks away as he thinks.)</p>
+<p>(Lightning flashes.) </p>
+<p>(As the CAMERA REFOCUSES onto the CRIME SOLVE SCOREBOARD, the reflection off the outside windows shows rain running down the glass. In short, it's raining hard outside.) </p>
+<p>(Hodges has put a slide under the scope and looks at it.) </p>
+<p>[INT. CSI – GARAGE – CONTINUING]</p>
+<p>(Warrick finds the plastic tie in the trunk. He takes it out and looks at it.) </p>
+<p><strong>Warrick</strong>: Grissom.</p>
+<p>(Grissom walks over.) </p>
+<p><strong>Warrick</strong>: A zip-tie ... unlocked. I think Sara got out of this trunk. The speaker's completely ripped out from the inside. She could have reached through and released the backseat. And there's blood on the glass. There could have been a struggle.</p>
+<p><strong>Grissom</strong>: Yeah, but none of that's going to tell us where she is. We need a store receipt or a parking stub, something with a location on it.</p>
+<p><strong>Warrick</strong>: If she got out of this car, she might not even be in the desert. We might be completely off base here.</p>
+<p><strong>Grissom</strong>: No. Natalie completed the miniature. I saw it in her eyes. Sara is under that car.</p>
+<p>(Hodges walks in.) </p>
+<p><strong>Hodges</strong>: Pollen spores off the bumper and Natalie's head both overlap in Red Rock Canyon.</p>
+<p>(Grissom heads over to Hodges.) </p>
+<p><strong>Grissom</strong>: Did you notify S &amp; R?</p>
+<p><strong>Hodges</strong>: Yeah, they're already on it.</p>
+<p>(Warrick looks at the plastic tie.) </p>
+<p>CUT TO:<br />
+[INT. CAR – NIGHT -- FLASHBACK] </p>
+<p>(Sara is back in the car in the back seat. Her wrists are tied again and she's unconscious as the car engine idles.) </p>
+<p>(Natalie has a water bottle and pours some water in Sara's mouth, forcing her to drink. Sara coughs as she regains consciousness.) </p>
+<p>(Natalie drops the water bottle and gets back into the front seat.) </p>
+<p>(The car is moving again.) </p>
+<p>(Sara looks at Natalie.) </p>
+<p><strong>Sara</strong>: Natalie.</p>
+<p>(Natalie looks back through the rear-view mirrors.) </p>
+<p><strong>Sara</strong>: Natalie Davis. I know who you are. I know a lot about you. You make miniatures. I've seen you before, right? You work in the lab on the cleaning crew.</p>
+<p>(Natalie doesn't answer her.) </p>
+<p><strong>Sara</strong>: So sorry about hitting you back there. I guess, uh ... I have a fear of trunks. In my business, you only find one thing in them. </p>
+<p>(Natalie still doesn't respond.)</p>
+<p><strong>Sara</strong>: We actually have a lot in common, you know? I was a foster kid, too.</p>
+<p>(That catches Natalie's attention. In the rear-view mirror, her eyes shift back to look at Sara.) </p>
+<p><strong>Sara</strong>: Happy, happy, joy, joy. I do know what it's like to be alone ... afraid that nobody's ever going to be there for you.</p>
+<p><strong>Natalie</strong>: (whispers) Ernie was.</p>
+<p><strong>Sara</strong>: (slurs) Yes, he was. That's true, Natalie. I lost my father, too. I know that Ernie loved you. He would not have wanted you to do this.</p>
+<p><strong>Natalie</strong>: (whispers) Ernie loved me more than Grissom could ever love you.</p>
+<p><strong>Sara</strong>: Grissom?</p>
+<p>(Sara is nodding off.) </p>
+<p><strong>Sara</strong>: (slurs) Oh, I know what this is about. Natalie. What did you put in the water, Natalie?</p>
+<p>SARA'S POV</p>
+<p>(Her vision is hazy. Natalie turns and looks back at her.) </p>
+<p><strong>Sara</strong>: Huh?</p>
+<p>(Sara loses consciousness.) </p>
+<p>(Natalie turns her attention back to driving.) </p>
+<p>CUT TO:<br />
+[EXT. DESERT – NIGHT -- FLASHBACK] </p>
+<p>(A BLURRY IMAGE. FOCUS on Sara as she wakes up. She lifts her head.)</p>
+<p><strong>Sara</strong>: Natalie?</p>
+<p>(We hear the creaking sound of heavy metal being moved. Sara looks around.) </p>
+<p><strong>Sara</strong>: Natalie, what are you doing?</p>
+<p>(Our vision of Sara is obscured as the red Mustang is lowered on her. Sara is groggy.) </p>
+<p><strong>Sara</strong>: Natalie ... what are you doing?</p>
+<p>(Sara's arm is out in front of her. The car is being lowered onto her arm.) </p>
+<p>(Natalie stands on the side and watches.) </p>
+<p><strong>Sara</strong>: No, no, no! </p>
+<p>(She grunts and screams as the car is lowered onto her arm.) </p>
+<p>(Natalie smiles.) </p>
+<p><strong>Sara</strong>: Don't do this.</p>
+<p>(Natalie turns and heads back to her car.) </p>
+<p><strong>Sara</strong>: Natalie?</p>
+<p>(She ignores Sara and continues walking.) </p>
+<p><strong>Sara</strong>: Natalie.</p>
+<p>(Off screen, a car door shuts.) </p>
+<p><strong>Sara</strong>: (shouts) Natalie!</p>
+<p>(Natalie drives away, leaving Sara under the car in the desert.) </p>
+<p>(The wind blows. Sara is conscious and looks around. Her arm is pinned under the car.) </p>
+<p>(Lightning flashes.) </p>
+<p>(It's dark. Thunder rumbles in the distance. Sara lifts her head and looks around. She can see outside a little through the broken window glass.) </p>
+<p>(A coyote howls in the distance.) </p>
+<p>(She looks up and sees a coyote approaching. This isn't good. The coyote growls low in its throat. Sara is quiet as she listens. The coyote sniffs around, stops, then growls.) </p>
+<p>(The coyote sniffs and comes very close to her arm pinned under the car. The coyote paws at the dirt near her arm and growls.) </p>
+<p>(Thunder rumbles.)</p>
+<p>(The coyote turns and leaves.) </p>
+<p>(Sara gasps and tries to look outside.)</p>
+<p>(It starts to rain. Heavily.) </p>
+<p>FLASH TO:<br />
+[EXT. DESERT – NIGHT – PRESENT]</p>
+<p>(Sara is still under the car, and the water has risen considerably. She keeps her head stretched up as high as she can, trying to keep it above the water.) </p>
+<p>(The rainwater continues to flow down toward the car, and there appears to be no sign of it letting up soon.) </p>
+<p>(Sara tugs at her arm and takes deep heaving breaths of air. She grunts from the pain and just tries to stay alive.)</p>
+<p>CUT TO:<br />
+[INT. NATALIE'S APARTMENT – DAY]</p>
+<p>(Nick is walking through the apartment, looking for anything to help find Sara. He reaches the bedroom and looks around. The windows are covered with sheets of paper to keep the light out.)</p>
+<p>(Nick looks around. He turns and kicks the bed in frustration.) </p>
+<p>(He sits down on the bed and tries to get a hold of himself.) </p>
+<p><strong>Sara</strong>: (V.O.) You think she's alive. </p>
+<p>INSERT: FLASHBACK (Scene from 6X05: Gum Drops)</p>
+<p>(Sara talks with Nick.) </p>
+<p><strong>Sara</strong>: You're acting like you're going to rescue a person, not recover a body, and on this job that's just not usually the case.</p>
+<p>(Nick looks up at her and shrugs simply.) </p>
+<p><strong>Nick</strong>: I was rescued.</p>
+<p><strong>Sara</strong>: It was not your day to die. When it's your day, it's your day, you know?</p>
+<p>END FLASHBACK.</p>
+<p>(Nick looks around the small bedroom. Taped to the walls are pieces of paper with various sketches.) </p>
+<p>(Nick gets up and walks over to the wall for a better look. The sketches are all of SARA. With tears in his eyes, he grimaces, biting down hard on the surge of emotions.) </p>
+<p>(He stops and looks away for a moment. Something catches his eyes: a phone number written down on the bottom of one of the sketches.) </p>
+<p>DESERT DIAMOND<br />
+AUTO YARD<br />
+(702) 555-0739</p>
+<p>(Nick shines his flashlight on the name and number. It seems familiar.)</p>
+<p>(He goes to the file and checks something.) </p>
+<p>(On one of the info sheets, he finds it. The TOTALED 2007 FORD MUSTANG was SALVAGED TO DEALER in APRIL. The dealer was:<br />
+DESERT DIAMOND AUTO YARD<br />
+8824 SANDY CREEK ROAD</p>
+<p>CUT TO:<br />
+[INT. CAR (MOVING) – DAY]</p>
+<p>(Brass is driving as he arrives at the DESERT DIAMOND AUTO YARD. He drives all the way in and stops the car.) </p>
+<p>[EXT. DESERT DIAMOND AUTO YARD – DAY]</p>
+<p>(He gets out of the car and shows his badge to ZAPATA CHILDS.) </p>
+<p><strong>Brass</strong>: Hey, buddy. I'm in a hurry. </p>
+<p>(Brass shows him Natalie's photo.) </p>
+<p><strong>Brass</strong>: This girl bought a red Mustang off our impound lot.</p>
+<p><strong>Zapatra Childs</strong>: Yeah, couple of, couple of weeks ago, right, for, for art.</p>
+<p><strong>Brass</strong>: Who the hell is Art?</p>
+<p><strong>Zapatra Childs</strong>: No, she's an artist. She thinks all this stuff is art.</p>
+<p><strong>Brass</strong>: Yeah, where'd you take it?</p>
+<p><strong>Zapatra Childs</strong>: (shrugs) I don't know. It was dark, I followed the taillights.</p>
+<p><strong>Brass</strong>: Wait a minute, you towed a 3,500-pound car, you can't remember where you took it?</p>
+<p><strong>Zapatra Childs</strong>: Well, w-what's going on?</p>
+<p><strong>Brass</strong>: Look, you towed a car for a serial killer. That makes you an accomplice. (earnestly) You helped abduct one of my people. Now, you either tell me where you took it or you're going to end up in the hospital and after that you're going to end up in jail.</p>
+<p>(Zapata Childs thinks.) </p>
+<p><strong>Brass</strong>: What is it? Come on, focus.</p>
+<p><strong>Zapatra Childs</strong>: Um ... Ice Box Canyon.</p>
+<p><strong>Brass</strong>: All right, h-hey, look, look. </p>
+<p>(Brass closes the hood of the car next to them. He takes out a map.) </p>
+<p><strong>Brass</strong>: Look, this is a map. Show me on the map.</p>
+<p>(Brass puts the map down on the hood of the car.) </p>
+<p>CUT TO:<br />
+[EXT. DESERT (ICE BOX CANYON) – DAY]</p>
+<p>(A line of officer cars weave through the barely visible dirt road. Sirens blare.)</p>
+<p>(A helicopter flies low just above the line of cars.) </p>
+<p>(Greg is up in the helicopter. He looks around the area. He uses the binoculars and sees something.) </p>
+<p><strong>Greg</strong>: (to pilot) To the left. Down there.</p>
+<p>(The overturned red Mustang comes into view.) </p>
+<p><strong>Greg</strong>: That's it! That's the car.</p>
+<p><strong>Pilot</strong>: (to radio) Control, Air Three. We are 20 miles west of the 159, near Ice Box Canyon. Red-colored vehicle spotted.</p>
+<p>(Greg looks at the car. It appears to be partially covered by dirt and dried mud.) </p>
+<p><strong>Pilot</strong>: (to radio) Fits the description.</p>
+<p>(The line of cars head for the Mustang. The CSIs' SUV is in the lead. Grissom parks the car. He and Nick run out to check the Mustang.) </p>
+<p>(They reach the car and find that it's partially buried under the dirt.) </p>
+<p><strong>Grissom</strong>: Sara! </p>
+<p>(Grissom and Nick start to dig, pushing away the dirt with their bare hands.) </p>
+<p><strong>Grissom</strong>: Sara!</p>
+<p>(They dig and they dig.) </p>
+<p>(Suddenly, Nick stops. He pulls out Sara's black CSI vest. Grissom stops and looks. They check the name on the vest: SIDLE.) </p>
+<p>(Grissom and Nick look at each other.) </p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. DESERT (ICE BOX CANYON) -- DAY] </p>
+<p>(Officer cars are parked around the area. Everyone is scouring the grounds for evidence and clues. Nick digs around the area as the Mustang is towed up onto a truck.) </p>
+<p>(Catherine runs toward them.) </p>
+<p><strong>Catherine</strong>: Nick!</p>
+<p><strong>Nick</strong>: She's not here.</p>
+<p>(Nick continues to dig.) </p>
+<p><strong>Catherine</strong>: Okay, that's good news.</p>
+<p>(Sofia shouts to them.) </p>
+<p><strong>Sofia</strong>: Guys! Park rangers said there's some roads on the other side of this basin. We're going to go scout them.</p>
+<p>(Sofia turns and starts running.) </p>
+<p><strong>Nick</strong>: (o.s.) All right, I'm going with her.</p>
+<p>(Grissom looks out in front of him.) </p>
+<p><strong>Grissom</strong>: Catherine! I got shoe prints.</p>
+<p>(Grissom is looking at a trail leading away from the site. The prints go out. There's nothing but more desert out there.) </p>
+<p>(He steps away from the site a little. Catherine runs and catches up with him. Grissom uses the binoculars and looks out at the desert, hoping to catch sight of her.) </p>
+<p><strong>Catherine</strong>: If there are shoe prints, that means she got out from under the car.</p>
+<p>(As Grissom looks out at the desert, Catherine gives instructions to the officers.) </p>
+<p><strong>Catherine</strong>: Everybody listen up. We're searching on foot.</p>
+<p>(Grissom heads out.) </p>
+<p>(The red Mustang is up on the back of the tow truck.) </p>
+<p>FLASH TO:<br />
+[EXT. DESERT – NIGHT – FLASHBACK] </p>
+<p>(Sara is trying to keep her head above the rapidly rising water. Outside, the rain shows no sign of abating. She takes a deep breath and goes under the water. She looks around, sees something and pushes the sand away.)</p>
+<p>(She goes up for more air. She takes a couple of deep gasping breaths, looking at the inside over the overturned car.) </p>
+<p>(She reaches down, feeling for the rear view mirror. She continues to take several more deep breaths as the water level continues to rise. She breaks off the rear view mirror and takes a deep breath.)</p>
+<p>(She dives under the water again and uses the mirror to hit at the rocks under the car.) </p>
+<p>(The rocks don't move.)</p>
+<p>(Sara goes up for more air. She tugs at her arm pinned under the car. The rocks under her arm shift and move. Sara tries again. She takes a deep breath and dives under the water. She hits the rock with the broken mirror.)</p>
+<p>(She lifts her head for more air.)</p>
+<p>(The car shifts and creaks as it moves.)</p>
+<p>(Sara pulls on her arm and it finally comes free.)</p>
+<p>(She smiles with success. She leaves her vest, then swims out from under the car. She grunts as she stands up.)</p>
+<p>(She looks at the car, then slowly starts walking away. The rear view mirror is clutched in her good hand.) </p>
+<p>(We pull back on the OVERTURNED CAR. It continues to rain down hard on the car as lightning flashes and thunder rumbles.) </p>
+<p>CUT TO:<br />
+[EXT. DESERT – DAY]</p>
+<p>(There is no sound. The sun is large and white hot in the distance as it rises up in an arc from the mountains.) </p>
+<p>(A lone helicopter flies over the rocky hills.)</p>
+<p>(The pilot looks out the window searching for life. All he sees are rocks, sand and desert vegetation.) </p>
+<p>(Down below, we move rapidly along the ground. There's no sign of Sara.) </p>
+<p>(Greg sits in the helicopter looking around the area through a pair of binoculars.) </p>
+<p>(There is no sign of Sara.) </p>
+<p>DISSOLVE TO: </p>
+<p>[EXT. DESERT – NOWHERE -- DAY]</p>
+<p>(The wind blows a thin veil of dust across the desert. Sara is walking. Her left arm is in a make-shift sling and she clutches the rear view mirror in her right hand. She has her shirt wrapped around the top of her head as she continues to move forward.) </p>
+<p>(Looking down at her feet, Sara concentrates on putting one foot in front of the other – to keep moving.) </p>
+<p>(She cradles her broken arm in her right hand.) </p>
+<p>(She stops when she sees something on the ground, partially hidden under some brush.) </p>
+<p>(She slowly kneels down and picks up the item. It's a map. Most noticeable of it is the large YOU ARE HERE near the Spring Mountain Ranch.) </p>
+<p>(Sara looks around. To her right is a hill with large rocks. It's higher ground and perhaps she might be able to get her bearings.) </p>
+<p>(She gets to her feet and looks around the area. She's exhausted, but she forces herself to continue.) </p>
+<p>(She walks up the incline as she heads for higher ground.)</p>
+<p>VARIOUS DISSOLVES</p>
+<p>(Finally, Sara reaches the rock at the top of the hill. She stands on it and looks around her. She sees nothing but desert – as far as the eyes can see in all directions around her.) </p>
+<p>(This really isn't looking good.) </p>
+<p>CUT TO:<br />
+[INT. CAR (MOVING) – DAY]</p>
+<p>(Sofia is driving as Nick looks out along the desert. Sofia continues to drive.) </p>
+<p>[EXT. DESERT – NOWHERE -- DAY]</p>
+<p>(Sara slowly makes her way down the hill. She drags her feet due to her exhaustion. She trips and falls down the rest of the hill.)</p>
+<p>(She stops, then gets up again.) </p>
+<p>(She keeps moving.) </p>
+<p>(Behind her, her shoe prints leave a distinctive pattern on the dirt – but all too soon the prints vanish from the desert winds.) </p>
+<p>DISSOLVE TO: </p>
+<p>[EXT. DESERT – DAY]</p>
+<p>(Grissom and Catherine are following their shoe-print trail. Grissom stops and looks around. Catherine shakes her head as she looks around as well.) </p>
+<p><strong>Catherine</strong>: I'm not seeing any more footprints, are you?</p>
+<p><strong>Grissom</strong>: No.</p>
+<p><strong>Catherine</strong>: I think we just lost the trail.</p>
+<p>(Other officers are behind them, but Grissom and Catherine are the ones following the trail. Stopping where the last prints are, Grissom looks out in the general direction for any sign of Sara.)</p>
+<p>(He finds three rocks stacked one on top the other in the middle of the sand.) </p>
+<p><strong>Grissom</strong>: Cath, look.</p>
+<p><strong>Catherine</strong>: What?</p>
+<p>(She takes the binoculars and he points to the rocks. She sees the stack of rocks. She and Grissom run over for a better look.) </p>
+<p>(Catherine and Grissom stop at the short stack of rocks. She likes it.) </p>
+<p><strong>Catherine</strong>: This is better than a footprint.</p>
+<p>(Grissom looks around the area for more signs Sara may have left.) </p>
+<p>DISSOLVE TO: </p>
+<p>[EXT. DESERT – NOWHERE – DAY]</p>
+<p>(Sara is dragging her feet in the dirt. She's tired and can barely walk. She reaches down and puts a third rock on two rocks at her feet.)</p>
+<p>(She continues walking.) </p>
+<p>FAR SHOT: The wind blows a thin layer of dust and dirt, obscuring Sara from our view.</p>
+<p>CUT TO:<br />
+[EXT. DESERT – DAY]</p>
+<p>(Grissom runs over to another three-rock stack on the ground. Catherine is there with him.) </p>
+<p><strong>Catherine</strong>: Yeah.</p>
+<p>(She looks at the stack.) </p>
+<p><strong>Catherine</strong>: Good girl.</p>
+<p>(Catherine straightens as she and Grissom look around for more signs.) </p>
+<p>(Grissom uses the binoculars and looks out in front of him.) </p>
+<p><strong>Catherine</strong>: You see another one?</p>
+<p>(He finds a black shoe and a hand sticking out of the dirt. That's definitely a body.) </p>
+<p><strong>Grissom</strong>: Oh, no.</p>
+<p><strong>Catherine</strong>: What?</p>
+<p>(Grissom starts running toward the body. Catherine runs alongside him.) </p>
+<p>(They reach the body that is buried under the dried-up mud from the rainy night.) </p>
+<p>(Grissom falls to his knees and starts to dig with his bare hands. Catherine moves aside the piece of wood. She and Grissom uncover a body face down in the dirt.) </p>
+<p>(They push aside the dirt enough to turn the body over.) </p>
+<p><strong>Catherine</strong>: Oh ...</p>
+<p>(Grissom and Catherine brush the dirt off the dead man's face with their fingers.) </p>
+<p><strong>Catherine</strong>: It's not her.</p>
+<p>(We hold on Grissom.) </p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. DESERT -- DAY] </p>
+<p>(The police are at the scene as they look at the body. Grissom and Catherine are on the side. Grissom is on the phone with Brass as she looks at the dead man's wallet.) </p>
+<p><strong>Brass</strong>: (from phone) His name is Matthew Hoffman. Ranger said he checked in at a trailhead three days ago. No one's seen him since.</p>
+<p><strong>Grissom</strong>: (to phone) Okay, thanks.</p>
+<p>(Grissom hangs up and looks at Catherine.) </p>
+<p><strong>Grissom</strong>: Park Service issued him a camping permit. He was supposed to hike out this morning.</p>
+<p><strong>Catherine</strong>: Must have got caught in the flash flood. Couldn't make it to higher ground.</p>
+<p>(Grissom looks out at the desert and sighs, his thoughts on Sara.)</p>
+<p><strong>Grissom</strong>: Where is she, Catherine? It's 110 degrees. She's been out here all day, without water. She's disoriented, she's ... dehydrated.</p>
+<p><strong>Catherine</strong>: She's a survivor.</p>
+<p>(He looks at her and holds on to that.) </p>
+<p>CUT TO:<br />
+[EXT. DESERT – NOWHERE – DAY]</p>
+<p>(The sunlight is blinding, filling the screen with white. Through the blaze we hear whispering.) </p>
+<p><strong>Sara</strong>: (weakly) Just keep going. Don't stop. </p>
+<p>(Sara appears on screen. She's on her feet and still moving.)</p>
+<p><strong>Sara</strong>: (weakly) Don't stop. </p>
+<p>(Sara continues walking and mutters to herself to keep going.) </p>
+<p><strong>Sara</strong>: (weakly) Three times four is ... Okay, three times four is 12.</p>
+<p><strong>Sara</strong>: (weakly) Four times five is 20. Four times six... is 24.</p>
+<p><strong>Sara</strong>: (weakly) Four times four is ... What is it? Sixteen. Sixteen. Four times five ...</p>
+<p>(Sara laughs softly to herself.) </p>
+<p><strong>Sara</strong>: (weakly) Four times five ...</p>
+<p>(She falls to her knees and drops the mirror.) </p>
+<p><strong>Sara</strong>: (weakly) Four times ... four times five is 20.</p>
+<p>(She picks up her mirror and pushes herself back up to her feet.) </p>
+<p><strong>Sara</strong>: (weakly) Come on. Four times five is 20.</p>
+<p>(She can barely put her feet in front of each other.) </p>
+<p><strong>Sara</strong>: (weakly) Four times six ... is 24.</p>
+<p>(Sara takes a couple of staggering steps, then falls to the ground hard with a thud.) </p>
+<p>(She pushes herself up.) </p>
+<p><strong>Sara</strong>: (weakly) Get up.</p>
+<p>(She tries to stand up.) </p>
+<p><strong>Sara</strong>: (weakly) Get up. Don't sleep. Don't sleep.</p>
+<p>(Sara gets to her feet and continues walking. But she's on her last legs.) </p>
+<p><strong>Sara</strong>: (weakly) Don't sleep ... don't sleep. Stay awake. Stay awake. I ... just don't sleep.</p>
+<p>(She reaches some bushes. She looks up at the sky. She keeps moving.) </p>
+<p>(Out in front of her, she sees nothing but desert. The image blurs. She can barely stand on her feet. Everything is blurry and moving.) </p>
+<p>(Sara drops the mirror. She falls to her knees and sits down in the sparse shade cast by the low brush.) </p>
+<p>(She lies down, her head on her outstretched arm.) </p>
+<p>BLUR TO: </p>
+<p>[EXT. DESERT – DAY]</p>
+<p>(A car passes by.) </p>
+<p>[INT. CAR (MOVING) – DAY]</p>
+<p>(Sofia drives as radio chatter sounds in the car. Nick looks out the window, keeping his eyes peeled for any sign of Sara.) </p>
+<p>(In the distance, he sees a bright flash of light.) </p>
+<p><strong>Nick</strong>: Wait, slow down, slow down, slow down.</p>
+<p>(Nick looks through the binoculars and sees the quick flash of light again.) </p>
+<p><strong>Sofia</strong>: What is it?</p>
+<p><strong>Nick</strong>: Go that way.</p>
+<p>(Sofia turns the car off the road.) </p>
+<p><strong>Nick</strong>: Go.</p>
+<p>(She drives in the general direction.) </p>
+<p>(Suddenly, she stops the car. Nick runs out toward -- </p>
+<p><strong>Nick</strong>: (shouts) Sara!</p>
+<p>(He falls to his knees and checks for a pulse.) </p>
+<p><strong>Nick</strong>: Sara, it's Nick. Can you hear me?</p>
+<p>(Nick looks at Sofia.) </p>
+<p><strong>Nick</strong>: I can't get a pulse.</p>
+<p><strong>Sofia</strong>: (to radio) We found Sara. North on the 159 at Turtlehead Peak. We need a medevac out here right now.</p>
+<p>(Nick pours the water from his water bottle on her.) </p>
+<p><strong>Nick</strong>: Don't worry, we're going to get you out of here, okay?</p>
+<p>(Nick and Sofia pour their water on Sara.) </p>
+<p>(The SEARCH AND RESCUE medevac helicopter arrives at the scene.) </p>
+<p>(They continue to pour their water on her.) </p>
+<p><strong>Nick</strong>: They're coming for you now.</p>
+<p><strong>Sofia</strong>: You're going to be okay, Sara.</p>
+<p>(The medic carries his bag and supplies toward them.) </p>
+<p><strong>Nick</strong>: Over here!</p>
+<p>(A second SUV pulls up at the scene.) </p>
+<p>(The medic reaches them.) </p>
+<p><strong>Medic</strong>: What have you got?</p>
+<p><strong>Sofia</strong>: Female, 35, unconscious.</p>
+<p><strong>Nick</strong>: She's been in the sun all day, about fifteen hours. She's not answering me at all.</p>
+<p>(Grissom and Catherine run out of the SUV.) </p>
+<p><strong>Medic</strong>: What's her name?</p>
+<p><strong>Sofia</strong>: Sara. </p>
+<p><strong>Medic</strong>: Sara?! Sara, can you hear me?!</p>
+<p><strong>Medic 2</strong>: Oxygen ... about 15 liters.</p>
+<p>(Catherine and Grissom arrive.) </p>
+<p><strong>Catherine</strong>: (to Nick) How is she? </p>
+<p><strong>Medic</strong>: She's not responding. (something)</p>
+<p>(They put an oxygen mask on her.) </p>
+<p><strong>Medic 2</strong>: (Open a gauze.) </p>
+<p><strong>Medic</strong>: Give me a large-bore IV prep now.</p>
+<p>(Grissom pushes his cap up and rubs his tired eyes.) </p>
+<p><strong>Medic 2</strong>: Copy that.</p>
+<p>(The medics work on Sara</p>
+<p><strong>Medic</strong>: (muffled) IV's in. We've got to move. MEDIC: Still no radial pulse</p>
+<p>(Nick holds the IV bag up.) </p>
+<p>(The medics have Sara on the transport.) </p>
+<p><strong>Medic</strong>: Let's go get on loaded up. Watch the arm.</p>
+<p><strong>Medic 2</strong>: On my count. One, two, three.</p>
+<p>(The medics pick up the transport and carry her over to the helicopter. Nick holds the IV bag and follows them with Sofia. Grissom and Catherine follow.) </p>
+<p><strong>Medic 2</strong>: Let's go ...</p>
+<p>(They reach the helicopter.) </p>
+<p><strong>Medic</strong>: You're secured? Get that IV pump.</p>
+<p>(One medic climbs into the helicopter. They load Sara in next as the second medic climbs in after her with the IV bag.) </p>
+<p><strong>Catherine</strong>: (shouts) Where are you taking her?!</p>
+<p><strong>Medic 2</strong>: Desert Palm!</p>
+<p><strong>Grissom</strong>: Move over! I'm going with her!</p>
+<p>(Grissom climbs into the helicopter.) </p>
+<p>(They close the helicopter doors.) </p>
+<p>(The helicopter lifts off.) </p>
+<p>[EXT. DESERT – DAY]</p>
+<p>(DOWN VIEW of the desert below, the shadow of the helicopter moves across the screen.) </p>
+<p><strong>Pilot</strong>: (to radio) Desert Palm, inbound. Six minute ETA. </p>
+<p>[INT. HELICOPTER (IN FLIGHT) – DAY]</p>
+<p>(Grissom sits at Sara's feet and out of the way as the medics continue to work on her.) </p>
+<p><strong>Pilot</strong>: (to radio) Thirty-five-year-old female, obvious heat exposure, obvious fracture of left radius ulna.</p>
+<p>(The pilot's voice continues over the radio.) </p>
+<p>(Grissom watches Sara. She still hasn't opened her eyes.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT – INTERVIEW ROOM – DAY]</p>
+<p>(Natalie Davis sits unmoving in her catatonic state. Her mouth moves as she mumbles indistinct words to herself.) </p>
+<p>[INT. HELICOPTER (IN FLIGHT) – DAY]</p>
+<p>(The medics continue to work on Sara. Grissom reaches over and holds Sara's hand. He watches her.) </p>
+<p>(Sara's eyes open a little.) </p>
+<p>SARA'S POV</p>
+<p>(Right in front of her she sees a black vest with white letters: GRISSOM.) </p>
+<p>(She blinks.) </p>
+<p>(Grissom watches her and smiles.) </p>
+<p>(He squeezes her hand.) </p>
+<p>(The medics continue to tend to Sara, putting a cooling pack on her head.) </p>
+<p>(Grissom watches her, his eyes bright and wide. Sara is going to be just fine.)</p>
+<p>(We hold on Grissom and we -- </p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
- 
-Catherine:  Previously on CSI ... 
-
- 
- 
-
-Grissom:  Her name is Natalie Davis. She works for our janitorial service.
-
- 
-
- 
-Grissom: This girl holds me responsible for the death of Ernie Dell. 
- 
- 
-Grissom: I took away the only person she ever loved so she's going to do the same thing to me.
-
-ON NATALIE NATALIE DAVIS: Sara? 
-
- 
-
-
-
- 
-Grissom:  Stop this! Tell me where Sara is!
-
-
-
-
- 
-
- 
-
- 
-
-Dispatch:  All units, 444 in progress. Still no response from C-
-27. WFA, five foot-nine, 120, brown-green. Last known location: parking structure at Imperial and Las Vegas Boulevard.
-
- 
-Greg: There are two cameras on each level. This eye has the best view of Sara's car.
-Catherine: Great. Now if we could just see what it saw.  Where are the damn tapes?
-Security Guard: Like I've been telling everyone, this is a strip mall, not a casino. The feeds go off-site. My boss is bringing it right now.
-Catherine: You recognize this woman?
- 
-Security Guard: No. 
-Catherine: What about her?
- 
-Security Guard: Yeah, she ... uh ... she eats at the veggie place downstairs a couple times a week.
-Catherine: When was she here tonight?
-Security Guard: I don't know, like 7:30, maybe. That's when she usually comes. 
-Greg: That gives us a time frame. I'll take care of the tapes.
- 
- 
-
- 
- 
- 
- 
- 
- 
-Warrick: A lot of desert landscape drawings.
-Nick: The whole city's a desert. Could be anywhere. 
- 
-Nick: Warrick, take a look at this.
- 
-Nick: In those photos of Natalie observing Grissom and Sara at the crime scene, I never remember a sketchpad or a camera in her hand or anything like that.
-Warrick: You saying she drew this from memory?
-Nick: Well, maybe she's eidetic. You know, a human camera. The eyes snap a photo, scan it to the brain.
-Warrick: Great. Sara's location is probably locked away inside of her head.
-
-
- 
-Cue Sound:  CELL PHONE RINGS
- 
- 
-Warrick:  Great. I'll take it. Keep it there.
- 
-Warrick: They found Natalie's car on Fremont Street.
- 
-Nick: All right, go ahead. I'm not leaving here till I find something.
- 
-
-
- 
- 
-Brass: I just got off the horn with Search and Rescue. We have three choppers in the air with night vision and IR. Now, the weather's getting cooler, so a warm body will be easier to find.
-Grissom: If Sara's under the car, the metal will conceal her.
-Brass:  Maybe she got out.
- 
-Reporter:  They've just issued a severe weather alert for north Las Vegas, so let's go right to Gina for the latest on these thunderstorms.
- 
-Gina: Three thunderstorms are converging and heading right for us. So, up to three inches of rain. They're expected to hit in the next eight hours. Flash-flood warnings have been issued for the city and surrounding desert areas.
- 
-
-CLOSE ON: A FLASK OF WATER
- 
-
- 
-
- 
- 
- 
-
- 
- 
- 
-SMASH CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
- 
- 
-
- 
- 
-
-(Nick sits at Natalie's desk and is looking through her laptop. He's checking off the RECENT ROUTES off a website.
-RED ROCK CANYON 
-SUNRISE MOUNTAIN 
-LAKE MEAD 
-LAS VEGAS DUNES 
-SPRING MOUNTAIN 
-LEE CANYON 
-CATHEDRAL ROCK 
-RAINBOW MOUNTAIN 
-LOWELL CANYON 
- 
- 
-
-
- 
-Grissom:  What do you know, Nick?
-Nick: Compassroute.com. Natalie's been spending a lot of time in the desert. About a dozen different spots, all off the beaten path. No roads, just general locations.
-Grissom:  Hang on.
- 
-Grissom: Warrick, how far was the last trip?
-Warrick: Give me a second, I'm getting it right now. 
-(He turns the SOLUS PRO SCANNER on. It beeps and calibrates the distance:
-34.2.) 
-Warrick: Thirty-four miles, one way.
-Grissom:  Nick, get all those locations to Brass. Tell him to focus his search on any destination within 34 miles.
-Nick:  Done.
- 
-INSERT: FLASHBACK 
- 
-
- 
-
-
- 
-
- 
-Sofia: She has wounds on her scalp. Swab for DNA and trace. No scumbag defense attorney is going to make their reputation setting her free.
-
-Dr. Kachler: A blow to the head can cause many things -- memory toss ... delirium ... dementia.
- 
-Dr. Kachler: But not psychosis.
- 
-Natalie:  They wouldn't understand.
- 
-Hodges: She said something.
-Dr. Kachler: She's not talking to you ... or anyone else here.
- 
-Dr. Kachler: This patient is exhibiting all the signs of a psychotic break: delusions, hallucinations, disorganized thought.
-Sofia: How long is she going to be like this?
-Dr. Kachler: Days. Months. Any longer, we're looking at schizophrenia.
- 
- 
-Natalie:  I promise. 
- 
-Natalie:  Your special girl.
- 
-Sound:  THUNDER
-
-
- 
- 
-Officer Mitchell: Did you find something?
-Catherine: Taser barb. It doesn't tell us where, just how.
- 
-Sound:  CELL PHONE RINGING
- 
- 
-Sara:  Hello, Gilbert.
-Grissom:  Hey, we got an ID on the miniature killer. Her name is Natalie Davis. 
- 
-Sara:  One of Ernie Dell's fosters?
- 
-Grissom:  Yeah. Catherine and I just spoke to the biological father. He says he put Natalie up for adoption after she shoved her kid sister out of a tree house.
-Sara:  Does he know where she is now?
-Grissom:  No, but with a name, it's just a matter of time.
-Sara:  All right, I'll be right there. I'll meet you at the lab.
-
- 
- 
-Natalie: Sara?
-
- 
-
-
-
- 
-
- 
-(The computer beeps. Another security view appears for LEVEL 2, CAMERA 26. Natalie's car appears on screen and passes by. The date on the cameras is for
-05/18/07.) 
- 
- 
-Greg: She went west on Imperial.
- 
-Grissom:  Jim. Restrict your search to targets in the western desert.
- 
-SOUNDS:  RAIN
-
-
-CU: CAR TAIL LIGHT
-
- 
- 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
-
- 
- 
-
-SNAP!
- 
- 
-
-
-
-
- 
- 
-Gail : Rain over our dry desert has really caused a lot of problems; one of the biggest storms we've seen over the past few years.
- 
-Gail : Mudslides are already a big problem for the valley and most areas will be evacuated, especially low-lying areas, so stay tuned.
- 
- 
- 
-
- 
- 
-
- 
-
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
-Warrick: Grissom.
- 
-Warrick: A zip-tie ... unlocked. I think Sara got out of this trunk. The speaker's completely ripped out from the inside. She could have reached through and released the backseat. And there's blood on the glass. There could have been a struggle.
-Grissom: Yeah, but none of that's going to tell us where she is. We need a store receipt or a parking stub, something with a location on it.
-Warrick: If she got out of this car, she might not even be in the desert. We might be completely off base here.
-Grissom: No. Natalie completed the miniature. I saw it in her eyes. Sara is under that car.
- 
-Hodges: Pollen spores off the bumper and Natalie's head both overlap in Red Rock Canyon.
- 
-Grissom: Did you notify S &amp; R?
-Hodges: Yeah, they're already on it.
- 
-
- 
- 
- 
- 
- 
- 
-Sara: Natalie.
- 
-Sara: Natalie Davis. I know who you are. I know a lot about you. You make miniatures. I've seen you before, right? You work in the lab on the cleaning crew.
- 
-Sara: So sorry about hitting you back there. I guess, uh ... I have a fear of trunks. In my business, you only find one thing in them. 
-
-Sara: We actually have a lot in common, you know? I was a foster kid, too.
- 
-Sara: Happy, happy, joy, joy. I do know what it's like to be alone ... afraid that nobody's ever going to be there for you.
-Natalie:  Ernie was.
-Sara:  Yes, he was. That's true, Natalie. I lost my father, too. I know that Ernie loved you. He would not have wanted you to do this.
-Natalie:  Ernie loved me more than Grissom could ever love you.
-Sara: Grissom?
- 
-Sara:  Oh, I know what this is about. Natalie. What did you put in the water, Natalie?
-SARA'S POV
- 
-Sara: Huh?
- 
- 
-
- 
-
-Sara: Natalie?
- 
-Sara: Natalie, what are you doing?
- 
-Sara: Natalie ... what are you doing?
- 
- 
-Sara: No, no, no! 
- 
- 
-Sara: Don't do this.
- 
-Sara: Natalie?
- 
-Sara: Natalie.
- 
-Sara:  Natalie!
- 
- 
- 
- 
- 
- 
- 
-
- 
-
- 
-
-
- 
- 
-
-
-
-
- 
- 
-Sara:  You think she's alive. 
-INSERT: FLASHBACK 
- 
-Sara: You're acting like you're going to rescue a person, not recover a body, and on this job that's just not usually the case.
- 
-Nick: I was rescued.
-Sara: It was not your day to die. When it's your day, it's your day, you know?
-
- 
- 
- 
-DESERT DIAMOND
-AUTO YARD
- 555-0739
-
- 
-(On one of the info sheets, he finds it. The TOTALED 2007 FORD MUSTANG was SALVAGED TO DEALER in APRIL. The dealer was:
-DESERT DIAMOND AUTO YARD
-8824 SANDY CREEK ROAD
-
-
- 
-
- 
-Brass: Hey, buddy. I'm in a hurry. 
- 
-Brass: This girl bought a red Mustang off our impound lot.
-Zapatra Childs: Yeah, couple of, couple of weeks ago, right, for, for art.
-Brass: Who the hell is Art?
-Zapatra Childs: No, she's an artist. She thinks all this stuff is art.
-Brass: Yeah, where'd you take it?
-Zapatra Childs:  I don't know. It was dark, I followed the taillights.
-Brass: Wait a minute, you towed a 3,500-pound car, you can't remember where you took it?
-Zapatra Childs: Well, w-what's going on?
-Brass: Look, you towed a car for a serial killer. That makes you an accomplice.  You helped abduct one of my people. Now, you either tell me where you took it or you're going to end up in the hospital and after that you're going to end up in jail.
- 
-Brass: What is it? Come on, focus.
-Zapatra Childs: Um ... Ice Box Canyon.
-Brass: All right, h-hey, look, look. 
- 
-Brass: Look, this is a map. Show me on the map.
- 
-
-
-
- 
- 
-Greg:  To the left. Down there.
- 
-Greg: That's it! That's the car.
-Pilot:  Control, Air Three. We are 20 miles west of the 159, near Ice Box Canyon. Red-colored vehicle spotted.
- 
-Pilot:  Fits the description.
- 
- 
-Grissom: Sara! 
- 
-Grissom: Sara!
- 
- 
- 
-
-
-
-;
-
-
-
- 
- 
- 
-Catherine: Nick!
-Nick: She's not here.
- 
-Catherine: Okay, that's good news.
- 
-Sofia: Guys! Park rangers said there's some roads on the other side of this basin. We're going to go scout them.
- 
-Nick:  All right, I'm going with her.
- 
-Grissom: Catherine! I got shoe prints.
- 
- 
-Catherine: If there are shoe prints, that means she got out from under the car.
- 
-Catherine: Everybody listen up. We're searching on foot.
- 
- 
-
- 
-
- 
-
- 
-
-
-
-
-
-
- 
- 
-
-
- 
-
- 
- 
- 
- 
-DISSOLVE TO: 
-
- 
- 
- 
- 
- 
- 
- 
-
-VARIOUS DISSOLVES
- 
- 
-
-
- 
-
-
- 
- 
- 
-DISSOLVE TO: 
-
- 
-Catherine: I'm not seeing any more footprints, are you?
-Grissom: No.
-Catherine: I think we just lost the trail.
-
- 
-Grissom: Cath, look.
-Catherine: What?
- 
- 
-Catherine: This is better than a footprint.
- 
-DISSOLVE TO: 
-
-
- 
-FAR SHOT: The wind blows a thin layer of dust and dirt, obscuring Sara from our view.
-
-
- 
-Catherine: Yeah.
- 
-Catherine: Good girl.
- 
- 
-Catherine: You see another one?
- 
-Grissom: Oh, no.
-Catherine: What?
- 
- 
- 
- 
-Catherine: Oh ...
- 
-Catherine: It's not her.
- 
-
-
-
-
- 
- 
-Brass:  His name is Matthew Hoffman. Ranger said he checked in at a trailhead three days ago. No one's seen him since.
-Grissom:  Okay, thanks.
- 
-Grissom: Park Service issued him a camping permit. He was supposed to hike out this morning.
-Catherine: Must have got caught in the flash flood. Couldn't make it to higher ground.
-
-Grissom: Where is she, Catherine? It's 110 degrees. She's been out here all day, without water. She's disoriented, she's ... dehydrated.
-Catherine: She's a survivor.
- 
-
-
- 
-Sara:  Just keep going. Don't stop. 
-
-Sara:  Don't stop. 
- 
-Sara:  Three times four is ... Okay, three times four is 12.
-Sara:  Four times five is 20. Four times six... is 24.
-Sara:  Four times four is ... What is it? Sixteen. Sixteen. Four times five ...
- 
-Sara:  Four times five ...
- 
-Sara:  Four times ... four times five is 20.
- 
-Sara:  Come on. Four times five is 20.
- 
-Sara:  Four times six ... is 24.
- 
- 
-Sara:  Get up.
- 
-Sara:  Get up. Don't sleep. Don't sleep.
- 
-Sara:  Don't sleep ... don't sleep. Stay awake. Stay awake. I ... just don't sleep.
- 
- 
- 
- 
-BLUR TO: 
-
- 
-
- 
- 
-Nick: Wait, slow down, slow down, slow down.
- 
-Sofia: What is it?
-Nick: Go that way.
- 
-Nick: Go.
- 
-(Suddenly, she stops the car. Nick runs out toward -- 
-Nick:  Sara!
- 
-Nick: Sara, it's Nick. Can you hear me?
- 
-Nick: I can't get a pulse.
-Sofia:  We found Sara. North on the 159 at Turtlehead Peak. We need a medevac out here right now.
- 
-Nick: Don't worry, we're going to get you out of here, okay?
- 
- 
- 
-Nick: They're coming for you now.
-Sofia: You're going to be okay, Sara.
- 
-Nick: Over here!
- 
- 
-Medic: What have you got?
-Sofia: Female, 35, unconscious.
-Nick: She's been in the sun all day, about fifteen hours. She's not answering me at all.
- 
-Medic: What's her name?
-Sofia: Sara. 
-Medic: Sara?! Sara, can you hear me?!
-Medic 2: Oxygen ... about 15 liters.
- 
-Catherine:  How is she? 
-Medic: She's not responding. 
- 
-Medic 2:  
-Medic: Give me a large-bore IV prep now.
- 
-Medic 2: Copy that.
-(The medics work on Sara
-Medic:  IV's in. We've got to move. MEDIC: Still no radial pulse
- 
- 
-Medic: Let's go get on loaded up. Watch the arm.
-Medic 2: On my count. One, two, three.
- 
-Medic 2: Let's go ...
- 
-Medic: You're secured? Get that IV pump.
- 
-Catherine:  Where are you taking her?!
-Medic 2: Desert Palm!
-Grissom: Move over! I'm going with her!
- 
- 
- 
-
- 
-Pilot:  Desert Palm, inbound. Six minute ETA. 
-
- 
-Pilot:  Thirty-five-year-old female, obvious heat exposure, obvious fracture of left radius ulna.
- 
- 
-
-
- 
-
- 
- 
-SARA'S POV
- 
- 
- 
- 
- 
-
-(We hold on Grissom and we -- 
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=08x01+-+Dead+Doll+%282%29&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127452%23p127452" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=08x01+-+Dead+Doll+%282%29&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127452%23p127452" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127452%23p127452&amp;name=08x01+-+Dead+Doll+%282%29" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127452%23p127452" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=0c6d4f19019ab8b60e6a880e67e22662">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=0c6d4f19019ab8b60e6a880e67e22662">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=0c6d4f19019ab8b60e6a880e67e22662">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=0c6d4f19019ab8b60e6a880e67e22662">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

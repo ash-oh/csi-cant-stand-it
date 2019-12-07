@@ -1,603 +1,835 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN.
+[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]
+[EXT. SIDLEY RESIDENCE (STOCK) - NIGHT]
+[INT. SIDLEY RESIDENCE - LIVING ROOM - NIGHT]
+" />
+<meta property="og:title" content="06x16 - Up in Smoke - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN.
+[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]
+[EXT. SIDLEY RESIDENCE (STOCK) - NIGHT]
+[INT. SIDLEY RESIDENCE - LIVING ROOM - NIGHT]
+" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13325" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>06x16 - Up in Smoke - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13325" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13325">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=c12d466b26f493720bf9d20bbb3aa875"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=c12d466b26f493720bf9d20bbb3aa875">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=c12d466b26f493720bf9d20bbb3aa875">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=c12d466b26f493720bf9d20bbb3aa875">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=c12d466b26f493720bf9d20bbb3aa875">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13325&amp;sid=c12d466b26f493720bf9d20bbb3aa875&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>06x16 - Up in Smoke</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127419">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127419">06x16 - Up in Smoke</a></div>
+							<div class="pull-right text-right"><time datetime="2006-03-16T06:26:21Z">03/16/06 06:26</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN.</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]</p>
+<p>[EXT. SIDLEY RESIDENCE (STOCK) - NIGHT]</p>
+<p>[INT. SIDLEY RESIDENCE - LIVING ROOM - NIGHT]</p>
+<p>(Angie walks around the living room with a glass of champagne in her hand as she admires the photo nudes on the walls.. She's dressed in her black lace underwear and an open shirt. ) </p>
+<p>(She looks over at Martin, who is starting a fire in the large fireplace.) </p>
+<p><strong>Angie</strong>: You know, first time I had s*x was in front of a fire ... on a bear skin rug.</p>
+<p>(She sits down on the bearskin rug.) </p>
+<p><strong>Angie</strong>: It was so romantic.</p>
+<p>(Martin laughs wryly as he joins her. He picks up his glass.)</p>
+<p><strong>Martin Sidley</strong>: Gee, and all this time ... I thought you were still a virgin.</p>
+<p><strong>Angie</strong>: (snickers) Yeah, right. You only asked for my number 'cause you heard I was easy.</p>
+<p><strong>Martin Sidley</strong>: Oh, you found me out.</p>
+<p><strong>Angie</strong>: I did.</p>
+<p>(As they laugh, something from inside the chimney falls into the fire. The fire crackles and grows larger.) </p>
+<p><strong>Angie</strong>: Cheers.</p>
+<p>(They clink glasses and sip. Angie sees the smoking coming out of the fireplace. Something is blocking the chimney.) </p>
+<p><strong>Angie</strong>: Oh, my God!</p>
+<p>(The smoke alarm beeps.)</p>
+<p>CUT TO:<br />
+[EXT. SIDLEY RESIDENCE - FRONT -- NIGHT] </p>
+<p>(The police and fire department vehicles are parked outside the Sidley residence.) </p>
+<p>(The firemen climb up the roof to check the chimney. They peer inside and find a dead body.) </p>
+<p><strong>Fireman</strong>: We've got a body! Alert homicide and CSI!</p>
+<p>WHITE FLASH TO: </p>
+<p>[INT. SIDLEY RESIDENCE - ATTIC -- NIGHT] </p>
+<p>(The attic door opens. Sara and Nick climb inside to check the chimney.) </p>
+<p>(Sara looks around and sees various items - bikes, roller skates, boots, crutches - around. She sees a dead, petrified rat in a trap.) </p>
+<p>(Nick puts his kit down.) </p>
+<p><strong>Sara</strong>: Chimney extends about four feet from the roofline ... assuming the vic was average height ... and didn't curl up ... head should be right about here.</p>
+<p>(Sara drills her way through the bricks in the chimney.) </p>
+<p><strong>Nick</strong>: Good!</p>
+<p>(She clears off some bricks.) </p>
+<p><strong>Nick</strong>: Okay.</p>
+<p>(She and Nick clear the bricks. Nick punches through the clay backing and they find the burnt remains.) </p>
+<p><strong>Sara</strong>: Whew! Smoldering flesh has the stench of burnt pork ... except much worse.</p>
+<p><strong>Nick</strong>: I smell a little decomp, but mostly the fireplace down below. The body's really positioned too far to be in that condition.</p>
+<p><strong>Sara</strong>: Which means ... the vic was charbroiled somewhere else, tossed in the chimney, and smoked.</p>
+<p>(Nick nods.) </p>
+<p>CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. SIDLEY RESIDENCE - ATTIC -- NIGHT] </p>
+<p>(Nick and David Phillips stand in front of the open chimney looking at the burned body.) </p>
+<p><strong>Nick</strong>: Check out that mold. It's just eating away at the flesh.</p>
+<p><strong>David Phillips</strong>: That much mold would suggest he was burned at least a few days ago.</p>
+<p><strong>Nick</strong>: He?</p>
+<p><strong>David Phillips</strong>: I measured the pelvic bone -- sub-pubic angle's less than ninety degrees. He's male. Any suggestions on how to proceed? </p>
+<p><strong>Nick</strong>: Wrap and roll.</p>
+<p><strong>David Phillips</strong>: Great.</p>
+<p>(David picks up a sheet and hands it to Nick. David spreads a second sheet out on the attic floor. Nick wraps his sheet around the body.) </p>
+<p><strong>Nick</strong>: Okay, you get the head.</p>
+<p><strong>David Phillips</strong>: Okay.</p>
+<p><strong>Nick</strong>: On three ...</p>
+<p><strong>David Phillips</strong>: Yeah.</p>
+<p><strong>Nick</strong>: One, two ... three.</p>
+<p>(They remove the body from the chimney.) </p>
+<p><strong>David Phillips</strong>: Mm! He's lighter than I expected.</p>
+<p><strong>Nick</strong>: Most of the muscle and flesh have burned away. He's pretty well drained of fluids. He probably weighed twice as much when he was alive.</p>
+<p><strong>David Phillips</strong>: Well, that would explain how the killer was able to carry him up to the roof and then foist him down the chimney.</p>
+<p><strong>Nick</strong>: Yeah. Get him to the morgue.</p>
+<p>CUT TO:<br />
+[EXT. SIDLEY RESIDENCE - FRONT - NIGHT]</p>
+<p>(Sofia talks with Martin Sidley.) </p>
+<p><strong>Martin Sidley</strong>: I started the fire and the smoke just started pouring out.</p>
+<p><strong>Sofia Curtis</strong>: And it was just the two of you in the house.</p>
+<p><strong>Martin Sidley</strong>: Yeah. </p>
+<p>INTERCUT WITH: </p>
+<p>(Meanwhile, Brass talks with Angie.) </p>
+<p><strong>Angie</strong>: I had just gotten off work; I came over for a nightcap.</p>
+<p><strong>Brass</strong>: So how long have you known each other?</p>
+<p><strong>Angie</strong>: Mm ... a few months.</p>
+<p><strong>Sofia Curtis</strong>: Do you live alone?</p>
+<p><strong>Martin Sidley</strong>: Yeah. Divorced. Have a son in college.</p>
+<p><strong>Sofia Curtis</strong>: Did you hear anything up on the roof in the past week or so?</p>
+<p><strong>Martin Sidley</strong>: Well, no, I was out of town on business till yesterday.</p>
+<p><strong>Sofia Curtis</strong>: And when was the last time you used the fireplace?</p>
+<p><strong>Martin Sidley</strong>: A few months ago ... around Christmas.</p>
+<p><strong>Brass</strong>: I mean, there was a dead man in your chimney. Didn't you notice anything when you lit the fireplace?</p>
+<p><strong>Angie</strong>: Martin's got a rat problem. Um ... the little suckers get caught in the traps, and just stink for a couple of days. We smelled something, but we figured it was ...</p>
+<p><strong>Martin Sidley</strong>: ... a rat.</p>
+<p><strong>Sara</strong>: (o.s.) Excuse me, Mr. Sidley? </p>
+<p>(He turns around to find Sara standing behind him.) </p>
+<p><strong>Sara</strong>: There's a ladder leaning against the side of the house ... ?</p>
+<p><strong>Martin Sidley</strong>: Yeah, that's mine. It been there since ... about New Year's, when I took down the Christmas lights.</p>
+<p><strong>Sara</strong>: I'd like to get a set of your fingerprints. I'm going to be dusting the ladder for prints. I'd like to eliminate yours.</p>
+<p><strong>Martin Sidley</strong>: Yeah, sure.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]</p>
+<p>[INT. CSI - FORENSIC AUTOPSY -- NIGHT] </p>
+<p>(David goes over the body, taking various swab samples. He lifts a plastic credit card-shaped item out of the victim's shirt pocket. He looks at it and places it in a metal bin.) </p>
+<p>(Nick walks in.) </p>
+<p><strong>Nick</strong>: Crispy on the outside, tender on the inside?</p>
+<p><strong>David Phillips</strong>: Crispy though and through. Based on the melted fibers, he was probably wearing a polyester shirt.</p>
+<p><strong>Nick</strong>: Well, synthetics are just plastic polymers. They melt instead of burn.<br />
+(Nick sees the burned plastic in the metal bin.) What's that?</p>
+<p><strong>David Phillips</strong>: Oh, some sort of plastic. I found it where his shirt pocket would've been. I'm thinking maybe a credit card.</p>
+<p><strong>Nick</strong>: Good, good. I'll work it up; try to get an ID.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY] </p>
+<p>(Catherine walks through the hallway when Warrick finds her.) </p>
+<p><strong>Warrick</strong>: Catherine ...</p>
+<p><strong>Catherine</strong>: Yeah.</p>
+<p><strong>Warrick</strong>: Do you remember this Caroline Fitzgibbons case? About a year ago? </p>
+<p>(She takes the file from him.) </p>
+<p><strong>Catherine</strong>: Of course I do, yeah. Missing person, we never found her.</p>
+<p><strong>Brown</strong>: Yeah, she was a minor, allegedly having an affair with a Mr. Martin ... Sidley?</p>
+<p><strong>Catherine</strong>: Ugh, yeah, what a creep.</p>
+<p>(Quick flashback to: [EXT. SIDLEY RESIDENCE - FRONT PORCH - DAY] Catherine is at the front door talking with Martin Sidley.) </p>
+<p><strong>Martin Sidley</strong>: She's an aspiring photographer. I recently purchased several of her self-portraits.</p>
+<p><strong>Catherine</strong>: Mr. Sidley, her father says that she was headed over here the day before yesterday, and he hasn't heard from her since. </p>
+<p><strong>Warrick</strong>: Would you mind if we come in?</p>
+<p><strong>Martin Sidley</strong>: You know, now's not a good time. So, unless you have a warrant, the answer is no.</p>
+<p>(He closes the door on them.) </p>
+<p>END OF FLASHBACK CUT TO: </p>
+<p>[EXT. LAS VEGAS SCENERY (STOCK) - DAY]</p>
+<p>[EXT. SIDLEY RESIDENCE - FRONT -- DAY] </p>
+<p>(Warrick and Catherine exit their SUV. Sara sees them.) </p>
+<p><strong>Sara</strong>: What are you guys doing here?</p>
+<p><strong>Warrick</strong>: We were hoping that you'd invite us to help out with your investigation.</p>
+<p><strong>Sara</strong>: Invite you?!</p>
+<p><strong>Catherine</strong>: Warrick and I were looking for a missing person about a year ago, and we tried to get a warrant to search this residence. The owner denied us access.</p>
+<p><strong>Sara</strong>: Now that it's a crime scene, it's fair game, if you're part of the investigation. </p>
+<p><strong>Warrick</strong>: You're picking up what we're putting down. </p>
+<p><strong>Sara</strong>: Well, I've processed room-to-room, photo-documented, sketched the layout ... feel free to dig a little deeper. I'm gonna dust the chimney for prints. I'll be on the roof for awhile.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Nick processes the burned ID card. Greg walks in and looks around at the monitor.)</p>
+<p><strong>Greg</strong>: I'll take &quot;video spectral analysis&quot; for two hundred, Nick.</p>
+<p><strong>Nick</strong>: Yeah, it's a charred piece of plastic found in chimney guy's pocket. It may be a credit card. I'm trying to get some ID off of it.</p>
+<p><strong>Greg</strong>: That's a gym membership card.</p>
+<p><strong>Nick</strong>: How do you know that?</p>
+<p><strong>Greg</strong>: The logo in the corner -- it's Burt's Gym -- I belong to the one on Flamingo.</p>
+<p><strong>Nick</strong>: Oh, yeah? You, uh ... been pumping iron there, Greg?</p>
+<p><strong>Greg</strong>: Yeah, a little, uh ... Muy Thai. It's competitive kickboxing. Gotta balance weights with cardio, you know what I mean?</p>
+<p><strong>Nick</strong>: Yeah, okay, thanks. Anyway, I'll, uh, check it. Maybe I can get a membership name.</p>
+<p><strong>Greg</strong>: Oh, you won't. Member names are printed in black ink. VSA only brings out the colors.</p>
+<p><strong>Nick</strong>: Oh. Maybe it'll help us clear up the photo.</p>
+<p>(Nick works on the photo and comes up with a picture.) </p>
+<p><strong>Nick</strong>: Nice.</p>
+<p>CUT TO:<br />
+[EXT. SIDLEY RESIDENCE - ROOFTOP -- DAY] </p>
+<p>(Sara is on the roof. She dusts the chimney bricks and removes a set of prints.) </p>
+<p>INTERCUT WITH: </p>
+<p>[INT. SIDLEY RESIDENCE - LIVING ROM - DAY]</p>
+<p>(Catherine looks around the living room. On the side are framed photos of a beautiful, blonde-haired woman, Caroline Fitzgibbons.) </p>
+<p>(Quick flashback to: The photo of Caroline Fitzgibbons from the file folder. End of flashback.) </p>
+<p>(Catherine turns around to look at the living room.) </p>
+<p>(Sara carefully makes her way down the side of the roof to the vent.) </p>
+<p>(She takes out a camera and snaps a photo of the vent. She dusts and finds a print.</p>
+<p>(Catherine uses the ALS on the hardwood floors on the base of the stairs.) </p>
+<p>(Various dissolves as Catherine works throughout the room.)</p>
+<p>(Warrick snaps a photo in the bedroom. He looks around. He opens the chest at the base of the bed. He walks over to the desk and opens the drawer. He snaps a photo of the drawer.) </p>
+<p>(Sara turns around and finds a white piece of thin plastic. She snaps a photo and picks it up.) </p>
+<p>[INT. SIDLEY RESIDENCE - FOYER / LIVING ROOM -- DAY] </p>
+<p>(Using the ALS, Catherine finds something on the stairs. She quickly swabs it and tests it for blood. It tests negative. Warrick walks down the stairs and notices the photos in the living room.) </p>
+<p><strong>Warrick</strong>: Well, hello, Caroline. She was, what, like 16? Isn't it a felony to purchase pornographic pictures of a minor?</p>
+<p>(Warrick snaps a photo of the photo.)</p>
+<p><strong>Catherine</strong>: Well, believe it or not, exceptions are made for photographs with serious artistic or scientific merit.</p>
+<p>(He walks over to the other photos hanging on the walls.) </p>
+<p><strong>Warrick</strong>: (scoffs) Oh, yeah. These look real scientific.</p>
+<p>(He snaps photos of them as well.)</p>
+<p><strong>Catherine</strong>: I don't make the rules. So found a large, diffuse pool of fluorescence here on the wood floor. It's consistent with bleach or some other cleaning compound.</p>
+<p><strong>Warrick</strong>: Bleach on a wood floor, huh?</p>
+<p><strong>Catherine</strong>: Mm.</p>
+<p><strong>Warrick</strong>: I presume you pheno'ed it?</p>
+<p><strong>Catherine</strong>: Yeah. It was negative for blood.</p>
+<p>(Warrick looks at the stairs.) </p>
+<p><strong>Catherine</strong>: What are you doing?</p>
+<p><strong>Warrick</strong>: I'm looking for the tiniest crack between the planks. You know, you can scrub blood off a surface, but you can't scrub beneath it.</p>
+<p>(Warrick takes out a pocket knife and pries it in the crack in the stairs.) </p>
+<p><strong>Warrick</strong>: Yeah ...</p>
+<p>(A piece of the board clatters to the floor. On the board is a spot of blood.)</p>
+<p><strong>Warrick</strong>: We got blood.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Catherine talks with Martin Sidley and his lawyer Duane McWane.) </p>
+<p><strong>Martin Sidley</strong>: As I told you last year, I knew Caroline professionally. We had coffee a couple of times. She was a promising photographer; I'm a collector. We had a lot to talk about.</p>
+<p><strong>Catherine</strong>: How many times is &quot;a couple of times&quot;?</p>
+<p><strong>Martin Sidley</strong>: I don't know, five or six times over a month or two.</p>
+<p><strong>Catherine</strong>: Were they dates?</p>
+<p><strong>Martin Sidley</strong>: Well, we weren't having sexual relations, if that's what you're getting at.</p>
+<p><strong>Catherine</strong>: Was she ever in your house?</p>
+<p><strong>Martin Sidley</strong>: Yeah, I invited her over to see my collection. Look, I'll admit that I was attracted to her, but when she told me her real age, I told her, it was inappropriate for us to see each other.</p>
+<p><strong>Catherine</strong>: How very responsible of you. And you had that conversation how many days before she went missing?</p>
+<p><strong>Duane McWane</strong>: I'm sorry, but we're not here to talk about Caroline, all right? So unless you're on some kind of cold-case fishing expedition ...</p>
+<p><strong>Catherine</strong>: We found an old blood pool in your living room. You want to tell me about that?</p>
+<p><strong>Duane McWane</strong>: Don't answer that. Ms. Willows, let's get something straight. You found a body in the chimney, so you searched his house for clues, but you had no legal right to look for any evidence unrelated to this case.</p>
+<p><strong>Catherine</strong>: We were just working the scene.</p>
+<p>(Catherine places an evidence bag with the piece of wood on the table. She clears her throat.)</p>
+<p><strong>Catherine</strong>: This piece of wood was pried from your living room. The surface was scrubbed with a cleaning agent, but we found a spot of blood ... right there.</p>
+<p>(She points to the spot of blood on the wood.) </p>
+<p><strong>Martin Sidley</strong>: You mean, you ripped up my damn floor. What is going on here?</p>
+<p><strong>Duane McWane</strong>: As soon as this is over, I intend to file an emergency motion to limit the scope or your warrant. I also intend to file a motion in limine to exclude this evidence, which was illegally seized, in violation of my client's fourth amendment rights. </p>
+<p><strong>Catherine</strong>: This house was processed in accordance with CSI protocol, but do what you have to do.</p>
+<p><strong>Martin Sidley</strong>: You've been coming at me since day one, and I'm starting to resent it.</p>
+<p><strong>Duane McWane</strong>: Martin ...</p>
+<p><strong>Martin Sidley</strong>: You have a problem with me because I appreciate younger women? I had nothing to do with that girl's disappearance. You want to come after me? You're going to regret it.</p>
+<p><strong>Catherine</strong>: Your client has a bit of a temper.</p>
+<p><strong>Duane McWane</strong>: Well, if you don't have any questions pertaining to the dead body in his chimney, we're done here.</p>
+<p>[OBSERVATION ROOM]</p>
+<p>(Nick watches as Duane McWane gets to his feet. Catherine holds up a hand.) </p>
+<p><strong>Catherine</strong>: Sit down. Please. </p>
+<p>(Catherine turns to the window and nods. Nick leaves the observation room.) </p>
+<p>[INTERVIEW ROOM]</p>
+<p>(Nick walks into the room.) </p>
+<p><strong>Catherine</strong>: Gentlemen, this is Nick Stokes. He's a colleague of mine. We found identification on the decedent in the chimney.</p>
+<p><strong>Nick</strong>: A gym card. Actually, it was found in his pocket. The Crime Lab restored the charred image, but we couldn't get a name. We we're hoping you could help make a positive ID.</p>
+<p>(Nick puts the photo on the table. Martin looks at his lawyer. Duane McWane nods.) </p>
+<p>(He looks at the photo.) </p>
+<p><strong>Martin Sidley</strong>: This belonged to the person in my chimney?</p>
+<p><strong>Nick</strong>: Yes, sir. You recognize him?</p>
+<p><strong>Martin Sidley</strong>: Well, this is-this is Tad. This is my son.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(Dr. Robbins goes over the body with Nick.) </p>
+<p><strong>Nick</strong>: Let me guess: He burned to death.</p>
+<p><strong>Robbins</strong>: I can't confirm COD.</p>
+<p><strong>Nick</strong>: Come on, Doc, this isn't a hard one. </p>
+<p><strong>Robbins</strong>: His bones are fractured; check out the femur.</p>
+<p><strong>Nick</strong>: It's not uncommon to find bone fractures in fire victims.</p>
+<p>(Quick CGI EFX: The bones are on fire, crackle and break.) </p>
+<p><strong>Nick</strong>: (V.O.) The body produces heat, causing the long bones to contract and fracture.</p>
+<p>(End of CGI EFX.) </p>
+<p><strong>Robbins</strong>: Well, that's right, but check out the chips in the skull.</p>
+<p><strong>Nick</strong>: Bone chipping is also a symptom of extreme heat.</p>
+<p>(Quick CGI EFX: The skull burns and the bones chip away.)</p>
+<p><strong>Robbins</strong>: (V.O.) Very good. So, if we didn't know better, fire could be the cause of death.</p>
+<p>(End of CGI EFX.) </p>
+<p><strong>Nick</strong>: What are you getting at?</p>
+<p><strong>Robbins</strong>: You see the blood spot on the interior of the forehead?</p>
+<p><strong>Nick</strong>: Yeah ...</p>
+<p><strong>Robbins</strong>: As far as I know, fire can't explain a subdural hematoma.</p>
+<p><strong>Nick</strong>: No. No, it can't.</p>
+<p><strong>Robbins</strong>: Our victim suffered blunt force trauma, prior to going up in flames.</p>
+<p>CUT TO:<br />
+[INT. CSI - PRINT LAB -- DAY] </p>
+<p>(Mandy Webster is processing the prints found on the Sidley rooftop.) </p>
+<p>(She compares the prints with Martin Sidley. There's NO MATCH.)</p>
+<p>(She compares the prints with Tad Sidley. There's NO MATCH.)</p>
+<p>(She runs the unidentified print through the database.) </p>
+<p>(Sara walks into the lab.) </p>
+<p><strong>Sara</strong>: How are you doing on the prints?</p>
+<p><strong>Mandy Webster</strong>: Well, all three prints from the chimney are consistent with each other. I compared them to the homeowner's prints and his son's prints; the work card's in the system. There's no match. I'm running the print through I-AFIS.</p>
+<p><strong>Sara</strong>: What about the print from the chimney cap?</p>
+<p><strong>Mandy Webster</strong>: There's not a match to the chimney prints, not a match to either Sidley. There's no hits on I-AFIS. I'm sorry.</p>
+<p><strong>Sara</strong>: Not your fault.</p>
+<p>(The computer beeps and finds a match to:<br />
+NAME: JONATHAN WAX<br />
+(CASE #LVPD 01 07 21-1645 SC)<br />
+DOB: 04-14-78<br />
+AGE: 27 HEIGHT: 5'10&quot;<br />
+WEIGHT: 163 LBS EYES: BROWN<br />
+RACE: CAUCASIAN s*x: MALE<br />
+HAIR: BROWN<br />
+LAST KNOWN ADDRESS:<br />
+2128 DESERT WAY<br />
+HENDERSON, NV 89012<br />
+ALIAS: NONE<br />
+CRIMINAL HISTORY:<br />
+STATUE: NRS 200-366<br />
+ARREST: ATTEMPTED RAPE<br />
+CONVICTIONS: SENTENCED 4 YEARS<br />
+DISPOSITIONS: RELEASED OCTOBER 2005 )</p>
+<p><strong>Mandy Webster</strong>: At least you got yourself a match for the chimney prints -- a Jonathan Wax, from Henderson, served four years for attempted rape and he was released six months ago.</p>
+<p><strong>Sara</strong>: Thank you.</p>
+<p><strong>Mandy Webster</strong>: You're welcome.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Sara interviews Jonathan Wax.) </p>
+<p><strong>Jonathan Wax</strong>: I served my time. What do you want with me now?</p>
+<p><strong>Sara</strong>: &quot;Attempted rape.&quot; What exactly happened?</p>
+<p><strong>Jonathan Wax</strong>: Pepper spray. That stuff really stings.</p>
+<p><strong>Sara</strong>: Uh, what can you tell me about, um, Tad Sidley?</p>
+<p><strong>Jonathan Wax</strong>: (shakes his head) Who?</p>
+<p>(Sara puts the DMV license photo on the table for TAD SIDLEY<br />
+247 DUNPHY RD.<br />
+LAS VEGAS, NV 89101</p>
+<p><strong>Jonathan Wax</strong>: Sorry.</p>
+<p>(Sara pushes the photo of the burned corpse across the table toward him to look at.) </p>
+<p><strong>Sara</strong>: Maybe you remember him a little more like this?</p>
+<p>(He looks at the photo.)</p>
+<p><strong>Jonathan Wax</strong>: (chuckles) Holy mother ... </p>
+<p><strong>Sara</strong>: He was murdered, set on fire, stuffed in a chimney, and the only prints on the chimney are yours.</p>
+<p><strong>Jonathan Wax</strong>: You said the last name was Sidley?</p>
+<p><strong>Sara</strong>: Uh-huh.</p>
+<p><strong>Jonathan Wax</strong>: Well, I worked a Sidley place out near Lake Mead, right?</p>
+<p><strong>Sara</strong>: What were you doing on the roof?</p>
+<p><strong>Jonathan Wax</strong>: That's what I do -- Chad's Chimney Sweeps. I clean fireplaces and chimneys. I was out at that Sidley place about a month ago. You can call Chad. I remember that place. Man, that guy had one big-ass chimney.</p>
+<p><strong>Sara</strong>: I don't suppose you saw a body while you were there?</p>
+<p><strong>Jonathan Wax</strong>: Look, I may be an ex-con, but even I would've dialed 9-1-1.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -- DAY] </p>
+<p>(Conrad Ecklie is talking with someone in the hallway when Catherine turns the corner. He sees her and stops her.) </p>
+<p><strong>Conrad Ecklie</strong>: Catherine. (to the man he's talking with) Excuse me.</p>
+<p>(They continue down the hall together.) </p>
+<p><strong>Conrad Ecklie</strong>: I just got a call from the DA about you. Martin Sidley's attorney filed a motion to suppress.</p>
+<p><strong>Catherine</strong>: Oh, it's just posturing. There's no way that our search violated his rights.</p>
+<p><strong>Conrad Ecklie</strong>: Fortunately, the judge agreed with you.</p>
+<p><strong>Catherine</strong>: Good.</p>
+<p><strong>Conrad Ecklie</strong>: But ... we have been warned: Future searches of the residence are limited to areas specifically pertaining to the case at hand. And I think it's best if neither you nor Warrick went back to the house.</p>
+<p><strong>Catherine</strong>: Well, hopefully, we have to.</p>
+<p>(Warrick catches Catherine in the hallway with Ecklie.) </p>
+<p><strong>Warrick</strong>: Hey. I was able to get in touch with Caroline's father. He's on his way back to his house to pick up his daughter's toiletries, and he'll meet us back here.</p>
+<p><strong>Catherine</strong>: We're trying to get a DNA sample from Caroline's personal effects and compare it to a blood drop that was on the living room steps.</p>
+<p><strong>Warrick</strong>: Incidentally, I was able to speak with someone at WLVU. Tad Sidley was a student there, with the roommate. Now, Doc Robbins told me the kid had been dead for at least two weeks. I'd be interested in talking to the roommate to find out why no one reported him missing.</p>
+<p><strong>Catherine</strong>: Absolutely. </p>
+<p><strong>Warrick</strong>: Come with?</p>
+<p><strong>Catherine</strong>: Yeah.</p>
+<p>(Warrick and Catherine leave.) </p>
+<p><strong>Conrad Ecklie</strong>: (calls out) Okay, guys, good luck.</p>
+<p><strong>Catherine</strong>: Thank you.</p>
+<p>CUT TO:<br />
+[INT. WLVU CAMPUS - HALLWAY/DORM ROOM #62 -- DAY] </p>
+<p>(Catherine and Warrick walk up to Tad Sidley's dorm room. They knock on the door and the roommate answers.) </p>
+<p><strong>Roommate</strong>: Can I help you?</p>
+<p><strong>Catherine</strong>: This is Tad Sidley's dorm room, right?</p>
+<p><strong>Roommate</strong>: Yeah ... look, whatever he did, I wasn't involved.</p>
+<p><strong>Warrick</strong>: When was the last time you saw him?</p>
+<p><strong>Roommate</strong>: I-I don't know. A couple weeks ago.</p>
+<p><strong>Catherine</strong>: And why didn't you report him missing?</p>
+<p><strong>Roommate</strong>: Look, Tad's a third-year freshman. Or as he likes to call it, &quot;a three-peater.&quot; He disappears for weeks at a time. (rolls his eyes) What happened to him?</p>
+<p><strong>Catherine</strong>: He was murdered. May we come in?</p>
+<p>(He nods and they enter the room.) </p>
+<p><strong>Catherine</strong>: Were you and Tad good friends?</p>
+<p><strong>Roommate</strong>: No, not exactly.</p>
+<p><strong>Catherine</strong>: Why not?</p>
+<p><strong>Roommate</strong>: Look, I study my ass off. When Tad's here, he's baked for breakfast, lunch and dinner. He's distracting. He blares his music. He invites his friends over to party. He is ... or was ... inconsiderate. Fortunately, he wasn't around much.</p>
+<p><strong>Catherine</strong>: Any idea who killed him?</p>
+<p><strong>Roommate</strong>: Look, the guy was a pain in my ass, but everybody else seemed to love him. His dad's totally loaded, and tad was pretty generous.</p>
+<p><strong>Warrick</strong>: (interrupts) Catherine ...</p>
+<p>(He finds a yellow post-it on the bulletin board for<br />
+DON FITZGIBBONS<br />
+555-0154</p>
+<p><strong>Warrick</strong>: Don Fitzgibbons and a phone number?</p>
+<p><strong>Catherine</strong>: Caroline's dad. (to the roommate) What do you know about this?</p>
+<p><strong>Roommate</strong>: I never noticed it.</p>
+<p><strong>Warrick</strong>: You mind if I take it with me?</p>
+<p><strong>Roommate</strong>: Go ahead; take whatever you want. Look, there's this rumor going around campus that if your roommate dies, you get an automatic 4.0 for the semester. You know, because of all of the traumatic stress. Who ... who should I talk to about that?</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Hodges processes the plastic found on the Sidley roof. He removes it from the evidence bag. The label reads:<br />
+CRIME SCENE SEARCH EVIDENCE REPORT<br />
+NAME OF SUBJECT: JOHN DOE<br />
+OFFENSE: LVPD 06 02 15 1713<br />
+DATE OF INCIDENT: 02-15-06<br />
+TIME: 21:14<br />
+<strong>Search Officer</strong>: S. SIDLE<br />
+EVIDENCE DESCRIPTION: TRACE<br />
+LOCATION: SIDLEY ROOF</p>
+<p>(Hodges removes the piece of plastic, cuts a small piece off it and sticks it to a slide. He puts it under the scope and looks at it.)</p>
+<p>(He gets an analysis of the material. He prints out the analysis.) </p>
+<p>(Sara walks in.) </p>
+<p><strong>Hodges</strong>: Roof trace analysis. Afraid it's not going to be very helpful.</p>
+<p><strong>Sara</strong>: Why?</p>
+<p><strong>Hodges</strong>: Polyethylene plastic.</p>
+<p><strong>Sara</strong>: Compounds used in about a million different products.</p>
+<p><strong>Hodges</strong>: I hope that's not all you got.</p>
+<p>CUT TO:<br />
+[INT. CSI - OFFICE -- DAY] </p>
+<p>(Catherine talks with Don Fitzgibbons.) </p>
+<p><strong>Don Fitzgibbons</strong>: I don't understand. If you found blood in Sidley's house, why isn't he in jail? I mean, can't you at least hold him until you determine whether or not it's Caroline's?</p>
+<p><strong>Catherine</strong>: That's not my decision to be made. Unfortunately, the DA feels that we need more.</p>
+<p><strong>Don Fitzgibbons</strong>: (snorts) It's just like a year ago. It wasn't enough that I believed that Martin was sleeping with my daughter ... that she disappeared on the way to his house. Ms. Willows, the man paid her $800 for her photos and told her she had a great eye. (He gives the plastic bag to Catherine.) I brought her brushes and combs. Anything else I could find. Think you'll be able to get enough DNA off that stuff?</p>
+<p><strong>Catherine</strong>: Oh, yes, absolutely.</p>
+<p><strong>Don Fitzgibbons</strong>: I know the cops say that if you don't find them quickly, you don't usually find them alive. But every time the phone rings or there's a knock at the door, my first thought ... my first hope is that, uh ... it's Caroline.</p>
+<p><strong>Catherine</strong>: Mr. Fitzgibbons, we found your name and number written on a post-it in Tad Sidley's dorm room. Can you explain how it got there?</p>
+<p><strong>Don Fitzgibbons</strong>: When you guys were first investigating her disappearance, you couldn't get access to Sidley's place, so I appealed to his kid.</p>
+<p>(Quick flashback to: [INT. DORM ROOM-DAY] Don Fitzgibbons talks with Tad Sidley.) </p>
+<p><strong>Tad Sidley</strong>: Okay, look, I may not like my old man, but he's not a killer. And if you think he is, go to the cops.</p>
+<p><strong>Don Fitzgibbons</strong>: The cops can't get a warrant. I'm not saying he hurt Caroline, but maybe there's something in your house that will help me find her.</p>
+<p><strong>Tad Sidley</strong>: I'm sorry, okay? I'm sorry. I can't just ...</p>
+<p><strong>Don Fitzgibbons</strong>: Look, maybe you could just talk to him. Convince him to let me take a look around the place.</p>
+<p><strong>Tad Sidley</strong>: Look, I see my dad once a month... when I pick up my check. He's not going to listen to me.</p>
+<p><strong>Don Fitzgibbons</strong>: All right, if you change your mind, give me a call. Anytime.</p>
+<p>(Don Fitzgibbons writes down his name and number on a post-it, then places it on the bulletin board.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Don Fitzgibbons</strong>: Unfortunately, I never heard from him. Ms. Willows ... if the blood you found matches my daughter's DNA, tell me that the b*st*rd's going to jail ... for the rest of his life.</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - HALLWAY -- DAY] </p>
+<p>(Wendy Simms talks with Catherine and Warrick as they walk through the hallway.) </p>
+<p><strong>Wendy Simms</strong>: So the DNA I extracted from the hair on Caroline's brush is consistent with the blood found on the wood floor.</p>
+<p><strong>Warrick</strong>: Thank you. Case closed.</p>
+<p><strong>Catherine</strong>: Now wait a minute. We only found a single drop of blood. No doubt Sidley's attorney will argue that Caroline may have cut herself. He already admitted that she was in his house.</p>
+<p><strong>Warrick</strong>: Oh, come on, you saw the amount of fluorescence on that floor. You don't use a bucket of bleach to clean up a paper cut.</p>
+<p><strong>Catherine</strong>: Yeah, and you don't get a murder conviction off of a single drop of a victim's blood.</p>
+<p><strong>Wendy Simms</strong>: So you need to find the body.</p>
+<p><strong>Catherine</strong>: That would certainly help.</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE -- DAY] </p>
+<p>(Grissom is in his office looking at Tad Sidley's DMV photo in one hand and a photo of the burned body in his other. Sofia Curtis walks in.) </p>
+<p><strong>Sofia Curtis</strong>: Sorry to interrupt. As per protocol, Metro flagged Tad Sidley's credit cards. A couple of hours ago someone used his AMEX to purchase gas in Seven Hills.</p>
+<p><strong>Grissom</strong>: Is that someone in custody?</p>
+<p><strong>Sofia Curtis</strong>: Unfortunately, the Gas and Go cashier ran the card manually. So by the time the credit card company flagged the purchase, the guy had taken off. But the station has video surveillance and the cashier claims he could ID him. </p>
+<p><strong>Grissom</strong>: Have you told Nick and Sara?</p>
+<p><strong>Sofia Curtis</strong>: Nick's in the AV Lab now with the videotape and the cashier.</p>
+<p><strong>Grissom</strong>: So the next time this someone uses the credit card ...</p>
+<p><strong>Sofia Curtis</strong>: We're all over it.</p>
+<p>(Sofia leaves. Grissom gets up and leaves.) </p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB -- DAY] </p>
+<p>(Nick is going through the security video from the Gas and Go, while Larry, the cashier, stands next to him ready to ID the suspect.) </p>
+<p><strong>Nick</strong>: You sure you remember this guy who stole Tad Sidley's credit card?</p>
+<p><strong>Larry Smite</strong>: For sure. It was a platinum and the guy was like young. I mean, I couldn't even qualify for a VISA.</p>
+<p>(Grissom walks in.) </p>
+<p><strong>Nick</strong>: Grissom, meet Larry. Larry's from the Gas and Go.</p>
+<p><strong>Grissom</strong>: Thanks for coming in, Larry.</p>
+<p><strong>Larry Smite</strong>: Oh, for sure. </p>
+<p>(They go back to watching the video on the monitors. He sees something.) </p>
+<p><strong>Larry Smite</strong>: Wait. Stop ... stop the video.</p>
+<p>(Nick stops the video.) </p>
+<p><strong>Larry Smite</strong>: Yeah, I remember that jacket and the blond hair. That's his sweet car right behind him. Lucky son of a bitch. I drive an '82 Buick.</p>
+<p><strong>Grissom</strong>: Nick, try the unsharp mask.</p>
+<p>(Nick focuses in on the suspect in the video and zooms in. He's momentarily distracted when Larry starts hitting his hands together. The computer program adjusts the pixelation.) </p>
+<p><strong>Larry Smite</strong>: Yeah, that's it. That's him. That's your dude.</p>
+<p><strong>Grissom</strong>: That's Tad Sidley.</p>
+<p><strong>Larry Smite</strong>: That was the name on the credit card.</p>
+<p><strong>Grissom</strong>: Is this video from today?</p>
+<p><strong>Nick</strong>: Yeah, I downloaded it myself.</p>
+<p><strong>Grissom</strong>: Well, if that's Tad Sidley, who's in the morgue?</p>
+<p>CUT TO:<br />
+[INT. CSI - LAYOUT ROOM -- DAY] </p>
+<p>(Sara is in the layout room, the photos of both cases spread out on the table in front of her. Catherine walks in.) </p>
+<p><strong>Catherine</strong>: Hey. Thanks for your help.</p>
+<p><strong>Sara</strong>: No problem. I laid out the photos and sketches.</p>
+<p><strong>Catherine</strong>: Thank you.</p>
+<p><strong>Sara</strong>: What are you looking for exactly?</p>
+<p><strong>Catherine</strong>: When we showed up at the scene a year ago, Sidley wouldn't let us into his house. I'm guessing because the body was still inside.</p>
+<p><strong>Sara</strong>: He knew you'd detect the smell.</p>
+<p><strong>Catherine</strong>: Kind of like &quot;Telltale Heart.&quot;</p>
+<p><strong>Sara</strong>: Edgar Allan Poe.</p>
+<p><strong>Catherine</strong>: Guy commits a murder and buries the body under the floorboards of his house.</p>
+<p><strong>Sara</strong>: Catherine, I got to tell you, I don't see anything probative.</p>
+<p><strong>Willows</strong>: Are both these sketches drawn to the same scale?</p>
+<p><strong>Sara</strong>: Yeah, half inch equals a foot.</p>
+<p>(She puts the two sketches over each other.) </p>
+<p><strong>Catherine</strong>: All right ... the attic is above the living room. They both share the same chimney.</p>
+<p><strong>Sara</strong>: Yeah? What are you thinking?</p>
+<p><strong>Catherine</strong>: The east wall of the house is 17 feet from the chimney in the living room. But that same east wall is only 14 feet from the chimney in the attic. When you retrieved the body, did you excavate the entire chimney?</p>
+<p><strong>Sara</strong>: No. We just removed the bricks from the west-facing side.</p>
+<p>CUT TO:<br />
+[INT. SIDLEY RESIDENCE - ATTIC -- DAY] </p>
+<p>(Sara and Catherine are in the attic. Sara is drilling through the bricked-up chimney.) </p>
+<p><strong>Catherine</strong>: There's no question that somebody extended the brick exterior of this chimney. There's a slight color disparity between the old and the new bricks.</p>
+<p>(Sara breaks through the bricks and pulls them out.) </p>
+<p><strong>Sara</strong>: It's hollow. There's no clay backing. This is just a facade.</p>
+<p>(She clears a hole in the chimney and stops.) </p>
+<p><strong>Sara</strong>: Catherine ... we found her.</p>
+<p>(Catherine looks at the petrified body inside.) </p>
+<p><strong>Sara</strong>: She was still bleeding when she was brought here.</p>
+<p><strong>Catherine</strong>: Which means that her heart was probably still beating.</p>
+<p><strong>Sara</strong>: This isn't the &quot;Telltale Heart,&quot; it's the &quot;Cask of Amontillado.&quot; She was sealed into a wall and left to die.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]</p>
+<p>[EXT. STREET -- NIGHT] </p>
+<p>(Officer Clark reports to Sofia and they both walk over to Tad Sidley. ) </p>
+<p><strong>Sofia Curtis</strong>: I just got your page. Did he stick around?</p>
+<p><strong>Officer Clark</strong>: Yeah, we explained the situation, and he thinks it's hilarious.</p>
+<p><strong>Sofia Curtis</strong>: Tad, Detective Curtis. I'm glad to see you're okay.</p>
+<p><strong>Tad Sidley</strong>: (chuckles) Yeah, me, too. Uh, he said you wanted to talk to me?</p>
+<p><strong>Sofia Curtis</strong>: Yeah. Where have you been for the past few weeks?</p>
+<p><strong>Tad Sidley</strong>: Tijuana, L.A., quick stop in Santa Barbara. Just got back this morning.</p>
+<p><strong>Sofia Curtis</strong>: Any idea how your gym membership got into a dead man's pocket?</p>
+<p>( Chuckles )</p>
+<p><strong>Tad Sidley</strong>: No. I'm sorry, I didn't even know it was missing. I'm-I'm not exactly big on the weights, you know? Look, uh ... I'm late for a movie. You mind if I get out of here?</p>
+<p><strong>Sofia Curtis</strong>: Sure. I'd just like to get your cell phone number.</p>
+<p><strong>Tad Sidley</strong>: Gonna ask me out?</p>
+<p><strong>Sofia Curtis</strong>: It's just in case I have any further questions.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(Robbins reports his findings to Catherine.) </p>
+<p><strong>Robbins</strong>: Caroline did not go gently.</p>
+<p><strong>Catherine</strong>: Defensive marks?</p>
+<p>(He shows her the marks on the arm.) </p>
+<p><strong>Robbins</strong>: Ten on her right forearm.</p>
+<p>(Quick flash to: Caroline screams as she's being attacked by someone with a knife. End of flash.) </p>
+<p><strong>Robbins</strong>: Another three on the left.</p>
+<p>(Quick flash to: Caroline screams as she's being attacked by someone with a knife. End of flash.) </p>
+<p><strong>Robbins</strong>: And several more on the palms.</p>
+<p>(Quick flash to: Caroline screams as she's being attacked by someone with a knife. End of flash.) </p>
+<p><strong>Robbins</strong>: Catherine, there are tears on her labia and hymen. Too much time's passed to check for semen, but she was raped.</p>
+<p><strong>Catherine</strong>: We found a potential blood pool in the living room and another much more substantial one in the attic -- is that consistent with your findings?</p>
+<p><strong>Robbins</strong>: Yeah. Caroline was stabbed four times: twice to the abdomen, one to the spleen, one to the intercostal artery. No vital organs were penetrated, which means she would have bled to death slowly. </p>
+<p><strong>Catherine</strong>: Probably stabbed in the living room and then moved to the attic where she continued to bleed until she died.</p>
+<p>(Grissom walks in.) </p>
+<p><strong>Grissom</strong>: Is the chimney guy still in your drawer?</p>
+<p><strong>Robbins</strong>: Yeah, right over there.</p>
+<p>(Grissom opens the drawer.) </p>
+<p><strong>Catherine</strong>: What's going on?</p>
+<p><strong>Grissom</strong>: Tad Sidley is alive. We assumed that this guy was Tad, based on a gym membership card we found on his body -- we were wrong. This guy is now a John Doe.</p>
+<p><strong>Catherine</strong>: Does his father know?</p>
+<p><strong>Grissom</strong>: Not yet.</p>
+<p><strong>Catherine</strong>: Well, I'm on my way to the PD to meet up with him and his lawyer --<br />
+I'll give him the good news.</p>
+<p>(Catherine leaves.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY]</p>
+<p>(Catherine interviews Martin Sidley in the presence of his lawyer, Duane McWane.) </p>
+<p><strong>Martin Sidley</strong>: Like I've already told you, Caroline and I were friends. Now, if you keep this up, I'm gonna file a harassment charge against you personally.</p>
+<p><strong>Duane McWane</strong>: Ms. Willows, on the phone you said that you had new information regarding my client's son?</p>
+<p><strong>Catherine</strong>: Yes, I will get to that. But first I wanted to let both of you know that Caroline's body was recovered in Mr. Sidley's attic.</p>
+<p><strong>Martin Sidley</strong>: What?</p>
+<p><strong>Catherine</strong>: The coroner confirmed that she was raped, stabbed and bled to death.</p>
+<p><strong>Duane McWane</strong>: Wait a minute. You searched the house again? Ms. Willows, I thought that the judge was perfectly clear.</p>
+<p><strong>Catherine</strong>: I searched the chimney, specifically, in accordance with the original warrant and subsequent limitation. </p>
+<p><strong>Martin Sidley</strong>: I didn't do it, I swear.</p>
+<p><strong>Catherine</strong>: You live alone, Mr. Sidley ... and you have no idea how her body got bricked into your attic? Oh, come on. What happened? Did she say no one too many times?</p>
+<p><strong>Duane McWane</strong>: Ms. Willows, you are way over the line.</p>
+<p><strong>Catherine</strong>: If you didn't kill her, Mr. Sidley, then tell me, is there anyone else who had access to your house? Who else could have raped Caroline under your roof?</p>
+<p><strong>Martin Sidley</strong>: I know what happened.</p>
+<p><strong>Duane McWane</strong>: Martin ... </p>
+<p><strong>Martin Sidley</strong>: No. I've been covering too long. I need to tell the truth. I was out of town, I came home early. I heard noise coming from the attic.</p>
+<p>(Quick flashback to: [INT. SIDLEY RESIDENCE - ATTIC - DAY] Martin Sidley walks into the attic and finds Tad bricking up the chimney.) </p>
+<p><strong>Martin Sidley</strong>: (V.O.) He told me that they'd been seeing each other...</p>
+<p><strong>Martin Sidley</strong>: What's going on?</p>
+<p><strong>Tad Sidley</strong>: Dad ...</p>
+<p><strong>Martin Sidley</strong>: ... that they'd gotten into a fight, and he raped and killed her.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Martin Sidley</strong>: I should have told the police, but ... she was already dead. He's my son. I wanted to protect him. I didn't know what else to do. He's been out of cont--</p>
+<p>[OBSERVATION ROOM]</p>
+<p>(Tad Sidley is in the observation watching the interview. He sniffles.) </p>
+<p><strong>Tad Sidley</strong>: (quietly) Son of a bitch.</p>
+<p>(He turns to look at Sofia and Warrick.) </p>
+<p><strong>Tad Sidley</strong>: He's lying.</p>
+<p><strong>Sofia Curtis</strong>: Do you want to tell us what actually happened?</p>
+<p><strong>Tad Sidley</strong>: (shakes his head) I have no idea what really happened. I met her once ... at the house. A month or so later, I see her on the news -- she's missing. I can tell you that for two weeks after that, he wouldn't let me anywhere near the house. Claimed that he was painting, and he didn't want me breathing in the fumes. </p>
+<p>(Quick flashback to: [INT. SIDLEY RESIDENCE - ATTIC - DAY] Martin Sidley is bricking up the chimney in the attic. End of flashback. Resume to present.) </p>
+<p><strong>Tad Sidley</strong>: He killed her. I'm sure of it.</p>
+<p><strong>Warrick</strong>: Well, if you'd like to have a word with your old man, I'd say now would be the time.</p>
+<p>(Tad quickly exits the observation room.) </p>
+<p>[INTERVIEW ROOM]</p>
+<p>(Tad enters the interview.) </p>
+<p><strong>Tad Sidley</strong>: Hi, Dad. I heard everything.</p>
+<p>(He stands up.) </p>
+<p><strong>Martin Sidley</strong>: Tad ... son, you're ...</p>
+<p><strong>Tad Sidley</strong>: Yeah. I'm not dead. You're dead to me.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY - DAY]</p>
+<p>(Catherine is in the hallway when her phone rings.) </p>
+<p><strong>Catherine</strong>: (to phone) This is Catherine.</p>
+<p>INTERCUT WITH:</p>
+<p>[INT. CSI - PRINT LAB - DAY]</p>
+<p>(Sara is on the phone.) </p>
+<p><strong>Sara</strong>: (to phone) Hey, Cat, when you're done at the PD, can you head over to the Print Lab? There's something you're gonna want to see.</p>
+<p><strong>Catherine</strong>: I'm on my way.</p>
+<p>FLASH TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) -- NIGHT]</p>
+<p>[INT. CSI - LAB -- DAY] </p>
+<p>(Sara is in the Print Lab.) </p>
+<p><strong>Sara</strong>: Hi.</p>
+<p><strong>Catherine</strong>: Hi.</p>
+<p>(Catherine walks in.) </p>
+<p><strong>Sara</strong>: I know why a John Doe was stuffed down the Sidley's chimney. When you and Warrick were working that missing person's case, you couldn't get a warrant, and Martin wouldn't let you in, right?</p>
+<p><strong>Catherine</strong>: Right.</p>
+<p><strong>Sara</strong>: Don Fitzgibbons tried to gain access to the house through the son ... </p>
+<p><strong>Catherine</strong>: But the son wouldn't cooperate.</p>
+<p><strong>Sara</strong>: I think he knew that if the house became a crime scene, CSI could get in there.</p>
+<p><strong>Catherine</strong>: Well, it's a logical theory, but to kill someone and stuff him in a chimney in hopes of getting information on your missing daughter ...</p>
+<p>(Sara pulls up the prints.) </p>
+<p><strong>Sara</strong>: Check out the screen. On the left is an unknown fingerprint I lifted off the chimney cap. On the right is a partial I lifted off of Don Fitzgibbons' post-it you took out of Tad's dorm room. Now, the print on the post-it is only a partial, but it's a match to the chimney cap.</p>
+<p>(She compares the prints. They match.) </p>
+<p><strong>Sara</strong>: I also found trace evidence on the roof. Polyethylene plastic. Don Fitzgibbons works at Desert Palms Hospital. I just got off the phone with the administrator. The hospital's body bags are made out of ...</p>
+<p><strong>Catherine</strong>: Polyethylene plastic?</p>
+<p><strong>Sara</strong>: Don Fitzgibbons has access to those body bags.</p>
+<p>(Quick flashback to: [EXT. SIDLEY RESIDENCE - ROOFTOP - NIGHT] Don Fitzgibbons is up on the roof and pulls the body in the body bag up to the chimney. He pulls the body bag and snags it on the roofing. A piece is left behind.) </p>
+<p>(He climbs up the chimney and unscrews the chimney cap. He takes the body out of the bag and dumps it into the chimney.) </p>
+<p>END OF FLASHBACK CUT TO: </p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Catherine talks with Don Fitzgibbons.) </p>
+<p><strong>Don Fitzgibbons</strong>: It's true. All of it. You gonna arrest me?</p>
+<p><strong>Catherine</strong>: You just admitted to murder; I think you know the answer.</p>
+<p><strong>Don Fitzgibbons</strong>: Hold on. I didn't kill anyone.</p>
+<p><strong>Catherine</strong>: And the body in the chimney?</p>
+<p><strong>Don Fitzgibbons</strong>: (sighs) I took the body from Desert Palms Hospital, from the morgue. He was already dead, a John Doe. Auto accident in a stolen vehicle. Car exploded, he was burned beyond recognition. Ms. Willows, I stole a dead body and I trespassed, but that's it.</p>
+<p><strong>Catherine</strong>: And Tad Sidley's ID? Did you place the gym card on the body?</p>
+<p><strong>Don Fitzgibbons</strong>: You're a mother, right?</p>
+<p><strong>Catherine</strong>: Yes.</p>
+<p><strong>Don Fitzgibbons</strong>: Why do you think I did it?</p>
+<p><strong>Catherine</strong>: You wanted Martin Sidley to know what it's like to lose a child.</p>
+<p><strong>Don Fitzgibbons</strong>: (nods) When I was in Tad's dorm room, I snagged it. I scorched the surface of the card to make it look like it belonged to the John Doe ... to make Martin believe that it was his son. I'd hoped that you'd be able to restore the image. (crying) Look ... I wish I could say that I was sorry for the trouble I've put you through, or the-the petty crimes that I've committed, but I didn't hurt anyone ... and Martin Sidley is behind bars, and my daughter's getting her funeral. And that's all I wanted.</p>
+<p><strong>Catherine</strong>: I'm sorry. I'm sorry that we couldn't find your daughter without your help.</p>
+<p>(He nods.) </p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-							COLD OPEN.
-
-
-
- 
- 
-Angie: You know, first time I had s*x was in front of a fire ... on a bear skin rug.
- 
-Angie: It was so romantic.
-
-Martin Sidley: Gee, and all this time ... I thought you were still a virgin.
-Angie:  Yeah, right. You only asked for my number 'cause you heard I was easy.
-Martin Sidley: Oh, you found me out.
-Angie: I did.
- 
-Angie: Cheers.
- 
-Angie: Oh, my God!
-
-
- 
- 
- 
-Fireman: We've got a body! Alert homicide and CSI!
-
- 
- 
- 
- 
-Sara: Chimney extends about four feet from the roofline ... assuming the vic was average height ... and didn't curl up ... head should be right about here.
- 
-Nick: Good!
- 
-Nick: Okay.
- 
-Sara: Whew! Smoldering flesh has the stench of burnt pork ... except much worse.
-Nick: I smell a little decomp, but mostly the fireplace down below. The body's really positioned too far to be in that condition.
-Sara: Which means ... the vic was charbroiled somewhere else, tossed in the chimney, and smoked.
- 
-CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Nick: Check out that mold. It's just eating away at the flesh.
-David Phillips: That much mold would suggest he was burned at least a few days ago.
-Nick: He?
-David Phillips: I measured the pelvic bone -- sub-pubic angle's less than ninety degrees. He's male. Any suggestions on how to proceed? 
-Nick: Wrap and roll.
-David Phillips: Great.
- 
-Nick: Okay, you get the head.
-David Phillips: Okay.
-Nick: On three ...
-David Phillips: Yeah.
-Nick: One, two ... three.
- 
-David Phillips: Mm! He's lighter than I expected.
-Nick: Most of the muscle and flesh have burned away. He's pretty well drained of fluids. He probably weighed twice as much when he was alive.
-David Phillips: Well, that would explain how the killer was able to carry him up to the roof and then foist him down the chimney.
-Nick: Yeah. Get him to the morgue.
-
-
- 
-Martin Sidley: I started the fire and the smoke just started pouring out.
-Sofia Curtis: And it was just the two of you in the house.
-Martin Sidley: Yeah. 
-
- 
-Angie: I had just gotten off work; I came over for a nightcap.
-Brass: So how long have you known each other?
-Angie: Mm ... a few months.
-Sofia Curtis: Do you live alone?
-Martin Sidley: Yeah. Divorced. Have a son in college.
-Sofia Curtis: Did you hear anything up on the roof in the past week or so?
-Martin Sidley: Well, no, I was out of town on business till yesterday.
-Sofia Curtis: And when was the last time you used the fireplace?
-Martin Sidley: A few months ago ... around Christmas.
-Brass: I mean, there was a dead man in your chimney. Didn't you notice anything when you lit the fireplace?
-Angie: Martin's got a rat problem. Um ... the little suckers get caught in the traps, and just stink for a couple of days. We smelled something, but we figured it was ...
-Martin Sidley: ... a rat.
-Sara:  Excuse me, Mr. Sidley? 
- 
-Sara: There's a ladder leaning against the side of the house ... ?
-Martin Sidley: Yeah, that's mine. It been there since ... about New Year's, when I took down the Christmas lights.
-Sara: I'd like to get a set of your fingerprints. I'm going to be dusting the ladder for prints. I'd like to eliminate yours.
-Martin Sidley: Yeah, sure.
-
-
- 
- 
- 
-Nick: Crispy on the outside, tender on the inside?
-David Phillips: Crispy though and through. Based on the melted fibers, he was probably wearing a polyester shirt.
-Nick: Well, synthetics are just plastic polymers. They melt instead of burn.
- What's that?
-David Phillips: Oh, some sort of plastic. I found it where his shirt pocket would've been. I'm thinking maybe a credit card.
-Nick: Good, good. I'll work it up; try to get an ID.
-
- 
- 
-Warrick: Catherine ...
-Catherine: Yeah.
-Warrick: Do you remember this Caroline Fitzgibbons case? About a year ago? 
- 
-Catherine: Of course I do, yeah. Missing person, we never found her.
-Brown: Yeah, she was a minor, allegedly having an affair with a Mr. Martin ... Sidley?
-Catherine: Ugh, yeah, what a creep.
- 
-Martin Sidley: She's an aspiring photographer. I recently purchased several of her self-portraits.
-Catherine: Mr. Sidley, her father says that she was headed over here the day before yesterday, and he hasn't heard from her since. 
-Warrick: Would you mind if we come in?
-Martin Sidley: You know, now's not a good time. So, unless you have a warrant, the answer is no.
- 
-
-
- 
- 
-Sara: What are you guys doing here?
-Warrick: We were hoping that you'd invite us to help out with your investigation.
-Sara: Invite you?!
-Catherine: Warrick and I were looking for a missing person about a year ago, and we tried to get a warrant to search this residence. The owner denied us access.
-Sara: Now that it's a crime scene, it's fair game, if you're part of the investigation. 
-Warrick: You're picking up what we're putting down. 
-Sara: Well, I've processed room-to-room, photo-documented, sketched the layout ... feel free to dig a little deeper. I'm gonna dust the chimney for prints. I'll be on the roof for awhile.
-
- 
-
-Greg: I'll take &quot;video spectral analysis&quot; for two hundred, Nick.
-Nick: Yeah, it's a charred piece of plastic found in chimney guy's pocket. It may be a credit card. I'm trying to get some ID off of it.
-Greg: That's a gym membership card.
-Nick: How do you know that?
-Greg: The logo in the corner -- it's Burt's Gym -- I belong to the one on Flamingo.
-Nick: Oh, yeah? You, uh ... been pumping iron there, Greg?
-Greg: Yeah, a little, uh ... Muy Thai. It's competitive kickboxing. Gotta balance weights with cardio, you know what I mean?
-Nick: Yeah, okay, thanks. Anyway, I'll, uh, check it. Maybe I can get a membership name.
-Greg: Oh, you won't. Member names are printed in black ink. VSA only brings out the colors.
-Nick: Oh. Maybe it'll help us clear up the photo.
- 
-Nick: Nice.
-
- 
- 
-
-
- 
- 
- 
- 
-(She takes out a camera and snaps a photo of the vent. She dusts and finds a print.
- 
-
- 
- 
- 
- 
-Warrick: Well, hello, Caroline. She was, what, like 16? Isn't it a felony to purchase pornographic pictures of a minor?
-
-Catherine: Well, believe it or not, exceptions are made for photographs with serious artistic or scientific merit.
- 
-Warrick:  Oh, yeah. These look real scientific.
-
-Catherine: I don't make the rules. So found a large, diffuse pool of fluorescence here on the wood floor. It's consistent with bleach or some other cleaning compound.
-Warrick: Bleach on a wood floor, huh?
-Catherine: Mm.
-Warrick: I presume you pheno'ed it?
-Catherine: Yeah. It was negative for blood.
- 
-Catherine: What are you doing?
-Warrick: I'm looking for the tiniest crack between the planks. You know, you can scrub blood off a surface, but you can't scrub beneath it.
- 
-Warrick: Yeah ...
-
-Warrick: We got blood.
-
- 
- 
-Martin Sidley: As I told you last year, I knew Caroline professionally. We had coffee a couple of times. She was a promising photographer; I'm a collector. We had a lot to talk about.
-Catherine: How many times is &quot;a couple of times&quot;?
-Martin Sidley: I don't know, five or six times over a month or two.
-Catherine: Were they dates?
-Martin Sidley: Well, we weren't having sexual relations, if that's what you're getting at.
-Catherine: Was she ever in your house?
-Martin Sidley: Yeah, I invited her over to see my collection. Look, I'll admit that I was attracted to her, but when she told me her real age, I told her, it was inappropriate for us to see each other.
-Catherine: How very responsible of you. And you had that conversation how many days before she went missing?
-Duane McWane: I'm sorry, but we're not here to talk about Caroline, all right? So unless you're on some kind of cold-case fishing expedition ...
-Catherine: We found an old blood pool in your living room. You want to tell me about that?
-Duane McWane: Don't answer that. Ms. Willows, let's get something straight. You found a body in the chimney, so you searched his house for clues, but you had no legal right to look for any evidence unrelated to this case.
-Catherine: We were just working the scene.
-
-Catherine: This piece of wood was pried from your living room. The surface was scrubbed with a cleaning agent, but we found a spot of blood ... right there.
- 
-Martin Sidley: You mean, you ripped up my damn floor. What is going on here?
-Duane McWane: As soon as this is over, I intend to file an emergency motion to limit the scope or your warrant. I also intend to file a motion in limine to exclude this evidence, which was illegally seized, in violation of my client's fourth amendment rights. 
-Catherine: This house was processed in accordance with CSI protocol, but do what you have to do.
-Martin Sidley: You've been coming at me since day one, and I'm starting to resent it.
-Duane McWane: Martin ...
-Martin Sidley: You have a problem with me because I appreciate younger women? I had nothing to do with that girl's disappearance. You want to come after me? You're going to regret it.
-Catherine: Your client has a bit of a temper.
-Duane McWane: Well, if you don't have any questions pertaining to the dead body in his chimney, we're done here.
-
- 
-Catherine: Sit down. Please. 
- 
-
- 
-Catherine: Gentlemen, this is Nick Stokes. He's a colleague of mine. We found identification on the decedent in the chimney.
-Nick: A gym card. Actually, it was found in his pocket. The Crime Lab restored the charred image, but we couldn't get a name. We we're hoping you could help make a positive ID.
- 
- 
-Martin Sidley: This belonged to the person in my chimney?
-Nick: Yes, sir. You recognize him?
-Martin Sidley: Well, this is-this is Tad. This is my son.
-
-
-
-
- 
- 
-Nick: Let me guess: He burned to death.
-Robbins: I can't confirm COD.
-Nick: Come on, Doc, this isn't a hard one. 
-Robbins: His bones are fractured; check out the femur.
-Nick: It's not uncommon to find bone fractures in fire victims.
- 
-Nick:  The body produces heat, causing the long bones to contract and fracture.
- 
-Robbins: Well, that's right, but check out the chips in the skull.
-Nick: Bone chipping is also a symptom of extreme heat.
-
-Robbins:  Very good. So, if we didn't know better, fire could be the cause of death.
- 
-Nick: What are you getting at?
-Robbins: You see the blood spot on the interior of the forehead?
-Nick: Yeah ...
-Robbins: As far as I know, fire can't explain a subdural hematoma.
-Nick: No. No, it can't.
-Robbins: Our victim suffered blunt force trauma, prior to going up in flames.
-
- 
- 
-
-
- 
- 
-Sara: How are you doing on the prints?
-Mandy Webster: Well, all three prints from the chimney are consistent with each other. I compared them to the homeowner's prints and his son's prints; the work card's in the system. There's no match. I'm running the print through I-AFIS.
-Sara: What about the print from the chimney cap?
-Mandy Webster: There's not a match to the chimney prints, not a match to either Sidley. There's no hits on I-AFIS. I'm sorry.
-Sara: Not your fault.
-(The computer beeps and finds a match to:
-NAME: JONATHAN WAX
-
-DOB: 04-14-78
-AGE: 27 HEIGHT: 5'10&quot;
-WEIGHT: 163 LBS EYES: BROWN
-RACE: CAUCASIAN s*x: MALE
-HAIR: BROWN
-LAST KNOWN ADDRESS:
-2128 DESERT WAY
-HENDERSON, NV 89012
-ALIAS: NONE
-CRIMINAL HISTORY:
-STATUE: NRS 200-366
-ARREST: ATTEMPTED RAPE
-CONVICTIONS: SENTENCED 4 YEARS
-DISPOSITIONS: RELEASED OCTOBER 2005 )
-Mandy Webster: At least you got yourself a match for the chimney prints -- a Jonathan Wax, from Henderson, served four years for attempted rape and he was released six months ago.
-Sara: Thank you.
-Mandy Webster: You're welcome.
-
- 
- 
-Jonathan Wax: I served my time. What do you want with me now?
-Sara: &quot;Attempted rape.&quot; What exactly happened?
-Jonathan Wax: Pepper spray. That stuff really stings.
-Sara: Uh, what can you tell me about, um, Tad Sidley?
-Jonathan Wax:  Who?
-(Sara puts the DMV license photo on the table for TAD SIDLEY
-247 DUNPHY RD.
-LAS VEGAS, NV 89101
-Jonathan Wax: Sorry.
- 
-Sara: Maybe you remember him a little more like this?
-
-Jonathan Wax:  Holy mother ... 
-Sara: He was murdered, set on fire, stuffed in a chimney, and the only prints on the chimney are yours.
-Jonathan Wax: You said the last name was Sidley?
-Sara: Uh-huh.
-Jonathan Wax: Well, I worked a Sidley place out near Lake Mead, right?
-Sara: What were you doing on the roof?
-Jonathan Wax: That's what I do -- Chad's Chimney Sweeps. I clean fireplaces and chimneys. I was out at that Sidley place about a month ago. You can call Chad. I remember that place. Man, that guy had one big-ass chimney.
-Sara: I don't suppose you saw a body while you were there?
-Jonathan Wax: Look, I may be an ex-con, but even I would've dialed 9-1-1.
-
- 
- 
-Conrad Ecklie: Catherine.  Excuse me.
- 
-Conrad Ecklie: I just got a call from the DA about you. Martin Sidley's attorney filed a motion to suppress.
-Catherine: Oh, it's just posturing. There's no way that our search violated his rights.
-Conrad Ecklie: Fortunately, the judge agreed with you.
-Catherine: Good.
-Conrad Ecklie: But ... we have been warned: Future searches of the residence are limited to areas specifically pertaining to the case at hand. And I think it's best if neither you nor Warrick went back to the house.
-Catherine: Well, hopefully, we have to.
- 
-Warrick: Hey. I was able to get in touch with Caroline's father. He's on his way back to his house to pick up his daughter's toiletries, and he'll meet us back here.
-Catherine: We're trying to get a DNA sample from Caroline's personal effects and compare it to a blood drop that was on the living room steps.
-Warrick: Incidentally, I was able to speak with someone at WLVU. Tad Sidley was a student there, with the roommate. Now, Doc Robbins told me the kid had been dead for at least two weeks. I'd be interested in talking to the roommate to find out why no one reported him missing.
-Catherine: Absolutely. 
-Warrick: Come with?
-Catherine: Yeah.
- 
-Conrad Ecklie:  Okay, guys, good luck.
-Catherine: Thank you.
-
- 
- 
-Roommate: Can I help you?
-Catherine: This is Tad Sidley's dorm room, right?
-Roommate: Yeah ... look, whatever he did, I wasn't involved.
-Warrick: When was the last time you saw him?
-Roommate: I-I don't know. A couple weeks ago.
-Catherine: And why didn't you report him missing?
-Roommate: Look, Tad's a third-year freshman. Or as he likes to call it, &quot;a three-peater.&quot; He disappears for weeks at a time.  What happened to him?
-Catherine: He was murdered. May we come in?
- 
-Catherine: Were you and Tad good friends?
-Roommate: No, not exactly.
-Catherine: Why not?
-Roommate: Look, I study my ass off. When Tad's here, he's baked for breakfast, lunch and dinner. He's distracting. He blares his music. He invites his friends over to party. He is ... or was ... inconsiderate. Fortunately, he wasn't around much.
-Catherine: Any idea who killed him?
-Roommate: Look, the guy was a pain in my ass, but everybody else seemed to love him. His dad's totally loaded, and tad was pretty generous.
-Warrick:  Catherine ...
-(He finds a yellow post-it on the bulletin board for
-DON FITZGIBBONS
-555-0154
-Warrick: Don Fitzgibbons and a phone number?
-Catherine: Caroline's dad.  What do you know about this?
-Roommate: I never noticed it.
-Warrick: You mind if I take it with me?
-Roommate: Go ahead; take whatever you want. Look, there's this rumor going around campus that if your roommate dies, you get an automatic 4.0 for the semester. You know, because of all of the traumatic stress. Who ... who should I talk to about that?
-
- 
-(Hodges processes the plastic found on the Sidley roof. He removes it from the evidence bag. The label reads:
-CRIME SCENE SEARCH EVIDENCE REPORT
-NAME OF SUBJECT: JOHN DOE
-OFFENSE: LVPD 06 02 15 1713
-DATE OF INCIDENT: 02-15-06
-TIME: 21:14
-Search Officer: S. SIDLE
-EVIDENCE DESCRIPTION: TRACE
-LOCATION: SIDLEY ROOF
-
- 
- 
-Hodges: Roof trace analysis. Afraid it's not going to be very helpful.
-Sara: Why?
-Hodges: Polyethylene plastic.
-Sara: Compounds used in about a million different products.
-Hodges: I hope that's not all you got.
-
- 
- 
-Don Fitzgibbons: I don't understand. If you found blood in Sidley's house, why isn't he in jail? I mean, can't you at least hold him until you determine whether or not it's Caroline's?
-Catherine: That's not my decision to be made. Unfortunately, the DA feels that we need more.
-Don Fitzgibbons:  I brought her brushes and combs. Anything else I could find. Think you'll be able to get enough DNA off that stuff?
-Catherine: Oh, yes, absolutely.
-Don Fitzgibbons: I know the cops say that if you don't find them quickly, you don't usually find them alive. But every time the phone rings or there's a knock at the door, my first thought ... my first hope is that, uh ... it's Caroline.
-Catherine: Mr. Fitzgibbons, we found your name and number written on a post-it in Tad Sidley's dorm room. Can you explain how it got there?
-Don Fitzgibbons: When you guys were first investigating her disappearance, you couldn't get access to Sidley's place, so I appealed to his kid.
- 
-Tad Sidley: Okay, look, I may not like my old man, but he's not a killer. And if you think he is, go to the cops.
-Don Fitzgibbons: The cops can't get a warrant. I'm not saying he hurt Caroline, but maybe there's something in your house that will help me find her.
-Tad Sidley: I'm sorry, okay? I'm sorry. I can't just ...
-Don Fitzgibbons: Look, maybe you could just talk to him. Convince him to let me take a look around the place.
-Tad Sidley: Look, I see my dad once a month... when I pick up my check. He's not going to listen to me.
-Don Fitzgibbons: All right, if you change your mind, give me a call. Anytime.
-(Don Fitzgibbons writes down his name and number on a post-it, then places it on the bulletin board.
- 
-Don Fitzgibbons: Unfortunately, I never heard from him. Ms. Willows ... if the blood you found matches my daughter's DNA, tell me that the b*st*rd's going to jail ... for the rest of his life.
-
-
-
-;
-
-
-
- 
- 
-Wendy Simms: So the DNA I extracted from the hair on Caroline's brush is consistent with the blood found on the wood floor.
-Warrick: Thank you. Case closed.
-Catherine: Now wait a minute. We only found a single drop of blood. No doubt Sidley's attorney will argue that Caroline may have cut herself. He already admitted that she was in his house.
-Warrick: Oh, come on, you saw the amount of fluorescence on that floor. You don't use a bucket of bleach to clean up a paper cut.
-Catherine: Yeah, and you don't get a murder conviction off of a single drop of a victim's blood.
-Wendy Simms: So you need to find the body.
-Catherine: That would certainly help.
-
- 
- 
-Sofia Curtis: Sorry to interrupt. As per protocol, Metro flagged Tad Sidley's credit cards. A couple of hours ago someone used his AMEX to purchase gas in Seven Hills.
-Grissom: Is that someone in custody?
-Sofia Curtis: Unfortunately, the Gas and Go cashier ran the card manually. So by the time the credit card company flagged the purchase, the guy had taken off. But the station has video surveillance and the cashier claims he could ID him. 
-Grissom: Have you told Nick and Sara?
-Sofia Curtis: Nick's in the AV Lab now with the videotape and the cashier.
-Grissom: So the next time this someone uses the credit card ...
-Sofia Curtis: We're all over it.
- 
-
- 
- 
-Nick: You sure you remember this guy who stole Tad Sidley's credit card?
-Larry Smite: For sure. It was a platinum and the guy was like young. I mean, I couldn't even qualify for a VISA.
- 
-Nick: Grissom, meet Larry. Larry's from the Gas and Go.
-Grissom: Thanks for coming in, Larry.
-Larry Smite: Oh, for sure. 
- 
-Larry Smite: Wait. Stop ... stop the video.
- 
-Larry Smite: Yeah, I remember that jacket and the blond hair. That's his sweet car right behind him. Lucky son of a bitch. I drive an '82 Buick.
-Grissom: Nick, try the unsharp mask.
- 
-Larry Smite: Yeah, that's it. That's him. That's your dude.
-Grissom: That's Tad Sidley.
-Larry Smite: That was the name on the credit card.
-Grissom: Is this video from today?
-Nick: Yeah, I downloaded it myself.
-Grissom: Well, if that's Tad Sidley, who's in the morgue?
-
- 
- 
-Catherine: Hey. Thanks for your help.
-Sara: No problem. I laid out the photos and sketches.
-Catherine: Thank you.
-Sara: What are you looking for exactly?
-Catherine: When we showed up at the scene a year ago, Sidley wouldn't let us into his house. I'm guessing because the body was still inside.
-Sara: He knew you'd detect the smell.
-Catherine: Kind of like &quot;Telltale Heart.&quot;
-Sara: Edgar Allan Poe.
-Catherine: Guy commits a murder and buries the body under the floorboards of his house.
-Sara: Catherine, I got to tell you, I don't see anything probative.
-Willows: Are both these sketches drawn to the same scale?
-Sara: Yeah, half inch equals a foot.
- 
-Catherine: All right ... the attic is above the living room. They both share the same chimney.
-Sara: Yeah? What are you thinking?
-Catherine: The east wall of the house is 17 feet from the chimney in the living room. But that same east wall is only 14 feet from the chimney in the attic. When you retrieved the body, did you excavate the entire chimney?
-Sara: No. We just removed the bricks from the west-facing side.
-
- 
- 
-Catherine: There's no question that somebody extended the brick exterior of this chimney. There's a slight color disparity between the old and the new bricks.
- 
-Sara: It's hollow. There's no clay backing. This is just a facade.
- 
-Sara: Catherine ... we found her.
- 
-Sara: She was still bleeding when she was brought here.
-Catherine: Which means that her heart was probably still beating.
-Sara: This isn't the &quot;Telltale Heart,&quot; it's the &quot;Cask of Amontillado.&quot; She was sealed into a wall and left to die.
-
-
-
-
-
- 
- 
-Sofia Curtis: I just got your page. Did he stick around?
-Officer Clark: Yeah, we explained the situation, and he thinks it's hilarious.
-Sofia Curtis: Tad, Detective Curtis. I'm glad to see you're okay.
-Tad Sidley:  Yeah, me, too. Uh, he said you wanted to talk to me?
-Sofia Curtis: Yeah. Where have you been for the past few weeks?
-Tad Sidley: Tijuana, L.A., quick stop in Santa Barbara. Just got back this morning.
-Sofia Curtis: Any idea how your gym membership got into a dead man's pocket?
-
-Tad Sidley: No. I'm sorry, I didn't even know it was missing. I'm-I'm not exactly big on the weights, you know? Look, uh ... I'm late for a movie. You mind if I get out of here?
-Sofia Curtis: Sure. I'd just like to get your cell phone number.
-Tad Sidley: Gonna ask me out?
-Sofia Curtis: It's just in case I have any further questions.
-
- 
- 
-Robbins: Caroline did not go gently.
-Catherine: Defensive marks?
- 
-Robbins: Ten on her right forearm.
- 
-Robbins: Another three on the left.
- 
-Robbins: And several more on the palms.
- 
-Robbins: Catherine, there are tears on her labia and hymen. Too much time's passed to check for semen, but she was raped.
-Catherine: We found a potential blood pool in the living room and another much more substantial one in the attic -- is that consistent with your findings?
-Robbins: Yeah. Caroline was stabbed four times: twice to the abdomen, one to the spleen, one to the intercostal artery. No vital organs were penetrated, which means she would have bled to death slowly. 
-Catherine: Probably stabbed in the living room and then moved to the attic where she continued to bleed until she died.
- 
-Grissom: Is the chimney guy still in your drawer?
-Robbins: Yeah, right over there.
- 
-Catherine: What's going on?
-Grissom: Tad Sidley is alive. We assumed that this guy was Tad, based on a gym membership card we found on his body -- we were wrong. This guy is now a John Doe.
-Catherine: Does his father know?
-Grissom: Not yet.
-Catherine: Well, I'm on my way to the PD to meet up with him and his lawyer --
-I'll give him the good news.
- 
-
-
- 
-Martin Sidley: Like I've already told you, Caroline and I were friends. Now, if you keep this up, I'm gonna file a harassment charge against you personally.
-Duane McWane: Ms. Willows, on the phone you said that you had new information regarding my client's son?
-Catherine: Yes, I will get to that. But first I wanted to let both of you know that Caroline's body was recovered in Mr. Sidley's attic.
-Martin Sidley: What?
-Catherine: The coroner confirmed that she was raped, stabbed and bled to death.
-Duane McWane: Wait a minute. You searched the house again? Ms. Willows, I thought that the judge was perfectly clear.
-Catherine: I searched the chimney, specifically, in accordance with the original warrant and subsequent limitation. 
-Martin Sidley: I didn't do it, I swear.
-Catherine: You live alone, Mr. Sidley ... and you have no idea how her body got bricked into your attic? Oh, come on. What happened? Did she say no one too many times?
-Duane McWane: Ms. Willows, you are way over the line.
-Catherine: If you didn't kill her, Mr. Sidley, then tell me, is there anyone else who had access to your house? Who else could have raped Caroline under your roof?
-Martin Sidley: I know what happened.
-Duane McWane: Martin ... 
-Martin Sidley: No. I've been covering too long. I need to tell the truth. I was out of town, I came home early. I heard noise coming from the attic.
- 
-Martin Sidley:  He told me that they'd been seeing each other...
-Martin Sidley: What's going on?
-Tad Sidley: Dad ...
-Martin Sidley: ... that they'd gotten into a fight, and he raped and killed her.
- 
-Martin Sidley: I should have told the police, but ... she was already dead. He's my son. I wanted to protect him. I didn't know what else to do. He's been out of cont--
-
- 
-Tad Sidley:  Son of a bitch.
- 
-Tad Sidley: He's lying.
-Sofia Curtis: Do you want to tell us what actually happened?
-Tad Sidley:  I have no idea what really happened. I met her once ... at the house. A month or so later, I see her on the news -- she's missing. I can tell you that for two weeks after that, he wouldn't let me anywhere near the house. Claimed that he was painting, and he didn't want me breathing in the fumes. 
- 
-Tad Sidley: He killed her. I'm sure of it.
-Warrick: Well, if you'd like to have a word with your old man, I'd say now would be the time.
- 
-
- 
-Tad Sidley: Hi, Dad. I heard everything.
- 
-Martin Sidley: Tad ... son, you're ...
-Tad Sidley: Yeah. I'm not dead. You're dead to me.
-
-
- 
-Catherine:  This is Catherine.
-
-
- 
-Sara:  Hey, Cat, when you're done at the PD, can you head over to the Print Lab? There's something you're gonna want to see.
-Catherine: I'm on my way.
-
-
- 
- 
-Sara: Hi.
-Catherine: Hi.
- 
-Sara: I know why a John Doe was stuffed down the Sidley's chimney. When you and Warrick were working that missing person's case, you couldn't get a warrant, and Martin wouldn't let you in, right?
-Catherine: Right.
-Sara: Don Fitzgibbons tried to gain access to the house through the son ... 
-Catherine: But the son wouldn't cooperate.
-Sara: I think he knew that if the house became a crime scene, CSI could get in there.
-Catherine: Well, it's a logical theory, but to kill someone and stuff him in a chimney in hopes of getting information on your missing daughter ...
- 
-Sara: Check out the screen. On the left is an unknown fingerprint I lifted off the chimney cap. On the right is a partial I lifted off of Don Fitzgibbons' post-it you took out of Tad's dorm room. Now, the print on the post-it is only a partial, but it's a match to the chimney cap.
- 
-Sara: I also found trace evidence on the roof. Polyethylene plastic. Don Fitzgibbons works at Desert Palms Hospital. I just got off the phone with the administrator. The hospital's body bags are made out of ...
-Catherine: Polyethylene plastic?
-Sara: Don Fitzgibbons has access to those body bags.
- 
- 
-
- 
- 
-Don Fitzgibbons: It's true. All of it. You gonna arrest me?
-Catherine: You just admitted to murder; I think you know the answer.
-Don Fitzgibbons: Hold on. I didn't kill anyone.
-Catherine: And the body in the chimney?
-Don Fitzgibbons:  I took the body from Desert Palms Hospital, from the morgue. He was already dead, a John Doe. Auto accident in a stolen vehicle. Car exploded, he was burned beyond recognition. Ms. Willows, I stole a dead body and I trespassed, but that's it.
-Catherine: And Tad Sidley's ID? Did you place the gym card on the body?
-Don Fitzgibbons: You're a mother, right?
-Catherine: Yes.
-Don Fitzgibbons: Why do you think I did it?
-Catherine: You wanted Martin Sidley to know what it's like to lose a child.
-Don Fitzgibbons:  Look ... I wish I could say that I was sorry for the trouble I've put you through, or the-the petty crimes that I've committed, but I didn't hurt anyone ... and Martin Sidley is behind bars, and my daughter's getting her funeral. And that's all I wanted.
-Catherine: I'm sorry. I'm sorry that we couldn't find your daughter without your help.
- 
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=06x16+-+Up+in+Smoke&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127419%23p127419" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=06x16+-+Up+in+Smoke&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127419%23p127419" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127419%23p127419&amp;name=06x16+-+Up+in+Smoke" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127419%23p127419" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=c12d466b26f493720bf9d20bbb3aa875">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=c12d466b26f493720bf9d20bbb3aa875">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=c12d466b26f493720bf9d20bbb3aa875">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=c12d466b26f493720bf9d20bbb3aa875">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

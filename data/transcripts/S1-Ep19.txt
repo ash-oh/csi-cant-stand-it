@@ -1,800 +1,1036 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] 
+[EXT. ANDERSON RESIDENCE - NIGHT]
+WHITE FLASH TO:
 
+[INT. ANDERSON HOUSE - NIGHT]
+(Camera st" />
+<meta property="og:title" content="01x19 - Gentle, Gentle - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] 
+[EXT. ANDERSON RESIDENCE - NIGHT]
+WHITE FLASH TO:
 
+[INT. ANDERSON HOUSE - NIGHT]
+(Camera st" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13201" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>01x19 - Gentle, Gentle - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13201" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13201">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=3316b2a81ee985c1000c45084ab15aa2"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=3316b2a81ee985c1000c45084ab15aa2">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=3316b2a81ee985c1000c45084ab15aa2">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=3316b2a81ee985c1000c45084ab15aa2">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=3316b2a81ee985c1000c45084ab15aa2">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13201&amp;sid=3316b2a81ee985c1000c45084ab15aa2&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>01x19 - Gentle, Gentle</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127295">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127295">01x19 - Gentle, Gentle</a></div>
+							<div class="pull-right text-right"><time datetime="2001-04-26T03:00:43Z">04/26/01 03:00</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] </p>
+<p>[EXT. ANDERSON RESIDENCE - NIGHT]</p>
+<p>WHITE FLASH TO:</p>
+<hr />
+[INT. ANDERSON HOUSE - NIGHT]</p>
+<p>(Camera starts on the bottom of the first floor at the base of the stairway, then slowly moves upward toward the second floor.) </p>
+<p>(White flash to: On the second floor, the camera travels slowly down the hallway toward the bedrooms. It rounds the cover into the master bedroom where the ANDERSONS are sleeping.)</p>
+<p>(Suddenly GWEN ANDERSON gets up. She looks out the doorway into her son's room. She gets out of bed and walks down the hallway to the nursery.)</p>
+<p>(All the windows are open. There's a ladder set against the window frame. The wind blows the curtains.)</p>
+<p>(GWEN ANDERSON walks up to the crib and looks inside. She finds nothing. She touches the baby sheets with both hands as if not believing her eyes. She frantically searches the tiny crib, removing the sheets where she finds a sheet of paper.)</p>
+<p>(She picks it up and gasps as she reads it. The paper slips from her fingers back into the crib.)</p>
+<p>(She walks over to the open window, looks out side and screams.)</p>
+<p><strong>Gwen Anderson</strong>: No!</p>
+<p>(The camera pulls back downward to show the ladder leaning against the window frame.)</p>
+<p>(STEVEN ANDERSON rushes into the nursery. He looks at his wife, then turns to look down into the crib where he finds the typewritten note. He picks it up.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. ANDERSON RESIDENCE -- NIGHT] </p>
+<p>(OFFICER cars are parked in the driveway. GRISSOM walks up the drive and checks in with the OFFICER at the door before walking inside. He sees The ANDERSONS in the foyer.)</p>
+<p><strong>Grissom</strong>: Excuse me. My name's Gil Grissom. I'm with the Las Vegas Crime Lab.</p>
+<p><strong>Gwen Anderson</strong>: Please help us.</p>
+<p><strong>Grissom</strong>: I'll certainly try.</p>
+<p>(He puts his kit down on the ground.)</p>
+<p><strong>Grissom</strong>: Is that the ransom note?</p>
+<p><strong>Steve Anderson</strong>: Yeah. They don't even say how much money they want. They just say that they'll call us in six hours.</p>
+<p>(STEVEN hands GRISSOM the note.)</p>
+<p><strong>Grissom</strong>: Have you let anyone else touch this note? </p>
+<p>(GRISSOM reads the note:<br />
+I have your son.<br />
+I don't want to harm him.<br />
+Don't make me.<br />
+I'll call in six hours with instructions.<br />
+I advise you not to call the police. )</p>
+<p><strong>Grissom</strong>: Police, a relative, anyone?</p>
+<p><strong>Steve Anderson</strong>: N-no, just us. Why?</p>
+<p><strong>Grissom</strong>: Well, because the person who touched it before you has your son ... and he's just left us the first piece of the puzzle.</p>
+<p>HARD CUT TO END OF TEASER. ROLL TITLE CREDITS.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[EXT. ANDERSON HOUSE - MORNING]</p>
+<p>(CATHERINE closes the car door and makes her way toward the house. She meets up with BRASS who fills her in.)</p>
+<p><strong>Catherine</strong>: Jim, dispatch said this is a kidnapping? Divorce situation?</p>
+<p><strong>Brass</strong>: No papers filed. College sweethearts. Neighbors say they're the salt of the earth.</p>
+<p><strong>Catherine</strong>: So this could have been legitimate?</p>
+<p>BRASS They have a security system. But they never put it on.</p>
+<p><strong>Catherine</strong>: They say how come?</p>
+<p><strong>Brass</strong>: They feel safe in the neighborhood.</p>
+<p><strong>Catherine</strong>: Check the premises?</p>
+<p><strong>Brass</strong>: Attic, wine cellar, crawl space. No four-month-old baby.</p>
+<p>(They turn and head toward the house.)</p>
+<p><strong>Catherine</strong>: Nice digs.</p>
+<p><strong>Brass</strong>: Yeah, guy got rich off some dot-com outfit. Moved here from Oregon two years ago.</p>
+<p><strong>Catherine</strong>: Bet they wished they hadn't today.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. ANDERSON HOUSE - DAY - CONTINUOUS]</p>
+<p>(In the kitchen, the FBI fills STEVE ANDERSON in on what he's to do when he gets the ransom call.)</p>
+<p><strong>Steve Anderson</strong>: Are you sure he won't hear a click or something?</p>
+<p><strong>FBI Man</strong>: He won't. And if he asks, you and your wife are alone. Question him about your son. Ask to hear him breathing. Anything to keep the guy talking. Understood?</p>
+<p>(GRISSOM walks into the kitchen and listens. He looks around the place.)</p>
+<p><strong>Steve Anderson</strong>: I don't know. (nods) Yeah, yeah.</p>
+<p>(GRISSOM sees an open bottle of soda out on the counter.)</p>
+<p><strong>Steve Anderson</strong>: Okay. Built my own business. I can handle any kind of pressure.</p>
+<p>(GRISSOM walks over to the bottle.)</p>
+<p><strong>Grissom</strong>: Was this yours?</p>
+<p><strong>Steve Anderson</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: May I ask when you opened it?</p>
+<p><strong>Steve Anderson</strong>: I don't know. Um, sometime after we called 911.</p>
+<p>(STEVE turns back to the FBI MAN. GRISSOM looks at the bottle, then calls his attention back.)</p>
+<p><strong>Grissom</strong>: You mind if I, uh...?</p>
+<p><strong>Steve Anderson</strong>: No. Go ahead.</p>
+<p>(GRISSOM picks up the bottle and puts his gloved hand over the mouth of the bottle. He looks around. He walks over to the temperature gauge and checks it.)</p>
+<p>(STEVE ANDERSON watches GRISSOM.)</p>
+<p><strong>Grissom</strong>: You have any more of these?</p>
+<p><strong>Steve Anderson</strong>: In the fridge.</p>
+<p><strong>Grissom</strong>: Thanks.</p>
+<p>(With his hand over the bottle, GRISSOM leaves the kitchen.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. ANDERSON HOUSE - LIVING ROOM - DAY - CONTINUOUS]</p>
+<p>(BRASS questions GWEN ANDERSON and her two sons who sit close to each other on the couch. TYLER, the older son, holds on to ROBBIE, who is quietly playing with a phone.)</p>
+<p><strong>Gwen Anderson</strong>: Do my boys have to be here? I think this is hard enough for them without having to hear the facts.</p>
+<p><strong>Brass</strong>: I understand, but it's best for our investigation if we keep the whole family together.</p>
+<p><strong>Tyler Anderson</strong>: (quietly) It's okay, mom.</p>
+<p><strong>Brass</strong>: You were saying, Mrs. Anderson?</p>
+<p><strong>Gwen Anderson</strong>: Um ... I got up at 4:30, like I usually do to feed Zack. I'm still breast-feeding. And I went down to Zacky's room. I looked in his crib and he was gone. He wasn't there. </p>
+<p>(STEVE walks into the room and takes a seat next to GWEN. GRISSOM follows into the room behind him.)</p>
+<p><strong>Gwen Anderson</strong>: And I felt around for him and that's when I found the letter saying that he had been taken and I ... I don't know. I-I think I screamed ... </p>
+<p><strong>Tyler Anderson</strong>: You screamed, mom.</p>
+<p><strong>Steve Anderson</strong>: I jumped out of bed and I went to her, and that's when we called 9-1-1 from the upstairs hallway.</p>
+<p>(ROBBIE pressing the buttons of the phone he's holding.)</p>
+<p><strong>Robbie Anderson</strong>: Nine-1-1-1.</p>
+<p><strong>Tyler Anderson</strong>: Give me the phone, Robbie. Give me the phone.</p>
+<p><strong>Grissom</strong>: We're going to need a piece of the baby's clothing. Something from his hamper, if possible. We're going to use scent dogs throughout the neighborhood.</p>
+<p><strong>Steve Anderson</strong>: I'll go see what I can find.</p>
+<p><strong>Gwen Anderson</strong>: No, I know what he wears.</p>
+<p>(GWEN ANDERSON stands up.)</p>
+<p><strong>Catherine</strong>: I'll go with you.</p>
+<p>(CATHERINE also stands up. They leave the room.)</p>
+<p><strong>Grissom</strong>: I'd also like to get blood samples from each family member.</p>
+<p><strong>Steve Anderson</strong>: Why?</p>
+<p><strong>Grissom</strong>: Well, the sooner we can eliminate the expected hairs and fibers from within the household, we can begin looking for outsiders.</p>
+<p><strong>Tyler Anderson</strong>: Is it going to hurt?</p>
+<p><strong>Grissom</strong>: I hope not.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. ANDERSON HOUSE - DAY - CONTINUOUS]</p>
+<p>(OFFICERS open the back of the car to let the scent dogs out. SARA is near by putting on a pair of gloves. The OFFICERS with the dogs head toward the house. GRISSOM walks out of the house. He's carrying the ransom note and two bottles of soda pop.) </p>
+<p><strong>Grissom</strong>: Sara.</p>
+<p><strong>Sara</strong>: Yeah?</p>
+<p><strong>Grissom</strong>: Take this ransom note to Q.D.</p>
+<p>(GRISSOM hands the note to SARA.)</p>
+<p><strong>Sara</strong>: Typewritten ransom note? Kidnapper was organized.</p>
+<p><strong>Grissom</strong>: I think it's ink-jet not typewriter.</p>
+<p><strong>Sara</strong>: I'll get it to questioned documents check for origination prints, the works.</p>
+<p><strong>Grissom</strong>: Take every computer and printer from the Anderson house with you.</p>
+<p><strong>Sara</strong>: You think the suspect printed the ransom note from inside the house while they were sleeping?</p>
+<p><strong>Grissom</strong>: I'm not thinking anything yet.</p>
+<p>(GRISSOM takes the two soda bottles and heads for NICK.)</p>
+<p><strong>Grissom</strong>: Nick.</p>
+<p><strong>Nick</strong>: (turns around) Yo. (sees the soda bottles) No, thanks, I'm an iced tea man.</p>
+<p><strong>Grissom</strong>: It's not a refreshment. It's an experiment. Take this to the lab in a controlled space, 72 degrees Fahrenheit and open it. Keep this in the same room-temp space.</p>
+<p><strong>Nick</strong>: Okay, then what?</p>
+<p><strong>Grissom</strong>: Process, Nick. Process.</p>
+<p>(GRISSOM gives the bottles to NICK, then walks past him toward WARRICK.)</p>
+<p><strong>Grissom</strong>: Baby's bedroom window is open and the ladder's still out there. So canvass the whole grounds from outside to in.</p>
+<p><strong>Warrick</strong>: I'm all over it like a cheap suit.</p>
+<p>(WARRICK leaves to head over there. GRISSOM turns around and heads back to the house.)</p>
+<p><strong>Officer</strong>: (o.s.) Hey, Grissom! We have the smell dogs set up for you.</p>
+<p>(He nods.)</p>
+<p>(Cut to: WARRICK is near the ladder under the Nursery with a camera in his hand. He finds a shoe print in the dirt. He snaps a picture of it.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. ANDERSON HOUSE - BABY ZACK'S ROOM - DAY]</p>
+<p>(GRISSOM takes his kit and walks into the nursery. He looks into crib and puts his kit down. He leans over to look into the crib.) </p>
+<p><strong>Warrick</strong>: You see this spiderweb?</p>
+<p>(GRISSOM starts.)</p>
+<p><strong>Grissom</strong>: Damn, Warrick!</p>
+<p>(WARRICK is on the ladder outside the nursery window and apologizes.)</p>
+<p><strong>Warrick</strong>: I'm sorry. Your ticker okay?</p>
+<p><strong>Grissom</strong>: What spiderweb?</p>
+<p><strong>Warrick</strong>: Right here.</p>
+<p>(They push the curtain aside to show GRISSOM the spiderweb in the corner of the window frame.)</p>
+<p><strong>Warrick</strong>: Kind of hard to get a baby out of a window climb onto a ladder without messing up this web, don't you think?</p>
+<p><strong>Grissom</strong>: Well, it could have happened after the abduction. Spiders can build one of these things in a few hours.</p>
+<p>(WARRICK takes a picture of the spiderweb. GRISSOM turns to head back to the crib. WARRICK steps up the ladder intending to climb through the window. GRISSOM looks up and sees WARRICK.)</p>
+<p><strong>Grissom</strong>: Warrick? What are you doing? (He motions with his finger.) Go around.</p>
+<p>(WARRICK heads back down the ladder.)</p>
+<p>(GRISSOM checks the crib out and finds a strand of hair. Camera zooms in for an extreme close up.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. ANDERSON HOUSE - LAUNDRY ROOM - DAY -- CONTINUOUS]</p>
+<p>(CATHERINE and GWEN ANDERSON walk into the laundry room. GWEN starts going through the laundry basket.)</p>
+<p><strong>Catherine</strong>: Oh, you're right on the golf course. That must be nice.</p>
+<p><strong>Gwen Anderson</strong>: Steve likes it. I never cared for the game.</p>
+<p>(GWEN finds a jumper and pulls it out of the basket. She sighs.)</p>
+<p><strong>Gwen Anderson</strong>: That one's my favorite but Zacky, he, uh ... he liked another one. Here it is.</p>
+<p>(She takes it out and shows it to CATHERINE. She chuckles.)</p>
+<p><strong>Gwen Anderson</strong>: There's a little spit-up on it. He liked the way the fabric felt on his skin. </p>
+<p>(She puts the outfit to her face and inhales. She stops, then looks down at her shirt to see her milk leaking.)</p>
+<p><strong>Gwen Anderson</strong>: Oh, god.</p>
+<p><strong>Catherine</strong>: It's okay. It used to happen to me with my daughter if I didn't get to her right on time.</p>
+<p>(GWEN tries to wipe up the mess as she cries.)</p>
+<p><strong>Gwen Anderson</strong>: I can't believe this is happening to us.</p>
+<p>(CATHERINE puts a supporting hand on her shoulder.)</p>
+<p><strong>Catherine</strong>: I'll get this to our guys.</p>
+<p>(CATHERINE leaves the laundry room.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. ANDERSON HOUSE - NURSERY - DAY -- CONTINUOUS]</p>
+<p>(GRISSOM finds another strand of hair in the crib. He puts it in a bindle.)</p>
+<p>(WARRICK walks into the room.)</p>
+<p><strong>Warrick</strong>: What you got?</p>
+<p><strong>Grissom</strong>: Two hairs, separate and distinctive.</p>
+<p>(GRISSOM hands the bindles to WARRICK.)</p>
+<p><strong>Warrick</strong>: Ah. The plot thickens.</p>
+<p>(GRISSOM walks around the room. He notices something.)</p>
+<p><strong>Grissom</strong>: You smell something?</p>
+<p>(WARRICK smells and sees something.)</p>
+<p><strong>Warrick</strong>: I smell these dirty diapers over here.</p>
+<p>(GRISSOM kneels down in front of the window.)</p>
+<p><strong>Grissom</strong>: It's like a household cleanser. There's a pine smell.</p>
+<p><strong>Warrick</strong>: Probably used to clean that diaper pail.</p>
+<p><strong>Grissom</strong>: No, it's stronger than that. </p>
+<p>(GRISSOM puts his nose to the carpet.)</p>
+<p><strong>Grissom</strong>: It's emanating from this specific spot.</p>
+<p>(GRISSOM opens his kit and tests for blood. It shows positive.)</p>
+<p><strong>Warrick</strong>: Baby was killed before it even left the house. Guy tried to cover his tracks.</p>
+<p>(GRISSOM and WARRICK both look at the open window.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - QUESTIONED DOCUMENTS LAB - DAY]</p>
+<p>(SARA leans over the table, arguing with RONNIE LITRE.)</p>
+<p><strong>Sara</strong>: What do you mean you haven't checked for prints? It's a ransom letter.</p>
+<p><strong>Ronnie Litre</strong>: Everything in the proper order. You know that. I got five other tests I got to run on this paper before I try to isolate prints.</p>
+<p><strong>Sara</strong>: You got anything for me?</p>
+<p><strong>Ronnie Litre</strong>: Yeah. The paper's expensive. High rag count.</p>
+<p><strong>Sara</strong>: I could have told you that.</p>
+<p><strong>Ronnie Litre</strong>: Can you explain these three small vertical dots?</p>
+<p>(On the overhead, he shows SARA what he's talking about.)</p>
+<p><strong>Sara</strong>: What? Where?</p>
+<p><strong>Ronnie Litre</strong>: The printer that emitted this letter has a spot on the drum.</p>
+<p><strong>Sara</strong>: A drum goes around three times to print one page. </p>
+<p>(Quick flash to: Close up of the drum of a printer turning as the paper goes through leaving behind three small dots on the sheet.)</p>
+<p><strong>Sara</strong>: So if the Andersons' printer was used ... </p>
+<p><strong>Ronnie Litre</strong>: There'd be three small dots on any paper that comes out.</p>
+<p><strong>Sara</strong>: No vertical dots.</p>
+<p><strong>Ronnie Litre</strong>: And different paper than the ransom letter F.Y.I.</p>
+<p>(SARA makes a face at RONNIE.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. ANDERSON HOUSE - BACKYARD - DAY]</p>
+<p>(GRISSOM and WARRICK stand outside the nursery window.) </p>
+<p><strong>Warrick</strong>: Yeah, this mold I made of that shoe print matches the gardener's boot that I found in the shed over there.</p>
+<p><strong>Grissom</strong>: Yeah, well, we need to look for what's out of place.</p>
+<p><strong>Warrick</strong>: And a gardener's boot in a garden is not out of place. Well, the Andersons did say the guy's been out of town on vacation for the last three days.</p>
+<p>(GRISSOM'S phone rings. He answers it.)</p>
+<p><strong>Grissom</strong>: (to phone) Grissom.</p>
+<p>INTERCUT WITH:</p>
+<p>[INT. CSI - HALLWAY]</p>
+<p>(SARA walks through the hallway.) </p>
+<p><strong>Sara</strong>: Ransom note's not from the Anderson's printer or paper supply.</p>
+<p><strong>Grissom</strong>: You're breaking up.</p>
+<p><strong>Sara</strong>: The Andersons are clear. Whoever wrote the letter did it from a different location and brought it with them.</p>
+<p><strong>Grissom</strong>: Are you standing next to the copy machine outside ballistics?</p>
+<p><strong>Sara</strong>: You want me to check ballistics?</p>
+<p><strong>Grissom</strong>: No. I want you to move away from that machine. Look, check all the printers at Steve Anderson's company.</p>
+<p>(In the background out on the golf course, the dogs bark loudly. WARRICK looks up at the commotion.)</p>
+<p><strong>Grissom</strong>: (to phone) Get Q.D. To help you with a warrant. Target all immediate coworkers and disgruntled employees first.</p>
+<p>(WARRICK motions for GRISSOM to follow him as he heads toward the sound of the dogs. GRISSOM puts the phone down, his attention on the dogs.)</p>
+<p>(Even SARA can hear the dogs barking over the phone.)</p>
+<p><strong>Sara</strong>: Are those our dogs? Grissom? Grissom!</p>
+<p>(GRISSOM and WARRICK start running toward the commotion. GRISSOM tucks the phone into his pocket.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. GOLF COURSE - CONTINUOUS]</p>
+<p>(Out on the golf course, the dogs bark frantically. They lead the OFFICERS to a cluster of bushes under the tree. WARRICK and GRISSOM run to the bushes.) </p>
+<p><strong>Warrick</strong>: Get those dogs back. Get them back!</p>
+<p>(WARRICK and GRISSOM find the baby dead in the center of the bushes, his body wrapped carefully in a blanket. The officers also reach the site.)</p>
+<p>(The TECH takes a step forward to start taking picture of the scene. GRISSOM stops him.)</p>
+<p><strong>Grissom</strong>: Stand back.</p>
+<p><strong>CSI Tech</strong>: We got to have pictures. The coroner will be all over us.</p>
+<p><strong>Grissom</strong>: (angry) I'll get the pictures!</p>
+<p>(GRISSOM grabs the camera and takes the pictures ... of his foot, of his face. He kneels down and takes more pictures.)</p>
+<p>(WARRICK starts to put on his gloves. Finished, he hands the camera back to the CSI TECH. The CORONER steps forward to take the body. GRISSOM immediately stops him.)</p>
+<p><strong>Grissom</strong>: I'm going to take him.</p>
+<p>(Everyone doesn't say anything.)</p>
+<p>[CAMERA IN SLOW MOTION]</p>
+<p>(Over the hill, CATHERINE runs toward the scene. Behind her are GWEN and STEVE ANDERSON.)</p>
+<p>(Cut to: GRISSOM picks up the baby.)</p>
+<p><strong>Gwen Anderson</strong>: (o.s.) My baby! Oh, my god!</p>
+<p>(CATHERINE turns around and stops GWEN ANDERSON from running toward the scene.)</p>
+<p>(With the baby in his arms, GRISSOM takes a couple steps forward. He looks up and sees GWEN ANDERSON beside herself while CATHERINE and STEVE try to calm her down.)</p>
+<p><strong>Gwen Anderson</strong>: It's my baby! My baby! My baby!</p>
+<p>(Camera holds on GRISSOM.)</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI - LAB - DAY]</p>
+<p>(WARRICK takes the sample of hair from the nursery and checks it under the scope. While he works, he listens to the news report on the television set.)</p>
+<p><strong>Paula Francis</strong>: (on television set) The Andersons, who own a profitable internet company in Las Vegas, are said to be devastated by the death of little Zachary. As for leads, the police will only say they have widened the investigation to include employees of Steve Anderson's company. Immediate coworkers are being asked to give DNA samples. By all accounts, the employees are complying voluntarily. One of them is quoted as saying &quot;anything to help Mr. and Mrs. Anderson in their time of grief.&quot;</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY - DAY]</p>
+<p>(DR. ROBBINS goes over his findings with GRISSOM.) </p>
+<p><strong>Dr. Albert Robbins</strong>: I can't give you exact time of death, but I do know cause of death was asphyxiation.</p>
+<p><strong>Grissom</strong>: He was smothered.</p>
+<p><strong>Dr. Albert Robbins</strong>: (nods) The retinal hemorrhages are the result of intercranial pressure from an edema. The edema was caused by an acute lack of oxygen.</p>
+<p><strong>Grissom</strong>: Smothered how? Did you find hand marks? Trauma around the mouth or nose?</p>
+<p><strong>Dr. Albert Robbins</strong>: No.</p>
+<p><strong>Grissom</strong>: He was in a blanket when I found him ... wrapped pretty tight.</p>
+<p><strong>Dr. Albert Robbins</strong>: Positional asphyxiation? Maybe. Abductor might've tried to protect him from the cold. Suffocated him by mistake. I'm going to run tests on a microscopic fiber I found in his throat.</p>
+<p>(DR. ROBBINS picks up a fiber from the side to show to GRISSOM. Camera zooms in for a close up.)</p>
+<p><strong>Dr. Albert Robbins</strong>: But I don't think his death was benign, Gil. Or accidental. Sternum was cracked. X rays say the fracture is fresh. Manhandled and suffocated. This little guy didn't have a chance.</p>
+<p>(ROBBINS turns to look at GRISSOM after he doesn't get a response from him.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY - DAY]</p>
+<p>(GRISSOM walks rapidly through the hallway. He sees SARA with a tech helping her carry the prints into the lab.)</p>
+<p><strong>Grissom</strong>: Are those from Anderson's company?</p>
+<p><strong>Sara</strong>: Yeah. There's like 200 of them in that place. I'm going to test them against the ransom note, one by one.</p>
+<p><strong>Grissom</strong>: You got homicide's list of disgruntled employees?</p>
+<p><strong>Sara</strong>: Not yet. They're still working on it.</p>
+<p><strong>Grissom</strong>: (angry) You call homicide back and tell them to get us that list now. </p>
+<p>(GRISSOM turns and continues down the hallway leaving a stunned SARA behind. He sees WARRICK walking by with a file folder in his hand.)</p>
+<p><strong>Grissom</strong>: Hey.</p>
+<p>(WARRICK stops to talk with GRISSOM.)</p>
+<p><strong>Warrick</strong>: Hey.</p>
+<p><strong>Grissom</strong>: Where are we on those DNA samples?</p>
+<p><strong>Warrick</strong>: I got the hair samples from the baby's crib ready for comparison.</p>
+<p><strong>Grissom</strong>: Yeah? So answer my question.</p>
+<p><strong>Warrick</strong>: Well, DNA's jammed. Sanders says he'll get to the blood comparisons ...</p>
+<p>(GRISSOM heads for the DNA LAB leaving WARRICK mid sentence.)</p>
+<p><strong>Warrick</strong>: ... as soon as ...</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - DNA LAB - DAY -- CONTINUOUS]</p>
+<p>(GREG is in the quiet lab sitting at the table working.)</p>
+<p><strong>Grissom</strong>: I hear you're backlogged.</p>
+<p><strong>Greg Sanders</strong>: Twenty &quot;unknowns&quot; from some drug shoot-out. FBI special request. Sheriff told me to clear it off my counter before I do anything else.</p>
+<p><strong>Grissom</strong>: These?</p>
+<p><strong>Greg Sanders</strong>: Yeah. You can almost smell Quantico, you know?</p>
+<p>(GRISSOM grabs the paperwork in front of GREG and puts it aside on the cart with all the samples on it. He then pushes the car out the door and into the hallway where it stops when it hits the wall.)</p>
+<p>(Everyone stops as they see the cart.)</p>
+<p>(NICK steps out into the hallway to see what's up.)</p>
+<p><strong>Grissom</strong>: (to GREG) There. Now they're off your counter. </p>
+<p>(GREG doesn't say anything. He nods. GRISSOM takes out a file folder and the samples.)</p>
+<p><strong>Grissom</strong>: Zachary Anderson, DOB 01-23-01. Date of death, three hours ago. Until we find out how and why ... </p>
+<p>(GRISSOM puts the tray full of blood samples from the ANDERSON case in front of GREG.)</p>
+<p><strong>Grissom</strong>: ... this is the only case you work on.</p>
+<p><strong>Greg Sanders</strong>: Yes, sir.</p>
+<p>(GRISSOM steps out of the lab. In the Hallway, NICK and SARA watch.)</p>
+<p><strong>Nick</strong>: Never seen him like this before.</p>
+<p>(NICK heads in one direction. Concerned, SARA heads to go find GRISSOM.)</p>
+<p>(She turns the corner and sees him walking through the hallway.)</p>
+<p><strong>Sara</strong>: Grissom?</p>
+<p>(He turns around, still angry.)</p>
+<p><strong>Grissom</strong>: What?</p>
+<p>(SARA walks right up to him and talks softly.)</p>
+<p><strong>Sara</strong>: You told me a few weeks ago that nothing is personal. No victim should be special.</p>
+<p>(GRISSOM stops as he definitely remembers telling SARA that back in 1X16: Too Tough to Die. SARA pauses.)</p>
+<p><strong>Sara</strong>: Everyone follows your lead.</p>
+<p><strong>Grissom</strong>: Everyone didn't find that baby. I did. And that little boy is dead because someone lost their temper or screwed up, or god knows what. So, excuse me, but this victim is special.</p>
+<p>(GRISSOM turns to leave and finds himself facing CATHERINE.)</p>
+<p><strong>Catherine</strong>: (quietly) Mr. and Mrs. Anderson are calling. They want to know why you refuse to release the body for burial. They said that you gave the coroner strict instructions.</p>
+<p>(He sighs.)</p>
+<p><strong>Grissom</strong>: You better drive.</p>
+<p>(GRISSOM leaves.)</p>
+<p><strong>Catherine</strong>: Sure.</p>
+<p>(CATHERINE looks up at SARA. The two share a look. She then turns to follow GRISSOM. Camera holds on SARA.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. ANDERSON HOUSE - DAY]</p>
+<p>(GRISSOM and CATHERINE explain the situation to The ANDERSONS.) </p>
+<p><strong>Grissom</strong>: I'm very sorry, but we have to preserve the evidence in a case like this. And, as difficult as this sounds, Zachary is evidence.</p>
+<p><strong>Catherine</strong>: We need to refer to him as the case unfolds.</p>
+<p><strong>Gwen Anderson</strong>: Well, do you have any leads? Any idea who did this?</p>
+<p><strong>Grissom</strong>: Your child was found five hundred yards from your back door, in clean clothes wrapped in a white blanket, laid carefully under a statuary.</p>
+<p><strong>Catherine</strong>: A stranger wouldn't treat a victim like that.</p>
+<p><strong>Steve Anderson</strong>: You think we had something to do with this?</p>
+<p><strong>Grissom</strong>: The FBI tells us that you never received a call from the abductor. What kind of a kidnapper forgets to call the family?</p>
+<p><strong>Catherine</strong>: A wealthy family.</p>
+<p><strong>Steve Anderson</strong>: My lawyer warned me that you were going to try this. (angrily shouts) You don't have a suspect so now you're going to come after us.</p>
+<p><strong>Grissom</strong>: But you have nothing to hide.</p>
+<p><strong>Steve Anderson</strong>: (yells) You're damn right we don't!</p>
+<p>(There's a light knock on the door. WARRICK walks into the house carrying an envelope.)</p>
+<p><strong>Warrick</strong>: I thought I'd deliver this in person. DNA came back on the entire family.</p>
+<p>(GRISSOM looks at the results.)</p>
+<p><strong>Grissom</strong>: The blood we found in the baby's room ... It belongs to your son Tyler.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY]</p>
+<p>(GRISSOM and CATHERINE interview TYLER ANDERSON with his parents sitting beside him.) </p>
+<p><strong>Tyler Anderson</strong>: I was playing ball in the backyard and I cracked Zacky's window. Dad had told me not to hit the ball towards the house. So I went up and replaced the window before anyone got home and I cut my finger on the glass.</p>
+<p><strong>Grissom</strong>: And you wiped up the blood with some type of pine cleanser. </p>
+<p><strong>Tyler Anderson</strong>: I thought I got it all.</p>
+<p><strong>Grissom</strong>: Let's go back a second, Tyler. You said that you baby-sat for Robbie and Zack last night, right?</p>
+<p><strong>Tyler Anderson</strong>: I told the police that this morning.</p>
+<p>(BRASS walks into the room and closes the door.)</p>
+<p><strong>Steve Anderson</strong>: We had a homeowner's association vote meeting. It was just five doors up from our house.</p>
+<p><strong>Gwen Anderson</strong>: I had, uh ... I had made dinner and then Steve and I walked up to the clubhouse. We were gone maybe 30 minutes, until 9:00.</p>
+<p><strong>Brass</strong>: We contacted the Association. The story checks out. I also did a background search. Tyler has quite a temper on him, don't you, Ty?</p>
+<p><strong>Tyler Anderson</strong>: What?</p>
+<p><strong>Brass</strong>: You were expelled from school twice last year for physical altercation.</p>
+<p><strong>Steve Anderson</strong>: That was schoolyard stuff.</p>
+<p><strong>Catherine</strong>: Beat up a 12-year-old in the school stairwell.</p>
+<p><strong>Tyler Anderson</strong>: He made fun of my mother. I wasn't going to let him get away with that.</p>
+<p><strong>Brass</strong>: Your brother Zack say something you didn't like you weren't going to let him get away with either?</p>
+<p>(TYLER surges to his feet.)</p>
+<p><strong>Tyler Anderson</strong>: (shouts angrily) Don't talk about my brother that way, you b*st*rd!</p>
+<p>(STEVE gets to his feet.)</p>
+<p><strong>Steve Anderson</strong>: Sit down! Now.</p>
+<p><strong>Gwen Anderson</strong>: He's, uh ... he's upset. He is not usually like this.</p>
+<p><strong>Tyler Anderson</strong>: (whispers) People are calling us killers. And I miss my little brother.</p>
+<p><strong>Grissom</strong>: That still doesn't mean you didn't kill him.</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. ANDERSON HOUSE - DAY]</p>
+<p>(The front door opens. CATHERINE and GRISSOM walk into the foyer.) </p>
+<p><strong>Catherine</strong>: So what are we looking for?</p>
+<p><strong>Grissom</strong>: I don't know.</p>
+<p><strong>Catherine</strong>: Well, let's start up and work our way down.</p>
+<p>(CATHERINE heads up the stairs. GRISSOM follows her.</p>
+<p>(Cut to: [TYLER'S BEDROOM] CATHERINE looks through the shelves. She finishes and looks around.)</p>
+<p>(Cut to: [MASTER BEDROOM] GRISSOM opens the closet door and looks inside.)</p>
+<p>(Cut to: [TYLER'S BEDROOM] CATHERINE checks the bedside table and under the bed where she finds several magazines for PLAYPEN, BOUDOIR.)</p>
+<p>(Cut to: [MASTER BEDROOM] GRISSOM finds a pair of stockings on the shelf in STEVE'S closet. The stockings has green stains on them.)</p>
+<p>(Cut to: CATHERINE opens the cabinet doors and looks inside. She finds an empty plastic storage wrapper for a white Baby Blanket, 100% Egyptian Cotton. Made in the U.S.A.)</p>
+<p>(Cut to: [KITCHEN] GRISSOM opens the various cabinets. He looks and finds a roll of white plastic trash bags. He looks at the ripped edges. Camera zooms in for a close up of the edges. He reaches for a bag to put the roll into.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAB - DAY]</p>
+<p>(NICK explains his experiment findings to GRISSOM.) </p>
+<p><strong>Nick</strong>: Here's the father's bottle of cola -- here's the unknown. I duplicated conditions and monitored the pressure that escaped from the father's bottle which he told you had been open two hours against one I know was open two hours. Kept this log. Pressure released every quarter hour.</p>
+<p>(GRISSOM looks at NICK'S notes.)</p>
+<p><strong>Grissom</strong>: Good, Nick. </p>
+<p>(NICK nods.)</p>
+<p><strong>Grissom</strong>: Did you find any ethanol on the lip of that bottle?</p>
+<p><strong>Nick</strong>: Well, I've got trace running tests now, but I did an unscientific whiff test. </p>
+<p>(NICK passes the bottle under his nose to illustrate.)</p>
+<p><strong>Nick</strong>: Picked up a hint of some kind of booze.</p>
+<p><strong>Grissom</strong>: Call me when you get the results.</p>
+<p>(GRISSOM hands NICK the bag with the nylons inside.)</p>
+<p><strong>Grissom</strong>: See if they can find out what this green substance is on these nylons I found in Mr. Anderson's closet.</p>
+<p><strong>Nick</strong>: I'll take a swatch, get it back to you ASAP.</p>
+<p>(GRISSOM leaves the room.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAB -- DAY]</p>
+<p>(GRISSOM is looking at the prints under the magnifying glass. He's in the lab with SARA.)</p>
+<p><strong>Grissom</strong>: The mother's prints ... the father's prints ... and a set of unknowns.</p>
+<p><strong>Sara</strong>: They're not unknown.</p>
+<p>(Surprised, GRISSOM turns to look at SARA.)</p>
+<p><strong>Sara</strong>: I ran them against the employees of Steve Anderson's computer company disgruntled and otherwise. They belong to a Needra Fenway.</p>
+<p><strong>Grissom</strong>: And who is Needra Fenway?</p>
+<p><strong>Sara</strong>: Steve's secretary.</p>
+<p>(SARA turns around and points to the printer on the counter behind them.)</p>
+<p><strong>Sara</strong>: So, of course, I checked out her printer. As I'm sure you know, all printers have their own unique signature.</p>
+<p>(She shows GRISSOM the marks on the paper.)</p>
+<p><strong>Sara</strong>: These three ... tiny vertical dots from Needra's printer match the ransom note perfectly.</p>
+<p>(GRISSOM turns to look at SARA who smiles. She looks at GRISSOM.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY]</p>
+<p>(GRISSOM sits down across from NEEDRA FENWAY. She pulls the coffee cup closer to her.)</p>
+<p><strong>Needra Fenway</strong>: Thank you.</p>
+<p><strong>Grissom</strong>: Thank you for coming in.</p>
+<p><strong>Needra Fenway</strong>: Anything I can do to help. You know, it's ... it's just terrible what happened.</p>
+<p><strong>Brass</strong>: Maybe you can explain why your printer was used to create the ransom note found in the Anderson home.</p>
+<p><strong>Needra Fenway</strong>: What?</p>
+<p><strong>Grissom</strong>: We have evidence that this came from your printer.</p>
+<p>(GRISSOM puts piece of paper on the table in front of her.)</p>
+<p><strong>Needra Fenway</strong>: There are 500 people who work in that office. Anyone could have used my printer.</p>
+<p><strong>Grissom</strong>: We also found a strand of hair. Our lab has matched it to you. </p>
+<p><strong>Brass</strong>: From the Anderson home.</p>
+<p><strong>Needra Fenway</strong>: I'm Steven's secretary. I go there.</p>
+<p><strong>Grissom</strong>: Do you go upstairs? 'Cause that's where we found this particular hair.</p>
+<p>(She doesn't say anything. But CATHERINE knows.)</p>
+<p><strong>Catherine</strong>: You two were having an affair.</p>
+<p><strong>Needra Fenway</strong>: We ended it.</p>
+<p><strong>Catherine</strong>: Because his wife got pregnant?</p>
+<p><strong>Needra Fenway</strong>: I'm not going down this road.</p>
+<p><strong>Catherine</strong>: What? A new baby screw up the office romance?</p>
+<p><strong>Needra Fenway</strong>: It was more than just an office romance, okay? Much more.</p>
+<p><strong>Catherine</strong>: Yeah. Well, a lot of women would understand if you went over there and ... got rid of that baby.</p>
+<p><strong>Brass</strong>: Sure. Quickest way to end a guy's marriage.</p>
+<p><strong>Needra Fenway</strong>: Okay, I need a lawyer. Is that it? Is that what you're saying here?</p>
+<p>(No one says anything. NEEDRA sighs, then grabs her bag. She stands up to leave. GRISSOM stops her. He takes out the bag with the nylons in it.)</p>
+<p><strong>Grissom</strong>: Are these your nylons? I found these hidden in the back of Mr. Anderson's closet. So, did you come to him after you disposed of the baby and ask him to hide them for you?</p>
+<p><strong>Needra Fenway</strong>: Talk to Steve.</p>
+<p>(NEEDRA walks out of the room.)</p>
+<p><strong>Catherine</strong>: Steve asked her to get out from underneath the obligation of a newborn?</p>
+<p><strong>Brass</strong>: Geez. Haven't these people ever heard of divorce?</p>
+<p>(GRISSOM doesn't say anything.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. HOTEL - NEAR THE POOL - DAY]</p>
+<p>(GRISSOM questions STEVE ANDERSON near the side of the pool.) </p>
+<p><strong>Steve Anderson</strong>: Needra didn't kill Zack any more than I did.</p>
+<p><strong>Grissom</strong>: How do you explain her hair in the baby's crib?</p>
+<p>(STEVE looks across the other side of the pool where GWEN and the children are. He turns back to GRISSOM.)</p>
+<p><strong>Steve Anderson</strong>: We broke up the day that I learned that Gwen was pregnant with Zack. I love Needra but I love my family more. Needra asked if she could see Zack after he was born to help her kind of accept the reality. So, I had her in last Saturday to watch him sleep.</p>
+<p>(Quick flashback to: In the nursery, NEEDRA stands over the crib. End of flashback. Resume to present.)</p>
+<p><strong>Steve Anderson</strong>: Gwen had the kids at skating. Needra was out of the house in<br />
+15 minutes. You don't believe me.</p>
+<p><strong>Grissom</strong>: You've lied to me before.</p>
+<p><strong>Steve Anderson</strong>: About what?</p>
+<p><strong>Grissom</strong>: You told me that you opened that cola bottle the morning you reported Zack missing. We had a test done. You opened that bottle six hours before you said you did -- the night before -- somewhere around 11:00 P.M. The lab is still testing it. I also believe that you cut it with alcohol.</p>
+<p><strong>Steve</strong>: Rum and cola. What does that prove?</p>
+<p><strong>Grissom</strong>: Was Needra Fenway in your house that night? Did you catch her suffocating your son?</p>
+<p>(Quick flashback to: In the nursery, NEEDRA stands over the crib smothering the baby as he cries. STEVE and GWEN both rush into the room.)</p>
+<p><strong>Steve Anderson</strong>: What are you doing?</p>
+<p>(STEVE pulls NEEDRA off of ZACK. GWEN checks up on him.)</p>
+<p><strong>Gwen Anderson</strong>: What have you done?</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Steve Anderson</strong>: That's not how it happened.</p>
+<p><strong>Grissom</strong>: Well, why don't you tell me how it happened.</p>
+<p>(Across the pool, a glass shatters.)</p>
+<p><strong>Gwen Anderson</strong>: Robbie, what did you do?</p>
+<p><strong>Robbie Anderson</strong>: (crying) I'm sorry, I'm sorry.</p>
+<p><strong>Gwen Anderson</strong>: All right, I heard you.</p>
+<p>(GWEN cleans up the mess.)</p>
+<p><strong>Steve Anderson</strong>: Do we have to have this conversation right now?</p>
+<p>(A woman reporter walks up to them.)</p>
+<p><strong>Las Vegas Post Reporter (woman)</strong>: Mr. Anderson?</p>
+<p><strong>Steve Anderson</strong>: What? Yeah?</p>
+<p><strong>Las Vegas Post Reporter (woman)</strong>: I'm from the Las Vegas Post. How do you feel about these pictures your secretary sold to the Midnight Informer this afternoon?</p>
+<p>(She hands STEVE ANDERSON some photographs of him with NEEDRA FENWAY.)</p>
+<p><strong>Steve Anderson</strong>: Where did you get these?</p>
+<p><strong>Las Vegas Post Reporter (woman)</strong>: The tabloid's web site. Needra sold them to pay for her legal fees. </p>
+<p>(STEVE looks across the pool over at GWEN.)</p>
+<p><strong>Las Vegas Post Reporter (woman)</strong>: Mr. Anderson?</p>
+<p><strong>Steve Anderson</strong>: (after a long moment) My only comment is that I love my wife very much.</p>
+<p>(GRISSOM puts his head down and rubs his forehead.)</p>
+<p>(The LAS VEGAS POST REPORTER walks away. She heads for GWEN ANDERSON.)</p>
+<p><strong>Las Vegas Post Reporter (woman)</strong>: Excuse me. I'm from the Las Vegas Post. Can I ask you a few questions?</p>
+<p>(She holds out the photos in front of GWEN. GWEN barely glances at it, her eyes on STEVE sitting across the pool.)</p>
+<p><strong>Gwen</strong>: No.</p>
+<p>(The Reporter walks away.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - BREAKROOM - DAY]</p>
+<p>(In the breakroom, GRISSOM and CATHERINE discuss the case with DR. PHILLIP KANE.)</p>
+<p><strong>Catherine</strong>: A wife kills her baby to get back at her husband over his affair. Come on. Any woman would go after the husband, not the baby.</p>
+<p><strong>Dr. Phillip Kane</strong>: True. But, in some instances women have been known to kill their children as a way to pay back a spouse. Particularly if it's over an affair and particularly if the child was a male child.</p>
+<p><strong>Catherine</strong>: Well, I don't buy it. I just don't buy it, doctor. She really loved that baby.</p>
+<p><strong>Dr. Phillip Kane</strong>: Well, Catherine that's why she's in this much pain now.</p>
+<p><strong>Catherine</strong>: A guy cheats, but the wife commits murder. How come moms always end up the bad guy with you Freud types?</p>
+<p><strong>Brass</strong>: That's because this mother is the bad guy. </p>
+<p>(Everyone turns to listen to BRASS, who just walked into the room.)</p>
+<p><strong>Brass</strong>: CNN just dug up a 13-year-old charge against Gwen Anderson. I heard it on the car radio.</p>
+<p><strong>Grissom</strong>: What kind of charge?</p>
+<p><strong>Brass</strong>: It's called shaken baby syndrome. The oldest boy-- Tyler? When he was a newborn she shook him so hard they had to go to the hospital. She shook the kid unconscious.</p>
+<p><strong>Catherine</strong>: Is this authentic?</p>
+<p><strong>Brass</strong>: Yeah. They were on the phone with the arresting officer from Oregon. He faxed me this report. Our grieving mother ... her record for child abuse.</p>
+<p>(BRASS hands the file to GRISSOM in front of a shocked CATHERINE.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. POLICE DEPARTMENT -- NIGHT] </p>
+<p>(The car door opens and BRAD LEWIS exits the car before GWEN ANDERSON. There's a large crowd in front of the entrance consisting of various reporters and curious onlookers. Cameras flash as they make their way toward the front door.)</p>
+<p>(GRISSOM exits the front of the building to help.)</p>
+<p>(People push their way toward her. GRISSOM pushes out and grabs GWEN ANDERSON and guides her toward the front door.)</p>
+<p><strong>Reporter (man)</strong>: Baby killer!</p>
+<p><strong>Female Parent</strong>: You should die! FEMALE PARENT: You call yourself a mother? FEMALE PARENT: You're the worst!</p>
+<p><strong>Male Parent</strong>: Baby killer! MALE PARENT: Someone should take those other kids from you!</p>
+<p>(On the way to the door, Someone pushing toward them knocks into GRISSOM and hits him in the eye.)</p>
+<p><strong>Male Media</strong>: Did you kill Zachary over your husband's affair? Did you act alone or did Tyler help?</p>
+<p><strong>Female Parent</strong>: Baby killer! Bitch! Killer! You deserve to die!</p>
+<p>(GWEN ANDERSON and BRAD LEWIS make it to the front door. A reporter stops GRISSOM.)</p>
+<p><strong>Reporter (man)</strong>: Gil Grissom!</p>
+<p>(GRISSOM turns around.)</p>
+<p><strong>Reporter (man)</strong>: You found the baby. How hard is it for you to look at Gwen Anderson?</p>
+<p><strong>Grissom</strong>: (upset) Let me tell you something. People are presumed innocent ... innocent until a court of law can examine all the evidence and prove otherwise. Until then everything else is ... gossip.</p>
+<p>(Done, GRISSOM heads into the building.)</p>
+<p>WO<strong>Man In Crowd</strong>: She deserves to be put in jail! REPORTER: Gil Grissom. Gil Grissom!</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - HALLWAY -- NIGHT -- CONTINUOUS]</p>
+<p>(CATHERINE presses an ice pack to GRISSOM'S bruised eye.)</p>
+<p><strong>Catherine</strong>: Ice.</p>
+<p><strong>Grissom</strong>: (grumbling) I don't need this.</p>
+<p>(GRISSOM and CATHERINE sit in the hallway. GRISSOM takes off the ice pack from his eye.)</p>
+<p><strong>Catherine</strong>: Just do it.</p>
+<p>(GRISSOM puts the pack back against his eye.)</p>
+<p><strong>Catherine</strong>: That was quite a speech you made out there, but between you me and the water fountain ... you think that Gwen Anderson's innocent?</p>
+<p>(GRISSOM puts the pack down, surprised by CATHERINE'S question.)</p>
+<p><strong>Grissom</strong>: What? Are you changing teams now? You've been her biggest supporter. </p>
+<p><strong>Catherine</strong>: I still am. I'm just ... taking your temperature.</p>
+<p>(GRISSOM puts the pack back against his eye. The door opens and BRASS walks out.)</p>
+<p><strong>Brass</strong>: Hey. We're up.</p>
+<p>(They stand up and head to the interview room.)</p>
+<p><strong>Catherine</strong>: You didn't answer my question.</p>
+<p><strong>Grissom</strong>: You're right. I didn't.</p>
+<p>(GRISSOM throws ice bag in trash can.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - NIGHT]</p>
+<p><strong>Gwen Anderson</strong>: I never meant to hurt Tyler. You have to understand.</p>
+<p><strong>Grissom</strong>: You shook him unconscious.</p>
+<p><strong>Gwen Anderson</strong>: He was choking.</p>
+<p><strong>Brass</strong>: All on his own?</p>
+<p><strong>Brad Lewis</strong>: Change your tone or I'll end this right now.</p>
+<p><strong>Brass</strong>: Well, it's a legitimate question. But I have to work on my tone. You're right. (clears his throat) I'll try again. All on his own?</p>
+<p><strong>Catherine</strong>: Go ahead, Mrs. Anderson.</p>
+<p><strong>Gwen Anderson</strong>: He had gotten food in his windpipe. His face was ... turning red. Steve was at work. So, I, I patted him on his back and-and on ... and on his stomach and finally, I turned him upside down and I started shaking him to get the food out ... to ... to dislodge it, and I did. But I realized that I had hurt him, so I called 911.</p>
+<p><strong>Brad Lewis</strong>: She was a new mother -- 23 years old. If she'd meant to harm her son why would she call 911?</p>
+<p><strong>Grissom</strong>: Did the E.R. find proof that there was food lodged in Tyler's throat?</p>
+<p><strong>Brad Lewis</strong>: No. That's why the police were called in. And by the time my client went home and found the chewed food on the kitchen floor it was all too late. She was branded.</p>
+<p><strong>Gwen Anderson</strong>: It was a french fry. He'd grabbed it from my plate.</p>
+<p><strong>Brad Lewis</strong>: As for the death of little Zachary, my client categorically denies any involvement. She's a victim of an intruder who entered her home and abducted and killed her child. Thank you all for your continued efforts to find the real killer.</p>
+<p>(BRAD LEWIS moves to stand up. GRISSOM stops them.)</p>
+<p><strong>Grissom</strong>: Did you know that your golf course paints its grass?</p>
+<p><strong>Gwen Anderson</strong>: Excuse me?</p>
+<p><strong>Grissom</strong>: It's actually a vegetable dye. Biodegradable. They've been using green dye on television tournaments for several years.</p>
+<p><strong>Brad Lewis</strong>: What's your point?</p>
+<p><strong>Grissom</strong>: I found a pair of nylons in the back of your husband's closet.</p>
+<p><strong>Brass</strong>: We, uh we have a receipt that links them to your client.</p>
+<p><strong>Grissom</strong>: The exact same dye from the golf course where Zachary was laid to rest is on your nylons.</p>
+<p><strong>Brad Lewis</strong>: She belongs to the club. Grass stains.</p>
+<p><strong>Catherine</strong>: But she doesn't play golf. Remember our conversation, Mrs. Anderson? It's not your game?</p>
+<p>(GWEN ANDERSON doesn't say anything.)</p>
+<p><strong>Brad Lewis</strong>: If you arrest her now ... you have 48 hours to charge her. You really want to show your hand at the arraignment?</p>
+<p><strong>Brass</strong>: (stands up) We'll be in touch.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. POLICE DEPARTMENT - NIGHT]</p>
+<p>(GWEN ANDERSON walks up to the car where STEVE is carrying ROBBIE who has his arms out for mommy. TYLER stands behind them.)</p>
+<p><strong>Steve Anderson</strong>: Look. ROBBIE ANDERSON: Mommy, I want my mommy.</p>
+<p>(GWEN walks up to them and instead of taking ROBBIE from STEVE, she walks around them to the car.)</p>
+<p><strong>Gwen Anderson</strong>: Hey. Can we just go, please? TYLER ANDERSON: What's going on?</p>
+<p>(Standing near the window watching them, CATHERINE and GRISSOM are both surprised by what they just saw.)</p>
+<p><strong>Catherine</strong>: Did you see that?</p>
+<p><strong>Grissom</strong>: A mother repelled by her young.</p>
+<p><strong>Catherine</strong>: She didn't seem like that type to me.</p>
+<p>(Outside, GWEN is in the car. STEVE hands ROBBIE over to TYLER.)</p>
+<p><strong>Steve Anderson</strong>: All right, okay. Here, go to your brother.</p>
+<p>(CATHERINE turns to leave the window.)</p>
+<p><strong>Catherine</strong>: I'll catch you later. I want to hear that 911 tape.</p>
+<p>(GRISSOM remains by the window watching. On her way out, CATHERINE passes SARA who walks toward GRISSOM.)</p>
+<p><strong>Sara</strong>: Hi.</p>
+<p><strong>Catherine</strong>: Hey.</p>
+<p><strong>Sara</strong>: Grissom? </p>
+<p>(GRISSOM turns around.)</p>
+<p><strong>Sara</strong>: The coroner's been trying to reach you.</p>
+<p><strong>Grissom</strong>: Did he nail time of death?</p>
+<p><strong>Sara</strong>: 9:00 P.M., But, uh, there's something else. He isolated the fiber found in Zachary Anderson's throat. It's a flame-retardant material -- generic name's metaramid.</p>
+<p><strong>Grissom</strong>: From the baby's clothes?</p>
+<p><strong>Sara</strong>: Fire-retardant infant's clothes are made out of vinyon. The fiber found in Zack's throat is a stronger chemical treatment. It's found in things that are made to be near fire and flames. </p>
+<p>(Something occurs to GRISSOM and he quickly turns and heads out the hallway. SARA sees him leave and quickly follows.)</p>
+<p><strong>Sara</strong>: (eagerly) Hey, can I go with you?</p>
+<p>CUT TO:<br />
+[EXT. ANDERSON RESIDENCE - NIGHT]</p>
+<hr />
+[INT. ANDERSON RESIDENCE - KITCHEN -- NIGHT] </p>
+<p>(GRISSOM opens the door and heads into the kitchen. SARA follows. GRISSOM checks the drawers looking for something. SARA also starts checking the drawers.)</p>
+<p>(GRISSOM pulls out a towel, then tosses it on the counter.)</p>
+<p>(He opens the next drawer and stops. He's found it. The pot holders. SARA looks at them.)</p>
+<p><strong>Sara</strong>: Same color as the fiber in Zack's throat.</p>
+<p>(GRISSOM looks at SARA.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - AUDIO/VISUAL LAB -- NIGHT]</p>
+<p>(CATHERINE and WARRICK work on the 911 tapes.) </p>
+<p><strong>Warrick</strong>: Okay, this is the 911 call from the Anderson house at 4:30 A.M.</p>
+<p><strong>Steve Anderson</strong>: (from tape) Our baby has been kidnapped. 493 Fairmark. Please hurry.</p>
+<p><strong>Catherine</strong>: Mrs. Anderson wasn't there?</p>
+<p><strong>Warrick</strong>: You wouldn't think so but I went ahead and separated out any underlying voices.</p>
+<p><strong>Gwen Anderson</strong>: (hysterical) What are we going to do?!</p>
+<p><strong>Warrick</strong>: She was standing, like, two meters from the phone.</p>
+<p><strong>Catherine</strong>: Yeah, well, it's a legitimate comment. Doesn't make her guilty of anything.</p>
+<p><strong>Warrick</strong>: I know, so I checked to see if she was, like, faking her concern. This program measures the stress level of the speakers.</p>
+<p><strong>Gwen Anderson</strong>: (from tape) Oh, god, what are we going to do?!</p>
+<p>(WARRICK points to the results on the monitor of the 911 call from: Las Vegas, NV 89109 for (702) 555-0133.)</p>
+<p><strong>Warrick</strong>: The stress is real.</p>
+<p><strong>Catherine</strong>: Are you familiar with the JonBenet case?</p>
+<p><strong>Warrick</strong>: A little.</p>
+<p><strong>Catherine</strong>: Well, the police went back, and they found an earlier call that was placed from the home to 911 and the audio tests separated out the son's voice. Now, I'm not saying that Tyler's our guy, but ... we need to check into every avenue.</p>
+<p><strong>Warrick</strong>: Well, I did backtrack and there were no other calls that night from the Anderson house-- from the land line, or from the cell phone.</p>
+<p><strong>Catherine</strong>: In the parents' name, but did you look under Tyler's? I mean, a rich kid like that's probably got a cell phone.</p>
+<p><strong>Warrick</strong>: Yeah. All right, I'll get into it.</p>
+<p>(CATHERINE'S phone rings. She answers it.)</p>
+<p><strong>Catherine</strong>: Hello.</p>
+<p><strong>Grissom</strong>: (from phone) Anderson's attorney. Seven a.m.</p>
+<p><strong>Catherine</strong>: 7:00 A.M.? I'll be there.</p>
+<p><strong>Grissom</strong>: (from phone) Bring all the evidence.</p>
+<p><strong>Catherine</strong>: Yeah. I'll bring it all. Thanks.</p>
+<p>(CATHERINE stands up and leaves the room. She waves to WARRICK as she goes.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - MORNING]</p>
+<hr />
+[INT. CONFERENCE ROOM -- MORNING]</p>
+<p>(CATHERINE and GRISSOM walk into the large conference room.) </p>
+<p><strong>Brad Lewis</strong>: My colleagues, Messrs. Landry and Frank are representing Steve and Tyler Anderson respectively. Although we're not co-counsel in the strictest sense we've agreed the authorities should have no more than three questions to put to our clients each. After that, we'll accept written submissions only.</p>
+<p><strong>Catherine</strong>: Nice ... what money can buy.</p>
+<p><strong>Steve Anderson</strong>: My family is done being railroaded by you people so just ask your questions, and let's go.</p>
+<p><strong>Grissom</strong>: I don't have any questions. We know what happened in your house the night Zachary died. We've interpreted the evidence.</p>
+<p><strong>Catherine</strong>: All right, let's work backwards starting with the cover-up. Sometime around 11:00 P.M. the night of the kidnapping you and Mr. Anderson had a drink -- rum and cola ...</p>
+<p>(Quick flashback to: That night. STEVE ANDERSON pours himself a drink. He drinks and rests his elbows on the counter top trying to think.)</p>
+<p><strong>Catherine</strong>: (V.O.) ... and decided what to do with the body of Zachary.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: We have yet to determine whether or not his death was accidental or intentional.</p>
+<p><strong>Grissom</strong>: The question documents lab thinks that a parent wrote the ransom note because there's no money amount. </p>
+<p>(He shows them a photocopy of the ransom note.)</p>
+<p><strong>Grissom</strong>: Too hard to put a price on your own son?</p>
+<p><strong>Catherine</strong>: Mrs. Anderson, while your husband was writing the ransom note, you wrapped Zachary's body in a blanket that you got from the upstairs linen closet.</p>
+<p>(Quick flashback to: GWEN ANDERSON opens the linen closet door and gets a blanket out. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: You then laid his body to rest near a statue on the golf course.</p>
+<p>(Quick flashback to: GWEN ANDERSON carries the baby to the statue on the golf course. She kneels down in the grass. Camera close up of her knee on the grass. She puts the baby down, placing him carefully on the grass. She cries and slowly backs away. She leaves. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: That's how you got the grass stains on your nylons.</p>
+<p>(GRISSOM hands over a photo to BRAD LEWIS to look at.)</p>
+<p><strong>Catherine</strong>: You put down a plastic bag from the pantry so that he'd remain dry. Evidence of genuine care and concern. </p>
+<p>(TYLER turns to look at his mom who is slowly falling apart at hearing the story recounted for them.)</p>
+<p><strong>Catherine</strong>: And Mr. Anderson you put up a ladder outside the window.</p>
+<p><strong>Grissom</strong>: The only shoe prints we found were yours and the gardener's and the gardener has been out of town. You then drove over to your office and cranked off a ransom note on the first available printer ...</p>
+<p>(Quick flashback to: STEVE ANDERSON is in the office printing out the ransom note.)</p>
+<p><strong>Grissom</strong>: (V.O.) ... possibly thinking that if you used a printer from outside your house, we wouldn't be able to trace it. </p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: But these three dots ... have given you away.</p>
+<p>(GRISSOM hands over the photo to BRAD LEWIS.)</p>
+<p><strong>Brad Lewis</strong>: This may prove cover-up. None of it proves they killed Zachary.</p>
+<p><strong>Grissom</strong>: You're right, counselor. Zachary's life was taken much earlier in the evening. The coroner estimated time of death at 9:00 P.M.</p>
+<p><strong>Brad Lewis</strong>: Estimated. It could be 8:30.</p>
+<p><strong>Grissom</strong>: Yes. While Robbie and Zachary were in Tyler's care. </p>
+<p>(GRISSOM turns to look at TYLER. GWEN sees where this is heading.)</p>
+<p><strong>Grissom</strong>: You said that we could ask three questions each. Am I right?</p>
+<p><strong>Gwen Anderson</strong>: Stop. Ty didn't do this.</p>
+<p><strong>Brad Lewis</strong>: Don't give them anything.</p>
+<p><strong>Gwen</strong>: No, no. It doesn't matter. We're already ruined. Look, they're just ... they're just trying to protect me, all right? </p>
+<p><strong>Brad Lewis</strong>: Please. </p>
+<p><strong>Gwen Anderson</strong>: And I can't go on.</p>
+<p><strong>Brad Lewis</strong>: (warning) Mrs. Anderson.</p>
+<p><strong>Gwen Anderson</strong>: I killed him. I came home. Tyler h-h-hadn't put Zachary to bed because he ... he was crying, and I wanted to hush him up and, and I just ... I went too far.</p>
+<p><strong>Brad Lewis</strong>: For the record my client made this statement against legal counsel.</p>
+<p><strong>Grissom</strong>: Would you tell us ... how you killed him.</p>
+<p><strong>Gwen Anderson</strong>: I smothered him with a pot holder. And that's when Steve and I came up with the kidnap story.</p>
+<p><strong>Steve Anderson</strong>: It was the longest night of our lives.</p>
+<p><strong>Catherine</strong>: You had to wait till morning to report him missing.</p>
+<p><strong>Gwen Anderson</strong>: So that it wouldn't look suspicious. And you may not believe me, but I loved him. I loved him very, very much.</p>
+<p><strong>Grissom</strong>: We're going to have to have them both arrested.</p>
+<p>(BRAD LEWIS nods.)</p>
+<p>(GWEN and STEVE look at each other.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<hr />
+[INT. CSI -HALLWAY - DAY]</p>
+<p>(CATHERINE and GRISSOM walk into the hallway WARRICK walks out and is surprised to see them back so soon.)</p>
+<p><strong>Warrick</strong>: I was just coming to meet you guys. I thought you were at the Andersons.</p>
+<p><strong>Grissom</strong>: We're done. She copped.</p>
+<p><strong>Warrick</strong>: What?</p>
+<p><strong>Catherine</strong>: Guilty people do that when you corner them with evidence.</p>
+<p><strong>Warrick</strong>: Guys, the mother didn't do it.</p>
+<p><strong>Grissom</strong>: What?</p>
+<p><strong>Warrick</strong>: Listen.</p>
+<p>(WARRICK hands GRISSOM the earphones. GRISSOM puts them on and listens to the tape.)</p>
+<p><strong>Tyler Anderson</strong>: (from tape) What did you do, Robbie?! What did you do?!</p>
+<p>(GRISSOM looks at WARRICK, surprised. WARRICK nods his head.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. BRASS' OFFICE -- DAY]</p>
+<p>(They re-question TYLER ANDERSON with STEVE ANDERSON sitting next to him.)</p>
+<p><strong>Tyler</strong>: I was watching the boys. I had my eye on them; I did.</p>
+<p>(Quick flashback to: ROBBIE is leaning over the crib. He has the pot holder in his hand and holds it over ZACHARY. End of flashback. Resume to present.)</p>
+<p>(GRISSOM flips through the file.)</p>
+<p><strong>Grissom</strong>: Yeah. But then you called your girlfriend.</p>
+<p><strong>Tyler Anderson</strong>: And we got to talking. </p>
+<p>(Quick flashback to: TYLER ANDERSON on the phone. End of flashback.)</p>
+<p><strong>Tyler Anderson</strong>: And I was kind of ignoring Zack and Robbie. </p>
+<p>(BRASS glances over at ROBBIE who is playing with a toy and under the watchful eye of the OFFICER.)</p>
+<p><strong>Tyler Anderson</strong>: They were being quiet. They were behaving. I turned around, and I saw how still he was. </p>
+<p>(Quick flashback to: TYLER turns around and looks over at the crib where ROBBIE is playing. He walks over to the crib to check up on the kids.)</p>
+<p><strong>Tyler Anderson</strong>: (V.O.) I ran to him, and he was dead.</p>
+<p>(He looks inside the crib and finds that ZACH isn't moving. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: And that's when you called 911.</p>
+<p>(TYLER nods. STEVE turns to look at TYLER.)</p>
+<p>(Quick flashback to: TYLER dialing the phone frantically. ROBBIE stands in front of TYLER, unaware of what's going on. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: But you must have dropped the phone to tend to Zack.</p>
+<p>(GRISSOM reaches for the tape player.)</p>
+<p>(Quick flashback to the phone falling to the floor.)</p>
+<p><strong>Operator</strong>: (V.O.) 911.</p>
+<p><strong>Tyler Anderson</strong>: (on tape) What did you do, Robbie?! </p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(Quick flashback to: TYLER looks into the crib, down at ZACH. He turns and yells at ROBBIE.)</p>
+<p><strong>Tyler Anderson</strong>: What did you do? </p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: And I guess somewhere in the chaos you got disconnected. Soon after that, your parents arrived.</p>
+<p>(Quick flashback to: GWEN and STEVE walk into the house and find TYLER trying to revive ZACH.)</p>
+<p><strong>Gwen Anderson</strong>: Oh, my god. What happened?</p>
+<p>(GWEN rushes over. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: One of you worked on him so hard that you cracked his sternum.</p>
+<p>(STEVE sighs.)</p>
+<p><strong>Tyler Anderson</strong>: He was already blue. I pushed. I tried to breathe air into him, but he was gone.</p>
+<p><strong>Steve Anderson</strong>: We did everything that we could.</p>
+<p><strong>Brass</strong>: Why didn't you just tell the truth? </p>
+<p><strong>Steve Anderson</strong>: We wanted to protect Robbie. (his voice breaks) We didn't want him to grow up with the stigma of ... &quot;the boy who killed his brother.&quot;</p>
+<p><strong>Grissom</strong>: He's three. He's clinically unaware of his actions. No court would hold him accountable for that.</p>
+<p><strong>Steve Anderson</strong>: But everybody else would know. It would follow him the rest of his life. And my wife ... would rather go to prison than to have anybody know what Robbie did.</p>
+<p><strong>Grissom</strong>: Mr. Anderson, we won't let that happen.</p>
+<p>(STEVE looks at TYLER who turns to look over at ROBBIE playing quietly in the hallway.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT -- JAIL -- DAY]</p>
+<p>(The doors slide open. GWEN ANDERSON walks out of the cell and waits for the main gate to open. CATHERINE stands there waiting for her. The doors open and they hand GWEN her things.)</p>
+<p><strong>Catherine</strong>: Now I know why you didn't want to hold Robbie when your husband handed him to you outside the police department. </p>
+<p>(GWEN puts her jacket on.)</p>
+<p><strong>Catherine</strong>: I'm very sorry.</p>
+<p><strong>Gwen Anderson</strong>: (sniffles) I always, uh ... I always tell them, &quot;gentle, gentle.&quot;</p>
+<p>(CATHERINE nods.)</p>
+<p><strong>Gwen Anderson</strong>: He didn't mean it. I know he didn't mean it.</p>
+<p><strong>Catherine</strong>: (shakes her head) Of course he didn't.</p>
+<p>(GWEN walks past CATHERINE, then turns around.)</p>
+<p><strong>Gwen Anderson</strong>: You must think that we are awful people -- all this stuff that's come out.</p>
+<p><strong>Catherine</strong>: You're an average family burdened with a tragedy that put you under a microscope. That close, nobody can look good.</p>
+<p>(GWEN nods and turns to leave.)</p>
+<p>CUT TO:<br />
+[HALLWAY - CONTINUOUS]</p>
+<p>(CATHERINE and GWEN ANDERSON turn the corner and meet up with GRISSOM who stands there waiting for them.)</p>
+<p>(Just outside near the windows, the shadow of the crowd in the front of the building can be seen. Camera lights flash.)</p>
+<p><strong>Grissom</strong>: Your family's waiting for you. You ready?</p>
+<p>[SLOW MOTION CAMERA]</p>
+<p>(Flanked with both GRISSOM and CATHERINE on either side of her, GWEN ANDERSON heads for the front door.)</p>
+<p>HARD CUT TO BLACK.</p>
+<p><strong>Reporter (man)</strong>: (V.O.) Will the family be moving? <strong>Reporter (man)</strong>: (V.O.) Will you make any statements? <strong>Reporter (man)</strong>: (V.O.) Comments?</p>
+<p><strong>End</strong></p>
 
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
-
-
-
-
- 
-
-
-
-
-
-
-Gwen Anderson: No!
-
-
-
-
- 
-
-Grissom: Excuse me. My name's Gil Grissom. I'm with the Las Vegas Crime Lab.
-Gwen Anderson: Please help us.
-Grissom: I'll certainly try.
-
-Grissom: Is that the ransom note?
-Steve Anderson: Yeah. They don't even say how much money they want. They just say that they'll call us in six hours.
-
-Grissom: Have you let anyone else touch this note? 
-(GRISSOM reads the note:
-I have your son.
-I don't want to harm him.
-Don't make me.
-I'll call in six hours with instructions.
-I advise you not to call the police. )
-Grissom: Police, a relative, anyone?
-Steve Anderson: N-no, just us. Why?
-Grissom: Well, because the person who touched it before you has your son ... and he's just left us the first piece of the puzzle.
-
-
-
-
-
-
-
-Catherine: Jim, dispatch said this is a kidnapping? Divorce situation?
-Brass: No papers filed. College sweethearts. Neighbors say they're the salt of the earth.
-Catherine: So this could have been legitimate?
-BRASS They have a security system. But they never put it on.
-Catherine: They say how come?
-Brass: They feel safe in the neighborhood.
-Catherine: Check the premises?
-Brass: Attic, wine cellar, crawl space. No four-month-old baby.
-
-Catherine: Nice digs.
-Brass: Yeah, guy got rich off some dot-com outfit. Moved here from Oregon two years ago.
-Catherine: Bet they wished they hadn't today.
-
-
-
-
-Steve Anderson: Are you sure he won't hear a click or something?
-FBI Man: He won't. And if he asks, you and your wife are alone. Question him about your son. Ask to hear him breathing. Anything to keep the guy talking. Understood?
-
-Steve Anderson: I don't know.  Yeah, yeah.
-
-Steve Anderson: Okay. Built my own business. I can handle any kind of pressure.
-
-Grissom: Was this yours?
-Steve Anderson: Yeah.
-Grissom: May I ask when you opened it?
-Steve Anderson: I don't know. Um, sometime after we called 911.
-
-Grissom: You mind if I, uh...?
-Steve Anderson: No. Go ahead.
-
-
-Grissom: You have any more of these?
-Steve Anderson: In the fridge.
-Grissom: Thanks.
-
-
-
-
-
-Gwen Anderson: Do my boys have to be here? I think this is hard enough for them without having to hear the facts.
-Brass: I understand, but it's best for our investigation if we keep the whole family together.
-Tyler Anderson:  It's okay, mom.
-Brass: You were saying, Mrs. Anderson?
-Gwen Anderson: Um ... I got up at 4:30, like I usually do to feed Zack. I'm still breast-feeding. And I went down to Zacky's room. I looked in his crib and he was gone. He wasn't there. 
-
-Gwen Anderson: And I felt around for him and that's when I found the letter saying that he had been taken and I ... I don't know. I-I think I screamed ... 
-Tyler Anderson: You screamed, mom.
-Steve Anderson: I jumped out of bed and I went to her, and that's when we called 9-1-1 from the upstairs hallway.
-
-Robbie Anderson: Nine-1-1-1.
-Tyler Anderson: Give me the phone, Robbie. Give me the phone.
-Grissom: We're going to need a piece of the baby's clothing. Something from his hamper, if possible. We're going to use scent dogs throughout the neighborhood.
-Steve Anderson: I'll go see what I can find.
-Gwen Anderson: No, I know what he wears.
-
-Catherine: I'll go with you.
-
-Grissom: I'd also like to get blood samples from each family member.
-Steve Anderson: Why?
-Grissom: Well, the sooner we can eliminate the expected hairs and fibers from within the household, we can begin looking for outsiders.
-Tyler Anderson: Is it going to hurt?
-Grissom: I hope not.
-
-
-
- 
-Grissom: Sara.
-Sara: Yeah?
-Grissom: Take this ransom note to Q.D.
-
-Sara: Typewritten ransom note? Kidnapper was organized.
-Grissom: I think it's ink-jet not typewriter.
-Sara: I'll get it to questioned documents check for origination prints, the works.
-Grissom: Take every computer and printer from the Anderson house with you.
-Sara: You think the suspect printed the ransom note from inside the house while they were sleeping?
-Grissom: I'm not thinking anything yet.
-
-Grissom: Nick.
-Nick:  No, thanks, I'm an iced tea man.
-Grissom: It's not a refreshment. It's an experiment. Take this to the lab in a controlled space, 72 degrees Fahrenheit and open it. Keep this in the same room-temp space.
-Nick: Okay, then what?
-Grissom: Process, Nick. Process.
-
-Grissom: Baby's bedroom window is open and the ladder's still out there. So canvass the whole grounds from outside to in.
-Warrick: I'm all over it like a cheap suit.
-
-Officer:  Hey, Grissom! We have the smell dogs set up for you.
-
-
-
-
-
- 
-Warrick: You see this spiderweb?
-
-Grissom: Damn, Warrick!
-
-Warrick: I'm sorry. Your ticker okay?
-Grissom: What spiderweb?
-Warrick: Right here.
-
-Warrick: Kind of hard to get a baby out of a window climb onto a ladder without messing up this web, don't you think?
-Grissom: Well, it could have happened after the abduction. Spiders can build one of these things in a few hours.
-
-Grissom: Warrick? What are you doing?  Go around.
-
-
-
-
-
-
-Catherine: Oh, you're right on the golf course. That must be nice.
-Gwen Anderson: Steve likes it. I never cared for the game.
-
-Gwen Anderson: That one's my favorite but Zacky, he, uh ... he liked another one. Here it is.
-
-Gwen Anderson: There's a little spit-up on it. He liked the way the fabric felt on his skin. 
-
-Gwen Anderson: Oh, god.
-Catherine: It's okay. It used to happen to me with my daughter if I didn't get to her right on time.
-
-Gwen Anderson: I can't believe this is happening to us.
-
-Catherine: I'll get this to our guys.
-
-
-
-
-
-
-Warrick: What you got?
-Grissom: Two hairs, separate and distinctive.
-
-Warrick: Ah. The plot thickens.
-
-Grissom: You smell something?
-
-Warrick: I smell these dirty diapers over here.
-
-Grissom: It's like a household cleanser. There's a pine smell.
-Warrick: Probably used to clean that diaper pail.
-Grissom: No, it's stronger than that. 
-
-Grissom: It's emanating from this specific spot.
-
-Warrick: Baby was killed before it even left the house. Guy tried to cover his tracks.
-
-
-
-
-
-Sara: What do you mean you haven't checked for prints? It's a ransom letter.
-Ronnie Litre: Everything in the proper order. You know that. I got five other tests I got to run on this paper before I try to isolate prints.
-Sara: You got anything for me?
-Ronnie Litre: Yeah. The paper's expensive. High rag count.
-Sara: I could have told you that.
-Ronnie Litre: Can you explain these three small vertical dots?
-
-Sara: What? Where?
-Ronnie Litre: The printer that emitted this letter has a spot on the drum.
-Sara: A drum goes around three times to print one page. 
-
-Sara: So if the Andersons' printer was used ... 
-Ronnie Litre: There'd be three small dots on any paper that comes out.
-Sara: No vertical dots.
-Ronnie Litre: And different paper than the ransom letter F.Y.I.
-
-
-
-
- 
-Warrick: Yeah, this mold I made of that shoe print matches the gardener's boot that I found in the shed over there.
-Grissom: Yeah, well, we need to look for what's out of place.
-Warrick: And a gardener's boot in a garden is not out of place. Well, the Andersons did say the guy's been out of town on vacation for the last three days.
-
-Grissom:  Grissom.
-
-
- 
-Sara: Ransom note's not from the Anderson's printer or paper supply.
-Grissom: You're breaking up.
-Sara: The Andersons are clear. Whoever wrote the letter did it from a different location and brought it with them.
-Grissom: Are you standing next to the copy machine outside ballistics?
-Sara: You want me to check ballistics?
-Grissom: No. I want you to move away from that machine. Look, check all the printers at Steve Anderson's company.
-
-Grissom:  Get Q.D. To help you with a warrant. Target all immediate coworkers and disgruntled employees first.
-
-
-Sara: Are those our dogs? Grissom? Grissom!
-
-
-
-
- 
-Warrick: Get those dogs back. Get them back!
-
-
-Grissom: Stand back.
-CSI Tech: We got to have pictures. The coroner will be all over us.
-Grissom:  I'll get the pictures!
-
-
-Grissom: I'm going to take him.
-
-
-
-
-Gwen Anderson:  My baby! Oh, my god!
-
-
-Gwen Anderson: It's my baby! My baby! My baby!
-
-
-
-
-
-
-
-
-Paula Francis:  The Andersons, who own a profitable internet company in Las Vegas, are said to be devastated by the death of little Zachary. As for leads, the police will only say they have widened the investigation to include employees of Steve Anderson's company. Immediate coworkers are being asked to give DNA samples. By all accounts, the employees are complying voluntarily. One of them is quoted as saying &quot;anything to help Mr. and Mrs. Anderson in their time of grief.&quot;
-
-
-
- 
-Dr. Albert Robbins: I can't give you exact time of death, but I do know cause of death was asphyxiation.
-Grissom: He was smothered.
-Dr. Albert Robbins:  The retinal hemorrhages are the result of intercranial pressure from an edema. The edema was caused by an acute lack of oxygen.
-Grissom: Smothered how? Did you find hand marks? Trauma around the mouth or nose?
-Dr. Albert Robbins: No.
-Grissom: He was in a blanket when I found him ... wrapped pretty tight.
-Dr. Albert Robbins: Positional asphyxiation? Maybe. Abductor might've tried to protect him from the cold. Suffocated him by mistake. I'm going to run tests on a microscopic fiber I found in his throat.
-
-Dr. Albert Robbins: But I don't think his death was benign, Gil. Or accidental. Sternum was cracked. X rays say the fracture is fresh. Manhandled and suffocated. This little guy didn't have a chance.
-
-
-
-
-
-Grissom: Are those from Anderson's company?
-Sara: Yeah. There's like 200 of them in that place. I'm going to test them against the ransom note, one by one.
-Grissom: You got homicide's list of disgruntled employees?
-Sara: Not yet. They're still working on it.
-Grissom:  You call homicide back and tell them to get us that list now. 
-
-Grissom: Hey.
-
-Warrick: Hey.
-Grissom: Where are we on those DNA samples?
-Warrick: I got the hair samples from the baby's crib ready for comparison.
-Grissom: Yeah? So answer my question.
-Warrick: Well, DNA's jammed. Sanders says he'll get to the blood comparisons ...
-
-Warrick: ... as soon as ...
-
-
-
-
-Grissom: I hear you're backlogged.
-Greg Sanders: Twenty &quot;unknowns&quot; from some drug shoot-out. FBI special request. Sheriff told me to clear it off my counter before I do anything else.
-Grissom: These?
-Greg Sanders: Yeah. You can almost smell Quantico, you know?
-
-
-
-Grissom:  There. Now they're off your counter. 
-
-Grissom: Zachary Anderson, DOB 01-23-01. Date of death, three hours ago. Until we find out how and why ... 
-
-Grissom: ... this is the only case you work on.
-Greg Sanders: Yes, sir.
-
-Nick: Never seen him like this before.
-
-
-Sara: Grissom?
-
-Grissom: What?
-
-Sara: You told me a few weeks ago that nothing is personal. No victim should be special.
-
-Sara: Everyone follows your lead.
-Grissom: Everyone didn't find that baby. I did. And that little boy is dead because someone lost their temper or screwed up, or god knows what. So, excuse me, but this victim is special.
-
-Catherine:  Mr. and Mrs. Anderson are calling. They want to know why you refuse to release the body for burial. They said that you gave the coroner strict instructions.
-
-Grissom: You better drive.
-
-Catherine: Sure.
-
-
-
-
- 
-Grissom: I'm very sorry, but we have to preserve the evidence in a case like this. And, as difficult as this sounds, Zachary is evidence.
-Catherine: We need to refer to him as the case unfolds.
-Gwen Anderson: Well, do you have any leads? Any idea who did this?
-Grissom: Your child was found five hundred yards from your back door, in clean clothes wrapped in a white blanket, laid carefully under a statuary.
-Catherine: A stranger wouldn't treat a victim like that.
-Steve Anderson: You think we had something to do with this?
-Grissom: The FBI tells us that you never received a call from the abductor. What kind of a kidnapper forgets to call the family?
-Catherine: A wealthy family.
-Steve Anderson: My lawyer warned me that you were going to try this.  You don't have a suspect so now you're going to come after us.
-Grissom: But you have nothing to hide.
-Steve Anderson:  You're damn right we don't!
-
-Warrick: I thought I'd deliver this in person. DNA came back on the entire family.
-
-Grissom: The blood we found in the baby's room ... It belongs to your son Tyler.
-
-
-
- 
-Tyler Anderson: I was playing ball in the backyard and I cracked Zacky's window. Dad had told me not to hit the ball towards the house. So I went up and replaced the window before anyone got home and I cut my finger on the glass.
-Grissom: And you wiped up the blood with some type of pine cleanser. 
-Tyler Anderson: I thought I got it all.
-Grissom: Let's go back a second, Tyler. You said that you baby-sat for Robbie and Zack last night, right?
-Tyler Anderson: I told the police that this morning.
-
-Steve Anderson: We had a homeowner's association vote meeting. It was just five doors up from our house.
-Gwen Anderson: I had, uh ... I had made dinner and then Steve and I walked up to the clubhouse. We were gone maybe 30 minutes, until 9:00.
-Brass: We contacted the Association. The story checks out. I also did a background search. Tyler has quite a temper on him, don't you, Ty?
-Tyler Anderson: What?
-Brass: You were expelled from school twice last year for physical altercation.
-Steve Anderson: That was schoolyard stuff.
-Catherine: Beat up a 12-year-old in the school stairwell.
-Tyler Anderson: He made fun of my mother. I wasn't going to let him get away with that.
-Brass: Your brother Zack say something you didn't like you weren't going to let him get away with either?
-
-Tyler Anderson:  Don't talk about my brother that way, you b*st*rd!
-
-Steve Anderson: Sit down! Now.
-Gwen Anderson: He's, uh ... he's upset. He is not usually like this.
-Tyler Anderson:  People are calling us killers. And I miss my little brother.
-Grissom: That still doesn't mean you didn't kill him.
-
-
-
-;
-
-
-
-
-
- 
-Catherine: So what are we looking for?
-Grissom: I don't know.
-Catherine: Well, let's start up and work our way down.
-(CATHERINE heads up the stairs. GRISSOM follows her.
-
-
-
-
-
-
-
-
-
- 
-Nick: Here's the father's bottle of cola -- here's the unknown. I duplicated conditions and monitored the pressure that escaped from the father's bottle which he told you had been open two hours against one I know was open two hours. Kept this log. Pressure released every quarter hour.
-
-Grissom: Good, Nick. 
-
-Grissom: Did you find any ethanol on the lip of that bottle?
-Nick: Well, I've got trace running tests now, but I did an unscientific whiff test. 
-
-Nick: Picked up a hint of some kind of booze.
-Grissom: Call me when you get the results.
-
-Grissom: See if they can find out what this green substance is on these nylons I found in Mr. Anderson's closet.
-Nick: I'll take a swatch, get it back to you ASAP.
-
-
-
-
-
-Grissom: The mother's prints ... the father's prints ... and a set of unknowns.
-Sara: They're not unknown.
-
-Sara: I ran them against the employees of Steve Anderson's computer company disgruntled and otherwise. They belong to a Needra Fenway.
-Grissom: And who is Needra Fenway?
-Sara: Steve's secretary.
-
-Sara: So, of course, I checked out her printer. As I'm sure you know, all printers have their own unique signature.
-
-Sara: These three ... tiny vertical dots from Needra's printer match the ransom note perfectly.
-
-
-
-
-
-Needra Fenway: Thank you.
-Grissom: Thank you for coming in.
-Needra Fenway: Anything I can do to help. You know, it's ... it's just terrible what happened.
-Brass: Maybe you can explain why your printer was used to create the ransom note found in the Anderson home.
-Needra Fenway: What?
-Grissom: We have evidence that this came from your printer.
-
-Needra Fenway: There are 500 people who work in that office. Anyone could have used my printer.
-Grissom: We also found a strand of hair. Our lab has matched it to you. 
-Brass: From the Anderson home.
-Needra Fenway: I'm Steven's secretary. I go there.
-Grissom: Do you go upstairs? 'Cause that's where we found this particular hair.
-
-Catherine: You two were having an affair.
-Needra Fenway: We ended it.
-Catherine: Because his wife got pregnant?
-Needra Fenway: I'm not going down this road.
-Catherine: What? A new baby screw up the office romance?
-Needra Fenway: It was more than just an office romance, okay? Much more.
-Catherine: Yeah. Well, a lot of women would understand if you went over there and ... got rid of that baby.
-Brass: Sure. Quickest way to end a guy's marriage.
-Needra Fenway: Okay, I need a lawyer. Is that it? Is that what you're saying here?
-
-Grissom: Are these your nylons? I found these hidden in the back of Mr. Anderson's closet. So, did you come to him after you disposed of the baby and ask him to hide them for you?
-Needra Fenway: Talk to Steve.
-
-Catherine: Steve asked her to get out from underneath the obligation of a newborn?
-Brass: Geez. Haven't these people ever heard of divorce?
-
-
-
-
- 
-Steve Anderson: Needra didn't kill Zack any more than I did.
-Grissom: How do you explain her hair in the baby's crib?
-
-Steve Anderson: We broke up the day that I learned that Gwen was pregnant with Zack. I love Needra but I love my family more. Needra asked if she could see Zack after he was born to help her kind of accept the reality. So, I had her in last Saturday to watch him sleep.
-
-Steve Anderson: Gwen had the kids at skating. Needra was out of the house in
-15 minutes. You don't believe me.
-Grissom: You've lied to me before.
-Steve Anderson: About what?
-Grissom: You told me that you opened that cola bottle the morning you reported Zack missing. We had a test done. You opened that bottle six hours before you said you did -- the night before -- somewhere around 11:00 P.M. The lab is still testing it. I also believe that you cut it with alcohol.
-Steve: Rum and cola. What does that prove?
-Grissom: Was Needra Fenway in your house that night? Did you catch her suffocating your son?
-
-Steve Anderson: What are you doing?
-
-Gwen Anderson: What have you done?
-
-Steve Anderson: That's not how it happened.
-Grissom: Well, why don't you tell me how it happened.
-
-Gwen Anderson: Robbie, what did you do?
-Robbie Anderson:  I'm sorry, I'm sorry.
-Gwen Anderson: All right, I heard you.
-
-Steve Anderson: Do we have to have this conversation right now?
-
-Las Vegas Post Reporter : Mr. Anderson?
-Steve Anderson: What? Yeah?
-Las Vegas Post Reporter : I'm from the Las Vegas Post. How do you feel about these pictures your secretary sold to the Midnight Informer this afternoon?
-
-Steve Anderson: Where did you get these?
-Las Vegas Post Reporter : The tabloid's web site. Needra sold them to pay for her legal fees. 
-
-Las Vegas Post Reporter : Mr. Anderson?
-Steve Anderson:  My only comment is that I love my wife very much.
-
-
-Las Vegas Post Reporter : Excuse me. I'm from the Las Vegas Post. Can I ask you a few questions?
-
-Gwen: No.
-
-
-
-
-
-Catherine: A wife kills her baby to get back at her husband over his affair. Come on. Any woman would go after the husband, not the baby.
-Dr. Phillip Kane: True. But, in some instances women have been known to kill their children as a way to pay back a spouse. Particularly if it's over an affair and particularly if the child was a male child.
-Catherine: Well, I don't buy it. I just don't buy it, doctor. She really loved that baby.
-Dr. Phillip Kane: Well, Catherine that's why she's in this much pain now.
-Catherine: A guy cheats, but the wife commits murder. How come moms always end up the bad guy with you Freud types?
-Brass: That's because this mother is the bad guy. 
-
-Brass: CNN just dug up a 13-year-old charge against Gwen Anderson. I heard it on the car radio.
-Grissom: What kind of charge?
-Brass: It's called shaken baby syndrome. The oldest boy-- Tyler? When he was a newborn she shook him so hard they had to go to the hospital. She shook the kid unconscious.
-Catherine: Is this authentic?
-Brass: Yeah. They were on the phone with the arresting officer from Oregon. He faxed me this report. Our grieving mother ... her record for child abuse.
-
-
-
- 
-
-
-
-Reporter : Baby killer!
-Female Parent: You should die! FEMALE PARENT: You call yourself a mother? FEMALE PARENT: You're the worst!
-Male Parent: Baby killer! MALE PARENT: Someone should take those other kids from you!
-
-Male Media: Did you kill Zachary over your husband's affair? Did you act alone or did Tyler help?
-Female Parent: Baby killer! Bitch! Killer! You deserve to die!
-
-Reporter : Gil Grissom!
-
-Reporter : You found the baby. How hard is it for you to look at Gwen Anderson?
-Grissom:  Let me tell you something. People are presumed innocent ... innocent until a court of law can examine all the evidence and prove otherwise. Until then everything else is ... gossip.
-
-WOMan In Crowd: She deserves to be put in jail! REPORTER: Gil Grissom. Gil Grissom!
-
-
-
-
-Catherine: Ice.
-Grissom:  I don't need this.
-
-Catherine: Just do it.
-
-Catherine: That was quite a speech you made out there, but between you me and the water fountain ... you think that Gwen Anderson's innocent?
-
-Grissom: What? Are you changing teams now? You've been her biggest supporter. 
-Catherine: I still am. I'm just ... taking your temperature.
-
-Brass: Hey. We're up.
-
-Catherine: You didn't answer my question.
-Grissom: You're right. I didn't.
-
-
-
-
-Gwen Anderson: I never meant to hurt Tyler. You have to understand.
-Grissom: You shook him unconscious.
-Gwen Anderson: He was choking.
-Brass: All on his own?
-Brad Lewis: Change your tone or I'll end this right now.
-Brass: Well, it's a legitimate question. But I have to work on my tone. You're right.  I'll try again. All on his own?
-Catherine: Go ahead, Mrs. Anderson.
-Gwen Anderson: He had gotten food in his windpipe. His face was ... turning red. Steve was at work. So, I, I patted him on his back and-and on ... and on his stomach and finally, I turned him upside down and I started shaking him to get the food out ... to ... to dislodge it, and I did. But I realized that I had hurt him, so I called 911.
-Brad Lewis: She was a new mother -- 23 years old. If she'd meant to harm her son why would she call 911?
-Grissom: Did the E.R. find proof that there was food lodged in Tyler's throat?
-Brad Lewis: No. That's why the police were called in. And by the time my client went home and found the chewed food on the kitchen floor it was all too late. She was branded.
-Gwen Anderson: It was a french fry. He'd grabbed it from my plate.
-Brad Lewis: As for the death of little Zachary, my client categorically denies any involvement. She's a victim of an intruder who entered her home and abducted and killed her child. Thank you all for your continued efforts to find the real killer.
-
-Grissom: Did you know that your golf course paints its grass?
-Gwen Anderson: Excuse me?
-Grissom: It's actually a vegetable dye. Biodegradable. They've been using green dye on television tournaments for several years.
-Brad Lewis: What's your point?
-Grissom: I found a pair of nylons in the back of your husband's closet.
-Brass: We, uh we have a receipt that links them to your client.
-Grissom: The exact same dye from the golf course where Zachary was laid to rest is on your nylons.
-Brad Lewis: She belongs to the club. Grass stains.
-Catherine: But she doesn't play golf. Remember our conversation, Mrs. Anderson? It's not your game?
-
-Brad Lewis: If you arrest her now ... you have 48 hours to charge her. You really want to show your hand at the arraignment?
-Brass:  We'll be in touch.
-
-
-
-
-Steve Anderson: Look. ROBBIE ANDERSON: Mommy, I want my mommy.
-
-Gwen Anderson: Hey. Can we just go, please? TYLER ANDERSON: What's going on?
-
-Catherine: Did you see that?
-Grissom: A mother repelled by her young.
-Catherine: She didn't seem like that type to me.
-
-Steve Anderson: All right, okay. Here, go to your brother.
-
-Catherine: I'll catch you later. I want to hear that 911 tape.
-
-Sara: Hi.
-Catherine: Hey.
-Sara: Grissom? 
-
-Sara: The coroner's been trying to reach you.
-Grissom: Did he nail time of death?
-Sara: 9:00 P.M., But, uh, there's something else. He isolated the fiber found in Zachary Anderson's throat. It's a flame-retardant material -- generic name's metaramid.
-Grissom: From the baby's clothes?
-Sara: Fire-retardant infant's clothes are made out of vinyon. The fiber found in Zack's throat is a stronger chemical treatment. It's found in things that are made to be near fire and flames. 
-
-Sara:  Hey, can I go with you?
-
-
-
- 
-
-
-
-Sara: Same color as the fiber in Zack's throat.
-
-
-
-
- 
-Warrick: Okay, this is the 911 call from the Anderson house at 4:30 A.M.
-Steve Anderson:  Our baby has been kidnapped. 493 Fairmark. Please hurry.
-Catherine: Mrs. Anderson wasn't there?
-Warrick: You wouldn't think so but I went ahead and separated out any underlying voices.
-Gwen Anderson:  What are we going to do?!
-Warrick: She was standing, like, two meters from the phone.
-Catherine: Yeah, well, it's a legitimate comment. Doesn't make her guilty of anything.
-Warrick: I know, so I checked to see if she was, like, faking her concern. This program measures the stress level of the speakers.
-Gwen Anderson:  Oh, god, what are we going to do?!
-
-Warrick: The stress is real.
-Catherine: Are you familiar with the JonBenet case?
-Warrick: A little.
-Catherine: Well, the police went back, and they found an earlier call that was placed from the home to 911 and the audio tests separated out the son's voice. Now, I'm not saying that Tyler's our guy, but ... we need to check into every avenue.
-Warrick: Well, I did backtrack and there were no other calls that night from the Anderson house-- from the land line, or from the cell phone.
-Catherine: In the parents' name, but did you look under Tyler's? I mean, a rich kid like that's probably got a cell phone.
-Warrick: Yeah. All right, I'll get into it.
-
-Catherine: Hello.
-Grissom:  Anderson's attorney. Seven a.m.
-Catherine: 7:00 A.M.? I'll be there.
-Grissom:  Bring all the evidence.
-Catherine: Yeah. I'll bring it all. Thanks.
-
-
-
-
-
- 
-Brad Lewis: My colleagues, Messrs. Landry and Frank are representing Steve and Tyler Anderson respectively. Although we're not co-counsel in the strictest sense we've agreed the authorities should have no more than three questions to put to our clients each. After that, we'll accept written submissions only.
-Catherine: Nice ... what money can buy.
-Steve Anderson: My family is done being railroaded by you people so just ask your questions, and let's go.
-Grissom: I don't have any questions. We know what happened in your house the night Zachary died. We've interpreted the evidence.
-Catherine: All right, let's work backwards starting with the cover-up. Sometime around 11:00 P.M. the night of the kidnapping you and Mr. Anderson had a drink -- rum and cola ...
-
-Catherine:  ... and decided what to do with the body of Zachary.
-
-Catherine: We have yet to determine whether or not his death was accidental or intentional.
-Grissom: The question documents lab thinks that a parent wrote the ransom note because there's no money amount. 
-
-Grissom: Too hard to put a price on your own son?
-Catherine: Mrs. Anderson, while your husband was writing the ransom note, you wrapped Zachary's body in a blanket that you got from the upstairs linen closet.
-
-Catherine: You then laid his body to rest near a statue on the golf course.
-
-Grissom: That's how you got the grass stains on your nylons.
-
-Catherine: You put down a plastic bag from the pantry so that he'd remain dry. Evidence of genuine care and concern. 
-
-Catherine: And Mr. Anderson you put up a ladder outside the window.
-Grissom: The only shoe prints we found were yours and the gardener's and the gardener has been out of town. You then drove over to your office and cranked off a ransom note on the first available printer ...
-
-Grissom:  ... possibly thinking that if you used a printer from outside your house, we wouldn't be able to trace it. 
-
-Grissom: But these three dots ... have given you away.
-
-Brad Lewis: This may prove cover-up. None of it proves they killed Zachary.
-Grissom: You're right, counselor. Zachary's life was taken much earlier in the evening. The coroner estimated time of death at 9:00 P.M.
-Brad Lewis: Estimated. It could be 8:30.
-Grissom: Yes. While Robbie and Zachary were in Tyler's care. 
-
-Grissom: You said that we could ask three questions each. Am I right?
-Gwen Anderson: Stop. Ty didn't do this.
-Brad Lewis: Don't give them anything.
-Gwen: No, no. It doesn't matter. We're already ruined. Look, they're just ... they're just trying to protect me, all right? 
-Brad Lewis: Please. 
-Gwen Anderson: And I can't go on.
-Brad Lewis:  Mrs. Anderson.
-Gwen Anderson: I killed him. I came home. Tyler h-h-hadn't put Zachary to bed because he ... he was crying, and I wanted to hush him up and, and I just ... I went too far.
-Brad Lewis: For the record my client made this statement against legal counsel.
-Grissom: Would you tell us ... how you killed him.
-Gwen Anderson: I smothered him with a pot holder. And that's when Steve and I came up with the kidnap story.
-Steve Anderson: It was the longest night of our lives.
-Catherine: You had to wait till morning to report him missing.
-Gwen Anderson: So that it wouldn't look suspicious. And you may not believe me, but I loved him. I loved him very, very much.
-Grissom: We're going to have to have them both arrested.
-
-
-
-
-
-
-
-Warrick: I was just coming to meet you guys. I thought you were at the Andersons.
-Grissom: We're done. She copped.
-Warrick: What?
-Catherine: Guilty people do that when you corner them with evidence.
-Warrick: Guys, the mother didn't do it.
-Grissom: What?
-Warrick: Listen.
-
-Tyler Anderson:  What did you do, Robbie?! What did you do?!
-
-
-
-
-
-Tyler: I was watching the boys. I had my eye on them; I did.
-
-
-Grissom: Yeah. But then you called your girlfriend.
-Tyler Anderson: And we got to talking. 
-
-Tyler Anderson: And I was kind of ignoring Zack and Robbie. 
-
-Tyler Anderson: They were being quiet. They were behaving. I turned around, and I saw how still he was. 
-
-Tyler Anderson:  I ran to him, and he was dead.
-
-Grissom: And that's when you called 911.
-
-
-Grissom: But you must have dropped the phone to tend to Zack.
-
-
-Operator:  911.
-Tyler Anderson:  What did you do, Robbie?! 
-
-
-Tyler Anderson: What did you do? 
-
-Grissom: And I guess somewhere in the chaos you got disconnected. Soon after that, your parents arrived.
-
-Gwen Anderson: Oh, my god. What happened?
-
-Grissom: One of you worked on him so hard that you cracked his sternum.
-
-Tyler Anderson: He was already blue. I pushed. I tried to breathe air into him, but he was gone.
-Steve Anderson: We did everything that we could.
-Brass: Why didn't you just tell the truth? 
-Steve Anderson: We wanted to protect Robbie.  We didn't want him to grow up with the stigma of ... &quot;the boy who killed his brother.&quot;
-Grissom: He's three. He's clinically unaware of his actions. No court would hold him accountable for that.
-Steve Anderson: But everybody else would know. It would follow him the rest of his life. And my wife ... would rather go to prison than to have anybody know what Robbie did.
-Grissom: Mr. Anderson, we won't let that happen.
-
-
-
-
-
-Catherine: Now I know why you didn't want to hold Robbie when your husband handed him to you outside the police department. 
-
-Catherine: I'm very sorry.
-Gwen Anderson:  I always, uh ... I always tell them, &quot;gentle, gentle.&quot;
-
-Gwen Anderson: He didn't mean it. I know he didn't mean it.
-Catherine:  Of course he didn't.
-
-Gwen Anderson: You must think that we are awful people -- all this stuff that's come out.
-Catherine: You're an average family burdened with a tragedy that put you under a microscope. That close, nobody can look good.
-
-
-
-
-
-Grissom: Your family's waiting for you. You ready?
-
-
-
-Reporter :  Comments?
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=01x19+-+Gentle%2C+Gentle&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127295%23p127295" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=01x19+-+Gentle%2C+Gentle&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127295%23p127295" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127295%23p127295&amp;name=01x19+-+Gentle%2C+Gentle" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127295%23p127295" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=3316b2a81ee985c1000c45084ab15aa2">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=3316b2a81ee985c1000c45084ab15aa2">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=3316b2a81ee985c1000c45084ab15aa2">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=3316b2a81ee985c1000c45084ab15aa2">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

@@ -1,1296 +1,1528 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]
 
+[EXT. CLUB - ENTRANCE -- NIGHT]
+(CLUB SECURITY is running a hand-held metal detector on ever" />
+<meta property="og:title" content="03x15 - Lady Heather's Box - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]
 
+[EXT. CLUB - ENTRANCE -- NIGHT]
+(CLUB SECURITY is running a hand-held metal detector on ever" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13250" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>03x15 - Lady Heather's Box - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13250" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13250">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=4a781db273a2c2366c69335b88f7fba8"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=4a781db273a2c2366c69335b88f7fba8">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=4a781db273a2c2366c69335b88f7fba8">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=4a781db273a2c2366c69335b88f7fba8">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=4a781db273a2c2366c69335b88f7fba8">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13250&amp;sid=4a781db273a2c2366c69335b88f7fba8&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>03x15 - Lady Heather's Box</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127344">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127344">03x15 - Lady Heather's Box</a></div>
+							<div class="pull-right text-right"><time datetime="2003-02-27T08:39:25Z">02/27/03 08:39</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[EXT. CLUB - ENTRANCE -- NIGHT]</p>
+<p>(CLUB SECURITY is running a hand-held metal detector on every person who wants to enter the club. Currently, they check a man at the door. The line behind him is long.)</p>
+<p><strong>Club Security</strong>: Go ahead. CLUB SECURITY: Turn around. CLUB SECURITY: Go ahead. CLUB SECURITY: Next.</p>
+<p>(CLUB SECURITY motions for the man to go. The man leaves. Next up is a woman. CLUB SECURITY runs the hand-held metal detector on her back, from top to bottom.)</p>
+<p><strong>Club Security</strong>: Turn around.</p>
+<p>(The woman turns around. The metal detector beeps.)</p>
+<p><strong>Woman</strong>: My kitty's pierced. </p>
+<p>(CLUB SECURITY stares at her without comment.)</p>
+<p><strong>Woman</strong>: Want to see?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. THE CLUB - NIGHT -- CONTINUOUS]</p>
+<p>(Camera travels low to the ground following The WOMAN into the club. She stops at the railing to watch what's happening in the pit.)</p>
+<p><strong>DJ</strong>: (over speakers) Party people ... Brothers and Sisters ... Angels and devils ... Virgins and Sinners ... let the foam take you away to your deepest desires. Cleanse yourself. There's no turning back now.</p>
+<p>(Inside the pit, men and women dance as they are being covered with foam.) </p>
+<p>(From inside the foam pit, a woman stands and starts screaming, her voice heard above the pulsating music.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. THE CLUB - NIGHT]</p>
+<p>(Camera opens on the pit, foam dissipated. In the center of the pit is a dead body sprawled out on the floor. BRASS stands over the body while looking through the victim's wallet.)</p>
+<p>(GRISSOM carries his CSI kit and makes his way down the steps into the pit toward BRASS. BRASS holds the victim's ID card.)</p>
+<p><strong>Brass</strong>: Ever been to a foam party?</p>
+<p><strong>Grissom</strong>: What do you think?</p>
+<p><strong>Brass</strong>: Things can get pretty wild.</p>
+<p><strong>Grissom</strong>: (looking at the body) Evidently. You got an I.D. on this guy?</p>
+<p><strong>Brass</strong>: Yeah, the deceased is Trey Buchman. Age 21. I got a Vegas I.D.</p>
+<p><strong>Grissom</strong>: Eyewitnesses?</p>
+<p><strong>Brass</strong>: Uh, too much foam. The party was over. Most of the &quot;responsible&quot; young adults had split.</p>
+<p><strong>Grissom</strong>: It's amazing how the sight of blood can clear a room.</p>
+<p>(GRISSOM puts his kit down and kneels to look at the victim.)</p>
+<p><strong>Brass</strong>: Yeah. I'll tell you what we got. My guys are talking with the girl who found the body, but even sober, she's not going to be much help.</p>
+<p><strong>Grissom</strong>: Wonder what made this wound? Looks like a puncture.</p>
+<p><strong>Brass</strong>: Ice pick, maybe? </p>
+<p>(BRASS riffles through the man's wallet, counting the money inside.)</p>
+<p><strong>Brass</strong>: Well, wow. Tell you it's not for the money. I got about three grand here, all in c-notes.</p>
+<p>(He holds the money up for GRISSOM to see.)</p>
+<p><strong>Grissom</strong>: (looks up) Proves the old adage.</p>
+<p><strong>Brass</strong>: Which adage is that?</p>
+<p><strong>Grissom</strong>: You can't take it with you.</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>WHITE FLASH IN:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p><strong>Warrick</strong>: (V.O.) Foam at the sinner's den ...</p>
+<hr />
+[INT. CLUB -- NIGHT]</p>
+<p>(WARRICK and SARA walk across the club toward the steps to the pit.)</p>
+<p><strong>Warrick</strong>: I hung out here a few times.</p>
+<p><strong>Sara</strong>: Never been.</p>
+<p><strong>Warrick</strong>: Your knucklehead boyfriend never took you on the party circuit?</p>
+<p><strong>Sara</strong>: Uh, pass.</p>
+<p><strong>Warrick</strong>: That's cool about Vegas. It's Monday: Rain at the Palms; Tuesday: Eden at studio 54; Wednesday: Raw at the Luxor; Thursday's Baby's ...</p>
+<p>(WARRICK and SARA pass the guard at the top of the stairs and make their way down the stairs into the pit.)</p>
+<p>CAMERA PANS TO:</p>
+<hr />
+[INT. CLUB - NIGHT - CONTINUOUS]</p>
+<p>(BRASS is interviewing the OWNER of The Dance Club.)</p>
+<p><strong>Owner</strong>: Hey, look. Some kid dropped dead. It's a shame. Kids O.D. all the time in nightclubs. They're big boys and girls. This ain't church.</p>
+<p><strong>Brass</strong>: I understand that.</p>
+<p><strong>Owner</strong>: You understand. You know the kind of rent I pay on a joint like this? Rain or shine, I owe the landlord fifty thou ($50,000).</p>
+<p><strong>Brass</strong>: You're breaking my heart, pal. Look, here's how this works. The more you cooperate, the sooner you'll be up and running.</p>
+<p><strong>Owner</strong>: You don't get it.</p>
+<p><strong>Brass</strong>: No, I get it. I got a daughter who's twenty, she hangs out. I don't want her to die in a place like this, so do me a favor, get me the VIP list for tonight ... and smarten up.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CLUB - THE PIT - NIGHT -- CONTINUOUS]</p>
+<p>(Camera opens on body fluid spatter on underwear left on the floor of the pit as seen through tinted glass and an ALS. GRISSOM moves the light away and continues to look around.)</p>
+<p>(SARA opens her kit and removes a pair of gloves to put on.)</p>
+<p>(GRISSOM continues to look around the floor of the pit and sees more body fluid spatter ... on the floor ... on discarded underwear ... on everything and everywhere.)</p>
+<p><strong>Grissom</strong>: There's seminal fluid all over the place.</p>
+<p><strong>Sara</strong>: Is this a dance club or a s*x club?</p>
+<p>(WARRICK picks up a discarded underwire bra.)</p>
+<p><strong>Warrick</strong>: A little of both. Don't you love this town?</p>
+<p>(He holds it up and bags it.)</p>
+<p><strong>Sara</strong>: Whatever you say, Superfly.</p>
+<p>(WARRICK snorts.)</p>
+<p><strong>Grissom</strong>: You guys smell that?</p>
+<p>(WARRICK picks up discarded underwear next to marker #10.)</p>
+<p><strong>Sara</strong>: Mm-hmm.</p>
+<p><strong>Grissom</strong>: Smells like strawberries.</p>
+<p><strong>Warrick</strong>: It's the foam. </p>
+<p>(He puts the underwear in a bag.)</p>
+<p><strong>Warrick</strong>: Reminds me of the Mirage. Steve Wynn didn't like the smell of the volcano erupting, so he changed the fuel mixture. Now it smells like a piña colada.</p>
+<p>(WARRICK moves to item #11 and picks up a clear stiletto-heeled shoe.)</p>
+<p>(BRASS walks into the pit.)</p>
+<p><strong>Brass</strong>: Hey. I got a line on our vic. Trey Buchman, booked a room at The Sphere. E-wing, room 937.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - MORNING]</p>
+<hr />
+[INT. THE SPHERE - ROOM 937 -- DAY]</p>
+<p>(GRISSOM stands near the room window and looks around the inside of the main room/bedroom.)</p>
+<p>(In one smooth, continuous movement, the camera slowly moves over to SARA looking around from the bed to the walls on the opposite side of the room. She examines a pair of large cuffs dangling from the bedroom wall lights.)</p>
+<p><strong>Sara</strong>: These people are freaks.</p>
+<p>(Camera moves through the bathroom door to WARRICK who is examining the bathroom. He picks up a strand of hair.)</p>
+<p><strong>Warrick</strong>: (calls out) Got a long dark hair.</p>
+<p>(Camera moves back through the bathroom door to SARA who turns away from the cuffs and starts examining the floor.)</p>
+<p><strong>Sara</strong>: Vic had short hair.</p>
+<p>(Camera moves back to GRISSOM who is holding up a champagne glass with a lipstick smudge on the lip.)</p>
+<p><strong>Grissom</strong>: One of our &quot;freaks&quot; wears pussycat pink.</p>
+<p>(Cut to close up of the champagne glass with lipstick smudge.)</p>
+<p>CUE: (PRELAP) PLAY NARRATOR: The battle was fierce ...</p>
+<p>CUT TO:</p>
+<hr />
+[INT. ELEMENTARY SCHOOL - AUDITORIUM -- DAY]</p>
+<p>(LINDSEY is dressed in Sleeping Beauty blue and lying on a make-shift bed in the middle of the stage. CATHERINE sits in the middle of the audience near the aisle, the proud parent holding a digital video camera, recording the play. LINDSEY turns her head and opens one of her eyes to look at her mom. She shuts her eyes and turns back to 'sleeping'.)</p>
+<p><strong>Play Narrator</strong>: (o.s.) ... The Evil Sorceress had powerful magic, but the Prince was brave and true. </p>
+<p>(On stage, the &quot;Prince&quot; battles a &quot;Dragon&quot;. CATHERINE smiles as she gets everything on camera.)</p>
+<p>(EDDIE walks down the aisle from the back of the auditorium. He slips into the seat next to CATHERINE.)</p>
+<p><strong>Play Narrator</strong>: (o.s.) Finally, the brave Prince slew the Sorceress-dragon and went to awaken his beloved Princess.</p>
+<p>(CATHERINE puts the camera down. She sighs and shakes her head.)</p>
+<p><strong>Catherine</strong>: You're late, Eddie.</p>
+<p><strong>Eddie</strong>: Don't start.</p>
+<p><strong>Play Narrator</strong>: (o.s.) He climbed the many stairs to the top ...</p>
+<p>(On stage, the &quot;Prince&quot; makes his way toward LINDSEY.)</p>
+<p><strong>Catherine</strong>: You know how much this meant to Lindsey?</p>
+<p><strong>Eddie</strong>: Can we argue about this later, okay?</p>
+<p>(On stage, the &quot;Prince&quot; kisses LINSEY on the cheek. Her eyes open.)</p>
+<p><strong>Play Narrator</strong>: (o.s.) Her eyes would open with true love's kiss.</p>
+<p><strong>Eddie</strong>: (smiling) Hey! She's so beautiful. Give me that.</p>
+<p>(He reaches for the camera. CATHERINE hands it to him. He resumes recording the plan.)</p>
+<p><strong>Play Narrator</strong>: (o.s.) The evil spell was finally broken.</p>
+<p><strong>Catherine</strong>: Nice perfume.</p>
+<p>(EDDIE puts the camera down and sighs.)</p>
+<p>(On stage, LINDSEY sits up ready to delivery her lines.)</p>
+<p><strong>Lindsey</strong>: My ...</p>
+<p>(At that moment, EDDIE has had enough.)</p>
+<p><strong>Eddie</strong>: (loudly) Okay ... </p>
+<p>(He stands up and looks down at CATHERINE.)</p>
+<p>(LINDSEY and everyone else turns to look at EDDIE.)</p>
+<p><strong>Eddie</strong>: Fine. Is this okay?</p>
+<p><strong>Play Narrator</strong>: (o.s.) (prompting) My prince ...</p>
+<p>(EDDIE pulls back a chair one row in front of CATHERINE. He sits down.)</p>
+<p>(LINDSEY swallows.)</p>
+<p><strong>Play Narrator</strong>: (o.s.) (prompting) My prince ... at long last, you've come for me.</p>
+<p>(EDDIE raises the camera and resumes recording.)</p>
+<p><strong>Lindsey</strong>: (upset) My ... my - my prince ...</p>
+<p><strong>Play Narrator</strong>: (o.s.) (prompting) ... at long last, you've come for me ...</p>
+<p>(LINDSEY turns to look at her parents in the audience. CATHERINE nods at her and smiles encouragingly. But it's way too late. LINDSEY'S more than hurt. She starts to cry.)</p>
+<p>(LINDSEY slides off of the bed and runs off stage.)</p>
+<p>(Camera holds on CATHERINE and EDDIE.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. ELEMENTARY SCHOOL - HALLWAY -- DAY]</p>
+<p>(LINDSEY sits next to EDDIE on the bench in the hallway. CATHERINE kneels in front of LINDSEY.)</p>
+<p><strong>Catherine</strong>: I'm sorry, baby. You did good, though.</p>
+<p><strong>Eddie</strong>: Yeah, you were fine, Linds. Good.</p>
+<p><strong>Catherine</strong>: Hey, and you know what? It's just a play.</p>
+<p><strong>Lindsey</strong>: No, it's not just a play. I was Sleeping Beauty and you guys ruined it.</p>
+<p><strong>Catherine</strong>: I'm sorry, honey.</p>
+<p><strong>Eddie</strong>: Hey, I'll bet if you ask Mrs. Parker, she'd let you keep that blue dress.</p>
+<p><strong>Lindsey</strong>: I want to go home.</p>
+<p>(CATHERINE nods and stands up.)</p>
+<p><strong>Catherine</strong>: Okay. Let's go home.</p>
+<p><strong>Lindsey</strong>: No, mom. I want to go with dad.</p>
+<p>(EDDIE looks up surprised at LINDSEY.)</p>
+<p><strong>Catherine</strong>: You sure about that? </p>
+<p>(LINDSEY nods.)</p>
+<p><strong>Catherine</strong>: Okay.</p>
+<p>(EDDIE turns to look at CATHERINE.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY -- DAY]</p>
+<p>(ROBBINS goes over his preliminary findings with GRISSOM. TREY BUCHMAN'S body is on the table between them.)</p>
+<p><strong>Robbins</strong>: Tox report on your foam guy came back negative.</p>
+<p><strong>Grissom</strong>: Negative?</p>
+<p><strong>Robbins</strong>: No drugs, no alcohol, no medication, not even an aspirin.</p>
+<p><strong>Grissom</strong>: That's odd. It was a Den of Iniquity. </p>
+<p>(GRISSOM thinks about it for a moment and shakes his head a little. He nods down at the body.) </p>
+<p><strong>Grissom</strong>: What about the neck wound?</p>
+<p><strong>Robbins</strong>: The sternocleidomastoid muscle and the jugular vein were lacerated. </p>
+<p>(Quick CGI POV as the camera moves in toward the neck wound. It goes through the skin and down into the muscle below, piercing through the vein, blood splashing onto the lens.)</p>
+<p>(Flash to white. End of CGI POV. Resume on ROBBINS.)</p>
+<p><strong>Robbins</strong>: The wound was a bloody mess, probably lethal.</p>
+<p><strong>Grissom</strong>: Any idea what caused it?</p>
+<p><strong>Robbins</strong>: Hard to say. Definitely an odd entry wound. Not a knife or sharp object ... probably something blunt, like a pen or a stake of some sort.</p>
+<p><strong>Grissom</strong>: Anything else?</p>
+<p><strong>Robbins</strong>: Check this out.</p>
+<p>(ROBBINS points to something on the body's right shoulder. GRISSOM leans in to look at it.)</p>
+<p><strong>Grissom</strong>: Looks like a bite. Spider bite or allergic reaction, maybe?</p>
+<p><strong>Robbins</strong>: Stand by. I'll process the tissue in histopath, see if it's worth writing home about.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAB]</p>
+<p>(GRISSOM is examining a silver thong. WARRICK walks in.)</p>
+<p><strong>Warrick</strong>: I was wondering where I put my nice silver satin thong.</p>
+<p>(GRISSOM looks up at WARRICK.)</p>
+<p><strong>Grissom</strong>: Gloves.</p>
+<p>(WARRICK grabs a latex pair and puts it on. GRISSOM puts the thong back in its bag.)</p>
+<p><strong>Grissom</strong>: Okay, we're looking for any kind of blunt object that could've been used to stab our victim in the neck.</p>
+<p>(GRISSOM picks up the photo of the injury and hands it to WARRICK. WARRICK takes a moment to look at the photo before scanning the items on the table, gathering them as he goes.)</p>
+<p><strong>Warrick</strong>: Glow stick. Ball-point pen. Cell phone antenna. You have the luminol?</p>
+<p>(GRISSOM hands WARRICK the spray bottle.)</p>
+<p><strong>Warrick</strong>: Thank you.</p>
+<p>(WARRICK turns the lights off. He takes the items out of the bags and sprays them.)</p>
+<p><strong>Warrick</strong>: Nothing.</p>
+<p>(GRISSOM picks up the bag with the clear stiletto-heeled shoe. He looks at the shoe heel.)</p>
+<p><strong>Warrick</strong>: Are we sure it was a blunt object?</p>
+<p>(GRISSOM takes the shoe out of the bag to examine the heel.)</p>
+<p>(Quick flashback to someone swinging the shoe and stabbing the victim in the neck with the heel. Close up of heel in the neck. End of flashback.)</p>
+<p><strong>Grissom</strong>: Size ten, double A.</p>
+<p><strong>Warrick</strong>: Stilettos, huh? Brings out the toes, accentuates the legs. Murder on the ankles, though.</p>
+<p>(WARRICK sprays luminol on the heel. It glows in the dark.)</p>
+<p><strong>Grissom</strong>: Looks like murder to me.</p>
+<p>HARD CUT TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - THUNDERSTORM -- NIGHT]</p>
+<p><strong>Woman</strong>: (o.s.) ... I'm on every club's VIP list ...</p>
+<p>SCENE #12</p>
+<p>[EXT. THE CLUB -- NIGHT]</p>
+<p>(BRASS accompanies a WOMAN. He holds the umbrella for her as they walk.)</p>
+<p><strong>Brass</strong>: Well, you got lucky. You're on my list now.</p>
+<p><strong>Woman</strong>: I don't want to be on your list.</p>
+<p><strong>Brass</strong>: Here, hold this.</p>
+<p>(The WOMAN scoffs. BRASS hands the umbrella to her.)</p>
+<p><strong>Brass</strong>: Nice shoes.</p>
+<p><strong>Woman</strong>: Thank you.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. THE CLUB -- NIGHT]</p>
+<p>(In a room full of women, GRISSOM makes an announcement.)</p>
+<p><strong>Grissom</strong>: Okay, this is the story. One of you lovely Cinderellas is missing a glass slipper and I'm playing the Prince. So would each of you remove your right shoe, please?</p>
+<p>(Dissolve to GRISSOM kneeling as he tries the shoe on the women. A group of four-five women sit in the high stools as he tries the shoe on. Another group of three women stand on the side and wait their turn.)</p>
+<p><strong>Grissom</strong>: Doesn't fit.</p>
+<p>(Dissolve to GRISSOM continuing to try the shoe on more women's feet.)</p>
+<p>(Dissolve to women standing and sitting, moving around and waiting their turn to try on the shoe.)</p>
+<p>(Close up of a foot that doesn't fit the shoe. GRISSOM looks up.)</p>
+<p><strong>Grissom</strong>: Almost.</p>
+<p>(The woman stands up and another woman takes her seat.)</p>
+<p><strong>Woman</strong>: Hi.</p>
+<p>(GRISSOM tries the shoe on another foot.)</p>
+<p><strong>Grissom</strong>: No.</p>
+<p>(The next foot GRISSOM fits the shoe on is a perfect match. He looks up at the blonde woman. She smiles down at him.)</p>
+<p><strong>Grissom</strong>: Well, if the shoe fits ...</p>
+<p><strong>Brass</strong>: ... wear it.</p>
+<p>(The woman glances at BRASS, then turns to look at GRISSOM.)</p>
+<p>WHITE FLASH TO:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - THUNDERSTORM - NIGHT]</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERROGATION ROOM -- NIGHT]</p>
+<p>(BRASS is questioning the Blonde-Haired Woman whose foot fit the shoe.)</p>
+<p><strong>Brass</strong>: Comfortable?</p>
+<p><strong>Woman</strong>: So far. Thanks for asking. </p>
+<p><strong>Brass</strong>: You want to tell me how your shoe ended up in Trey Buchman's neck?</p>
+<p>(She glances at the bagged shoe on the table.)</p>
+<p><strong>Woman</strong>: I don't know. Last I remember, the foam was rising ... </p>
+<p>(Quick flashback to The Club and people dancing. The WOMAN is dancing with a MAN. He lifts her up above him. He puts her down. The heel of her shoe pierces through the victim's neck. The victim is already on the ground.)</p>
+<p><strong>Woman</strong>: (V.O.) ... and my heel went into something ... soft ...</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Woman</strong>: ... thought it was someone's foot.</p>
+<p><strong>Brass</strong>: Jugular. There's a slight difference. Do you want to tell me why you left your shoe behind?</p>
+<p><strong>Woman</strong>: Heel broke.</p>
+<p><strong>Brass</strong>: And the fact it had blood on it, that wasn't the reason?</p>
+<p><strong>Woman</strong>: Never saw blood.</p>
+<p><strong>Brass</strong>: I see. I did some checking -- because that's what I do -- and you and our victim had a relationship a while back.</p>
+<p><strong>Woman</strong>: I've &quot;relationshipped&quot; about a dozen guys on the circuit, including Trey. Nothing ends -- we still all meet up at The Club.</p>
+<p><strong>Brass</strong>: I see.</p>
+<p>(He looks at her. She looks at him. He takes a breath. Her look changes. She slowly stands up. BRASS is puzzled by her action, but says nothing.)</p>
+<p>(She walks toward BRASS and sits at the edge of the table.)</p>
+<p><strong>Woman</strong>: ... and the way he gave it to me ... believe me, he's the last guy I'd want dead.</p>
+<p>(She crosses her legs. She lifts her foot up and puts her high-heeled shoe on BRASS' chair between his legs. Her hand grasps the hem of her ultra-mini dress as it rides up her thigh.)</p>
+<p>(GRISSOM appears in the doorway. He knocks purposefully on the door frame.)</p>
+<p>(BRASS clears his throat and looks away. The WOMAN turns her head to look at GRISSOM.)</p>
+<p><strong>Grissom</strong>: (loudly) Excuse me, Jim. Am I interrupting something?</p>
+<p>(BRASS waves GRISSOM inside. The WOMAN tugs the hem of her dress down ... pleased by the reaction she got from BRASS.)</p>
+<p><strong>Brass</strong>: (croaks) Gil, please ... </p>
+<p>(GRISSOM enters the room. The WOMAN turns to look at GRISSOM, a slight smile on her face.)</p>
+<p><strong>Grissom</strong>: Miss ...</p>
+<p>(GRISSOM puts on a pair of latex gloves.)</p>
+<p><strong>Grissom</strong>: ... I'm going to need a sample of your DNA.</p>
+<p><strong>Woman</strong>: How do you want it.</p>
+<p><strong>Grissom</strong>: I like your hair.</p>
+<p><strong>Woman</strong>: (looking up at GRISSOM) I like yours.</p>
+<p><strong>Grissom</strong>: Are you a, uh, natural blonde?</p>
+<p>(The WOMAN deliberately doesn't answer the question. She turns to look at BRASS. GRISSOM also turns to look at BRASS.)</p>
+<p>(BRASS shakes his head. No.)</p>
+<p>(GRISSOM reaches over and pulls out a strand of her hair.)</p>
+<p><strong>Woman</strong>: Ow.</p>
+<p><strong>Grissom</strong>: Sorry. I needed a follicular tag.</p>
+<p>(He puts the sample in the envelope.)</p>
+<p><strong>Grissom</strong>: Thank you.</p>
+<p>(GRISSOM turns to leave. She calls him back.)</p>
+<p><strong>Woman</strong>: &quot;Gil&quot;? Any chance you found my thong? Silver lamé, probably twisted in knots. </p>
+<p><strong>Grissom</strong>: Oh, yeah, we did. You'll need to fill out a form, though. The Captain will help you ...</p>
+<p>(GRISSOM turns to leave.)</p>
+<p><strong>Grissom</strong>: ... Surely.</p>
+<p>(Camera holds on BRASS.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(ROBBINS takes a slice of a cross-section of the &quot;bite&quot; mark from the victim. He puts the thin slice on a scope slide.)</p>
+<p>(He lights a Bunsen burner and gently heats the slide.)</p>
+<p>(He dips the slide in a container of &quot;Haematoxylin&quot;, then he puts the slide in<br />
+&quot;Acid Alcohol 1%&quot;, then in a container of &quot;Eosin&quot;.) </p>
+<p>(He gently dries the slide. He puts it under the scope.</p>
+<p>(Cut to Scope View of the slide. The magnification changes to a more powerful view. ROBBINS lifts his head from the scope.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GRISSOM'S OFFICE]</p>
+<p>(GRISSOM is in his office examining photographs at his desk. He's also listening to Opera music on his earphones. From where we are, we can hear the muffled music.)</p>
+<p>(ROBBINS enters the room.)</p>
+<p><strong>Robbins</strong>: Hey, Gil?</p>
+<p>(When he doesn't get a reaction from GRISSOM, ROBBINS leans in closer. GRISSOM looks up.)</p>
+<p><strong>Robbins</strong>: Carmen?</p>
+<p>(GRISSOM takes the earphones off.)</p>
+<p><strong>Grissom</strong>: Right after the murder.</p>
+<p><strong>Robbins</strong>: Opera makes it all seem so lovely. And at the risk of sounding like your mother, you're going to ruin your eardrums.</p>
+<p>(Without commenting, GRISSOM turns the music off.)</p>
+<p>(ROBBINS picks up the photograph of the tissue and shows it to GRISSOM.)</p>
+<p><strong>Robbins</strong>: Our victims tissue -- Trey Buchman. The, uh, circular contusions I sectioned, indicate damage extending only 30 microns below the epidermis.</p>
+<p><strong>Grissom</strong>: So it's not a bug bite.</p>
+<p><strong>Robbins</strong>: Man-made, high-pressure, subcutaneous injector.</p>
+<p><strong>Grissom</strong>: No needle?</p>
+<p><strong>Robbins</strong>: Simply high pressure penetrating the skin.</p>
+<p>(Quick CGI POV of the end of the high-pressure injector against the skin. Cut to cross-section of the skin as the contents of the injector is sprayed inside and passed through. Flash to white. End of CGI POV. Resume to present.)</p>
+<p><strong>Grissom</strong>: Did you send a sample to tox?</p>
+<p><strong>Robbins</strong>: Our victim was injected with insulin.</p>
+<p><strong>Grissom</strong>: Diabetic?</p>
+<p><strong>Robbins</strong>: Nope.</p>
+<p><strong>Grissom</strong>: So cause of death was insulin shock.</p>
+<p><strong>Robbins</strong>: Insulin doesn't make for a narcotic or hallucinogenic high so I don't know why Buchman would take the stuff.</p>
+<p>(Camera holds on GRISSOM.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. RICHARDS' RESIDENCE - NIGHT]</p>
+<p>(NICK and CATHERINE enter the residence.)</p>
+<p><strong>Nick</strong>: Downstairs neighbor smelled it. Called the plumber.Yeah, they always think it's a sewage problem.</p>
+<p>(CATHERINE'S cell phone rings.)</p>
+<p><strong>Nick</strong>: Phew!</p>
+<p>(She answers her phone.)</p>
+<p><strong>Catherine</strong>: Eddie? Ed? Hello? Uh ... bad connection, Ed. Uh, I just entered a scene. I-I'll call you later.</p>
+<p>(CATHERINE hangs up. NICK makes his way to the dead body.)</p>
+<p><strong>Nick</strong>: Whew. No pain, no gain. Purge fluid.</p>
+<p><strong>Catherine</strong>: D.U.N.S.</p>
+<p>(Quick flashback to the neighbor in the apartment underneath. He looks up and sees the large patch of liquid on the ceiling spreading and dripping. End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: Dead Upstairs Neighbor Syndrome.</p>
+<p><strong>Catherine</strong>: (nods) Mm-hmm.</p>
+<p><strong>Nick</strong>: Yeah, well, it's going to take us a while to get this smell out of our nose hairs.</p>
+<p><strong>Catherine</strong>: Parchment changes of the skin. So what's the exposure to that window, south?</p>
+<p><strong>Nick</strong>: East. Gets direct sunlight half the day. I learned that down in Lauderdale. You know, you've got to remember to turn.</p>
+<p><strong>Catherine</strong>: Right, all that spring break activity with the frat brothers ... </p>
+<p><strong>Nick</strong>: Something like that. Nice little cocaine fingernail. So ... no mail built up. I don't see a telephone. What do you think? ... </p>
+<p>(CATHERINE'S cell phone rings. She answers it.)</p>
+<p><strong>Nick</strong>: ... Howard Hughes in a studio apartment?</p>
+<p><strong>Catherine</strong>: Eddie? Ed?</p>
+<p><strong>Nick</strong>: Now what's his deal?</p>
+<p>(CATHERINE hangs up the phone.)</p>
+<p><strong>Catherine</strong>: Lindsey's with him. Maybe she's ready to come home.</p>
+<p><strong>Nick</strong>: Yeah, I bet.</p>
+<p>CUT TO:<br />
+[CLOSET]</p>
+<p>(CATHERINE opens the closet and looks through the dresser drawers. They're empty. She pushes the clothes hanging aside and finds a passport and a stack of bills on the dresser. She flips through the passport and sees a lot of different stamps indicating its use.)</p>
+<p>[LIVING ROOM]</p>
+<p>(Cut to NICK working on the laptop on the table. He tries entering a password and gets denied.)</p>
+<p><strong>Nick</strong>: How you doing?</p>
+<p><strong>Catherine</strong>: Cash and a very busy passport ... designer threads. Ten-to-one, Croix Richards is a drug dealer. And that is no workout accident.</p>
+<p>(CATHERINE looks at the passport photo with the following information:</p>
+<p>[United States of America ID Card for Richard, Croix DATE OF BIRTH: 21 SEP/SEP 1970<br />
+s*x: M PLACE OF BIRTH: LAS VEGAS, NV USA DATE OF ISSUE: 18 OCT/OCT 1998<br />
+EXPIRATION DATE: 17 OCT/OCT 2008<br />
+PASSPORT AGENCY / LAS VEGAS ]</p>
+<p>(CATHERINE'S phone rings. She answers it.)</p>
+<p><strong>Catherine</strong>: Eddie? Eddie, you've got to get to a land line. This connection sucks.</p>
+<p>(Through the static, CATHERINE hears something that stops her cold.)</p>
+<p><strong>Lindsey</strong>: Mommy ... (static)</p>
+<p><strong>Catherine</strong>: Lindsey? (beat) H-honey, (beat) I-I can't hear you.</p>
+<p><strong>Lindsey</strong>: (crying) Mommy ... please ... scared ... all alone. </p>
+<p><strong>Catherine</strong>: You're alone? Well, honey, where's daddy?</p>
+<p>(CATHERINE automatically heads for the door. NICK signals to her.)</p>
+<p><strong>Lindsey</strong>: Daddy... (static)</p>
+<p><strong>Nick</strong>: You want me to just...?</p>
+<p>(CATHERINE absently nods at NICK, her mind on her daughter.)</p>
+<p><strong>Catherine</strong>: Uh ... (to NICK) thanks-- (to LINDSEY) uh, yeah, honey. Yes, yes, I'm coming.</p>
+<p>(CATHERINE heads out the door.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>(Thunder rumbles in the sky and lightning flashes. It begins to pour.)</p>
+<p><strong>Lindsey</strong>: (V.O.) Mommy, please! I'm scared... all alone! ... </p>
+<hr />
+[INT. CATHERINE'S CAR - NIGHT]</p>
+<p>(CATHERINE is behind the wheel of her car. She has her cell phone to her ear.)</p>
+<p><strong>Lindsey</strong>: (on phone) ... We were in the car, going fast. (beat) We hit something.</p>
+<p><strong>Catherine</strong>: It's going to be okay, honey. I'm on my way. (pause) Do you know where you are.</p>
+<p>INTERCUT WITH:</p>
+<p>[INT. EDDIE'S CAR - NIGHT]</p>
+<p><strong>Lindsey</strong>: I don't know. There's lots of water, mommy!</p>
+<p><strong>Catherine</strong>: Are you near a lake? Are you near grandma's house?</p>
+<p><strong>Lindsey</strong>: No, the water's in the car?</p>
+<p><strong>Catherine</strong>: In the car? (pause) Lindsey, can you get out?</p>
+<p><strong>Lindsey</strong>: (looking around) No.</p>
+<p><strong>Catherine</strong>: It's going to be okay, honey. Just listen to me. Before the car crashed, where were you going?</p>
+<p><strong>Lindsey</strong>: Daddy said the hospital.</p>
+<p><strong>Catherine</strong>: On the way there, did you see any hotels?</p>
+<p><strong>Lindsey</strong>: I saw the castle.</p>
+<p><strong>Catherine</strong>: Excalibur. Did you see, did you see the pyramid?</p>
+<p><strong>Lindsey</strong>: Yeah.</p>
+<p><strong>Catherine</strong>: Industrial Road? Is that, is that it? Lindsey, is it industrial road?</p>
+<p>(The water begins to rise inside the car.)</p>
+<p><strong>Lindsey</strong>: There was a bridge. We went through a fence. (there's more static.)</p>
+<p><strong>Catherine</strong>: Lindsey? Lindsey!</p>
+<p>(CATHERINE can't hear LINDSEY anymore. They're disconnected. She hangs up.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[EXT. ROADWAY - NIGHT - CONTINUOUS]</p>
+<p>(CATHERINE'S driving along the Industrial Road. She looks outside the car window and sees a break in the wire fence. She pulls the car to the side and stops the car. She gets out of the car and runs to the edge of the walkway.)</p>
+<p><strong>Catherine</strong>: Lindsey? Lindsey!</p>
+<p>(She sees EDDIE'S car down below semi-submerged in running canal water. In the back of the car, LINDSEY'S still inside, hitting the window with her hand.)</p>
+<p><strong>Lindsey</strong>: (crying) Mommy!</p>
+<p><strong>Catherine</strong>: Hang on, honey!</p>
+<p>(CATHERINE goes back to the car &amp; opens the emergency kit in her trunk. She grabs the screwdriver and heads back to the car.)</p>
+<p><strong>Lindsey</strong>: Mommy! Hurry!</p>
+<p>(CATHERINE slides down the embankment toward the car and into the water.)</p>
+<p><strong>Catherine</strong>: I'm here, honey.</p>
+<p><strong>Lindsey</strong>: (hits the car window) Mommy!</p>
+<p><strong>Catherine</strong>: I'm going to get you out. Hang on.</p>
+<p>(CATHERINE checks the car window then instructs LINDSEY.)</p>
+<p><strong>Catherine</strong>: Okay. Listen. I have to break the window, okay? You've got to move to the front.</p>
+<p><strong>Lindsey</strong>: Mommy, I can't! I can't. I'm scared!</p>
+<p><strong>Catherine</strong>: Okay, I'm going to come around, okay? I'm coming around.</p>
+<p><strong>Lindsey</strong>: Please, mommy.</p>
+<p>(CATHERINE moves around the side of the car that's covered in water. She lifts herself up on the car and looks through the window at LINDSEY.)</p>
+<p><strong>Catherine</strong>: I'm here, Lindsey. I'm going to go down. I'm going to go down.</p>
+<p>(CATHERINE motions to LINDSEY, who shakes her head.)</p>
+<p><strong>Lindsey</strong>: No, mommy! No!</p>
+<p>(CATHERINE takes a deep breath and dives under the water. She reaches the front seat window. Using the screwdriver in her hand, she breaks through the glass. She reaches in and grabs LINDSEY. She pulls her daughter out through the open window and up toward the surface. They break surface, both coughing and gasping for air.)</p>
+<p>(CATHERINE holds her daughter tight.)</p>
+<p><strong>Catherine</strong>: You all right? You okay?</p>
+<p><strong>Lindsey</strong>: (nodding) Mommy.</p>
+<p><strong>Catherine</strong>: Yes? I got you. Hold on.</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[EXT. ROADSIDE -- NIGHT]</p>
+<p>(The crane pulls out EDDIE'S car from the water and back onto the road.)</p>
+<p><strong>Lindsey</strong>: The lady who was driving had pink hair. I don't remember her name.</p>
+<p><strong>Det. Vega</strong>: But Lindsey, it was your father's car. Why wasn't he driving it?</p>
+<p><strong>Lindsey</strong>: He had a stomachache.</p>
+<p>(Quick flashback to inside the car. The woman is driving fast and EDDIE is groaning in the front seat.)</p>
+<p><strong>Pink-haired Woman</strong>: Hang on. We'll get to the hospital.</p>
+<p><strong>Eddie</strong>: I can't make it.</p>
+<p>(The car swerves, tires screech. End of flashback. Resume to present.)</p>
+<p><strong>Lindsey</strong>: The lady got out and then daddy fell out. He didn't come back.</p>
+<p>(LINDSEY turns to look at CATHERINE who doesn't say anything. Their eyes meet.)</p>
+<p><strong>Det. Vega</strong>: Catherine? </p>
+<p>(CATHERINE stands up and moves to the side with DET. VEGA. The paramedics continue to check LINDSEY.)</p>
+<p><strong>Det. Vega</strong>: (quietly) Is Eddie the kind of guy that would leave his daughter abandoned in the back of a car?</p>
+<p><strong>Catherine</strong>: (immediately shakes her head) Never, never, never, no. He loves Lindsey. He'd never do that. Not willingly.</p>
+<p>(The hydraulic lift continues to pull the car out. CATHERINE turns, distracted by the sound.)</p>
+<p><strong>Catherine</strong>: Be careful with my car, boys.</p>
+<p>(SARA stands to the side waiting for the car to reach the road.)</p>
+<p><strong>Lindsey</strong>: Mom? (CATHERINE turns around.) He's dead, isn't he?</p>
+<p>(For a moment, CATHERINE doesn't know what to say. She shakes her head.)</p>
+<p><strong>Catherine</strong>: I don't know, baby. I ... I'm going to go look for him, though. I'm just going to be right over there.</p>
+<p>(CATHERINE points toward the car and SARA.)</p>
+<p><strong>Sara</strong>: Okay, that's enough. </p>
+<p><strong>Catherine</strong>: I want you to stay here with Detective Vega. Okay?</p>
+<p>(CATHERINE pushes the blanket off of her shoulders and heads toward SARA and the car.)</p>
+<p><strong>Det. Vega</strong>: (to LINDSEY) How you doing? Want some cocoa or something?</p>
+<p>(SARA starts to examine the car from the passenger side. CATHERINE approaches the car and heads for the driver's side.)</p>
+<p>(SARA looks around the inside of the car. She sees the debris on the car floor and the blood stains on the passenger seat. She opens the car door.)</p>
+<p>(CATHERINE puts her coffee cup down on the ground. She opens the driver's side door and looks around. On the dashboard, CATHERINE sees the vial of blue liquid. She picks it up. SARA sees this.)</p>
+<p><strong>Sara</strong>: Drugs.</p>
+<p><strong>Catherine</strong>: Knowing Eddie's taste in women, I'd say that's a good bet.</p>
+<p><strong>Sara</strong>: (gently) Hey, Catherine? You want to give me that? (CATHERINE looks at SARA. Their eyes meet.) You shouldn't be handling evidence. You're not on the case.</p>
+<p>(Camera holds on CATHERINE.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY]</p>
+<p>(On the monitor is a skeletal view of CROIX RICHARDS, the body from the apartment. The dead body is on the table being x-rayed by ROBBINS.)</p>
+<p><strong>Robbins</strong>: Stop it right there.</p>
+<p>(ROBBINS puts on his glasses as he examines the monitor. NICK walks in.)</p>
+<p><strong>Nick</strong>: Hey, Doc.</p>
+<p><strong>Robbins</strong>: Hey.</p>
+<p><strong>Nick</strong>: I thought I'd come and get an update on ... Stinky here. Whew! Wow, that's horrible.</p>
+<p><strong>Robbins</strong>: I'm generally immune to the stench of a decomp, but, uh, two weeks of decay still tickles the vibrassae of my nasal vestibule.</p>
+<p><strong>Nick</strong>: Yeah, I'll say. Hey, what's the foreign body lodged in his femur?</p>
+<p><strong>Robbins</strong>: (to the assistant) Crank up the milliamps.</p>
+<p>(The portion on the monitor is enhanced.)</p>
+<p><strong>Nick</strong>: Whiter than bone. Dense like a metal. What exactly are we looking at?</p>
+<p><strong>Robbins</strong>: Let's find out.</p>
+<p>(ROBBINS picks up a scalpel.)</p>
+<p><strong>Nick</strong>: (reacts to the smell) Whew!</p>
+<p>(ROBBINS cuts into the body.)</p>
+<p><strong>Robbins</strong>: I feel like Androcles pulling the thorn from a lion's paw.</p>
+<p>(He picks up a tweezer and pulls out something thin.)</p>
+<p><strong>Nick</strong>: Looks like the tip of a needle.</p>
+<p><strong>Robbins</strong>: It probably broke off when it hit the bone.</p>
+<p>(Quick CGI POV of the needle piercing through skin, through muscle and hitting bone where it breaks off. End of CGI POV. Resume to present.)</p>
+<p>WHITE FLASH TO </p>
+<hr />
+[INT. CSI -- HALLWAY]</p>
+<p>(BRASS and GRISSOM walk through the hallway. BRASS is holding a report in his hand.)</p>
+<p><strong>Brass</strong>: I've started to see into the future. Thanks to credit card reports, I see that our phone victim booked a room at the Tangiers for tonight.</p>
+<p><strong>Grissom</strong>: He was staying at The Sphere.</p>
+<p><strong>Brass</strong>: Two hotel rooms in one night. He was a busy boy.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS (STOCK) - NIGHT]</p>
+<hr />
+[INT. TANGIERS - HOTEL ROOM -- NIGHT]</p>
+<p>(WARRICK opens the door and walks inside. There's a scantily-clad woman lounging on the bed in her lingerie, a champagne glass in her hand. She doesn't flinch when WARRICK walks in.)</p>
+<p><strong>Rebecca McCormick</strong>: Hello.</p>
+<p><strong>Warrick</strong>: Hello.</p>
+<p><strong>Rebecca McCormick</strong>: You're late. Not-not that I mind. </p>
+<p>(GRISSOM walks into the room. She seems more than surprised.)</p>
+<p><strong>Rebecca McCormick</strong>: There's two of you? </p>
+<p><strong>Warrick</strong>: We work as a team.</p>
+<p>(She sees that GRISSOM and WARRICK each has their case with them.)</p>
+<p><strong>Rebecca McCormick</strong>: What's in the kit?</p>
+<p><strong>Grissom</strong>: Latex gloves, cotton swabs, specimen jars, other evidence-gathering stuff.</p>
+<p><strong>Rebecca McCormick</strong>: Wait a minute. Uh, what's going on here?</p>
+<p>(She puts her champagne glass on the bedside table and sits up.)</p>
+<p><strong>Grissom</strong>: You tell us.</p>
+<p><strong>Rebecca McCormick</strong>: Oh, my god. You guys are cops. (She stands up, grabs her robe and covers herself with it.) I'm, um ... I'm really embarrassed. I've never done anything like this before. I swear.</p>
+<p><strong>Grissom</strong>: This room is registered to Trey Buchman. Who are you?</p>
+<p><strong>Rebecca McCormick</strong>: Do we have to do names?</p>
+<p><strong>Warrick</strong>: (nods) Uh-huh.</p>
+<p><strong>Rebecca McCormick</strong>: Rebecca McCormick. (puts her robe on) Look, I got a number from a guy who was giving out these cards on the strip. I thought it would be fun. (mumbles) I-I don't know what I was thinking. (stands and crosses her arms in front of her) Am I under arrest?</p>
+<p><strong>Grissom</strong>: Not yet ...</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - AUDIO/VISUAL LAB -- NIGHT]</p>
+<p>(NICK is working on Croix Richards' laptop. The computer beeps.)</p>
+<p>(GRISSOM walks into the lab.)</p>
+<p><strong>Grissom</strong>: Hey. </p>
+<p><strong>Nick</strong>: Cracked my D.B.'S laptop. Got his appointment book.<br />
+(On screen up close, we see: &quot;Carla (Orpheus)&quot;; &quot;Mina (Pandora's Box)&quot;; and<br />
+&quot;Rachel (Tuts Tomb).</p>
+<p><strong>Grissom</strong>: Women's names. Hotels. Blocks of time.</p>
+<p><strong>Nick</strong>: You know, Croix had this sweet apartment and this wad of cash. We thought he was selling drugs. (beat) He was selling himself.</p>
+<p><strong>Grissom</strong>: Gigolo.</p>
+<p><strong>Nick</strong>: Paid to get laid.</p>
+<p><strong>Grissom</strong>: So was mine. Two victims, same profession.</p>
+<p><strong>Nick</strong>: Ooh.</p>
+<p><strong>Grissom</strong>: What about the needle you found in the decomp?</p>
+<p><strong>Nick</strong>: The micrometer pegged it as a 30-gauge. </p>
+<p><strong>Grissom</strong>: Insulin dependents use needles that thin.</p>
+<p><strong>Nick</strong>: Well, the decomp's too severe. We'll never get anything out of tox or the needle.</p>
+<p><strong>Grissom</strong>: I think we're working the same case.</p>
+<p>(NICK turns to the computer and starts looking at its contents.)</p>
+<p><strong>Nick</strong>: (smiling) Well, good thing my gigolo was organized. He used accounting software to keep track of his finances.</p>
+<p><strong>Grissom</strong>: Employment history?</p>
+<p>(NICK works the computer. He hits some keys. The screen changes. NICK squints at what he sees. GRISSOM leans in closer to the monitor. The computer beeps. NICK stifles a grin and clears his throat. He glances up at GRISSOM.)</p>
+<p>CUT TO:<br />
+[EXT. LADY HEATHER'S DOMINION - NIGHT]</p>
+<p>DOORBELL RINGS (PRELAP)</p>
+<hr />
+[INT. LADY HEATHER'S DOMAIN - NIGHT]</p>
+<p>(LADY HEATHER makes her way down the stairway. A man screams in the distance.)</p>
+<p><strong>Lady Heather</strong>: Mr. Grissom, Captain Brass,<br />
+(BRASS waits for her in the middle of the room, looking up at the staris a piece of paper in his hand. GRISSOM'S back is to the stairs, he puts the item he was examining back on the fireplace mantle. )</p>
+<p><strong>Lady Heather</strong>: So nice to see you again.</p>
+<p><strong>Brass</strong>: Good to hear things haven't changed around here.</p>
+<p><strong>Lady Heather</strong>: I see you haven't changed, either.</p>
+<p>(BRASS hands a color photocopy of the two men's IDs to LADY HEATHER.)</p>
+<p><strong>Brass</strong>: Trey Buchman, Croix Richards.</p>
+<p>(In addition to Croix Richard's Passport ID info, Rey Buchman's Nevada Driver's License is also on the sheet with the following information:</p>
+<p>[Nevada Driver License<br />
+283266066733<br />
+555-66-7777<br />
+050492<br />
+R360021</p>
+<p>BUCHMAN, TREY<br />
+2974 WESTFALL AVE. LAS VEGAS NY 89156</p>
+<p>Class: C s*x: M Height: 5-10<br />
+Weight: 143<br />
+Hair: Blk Eyes: Grn DOB: 11/13/81<br />
+Expiration date: 05/15/05 ]</p>
+<p><strong>Lady Heather</strong>: They're both on my payroll. Hard workers, quite skilled.</p>
+<p><strong>Brass</strong>: They're deceased.</p>
+<p><strong>Lady Heather</strong>: They'll be missed.</p>
+<p><strong>Brass</strong>: Last year, you lost Mona Taylor. Now, two more employees. It's a risky business.</p>
+<p><strong>Lady Heather</strong>: Accusation?</p>
+<p><strong>Grissom</strong>: It's an observation.</p>
+<p><strong>Brass</strong>: These guys traded in s*x, and I know you don't allow intercourse in your domain. Now, that is an accusation.</p>
+<p><strong>Lady Heather</strong>: I profit from the theatrics of pleasure, allowing people to play out their fantasies. Trey and Croix were independent contractors.</p>
+<p><strong>Grissom</strong>: Lady Heather, what services did they provide?</p>
+<p>(Camera holds on LADY HEATHER.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. LADY HEATHER'S DOMINION - POOL ROOM -- NIGHT]</p>
+<p>(In the pool room, several different scenes are played out. The first is of two men dressed with pig masks being fed by the &quot;Farmer Girl&quot;. One has his face in a bucket, the other is standing on the side.)</p>
+<p><strong>Woman</strong>: Bad little pig boy. Bad, bad, bad. ... You naughty, bad pig. Oinky, sloppy pig.</p>
+<p>(The camera pans upward and two women walk by.)</p>
+<p>(They pass by another session where a man is tied to the wall.)</p>
+<p>(LADY HEATHER accompanies BRASS and GRISSOM across the pool room. She opens a door and motions for them to walk in. BRASS walks past her and into a hallway that leads to other smaller rooms. GRISSOM motions for LADY HEATHER to walk in ahead of him.)</p>
+<p>(Once inside, they pass a series of smaller bedrooms with computers on internet access.) </p>
+<p>[Room 1: ]</p>
+<p><strong>Man</strong>: (on computer) You're right. I deserve to be punished.</p>
+<p><strong>Woman</strong>: &quot;Mommy&quot; says no. I said, no.</p>
+<p>(BRASS walks by this room and looks into the next room.)</p>
+<p>[Room 2: ]</p>
+<p>(A dark-haired woman sits at the computer typing on the keyboard. Her back is to the door.)</p>
+<p>[Room 3: ]</p>
+<p><strong>Woman</strong>: Oh ... who needs the belt?</p>
+<p>(BRASS walks to the end of the hallway and turns around.)</p>
+<p>[Room 4: ]</p>
+<p>(CHLOE sits in front of the keyboard. As they walk by the room, she turns around and glances at them.)</p>
+<p>(GRISSOM looks into Room Two.)</p>
+<p><strong>Woman</strong>: Say you're sorry.</p>
+<p><strong>Man</strong>: I'm sorry.</p>
+<p>(The dark-haired woman in Room Two, turns around to look at GRISSOM.)</p>
+<p><strong>Lady Heather</strong>: (to BRASS &amp; GRISSOM) My dominion is also my domain. Ladyheather.com.</p>
+<p><strong>Brass</strong>: So, Buchman and Richards were down here doing internet p0rn, huh?</p>
+<p><strong>Lady Heather</strong>: Not p0rn. Voyeurism in a Brave New World.</p>
+<p><strong>Grissom</strong>: What would Aldous Huxley say?</p>
+<p><strong>Lady Heather</strong>: Well ... if his credit card were valid, he could say anything he wanted at $3.95 per minute.</p>
+<p>(She looks at GRISSOM and abruptly changes the subject.)</p>
+<p><strong>Lady Heather</strong>: Do you like my lipstick?</p>
+<p>(Man groaning in the background.)</p>
+<p><strong>Grissom</strong>: (shakes his head) Why?</p>
+<p><strong>Lady Heather</strong>: You've been staring at my lips.</p>
+<p><strong>Grissom</strong>: You have lovely lips.</p>
+<p>(BRASS looks from GRISSOM to LADY HEATHER. LADY HEATHER grins back at GRISSOM.)</p>
+<p><strong>Brass</strong>: (interrupts) And a very successful business. Thanks. Thanks for your time.</p>
+<p>(BRASS heads for the door sweeping GRISSOM along in front of him. GRISSOM turns around to look at LADY HEATHER as he leaves.)</p>
+<p><strong>Lady Heather</strong>: See you soon.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LOUNGE -- NIGHT]</p>
+<p>(Inside the Lounge, DET. VEGA and SARA question LINDSEY while CATHERINE watches.)</p>
+<p>(LINDSEY looks at CATHERINE.)</p>
+<p><strong>Det. Vega</strong>: So, after your recital, where did your dad take you?</p>
+<p><strong>Lindsey</strong>: Leatherbey's. He got me a banana split. </p>
+<p><strong>Det. Vega</strong>: I like whipped cream on mine ...</p>
+<p><strong>Catherine</strong>: (interrupting) Did he have anything to drink? Did he have a beer, a glass of wine?</p>
+<p>(DET. VEGA glances at CATHERINE.)</p>
+<p><strong>Lindsey</strong>: (looking at CATHERINE) Just water.</p>
+<p>INTERCUT WITH:</p>
+<p>[EXT. DRAINAGE CANAL - NIGHT]</p>
+<p>(Men holding flashlights walk along the concrete.)</p>
+<p>(Cut back to the Lounge. SARA watches CATHERINE.</p>
+<p><strong>Sara</strong>: (to LINDSEY) So, it was just the two of you?</p>
+<p>(LINDSEY turns and nods her head at SARA. She immediately turns back to look at CATHERINE.)</p>
+<p><strong>Det. Vega</strong>: This lady you told us about -- the one who was driving, the one with the pink hair -- where did you meet her?</p>
+<p>(LINDSEY doesn't look at DET. VEGA. She looks at her mother.)</p>
+<p><strong>Lindsey</strong>: I don't know.</p>
+<p><strong>Catherine</strong>: (interrupting) You remember, Lindsey. Just think about it.</p>
+<p>(LINDSEY looks at CATHERINE. DET. VEGA again glances at CATHERINE. SARA also looks at CATHERINE, then at DET. VEGA. Their eyes meet.)</p>
+<p><strong>Lindsey</strong>: I fell asleep in the car, and I woke up when we stopped.</p>
+<p><strong>Det. Vega</strong>: Was this at a house?</p>
+<p><strong>Lindsey</strong>: No. It was a building.</p>
+<p><strong>Sara</strong>: Was it an apartment building ... maybe ... or maybe an office building?</p>
+<p><strong>Lindsey</strong>: I don't know.</p>
+<p><strong>Catherine</strong>: Why did you stop there?</p>
+<p>(LINDSEY looks at CATHERINE.)</p>
+<p>[EXT. DRAINAGE CANAL - NIGHT]</p>
+<p>(More people with hard hats and flashlights run down the embankment and into the canal. A worker kneels as he examines some debris. He stands up and moves along. They're all looking for something.)</p>
+<p>(Cut back to The Lounge.)</p>
+<p><strong>Lindsey</strong>: Daddy said he had a meeting. He told me to stay in the car and keep the doors locked.</p>
+<p><strong>Catherine</strong>: You mean he left you in the car alone.</p>
+<p><strong>Sara</strong>: Catherine ...</p>
+<p><strong>Lindsey</strong>: (defensive) Mom, mom, it's okay. I said I could take care of myself. I told him I could stay in the car. Just don't be mad at him. He didn't do anything wrong.</p>
+<p><strong>Sara</strong>: It's okay, Lindsey. Nobody's mad at anybody.</p>
+<p>(SARA looks at CATHERINE and stands up. CATHERINE rubs her forehead.)</p>
+<p><strong>Sara</strong>: (to CATHERINE) Can I talk to you for a second?</p>
+<p>(CATHERINE gets up and leaves the room in a huff. She closes the door and paces the hallway outside.)</p>
+<p>(SARA sits in the seat vacated by CATHERINE, directly in front of LINDSEY.)</p>
+<p><strong>Sara</strong>: (softly) It's okay.</p>
+<p>[EXT. DRAINAGE CANAL - NIGHT]</p>
+<p>(Inside one drainage tunnel, there are a couple of men looking around. The camera then moves to the next drainage tunnel where an unmoving body is some distance inside on the cold concrete ground. There are workers at the mouth of the tunnel. It's only a matter of time before they see the body.)</p>
+<p>(Cut back to the Lounge. DET. VEGA and SARA resume questioning LINDSEY.)</p>
+<p><strong>Det. Vega</strong>: This lady was at the building?</p>
+<p>(CATHERINE turns around to watch her daughter inside the room.)</p>
+<p><strong>Lindsey</strong>: She was outside in the parking lot.</p>
+<p>(Quick flashback to earlier that night. EDDIE walks outside in the rain, arms open wide to greet his girlfriend. LINDSEY is inside the car watching.)</p>
+<p><strong>Candeece</strong>: Eddie.</p>
+<p><strong>Eddie</strong>: Candeece! Baby!</p>
+<p><strong>Candeece</strong>: Where were you?</p>
+<p>(EDDIE reaches CANDEECE. They hug each other.)</p>
+<p><strong>Eddie</strong>: What's the matter, honey? Sugar, what's the matter with you?</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: This lady with the pink hair -- was she your father's girlfriend?</p>
+<p>(CATHERINE looks at LINDSEY. LINDSEY hesitates in answering. She looks at CATHERINE.)</p>
+<p>(Quick flashback to EDDIE and CANDEECE. Resume from the hug. CANDEECE lets go and hits EDDIE on his chest. EDDIE takes a couple of steps backward.)</p>
+<p><strong>Candeece</strong>: I called you a million times! What are you talking about? Why didn't you answer your phone?</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Lindsey</strong>: Maybe. Well, he was mad at her. And then they, they were running back to the car. Daddy was holding his stomach.</p>
+<p>(Quick flashback to inside the car. It's raining heavily outside. EDDIE runs to the passenger side. He gets in and groans.)</p>
+<p><strong>Lindsey</strong>: Daddy, what's wrong?</p>
+<p><strong>Eddie</strong>: (glancing at LINDSEY and groaning) It's just a stomachache, honey. I'll be fine.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(CATHERINE'S phone rings. She answers it.)</p>
+<p><strong>Catherine</strong>: Willows. (pause) Yeah.</p>
+<p>(CATHERINE pulls the phone away from her ear. She looks sadly into the room. LINDSEY turns her head and looks at her mom. Their eyes meet.)</p>
+<p>(Cut to the men in the canal tunnel standing over EDDIE'S body.)</p>
+<p>(Cut back to CATHERINE. Camera holds on CATHERINE.)</p>
+<p>HARD CUT TO BLACK.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY]</p>
+<p>(Camera opens on EDDIE'S body on the autopsy table. CATHERINE looks down at him without moving. Behind her, ROBBINS watches.)</p>
+<p><strong>Robbins</strong>: (softly) Catherine, you can't say good-bye in an autopsy room.<br />
+(For a moment, CATHERINE doesn't say anything. She turns and walks out. ROBBINS watches her leave.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY - CONTINUOUS]</p>
+<p>(CATHERINE makes her way through the hallway. GRISSOM meets her in the hallway.)</p>
+<p><strong>Grissom</strong>: Hi, uh ... </p>
+<p><strong>Catherine</strong>: (interrupting) Croix Richards and Trey Buchman. Same profession, same employer, same cause of death.</p>
+<p><strong>Grissom</strong>: Yeah. Insulin poisoning.</p>
+<p>(They start walking down the hallway.)</p>
+<p><strong>Catherine</strong>: Not your typical male M.O. Lady Heather a suspect?</p>
+<p><strong>Grissom</strong>: I can't rule anybody out. Catherine ... I'm sorry about Eddie and your daughter. If, if you'd like to take some time off or ... </p>
+<p><strong>Catherine</strong>: I'm okay. Lindsey's ... (pause) ... We're okay.</p>
+<p>(CATHERINE turns and walks away from GRISSOM. She heads into the lab where WARRICK and NICK are already there. GRISSOM turns and watches through the glass as both NICK and WARRICK offer CATHERINE their condolences.)</p>
+<p><strong>Nick</strong>: Hey, Catherine.</p>
+<p>(WARRICK stands up.)</p>
+<p><strong>Warrick</strong>: Hey. We heard about what happened. I'm so sorry.</p>
+<p><strong>Nick</strong>: Yeah, if you or Lindsey need anything at all ...</p>
+<p><strong>Catherine</strong>: Thanks, you guys. </p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p><strong>Catherine</strong>: Why don't you catch us up.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>[INT. CSI - AUDIO/VISUAL ROOM - CONTINUOUS]</p>
+<p>(GRISSOM walks into the room.)</p>
+<p><strong>Nick</strong>: Credit card transactions for Lady Heather's web site. Both our victims worked in the chat room. We cross-referenced their clients.</p>
+<p><strong>Warrick</strong>: They're all ladies.</p>
+<p><strong>Nick</strong>: And looks like both victims died approximately four weeks apart.</p>
+<p><strong>Warrick</strong>: Killers usually don't stray too far from home. </p>
+<p><strong>Catherine</strong>: Especially for repeat crimes.</p>
+<p><strong>Warrick</strong>: Yeah, I'm squeezing the Las Vegas search area.</p>
+<p>(WARRICK does his search and picture ID cards for 12 people pop on screen.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY]</p>
+<p>(LEAH fills SARA in on her test results.)</p>
+<p><strong>Leah</strong>: Got a vial full of blue boogers.</p>
+<p><strong>Sara</strong>: GHB with food coloring. That's a date rape drug.</p>
+<p><strong>Leah</strong>: Not anymore. You mix it with the right stimulant, like meth, you got a great party drink.</p>
+<p><strong>Sara</strong>: Everyone's a chemist. Thanks.</p>
+<p>(SARA sees CATHERINE in the room. CATHERINE watches SARA walk by, her attention not on the case inside the room, but the one walking down the hallway.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - AUDIO/VISUAL LAB - DAY -- CONTINUOUS]</p>
+<p>(GRISSOM draws CATHERINE'S attention back to the room.)</p>
+<p><strong>Grissom</strong>: You know, we found a dark hair in Trey Buchman's hotel room at the sphere.</p>
+<p><strong>Warrick</strong>: I'll exclude everyone with light hair.</p>
+<p><strong>Grissom</strong>: Whoa. Stop.</p>
+<p>(The Nevada Driver's License that catches GRISSOM eye is:</p>
+<p>[LIC#: 0200794032<br />
+111-11-1111<br />
+11-09-1999</p>
+<p>REBECCA McCORMICK, DRIVERS LICENSE # AA1529120<br />
+235 DESERT RANCH ROAD LAS VEGAS NV 89701</p>
+<p>CLASS: C s*x: F HEIGHT: 5'5&quot;<br />
+WEIGHT: 121<br />
+HAIR: BROWN EYES: BROWN BIRTHDATE: 03-05-1970<br />
+EXPIRATION DATE: 03-05-2004<br />
+ORGAN DONOR ]</p>
+<p><strong>Warrick</strong>: Huh. Rebecca McCormick. 235 Desert Ranch Road. &quot;First time&quot;, my ass.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. McCORMICK RESIDENCE - INT -- DAY]</p>
+<p>(STEVEN and REBECCA McCORMICK walk down the stairs. GRISSOM and CATHERINE wait in the living room.)</p>
+<p>(STEVEN walks into the room in front of REBECCA.)</p>
+<p><strong>Steven McCormick</strong>: Hi. Sorry to keep you waiting. So, what can I do to help out the Las Vegas Crime Lab?</p>
+<p><strong>Grissom</strong>: You could tell us about your relationship with Croix Richards.</p>
+<p><strong>Steven McCormick</strong>: Well, uh, I hired Croix Richards to Dominate Rebecca. Would you like a chocolate?</p>
+<p>(As if on cue, REBECCA eagerly turns to get the plate of chocolates from the kitchen.)</p>
+<p><strong>Rebecca McCormick</strong>: Uh, they're Godiva.</p>
+<p><strong>Catherine</strong>: No, thanks.</p>
+<p>(STEVEN takes a chocolate from the tray and pops it into his mouth.)</p>
+<p><strong>Steven McCormick</strong>: I guess you could say that Mr. Richards worked for me. We were hoping that he might help ease some of Rebecca's sexual difficulties.</p>
+<p><strong>Catherine</strong>: Extra-marital s*x to help your relationship problems?</p>
+<p><strong>Steven McCormick</strong>: The problem wasn't with our relationship, it was with my wife's lack of experience.</p>
+<p><strong>Grissom</strong>: Which Mr. Richards helped you with?</p>
+<p>(STEVEN turns to look at REBECCA. As if on cue, she answers GRISSOM.)</p>
+<p><strong>Rebecca McCormick</strong>: Yes.</p>
+<p>(REBECCA puts the tray on the side shelf.)</p>
+<p><strong>Steven McCormick</strong>: First over the internet and then we, uh, we met with him a few times.</p>
+<p><strong>Grissom</strong>: We?</p>
+<p><strong>Steven McCormick</strong>: Yeah, yes.</p>
+<p>(REBECCA takes a seat.)</p>
+<p><strong>Steven McCormick</strong>: I participated in the sessions, yes.</p>
+<p>(Quick flashback to a session at LADY HEATHER'S. REBECCA McCORMICK is dressed in a wedding gown and chained to the wall. Behind her, CROIX RICHARD holds a whip while her husband, STEVEN cowers in a corner.)</p>
+<p><strong>Croix Richards</strong>: Do you take this man to be your wedded husband? Love honor and obey.</p>
+<p><strong>Steven McCormick</strong>: Say it!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: And these sessions were held at Lady Heather's?</p>
+<p><strong>Steven McCormick</strong>: Yes. Lady Heather thought it would be best if I was involved. I'm sure secrets would've made the problem worse, at that point.</p>
+<p><strong>Catherine</strong>: Mrs. McCormick, did you meet Trey Buchman at Lady Heather's? </p>
+<p>(REBECCA looks at STEVEN. STEVEN answers them.)</p>
+<p><strong>Steven McCormick</strong>: Oh, I'm sorry, who?</p>
+<p><strong>Grissom</strong>: He worked for Lady Heather as well. He's also dead.</p>
+<p><strong>Steven McCormick</strong>: Oh ... I don't know who Trey Buchman is.</p>
+<p><strong>Grissom</strong>: Your wife does.</p>
+<p>(STEVEN looks confused.)</p>
+<p><strong>Steven McCormick</strong>: Oh. </p>
+<p>(She answers him.)</p>
+<p><strong>Rebecca McCormick</strong>: I met Trey on Lady Heather's web site. Our encounters were only on-line. </p>
+<p>(Quick flashback to REBECCA McCORMICK in her lingerie and robe on bed while looking at her laptop's camera.)</p>
+<p><strong>Rebecca McCormick</strong>: Like this? Is this okay?</p>
+<p><strong>Trey Buchman</strong>: No, it's not okay! Don't you know how to listen, you stupid bitch?!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: And the night you and I met at the Tangiers?</p>
+<p>(STEVEN is definitely not following the questioning and no longer in charge of the situation. He turns and looks at REBECCA. REBECCA answers GRISSOM.)</p>
+<p><strong>Rebecca McCormick</strong>: Croix was fun. Uh, I wanted more experience. Variation. I made a date with Trey. He never showed up.</p>
+<p><strong>Catherine</strong>: Well, Mrs. McCormick, I'd like to get a sample of your hair and DNA for comparison.</p>
+<p>(Displeased, STEVEN McCORMICK walks to the shelf with the chocolate tray. He picks it up himself and turns to address CATHERINE.)</p>
+<p><strong>Steven McCormick</strong>: (to the CSIs) Rebecca will give you anything that you need.</p>
+<p>(STEVEN McCORMICK puts the tray of chocolates on the table himself. It hits the counter with a clang. He walks out of the room without a word to his wife.)</p>
+<p>(Camera holds on REBECCA MCCORMICK.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GARAGE]</p>
+<p>(SARA examines the car. She notices the blood stain on the front passenger seat. She checks under the floor mat. She lifts the arm rest to check inside the compartment. Finding nothing unusual, she closes it and resumes looking at the car ceiling.)</p>
+<p>(SARA sees a piece of folded paper tucked in the overhead visor. She opens it. It appears to be a color proof for a CD cover for CANDEECE. SARA checks the CD slot and pulls out a Demo CD from SAHARA SOUND / 78566 Ambers Avenue / Las Vegas, NV 89198 / (702) 555-0197.)</p>
+<p>CUT TO:<br />
+[EXT. SAHARA SOUND -- STREET - DAY]</p>
+<p>(Workers with jackhammers work on the road outside the studio. SARA and DET. VEGA walk up the driveway to the recording building.)</p>
+<hr />
+[INT. SAHARA SOUND -- DAY]</p>
+<p>(DET. VEGA and SARA question the RECORDING STUDIO OWNER and the SOUND ENGINEER.)</p>
+<p><strong>Recording Studio Owner</strong>: Yeah, I can put you in touch with her Manager, Eddie Willows. Guy owes me a call. Make that five calls. If you talk to him, tell him he's got, like, eight hours of studio fees due. The penalties are running, okay?</p>
+<p><strong>Sara</strong>: We've already seen him. He's in the morgue.</p>
+<p><strong>Recording Studio Owner</strong>: Oh, that makes sense why he wasn't here last night. High-strung singer, no manager, that's always trouble.</p>
+<p>(Quick flashback to CANDEECE in the recording studio.)</p>
+<p><strong>Candeece</strong>: (singing) A trail of tears / it takes me back to all my fears... </p>
+<p>(She pulls off her earphones and yells.)</p>
+<p><strong>Candeece</strong>: (yelling) I hate this! This sucks! Okay?</p>
+<p>(She heads out the recording booth and into the control booth.)</p>
+<p><strong>Candeece</strong>: Where is Eddie? I need Eddie here.</p>
+<p><strong>Recording Studio Owner</strong>: Get back in the booth.</p>
+<p><strong>Candeece</strong>: (yelling on phone) Where are you? I need you here now. I cannot do this without help. (to the Sound Engineer lounging in the doorway) Can I have a little privacy, please? Would you go in there and learn how to do your job? It sounds terrible in there, anyways.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Sound Engineer</strong>: She started ragging on me. I didn't need the hot air, so I came back in. (to ENRIQUE in the booth) That's a cut, Enrique. Let's take it from the bridge.</p>
+<p><strong>Recording Studio Owner</strong>: Eddie was just in it for the quick score. Cut a demo, sell a contract, get a ride on the charts and you just ride that wave.</p>
+<p><strong>Sound Engineer</strong>: This girl was different.</p>
+<p><strong>Recording Studio Owner</strong>: Yeah, he was banging her.</p>
+<p><strong>Sound Engineer</strong>: Yeah, but he had something for her, knowing how much potential she had. I never seen Eddie so dedicated. Nothing was going to stop him from making her a star.</p>
+<p><strong>Det. Vega</strong>: Except maybe a .22 round in his gut.</p>
+<p><strong>Sound Engineer</strong>: (to ENRIQUE) Stop, stop, stop. That's a cut, Enrique.</p>
+<p><strong>Recording Studio Owner</strong>: Whoa. It sounds good from where I'm standing-- what's up?</p>
+<p><strong>Sound Engineer</strong>: The problem isn't the vocals, man, it's the extra bass line I keep getting from the village people outside with that damn jackhammer. </p>
+<p>(DET. VEGA looks over at SARA.)</p>
+<p><strong>Sound Engineer</strong>: (to ENRIQUE) All right, let's pick it up from the second chorus.</p>
+<p><strong>Sara</strong>: Aren't recording studios supposed to be soundproof?</p>
+<p><strong>Recording Studio Owner</strong>: Lady, if the guy standing next to you is Clive Davis, instead of a cop, it would be.</p>
+<p><strong>Sara</strong>: After Candeece left, did you guys keep recording?</p>
+<p><strong>Recording Studio Owner</strong>: Um, yeah, a few more hours. We were redoing a drum track.</p>
+<p>(SARA turns to DET. VEGA.)</p>
+<p><strong>Det. Vega</strong>: We're going to need to take a look at those tapes.</p>
+<p>WHITE FLASH TO:</p>
+<hr />
+[INT. CSI - LAB]</p>
+<p>(Scope view of a strand of hair. A second hair is added.)</p>
+<p><strong>Warrick</strong>: Okay, the hair on the left is from Trey Buchman's room at The Sphere hotel. The hair on the right is a sample we took from Rebecca McCormick. Cuticles on both are shiny and smooth. Telltale signs the hair has been treated. </p>
+<p>(WARRICK is in the lab with GRISSOM and CATHERINE.)</p>
+<p><strong>Warrick</strong>: The cortex isn't letting any light through. It lets us know the hair's been colored. The medullas are continuous. I can't be definitive without DNA, they look like Rebecca McCormick's.</p>
+<p>(WARRICK steps aside and CATHERINE looks through the scope.)</p>
+<p><strong>Catherine</strong>: So she lied to you guys at the hotel, she lied to us at the house. She's been with him, not just online.</p>
+<p><strong>Grissom</strong>: But her husband only knew about the guy he hired, Croix Richards. He had no idea that she hired Trey Buchman.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. LADY HEATHER'S DOMINION -- DAY]</p>
+<p>(LADY HEATHER and GRISSOM walk through the hallway.)</p>
+<p><strong>Lady Heather</strong>: Steven McCormick wanted his wife to have a session. It's not uncommon. When a client achieves liberation, they often want their spouse to share that feeling. Though in this particular instance I advised the husband to pursue avenues more suited to the temperament of his marriage.</p>
+<p>(They turn the corner and walk up the stairs.)</p>
+<p><strong>Grissom</strong>: I guess you couldn't say no. I learned that Mr. McCormick is an investor in your internet site.</p>
+<p><strong>Lady Heather</strong>: That's a matter of public record.</p>
+<p><strong>Grissom</strong>: Did he ever tell you, specifically, what his wife's problem was?</p>
+<p><strong>Lady Heather</strong>: The fault lay not in his wife, but in himself. Steven believed his wife was repressed, but once she opened up ... </p>
+<p><strong>Grissom</strong>: A Pandora's box? All the evils of their marriage unleashed?</p>
+<p>(CHLOE SAMMS walks toward them in the opposite direction. She stops in front of LADY HEATHER and asks permission to pass.)</p>
+<p><strong>Chloe Samms</strong>: May I?</p>
+<p><strong>Lady Heather</strong>: You may.</p>
+<p><strong>Chloe Samms</strong>: Thank you, Lady Heather.</p>
+<p>(CHLOE looks at GRISSOM, then passes LADY HEATHER and continues down the hallway.)</p>
+<p><strong>Lady Heather</strong>: Steven came to me three years ago in a state of confusion. I helped him clarify his need for dominance.</p>
+<p>(Quick flashback to STEVEN McCORMICK sitting in a private room. Kneeling in front of him is a naked woman. LADY HEATHER gives them instructions.)</p>
+<p><strong>Lady Heather</strong>: You will control her only as well as you can read her.</p>
+<p>(STEVEN reaches down and grasps the woman's chin. He looks at her. It's CHLOE SAMMS.)</p>
+<p><strong>Lady Heather</strong>: Now read.</p>
+<p>(STEVEN looks into CHLOE'S eyes. She meets his eyes. He swings and hits her across the cheek.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(LADY HEATHER and GRISSOM continue down the hallway. She stops in front of some unlit candles that should be lit.)</p>
+<p><strong>Lady Heather</strong>: Our work enabled him to marry.</p>
+<p><strong>Grissom</strong>: But he chose a woman who didn't understand the dynamics of a Dominant-submissive relationship.</p>
+<p><strong>Lady Heather</strong>: Unfortunately, the language we speak in here doesn't necessarily translate to the world out there.</p>
+<p>(She takes a match and lights the candle.)</p>
+<p><strong>Grissom</strong>: No, in here, the submissive has the power. All he has to do is say the safety word and everything stops.</p>
+<p><strong>Lady Heather</strong>: Very good, Mr. Grissom.</p>
+<p>(She blows out the match and turns around.)</p>
+<p><strong>Grissom</strong>: I'm just repeating what I've heard.</p>
+<p><strong>Lady Heather</strong>: You're a good listener.</p>
+<p><strong>Grissom</strong>: Part of the job.</p>
+<p><strong>Lady Heather</strong>: So this is work?</p>
+<p><strong>Grissom</strong>: Yes. But I value your insight.</p>
+<p><strong>Lady Heather</strong>: (smiles) I'm flattered. But you already seem to know the answers to your questions. You keep me in proximity when I walk away and when I'm close ... (she takes a step closer to GRISSOM) .... you watch my lips. Are you losing your hearing?</p>
+<p><strong>Grissom</strong>: I'm losing my balance.</p>
+<p><strong>Lady Heather</strong>: Your sense of self?</p>
+<p><strong>Grissom</strong>: No. I know who I am.</p>
+<p><strong>Lady Heather</strong>: Do you?</p>
+<p><strong>Grissom</strong>: (nods) (quietly) Yes, I do. </p>
+<p>(He reaches out a hand and brushes the hair away from her face. She closes her eyes for a moment. She opens her eyes. GRISSOM reaches out to her with both hands framing her face.) </p>
+<p><strong>Grissom</strong>: You can always say stop.</p>
+<p><strong>Lady Heather</strong>: So can you.</p>
+<p>(Camera holds on GRISSOM and LADY HEATHER looking at each other.)</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<hr />
+[INT. POLICE DEPARTMENT -- DAY]</p>
+<p>(SARA and DET. VEGA interview CANDEECE.)</p>
+<p><strong>Candeece</strong>: Eddie's my manager. It's no big secret. We were supposed to be working last night, and the jerk blew me off.</p>
+<p><strong>Det. Vega</strong>: So you never saw him last night?</p>
+<p><strong>Candeece</strong>: No.</p>
+<p><strong>Sara</strong>: What happened to your wrist?</p>
+<p><strong>Candeece</strong>: Oh, uh ... I got, uh ... um ... because, uh ...</p>
+<p><strong>Sara</strong>: According to Desert Palms Emergency Room, you came in last night with a fracture of the ulna. It's a common injury in car accidents -- air bag specific.</p>
+<p>(Quick flashback to the driver's air bag inflating. End of flashback. Resume to present.)</p>
+<p>(CATHERINE enters the observation room.)</p>
+<p><strong>Sara</strong>: (over speaker) Air bags are packed with cornstarch or talc. It helps them deploy. It also wreaks havoc on the eyes.</p>
+<p><strong>Det. Vega</strong>: We know you saw Eddie last night. We know that you were driving his car.</p>
+<p><strong>Candeece</strong>: It all happened so fast, you know? One minute I was, I was just outside getting some air and thinking, you know? And then... the next, my manager is stumbling towards me, bleeding.</p>
+<p>(Quick flashback to EDDIE stumbling toward CANDEECE in the rain. She puts out a supporting arm and they both head toward the car.)</p>
+<p><strong>Eddie</strong>: Candeece, baby, I'm shot!</p>
+<p><strong>Candeece</strong>: Eddie! Oh, my god! I'll get you in the car. </p>
+<p>(Cut to CANDEECE turning to the back seat.)</p>
+<p><strong>Candeece</strong>: (to LINDSEY) Everything's going to be okay, honey. Okay, don't be afraid.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: Sounds pretty heroic.</p>
+<p><strong>Candeece</strong>: Not really. When you're intimate with somebody, you can't imagine life without them. We were partners. I loved him. I thought I was going to die.</p>
+<p><strong>Sara</strong>: There were two other people in the car.</p>
+<p><strong>Candeece</strong>: That's what I meant, you know? I thought we were all going to die.</p>
+<p><strong>Det. Vega</strong>: Search and Rescue found Eddie's body 100 yards downstream.</p>
+<p><strong>Sara</strong>: See, that's where it gets a little less heroic -- we found Lindsey alone in a sinking car.</p>
+<p><strong>Candeece</strong>: I tried to get Eddie out. He was unconscious, and that ... that kid kept screaming ... and ... the current was really strong and we got swept downstream. What was I supposed to do?</p>
+<p><strong>Sara</strong>: Get to a phone, call the cops, call an ambulance, anything, actually ... other than what you did.</p>
+<p><strong>Candeece</strong>: I am just one person. Eddie is my priority, not that ... that stupid, screaming little brat.</p>
+<p>(CATHERINE shakes her head and marches out of the observation room.)</p>
+<p><strong>Candeece</strong>: I tried, I ... </p>
+<p>(CATHERINE bursts into the interrogation room.)</p>
+<p><strong>Catherine</strong>: You even think about my daughter again, I'll kill you. I will kill you. </p>
+<p><strong>Sara</strong>: Catherine. </p>
+<p><strong>Catherine</strong>: I will hunt you down and put ... I will put you in the ground!</p>
+<p><strong>Sara</strong>: Catherine?</p>
+<p>(SARA grabs CATHERINE by the shoulders and drags her out of the room.)</p>
+<p><strong>Candeece</strong>: (to VEGA) You saw that. She threatened me! I want a lawyer.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY OUTSIDE INTERROGATION ROOM - DAY - CONTINUOUS]</p>
+<p><strong>Sara</strong>: What the hell are you doing? Do you know where you're at right now?</p>
+<p><strong>Catherine</strong>: I've been here a lot longer than you ... </p>
+<p><strong>Sara</strong>: And you should know better.</p>
+<p><strong>Catherine</strong>: And I wouldn't have to be here if you were doing your job properly.</p>
+<p><strong>Sara</strong>: There is a difference between me doing my job and you wanting to do it for me. You don't want to get the job done. What you want, right now, is revenge.</p>
+<p><strong>Catherine</strong>: You're going to tell me what I want, huh?</p>
+<p><strong>Sara</strong>: Go home, Catherine. Be with your daughter. She's the one that needs you.</p>
+<p>(SARA walks away leaving CATHERINE in the hallway staring after her.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. LADY HEATHER'S DOMINION - DAY]</p>
+<p>(GRISSOM is sitting at the table pouring LADY HEATHER a cup of tea.)</p>
+<p><strong>Grissom</strong>: What did you consider this? A little civility before work, I think?</p>
+<p><strong>Lady Heather</strong>: ... or a ritual to put us at ease. Or how about &quot;in custom and ceremony, are innocence and beauty born.&quot;</p>
+<p><strong>Grissom</strong>: Yeats ... &quot;Prayer For My Daughter.&quot;</p>
+<p><strong>Lady Heather</strong>: Or our morning.</p>
+<p><strong>Grissom</strong>: Cream?</p>
+<p><strong>Lady Heather</strong>: Please.</p>
+<p>(GRISSOM pours the cream as LADY HEATHER watches.)</p>
+<p><strong>Lady Heather</strong>: Thank you.</p>
+<p><strong>Grissom</strong>: Sugar?</p>
+<p><strong>Lady Heather</strong>: I'm diabetic.</p>
+<p>(This catches GRISSOM'S attention.)</p>
+<p><strong>Grissom</strong>: Type 1?</p>
+<p><strong>Lady Heather</strong>: Mm-hmm. </p>
+<p><strong>Grissom</strong>: Injections?</p>
+<p><strong>Lady Heather</strong>: Used to mean injections. I changed to a pressure syringe.</p>
+<p>(She picks up her tea cup.)</p>
+<p><strong>Grissom</strong>: Recently?</p>
+<p><strong>Lady Heather</strong>: Mm-hmm, a few weeks ago. Oh, it's a fascinating instrument; would you like to see it?</p>
+<p><strong>Grissom</strong>: (hesitates) Yes, I would ... </p>
+<p>(She lifts her tea cup and blows on it.)</p>
+<p><strong>Grissom</strong>: ... But I'm afraid I'll need a warrant. </p>
+<p>(She stops mid-sip and lifts her head.)</p>
+<p><strong>Grissom</strong>: Excuse me. </p>
+<p>(GRISSOM stands up and takes out his cell phone. He makes the call.)</p>
+<p><strong>Grissom</strong>: (to phone) It's Grissom. I need you to write paper on Lady Heather's medical paraphernalia -- specifically, an insulin kit and syringes. (pause)<br />
+I'm already there. I'll wait.</p>
+<p>(GRISSOM puts his phone away.)</p>
+<p><strong>Lady Heather</strong>: I think I just heard you say &quot;stop.&quot;</p>
+<p>(GRISSOM looks at LADY HEATHER.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - BRASS' OFFICE -- DAY]</p>
+<p>(BRASS is interviewing REBECCA McCORMICK. WARRICK stands in the back of the room.)</p>
+<p><strong>Brass</strong>: You lied to us, Mrs. McCormick. You said you only engaged in on-line s*x with Trey Buchman.</p>
+<p><strong>Warrick</strong>: Your hair has a similar morphology to the hair that we found in Mr. Buchman's hotel suite.</p>
+<p><strong>Rebecca McCormick</strong>: Well, &quot;similar&quot; doesn't mean me.</p>
+<p><strong>Warrick</strong>: No, but the DNA we also recovered from under the sheets does mean you.</p>
+<p><strong>Brass</strong>: Sounds like a physical encounter to me.</p>
+<p><strong>Rebecca McCormick</strong>: So ... since I pay for s*x, I must also be a murderer?</p>
+<p><strong>Brass</strong>: No, it's just that everybody you pay for s*x ends up dead.</p>
+<p><strong>Rebecca McCormick</strong>: I don't like you.</p>
+<p><strong>Brass</strong>: Well, I guess I'll have to live with that. (she stands up and walks to the back of the room to look out the window.) Here's something else you might not like. Two months ago, your bank records show cash withdrawals totaling<br />
+$50,000.</p>
+<p><strong>Warrick</strong>: The same amount that we found in Croix Richards' apartment.</p>
+<p><strong>Rebecca McCormick</strong>: Croix wasn't even half that good. Of course, that's still better than my husband.</p>
+<p>(WARRICK looks at BRASS.)</p>
+<p><strong>Brass</strong>: You used to work for Latona Pharmaceuticals, right? </p>
+<p><strong>Rebecca McCormick</strong>: Years ago.</p>
+<p><strong>Brass</strong>: You sold synthetic insulin.</p>
+<p><strong>Rebecca McCormick</strong>: All right. Mm-hmm. We've had our fun, but I'm stopping it now. Any other question you have can be directed to my lawyer.</p>
+<p>(REBECCA McCORMICK gathers her things and leaves the room.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - AUDIO/VISUAL LAB]</p>
+<p>(ARCHIE works on the recording tracks SARA and DET. VEGA got from the SAHARA STUDIOS.)</p>
+<p><strong>Archie</strong>: Well, modern recording's all digital. Each track's recorded in a separate data file. By looking at the file modification times, we can approximate which tracks were recorded near the time of the shooting.</p>
+<p><strong>Sara</strong>: Catherine left Eddie at 5:30 P.M. Lindsey's first call was logged in at<br />
+10:55.</p>
+<p><strong>Archie</strong>: Let's see, well ... only two tracks were laid down during that time interval. &quot;7:41: Acoustic guitar ... 10:38: Drum track.&quot;</p>
+<p><strong>Sara</strong>: Let's look at the drum track.</p>
+<p>(ARCHIE puts the drum track on the monitor and speaker.)</p>
+<p><strong>Archie</strong>: There's the kit drum.</p>
+<p><strong>Sara</strong>: So any irregularity in the pattern could be from an outside source.</p>
+<p><strong>Archie</strong>: Yeah. Right here. A sudden change in amplitude.</p>
+<p><strong>Sara</strong>: Can you isolate it?</p>
+<p><strong>Archie</strong>: Yeah.</p>
+<p>(ARCHIE replays the portion of the sound track he highlighted. Inside the drum track, there's a distant bang. SARA glances back at ARCHIE.)</p>
+<p><strong>Sara</strong>: Sounds like gunfire.</p>
+<p><strong>Archie</strong>: I'll play it again.</p>
+<p>(ARCHIE replays the portion again. It definitely sounds like gunfire.)</p>
+<p><strong>Archie</strong>: Let me take out the drums.</p>
+<p>(ARCHIE separates the sounds and plays it again. The first sound is gunfire. After that, there's a second, faint-whirring sound.)</p>
+<p><strong>Sara</strong>: What is that?</p>
+<p><strong>Archie</strong>: Feels like an engine. V-twin, maybe. Must have been somebody else there. You think we got a witness?</p>
+<p><strong>Sara</strong>: Or a suspect.</p>
+<p>(VEGA enters the lab.)</p>
+<p><strong>Vega</strong>: Hey ... I was able to pull the phone records for Candeece. She made six calls that night. The first five went to Eddie.</p>
+<p><strong>Sara</strong>: But not the last one. You got an address?</p>
+<p>CUT TO:</p>
+<hr />
+[INT/EXT. KINER'S RESIDENCE -- DAY]</p>
+<p>(Camera opens on SARA taking a sample of something blue stuck to the drain in the sink. Outside, DET. VEGA questions KINER.)</p>
+<p><strong>Kiner</strong>: (o.s.) I get all kind of calls. It could've been a girl that I slept with. Or a girl that I didn't sleep with. Could've been a wrong number. </p>
+<p>(KINER turns around to look at what SARA'S doing. VEGA pulls his attention back to the officer.)</p>
+<p><strong>Det. Vega</strong>: Since when do wrong numbers last for four minutes?</p>
+<p><strong>Kiner</strong>: You hear a sexy voice on the phone, what are you gonna do, you gonna hang up?</p>
+<p>(SARA walks out of the garage.)</p>
+<p><strong>Det. Vega</strong>: So you do remember the call.</p>
+<p><strong>Sara</strong>: I like your Harley.</p>
+<p>(SARA heads to the back of the SUV where she processes the sample on a SENSIR machine.)</p>
+<p><strong>Det. Vega</strong>: Look, Kiner, you're on parole; you got no rights looking at two strikes. I'm not trying to pull a fast ball on you, but it's not the first time you've talked to Candeece.</p>
+<p><strong>Kiner</strong>: So maybe me and Candy are friends.</p>
+<p><strong>Det. Vega</strong>: Were friends. You guys used to talk once a day. Then she stopped calling you, until last night.</p>
+<p><strong>Kiner</strong>: People change. Fell into a bad element.</p>
+<p>(SARA gets the following test results back from the SensIR Technology machine. Sample ID: 0035432 / &quot;Most likely primary component: GHB Gamma Hydroxybutyric Acid&quot;.)</p>
+<p><strong>Sara</strong>: Mr. Kiner, do you own this house?</p>
+<p><strong>Kiner</strong>: My father left it to me.</p>
+<p><strong>Sara</strong>: Your father have a drug problem? We found GHB in your garage. &quot;Georgia home boy.&quot; </p>
+<p><strong>Det. Vega</strong>: Tell us what happened with Eddie.</p>
+<p><strong>Kiner</strong>: Candy needed &quot;help.&quot;</p>
+<p>(Quick flashback to KINER holding the vial of blue GHB out to CANDEECE. EDDIE is there and he's upset with the exchange. In fact, he tries to stop it.)</p>
+<p><strong>Eddie</strong>: Hey, hey, hey! (to KINER) What are you doing here? What are you selling her drugs for? (to CANDEECE) What are you doing? I wanted you clean. Hey, please ... what do you want, huh? This what you want?</p>
+<p>(KINER steps back while EDDIE struggles with CANDEECE. She pulls out a gun and fires it.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Kiner</strong>: I got on my hog. I got the hell out of there. What do you expect me to do? Go back to the joint for her?</p>
+<p>(DET. VEGA turns around to look at SARA. She shrugs.)</p>
+<p><strong>Det. Vega</strong>: (to the officers) Cuff him.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - AFTERNOON]</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERROGATION ROOM -- DAY]</p>
+<p>(BRASS is questioning LADY HEATHER. LADY HEATHER is sitting down at the table facing the mirror on the wall. BRASS is standing behind the chair in front of the mirror.)</p>
+<p><strong>Brass</strong>: Quid pro quo, right? Steven invests in your business, you kill the two guys who are messing around with his wife.</p>
+<p><strong>Lady Heather</strong>: I could help you, Mr. Brass ... with your inadequacy.</p>
+<p><strong>Brass</strong>: You know, I'd like that, Lady H. It's tough being me. I'd like to feel more secure in my role as a homicide detective. </p>
+<p>(BRASS takes a seat close to LADY HEATHER.) </p>
+<p><strong>Brass</strong>: You know what really gets me wild? The truth. Are you up for that?</p>
+<p>(Cut to the Observation POV of the Interrogation room through the two-way mirror. Before answering the question, LADY HEATHER turns and looks directly at the mirror ... directly at GRISSOM.)</p>
+<p><strong>Lady Heather</strong>: (over speaker) Mr. Grissom collected samples of my insulin. He's undoubtedly identified it as non-synthetic.</p>
+<p><strong>Brass</strong>: (over speaker) He told me it was beef insulin.</p>
+<p><strong>Lady Heather</strong>: (over speaker) Which, I take it, matches the insulin found in the two victims.</p>
+<p><strong>Brass</strong>: (over speaker) Do you know that only seven percent of diabetics in this country use an animal-based insulin? They import yours from Great Britain.</p>
+<p><strong>Lady Heather</strong>: (over speaker) Which narrows the field down even further.</p>
+<p><strong>Brass</strong>: (over speaker) Right into your dominion.</p>
+<p><strong>Lady Heather</strong>: My personal area is open. Anyone could've walked right in and stolen from me. </p>
+<p>(LADY HEATHER turns her head and looks directly at the mirror. She stands up and walks toward the mirror.)</p>
+<p><strong>Brass</strong>: Is it something I said?</p>
+<p>(LADY HEATHER continues to walk toward the mirror. She glances down at BRASS, but is more interested in speaking to the man standing behind the mirror.)</p>
+<p><strong>Lady Heather</strong>: (to GRISSOM) I'm disappointed in you. But not surprised. </p>
+<p>(She stops in front of the mirror. She looks into it as if knowing that GRISSOM is standing directly in front of her on the other side of the mirror.) </p>
+<p><strong>Lady Heather</strong>: (to GRISSOM) You fear me ... because I've committed the one unforgivable act.</p>
+<p><strong>Brass</strong>: No, it's more like two acts ... of murder.<br />
+(GRISSOM watches as LADY HEATHER lifts her head and, almost as if the mirror weren't there, she meets his eyes.)</p>
+<p><strong>Lady Heather</strong>: (to GRISSOM) I know you. And I know that in your heart, you don't believe I did this.</p>
+<p>(And almost as if the words came from GRISSOM himself, BRASS answers her.)</p>
+<p><strong>Brass</strong>: (b.g.) (over speaker) Lady Heather ... this has nothing to do with heart. It's all about the evidence.</p>
+<p>(For a moment, she doesn't move. She turns to look back at BRASS. Then she turns back to look at the mirror ... at GRISSOM.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(GRISSOM examines LADY HEATHER'S insulin injector.)</p>
+<p>(He takes the end off.)</p>
+<p>(He puts it down on the table. One by one, he inspects the six insulin bottles lined up on the table. On the fifth bottle, he notices that some of it is missing, the quantity is less than the other bottles. He visually compares it with the other bottles, there is definitely a noticeable difference.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - DNA LAB]</p>
+<p>(GRISSOM walks into the lab. GREG is looking through a scope. GRISSOM puts the samples on the table next to GREG.)</p>
+<p><strong>Grissom</strong>: Greg! I need you to process these right away. Priority.</p>
+<p>(GRISSOM turns to walk away. CATHERINE walks in and calls out to him.)</p>
+<p><strong>Catherine</strong>: Grissom!</p>
+<p>(GRISSOM looks at CATHERINE.)</p>
+<p><strong>Catherine</strong>: We got a problem.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. McCORMICK RESIDENCE - NIGHT]</p>
+<p>(REBECCA McCORMICK'S lifeless gaze looks into the camera from her position on the stairs. CATHERINE and GRISSOM walk up to the body.)</p>
+<p><strong>Catherine</strong>: Stranglings are intimate. Crime of passion.</p>
+<p>(GRISSOM turns around and looks at something in the kitchen that catches his attention.)</p>
+<p><strong>Grissom</strong>: Or not.</p>
+<p>(STEVEN McCORMICK casually pours himself a cup of milk and drinks it.)</p>
+<p>HARD CUT TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. McCORMICK RESIDENCE -- NIGHT]</p>
+<p>(STEVEN McCORMICK sits on the chair in the living room. CATHERINE walks over and sits in the chair facing him.)</p>
+<p><strong>Catherine</strong>: Mr. McCormick ... were you the one who found your wife?</p>
+<p><strong>Steven McCormick</strong>: Yes.</p>
+<p><strong>Catherine</strong>: On the stairs?</p>
+<p><strong>Steven McCormick</strong>: Yes.</p>
+<p><strong>Catherine</strong>: May I see your hands, please?</p>
+<p>(STEVEN McCORMICK holds out his hands, palms up. CATHERINE stands and examines them.)</p>
+<p><strong>Catherine</strong>: Other side. </p>
+<p>(STEVEN McCORMICK flips his hands over, palms down. When she's through, she sits back down.)</p>
+<p><strong>Catherine</strong>: They look clean.</p>
+<p><strong>Steven McCormick</strong>: Mmm. Shouldn't they be?</p>
+<p><strong>Catherine</strong>: I don't know. If it were my spouse, I would've touched the body.</p>
+<p><strong>Steven McCormick</strong>: Mmm. I didn't.</p>
+<p>(Behind them in the next room, GRISSOM processes the crime scene. He finds something embedded in REBECCA McCORMICK'S neck. He uses a tweezer and pulls it out. It looks like a piece of feather ... )</p>
+<p>CUT TO:</p>
+<hr />
+[INT. SAHARA SOUND STUDIO -- DAY]</p>
+<p>(DET. VEGA and SARA question CANDEECE.)</p>
+<p><strong>Candeece</strong>: Kiner is a drug dealer.</p>
+<p><strong>Sara</strong>: Your drug dealer.</p>
+<p><strong>Candeece</strong>: No. Not anymore. Eddie got me off all that stuff.</p>
+<p><strong>Det. Vega</strong>: You called Kiner. He came here.</p>
+<p><strong>Candeece</strong>: I tried to call Eddie. He had his phone off. He was with his pain-in-the-ass daughter and that psycho ex-wife of his. I was just alone in front of a microphone with my whole career riding on a demo.</p>
+<p>(Quick flashback to the night. CANDEECE and EDDIE argue in the rain.)</p>
+<p><strong>Candeece</strong>: It's none of your business.</p>
+<p><strong>Kiner</strong>: Hey, Eddie.</p>
+<p><strong>Eddie</strong>: What?</p>
+<p>(EDDIE turns around and KINER shoots. EDDIE doubles over.)</p>
+<p><strong>Eddie</strong>: Oh, my god!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Candeece</strong>: I thought Eddie wasn't coming. I guess he was just late.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY -- DAY]</p>
+<p>(GRISSOM and BRASS rapidly walk through the hallway. GRISSOM fills BRASS in on his latest discovery.)</p>
+<p><strong>Grissom</strong>: The material we found in Rebecca McCormick's wound was nylon thread with fragments of ostrich feather.</p>
+<p>(GRISSOM and BRASS glance at each other.)</p>
+<p><strong>Brass</strong>: Oh, I know that look. We're going back to Lady Heather's.</p>
+<p><strong>Grissom</strong>: I can take care of this myself.</p>
+<p><strong>Brass</strong>: Gil, do me a favor, get a sports car. It's a lot cheaper and easier to handle.</p>
+<p>CUE: (PRELAP) DOORBELL RINGING</p>
+<p>CUT TO:</p>
+<hr />
+[INT. LADY HEATHER'S DOMINION -- DAY]</p>
+<p>(LADY HEATHER opens the front door to GRISSOM.)</p>
+<p><strong>Grissom</strong>: I'd like to come in.</p>
+<p><strong>Lady Heather</strong>: Of course you would. Say the magic word.</p>
+<p>(BRASS steps into view.)</p>
+<p><strong>Brass</strong>: Warrant? (beat) We don't have one.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. LADY HEATHER'S DOMINION - ROOM -- DAY]</p>
+<p>(BRASS and GRISSOM stand inside one of the rooms with internet connection.)</p>
+<p><strong>Grissom</strong>: The, uh, submissive that was in here yesterday was wearing a feather boa.</p>
+<p><strong>Lady Heather</strong>: That would be Chloe.</p>
+<p><strong>Brass</strong>: Chloe, uh...?</p>
+<p><strong>Lady Heather</strong>: Chloe Samms. She uses it as a garrote -- a way to control her breathing to heighten the experience for the dominant client.</p>
+<p>(GRISSOM looks around the room and notices a pair of shoes with white stains near the bed. He picks it up and smells it. It smells familiar to him.)</p>
+<p><strong>Grissom</strong>: Hmm. Same scent as Trey Buchman's crime scene. Remember the strawberry foam? Do these belong to Chloe?</p>
+<p><strong>Lady Heather</strong>: Believe so.</p>
+<p><strong>Brass</strong>: Well, the shoes link Chloe to the nightclub and this job links Chloe to the two vics. Where is she?</p>
+<p><strong>Lady Heather</strong>: She quit yesterday.</p>
+<p><strong>Brass</strong>: I bet I know why. Well, if she's in town, I'll find her.</p>
+<p>(BRASS steps out of the room leaving GRISSOM and LADY HEATHER alone.)</p>
+<p><strong>Grissom</strong>: I owe you an apology.</p>
+<p><strong>Lady Heather</strong>: Apologies are just words.</p>
+<p>(LADY HEATHER leaves. Camera holds on GRISSOM.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAB -- DAY]</p>
+<p>(CATHERINE enters the lab. SARA is already there wrapping up the paperwork, evidence in packages around her.)</p>
+<p><strong>Catherine</strong>: So you're calling it?<br />
+(At the sound of her voice, SARA stops writing. She looks up and turns round.)</p>
+<p><strong>Sara</strong>: I got two liars and no murder weapon ... and no choice. I'm going to nail the singer on child endangerment and fleeing the scene, and the dealer goes up on possession for sale.</p>
+<p>(Although she doesn't like it, CATHERINE understands. She sighs.)</p>
+<p><strong>Catherine</strong>: What a great bedtime story for my little girl.</p>
+<p><strong>Sara</strong>: Cath, I did my best.</p>
+<p>(CATHERINE doesn't say anything.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY OUTSIDE INTERROGATION ROOM -- DAY]</p>
+<p>(GREG hands GRISSOM the test results. GRISSOM looks it over as he explains it.)</p>
+<p><strong>Greg</strong>: No-needle syringe used on the vic at the foam party. I recovered some epithelials from the plunger end, compared them to your reference sample. That girl you have in custody ... </p>
+<p>(CHLOE SAMMS sits inside the interrogation room behind them.)</p>
+<p><strong>Greg</strong>: ... it's her DNA. Case closed.</p>
+<p><strong>Grissom</strong>: Thank you, Greg.</p>
+<p>(GRISSOM turns around and enters the interrogation room. BRASS is already there. He closes the door.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. INTERROGATION ROOM - DAY -- CONTINUOUS]</p>
+<p>(GRISSOM sits down at the table. He puts a photo of the Vision(tm) injector on the table for CHLOE SAMMS to look at.)</p>
+<p><strong>Grissom</strong>: Look familiar?</p>
+<p>(CHLOE glances down at the photo. She doesn't say anything. She looks back up at GRISSOM.)</p>
+<p><strong>Grissom</strong>: Insulin was injected into Trey Buchman's shoulder at this end ... by you.</p>
+<p>(Quick flashback to the club. Music is blaring. CHLOE SAMMS dances her way to Trey Buchman, injects him, then dances away. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Your epithelials were found at the plunger end. Epithelials are skin cells filled with DNA - your genetic fingerprint.</p>
+<p>(GRISSOM puts the test results on the table.)</p>
+<p><strong>Brass</strong>: So, you're going to tell us why and you're going to tell us why you strangled Rebecca McCormick.</p>
+<p><strong>Chloe Samms</strong>: For Steven. I belong to him.</p>
+<p>(GRISSOM looks back at CHLOE, a bit surprised by this response.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. INTERROGATION ROOM -- DAY]</p>
+<p>(BRASS stands near the door and GRISSOM sits at the table as they question STEVEN McCORMICK.)</p>
+<p><strong>Steven McCormick</strong>: Chloe had a problem controlling her emotions. She let things get personal. </p>
+<p><strong>Brass</strong>: Define &quot;personal,&quot; in your crowd.</p>
+<p><strong>Steven McCormick</strong>: In my &quot;crowd&quot;?</p>
+<p><strong>Brass</strong>: Yeah.</p>
+<p>(Quick flashback to CHLOE and STEVEN kissing. Then STEVEN pushes CHLOE away and walks away from her. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: So you started seeing each other outside of Lady Heather's?</p>
+<p><strong>Steven McCormick</strong>: We'd meet occasionally, yes. Listen ... my wife had a problem with s*x.</p>
+<p><strong>Brass</strong>: Sounds like she had a problem with you, pal.</p>
+<p><strong>Steven McCormick</strong>: My wife had a problem with s*x. And at Lady Heather's, I fixed her.</p>
+<p><strong>Brass</strong>: Oh, you &quot;fixed&quot; her?</p>
+<p><strong>Steven McCormick</strong>: Yes.</p>
+<p><strong>Brass</strong>: She stay &quot;fixed&quot;? Yeah, you fixed her so good that she started spending your money to get other men to give her what you couldn't.</p>
+<p><strong>Steven McCormick</strong>: Rebecca was out of control.</p>
+<p><strong>Brass</strong>: So you got her to kill Richards and Buchman.</p>
+<p><strong>Steven McCormick</strong>: No, I didn't.</p>
+<p><strong>Brass</strong>: And then you told her to kill your wife.</p>
+<p><strong>Steven McCormick</strong>: No, I loved my wife. I didn't tell Chloe to do anything.</p>
+<p><strong>Brass</strong>: What happened?</p>
+<p><strong>Steven McCormick</strong>: She killed Richards and Buchman on her own.</p>
+<p><strong>Brass</strong>: Okay. </p>
+<p><strong>Grissom</strong>: Chloe thought that killing your wife's lovers would please you.<br />
+(beat) And it did please you.</p>
+<p><strong>Steven McCormick</strong>: I told her to stop.</p>
+<p><strong>Grissom</strong>: But she didn't obey you. She killed your wife. You couldn't make Chloe do what you wanted. All that time at Lady Heather's and you never learned that the submissive is the one in control?</p>
+<p><strong>Steven McCormick</strong>: I told her to stop.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. HALLWAY -- DAY]</p>
+<p>(Officers escort CHLOE SAMMS down the hallway. BRASS and STEVEN McCORMICK walk out of the interrogation room and into the hallway. CHLOE SAMMS looks back behind her to look at STEVEN.)</p>
+<p>(Camera holds on STEVEN McCORMICK.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[INT. WILLOWS' RESIDENCE -- NIGHT]</p>
+<p>(LINDSEY walks out of her room and down the hallway to her mother's room.)</p>
+<p>(CATHERINE is crying on her bed.)</p>
+<p><strong>Lyric</strong>: ... stay tonight / we'll watch the full moon rising ...</p>
+<p>(LINDSEY sits on the bed and puts her cheek on her mother's shoulder. She wraps her arms around her mom and brushes her hair soothingly with her fingers.)</p>
+<p><strong>Lindsey</strong>: (softly) It's okay, mommy. It's okay. It's okay.</p>
+<p><strong>Lyric</strong>: ... hold on tight ...</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. LADY HEATHER'S DOMINION - DRIVEWAY - NIGHT]</p>
+<p><strong>Lyric</strong>: ... the sky is breaking ...</p>
+<p>(The camera opens on the driveway outside The Dominion. The camera pans over to show a car parked in the driveway. GRISSOM sits inside his parked car. He looks at LADY HEATHER'S front door.)</p>
+<p><strong>Lyric</strong>: ... I don't ever want to be alone ...</p>
+<p>(He sits there behind the wheel looking at the front door. He sighs.)</p>
+<p><strong>Lyric</strong>: ... with all my darkest dreaming ... hold me close ...</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-Club Security: Go ahead. CLUB SECURITY: Turn around. CLUB SECURITY: Go ahead. CLUB SECURITY: Next.
-
-Club Security: Turn around.
-
-Woman: My kitty's pierced. 
-
-Woman: Want to see?
-
-
-
-
-DJ:  Party people ... Brothers and Sisters ... Angels and devils ... Virgins and Sinners ... let the foam take you away to your deepest desires. Cleanse yourself. There's no turning back now.
- 
-
-
-
-
-
-
-Brass: Ever been to a foam party?
-Grissom: What do you think?
-Brass: Things can get pretty wild.
-Grissom:  Evidently. You got an I.D. on this guy?
-Brass: Yeah, the deceased is Trey Buchman. Age 21. I got a Vegas I.D.
-Grissom: Eyewitnesses?
-Brass: Uh, too much foam. The party was over. Most of the &quot;responsible&quot; young adults had split.
-Grissom: It's amazing how the sight of blood can clear a room.
-
-Brass: Yeah. I'll tell you what we got. My guys are talking with the girl who found the body, but even sober, she's not going to be much help.
-Grissom: Wonder what made this wound? Looks like a puncture.
-Brass: Ice pick, maybe? 
-
-Brass: Well, wow. Tell you it's not for the money. I got about three grand here, all in c-notes.
-
-Grissom:  Proves the old adage.
-Brass: Which adage is that?
-Grissom: You can't take it with you.
-HARD CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
-Warrick:  Foam at the sinner's den ...
-
-
-
-Warrick: I hung out here a few times.
-Sara: Never been.
-Warrick: Your knucklehead boyfriend never took you on the party circuit?
-Sara: Uh, pass.
-Warrick: That's cool about Vegas. It's Monday: Rain at the Palms; Tuesday: Eden at studio 54; Wednesday: Raw at the Luxor; Thursday's Baby's ...
-
-CAMERA PANS TO:
-
-
-
-Owner: Hey, look. Some kid dropped dead. It's a shame. Kids O.D. all the time in nightclubs. They're big boys and girls. This ain't church.
-Brass: I understand that.
-Owner: You understand. You know the kind of rent I pay on a joint like this? Rain or shine, I owe the landlord fifty thou .
-Brass: You're breaking my heart, pal. Look, here's how this works. The more you cooperate, the sooner you'll be up and running.
-Owner: You don't get it.
-Brass: No, I get it. I got a daughter who's twenty, she hangs out. I don't want her to die in a place like this, so do me a favor, get me the VIP list for tonight ... and smarten up.
-
-
-
-
-
-
-Grissom: There's seminal fluid all over the place.
-Sara: Is this a dance club or a s*x club?
-
-Warrick: A little of both. Don't you love this town?
-
-Sara: Whatever you say, Superfly.
-
-Grissom: You guys smell that?
-
-Sara: Mm-hmm.
-Grissom: Smells like strawberries.
-Warrick: It's the foam. 
-
-Warrick: Reminds me of the Mirage. Steve Wynn didn't like the smell of the volcano erupting, so he changed the fuel mixture. Now it smells like a piña colada.
-
-
-Brass: Hey. I got a line on our vic. Trey Buchman, booked a room at The Sphere. E-wing, room 937.
-
-
-
-
-
-
-Sara: These people are freaks.
-
-Warrick:  Got a long dark hair.
-
-Sara: Vic had short hair.
-
-Grissom: One of our &quot;freaks&quot; wears pussycat pink.
-
-CUE:  PLAY NARRATOR: The battle was fierce ...
-
-
-
-
-Play Narrator:  ... The Evil Sorceress had powerful magic, but the Prince was brave and true. 
-
-
-Play Narrator:  Finally, the brave Prince slew the Sorceress-dragon and went to awaken his beloved Princess.
-
-Catherine: You're late, Eddie.
-Eddie: Don't start.
-Play Narrator:  He climbed the many stairs to the top ...
-
-Catherine: You know how much this meant to Lindsey?
-Eddie: Can we argue about this later, okay?
-
-Play Narrator:  Her eyes would open with true love's kiss.
-Eddie:  Hey! She's so beautiful. Give me that.
-
-Play Narrator:  The evil spell was finally broken.
-Catherine: Nice perfume.
-
-
-Lindsey: My ...
-
-Eddie:  Okay ... 
-
-
-Eddie: Fine. Is this okay?
-Play Narrator:  My prince ...
-
-
-Play Narrator:  My prince ... at long last, you've come for me.
-
-Lindsey:  My ... my - my prince ...
-Play Narrator:  ... at long last, you've come for me ...
-
-
-
-
-
-
-
-Catherine: I'm sorry, baby. You did good, though.
-Eddie: Yeah, you were fine, Linds. Good.
-Catherine: Hey, and you know what? It's just a play.
-Lindsey: No, it's not just a play. I was Sleeping Beauty and you guys ruined it.
-Catherine: I'm sorry, honey.
-Eddie: Hey, I'll bet if you ask Mrs. Parker, she'd let you keep that blue dress.
-Lindsey: I want to go home.
-
-Catherine: Okay. Let's go home.
-Lindsey: No, mom. I want to go with dad.
-
-Catherine: You sure about that? 
-
-Catherine: Okay.
-
-
-
-
-
-Robbins: Tox report on your foam guy came back negative.
-Grissom: Negative?
-Robbins: No drugs, no alcohol, no medication, not even an aspirin.
-Grissom: That's odd. It was a Den of Iniquity. 
- 
-Grissom: What about the neck wound?
-Robbins: The sternocleidomastoid muscle and the jugular vein were lacerated. 
-
-
-Robbins: The wound was a bloody mess, probably lethal.
-Grissom: Any idea what caused it?
-Robbins: Hard to say. Definitely an odd entry wound. Not a knife or sharp object ... probably something blunt, like a pen or a stake of some sort.
-Grissom: Anything else?
-Robbins: Check this out.
-
-Grissom: Looks like a bite. Spider bite or allergic reaction, maybe?
-Robbins: Stand by. I'll process the tissue in histopath, see if it's worth writing home about.
-
-
-
-
-Warrick: I was wondering where I put my nice silver satin thong.
-
-Grissom: Gloves.
-
-Grissom: Okay, we're looking for any kind of blunt object that could've been used to stab our victim in the neck.
-
-Warrick: Glow stick. Ball-point pen. Cell phone antenna. You have the luminol?
-
-Warrick: Thank you.
-
-Warrick: Nothing.
-
-Warrick: Are we sure it was a blunt object?
-
-
-Grissom: Size ten, double A.
-Warrick: Stilettos, huh? Brings out the toes, accentuates the legs. Murder on the ankles, though.
-
-Grissom: Looks like murder to me.
-
-
-
-
-
-Woman:  ... I'm on every club's VIP list ...
-SCENE #12
-
-
-Brass: Well, you got lucky. You're on my list now.
-Woman: I don't want to be on your list.
-Brass: Here, hold this.
-
-Brass: Nice shoes.
-Woman: Thank you.
-
-
-
-
-Grissom: Okay, this is the story. One of you lovely Cinderellas is missing a glass slipper and I'm playing the Prince. So would each of you remove your right shoe, please?
-
-Grissom: Doesn't fit.
-
-
-
-Grissom: Almost.
-
-Woman: Hi.
-
-Grissom: No.
-
-Grissom: Well, if the shoe fits ...
-Brass: ... wear it.
-
-
-
-
-
-
-Brass: Comfortable?
-Woman: So far. Thanks for asking. 
-Brass: You want to tell me how your shoe ended up in Trey Buchman's neck?
-
-Woman: I don't know. Last I remember, the foam was rising ... 
-
-Woman:  ... and my heel went into something ... soft ...
-
-Woman: ... thought it was someone's foot.
-Brass: Jugular. There's a slight difference. Do you want to tell me why you left your shoe behind?
-Woman: Heel broke.
-Brass: And the fact it had blood on it, that wasn't the reason?
-Woman: Never saw blood.
-Brass: I see. I did some checking -- because that's what I do -- and you and our victim had a relationship a while back.
-Woman: I've &quot;relationshipped&quot; about a dozen guys on the circuit, including Trey. Nothing ends -- we still all meet up at The Club.
-Brass: I see.
-
-
-Woman: ... and the way he gave it to me ... believe me, he's the last guy I'd want dead.
-
-
-
-Grissom:  Excuse me, Jim. Am I interrupting something?
-
-Brass:  Gil, please ... 
-
-Grissom: Miss ...
-
-Grissom: ... I'm going to need a sample of your DNA.
-Woman: How do you want it.
-Grissom: I like your hair.
-Woman:  I like yours.
-Grissom: Are you a, uh, natural blonde?
-
-
-
-Woman: Ow.
-Grissom: Sorry. I needed a follicular tag.
-
-Grissom: Thank you.
-
-Woman: &quot;Gil&quot;? Any chance you found my thong? Silver lamé, probably twisted in knots. 
-Grissom: Oh, yeah, we did. You'll need to fill out a form, though. The Captain will help you ...
-
-Grissom: ... Surely.
-
-
-
-
-
-
-(He dips the slide in a container of &quot;Haematoxylin&quot;, then he puts the slide in
-&quot;Acid Alcohol 1%&quot;, then in a container of &quot;Eosin&quot;.) 
-(He gently dries the slide. He puts it under the scope.
-
-
-
-
-
-
-Robbins: Hey, Gil?
-
-Robbins: Carmen?
-
-Grissom: Right after the murder.
-Robbins: Opera makes it all seem so lovely. And at the risk of sounding like your mother, you're going to ruin your eardrums.
-
-
-Robbins: Our victims tissue -- Trey Buchman. The, uh, circular contusions I sectioned, indicate damage extending only 30 microns below the epidermis.
-Grissom: So it's not a bug bite.
-Robbins: Man-made, high-pressure, subcutaneous injector.
-Grissom: No needle?
-Robbins: Simply high pressure penetrating the skin.
-
-Grissom: Did you send a sample to tox?
-Robbins: Our victim was injected with insulin.
-Grissom: Diabetic?
-Robbins: Nope.
-Grissom: So cause of death was insulin shock.
-Robbins: Insulin doesn't make for a narcotic or hallucinogenic high so I don't know why Buchman would take the stuff.
-
-
-
-
-
-Nick: Downstairs neighbor smelled it. Called the plumber.Yeah, they always think it's a sewage problem.
-
-Nick: Phew!
-
-Catherine: Eddie? Ed? Hello? Uh ... bad connection, Ed. Uh, I just entered a scene. I-I'll call you later.
-
-Nick: Whew. No pain, no gain. Purge fluid.
-Catherine: D.U.N.S.
-
-Nick: Dead Upstairs Neighbor Syndrome.
-Catherine:  Mm-hmm.
-Nick: Yeah, well, it's going to take us a while to get this smell out of our nose hairs.
-Catherine: Parchment changes of the skin. So what's the exposure to that window, south?
-Nick: East. Gets direct sunlight half the day. I learned that down in Lauderdale. You know, you've got to remember to turn.
-Catherine: Right, all that spring break activity with the frat brothers ... 
-Nick: Something like that. Nice little cocaine fingernail. So ... no mail built up. I don't see a telephone. What do you think? ... 
-
-Nick: ... Howard Hughes in a studio apartment?
-Catherine: Eddie? Ed?
-Nick: Now what's his deal?
-
-Catherine: Lindsey's with him. Maybe she's ready to come home.
-Nick: Yeah, I bet.
-
-
-
-
-
-Nick: How you doing?
-Catherine: Cash and a very busy passport ... designer threads. Ten-to-one, Croix Richards is a drug dealer. And that is no workout accident.
-(CATHERINE looks at the passport photo with the following information:
-[United States of America ID Card for Richard, Croix DATE OF BIRTH: 21 SEP/SEP 1970
-s*x: M PLACE OF BIRTH: LAS VEGAS, NV USA DATE OF ISSUE: 18 OCT/OCT 1998
-EXPIRATION DATE: 17 OCT/OCT 2008
-PASSPORT AGENCY / LAS VEGAS ]
-
-Catherine: Eddie? Eddie, you've got to get to a land line. This connection sucks.
-
-Lindsey: Mommy ... 
-Catherine: Lindsey?  I-I can't hear you.
-Lindsey:  Mommy ... please ... scared ... all alone. 
-Catherine: You're alone? Well, honey, where's daddy?
-
-Lindsey: Daddy... 
-Nick: You want me to just...?
-
-Catherine: Uh ...  uh, yeah, honey. Yes, yes, I'm coming.
-
-
-
-
-Lindsey:  Mommy, please! I'm scared... all alone! ... 
-
-
-
-Lindsey:  We hit something.
-Catherine: It's going to be okay, honey. I'm on my way.  Do you know where you are.
-
-
-Lindsey: I don't know. There's lots of water, mommy!
-Catherine: Are you near a lake? Are you near grandma's house?
-Lindsey: No, the water's in the car?
-Catherine: In the car?  Lindsey, can you get out?
-Lindsey:  No.
-Catherine: It's going to be okay, honey. Just listen to me. Before the car crashed, where were you going?
-Lindsey: Daddy said the hospital.
-Catherine: On the way there, did you see any hotels?
-Lindsey: I saw the castle.
-Catherine: Excalibur. Did you see, did you see the pyramid?
-Lindsey: Yeah.
-Catherine: Industrial Road? Is that, is that it? Lindsey, is it industrial road?
-
-Lindsey: There was a bridge. We went through a fence. 
-Catherine: Lindsey? Lindsey!
-
-
-
-
-
-
-Catherine: Lindsey? Lindsey!
-
-Lindsey:  Mommy!
-Catherine: Hang on, honey!
-
-Lindsey: Mommy! Hurry!
-
-Catherine: I'm here, honey.
-Lindsey:  Mommy!
-Catherine: I'm going to get you out. Hang on.
-
-Catherine: Okay. Listen. I have to break the window, okay? You've got to move to the front.
-Lindsey: Mommy, I can't! I can't. I'm scared!
-Catherine: Okay, I'm going to come around, okay? I'm coming around.
-Lindsey: Please, mommy.
-
-Catherine: I'm here, Lindsey. I'm going to go down. I'm going to go down.
-
-Lindsey: No, mommy! No!
-
-
-Catherine: You all right? You okay?
-Lindsey:  Mommy.
-Catherine: Yes? I got you. Hold on.
-
-
-
-
-
-
-
-
-Lindsey: The lady who was driving had pink hair. I don't remember her name.
-Det. Vega: But Lindsey, it was your father's car. Why wasn't he driving it?
-Lindsey: He had a stomachache.
-
-Pink-haired Woman: Hang on. We'll get to the hospital.
-Eddie: I can't make it.
-
-Lindsey: The lady got out and then daddy fell out. He didn't come back.
-
-Det. Vega: Catherine? 
-
-Det. Vega:  Is Eddie the kind of guy that would leave his daughter abandoned in the back of a car?
-Catherine:  Never, never, never, no. He loves Lindsey. He'd never do that. Not willingly.
-
-Catherine: Be careful with my car, boys.
-
-Lindsey: Mom?  He's dead, isn't he?
-
-Catherine: I don't know, baby. I ... I'm going to go look for him, though. I'm just going to be right over there.
-
-Sara: Okay, that's enough. 
-Catherine: I want you to stay here with Detective Vega. Okay?
-
-Det. Vega:  How you doing? Want some cocoa or something?
-
-
-
-Sara: Drugs.
-Catherine: Knowing Eddie's taste in women, I'd say that's a good bet.
-Sara:  You shouldn't be handling evidence. You're not on the case.
-
-
-
-
-
-Robbins: Stop it right there.
-
-Nick: Hey, Doc.
-Robbins: Hey.
-Nick: I thought I'd come and get an update on ... Stinky here. Whew! Wow, that's horrible.
-Robbins: I'm generally immune to the stench of a decomp, but, uh, two weeks of decay still tickles the vibrassae of my nasal vestibule.
-Nick: Yeah, I'll say. Hey, what's the foreign body lodged in his femur?
-Robbins:  Crank up the milliamps.
-
-Nick: Whiter than bone. Dense like a metal. What exactly are we looking at?
-Robbins: Let's find out.
-
-Nick:  Whew!
-
-Robbins: I feel like Androcles pulling the thorn from a lion's paw.
-
-Nick: Looks like the tip of a needle.
-Robbins: It probably broke off when it hit the bone.
-
-WHITE FLASH TO 
-
-
-
-Brass: I've started to see into the future. Thanks to credit card reports, I see that our phone victim booked a room at the Tangiers for tonight.
-Grissom: He was staying at The Sphere.
-Brass: Two hotel rooms in one night. He was a busy boy.
-
-
-
-
-
-Rebecca McCormick: Hello.
-Warrick: Hello.
-Rebecca McCormick: You're late. Not-not that I mind. 
-
-Rebecca McCormick: There's two of you? 
-Warrick: We work as a team.
-
-Rebecca McCormick: What's in the kit?
-Grissom: Latex gloves, cotton swabs, specimen jars, other evidence-gathering stuff.
-Rebecca McCormick: Wait a minute. Uh, what's going on here?
-
-Grissom: You tell us.
-Rebecca McCormick: Oh, my god. You guys are cops.  I'm, um ... I'm really embarrassed. I've never done anything like this before. I swear.
-Grissom: This room is registered to Trey Buchman. Who are you?
-Rebecca McCormick: Do we have to do names?
-Warrick:  Uh-huh.
-Rebecca McCormick: Rebecca McCormick.  Am I under arrest?
-Grissom: Not yet ...
-
-
-
-
-
-Grissom: Hey. 
-Nick: Cracked my D.B.'S laptop. Got his appointment book.
-&quot;; and
-&quot;Rachel .
-Grissom: Women's names. Hotels. Blocks of time.
-Nick: You know, Croix had this sweet apartment and this wad of cash. We thought he was selling drugs.  He was selling himself.
-Grissom: Gigolo.
-Nick: Paid to get laid.
-Grissom: So was mine. Two victims, same profession.
-Nick: Ooh.
-Grissom: What about the needle you found in the decomp?
-Nick: The micrometer pegged it as a 30-gauge. 
-Grissom: Insulin dependents use needles that thin.
-Nick: Well, the decomp's too severe. We'll never get anything out of tox or the needle.
-Grissom: I think we're working the same case.
-
-Nick:  Well, good thing my gigolo was organized. He used accounting software to keep track of his finances.
-Grissom: Employment history?
-
-
-
-DOORBELL RINGS 
-
-
-
-Lady Heather: Mr. Grissom, Captain Brass,
-
-Lady Heather: So nice to see you again.
-Brass: Good to hear things haven't changed around here.
-Lady Heather: I see you haven't changed, either.
-
-Brass: Trey Buchman, Croix Richards.
-(In addition to Croix Richard's Passport ID info, Rey Buchman's Nevada Driver's License is also on the sheet with the following information:
-[Nevada Driver License
-283266066733
-555-66-7777
-050492
-R360021
-BUCHMAN, TREY
-2974 WESTFALL AVE. LAS VEGAS NY 89156
-Class: C s*x: M Height: 5-10
-Weight: 143
-Hair: Blk Eyes: Grn DOB: 11/13/81
-Expiration date: 05/15/05 ]
-Lady Heather: They're both on my payroll. Hard workers, quite skilled.
-Brass: They're deceased.
-Lady Heather: They'll be missed.
-Brass: Last year, you lost Mona Taylor. Now, two more employees. It's a risky business.
-Lady Heather: Accusation?
-Grissom: It's an observation.
-Brass: These guys traded in s*x, and I know you don't allow intercourse in your domain. Now, that is an accusation.
-Lady Heather: I profit from the theatrics of pleasure, allowing people to play out their fantasies. Trey and Croix were independent contractors.
-Grissom: Lady Heather, what services did they provide?
-
-
-
-
-
-Woman: Bad little pig boy. Bad, bad, bad. ... You naughty, bad pig. Oinky, sloppy pig.
-
-
-
- 
-
-Man:  You're right. I deserve to be punished.
-Woman: &quot;Mommy&quot; says no. I said, no.
-
-
-
-
-Woman: Oh ... who needs the belt?
-
-
-
-
-Woman: Say you're sorry.
-Man: I'm sorry.
-
-Lady Heather:  My dominion is also my domain. Ladyheather.com.
-Brass: So, Buchman and Richards were down here doing internet p0rn, huh?
-Lady Heather: Not p0rn. Voyeurism in a Brave New World.
-Grissom: What would Aldous Huxley say?
-Lady Heather: Well ... if his credit card were valid, he could say anything he wanted at $3.95 per minute.
-
-Lady Heather: Do you like my lipstick?
-
-Grissom:  Why?
-Lady Heather: You've been staring at my lips.
-Grissom: You have lovely lips.
-
-Brass:  And a very successful business. Thanks. Thanks for your time.
-
-Lady Heather: See you soon.
-
-
-
-
-
-Det. Vega: So, after your recital, where did your dad take you?
-Lindsey: Leatherbey's. He got me a banana split. 
-Det. Vega: I like whipped cream on mine ...
-Catherine:  Did he have anything to drink? Did he have a beer, a glass of wine?
-
-Lindsey:  Just water.
-
-
-
-(Cut back to the Lounge. SARA watches CATHERINE.
-Sara:  So, it was just the two of you?
-
-Det. Vega: This lady you told us about -- the one who was driving, the one with the pink hair -- where did you meet her?
-
-Lindsey: I don't know.
-Catherine:  You remember, Lindsey. Just think about it.
-
-Lindsey: I fell asleep in the car, and I woke up when we stopped.
-Det. Vega: Was this at a house?
-Lindsey: No. It was a building.
-Sara: Was it an apartment building ... maybe ... or maybe an office building?
-Lindsey: I don't know.
-Catherine: Why did you stop there?
-
-
-
-
-Lindsey: Daddy said he had a meeting. He told me to stay in the car and keep the doors locked.
-Catherine: You mean he left you in the car alone.
-Sara: Catherine ...
-Lindsey:  Mom, mom, it's okay. I said I could take care of myself. I told him I could stay in the car. Just don't be mad at him. He didn't do anything wrong.
-Sara: It's okay, Lindsey. Nobody's mad at anybody.
-
-Sara:  Can I talk to you for a second?
-
-
-Sara:  It's okay.
-
-
-
-Det. Vega: This lady was at the building?
-
-Lindsey: She was outside in the parking lot.
-
-Candeece: Eddie.
-Eddie: Candeece! Baby!
-Candeece: Where were you?
-
-Eddie: What's the matter, honey? Sugar, what's the matter with you?
-
-Sara: This lady with the pink hair -- was she your father's girlfriend?
-
-
-Candeece: I called you a million times! What are you talking about? Why didn't you answer your phone?
-
-Lindsey: Maybe. Well, he was mad at her. And then they, they were running back to the car. Daddy was holding his stomach.
-
-Lindsey: Daddy, what's wrong?
-Eddie:  It's just a stomachache, honey. I'll be fine.
-
-
-Catherine: Willows.  Yeah.
-
-
-
-
-
-
-;
-
-
-
-
-
-
-Robbins:  Catherine, you can't say good-bye in an autopsy room.
-
-
-
-
-
-Grissom: Hi, uh ... 
-Catherine:  Croix Richards and Trey Buchman. Same profession, same employer, same cause of death.
-Grissom: Yeah. Insulin poisoning.
-
-Catherine: Not your typical male M.O. Lady Heather a suspect?
-Grissom: I can't rule anybody out. Catherine ... I'm sorry about Eddie and your daughter. If, if you'd like to take some time off or ... 
-Catherine: I'm okay. Lindsey's ...  ... We're okay.
-
-Nick: Hey, Catherine.
-
-Warrick: Hey. We heard about what happened. I'm so sorry.
-Nick: Yeah, if you or Lindsey need anything at all ...
-Catherine: Thanks, you guys. 
-Nick: Yeah.
-Catherine: Why don't you catch us up.
-Warrick: Yeah.
-
-
-Nick: Credit card transactions for Lady Heather's web site. Both our victims worked in the chat room. We cross-referenced their clients.
-Warrick: They're all ladies.
-Nick: And looks like both victims died approximately four weeks apart.
-Warrick: Killers usually don't stray too far from home. 
-Catherine: Especially for repeat crimes.
-Warrick: Yeah, I'm squeezing the Las Vegas search area.
-
-
-
-
-
-Leah: Got a vial full of blue boogers.
-Sara: GHB with food coloring. That's a date rape drug.
-Leah: Not anymore. You mix it with the right stimulant, like meth, you got a great party drink.
-Sara: Everyone's a chemist. Thanks.
-
-
-
-
-
-Grissom: You know, we found a dark hair in Trey Buchman's hotel room at the sphere.
-Warrick: I'll exclude everyone with light hair.
-Grissom: Whoa. Stop.
-(The Nevada Driver's License that catches GRISSOM eye is:
-[LIC#: 0200794032
-111-11-1111
-11-09-1999
-REBECCA McCORMICK, DRIVERS LICENSE # AA1529120
-235 DESERT RANCH ROAD LAS VEGAS NV 89701
-CLASS: C s*x: F HEIGHT: 5'5&quot;
-WEIGHT: 121
-HAIR: BROWN EYES: BROWN BIRTHDATE: 03-05-1970
-EXPIRATION DATE: 03-05-2004
-ORGAN DONOR ]
-Warrick: Huh. Rebecca McCormick. 235 Desert Ranch Road. &quot;First time&quot;, my ass.
-
-
-
-
-
-Steven McCormick: Hi. Sorry to keep you waiting. So, what can I do to help out the Las Vegas Crime Lab?
-Grissom: You could tell us about your relationship with Croix Richards.
-Steven McCormick: Well, uh, I hired Croix Richards to Dominate Rebecca. Would you like a chocolate?
-
-Rebecca McCormick: Uh, they're Godiva.
-Catherine: No, thanks.
-
-Steven McCormick: I guess you could say that Mr. Richards worked for me. We were hoping that he might help ease some of Rebecca's sexual difficulties.
-Catherine: Extra-marital s*x to help your relationship problems?
-Steven McCormick: The problem wasn't with our relationship, it was with my wife's lack of experience.
-Grissom: Which Mr. Richards helped you with?
-
-Rebecca McCormick: Yes.
-
-Steven McCormick: First over the internet and then we, uh, we met with him a few times.
-Grissom: We?
-Steven McCormick: Yeah, yes.
-
-Steven McCormick: I participated in the sessions, yes.
-
-Croix Richards: Do you take this man to be your wedded husband? Love honor and obey.
-Steven McCormick: Say it!
-
-Grissom: And these sessions were held at Lady Heather's?
-Steven McCormick: Yes. Lady Heather thought it would be best if I was involved. I'm sure secrets would've made the problem worse, at that point.
-Catherine: Mrs. McCormick, did you meet Trey Buchman at Lady Heather's? 
-
-Steven McCormick: Oh, I'm sorry, who?
-Grissom: He worked for Lady Heather as well. He's also dead.
-Steven McCormick: Oh ... I don't know who Trey Buchman is.
-Grissom: Your wife does.
-
-Steven McCormick: Oh. 
-
-Rebecca McCormick: I met Trey on Lady Heather's web site. Our encounters were only on-line. 
-
-Rebecca McCormick: Like this? Is this okay?
-Trey Buchman: No, it's not okay! Don't you know how to listen, you stupid bitch?!
-
-Grissom: And the night you and I met at the Tangiers?
-
-Rebecca McCormick: Croix was fun. Uh, I wanted more experience. Variation. I made a date with Trey. He never showed up.
-Catherine: Well, Mrs. McCormick, I'd like to get a sample of your hair and DNA for comparison.
-
-Steven McCormick:  Rebecca will give you anything that you need.
-
-
-
-
-
-
-
-
-
-
-
-
-
-Recording Studio Owner: Yeah, I can put you in touch with her Manager, Eddie Willows. Guy owes me a call. Make that five calls. If you talk to him, tell him he's got, like, eight hours of studio fees due. The penalties are running, okay?
-Sara: We've already seen him. He's in the morgue.
-Recording Studio Owner: Oh, that makes sense why he wasn't here last night. High-strung singer, no manager, that's always trouble.
-
-Candeece:  A trail of tears / it takes me back to all my fears... 
-
-Candeece:  I hate this! This sucks! Okay?
-
-Candeece: Where is Eddie? I need Eddie here.
-Recording Studio Owner: Get back in the booth.
-Candeece:  Can I have a little privacy, please? Would you go in there and learn how to do your job? It sounds terrible in there, anyways.
-
-Sound Engineer: She started ragging on me. I didn't need the hot air, so I came back in.  That's a cut, Enrique. Let's take it from the bridge.
-Recording Studio Owner: Eddie was just in it for the quick score. Cut a demo, sell a contract, get a ride on the charts and you just ride that wave.
-Sound Engineer: This girl was different.
-Recording Studio Owner: Yeah, he was banging her.
-Sound Engineer: Yeah, but he had something for her, knowing how much potential she had. I never seen Eddie so dedicated. Nothing was going to stop him from making her a star.
-Det. Vega: Except maybe a .22 round in his gut.
-Sound Engineer:  Stop, stop, stop. That's a cut, Enrique.
-Recording Studio Owner: Whoa. It sounds good from where I'm standing-- what's up?
-Sound Engineer: The problem isn't the vocals, man, it's the extra bass line I keep getting from the village people outside with that damn jackhammer. 
-
-Sound Engineer:  All right, let's pick it up from the second chorus.
-Sara: Aren't recording studios supposed to be soundproof?
-Recording Studio Owner: Lady, if the guy standing next to you is Clive Davis, instead of a cop, it would be.
-Sara: After Candeece left, did you guys keep recording?
-Recording Studio Owner: Um, yeah, a few more hours. We were redoing a drum track.
-
-Det. Vega: We're going to need to take a look at those tapes.
-
-
-
-
-Warrick: Okay, the hair on the left is from Trey Buchman's room at The Sphere hotel. The hair on the right is a sample we took from Rebecca McCormick. Cuticles on both are shiny and smooth. Telltale signs the hair has been treated. 
-
-Warrick: The cortex isn't letting any light through. It lets us know the hair's been colored. The medullas are continuous. I can't be definitive without DNA, they look like Rebecca McCormick's.
-
-Catherine: So she lied to you guys at the hotel, she lied to us at the house. She's been with him, not just online.
-Grissom: But her husband only knew about the guy he hired, Croix Richards. He had no idea that she hired Trey Buchman.
-
-
-
-
-Lady Heather: Steven McCormick wanted his wife to have a session. It's not uncommon. When a client achieves liberation, they often want their spouse to share that feeling. Though in this particular instance I advised the husband to pursue avenues more suited to the temperament of his marriage.
-
-Grissom: I guess you couldn't say no. I learned that Mr. McCormick is an investor in your internet site.
-Lady Heather: That's a matter of public record.
-Grissom: Did he ever tell you, specifically, what his wife's problem was?
-Lady Heather: The fault lay not in his wife, but in himself. Steven believed his wife was repressed, but once she opened up ... 
-Grissom: A Pandora's box? All the evils of their marriage unleashed?
-
-Chloe Samms: May I?
-Lady Heather: You may.
-Chloe Samms: Thank you, Lady Heather.
-
-Lady Heather: Steven came to me three years ago in a state of confusion. I helped him clarify his need for dominance.
-
-Lady Heather: You will control her only as well as you can read her.
-
-Lady Heather: Now read.
-
-
-
-Lady Heather: Our work enabled him to marry.
-Grissom: But he chose a woman who didn't understand the dynamics of a Dominant-submissive relationship.
-Lady Heather: Unfortunately, the language we speak in here doesn't necessarily translate to the world out there.
-
-Grissom: No, in here, the submissive has the power. All he has to do is say the safety word and everything stops.
-Lady Heather: Very good, Mr. Grissom.
-
-Grissom: I'm just repeating what I've heard.
-Lady Heather: You're a good listener.
-Grissom: Part of the job.
-Lady Heather: So this is work?
-Grissom: Yes. But I value your insight.
-Lady Heather:  .... you watch my lips. Are you losing your hearing?
-Grissom: I'm losing my balance.
-Lady Heather: Your sense of self?
-Grissom: No. I know who I am.
-Lady Heather: Do you?
-Grissom:  Yes, I do. 
- 
-Grissom: You can always say stop.
-Lady Heather: So can you.
-
-
-
-
-
-
-
-
-
-Candeece: Eddie's my manager. It's no big secret. We were supposed to be working last night, and the jerk blew me off.
-Det. Vega: So you never saw him last night?
-Candeece: No.
-Sara: What happened to your wrist?
-Candeece: Oh, uh ... I got, uh ... um ... because, uh ...
-Sara: According to Desert Palms Emergency Room, you came in last night with a fracture of the ulna. It's a common injury in car accidents -- air bag specific.
-
-
-Sara:  Air bags are packed with cornstarch or talc. It helps them deploy. It also wreaks havoc on the eyes.
-Det. Vega: We know you saw Eddie last night. We know that you were driving his car.
-Candeece: It all happened so fast, you know? One minute I was, I was just outside getting some air and thinking, you know? And then... the next, my manager is stumbling towards me, bleeding.
-
-Eddie: Candeece, baby, I'm shot!
-Candeece: Eddie! Oh, my god! I'll get you in the car. 
-
-Candeece:  Everything's going to be okay, honey. Okay, don't be afraid.
-
-Sara: Sounds pretty heroic.
-Candeece: Not really. When you're intimate with somebody, you can't imagine life without them. We were partners. I loved him. I thought I was going to die.
-Sara: There were two other people in the car.
-Candeece: That's what I meant, you know? I thought we were all going to die.
-Det. Vega: Search and Rescue found Eddie's body 100 yards downstream.
-Sara: See, that's where it gets a little less heroic -- we found Lindsey alone in a sinking car.
-Candeece: I tried to get Eddie out. He was unconscious, and that ... that kid kept screaming ... and ... the current was really strong and we got swept downstream. What was I supposed to do?
-Sara: Get to a phone, call the cops, call an ambulance, anything, actually ... other than what you did.
-Candeece: I am just one person. Eddie is my priority, not that ... that stupid, screaming little brat.
-
-Candeece: I tried, I ... 
-
-Catherine: You even think about my daughter again, I'll kill you. I will kill you. 
-Sara: Catherine. 
-Catherine: I will hunt you down and put ... I will put you in the ground!
-Sara: Catherine?
-
-Candeece:  You saw that. She threatened me! I want a lawyer.
-
-
-
-Sara: What the hell are you doing? Do you know where you're at right now?
-Catherine: I've been here a lot longer than you ... 
-Sara: And you should know better.
-Catherine: And I wouldn't have to be here if you were doing your job properly.
-Sara: There is a difference between me doing my job and you wanting to do it for me. You don't want to get the job done. What you want, right now, is revenge.
-Catherine: You're going to tell me what I want, huh?
-Sara: Go home, Catherine. Be with your daughter. She's the one that needs you.
-
-
-
-
-
-Grissom: What did you consider this? A little civility before work, I think?
-Lady Heather: ... or a ritual to put us at ease. Or how about &quot;in custom and ceremony, are innocence and beauty born.&quot;
-Grissom: Yeats ... &quot;Prayer For My Daughter.&quot;
-Lady Heather: Or our morning.
-Grissom: Cream?
-Lady Heather: Please.
-
-Lady Heather: Thank you.
-Grissom: Sugar?
-Lady Heather: I'm diabetic.
-
-Grissom: Type 1?
-Lady Heather: Mm-hmm. 
-Grissom: Injections?
-Lady Heather: Used to mean injections. I changed to a pressure syringe.
-
-Grissom: Recently?
-Lady Heather: Mm-hmm, a few weeks ago. Oh, it's a fascinating instrument; would you like to see it?
-Grissom:  Yes, I would ... 
-
-Grissom: ... But I'm afraid I'll need a warrant. 
-
-Grissom: Excuse me. 
-
-Grissom: 
-I'm already there. I'll wait.
-
-Lady Heather: I think I just heard you say &quot;stop.&quot;
-
-
-
-
-
-Brass: You lied to us, Mrs. McCormick. You said you only engaged in on-line s*x with Trey Buchman.
-Warrick: Your hair has a similar morphology to the hair that we found in Mr. Buchman's hotel suite.
-Rebecca McCormick: Well, &quot;similar&quot; doesn't mean me.
-Warrick: No, but the DNA we also recovered from under the sheets does mean you.
-Brass: Sounds like a physical encounter to me.
-Rebecca McCormick: So ... since I pay for s*x, I must also be a murderer?
-Brass: No, it's just that everybody you pay for s*x ends up dead.
-Rebecca McCormick: I don't like you.
-Brass: Well, I guess I'll have to live with that.  Here's something else you might not like. Two months ago, your bank records show cash withdrawals totaling
-$50,000.
-Warrick: The same amount that we found in Croix Richards' apartment.
-Rebecca McCormick: Croix wasn't even half that good. Of course, that's still better than my husband.
-
-Brass: You used to work for Latona Pharmaceuticals, right? 
-Rebecca McCormick: Years ago.
-Brass: You sold synthetic insulin.
-Rebecca McCormick: All right. Mm-hmm. We've had our fun, but I'm stopping it now. Any other question you have can be directed to my lawyer.
-
-
-
-
-
-Archie: Well, modern recording's all digital. Each track's recorded in a separate data file. By looking at the file modification times, we can approximate which tracks were recorded near the time of the shooting.
-Sara: Catherine left Eddie at 5:30 P.M. Lindsey's first call was logged in at
-10:55.
-Archie: Let's see, well ... only two tracks were laid down during that time interval. &quot;7:41: Acoustic guitar ... 10:38: Drum track.&quot;
-Sara: Let's look at the drum track.
-
-Archie: There's the kit drum.
-Sara: So any irregularity in the pattern could be from an outside source.
-Archie: Yeah. Right here. A sudden change in amplitude.
-Sara: Can you isolate it?
-Archie: Yeah.
-
-Sara: Sounds like gunfire.
-Archie: I'll play it again.
-
-Archie: Let me take out the drums.
-
-Sara: What is that?
-Archie: Feels like an engine. V-twin, maybe. Must have been somebody else there. You think we got a witness?
-Sara: Or a suspect.
-
-Vega: Hey ... I was able to pull the phone records for Candeece. She made six calls that night. The first five went to Eddie.
-Sara: But not the last one. You got an address?
-
-
-
-
-Kiner:  I get all kind of calls. It could've been a girl that I slept with. Or a girl that I didn't sleep with. Could've been a wrong number. 
-
-Det. Vega: Since when do wrong numbers last for four minutes?
-Kiner: You hear a sexy voice on the phone, what are you gonna do, you gonna hang up?
-
-Det. Vega: So you do remember the call.
-Sara: I like your Harley.
-
-Det. Vega: Look, Kiner, you're on parole; you got no rights looking at two strikes. I'm not trying to pull a fast ball on you, but it's not the first time you've talked to Candeece.
-Kiner: So maybe me and Candy are friends.
-Det. Vega: Were friends. You guys used to talk once a day. Then she stopped calling you, until last night.
-Kiner: People change. Fell into a bad element.
-
-Sara: Mr. Kiner, do you own this house?
-Kiner: My father left it to me.
-Sara: Your father have a drug problem? We found GHB in your garage. &quot;Georgia home boy.&quot; 
-Det. Vega: Tell us what happened with Eddie.
-Kiner: Candy needed &quot;help.&quot;
-
-Eddie: Hey, hey, hey!  What are you doing? I wanted you clean. Hey, please ... what do you want, huh? This what you want?
-
-
-Kiner: I got on my hog. I got the hell out of there. What do you expect me to do? Go back to the joint for her?
-
-Det. Vega:  Cuff him.
-
-
-
-
-
-Brass: Quid pro quo, right? Steven invests in your business, you kill the two guys who are messing around with his wife.
-Lady Heather: I could help you, Mr. Brass ... with your inadequacy.
-Brass: You know, I'd like that, Lady H. It's tough being me. I'd like to feel more secure in my role as a homicide detective. 
- 
-Brass: You know what really gets me wild? The truth. Are you up for that?
-
-Lady Heather:  Mr. Grissom collected samples of my insulin. He's undoubtedly identified it as non-synthetic.
-Brass:  He told me it was beef insulin.
-Lady Heather:  Which, I take it, matches the insulin found in the two victims.
-Brass:  Do you know that only seven percent of diabetics in this country use an animal-based insulin? They import yours from Great Britain.
-Lady Heather:  Which narrows the field down even further.
-Brass:  Right into your dominion.
-Lady Heather: My personal area is open. Anyone could've walked right in and stolen from me. 
-
-Brass: Is it something I said?
-
-Lady Heather:  I'm disappointed in you. But not surprised. 
- 
-Lady Heather:  You fear me ... because I've committed the one unforgivable act.
-Brass: No, it's more like two acts ... of murder.
-
-Lady Heather:  I know you. And I know that in your heart, you don't believe I did this.
-
-Brass:  Lady Heather ... this has nothing to do with heart. It's all about the evidence.
-
-
-
-
-
-
-
-
-
-
-
-Grissom: Greg! I need you to process these right away. Priority.
-
-Catherine: Grissom!
-
-Catherine: We got a problem.
-
-
-
-
-Catherine: Stranglings are intimate. Crime of passion.
-
-Grissom: Or not.
-
-
-
-
-
-
-
-
-Catherine: Mr. McCormick ... were you the one who found your wife?
-Steven McCormick: Yes.
-Catherine: On the stairs?
-Steven McCormick: Yes.
-Catherine: May I see your hands, please?
-
-Catherine: Other side. 
-
-Catherine: They look clean.
-Steven McCormick: Mmm. Shouldn't they be?
-Catherine: I don't know. If it were my spouse, I would've touched the body.
-Steven McCormick: Mmm. I didn't.
-
-
-
-
-
-Candeece: Kiner is a drug dealer.
-Sara: Your drug dealer.
-Candeece: No. Not anymore. Eddie got me off all that stuff.
-Det. Vega: You called Kiner. He came here.
-Candeece: I tried to call Eddie. He had his phone off. He was with his pain-in-the-ass daughter and that psycho ex-wife of his. I was just alone in front of a microphone with my whole career riding on a demo.
-
-Candeece: It's none of your business.
-Kiner: Hey, Eddie.
-Eddie: What?
-
-Eddie: Oh, my god!
-
-Candeece: I thought Eddie wasn't coming. I guess he was just late.
-
-
-
-
-Grissom: The material we found in Rebecca McCormick's wound was nylon thread with fragments of ostrich feather.
-
-Brass: Oh, I know that look. We're going back to Lady Heather's.
-Grissom: I can take care of this myself.
-Brass: Gil, do me a favor, get a sports car. It's a lot cheaper and easier to handle.
-CUE:  DOORBELL RINGING
-
-
-
-
-Grissom: I'd like to come in.
-Lady Heather: Of course you would. Say the magic word.
-
-Brass: Warrant?  We don't have one.
-
-
-
-
-Grissom: The, uh, submissive that was in here yesterday was wearing a feather boa.
-Lady Heather: That would be Chloe.
-Brass: Chloe, uh...?
-Lady Heather: Chloe Samms. She uses it as a garrote -- a way to control her breathing to heighten the experience for the dominant client.
-
-Grissom: Hmm. Same scent as Trey Buchman's crime scene. Remember the strawberry foam? Do these belong to Chloe?
-Lady Heather: Believe so.
-Brass: Well, the shoes link Chloe to the nightclub and this job links Chloe to the two vics. Where is she?
-Lady Heather: She quit yesterday.
-Brass: I bet I know why. Well, if she's in town, I'll find her.
-
-Grissom: I owe you an apology.
-Lady Heather: Apologies are just words.
-
-
-
-
-
-Catherine: So you're calling it?
-
-Sara: I got two liars and no murder weapon ... and no choice. I'm going to nail the singer on child endangerment and fleeing the scene, and the dealer goes up on possession for sale.
-
-Catherine: What a great bedtime story for my little girl.
-Sara: Cath, I did my best.
-
-
-
-
-
-Greg: No-needle syringe used on the vic at the foam party. I recovered some epithelials from the plunger end, compared them to your reference sample. That girl you have in custody ... 
-
-Greg: ... it's her DNA. Case closed.
-Grissom: Thank you, Greg.
-
-
-
-
-
-Grissom: Look familiar?
-
-Grissom: Insulin was injected into Trey Buchman's shoulder at this end ... by you.
-
-Grissom: Your epithelials were found at the plunger end. Epithelials are skin cells filled with DNA - your genetic fingerprint.
-
-Brass: So, you're going to tell us why and you're going to tell us why you strangled Rebecca McCormick.
-Chloe Samms: For Steven. I belong to him.
-
-
-
-
-
-Steven McCormick: Chloe had a problem controlling her emotions. She let things get personal. 
-Brass: Define &quot;personal,&quot; in your crowd.
-Steven McCormick: In my &quot;crowd&quot;?
-Brass: Yeah.
-
-Grissom: So you started seeing each other outside of Lady Heather's?
-Steven McCormick: We'd meet occasionally, yes. Listen ... my wife had a problem with s*x.
-Brass: Sounds like she had a problem with you, pal.
-Steven McCormick: My wife had a problem with s*x. And at Lady Heather's, I fixed her.
-Brass: Oh, you &quot;fixed&quot; her?
-Steven McCormick: Yes.
-Brass: She stay &quot;fixed&quot;? Yeah, you fixed her so good that she started spending your money to get other men to give her what you couldn't.
-Steven McCormick: Rebecca was out of control.
-Brass: So you got her to kill Richards and Buchman.
-Steven McCormick: No, I didn't.
-Brass: And then you told her to kill your wife.
-Steven McCormick: No, I loved my wife. I didn't tell Chloe to do anything.
-Brass: What happened?
-Steven McCormick: She killed Richards and Buchman on her own.
-Brass: Okay. 
-Grissom: Chloe thought that killing your wife's lovers would please you.
- And it did please you.
-Steven McCormick: I told her to stop.
-Grissom: But she didn't obey you. She killed your wife. You couldn't make Chloe do what you wanted. All that time at Lady Heather's and you never learned that the submissive is the one in control?
-Steven McCormick: I told her to stop.
-
-
-
-
-
-
-
-
-
-
-
-Lyric: ... stay tonight / we'll watch the full moon rising ...
-
-Lindsey:  It's okay, mommy. It's okay. It's okay.
-Lyric: ... hold on tight ...
-
-
-
-Lyric: ... the sky is breaking ...
-
-Lyric: ... I don't ever want to be alone ...
-
-Lyric: ... with all my darkest dreaming ... hold me close ...
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=03x15+-+Lady+Heather%27s+Box&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127344%23p127344" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=03x15+-+Lady+Heather%27s+Box&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127344%23p127344" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127344%23p127344&amp;name=03x15+-+Lady+Heather%27s+Box" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127344%23p127344" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=4a781db273a2c2366c69335b88f7fba8">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=4a781db273a2c2366c69335b88f7fba8">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=4a781db273a2c2366c69335b88f7fba8">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=4a781db273a2c2366c69335b88f7fba8">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

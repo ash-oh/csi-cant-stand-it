@@ -1,779 +1,1009 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] 
+(Camera pulls back across the city's building tops during the voice over announcement.)
+Ty " />
+<meta property="og:title" content="04x13 - Suckers - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] 
+(Camera pulls back across the city's building tops during the voice over announcement.)
+Ty " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13272" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>04x13 - Suckers - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13272" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13272">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=f9eaf9e8662f101fb493d5dda90c4cc3"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=f9eaf9e8662f101fb493d5dda90c4cc3">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=f9eaf9e8662f101fb493d5dda90c4cc3">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=f9eaf9e8662f101fb493d5dda90c4cc3">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=f9eaf9e8662f101fb493d5dda90c4cc3">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13272&amp;sid=f9eaf9e8662f101fb493d5dda90c4cc3&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>04x13 - Suckers</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127366">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127366">04x13 - Suckers</a></div>
+							<div class="pull-right text-right"><time datetime="2004-02-19T07:29:05Z">02/19/04 07:29</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] </p>
+<p>(Camera pulls back across the city's building tops during the voice over announcement.)</p>
+<p><strong>Ty Caulfield</strong>: (V.O.) People say that Las Vegas has no culture, ... no history-- that we emulate, ... not create.</p>
+<p>WHITE FLASH TO:</p>
+<p>[EXT./INT. CASINO - POOL SIDE / EXHIBITION HALL - NIGHT]</p>
+<p>(TY CAULFIELD, the casino owner, makes the grand formal announcement to the small gathering in front of him.)</p>
+<p><strong>Ty Caulfield</strong>: They forget that this was once a desert from which this city was created. </p>
+<p>(Waitresses dressed in kimono and obis -- dressed up like geisha -- pass out drinks to the crowd.)</p>
+<p><strong>Ty Caulfield</strong>: Millions come every week and share their money with us. Well, tonight, we give back.</p>
+<p>(Cut to: Inside the exhibition hall, glass cases display the various Japanese antiquities. The camera moves in slowly toward the centerpiece, a katana. The guard walks around the display case.)</p>
+<p><strong>Ty Caulfield</strong>: (V.O.) An exhibition of rare and valuable japanese antiquities.</p>
+<p>(Cut to: A Japanese statue of a soldier on a horse.)</p>
+<p><strong>Ty Caulfield</strong>: (V.O.) Shown in the us for the first time,<br />
+(Cut to: A close up of the katana's intricate sheath design.)</p>
+<p><strong>Ty Caulfield</strong>: (V.O.) ... this 17th century samurai collection ... </p>
+<p>(Cut to: Camera is focused on the full Japanese armor in the background. The camera refocuses to the statue in the foreground.)</p>
+<p><strong>Ty Caulfield</strong>: (V.O.) ... is owned by one of the Mediterranean's most special guests, Mr. Yuri Yamamoto, who sadly can't be here with us tonight.</p>
+<p>(TY CAULFIELD raises his glass to the crowd.)</p>
+<p><strong>Ty Caulfield</strong>: To his impeccable taste. On behalf of my hotel and the City of Las Vegas, I thank him.</p>
+<p>(The audience cheers. TY CAULFIELD takes a sip of his glass.)</p>
+<p>(A woman's screams pierces through the applause. Everyone turns around.)</p>
+<p>CUT TO:<br />
+[POOL SIDE - NIGHT - CONTINUOUS]</p>
+<p>(VANESSA GREEN stares at something horrible in front of her and screams. TY CAULFIELD rushes over to see what the commotion is about.)</p>
+<p>(She waves him near as she looks at the live wire cable near the pool.)</p>
+<p><strong>Vanessa Green</strong>: The cable fell. He was electrocuted.</p>
+<p>(In the center of the swimming pool, there is a body floating face down.)</p>
+<p><strong>Vanessa Green</strong>: Oh, my god.</p>
+<p>(She turns and buries her face in the shoulder of the man standing there.)</p>
+<p>(TY CAULFIELD and the crowd of curious party goers rush toward the pool.)</p>
+<p>(The SECURITY GUARD steps forward and motions everyone to a safe distance away from the pool side.)</p>
+<p><strong>Security Guard</strong>: Excuse me. Okay, folks. I need everyone to stay back. There's a live wire in the pool, okay? Everybody stand back.</p>
+<p>WHITE FLASH TO:</p>
+<p>[EXT. POOL SIDE - NIGHT - LATER]</p>
+<p>(GRISSOM and SARA head toward the pool. As they near, they take the scene in. GRISSOM stands next to BRASS who is looking at the body in the water. SARA heads for the live wire.)</p>
+<p><strong>Brass</strong>: Watch yourself Gil.</p>
+<p>(GRISSOM steps even closer to the pool side, his eyes on the body in the water. He takes the scene in.)</p>
+<p><strong>Grissom</strong>: This is odd. Arms and legs become deadweight in the water. He should have sunk to the bottom of the pool. </p>
+<p><strong>Sara</strong>: He wouldn't float until after putrefaction.</p>
+<p><strong>Grissom</strong>: Sara, would you see where the source of that cable is?</p>
+<p><strong>Sara</strong>: Yeah.</p>
+<p>(SARA heads toward the cable. She follows it to the bushes. GRISSOM picks up the pool pole. SARA steps into the bushes as she finds the cable source: a car battery. She picks it up carries it back to GRISSOM.) </p>
+<p><strong>Sara</strong>: Found the power source. Car battery.</p>
+<p>(She disconnects the cable.)</p>
+<p>(GRISSOM uses the pole and pulls the body toward him. He picks up the head of the body and finds a CPR dummy. GRISSOM looks at BRASS.)</p>
+<p>(BRASS shakes his head.)</p>
+<p><strong>Grissom</strong>: This is not a crime scene.</p>
+<p>(The hotel security alarm blares. GRISSOM and BRASS turn to look at the exhibition room entryway.)</p>
+<p>CUT TO:<br />
+[INT. EXHIBITION ROOM - NIGHT - CONTINUOUS]</p>
+<p>(BRASS pushes the doors open and walks into the room followed closely by GRISSOM, SARA and the SECURITY GUARD.)</p>
+<p>(The glass case housing the 17th century Japanese katana is broken. The sword is gone.)</p>
+<p>(GRISSOM looks down at the SECURITY GUARD duct taped on the side. He turns and looks at the broken glass case.)</p>
+<p><strong>Grissom</strong>: THIS is a crime scene.</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. HOTEL/CASINO - EXHIBITION ROOM -- NIGHT] </p>
+<p>(The alarm blares. GRISSOM looks at the taped up SECURITY GUARD explaining what he's about to do.) </p>
+<p><strong>Grissom</strong>: I'm sorry, but there's really no gentle way to do this.</p>
+<p>(GRISSOM reaches out and rips the tape off of BRANDON MILLER'S mouth.)</p>
+<p>(BRASS walks into the room past all the curious on-lookers and hotel security standing on the side.)</p>
+<p><strong>Brass</strong>: Keep these people out. And turn that damn thing off, will you?</p>
+<p>(He heads for SARA who stands in front of the broken glass case.)</p>
+<p><strong>Sara</strong>: They only took the one piece. Samurai sword, 17th century.</p>
+<p><strong>Brass</strong>: They say how much it was worth?</p>
+<p><strong>Sara</strong>: Worth the risk of walking past 100 guests into a guarded room.</p>
+<p>(The alarm stops. BRASS turns around and looks at BRANDON MILLER.)</p>
+<p><strong>Brass</strong>: Hey, buddy, you see anything?</p>
+<p>(GRISSOM crouches behind BRANDON MILLER trying to cut the tape off of him.)</p>
+<p><strong>Brandon Miller</strong>: No. I got hit from nowhere. Next thing I know, I'm taped up.</p>
+<p>(BRASS looks at GRISSOM. GRISSOM nods at the desk.)</p>
+<p><strong>Grissom</strong>: Blood smear on the desk.</p>
+<p>(Camera close up of the blood smear.)</p>
+<p>(Quick flashback to: Someone clubs BRANDON MILLER behind his head. He falls unconscious, the intruder forcibly hitting his head against the desk.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brandon Miller</strong>: I feel like an idiot.</p>
+<p><strong>Grissom</strong>: Well, you may have a concussion.</p>
+<p><strong>Brass</strong>: Let's get you checked out.</p>
+<p>(BRASS looks at the door and shouts.)</p>
+<p><strong>Brass</strong>: Paramedics out there?</p>
+<p>(A couple of paramedics walk into the room.)</p>
+<p><strong>Brass</strong>: Check him up.</p>
+<p>(SARA continues to examine the room. She walks up to the Japanese armour in the glass case and looks at it. She looks at the display card: SUIT OF ARMOR, 17TH c. She continues looking down and notices some clear liquid at the base of the show case.)</p>
+<p>(Cut to: The paramedics escort BRANDON MILLER out of the room as the HOTEL SECURITY walks in.)</p>
+<p><strong>Head of Hotel Security</strong>: Well, none of my men saw anyone suspicious enter or exit.</p>
+<p><strong>Brass</strong>: The surveillance cameras?</p>
+<p>(They stop and both look at the broken, empty case.)</p>
+<p><strong>Head of Hotel Security</strong>: Our cameras only watch the money and the exits. Not rooms like these. Damn, they got the sword. Most expensive piece in the collection. This is all Mr. Caulfield needs right now.</p>
+<p>(GRISSOM pauses and looks up as he listens.)</p>
+<p><strong>Brass</strong>: Why is that?</p>
+<p><strong>Head of Hotel Security</strong>: 9/11, the depressed Asian economy, Indian gaming in California. Every casino on the strip's taken a hit.</p>
+<p>(BRASS nods.) </p>
+<p><strong>Brass</strong>: I'm going to want to talk to the girl who found the body.</p>
+<p>(BRASS steps out of the room.)</p>
+<p>(Meanwhile, SARA takes a swab sample of the clear liquid. She looks at it and smells it.)</p>
+<p><strong>Sara</strong>: Smells sweet. The sign over there says no food or drink in this room, right?</p>
+<p><strong>Grissom</strong>: Make sure you take it back to Greg.</p>
+<p>(GRISSOM looks around and notices the empty tape roll on the stand. He removes the tape roll and looks at it.)</p>
+<p>CUT TO:<br />
+[EXT. VACANT HOUSE -- NIGHT] </p>
+<p>(CATHERINE and WARRICK walk up the sidewalk toward the front of the house. They meet up with the officer at the scene.) </p>
+<p><strong>Woman Officer</strong>: My third time at this address. Two suicides a few years ago, and now a 419. This house is cursed.</p>
+<p>(She leads them up the front walk toward the door.)</p>
+<p><strong>Catherine</strong>: You don't strike me as the type who believes in curses.</p>
+<p>(She turns around.)</p>
+<p><strong>Woman Officer</strong>: Yeah, well, I'm not the type to believe in coincidences, either.</p>
+<p><strong>Warrick</strong>: Is this house abandoned?</p>
+<p><strong>Woman Officer</strong>: Bank foreclosed four years ago. Been vacant ever since. </p>
+<p>(She turns and continues to lead them under the crime scene tape toward the front entrance.)</p>
+<p><strong>Woman Officer</strong>: Neighbor heard a scream. I was the responding officer.</p>
+<p>[INT. VACANT HOUSE - NIGHT - CONTINUOUS]</p>
+<p>(CATHERINE walks into the house, her flashlight on. WARRICK follows her as she heads inside. They turn around to look at the WOMAN OFFICER who declines and stays outside the house.)</p>
+<p>(CATHERINE continues forward through the house. In one of the bedrooms, they find DAVID with the body. He's engrossed with filling out the clipboard and doesn't notice them.)</p>
+<p><strong>Catherine</strong>: Uh ... oh, hey, David.</p>
+<p><strong>David Phillips</strong>: (startled) Yeah! (He looks up.) Oh, hey. Uh, jugular's been punctured. </p>
+<p>(CATHERINE steps closer for a better look.)</p>
+<p><strong>David Phillips</strong>: Two marks. (points to the marks) Possibly bite marks.</p>
+<p><strong>Catherine</strong>: Bite marks?</p>
+<p>(CATHERINE kneels down for a better look.)</p>
+<p><strong>David Phillips</strong>: Punctures are 32 millimeters apart. That's the average distance between the eyeteeth in an adult male's mouth.</p>
+<p><strong>Catherine</strong>: Right, but those punctures aren't consistent with human teeth.</p>
+<p><strong>David Phillips</strong>: Yeah, well, what about fangs?</p>
+<p><strong>Warrick</strong>: Fangs? Come on.</p>
+<p>(DAVID opens the woman's mouth to show her pierced tongue and ... fangs.)</p>
+<p><strong>David Phillips</strong>: Wounds are deep. She bled out.</p>
+<p><strong>Warrick</strong>: Then where's all the blood?</p>
+<p><strong>David Phillips</strong>: Lividity tells me she wasn't moved postmortem, so, I don't know.</p>
+<p><strong>Warrick</strong>: I'm going to take a look around.</p>
+<p>(WARRICK stands up and leaves the room.)</p>
+<p><strong>Catherine</strong>: David, I don't know a whole lot about vampires, but if she was bit, there's spit, and if there's spit, there's DNA, so swab the neck.</p>
+<p><strong>Warrick</strong>: (o.s.) Catherine, take a look at this. </p>
+<p>[MAIN HALL -- CONTINUOUS]</p>
+<p>(WARRICK looks down at something on the floor. CATHERINE joins him. He's found a red-painted insignia on the wooden floor.)</p>
+<p><strong>Warrick</strong>: Please tell me that's not blood.</p>
+<p>(They step into the room. CATHERINE takes a sample and tests for blood.)</p>
+<p><strong>Catherine</strong>: Negative. It's probably just house paint.</p>
+<p><strong>Warrick</strong>: Well, we know one thing for sure. This place wasn't vacant. </p>
+<p>CUT TO:<br />
+[EXT. HOTEL/CASINO -- POOL SIDE -- NIGHT] </p>
+<p>(BRASS talks with the HEAD OF HOTEL SECRUTIY. Behind them near the pool, NICK is examining the CPR dummy.) </p>
+<p><strong>Brass</strong>: Come on, nobody should have been allowed to leave.</p>
+<p><strong>Head of Hotel Security</strong>: Your officers didn't say anything about detaining Mr. Caulfield's guests.</p>
+<p><strong>Brass</strong>: Just give me a list of names, okay?</p>
+<p><strong>Head of Hotel Security</strong>: Yeah.</p>
+<p>(HOTEL SECURITY leaves.)</p>
+<p><strong>Nick</strong>: Weird night.</p>
+<p><strong>Brass</strong>: (points to the dummy) That's not the only dummy here.</p>
+<p><strong>Nick</strong>: Yeah, it's a CPR demonstration dummy. Fully articulated.</p>
+<p><strong>Brass</strong>: Oh, yeah?</p>
+<p><strong>Nick</strong>: Yeah. You know, paramedics, firemen -- they use these things to teach lifesaving techniques.</p>
+<p><strong>Brass</strong>: Any prints?</p>
+<p><strong>Nick</strong>: Oh, no, no, no. Been in the water way too long, man. Sorry.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- NIGHT] </p>
+<p>(DOC ROBBINS goes over the body. CATHERINE and WARRICK walk into the room.) </p>
+<p><strong>Robbins</strong>: David says you found evidence of vampires in North Las Vegas.</p>
+<p><strong>Warrick</strong>: Well, let's just say evidence at the crime scene suggests occult, ritualistic activity.</p>
+<p><strong>Catherine</strong>: I'm not sure what we found. Did you ID the Vic?</p>
+<p><strong>Robbins</strong>: Angela Sommerville, 20, from Henderson. License was in her pocket. Cause of death: Exsanguination.</p>
+<p><strong>Warrick</strong>: You check out her fangs?</p>
+<p><strong>Robbins</strong>: Well, her bark was worse than her bite.</p>
+<p>(ROBBINS opens the body's mouth.)</p>
+<p><strong>Robbins</strong>: There we go.</p>
+<p>(He removes the fangs from her teeth.)</p>
+<p><strong>Robbins</strong>: Ah. They're acrylic. Check out her gum line.</p>
+<p>(Camera zooms in for a close-up of the gum line.)</p>
+<p><strong>Robbins</strong>: Thin grooves carved into the canine's enamel. Fangs are clip-ons. Multiple bite marks on the tongue suggest she was still breaking them in.</p>
+<p><strong>Catherine</strong>: Warrick, the symbol on her ankle -- it's similar to the one that was painted on the floor of the crime scene.</p>
+<p>(WARRICK looks.)</p>
+<p><strong>Warrick</strong>: The ankh. Egyptian symbol for eternal life. I went on-line and found out it's also the universal insignia for vampires.</p>
+<p><strong>Robbins</strong>: Dracula didn't drink all her blood. I sent a sample to tox. I'm not sure if it's probative. </p>
+<p>(He points to the markings on her shoulders.)</p>
+<p><strong>Robbins</strong>: Multiple incised wounds on the anterior of both shoulders. Some are fresh.</p>
+<p><strong>Warrick</strong>: Well, the shoulder area is rich in blood, right? Heals quickly?</p>
+<p><strong>Robbins</strong>: Yeah. </p>
+<p>(CATHERINE looks at WARRICK and shakes her head.)</p>
+<p><strong>Catherine</strong>: Relevance?</p>
+<p><strong>Warrick</strong>: I figure, if you're going to drink someone's blood, it's a good place to start.</p>
+<p><strong>Catherine</strong>: Then why switch to the jugular?</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- NIGHT] </p>
+<p>(GRISSOM works on the tape removed from BRANDON MILLER'S mouth. SARA walks into the lab.) </p>
+<p><strong>Sara</strong>: Hey. Got anything?</p>
+<p><strong>Grissom</strong>: A partial thumb, perhaps, on the tape that was used to cover the security guard's mouth. Not torn, either. Both ends were cut.</p>
+<p><strong>Sara</strong>: Pre-cut, in fact. Indicates planning.</p>
+<p><strong>Grissom</strong>: How about you? </p>
+<p><strong>Sara</strong>: Trace analyzed the liquid we found near the suit of armor: Glucose syrup.</p>
+<p><strong>Grissom</strong>: Sugar water. Why just the sword?</p>
+<p><strong>Sara</strong>: Well, it is the one piece from the exhibit you could hide on your person. Down a pant leg, maybe, or ... </p>
+<p><strong>Grissom</strong>: Yeah, but if you're going to steal from a casino, why take an antique? Why not take cash?</p>
+<p><strong>Sara</strong>: Good point.</p>
+<p><strong>Grissom</strong>: How's your knowledge of Japanese history, particularly, antiquities?</p>
+<p><strong>Sara</strong>: (smiles and shakes her head) Not good. Why?</p>
+<p><strong>Grissom</strong>: To find the hunter ... know the game.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) -- DAY] </p>
+<p>[INT. SOMMERVILLE RESIDENCE - ANGELA'S ROOM - DAY]</p>
+<p>(The bedroom door opens; CATHERINE and WARRICK walk in followed by the SOMMERVILLES.) </p>
+<p><strong>Mrs. Sommerville</strong>: Angela was the sweetest child. She actually liked spending time with us. Her friends were always over here, and then ... puberty hit and everything changed. </p>
+<p>(CATHERINE looks around the room and notices a framed prom photo.)</p>
+<p><strong>Mr. Sommerville</strong>: She shaved her head, then she grew dreads. </p>
+<p><strong>Mrs. Sommerville</strong>: It was like she couldn't get comfortable in her own skin.</p>
+<p>(On the bedside table are some candles.)</p>
+<p><strong>Mrs. Sommerville</strong>: About, um, six months ago, Angela went Goth. Black clothing ... she only went out at night ... </p>
+<p><strong>Mrs. Sommerville</strong>: We tried to support Angela the best we could. We only wanted her to be happy.</p>
+<p>(CATHERINE picks up a book and reads the title and looks through the book.)</p>
+<p><strong>Catherine</strong>: &quot;The Black Veil: 13 Rules of Community.&quot;</p>
+<p><strong>Mrs. Sommerville</strong>: Guidelines for Vampires. She wrote them down in there, along with all her thoughts.</p>
+<p><strong>Catherine</strong>: So you've read what's in here? </p>
+<p>(CATHERINE looks at MRS. SOMMERVILLE who nods slightly.)</p>
+<p><strong>Catherine</strong>: Your daughter believed that she was a vampire?</p>
+<p><strong>Mrs. Sommerville</strong>: She was 18. She wanted to stand out, to be special. I tried not to judge her, but I also wanted to know what was going on in her head.</p>
+<p><strong>Mr. Sommerville</strong>: She snooped.</p>
+<p>(MRS. SOMMERVILLE sighs and continues.)</p>
+<p><strong>Mrs. Sommerville</strong>: Each time Angela tried something new, I would take a crash course.</p>
+<p>(CATHERINE reaches into the bookshelf and pulls out a piece of paper. She looks at it:</p>
+<p>HIV TEST RESULTS<br />
+--NAME: ANGELA SOMMERVILLE<br />
+--ID: 3759060X<br />
+--AGE: 20<br />
+--SEX: F<br />
+--E ID NO: 6729-BAMI</p>
+<p>--SESSION NO. 716885 20<br />
+--ER ID NO. 70722345</p>
+<p>RESULT UNITS<br />
+NEGATIVE COPIES ... </p>
+<p><strong>Catherine</strong>: Lab results.</p>
+<p><strong>Mrs. Sommerville</strong>: Angela's HIV test. It was negative. That was the one thing we insisted upon, not that it matters now.</p>
+<p>(WARRICK opens the closet door to reveal a table made up in the manner of a shrine complete with black and white photo of a man.)</p>
+<p><strong>Warrick</strong>: Who's the guy?</p>
+<p><strong>Mrs. Sommerville</strong>: Angela wouldn't say. The statue's an incubus. According to the legend, incubi seduce young women while they sleep ... and drink their blood.</p>
+<p><strong>Catherine</strong>: Well, your daughter was found in an abandoned house. And we believe that there was, um, someone there with her. Do you have any idea who that might be?</p>
+<p><strong>Mrs. Sommerville</strong>: Her court. I can give you their names.</p>
+<p><strong>Catherine</strong>: Her &quot;court&quot;?</p>
+<p><strong>Mrs. Sommerville</strong>: It's like a coven for vampires.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) -- DAY] </p>
+<p>[INT. HOTEL/ CASINO - EXHIBITION ROOM -- DAY</p>
+<p>(GRISSOM and SARA walk into the exhibition room, GRISSOM'S carrying both kits while SARA carries an armful of research books.) </p>
+<p>(HOTEL SECURITY stands in the room with other GUARDS. What's left of the exhibition has been moved.)</p>
+<p><strong>Sara</strong>: Don't tell me, they came back and stole the rest?</p>
+<p><strong>Head of Hotel Security</strong>: No, not quite. At Mr. Yamamoto's request, the collection's been moved to Mr. Caulfield's office vault. He was pretty upset. He's on his way here now from Tokyo.</p>
+<p><strong>Sara</strong>: We were hoping to take a look at the rest of the exhibit.</p>
+<p><strong>Head of Hotel Security</strong>: Mr. Caulfield's vault is off limits.</p>
+<p><strong>Grissom</strong>: Okay, what about photographs?</p>
+<p>(HOTEL SECURITY hands GRISSOM the clipboard.)</p>
+<p><strong>Head of Hotel Security</strong>: You're in luck there. Our hotel registrar took polaroids of the collection when she logged it in.</p>
+<p>(He takes out the Polaroid photos out of the pocket and shows it to them.)</p>
+<p><strong>Sara</strong>: Can we talk to her?</p>
+<p><strong>Head of Hotel Security</strong>: Well, Miss Green is on vacation, but, uh, I can try and contact her.</p>
+<p>(GRISSOM finishes looking at he list.)</p>
+<p><strong>Grissom</strong>: Well, this is just a list of inventory. How about the insurance policy?</p>
+<p><strong>Head of Hotel Security</strong>: Yamamoto carried his own insurance. </p>
+<p>(GRISSOM adds the clipboard to the top of the stack of books SARA'S carrying.)</p>
+<p><strong>Head of Hotel Security</strong>: Our hotel registrar just documents the condition of each piece. We extended Mr. Yamamoto every courtesy, but weren't going to assume responsibility. This is a Casino, not a museum.</p>
+<p>(HOTEL SECURITY walks away.)</p>
+<p>CUT TO:<br />
+[INT. CSI - WAITING ROOM -- DAY] </p>
+<p>(CATHERINE and WARRICK interview ANGELA'S court consisting of three other girls.) </p>
+<p><strong>Catherine</strong>: Alice, you need to answer the question.</p>
+<p><strong>Court Girl 1</strong>: She won't respond to that name. She goes by Luminessa.</p>
+<p><strong>Catherine</strong>: Okay, let's start over. Do any of you ladies recognize this man?</p>
+<p>(CATHERINE holds out the photo for them to look at. It's clipped to the police report. The girls shake their heads.)</p>
+<p><strong>Warrick</strong>: When was the last time you saw Angela?</p>
+<p><strong>Alice (Luminessa)</strong>: Who?</p>
+<p>(CATHERINE chuckles humorlessly.)</p>
+<p><strong>Catherine</strong>: Okay. All right, I've had enough. (She clears her throat.) Your friend is dead. This is a murder case. If you're not willing to help us, we will split you up and treat you as suspects. Hold you for 24 hours. Is that what you want?</p>
+<p>(The girls look at each other.) </p>
+<p><strong>Alice (Luminessa)</strong>: We called her Daegonna. We were together last night. At court.</p>
+<p>(Quick flashback to: [VACANT HOUSE - NIGHT] ANGELA faces her court over a burning candle.)</p>
+<p><strong>Angela Sommerville</strong>: (frustrated, angry) Being a vampire is about feeding.<br />
+(She holds up the book and throws it down in front of them.) This is pathetic.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Alice (Luminessa)</strong>: Angela had been going to this blood bar. Wanted us to join her.</p>
+<p><strong>Warrick</strong>: Blood bar?</p>
+<p><strong>Alice (Luminessa)</strong>: The people who go there, they drink blood.</p>
+<p><strong>Court Girl 1</strong>: For real.</p>
+<p><strong>Court Girl 2</strong>: Hardcore.</p>
+<p><strong>Warrick</strong>: And I guess you girls don't do that?</p>
+<p><strong>Court Girl 1</strong>: Hell, no. And that's what we told her. She totally lost it. She called us &quot;Gajas.&quot;</p>
+<p><strong>Warrick</strong>: Which is ... ?</p>
+<p><strong>Court Girl 1</strong>: A fashion vampire. Normal people who just play dress-up.</p>
+<p><strong>Court Girl 2</strong>: You don't have to drink blood to be a vampire.</p>
+<p><strong>Alice (Luminessa)</strong>: For us, it's spiritual. We feed off each other's energies.</p>
+<p><strong>Court Girl 1</strong>: Yeah.</p>
+<p><strong>Court Girl 2</strong>: Energy.</p>
+<p><strong>Court Girl 1</strong>: So, we voted her invisible. Kicked her out of our court.</p>
+<p><strong>Alice (Luminessa)</strong>: But she wouldn't leave. So we did. And that's the last time we saw her.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. HOTEL/CASINO - EXHIBITION ROOM -- DAY] </p>
+<p>(SARA reads the list as GRISSOM stands in the middle of the room looking at the empty display cases.) </p>
+<p><strong>Sara</strong>: Other items in the exhibit include a 17th century decorated silk.</p>
+<p>(She turns the page.)</p>
+<p><strong>Sara</strong>: 17th century iron war mask.</p>
+<p>(She turns to the next page.)</p>
+<p><strong>Sara</strong>: 17th century kabuki robe used in the first kabuki dances in Kyoto.</p>
+<p>(GRISSOM stops in front of the empty display case with the card still in it:</p>
+<p>Suit of Armor<br />
+17th c.<br />
+lacquer, horsehair, iron, beading, silk cord, wood<br />
+Collection of Yuri Yamamoto</p>
+<p>The Japanese suit of samurai armor was only worn by the highest military class and emperors. Oda Nobunaga played a key role in shaping the course of history in feudal Japan. His policy of unifying a country controlled by many feuding daimyo was furthered in a series of victories characterized by brilliant war tactics and firearms. )</p>
+<p><strong>Grissom</strong>: Seventeenth century suit of armor. Wasn't the Japanese military established long after that?</p>
+<p><strong>Sara</strong>: Let's see.</p>
+<p>(SARA puts the clipboard aside and checks on of the many reference books next to her. GRISSOM looks around and waits for the answer.)</p>
+<p><strong>Sara</strong>: (reading) 1868, by Emperor Ma-ji? Meiji?</p>
+<p><strong>Grissom</strong>: So, this is out of place.</p>
+<p><strong>Sara</strong>: Just like the sugar water we found nearby.</p>
+<p>(GRISSOM'S phone rings. He answers it.)</p>
+<p><strong>Grissom</strong>: Grissom.</p>
+<p><strong>Nick</strong>: Grissom, ... </p>
+<p>INTERCUT WITH:</p>
+<p>[INT. CSI - HALLWAY]</p>
+<p><strong>Nick</strong>: I got a hit on your partial print from the hotel employee database. (He looks at a copy of the license in his hand.) Brandon Miller. He's your duct-taped security guard.</p>
+<p><strong>Grissom</strong>: I thought he was unconscious. How does his prints end up on the tape?</p>
+<p>(SARA looks up from her book.)</p>
+<p><strong>Nick</strong>: You tell me.</p>
+<p><strong>Grissom</strong>: All right. Thanks, Nick. </p>
+<p>(GRISSOM hangs up. He looks around, thinking about it. He stops and notices the divider pole where he found the empty tape roll.) </p>
+<p><strong>Grissom</strong>: Sara?</p>
+<p><strong>Sara</strong>: Hmm?</p>
+<p><strong>Grissom</strong>: Do you have any duct tape in your kit?</p>
+<p><strong>Sara</strong>: Yeah, it's what I use to keep it together.</p>
+<p>(GRISSOM stares at the pole as SARA gets the duct tape out of her kit. She hands it to him.)</p>
+<p><strong>Grissom</strong>: Thank you.</p>
+<p>(he puts the tape on the pole and starts spinning in his chair.)</p>
+<p><strong>Sara</strong>: He taped himself up.</p>
+<p><strong>Grissom</strong>: We've been conned.</p>
+<p>(SARA turns GRISSOM around and cuts him free.)</p>
+<p><strong>Sara</strong>: Well, you saw the paramedics take him out of here. If he'd had a samurai sword hanging out of his pant leg, you would've noticed.</p>
+<p>(GRISSOM removes himself from the tape.)</p>
+<p>(He sits there and sighs. In the quiet, he and SARA both notice a metallic rattling sound coming from the ceiling air conditioner. They look up and notice that the vent is skewed.)</p>
+<p>(GRISSOM checks the vent and finds the missing sword hidden in the ceiling. He smiles.)</p>
+<p><strong>Grissom</strong>: huh. Domo arigato.</p>
+<p>CUT TO:<br />
+[INT. HOTEL/CASINO - MAIN CASINO FLOOR-- DAY] </p>
+<p>(GRISSOM carries the sword as he, SARA and the HOTEL SECURITY make their way through the casino.) </p>
+<p><strong>Head of Hotel Security</strong>: So Brandon Miller never made it to the hospital, huh? Concussion, my happy ass.</p>
+<p><strong>Grissom</strong>: It's an old trick. Don't steal the item; just leave it at the location, come back and get it when the cops leave.</p>
+<p><strong>Head of Hotel Security</strong>: Well, your timing's perfect. Mr. Yamamoto just arrived. Mr. Caulfield's with him right now.</p>
+<p>[INT. CONFERENCE ROOM - DAY - CONTINUOUS]</p>
+<p>(HOTEL SECURITY opens the door and walks into the room. GRISSOM and SARA follow. In the center of the room, TY CAULFIELD stands next to YURI YAMAMOTO.)</p>
+<p><strong>Head of Hotel Security</strong>: Mr. Caulfield.</p>
+<p>(TY CAULFIELD turns around as they descend the stairs.)</p>
+<p><strong>Head of Hotel Security</strong>: You asked to be kept up to date on our progress.</p>
+<p><strong>Ty Caulfield</strong>: I'll be damned. You found the guy?</p>
+<p><strong>Grissom</strong>: Perhaps. We found the sword.</p>
+<p><strong>Ty Caulfield</strong>: (to YURI YAMAMOTO) See? I promised you this matter would be resolved, Yuri.</p>
+<p>(YURI YAMAMOTO steps toward GRISSOM intending to take his sword back.)</p>
+<p><strong>Grissom</strong>: Uh ... we'll need to take this back to our lab.</p>
+<p><strong>Yuri Yamamoto</strong>: No. You people have already lost it once.</p>
+<p>(GRISSOM hands the sword to SARA.)</p>
+<p><strong>Grissom</strong>: It's part of an on-going investigation. We need to process it.</p>
+<p><strong>Yuri Yamamoto</strong>: This sword is invaluable. </p>
+<p><strong>Grissom</strong>: To us as well.</p>
+<p><strong>Ty Caulfield</strong>: Surely this is open for conversation, Mr ...</p>
+<p><strong>Grissom</strong>: I don't think so. I do have a question for Mr. Yamamoto. Your collection is primarily 17th century, but we found one piece, a suit of armor, that our research dates to the mid-19th century.</p>
+<p><strong>Yuri Yamamoto</strong>: I don't have a suit of armor in my collection.</p>
+<p>(TY CAULFIELD looks at YURI YAMAMOTO who turns to look at back at GRISSOM.)</p>
+<p><strong>Yuri Yamamoto</strong>: What is going on here?</p>
+<p><strong>Grissom</strong>: Mr. Caulfield, we'd like to take a look at your personal vault.</p>
+<p>CUT TO:<br />
+[EXT./INT. HOTEL/CASINO - VAULT -- DAY] </p>
+<p>(TY CAULFIELD punches the security key pad combination and opens the vault doors only to find the shelves stripped bare.) </p>
+<p><strong>Ty Caulfield</strong>: Oh, my god. The cash-- it's gone. (He turns to look at his HEAD OF SECURITY.) How the hell did they get in here?</p>
+<p>(GRISSOM picks up one of the $10,000 money bands on the vault counter and looks at it.)</p>
+<p><strong>Grissom</strong>: How much cash did you have in here?</p>
+<p><strong>Ty Caulfield</strong>: Ninety percent of the casino's cash is in the basement vault. I only keep an emergency reserve here.</p>
+<p>(GRISSOM looks away for a moment, nodding.)</p>
+<p><strong>Ty Caulfield</strong>: Ten million ... at all times.</p>
+<p>(GRISSOM and SARA turn to look at CAULFIELD. GRISSOM looks around at the abandoned suit of armor on the vault floor.)</p>
+<p><strong>Grissom</strong>: There's the suit of armor. The Trojan Horse?</p>
+<p><strong>Sara</strong>: Someone was inside the armor, hiding in plain sight?</p>
+<p>(Quick flashback to: [INT. VAULT] HOTEL SECURITY walks out of the vault after moving the collection inside. He turns off the lights.)</p>
+<p>(Cut to: The person in the suit of armor opens his eyes and looks around.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Might be.</p>
+<p>(TY CAULFIELD turns and looks at his HEAD OF HOTEL SECURITY.)</p>
+<p><strong>Ty Caulfield</strong>: And you just wheeled him in here? </p>
+<p>(He heads out of the vault.)</p>
+<p><strong>Ty Caulfield</strong>: Get my lawyer. Assemble everyone. I need answers.</p>
+<p><strong>Head of Hotel Security</strong>: Yes, sir.</p>
+<p>(GRISSOM looks back at the suit of armor, then turns back to SARA.)</p>
+<p><strong>Grissom</strong>: And the con goes on.</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) -- DAY] </p>
+<p>[INT. HOTEL/CASINO - VAULT - DAY]</p>
+<p>(GRISSOM and SARA are in the vault processing the scene. GRISSOM examines the discarded suit of armor while SARA collects the money bands.) </p>
+<p>(As she picks up each money band one-by-one, GRISSOM finds two plastic bags under the armor.)</p>
+<p><strong>Grissom</strong>: Well, this explains the glucose. Food source. Probably didn't know how long he was going to be in the suit.</p>
+<p><strong>Sara</strong>: What's in the other bag?</p>
+<p><strong>Grissom</strong>: Urine. (She nods.) He was in there for a while. How you doing with those money bands?</p>
+<p><strong>Sara</strong>: Ten thousand dollars per band. When I get to a thousand, I'll let you know.</p>
+<p>(GRISSOM finds a small hand-held digital recording device. He plays it. There are a series of beeps.)</p>
+<p><strong>Grissom</strong>: I think it's the code from the vault. Must've recorded it.</p>
+<p>(Quick flash to: [INT. VAULT] The person in the suit of armor holds up the digital recorder as the key pad is being pressed. End of flashback. Resume to present.)</p>
+<p>(GRISSOM stands near the door and tries several key combinations till he finds the right sequence.)</p>
+<p>(The vault door opens. CAULFIELD and YAMAMOTO are standing outside.)</p>
+<p><strong>Ty Caulfield</strong>: How did you open the safe door?</p>
+<p><strong>Grissom</strong>: The same way our thief did: Using your musical code.</p>
+<p>(GRISSOM plays the recorder.)</p>
+<p><strong>Grissom</strong>: Mr. Caulfield, you have video surveillance?</p>
+<p><strong>Ty Caulfield</strong>: Nothing in my vault or in my office, but I'll get you everything from this floor. </p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB - NIGHT] </p>
+<p>(CATHERINE and WARRICK walk into the lab. GREG whips out a wooden stake and holds it out to CATHERINE, startling her.) </p>
+<p><strong>Greg</strong>: For you ... </p>
+<p>(CATHERINE takes GREG'S stake. GREG holds out a crucifix for WARRICK.)</p>
+<p><strong>Greg</strong>: ... and you. Just in case.</p>
+<p><strong>Catherine</strong>: Are Angela's tox result in yet?</p>
+<p><strong>Greg</strong>: Blood alcohol level of .14 percent.</p>
+<p><strong>Catherine</strong>: Her friends didn't say anything about drinking.</p>
+<p><strong>Greg</strong>: Well, I'm just getting warmed up. Tox panel detected traces of thujone. Thujone is the psychoactive chemical found in absinthe, a liquor distilled from wormwood.</p>
+<p><strong>Warrick</strong>: Isn't absinthe illegal?</p>
+<p><strong>Greg</strong>: In the US. Banned in 1912. Apparently, toxic byproducts are released during the distilling process. Stuff's supposed to make you a little crazy.</p>
+<p><strong>Catherine</strong>: And how would Angela get a hold of this?</p>
+<p><strong>Greg</strong>: Well, this is not coming from personal experience, but according to a friend of a friend of an acquaintance, absinthe is rumored to be served in certain underground clubs. </p>
+<p><strong>Warrick</strong>: Like a blood bar.</p>
+<p>CUT TO:<br />
+[INT. BLOOD BAR -- NIGHT] </p>
+<p>(Various scenes of the dance floor.) </p>
+<p><strong>Lyric</strong>: Are you ... ready for the new ...? / Stand up and admit it: Tomorrow's never coming / this is the new ... / stand up and admit it / do we need it? / No! / Do we want it? / Yeah! / This is the new ... </p>
+<p>(LAZARUS KANE swallows his drink. CATHERINE and WARRICK appear next to him.)</p>
+<p><strong>Catherine</strong>: Mind if we join you?</p>
+<p><strong>Lazarus Kane</strong>: Sure. What are you into?</p>
+<p><strong>Warrick</strong>: We're into crime scenes.</p>
+<p><strong>Catherine</strong>: And you are ... ?</p>
+<p><strong>Lazarus Kane</strong>: Lazarus Kane.</p>
+<p><strong>Warrick</strong>: Did Angela Sommerville call you that?</p>
+<p><strong>Lazarus Kane</strong>: I don't know any Angela Sommerville.</p>
+<p><strong>Warrick</strong>: What about Daegonna?</p>
+<p><strong>Lazarus Kane</strong>: She file a complaint against me?</p>
+<p><strong>Catherine</strong>: Why would she do that?</p>
+<p><strong>Lazarus Kane</strong>: Look, everything we did was consensual. It's not illegal to drink someone's blood. She was into it. That neonate ... she offered herself to me.</p>
+<p><strong>Warrick</strong>: Did she offer herself to you last night?</p>
+<p><strong>Lazarus Kane</strong>: We had a drink together here.</p>
+<p><strong>Warrick</strong>: Absinthe?</p>
+<p><strong>Lazarus Kane</strong>: What's this about?</p>
+<p><strong>Catherine</strong>: Was that the last time you saw her?</p>
+<p><strong>Lazarus Kane</strong>: No. Later on, I swung by her court and daggered the relationship.</p>
+<p><strong>Catherine</strong>: How long had the two of you been together?</p>
+<p><strong>Lazarus Kane</strong>: For the past three months, she's been my &quot;donor&quot;.</p>
+<p>(He pushes aside his shirt to show CATHERINE the scars on his shoulder.)</p>
+<p><strong>Catherine</strong>: And you were her donor?</p>
+<p><strong>Lazarus Kane</strong>: No, it doesn't work like that. Daegonna belonged to me.</p>
+<p><strong>Catherine</strong>: (confused) Okay... but you were someone's donor.</p>
+<p><strong>Lazarus Kane</strong>: Well, under the right circumstances, I'll do just about anything.</p>
+<p><strong>Warrick</strong>: How 'bout murder? Daegonna was killed last night.</p>
+<p><strong>Lazarus Kane</strong>: Well, I don't know anything about that. See, I follow very strict guidelines: Black veil. Principle 11: You never mistreat your donors.</p>
+<p><strong>Catherine</strong>: And that pendant around you neck? That wouldn't happen to contain blood, would it?</p>
+<p><strong>Lazarus Kane</strong>: Yeah.</p>
+<p><strong>Catherine</strong>: Whose?</p>
+<p><strong>Lazarus Kane</strong>: It's Daegonna's, okay? She gave it to me couple weeks ago. I offered to give it back, but she wanted me to keep it ... said her PSI belonged to me.</p>
+<p><strong>Warrick</strong>: &quot;Psi&quot;?</p>
+<p><strong>Lazarus Kane</strong>: Life-force, blood. </p>
+<p><strong>Warrick</strong>: We're going to need that pendant for evidence.</p>
+<p><strong>Catherine</strong>: And a sample of your ... DNA.</p>
+<p>(He bares his shoulder for CATHERINE.)</p>
+<p><strong>Lazarus Kane</strong>: Knock yourself out.</p>
+<p><strong>Catherine</strong>: Oh, I prefer saliva.</p>
+<p><strong>Lazarus Kane</strong>: (disappointed) Aw ... </p>
+<p><strong>Catherine</strong>: Open up.</p>
+<p>(LAZARUS opens his mouth wide, baring his &quot;fangs&quot;.)</p>
+<p><strong>Catherine</strong>: Right.</p>
+<p>(CATHERINE takes a swab sample.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. CSI - A/V LAB -- NIGHT] </p>
+<p>(NICK goes over the security tape video with GRISSOM and SARA.) </p>
+<p><strong>Nick</strong>: There's our man.</p>
+<p><strong>Grissom</strong>: And the time?</p>
+<p><strong>Nick</strong>: 3:15 A.M.</p>
+<p><strong>Sara</strong>: He's certainly aware of the cameras.</p>
+<p><strong>Nick</strong>: Yeah, you really can't get a good look at him from any angle. He's walking like he crapped his pants.</p>
+<p><strong>Grissom</strong>: I'm thinking that might be the money.</p>
+<p>(Quick flashback to: [INT. VAULT] The thief straps the packs of money to his body. He zips up his jumpsuit. End of flashback. Resume to present.)</p>
+<p>(On video: The thief heads to the far door and swipes a card through the key pad.) </p>
+<p><strong>Grissom</strong>: An employee ID card?</p>
+<p><strong>Nick</strong>: It gets better.</p>
+<p>(On video: The thief exits the building and gets into a waiting car.)</p>
+<p>(NICK punches some keys on the keyboard and the video zooms in to show the identity of the driver.)</p>
+<p><strong>Sara</strong>: That's Brandon Miller, the security guard.</p>
+<p><strong>Grissom</strong>: Hmm. Okay, so find the best shot you can of our mystery thief. If he is an employee, you should be able to ID him.</p>
+<p><strong>Nick</strong>: There's over three thousand employees who work at the Mediterranean, and this guy is not really giving me much to go on here.</p>
+<p><strong>Grissom</strong>: Yes, but technology is a wonderful thing, Nick.</p>
+<p>(GRISSOM turns and leaves. SARA puts a hand on NICK'S shoulder, gives him a<br />
+&quot;glad its you and not me&quot; smile, then follows GRISSOM out the door.)</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB -- NIGHT] </p>
+<p>(GREG reports back to CATHERINE and WARRICK.) </p>
+<p><strong>Greg</strong>: Lazarus may have been sucking on Angela's shoulders, but he did not bite her jugular. His DNA's inconsistent with the saliva swabbed from the puncture wounds around her neck.</p>
+<p><strong>Warrick</strong>: Damn. </p>
+<p><strong>Catherine</strong>: What about that pendant?</p>
+<p><strong>Greg</strong>: You know, nothing says &quot;I love you&quot; like an ounce of fresh blood. It is Angela's blood, and it's mixed with a polyester base. Polyester base is an inert fluid pre-packaged in test tubes used for HIV testing. It helps prepare the blood for centrifugation by forming a barrier between the blood cells and the serum.</p>
+<p><strong>Warrick</strong>: Angela's parents only insisted upon only one thing ...</p>
+<p><strong>Catherine</strong>: ... that she be tested for HIV.</p>
+<p>CUT TO:<br />
+[INT. CSI - AUDIO/VIDEO LAB -- NIGHT] </p>
+<p>(NICK works on finding the identity of the mystery thief. I'm way to lazy to describe this music video for you. He does graphic manipulation on the computer.) </p>
+<p><strong>Lyric</strong>: Hey, you ugly people / I want you to set my baby free / hey, people / set my baby free / said he was man / what did he know / spent his time living in a casino / never know / couldn't get away, couldn't ever get it anyway / couldn't ever level 'cause he's living like a devil / hey / hey, set my baby free / set my baby free ... </p>
+<p>(NICK finishes the computer graphic composite of the mystery thief.)</p>
+<p>DISSOLVE TO:</p>
+<p>[EXT. HOTEL / CASINO - POOL SIDE -- DAY] </p>
+<p>(Close up of the composite.)</p>
+<p>(NICK and SARA show the computer composite of the mystery thief to the LIFEGUARD.) </p>
+<p><strong>Lifeguard</strong>: Yeah, that's Nathan. Do me a favor when you find him. Let him know he's fired. He hasn't shown up in four days.</p>
+<p><strong>Nick</strong>: Will do. You missing anything else around here?</p>
+<p><strong>Lifeguard</strong>: Like what?</p>
+<p><strong>Nick</strong>: CPR dummy.</p>
+<p><strong>Lifeguard</strong>: Yeah. Had to cancel a class on Sunday 'cause we couldn't find Macaulay.</p>
+<p><strong>Sara</strong>: Macaulay?</p>
+<p><strong>Lifeguard</strong>: Culkin. Our dummy. You know, 'cause his mouth is always open.</p>
+<p>(He does the &quot;Home Alone&quot; pose. NICK laughs. SARA stares at NICK. She shows the photo of the electrocuted dummy from the pool to the LIFEGUARD.)</p>
+<p><strong>Nick</strong>: Is this Macaulay?</p>
+<p><strong>Lifeguard</strong>: Yeah, that's him. Can we get him back?</p>
+<p><strong>Sara</strong>: Soon as we're done with him.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(GRISSOM dusts the sword's scabbard. SARA sits across the table and watches him.) </p>
+<p><strong>Sara</strong>: Security guard put the sword in the crawlspace. It's got to be his prints.</p>
+<p><strong>Grissom</strong>: Well, let's find out, shall we?</p>
+<p>(NICK walks into the lab and joins them.)</p>
+<p><strong>Nick</strong>: Hey. </p>
+<p><strong>Grissom</strong>: Nick, want to do me a favor and tape-lift that?</p>
+<p><strong>Nick</strong>: Sure.</p>
+<p>(NICK takes a tape lift and puts it over the dusted print. He presses. He rips the tape lift off the scabbard taking part of the hide covering with it.)</p>
+<p>(NICK'S eyes widen and he looks at SARA to see if she saw. Oh, yeah. SARA looks at NICK, her eyes just as wide. NICK swallows.)</p>
+<p><strong>Nick</strong>: Grissom, how's our insurance?</p>
+<p>(GRISSOM turns and sees the damaged sword.)</p>
+<p><strong>Nick</strong>: I was being careful, I swear.</p>
+<p>(GRISSOM examines the damage as SARA walks around the table for a better view.)</p>
+<p><strong>Grissom</strong>: Should four-hundred-year-old lacquer look this good? (He sniffs it.)<br />
+And smell like acrylic?</p>
+<p>(He looks at them and puts the sword back on the table. NICK smells the tape lift. GRISSOM removes one of the precious stones from the scabbard and crushes it easily.)</p>
+<p><strong>Sara</strong>: What kind of precious stone breaks that easily?</p>
+<p><strong>Grissom</strong>: A fake one. This is nothing more than a hardened ball of wax.</p>
+<p><strong>Nick</strong>: Do you think someone switched swords on us?</p>
+<p><strong>Grissom</strong>: Well, so far, nothing's what it seems.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. HOTEL/CASINO - VAULT -- DAY] </p>
+<p>(GRISSOM, NICK and SARA test and check every piece in the collection.) </p>
+<p>(SARA smells the kimono.)</p>
+<p><strong>Sara</strong>: Smells like tea.</p>
+<p><strong>Grissom</strong>: Sometimes paper products or other materials like silk -- they soak it in tea to give an aged look.</p>
+<p><strong>Nick</strong>: The paint on this mask is coming right off, layer by layer.</p>
+<p><strong>Grissom</strong>: I think this is boot polish.</p>
+<p><strong>Sara</strong>: Another aging method?</p>
+<p>(TY CAULFIELD appears in the doorway.)</p>
+<p><strong>Nick</strong>: So it's not just the sword. This ... his whole collection's a fake?</p>
+<p><strong>Ty Caulfield</strong>: A what?</p>
+<p><strong>Grissom</strong>: We believe this collection is worthless. Well-made, historically accurate, ... probably worthless.</p>
+<p>(TY CAULFIELD steps out of the vault and sits down thoughtfully on the table just outside. GRISSOM steps outside also.)</p>
+<p><strong>Grissom</strong>: Your head of security said that Mr. Yamamoto's collection was documented by an internal registrar.</p>
+<p><strong>Ty Caulfield</strong>: Vanessa Green. I-I thought you spoke to her yesterday.</p>
+<p><strong>Grissom</strong>: She was on vacation ... but even though she's not an official appraiser, she should've been able to tell these were fakes, don't you think?</p>
+<p>(CAULFIELD presses his fingertips against the bridge of his nose.)</p>
+<p>CUT TO:<br />
+[INT. HOTEL - HALLWAY -- DAY] </p>
+<p>(The HEAD OF SECURITY leads TY CAULFIELD and GRISSOM to YURI YAMAMOTO'S room.) </p>
+<p>(He opens the doors.)</p>
+<p><strong>Ty Caulfield</strong>: Mr. Yamamoto? Mr. Yamamoto? I'd like a word with you. Mr. Yamamoto?</p>
+<p><strong>Grissom</strong>: It seems he's left.</p>
+<p><strong>Head of Security</strong>: Gentlemen, no luggage. Nothing. </p>
+<p>(CAULFIELD grabs the vase off the table and smashes it to the floor in anger.)</p>
+<p><strong>Ty Caulfield</strong>: Son of a bitch! He made a fool out of me.</p>
+<p><strong>Grissom</strong>: Well, we have that in common.</p>
+<p><strong>Ty Caulfield</strong>: Find out when he checked out.</p>
+<p><strong>Head of Security</strong>: I'm on it.</p>
+<p><strong>Ty Caulfield</strong>: And Vanessa Green. Where did she go?</p>
+<p>(The HEAD OF SECURITY picks up the phone.)</p>
+<p><strong>Grissom</strong>: Brandon Miller, Nathan Pollard, Vanessa Green, and Yuri Yamamoto. Three of your employees and one whale ... all evidently disappear.</p>
+<p><strong>Ty Caulfield</strong>: Along with my $10 million.</p>
+<p>(The HEAD OF SECURITY hangs up.)</p>
+<p><strong>Head of Security</strong>: Yamamoto never checked out. Vanessa Green made reservations at the Princeville in Kauai. She never checked in.</p>
+<p><strong>Ty Caulfield</strong>: And he left without his antiques.</p>
+<p><strong>Grissom</strong>: Well ... he knew they were worthless.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. ADMINALAB CLINIC] </p>
+<p>(The technician, BOBBY JONES, draws blood from an older woman. CATHERINE and WARRICK step in the doorway.) </p>
+<p><strong>Catherine</strong>: Um ... </p>
+<p><strong>Bobby Jones</strong>: I'll be right with you. (to the woman) The tests will be mailed to you in seven days, and they'll include a toll-free number if you have any questions.</p>
+<p><strong>Woman</strong>: Thank you. I didn't feel a thing.</p>
+<p>(The WOMAN leaves. CATHERINE and WARRICK walk into the room.)</p>
+<p><strong>Bobby Jones</strong>: Walk-ins? Or do you have an appointment?</p>
+<p><strong>Warrick</strong>: We're from the crime lab. We're here about a Miss Angela Sommerville. Last month, your clinic tested her blood.</p>
+<p><strong>Bobby Jones</strong>: Actually, we don't do the testing. Common mistake. I'm contracted by Adminalab to withdraw blood, and the lab processes. And the whole thing is confidential, so ...</p>
+<p><strong>Catherine</strong>: Oh, we've already seen her results. She's dead, so, the confidentiality privilege no longer applies. We need to know which tech withdrew her blood.</p>
+<p><strong>Bobby Jones</strong>: I'm the only tech here.</p>
+<p><strong>Catherine</strong>: Oh. Well, there was a pendant with her blood inside it.</p>
+<p><strong>Bobby Jones</strong>: What does that have to do with me?</p>
+<p><strong>Catherine</strong>: Her blood was mixed with a polyester base. I think you know what that means.</p>
+<p><strong>Bobby Jones</strong>: I ... know who you're talking about.</p>
+<p>(Quick flashback to: BOBBY JONES withdraws ANGELA SOMMERVILLE'S blood.)</p>
+<p><strong>Angela Sommerville</strong>: I have a favor to ask you.</p>
+<p>(She holds up the pendant.)</p>
+<p><strong>Angela Sommerville</strong>: Do you want to help?</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Bobby Jones</strong>: I'd taken more than enough for testing purposes, so, I figured it's her blood. Why not just give it to her?</p>
+<p>(WARRICK walks around CATHERINE and looks around the lab.)</p>
+<p><strong>Catherine</strong>: My bet is that it's against your lab's policy.</p>
+<p><strong>Bobby Jones</strong>: Great. You going to report me? </p>
+<p>(WARRICK opens the refrigerator.) </p>
+<p><strong>Bobby Jones</strong>: Uh, you can't go in there.</p>
+<p><strong>Warrick</strong>: We have a warrant.</p>
+<p>(WARRICK hands the warrant to BOBBY JONES.)</p>
+<p><strong>Bobby Jones</strong>: Th-th-that's my personal fridge.</p>
+<p>(WARRICK finds a container of blood in the fridge.)</p>
+<p><strong>Warrick</strong>: Now, what's this blood doing in there?</p>
+<p>(BOBBY JONES doesn't say anything.)</p>
+<p><strong>Catherine</strong>: Mr. Jones ... I'm going to need a sample of your DNA.</p>
+<p><strong>Bobby Jones</strong>: I bet you don't have a warrant for that.</p>
+<p><strong>Warrick</strong>: (looking at the container) Catherine, I think we have all we need here.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) -- DAY] </p>
+<p>[INT. CSI - BREAK ROOM- DAY]</p>
+<p>(SARA carries the sword to GRISSOM.) </p>
+<p><strong>Sara</strong>: Handle is molded plastic fiber. Materials are used by hundreds of manufacturers throughout the country. It's impossible to trace.</p>
+<p>Nick: Vintage cherry red leathers, bronze pvc fabric, aged. Countless furniture and clothing suppliers. Nothing really unique.</p>
+<p><strong>Sara</strong>: But the ivory on the sword's scabbard is unique. In fact it's not ivory. It's treated bone from an emu. Inexpensive, but not widely used.</p>
+<p>(She gives the sword to GRISSOM.)</p>
+<p><strong>Nick</strong>: Only about half a dozen us importers. One did recently make a sale to a business in Las Vegas.</p>
+<p><strong>Sara</strong>: That same business also bought vintage leather, molded plastics and everything else he used to make this collection.</p>
+<p><strong>Nick</strong>: Chen's scenic prop house -- owned by Graeme Chen of 1 Engelfield Road, Las Vegas, Nevada. Also his place of business.</p>
+<p><strong>Sara</strong>: As of five minutes ago, no one's answering the phone.</p>
+<p><strong>Grissom</strong>: Call Brass. Get a warrant.</p>
+<p>(GRISSOM whips out his mighty sword and startles SARA.)</p>
+<p>CUT TO:<br />
+[INT. CHEN'S SCENIC PROP HOUSE -- NIGHT] </p>
+<p>(The warehouse doors open. BRASS, GRISSOM, SARA and NICK enter and look around.) </p>
+<p><strong>Brass</strong>: You know, I always imagined your house would look like this, Gil.</p>
+<p>(NICK grins at the comment and heads for the back of the room while the others examine the other items along the way.)</p>
+<p><strong>Nick</strong>: Hey, Grissom, check this out.</p>
+<p>(On the table are swords in various stages of completion. GRISSOM and SARA join him as they examine the swords.)</p>
+<p><strong>Sara</strong>: Prototypes, maybe.</p>
+<p><strong>Nick</strong>: Yeah, definitely.</p>
+<p>(In the back, BRASS continues to search the warehouse. He finds the sleeping area. He walks past a large Mikado showboard with a huge ladder leaning up against it pretty much blocking it.)</p>
+<p><strong>Nick</strong>: Looks like Mr. Chen tried a few times before committing.</p>
+<p><strong>Grissom</strong>: Well, he certainly does beautiful work.</p>
+<p>(BRASS puts on his latex gloves and moves aside the pants on the bed only to find a wallet just tossed there. And still, the showboard is in the background with the ladder leaning against it.)</p>
+<p><strong>Brass</strong>: Want to see a picture of Mr. Chen?</p>
+<p>(GRISSOM walks over to BRASS to find him holding up a NEVADA DRIVER LICENSE for:</p>
+<p>CHEN, GRAEME<br />
+55 VISTA COURT<br />
+LAS VEGAS, NEVADA</p>
+<p><strong>Brass</strong>: I guess he lived here, too.</p>
+<p><strong>Grissom</strong>: Mr. Chen is Mr. Yamamoto. He's not even Japanese.</p>
+<p><strong>Brass</strong>: So, this is how Ty Caulfield's high rollers live -- a cot in a warehouse.</p>
+<p><strong>Grissom</strong>: Well, I'm guessing he spent all his money on the baccarat tables, buying himself a reputation. </p>
+<p>(Quick flashback to: GRAEME CHEN at the gambling tables. TY CAULFIELD whispers over to the HEAD of SECURITY as GRAEME CHEN fans open his stack of bills. End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: You got to spend money to make money.</p>
+<p>(NICK moves the ladder covering the showboard.)</p>
+<p><strong>Sara</strong>: Hey. Take a look at this.</p>
+<p>(GRISSOM turns around and walks over to SARA who's staring at the Mikado's showboard. On the front are large photos of the actors of THE 33 THEATRE in LAS VEGAS, NV.)</p>
+<p><strong>Sara</strong>: Brandon Miller, the security guard, the lifeguard, Nathan Pollard, and I'm guessing the registrar, Vanessa Green.</p>
+<p><strong>Nick</strong>: So, Mr. Chen made their costumes, their props and their scenery.</p>
+<p>(GRISSOM looks at the title of the show, Gilbert and Sullivan's &quot;The Mikado&quot;.)</p>
+<p>[CUE BACKGROUND: WOMEN CHORUS SINGING]</p>
+<p><strong>Women</strong>: (echoy) Three little maids from school are we ... </p>
+<p>(GRISSOM starts singing the same phrase.)</p>
+<p><strong>Grissom</strong>: (singing) ... three little maids from school are we ... </p>
+<p>[CUE BACKGROUND: DIGITAL RECORDING TONES BEEPING]</p>
+<p>(We hear the faint echoing combination of the digital recording beeps that opened the CAULFIELD vault.)</p>
+<p>(He puts it together.)</p>
+<p><strong>Grissom</strong>: You ever listen to Gilbert and Sullivan?</p>
+<p><strong>Nick</strong>: (nods) No.</p>
+<p><strong>Grissom</strong>: Ty Caulfield does.</p>
+<p><strong>Sara</strong>: The code from his digital vault.</p>
+<p><strong>Nick</strong>: Coincidence?</p>
+<p><strong>Grissom</strong>: I don't think so. How much does $10 million in cash weigh, I wonder?</p>
+<p><strong>Nick</strong>: A lot.</p>
+<p><strong>Grissom</strong>: Sara, I'm going to need the money bands you collected. Nick, you get to do the math.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- NIGHT] </p>
+<p>(CATHERINE re-interviews BOBBY JONES. She shows him photos of the container of blood.) </p>
+<p><strong>Catherine</strong>: The blood in your personal fridge belonged to Angela Sommerville.<br />
+(She shows a second photo of the bloody lip print.) We found a lip print on the rim of the container we confiscated.</p>
+<p>(Quick flashback to: [INT. CLINIC] BOBBY JONES opens the refrigerator and drinks the blood straight out of the container. End of flashback. Resume to present.)</p>
+<p><strong>Bobby Jones</strong>: It's not a crime to drink someone's blood.</p>
+<p>(They're interviewing BOBBY JONES in a weird looking white room.)</p>
+<p><strong>Warrick</strong>: How did her blood end up in your fridge?</p>
+<p><strong>Bobby Jones</strong>: When Angela came in for her HIV test, she asked me to withdraw an extra unit. She paid me twenty bucks to store it, and never came back to pick it up.</p>
+<p><strong>Catherine</strong>: And what, you just got thirsty? Angela's test date was 32 days ago, and our lab determined that the blood from your fridge was less than a week old. Would you explain that?</p>
+<p><strong>Bobby Jones</strong>: Most girls turn away when I stick the needle in.</p>
+<p>(Quick flashback of: BOBBY JONES drawing ANGELA'S blood as she watches. He notices that she's not afraid of the blood ... or of the pain.)</p>
+<p><strong>Bobby Jones</strong>: (V.O.) She was into it.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Bobby Jones</strong>: I started watching over her. She was dating this wannabe total hollywood freak show.</p>
+<p><strong>Warrick</strong>: Oh, so you're the real thing?</p>
+<p><strong>Bobby Jones</strong>: These don't come </p>
+<p>(He points to his fangs as he smiles proudly at WARRICK.)</p>
+<p><strong>Catherine</strong>: (o.s.) Mr. Jones, give me a file, and I could sharpen my teeth into fangs.</p>
+<p><strong>Bobby Jones</strong>: I was born with these.</p>
+<p><strong>Catherine</strong>: Mm-hmm. The night that Angela was murdered, you were &quot;watching over her.&quot;</p>
+<p>(Quick flashback to: [VIEW THROUGH THE WINDOW] ANGELA begs LAZARUS.)</p>
+<p><strong>Lazarus Kane</strong>: I will not be tied down.</p>
+<p><strong>Angela Sommerville</strong>: No, Lazarus, please don't go.</p>
+<p><strong>Bobby Jones</strong>: (V.O.) The poser just took off.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Bobby Jones</strong>: She ... invited me in.</p>
+<p>(Quick flashback to: ANGELA opens the door to find BOBBY on the doorstep.)</p>
+<p><strong>Angela Sommerville</strong>: Yeah?</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Bobby Jones</strong>: She was glad to see me.</p>
+<p>(Quick flashback to: BOBBY steps into the house.)</p>
+<p><strong>Angela Sommerville</strong>: Who are you?</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Bobby Jones</strong>: We kissed.</p>
+<p>(Quick flashback to: BOBBY kisses ANGELA as she struggles against him.)</p>
+<p><strong>Angela Sommerville</strong>: Get off me!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Bobby Jones</strong>: She, um ... &quot;offered&quot; herself to me.</p>
+<p>(Quick flashback to: BOBBY bites ANGELA.)</p>
+<p><strong>Angela Sommerville</strong>: Stop it!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: You mean she offered her blood to you?</p>
+<p><strong>Bobby Jones</strong>: (smiling at the memory) Yeah.</p>
+<p>(Quick flashback to: BOBBY bites ANGELA as she screams and struggles. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: She may have offered her blood to you, but you took her life. You murdered her.</p>
+<p>(Quick flashback to: BOBBY pulls back and takes her blood. End of flashback. Resume to present.)</p>
+<p>(BOBBY smiles.)</p>
+<p><strong>Bobby Jones</strong>: You can't prove that.</p>
+<p><strong>Catherine</strong>: DNA from your saliva was on the rim of the container. It's consistent with the saliva surrounding the puncture marks on Angela's neck.</p>
+<p><strong>Bobby Jones</strong>: I released Angela from her body. She's inside of me now. A part of me. And she's very much alive.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - EVENING]</p>
+<p>[INT. HOTEL / CASINO - CAULFIELD'S OFFICE -- NIGHT] </p>
+<p>(GRISSOM tosses a bag of money on CAULFIELD'S desk.) </p>
+<p><strong>Ty Caulfield</strong>: What's this?</p>
+<p><strong>Grissom</strong>: This is what's left of your $10 million.</p>
+<p><strong>Ty Caulfield</strong>: Thank you for reminding me.</p>
+<p><strong>Grissom</strong>: Do you know how much $10 million weighs? </p>
+<p>(CAULFIELD shakes his head.)</p>
+<p><strong>Grissom</strong>: 220 pounds. Your lifeguard, Nathan Pollard-- 5'6&quot;, 140 pounds. </p>
+<p><strong>Ty Caulfield</strong>: Strong little b*st*rd.</p>
+<p><strong>Grissom</strong>: Mmm. Say, could I borrow $10,000 in $100 bills?</p>
+<p><strong>Ty Caulfield</strong>: What?</p>
+<p><strong>Grissom</strong>: Only for a demonstration.</p>
+<p><strong>Ty Caulfield</strong>: I'm sorry. I'm all out.</p>
+<p><strong>Grissom</strong>: That's okay. I brought my own. (GRISSOM shows him the blank money bills.) It's only paper, but it's the same size, weight and density. (He puts it down on the table to continue the demonstration.) Did you know ... money bands are wrapped tightly around stacks of bills? They're very difficult to slip off. In fact, the only way you can get them off is to tear them.</p>
+<p><strong>Ty Caulfield</strong>: What's your point?</p>
+<p><strong>Grissom</strong>: None of your money bands were torn. Now, I don't know how much money you had in your vault, Mr. Caulfield, but I'm pretty sure I know how much you're going to be asking your insurance company for. You see, that's why you had your<br />
+&quot;thief&quot; leave the money bands behind. You hired Mr. Chen and his merry band of actors to rip you off. I'm sure you paid them, but nothing close to $10 million. </p>
+<p><strong>Ty Caulfield</strong>: &quot;Your notions, though many, are not worth a penny.&quot;</p>
+<p><strong>Grissom</strong>: Mmm. &quot;The Mikado&quot;.</p>
+<p><strong>Ty Caulfield</strong>: Notions are all you have. Otherwise, we'd be downtown instead of here in my office. You know, I've always been a big supporter of the arts. Hence, Mr. Yamamoto ... </p>
+<p><strong>Grissom</strong>: Uh, Mr. Chen's ... </p>
+<p><strong>Ty Caulfield</strong>: hence, the exhibition. Over the years, I've financed theatrical productions.</p>
+<p><strong>Grissom</strong>: Including The Mikado? Well, you know, one of your &quot;partners&quot; is going to come back again someday. He's going to miss his family, friends, the ensemble. He'll be back. And I'm guessing he'll tell us all about your latest production.</p>
+<p><strong>Ty Caulfield</strong>: Yes, well, until then, Mr. Grissom.</p>
+<p><strong>Grissom</strong>: Until then.</p>
+<p>(GRISSOM stands up and collects his things.)</p>
+<p><strong>Grissom</strong>: I'm going to hand my findings over to your insurance company. I wouldn't count on receiving a payment.</p>
+<p>(GRISSOM picks up his kit and heads out the door ... whistling.)</p>
+<p>FADE TO BLACK</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
-
-Ty Caulfield:  People say that Las Vegas has no culture, ... no history-- that we emulate, ... not create.
-
-
-
-Ty Caulfield: They forget that this was once a desert from which this city was created. 
-
-Ty Caulfield: Millions come every week and share their money with us. Well, tonight, we give back.
-
-Ty Caulfield:  An exhibition of rare and valuable japanese antiquities.
-
-Ty Caulfield:  Shown in the us for the first time,
-
-Ty Caulfield:  ... this 17th century samurai collection ... 
-
-Ty Caulfield:  ... is owned by one of the Mediterranean's most special guests, Mr. Yuri Yamamoto, who sadly can't be here with us tonight.
-
-Ty Caulfield: To his impeccable taste. On behalf of my hotel and the City of Las Vegas, I thank him.
-
-
-
-
-
-
-Vanessa Green: The cable fell. He was electrocuted.
-
-Vanessa Green: Oh, my god.
-
-
-
-Security Guard: Excuse me. Okay, folks. I need everyone to stay back. There's a live wire in the pool, okay? Everybody stand back.
-
-
-
-Brass: Watch yourself Gil.
-
-Grissom: This is odd. Arms and legs become deadweight in the water. He should have sunk to the bottom of the pool. 
-Sara: He wouldn't float until after putrefaction.
-Grissom: Sara, would you see where the source of that cable is?
-Sara: Yeah.
- 
-Sara: Found the power source. Car battery.
-
-
-
-Grissom: This is not a crime scene.
-
-
-
-
-
-
-Grissom: THIS is a crime scene.
-HARD CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Grissom: I'm sorry, but there's really no gentle way to do this.
-
-
-Brass: Keep these people out. And turn that damn thing off, will you?
-
-Sara: They only took the one piece. Samurai sword, 17th century.
-Brass: They say how much it was worth?
-Sara: Worth the risk of walking past 100 guests into a guarded room.
-
-Brass: Hey, buddy, you see anything?
-
-Brandon Miller: No. I got hit from nowhere. Next thing I know, I'm taped up.
-
-Grissom: Blood smear on the desk.
-
-
-
-Brandon Miller: I feel like an idiot.
-Grissom: Well, you may have a concussion.
-Brass: Let's get you checked out.
-
-Brass: Paramedics out there?
-
-Brass: Check him up.
-
-
-Head of Hotel Security: Well, none of my men saw anyone suspicious enter or exit.
-Brass: The surveillance cameras?
-
-Head of Hotel Security: Our cameras only watch the money and the exits. Not rooms like these. Damn, they got the sword. Most expensive piece in the collection. This is all Mr. Caulfield needs right now.
-
-Brass: Why is that?
-Head of Hotel Security: 9/11, the depressed Asian economy, Indian gaming in California. Every casino on the strip's taken a hit.
- 
-Brass: I'm going to want to talk to the girl who found the body.
-
-
-Sara: Smells sweet. The sign over there says no food or drink in this room, right?
-Grissom: Make sure you take it back to Greg.
-
-
- 
- 
-Woman Officer: My third time at this address. Two suicides a few years ago, and now a 419. This house is cursed.
-
-Catherine: You don't strike me as the type who believes in curses.
-
-Woman Officer: Yeah, well, I'm not the type to believe in coincidences, either.
-Warrick: Is this house abandoned?
-Woman Officer: Bank foreclosed four years ago. Been vacant ever since. 
-
-Woman Officer: Neighbor heard a scream. I was the responding officer.
-
-
-
-Catherine: Uh ... oh, hey, David.
-David Phillips:  Oh, hey. Uh, jugular's been punctured. 
-
-David Phillips: Two marks.  Possibly bite marks.
-Catherine: Bite marks?
-
-David Phillips: Punctures are 32 millimeters apart. That's the average distance between the eyeteeth in an adult male's mouth.
-Catherine: Right, but those punctures aren't consistent with human teeth.
-David Phillips: Yeah, well, what about fangs?
-Warrick: Fangs? Come on.
-
-David Phillips: Wounds are deep. She bled out.
-Warrick: Then where's all the blood?
-David Phillips: Lividity tells me she wasn't moved postmortem, so, I don't know.
-Warrick: I'm going to take a look around.
-
-Catherine: David, I don't know a whole lot about vampires, but if she was bit, there's spit, and if there's spit, there's DNA, so swab the neck.
-Warrick:  Catherine, take a look at this. 
-
-
-Warrick: Please tell me that's not blood.
-
-Catherine: Negative. It's probably just house paint.
-Warrick: Well, we know one thing for sure. This place wasn't vacant. 
-
- 
- 
-Brass: Come on, nobody should have been allowed to leave.
-Head of Hotel Security: Your officers didn't say anything about detaining Mr. Caulfield's guests.
-Brass: Just give me a list of names, okay?
-Head of Hotel Security: Yeah.
-
-Nick: Weird night.
-Brass:  That's not the only dummy here.
-Nick: Yeah, it's a CPR demonstration dummy. Fully articulated.
-Brass: Oh, yeah?
-Nick: Yeah. You know, paramedics, firemen -- they use these things to teach lifesaving techniques.
-Brass: Any prints?
-Nick: Oh, no, no, no. Been in the water way too long, man. Sorry.
-
- 
- 
-Robbins: David says you found evidence of vampires in North Las Vegas.
-Warrick: Well, let's just say evidence at the crime scene suggests occult, ritualistic activity.
-Catherine: I'm not sure what we found. Did you ID the Vic?
-Robbins: Angela Sommerville, 20, from Henderson. License was in her pocket. Cause of death: Exsanguination.
-Warrick: You check out her fangs?
-Robbins: Well, her bark was worse than her bite.
-
-Robbins: There we go.
-
-Robbins: Ah. They're acrylic. Check out her gum line.
-
-Robbins: Thin grooves carved into the canine's enamel. Fangs are clip-ons. Multiple bite marks on the tongue suggest she was still breaking them in.
-Catherine: Warrick, the symbol on her ankle -- it's similar to the one that was painted on the floor of the crime scene.
-
-Warrick: The ankh. Egyptian symbol for eternal life. I went on-line and found out it's also the universal insignia for vampires.
-Robbins: Dracula didn't drink all her blood. I sent a sample to tox. I'm not sure if it's probative. 
-
-Robbins: Multiple incised wounds on the anterior of both shoulders. Some are fresh.
-Warrick: Well, the shoulder area is rich in blood, right? Heals quickly?
-Robbins: Yeah. 
-
-Catherine: Relevance?
-Warrick: I figure, if you're going to drink someone's blood, it's a good place to start.
-Catherine: Then why switch to the jugular?
-
- 
- 
-Sara: Hey. Got anything?
-Grissom: A partial thumb, perhaps, on the tape that was used to cover the security guard's mouth. Not torn, either. Both ends were cut.
-Sara: Pre-cut, in fact. Indicates planning.
-Grissom: How about you? 
-Sara: Trace analyzed the liquid we found near the suit of armor: Glucose syrup.
-Grissom: Sugar water. Why just the sword?
-Sara: Well, it is the one piece from the exhibit you could hide on your person. Down a pant leg, maybe, or ... 
-Grissom: Yeah, but if you're going to steal from a casino, why take an antique? Why not take cash?
-Sara: Good point.
-Grissom: How's your knowledge of Japanese history, particularly, antiquities?
-Sara:  Not good. Why?
-Grissom: To find the hunter ... know the game.
-
-
-
-
- 
-
- 
-Mrs. Sommerville: Angela was the sweetest child. She actually liked spending time with us. Her friends were always over here, and then ... puberty hit and everything changed. 
-
-Mr. Sommerville: She shaved her head, then she grew dreads. 
-Mrs. Sommerville: It was like she couldn't get comfortable in her own skin.
-
-Mrs. Sommerville: About, um, six months ago, Angela went Goth. Black clothing ... she only went out at night ... 
-Mrs. Sommerville: We tried to support Angela the best we could. We only wanted her to be happy.
-
-Catherine: &quot;The Black Veil: 13 Rules of Community.&quot;
-Mrs. Sommerville: Guidelines for Vampires. She wrote them down in there, along with all her thoughts.
-Catherine: So you've read what's in here? 
-
-Catherine: Your daughter believed that she was a vampire?
-Mrs. Sommerville: She was 18. She wanted to stand out, to be special. I tried not to judge her, but I also wanted to know what was going on in her head.
-Mr. Sommerville: She snooped.
-
-Mrs. Sommerville: Each time Angela tried something new, I would take a crash course.
-(CATHERINE reaches into the bookshelf and pulls out a piece of paper. She looks at it:
-HIV TEST RESULTS
---NAME: ANGELA SOMMERVILLE
---ID: 3759060X
---AGE: 20
---SEX: F
---E ID NO: 6729-BAMI
---SESSION NO. 716885 20
---ER ID NO. 70722345
-RESULT UNITS
-NEGATIVE COPIES ... 
-Catherine: Lab results.
-Mrs. Sommerville: Angela's HIV test. It was negative. That was the one thing we insisted upon, not that it matters now.
-
-Warrick: Who's the guy?
-Mrs. Sommerville: Angela wouldn't say. The statue's an incubus. According to the legend, incubi seduce young women while they sleep ... and drink their blood.
-Catherine: Well, your daughter was found in an abandoned house. And we believe that there was, um, someone there with her. Do you have any idea who that might be?
-Mrs. Sommerville: Her court. I can give you their names.
-Catherine: Her &quot;court&quot;?
-Mrs. Sommerville: It's like a coven for vampires.
-
- 
-[INT. HOTEL/ CASINO - EXHIBITION ROOM -- DAY
- 
-
-Sara: Don't tell me, they came back and stole the rest?
-Head of Hotel Security: No, not quite. At Mr. Yamamoto's request, the collection's been moved to Mr. Caulfield's office vault. He was pretty upset. He's on his way here now from Tokyo.
-Sara: We were hoping to take a look at the rest of the exhibit.
-Head of Hotel Security: Mr. Caulfield's vault is off limits.
-Grissom: Okay, what about photographs?
-
-Head of Hotel Security: You're in luck there. Our hotel registrar took polaroids of the collection when she logged it in.
-
-Sara: Can we talk to her?
-Head of Hotel Security: Well, Miss Green is on vacation, but, uh, I can try and contact her.
-
-Grissom: Well, this is just a list of inventory. How about the insurance policy?
-Head of Hotel Security: Yamamoto carried his own insurance. 
-
-Head of Hotel Security: Our hotel registrar just documents the condition of each piece. We extended Mr. Yamamoto every courtesy, but weren't going to assume responsibility. This is a Casino, not a museum.
-
-
- 
- 
-Catherine: Alice, you need to answer the question.
-Court Girl 1: She won't respond to that name. She goes by Luminessa.
-Catherine: Okay, let's start over. Do any of you ladies recognize this man?
-
-Warrick: When was the last time you saw Angela?
-Alice : Who?
-
-Catherine: Okay. All right, I've had enough.  Your friend is dead. This is a murder case. If you're not willing to help us, we will split you up and treat you as suspects. Hold you for 24 hours. Is that what you want?
- 
-Alice : We called her Daegonna. We were together last night. At court.
-
-Angela Sommerville:  Being a vampire is about feeding.
- This is pathetic.
-
-Alice : Angela had been going to this blood bar. Wanted us to join her.
-Warrick: Blood bar?
-Alice : The people who go there, they drink blood.
-Court Girl 1: For real.
-Court Girl 2: Hardcore.
-Warrick: And I guess you girls don't do that?
-Court Girl 1: Hell, no. And that's what we told her. She totally lost it. She called us &quot;Gajas.&quot;
-Warrick: Which is ... ?
-Court Girl 1: A fashion vampire. Normal people who just play dress-up.
-Court Girl 2: You don't have to drink blood to be a vampire.
-Alice : For us, it's spiritual. We feed off each other's energies.
-Court Girl 1: Yeah.
-Court Girl 2: Energy.
-Court Girl 1: So, we voted her invisible. Kicked her out of our court.
-Alice : But she wouldn't leave. So we did. And that's the last time we saw her.
-
-
- 
- 
-Sara: Other items in the exhibit include a 17th century decorated silk.
-
-Sara: 17th century iron war mask.
-
-Sara: 17th century kabuki robe used in the first kabuki dances in Kyoto.
-(GRISSOM stops in front of the empty display case with the card still in it:
-Suit of Armor
-17th c.
-lacquer, horsehair, iron, beading, silk cord, wood
-Collection of Yuri Yamamoto
-The Japanese suit of samurai armor was only worn by the highest military class and emperors. Oda Nobunaga played a key role in shaping the course of history in feudal Japan. His policy of unifying a country controlled by many feuding daimyo was furthered in a series of victories characterized by brilliant war tactics and firearms. )
-Grissom: Seventeenth century suit of armor. Wasn't the Japanese military established long after that?
-Sara: Let's see.
-
-Sara:  1868, by Emperor Ma-ji? Meiji?
-Grissom: So, this is out of place.
-Sara: Just like the sugar water we found nearby.
-
-Grissom: Grissom.
-Nick: Grissom, ... 
-
-
-Nick: I got a hit on your partial print from the hotel employee database.  Brandon Miller. He's your duct-taped security guard.
-Grissom: I thought he was unconscious. How does his prints end up on the tape?
-
-Nick: You tell me.
-Grissom: All right. Thanks, Nick. 
- 
-Grissom: Sara?
-Sara: Hmm?
-Grissom: Do you have any duct tape in your kit?
-Sara: Yeah, it's what I use to keep it together.
-
-Grissom: Thank you.
-
-Sara: He taped himself up.
-Grissom: We've been conned.
-
-Sara: Well, you saw the paramedics take him out of here. If he'd had a samurai sword hanging out of his pant leg, you would've noticed.
-
-
-
-Grissom: huh. Domo arigato.
-
- 
- 
-Head of Hotel Security: So Brandon Miller never made it to the hospital, huh? Concussion, my happy ass.
-Grissom: It's an old trick. Don't steal the item; just leave it at the location, come back and get it when the cops leave.
-Head of Hotel Security: Well, your timing's perfect. Mr. Yamamoto just arrived. Mr. Caulfield's with him right now.
-
-
-Head of Hotel Security: Mr. Caulfield.
-
-Head of Hotel Security: You asked to be kept up to date on our progress.
-Ty Caulfield: I'll be damned. You found the guy?
-Grissom: Perhaps. We found the sword.
-Ty Caulfield:  See? I promised you this matter would be resolved, Yuri.
-
-Grissom: Uh ... we'll need to take this back to our lab.
-Yuri Yamamoto: No. You people have already lost it once.
-
-Grissom: It's part of an on-going investigation. We need to process it.
-Yuri Yamamoto: This sword is invaluable. 
-Grissom: To us as well.
-Ty Caulfield: Surely this is open for conversation, Mr ...
-Grissom: I don't think so. I do have a question for Mr. Yamamoto. Your collection is primarily 17th century, but we found one piece, a suit of armor, that our research dates to the mid-19th century.
-Yuri Yamamoto: I don't have a suit of armor in my collection.
-
-Yuri Yamamoto: What is going on here?
-Grissom: Mr. Caulfield, we'd like to take a look at your personal vault.
-
- 
- 
-Ty Caulfield: Oh, my god. The cash-- it's gone.  How the hell did they get in here?
-
-Grissom: How much cash did you have in here?
-Ty Caulfield: Ninety percent of the casino's cash is in the basement vault. I only keep an emergency reserve here.
-
-Ty Caulfield: Ten million ... at all times.
-
-Grissom: There's the suit of armor. The Trojan Horse?
-Sara: Someone was inside the armor, hiding in plain sight?
-
-
-
-Grissom: Might be.
-
-Ty Caulfield: And you just wheeled him in here? 
-
-Ty Caulfield: Get my lawyer. Assemble everyone. I need answers.
-Head of Hotel Security: Yes, sir.
-
-Grissom: And the con goes on.
-
-
-
-;
-
-
-
- 
-
- 
-
-Grissom: Well, this explains the glucose. Food source. Probably didn't know how long he was going to be in the suit.
-Sara: What's in the other bag?
-Grissom: Urine.  He was in there for a while. How you doing with those money bands?
-Sara: Ten thousand dollars per band. When I get to a thousand, I'll let you know.
-
-Grissom: I think it's the code from the vault. Must've recorded it.
-
-
-
-Ty Caulfield: How did you open the safe door?
-Grissom: The same way our thief did: Using your musical code.
-
-Grissom: Mr. Caulfield, you have video surveillance?
-Ty Caulfield: Nothing in my vault or in my office, but I'll get you everything from this floor. 
-
- 
- 
-Greg: For you ... 
-
-Greg: ... and you. Just in case.
-Catherine: Are Angela's tox result in yet?
-Greg: Blood alcohol level of .14 percent.
-Catherine: Her friends didn't say anything about drinking.
-Greg: Well, I'm just getting warmed up. Tox panel detected traces of thujone. Thujone is the psychoactive chemical found in absinthe, a liquor distilled from wormwood.
-Warrick: Isn't absinthe illegal?
-Greg: In the US. Banned in 1912. Apparently, toxic byproducts are released during the distilling process. Stuff's supposed to make you a little crazy.
-Catherine: And how would Angela get a hold of this?
-Greg: Well, this is not coming from personal experience, but according to a friend of a friend of an acquaintance, absinthe is rumored to be served in certain underground clubs. 
-Warrick: Like a blood bar.
-
- 
- 
-Lyric: Are you ... ready for the new ...? / Stand up and admit it: Tomorrow's never coming / this is the new ... / stand up and admit it / do we need it? / No! / Do we want it? / Yeah! / This is the new ... 
-
-Catherine: Mind if we join you?
-Lazarus Kane: Sure. What are you into?
-Warrick: We're into crime scenes.
-Catherine: And you are ... ?
-Lazarus Kane: Lazarus Kane.
-Warrick: Did Angela Sommerville call you that?
-Lazarus Kane: I don't know any Angela Sommerville.
-Warrick: What about Daegonna?
-Lazarus Kane: She file a complaint against me?
-Catherine: Why would she do that?
-Lazarus Kane: Look, everything we did was consensual. It's not illegal to drink someone's blood. She was into it. That neonate ... she offered herself to me.
-Warrick: Did she offer herself to you last night?
-Lazarus Kane: We had a drink together here.
-Warrick: Absinthe?
-Lazarus Kane: What's this about?
-Catherine: Was that the last time you saw her?
-Lazarus Kane: No. Later on, I swung by her court and daggered the relationship.
-Catherine: How long had the two of you been together?
-Lazarus Kane: For the past three months, she's been my &quot;donor&quot;.
-
-Catherine: And you were her donor?
-Lazarus Kane: No, it doesn't work like that. Daegonna belonged to me.
-Catherine:  Okay... but you were someone's donor.
-Lazarus Kane: Well, under the right circumstances, I'll do just about anything.
-Warrick: How 'bout murder? Daegonna was killed last night.
-Lazarus Kane: Well, I don't know anything about that. See, I follow very strict guidelines: Black veil. Principle 11: You never mistreat your donors.
-Catherine: And that pendant around you neck? That wouldn't happen to contain blood, would it?
-Lazarus Kane: Yeah.
-Catherine: Whose?
-Lazarus Kane: It's Daegonna's, okay? She gave it to me couple weeks ago. I offered to give it back, but she wanted me to keep it ... said her PSI belonged to me.
-Warrick: &quot;Psi&quot;?
-Lazarus Kane: Life-force, blood. 
-Warrick: We're going to need that pendant for evidence.
-Catherine: And a sample of your ... DNA.
-
-Lazarus Kane: Knock yourself out.
-Catherine: Oh, I prefer saliva.
-Lazarus Kane:  Aw ... 
-Catherine: Open up.
-
-Catherine: Right.
-
-
-
- 
- 
-Nick: There's our man.
-Grissom: And the time?
-Nick: 3:15 A.M.
-Sara: He's certainly aware of the cameras.
-Nick: Yeah, you really can't get a good look at him from any angle. He's walking like he crapped his pants.
-Grissom: I'm thinking that might be the money.
-
- 
-Grissom: An employee ID card?
-Nick: It gets better.
-
-
-Sara: That's Brandon Miller, the security guard.
-Grissom: Hmm. Okay, so find the best shot you can of our mystery thief. If he is an employee, you should be able to ID him.
-Nick: There's over three thousand employees who work at the Mediterranean, and this guy is not really giving me much to go on here.
-Grissom: Yes, but technology is a wonderful thing, Nick.
-(GRISSOM turns and leaves. SARA puts a hand on NICK'S shoulder, gives him a
-&quot;glad its you and not me&quot; smile, then follows GRISSOM out the door.)
-
- 
- 
-Greg: Lazarus may have been sucking on Angela's shoulders, but he did not bite her jugular. His DNA's inconsistent with the saliva swabbed from the puncture wounds around her neck.
-Warrick: Damn. 
-Catherine: What about that pendant?
-Greg: You know, nothing says &quot;I love you&quot; like an ounce of fresh blood. It is Angela's blood, and it's mixed with a polyester base. Polyester base is an inert fluid pre-packaged in test tubes used for HIV testing. It helps prepare the blood for centrifugation by forming a barrier between the blood cells and the serum.
-Warrick: Angela's parents only insisted upon only one thing ...
-Catherine: ... that she be tested for HIV.
-
- 
- 
-Lyric: Hey, you ugly people / I want you to set my baby free / hey, people / set my baby free / said he was man / what did he know / spent his time living in a casino / never know / couldn't get away, couldn't ever get it anyway / couldn't ever level 'cause he's living like a devil / hey / hey, set my baby free / set my baby free ... 
-
-DISSOLVE TO:
- 
-
- 
-Lifeguard: Yeah, that's Nathan. Do me a favor when you find him. Let him know he's fired. He hasn't shown up in four days.
-Nick: Will do. You missing anything else around here?
-Lifeguard: Like what?
-Nick: CPR dummy.
-Lifeguard: Yeah. Had to cancel a class on Sunday 'cause we couldn't find Macaulay.
-Sara: Macaulay?
-Lifeguard: Culkin. Our dummy. You know, 'cause his mouth is always open.
-
-Nick: Is this Macaulay?
-Lifeguard: Yeah, that's him. Can we get him back?
-Sara: Soon as we're done with him.
-
- 
- 
-Sara: Security guard put the sword in the crawlspace. It's got to be his prints.
-Grissom: Well, let's find out, shall we?
-
-Nick: Hey. 
-Grissom: Nick, want to do me a favor and tape-lift that?
-Nick: Sure.
-
-
-Nick: Grissom, how's our insurance?
-
-Nick: I was being careful, I swear.
-
-Grissom: Should four-hundred-year-old lacquer look this good? 
-And smell like acrylic?
-
-Sara: What kind of precious stone breaks that easily?
-Grissom: A fake one. This is nothing more than a hardened ball of wax.
-Nick: Do you think someone switched swords on us?
-Grissom: Well, so far, nothing's what it seems.
-
-
- 
- 
-
-Sara: Smells like tea.
-Grissom: Sometimes paper products or other materials like silk -- they soak it in tea to give an aged look.
-Nick: The paint on this mask is coming right off, layer by layer.
-Grissom: I think this is boot polish.
-Sara: Another aging method?
-
-Nick: So it's not just the sword. This ... his whole collection's a fake?
-Ty Caulfield: A what?
-Grissom: We believe this collection is worthless. Well-made, historically accurate, ... probably worthless.
-
-Grissom: Your head of security said that Mr. Yamamoto's collection was documented by an internal registrar.
-Ty Caulfield: Vanessa Green. I-I thought you spoke to her yesterday.
-Grissom: She was on vacation ... but even though she's not an official appraiser, she should've been able to tell these were fakes, don't you think?
-
-
- 
- 
-
-Ty Caulfield: Mr. Yamamoto? Mr. Yamamoto? I'd like a word with you. Mr. Yamamoto?
-Grissom: It seems he's left.
-Head of Security: Gentlemen, no luggage. Nothing. 
-
-Ty Caulfield: Son of a bitch! He made a fool out of me.
-Grissom: Well, we have that in common.
-Ty Caulfield: Find out when he checked out.
-Head of Security: I'm on it.
-Ty Caulfield: And Vanessa Green. Where did she go?
-
-Grissom: Brandon Miller, Nathan Pollard, Vanessa Green, and Yuri Yamamoto. Three of your employees and one whale ... all evidently disappear.
-Ty Caulfield: Along with my $10 million.
-
-Head of Security: Yamamoto never checked out. Vanessa Green made reservations at the Princeville in Kauai. She never checked in.
-Ty Caulfield: And he left without his antiques.
-Grissom: Well ... he knew they were worthless.
-
-
-
-
- 
- 
-Catherine: Um ... 
-Bobby Jones: I'll be right with you.  The tests will be mailed to you in seven days, and they'll include a toll-free number if you have any questions.
-Woman: Thank you. I didn't feel a thing.
-
-Bobby Jones: Walk-ins? Or do you have an appointment?
-Warrick: We're from the crime lab. We're here about a Miss Angela Sommerville. Last month, your clinic tested her blood.
-Bobby Jones: Actually, we don't do the testing. Common mistake. I'm contracted by Adminalab to withdraw blood, and the lab processes. And the whole thing is confidential, so ...
-Catherine: Oh, we've already seen her results. She's dead, so, the confidentiality privilege no longer applies. We need to know which tech withdrew her blood.
-Bobby Jones: I'm the only tech here.
-Catherine: Oh. Well, there was a pendant with her blood inside it.
-Bobby Jones: What does that have to do with me?
-Catherine: Her blood was mixed with a polyester base. I think you know what that means.
-Bobby Jones: I ... know who you're talking about.
-
-Angela Sommerville: I have a favor to ask you.
-
-Angela Sommerville: Do you want to help?
-
-Bobby Jones: I'd taken more than enough for testing purposes, so, I figured it's her blood. Why not just give it to her?
-
-Catherine: My bet is that it's against your lab's policy.
-Bobby Jones: Great. You going to report me? 
- 
-Bobby Jones: Uh, you can't go in there.
-Warrick: We have a warrant.
-
-Bobby Jones: Th-th-that's my personal fridge.
-
-Warrick: Now, what's this blood doing in there?
-
-Catherine: Mr. Jones ... I'm going to need a sample of your DNA.
-Bobby Jones: I bet you don't have a warrant for that.
-Warrick:  Catherine, I think we have all we need here.
-
- 
-
- 
-Sara: Handle is molded plastic fiber. Materials are used by hundreds of manufacturers throughout the country. It's impossible to trace.
-Nick: Vintage cherry red leathers, bronze pvc fabric, aged. Countless furniture and clothing suppliers. Nothing really unique.
-Sara: But the ivory on the sword's scabbard is unique. In fact it's not ivory. It's treated bone from an emu. Inexpensive, but not widely used.
-
-Nick: Only about half a dozen us importers. One did recently make a sale to a business in Las Vegas.
-Sara: That same business also bought vintage leather, molded plastics and everything else he used to make this collection.
-Nick: Chen's scenic prop house -- owned by Graeme Chen of 1 Engelfield Road, Las Vegas, Nevada. Also his place of business.
-Sara: As of five minutes ago, no one's answering the phone.
-Grissom: Call Brass. Get a warrant.
-
-
- 
- 
-Brass: You know, I always imagined your house would look like this, Gil.
-
-Nick: Hey, Grissom, check this out.
-
-Sara: Prototypes, maybe.
-Nick: Yeah, definitely.
-
-Nick: Looks like Mr. Chen tried a few times before committing.
-Grissom: Well, he certainly does beautiful work.
-
-Brass: Want to see a picture of Mr. Chen?
-(GRISSOM walks over to BRASS to find him holding up a NEVADA DRIVER LICENSE for:
-CHEN, GRAEME
-55 VISTA COURT
-LAS VEGAS, NEVADA
-Brass: I guess he lived here, too.
-Grissom: Mr. Chen is Mr. Yamamoto. He's not even Japanese.
-Brass: So, this is how Ty Caulfield's high rollers live -- a cot in a warehouse.
-Grissom: Well, I'm guessing he spent all his money on the baccarat tables, buying himself a reputation. 
-
-Brass: You got to spend money to make money.
-
-Sara: Hey. Take a look at this.
-
-Sara: Brandon Miller, the security guard, the lifeguard, Nathan Pollard, and I'm guessing the registrar, Vanessa Green.
-Nick: So, Mr. Chen made their costumes, their props and their scenery.
-
-
-Women:  Three little maids from school are we ... 
-
-Grissom:  ... three little maids from school are we ... 
-
-
-
-Grissom: You ever listen to Gilbert and Sullivan?
-Nick:  No.
-Grissom: Ty Caulfield does.
-Sara: The code from his digital vault.
-Nick: Coincidence?
-Grissom: I don't think so. How much does $10 million in cash weigh, I wonder?
-Nick: A lot.
-Grissom: Sara, I'm going to need the money bands you collected. Nick, you get to do the math.
-
-
- 
- 
-Catherine: The blood in your personal fridge belonged to Angela Sommerville.
- We found a lip print on the rim of the container we confiscated.
-
-Bobby Jones: It's not a crime to drink someone's blood.
-
-Warrick: How did her blood end up in your fridge?
-Bobby Jones: When Angela came in for her HIV test, she asked me to withdraw an extra unit. She paid me twenty bucks to store it, and never came back to pick it up.
-Catherine: And what, you just got thirsty? Angela's test date was 32 days ago, and our lab determined that the blood from your fridge was less than a week old. Would you explain that?
-Bobby Jones: Most girls turn away when I stick the needle in.
-
-Bobby Jones:  She was into it.
-
-Bobby Jones: I started watching over her. She was dating this wannabe total hollywood freak show.
-Warrick: Oh, so you're the real thing?
-Bobby Jones: These don't come 
-
-Catherine:  Mr. Jones, give me a file, and I could sharpen my teeth into fangs.
-Bobby Jones: I was born with these.
-Catherine: Mm-hmm. The night that Angela was murdered, you were &quot;watching over her.&quot;
-
-Lazarus Kane: I will not be tied down.
-Angela Sommerville: No, Lazarus, please don't go.
-Bobby Jones:  The poser just took off.
-
-Bobby Jones: She ... invited me in.
-
-Angela Sommerville: Yeah?
-
-Bobby Jones: She was glad to see me.
-
-Angela Sommerville: Who are you?
-
-Bobby Jones: We kissed.
-
-Angela Sommerville: Get off me!
-
-Bobby Jones: She, um ... &quot;offered&quot; herself to me.
-
-Angela Sommerville: Stop it!
-
-Warrick: You mean she offered her blood to you?
-Bobby Jones:  Yeah.
-
-Catherine: She may have offered her blood to you, but you took her life. You murdered her.
-
-
-Bobby Jones: You can't prove that.
-Catherine: DNA from your saliva was on the rim of the container. It's consistent with the saliva surrounding the puncture marks on Angela's neck.
-Bobby Jones: I released Angela from her body. She's inside of me now. A part of me. And she's very much alive.
-
-
- 
- 
-Ty Caulfield: What's this?
-Grissom: This is what's left of your $10 million.
-Ty Caulfield: Thank you for reminding me.
-Grissom: Do you know how much $10 million weighs? 
-
-Grissom: 220 pounds. Your lifeguard, Nathan Pollard-- 5'6&quot;, 140 pounds. 
-Ty Caulfield: Strong little b*st*rd.
-Grissom: Mmm. Say, could I borrow $10,000 in $100 bills?
-Ty Caulfield: What?
-Grissom: Only for a demonstration.
-Ty Caulfield: I'm sorry. I'm all out.
-Grissom: That's okay. I brought my own.  Did you know ... money bands are wrapped tightly around stacks of bills? They're very difficult to slip off. In fact, the only way you can get them off is to tear them.
-Ty Caulfield: What's your point?
-Grissom: None of your money bands were torn. Now, I don't know how much money you had in your vault, Mr. Caulfield, but I'm pretty sure I know how much you're going to be asking your insurance company for. You see, that's why you had your
-&quot;thief&quot; leave the money bands behind. You hired Mr. Chen and his merry band of actors to rip you off. I'm sure you paid them, but nothing close to $10 million. 
-Ty Caulfield: &quot;Your notions, though many, are not worth a penny.&quot;
-Grissom: Mmm. &quot;The Mikado&quot;.
-Ty Caulfield: Notions are all you have. Otherwise, we'd be downtown instead of here in my office. You know, I've always been a big supporter of the arts. Hence, Mr. Yamamoto ... 
-Grissom: Uh, Mr. Chen's ... 
-Ty Caulfield: hence, the exhibition. Over the years, I've financed theatrical productions.
-Grissom: Including The Mikado? Well, you know, one of your &quot;partners&quot; is going to come back again someday. He's going to miss his family, friends, the ensemble. He'll be back. And I'm guessing he'll tell us all about your latest production.
-Ty Caulfield: Yes, well, until then, Mr. Grissom.
-Grissom: Until then.
-
-Grissom: I'm going to hand my findings over to your insurance company. I wouldn't count on receiving a payment.
-
-FADE TO BLACK
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=04x13+-+Suckers&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127366%23p127366" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=04x13+-+Suckers&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127366%23p127366" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127366%23p127366&amp;name=04x13+-+Suckers" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127366%23p127366" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=f9eaf9e8662f101fb493d5dda90c4cc3">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=f9eaf9e8662f101fb493d5dda90c4cc3">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=f9eaf9e8662f101fb493d5dda90c4cc3">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=f9eaf9e8662f101fb493d5dda90c4cc3">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

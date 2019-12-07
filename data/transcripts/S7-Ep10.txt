@@ -1,725 +1,955 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="FADE IN: 
+[EXT. LAS VEGAS CITY (STOCK) – NIGHT]
+[EXT. CONSTRUCTION SITE -- NIGHT] 
+(A lone figure carries a body through the construction site. His " />
+<meta property="og:title" content="07x10 - Loco Motives - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="FADE IN: 
+[EXT. LAS VEGAS CITY (STOCK) – NIGHT]
+[EXT. CONSTRUCTION SITE -- NIGHT] 
+(A lone figure carries a body through the construction site. His " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13343" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>07x10 - Loco Motives - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13343" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13343">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=ef544ef0f9aef150809f3b664f63f464"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=ef544ef0f9aef150809f3b664f63f464">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=ef544ef0f9aef150809f3b664f63f464">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=ef544ef0f9aef150809f3b664f63f464">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=ef544ef0f9aef150809f3b664f63f464">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13343&amp;sid=ef544ef0f9aef150809f3b664f63f464&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>07x10 - Loco Motives</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127437">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127437">07x10 - Loco Motives</a></div>
+							<div class="pull-right text-right"><time datetime="2006-12-21T18:57:21Z">12/21/06 18:57</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>FADE IN: </p>
+<p>[EXT. LAS VEGAS CITY (STOCK) – NIGHT]</p>
+<p>[EXT. CONSTRUCTION SITE -- NIGHT] </p>
+<p>(A lone figure carries a body through the construction site. His feet stagger in the dirt under the weight.) </p>
+<p>VARIOUS DISSOLVES OF: The man continues to carry the body through the construction site.</p>
+<p>(The man adjusts his hold on the barefooted body wrapped in a blanket. He starts walking across a board leading to the still drying concrete. He tosses the body onto the concrete. The body lands with a splat, unrolls and the body comes to a halt.)</p>
+<p>(The man nearly loses his balance as he looks at the body out on the concrete. He rolls his eyes.) </p>
+<p>FLASH TO:<br />
+[EXT. CONSTRUCTION SITE -- DAY] </p>
+<p>(The man is stuck waist-deep in the concrete. Brass leads Catherine and Grissom to the man in the concrete next to the body.) </p>
+<p><strong>Brass</strong>: Construction crew found him when they came into work this morning. The woman's dead. The guy's still alive, but he's not talking. Wouldn't even give me his name, even after I gave him my name.</p>
+<p>(Catherine starts laughing as she heads over to look at the body.) </p>
+<p><strong>Grissom</strong>: Did you, uh, pull his wallet?</p>
+<p><strong>Brass</strong>: No, everything is just the way I found it. I mean, I figure some knucklehead, you know, came in off the street, found him, figured he had a free pass, and picked his pocket.</p>
+<p>(The man in the concrete shakes his head. Catherine can't seem to stop laughing.)</p>
+<p><strong>Brass</strong>: Anyway, I'm, uh ... I'm talking to people. I'll, uh, I'll let you know what we find out.</p>
+<p><strong>Grissom</strong>: Catherine ... Do you need a minute?</p>
+<p><strong>Catherine</strong>: Yes, I'm ... Yes, I'm ... (clears throat) I mean ... No, Gil. I'm good.</p>
+<p>(Catherine walks back to the man in the concrete.) </p>
+<p><strong>Catherine</strong>: So, how's your day going?</p>
+<p><strong>Max</strong>: Lady ... the best day I ever had is worse than the worst day you've ever imagined.</p>
+<p><strong>Catherine</strong>: Oh, I doubt that.</p>
+<p><strong>Grissom</strong>: Who's your lady friend?</p>
+<p><strong>Max</strong>: Never saw that woman before in my life.</p>
+<p><strong>Catherine</strong>: Uh, look, you're not going anywhere. It'll be a lot better for you if you just cooperate and tell us what happened.</p>
+<p><strong>Max</strong>: You want to know what happened?</p>
+<p><strong>Catherine</strong>: Mm-hmm.</p>
+<p><strong>Max</strong>: Figure it out yourself. </p>
+<p><strong>Grissom</strong>: That's the fun part.</p>
+<p>(Catherine chuckles.)</p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. LAS VEGAS CITY (STOCK) – DAY]</p>
+<p>(Sirens wail in the distance.) </p>
+<p>[EXT. APARTMENT COMPLEX -- DAY] </p>
+<p>(The residents wait outside. Nick and Warrick walk into the complex. They pass the guard posted at the gate. They meet up with Sofia.) </p>
+<p><strong>Sofia</strong>: Hey.</p>
+<p><strong>Warrick</strong>: Hey.</p>
+<p><strong>Stokes</strong>: Que pasa?</p>
+<p><strong>Sofia</strong>: One of the residents reported smelling a gas leak at 6:00 a.m.</p>
+<p>(She leads them up the stairs.) </p>
+<p><strong>Sofia</strong>: He, uh, called the gas company. They arrived; they evacuated the building.</p>
+<p><strong>Nick</strong>: I'm surprised anyone picked out a gas leak through the rest of the stench around here.</p>
+<p>(They reach the second floor.) </p>
+<p><strong>Warrick</strong>: Yeah, smells like used diapers.</p>
+<p>[INT. IVANOVNA RESIDENCE – DAY – CONTINUOUS]</p>
+<p>(She leads them into the apartment.) </p>
+<p><strong>Sofia</strong>: The gas boys traced the leak to this apartment, and that was when they found ...</p>
+<p>(She leads them into the kitchen where someone has their head stuck in the open oven.) </p>
+<p><strong>Sofia</strong>: -- this.</p>
+<p><strong>Nick</strong>: Whoa.</p>
+<p>(Nick walks around the body and looks inside the oven.) </p>
+<p><strong>Sofia</strong>: Alyona Ivanovna. Manager said she's lived here alone for 27 years.</p>
+<p><strong>Nick</strong>: Head in the oven ... It's kind of a classic, huh?</p>
+<p>(Warrick sees a broken dish on the wash rack.) </p>
+<p><strong>Warrick</strong>: Maybe not. I mean, this apartment is neat as a pin. A lady this tidy wouldn't leave a broken dish in a rack like that, you know?</p>
+<p>(He snaps a photo of the dish.) </p>
+<p><strong>Sofia</strong>: It doesn't necessarily indicate foul play.</p>
+<p>(Nick snaps digital pictures of the body while Warrick continues to take photos of the apartment.) </p>
+<p><strong>Sofia</strong>: I checked the doors and the window. There's no sign of forced entry.</p>
+<p>(Warrick notes the broken phone, twisted on the wall.) </p>
+<p><strong>Warrick</strong>: What do you make of this? A busted phone ...</p>
+<p>(Quick ZOOM to a CU of the gray hair on the phone.) </p>
+<p><strong>Warrick</strong>: -- with gray hairs in it.</p>
+<p>(Nick looks at the old woman's hair.) </p>
+<p><strong>Nick</strong>: She's definitely got gray hair.</p>
+<p>CUT TO:<br />
+[EXT. CONSTRUCTION ISTE -- DAY] </p>
+<p>(The paramedic squirts water into Max's mouth and puts some goggles over Max's eyes.) </p>
+<p><strong>Catherine</strong>: (o.s.) Okay, David. Let's roll her over together.</p>
+<p>(Catherine and David are with the body. They flip the body over. Max watches from the side. The paramedic is applying sunscreen to the top of Max's bald head.) </p>
+<p><strong>David Phillips</strong>: Single stab wound, just below the sternum. It feels domestic. Crime of passion? CATHERINE: Maybe?</p>
+<p><strong>David Phillips</strong>: Good point.</p>
+<p>CUT TO:<br />
+(The workers use a jackhammer on the concrete around Max. Catherine covers her eyes as the dust fills the air around them.) </p>
+<p><strong>Catherine</strong>: Hey! Hey! Hey!</p>
+<p>(She motions for the worker to stop. The jackhammer stops.) </p>
+<p><strong>Catherine</strong>: You ready to give me a name?</p>
+<p>(Max doesn't say anything.) </p>
+<p><strong>Catherine</strong>: You know, you are in a very deep hole, in every sense of the word, my friend. Think about that while we chisel you out. It's going to take a few hours ... assuming we're careful. See ya.</p>
+<p>(Max waves to her as Catherine gets up and leaves.) </p>
+<p>CUT TO:<br />
+[INT. IVANOVA RESIDENCE – KITCHEN -- DAY] </p>
+<p>(Warrick spreads the white sheet on the floor as Nick and David Phillips help get Alyona Ivanovna out of the oven. They place her on the sheet.) </p>
+<p><strong>Nick</strong>: It's just a guess, but I'd say she's in rigor.</p>
+<p>(Warrick snaps photos of the body.) </p>
+<p><strong>David Phillips</strong>: Blunt-force trauma on the forehead, and on the base of the skull.</p>
+<p><strong>Warrick</strong>: I doubt very highly that those were self-induced.</p>
+<p>(Warrick shines his flashlight on the inside of the oven.) </p>
+<p><strong>Warrick</strong>: Look at that: it's dented.</p>
+<p>(Quick flash to: Someone shoves the old woman into the oven. End of flash.) </p>
+<p><strong>Warrick</strong>: Looks like she may have been slammed into her own oven.</p>
+<p><strong>Nick</strong>: Yep.</p>
+<p><strong>David Phillips</strong>: She's been dead at least twelve hours.</p>
+<p>(Camera zooms in toward something behind her ear.) </p>
+<p><strong>Nick</strong>: I've got a substance on her ... right ear. She doesn't really look like the hair gel type.</p>
+<p>(Warrick snaps photos.) </p>
+<p><strong>Nick</strong>: Hang on a second, fellas. Look at that.</p>
+<p>(Nick reaches in and takes out the woman's bottom teeth.) </p>
+<p><strong>Nick</strong>: Her dentures ... they were in upside down.</p>
+<p>(Very strange.) </p>
+<p>CUT TO:<br />
+[INT. CSI – HALLWAY – DAY]</p>
+<p>(Grissom finds Greg in the hallway.) </p>
+<p><strong>Grissom</strong>: Hey. You're coming with me. We got another 419 out by Nellis.</p>
+<p><strong>Greg</strong>: Wow, busy night. Any details?</p>
+<p><strong>Grissom</strong>: They tell me it tastes just like chicken.</p>
+<p>CUT TO:<br />
+[EXT. MANNLEIGH CHICKEN -- DAY] </p>
+<p>(Grissom and Greg walk past the officers as they head for the warehouse. Outside, there are moveable cages filled with chickens.) </p>
+<p>[INT. MANNLEIGH CHICKEN –WAREHOUSE – DAY]</p>
+<p>(The plant is quiet. Grissom and Greg walk inside and meet up with Brass, who waits by the body. The body is in the basin in some water.) </p>
+<p><strong>Brass</strong>: The dead guy in the bath is Raymundo Suarez. He works the night shift. He cleans the equipment from 8:00 p.m. to 4:00 a.m. The day-shift guys came in, found him like this. The foreman here called it in.</p>
+<p><strong>Grissom</strong>: This basin is designed to transfer an electrical current.</p>
+<p><strong>Plant Foreman</strong>: Of course it does. It's a stun bath. We use it to stun the chickens before they go into the next room.</p>
+<p><strong>Brass</strong>: Where they get their throats cut.</p>
+<p><strong>Plant Foreman</strong>: Which is why we electrocute them first. It's humane.</p>
+<p><strong>Greg</strong>: Was the current on when you found the body?</p>
+<p><strong>Plant Foreman</strong>: No, sir, it was off; it stays off all night. Hey, uh, how long is this gonna take?</p>
+<p><strong>Brass</strong>: As long as it takes.</p>
+<p><strong>Plant Foreman</strong>: I got a lot of birds piling up outside. They're gonna die out there in that heat.</p>
+<p><strong>Brass</strong>: Well, it's not like they're gonna do any better in here. Come on, I want to talk to your crew.</p>
+<p>(Brass leads the plant foreman out of the area. Grissom looks up at the equipment.) </p>
+<p><strong>Greg</strong>: Maybe he was high. Passes out and falls in?</p>
+<p><strong>Grissom</strong>: How does he end up face down in the middle of the bath?</p>
+<p><strong>Greg</strong>: Kind of tough to drown in three inches of water.</p>
+<p><strong>Grissom</strong>: Not impossible, though.</p>
+<p>(Quick flash of: Raymundo Suarez is face down in the water. He seizes and shakes from the electrocution.) </p>
+<p><strong>Grissom</strong>: (V.O.) If he hit the water when the current was on, his muscles could've contracted, making it impossible for him to get out.</p>
+<p>(Someone comes and turns the switch off.) </p>
+<p><strong>Greg</strong>: (V.O.) But the machine's off at night, and it was off when they found the body.</p>
+<p>(End of flash.) </p>
+<p><strong>Greg</strong>: Which means someone turned it off after he was dead.</p>
+<p><strong>Grissom</strong>: Yeah. (beat) Who?</p>
+<p>CUT TO:<br />
+[EXT. MANNLEIGH CHICKEN – DAY]</p>
+<p>(Outside, the workers are being interviewed by officers. The chickens continue to sit in their cages.) </p>
+<p>(Brass interviews Ernie Dell.) </p>
+<p><strong>Brass</strong>: All right, what's your name, and what do you do here?</p>
+<p><strong>Ernie Dell</strong>: Name's Ernie Dell. Maintenance man. I work 3:00 to 11:00.</p>
+<p><strong>Brass</strong>: Mm-hmm. You see the victim last night?</p>
+<p><strong>Ernie Dell</strong>: Uh, yeah, and Raymundo was just fine when I left.</p>
+<p><strong>Brass</strong>: You and Raymundo get along?</p>
+<p><strong>Ernie Dell</strong>: Kept my nose out of his business; he kept his out of mine. Didn't have a problem with him. </p>
+<p><strong>Brass</strong>: But you know somebody who did?</p>
+<p><strong>Ernie Dell</strong>: Well, between you and me, the guy you ought to be talking to is Ike Mannleigh.</p>
+<p><strong>Brass</strong>: Oh. You mean the guy who owns the company?</p>
+<p><strong>Ernie Dell</strong>: Well, Raymundo's pretty far down on the pecking order.</p>
+<p><strong>Brass</strong>: You think the big boss had a problem with him?</p>
+<p><strong>Ernie Dell</strong>: No. Not unless you think a guy banging your wife is a problem.</p>
+<p>(Quick flash of: Raymundo and Mrs. Mannleigh kiss and undress among the clucking chickens. Ernie Dell sees them from behind the chicken cages. End of flash.) </p>
+<p><strong>Ernie Dell</strong>: Can't blame him, though. Bubbles Mannleigh is a cheap whore.</p>
+<p><strong>Brass</strong>: Did you and Bubbles take a tumble?</p>
+<p><strong>Ernie Dell</strong>: Me? Nah. Reminds me too much of my mother. Besides, uh ... Bubbles likes the dark meat.</p>
+<p>[INT. MANNLEIGH CHICKEN –WAREHOUSE – DAY]</p>
+<p>(Greg snaps photos of the body and surrounding areas while Grissom looks around.) </p>
+<p>(Grissom kneels in front of the electrical switch and moves it a little.) </p>
+<p>(Greg finds something. He snaps a photo and picks up a used condom.)</p>
+<p><strong>Greg</strong>: Unappetizing place to get your rocks off.</p>
+<p><strong>Grissom</strong>: Not if you have a poultry fetish.</p>
+<p>(Grissom looks around and finds something. He heads over to a box tucked away in the corner. Greg glances up at him.) </p>
+<p><strong>Greg</strong>: You got something?</p>
+<p><strong>Grissom</strong>: Yeah, I think so.</p>
+<p>(Grissom opens the box and finds a miniature plant replica complete with dead body inside.)</p>
+<p><strong>Grissom</strong>: One more chance.</p>
+<p>WHITE FLASH TO: </p>
+<p>[INT. MINIATURE PLANT]</p>
+<p>(Camera swoops around the plant basin and dead body face-down inside.) </p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. CSI – LAYOUT ROOM – DAY] </p>
+<p>(TOP VIEW DOWN: One by one, the camera moves across the miniatures lined up on the table. First the most recent miniature of the Mannleigh Chicken Plant, then the Penny Garden room.) </p>
+<p>INSERT: SCENE FROM 7X07: POST MORTEM</p>
+<p>(Someone smashes Penny Garden into the window. She falls on the glass and dies.)</p>
+<p>(Cut to: Grissom moves the pillow on the chair aside and finds the image of a doll on the pillow.)</p>
+<p>BACK TO SCENE.</p>
+<p>(The camera continues to move to the first diorama found of Izzy Delancy's kitchen.)</p>
+<p>INSERT: SCENE OF 7X02: BUILT TO KILL (2)</p>
+<p>(Someone comes up behind Izzy Delancy and hits him on the back of his head.) </p>
+<p>(Cut to: Grissom picks up the framed photo of Izzy carrying his baby. Behind the frame is a partial image of a doll.) </p>
+<p>BACK TO SCENE.</p>
+<p>[CU: PHOTOS]</p>
+<p>(Pan over a XCU photo of the doll, then on the image of the doll on the pillow.) </p>
+<p>(Grissom turns around from the board full of photos of various views of the dioramas. He puts his glasses on and picks up the scope. He puts one end in the latest diorama and the other end up against his eye.) </p>
+<p>SCOPE VIEW: Grissom looks through the diorama, covering a lot of ground. He sees the door and an image in one of the door's windows.</p>
+<p>(Grissom peels off the image and looks at it under a magnifying glass. He smiles. It's of a red-haired doll on the ground – partially on the grass and on concrete with blood spatter under the head.) </p>
+<p><strong>Sara</strong>: (o.s.) You look like a kid who's just found the prize at the bottom of a Cracker Jacks box.</p>
+<p>(Sara walks in the room.) </p>
+<p><strong>Grissom</strong>: Definitely some kind of doll.</p>
+<p><strong>Sara</strong>: It sure is.</p>
+<p>(Grissom turns around and indicates the other doll photos on the board.) </p>
+<p><strong>Grissom</strong>: Three different views of the same dead doll. Maybe this is more than a signature. Maybe there's something these victims have in common.</p>
+<p><strong>Sara</strong>: First two victims were white, third Hispanic, two men, one woman, one rich, two poor, one young, two old, one famous, two obscure ... </p>
+<p><strong>Grissom</strong>: Yeah.</p>
+<p>(He picks up a blurry photo.) </p>
+<p><strong>Grissom</strong>: And unfortunately, this is the best lead we have for their killer.</p>
+<p>INSERT: SCENE FROM 7X07: POST-MORTEM. The killer delivers the box on the front porch.</p>
+<p>(Sara takes the blurry photo.) </p>
+<p><strong>Sara</strong>: This is the most that Archie could get off that video?</p>
+<p><strong>Grissom</strong>: Yeah, well, with the equipment we have here.</p>
+<p><strong>Sara</strong>: I'm getting Raymundo's cell phone records. I'm gonna see if any of his calls are a match to the numbers that Penny Garden and Izzy Delancy had in common.</p>
+<p><strong>Grissom</strong>: Whatever happened with that number we got off the disposable cell phone? Any luck with that?</p>
+<p><strong>Sara</strong>: Disposable phone numbers are assigned by the carrier to the phone distributors. It took a little bit of legwork, but I did find the store where the phone was sold.</p>
+<p><strong>Grissom</strong>: Let me guess. It was paid for with cash.</p>
+<p><strong>Sara</strong>: Yeah. (Sara sees the information on the bottom of the photo.) Mannleigh Chickens.</p>
+<p><strong>Grissom</strong>: What about it?</p>
+<p>(She picks up the file folder.) </p>
+<p><strong>Sara</strong>: I'll let you know.</p>
+<p>(She heads for the door. Grissom looks at her. She looks back.) </p>
+<p><strong>Sara</strong>: See how it feels?</p>
+<p>(Sara suppresses a smile and leaves Grissom there.) </p>
+<p>CUT TO:<br />
+[INT. CSI – FORENSIC AUTOPSY – DAY]</p>
+<p>(There are three bodies on exam tables. Catherine waits while Doc Robbins signs David Phillips' clipboard.) </p>
+<p><strong>David Phillips</strong>: You know, we're getting kind of backed up in here.</p>
+<p><strong>Robbins</strong>: The only one I hear complaining about it is you.</p>
+<p>(He gives the clipboard back to David. David leaves.) </p>
+<p><strong>Robbins</strong>: Your cement lady's approximately 40 to 45 years old. COD is exsanguination due to laceration of the right ventricle. Wound seven centimeters long, five millimeters wide.</p>
+<p><strong>Catherine</strong>: That looks like it could be a double-edged blade. It's pretty thick, too.</p>
+<p><strong>Robbins</strong>: Well, it passed into the heart-- </p>
+<p>(Quick CGI flash of: A blade pierces the heart and it bleeds out.) </p>
+<p><strong>Robbins</strong>: (V.O.) with a, uh, point of entry midline just below the xiphoid process.</p>
+<p>(End of CGI flash.) </p>
+<p><strong>Catherine</strong>: Upward thrust.</p>
+<p><strong>Robbins</strong>: I just said that.</p>
+<p><strong>Catherine</strong>: Okay. Any idea what the weapon might have been?</p>
+<p><strong>Robbins</strong>: If I knew, I would've told you. I got to get to work. Taxpayers are getting their money's worth tonight.</p>
+<p>(Robbins steps away to the next body. We hold on Catherine.) </p>
+<p>CUT TO:<br />
+[CAMERA]</p>
+<p>(Max holds the identification plate as his photo is taken. There is no ID number or name on the board.<br />
+ID NO.<br />
+DATE<br />
+LAS VEGAS POLICE DEPARTMENT. ) </p>
+<p>(The camera flashes.) </p>
+<p>(Max blinks and turns to the side. The camera flashes again.) </p>
+<p>(Max steps out of camera frame.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT – INTERVIEW ROOM – DAY]</p>
+<p>(An officer leads Max into the room. Catherine dips his hands into a bowl) </p>
+<p><strong>Catherine</strong>: Thank you.</p>
+<p><strong>Max</strong>: Tingles.</p>
+<p><strong>Catherine</strong>: You take them out, he puts them back in.</p>
+<p><strong>Max</strong>: What is it?</p>
+<p><strong>Catherine</strong>: It's acetic acid.</p>
+<p><strong>Max</strong>: Do you do feet? I got a bunion that could use some soaking.</p>
+<p>(Catherine takes his hands out and towel dries them.) </p>
+<p><strong>Max</strong>: What's this do?</p>
+<p><strong>Catherine</strong>: Takes your fingerprints.</p>
+<p><strong>Max</strong>: Mmm.</p>
+<p>(She puts his hands on the box.) </p>
+<p><strong>Max</strong>: Good luck with that.</p>
+<p>(Brass walks in.) </p>
+<p><strong>Brass</strong>: How's Mr. Hoffa?</p>
+<p><strong>Max</strong>: Hey, Jim. Cathy and I are just getting reacquainted. Will Gilbert be stopping by?</p>
+<p><strong>Brass</strong>: I take it we don't have a name yet.</p>
+<p><strong>Catherine</strong>: No.</p>
+<p><strong>Brass</strong>: I bet you ten bucks that I have you made by 9:00 p.m.</p>
+<p><strong>Max</strong>: You're on.</p>
+<p>CUT TO:<br />
+[EXT. OUTSIDE IVANOVNA APARTMENT -- DAY] </p>
+<p>(Nick and Warrick step out of the apartment. Nick is on the phone.) </p>
+<p><strong>Nick</strong>: (to phone) Okay, Hodges. What do you got?</p>
+<p><strong>Hodges</strong>: (from phone) The green trace on your old lady.</p>
+<p>INTERCUT WITH: </p>
+<p>[INT. CSI – HALLWAY – DAY]</p>
+<p>(Hodges walks through the hallway with the results while talking on the phone with Nick.) </p>
+<p><strong>Hodges</strong>: Adipic acid, disodium phosphate, sodium citrate, fumaric acid, Yellow<br />
+#5, Blue #1, BHA, a whole lot of gelatin, and sugar.</p>
+<p><strong>Nick</strong>: Which is?</p>
+<p><strong>Hodges</strong>: Oh, come on. There's always room for it.</p>
+<p><strong>Nick</strong>: Just tell me what it is, Hodges.</p>
+<p><strong>Hodges</strong>: Jell-O. Lime Jell-O.</p>
+<p><strong>Nick</strong>: Lime Jell-O?</p>
+<p><strong>Hodges</strong>: I tell you what. You tell me why.</p>
+<p>(Hodges hangs up.) </p>
+<p>CUT TO:<br />
+[XCU: GREEN JELL-O] </p>
+<p>(Through the green Jell-Osludge on the floor, ants crawl all over it.) </p>
+<p>CAMERA ZOOMS OUT on the ant-infested green spot on the floor.</p>
+<p>[EXT. OUTSIDE IVANOVNA APARTMENT -- DAY] </p>
+<p>(Warrick looks down and notices the green Jell-O spot on the ground. He takes his camera out and follows the trail of ants and Jell-O.) </p>
+<p>(He takes a photo.)</p>
+<p>VARIOUS DISSOLVES OF: </p>
+<p>(Warrick and Nick follow the trail. Warrick snaps photos and Nick puts down evidence markers.) </p>
+<p>(Dissolve to: Nick hands Warrick evidence marker 8. He puts it on the ground and snaps photos.)</p>
+<p>(Dissolve to: FAR SHOT. Nick and Warrick continue following the trail to the end of the floor.)</p>
+<p>(Dissolve to: Nick and Warrick follow the trail to the next building.)</p>
+<p>(Dissolve to: Nick puts down evidence marker #39. Warrick snaps photos. Warrick puts the next evidence marker #16 down in front of the door.) </p>
+<p>(They look at the apartment door.) </p>
+<p>[INT. APARTMENT – DAY]</p>
+<p>(The door bursts open. An officer and Sofia quickly check the apartment.) </p>
+<p><strong>Sofia</strong>: Clear.</p>
+<p>(Warrick puts his gun away. He and Nick enter the apartment. He sees another spot of green Jell-O on the floor.) </p>
+<p><strong>Officer</strong>: (o.s.) Clear.</p>
+<p>(Warrick snaps photos of the Jell-O spots. Nick points them out as they head toward the kitchen.) </p>
+<p>(They enter the kitchen and see the smears on the floor.) </p>
+<p><strong>Nick</strong>: Oh, boy. Looks like somebody cleaned up in a hurry. More green Jell-O.</p>
+<p>(Warrick continues to snap photos. Nick takes out a swab.) </p>
+<p><strong>Warrick</strong>: Sofia, you get a tenant's name for this apartment?</p>
+<p><strong>Sofia</strong>: According to the management office, this apartment's a sublet, has been for years. He's not seen who lives here.</p>
+<p>(Nick tests the swab.) </p>
+<p><strong>Nick</strong>: I got blood, too.</p>
+<p>(Warrick looks out the window.) </p>
+<p><strong>Warrick</strong>: This place has a direct view of the old lady's apartment.</p>
+<p>(Sofia and Nick join Warrick and look out the window as well.) </p>
+<p><strong>Warrick</strong>: So, what, the guy's killing the old lady, -- </p>
+<p>(Quick flash of: VIEW ON WINDOW. The curtains are closed and all we see are the shadows behind them. The man on the other side pushes the curtain aside and looks out.) </p>
+<p><strong>Warrick</strong>: (V.O.) -- he sees he's being watched, and he, what, comes back here and whacks the witness?</p>
+<p>(End of flash.) </p>
+<p><strong>Nick</strong>: It's possible. But why get rid of this body and leave the old lady?</p>
+<p>CUT TO:<br />
+[INT. CSI – A/V LAB -- DAY] </p>
+<p>(Grissom and Sara are watching an IZZY DELANCY ad.) </p>
+<p><strong>Izzy</strong>: (from video) Hi. I'm Izzy Delancy. And back in my bad old days, I'd do almost anything to sell albums. </p>
+<p>(The caption on the bottom of the ad runs: PLEASE DONATE! – 1-800-555-0199 –<br />
+LITTLE CREATURES GREAT &amp; SMALL – WE NEED YOUR HELP! )</p>
+<p><strong>Izzy</strong>: (from video) People even accused me of biting the heads off live chickens on stage. I'm not proud of that. But I've worked hard to change. And with the help of the good Lord, fourteen years of therapy and two loving wives, I humbly believe I've made progress. But this story is not about Izzy Delancy. It's about something much, much bigger: cruelty. Did you know that every day in the United States, more chickens are killed than all the people in the Rwandan genocide? Now, you may argue, &quot;Izzy, African people are not a food source.&quot; Well, you're missing the point entirely. Cruelty is cruelty, whether the victim be a chicken or a malnourished African.</p>
+<p>(Sara pauses the ad.) </p>
+<p><strong>Grissom</strong>: Where did you find this?</p>
+<p><strong>Sara</strong>: I like animals, and after the Delancy murder, I brushed up on my history. As it turns out, three years ago, Izzy Delancy had a midlife awakening and became an animal rights activist. He starred in and financed this PSA targeting Mannleigh Chickens as the epitome of everything that is wrong in the slaughter industry.</p>
+<p>(Sara continues the ad. This time, it's for MANNLEIGH CHICKEN. The caption on screen reads: MANNLEIGH CHICKEN TV COMMERCIAL.) </p>
+<p><strong>Ike Mannleigh</strong>: (from ad) It takes a manly man to make a Mannleigh chicken.</p>
+<p>(On screen, Ike Mannleigh leans forward and crows like a rooster. The caption reads: IKE MANNLEIGH, C.E.O.)</p>
+<p>(The ad continues.) </p>
+<p><strong>Izzy Delancy</strong>: (from ad) Now, perhaps you've purchased Mannleigh Roasters, Fryers or Assorted Parts at your local grocery store, and you believe you're eating chicken. But what you're really eating is cruelty. Our undercover investigators secretly recorded workers at a Mannleigh processing plant throwing loose animals up against the wall, stomping up and down on them, kicking them across the room.</p>
+<p>(Sara pauses the ad.) </p>
+<p><strong>Grissom</strong>: How bad did Mannleigh get hurt by this?</p>
+<p><strong>Sara</strong>: His sales dropped 60%. He launched a very expensive PR campaign to rehabilitate his image, including retrofitting a plant with cruelty-free equipment. His business never recovered. He probably hated Delancy.</p>
+<p>(Grissom nods.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT – INTERVIEW ROOM -- DAY] </p>
+<p>(Brass talks with Ike Mannleigh.) </p>
+<p><strong>Ike Mannleigh</strong>: I have no idea how Raymundo ended up dead. I liked that boy.</p>
+<p><strong>Brass</strong>: Apparently, so did your wife. She was spending some quality time with Raymundo down at the plant.</p>
+<p><strong>Ike Mannleigh</strong>: If I killed every guy that banged my Bubbles, they'd be stacking up like cord wood.</p>
+<p><strong>Brass</strong>: So you have no problem with it?</p>
+<p><strong>Ike Mannleigh</strong>: Look. Bubbles is an insatiable slut, but she's my slut, and I love her. I don't expect you to understand.</p>
+<p><strong>Brass</strong>: Oh, I get it.</p>
+<p>(Brass passes a crime scene photo of Penny Garden.) </p>
+<p><strong>Brass</strong>: Do you know this woman?</p>
+<p><strong>Ike Mannleigh</strong>: I've never seen her before in my life.</p>
+<p><strong>Brass</strong>: How about him?</p>
+<p>(He passes over a crime scene photo of Izzy Delancy.) </p>
+<p><strong>Ike Mannleigh</strong>: Let's not screw around here. You know I knew him, and you know I hated him. That jerk nearly put me into Chapter 11.</p>
+<p><strong>Brass</strong>: He ended up dead, too.</p>
+<p><strong>Ike Mannleigh</strong>: And I sent his wife a Hallmark and a case of frozen chickens the day he died.</p>
+<p><strong>Brass</strong>: He was murdered.</p>
+<p><strong>Ike Mannleigh</strong>: That's what I heard, too. We're done here. You want to call my attorney or should I?</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]</p>
+<p>[INT. CSI – A/V LAB -- NIGHT] </p>
+<p>(The label on the package reads:<br />
+DATE: 12-07-06 657-18898-23564<br />
+R. KRANSEN 206*-555-0165<br />
+VISION IMAGE AZ<br />
+2655 WEST 37TH AVE NE<br />
+SEATTLE WA 98101</p>
+<p>MR. GIL GRISSOM 702-555-0189<br />
+CSI: LAS VEGAS CRIME LAB<br />
+3057 WESTFALL AVENUE<br />
+LAS VEGAS NV 89156</p>
+<p>(Grissom opens the box and plugs it in.) </p>
+<p>(The VISION IMAGE AZ FORENSIC PHOTO LAB software is installed.) </p>
+<p>(Grissom sits at the workstation installing the software.) </p>
+<p>(Grissom watches the 11.09.06 footage of the box being delivered to PENNY GARDEN'S neighbor. He runs the video through the software and enhances the image. He works on sharpening the enhanced image.) </p>
+<p>(Hodges walks in and watches Grissom for a moment. Grissom successfully enhances the image on the back of the deliveryman's shirt. It looks like a train.) </p>
+<p><strong>Hodges</strong>: (enthusiastic) Whoo, whoo-whoo!</p>
+<p><strong>Grissom</strong>: (startled) Thank you, Hodges. I can see that it's a train.</p>
+<p><strong>Hodges</strong>: Yeah, but it's Locomotive-ville. </p>
+<p>(Grissom is quiet.) </p>
+<p><strong>Hodges</strong>: Sorry. Thought you might be a member.</p>
+<p>(Surprised, Grissom glances at Hodges, then back at the enhanced photo.) </p>
+<p>CUT TO:<br />
+[MONITOR]</p>
+<p>(Greg is at the L.V.M.T.C. site. He enters the site. The write up reads:<br />
+LOCOMOTIVEVILLE<br />
+LAS VEGAS MODEL TRAIN CLUB</p>
+<p>Welcome to Locomotiveville! If you are a new to the site, be sure to check out the --<br />
+page and join. Jordan Palmer will be here this Saturday for a free workshop on bu—<br />
+trains. Jordan will cover the entire process, from where to get the best models at –<br />
+to which glue and paint will hold up the be---<br />
+Jordan's 4th year at the annual model fest—<br />
+answer all of your questions. Reservations –<br />
+made early, classes always fill up. Don't –<br />
+for the raffle, only five dollars at the door.</p>
+<p>(He scrolls through the on-line photos of various members. Names include: KEVIN SIMONS, JORDAN PALMER, KRISTEN DEARDAH?, JANE TEMPLETON, CHARLES McCORMICK, AMY KIRKWOOD, COREY JENNINGS, CHOLE KEATON, HERBERT BELL, GRANT BOYD, ERNIE DELL, MARISSA CALLAH?, ... ) </p>
+<p>(Greg stops on ERNIE DELL.) </p>
+<p>CUT TO:<br />
+[EXT. DELL RESIDENCE – NIGHT]</p>
+<p>(Squad cars pull up, their sirens off but lights flashing.) </p>
+<p><strong>Brass</strong>: (V.O.) Attention all units, suspect's name is Ernie Dell.</p>
+<p><strong>Dispatch</strong>: (V.O.) Copy that. All units, please be advised that suspect Ernie Dell – </p>
+<p>(TOP VIEW DOWN on squad car 694. Brass exits the vehicle and meets up with Officer Mitchell who is carrying something to open the front door.) </p>
+<p>[INT. DELL RESIDENCE – FRONT PORCH – NIGHT]</p>
+<p>(They reach the front porch. Brass knocks on the door.) </p>
+<p><strong>Brass</strong>: Ernie Dell? Las Vegas Police! Open up.</p>
+<p>(There's no answer coming from the darkened house. Brass steps away from the door.) </p>
+<p><strong>Brass</strong>: (to Officer Mitchell) Go ahead. Break it.</p>
+<p>(Officer Mitchell uses a crowbar and opens the front door. The two officers enter the house and move silently inside. Brass enters the house. He looks around.) </p>
+<p><strong>Officer</strong>: (o.s.) It's clear, Captain.</p>
+<p>SHORT TIME CUT TO: </p>
+<p>(The trains are powered on. The electricity powers on and the hum of the model trains start as it runs along the tracks set up inside the room. Greg and Brass look at the set-up.) </p>
+<p>(The detail is amazing and also gruesome. There's a person standing on top of a large building – and another lying in a pool of blood on the sidewalk below.) </p>
+<p>(In another part of the route, there are four people beating to a pulp another person on the ground in front of a warehouse.) </p>
+<p>(Greg continues to look at the miniatures – there's a cemetery. Greg looks around.) </p>
+<p><strong>Officer</strong>: (o.s.) Captain. There's a workshop in the basement.</p>
+<p>(The train enters a tunnel and toots its whistle.) </p>
+<p>CUT TO:<br />
+[INT. DELL RESIDENCE – BASEMENT – NIGHT – CONTINUOUS]</p>
+<p>(The lights turn on. Brass and Greg enter the basement. Along one of the walls is a workstation with incomplete and partial miniature parts. There are also many, many molds on the worktable.)</p>
+<p>(Brass finds dozens and dozens of miniature people of different sizes.) </p>
+<p>(Greg looks around and sees a blue car through a lamp post, its front red and bloodied. There are other bloodied figurines and even a grim reaper for the cemetery, complete with bloodied scythe.) </p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. LAS VEGAS CITY (STOCK) – DAY]</p>
+<p>[INT. POLICE DEPARTMENT – HALLWAY -- DAY] </p>
+<p>(Sofia walks with Warrick through the hallway on their way to the waiting room.) </p>
+<p><strong>Sofia</strong>: One of the other residents ID'd the tenant in the sublet apartment as Paula Sullivan.</p>
+<p><strong>Warrick</strong>: That's good.</p>
+<p><strong>Sofia</strong>: Well, it's better than good. Apparently Paula Sullivan does a little day care on the side. We have a witness.</p>
+<p>(They enter the waiting area.) </p>
+<p><strong>Warrick</strong>: Hi. I'm Warrick Brown from the Crime Lab.</p>
+<p>(Suzy's mom stands up. Suzy sits nearby with her teddy bear.) </p>
+<p><strong>Suzy's Mom</strong>: Hi. My Suzy was in that apartment yesterday. And she was filthy when they sent her back, and I marched right over there to give Paula a piece of my mind, and she wasn't home. Paula wasn't there.</p>
+<p><strong>Suzy</strong>: Max watched me. He's nice.</p>
+<p><strong>Suzy's Mom</strong>: Her husband. Neither of them was there when I went back.</p>
+<p><strong>Warrick</strong>: Well, ma'am, we're going to need your daughter's clothes from yesterday.</p>
+<p><strong>Suzy</strong>: I like you. You're a giant.</p>
+<p>(Warrick chuckles.) </p>
+<p><strong>Warrick</strong>: And you're a princess.</p>
+<p><strong>Suzy</strong>: Thank you.</p>
+<p>SHORT TIME CUT TO: </p>
+<p>[INT. POLICE DEPARTMENT – INTERVIEW ROOM – DAY]</p>
+<p>(Suzy's feet dangle about a foot off the floor as she swings her legs back and forth. Warrick talks with her as Suzy's mom watches.) </p>
+<p><strong>Warrick</strong>: Okay, Suzy, tell me about Max. What's Max like?</p>
+<p><strong>Suzy</strong>: Max is my friend. He's a lion tamer and an astronaut and a spy.</p>
+<p><strong>Suzy's Mom</strong>: Guy always kinda creeped me out.</p>
+<p><strong>Warrick</strong>: (whispers to Suzy's mom) How come you didn't know that Paula Sullivan wasn't home?</p>
+<p><strong>Suzy's Mom</strong>: We live across the courtyard.</p>
+<p>(Quick flashback to: Suzy's mom puts her shoes on and gives Suzy a shaka sign. Suzy gives her the shaka sign back.) </p>
+<p><strong>Suzy's Mom</strong>: Bye.</p>
+<p>(Suzy turns and runs up the stairs.) </p>
+<p><strong>Suzy's Mom</strong>: (V.O.) I send Suzy over. I watch until she gets inside.</p>
+<p>(She reaches the door and waves to her mom before entering.) </p>
+<p>(End of flashback.) </p>
+<p><strong>Suzy</strong>: I went in. It was a big mess.</p>
+<p><strong>Warrick</strong>: A big mess? What color was the mess?</p>
+<p><strong>Suzy</strong>: Red and green.</p>
+<p>(Quick flashback to: Suzy enters the apartment and closes the door. She walks into the kitchen and starts playing with the green Jell-O on the floor. She picks some up and is going to eat it when -- </p>
+<p><strong>Max</strong>: (o.s.) Don't eat that.</p>
+<p>(Suzy turns.)</p>
+<p>(End of flashback.) </p>
+<p>(Suzy giggles.) </p>
+<p><strong>Suzy</strong>: Max came into the kitchen in his underpants.</p>
+<p>(Warrick glances at Suzy's mom.) </p>
+<p><strong>Warrick</strong>: Hmm ... Did Max try to hug you or touch you?</p>
+<p><strong>Suzy</strong>: Oh, no. He went and got dressed.</p>
+<p><strong>Warrick</strong>: Did Max seem surprised to see all that big mess there?</p>
+<p><strong>Suzy</strong>: (shrugs) I don't know.</p>
+<p><strong>Warrick</strong>: What did Max do next?</p>
+<p><strong>Suzy</strong>: He started cleaning up the big mess. I bet he didn't want to get in trouble.</p>
+<p><strong>Warrick</strong>: I bet you're right. You know what? Could you help me? I've got a picture right here. And I have some crayons, too. Could you draw where the red and the green is in the room?</p>
+<p>(Warrick gives her a photo of the kitchen. Suzy colors the floor red and puts green circles up on the refrigerator.) </p>
+<p><strong>Warrick</strong>: So the green was all the way up here in the cabinets, too?</p>
+<p><strong>Suzy</strong>: He, um, he had to stand on a chair to reach it.</p>
+<p><strong>Warrick</strong>: Did you help him clean up the mess?</p>
+<p><strong>Suzy</strong>: At first, but then he said there was sharp stuff, so I watched TV.</p>
+<p>(Quick flashback to: Suzy watches tv. End of flashback.) </p>
+<p><strong>Warrick</strong>: And then what happened?</p>
+<p><strong>Suzy Sullivan</strong>: Then I watched some more TV. Then I watched some more TV, and then I watched some more TV, and then I went home.</p>
+<p>(Warrick smiles.) </p>
+<p>CUT TO:<br />
+[INT. CSI – GARAGE – DAY] </p>
+<p>(Grissom removes a single pot from the miniature pot rack from the ceiling of the IZZY DELANCY diorama. He fits the ceiling back on the miniature.) </p>
+<p>(Grissom takes the pot and starts comparing it to all the moldings taken from Ernie Dell's basement. He finds a mold and puts the pot in the mold. He looks for the matching mold cover and fits the two pieces together. He squeezes in some mold mixture.)</p>
+<p>(He removes the sample and checks it under the scope to compare the two pots. It's a match.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT – INTERVIEW ROOM -- DAY] </p>
+<p>(Grissom and Brass question Ernie Dell. Grissom places photos of matching items taken from the dioramas and molds taken from Ernie's house.) </p>
+<p><strong>Brass</strong>: Do these belong to you?</p>
+<p><strong>Ernie Dell</strong>: You know damned well they do. You took 'em from my house. They're mine and I want them back.</p>
+<p><strong>Brass</strong>: So you worked with Raymundo Suarez. Did you know Izzy Delancy?</p>
+<p><strong>Ernie Dell</strong>: Everybody knows Izzy Delancy. He's famous. Used to do it to his music.</p>
+<p><strong>Brass</strong>: And how did he thank you for that? Public humiliation?</p>
+<p>(Brass puts a screen capture off of an IZZY DELANCY ad. It's of Ernie Dell with a Mannleigh chicken.) </p>
+<p><strong>Brass</strong>: And you knew Penny Garden.</p>
+<p><strong>Ernie Dell</strong>: Who?</p>
+<p><strong>Grissom</strong>: Penny Garden. You delivered a package to her house.</p>
+<p>(Grissom shows Ernie a photo of the train off the back of the shirt.) </p>
+<p><strong>Brass</strong>: You're a handyman. What'd you fix for her?</p>
+<p><strong>Ernie Dell</strong>: I don't know anything about that. Lots of guys got them shirts.</p>
+<p><strong>Grissom</strong>: Do you have any idea how ... your work ended up at crime scenes from three different murders?</p>
+<p>(Grissom shows the dioramas to Ernie.) </p>
+<p><strong>Ernie Dell</strong>: I've been making scale models since I was nine years old. I sell my stuff at craft fairs, to hobby shops, over the Internet, every damned place. Sold things to hundreds of people over the years. Any of them could have ended up in the hands of your killer. You're just picking on an old man 'cause you got nothing.</p>
+<p><strong>Brass</strong>: We're just talking here, Ernie. We're just talking.</p>
+<p><strong>Ernie Dell</strong>: You charging me with something?</p>
+<p><strong>Brass</strong>: You want a cup of coffee, Ernie? We got decaf.</p>
+<p><strong>Ernie Dell</strong>: Charge me or let me go. (He looks at them.) I want a lawyer.</p>
+<p><strong>Brass</strong>: You're free to go.</p>
+<p>(Ernie gets up and leaves the room. Brass sighs.) </p>
+<p><strong>Brass</strong>: So was he right? Are we really just picking on an old man or is he the bad guy?</p>
+<p><strong>Grissom</strong>: Well, he's associated peripherally with all the victims, and he certainly has the right skills.</p>
+<p><strong>Brass</strong>: Yeah ... he spent half his life in Locomotiveville.</p>
+<p><strong>Grissom</strong>: I know what it's like to lose yourself in little things. After a while it gets to you.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]</p>
+<p><strong>Catherine</strong>: (on phone) (V.O.) We're coming up goose eggs on &quot;cement boy&quot; and his lady friend. </p>
+<p>[INT. POLICE DEPARTMENT – HALLWAY -- NIGHT] </p>
+<p>(Brass is on the phone as he hurries through the hallway.) </p>
+<p><strong>Brass</strong>: You got to be kidding?</p>
+<p><strong>Catherine</strong>: (from phone) No hits on AFIS, no hits on CODIS. Guy's got no work card, and his keys weren't a match for any vehicle in a three-block radius of the construction site.</p>
+<p><strong>Brass</strong>: Unbelievable.</p>
+<p><strong>Catherine</strong>: Apparently, just a couple of law-abiding folk.</p>
+<p><strong>Brass</strong>: Well, keep me posted.</p>
+<p>(He closes his cell phone and enters – </p>
+<p>[INT. POLICE DEPARTMENT – INTERVIEW ROOM – NIGHT – CONTINUOUS]</p>
+<p>(Max sits at the table.) </p>
+<p><strong>Max</strong>: Hello, Jim.</p>
+<p><strong>Brass</strong>: Hello. </p>
+<p><strong>Max</strong>: Hello ... who?</p>
+<p>(Brass sits down.) </p>
+<p><strong>Brass</strong>: You know, I don't need your name to arrest you. I can call you John Doe. Okay, let's assume for the moment that you did know the dead lady laying five feet from where we found you. I'm gonna go out on a limb here and say that you killed her, and then you tried to dispose of her body, but you did something very, very stupid. Are you with me so far?</p>
+<p><strong>Max</strong>: Interesting. Do you have the time, Jim?</p>
+<p><strong>Brass</strong>: Yeah.</p>
+<p><strong>Max</strong>: 'Cause it looks like it's half-past. You owe me ten bucks.</p>
+<p>(Brass chuckles.) </p>
+<p><strong>Brass</strong>: Make sure this goes in his personal effects.</p>
+<p>(Brass takes out his money clip and pulls out a ten-dollar bill. He holds it out and Max reaches for it.) </p>
+<p><strong>Brass</strong>: Now, I'm gonna suggest you get a name tag, put the name &quot;Trixie&quot; on it, 'cause that's what your cell mates will be calling you.</p>
+<p>(Max takes the bill.) </p>
+<p><strong>Brass</strong>: Take him to his cell.</p>
+<p>(The officer helps Max up.) </p>
+<p>[INT. POLICE DEPARTMENT – HALLWAY – CONTINUOUS]</p>
+<p>(Max smugly waves the ten-dollar bill out in front of him as he moves through the hallway.) </p>
+<p><strong>Max</strong>: Anybody want anything from the vending machines? Come on. It's on me. Actually, it's on Jimbo. (to the officers) Took this baby off of Captain Brass myself. (to Brass) Look at me, generating income my first day in the joint. Yeah, Mom would be so proud. Not hungry? Soda, maybe? Anybody? </p>
+<p>(Walking toward him are Suzy's mom, Suzy and Sofia.) </p>
+<p>(Max sees Suzy and tries to hide behind the ten-dollar bill. He looks at her and tries to signal her to be quiet. The little girl looks at Max and her face lights up.) </p>
+<p><strong>Suzy Sullivan</strong>: Hi, Max!</p>
+<p><strong>Max</strong>: (sheepish) Hi, Suzy.</p>
+<p><strong>Brass</strong>: (mocks) &quot;Hi, Max.&quot;</p>
+<p>(Brass takes the ten back from Max. Max rolls his eyes.) </p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. POLICE DEPARTMENT – INTERVIEW ROOM -- NIGHT] </p>
+<p>(Max is back in the interview room with Brass.) </p>
+<p><strong>Max</strong>: Yeah, I killed my wife, but it was an accident.</p>
+<p><strong>Brass</strong>: You accidentally stabbed her through the heart?</p>
+<p><strong>Max</strong>: That's right. Believe me or don't believe me. I don't care. It's the truth.</p>
+<p>(Quick flash of: Max pours himself a cup of coffee and spills some on his shirt. He groans.) </p>
+<p><strong>Paula Sullivan</strong>: (groans) Oh, Max. You got coffee on your shirt.</p>
+<p>(He puts the cup down on the counter near the refrigerator and opens the refrigerator to get the container of milk out from behind the large bowl of green Jell-O.) </p>
+<p><strong>Paula Sullivan</strong>: Here. You're gonna be late again. Could I please just get some ...</p>
+<p>(She kneels to dab at his shirt as Max pulls the container of milk out of the refrigerator. He knocks over the bowl of Jell-O and it breaks, shattering glass on the floor and green Jell-O everywhere.) </p>
+<p><strong>Max</strong>: Oh!</p>
+<p>(Both Max and Paula bend over forward and they bang foreheads.) </p>
+<p><strong>Max/Paula</strong>: (both groan) Oh. PAULA: Oh. MAX: Nice.</p>
+<p>(They rub their foreheads. Max bends over and starts to pick up the broken glass off the floor.)</p>
+<p>(Meanwhile, the toaster burns the morning toast. The smoke detector starts beeping.) </p>
+<p>(Max takes a step, slips and accidentally grabs Paula, stabbing her in the chest with the piece of broken glass in his hand.) </p>
+<p><strong>Paula</strong>: Oh. </p>
+<p>(Paula dies and falls to the floor. Max looks at the piece of broken glass in his hand.) </p>
+<p>(End of flashback.) </p>
+<p><strong>Brass</strong>: Max, I want to believe you, but I ...</p>
+<p>(He chuckles.) </p>
+<p><strong>Max</strong>: If I wanted to kill her, do you think I would've dropped a bowl of Jell-O and stabbed her with a piece of broken glass? </p>
+<p><strong>Brass</strong>: But if it was an accident, why didn't you just pick up the phone and call the police?</p>
+<p><strong>Max</strong>: Because I killed my granny. Okay?</p>
+<p>(Quick flashback to: Granny is in bed and wearing an oxygen mask. She gasps for breath.) </p>
+<p><strong>Max</strong>: (V.O.) It was a long time ago, and it was an accident.</p>
+<p>(A young Max sits in the rocking chair next to the bed and he's sleeping. Unfortunately, the rocking chair is on Granny's oxygen tubing.) </p>
+<p><strong>Max</strong>: (V.O.) She stroked out. It wasn't my fault. </p>
+<p>(End of flashback.) </p>
+<p><strong>Max</strong>: They never should've put the oxygen line there. They let me off for that, but I didn't think anyone would believe me this time.</p>
+<p><strong>Brass</strong>: You were never convicted of killing your grandmother.</p>
+<p><strong>Max</strong>: No.</p>
+<p><strong>Brass</strong>: Which is why you don't have a record. </p>
+<p><strong>Max</strong>: You would've found out eventually and held it against me.</p>
+<p><strong>Brass</strong>: All right, what about your neighbor? Mrs. Ivanovna-- did you kill her or was that an accident?</p>
+<p><strong>Max</strong>: I just wanted to talk to her.</p>
+<p>(Quick flashback to: Max looks at the piece of broken glass in his hand. He turns and sees Mrs. Ivanovna looking at him through the window.) </p>
+<p><strong>Max</strong>: (V.O.) You know, I thought I could make it be okay.</p>
+<p>(He closes the curtain.) </p>
+<p>CUT TO:<br />
+(Max knocks on the door to apartment 21.) </p>
+<p><strong>Max</strong>: Mrs. Ivanovna? Hello.</p>
+<p>(The door opens.) </p>
+<p><strong>Aloyna Ivanovna</strong>: Hello. What do you want?</p>
+<p><strong>Max</strong>: Good morning. Uh, I was wondering if I might borrow some sugar.</p>
+<p><strong>Aloyna Ivanovna</strong>: I get sugar. You stay.</p>
+<p><strong>Max</strong>: Sure.</p>
+<p>(She turns and heads back inside </p>
+<p><strong>Aloyna Ivanovna</strong>: I get sugar. Stay!</p>
+<p><strong>Max</strong>: Yeah.</p>
+<p><strong>Aloyna Ivanovna</strong>: I get. Yes. I get. You stay.</p>
+<p>(She disappears into the kitchen. Max smiles at her.) </p>
+<p><strong>Max</strong>: (calls out) I can't have my coffee without my sugar.</p>
+<p>(He turns and looks at his reflection in the mirror. There's a large bloody mess on his shirt. He groans.) </p>
+<p><strong>Max</strong>: (V.O.) The last thing I wanted to do was hurt that lady.</p>
+<p>(Max rushes into the kitchen.) </p>
+<p><strong>Max</strong>: Mrs. Ivanovna, it's not what you think!</p>
+<p>(The old woman is rushing and moving very slowly. She turns to reach for the phone.) </p>
+<p><strong>Max</strong>: No, Mrs. Ivanovna, it's not what you think.</p>
+<p>(Max reaches her, bumps into her and smashes her into the kitchen phone.) </p>
+<p><strong>Max</strong>: You don't understand. It was an accident.</p>
+<p>(She falls on the floor, a cut on her head and her false teeth out on the floor. He goes to check on her.) </p>
+<p><strong>Max</strong>: Oh, God. Mrs. Ivanovna?</p>
+<p>(Max groans.) </p>
+<p><strong>Max</strong>: (V.O.) She was dead. So, you know, I thought ... </p>
+<p>(Max turns the gas stove on.) </p>
+<p><strong>Max</strong>: (V.O.) ... maybe I'd make it look like a suicide.</p>
+<p>(He picks her up off the floor and sticks her in the oven.) </p>
+<p>(End of flashback.) </p>
+<p>(Max sighs.) </p>
+<p><strong>Max</strong>: It was not ... a good start to the day.</p>
+<p>(Quick flashback to: Max rolls his wife in a carpet.)</p>
+<p>(Cut to: He carries her out over his shoulders and out the back.) </p>
+<p>(Cut to: He opens the car door and sticks her in the trunk. He strips there, tosses the clothes in the trunk and slams the trunk door closed. He glances around and dashes back to the apartment.) </p>
+<p>(Cut to: Max reaches the apartment and closes the door. He turns to go inside.) </p>
+<p><strong>Suzy</strong>: (o.s.) Hi, Max!</p>
+<p>(He turns.) </p>
+<p><strong>Max</strong>: Don't eat that!</p>
+<p>(Suzy is sitting on the kitchen floor with some Jell-O in her fingers. Suzy giggles.) </p>
+<p>(End of flashback.) </p>
+<p><strong>Max</strong>: After Suzy went back to her mother, I decided to, you know ...</p>
+<p><strong>Brass</strong>: What, to give your wife -- your beloved wife -- a proper burial?</p>
+<p><strong>Max</strong>: Something like that. </p>
+<p>(Quick flashback to: The back of the car sags from the weight of the body in the trunk, causing the muffler to spark as it drags on the asphalt as Max drives away.)</p>
+<p>(Cut to: A bunch of homeless people are outside. Max's car fails right in front of the homeless people.) </p>
+<p><strong>Max</strong>: (V.O.) But along the way, I had a bit of car trouble.</p>
+<p>(Cut to: Max is transporting the body in a shopping cart.) </p>
+<p>(Flash to: Max carries the carpet as he walks along the thin wooden plank over the wet concrete foundation. He drops the carpet and his wife's body rolls out. Max steps out to get the body and he sinks – and gets stuck – and can't move – and the more he struggles, the deeper he sinks – till he's waist deep in the concrete.)</p>
+<p>(Max sighs.) </p>
+<p>(End of flashback.) </p>
+<p><strong>Max</strong>: Few hours later, some punk wanders over and swiped my wallet. That's my life. That's who I am. </p>
+<p>[OBSERVATION ROOM]</p>
+<p><strong>Max</strong>: (through speakers) I'm the guy who buys his daughter a puppy for her eighth birthday, and the next day, he backs out of the driveway and ...</p>
+<p>(Catherine rolls her eyes and shakes her head.) </p>
+<p><strong>Brass</strong>: No. No. Don't tell me you ran over the puppy.</p>
+<p><strong>Max</strong>: No. I ran over my daughter.</p>
+<p>(Catherine's jaw drops.) </p>
+<p><strong>Max</strong>: Twenty years later, she still walks funny.</p>
+<p>(Catherine laughs quietly.) </p>
+<p>CUT TO:<br />
+[INT. CSI – GRISSOM'S OFFICE – NIGHT]</p>
+<p>(Catherine sits in front of Grissom's desk. She's still laughing.) </p>
+<p><strong>Catherine</strong>: I'm sorry. It's horrible. But it's really funny. It's horrible and it's funny.</p>
+<p>(She looks at Grissom.) </p>
+<p><strong>Catherine</strong>: Are you okay?</p>
+<p>(Grissom shakes his head.) </p>
+<p><strong>Grissom</strong>: A guy kills two people before breakfast that he had no intention of killing when he woke up that morning. By all accounts, he's led a meager life, an unnoticed life. And then all of a sudden, in a flash, it's over. And now, for him, the real suffering begins.</p>
+<p><strong>Catherine</strong>: You're tired.</p>
+<p><strong>Grissom</strong>: Yeah.</p>
+<p>(Sara walks in.) </p>
+<p><strong>Sara</strong>: Hey. Guess what.</p>
+<p><strong>Grissom</strong>: Mankind has reached a new evolutionary plateau, and starting tomorrow, no one will rape, murder or maim again.</p>
+<p><strong>Sara</strong>: Uh, no.</p>
+<p><strong>Grissom</strong>: Too bad.</p>
+<p><strong>Sara</strong>: But we did catch a break on that disposable cell phone number.</p>
+<p><strong>Grissom</strong>: Raymundo Suarez called it as well.</p>
+<p><strong>Sara</strong>: No, he didn't. But according to the carrier, additional minutes were recently purchased with a credit card belonging to Ernie Dell. Brass is already on it. They're picking him up. We've got the miniature killer.</p>
+<p>CUT TO:<br />
+[EXT. DELL RESIDENCE – OUTSIDE STREET – NIGHT]</p>
+<p>(Officers head quietly for the front door.) </p>
+<p>INTERCUT WITH: </p>
+<p>[INT. CSI – GRISSOM'S OFFICE – NIGHT]</p>
+<p>(Grissom sits in his office and waits.)</p>
+<p>(His computer beeps.) </p>
+<p><strong>Recorded Voice</strong>: You have e-mail. </p>
+<p>(Grissom turns and sits in front of his computer. He opens the e-mail from:<br />
+Ernie @ eedellworld.co... 6KB I CONFESS TO THE MURDERS OF ...</p>
+<p>(He opens it:<br />
+From: &lt;Ernie @eedellworld.com&gt;<br />
+To: GilGrissom<br />
+Date: 12/08/06 12:32 am<br />
+Subject: I CONFESS TO THE MURDERS OF<br />
+Izzy Delancy, Penny Garden, &amp; Raymundo Suarez.</p>
+<p>www.eedellworld.com</p>
+<p>(It's a video file.)</p>
+<p>(Ernie appears on the monitor.) </p>
+<p><strong>Ernie Dell</strong>: (from video) My name is Ernest Edward Dell. I was born in 1946 in Ames, Iowa. My life's been hard, but I don't complain. I never expected better. </p>
+<p>[EXT. DELL RESIDENCE – NIGHT]</p>
+<p>(The police open the front door and enter.) </p>
+<p>[VIDEO]</p>
+<p>(Ernie lifts a cup of tea, then puts it down.) </p>
+<p><strong>Ernie Dell</strong>: (from video) I'm good with my hands. I make things. I fix things. I'm a handyman. That's what I am. </p>
+<p>[INT. DELL RESIDENCE – LIVING ROOM – NIGHT]</p>
+<p>(The officers are inside the house. They go through it quietly.) </p>
+<p>[VIDEO]</p>
+<p><strong>Ernie Dell</strong>: (from video) A man has a right to an honest day's pay. Me, I service the machinery of death so that people can eat. If that makes me evil, then so be it. (He sips his tea.) I'm not the sociable type. I know that. Spend any amount of time around people, you get your heart broke. Treachery, hypocrisy. Promise of love.</p>
+<p>[INT. DELL RESIDENCE – NIGHT]</p>
+<p>(The officers move into the next room.) </p>
+<p>[VIDEO]</p>
+<p><strong>Ernie Dell</strong>: (from video) Look into the mouth of a person, and you'll find lies wriggling there like maggots waiting to grow wings. The world has gone mad. A man could kill from sunup to sunset, and still his work would never be done.</p>
+<p>(Ernie looks to the side, picks up a gun, puts it under his chin and – </p>
+<p>OFF GRISSOM:</p>
+<p>BAMM!</p>
+<p>(Grissom flinches.) </p>
+<p>THUD.</p>
+<p>(Grissom stares at the video.)</p>
+<p>(All we see is the top of Dell's bloodied head.) </p>
+<p><strong>Officer</strong>: (o.s.) Gunfire! Let's go!</p>
+<p>(Grissom stares at the screen.) </p>
+<p><strong>Officer</strong>: (o.s.) Not here.</p>
+<p>(The flashlight glares off the monitor as the officers approach Ernie Dell's body. The first officer there checks for a pulse.) </p>
+<p>(We hold on Grissom as he stares at the screen.) </p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
- 
- 
-VARIOUS DISSOLVES OF: The man continues to carry the body through the construction site.
-
- 
-
- 
- 
-Brass: Construction crew found him when they came into work this morning. The woman's dead. The guy's still alive, but he's not talking. Wouldn't even give me his name, even after I gave him my name.
- 
-Grissom: Did you, uh, pull his wallet?
-Brass: No, everything is just the way I found it. I mean, I figure some knucklehead, you know, came in off the street, found him, figured he had a free pass, and picked his pocket.
-
-Brass: Anyway, I'm, uh ... I'm talking to people. I'll, uh, I'll let you know what we find out.
-Grissom: Catherine ... Do you need a minute?
-Catherine: Yes, I'm ... Yes, I'm ...  I mean ... No, Gil. I'm good.
- 
-Catherine: So, how's your day going?
-Max: Lady ... the best day I ever had is worse than the worst day you've ever imagined.
-Catherine: Oh, I doubt that.
-Grissom: Who's your lady friend?
-Max: Never saw that woman before in my life.
-Catherine: Uh, look, you're not going anywhere. It'll be a lot better for you if you just cooperate and tell us what happened.
-Max: You want to know what happened?
-Catherine: Mm-hmm.
-Max: Figure it out yourself. 
-Grissom: That's the fun part.
-
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
- 
- 
- 
-Sofia: Hey.
-Warrick: Hey.
-Stokes: Que pasa?
-Sofia: One of the residents reported smelling a gas leak at 6:00 a.m.
- 
-Sofia: He, uh, called the gas company. They arrived; they evacuated the building.
-Nick: I'm surprised anyone picked out a gas leak through the rest of the stench around here.
- 
-Warrick: Yeah, smells like used diapers.
-
- 
-Sofia: The gas boys traced the leak to this apartment, and that was when they found ...
- 
-Sofia: -- this.
-Nick: Whoa.
- 
-Sofia: Alyona Ivanovna. Manager said she's lived here alone for 27 years.
-Nick: Head in the oven ... It's kind of a classic, huh?
- 
-Warrick: Maybe not. I mean, this apartment is neat as a pin. A lady this tidy wouldn't leave a broken dish in a rack like that, you know?
- 
-Sofia: It doesn't necessarily indicate foul play.
- 
-Sofia: I checked the doors and the window. There's no sign of forced entry.
- 
-Warrick: What do you make of this? A busted phone ...
- 
-Warrick: -- with gray hairs in it.
- 
-Nick: She's definitely got gray hair.
-
- 
- 
-Catherine:  Okay, David. Let's roll her over together.
- 
-David Phillips: Single stab wound, just below the sternum. It feels domestic. Crime of passion? CATHERINE: Maybe?
-David Phillips: Good point.
-
- 
-Catherine: Hey! Hey! Hey!
- 
-Catherine: You ready to give me a name?
- 
-Catherine: You know, you are in a very deep hole, in every sense of the word, my friend. Think about that while we chisel you out. It's going to take a few hours ... assuming we're careful. See ya.
- 
-
- 
- 
-Nick: It's just a guess, but I'd say she's in rigor.
- 
-David Phillips: Blunt-force trauma on the forehead, and on the base of the skull.
-Warrick: I doubt very highly that those were self-induced.
- 
-Warrick: Look at that: it's dented.
- 
-Warrick: Looks like she may have been slammed into her own oven.
-Nick: Yep.
-David Phillips: She's been dead at least twelve hours.
- 
-Nick: I've got a substance on her ... right ear. She doesn't really look like the hair gel type.
- 
-Nick: Hang on a second, fellas. Look at that.
- 
-Nick: Her dentures ... they were in upside down.
- 
-
-
- 
-Grissom: Hey. You're coming with me. We got another 419 out by Nellis.
-Greg: Wow, busy night. Any details?
-Grissom: They tell me it tastes just like chicken.
-
- 
- 
-
- 
-Brass: The dead guy in the bath is Raymundo Suarez. He works the night shift. He cleans the equipment from 8:00 p.m. to 4:00 a.m. The day-shift guys came in, found him like this. The foreman here called it in.
-Grissom: This basin is designed to transfer an electrical current.
-Plant Foreman: Of course it does. It's a stun bath. We use it to stun the chickens before they go into the next room.
-Brass: Where they get their throats cut.
-Plant Foreman: Which is why we electrocute them first. It's humane.
-Greg: Was the current on when you found the body?
-Plant Foreman: No, sir, it was off; it stays off all night. Hey, uh, how long is this gonna take?
-Brass: As long as it takes.
-Plant Foreman: I got a lot of birds piling up outside. They're gonna die out there in that heat.
-Brass: Well, it's not like they're gonna do any better in here. Come on, I want to talk to your crew.
- 
-Greg: Maybe he was high. Passes out and falls in?
-Grissom: How does he end up face down in the middle of the bath?
-Greg: Kind of tough to drown in three inches of water.
-Grissom: Not impossible, though.
- 
-Grissom:  If he hit the water when the current was on, his muscles could've contracted, making it impossible for him to get out.
- 
-Greg:  But the machine's off at night, and it was off when they found the body.
- 
-Greg: Which means someone turned it off after he was dead.
-Grissom: Yeah.  Who?
-
-
- 
- 
-Brass: All right, what's your name, and what do you do here?
-Ernie Dell: Name's Ernie Dell. Maintenance man. I work 3:00 to 11:00.
-Brass: Mm-hmm. You see the victim last night?
-Ernie Dell: Uh, yeah, and Raymundo was just fine when I left.
-Brass: You and Raymundo get along?
-Ernie Dell: Kept my nose out of his business; he kept his out of mine. Didn't have a problem with him. 
-Brass: But you know somebody who did?
-Ernie Dell: Well, between you and me, the guy you ought to be talking to is Ike Mannleigh.
-Brass: Oh. You mean the guy who owns the company?
-Ernie Dell: Well, Raymundo's pretty far down on the pecking order.
-Brass: You think the big boss had a problem with him?
-Ernie Dell: No. Not unless you think a guy banging your wife is a problem.
- 
-Ernie Dell: Can't blame him, though. Bubbles Mannleigh is a cheap whore.
-Brass: Did you and Bubbles take a tumble?
-Ernie Dell: Me? Nah. Reminds me too much of my mother. Besides, uh ... Bubbles likes the dark meat.
-
- 
- 
-
-Greg: Unappetizing place to get your rocks off.
-Grissom: Not if you have a poultry fetish.
- 
-Greg: You got something?
-Grissom: Yeah, I think so.
-
-Grissom: One more chance.
-
-
- 
-
-
-
-
- 
- 
-INSERT: SCENE FROM 7X07: POST MORTEM
-
-
-BACK TO SCENE.
-
-INSERT: SCENE OF 7X02: BUILT TO KILL 
- 
- 
-BACK TO SCENE.
-
- 
- 
-SCOPE VIEW: Grissom looks through the diorama, covering a lot of ground. He sees the door and an image in one of the door's windows.
- 
-Sara:  You look like a kid who's just found the prize at the bottom of a Cracker Jacks box.
- 
-Grissom: Definitely some kind of doll.
-Sara: It sure is.
- 
-Grissom: Three different views of the same dead doll. Maybe this is more than a signature. Maybe there's something these victims have in common.
-Sara: First two victims were white, third Hispanic, two men, one woman, one rich, two poor, one young, two old, one famous, two obscure ... 
-Grissom: Yeah.
- 
-Grissom: And unfortunately, this is the best lead we have for their killer.
-INSERT: SCENE FROM 7X07: POST-MORTEM. The killer delivers the box on the front porch.
- 
-Sara: This is the most that Archie could get off that video?
-Grissom: Yeah, well, with the equipment we have here.
-Sara: I'm getting Raymundo's cell phone records. I'm gonna see if any of his calls are a match to the numbers that Penny Garden and Izzy Delancy had in common.
-Grissom: Whatever happened with that number we got off the disposable cell phone? Any luck with that?
-Sara: Disposable phone numbers are assigned by the carrier to the phone distributors. It took a little bit of legwork, but I did find the store where the phone was sold.
-Grissom: Let me guess. It was paid for with cash.
-Sara: Yeah.  Mannleigh Chickens.
-Grissom: What about it?
- 
-Sara: I'll let you know.
- 
-Sara: See how it feels?
- 
-
-
- 
-David Phillips: You know, we're getting kind of backed up in here.
-Robbins: The only one I hear complaining about it is you.
- 
-Robbins: Your cement lady's approximately 40 to 45 years old. COD is exsanguination due to laceration of the right ventricle. Wound seven centimeters long, five millimeters wide.
-Catherine: That looks like it could be a double-edged blade. It's pretty thick, too.
-Robbins: Well, it passed into the heart-- 
- 
-Robbins:  with a, uh, point of entry midline just below the xiphoid process.
- 
-Catherine: Upward thrust.
-Robbins: I just said that.
-Catherine: Okay. Any idea what the weapon might have been?
-Robbins: If I knew, I would've told you. I got to get to work. Taxpayers are getting their money's worth tonight.
- 
-
-
-(Max holds the identification plate as his photo is taken. There is no ID number or name on the board.
-ID NO.
-DATE
-LAS VEGAS POLICE DEPARTMENT. ) 
- 
- 
-
-
-
- 
-Catherine: Thank you.
-Max: Tingles.
-Catherine: You take them out, he puts them back in.
-Max: What is it?
-Catherine: It's acetic acid.
-Max: Do you do feet? I got a bunion that could use some soaking.
- 
-Max: What's this do?
-Catherine: Takes your fingerprints.
-Max: Mmm.
- 
-Max: Good luck with that.
- 
-Brass: How's Mr. Hoffa?
-Max: Hey, Jim. Cathy and I are just getting reacquainted. Will Gilbert be stopping by?
-Brass: I take it we don't have a name yet.
-Catherine: No.
-Brass: I bet you ten bucks that I have you made by 9:00 p.m.
-Max: You're on.
-
- 
- 
-Nick:  Okay, Hodges. What do you got?
-Hodges:  The green trace on your old lady.
-
-
- 
-Hodges: Adipic acid, disodium phosphate, sodium citrate, fumaric acid, Yellow
-#5, Blue #1, BHA, a whole lot of gelatin, and sugar.
-Nick: Which is?
-Hodges: Oh, come on. There's always room for it.
-Nick: Just tell me what it is, Hodges.
-Hodges: Jell-O. Lime Jell-O.
-Nick: Lime Jell-O?
-Hodges: I tell you what. You tell me why.
- 
-
- 
- 
-CAMERA ZOOMS OUT on the ant-infested green spot on the floor.
- 
- 
-
-VARIOUS DISSOLVES OF: 
- 
-
-
-
- 
- 
-
- 
-Sofia: Clear.
- 
-Officer:  Clear.
- 
- 
-Nick: Oh, boy. Looks like somebody cleaned up in a hurry. More green Jell-O.
- 
-Warrick: Sofia, you get a tenant's name for this apartment?
-Sofia: According to the management office, this apartment's a sublet, has been for years. He's not seen who lives here.
- 
-Nick: I got blood, too.
- 
-Warrick: This place has a direct view of the old lady's apartment.
- 
-Warrick: So, what, the guy's killing the old lady, -- 
- 
-Warrick:  -- he sees he's being watched, and he, what, comes back here and whacks the witness?
- 
-Nick: It's possible. But why get rid of this body and leave the old lady?
-
- 
- 
-Izzy:  Hi. I'm Izzy Delancy. And back in my bad old days, I'd do almost anything to sell albums. 
-(The caption on the bottom of the ad runs: PLEASE DONATE! – 1-800-555-0199 –
-LITTLE CREATURES GREAT &amp; SMALL – WE NEED YOUR HELP! )
-Izzy:  People even accused me of biting the heads off live chickens on stage. I'm not proud of that. But I've worked hard to change. And with the help of the good Lord, fourteen years of therapy and two loving wives, I humbly believe I've made progress. But this story is not about Izzy Delancy. It's about something much, much bigger: cruelty. Did you know that every day in the United States, more chickens are killed than all the people in the Rwandan genocide? Now, you may argue, &quot;Izzy, African people are not a food source.&quot; Well, you're missing the point entirely. Cruelty is cruelty, whether the victim be a chicken or a malnourished African.
- 
-Grissom: Where did you find this?
-Sara: I like animals, and after the Delancy murder, I brushed up on my history. As it turns out, three years ago, Izzy Delancy had a midlife awakening and became an animal rights activist. He starred in and financed this PSA targeting Mannleigh Chickens as the epitome of everything that is wrong in the slaughter industry.
- 
-Ike Mannleigh:  It takes a manly man to make a Mannleigh chicken.
-
- 
-Izzy Delancy:  Now, perhaps you've purchased Mannleigh Roasters, Fryers or Assorted Parts at your local grocery store, and you believe you're eating chicken. But what you're really eating is cruelty. Our undercover investigators secretly recorded workers at a Mannleigh processing plant throwing loose animals up against the wall, stomping up and down on them, kicking them across the room.
- 
-Grissom: How bad did Mannleigh get hurt by this?
-Sara: His sales dropped 60%. He launched a very expensive PR campaign to rehabilitate his image, including retrofitting a plant with cruelty-free equipment. His business never recovered. He probably hated Delancy.
- 
-
- 
- 
-Ike Mannleigh: I have no idea how Raymundo ended up dead. I liked that boy.
-Brass: Apparently, so did your wife. She was spending some quality time with Raymundo down at the plant.
-Ike Mannleigh: If I killed every guy that banged my Bubbles, they'd be stacking up like cord wood.
-Brass: So you have no problem with it?
-Ike Mannleigh: Look. Bubbles is an insatiable slut, but she's my slut, and I love her. I don't expect you to understand.
-Brass: Oh, I get it.
- 
-Brass: Do you know this woman?
-Ike Mannleigh: I've never seen her before in my life.
-Brass: How about him?
- 
-Ike Mannleigh: Let's not screw around here. You know I knew him, and you know I hated him. That jerk nearly put me into Chapter 11.
-Brass: He ended up dead, too.
-Ike Mannleigh: And I sent his wife a Hallmark and a case of frozen chickens the day he died.
-Brass: He was murdered.
-Ike Mannleigh: That's what I heard, too. We're done here. You want to call my attorney or should I?
-
-
- 
-(The label on the package reads:
-DATE: 12-07-06 657-18898-23564
-R. KRANSEN 206*-555-0165
-VISION IMAGE AZ
-2655 WEST 37TH AVE NE
-SEATTLE WA 98101
-MR. GIL GRISSOM 702-555-0189
-CSI: LAS VEGAS CRIME LAB
-3057 WESTFALL AVENUE
-LAS VEGAS NV 89156
- 
- 
- 
- 
- 
-Hodges:  Whoo, whoo-whoo!
-Grissom:  Thank you, Hodges. I can see that it's a train.
-Hodges: Yeah, but it's Locomotive-ville. 
- 
-Hodges: Sorry. Thought you might be a member.
- 
-
-
-(Greg is at the L.V.M.T.C. site. He enters the site. The write up reads:
-LOCOMOTIVEVILLE
-LAS VEGAS MODEL TRAIN CLUB
-Welcome to Locomotiveville! If you are a new to the site, be sure to check out the --
-page and join. Jordan Palmer will be here this Saturday for a free workshop on bu—
-trains. Jordan will cover the entire process, from where to get the best models at –
-to which glue and paint will hold up the be---
-Jordan's 4th year at the annual model fest—
-answer all of your questions. Reservations –
-made early, classes always fill up. Don't –
-for the raffle, only five dollars at the door.
- 
- 
-
-
- 
-Brass:  Attention all units, suspect's name is Ernie Dell.
-Dispatch:  Copy that. All units, please be advised that suspect Ernie Dell – 
- 
-
- 
-Brass: Ernie Dell? Las Vegas Police! Open up.
- 
-Brass:  Go ahead. Break it.
- 
-Officer:  It's clear, Captain.
-
- 
- 
- 
- 
-Officer:  Captain. There's a workshop in the basement.
- 
-
-
-
- 
- 
-
-
-
-;
-
-
-
-
- 
- 
-Sofia: One of the other residents ID'd the tenant in the sublet apartment as Paula Sullivan.
-Warrick: That's good.
-Sofia: Well, it's better than good. Apparently Paula Sullivan does a little day care on the side. We have a witness.
- 
-Warrick: Hi. I'm Warrick Brown from the Crime Lab.
- 
-Suzy's Mom: Hi. My Suzy was in that apartment yesterday. And she was filthy when they sent her back, and I marched right over there to give Paula a piece of my mind, and she wasn't home. Paula wasn't there.
-Suzy: Max watched me. He's nice.
-Suzy's Mom: Her husband. Neither of them was there when I went back.
-Warrick: Well, ma'am, we're going to need your daughter's clothes from yesterday.
-Suzy: I like you. You're a giant.
- 
-Warrick: And you're a princess.
-Suzy: Thank you.
-
-
- 
-Warrick: Okay, Suzy, tell me about Max. What's Max like?
-Suzy: Max is my friend. He's a lion tamer and an astronaut and a spy.
-Suzy's Mom: Guy always kinda creeped me out.
-Warrick:  How come you didn't know that Paula Sullivan wasn't home?
-Suzy's Mom: We live across the courtyard.
- 
-Suzy's Mom: Bye.
- 
-Suzy's Mom:  I send Suzy over. I watch until she gets inside.
- 
- 
-Suzy: I went in. It was a big mess.
-Warrick: A big mess? What color was the mess?
-Suzy: Red and green.
-(Quick flashback to: Suzy enters the apartment and closes the door. She walks into the kitchen and starts playing with the green Jell-O on the floor. She picks some up and is going to eat it when -- 
-Max:  Don't eat that.
-
- 
- 
-Suzy: Max came into the kitchen in his underpants.
- 
-Warrick: Hmm ... Did Max try to hug you or touch you?
-Suzy: Oh, no. He went and got dressed.
-Warrick: Did Max seem surprised to see all that big mess there?
-Suzy:  I don't know.
-Warrick: What did Max do next?
-Suzy: He started cleaning up the big mess. I bet he didn't want to get in trouble.
-Warrick: I bet you're right. You know what? Could you help me? I've got a picture right here. And I have some crayons, too. Could you draw where the red and the green is in the room?
- 
-Warrick: So the green was all the way up here in the cabinets, too?
-Suzy: He, um, he had to stand on a chair to reach it.
-Warrick: Did you help him clean up the mess?
-Suzy: At first, but then he said there was sharp stuff, so I watched TV.
- 
-Warrick: And then what happened?
-Suzy Sullivan: Then I watched some more TV. Then I watched some more TV, and then I watched some more TV, and then I went home.
- 
-
- 
- 
-
- 
-
- 
- 
-Brass: Do these belong to you?
-Ernie Dell: You know damned well they do. You took 'em from my house. They're mine and I want them back.
-Brass: So you worked with Raymundo Suarez. Did you know Izzy Delancy?
-Ernie Dell: Everybody knows Izzy Delancy. He's famous. Used to do it to his music.
-Brass: And how did he thank you for that? Public humiliation?
- 
-Brass: And you knew Penny Garden.
-Ernie Dell: Who?
-Grissom: Penny Garden. You delivered a package to her house.
- 
-Brass: You're a handyman. What'd you fix for her?
-Ernie Dell: I don't know anything about that. Lots of guys got them shirts.
-Grissom: Do you have any idea how ... your work ended up at crime scenes from three different murders?
- 
-Ernie Dell: I've been making scale models since I was nine years old. I sell my stuff at craft fairs, to hobby shops, over the Internet, every damned place. Sold things to hundreds of people over the years. Any of them could have ended up in the hands of your killer. You're just picking on an old man 'cause you got nothing.
-Brass: We're just talking here, Ernie. We're just talking.
-Ernie Dell: You charging me with something?
-Brass: You want a cup of coffee, Ernie? We got decaf.
-Ernie Dell: Charge me or let me go.  I want a lawyer.
-Brass: You're free to go.
- 
-Brass: So was he right? Are we really just picking on an old man or is he the bad guy?
-Grissom: Well, he's associated peripherally with all the victims, and he certainly has the right skills.
-Brass: Yeah ... he spent half his life in Locomotiveville.
-Grissom: I know what it's like to lose yourself in little things. After a while it gets to you.
-
-
-Catherine:  We're coming up goose eggs on &quot;cement boy&quot; and his lady friend. 
- 
- 
-Brass: You got to be kidding?
-Catherine:  No hits on AFIS, no hits on CODIS. Guy's got no work card, and his keys weren't a match for any vehicle in a three-block radius of the construction site.
-Brass: Unbelievable.
-Catherine: Apparently, just a couple of law-abiding folk.
-Brass: Well, keep me posted.
-(He closes his cell phone and enters – 
-
- 
-Max: Hello, Jim.
-Brass: Hello. 
-Max: Hello ... who?
- 
-Brass: You know, I don't need your name to arrest you. I can call you John Doe. Okay, let's assume for the moment that you did know the dead lady laying five feet from where we found you. I'm gonna go out on a limb here and say that you killed her, and then you tried to dispose of her body, but you did something very, very stupid. Are you with me so far?
-Max: Interesting. Do you have the time, Jim?
-Brass: Yeah.
-Max: 'Cause it looks like it's half-past. You owe me ten bucks.
- 
-Brass: Make sure this goes in his personal effects.
- 
-Brass: Now, I'm gonna suggest you get a name tag, put the name &quot;Trixie&quot; on it, 'cause that's what your cell mates will be calling you.
- 
-Brass: Take him to his cell.
- 
-
- 
-Max: Anybody want anything from the vending machines? Come on. It's on me. Actually, it's on Jimbo.  Look at me, generating income my first day in the joint. Yeah, Mom would be so proud. Not hungry? Soda, maybe? Anybody? 
- 
- 
-Suzy Sullivan: Hi, Max!
-Max:  Hi, Suzy.
-Brass:  &quot;Hi, Max.&quot;
- 
-
-
-
-
- 
- 
-Max: Yeah, I killed my wife, but it was an accident.
-Brass: You accidentally stabbed her through the heart?
-Max: That's right. Believe me or don't believe me. I don't care. It's the truth.
- 
-Paula Sullivan:  Oh, Max. You got coffee on your shirt.
- 
-Paula Sullivan: Here. You're gonna be late again. Could I please just get some ...
- 
-Max: Oh!
- 
-Max/Paula:  Oh. PAULA: Oh. MAX: Nice.
-
- 
- 
-Paula: Oh. 
- 
- 
-Brass: Max, I want to believe you, but I ...
- 
-Max: If I wanted to kill her, do you think I would've dropped a bowl of Jell-O and stabbed her with a piece of broken glass? 
-Brass: But if it was an accident, why didn't you just pick up the phone and call the police?
-Max: Because I killed my granny. Okay?
- 
-Max:  It was a long time ago, and it was an accident.
- 
-Max:  She stroked out. It wasn't my fault. 
- 
-Max: They never should've put the oxygen line there. They let me off for that, but I didn't think anyone would believe me this time.
-Brass: You were never convicted of killing your grandmother.
-Max: No.
-Brass: Which is why you don't have a record. 
-Max: You would've found out eventually and held it against me.
-Brass: All right, what about your neighbor? Mrs. Ivanovna-- did you kill her or was that an accident?
-Max: I just wanted to talk to her.
- 
-Max:  You know, I thought I could make it be okay.
- 
-
- 
-Max: Mrs. Ivanovna? Hello.
- 
-Aloyna Ivanovna: Hello. What do you want?
-Max: Good morning. Uh, I was wondering if I might borrow some sugar.
-Aloyna Ivanovna: I get sugar. You stay.
-Max: Sure.
-(She turns and heads back inside 
-Aloyna Ivanovna: I get sugar. Stay!
-Max: Yeah.
-Aloyna Ivanovna: I get. Yes. I get. You stay.
- 
-Max:  I can't have my coffee without my sugar.
- 
-Max:  The last thing I wanted to do was hurt that lady.
- 
-Max: Mrs. Ivanovna, it's not what you think!
- 
-Max: No, Mrs. Ivanovna, it's not what you think.
- 
-Max: You don't understand. It was an accident.
- 
-Max: Oh, God. Mrs. Ivanovna?
- 
-Max:  She was dead. So, you know, I thought ... 
- 
-Max:  ... maybe I'd make it look like a suicide.
- 
- 
- 
-Max: It was not ... a good start to the day.
-
- 
- 
- 
-Suzy:  Hi, Max!
- 
-Max: Don't eat that!
- 
- 
-Max: After Suzy went back to her mother, I decided to, you know ...
-Brass: What, to give your wife -- your beloved wife -- a proper burial?
-Max: Something like that. 
-
- 
-Max:  But along the way, I had a bit of car trouble.
- 
-
- 
- 
-Max: Few hours later, some punk wanders over and swiped my wallet. That's my life. That's who I am. 
-
-Max:  I'm the guy who buys his daughter a puppy for her eighth birthday, and the next day, he backs out of the driveway and ...
- 
-Brass: No. No. Don't tell me you ran over the puppy.
-Max: No. I ran over my daughter.
- 
-Max: Twenty years later, she still walks funny.
- 
-
-
- 
-Catherine: I'm sorry. It's horrible. But it's really funny. It's horrible and it's funny.
- 
-Catherine: Are you okay?
- 
-Grissom: A guy kills two people before breakfast that he had no intention of killing when he woke up that morning. By all accounts, he's led a meager life, an unnoticed life. And then all of a sudden, in a flash, it's over. And now, for him, the real suffering begins.
-Catherine: You're tired.
-Grissom: Yeah.
- 
-Sara: Hey. Guess what.
-Grissom: Mankind has reached a new evolutionary plateau, and starting tomorrow, no one will rape, murder or maim again.
-Sara: Uh, no.
-Grissom: Too bad.
-Sara: But we did catch a break on that disposable cell phone number.
-Grissom: Raymundo Suarez called it as well.
-Sara: No, he didn't. But according to the carrier, additional minutes were recently purchased with a credit card belonging to Ernie Dell. Brass is already on it. They're picking him up. We've got the miniature killer.
-
-
- 
-
-
-
- 
-Recorded Voice: You have e-mail. 
-(Grissom turns and sits in front of his computer. He opens the e-mail from:
-Ernie @ eedellworld.co... 6KB I CONFESS TO THE MURDERS OF ...
-(He opens it:
-From: &lt;Ernie @eedellworld.com&gt;
-To: GilGrissom
-Date: 12/08/06 12:32 am
-Subject: I CONFESS TO THE MURDERS OF
-Izzy Delancy, Penny Garden, &amp; Raymundo Suarez.
-www.eedellworld.com
-
- 
-Ernie Dell:  My name is Ernest Edward Dell. I was born in 1946 in Ames, Iowa. My life's been hard, but I don't complain. I never expected better. 
-
- 
-
- 
-Ernie Dell:  I'm good with my hands. I make things. I fix things. I'm a handyman. That's what I am. 
-
- 
-
-Ernie Dell:  I'm not the sociable type. I know that. Spend any amount of time around people, you get your heart broke. Treachery, hypocrisy. Promise of love.
-
- 
-
-Ernie Dell:  Look into the mouth of a person, and you'll find lies wriggling there like maggots waiting to grow wings. The world has gone mad. A man could kill from sunup to sunset, and still his work would never be done.
-(Ernie looks to the side, picks up a gun, puts it under his chin and – 
-OFF GRISSOM:
-BAMM!
- 
-THUD.
-
- 
-Officer:  Gunfire! Let's go!
- 
-Officer:  Not here.
- 
- 
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=07x10+-+Loco+Motives&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127437%23p127437" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=07x10+-+Loco+Motives&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127437%23p127437" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127437%23p127437&amp;name=07x10+-+Loco+Motives" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127437%23p127437" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=ef544ef0f9aef150809f3b664f63f464">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=ef544ef0f9aef150809f3b664f63f464">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=ef544ef0f9aef150809f3b664f63f464">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=ef544ef0f9aef150809f3b664f63f464">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

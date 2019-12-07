@@ -1,719 +1,953 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]
+FLASH TO WHITE:
 
+[EXT. LAS VEGAS STREET - NIGHT]
+(A dark-colored SUV recklessly races through" />
+<meta property="og:title" content="03x16 - Lucky Strike - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]
+FLASH TO WHITE:
 
+[EXT. LAS VEGAS STREET - NIGHT]
+(A dark-colored SUV recklessly races through" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13251" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>03x16 - Lucky Strike - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13251" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13251">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=ce99e431f23fb3f9da6bbe1ff900bc31"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=ce99e431f23fb3f9da6bbe1ff900bc31">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=ce99e431f23fb3f9da6bbe1ff900bc31">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=ce99e431f23fb3f9da6bbe1ff900bc31">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=ce99e431f23fb3f9da6bbe1ff900bc31">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13251&amp;sid=ce99e431f23fb3f9da6bbe1ff900bc31&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>03x16 - Lucky Strike</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127345">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127345">03x16 - Lucky Strike</a></div>
+							<div class="pull-right text-right"><time datetime="2003-03-06T02:23:34Z">03/06/03 02:23</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>FLASH TO WHITE:</p>
+<hr />
+[EXT. LAS VEGAS STREET - NIGHT]</p>
+<p>(A dark-colored SUV recklessly races through the streets, police cars after it, their sirens wailing.)</p>
+<p><strong>Officer</strong>: (over radio) We have a high-speed chase in progress. Heading Eastbound on 74th street. Over.</p>
+<p>(The speeding SUV turns into a parking lot, side-swipes a parked car and continues out of the parking lot and back onto the street.</p>
+<p>(The SUV turns off of the road and onto the grassy area, the police cars right on its tail.)</p>
+<p>(The SUV turns back onto the busy street, weaving in and out of traffic as other cars swerve and brake to avoid hitting it. The police cars are still on its tail.)</p>
+<p>(The SUV turns and swerves into a tunnel. It exits the tunnel and onto the strip.)</p>
+<p><strong>Officer</strong>: (over radio) 314 Baker, driver seems intoxicated.</p>
+<p>(The SUV appears to be losing speed. It slowly side-swipes several cars parked on the side of the road.)</p>
+<p><strong>Officer</strong>: This is Charlie 324. Hang back. Over.</p>
+<p>(The SUV turns off the road and slowly comes to a stop in front of a large hotel/casino.)</p>
+<p>[EXT. HOTEL/CASINO - NIGHT - CONTINUOUS]</p>
+<p>(DET. LOCKWOOD exits the police car behind the SUV. His weapon drawn.)</p>
+<p><strong>Lockwood</strong>: Driver! Cut the engine and throw the keys out the window.</p>
+<p>(He takes a couple of steps toward the vehicle.)</p>
+<p><strong>Lockwood</strong>: Driver! Cut the engine and throw the keys out the window!</p>
+<p>(He waits a moment, then starts to yell out instructions again.)</p>
+<p><strong>Lockwood</strong>: Driver ...</p>
+<p>(The driver's door slowly opens and a man gets out. He slowly turns around.)</p>
+<p>(LOCKWOOD slowly puts his weapon down, a look of horror on his face as he realizes what he's looking at.)</p>
+<p>(The man has a wooden stake embedded in the top of his head. He falls to his knees, then collapses to the ground in front of LOCKWOOD.)</p>
+<p>WHITE FLASH TO:</p>
+<hr />
+[EXT. HOTEL/CASINO -- NIGHT]</p>
+<p>(A large crowd has gathered around the contained crime scene. GRISSOM and LOCKWOOD make their way through the crowd.)</p>
+<p><strong>Grissom</strong>: Excuse us. Excuse me, sir. Thank You.</p>
+<p>(GRISSOM and LOCKWOOD break out of the crowd and make their way to the body. GRISSOM carries his CSI kit.)</p>
+<p><strong>Lockwood</strong>: Death: The cheapest show in Vegas.</p>
+<p><strong>Grissom</strong>: Yeah, it doesn't surprise me. You remember the MGM fire? We found people burned to their slot machines 'cause they wouldn't leave the action.</p>
+<p><strong>Lockwood</strong>: Only in Vegas.</p>
+<p>(GRISSOM puts his kit down and kneels next to the body.)</p>
+<p><strong>Grissom</strong>: This guy's got a piece of wood sticking out of his head.</p>
+<p><strong>Lockwood</strong>: Alex James, age 42. Found his wallet in the glove compartment. SUV is registered to him. No previous record. How was he able to drive?</p>
+<p><strong>Grissom</strong>: I once saw a guy walk fifteen blocks with three bullets in his face.</p>
+<p><strong>Lockwood</strong>: The victim was traveling west on flamingo. The Desert Palm isn't too far from here. I guess he was en route to the hospital.</p>
+<p><strong>Grissom</strong>: I don't much care where he was going. I want to know where he's been.</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[EXT. VENETIAN HOTEL/CASINO (STOCK) - NIGHT]</p>
+<hr />
+[INT. HOTEL/CASINO - BACK GARAGE -- NIGHT]</p>
+<p>(WARRICK and CATHERINE slowly make their way across the garage, their CSI kits in hand.)</p>
+<p><strong>Warrick</strong>: Like coming in the back way, huh?</p>
+<p><strong>Catherine</strong>: Yeah, makes us VIPs tonight.</p>
+<p>(A bellhop approaches them and nods to CATHERINE and WARRICK'S kits.)</p>
+<p><strong>Bellhop</strong>: Let me help you, ma'am. Sir?</p>
+<p><strong>Warrick</strong>: It's okay.</p>
+<p><strong>Catherine</strong>: No, thanks. Oh, it's not luggage. Thank you, though.</p>
+<p>CUT TO:<br />
+[INT. TUNNEL LEADING TO HOTEL -- CONTINUOUS]</p>
+<p>(They meet up with the HOTEL MANAGER.)</p>
+<p><strong>Hotel Manager</strong>: You must be CSI.</p>
+<p><strong>Warrick</strong>: I'm Warrick Brown. This is Catherine Willows.</p>
+<p><strong>Catherine</strong>: You said you had a situation in your casino?</p>
+<p><strong>Hotel Manager</strong>: A kidnap.</p>
+<p><strong>Warrick</strong>: Is it a high profile?</p>
+<p><strong>Hotel Manager</strong>: Yes. We'd like to deal with this locally before we involve the FBI.</p>
+<p><strong>Catherine</strong>: Well, until we know the victim was taken over state lines, the FBI has no jurisdiction. Do you have any contact from the kidnappers?</p>
+<p><strong>Hotel Manager</strong>: A ransom note was left at the front desk.</p>
+<p><strong>Warrick</strong>: Who are we looking for here?</p>
+<p><strong>Hotel Manager</strong>: A five-year-old boy.</p>
+<p><strong>Catherine</strong>: Whose five-year-old boy?</p>
+<p><strong>Hotel Manager</strong>: Tavian Tombs.</p>
+<p><strong>Warrick</strong>: Tavian Tombs, professional basketball player. Very high profile.</p>
+<p>CUT TO:<br />
+(Through various dissolves: WARRICK and CATHERINE follow the HOTEL MANAGER representative through the hallway.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. HOTEL - TOMBS' HOTEL ROOM]</p>
+<p>(The hotel room doors open. CATHERINE and WARRICK walk inside. TAVIAN TOMBS' back is to the door.)</p>
+<p><strong>Tavian Tombs</strong>: (angrily) I got eight people to make sure that something like this does not happen. Where the hell was everybody? Out spending my money?<br />
+(to the Head SECURITY GUARD) You're supposed to be the head of security, and you let my son get kidnapped right from under my nose.</p>
+<p><strong>Catherine</strong>: Mr. Tombs ... </p>
+<p>(TAVIAN TOMBS turns around.)</p>
+<p><strong>Tavian Tombs</strong>: You better have a good reason for being here.</p>
+<p><strong>Warrick</strong>: We're here to find your son.</p>
+<p><strong>Catherine</strong>: We're with the crime lab, and I'm assuming that that's our ransom note.</p>
+<p><strong>Tavian Tombs</strong>: It's my note, my kid, my show.</p>
+<p><strong>Warrick</strong>: Look, I've seen you take out three guys on the glass and still finish. I'm not here to bang boards with you. I'm here to do my job. (beat) It's your son; it's your call.</p>
+<p>(In the next room, two little boys play video games. CATHERINE turns to look at them as she puts her gloves on.)</p>
+<p><strong>Tramelle</strong>: I'm going to dunk on you again.</p>
+<p><strong>Jason</strong>: Yeah.</p>
+<p>(TAVIAN TOMBS holds out the ransom note. WARRICK takes it.)</p>
+<p><strong>Warrick</strong>: (reading) &quot;I have Isaiah. Bring $5 million to the northwest corner of Telfair and Juniper, 4:00 A.M.&quot;</p>
+<p><strong>Catherine</strong>: How many of you touched this letter?</p>
+<p><strong>Security</strong>: I did.</p>
+<p><strong>Woman</strong>: I just want my boy back.</p>
+<p><strong>Catherine</strong>: Did this note come in an envelope?</p>
+<p><strong>Security</strong>: Yeah ... I threw it in the wastebasket.</p>
+<p>(CATHERINE steps up and takes the envelope from the trash.)</p>
+<p><strong>Catherine</strong>: (to WARRICK) We have a better chance of getting uncompromised prints off of this.</p>
+<p><strong>Warrick</strong>: You said that Captain Brass was here?</p>
+<p><strong>Hotel Manager</strong>: Yeah. He's interviewing the nanny.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. HOTEL - TAVIAN TOMBS' ROOM - NEXT ROOM]</p>
+<p>(BRASS is interviewing the Nanny.)</p>
+<p><strong>The Nanny</strong>: We were at the carnival, me and the boys.</p>
+<p>(She sighs.)</p>
+<p>(Quick flashback to their day at the Carnival.)</p>
+<p><strong>The Nanny</strong>: (V.O.) They wanted to ride on the carousel. I said no.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: But you gave in.</p>
+<p><strong>The Nanny</strong>: Special weekend. Dad's in town. Everybody's together. Trust me, they don't understand &quot;no.&quot;</p>
+<p>(Quick flashback to the boys at the Carnival on the Carousel.)</p>
+<p>(The children go round and round on the Carousel having a grand time. As best she can, she tries to keep an eye on them; however, when the horses come around, one of the kids is missing.)</p>
+<p><strong>The Nanny</strong>: Jason! Jason, where's Isaiah? Jason! THE NANNY: Where's your brother?! Jason, where's your brother?!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>The Nanny</strong>: He was right there. And then he ... I swear to you, I looked everywhere, but I knew he was gone. (sighs) So ... I brought the kids back here and had to tell Tavian.</p>
+<p><strong>Grissom</strong>: ... and his wife.</p>
+<p><strong>The Nanny</strong>: (scoffs) They're not married. And even if they were, it'd still be Tavian's show.</p>
+<p><strong>Brass</strong>: A woman who knows her employer.</p>
+<p><strong>The Nanny</strong>: I should. He's my brother.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. HOTEL - TAVIAN TOMBS' ROOM - MAIN ROOM]</p>
+<p>(The man with the ransom money arrives. The suitcase is open and on the table.)</p>
+<p><strong>Tavian Tombs</strong>: It took you that long to pull the paper together?</p>
+<p><strong>Man With Cap</strong>: Soft count room wouldn't go any faster.</p>
+<p><strong>Catherine</strong>: The casino's fronting the ransom money?</p>
+<p><strong>Hotel Manager</strong>: Mr. Tombs has a multimillion-dollar line of credit with us.</p>
+<p><strong>Catherine</strong>: We strongly advise that you don't hand over that money.</p>
+<p><strong>Warrick</strong>: At least let us mark it.</p>
+<p><strong>Tavian Tombs</strong>: You know how long it'd take to mark $5 million large? The kidnapper knows. Longer than the drop-off time. Now, the letter said corner of Telfair and Juniper. That's where this bag is going.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. HOTEL/CASINO -- NIGHT]</p>
+<p>(GRISSOM and NICK process the crime scene. NICK is snapping photographs. Garbled radio transmissions can be heard in the background.)</p>
+<p>(LOCKWOOD checks the SUV over.)</p>
+<p>(GRISSOM kneels next to the body and sprays the piece of wood with something.)</p>
+<p><strong>Grissom</strong>: Sharp force trauma.</p>
+<p><strong>Nick</strong>: Shouldn't we get the spike out of his head before we try to get any prints off it?</p>
+<p><strong>Grissom</strong>: I'm afraid if we try to remove it, we'll eradicate the prints.</p>
+<p>(NICK takes more pictures. GRISSOM kneels even lower to look under the wooden spike.)</p>
+<p><strong>Grissom</strong>: I'm not going to get any prints off of this.</p>
+<p><strong>Nick</strong>: Well, he sure is dirty. I mean, he isn't homeless. This is his car, right?</p>
+<p><strong>Grissom</strong>: Yeah. I'm going to scrape his nails.</p>
+<p>(GRISSOM takes the instrument and scrapes under the nails. He looks at it and sees small specks of something.)</p>
+<p><strong>Grissom</strong>: Hand me a bindle.</p>
+<p>(NICK hands GRISSOM the bindle. LOCKWOOD finds a gun in the car.)</p>
+<p><strong>Lockwood</strong>: Hey, fellas, you're never going to guess what I found under the seat. A .38 special.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - PRINT LAB -- DAY]</p>
+<p>(WARRICK is examining the ransom note under a magnifying glass. SARA walks in.)</p>
+<p><strong>Sara</strong>: Catherine wanted to know if you have anything. She can't convince Tavian to change his mind about the ransom money.</p>
+<p><strong>Warrick</strong>: 8 x 11 plain white copy paper. It's mass-produced. You can get it anywhere. The envelope, unfortunately, is self-adhering.</p>
+<p><strong>Sara</strong>: No DNA.</p>
+<p><strong>Warrick</strong>: No.</p>
+<p><strong>Sara</strong>: What about the text? It's just standard laser, nondescript. So you got nothing. </p>
+<p><strong>Warrick</strong>: Nothing I can see.</p>
+<p>(SARA picks up the note and smells it. She hands it to WARRICK to smell.)</p>
+<p>(Cut to WARRICK putting the note inside a container. He closes the container and turns on the Evidence Vacuum Sweeper.)</p>
+<p>(Quick CGI POV flash to inside the container, through the vacuum vent, through the vacuum hose, through the filter and a close up of the particles caught inside. End of CGI POV. Resume to present.)</p>
+<p>(WARRICK opens the filter and empties it out into another filter set-up. He washes it out, runs it through a filter, takes a sample of the liquid and runs the sample through a machine.)</p>
+<p>(WARRICK opens the container. He sprays the paper and sees the fingerprints.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY]</p>
+<p>(ROBBINS adjusts the camera and monitor to get a better view of the stake embedded in the body's head.)</p>
+<p><strong>Robbins</strong>: Looks like something out of Nosferatu.</p>
+<p>(ROBBINS leans in to look at the stake.)</p>
+<p><strong>Grissom</strong>: Yeah, only the wooden stake is in his head, not his heart.</p>
+<p><strong>Robbins</strong>: I've never seen that before -- a wooden stake embedded in the high parietal scalp in the midline. Hold his head down firmly, will you?</p>
+<p>(GRISSOM puts his hands on the body's head while ROBBINS gets a grip on the stake.)</p>
+<p><strong>Robbins</strong>: On three. One ... two ... three!</p>
+<p>(ROBBINS pulls out the wooden stake. He hands the stake to GRISSOM, then reaches into his pocket to put his glasses on. He leans down to look at the wound.)</p>
+<p><strong>Robbins</strong>: Irregular puncture defect to the scalp, laceration to the sagittal sinus. The wound track stops at the falx cerebri. No gross penetration of the cerebrum. That stake is what kept him driving.</p>
+<p><strong>Grissom</strong>: Tamponading?</p>
+<p><strong>Robbins</strong>: Well, the application of more than normal pressure to the wound acts like a plug, temporarily keeping him alive. The spike probably struck ...</p>
+<p>(Quick CGI POV of the stake embedding in the brain.)</p>
+<p><strong>Robbins</strong>: (V.O.) ... between the brain hemispheres ...</p>
+<p>(End of CGI POV. Resume to present.)</p>
+<p><strong>Robbins</strong>: ... most likely lodging into the parietal bones and holding it in place. They say it's a game of inches -- a centimeter to the left or right, and he would have bled out and died instantly.</p>
+<p><strong>Grissom</strong>: Yeah, but head trauma this severe, surgery would've probably killed him anyway.</p>
+<p><strong>Robbins</strong>: That, or live an extra hour in excruciating pain.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- HALLWAY]</p>
+<p>(WARRICK fills CATHERINE in on the findings of printing the ransom note. He hands the results to CATHERINE.)</p>
+<p><strong>Warrick</strong>: They weren't lying. They all touched it. Everybody's who's got a piece of Tavian got a hand on that ransom note. Even the bellman and the desk clerk left prints on the envelope.</p>
+<p><strong>Catherine</strong>: Any unidentified prints?</p>
+<p><strong>Warrick</strong>: Just a few smudges, a couple of partials.</p>
+<p><strong>Catherine</strong>: So prints don't help.</p>
+<p><strong>Warrick</strong>: No.</p>
+<p><strong>Catherine</strong>: Liquid extraction results.</p>
+<p><strong>Warrick</strong>: Yeah, that was detected on the ransom note-menthol and nicotine. </p>
+<p>(Quick flashback to the ransom note being printed out and the hand reaching for it holding a burning cigarette. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Nicotine. So we're looking for a smoker -- menthol smoker.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. CORNER OF TELFAIR AND JUNIPER - NIGHT]</p>
+<p>(WARRICK and BRASS sit in the car and stake out the drop off site. Some distance away, they have a clear view of the money bag on the ground next to the bench.)</p>
+<p>(A truck turns the corner.)</p>
+<p><strong>Brass</strong>: (to radio) Everybody hold. We don't make a move until after he's taken the money.</p>
+<p>(A man gets out of the truck and grabs a stack of newspapers. He opens the newspaper rack on the corner of the sidewalk and restocks it with newspapers. He doesn't go anywhere near the money and by all indications isn't even aware that it's there. He shoves the newspapers in the dispenser, closes the hatch and leaves.)</p>
+<p><strong>Brass</strong>: (to radio) Stand down.</p>
+<p>(The truck drives off.)</p>
+<p><strong>Warrick</strong>: We're way past the drop time here.</p>
+<p><strong>Brass</strong>: Yeah. Well, let's give it a couple more.</p>
+<p>(They both look outside. The money bag is still there.)</p>
+<p><strong>Brass</strong>: So, what's your take on this? Inside or outside job?</p>
+<p><strong>Warrick</strong>: No, I think it's just some freak with a nicotine habit and access to a laser printer.</p>
+<p><strong>Brass</strong>: Did you see the action he got? One phone call, $5 million gets delivered to his hotel?</p>
+<p><strong>Warrick</strong>: Yeah, that money's not doing him any good now, huh?</p>
+<p><strong>Brass</strong>: Yeah.</p>
+<p>(Another man approaches the money. It's Tavian's Head of Security.)</p>
+<p><strong>Warrick</strong>: It's just gone bad.</p>
+<p><strong>Brass</strong>: Oh, man.</p>
+<p>(BRASS and WARRICK both get out of the car. Other officers with weapons drawn are already on their way to intercept the man.)</p>
+<p><strong>Warrick</strong>: Hey! Hey!</p>
+<p><strong>Brass</strong>: (to the Security guy) What are you doing? (to the officers) Put the guns down! Put the guns down!</p>
+<p>(BRASS and WARRICK reach the Security Man.)</p>
+<p><strong>Brass</strong>: What the hell are you doing?</p>
+<p><strong>Security</strong>: Tavian wanted me to be sure the transfer got done.</p>
+<p><strong>Brass</strong>: This is our job -- not yours, not Tavian's.</p>
+<p><strong>Warrick</strong>: What are you concerned about here -- the kid or your job?</p>
+<p><strong>Security</strong>: I didn't do nothing. Nobody took the money -- didn't even show. I've been here all night just like you.</p>
+<p><strong>Brass</strong>: They spotted you. You understand? The kidnappers saw you. They made us.</p>
+<p>(BRASS' cell phone rings. He turns and walks away to answer it.)</p>
+<p><strong>Security</strong>: I was doing what Tavian asked me to, man.</p>
+<p><strong>Brass</strong>: (to phone) Brass.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. DUMP SITE -- NIGHT]</p>
+<p>(BRASS, CATHERINE and WARRICK walk toward the little boy's body.)</p>
+<p><strong>Warrick</strong>: It's him. I'll take the perimeter.</p>
+<p><strong>Catherine</strong>: Body's in an unnatural position.</p>
+<p><strong>Brass</strong>: Maybe this is only the dump site.</p>
+<p><strong>Catherine</strong>: His body's also coated. Makes me think whoever did this didn't even stop the car. </p>
+<p>(Quick flashback to a car driving by, its door opening, and a body being thrown out. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Something had to have gone wrong.</p>
+<p><strong>Brass</strong>: Something did.</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI - WAITING ROOM -- NIGHT]</p>
+<p>(ISAIAH'S MOTHER and TAVIAN both sit in the waiting room.)</p>
+<p><strong>Isaiah's Mother</strong>: Do not let them cut him. I don't want them even touching him.</p>
+<p>(TAVIAN TOMBS stands and goes looking for someone. He walks into the hallway and finds CATHERINE waiting there.)</p>
+<p>[HALLWAY]</p>
+<p><strong>Tavian Tombs</strong>: We're taking the body.</p>
+<p><strong>Catherine</strong>: Mr. Tombs, I'm sorry, but in a crime like this, an autopsy's mandatory. Evidence from your son's body may lead us to the suspect.</p>
+<p><strong>Tavian Tombs</strong>: You're telling me what I can and can't do?</p>
+<p><strong>Catherine</strong>: It's not your call anymore.</p>
+<p>(TAVIAN TOMBS sighs and walks away.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(NICK and GRISSOM both look through their own scope.)</p>
+<p><strong>Nick</strong>: How you doing over there?</p>
+<p><strong>Grissom</strong>: I got scat.</p>
+<p><strong>Nick</strong>: Feces?</p>
+<p><strong>Grissom</strong>: Yep.</p>
+<p><strong>Nick</strong>: Under the fingernail?</p>
+<p><strong>Grissom</strong>: Yep.</p>
+<p>(NICK thinks about this for a moment, pulls away from his scope and grimaces at the conclusion he reached.)</p>
+<p><strong>Nick</strong>: He wiped his own ass?</p>
+<p><strong>Grissom</strong>: (chuckles) No, Nick, it's not human. It's scat. Could be from a bat.</p>
+<p><strong>Nick</strong>: Bat scat.</p>
+<p><strong>Grissom</strong>: Bat 'guano'.</p>
+<p><strong>Nick</strong>: Well, whatever. It's a lot better than what I got. As far as I can tell, the wood's Douglas Fir with a side of god knows what. I'm no geologist, but these splinters are intertwined with some kind of mineral.</p>
+<p><strong>Grissom</strong>: Is it sparkly?</p>
+<p><strong>Nick</strong>: Oh, yeah.</p>
+<p><strong>Grissom</strong>: Let me see. (GRISSOM moves to look through NICK'S scope.) I think it's quartz. Or fluorite.</p>
+<p><strong>Nick</strong>: Great. That limits it to every outdoor area in greater Nevada. Mountain ranges, mine shafts, quarries ... underground sewers.</p>
+<p><strong>Grissom</strong>: All home to bats.</p>
+<p>(They both resume looking through the scopes.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY]</p>
+<p>(CATHERINE walks in to find WARRICK standing outside the door to the AUTOPSY. He appears hesitant.)</p>
+<p><strong>Catherine</strong>: Hey. Why don't you let me handle this?</p>
+<p><strong>Warrick</strong>: Thanks. I'm not ready to deal with another murdered kid. I'll process the evidence.</p>
+<p>(CATHERINE walks in. For a moment, WARRICK watches through the door window. ROBBINS starts.)</p>
+<p><strong>Robbins</strong>: No apparent cause of death. I'll send a blood sample to tox.</p>
+<p>(WARRICK leaves.)</p>
+<p><strong>Catherine</strong>: The foam around his mouth?</p>
+<p><strong>Robbins</strong>: Could indicate pulmonary edema. Found bruising in the lower extremities and the knees, but these injuries are a few days old. The bruises are at various stages of healing.</p>
+<p><strong>Catherine</strong>: Well, that could be from roughhousing with his older brothers. What about this bruise?</p>
+<p><strong>Robbins</strong>: Well ... let's see, it extends around the body ... like so. </p>
+<p>(ROBBINS lifts the body up to show the bruising on the boy's back.)</p>
+<p><strong>Robbins</strong>: Ah, I've seen this before. Did you find rope at the scene?</p>
+<p><strong>Catherine</strong>: (shakes her head) We haven't found the scene.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(WARRICK gathers evidence from ISAIAH'S clothes.)</p>
+<p>(On the front of the jacket, he finds fibers. Hair fibers.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS OUTER CITY (STOCK) - DAY]</p>
+<hr />
+[EXT. OUTER CITY SALVAGE COMPANY -- DAY]</p>
+<p>(NICK and GRISSOM walk up to the front door of the warehouse.)</p>
+<p><strong>Nick</strong>: Outer City Salvage Company. Owned and operated by Alex James.</p>
+<p>(LOCKWOOD opens the sliding door.)</p>
+<p>[INT. OUTER CITY SALVAGE COMPANY - DAY - CONTINUOUS]</p>
+<p><strong>Lockwood</strong>: (loudly) Las Vegas police. I have a warrant. I'll clear the back.</p>
+<p><strong>Nick</strong>: Thanks.</p>
+<p>(NICK and GRISSOM walk into the Warehouse. NICK spots an old MILES slot machine.)</p>
+<p><strong>Nick</strong>: When's the last time you saw a dinosaur like this? Lemons on the reels.</p>
+<p><strong>Grissom</strong>: Not since Sam Braun ran the town.</p>
+<p><strong>Nick</strong>: Old Vegas.</p>
+<p>(NICK walks in further into the warehouse and sees something on the table. He puts on a pair of latex gloves.)</p>
+<p><strong>Nick</strong>: Buckshot pellets. Looks like he loaded his own.</p>
+<p>(GRISSOM looks around and notices something else.)</p>
+<p><strong>Grissom</strong>: A melting furnace.</p>
+<p><strong>Nick</strong>: What's that for?</p>
+<p><strong>Grissom</strong>: Melting precious metals.</p>
+<p>(Next to the table is a blanket with pieces of jewelry on it.)</p>
+<p><strong>Nick</strong>: Quenched it in the tub?</p>
+<p>(On the other side of the table is a large, old porcelain bathtub with discolored/dirty water in it. In answer to NICK'S question, GRISSOM nods.)</p>
+<p><strong>Lockwood</strong>: Hey, fellas, take a look at this.</p>
+<p>(LOCKWOOD holds up a ziplock bag of pieces of gold jewelry.)</p>
+<p><strong>Nick</strong>: More precious metals.</p>
+<p>(NICK takes the bag. LOCKWOOD holds out something else.)</p>
+<p><strong>Grissom</strong>: And the pawn tickets.</p>
+<p><strong>Nick</strong>: Easily traceable.</p>
+<p>(NICK takes the pawn tickets. GRISSOM turns and looks at the wall behind them.)</p>
+<p><strong>Grissom</strong>: Topographical maps of the Sierra Nevada. Delamar Quadrangle, Lincoln County, La Madre Mountain ... Clark County.</p>
+<p>(While looking at the map, GRISSOM finds something and calls NICK over.)</p>
+<p><strong>Grissom</strong>: Hey, Nick. Blood spatter and a bullet hole, maybe?</p>
+<p>[MAP: La Madre Mtn. Quadrangle / Nevada - Claim Co. / 7.5 Minute Series<br />
+(Topographic)]</p>
+<p>(NICK pushes the map aside and finds the hole in the wall behind the map.</p>
+<p><strong>Nick</strong>: Through-and-through. (NICK checks the floor.) Oh, yeah. Medium caliber. This is our primary crime scene?</p>
+<p><strong>Grissom</strong>: Except that our vic had a stake in his head. He wasn't shot.</p>
+<p><strong>Nick</strong>: Yeah, but he had a .38 in his car.</p>
+<p><strong>Grissom</strong>: We're looking for another body.</p>
+<p>(Camera holds on GRISSOM.)</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[INT. CASINO -- DAY]</p>
+<p>(BRASS interviews KEVIN, The Bellman.)</p>
+<p><strong>Kevin (bellman)</strong>: It was a tip.</p>
+<p><strong>Brass</strong>: A $10,000 gold chip? (chuckles) I don't think so. If it was a tip, you wouldn't have had to lose the bellman's outfit to cash it in. Now where'd you get this?</p>
+<p><strong>Kevin (bellman)</strong>: I found it ... sort of.</p>
+<p><strong>Brass</strong>: You found it ... &quot;sort of&quot;.</p>
+<p><strong>Kevin (bellman)</strong>: Tavian is always surrounded by women. Guys, too, but they want autographs. The chicks -- they want something else.</p>
+<p>(Quick flashback to: KEVIN (The Bellman) glances over at TAVIAN TOMBS sitting at a card table. End of flashback. Resume to present.)</p>
+<p><strong>Kevin (bellman)</strong>: Now, usually his boys turn them away, but this one got through.</p>
+<p>(Quick flashback to: BRIDGET WILLIS walks up to the card table, pushes her way through the crowd and stands in front of TAVIAN TOMBS.)</p>
+<p><strong>Bridget Willis</strong>: Excuse me. I need to speak to Tavian. I want to see Tavian.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Kevin (bellman)</strong>: There were definitely chicks a lot hotter, but I guess when you can have anything ... </p>
+<p><strong>Brass</strong>: They leave together?</p>
+<p><strong>Kevin (bellman)</strong>: No, just the opposite. They got into it right there.</p>
+<p>(Quick flashback to: BRIDGET WILLIS yells at TAVIAN TOMBS.)</p>
+<p><strong>Bridget Willis</strong>: You're a lousy father to Tramelle. And you think the whole world worships you. But the truth is, you're just a deadbeat.</p>
+<p><strong>Tavian Tombs</strong>: Whatever. This what you want?</p>
+<p>(He brushes her complaint aside and holds up the gold poker chip. She brushes the chip aside. It goes flying. She turns away. End of flashback. Resume to present.)</p>
+<p><strong>Kevin (bellman)</strong>: Casino taxes me $24 an hour regardless of what I make. And do you know how much a zillionaire like Tavian Tombs tips? Zip. Nothing. Not even change I can throw in the fountain. And why? Because he's comped all the way around. R.F.B.-- Room, food, beverage -- including tips. So, when ten large goes sliding across the floor, and nobody sees it? Get out of the way, 'cause Kevin's coming through.</p>
+<p>(Quick flashback to: KEVIN sees the chip fly and goes after it. The chip falls and rolls on the floor. KEVIN crawls under the table to get it. End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: Yeah, I get the picture.</p>
+<p><strong>Kevin (bellman)</strong>: Hey, I tried to give it back.</p>
+<p>(Quick flashback to: BRIDGET WILLIS walking by KEVIN on her way out. KEVIN holds up the chip and calls out to her.)</p>
+<p><strong>Kevin (bellman)</strong>: This is yours. </p>
+<p>(She turns around.)</p>
+<p><strong>Bridget Willis</strong>: Keep it.</p>
+<p>(She walks away, KEVIN still holding the chip. End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: Yeah, yeah, sure you did.</p>
+<p><strong>Kevin (bellman)</strong>: So, uh, what about my money?</p>
+<p><strong>Brass</strong>: Don't be stupid. (to HOTEL MANAGER) Who's the blonde he's talking about?</p>
+<p><strong>Hotel Manager</strong>: I don't know.</p>
+<p><strong>Brass</strong>: Look, big casinos honor each other's chips. So, how you tracking these? Bar code, embedded transmitters, what? Look, it's okay. It's easy for the guys at the lab to figure this out, but we'll let the other casinos know you helped us out.</p>
+<p><strong>Hotel Manager</strong>: Her name is Bridget Willis. She's on his list.</p>
+<p><strong>Brass</strong>: Thank you.</p>
+<p>(On his way out, BRASS hands the chip over to The HOTEL MANAGER.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(GRISSOM is pouring over maps spread out over the table. NICK walks in with the ballistics report in his hand.)</p>
+<p><strong>Nick</strong>: Hey, Griss, ballistics matched the .38 bullet to the gun in the victim's car. As for the splinters on the stake ... you were right. Quartz. Fluorite.</p>
+<p><strong>Grissom</strong>: Dolomite, barite, calcite, antimony.</p>
+<p><strong>Nick</strong>: Well, the mass spec dug deeper. Arsenic and cyanide. Now, as of late, that's what's used to extract gold.</p>
+<p><strong>Grissom</strong>: Do you have any idea how many mine shafts there are in the State of Nevada?</p>
+<p><strong>Nick</strong>: Yeah, hundreds. Including gold and silver mines in Nelson, Searchlight, Goodsprings. You name it. I've got Lockwood running a background check on our vic. Maybe we'll get lucky.</p>
+<p>(NICK takes the report from GRISSOM and leaves the room. GRISSOM returns to his maps.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS - DAY]</p>
+<p>CUE: (PRELAP) DOORBELL</p>
+<hr />
+[EXT/INT. WILLIS' RESIDENCE -- DAY]</p>
+<p>(The front door opens.)</p>
+<p><strong>Brass</strong>: Bridget Willis?</p>
+<p><strong>Bridget Willis</strong>: Mm-hmm.</p>
+<p><strong>Brass</strong>: I'm Detective Jim Brass, Vegas PD. This is Catherine Willows from the crime lab.</p>
+<p>(A little boy walks out to stand next to his mother. She puts a hand on his shoulder.)</p>
+<p><strong>Bridget Willis</strong>: You're here to talk to my son Tramelle?</p>
+<p>(Quick flashback to: CATHERINE at TAVIAN TOMBS hotel room. She turns her head and sees TAVIAN'S two sons playing video games. One of the boys is TRAMELLE. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: (smiling) We already have.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. WILLIS' RESIDENCE -- DAY]</p>
+<p>(BRASS and CATHERINE question BRIDGET WILLIS.)</p>
+<p><strong>Bridget Willis</strong>: I was in college. He was the &quot;man,&quot; Mr. Final four. I thought I'd won the lottery. Then I got pregnant, and he went in the lottery, so ... take a look around. Guess what we fight about.</p>
+<p><strong>Brass</strong>: Money.</p>
+<p><strong>Bridget Willis</strong>: He's rich, I'm not. I've accepted that. But he does have responsibilities. </p>
+<p><strong>Catherine</strong>: Tramelle.</p>
+<p><strong>Bridget Willis</strong>: A weekend here and there doesn't make a father. Tramelle's not one of his &quot;boys.&quot; He's his son. Kid comes home with an armful of presents and a broken heart every time.</p>
+<p><strong>Catherine</strong>: Ms. Willis ... is Tramelle your only child?</p>
+<p><strong>Bridget Willis</strong>: No. I have a little girl.</p>
+<p><strong>Catherine</strong>: Why wasn't she with Tavian's other kids at the carnival?</p>
+<p><strong>Bridget Willis</strong>: She wasn't invited.</p>
+<p>(Quick flashback to: TAVIAN TOMBS talking with BRIDGET WILLIS.)</p>
+<p><strong>Tavian Tombs</strong>: I'm not taking her. I'm not taking your girl.</p>
+<p><strong>Bridget Willis</strong>: Tramelle's been talking about this weekend for months. She just wants to come.</p>
+<p><strong>Tavian Tombs</strong>: Then what you better do is explain to her that I'm Tramelle's father, not hers.</p>
+<p><strong>Bridget Willis</strong>: What difference does one little girl make?</p>
+<p><strong>Tavian Tombs</strong>: It's all about what's mine.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Daughter</strong>: Mommy. What's for lunch?</p>
+<p>(CATHERINE turns around to see a cute blonde girl coming down the stairs.)</p>
+<p><strong>Bridget Willis</strong>: Just a minute, okay, sweetie? (The little girl nods and leaves the room. CATHERINE smiles.) So, instead, I took her to Sweet Creatures at the Forum Shops.</p>
+<p>(Quick flashback to: BRIDGET WILLIS and her daughter stuffing a bear. The little girl laughs.)</p>
+<p><strong>Bridget Willis</strong>: Don't fill it too much, sweetie.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Oh, yes, I've been there. Works wonders on the disappointments of little girls.</p>
+<p><strong>Bridget Willis</strong>: That's what I was hoping for.</p>
+<p>(Camera holds on BRIDGET WILLIS.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(WARRICK is looking through the scope. GREG walks in with his report and holds it out to WARRICK.)</p>
+<p><strong>Greg</strong>: For you.</p>
+<p><strong>Warrick</strong>: Thanks. Have you taken a look?</p>
+<p>(WARRICK takes the report and looks at it.)</p>
+<p><strong>Greg</strong>: I'm just trying to learn.</p>
+<p><strong>Warrick</strong>: Well?</p>
+<p><strong>Greg</strong>: Well, the fiber you tweezed from that sweatshirt - trace pegged it as sisal.</p>
+<p><strong>Warrick</strong>: Sisal? Rope? Mostly likely from the restraint.</p>
+<p><strong>Greg</strong>: What's under the scope?</p>
+<p><strong>Warrick</strong>: Take a look.</p>
+<p>(GREG looks through the scope.)</p>
+<p><strong>Greg</strong>: Oh, hair. But cuticle's a single layer. Overlapping. (He looks up.)<br />
+It's not human.</p>
+<p><strong>Warrick</strong>: It's canine. Sweatshirt was riddled with dog hair. Many different breeds.</p>
+<p><strong>Greg</strong>: You think the kidnapper used it as a lure? </p>
+<p><strong>Warrick</strong>: Kids love dogs. I know when I was a kid, I was all over them. That's a good start. Thanks.</p>
+<p>(GREG leaves the lab.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAB]</p>
+<p>(ROBBINS holds up a baggie of pill-shaped items.)</p>
+<p><strong>Robbins</strong>: Found them in Isaiah's stomach contents.</p>
+<p>(He gives it to CATHERINE.)</p>
+<p><strong>Catherine</strong>: Pill casings.</p>
+<p><strong>Robbins</strong>: Starts to break down as soon as it hits the mouth.</p>
+<p>(Quick CGI POV to: Pill sliding down the throat.)</p>
+<p><strong>Robbins</strong>: (V.O.) The shell is porous. In the stomach, the medicine leeches out, enters the bloodstream. The case is left behind. </p>
+<p>(Pill hits the stomach and starts to fizz white medicine. End of CGI POV. Resume to present.)</p>
+<p><strong>Robbins</strong>: Eventually, the casing's broken down, as well, but by then, the medicine's already working.</p>
+<p><strong>Catherine</strong>: I see a USP number.</p>
+<p><strong>Robbins</strong>: Well, it should be listed in the PDR, but I couldn't find it.</p>
+<p>(WARRICK joins them.)</p>
+<p><strong>Warrick</strong>: What have you got?</p>
+<p><strong>Robbins</strong>: Pill casings.</p>
+<p>(CATHERINE shows the baggie to WARRICK. He takes it.)</p>
+<p><strong>Warrick</strong>: He was drugged?</p>
+<p><strong>Catherine</strong>: Looks that way.</p>
+<p><strong>Warrick</strong>: Well, we lifted dog hair from the sweatshirt we found near the body.</p>
+<p><strong>Catherine</strong>: So, our kidnapper had contact with dogs.</p>
+<p><strong>Warrick</strong>: Multiple breeds.</p>
+<p><strong>Robbins</strong>: Dog lover? Dog walker?</p>
+<p><strong>Catherine</strong>: Hey, how about a vet?</p>
+<p>(WARRICK thinks about it for a moment.)</p>
+<p><strong>Warrick</strong>: Try the reference of Veterinary Pharmaceuticals and Biologicals.</p>
+<p>(CATHERINE pulls up the computer database and enters the USP number.)</p>
+<p>[SCREEN READS: COMPUTER SCREEN: VPB 12TH EDITION 2001 / 2002 VETERINARY PHARMACEUTICALS AND BIOLOGICALS PRODUCT LABELS MONOGRAPHS Enter Manufacturer Or Product Name: DP145 ]</p>
+<p>(The search runs and the following results:</p>
+<p>[RESULTS: Acepromazine Maleate Three pill sizes. Tranquilizer ADA No.: DP1458-1829<br />
+Active Ingredient(s): Each mL of injectable sterile solution contains: ] )</p>
+<p><strong>Catherine</strong>: (reads) Acepromazine maleate. Tranquilizer.</p>
+<p><strong>Robbins</strong>: 25 milligrams. Four pills wouldn't have been fatal for a child Isaiah's size. Based on the blood levels, these remnants were probably a second dose.</p>
+<p><strong>Warrick</strong>: It wasn't the money drop that went bad. The problem was Isaiah died.</p>
+<p><strong>Catherine</strong>: I'll call Brass. I'll have him check vet clinics, kennels, pet supply stores, and we'll extend the radius out from the dump site.</p>
+<p><strong>Warrick</strong>: (nods) Okay.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY]</p>
+<p>(LOCKWOOD, GRISSOM and NICK walk down the hallway as LOCKWOOD fills them in on the victim.)</p>
+<p><strong>Lockwood</strong>: Our man Alex James is quite the land owner. According to the mining laws of 1872, public land can still be paten for five dollars an acre -- a law which is still in effect. That's all this guy did was buy and sell publicly-owned, government land. Funny thing is, there was one mine that he sold over and over again.</p>
+<p><strong>Nick</strong>: Now, why would he do that?</p>
+<p><strong>Lockwood</strong>: Now, there lies the mystery.</p>
+<p><strong>Grissom</strong>: So, who was the last person he sold to?</p>
+<p><strong>Lockwood</strong>: Joe McPherson. Local.</p>
+<p><strong>Grissom</strong>: Where is he now?</p>
+<p><strong>Lockwood</strong>: No one knows. He's been missing for 48 hours.</p>
+<p><strong>Nick</strong>: There lies the mystery.</p>
+<p><strong>Grissom</strong>: Where's the mine?</p>
+<p>(They walk off camera frame.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS MOUNTAINS (STOCK) - DAY]</p>
+<hr />
+[EXT. MINE -- DAY]</p>
+<p>(GRISSOM and NICK make their way from their parked car to the mine entrance.)</p>
+<p><strong>Nick</strong>: What's with the gate?</p>
+<p><strong>Grissom</strong>: It's a bat gate. It keeps people out, lets the bats in.</p>
+<p>[INT. MINE - DAY]</p>
+<p><strong>Grissom</strong>: Old mines are considered bat habitats and preserves.</p>
+<p><strong>Nick</strong>: Who puts the bat gates in?</p>
+<p><strong>Grissom</strong>: Batman.</p>
+<p>(They enter the mine. GRISSOM looks down on the ground.)</p>
+<p><strong>Nick</strong>: What have you got?</p>
+<p><strong>Grissom</strong>: Insect chitin. It's usually found near the entrance of caves.</p>
+<p>(GRISSOM kneels in further into the cave. He picks up a handful of ... )</p>
+<p><strong>Grissom</strong>: Guano. We got bats.</p>
+<p>(They both look up.)</p>
+<p><strong>Nick</strong>: Oh. Good.</p>
+<p>(They enter deeper into the cave.)</p>
+<p><strong>Grissom</strong>: Probably California leaf-nosed bats.</p>
+<p><strong>Nick</strong>: They don't bite, do they?</p>
+<p><strong>Grissom</strong>: They're like bees, Nick. You don't bother them, they won't bother you.</p>
+<p><strong>Nick</strong>: Well, hey, let's ... let's not bother them, okay? I'm serious.</p>
+<p>(Inside the cave, they find the ceiling walls covered in gold.)</p>
+<p><strong>Grissom</strong>: Are you seeing this? Gold.</p>
+<p><strong>Nick</strong>: (flatly) We're rich.</p>
+<p><strong>Grissom</strong>: I'm not so sure.</p>
+<p>(NICK looks down at the ground and finds something.)</p>
+<p><strong>Nick</strong>: Another buckshot casing.</p>
+<p>(He picks it up.)</p>
+<p><strong>Grissom</strong>: And these look like impact patterns.</p>
+<p><strong>Nick</strong>: So, he was loading his own.</p>
+<p><strong>Grissom</strong>: But not with pellets.</p>
+<p><strong>Nick</strong>: With gold. Pawn shop jewelry and melting furnace.</p>
+<p><strong>Grissom</strong>: You know, Lockwood said that James sold this parcel of land multiple times. I think he was running a scam.</p>
+<p>(Quick flashback to: ALEX JAMES emptying the buckshot case of its pellets. Flash to a table full of precious metals and jewelry gotten from the pawn shop. ALEX JAMES picks up a gold necklace and puts it into the melting furnace.) </p>
+<p>(Quick CGI POV of: The necklace in the liquid and melting. End of CGI POV.)</p>
+<p>(ALEX JAMES picks up the container of melted metal and pours it into the bathtub full of liquid. Flash to JAMES picking up the pieces of gold at the bottom of the tub and putting it in to the empty buckshot casing. ALEX JAMES smiles.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: He was salting the mine.</p>
+<p>(Quick CGI POV of: Shotgun pointed to the ceiling of the mine. The gun is fired sending particles of gold up toward the ceiling. End of CGI POV. Resume to present.)</p>
+<p>(On the ground, NICK and GRISSOM both notice the bugs.)</p>
+<p><strong>Grissom</strong>: Insect party.</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: Cockroaches, cave crickets. Carabid beetles. All heading deeper into the cave.</p>
+<p><strong>Nick</strong>: Why?</p>
+<p><strong>Grissom</strong>: Maybe they got tired of eating bat guano.</p>
+<p>(NICK looks at GRISSOM.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. KENNEL -- NIGHT]</p>
+<p>(BRASS and OFFICER METCALF escort CATHERINE and WARRICK to the kennel.)</p>
+<p><strong>Brass</strong>: So, this is three blocks from the place where Isaiah's body was found. Why don't you guys take the kennel? Metcalf and I are going to take the dog run.</p>
+<p>(BRASS and OFFICER METCALF head in another direction, while CATHERINE and WARRICK enter the kennel.)</p>
+<p>(As they walk, they look around. CATHERINE finds a child's sneaker on the ground. She picks it up. She and WARRICK look at each other. She puts the shoe down and she and WARRICK continue to look around.) </p>
+<p>(Just a few steps away, CATHERINE finds a piece of rope.</p>
+<p>(Quick flashback to: ISAIAH tied and struggling to free himself from the rope. Dogs bark. End of flashback. Resume to present.)</p>
+<p>(For a moment, CATHERINE holds the rope, she and WARRICK imagining what ISAIAH must have gone through. WARRICK suddenly stands up and makes his way to the open cabinet.)</p>
+<p>(When he gets close enough to see what's inside, he calls out to CATHERINE.)</p>
+<p><strong>Warrick</strong>: Cath?</p>
+<p>(CATHERINE looks at the cabinet and picks up a particular pill bottle. She looks at WARRICK.)</p>
+<p>(From the kennel entrance, BRASS yells out to them.)</p>
+<p><strong>Brass</strong>: We found something. I think you're going to want to take a look at this.</p>
+<p>(CATHERINE and WARRICK head out toward BRASS.)</p>
+<p>[EXT. KENNEL -- NIGHT]</p>
+<p>(Cut to: BRASS reading. CATHERINE is standing next to him. They're both looking down.)</p>
+<p><strong>Brass</strong>: Jacob Price. Local. (Camera moves downward to show a dead body with blood on his forehead.) Looks like somebody beat us to him.</p>
+<p>(A shovel with blood on it is discarded on the ground next to the dead body.)</p>
+<p><strong>Warrick</strong>: Partner you think?</p>
+<p><strong>Catherine</strong>: Or a guy who knows how to finish.</p>
+<p>HARD CUT TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. POLICE DEPARTMENT - BRASS' OFFICE]</p>
+<p>(Inside BRASS' office, BRASS talks with TAVIAN TOMBS. Both men are standing.)</p>
+<p><strong>Tavian Tombs</strong>: I don't want to hear this.</p>
+<p><strong>Brass</strong>: Yeah, well... I've been on the job a long time, and I know what a tragedy like this can do to a family.</p>
+<p><strong>Tavian Tombs</strong>: I told you, I don't want to hear it.</p>
+<p><strong>Brass</strong>: What's going to happen is one day, Kenisha or Tramelle or one of your other kids is going to come to you and say, &quot;What happened to Isaiah?&quot; And they're going to want to know the truth.</p>
+<p><strong>Tavian Tombs</strong>: Nothing you say is going to change anything.</p>
+<p><strong>Brass</strong>: The guy who took Isaiah worked in a kennel. </p>
+<p>(BRASS puts a photograph on the desk of ISAIAH'S body as they first found him at the dump side. TAVIAN glances down at it.) </p>
+<p><strong>Brass</strong>: He was used to handling dogs, not children. When Isaiah tried to escape, he was restrained, and when that didn't work, he was drugged. </p>
+<p>(Quick flashback to JACOB PRICE grabbing a pill bottle from the cabinet. In the background, ISAIAH sits on the ground tied with the piece of rope, struggling with his bonds. Cut to JACOB PRICE with ISAIAH. End of flashback. Resume to present.) </p>
+<p><strong>Brass</strong>: Now, drugs have a different effect on adults than on children. It's called &quot;The Paradoxical Effect.&quot; So, when the tranquilizers weren't working, this guy- Price -- upped the dosage. </p>
+<p>(Quick flashback to ISAIAH still struggling with the rope after taking the tranquilizers. JACOB PRICE heads back to the cabinet to get more pills. Cut to JACOB PRICE struggling with ISAIAH. End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: Now, as a father, I can understand why you'd want this guy dead ...</p>
+<p><strong>Tavian Tombs</strong>: (confused) What? Whoa. You think I killed him?</p>
+<p>(Quick flashback to: TAVIAN TOMBS swinging the shovel and hitting JACOB PRICE on the head. JACOB PRICE falls to the ground. End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: Yes, I do.</p>
+<p>(TAVIAN meets BRASS' eyes.)</p>
+<p><strong>Tavian Tombs</strong>: I didn't kill anybody. I don't even know who he is. But if I'd gotten to him before you, I swear I would not have stopped to think about it.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. KENNEL -- NIGHT]</p>
+<p>(In the night, CATHERINE and WARRICK search the kennel grounds for evidence. The ground is sectioned of like a grid.)</p>
+<p>(Dissolve to CATHERINE kneeling down and finding a piece of white stuffing. She kneels down and picks it up.) </p>
+<p>(Quick flashback to: BRIDGET WILLIS at Sweet Creatures at the Forum Shops with her daughter.)</p>
+<p><strong>Bridget Willis</strong>: Don't fill it too much, sweetie.</p>
+<p><strong>Daughter</strong>: (laughing) You said the bigger the better.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(Camera holds on CATHERINE holding the piece of stuffing.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. MINE]</p>
+<p>(NICK and GRISSOM cough as they go deeper into the mine.)</p>
+<p><strong>Nick</strong>: Air's getting thick.</p>
+<p><strong>Grissom</strong>: Smells like trinitrotoluene.</p>
+<p>(They cough some more. GRISSOM picks up a couple of pieces of wood.)</p>
+<p><strong>Grissom</strong>: Look familiar?</p>
+<p><strong>Nick</strong>: Yeah. But how did it get in the back of the guy's head?</p>
+<p>(On the ground, there's a black line leading deeper into the cave.)</p>
+<p><strong>Grissom</strong>: Fuse line. Dynamite.</p>
+<p>(They go deeper into the cave. GRISSOM crawls over a pile of rock and debris and finds a dead body.)</p>
+<p>(NICK coughs. GRISSOM moves away a piece of wood covering the body.)</p>
+<p><strong>Grissom</strong>: Chest wound. Possibly from our .38. Just about two days old.</p>
+<p>(NICK picks up the body's wallet and looks at the Nevada Driver's License with the following information on it:</p>
+<p>[PICKS UP NEVADA DRIVERS LICENSE #050492 R360021</p>
+<p>JOE MC PHERSON<br />
+311 SEPHILL RD. LAS VEGAS NV 89108</p>
+<p>CLASS: 1<br />
+s*x: M HEIGHT: 5'11&quot;<br />
+WEIGHT: 180<br />
+HAIR: BRN EYES: BRN BIRTHDATE: 09/02/63<br />
+EXPIRATION DATE: 09/02/05 ]</p>
+<p><strong>Nick</strong>: Joe McPherson. Local. Mr. Mia. Not an organ donor.</p>
+<p><strong>Grissom</strong>: You know, wooden support beams, fuse line, TNT ... I think, uh, Alex James was trying to hide this body in the back of his mine.</p>
+<p>(Quick flashback to JOE McPHERSON walking into the Salvage Warehouse holding a gun out on ALEX JAMES.)</p>
+<p><strong>Joe McPherson</strong>: (accusing) You scammed me!</p>
+<p><strong>Alex James</strong>: No.</p>
+<p><strong>Joe McPherson</strong>: That was my life savings!</p>
+<p><strong>Alex James</strong>: Take it easy. Listen, now-now, now, lookit. I-I, I can explain everything, all right? Listen, Joe. Joe, come on, I-I sold you the wrong mine. I-it's an honest mistake.</p>
+<p><strong>Joe McPherson</strong>: You're a liar!</p>
+<p>(Cut to ALEX JAMES and JOE McPHERSON struggling for the gun. The gun goes off. JOE McPHERSON slides to the ground.</p>
+<p>(Cut to: ALEX JAMES carries the body deep into the mine. He also carries some dynamite and a fuse.)</p>
+<p>(Cut to: ALEX JAMES dropping the body and preparing the dynamite.)</p>
+<p>(Cut to: ALEX JAMES backing out of the mine. Cut to the fuse burning. Cut to ALEX JAMES running out of the mine as it blows and getting caught in the flying debris.)</p>
+<p><strong>Grissom</strong>: (V.O.) Like most fuses, it probably burnt too quickly and he couldn't outrun the blast ... </p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(GRISSOM holds up the piece of wood.)</p>
+<p><strong>Grissom</strong>: ... Or the wooden stake.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY / LAB]</p>
+<p>(CATHERINE walks through the hallway carrying a bag. She enters the lab where WARRICK is waiting for her and pulls out a stuffed bear.)</p>
+<p>(WARRICK takes the bear from her and takes a sample of the stuffing inside the bear. He puts the sample on a slide and puts the slide under the scope.)</p>
+<p><strong>Warrick</strong>: Okay. Sample from the kennel is on your right. Your bear on the left. </p>
+<p>(CATHERINE looks in the scope. Cut to scope view of the fibers.)</p>
+<p><strong>Catherine</strong>: Visible match.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. / INT. WILLIS' RESIDENCE]</p>
+<p>(BRASS, CATHERINE and WARRICK walk up the front steps to BRIDGET WILLIS' residence. BRASS reaches the door and knocks.) </p>
+<p><strong>Brass</strong>: Bridget Willis? Las Vegas police.</p>
+<p>(The door is unlocked. He pushes it open. Inside TRAMELLE sits in the middle of the living room watching television. He looks up when they enter.)</p>
+<p>(BRASS walks off to search for BRIDGET. CATHERINE kneels down in front of TRAMELLE.)</p>
+<p><strong>Catherine</strong>: Tramelle, where's your mother?</p>
+<p><strong>Tramelle</strong>: I don't know. She left with my sister. She said my daddy would come get me.</p>
+<p>(CATHERINE doesn't say anything. BRASS walks back into the room.)</p>
+<p><strong>Brass</strong>: She's not here. I'll put out an APB.</p>
+<p>(BRASS walks away. Camera holds on CATHERINE.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) -- EVENING]</p>
+<hr />
+[INT. CSI - LOUNGE]</p>
+<p>(CATHERINE and WARRICK discuss the wrap-up as they get their cups of coffee.)</p>
+<p><strong>Catherine</strong>: So, Tavian was paying Bridget child support -- three grand a month.</p>
+<p><strong>Warrick</strong>: Three grand a month? Tavian tombs has been a $12 million-a-year player for eight seasons, not including endorsements.</p>
+<p><strong>Catherine</strong>: Well, he made his deal with Bridget when Tramelle was born. Bad timing for her.</p>
+<p><strong>Warrick</strong>: Motive for us. She was right to assume that Tavian would immediately pay that ransom. What's five million to a guy who makes hundreds of millions?</p>
+<p><strong>Catherine</strong>: And it is his son. I'm sure he would have paid any amount. So, how does that dog kennel guy Price figure into all this, and was killing him part of the plan?</p>
+<p><strong>Warrick</strong>: I don't know. I think that Bridget Willis killed him because he killed Isaiah.</p>
+<p>(Quick flashback to BRIDGET WILLIS swinging the shovel and hitting JACOB PRICE on the head. JACOB PRICE falls to the ground. BRIDGET runs away, a piece of stuffing falling off of her as she leaves. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: In her act of redemption, she gives Tramelle to Tavian.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. HOTEL - BACK GARAGE -- NIGHT]</p>
+<p>(In the garage, TRAMELLE exits the limo. He looks up at the large hotel. TAVIAN TOMBS' Head of Security escorts the little boy.)</p>
+<p>(Dissolve to TRAMELLE being escorted through the service hallway.)</p>
+<p>(Dissolve to TRAMELLE walking through the hotel hallway.)</p>
+<p>[INT. HOTEL - HOTEL ROOM DOOR - NIGHT]</p>
+<p>(Cut to: TRAMELLE stands in front of the large hotel room double doors. He knocks.)</p>
+<p>(The doors opens. TAVIAN TOMBS looks at his son. His son looks back up at his dad. For a moment, neither one moves.) </p>
+<p>(TAVIAN opens the door wider.)</p>
+<p><strong>Tavian</strong>: Come here.</p>
+<p>(He kneels down and hugs his son. The two stay like that for a moment. Behind him, ISAIAH'S MOTHER also welcomes TRAMELLE.)</p>
+<p><strong>Isaiah's Mother</strong>: Hello, Tramelle.</p>
+<p><strong>Tramelle</strong>: Hi.</p>
+<p>(She puts an arm around him and leads him into the hotel room as TAVIAN watches. TAVIAN closes the hotel room door.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. CASINO SIDEWALK - NIGHT]</p>
+<p>(NICK and GRISSOM take a walk along the sidewalk in front of a casino. GRISSOM is wrapping up a conversation with GREG on his cell phone.)</p>
+<p><strong>Grissom</strong>: Okay. (shuts cell phone) According to Greg, the blood on the bullet's a direct match to Joe McPherson. It's a done deal.</p>
+<p><strong>Nick</strong>: You know, I was talking to a lady in the county records office. She said those land patents have been changing hands for over fifty years.</p>
+<p><strong>Grissom</strong>: That figures.</p>
+<p><strong>Nick</strong>: There's a sucker born every minute.</p>
+<p><strong>Grissom</strong>: Yup, and they all come to Vegas.</p>
+<p>(NICK and GRISSOM continue to walk down the sidewalk. Camera rises higher to the flashing casino sign.)</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[EXT. LAS VEGAS CITY SKYLINE (STOCK) - NIGHT]</p>
+<p>[BLUR OUT]</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-
-Officer:  We have a high-speed chase in progress. Heading Eastbound on 74th street. Over.
-(The speeding SUV turns into a parking lot, side-swipes a parked car and continues out of the parking lot and back onto the street.
-
-
-
-Officer:  314 Baker, driver seems intoxicated.
-
-Officer: This is Charlie 324. Hang back. Over.
-
-
-
-Lockwood: Driver! Cut the engine and throw the keys out the window.
-
-Lockwood: Driver! Cut the engine and throw the keys out the window!
-
-Lockwood: Driver ...
-
-
-
-
-
-
-
-Grissom: Excuse us. Excuse me, sir. Thank You.
-
-Lockwood: Death: The cheapest show in Vegas.
-Grissom: Yeah, it doesn't surprise me. You remember the MGM fire? We found people burned to their slot machines 'cause they wouldn't leave the action.
-Lockwood: Only in Vegas.
-
-Grissom: This guy's got a piece of wood sticking out of his head.
-Lockwood: Alex James, age 42. Found his wallet in the glove compartment. SUV is registered to him. No previous record. How was he able to drive?
-Grissom: I once saw a guy walk fifteen blocks with three bullets in his face.
-Lockwood: The victim was traveling west on flamingo. The Desert Palm isn't too far from here. I guess he was en route to the hospital.
-Grissom: I don't much care where he was going. I want to know where he's been.
-HARD CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
-
-
-
-
-Warrick: Like coming in the back way, huh?
-Catherine: Yeah, makes us VIPs tonight.
-
-Bellhop: Let me help you, ma'am. Sir?
-Warrick: It's okay.
-Catherine: No, thanks. Oh, it's not luggage. Thank you, though.
-
-
-
-Hotel Manager: You must be CSI.
-Warrick: I'm Warrick Brown. This is Catherine Willows.
-Catherine: You said you had a situation in your casino?
-Hotel Manager: A kidnap.
-Warrick: Is it a high profile?
-Hotel Manager: Yes. We'd like to deal with this locally before we involve the FBI.
-Catherine: Well, until we know the victim was taken over state lines, the FBI has no jurisdiction. Do you have any contact from the kidnappers?
-Hotel Manager: A ransom note was left at the front desk.
-Warrick: Who are we looking for here?
-Hotel Manager: A five-year-old boy.
-Catherine: Whose five-year-old boy?
-Hotel Manager: Tavian Tombs.
-Warrick: Tavian Tombs, professional basketball player. Very high profile.
-
-
-
-
-
-
-Tavian Tombs:  I got eight people to make sure that something like this does not happen. Where the hell was everybody? Out spending my money?
- You're supposed to be the head of security, and you let my son get kidnapped right from under my nose.
-Catherine: Mr. Tombs ... 
-
-Tavian Tombs: You better have a good reason for being here.
-Warrick: We're here to find your son.
-Catherine: We're with the crime lab, and I'm assuming that that's our ransom note.
-Tavian Tombs: It's my note, my kid, my show.
-Warrick: Look, I've seen you take out three guys on the glass and still finish. I'm not here to bang boards with you. I'm here to do my job.  It's your son; it's your call.
-
-Tramelle: I'm going to dunk on you again.
-Jason: Yeah.
-
-Warrick:  &quot;I have Isaiah. Bring $5 million to the northwest corner of Telfair and Juniper, 4:00 A.M.&quot;
-Catherine: How many of you touched this letter?
-Security: I did.
-Woman: I just want my boy back.
-Catherine: Did this note come in an envelope?
-Security: Yeah ... I threw it in the wastebasket.
-
-Catherine:  We have a better chance of getting uncompromised prints off of this.
-Warrick: You said that Captain Brass was here?
-Hotel Manager: Yeah. He's interviewing the nanny.
-
-
-
-
-The Nanny: We were at the carnival, me and the boys.
-
-
-The Nanny:  They wanted to ride on the carousel. I said no.
-
-Brass: But you gave in.
-The Nanny: Special weekend. Dad's in town. Everybody's together. Trust me, they don't understand &quot;no.&quot;
-
-
-The Nanny: Jason! Jason, where's Isaiah? Jason! THE NANNY: Where's your brother?! Jason, where's your brother?!
-
-The Nanny: He was right there. And then he ... I swear to you, I looked everywhere, but I knew he was gone.  So ... I brought the kids back here and had to tell Tavian.
-Grissom: ... and his wife.
-The Nanny:  They're not married. And even if they were, it'd still be Tavian's show.
-Brass: A woman who knows her employer.
-The Nanny: I should. He's my brother.
-
-
-
-
-Tavian Tombs: It took you that long to pull the paper together?
-Man With Cap: Soft count room wouldn't go any faster.
-Catherine: The casino's fronting the ransom money?
-Hotel Manager: Mr. Tombs has a multimillion-dollar line of credit with us.
-Catherine: We strongly advise that you don't hand over that money.
-Warrick: At least let us mark it.
-Tavian Tombs: You know how long it'd take to mark $5 million large? The kidnapper knows. Longer than the drop-off time. Now, the letter said corner of Telfair and Juniper. That's where this bag is going.
-
-
-
-
-
-
-Grissom: Sharp force trauma.
-Nick: Shouldn't we get the spike out of his head before we try to get any prints off it?
-Grissom: I'm afraid if we try to remove it, we'll eradicate the prints.
-
-Grissom: I'm not going to get any prints off of this.
-Nick: Well, he sure is dirty. I mean, he isn't homeless. This is his car, right?
-Grissom: Yeah. I'm going to scrape his nails.
-
-Grissom: Hand me a bindle.
-
-Lockwood: Hey, fellas, you're never going to guess what I found under the seat. A .38 special.
-
-
-
-
-Sara: Catherine wanted to know if you have anything. She can't convince Tavian to change his mind about the ransom money.
-Warrick: 8 x 11 plain white copy paper. It's mass-produced. You can get it anywhere. The envelope, unfortunately, is self-adhering.
-Sara: No DNA.
-Warrick: No.
-Sara: What about the text? It's just standard laser, nondescript. So you got nothing. 
-Warrick: Nothing I can see.
-
-
-
-
-
-
-
-
-
-Robbins: Looks like something out of Nosferatu.
-
-Grissom: Yeah, only the wooden stake is in his head, not his heart.
-Robbins: I've never seen that before -- a wooden stake embedded in the high parietal scalp in the midline. Hold his head down firmly, will you?
-
-Robbins: On three. One ... two ... three!
-
-Robbins: Irregular puncture defect to the scalp, laceration to the sagittal sinus. The wound track stops at the falx cerebri. No gross penetration of the cerebrum. That stake is what kept him driving.
-Grissom: Tamponading?
-Robbins: Well, the application of more than normal pressure to the wound acts like a plug, temporarily keeping him alive. The spike probably struck ...
-
-Robbins:  ... between the brain hemispheres ...
-
-Robbins: ... most likely lodging into the parietal bones and holding it in place. They say it's a game of inches -- a centimeter to the left or right, and he would have bled out and died instantly.
-Grissom: Yeah, but head trauma this severe, surgery would've probably killed him anyway.
-Robbins: That, or live an extra hour in excruciating pain.
-
-
-
-
-Warrick: They weren't lying. They all touched it. Everybody's who's got a piece of Tavian got a hand on that ransom note. Even the bellman and the desk clerk left prints on the envelope.
-Catherine: Any unidentified prints?
-Warrick: Just a few smudges, a couple of partials.
-Catherine: So prints don't help.
-Warrick: No.
-Catherine: Liquid extraction results.
-Warrick: Yeah, that was detected on the ransom note-menthol and nicotine. 
-
-Catherine: Nicotine. So we're looking for a smoker -- menthol smoker.
-
-
-
-
-
-Brass:  Everybody hold. We don't make a move until after he's taken the money.
-
-Brass:  Stand down.
-
-Warrick: We're way past the drop time here.
-Brass: Yeah. Well, let's give it a couple more.
-
-Brass: So, what's your take on this? Inside or outside job?
-Warrick: No, I think it's just some freak with a nicotine habit and access to a laser printer.
-Brass: Did you see the action he got? One phone call, $5 million gets delivered to his hotel?
-Warrick: Yeah, that money's not doing him any good now, huh?
-Brass: Yeah.
-
-Warrick: It's just gone bad.
-Brass: Oh, man.
-
-Warrick: Hey! Hey!
-Brass:  Put the guns down! Put the guns down!
-
-Brass: What the hell are you doing?
-Security: Tavian wanted me to be sure the transfer got done.
-Brass: This is our job -- not yours, not Tavian's.
-Warrick: What are you concerned about here -- the kid or your job?
-Security: I didn't do nothing. Nobody took the money -- didn't even show. I've been here all night just like you.
-Brass: They spotted you. You understand? The kidnappers saw you. They made us.
-
-Security: I was doing what Tavian asked me to, man.
-Brass:  Brass.
-
-
-
-
-Warrick: It's him. I'll take the perimeter.
-Catherine: Body's in an unnatural position.
-Brass: Maybe this is only the dump site.
-Catherine: His body's also coated. Makes me think whoever did this didn't even stop the car. 
-
-Catherine: Something had to have gone wrong.
-Brass: Something did.
-
-
-
-
-
-
-
-Isaiah's Mother: Do not let them cut him. I don't want them even touching him.
-
-
-Tavian Tombs: We're taking the body.
-Catherine: Mr. Tombs, I'm sorry, but in a crime like this, an autopsy's mandatory. Evidence from your son's body may lead us to the suspect.
-Tavian Tombs: You're telling me what I can and can't do?
-Catherine: It's not your call anymore.
-
-
-
-
-
-Nick: How you doing over there?
-Grissom: I got scat.
-Nick: Feces?
-Grissom: Yep.
-Nick: Under the fingernail?
-Grissom: Yep.
-
-Nick: He wiped his own ass?
-Grissom:  No, Nick, it's not human. It's scat. Could be from a bat.
-Nick: Bat scat.
-Grissom: Bat 'guano'.
-Nick: Well, whatever. It's a lot better than what I got. As far as I can tell, the wood's Douglas Fir with a side of god knows what. I'm no geologist, but these splinters are intertwined with some kind of mineral.
-Grissom: Is it sparkly?
-Nick: Oh, yeah.
-Grissom: Let me see.  I think it's quartz. Or fluorite.
-Nick: Great. That limits it to every outdoor area in greater Nevada. Mountain ranges, mine shafts, quarries ... underground sewers.
-Grissom: All home to bats.
-
-
-
-
-
-Catherine: Hey. Why don't you let me handle this?
-Warrick: Thanks. I'm not ready to deal with another murdered kid. I'll process the evidence.
-
-Robbins: No apparent cause of death. I'll send a blood sample to tox.
-
-Catherine: The foam around his mouth?
-Robbins: Could indicate pulmonary edema. Found bruising in the lower extremities and the knees, but these injuries are a few days old. The bruises are at various stages of healing.
-Catherine: Well, that could be from roughhousing with his older brothers. What about this bruise?
-Robbins: Well ... let's see, it extends around the body ... like so. 
-
-Robbins: Ah, I've seen this before. Did you find rope at the scene?
-Catherine:  We haven't found the scene.
-
-
-
-
-
-
-
-
-
-
-Nick: Outer City Salvage Company. Owned and operated by Alex James.
-
-
-Lockwood:  Las Vegas police. I have a warrant. I'll clear the back.
-Nick: Thanks.
-
-Nick: When's the last time you saw a dinosaur like this? Lemons on the reels.
-Grissom: Not since Sam Braun ran the town.
-Nick: Old Vegas.
-
-Nick: Buckshot pellets. Looks like he loaded his own.
-
-Grissom: A melting furnace.
-Nick: What's that for?
-Grissom: Melting precious metals.
-
-Nick: Quenched it in the tub?
-
-Lockwood: Hey, fellas, take a look at this.
-
-Nick: More precious metals.
-
-Grissom: And the pawn tickets.
-Nick: Easily traceable.
-
-Grissom: Topographical maps of the Sierra Nevada. Delamar Quadrangle, Lincoln County, La Madre Mountain ... Clark County.
-
-Grissom: Hey, Nick. Blood spatter and a bullet hole, maybe?
-[MAP: La Madre Mtn. Quadrangle / Nevada - Claim Co. / 7.5 Minute Series
-]
-(NICK pushes the map aside and finds the hole in the wall behind the map.
-Nick: Through-and-through.  Oh, yeah. Medium caliber. This is our primary crime scene?
-Grissom: Except that our vic had a stake in his head. He wasn't shot.
-Nick: Yeah, but he had a .38 in his car.
-Grissom: We're looking for another body.
-
-
-
-
-;
-
-
-
-
-
-
-
-Kevin : It was a tip.
-Brass: A $10,000 gold chip?  I don't think so. If it was a tip, you wouldn't have had to lose the bellman's outfit to cash it in. Now where'd you get this?
-Kevin : I found it ... sort of.
-Brass: You found it ... &quot;sort of&quot;.
-Kevin : Tavian is always surrounded by women. Guys, too, but they want autographs. The chicks -- they want something else.
-
-Kevin : Now, usually his boys turn them away, but this one got through.
-
-Bridget Willis: Excuse me. I need to speak to Tavian. I want to see Tavian.
-
-Kevin : There were definitely chicks a lot hotter, but I guess when you can have anything ... 
-Brass: They leave together?
-Kevin : No, just the opposite. They got into it right there.
-
-Bridget Willis: You're a lousy father to Tramelle. And you think the whole world worships you. But the truth is, you're just a deadbeat.
-Tavian Tombs: Whatever. This what you want?
-
-Kevin : Casino taxes me $24 an hour regardless of what I make. And do you know how much a zillionaire like Tavian Tombs tips? Zip. Nothing. Not even change I can throw in the fountain. And why? Because he's comped all the way around. R.F.B.-- Room, food, beverage -- including tips. So, when ten large goes sliding across the floor, and nobody sees it? Get out of the way, 'cause Kevin's coming through.
-
-Brass: Yeah, I get the picture.
-Kevin : Hey, I tried to give it back.
-
-Kevin : This is yours. 
-
-Bridget Willis: Keep it.
-
-Brass: Yeah, yeah, sure you did.
-Kevin : So, uh, what about my money?
-Brass: Don't be stupid.  Who's the blonde he's talking about?
-Hotel Manager: I don't know.
-Brass: Look, big casinos honor each other's chips. So, how you tracking these? Bar code, embedded transmitters, what? Look, it's okay. It's easy for the guys at the lab to figure this out, but we'll let the other casinos know you helped us out.
-Hotel Manager: Her name is Bridget Willis. She's on his list.
-Brass: Thank you.
-
-
-
-
-
-Nick: Hey, Griss, ballistics matched the .38 bullet to the gun in the victim's car. As for the splinters on the stake ... you were right. Quartz. Fluorite.
-Grissom: Dolomite, barite, calcite, antimony.
-Nick: Well, the mass spec dug deeper. Arsenic and cyanide. Now, as of late, that's what's used to extract gold.
-Grissom: Do you have any idea how many mine shafts there are in the State of Nevada?
-Nick: Yeah, hundreds. Including gold and silver mines in Nelson, Searchlight, Goodsprings. You name it. I've got Lockwood running a background check on our vic. Maybe we'll get lucky.
-
-
-
-CUE:  DOORBELL
-
-
-
-Brass: Bridget Willis?
-Bridget Willis: Mm-hmm.
-Brass: I'm Detective Jim Brass, Vegas PD. This is Catherine Willows from the crime lab.
-
-Bridget Willis: You're here to talk to my son Tramelle?
-
-Catherine:  We already have.
-
-
-
-
-Bridget Willis: I was in college. He was the &quot;man,&quot; Mr. Final four. I thought I'd won the lottery. Then I got pregnant, and he went in the lottery, so ... take a look around. Guess what we fight about.
-Brass: Money.
-Bridget Willis: He's rich, I'm not. I've accepted that. But he does have responsibilities. 
-Catherine: Tramelle.
-Bridget Willis: A weekend here and there doesn't make a father. Tramelle's not one of his &quot;boys.&quot; He's his son. Kid comes home with an armful of presents and a broken heart every time.
-Catherine: Ms. Willis ... is Tramelle your only child?
-Bridget Willis: No. I have a little girl.
-Catherine: Why wasn't she with Tavian's other kids at the carnival?
-Bridget Willis: She wasn't invited.
-
-Tavian Tombs: I'm not taking her. I'm not taking your girl.
-Bridget Willis: Tramelle's been talking about this weekend for months. She just wants to come.
-Tavian Tombs: Then what you better do is explain to her that I'm Tramelle's father, not hers.
-Bridget Willis: What difference does one little girl make?
-Tavian Tombs: It's all about what's mine.
-
-Daughter: Mommy. What's for lunch?
-
-Bridget Willis: Just a minute, okay, sweetie?  So, instead, I took her to Sweet Creatures at the Forum Shops.
-
-Bridget Willis: Don't fill it too much, sweetie.
-
-Catherine: Oh, yes, I've been there. Works wonders on the disappointments of little girls.
-Bridget Willis: That's what I was hoping for.
-
-
-
-
-
-Greg: For you.
-Warrick: Thanks. Have you taken a look?
-
-Greg: I'm just trying to learn.
-Warrick: Well?
-Greg: Well, the fiber you tweezed from that sweatshirt - trace pegged it as sisal.
-Warrick: Sisal? Rope? Mostly likely from the restraint.
-Greg: What's under the scope?
-Warrick: Take a look.
-
-Greg: Oh, hair. But cuticle's a single layer. Overlapping. 
-It's not human.
-Warrick: It's canine. Sweatshirt was riddled with dog hair. Many different breeds.
-Greg: You think the kidnapper used it as a lure? 
-Warrick: Kids love dogs. I know when I was a kid, I was all over them. That's a good start. Thanks.
-
-
-
-
-
-Robbins: Found them in Isaiah's stomach contents.
-
-Catherine: Pill casings.
-Robbins: Starts to break down as soon as it hits the mouth.
-
-Robbins:  The shell is porous. In the stomach, the medicine leeches out, enters the bloodstream. The case is left behind. 
-
-Robbins: Eventually, the casing's broken down, as well, but by then, the medicine's already working.
-Catherine: I see a USP number.
-Robbins: Well, it should be listed in the PDR, but I couldn't find it.
-
-Warrick: What have you got?
-Robbins: Pill casings.
-
-Warrick: He was drugged?
-Catherine: Looks that way.
-Warrick: Well, we lifted dog hair from the sweatshirt we found near the body.
-Catherine: So, our kidnapper had contact with dogs.
-Warrick: Multiple breeds.
-Robbins: Dog lover? Dog walker?
-Catherine: Hey, how about a vet?
-
-Warrick: Try the reference of Veterinary Pharmaceuticals and Biologicals.
-
-
-(The search runs and the following results:
-[RESULTS: Acepromazine Maleate Three pill sizes. Tranquilizer ADA No.: DP1458-1829
-Active Ingredient: Each mL of injectable sterile solution contains: ] )
-Catherine:  Acepromazine maleate. Tranquilizer.
-Robbins: 25 milligrams. Four pills wouldn't have been fatal for a child Isaiah's size. Based on the blood levels, these remnants were probably a second dose.
-Warrick: It wasn't the money drop that went bad. The problem was Isaiah died.
-Catherine: I'll call Brass. I'll have him check vet clinics, kennels, pet supply stores, and we'll extend the radius out from the dump site.
-Warrick:  Okay.
-
-
-
-
-Lockwood: Our man Alex James is quite the land owner. According to the mining laws of 1872, public land can still be paten for five dollars an acre -- a law which is still in effect. That's all this guy did was buy and sell publicly-owned, government land. Funny thing is, there was one mine that he sold over and over again.
-Nick: Now, why would he do that?
-Lockwood: Now, there lies the mystery.
-Grissom: So, who was the last person he sold to?
-Lockwood: Joe McPherson. Local.
-Grissom: Where is he now?
-Lockwood: No one knows. He's been missing for 48 hours.
-Nick: There lies the mystery.
-Grissom: Where's the mine?
-
-
-
-
-
-
-Nick: What's with the gate?
-Grissom: It's a bat gate. It keeps people out, lets the bats in.
-
-Grissom: Old mines are considered bat habitats and preserves.
-Nick: Who puts the bat gates in?
-Grissom: Batman.
-
-Nick: What have you got?
-Grissom: Insect chitin. It's usually found near the entrance of caves.
-
-Grissom: Guano. We got bats.
-
-Nick: Oh. Good.
-
-Grissom: Probably California leaf-nosed bats.
-Nick: They don't bite, do they?
-Grissom: They're like bees, Nick. You don't bother them, they won't bother you.
-Nick: Well, hey, let's ... let's not bother them, okay? I'm serious.
-
-Grissom: Are you seeing this? Gold.
-Nick:  We're rich.
-Grissom: I'm not so sure.
-
-Nick: Another buckshot casing.
-
-Grissom: And these look like impact patterns.
-Nick: So, he was loading his own.
-Grissom: But not with pellets.
-Nick: With gold. Pawn shop jewelry and melting furnace.
-Grissom: You know, Lockwood said that James sold this parcel of land multiple times. I think he was running a scam.
- 
-
-
-
-Nick: He was salting the mine.
-
-
-Grissom: Insect party.
-Nick: Yeah.
-Grissom: Cockroaches, cave crickets. Carabid beetles. All heading deeper into the cave.
-Nick: Why?
-Grissom: Maybe they got tired of eating bat guano.
-
-
-
-
-
-Brass: So, this is three blocks from the place where Isaiah's body was found. Why don't you guys take the kennel? Metcalf and I are going to take the dog run.
-
- 
-(Just a few steps away, CATHERINE finds a piece of rope.
-
-
-
-Warrick: Cath?
-
-
-Brass: We found something. I think you're going to want to take a look at this.
-
-
-
-Brass: Jacob Price. Local.  Looks like somebody beat us to him.
-
-Warrick: Partner you think?
-Catherine: Or a guy who knows how to finish.
-
-
-
-
-
-
-
-Tavian Tombs: I don't want to hear this.
-Brass: Yeah, well... I've been on the job a long time, and I know what a tragedy like this can do to a family.
-Tavian Tombs: I told you, I don't want to hear it.
-Brass: What's going to happen is one day, Kenisha or Tramelle or one of your other kids is going to come to you and say, &quot;What happened to Isaiah?&quot; And they're going to want to know the truth.
-Tavian Tombs: Nothing you say is going to change anything.
-Brass: The guy who took Isaiah worked in a kennel. 
- 
-Brass: He was used to handling dogs, not children. When Isaiah tried to escape, he was restrained, and when that didn't work, he was drugged. 
- 
-Brass: Now, drugs have a different effect on adults than on children. It's called &quot;The Paradoxical Effect.&quot; So, when the tranquilizers weren't working, this guy- Price -- upped the dosage. 
-
-Brass: Now, as a father, I can understand why you'd want this guy dead ...
-Tavian Tombs:  What? Whoa. You think I killed him?
-
-Brass: Yes, I do.
-
-Tavian Tombs: I didn't kill anybody. I don't even know who he is. But if I'd gotten to him before you, I swear I would not have stopped to think about it.
-
-
-
-
- 
-
-Bridget Willis: Don't fill it too much, sweetie.
-Daughter:  You said the bigger the better.
-
-
-
-
-
-
-Nick: Air's getting thick.
-Grissom: Smells like trinitrotoluene.
-
-Grissom: Look familiar?
-Nick: Yeah. But how did it get in the back of the guy's head?
-
-Grissom: Fuse line. Dynamite.
-
-
-Grissom: Chest wound. Possibly from our .38. Just about two days old.
-(NICK picks up the body's wallet and looks at the Nevada Driver's License with the following information on it:
-[PICKS UP NEVADA DRIVERS LICENSE #050492 R360021
-JOE MC PHERSON
-311 SEPHILL RD. LAS VEGAS NV 89108
-CLASS: 1
-s*x: M HEIGHT: 5'11&quot;
-WEIGHT: 180
-HAIR: BRN EYES: BRN BIRTHDATE: 09/02/63
-EXPIRATION DATE: 09/02/05 ]
-Nick: Joe McPherson. Local. Mr. Mia. Not an organ donor.
-Grissom: You know, wooden support beams, fuse line, TNT ... I think, uh, Alex James was trying to hide this body in the back of his mine.
-
-Joe McPherson:  You scammed me!
-Alex James: No.
-Joe McPherson: That was my life savings!
-Alex James: Take it easy. Listen, now-now, now, lookit. I-I, I can explain everything, all right? Listen, Joe. Joe, come on, I-I sold you the wrong mine. I-it's an honest mistake.
-Joe McPherson: You're a liar!
-(Cut to ALEX JAMES and JOE McPHERSON struggling for the gun. The gun goes off. JOE McPHERSON slides to the ground.
-
-
-
-Grissom:  Like most fuses, it probably burnt too quickly and he couldn't outrun the blast ... 
-
-
-Grissom: ... Or the wooden stake.
-
-
-
-
-
-Warrick: Okay. Sample from the kennel is on your right. Your bear on the left. 
-
-Catherine: Visible match.
-
-
-
- 
-Brass: Bridget Willis? Las Vegas police.
-
-
-Catherine: Tramelle, where's your mother?
-Tramelle: I don't know. She left with my sister. She said my daddy would come get me.
-
-Brass: She's not here. I'll put out an APB.
-
-
-
-
-
-
-Catherine: So, Tavian was paying Bridget child support -- three grand a month.
-Warrick: Three grand a month? Tavian tombs has been a $12 million-a-year player for eight seasons, not including endorsements.
-Catherine: Well, he made his deal with Bridget when Tramelle was born. Bad timing for her.
-Warrick: Motive for us. She was right to assume that Tavian would immediately pay that ransom. What's five million to a guy who makes hundreds of millions?
-Catherine: And it is his son. I'm sure he would have paid any amount. So, how does that dog kennel guy Price figure into all this, and was killing him part of the plan?
-Warrick: I don't know. I think that Bridget Willis killed him because he killed Isaiah.
-
-Catherine: In her act of redemption, she gives Tramelle to Tavian.
-
-
-
-
-
-
-
-
- 
-
-Tavian: Come here.
-
-Isaiah's Mother: Hello, Tramelle.
-Tramelle: Hi.
-
-
-
-
-
-Grissom: Okay.  According to Greg, the blood on the bullet's a direct match to Joe McPherson. It's a done deal.
-Nick: You know, I was talking to a lady in the county records office. She said those land patents have been changing hands for over fifty years.
-Grissom: That figures.
-Nick: There's a sucker born every minute.
-Grissom: Yup, and they all come to Vegas.
-
-
-
-
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=03x16+-+Lucky+Strike&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127345%23p127345" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=03x16+-+Lucky+Strike&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127345%23p127345" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127345%23p127345&amp;name=03x16+-+Lucky+Strike" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127345%23p127345" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=ce99e431f23fb3f9da6bbe1ff900bc31">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=ce99e431f23fb3f9da6bbe1ff900bc31">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=ce99e431f23fb3f9da6bbe1ff900bc31">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=ce99e431f23fb3f9da6bbe1ff900bc31">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

@@ -1,788 +1,1018 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) - EVENING]
+(A dark colored large bird flies across the bottom of the screen.)
+[EXT. LAS VEGAS DESERT (STOCK) -" />
+<meta property="og:title" content="03x12 - Got Murder? - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) - EVENING]
+(A dark colored large bird flies across the bottom of the screen.)
+[EXT. LAS VEGAS DESERT (STOCK) -" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13247" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>03x12 - Got Murder? - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13247" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13247">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=1b4a9ca4b5c7ee934109df4c64d0d3e3"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=1b4a9ca4b5c7ee934109df4c64d0d3e3">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=1b4a9ca4b5c7ee934109df4c64d0d3e3">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=1b4a9ca4b5c7ee934109df4c64d0d3e3">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=1b4a9ca4b5c7ee934109df4c64d0d3e3">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13247&amp;sid=1b4a9ca4b5c7ee934109df4c64d0d3e3&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>03x12 - Got Murder?</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127341">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127341">03x12 - Got Murder?</a></div>
+							<div class="pull-right text-right"><time datetime="2003-01-31T01:11:01Z">01/31/03 01:11</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - EVENING]</p>
+<p>(A dark colored large bird flies across the bottom of the screen.)</p>
+<p>[EXT. LAS VEGAS DESERT (STOCK) - EVENING]<br />
+(The shadow of the large bird travels along the rocks below. The bird caws.)</p>
+<p>[EXT. LAS VEGAS MOUNTAINS (STOCK) - EVENING]</p>
+<p>(Camera travels birds-eye above the mountains.)</p>
+<p>[EXT. FLOYD LAMB STATE PARK -- GROUND -- EVENING]</p>
+<p>(A frog sits and croaks under the fallen leaves. A man walks across the screen disturbing the leaves and making the frog jump aside.)</p>
+<p>(Cut to: A group of three men walk along the path.)</p>
+<p>(Cut to: The bird flies overhead.)</p>
+<p>(Cut to: The men continue to walk along the path.)</p>
+<p>(Cut to: The bird flies down low along the path and settles on a nest in a tree.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. FLOYD LAMB STATE PARK - EVENING -- CONTINUOUS]</p>
+<p>(The men approach the bird and quietly. They stop.)</p>
+<p><strong>Lead Man 1</strong>: I don't think I can get a clear shot.<br />
+(Each of the three men pick up their cameras to take pictures.)</p>
+<p><strong>Man 2 (on right)</strong>: It's a peregrine falcon.</p>
+<p><strong>Man 3 (on left)</strong>: No, it's not. It's a hawk.</p>
+<p><strong>Lead Man 1</strong>: You can't see anything this time of day. We should come back at dawn.</p>
+<p><strong>Man 2 (on right)</strong>: But I'm so behind on my life list. I still don't have a western wood-pewee or a solitary sandpiper.</p>
+<p><strong>Lead Man</strong>: What, do you think they're going to kick you out of the club?</p>
+<p><strong>Man 2 (on right)</strong>: John saw a dickcissel earlier today. It could be gone tomorrow.</p>
+<p><strong>Lead Man</strong>: John's full of ...</p>
+<p>(The bird caws. The men stop to look through their cameras.)</p>
+<p><strong>Lead Man</strong>: Corvus corax.</p>
+<p><strong>Man 2 (on right)</strong>: A common raven? So what?</p>
+<p>CAMERA VIEW:</p>
+<p>(The camera focuses and refocuses on the bird. They see that in the bird's mouth, it's carrying an eye.)</p>
+<p>(The men put their cameras down.)<br />
+CUT TO:</p>
+<hr />
+[EXT. FLOYD LAMB STATE PARK -- NIGHT]</p>
+<p>(Camera cuts to: A close up of GRISSOM'S eye. The camera pulls back. He stares at the eye in his hand.)</p>
+<p><strong>Grissom</strong>: Well, someone's missing a contact lens.</p>
+<p>(GRISSOM and CATHERINE stand on ladders peering into the bird's nest.)</p>
+<p><strong>Catherine</strong>: That's not all they're missing.</p>
+<p><strong>Grissom</strong>: You know, ravens, like eagles, have been known to travel 30 miles from roost to feeding ground.</p>
+<p><strong>Catherine</strong>: 30 miles in every direction. Pi-r-squared. That means that we're looking at a ... 2,800 mile search area.</p>
+<p><strong>Grissom</strong>: &quot;Once upon a midnight dreary while I pondered weak and weary over many a quaint and curious volume of forgotten lore.&quot;</p>
+<p><strong>Catherine</strong>: We're up a tree and you're quoting Poe. Give me something.</p>
+<p><strong>Grissom</strong>: &quot;Quoth the raven, 'only this ... and nothing more.'&quot;</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(GRISSOM puts the eye in a dish and takes a couple of photos of it.)</p>
+<p>(Quick flashback to: The raven, caws, picks the eye up off of the ground and flies off. End of flashback. Resume to present.)</p>
+<p>(GRISSOM picks up the eye and drops liquid on it. He removes the contact lens.)</p>
+<p>(He uncaps a syringe and extracts the liquid from the eye and puts it in a tube.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(CATHERINE examines the contents of the bird's nest.)</p>
+<p>(She picks up a baby toy from inside. She looks at it and smiles. She puts it aside.)</p>
+<p>(GRISSOM walks into the room.)</p>
+<p><strong>Grissom</strong>: You'll be pleased to know the eyeball was only slightly desiccated.</p>
+<p><strong>Catherine</strong>: And what about the iris?</p>
+<p><strong>Grissom</strong>: Still blue.</p>
+<p><strong>Catherine</strong>: Color distinction means the body's been dead less than 48 hours.</p>
+<p><strong>Grissom</strong>: Yeah, I sent some vitreous fluid to tox. The rest to DNA. So ... Can you get me an eye for an eye?</p>
+<p><strong>Catherine</strong>: Well, I've got foil ... a leaf ... a feather and plastic.</p>
+<p>(GRISSOM picks up the feather and looks at it.)</p>
+<p><strong>Grissom</strong>: Feathers. For warmth.</p>
+<p><strong>Catherine</strong>: Seagull feathers.</p>
+<p><strong>Grissom</strong>: Well, the only place we'd have seagulls around here would be Lake Mead.</p>
+<p><strong>Catherine</strong>: But only when the fishing's good. And we got some ground limestone.</p>
+<p><strong>Grissom</strong>: Not found at Lake Mead. (pause) You know, ravens are incredibly intelligent. They have a brain capacity comparable to dolphins.</p>
+<p><strong>Catherine</strong>: Means they know where to shop. </p>
+<p>(CATHERINE looks over at the map on the table.)</p>
+<p><strong>Catherine</strong>: We found the eye here. I bet she shopped here where limestone is used as ground cover.</p>
+<p>CUT TO:<br />
+(A very pretty kaleidoscope of bird flying in the sky.)</p>
+<hr />
+[EXT. PENDALE LAND FILL -- DAY]</p>
+<p>(SARA, NICK and CATHERINE walk toward the cell of garbage that they're going to sift through. CATHERINE'S holding the file open.)</p>
+<p><strong>Sara</strong>: You know the average Nevadan generates more waste more than three times waste than the average American?</p>
+<p><strong>Nick</strong>: Yeah, well, that's tourist trash.</p>
+<p><strong>Sara</strong>: Thirteen million pounds per day. I went to the recycling forum in march.</p>
+<p><strong>Catherine</strong>: The landfill manager says this is the active cell. Spotter says cell lift moves forward 20 feet a day. That puts the active cell right ... pretty much in front of us.</p>
+<p><strong>Nick</strong>: Man! You find the best evidence in the nastiest places.</p>
+<p><strong>Catherine</strong>: You are what you throw away. </p>
+<p><strong>Sara</strong>: It's like peeling an onion into peoples' lives.</p>
+<p><strong>Catherine</strong>: Well, this onion is our time line so peel back accordingly.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY -- DAY]</p>
+<p>(ROBBINS stands in front of the display of x-rays on the viewer. GRISSOM stands nearby with the file folder in his hands.)</p>
+<p><strong>Robbins</strong>: The electrolyte and glucose levels in the eye were normal. Means your victim wasn't dehydrated or diabetic. Other than that ... </p>
+<p><strong>Grissom</strong>: ... we're flying blind.</p>
+<p>(They turn around and head back to the table.)</p>
+<p><strong>Grissom</strong>: David.</p>
+<p><strong>David Phillips</strong>: Grissom. </p>
+<p>(GRISSOM stops and looks at DAVID PHILLIPS.)</p>
+<p><strong>Grissom</strong>: A 35-year-old male. Car salesman. Dropped dead at work. Apparent heart attack. Not under the care of a physician. Uh, no history of high blood pressure. Just routine autopsy.</p>
+<p><strong>Grissom</strong>: Go for it.</p>
+<p>(GRISSOM heads out the front door. DAVID pulls back the sheet.)</p>
+<p><strong>David Phillips</strong>: Yeah, we're all set, Dr. Robbins.</p>
+<p><strong>Robbins</strong>: Okay, David. (to recorder) Case 03-615. Postmortem exam of an adult. Caucasian. Male. Identified as Fred Stearns. Body received warm to the touch. Rigor mortis not present. Skull nose, bones are intact by palpation. Irides are brown. Slightly congested. Hmm. Unidentified dry black substance on the front of the teeth. Gingiva and lips. Okay. David, open him up.</p>
+<p>(DAVID takes the knife and makes the first cut. He sees blood and stops.)</p>
+<p><strong>David</strong>: Uh ... D-Dr. Robbins? </p>
+<p><strong>Robbins</strong>: Hmm?</p>
+<p><strong>David</strong>: Sir, I-I have blood. I have bleeding.</p>
+<p>(ROBBINS turns around and heads back to the table. He grabs a cloth to stop the bleeding. DAVID takes the cloth and applies pressure.)</p>
+<p><strong>Robbins</strong>: Get me my kit. Come on.</p>
+<p>(DAVID turns and gets the kit and puts it near the head of the table.)</p>
+<p><strong>Robbins</strong>: Hold this. let's go. Keep it tight. That's good, David.</p>
+<p>(ROBBINS puts a syringe together and plunges it into FRED STEARNS' chest.)</p>
+<p>(Quick CGI to: The needle of the syringe pierces through the heart. The heart starts pumping. End of CGI. Resume to present.)</p>
+<p>(ROBBINS puts the syringe on the side and checks his vitals.)</p>
+<p><strong>Robbins</strong>: Pulse is rising. David, string me a suture needle.</p>
+<p>(He waves him aside.)</p>
+<p><strong>Robbins</strong>: Go! Go!</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. PENDALE LAND FILL -- DAY]</p>
+<p>(CATHERINE, NICK and SARA search the land fill.)</p>
+<p>(After several Dissolves, CATHERINE lifts up a blouse and sees something.)</p>
+<p><strong>Catherine</strong>: I think I may have something here!</p>
+<p>(NICK and SARA make their way toward her.)</p>
+<p><strong>Sara</strong>: What've you got?</p>
+<p><strong>Nick</strong>: Whoa!</p>
+<p>(CATHERINE pushes the garbage aside and finds the severed limb.)</p>
+<p><strong>Catherine</strong>: Got a leg.</p>
+<p><strong>Nick</strong>: Obviously female.</p>
+<p><strong>Catherine</strong>: Obviously.</p>
+<p>(CATHERINE picks it up and hands it to NICK.)</p>
+<p><strong>Nick</strong>: Whew. I'll bag it.</p>
+<p>(SARA searches the garbage around the limb. She finds something.)</p>
+<p><strong>Sara</strong>: All right. I got a torso and head. Missing an eye.</p>
+<p>(Quick flashback to: The Raven caws, lands and picks at the eye. End of flashback. Resume to present.)</p>
+<p>(SARA starts to cough.)</p>
+<p><strong>Catherine</strong>: Okay, so, uh how hot do you think it is, underneath all this trash?</p>
+<p><strong>Nick</strong>: I don't know, what do you think -- ballpark at 120 degrees?</p>
+<p>(NICK bags the leg.)</p>
+<p><strong>Catherine</strong>: So this is yesterday's trash. Dead body. Minimum 18 hours in this heat.</p>
+<p><strong>Sara</strong>: She should be totally bloated.</p>
+<p><strong>Catherine</strong>: Yeah, she's not.</p>
+<p><strong>Nick</strong>: Yeah, she's really torn up.</p>
+<p>(SARA looks behind her.)</p>
+<p><strong>Sara</strong>: Bulldozers are vicious.</p>
+<p>(Quick flashback to: Camera downward view of the body/limb and garbage being dumped on it. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Yeah, I think they only finished the job. How did she get here?</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY]</p>
+<p>(CATHERINE walks into the room.)</p>
+<p><strong>Catherine</strong>: Heard you got to be superhero today.</p>
+<p><strong>Robbins</strong>: I consider myself a superhero every day.</p>
+<p><strong>Catherine</strong>: Got anything on our lady of the dump?</p>
+<p><strong>Robbins</strong>: C.O.D. is still indeterminate. Blunt force trauma is a possibility. She has some perimortem bruising around the left eye. But limb removal is relatively clean. Definitely postmortem.</p>
+<p><strong>Catherine</strong>: So we've got no arms, no prints. What kind of identifying characteristics do we have?</p>
+<p><strong>Robbins</strong>: Second degree midline episiotomy scar.</p>
+<p><strong>Catherine</strong>: Well, that narrows it down to more than half the women in this country who gave birth.</p>
+<p><strong>Robbins</strong>: But there might be one other thing. At first I thought appendectomy, but check out her x ray. </p>
+<p>(ROBBINS walks over to the view box.)</p>
+<p><strong>Robbins</strong>: She's had surgery. Some kind of implant at the L4-L5 interspace. I'll know more when I open her up.</p>
+<p><strong>Catherine</strong>: You're my hero, Al.</p>
+<p>(CATHERINE smiles over her shoulder at ROBBINS, then turns and leaves.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAYOUT ROOM -- DAY]</p>
+<p>(SARA and NICK stand over the table full of garbage.)</p>
+<p><strong>Sara</strong>: All right, what do we know?</p>
+<p><strong>Nick</strong>: That all of this trash was found around the victim. And she was buried with some very expensive trash.</p>
+<p><strong>Sara</strong>: Yeah, there's nothing wrong with this frying pan. Could've gone to goodwill or someplace.</p>
+<p><strong>Nick</strong>: Home pregnancy test. Negative. Better luck next time.</p>
+<p><strong>Sara</strong>: Someone ... does not like frozen peas.</p>
+<p><strong>Nick</strong>: They weren't shopping at CostCo. They paid way too much for ice cream.</p>
+<p><strong>Sara</strong>: There's a good chance our vic was wearing this shirt.</p>
+<p><strong>Nick</strong>: Let's start trying to narrow this down to a neighborhood, huh?</p>
+<p><strong>Sara</strong>: Excellent idea. Uh, marker or sort?</p>
+<p><strong>Nick</strong>: Sort. Please.</p>
+<p>(SARA opens a pen and turns around to mark the map as NICK sorts through the garbage.)</p>
+<p><strong>Nick</strong>: First up: &quot;178 Spaulding Meadows.&quot; Uh, &quot;174 Storm Cloud Lane.&quot; A second &quot;174 Storm Cloud Lane&quot;.</p>
+<p>(SARA marks the wall map.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - OFFICE -- DAY]</p>
+<p>(ROBBINS goes over the bagged disc with CATHERINE.)</p>
+<p><strong>Robbins</strong>: Pulled it from the L4-L5 interspace. Cobalt chromium molybdenum alloy with a titanium coating and an ultra high molecular weight polyethylene component. An artificial spinal disc. If you can recreate a spine the possibilities are endless.</p>
+<p><strong>Catherine</strong>: I thought, uh, disc replacement surgery involved fusing bone to bone.</p>
+<p><strong>Robbins</strong>: Eh, typically, but it can limit mobility. With that little disc, your body doesn't know the difference. </p>
+<p>(Quick CGI to the disc inside the body and moving back and forth.)</p>
+<p><strong>Robbins</strong>: (V.O.) Matches range of motion, flexibility and an axial rotation of a normal spine. </p>
+<p>(End of CGI. Resume to present.)</p>
+<p><strong>Robbins</strong>: Still in clinical trials. Less than a thousand surgeries have been performed in this country.</p>
+<p><strong>Catherine</strong>: Oh, well, I like those odds.</p>
+<p><strong>Robbins</strong>: You'll like this even better. Medium endplate, size 12, polyethylene component and a six-degree lordosis angle. Narrowed it down to one. Amy Ennis. Austin, Texas.</p>
+<p>(ROBBINS gives CATHERINE the bagged disc.)</p>
+<p><strong>Catherine</strong>: Tourist?</p>
+<p>(ROBBINS chuckles, turns and heads for the door.)</p>
+<p><strong>Robbins</strong>: (laughs) That's for you to find out.</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS COMMUNITY (STOCK) -- DAY]</p>
+<hr />
+[EXT. STORM CLOUD LANE -- DAY]</p>
+<p>(OFFICERS pull out the trash cans onto the road. NICK, CATHERINE and SARA open them up and check them for blood.)</p>
+<p><strong>Nick</strong>: Hey, is this all of them?</p>
+<p><strong>Catherine</strong>: Yeah, every last one on storm cloud lane.</p>
+<p><strong>Sara</strong>: Cans are on private property, it's not trash day, how did you get consent?</p>
+<p><strong>Catherine</strong>: I talked to the president of the owner's association.</p>
+<p><strong>Nick</strong>: What'd you threaten her with?</p>
+<p><strong>Catherine</strong>: A return visit.</p>
+<p>(SARA sprays the can and finds blood.)</p>
+<p><strong>Sara</strong>: Hey, guys? I got blood.</p>
+<p><strong>Nick</strong>: Yeah. Yeah me, too.</p>
+<p><strong>Catherine</strong>: Well, that makes five.</p>
+<p>DISSOLVE TO:</p>
+<p>(They pull the five trash cans with the blood stains in them to the middle of the street.)</p>
+<p><strong>Catherine</strong>: Let's see if any of it's human.</p>
+<p>(They each swab and test the blood.)</p>
+<p>(SARA'S test shows up not human. NICK'S test shows up as human.)</p>
+<p><strong>Nick</strong>: These two are human.</p>
+<p>DISSOLVE TO:</p>
+<p>(They pull the two trash cans with the human blood stains in them further across the road, apart from the other cans.)</p>
+<p>(SARA looks inside the can.)</p>
+<p><strong>Sara</strong>: If the vic was in here blood would have pooled to the bottom.</p>
+<p><strong>Nick</strong>: Yeah, and blood dripped down the side of this one as the hydraulic arm dumped it.</p>
+<p>(Quick flashback to: The trash collecting truck dumps the trash can contents into the bin. The trash falls. We see the severed limb inside the bin. End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: This is our can.</p>
+<p>(CATHERINE looks at the can, then points.)</p>
+<p><strong>Catherine</strong>: And that's our house.</p>
+<p>SHORT TIME CUT TO:</p>
+<hr />
+[EXT. STORM CLOUD LANE - EASTON RESIDENCE -- DAY]</p>
+<p>(CATHERINE interviews DANIEL EASTON.)</p>
+<p><strong>Daniel Easton</strong>: You found blood ... in my trash can?</p>
+<p><strong>Catherine</strong>: Any idea how it got there?</p>
+<p><strong>Daniel Easton</strong>: No.</p>
+<p><strong>Catherine</strong>: Do you know an Amy Ennis from Austin, Texas?</p>
+<p>(NORA EASTON drives up and parks the car. She's carrying a bouquet of flowers.)</p>
+<p><strong>Daniel Easton</strong>: No.</p>
+<p><strong>Catherine</strong>: So, you have absolutely no idea what I'm talking about?</p>
+<p>(NORA EASTON gets out of the car and walks out to the house.)</p>
+<p><strong>Nora Easton</strong>: Dad ... you all right?</p>
+<p><strong>Daniel Easton</strong>: I'm fine.</p>
+<p><strong>Nora Easton</strong>: What's going on?</p>
+<p><strong>Catherine</strong>: I'm just asking your father a few questions.</p>
+<p><strong>Daniel Easton</strong>: Why don't you go inside and make some dinner?</p>
+<p><strong>Nora Easton</strong>: What are you in the mood for?</p>
+<p><strong>Daniel Easton</strong>: Whatever you want. Charlie, homework.</p>
+<p><strong>Charlie Easton</strong>: Hey. Get the job?</p>
+<p><strong>Daniel Easton</strong>: Later.</p>
+<p><strong>Catherine</strong>: Divorced?</p>
+<p><strong>Daniel Easton</strong>: Yeah. Five years.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. CAR DEALERSHIP -- DAY]</p>
+<p>(GRISSOM and WARRICK walk through the car lot to the building.)</p>
+<p><strong>Warrick</strong>: I hear David's resurrecting the dead now.</p>
+<p><strong>Grissom</strong>: (chuckles) Yeah, our little miracle worker.</p>
+<p><strong>Warrick</strong>: I just came from the hospital. That guy's in ICU with respiratory paralysis. I did get a prelim on his blood work -- looks like some sort of an organic poison.</p>
+<p><strong>Grissom</strong>: Well, that would explain the discoloration Robbins found around his mouth.</p>
+<p><strong>Marty Gibson</strong>: (to the customer) I'm telling you, this is great. You're going to love this. 30 miles to the gallon, very low maintenance. Your people are going to love it. You know what? I want you to tell them to throw away the manuals. </p>
+<p>(He hands him a business card.)</p>
+<p><strong>Marty Gibson</strong>: Call me for anything. Marty Gibson doesn't close a sale, he opens a relationship.</p>
+<p>(MARTY GIBSON leads the customer past GRISSOM and WARRICK.)</p>
+<p><strong>Warrick</strong>: That guy's a charmer.</p>
+<p><strong>Grissom</strong>: Yeah, real Ricky Roma.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CAR DEALERSHIP -- DAY]</p>
+<p>(A dog yips in the background. WARRICK and GRISSOM walk up to the receptionist.)</p>
+<p><strong>Nancy Linden</strong>: May I help you, gentlemen?</p>
+<p><strong>Warrick</strong>: I'm Warrick Brown, this is Gil Grissom. We're from the Las Vegas Crime Lab.</p>
+<p><strong>Nancy Linden</strong>: Oh. Nanci Linden. It's a pleasure to meet you.</p>
+<p><strong>Grissom</strong>: We have a warrant to search your premises.</p>
+<p><strong>Nancy Linden</strong>: What for?</p>
+<p><strong>Grissom</strong>: For evidence concerning the attempted murder of Fred Stearns.</p>
+<p><strong>Nancy Linden</strong>: Oh, he had a heart attack. He's dead.</p>
+<p><strong>Grissom</strong>: No, he didn't ... and he's not.</p>
+<p>(NANCI stares at them speechless. The dog barks. She turns to quiet her dog in her bag.)</p>
+<p><strong>Nancy Linden</strong>: Gigi, shush. Shh!</p>
+<p>(She kicks the bag lightly. The dog whimpers.)</p>
+<p><strong>Nancy Linden</strong>: I'm sorry. I'm not supposed to bring her in here.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CAR DEALERSHIP - STAIRS/SECOND FLOOR - DAY -- CONTINUOUS]</p>
+<p>(NANCY LINDEN leads GRISSOM and WARRICK up the stairs to the offices. She points the desks out to them.)</p>
+<p><strong>Nancy Linden</strong>: So, this was ... is Fred's desk. Nobody's touched it since they took him away. It's bad luck. Middle desk is Marty Gibson. The one on the end is Clyde Hinton.</p>
+<p><strong>Grissom</strong>: Thank you.</p>
+<p>(NANCI LINDEN leaves the room.)</p>
+<p><strong>Warrick</strong>: Poison could've come from any of these sources here.</p>
+<p><strong>Grissom</strong>: Oral fixation you think? Constant need for gratification?</p>
+<p><strong>Warrick</strong>: In every way. This guy was like the monster closer. You ever buy a brand-new car, Griss?</p>
+<p><strong>Grissom</strong>: Depreciation doesn't make it a logical investment.</p>
+<p>(WARRICK stands in front of the WHITEBOARD that has the commission numbers on it. It reads:</p>
+<p>CABO COMMISSION</p>
+<p>FRED // CLYDE // MARTY<br />
+/ 9251 / 4367 //<br />
+/ 4571 / 7280 // / 1642 / 1842 // / 8141 ...<br />
+/ / // / 1712 / 1642 // 6317 /<br />
+/ 4671 / 622 // / 7241 / //<br />
+/ 4263 / 7064 // / 4263 / 1817 // </p>
+<p><strong>Warrick</strong>: It's not about logic. It's about that smell. There's nothing like the smell of a brand-new car.</p>
+<p>(MARTY GIBSON steps into the office and holds out his business card.)</p>
+<p><strong>Marty Gibson</strong>: How right you are. Marty Gibson.</p>
+<p><strong>Grissom</strong>: We're not buying, we're looking. If we need any help we'll let you know.</p>
+<p><strong>Marty Gibson</strong>: Sometimes it's not about what you need, sometimes it's about what you want.</p>
+<p>(MARTY GIBSON leaves the room.)</p>
+<p>(GRISSOM and WARRICK start to check the desks. GRISSOM finds gum wrappers. He checks the tips of the pens on the desk. He picks up the phone to find that it's stuck to the base. He looks at the phone.)</p>
+<p>(At the next desk, WARRICK collects the liquid in the mug.)</p>
+<p>(GRISSOM scrapes off some of the white stuff on the phone.)</p>
+<p>(WARRICK checks the sleeves of the jacket.)</p>
+<p>(GRISSOM collects the coffee in the mug.)</p>
+<p>(WARRICK collects something off of the sleeve. Camera zooms in for a extreme close up.)</p>
+<p>(GRISSOM tries the drawers. CLYDE HINTON leaning over the partition wall throws GRISSOM the keys to the drawer.)</p>
+<p><strong>Grissom</strong>: You always, uh, lock your drawers?</p>
+<p>(GRISSOM finds the glue bottle in the desk.)</p>
+<p><strong>Grissom</strong>: Huh.</p>
+<p>(CLYDE HINTON snickers.)</p>
+<p><strong>Grissom</strong>: You're the one who super-glued Fred's phone.</p>
+<p>(CLYDE HINTON continues to chuckle. GRISSOM holds up the gum.)</p>
+<p><strong>Grissom</strong>: &quot;Chewing gum: Will turn any mouth black for days.&quot;</p>
+<p>(CLYDE HINTON starts laughing. WARRICK cell phone rings )</p>
+<p><strong>Warrick</strong>: Warrick Brown.</p>
+<p><strong>Grissom</strong>: I get it. You're the funny guy.</p>
+<p><strong>Clyde Hinton</strong>: You know the definition of &quot;kismet,&quot; Mr. Grissom?</p>
+<p><strong>Grissom</strong>: Do you know the definition of attempted murder, Mr Hinton?</p>
+<p><strong>Clyde Hinton</strong>: Just go with me for a second.</p>
+<p><strong>Grissom</strong>: Go with you where?</p>
+<p><strong>Clyde Hinton</strong>: Come on... &quot;kismet.&quot;</p>
+<p><strong>Grissom</strong>: Fate, or destiny. It's from the arabic word meaning to distribute, or divide up.</p>
+<p><strong>Clyde Hinton</strong>: Smart guy. Destiny is what you make of it.It's what gets distributed to me while the other guy's washing the stain off his lips.</p>
+<p>(Quick flashback to: FRED STEARNS swings around in his chair and talks with CLYDE and MARTY.)</p>
+<p><strong>Fred Stearns</strong>: Well, boys, just closed another fatty. Two hours of schmooze -</p>
+<p>(FRED unwraps a piece of gum and pops it into his mouth. He starts chewing.)</p>
+<p><strong>Fred Stearns</strong>: I can't lose.</p>
+<p>(MARTY looks over at FRED and nods.)</p>
+<p><strong>Marty Gibson</strong>: Your lips.</p>
+<p>(FRED grabs the mirror and checks it. Sure enough, his lips and teeth are stained black.)</p>
+<p><strong>Fred Stearns</strong>: Clyde!</p>
+<p><strong>Clyde Hinton</strong>: Don't worry, Freddy. I'll handle the client.</p>
+<p>(FRED starts wiping the stain off of his mouth. CLYDE steps up and everyone laughs.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Clyde Hinton</strong>: Look, everyone tries to get an edge in this business. I use jokes.</p>
+<p>(WARRICK steps up to the partition.)</p>
+<p><strong>Warrick</strong>: Fred Stearns just passed away. Again.</p>
+<p>(CLYDE HINTON appropriately doesn't laugh at the news.)</p>
+<p><strong>Grissom</strong>: Dead guy. Not funny.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY]</p>
+<p>CADAVER VIEW:</p>
+<p>(DAVID PHILLIPS leans over the body and into the camera. ROBBINS appears next to him and looks down into the camera also.)</p>
+<p><strong>Robbins</strong>: Okay, David, take two.</p>
+<p>(DAVID starts the Y-incision.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- HALLWAY]</p>
+<p>(BRASS and CATHERINE walk through the hallway.)</p>
+<p><strong>Brass</strong>: No luck on Amy Ennis's next of kin. The Austin PD is still working on it.</p>
+<p><strong>Catherine</strong>: Well, we know that she had a kid.</p>
+<p><strong>Brass</strong>: Well, she gave birth. That doesn't mean that she had a kid.</p>
+<p><strong>Catherine</strong>: So, what, we've got nothing?</p>
+<p><strong>Brass</strong>: We have a mercury sable, uh, Texas plates, found in the lot of the Tangiers hotel. She's the registered owner. They're bringing it in now.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY]</p>
+<p>(DAVID cuts into the stomach. He empties out the contents and looks inside. ROBBINS watches in the back.)</p>
+<p><strong>David Phillips</strong>: If the poison was administered orally I may know how it got into the bloodstream.</p>
+<p>(GRISSOM turns to look at what DAVID'S talking about.)</p>
+<p><strong>David Phillips</strong>: Gastric ulcer.</p>
+<p>(Quick CGI to: Top view down on a male chest.)</p>
+<p><strong>David Phillips</strong>: (V.O.) In a healthy, functioning stomach, ...</p>
+<p>(Camera drops down and through the chest to show the outer stomach. Clear liquid coats the outer stomach lining.)</p>
+<p><strong>David Phillips</strong>: (V.O.) ... mucosa lines the walls and prevents the hydrochloric acid from burning the organ itself. </p>
+<p>(A thick black liquid pours down and coats the stomach lining.)</p>
+<p><strong>David Phillips</strong>: (V.O.) ... But if H. Pylori gets in there, sends the whole system off-balance, stops the mucosa, and causes an ulcer. </p>
+<p>(The black liquid moves aside, the mucosa moves aside to reveal an ulcer underneath.)</p>
+<p>(End of quick CGI. Resume to present.)</p>
+<p><strong>David Phillips</strong>: Opens a direct channel from your digestive tract straight into your bloodstream. I know a lot about stress-related ailments.</p>
+<p><strong>Robbins</strong>: Any word yet on a poison?</p>
+<p><strong>Grissom</strong>: Tox screen ruled out the ink gum.</p>
+<p><strong>Robbins</strong>: It could've been a factor, though. Uh, gum churns up stomach acid -- instant inflammation.</p>
+<p><strong>Grissom</strong>: I don't care about his indigestion, Doc. We need to know what killed him.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GARAGE -- DAY]</p>
+<p>(NICK and SARA go over the car contents. SARA goes through AMY ENNIS' suitcase. She holds up a black teddy.)</p>
+<p><strong>Sara</strong>: Well, she wasn't in town on business.</p>
+<p><strong>Nick</strong>: What's that?</p>
+<p>(NICK looks up. SARA turns around and holds the black teddy in front of her. She clicks her tongue and shakes the teddy in front of her.)</p>
+<p><strong>Nick</strong>: Oh! Depends on what her business was, I guess.</p>
+<p>(SARA turns around and puts the teddy back into the suitcase. She checks its contents.)</p>
+<p><strong>Sara</strong>: Nothing risqué about the rest of her wardrobe.</p>
+<p><strong>Nick</strong>: Maybe she got it here. She could've met somebody, you know.</p>
+<p>(SARA checks the suitcase pocket. NICK puts on a mask and holds up the hand-held sized cyanoacrylate fuming wand.)</p>
+<p><strong>Nick</strong>: Okay, I'm going to fume.</p>
+<p><strong>Sara</strong>: Okay.</p>
+<p>(NICK opens the car door, crawls in and looks for prints. After a while, he finds a print on the steering wheel.)</p>
+<p>(Camera zooms in for a close up.)</p>
+<p>OVERLAP TO:</p>
+<hr />
+[INT. CSI - PRINT LAB -- DAY]</p>
+<p>(Camera overlaps the print on the steering wheel with the extracted print on the computer monitor on the left side while the right side looks for a match.)</p>
+<p>(The computer beeps. There's a match. NICK continues to work at the computer.)</p>
+<p>(CATHERINE walks into the lab.)</p>
+<p><strong>Catherine</strong>: According to Greg, the hairs and the DNA from the toothbrush are a match to the vic. What about the prints from her car?</p>
+<p><strong>Nick</strong>: I thought I messed it up, so I ran it twice.</p>
+<p>(NICK prints out the results. He hands it to CATHERINE.)</p>
+<p><strong>Nick</strong>: No errant prints, all a match to the same woman.</p>
+<p><strong>Catherine</strong>: Amy Ennis.</p>
+<p><strong>Nick</strong>: No &quot;Amy Ennis&quot; in the database.</p>
+<p><strong>Catherine</strong>: Well, Amy Ennis is our vic. It's her car.</p>
+<p><strong>Nick</strong>: Prints came back to somebody named &quot;Kelly Easton&quot;.</p>
+<p>(CATHERINE looks at the print results. It reads:</p>
+<p>[EXAMPLAR:</p>
+<p>Fingerprint exemplar bearing the name of:</p>
+<p>Prints obtained from Amy Ennis' Vehicle - Steering Wheel, ra... Interior Driver &amp; Passenger Doors</p>
+<p>RESULTS: The above exemplar was compared to the following:</p>
+<p>KELLY EASTON</p>
+<p>IDENTIFICATION WAS MADE - All Prints Match</p>
+<p>By: Mandy Webster #865748<br />
+Latent Print Examiner<br />
+Identification Unit</p>
+<p>*Subpoena list for court appearance:</p>
+<p>Lifting developing of latent print(s) L.E.T. Thomas #434687 ... Comparison of latent print(s) Representative of Latent Prints ...<br />
+*A fingerprint palm card witnessed by investigator should be ... Identification Unit as soon as possible. Attach a copy ... ]</p>
+<p><strong>Catherine</strong>: Kelly Easton ... Easton ... 174 Storm Cloud Lane?</p>
+<p><strong>Nick</strong>: What's the first thing you do when you don't want to be found?</p>
+<p><strong>Catherine</strong>: Leave town.</p>
+<p><strong>Nick</strong>: Yeah ... and change your name.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. STORM CLOUD LANE - EASTON RESIDENCE -- NIGHT]</p>
+<p>(OFFICER cars with their lights flashing are parked outside the EASTON residence.)</p>
+<p>(CATHERINE talks with DANIEL EASTON.)</p>
+<p><strong>Catherine</strong>: ... Want to Mulligan on your first story? &quot;Divorced&quot;?</p>
+<p><strong>Daniel Easton</strong>: What the hell was I supposed to say? My wife went out to get her hair done and never came home.</p>
+<p><strong>Catherine</strong>: Well, maybe you gave her a reason to leave. Spousal abuse, cheating...</p>
+<p><strong>Daniel Easton</strong>: Aaww, you people. You know, you were here five years ago with your grid searches, your dogs, your cadets -- you came up empty. You give me a good reason why my wife left me, I'd love to hear it, because I tried the truth. I didn't know what happened. You know what I got for it? They all think I killed my wife. Her parents sued me for custody. I lost my job, my friends. Only thing I got left are those kids and this house.</p>
+<p><strong>Catherine</strong>: Okay, you didn't kill her. (beat) At least back then.</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[INT. EASTON RESIDENCE - BEDROOM -- NIGHT]</p>
+<p>(CATHERINE and SARA check the bedroom using ALS. CATHERINE checks the bed. SARA checks the seats. She finds something. She also finds a pair of lacy panties.)</p>
+<p><strong>Sara</strong>: I don't think these belong to dad.</p>
+<p><strong>Catherine</strong>: Could place Mrs. Easton at the house.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. STORM CLOUD LANE - EASTON RESIDENCE - NIGHT -- CONTINUOUS]</p>
+<p>(DANIEL EASTON explains the lacy panties to SARA.)</p>
+<p><strong>Daniel Easton</strong>: She came back about a month ago. Doorbell rings ... </p>
+<p>(Quick flashback to: DANIEL EASTON opens the front door. End of flashback. Resume to present.)</p>
+<p><strong>Daniel Easton</strong>: huh, what do you say?</p>
+<p>(Quick flashback to: The door is pushed open and AMY ENNIS/KELLY EASTON walks into the room.)</p>
+<p><strong>Amy Ennis/Kelly Easton</strong>: Hi.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: You tell me. Whatever it is, it must've worked. She was back in your bedroom.</p>
+<p><strong>Daniel Easton</strong>: Well, they say time heals all wounds. It's crap. I hate her for what she did to us, but I swear, it was the first time I felt anything in five years.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. EASTON RESIDENCE - BEDROOM - NIGHT -- CONTINUOUS]</p>
+<p>(CATHERINE pulls the bed covers back and continues to look for evidence. CATHERINE finds a strand of hair. She takes a tape and lifts it.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. EASTON RESIDENCE - CHARLIE'S BEDROOM - NIGHT -- CONTINUOUS]</p>
+<p>(NICK uses the ALS in CHARLIE'S bedroom. He looks on the walls, on the bed, and notices CHARLIE'S journal on the desk. NICK opens it and sees pages and pages of violent drawings with notes such as &quot;PAIN&quot;, &quot;SKOOL BITES&quot;, &quot;HATE&quot;.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. STORM CLOUD LANE -- EASTON RESIDENCE - NIGHT -- CONTINUOUS]</p>
+<p>(NICK talks with CHARLIE EASTON.)</p>
+<p><strong>Charlie Easton</strong>: So, she's really dead?</p>
+<p><strong>Nick</strong>: Yeah. Yeah, I'm sorry.</p>
+<p><strong>Charlie Easton</strong>: Figures.</p>
+<p><strong>Nick</strong>: How's that?</p>
+<p><strong>Charlie Easton</strong>: She left without telling us. Figures she'd die the same way.</p>
+<p><strong>Nick</strong>: I don't think your mom knew she was going to die, bud.</p>
+<p><strong>Charlie Easton</strong>: Whatever.</p>
+<p>(CHARLIE withdraws and puts on his earphone with loud music on.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. STORM CLOUD LANE -- EASTON RESIDENCE - NIGHT -- CONTINUOUS]</p>
+<p>(CATHERINE interviews NORA EASTON.)</p>
+<p><strong>Nora Easton</strong>: Last time I saw my mother, I was ... in seventh grade. She handed me my lunch and said, &quot;See you after school.&quot;</p>
+<p><strong>Catherine</strong>: Did you know that she was back?</p>
+<p><strong>Nora Easton</strong>: I thought that she was dead. </p>
+<p>(NORA rubs her stomach.)</p>
+<p><strong>Nora Easton</strong>: Can I sit down?</p>
+<p><strong>Catherine</strong>: Yeah, sure. Nora, I'm sorry. I know this has got to be very hard on you and your brother.</p>
+<p><strong>Nora Easton</strong>: And my dad.</p>
+<p><strong>Catherine</strong>: Is your dad seeing anybody? Does he have a girlfriend?</p>
+<p><strong>Nora Easton</strong>: How could he?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. EASTON RESIDENCE - NORA'S BEDROOM -- NIGHT -- CONTINUOUS]</p>
+<p>(CATHERINE uses the ALS in NORA'S bedroom. She looks at the framed photos on the desk of NORA and her father.)</p>
+<p>(CATHERINE opens the drawer and finds bottles of &quot;HIGH PROTEIN&quot; SUPPLEMENTS. She also finds a jewelry bag with a diamond tennis bracelet inside.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. EASTON RESIDENCE - KITCHEN -- NIGHT -- CONTINUOUS]</p>
+<p>(SARA uses the ALS in the kitchen. She finds some blood stains on the floor. She looks on the wall where the frying pans are hanging and notices a blank spot on the wall where a frying pan should be.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. EASTON RESIDENCE - GARAGE -- NIGHT -- CONTINUOUS]</p>
+<p>(NICK opens the large freezer in the garage.)</p>
+<p><strong>Nick</strong>: This is where I found the hairs, in between the packages of frozen peas.</p>
+<p>(CATHERINE looks at the baggie with the hair samples.)</p>
+<p><strong>Catherine</strong>: Mrs. Easton was a brunette.</p>
+<p><strong>Nick</strong>: And we found a warehouse worth of frozen peas at the landfill.</p>
+<p><strong>Catherine</strong>: Lack of swelling, clean fractures ... she was frozen.</p>
+<p>(Quick flashback to: The body in the garbage truck bin as the bin closes. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Skin and muscle would've lost elasticity. Fracture planes would've passed through in a straight line.</p>
+<p><strong>Nick</strong>: I'm thinking somebody in this family stuck her in here, waited 'til trash day.</p>
+<p>(Quick flashback to: A hand holding a frying pan swings and makes contact with AMY ENNIS' forehead. She goes down. Flash to white. The person empties the large freezer in the garage. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Well, the garbage tells us how she was killed. Now I want to know who.</p>
+<p>(NICK shuts the freezer door closed with a bang.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT.CSI -- LAB]</p>
+<p>SCOPE VIEW of the sample taken off of the coat sleeve.</p>
+<p>(GRISSOM walks into the lab.)</p>
+<p><strong>Warrick</strong>: That unknown substance I collected from Marty Gibson's coat ...</p>
+<p><strong>Grissom</strong>: Possibly reptilian skin?</p>
+<p><strong>Warrick</strong>: How'd you know?</p>
+<p>(GRISSOM holds up a piece of paper.)</p>
+<p><strong>Grissom</strong>: Tox report. The organic poison came back snake venom. I think maybe it's time to open a relationship with Marty Gibson.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CAR DEALERSHIP - SECOND FLOOR OFFICES -- DAY]</p>
+<p>(GRISSOM and WARRICK re-question MARTY GIBSON.)</p>
+<p><strong>Grissom</strong>: We found reptile skin on your jacket sleeve. So, unless you're shedding, we want to know how it got there.</p>
+<p><strong>Marty Gibson</strong>: Whoa, gentlemen, slow down. Can I get you a cup of coffee? (he turns around and yells over his shoulder) Nanci...?</p>
+<p><strong>Grissom</strong>: No, thank you. </p>
+<p><strong>Marty Gibson</strong>: (to GRISSOM) Doughnut? Everybody loves doughnuts. (turns and yells) Nanci.</p>
+<p><strong>Grissom</strong>: No doughnuts.</p>
+<p><strong>Warrick</strong>: Fred Stearns dropped a dime at girls, girls, girls and wrote it off.</p>
+<p><strong>Marty Gibson</strong>: Kaido computers. Software guys are nuts, into the kinky stuff. End of the day, they're driving Fred's cars.</p>
+<p><strong>Warrick</strong>: Neiman Marcus, jewelry department?</p>
+<p><strong>Marty Gibson</strong>: Fred knew you got to spend money to make money.</p>
+<p><strong>Warrick</strong>: Well, here's a freaky one. Since when are two dozen mice a business expense?</p>
+<p><strong>Marty Gibson</strong>: Since I got the pet place to buy a mini-van from me. My cousin works there. You got kids? I could put you in a wagon way below sticker.</p>
+<p><strong>Grissom</strong>: Marty, what'd you do with the mice?</p>
+<p><strong>Marty Gibson</strong>: What do you care? You going to arrest me for blurring the lines?</p>
+<p><strong>Grissom</strong>: No. We were leaning towards murder.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. BASEMENT -- DAY]</p>
+<p>(MARTY GIBSON opens the basement doors and leads GRISSOM and WARRICK downstairs.)</p>
+<p><strong>Marty Gibson</strong>: Watch your step. You guys are completely overreacting. It's just a hobby.</p>
+<p>(He shows them the snakes in tanks.)</p>
+<p><strong>Marty Gibson</strong>: See? Fuzzies. They're food.</p>
+<p><strong>Warrick</strong>: You know it's illegal in the state of nevada to have venomous snakes?</p>
+<p><strong>Marty</strong>: If you handle them correctly, snakes are harmless. I know what I'm doing.</p>
+<p><strong>Grissom</strong>: Yeah, that's what we're afraid of.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- NIGHT]</p>
+<p>(BRASS questions DANIEL EASTON with his lawyer next to him.)</p>
+<p><strong>Daniel Easton</strong>: I didn't even know she was dead. Thought she'd just left me again. </p>
+<p><strong>Brass</strong>: Well, it's a good thing you didn't tell the kids mom was back.</p>
+<p><strong>Lawyer</strong>: My client agreed to talk to you, not be harassed by you.</p>
+<p><strong>Brass</strong>: You're right. Well, you were excited to see her. Why wouldn't the kids be?</p>
+<p><strong>Daniel Easton</strong>: I'm an adult.</p>
+<p><strong>Brass</strong>: That's right, you're an adult -- knowledgeable, experienced ... aware of Nevada Statutes, Chapter 156: Administration of estates of missing persons.</p>
+<p><strong>Daniel Easton</strong>: It's a matter of public record. We've been filling out those forms for five years.</p>
+<p><strong>Brass</strong>: You're jumping the gun. It's four years, 11 months, one week.</p>
+<p><strong>Daniel Easton</strong>: So what?</p>
+<p><strong>Brass</strong>: Well, in three weeks, Mrs. Easton's estate can be distributed to her husband. You had a half a million dollar life insurance policy on your wife.</p>
+<p><strong>Daniel Easton</strong>: And she had one on me. We did that for the kids.</p>
+<p><strong>Brass</strong>: But you're not dead, and she wasn't either, two days ago. You know, for an unemployed guy you're doing a lot of spending. I mean, (chuckles) ... Tiffany's, La Perla international watch company ... expecting a windfall?</p>
+<p><strong>Lawyer</strong>: (to EASTON) Don't answer that. (to BRASS) You're fishing.</p>
+<p><strong>Brass</strong>: No, I do that with a pole. No, I'm just thinking out loud. Your wife disappears. Five years after the fact, you get the money. You've earned it, it's yours, but she screwed you up. She showed up.</p>
+<p><strong>Daniel Easton</strong>: (shakes his head) I did not kill my wife.</p>
+<p><strong>Brass</strong>: What happened, Daniel? The s*x wasn't as good as you remembered it, or the money was better? What happened?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. OFFICE -- NIGHT]</p>
+<p>(GRISSOM talks with JESSIE MENKEN. She looks at the photo of the scales sample)</p>
+<p><strong>Jessie Menken</strong>: Scales found on your suspect's jacket are keeled. Diamondback rattlesnake. His others, smooth scales. A snake fang is basically a hypodermic needle. Oral glands hold in the venom ... like the barrel. When aggravated, the jaw muscles push on the toxin, like a plunger.</p>
+<p><strong>Grissom</strong>: Only, our victim didn't have any puncture wounds.</p>
+<p><strong>Jessie Menken</strong>: Well, your guy's probably pretty comfortable with his collection-- otherwise, he'd be dead -- which means, he could've milked this one.</p>
+<p><strong>Grissom</strong>: And brought the venom with him to the dealership.</p>
+<p>(She nods.)</p>
+<p><strong>Grissom</strong>: Well, the trace lab found venom proteins in his coffee cup. Could that have killed him?</p>
+<p><strong>Jessie Menken</strong>: Well, I know a lot of hot shots who drink the stuff -- manly, daredevil B.S. -- And they're still alive.</p>
+<p><strong>Grissom</strong>: Because typically, the stomach acids would kill the venom before it reached the bloodstream, but if you had an ulcer...</p>
+<p><strong>Jessie Menken</strong>: Hmm, then you're seriously screwed. Was there an abnormal tissue death? Necrosis?</p>
+<p><strong>Grissom</strong>: No.</p>
+<p><strong>Jessie Menken</strong>: That rules out his diamondback rattlesnake. Rattler venom's hemotoxic. It means it predigests the tissue before swallowing.</p>
+<p><strong>Grissom</strong>: Well, the Elisa test came back positive for alpha-neurotoxins.</p>
+<p><strong>Jessie Menken</strong>: Well, your guy likes them mean. So ... These other two could've done the job, both neurotoxic.</p>
+<p><strong>Grissom</strong>: Which would send the body into complete and total paralysis, right?</p>
+<p>(She nods.) </p>
+<p><strong>Grissom</strong>: Explaining why the victim ended up in the morgue the first time.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - DNA LAB]</p>
+<p>(GREG goes over the test results with CATHERINE.)</p>
+<p><strong>Greg</strong>: Okay, blood from the bedroom chair and the kitchen belong to mom.</p>
+<p><strong>Catherine</strong>: That's what I figured.</p>
+<p><strong>Greg</strong>: Hair from the freezer-- nicely preserved, by the way-- and hairs from the bedroom pillow, also the victim's.</p>
+<p><strong>Catherine</strong>: Okay, this is all great, but, uh, why the 9-1-1 page?</p>
+<p>(GREG shows the results to CATHERINE.)</p>
+<p><strong>Greg</strong>: The moral of my story -- share and share alleles. Pubic hairs in the bed, not mom's.</p>
+<p><strong>Catherine</strong>: The daughter. Dad did have a new girlfriend.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - WAITING ROOM]</p>
+<p>(CATHERINE questions NORA EASTON.)</p>
+<p><strong>Nora Easton</strong>: The bracelet was a gift.</p>
+<p><strong>Catherine</strong>: From your father. Diamonds and platinum, that's, uh, pretty fancy.</p>
+<p><strong>Nora Easton</strong>: Guess he thought I deserved it.</p>
+<p><strong>Catherine</strong>: Why?</p>
+<p><strong>Nora Easton</strong>: For taking care of everything.</p>
+<p><strong>Catherine</strong>: Everything?</p>
+<p><strong>Nora Easton</strong>: Laundry, groceries, carpool for Charlie ...</p>
+<p><strong>Catherine</strong>: Is that it?</p>
+<p>(NORA EASTON looks away for a moment.)</p>
+<p><strong>Catherine</strong>: Nora ... I'd really like to help you and your brother, but I can't unless you talk to me. </p>
+<p>(NORA EASTON doesn't respond.)</p>
+<p><strong>Catherine</strong>: We found evidence of you in your father's bed.</p>
+<p><strong>Nora Easton</strong>: (smiles) My father loves me.</p>
+<p>(CATHERINE'S eyes shift downward and widen. NORA looks down and notices the wet stain on her blouse.)</p>
+<p><strong>Nora Easton</strong>: Oh, my god.</p>
+<p><strong>Catherine</strong>: Are you lactating?</p>
+<p>(NORA doesn't say anything.)</p>
+<p><strong>Catherine</strong>: You're pregnant.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - HALLWAY TO INTERVIEW ROOM]</p>
+<p>(CATHERINE walks rapidly through the hallway and walks into the interview room where DANIEL EASTON is.)</p>
+<p><strong>Catherine</strong>: You sick son of a bitch. Did you think we weren't going to find out she was pregnant?</p>
+<p><strong>Daniel Easton</strong>: Who?</p>
+<p><strong>Catherine</strong>: Oh, stop it. Your daughter.</p>
+<p><strong>Daniel Easton</strong>: (confused) Nora is pregnant?</p>
+<p><strong>Catherine</strong>: Cut the clueless routine.</p>
+<p><strong>Daniel Easton</strong>: What are you accusing me of?</p>
+<p>(Quick flashback to: AMY ENNIS/KELLY EASTON opens the bedroom door and finds DANIEL EASTON sitting on the bed with NORA EASTON.)</p>
+<p><strong>Amy Ennis/Kelly Easton</strong>: Daniel!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Your wife came back and saw what you were doing. So, you killed her, and you tried to buy off your daughter with a diamond bracelet.</p>
+<p><strong>Daniel Easton</strong>: I bought that for my wife.</p>
+<p><strong>Catherine</strong>: Your daughter's telling a different story.</p>
+<p><strong>Daniel Easton</strong>: Nora? How could she even know about ...</p>
+<p><strong>Catherine</strong>: (interrupting) I'm going to nail you for murder.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[INT. CSI - DNA LAB -- NIGHT]</p>
+<p>(GREG shows WARRICK and GRISSOM the test results.)</p>
+<p><strong>Warrick</strong>: What do you mean, &quot;none&quot;?</p>
+<p><strong>Greg</strong>: Well, venom's like perfume -- highly specific recipe. Protein ratios vary from species to species, even snake to snake. The protein level of your three &quot;hoses&quot; doesn't match the sample taken from the vic's coffee cup.</p>
+<p><strong>Warrick</strong>: So, Marty was telling the truth? It was just a coincidence that he owns poisonous snakes, and his co-worker was envenomated.</p>
+<p><strong>Grissom</strong>: (shakes his head) A coincidence is a scientific anomaly. Maybe he just got rid of the snake.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. NANCY LINDEN'S RESIDENCE -- NIGHT]</p>
+<p>(Camera pans across the counter where NANCY LINDEN has porcelain figurines of all kinds of dogs. </p>
+<p>(In the middle of the living room, the SNAKE HANDLER handles the large snake.)</p>
+<p><strong>Snake Handler</strong>: Girl called all hysterical. Said a snake ate her dog. It's a monacled cobra -- it's not indigenous. Comes from southeast Asia. I asked her where she got it from. She said her co-worker asked her to snake-sit.</p>
+<p><strong>Grissom</strong>: Marty Gibson.</p>
+<p><strong>Snake Handler</strong>: Mm-hmm.</p>
+<p>(He walks away with the snake.)</p>
+<p>(GRISSOM heads for NANCI LINDEN who sits on the couch in her bathrobe crying.)</p>
+<p><strong>Nancy Linden</strong>: Hey, you're that guy from the crime lab. Well, you're a little late. b*st*rd told me he had a sure-fire way to win the Cabo trip, and that he'd take me with him if I just watched his snake for a couple of days. I can't believe what an idiot I am. (crying) Never trust a car salesman.</p>
+<p><strong>Grissom</strong>: What else did you do for Marty?</p>
+<p><strong>Nancy Linden</strong>: Well, not that.</p>
+<p><strong>Grissom</strong>: Did you get him coffee?</p>
+<p><strong>Nancy Linden</strong>: Oh, well, now I do.</p>
+<p><strong>Grissom</strong>: Now you do?</p>
+<p><strong>Nancy Linden</strong>: Yeah. It used to be Marty, the goodwill guy who got coffee for everybody else, but now, since Fred's dead, he's moved up a desk.</p>
+<p><strong>Grissom</strong>: &quot;The Goodwill Guy?&quot;</p>
+<p><strong>Nancy Linden</strong>: Yeah. The guy with no client list of his own, has to live off the hand-me-downs of the others.</p>
+<p>(Quick flashback to: At the office, FRED STEARS holds up his coffee mug and calls out to MARTY GIBSON who doesn't look all that happy.)</p>
+<p><strong>Fred Stearns</strong>: Hey, Marty, uh, sure could use another refill.</p>
+<p><strong>Marty Gibson</strong>: You want anything?</p>
+<p><strong>Fred Stearns</strong>: Easy on the sugar.</p>
+<p><strong>Marty Gibson</strong>: Coming right up.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Well, sometimes access is all you need.</p>
+<p>(Quick flashback to: MARTY GIBSON pours the cup of coffee. He reaches into his pocket and retrieves a small vial of venom which he pours into the mug. End of flashback. Resume to present.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT./EXT. DEALERSHIP --NIGHT]</p>
+<p>(MARTY GIBSON is in handcuffs leading GIBSON and the OFFICER out of the second floor offices and down the stairs.)</p>
+<p><strong>Marty Gibson</strong>: Nanci. Do you know what a syllogism is, Mr. Gibson?</p>
+<p><strong>Grissom</strong>: Sylla-what?</p>
+<p><strong>Marty Gibson</strong>: A syllogism. Aristotelian logic. Two premises equal one conclusion.</p>
+<p><strong>Marty Gibson &amp; Grissom (both)</strong>: &quot;A&quot; plus &quot;B&quot; equals &quot;C.&quot;</p>
+<p><strong>Grissom</strong>: Right. So, you're the snake guy. You're also the goodwill guy who gets the coffee. So, when someone is poisoned with snake venom in their coffee, &quot;a&quot; plus &quot;b&quot; equals you.</p>
+<p><strong>Marty Gibson</strong>: I busted my ass out on this floor to get a desk up there, and for what? So Fred can make me his bitch?</p>
+<p><strong>Grissom</strong>: So you kill him?</p>
+<p><strong>Marty Gibson</strong>: Fred killed himself. Guy was like a goldfish. He would have eaten himself to death before he tossed me a client. And one good client breeds seven more. Without the one, I keep slipping. </p>
+<p>(MARTY shakes his head and starts rambling as he walks to the car.)</p>
+<p><strong>Marty Gibson</strong>: There's two directions in this business-- up and out. It's a numbers game. I'm 35 years old. I got six guys ready to move me out. Opportunity knocks, you open the door.</p>
+<p><strong>Grissom</strong>: I guess it's just too bad he had an ulcer.</p>
+<p>(MARTY is helped into the car.)</p>
+<p><strong>Marty Gibson</strong>: Who doesn't?</p>
+<p>(The car door closes.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. HOSPITAL]</p>
+<p>(NORA EASTON is having a pelvic examination. CATHERINE stands on the side and watches.)</p>
+<p><strong>Nurse</strong>: Okay, if I can just have you lay back. <strong>Nurse</strong>: All right, Nora, I'm going to need you to relax. <strong>Nurse</strong>: Okay, now take a deep breath. <strong>Nurse</strong>: Good. <strong>Nurse</strong>: All right, another deep breath.</p>
+<p>(The examination is completed. The NURSE pushes the curtain aside and whispers to CATHERINE. She walks away. CATHERINE turns and looks at NORA.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LOUNGE]</p>
+<p>(SARA and CATHERINE are in the lounge. CATHERINE sits at the table reading a large reference book.)</p>
+<p><strong>Sara</strong>: She's a virgin? What are we talking about, an immaculate conception?</p>
+<p><strong>Catherine</strong>: More like the immaculate perception. Pseudocyesis -- imagined pregnancy.</p>
+<p><strong>Sara</strong>: It's all in her head? Well, that would explain what she was doing in dad's bed.</p>
+<p>(SARA sits down.)</p>
+<p><strong>Catherine</strong>: Fantasizing. Wow. (reading) &quot;When the desire to become pregnant is so strong hormone levels can change, setting off all the biological signs of pregnancy.&quot;</p>
+<p><strong>Sara</strong>: It kind of makes sense. Hormones travel the same channels as adrenaline.</p>
+<p><strong>Catherine</strong>: &quot;Swollen abdomen, lack of menstruation, and sometimes bilateral galactorrhea.&quot; Milk production in both breasts. Leaking can be brought on by stress.</p>
+<p>(Quick CGI to: The image of NORA EASTON with a light that travels down from inside her brain following a path through the endocrine system as CATHERINE narrates.)</p>
+<p><strong>Catherine</strong>: (V.O.) &quot;Emotional or physical stimuli cause prolactin to shoot through the endocrine system, ending in the mammary glands, and triggering the cells to lactate.&quot;</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: The father was clueless.</p>
+<p><strong>Catherine</strong>: About all the women in his life.</p>
+<p>(NICK walks into the room.)</p>
+<p><strong>Nick</strong>: Hey, hey. Check out these photos. The two stains on the inside of the shirt we found at the dump tested positive for Nora, but the stains on the outside, bloodstains, are definitely mom's.</p>
+<p><strong>Catherine</strong>: The bracelet was mom's. Greg checked the epithelials.</p>
+<p><strong>Sara</strong>: Nora's in love with her father, in an Electra kind of way.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - INTERVIEW ROOM]</p>
+<p>(CATHERINE interviews NORA EASTON. CATHERINE puts a photo of the shirt on the table.)</p>
+<p><strong>Catherine</strong>: Nora, is this your shirt?</p>
+<p><strong>Nora Easton</strong>: Yes.</p>
+<p><strong>Catherine</strong>: Can you explain to me how your mother's blood ended up on it?</p>
+<p>(NORA shakes her head.)</p>
+<p><strong>Brass</strong>: No idea how it got there?</p>
+<p><strong>Nora Easton</strong>: (shakes her head) No.</p>
+<p><strong>Catherine</strong>: Well, you told me that this bracelet was a gift from your father. He claims that he bought it for your mother.</p>
+<p><strong>Nora Easton</strong>: Oh, no. It's mine.</p>
+<p><strong>Catherine</strong>: I think you feel the same way about your father.</p>
+<p>(Quick flashback to: NORA EASTON opens her father's bedroom door and finds DANIEL and KELLY on the bed.)</p>
+<p><strong>Daniel Easton</strong>: You know you mean the world to me, don't you?</p>
+<p>(NORA is surprised, shocked and jealous. She sees her mom with the bracelet. Then she sees her father kissing her mother.)</p>
+<p>(Cut to: NORA EASTON sits in front of her mirror clutching her stomach. She opens the drawer and pulls out the bottle of vitamins. she takes one.)</p>
+<p>(Camera cuts and shows NORA looking at a a framed photograph of herself and her father.)</p>
+<p>(Cut to: NORA is in the kitchen washing the dishes. KELLY EASTON walks up behind her and covers NORA'S eyes.)</p>
+<p><strong>Amy Ennis/Kelly Easton</strong>: Guess who's back?</p>
+<p>(NORA grabs the frying pan and swings it, hitting KELLY on the forehead. KELLY hits the edge of the counter before falling to the floor. Dead.)</p>
+<p>(NORA reaches over and takes the bracelet from KELLY. KELLY slides along the floor out of camera frame.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: And then you put your mother in the freezer and you waited until trash day.</p>
+<p><strong>Nora Easton</strong>: That's a horrible story.</p>
+<p><strong>Catherine</strong>: It's not a story. It's what the evidence tells us really happened.</p>
+<p><strong>Nora Easton</strong>: What kind of a mother would do that? I'm helpful. I do what needs to be done. </p>
+<p><strong>Catherine</strong>: I know. You take care of things.</p>
+<p><strong>Nora Easton</strong>: (crying) I never ask for anything!</p>
+<p><strong>Catherine</strong>: And all you wanted was the one thing that you couldn't have.</p>
+<p><strong>Nora Easton</strong>: It's not my fault. I'm innocent.</p>
+<p><strong>Catherine</strong>: You were innocent, Nora. You're not anymore.</p>
+<p>(THE OFFICER in the room moves behind NORA EASTON to handcuff her.)</p>
+<p><strong>Nora Easton</strong>: What are you doing?</p>
+<p><strong>Brass</strong>: You're under arrest for the murder of Kelly Easton.</p>
+<p><strong>Nora Easton</strong>: (shouts) No, but I'm going to have a baby!</p>
+<p>(They take her out of the room. BRASS sighs.)</p>
+<p><strong>Brass</strong>: Well, she's going to retain an attorney. He's going to advise her to plead insanity.</p>
+<p><strong>Catherine</strong>: Good defense.</p>
+<p><strong>Brass</strong>: Yeah. Have you ever seen anything like this before?</p>
+<p>(CATHERINE gathers her things.)</p>
+<p><strong>Catherine</strong>: How it manifested? No. But the cause? (beat) People throw things away every day.</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Lead Man 1: I don't think I can get a clear shot.
-
-Man 2 : It's a peregrine falcon.
-Man 3 : No, it's not. It's a hawk.
-Lead Man 1: You can't see anything this time of day. We should come back at dawn.
-Man 2 : But I'm so behind on my life list. I still don't have a western wood-pewee or a solitary sandpiper.
-Lead Man: What, do you think they're going to kick you out of the club?
-Man 2 : John saw a dickcissel earlier today. It could be gone tomorrow.
-Lead Man: John's full of ...
-
-Lead Man: Corvus corax.
-Man 2 : A common raven? So what?
-CAMERA VIEW:
-
-
-
-
-
-
-Grissom: Well, someone's missing a contact lens.
-
-Catherine: That's not all they're missing.
-Grissom: You know, ravens, like eagles, have been known to travel 30 miles from roost to feeding ground.
-Catherine: 30 miles in every direction. Pi-r-squared. That means that we're looking at a ... 2,800 mile search area.
-Grissom: &quot;Once upon a midnight dreary while I pondered weak and weary over many a quaint and curious volume of forgotten lore.&quot;
-Catherine: We're up a tree and you're quoting Poe. Give me something.
-Grissom: &quot;Quoth the raven, 'only this ... and nothing more.'&quot;
-HARD CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Grissom: You'll be pleased to know the eyeball was only slightly desiccated.
-Catherine: And what about the iris?
-Grissom: Still blue.
-Catherine: Color distinction means the body's been dead less than 48 hours.
-Grissom: Yeah, I sent some vitreous fluid to tox. The rest to DNA. So ... Can you get me an eye for an eye?
-Catherine: Well, I've got foil ... a leaf ... a feather and plastic.
-
-Grissom: Feathers. For warmth.
-Catherine: Seagull feathers.
-Grissom: Well, the only place we'd have seagulls around here would be Lake Mead.
-Catherine: But only when the fishing's good. And we got some ground limestone.
-Grissom: Not found at Lake Mead.  You know, ravens are incredibly intelligent. They have a brain capacity comparable to dolphins.
-Catherine: Means they know where to shop. 
-
-Catherine: We found the eye here. I bet she shopped here where limestone is used as ground cover.
-
-
-
-
-
-Sara: You know the average Nevadan generates more waste more than three times waste than the average American?
-Nick: Yeah, well, that's tourist trash.
-Sara: Thirteen million pounds per day. I went to the recycling forum in march.
-Catherine: The landfill manager says this is the active cell. Spotter says cell lift moves forward 20 feet a day. That puts the active cell right ... pretty much in front of us.
-Nick: Man! You find the best evidence in the nastiest places.
-Catherine: You are what you throw away. 
-Sara: It's like peeling an onion into peoples' lives.
-Catherine: Well, this onion is our time line so peel back accordingly.
-
-
-
-
-Robbins: The electrolyte and glucose levels in the eye were normal. Means your victim wasn't dehydrated or diabetic. Other than that ... 
-Grissom: ... we're flying blind.
-
-Grissom: David.
-David Phillips: Grissom. 
-
-Grissom: A 35-year-old male. Car salesman. Dropped dead at work. Apparent heart attack. Not under the care of a physician. Uh, no history of high blood pressure. Just routine autopsy.
-Grissom: Go for it.
-
-David Phillips: Yeah, we're all set, Dr. Robbins.
-Robbins: Okay, David.  Case 03-615. Postmortem exam of an adult. Caucasian. Male. Identified as Fred Stearns. Body received warm to the touch. Rigor mortis not present. Skull nose, bones are intact by palpation. Irides are brown. Slightly congested. Hmm. Unidentified dry black substance on the front of the teeth. Gingiva and lips. Okay. David, open him up.
-
-David: Uh ... D-Dr. Robbins? 
-Robbins: Hmm?
-David: Sir, I-I have blood. I have bleeding.
-
-Robbins: Get me my kit. Come on.
-
-Robbins: Hold this. let's go. Keep it tight. That's good, David.
-
-
-
-Robbins: Pulse is rising. David, string me a suture needle.
-
-Robbins: Go! Go!
-
-
-
-
-
-Catherine: I think I may have something here!
-
-Sara: What've you got?
-Nick: Whoa!
-
-Catherine: Got a leg.
-Nick: Obviously female.
-Catherine: Obviously.
-
-Nick: Whew. I'll bag it.
-
-Sara: All right. I got a torso and head. Missing an eye.
-
-
-Catherine: Okay, so, uh how hot do you think it is, underneath all this trash?
-Nick: I don't know, what do you think -- ballpark at 120 degrees?
-
-Catherine: So this is yesterday's trash. Dead body. Minimum 18 hours in this heat.
-Sara: She should be totally bloated.
-Catherine: Yeah, she's not.
-Nick: Yeah, she's really torn up.
-
-Sara: Bulldozers are vicious.
-
-Catherine: Yeah, I think they only finished the job. How did she get here?
-
-
-
-
-
-Catherine: Heard you got to be superhero today.
-Robbins: I consider myself a superhero every day.
-Catherine: Got anything on our lady of the dump?
-Robbins: C.O.D. is still indeterminate. Blunt force trauma is a possibility. She has some perimortem bruising around the left eye. But limb removal is relatively clean. Definitely postmortem.
-Catherine: So we've got no arms, no prints. What kind of identifying characteristics do we have?
-Robbins: Second degree midline episiotomy scar.
-Catherine: Well, that narrows it down to more than half the women in this country who gave birth.
-Robbins: But there might be one other thing. At first I thought appendectomy, but check out her x ray. 
-
-Robbins: She's had surgery. Some kind of implant at the L4-L5 interspace. I'll know more when I open her up.
-Catherine: You're my hero, Al.
-
-
-
-
-
-Sara: All right, what do we know?
-Nick: That all of this trash was found around the victim. And she was buried with some very expensive trash.
-Sara: Yeah, there's nothing wrong with this frying pan. Could've gone to goodwill or someplace.
-Nick: Home pregnancy test. Negative. Better luck next time.
-Sara: Someone ... does not like frozen peas.
-Nick: They weren't shopping at CostCo. They paid way too much for ice cream.
-Sara: There's a good chance our vic was wearing this shirt.
-Nick: Let's start trying to narrow this down to a neighborhood, huh?
-Sara: Excellent idea. Uh, marker or sort?
-Nick: Sort. Please.
-
-Nick: First up: &quot;178 Spaulding Meadows.&quot; Uh, &quot;174 Storm Cloud Lane.&quot; A second &quot;174 Storm Cloud Lane&quot;.
-
-
-
-
-
-Robbins: Pulled it from the L4-L5 interspace. Cobalt chromium molybdenum alloy with a titanium coating and an ultra high molecular weight polyethylene component. An artificial spinal disc. If you can recreate a spine the possibilities are endless.
-Catherine: I thought, uh, disc replacement surgery involved fusing bone to bone.
-Robbins: Eh, typically, but it can limit mobility. With that little disc, your body doesn't know the difference. 
-
-Robbins:  Matches range of motion, flexibility and an axial rotation of a normal spine. 
-
-Robbins: Still in clinical trials. Less than a thousand surgeries have been performed in this country.
-Catherine: Oh, well, I like those odds.
-Robbins: You'll like this even better. Medium endplate, size 12, polyethylene component and a six-degree lordosis angle. Narrowed it down to one. Amy Ennis. Austin, Texas.
-
-Catherine: Tourist?
-
-Robbins:  That's for you to find out.
-
-
-
-
-
-
-
-
-Nick: Hey, is this all of them?
-Catherine: Yeah, every last one on storm cloud lane.
-Sara: Cans are on private property, it's not trash day, how did you get consent?
-Catherine: I talked to the president of the owner's association.
-Nick: What'd you threaten her with?
-Catherine: A return visit.
-
-Sara: Hey, guys? I got blood.
-Nick: Yeah. Yeah me, too.
-Catherine: Well, that makes five.
-DISSOLVE TO:
-
-Catherine: Let's see if any of it's human.
-
-
-Nick: These two are human.
-DISSOLVE TO:
-
-
-Sara: If the vic was in here blood would have pooled to the bottom.
-Nick: Yeah, and blood dripped down the side of this one as the hydraulic arm dumped it.
-
-Sara: This is our can.
-
-Catherine: And that's our house.
-
-
-
-
-Daniel Easton: You found blood ... in my trash can?
-Catherine: Any idea how it got there?
-Daniel Easton: No.
-Catherine: Do you know an Amy Ennis from Austin, Texas?
-
-Daniel Easton: No.
-Catherine: So, you have absolutely no idea what I'm talking about?
-
-Nora Easton: Dad ... you all right?
-Daniel Easton: I'm fine.
-Nora Easton: What's going on?
-Catherine: I'm just asking your father a few questions.
-Daniel Easton: Why don't you go inside and make some dinner?
-Nora Easton: What are you in the mood for?
-Daniel Easton: Whatever you want. Charlie, homework.
-Charlie Easton: Hey. Get the job?
-Daniel Easton: Later.
-Catherine: Divorced?
-Daniel Easton: Yeah. Five years.
-
-
-
-
-Warrick: I hear David's resurrecting the dead now.
-Grissom:  Yeah, our little miracle worker.
-Warrick: I just came from the hospital. That guy's in ICU with respiratory paralysis. I did get a prelim on his blood work -- looks like some sort of an organic poison.
-Grissom: Well, that would explain the discoloration Robbins found around his mouth.
-Marty Gibson:  I'm telling you, this is great. You're going to love this. 30 miles to the gallon, very low maintenance. Your people are going to love it. You know what? I want you to tell them to throw away the manuals. 
-
-Marty Gibson: Call me for anything. Marty Gibson doesn't close a sale, he opens a relationship.
-
-Warrick: That guy's a charmer.
-Grissom: Yeah, real Ricky Roma.
-
-
-
-
-Nancy Linden: May I help you, gentlemen?
-Warrick: I'm Warrick Brown, this is Gil Grissom. We're from the Las Vegas Crime Lab.
-Nancy Linden: Oh. Nanci Linden. It's a pleasure to meet you.
-Grissom: We have a warrant to search your premises.
-Nancy Linden: What for?
-Grissom: For evidence concerning the attempted murder of Fred Stearns.
-Nancy Linden: Oh, he had a heart attack. He's dead.
-Grissom: No, he didn't ... and he's not.
-
-Nancy Linden: Gigi, shush. Shh!
-
-Nancy Linden: I'm sorry. I'm not supposed to bring her in here.
-
-
-
-
-Nancy Linden: So, this was ... is Fred's desk. Nobody's touched it since they took him away. It's bad luck. Middle desk is Marty Gibson. The one on the end is Clyde Hinton.
-Grissom: Thank you.
-
-Warrick: Poison could've come from any of these sources here.
-Grissom: Oral fixation you think? Constant need for gratification?
-Warrick: In every way. This guy was like the monster closer. You ever buy a brand-new car, Griss?
-Grissom: Depreciation doesn't make it a logical investment.
-(WARRICK stands in front of the WHITEBOARD that has the commission numbers on it. It reads:
-CABO COMMISSION
-FRED // CLYDE // MARTY
-/ 9251 / 4367 //
-/ 4571 / 7280 // / 1642 / 1842 // / 8141 ...
-/ / // / 1712 / 1642 // 6317 /
-/ 4671 / 622 // / 7241 / //
-/ 4263 / 7064 // / 4263 / 1817 // 
-Warrick: It's not about logic. It's about that smell. There's nothing like the smell of a brand-new car.
-
-Marty Gibson: How right you are. Marty Gibson.
-Grissom: We're not buying, we're looking. If we need any help we'll let you know.
-Marty Gibson: Sometimes it's not about what you need, sometimes it's about what you want.
-
-
-
-
-
-
-
-
-Grissom: You always, uh, lock your drawers?
-
-Grissom: Huh.
-
-Grissom: You're the one who super-glued Fred's phone.
-
-Grissom: &quot;Chewing gum: Will turn any mouth black for days.&quot;
-
-Warrick: Warrick Brown.
-Grissom: I get it. You're the funny guy.
-Clyde Hinton: You know the definition of &quot;kismet,&quot; Mr. Grissom?
-Grissom: Do you know the definition of attempted murder, Mr Hinton?
-Clyde Hinton: Just go with me for a second.
-Grissom: Go with you where?
-Clyde Hinton: Come on... &quot;kismet.&quot;
-Grissom: Fate, or destiny. It's from the arabic word meaning to distribute, or divide up.
-Clyde Hinton: Smart guy. Destiny is what you make of it.It's what gets distributed to me while the other guy's washing the stain off his lips.
-
-Fred Stearns: Well, boys, just closed another fatty. Two hours of schmooze -
-
-Fred Stearns: I can't lose.
-
-Marty Gibson: Your lips.
-
-Fred Stearns: Clyde!
-Clyde Hinton: Don't worry, Freddy. I'll handle the client.
-
-
-Clyde Hinton: Look, everyone tries to get an edge in this business. I use jokes.
-
-Warrick: Fred Stearns just passed away. Again.
-
-Grissom: Dead guy. Not funny.
-
-
-
-CADAVER VIEW:
-
-Robbins: Okay, David, take two.
-
-
-
-
-
-Brass: No luck on Amy Ennis's next of kin. The Austin PD is still working on it.
-Catherine: Well, we know that she had a kid.
-Brass: Well, she gave birth. That doesn't mean that she had a kid.
-Catherine: So, what, we've got nothing?
-Brass: We have a mercury sable, uh, Texas plates, found in the lot of the Tangiers hotel. She's the registered owner. They're bringing it in now.
-
-
-
-
-David Phillips: If the poison was administered orally I may know how it got into the bloodstream.
-
-David Phillips: Gastric ulcer.
-
-David Phillips:  In a healthy, functioning stomach, ...
-
-David Phillips:  ... mucosa lines the walls and prevents the hydrochloric acid from burning the organ itself. 
-
-David Phillips:  ... But if H. Pylori gets in there, sends the whole system off-balance, stops the mucosa, and causes an ulcer. 
-
-
-David Phillips: Opens a direct channel from your digestive tract straight into your bloodstream. I know a lot about stress-related ailments.
-Robbins: Any word yet on a poison?
-Grissom: Tox screen ruled out the ink gum.
-Robbins: It could've been a factor, though. Uh, gum churns up stomach acid -- instant inflammation.
-Grissom: I don't care about his indigestion, Doc. We need to know what killed him.
-
-
-
-
-Sara: Well, she wasn't in town on business.
-Nick: What's that?
-
-Nick: Oh! Depends on what her business was, I guess.
-
-Sara: Nothing risqué about the rest of her wardrobe.
-Nick: Maybe she got it here. She could've met somebody, you know.
-
-Nick: Okay, I'm going to fume.
-Sara: Okay.
-
-
-OVERLAP TO:
-
-
-
-
-
-Catherine: According to Greg, the hairs and the DNA from the toothbrush are a match to the vic. What about the prints from her car?
-Nick: I thought I messed it up, so I ran it twice.
-
-Nick: No errant prints, all a match to the same woman.
-Catherine: Amy Ennis.
-Nick: No &quot;Amy Ennis&quot; in the database.
-Catherine: Well, Amy Ennis is our vic. It's her car.
-Nick: Prints came back to somebody named &quot;Kelly Easton&quot;.
-(CATHERINE looks at the print results. It reads:
-[EXAMPLAR:
-Fingerprint exemplar bearing the name of:
-Prints obtained from Amy Ennis' Vehicle - Steering Wheel, ra... Interior Driver &amp; Passenger Doors
-RESULTS: The above exemplar was compared to the following:
-KELLY EASTON
-IDENTIFICATION WAS MADE - All Prints Match
-By: Mandy Webster #865748
-Latent Print Examiner
-Identification Unit
-*Subpoena list for court appearance:
-Lifting developing of latent print Representative of Latent Prints ...
-*A fingerprint palm card witnessed by investigator should be ... Identification Unit as soon as possible. Attach a copy ... ]
-Catherine: Kelly Easton ... Easton ... 174 Storm Cloud Lane?
-Nick: What's the first thing you do when you don't want to be found?
-Catherine: Leave town.
-Nick: Yeah ... and change your name.
-
-
-
-
-
-Catherine: ... Want to Mulligan on your first story? &quot;Divorced&quot;?
-Daniel Easton: What the hell was I supposed to say? My wife went out to get her hair done and never came home.
-Catherine: Well, maybe you gave her a reason to leave. Spousal abuse, cheating...
-Daniel Easton: Aaww, you people. You know, you were here five years ago with your grid searches, your dogs, your cadets -- you came up empty. You give me a good reason why my wife left me, I'd love to hear it, because I tried the truth. I didn't know what happened. You know what I got for it? They all think I killed my wife. Her parents sued me for custody. I lost my job, my friends. Only thing I got left are those kids and this house.
-Catherine: Okay, you didn't kill her.  At least back then.
-
-
-
-;
-
-
-
-
-
-
-
-Sara: I don't think these belong to dad.
-Catherine: Could place Mrs. Easton at the house.
-
-
-
-
-Daniel Easton: She came back about a month ago. Doorbell rings ... 
-
-Daniel Easton: huh, what do you say?
-
-Amy Ennis/Kelly Easton: Hi.
-
-Sara: You tell me. Whatever it is, it must've worked. She was back in your bedroom.
-Daniel Easton: Well, they say time heals all wounds. It's crap. I hate her for what she did to us, but I swear, it was the first time I felt anything in five years.
-
-
-
-
-
-
-
-
-
-
-
-
-Charlie Easton: So, she's really dead?
-Nick: Yeah. Yeah, I'm sorry.
-Charlie Easton: Figures.
-Nick: How's that?
-Charlie Easton: She left without telling us. Figures she'd die the same way.
-Nick: I don't think your mom knew she was going to die, bud.
-Charlie Easton: Whatever.
-
-
-
-
-
-Nora Easton: Last time I saw my mother, I was ... in seventh grade. She handed me my lunch and said, &quot;See you after school.&quot;
-Catherine: Did you know that she was back?
-Nora Easton: I thought that she was dead. 
-
-Nora Easton: Can I sit down?
-Catherine: Yeah, sure. Nora, I'm sorry. I know this has got to be very hard on you and your brother.
-Nora Easton: And my dad.
-Catherine: Is your dad seeing anybody? Does he have a girlfriend?
-Nora Easton: How could he?
-
-
-
-
-
-
-
-
-
-
-
-
-
-Nick: This is where I found the hairs, in between the packages of frozen peas.
-
-Catherine: Mrs. Easton was a brunette.
-Nick: And we found a warehouse worth of frozen peas at the landfill.
-Catherine: Lack of swelling, clean fractures ... she was frozen.
-
-Catherine: Skin and muscle would've lost elasticity. Fracture planes would've passed through in a straight line.
-Nick: I'm thinking somebody in this family stuck her in here, waited 'til trash day.
-
-Catherine: Well, the garbage tells us how she was killed. Now I want to know who.
-
-
-
-
-SCOPE VIEW of the sample taken off of the coat sleeve.
-
-Warrick: That unknown substance I collected from Marty Gibson's coat ...
-Grissom: Possibly reptilian skin?
-Warrick: How'd you know?
-
-Grissom: Tox report. The organic poison came back snake venom. I think maybe it's time to open a relationship with Marty Gibson.
-
-
-
-
-Grissom: We found reptile skin on your jacket sleeve. So, unless you're shedding, we want to know how it got there.
-Marty Gibson: Whoa, gentlemen, slow down. Can I get you a cup of coffee?  Nanci...?
-Grissom: No, thank you. 
-Marty Gibson:  Nanci.
-Grissom: No doughnuts.
-Warrick: Fred Stearns dropped a dime at girls, girls, girls and wrote it off.
-Marty Gibson: Kaido computers. Software guys are nuts, into the kinky stuff. End of the day, they're driving Fred's cars.
-Warrick: Neiman Marcus, jewelry department?
-Marty Gibson: Fred knew you got to spend money to make money.
-Warrick: Well, here's a freaky one. Since when are two dozen mice a business expense?
-Marty Gibson: Since I got the pet place to buy a mini-van from me. My cousin works there. You got kids? I could put you in a wagon way below sticker.
-Grissom: Marty, what'd you do with the mice?
-Marty Gibson: What do you care? You going to arrest me for blurring the lines?
-Grissom: No. We were leaning towards murder.
-
-
-
-
-Marty Gibson: Watch your step. You guys are completely overreacting. It's just a hobby.
-
-Marty Gibson: See? Fuzzies. They're food.
-Warrick: You know it's illegal in the state of nevada to have venomous snakes?
-Marty: If you handle them correctly, snakes are harmless. I know what I'm doing.
-Grissom: Yeah, that's what we're afraid of.
-
-
-
-
-
-Daniel Easton: I didn't even know she was dead. Thought she'd just left me again. 
-Brass: Well, it's a good thing you didn't tell the kids mom was back.
-Lawyer: My client agreed to talk to you, not be harassed by you.
-Brass: You're right. Well, you were excited to see her. Why wouldn't the kids be?
-Daniel Easton: I'm an adult.
-Brass: That's right, you're an adult -- knowledgeable, experienced ... aware of Nevada Statutes, Chapter 156: Administration of estates of missing persons.
-Daniel Easton: It's a matter of public record. We've been filling out those forms for five years.
-Brass: You're jumping the gun. It's four years, 11 months, one week.
-Daniel Easton: So what?
-Brass: Well, in three weeks, Mrs. Easton's estate can be distributed to her husband. You had a half a million dollar life insurance policy on your wife.
-Daniel Easton: And she had one on me. We did that for the kids.
-Brass: But you're not dead, and she wasn't either, two days ago. You know, for an unemployed guy you're doing a lot of spending. I mean,  ... Tiffany's, La Perla international watch company ... expecting a windfall?
-Lawyer:  You're fishing.
-Brass: No, I do that with a pole. No, I'm just thinking out loud. Your wife disappears. Five years after the fact, you get the money. You've earned it, it's yours, but she screwed you up. She showed up.
-Daniel Easton:  I did not kill my wife.
-Brass: What happened, Daniel? The s*x wasn't as good as you remembered it, or the money was better? What happened?
-
-
-
-
-Jessie Menken: Scales found on your suspect's jacket are keeled. Diamondback rattlesnake. His others, smooth scales. A snake fang is basically a hypodermic needle. Oral glands hold in the venom ... like the barrel. When aggravated, the jaw muscles push on the toxin, like a plunger.
-Grissom: Only, our victim didn't have any puncture wounds.
-Jessie Menken: Well, your guy's probably pretty comfortable with his collection-- otherwise, he'd be dead -- which means, he could've milked this one.
-Grissom: And brought the venom with him to the dealership.
-
-Grissom: Well, the trace lab found venom proteins in his coffee cup. Could that have killed him?
-Jessie Menken: Well, I know a lot of hot shots who drink the stuff -- manly, daredevil B.S. -- And they're still alive.
-Grissom: Because typically, the stomach acids would kill the venom before it reached the bloodstream, but if you had an ulcer...
-Jessie Menken: Hmm, then you're seriously screwed. Was there an abnormal tissue death? Necrosis?
-Grissom: No.
-Jessie Menken: That rules out his diamondback rattlesnake. Rattler venom's hemotoxic. It means it predigests the tissue before swallowing.
-Grissom: Well, the Elisa test came back positive for alpha-neurotoxins.
-Jessie Menken: Well, your guy likes them mean. So ... These other two could've done the job, both neurotoxic.
-Grissom: Which would send the body into complete and total paralysis, right?
- 
-Grissom: Explaining why the victim ended up in the morgue the first time.
-
-
-
-
-Greg: Okay, blood from the bedroom chair and the kitchen belong to mom.
-Catherine: That's what I figured.
-Greg: Hair from the freezer-- nicely preserved, by the way-- and hairs from the bedroom pillow, also the victim's.
-Catherine: Okay, this is all great, but, uh, why the 9-1-1 page?
-
-Greg: The moral of my story -- share and share alleles. Pubic hairs in the bed, not mom's.
-Catherine: The daughter. Dad did have a new girlfriend.
-
-
-
-
-Nora Easton: The bracelet was a gift.
-Catherine: From your father. Diamonds and platinum, that's, uh, pretty fancy.
-Nora Easton: Guess he thought I deserved it.
-Catherine: Why?
-Nora Easton: For taking care of everything.
-Catherine: Everything?
-Nora Easton: Laundry, groceries, carpool for Charlie ...
-Catherine: Is that it?
-
-Catherine: Nora ... I'd really like to help you and your brother, but I can't unless you talk to me. 
-
-Catherine: We found evidence of you in your father's bed.
-Nora Easton:  My father loves me.
-
-Nora Easton: Oh, my god.
-Catherine: Are you lactating?
-
-Catherine: You're pregnant.
-
-
-
-
-Catherine: You sick son of a bitch. Did you think we weren't going to find out she was pregnant?
-Daniel Easton: Who?
-Catherine: Oh, stop it. Your daughter.
-Daniel Easton:  Nora is pregnant?
-Catherine: Cut the clueless routine.
-Daniel Easton: What are you accusing me of?
-
-Amy Ennis/Kelly Easton: Daniel!
-
-Catherine: Your wife came back and saw what you were doing. So, you killed her, and you tried to buy off your daughter with a diamond bracelet.
-Daniel Easton: I bought that for my wife.
-Catherine: Your daughter's telling a different story.
-Daniel Easton: Nora? How could she even know about ...
-Catherine:  I'm going to nail you for murder.
-
-
-
-
-
-
-
-
-Warrick: What do you mean, &quot;none&quot;?
-Greg: Well, venom's like perfume -- highly specific recipe. Protein ratios vary from species to species, even snake to snake. The protein level of your three &quot;hoses&quot; doesn't match the sample taken from the vic's coffee cup.
-Warrick: So, Marty was telling the truth? It was just a coincidence that he owns poisonous snakes, and his co-worker was envenomated.
-Grissom:  A coincidence is a scientific anomaly. Maybe he just got rid of the snake.
-
-
-
-(Camera pans across the counter where NANCY LINDEN has porcelain figurines of all kinds of dogs. 
-
-Snake Handler: Girl called all hysterical. Said a snake ate her dog. It's a monacled cobra -- it's not indigenous. Comes from southeast Asia. I asked her where she got it from. She said her co-worker asked her to snake-sit.
-Grissom: Marty Gibson.
-Snake Handler: Mm-hmm.
-
-
-Nancy Linden: Hey, you're that guy from the crime lab. Well, you're a little late. b*st*rd told me he had a sure-fire way to win the Cabo trip, and that he'd take me with him if I just watched his snake for a couple of days. I can't believe what an idiot I am.  Never trust a car salesman.
-Grissom: What else did you do for Marty?
-Nancy Linden: Well, not that.
-Grissom: Did you get him coffee?
-Nancy Linden: Oh, well, now I do.
-Grissom: Now you do?
-Nancy Linden: Yeah. It used to be Marty, the goodwill guy who got coffee for everybody else, but now, since Fred's dead, he's moved up a desk.
-Grissom: &quot;The Goodwill Guy?&quot;
-Nancy Linden: Yeah. The guy with no client list of his own, has to live off the hand-me-downs of the others.
-
-Fred Stearns: Hey, Marty, uh, sure could use another refill.
-Marty Gibson: You want anything?
-Fred Stearns: Easy on the sugar.
-Marty Gibson: Coming right up.
-
-Grissom: Well, sometimes access is all you need.
-
-
-
-
-
-Marty Gibson: Nanci. Do you know what a syllogism is, Mr. Gibson?
-Grissom: Sylla-what?
-Marty Gibson: A syllogism. Aristotelian logic. Two premises equal one conclusion.
-Marty Gibson &amp; Grissom : &quot;A&quot; plus &quot;B&quot; equals &quot;C.&quot;
-Grissom: Right. So, you're the snake guy. You're also the goodwill guy who gets the coffee. So, when someone is poisoned with snake venom in their coffee, &quot;a&quot; plus &quot;b&quot; equals you.
-Marty Gibson: I busted my ass out on this floor to get a desk up there, and for what? So Fred can make me his bitch?
-Grissom: So you kill him?
-Marty Gibson: Fred killed himself. Guy was like a goldfish. He would have eaten himself to death before he tossed me a client. And one good client breeds seven more. Without the one, I keep slipping. 
-
-Marty Gibson: There's two directions in this business-- up and out. It's a numbers game. I'm 35 years old. I got six guys ready to move me out. Opportunity knocks, you open the door.
-Grissom: I guess it's just too bad he had an ulcer.
-
-Marty Gibson: Who doesn't?
-
-
-
-
-
-Nurse: Okay, if I can just have you lay back. Nurse: All right, Nora, I'm going to need you to relax. Nurse: Okay, now take a deep breath. Nurse: Good. Nurse: All right, another deep breath.
-
-
-
-
-
-Sara: She's a virgin? What are we talking about, an immaculate conception?
-Catherine: More like the immaculate perception. Pseudocyesis -- imagined pregnancy.
-Sara: It's all in her head? Well, that would explain what she was doing in dad's bed.
-
-Catherine: Fantasizing. Wow.  &quot;When the desire to become pregnant is so strong hormone levels can change, setting off all the biological signs of pregnancy.&quot;
-Sara: It kind of makes sense. Hormones travel the same channels as adrenaline.
-Catherine: &quot;Swollen abdomen, lack of menstruation, and sometimes bilateral galactorrhea.&quot; Milk production in both breasts. Leaking can be brought on by stress.
-
-Catherine:  &quot;Emotional or physical stimuli cause prolactin to shoot through the endocrine system, ending in the mammary glands, and triggering the cells to lactate.&quot;
-
-Sara: The father was clueless.
-Catherine: About all the women in his life.
-
-Nick: Hey, hey. Check out these photos. The two stains on the inside of the shirt we found at the dump tested positive for Nora, but the stains on the outside, bloodstains, are definitely mom's.
-Catherine: The bracelet was mom's. Greg checked the epithelials.
-Sara: Nora's in love with her father, in an Electra kind of way.
-
-
-
-
-Catherine: Nora, is this your shirt?
-Nora Easton: Yes.
-Catherine: Can you explain to me how your mother's blood ended up on it?
-
-Brass: No idea how it got there?
-Nora Easton:  No.
-Catherine: Well, you told me that this bracelet was a gift from your father. He claims that he bought it for your mother.
-Nora Easton: Oh, no. It's mine.
-Catherine: I think you feel the same way about your father.
-
-Daniel Easton: You know you mean the world to me, don't you?
-
-
-
-
-Amy Ennis/Kelly Easton: Guess who's back?
-
-
-
-Catherine: And then you put your mother in the freezer and you waited until trash day.
-Nora Easton: That's a horrible story.
-Catherine: It's not a story. It's what the evidence tells us really happened.
-Nora Easton: What kind of a mother would do that? I'm helpful. I do what needs to be done. 
-Catherine: I know. You take care of things.
-Nora Easton:  I never ask for anything!
-Catherine: And all you wanted was the one thing that you couldn't have.
-Nora Easton: It's not my fault. I'm innocent.
-Catherine: You were innocent, Nora. You're not anymore.
-
-Nora Easton: What are you doing?
-Brass: You're under arrest for the murder of Kelly Easton.
-Nora Easton:  No, but I'm going to have a baby!
-
-Brass: Well, she's going to retain an attorney. He's going to advise her to plead insanity.
-Catherine: Good defense.
-Brass: Yeah. Have you ever seen anything like this before?
-
-Catherine: How it manifested? No. But the cause?  People throw things away every day.
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=03x12+-+Got+Murder%3F&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127341%23p127341" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=03x12+-+Got+Murder%3F&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127341%23p127341" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127341%23p127341&amp;name=03x12+-+Got+Murder%3F" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127341%23p127341" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=1b4a9ca4b5c7ee934109df4c64d0d3e3">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=1b4a9ca4b5c7ee934109df4c64d0d3e3">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=1b4a9ca4b5c7ee934109df4c64d0d3e3">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=1b4a9ca4b5c7ee934109df4c64d0d3e3">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

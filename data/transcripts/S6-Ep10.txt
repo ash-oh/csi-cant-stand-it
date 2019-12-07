@@ -1,851 +1,1083 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="FADE IN.
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]
+[EXT. COMMUNITY (STOCK) - DAY]
+[EXT. MESA VALLEY PARK - DAY]
+(The park is bustling with children pla" />
+<meta property="og:title" content="06x10 - Still Life - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="FADE IN.
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]
+[EXT. COMMUNITY (STOCK) - DAY]
+[EXT. MESA VALLEY PARK - DAY]
+(The park is bustling with children pla" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13319" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>06x10 - Still Life - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13319" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13319">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=b456a70a71bebef80a532604eab8a408"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=b456a70a71bebef80a532604eab8a408">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=b456a70a71bebef80a532604eab8a408">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=b456a70a71bebef80a532604eab8a408">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=b456a70a71bebef80a532604eab8a408">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13319&amp;sid=b456a70a71bebef80a532604eab8a408&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>06x10 - Still Life</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127413">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127413">06x10 - Still Life</a></div>
+							<div class="pull-right text-right"><time datetime="2005-12-22T18:50:08Z">12/22/05 18:50</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<p>[EXT. COMMUNITY (STOCK) - DAY]</p>
+<p>[EXT. MESA VALLEY PARK - DAY]</p>
+<p>(The park is bustling with children playing. In the center of the green grass near the pathways, Karen Matthews pulls out items from the large wicker picnic basket open near her. She's packing up, covering a juice bottle and tucking it into the picnic basket.) </p>
+<p>(She turns and looks over at the jungle gym set, a small smile on her face. Her smile disappears when she can't locate her son, Jesse.) </p>
+<p>(She quickly stands up and takes several steps, looking around the area for her son, Jesse.) </p>
+<p><strong>Karen Matthews</strong>: Jesse? Jesse?</p>
+<p>(She doesn't see him. She looks around the area, her voice getting louder.) </p>
+<p><strong>Karen Matthews</strong>: Jesse ... Jesse, can you hear me? Jesse, please!</p>
+<p>(She looks around.) </p>
+<p><strong>Karen Matthews</strong>: (shouts) Jesse!!</p>
+<p>FADE TO WHITE: </p>
+<p>FADE IN.</p>
+<p>[EXT. MESA VALLEY PARK - DAY]</p>
+<p>(Grissom and Warrick walk with Brass, who fills them in as they head toward the park. Brass holds out a small photo of a small dark-haired little boy.) </p>
+<p><strong>Brass</strong>: Jesse Matthews, six years old.</p>
+<p>(Grissom grabs the photo from Brass and looks at it.) </p>
+<p><strong>Grissom</strong>: Is this an old photo?</p>
+<p><strong>Brass</strong>: Yeah, it's the only one the mom had. She said one minute, he's on the swing, the next minute he's gone.</p>
+<p><strong>Grissom</strong>: Abduction.</p>
+<p><strong>Brass</strong>: Well, the search radius is over a mile -- no sign of the boy.</p>
+<p><strong>Warrick</strong>: What about the father?</p>
+<p><strong>Brass</strong>: The father is, um ... Army Sergeant, uh ... (He looks at his notes.) ... Dwight Matthews. Killed in Afghanistan four years ago.</p>
+<p><strong>Grissom</strong>: Any other family members? Grandparents? Boyfriends?</p>
+<p>(An officer gives Karen Matthews a cup of something to drink.) </p>
+<p><strong>Brass</strong>: No, her parents are dead and her husband's parents -- she lost communication with them since he died.</p>
+<p>(They walk up to Karen Matthews.) </p>
+<p><strong>Brass</strong>: Mrs. Matthews ... this is Gil Grissom and Warrick Brown from the Crime Lab.</p>
+<p><strong>Karen Matthews</strong>: I, uh ... I never bring Jesse to the park. But this afternoon, the backyard just couldn't hold him, so we came here and ... uh ... he was on the swings; I couldn't even get him off, and then I look around and he's gone; he's just ...</p>
+<p><strong>Brass</strong>: Mrs. Matthews, there's really nothing more you can do here. Why don't you let us give you a ride home?</p>
+<p>(She turns and looks at Grissom.) </p>
+<p><strong>Karen Matthews</strong>: I'm not leaving. (She looks at Brass.) Not without Jesse.</p>
+<p>(She gets up, turns and walks away from them. Grissom looks down at the little boy's photo.) </p>
+<p><strong>Warrick</strong>: I called the team. </p>
+<p>(Warrick looks at the photo.) </p>
+<p><strong>Warrick</strong>: They always look so vulnerable.</p>
+<p><strong>Grissom</strong>: They are.</p>
+<p>CUT TO: END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. MESA VALLEY PARK - SAND BOX -- DAY]</p>
+<p>(Greg and Sara are in the sand box area. Greg is looking at the sand while Sara is dusting the jungle gym pipes.) </p>
+<p><strong>Greg</strong>: It's like trying to get an ID on swimmers from ripples in the pool. How about you?</p>
+<p>(Sara looks at the prints.) </p>
+<p><strong>Sara</strong>: Lots of little fingers ... and some big ones.</p>
+<p><strong>Greg</strong>: Helping hands?</p>
+<p>(Sara heads back to her kit as Greg snaps photos of shoe prints in the sand.) </p>
+<p>(In the background, we see Nick arrive and head toward the swimming pool area. He walks through the wire gate and looks at the nearly empty pool.) </p>
+<p>(Carrying his camera, Warrick is headed toward the restrooms. In the background, we see Brass showing Jesse's photo to a housekeeper.) </p>
+<p><strong>Brass</strong>: Here, ma'am. Look at this picture. Do you remember this boy? It's not a recent photo.</p>
+<p>(The housekeeper looks at the photo and sighs apologetically. She gives the picture back to Brass.)</p>
+<p><strong>Housekeeper</strong>: I had my hands full. I don't take my eyes off him ever.</p>
+<p>(She nods toward the little boy holding her hand.) </p>
+<p><strong>Brass</strong>: Sure. I understand.</p>
+<p><strong>Housekeeper</strong>: But there was this man near the swings -- he kept looking around like he was waiting for something.</p>
+<p><strong>Brass</strong>: What'd he look like?</p>
+<p><strong>Housekeeper</strong>: He was a white guy, blue baseball cap ... that's all I remember.</p>
+<p><strong>Brass</strong>: Did he seem interested in one of the kids?</p>
+<p><strong>Housekeeper</strong>: Yeah. A boy. Could be that boy. (She looks at the photo again and shakes her head as she gives the photo back to Brass.) Mm ... it's hard to tell.</p>
+<p><strong>Brass</strong>: Okay ... thank you. Thank you very much.</p>
+<p><strong>Housekeeper</strong>: You're welcome.</p>
+<p>(Brass turns and looks over at Karen Matthews standing near an officer.) </p>
+<p>(Brass walks over to her.) </p>
+<p><strong>Brass</strong>: Mrs. Matthews ... (She turns and looks at Brass.) I know this is difficult for you, but I have to ask you again -- do you remember seeing anyone hanging around near the swings? Anyone. Maybe, maybe a man in a blue baseball cap?</p>
+<p>(Quick flashback to: [SWINGS] A little boy is swinging on the swings. Standing and watching him nearby is a man wearing a blue baseball cap.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Karen Matthews</strong>: Yes.</p>
+<p><strong>Brass</strong>: Can you describe him?</p>
+<p><strong>Karen Matthews</strong>: He was white ... </p>
+<p><strong>Brass</strong>: (prompts) ... white ... </p>
+<p><strong>Karen Matthews</strong>: Uh ... just under six feet, I think.</p>
+<p><strong>Brass</strong>: Six feet. Great.</p>
+<p><strong>Karen Matthews</strong>: Jeans. </p>
+<p>(Quick flashback to: [SWINGS] The man wearing the baseball cap heads over to the little boy riding the swings.) </p>
+<p>(Flash to: The swing seat is empty.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p>(She looks at Brass.) </p>
+<p><strong>Karen Matthews</strong>: Did he take Jesse?</p>
+<p><strong>Brass</strong>: We don't know.</p>
+<p>CUT TO:<br />
+[EXT. MESA VALLEY PARK - PARKING LOT -- DAY --- CONTINUOUS]</p>
+<p>(Nick walks through the parking look, looking at the cars in the stalls. He stops in front of the car and checks under the car.) </p>
+<p>(He stands up and sees Kelly Gordon standing just a couple cars away from him. She's startled that he's noticed her. She quickly turns and leaves.) </p>
+<p>(Nick looks around.) </p>
+<p>[EXT. MESA VALLEY PARK - DAY -- CONTINUOUS]</p>
+<p>(An officer's car pulls up and parks. Grissom sees the car. He turns and talks with Karen Matthews.) </p>
+<p><strong>Grissom</strong>: Our K-9 officers are going to need something that Jesse's worn recently.</p>
+<p><strong>Karen Matthews</strong>: Uh ... his jacket. It's in the car. I'll get it for you.</p>
+<p>(Karen turns and walks out of camera frame. In the background, two officers lead two K-9 dogs out of the car.) </p>
+<p>SHORT TIME CUT TO: </p>
+<p>[EXT. MESA VALLEY PARK - DAY -- CONTINUOUS]</p>
+<p>(The officers let the dogs smell a red jacket.) </p>
+<p><strong>Officer</strong>: Okay, man. All right? Seek!</p>
+<p>(The dogs start to search the playground area as Grissom, Karen Matthews and the other officers watch. The dogs weave in and out through the various apparatus, searching for a scent.) </p>
+<p><strong>Officer</strong>: Let's go! Come on!</p>
+<p>(The dogs turn to the side of the playground area and head toward the fence as everyone watches.) </p>
+<p>(The dogs turn and head back toward Grissom, Karen Matthews and the other officers. Grissom takes his sunglasses off.) </p>
+<p>(The dogs complete the circle and stop in front of Karen Matthews, jumping on her.)</p>
+<p>(A dog barks.) </p>
+<p><strong>Karen Matthews</strong>: Whoa! Whoa! What are they doing?</p>
+<p><strong>Grissom</strong>: Pull the dogs back, please.</p>
+<p>(The officers pull the dogs back.)</p>
+<p><strong>Officer</strong>: Heel!</p>
+<p>(Grissom reaches for the red jacket the officer is holding.) </p>
+<p><strong>Grissom</strong>: Can I see this jacket? </p>
+<p>(He looks at the jacket that appears barely worn.) </p>
+<p><strong>Grissom</strong>: (to Karen) Has Jesse ever worn this?</p>
+<p><strong>Karen Matthews</strong>: I just bought it for him. He's been growing so fast. I'm sorry, I ... </p>
+<p><strong>Grissom</strong>: That's okay; we'll get something from your house.</p>
+<p>(She nods.)</p>
+<p>CUT TO:<br />
+[EXT. MESA VALLEY PARK - PUBLIC BATHROOMS (STOCK) -- DAY]</p>
+<p>[INT. MESA VALLEY PARK - PUBLIC BATHROOMS -- DAY]</p>
+<p>(Warrick uses his flashlight to look around the dingy, dirty public bathroom. He shines the light on the bathroom floor and finds what appears to be blood spatter. He opens the stall door and looks around.)</p>
+<p>(He finds part of the toilet tissue roll holder on the floor, its end stained red with blood. He snaps photos of it and continues looking at the stall.) </p>
+<p>(Grissom walks into the bathroom.) </p>
+<p><strong>Warrick</strong>: What do you make of this? </p>
+<p>(Grissom walks up to the stall door and looks inside.) </p>
+<p><strong>Warrick</strong>: Possible struggle ... that could've been used as a weapon. (He shines his flashlight on the bloodied roll holder.) The blood drops could be castoff.</p>
+<p>(Behind the toilet bowl, Warrick finds a little boy's white underwear. He picks it up and looks at it.) </p>
+<p><strong>Warrick</strong>: Maybe the poor kid had to pee while his mom was in the car.</p>
+<p>(Quick flashback to: [STALL] The door opens and the little boy steps inside to pee into the toilet. We hear him unzip his pants but before he does anything else, a man steps into the stall behind him and picks the little boy up. The boy screams.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p>[EXT. MESA VALLEY PARK - PUBLIC BATHROOMS -- DAY]</p>
+<p>(Grissom and Warrick walk away from the bathrooms and head toward Mrs. Matthews, talking with an officer.) </p>
+<p><strong>Warrick</strong>: Mrs. Matthews, I need you to take a look at something. Do you recognize these?</p>
+<p>(Warrick shows her the white underwear in an evidence bag. She looks at it and gasps, her mouth moving as she struggles to find the words.) </p>
+<p><strong>Karen Matthews</strong>: They're ...</p>
+<p>(Suddenly, she retches, covers her mouth and takes a few steps backward as she collapses on the seat behind her.) </p>
+<p>FLASH TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) - NIGHT]</p>
+<p>(Police sirens wail in the background.) </p>
+<p>[INT. MATTHEWS' RESIDENCE -- NIGHT] </p>
+<p>(Catherine walks across the street. Greg grabs his bag and slams the car door shut. He turns and joins her as they head toward the Matthews' residence.) </p>
+<p>(Greg hands Catherine her kit as they meet up with Brass, who is waiting out front for them.) </p>
+<p><strong>Catherine</strong>: Mrs. Matthews inside?</p>
+<p><strong>Brass</strong>: Yeah. Every mother's worst nightmare.</p>
+<p>(Catherine turns and looks inside the house through the open front door.) </p>
+<p><strong>Brass</strong>: (continues) I checked her answering machine: No calls.</p>
+<p><strong>Catherine</strong>: Well, I'll get a DNA exemplar for Jesse and let her get some sleep.</p>
+<p><strong>Brass</strong>: She won't sleep. (to Greg) Okay, Greg, let's do a little legwork, what do you say? You take this side of the street; I'll take the other -- find out if anybody's seen anything suspicious.</p>
+<p>[INT. MATTHEWS' RESIDENCE - FOYER / LIVING ROOM - NIGHT -- CONTINUOUS] </p>
+<p>(Catherine enters the house. The living room is littered with toys, clothes and other evidence of a child living there.) </p>
+<p>(Catherine turns and notices the framed photos on the wall. On the foyer table are more framed family photos of Jesse with Karen and her husband.) </p>
+<p>(Catherine picks up a recent photo of Jesse in an orange-striped shirt.) </p>
+<p><strong>Catherine</strong>: Mrs. Matthews? </p>
+<p>(Catherine looks around. She sees Mrs. Matthews standing in the next room, looking out the window and lost in her thoughts. Catherine steps into the next room.) </p>
+<p><strong>Catherine</strong>: Mrs. Matthews? </p>
+<p>(Karen puts down the toy she's carrying and turns around. She quickly makes herself busy and tries to tidy the table.) </p>
+<p><strong>Catherine</strong>: I'm Catherine Willows from the Crime Lab.</p>
+<p><strong>Karen Matthews</strong>: Sorry about the mess.</p>
+<p><strong>Catherine</strong>: It's okay.</p>
+<p><strong>Karen Matthews</strong>: Jesse was so full of energy this morning. He didn't give me time to clean up.</p>
+<p><strong>Catherine</strong>: I understand. </p>
+<p>(Catherine shows Karen Matthews the photo of Jesse in the orange shirt.) </p>
+<p><strong>Catherine</strong>: This photo ... is it recent?</p>
+<p><strong>Karen Matthews</strong>: Uh, yeah, that's, uh, that's from last month.</p>
+<p><strong>Catherine</strong>: If it's all right with you, I'd like to borrow it. I'll get it to Nevada Child Search, and they can get it out to the media.</p>
+<p><strong>Karen Matthews</strong>: Sure.</p>
+<p><strong>Catherine</strong>: Thank you.</p>
+<p>(Catherine looks around the living room and notices the finger painting pictures hanging on the wall.) </p>
+<p><strong>Karen Matthews</strong>: Jesse's home-schooled. We do art together ... music ... everything. </p>
+<p>(Catherine leans forward and notices the penciled lines on the side wall with indications of Jesse's height and age:<br />
+6 years - 36 1/2 &quot;<br />
+5 years - 34 &quot;<br />
+50 months<br />
+4 years - 31 1/3&quot;</p>
+<p>(Karen smiles.) </p>
+<p><strong>Karen Matthews</strong>: Do you have children?</p>
+<p><strong>Catherine</strong>: I have a daughter. Thirteen.</p>
+<p><strong>Catherine</strong>: &quot;Thirty-six and a half inches.&quot; I'll add it to the physical description. And, Mrs. Matthews, our K-9 unit will need something with Jesse's scent.</p>
+<p><strong>Karen Matthews</strong>: Oh, right, right. Um ... maybe ... maybe his stuffed dinosaur? He holds it while he's sleeping.</p>
+<p><strong>Catherine</strong>: That'll work. And I will need something with his DNA: A toothbrush, hairbrush, pillowcase ...</p>
+<p><strong>Karen Matthews</strong>: Why do you need that?</p>
+<p><strong>Catherine</strong>: Well, if we locate anything that could lead us to him, we want to make sure we've got the right boy.</p>
+<p><strong>Karen Matthews</strong>: Well, I'll get those things for you.</p>
+<p>(Karen turns and leaves the room.) </p>
+<p>SHORT TIME CUT TO: </p>
+<p>[INT. MATTHEWS' RESIDENCE - GARAGE -- NIGHT] </p>
+<p>(As Catherine steps out into the garage, Officer Ackers pulls up driving Karen Matthews' vehicle. He parks and gets out of the car.) </p>
+<p><strong>Catherine</strong>: Hi. </p>
+<p><strong>Officer Ackers</strong>: Hey. Captain Brass asked me to drive the lady's car home.</p>
+<p><strong>Catherine</strong>: Oh ... okay. Yeah, I'll let her know. </p>
+<p>(He gives her the keys.) </p>
+<p><strong>Officer Ackers</strong>: Thanks.</p>
+<p><strong>Catherine</strong>: Mm-hmm.</p>
+<p>(He turns and leaves.) </p>
+<p>(Catherine takes a moment and looks around the garage. She notices wrapped birthday presents stacked on the wall shelf. One of the labels reads:<br />
+HAPPY BIRTHDAY<br />
+JESSE!</p>
+<p>LOVE, GRANDMA &amp; GRANDPA</p>
+<p>(The next package she looks at is a Christmas present with the label:<br />
+TO: JESSE<br />
+FROM: GRANDPA &amp; GRANDMA</p>
+<p>(Catherine is surprised by the discovery.) </p>
+<p>[EXT. MATTHEWS RESIDENCE -- NIGHT] </p>
+<p>(Greg interviews Karen Matthews' next door neighbor, Ken McCracken. Ken is carrying is dog in his arms.) </p>
+<p><strong>Ken McCracken</strong>: Since her husband died, kid's toys always laying around. I'm always tossing balls over my fence back into her yard. They keep to themselves, which is fine by me.</p>
+<p><strong>Greg</strong>: Sir, have you seen any suspicious cars in the neighborhood, or strangers?</p>
+<p><strong>Ken McCracken</strong>: I work all day and I don't spend my nights looking at the neighbors, okay?</p>
+<p><strong>Greg</strong>: Well, what about the weekends?</p>
+<p>(The dog snarls at Greg.)</p>
+<p><strong>Greg</strong>: Aggressive little pooch. </p>
+<p><strong>Ken McCracken</strong>: Oh, she's my sweetie. </p>
+<p>(Ken buries his face in his dog's fur as he croons to his pet. Greg swallows, a little freaked by the man's behavior with his dog. The dog licks Ken's face as he continues to croon.) </p>
+<p><strong>Ken McCracken</strong>: Who's my good girl? Queenie's my good girl. Yes, you are. Yes, you are. (He stops and looks at Greg.) Interesting how things work out.</p>
+<p><strong>Greg</strong>: What do you mean?</p>
+<p><strong>Ken McCracken</strong>: Her kid getting killed. This is Queenie. My last dog, Princess ... Princess died, and she did it.</p>
+<p><strong>Greg</strong>: Karen Matthews?</p>
+<p><strong>Ken McCracken</strong>: Four years ago. I found Princess hanging off the back fence. Supposed to look like it was an accident, like she got caught on collar and choked.</p>
+<p><strong>Greg</strong>: Did you see her do that?</p>
+<p><strong>Ken McCracken</strong>: No, but I knew. See, Princess used to bark through the fence at her kid. She just wanted to play. (Ken kisses his dog.) If you ask me, you know what? The kid liked it, but Karen she just went off the deep end. </p>
+<p><strong>Greg</strong>: Mr. McCracken, who told you her son was killed?</p>
+<p>CUT TO:<br />
+[INT. MATTHEWS' RESIDENCE - LIVING ROOM - NIGHT ]</p>
+<p>(Camera opens on the framed family photos hanging on the wall. Catherine turns and heads into the little boy's bedroom. There are dinosaur toys on the shelf and a plastic cage with two pet hamsters.) </p>
+<p>(Catherine leans forward and taps the side of the cage. Karen walks in.) </p>
+<p><strong>Catherine</strong>: Who takes care of the hamsters?</p>
+<p><strong>Karen Matthews</strong>: Jesse. When he remembers. Which is as about as often as he remembers to brush his teeth.</p>
+<p>(She shows Catherine the toothbrush. Catherine opens a plastic bag and holds it out for Karen to put the toothbrush in.) </p>
+<p><strong>Catherine</strong>: Mrs. Matthews, has Jesse ever run away from home?</p>
+<p><strong>Karen Matthews</strong>: (shakes her head) He'd never do that.</p>
+<p>(Karen walks over to the bed and picks up the stuffed dinosaur. She turns and looks at Catherine.) </p>
+<p><strong>Catherine</strong>: Was he upset about anything?</p>
+<p><strong>Karen Matthews</strong>: No. No. No. You're going to find him. If something happened, I'd know. </p>
+<p>(She gives the stuffed dinosaur to Catherine.)</p>
+<p><strong>Karen Matthews</strong>: (points to her heart) I'd know here. </p>
+<p><strong>Catherine</strong>: Of course. I'd feel the same. </p>
+<p>(Karen turns and makes the bed.) </p>
+<p><strong>Catherine</strong>: Mrs. Matthews, when the officer brought your car back, I noticed that there were gifts in the garage that were from your husband's parents.</p>
+<p><strong>Karen Matthews</strong>: The, um ... the colonel and his wife. We're, uh, we're not in touch anymore. Ever since Dwight was ... ever since Dwight died, my father-in-law thinks he should be raising Jesse, not me. He runs that house like an army barracks. Do you know what that does to a boy? Well, I saw what it did to Dwight, and I will not let him do that to Jesse.</p>
+<p><strong>Catherine</strong>: I'm still going to need some contact information.</p>
+<p>(Karen stops and thinks about it.) </p>
+<p><strong>Karen Matthews</strong>: They took him.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - DNA LAB] </p>
+<p>(Wendy Simms cuts the end of the toothbrush bristles with an electric handsaw to find a DNA sample to process.) </p>
+<p>(She puts the piece of toothbrush into a test tube, adds the solution and puts it in a machine that rocks it back and forth gently.)</p>
+<p>(She removes the test tube from the machine, removes the toothbrush from the test tube, takes a sample of the solution and puts it in a second smaller sample container. She caps the smaller sample container, puts it in a second machine that spins the sample. She closes the machine and turns it on.)</p>
+<p>(The machine whirls.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - BRASS' OFFICE - DAY]</p>
+<p>(Brass interviews Faye and Colonel Warren Matthews, Jesse's paternal grandparents.) </p>
+<p><strong>Warren Matthews</strong>: We haven't seen Karen or Jesse since, um ... (He falters, obviously unable to recall the information.) ... uh ... since ... </p>
+<p><strong>Faye Matthews</strong>: We haven't seen them in four years, since the day we buried our son.</p>
+<p>(Quick flashback to: [EXT. CEMETERY - DAY] The funeral procession moves along. Karen holds the folded flag in her arms, her other hand is tucked in the crook of her escort's arm.)</p>
+<p>(Behind her, Jesse is between Warren and Faye Matthews. Warren leans down and gives Jesse a plastic toy soldier.) </p>
+<p><strong>Warren Matthews</strong>: (to Jesse) Here. Here's your toy soldier.</p>
+<p>(Karen overhears him. She turns around and gasps. She grabs the toy soldier from Jesse and glares at Warren. She shoves the toy soldier back at Warren.) </p>
+<p><strong>Faye Matthews</strong>: (quietly) Warren, not today.</p>
+<p><strong>Warren Matthews</strong>: (insistent) He's my grandson. It-it's, it's a toy.</p>
+<p><strong>Karen Matthews</strong>: (upset) I will raise my own son-- not you.</p>
+<p>(She grabs Jesse's hand away from Faye's and leads Jesse away from them.)</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Warren Matthews</strong>: Jesse comes from a, from a long line of military men going all the way back to Bull Run. Were you in the service?</p>
+<p><strong>Brass</strong>: Yes, sir. Marine Corps.</p>
+<p><strong>Warren Matthews</strong>: I bet your dad was, too, right?</p>
+<p><strong>Brass</strong>: You know, we're here to talk about your family, not mine.</p>
+<p><strong>Faye Matthews</strong>: If we hadn't seen Jesse's picture last night on TV, we wouldn't know what he looked like now.</p>
+<p><strong>Warren Matthews</strong>: She blames me.</p>
+<p><strong>Faye Matthews</strong>: I do not.</p>
+<p><strong>Warren Matthews</strong>: Don't tell me what I know and don't know, all right?</p>
+<p><strong>Faye Matthews</strong>: Can I please just go to the bathroom?</p>
+<p><strong>Brass</strong>: Oh, absolutely. Absolutely.</p>
+<p><strong>Warren Matthews</strong>: Where is it?</p>
+<p><strong>Brass</strong>: It's. Uh ... down the hall to the right, through the door.</p>
+<p><strong>Faye Matthews</strong>: Excuse me.</p>
+<p>(Faye Matthews gets up and leaves the office. Warren Matthews pulls his chair closer to Brass' desk.) </p>
+<p><strong>Warren Matthews</strong>: (confidentially) This is just between you and me. I saw Karen last week.</p>
+<p>(Quick flashback to: [EXT. MATTHEWS' RESIDENCE - FRONT PORCH - DAY] Warren Matthews knocks on the front door. Karen opens the door.) </p>
+<p><strong>Warren Matthews</strong>: Oh, hi, Karen, uh, could I see Jesse please?</p>
+<p><strong>Karen Matthews</strong>: No.</p>
+<p>(Karen starts to close the door; he pushes the door open.) </p>
+<p><strong>Warren Matthews</strong>: Karen, he's my only grandson.</p>
+<p><strong>Karen Matthews</strong>: You can't have him, okay?</p>
+<p><strong>Warren Matthews</strong>: I don't want to keep him, Karen. I just want to give him these. Please.</p>
+<p>(He shows her the army tags.) </p>
+<p><strong>Karen Matthews</strong>: Just leave us alone.</p>
+<p>(She again closes the door. He starts shouting.) </p>
+<p><strong>Warren Matthews</strong>: Jesse! It's Grandpa. Jesse!</p>
+<p><strong>Karen Matthews</strong>: No, please.</p>
+<p>(She closes the door on him.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p>(Warren Matthews falls silent and looks down a little lost.) </p>
+<p><strong>Brass</strong>: (prompts) Colonel?</p>
+<p>(Warren looks around.) </p>
+<p><strong>Warren Matthews</strong>: Where's my wife?</p>
+<p><strong>Brass</strong>: She's in the ladies' room. It's okay. Do you get these uh ... these spells often? There's some memory loss?</p>
+<p><strong>Warren Matthews</strong>: It's early Alzheimer's.</p>
+<p><strong>Brass</strong>: That's a tough one.</p>
+<p><strong>Warren Matthews</strong>: All I wanted was to see my grandson. Find him for me.</p>
+<p><strong>Brass</strong>: We'll do our best, sir. We'll do our very best.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - HALLWAY -- DAY] </p>
+<p>(Warrick and Sara walk through the hallway.) </p>
+<p><strong>Warrick</strong>: Any luck with those prints from the swing?</p>
+<p><strong>Sara</strong>: Nothing on AFIS, but Brass did put out a bulletin for the guy in the blue baseball cap.</p>
+<p><strong>Warrick</strong>: I wouldn't get our hopes up -- it's a vague description.</p>
+<p><strong>Sara</strong>: What about the K-9 search?</p>
+<p><strong>Warrick</strong>: Nothing.</p>
+<p>(Warrick enters the DNA Lab as Sara leaves down the hallway.) </p>
+<p>[INT. CSI - DNA LAB - DAY -- CONTINUOUS] </p>
+<p><strong>Warrick</strong>: What do you got for me?</p>
+<p>(Wendy Simms reports her findings.) </p>
+<p><strong>Wendy Simms</strong>: Well, I ran the exemplar toothbrush against a blood sample from the men's room. It's not a match.</p>
+<p><strong>Warrick</strong>: What about the underpants?</p>
+<p><strong>Wendy Simms</strong>: Couldn't get enough epithelials for DNA 'cause the kid probably hadn't been wearing them for very long.</p>
+<p>(The label on the evidence bag reads:<br />
+CRIME SCENE SEARCH EVIDENCE REPORT<br />
+Name of Subject:<br />
+Offense: LVPD 051207-1165 GG<br />
+Date of Incident: 12-07-05 TIME: 11:28 AM/PM<br />
+<strong>Search Officer</strong>: W. BROWN<br />
+Evidence Description: BOYS UNDERPANTS<br />
+Location: Mesa Valley Park Men's Room</p>
+<p><strong>Warrick</strong>: I wonder why.</p>
+<p><strong>Wendy Simms</strong>: Well, I did confirm a positive result for urea in the underpants. And the quantity and distribution suggests that the kid wet himself.</p>
+<p><strong>Warrick</strong>: Ditched his wet tighty-whiteys and went back out to play. </p>
+<p>(Wendy goes to the computer and pulls up an ID.) </p>
+<p><strong>Wendy Simms</strong>: I got a hit on your blood. Conner Daly. Convicted of NRS<br />
+201.450. Out on parole.</p>
+<p>(The information on the screen reads:<br />
+ADDRESS: 1204 Bonnie Brae<br />
+Las Vegas, NV 891-<br />
+CRIMINAL HISTORY:<br />
+NRS 201.450<br />
+Sexual Penetration of a Dead Human Body<br />
+One Year State Prison<br />
+RELEASED:<br />
+November 21, 2005 )</p>
+<p><strong>Warrick</strong>: What's a 450?</p>
+<p><strong>Wendy Simms</strong>: That'd be &quot;s*x with dead body.&quot;</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Warrick interviews Conner Daly.) </p>
+<p><strong>Warrick</strong>: Mr. Daly, where were you yesterday afternoon?</p>
+<p><strong>Conner Daly</strong>: Playing nickel slots downtown. I, uh .... I'm not trying to win the big jackpot or anything; just passing time. It relaxes me. </p>
+<p>(Warrick leans against the wall, looking through the open file folder in his hand.) </p>
+<p><strong>Warrick</strong>: Where did you go next?</p>
+<p><strong>Conner Daly</strong>: Walked in the park. Fresh air. I'm allergic to smoke.</p>
+<p>(Warrick looks up and at Conner Daly.) </p>
+<p><strong>Warrick</strong>: Which park?</p>
+<p><strong>Conner Daly</strong>: One near my apartment.</p>
+<p>(Warrick walks over to the table.) </p>
+<p><strong>Warrick</strong>: Would that be Mesa Valley Park?</p>
+<p><strong>Conner Daly</strong>: (nods) Yeah. Then I sat down on a park bench and read a copy of the RJ that I picked out of the trash. What's this about?</p>
+<p><strong>Warrick</strong>: Did you go to the men's room at any time?</p>
+<p><strong>Conner Daly</strong>: Only when nature called.</p>
+<p><strong>Warrick</strong>: What did you do there?</p>
+<p><strong>Conner Daly</strong>: I amused myself.</p>
+<p><strong>Warrick</strong>: What did you do next? We found your blood on the floor.</p>
+<p><strong>Conner Daly</strong>: I get nosebleeds. Too much cocaine back in the day.</p>
+<p><strong>Warrick</strong>: Yeah. I'm sure we'll find that in your medical records. </p>
+<p>(Taking exception to the comment, Conner Daly stands up.) </p>
+<p><strong>Conner Daly</strong>: (seethes) My whole damn life is on record. So, why don't you look at the freakin' records, huh?</p>
+<p><strong>Warrick</strong>: You have anger issues, Mr. Daly?</p>
+<p>(The officer standing in the back of the room steps forward.) </p>
+<p><strong>Conner Daly</strong>: Yeah.</p>
+<p><strong>Warrick</strong>: Would you take a seat for me, please. </p>
+<p>(Conner nods and sits down again. Warrick sees a large gash on Conner's left hand between his thumb and index finger.) </p>
+<p><strong>Warrick</strong>: What's that cut on your hand from? Pick the wrong partner?</p>
+<p><strong>Conner Daly</strong>: (shakes his head) No.</p>
+<p>(Quick flashback to: [INT. BATHROOM - STALL - DAY] The stall door opens and Conner quickly sits down on the toilet, his hand holding his bleeding nose while the other reaches for some toilet tissue. The tissue holder roll is empty and he gets angry, ripping the holder out of the stall wall.) </p>
+<p>(Part of the holder falls to the floor, his blood on it.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Conner Daly</strong>: Look, I'll send the county a buck-fifty. They can buy a new one.</p>
+<p><strong>Warrick</strong>: You recognize this boy?</p>
+<p>(Warrick puts Jesse's photo on the table. Conner leans forward and looks at it. He sits back in his chair.) </p>
+<p><strong>Conner Daly</strong>: Looks like a kid that this guy brought into the bathroom but I didn't stay to watch.</p>
+<p><strong>Warrick</strong>: Did you get a look at the guy?</p>
+<p><strong>Conner Daly</strong>: (shrugs) 51's fan.</p>
+<p>(Warrick looks at him, not following him. Conner points to his head.) </p>
+<p><strong>Conner Daly</strong>: His cap.</p>
+<p>CUT TO:<br />
+[MONITOR] </p>
+<p>(The news report is on for an AMBER ALERT. Jesse's photo is shown as Paula Francis reports.) </p>
+<p><strong>Paula Francis</strong>: (from tv) Las Vegas police may have a break in the case of a missing boy. An eyewitness has come forward with a more complete description of the suspect.</p>
+<p>(A sketch of the man's face appears on screen.) </p>
+<p><strong>Paula Francis</strong>: (from tv) Authorities are now seeking this man in connection with the disappearance yesterday of six-year-old Jesse Matthews.</p>
+<p>[INT. CSI - BREAK ROOM - DAY]</p>
+<p>(Grissom is watching the report on the television.) </p>
+<p><strong>Paula Francis</strong>: (from tv) Initial reports from the scene only mention a man in a blue cap, but the police artist had a lot more to work with after the eyewitness came forward.</p>
+<p>(On the monitor, reporters interview Karen Matthews.) </p>
+<p><strong>Karen Matthews</strong>: (from tv) Uh, uh ... I'm ju ... I'm just trying to stay positive. And, um, you know, I know that Jesse'll be safe at home again soon. </p>
+<p><strong>Reporter (woman)</strong>: (from tv) Do you think there's anything else the police ...</p>
+<p><strong>Karen Matthews</strong>: (from tv) (interrupts) So. I know he'll be safe.</p>
+<p>(The report goes back to Paula Francis.) </p>
+<p><strong>Paula Francis</strong>: (from tv) The boy's mother, Karen, is holding out hope that she'll see her son again. She's seen tragedy enough. Four years ago, she lost her husband in combat in Afghanistan.</p>
+<p>CUT TO:<br />
+[INT. LAS VEGAS CITY (STOCK) -- NIGHT] </p>
+<p>[INT. CONVENIENCE STORE -- NIGHT] </p>
+<p>(Victor Esposito, wearing a blue baseball cap, and his wife Valerie wait at the checkout counter as 'Jesse' looks at the displays behind them.) </p>
+<p><strong>Valerie Esposito</strong>: What's going on? </p>
+<p>(Off to the side, Brass takes out the photo of 'Jesse' and compares it to the little boy looking at the displays. He tucks the photo back into his jacket pocket.) </p>
+<p>(We hear a beep off screen from behind the counter.) </p>
+<p><strong>Victor Esposito</strong>: (under his breath) It's ridiculous.</p>
+<p>(The clerk runs the credit card through the reader. It beeps again. He looks at the Espositos.) </p>
+<p><strong>Clerk</strong>: Sorry. Declined again. You have another card?</p>
+<p><strong>Victor Esposito</strong>: Aw, come on. That's the fourth time.</p>
+<p><strong>Valerie Esposito</strong>: Maybe we got identity theft-ed or something.</p>
+<p>(She catches a glimpse of 'Jesse' reaching for the candy on the display.) </p>
+<p><strong>Valerie Esposito</strong>: (to 'Jesse') Hey, hey, leave that candy alone.</p>
+<p><strong>Clerk</strong>: It could be the card-reader. My manager'll be right back. If you guys want to get some coffee, it's on the house.<br />
+(Brass nods to the officers just outside the doorway.) </p>
+<p><strong>Brass</strong>: All right. Let's go.</p>
+<p>(He takes out his ID and badge and holds it up as he walks over toward the Espositos.) </p>
+<p><strong>Brass</strong>: Las Vegas police. You're under arrest.</p>
+<p><strong>Victor Esposito</strong>: What? VALERIE ESPOSITO: What?</p>
+<p>(The clerk looks at Brass.) </p>
+<p><strong>Clerk</strong>: That's the kid from the news, right?</p>
+<p><strong>Brass</strong>: Yeah. You did good.</p>
+<p>(Officers handcuff Valerie and Victor Esposito, who are confused.) </p>
+<p><strong>Valerie Esposito</strong>: What? </p>
+<p><strong>Victor Esposito</strong>: Yeah, what the hell is going on here?</p>
+<p>(Brass turns toward 'Jesse' as the Espositos.) </p>
+<p><strong>Valerie Esposito</strong>: Hey, let go of me. </p>
+<p><strong>Victor Esposito</strong>: What are you arresting us for? Huh?</p>
+<p><strong>Valerie Esposito</strong>: Let go of me, huh! What the hell is going on here? </p>
+<p><strong>Victor Esposito</strong>: What's going on? What are you arresting us for?!</p>
+<p><strong>Valerie Esposito</strong>: Get away from him. Get away from him!</p>
+<p>(The officers lead Victor and Valerie out of the convenience store. Brass puts a hand on 'Jesse's' shoulder.) </p>
+<p><strong>Brass</strong>: It's all right, son. You're safe now ..</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY -- NIGHT] </p>
+<p>(Karen Matthews rushes into the building. Catherine turns the corner to meet with her.) </p>
+<p><strong>Karen Matthews</strong>: Oh, God, where is he?</p>
+<p><strong>Catherine</strong>: He's in with a social worker. He's okay. </p>
+<p><strong>Karen Matthews</strong>: Jesse! </p>
+<p>(She hurries past Catherine and rushes into the waiting room.) </p>
+<p><strong>Karen Matthews</strong>: Jesse! </p>
+<p>(She puts her arms around him and hugs him. He doesn't hug her back.) </p>
+<p><strong>Karen Matthews</strong>: Oh, Jesse, thank God. Thank God you're okay. No, no, no, it's okay. Mommy is here. You're safe now.</p>
+<p>(Adam turns to the side and sees someone off screen.) </p>
+<p><strong>Adam Esposito</strong>: (shouts) Mommy!</p>
+<p>(Warrick and Catherine, who stand on the side watch, confused by what's going on.) </p>
+<p><strong>Adam Esposito</strong>: Mommy! </p>
+<p><strong>Valerie Esposito</strong>: Adam!</p>
+<p><strong>Adam Esposito</strong>: Mommy!</p>
+<p>(Just outside the waiting room windows in the hallway is Valerie Esposito.) </p>
+<p><strong>Valerie Esposito</strong>: Adam! </p>
+<p><strong>Karen Matthews</strong>: (interrupts) No, your mommy's here, honey.</p>
+<p><strong>Valerie Esposito</strong>: No, please. (shouts) Get away from my kid!</p>
+<p>(The officer leads Valerie Esposito away.) </p>
+<p><strong>Karen Matthews</strong>: (to Adam) What did they say to you? </p>
+<p><strong>Victor Esposito</strong>: (o.s.) Adam! Don't say nothing!</p>
+<p><strong>Karen Matthews</strong>: What did they make you say, sweetheart?</p>
+<p><strong>Victor Esposito</strong>: (shouts) Look at me. Don't say nothing to nobody. You hear me, little man, huh? Don't say nothing!</p>
+<p>(The officers lead Victor Esposito away as he continues to shout down the hallway.) </p>
+<p>(Brass stops alongside Warrick and Catherine as they all look at Karen with Adam.) </p>
+<p><strong>Karen Matthews</strong>: Look at me. Just look at me. Don't look at those people. Just look at me. Just look right here.</p>
+<p>(Catherine shakes her head.) </p>
+<p><strong>Catherine</strong>: Jim?</p>
+<p><strong>Warrick</strong>: What the hell's going on?</p>
+<p><strong>Brass</strong>: That's Victor and Valerie Esposito. Transplants from Jersey. Check this out. </p>
+<p>(He shows Catherine the photo key chain. It's a photo of the Espositos with Adam. Victor Esposito is wearing a Santa's cap.) </p>
+<p><strong>Brass</strong>: It was with Mrs. Esposito's personal belongings at booking.</p>
+<p>(Catherine looks over at Adam with Karen.) </p>
+<p><strong>Catherine</strong>: He's got the same scar over his eye as in Karen's photos.</p>
+<p><strong>Warrick</strong>: So this kid has two moms?</p>
+<p><strong>Brass</strong>: King Solomon threatened to cut the baby in half. What are you going to do?</p>
+<p><strong>Catherine</strong>: King Solomon didn't have a DNA lab.</p>
+<p>(Brass heads for the interview rooms while Catherine and Warrick walk into the waiting room.)</p>
+<p>(Karen gives a plastic toy to Adam.) </p>
+<p><strong>Karen Matthews</strong>: Here you go, sweetie.</p>
+<p>(He takes it from her. Karen holds Adam close to her.) </p>
+<p><strong>Catherine</strong>: Hey, is it all right if he goes with CSI Brown for a little while? It won't be long.</p>
+<p>(Warrick kneels in front of Adam.) </p>
+<p><strong>Karen Matthews</strong>: (nods) Okay.</p>
+<p><strong>Warrick</strong>: Hey. My name's Warrick. You want to go for a walk?</p>
+<p><strong>Karen Matthews</strong>: It's okay, sweetheart. He's a friend.</p>
+<p>(Adam gets up.) </p>
+<p><strong>Warrick</strong>: Come on, we'll have some fun.</p>
+<p>(They start to leave when Karen stops them.) </p>
+<p><strong>Karen Matthews</strong>: Oh, wait.</p>
+<p>(She holds out Jesse's jacket.) </p>
+<p><strong>Karen Matthews</strong>: He gets cold.</p>
+<p>(Warrick takes the jacket from her.) </p>
+<p><strong>Warrick</strong>: Thanks.</p>
+<p>(Warrick and Adam leave. Karen turns to look at Catherine.) </p>
+<p><strong>Karen Matthews</strong>: Thank you.</p>
+<p>(Catherine smiles and nods.) </p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - LAB -- NIGHT] </p>
+<p>(Clutching the plastic toy dinosaur in his hand, Adam is in the break room looking through the glass as people work in the lab next door.) </p>
+<p>(Warrick walks over to him and kneels down next to him. He looks through the glass as well.) </p>
+<p><strong>Warrick</strong>: Wow, everybody's so busy in there, huh? Hey, I hear you like dinosaurs. Which one's your favorite?</p>
+<p>(Adam doesn't say anything.) </p>
+<p><strong>Warrick</strong>: You know what mine is? T-rex. 'Cause he's got teeth like this big. </p>
+<p>(Warrick hold out his hands to show the size of the teeth. Grudgingly, Adam looks sideways at Warrick, but he doesn't turn around. And he doesn't say anything.</p>
+<p><strong>Warrick</strong>: I bet you wouldn't want him for a pet, would you? </p>
+<p>(Adam turns and looks at Warrick.) </p>
+<p><strong>Warrick</strong>: You want to see something cool? Come over here. Let's sit down.</p>
+<p>(Warrick and Adam move over to the table where Warrick has his kit. He and Adam sit down at the table.) </p>
+<p><strong>Warrick</strong>: This is my special science kit. </p>
+<p>(He pops the kit open and shows Adam the things inside.) </p>
+<p><strong>Warrick</strong>: Got all kinds of stuff in here. Let me see ... I got rubber gloves.</p>
+<p>(Warrick takes out a latex glove and blows it up like a balloon. He hands the glove to Adam.) </p>
+<p><strong>Warrick</strong>: Here ... put that on. (Adam takes the glove from him.) What else I got in here? I got pens that turn into flashlights. </p>
+<p>(He takes out the penlight, turns it on and shows it to Adam. He puts it down in front of Adam.) </p>
+<p><strong>Warrick</strong>: You want to see something invisible? Go like this.</p>
+<p>(Warrick swipes his thumb on the side of his nose and presses it down on the paper. Adam copies the motion and presses his thumb down hard on the blank sheet of paper.) </p>
+<p><strong>Warrick</strong>: See, there's nothing there, right? </p>
+<p>(Adam nods. Warrick takes out the magnetic brush from his kit and shows it to Adam.) </p>
+<p><strong>Warrick</strong>: But take my magic wand right here, and I put it in my special magic powder like this. (He dips the magnetic brush in the container.) Watch this. </p>
+<p>(He brushes the paper and the fingerprints appear.) </p>
+<p><strong>Warrick</strong>: What appears is our fingerprints. (Interested, Adam leans forward to look.) Now shine the flashlight on it. </p>
+<p>(Adam quickly grabs the penlight and shines the light on the print.) </p>
+<p><strong>Warrick</strong>: Wow ... Good job. Will you be my assistant? </p>
+<p>(Adam doesn't say anything, but he's definitely interested.) </p>
+<p><strong>Warrick</strong>: See, no two people's fingerprints are alike. Just like no two people's spit is the same. </p>
+<p>(Warrick takes out two swabs from his kit and opens one.) </p>
+<p><strong>Warrick</strong>: So if I took my spit like this ... </p>
+<p>(Warrick swabs the inside of his own mouth and caps it.) </p>
+<p><strong>Warrick</strong>: Now you do it.</p>
+<p>(He opens the second swab and hands it to Adam. Adam takes the swab and swabs his own mouth. He gives the swab back to Warrick.) </p>
+<p><strong>Warrick</strong>: See, even if I mix them up, I have a machine to tell me which one is mine and which one is yours. Now, I need you to tell me something. </p>
+<p>(Warrick holds out the two photos.) </p>
+<p><strong>Warrick</strong>: Which one of these two pretty ladies is your mom?</p>
+<p><strong>Adam Esposito</strong>: That one.</p>
+<p>(Adam points to Valerie Esposito.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- NIGHT] </p>
+<p>(Catherine takes a swab from Valerie Esposito.) </p>
+<p><strong>Catherine</strong>: Thank you.</p>
+<p><strong>Valerie Esposito</strong>: Yeah, whatever. Can I see Adam now?</p>
+<p><strong>Catherine</strong>: Adam?</p>
+<p><strong>Valerie Esposito</strong>: Yeah. My kid.</p>
+<p><strong>Catherine</strong>: Well, once our lab confirms DNA, he can go home with his mother.</p>
+<p><strong>Valerie Esposito</strong>: Who the hell do you think I am?</p>
+<p><strong>Catherine</strong>: Mrs. Esposito ... did you adopt Adam?</p>
+<p><strong>Valerie Esposito</strong>: (scoffs) Give me a break. Twenty-six hours in labor. Finally had a c-section.</p>
+<p>(She stands up, lifts up her shirt and shows Catherine the scar on her abdomen. She sits back down.) </p>
+<p>(Catherine glances over at Karen Matthews in the waiting room.) </p>
+<p><strong>Catherine</strong>: (reaching) Did you have twins?</p>
+<p>(Valerie Esposito rolls her eyes.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY - NIGHT -- CONTINUOUS] </p>
+<p>(Catherine exits the room. Karen Matthews stands up as Catherine walks into the waiting room.) </p>
+<p><strong>Karen Matthews</strong>: Hi. Can I take Jesse home now?</p>
+<p><strong>Catherine</strong>: I need your help to tie up a few loose ends.</p>
+<p><strong>Karen Matthews</strong>: Of course, anything.</p>
+<p><strong>Catherine</strong>: Let's start with a sample of your DNA.</p>
+<p><strong>Karen Matthews</strong>: What?</p>
+<p><strong>Catherine</strong>: We have to follow procedure for everyone's protection. In fact, Jesse can't even be released without a positive match.</p>
+<p><strong>Karen Matthews</strong>: You know, he doesn't stay up this late.</p>
+<p><strong>Catherine</strong>: I'll make it a rush, I promise. </p>
+<p>(Catherine takes out a swab.) </p>
+<p><strong>Catherine</strong>: Open your mouth, please.</p>
+<p>(Catherine takes a swab sample.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- NIGHT] </p>
+<p>(Catherine and Warrick look at the two photos side by side, comparing the two sons.) </p>
+<p><strong>Catherine</strong>: It's the same kid. It's a doppelganger, with an identical scar.</p>
+<p><strong>Warrick</strong>: He picked Mrs. Esposito.</p>
+<p><strong>Catherine</strong>: I know there's cases in which the kidnappers threatened their victims, &quot;Tell them that I'm your mother or I'll kill your real mom.&quot;</p>
+<p><strong>Warrick</strong>: I don't think he's lying.</p>
+<p><strong>Catherine</strong>: I don't think that Mrs. Esposito's lying either. Karen Matthews had a house full of photos of him.</p>
+<p><strong>Warrick</strong>: Well, I'm sure the Espositos do, too.</p>
+<p>(They enlarge the photo of Karen Matthews and Jesse at the beach.) </p>
+<p><strong>Catherine</strong>: There's something off about this picture.</p>
+<p><strong>Warrick</strong>: It seems kind of set up, doesn't it?</p>
+<p>(Warrick enlarges the photo a little more and notices that Jesse's face starts to pixelate while Karen Matthews appears normal.) </p>
+<p><strong>Warrick</strong>: The pixel density's not the same.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- NIGHT] </p>
+<p>(Valerie and Victor Esposito look at the photo of Karen with Adam.) </p>
+<p><strong>Valerie Esposito</strong>: Where'd she get this picture of Adam? How'd she get it?</p>
+<p><strong>Victor Esposito</strong>: Maybe she's a stalker.</p>
+<p><strong>Valerie Esposito</strong>: No, she wouldn't have stalked us to Cape May. This isn't it. It's the only shore we've been to.</p>
+<p><strong>Catherine</strong>: Do you recognize anything in the picture?</p>
+<p><strong>Valerie Esposito</strong>: Yeah, that's the shirt his Nana gave him last summer. He only wore it that once, at our family reunion.</p>
+<p><strong>Catherine</strong>: Was Karen Matthews there?</p>
+<p><strong>Victor Esposito</strong>: No way.</p>
+<p><strong>Catherine</strong>: Mr. Esposito ... several witnesses saw a man matching your description at Mesa Valley Park ... (he nods) ... when Jesse disappeared.</p>
+<p><strong>Victor Esposito</strong>: Yeah, I'm there all the time. We live around the corner.</p>
+<p><strong>Valerie Esposito</strong>: We just had Adam's birthday party there last month.</p>
+<p><strong>Victor Esposito</strong>: Yeah.</p>
+<p><strong>Catherine</strong>: Were you there the day before yesterday?</p>
+<p><strong>Victor Esposito</strong>: Yeah, with Adam. Yeah.</p>
+<p>(Valerie turns and looks at Victor.) </p>
+<p><strong>Valerie Esposito</strong>: You told me you were taking him for ice cream. What were you doing in the park?</p>
+<p><strong>Victor Esposito</strong>: I had to meet a guy.</p>
+<p><strong>Valerie Esposito</strong>: A guy? Oh, my God. You're putting money down on a game? You promised you'd quit.</p>
+<p><strong>Victor Esposito</strong>: I did, all right? It's for a guy at work.</p>
+<p>(Quick flashback. [EXT. PARK - DAY] Adam is on the swings as Victor watches. A car horn honks behind him and he turns.) </p>
+<p>(Flash to: Victor gives the guy in the car some money.) </p>
+<p><strong>Victor Esposito</strong>: Three-to-one, right?</p>
+<p><strong>Bookie</strong>: Yeah.</p>
+<p>(Finished with his business, Victor looks at Adam.) </p>
+<p><strong>Victor Esposito</strong>: (shouts) Adam.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Valerie Esposito</strong>: Well, you should have just took him for ice cream.</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB] </p>
+<p>(On the monitor, Archie has a photo of Adam enlarged. Warrick points to the photo.) </p>
+<p><strong>Warrick</strong>: So Karen took a picture of herself at the beach and Photoshopped Jesse in.</p>
+<p><strong>Archie Johnson</strong>: Right.</p>
+<p><strong>Warrick</strong>: So if that's really Adam Esposito, where did she get the pictures from?</p>
+<p><strong>Archie Johnson</strong>: Well, let us see.</p>
+<p>(Archie Goggles &quot;ADAM ESPOSITO&quot; in the search engine.) </p>
+<p><strong>Warrick</strong>: Where are you going?</p>
+<p><strong>Archie Johnson</strong>: Image search.</p>
+<p>(He finds the ESPOSITO FAMILY web page.) </p>
+<p><strong>Archie Johnson</strong>: Family home page. My mom wants me to do one of these for our family.</p>
+<p><strong>Warrick</strong>: Ah. Click on where it says &quot;Adam's Birthday Party.&quot;</p>
+<p>(Archie clicks to the page. Warrick points out a particular photo.) </p>
+<p><strong>Warrick</strong>: That one.</p>
+<p><strong>Archie Johnson</strong>: Maybe Karen found the site. Cut out the kid's picture.</p>
+<p><strong>Warrick</strong>: That's Mesa Valley Park.</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE] </p>
+<p>(Warrick walks into Grissom's office to report to him.) </p>
+<p><strong>Warrick</strong>: Karen Matthews faked those photos that she gave Catherine.</p>
+<p><strong>Grissom</strong>: How?</p>
+<p><strong>Warrick</strong>: Cut-and-paste. The photos that she got off the Internet.</p>
+<p>(Warrick gives Grissom a photo.) </p>
+<p><strong>Grissom</strong>: The Espositos told Catherine that they were at the park with their son the day Jesse Matthews disappeared. Is that a coincidence?</p>
+<p><strong>Warrick</strong>: No. My guess is Karen's been downloading pictures from the family website for a while -- the most recent being from Mesa Valley Park.</p>
+<p><strong>Grissom</strong>: Could Karen have recognized the park from the pictures on the website?</p>
+<p><strong>Warrick</strong>: Yeah, and she went there hoping to see him again.</p>
+<p><strong>Grissom</strong>: But she reported him missing. That makes no sense.</p>
+<p>(Catherine walks in and joins them.) </p>
+<p><strong>Catherine</strong>: Hey, I got the DNA results. The boy is Adam Esposito. Victor and Valerie are his parents.</p>
+<p><strong>Warrick</strong>: There you go, she's lying. She doesn't have a son.</p>
+<p><strong>Catherine</strong>: Uh, not quite. She's got 13 alleles in common with the male DNA that we got from the toothbrush exemplar.</p>
+<p><strong>Grissom</strong>: So she does have a son.</p>
+<p><strong>Catherine</strong>: I was inside the house. Believe me, a kid does live there.</p>
+<p><strong>Grissom</strong>: And we're still looking for Jesse Matthews.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - WAITING ROOM] </p>
+<p>(Karen Matthews is sleeping in the waiting room. Brass walks in with a female officer.) </p>
+<p><strong>Brass</strong>: Karen Matthews.</p>
+<p>(Karen wakes up and stands up. She smiles at Brass.) </p>
+<p><strong>Karen Matthews</strong>: Can I take Jesse home now?</p>
+<p><strong>Brass</strong>: I'm afraid not. No. The DNA confirms the boy's not your child.</p>
+<p><strong>Karen Matthews</strong>: I ... that's impossible.</p>
+<p><strong>Brass</strong>: Your actions regarding the Espositos constitutes stalking and possible kidnapping. Please go with this officer.</p>
+<p><strong>Karen Matthews</strong>: No, no ... what have you done with Jesse?</p>
+<p><strong>Brass</strong>: Ma'am ...</p>
+<p><strong>Karen Matthews</strong>: No. Where is he?</p>
+<p>(Karen turns around and heads into the building, determined to find Jesse.) </p>
+<p><strong>Officer</strong>: Ma'am ... Please ... </p>
+<p><strong>Karen Matthews</strong>: Jesse?</p>
+<p><strong>Officer</strong>: Ma'am ...</p>
+<p><strong>Karen Matthews</strong>: Jesse? Jesse, where are you?!</p>
+<p>(The female officer takes off after her and catches up with her.) </p>
+<p><strong>Officer</strong>: Ma'am, please ...</p>
+<p>(A second officer arrives to help detain Karen Matthews. Brass watches from the side.) </p>
+<p><strong>Karen Matthews</strong>: I need to see my son! (screams) Jesse! Jesse, where are you?!</p>
+<p>(She struggles against them as they stop her from going any further.) </p>
+<p><strong>Karen Matthews</strong>: (screaming) Please! Please! Jesse! Jesse! Jesse, where are you?!</p>
+<p>CUT TO:<br />
+[INT. CSI - LAYOUT ROOM -- DAY] </p>
+<p>(Greg reads the information he's found about Jesse to Warrick, Catherine and Sara. The layout table in front of them has the various photos from the investigation.) </p>
+<p><strong>Greg</strong>: &quot;Jesse David Matthews. Mother Karen, father Dwight. Born August 31, 1999.&quot; I also checked for a death certificate. Nothing on file.</p>
+<p><strong>Catherine</strong>: These are all in chronological order. Archie confirmed that all the photos taken along the top row were genuine. Up until the photo taken at the funeral in which he was two.</p>
+<p><strong>Sara</strong>: So, the rest of these were faked using Adam Esposito?</p>
+<p><strong>Catherine</strong>: Yeah.</p>
+<p><strong>Sara</strong>: (to Greg) You talked to the neighbors. What did they say?</p>
+<p><strong>Greg</strong>: Jesse and Karen kept to themselves. But he was always leaving his toys around outside.</p>
+<p><strong>Sara</strong>: They saw his toys -- Did they see him?</p>
+<p><strong>Greg</strong>: Well, when I asked, &quot;When was the last time you saw Jesse?&quot; No one remembered exactly.</p>
+<p><strong>Warrick</strong>: What about his grandparents?</p>
+<p><strong>Catherine</strong>: They haven't seen him since the funeral.</p>
+<p><strong>Warrick</strong>: Has anyone seen Jesse since he was two? His teachers or a doctor, baby-sitters ... ?</p>
+<p><strong>Catherine</strong>: Well, he was home-schooled. And we're looking into a doctor and a sitter.</p>
+<p><strong>Warrick</strong>: Well, I guess we can impound her car and find out if there's any evidence that he was even in there.</p>
+<p><strong>Catherine</strong>: For four years she's created an elaborate fantasy -- which collided with reality at Mesa Valley Park.</p>
+<p>(Quick flashback to: [EXT. MESA VALLEY PARK - DAY] Karen sits on the grass. She turns around and sees Adam on the swings.) </p>
+<p>(She stands up and smiles as she watches him.) </p>
+<p><strong>Karen Matthews</strong>: Jesse.</p>
+<p>(As she watches, the man in the blue baseball cap walks up to Adam and picks him up. She imagines him calling out to her.) </p>
+<p><strong>Voice</strong>: Mommy! </p>
+<p>(Suddenly worried, Karen starts shouting for her son.) </p>
+<p><strong>Karen Matthews</strong>: Jesse? Where are you?! Jesse?!</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Warrick</strong>: I suppose she thought it was her son that was gone when she looked back at that empty swing.</p>
+<p><strong>Catherine</strong>: When she couldn't find him, she called the police. </p>
+<p><strong>Sara</strong>: Jesse's been missing for four years. We're chasing a ghost.</p>
+<p>(Camera holds on the last photo of Jesse Matthews.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Catherine interviews Karen Matthews.) </p>
+<p><strong>Karen Matthews</strong>: We went to the park. I-I brought Jesse's new jacket. He was on the swings and when I wasn't looking, a man in a blue cap took him.</p>
+<p><strong>Catherine</strong>: Karen, tell me what happened four years ago after your husband was killed.</p>
+<p><strong>Karen Matthews</strong>: I-I ... that's a ... I am not the one that should be here. You should be talking to the man that took Jesse.</p>
+<p><strong>Catherine</strong>: Did Jesse get sick? Was there an accident?</p>
+<p>(Karen doesn't say anything as she stares at Catherine.) </p>
+<p><strong>Catherine</strong>: Karen? Did something happen to Jesse? Is Jesse dead?</p>
+<p><strong>Karen Matthews</strong>: You saw him. You were ... you were there while I held him in my arms. Why are you putting me through this? Tell me. Why?</p>
+<p>CUT TO:<br />
+[EXT. MATTHEWS RESIDENCE - BACK YARD -- DAY] </p>
+<p>(Warrick is putting the three soil probes together. Greg and Sara join him.) </p>
+<p><strong>Greg</strong>: So how do we do this?</p>
+<p><strong>Warrick</strong>: Old school. Soil probes. The probe goes deeper where the soil's been disturbed.</p>
+<p>(They look around the back yard.) </p>
+<p><strong>Greg</strong>: And that's where we dig?</p>
+<p><strong>Sara</strong>: On the one hand, you really want to find the body. Give it respect, provide closure ... on the other hand ... </p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>(He hands Sara a soil probe.) </p>
+<p>(Sara, Greg and Warrick each spread out in the back yard.) </p>
+<p><strong>Warrick</strong>: She would have buried the body where he would have still been close to her.</p>
+<p><strong>Sara</strong>: You know, I'm not finding any density changes.</p>
+<p><strong>Greg</strong>: Me neither.</p>
+<p>(Warrick looks around and notices the different wood board color in the fence. In the background, we hear a dog bark.) </p>
+<p><strong>Warrick</strong>: Somebody replaced this fence board right here. These other ones look like they've been chewed on.</p>
+<p><strong>Greg</strong>: Guy said that Karen freaked out when his dog barked at her kid. Maybe the dog chewed through the fence.</p>
+<p>(Warrick tests the soil.) </p>
+<p><strong>Warrick</strong>: There's definitely a change in density there.</p>
+<p><strong>Sara</strong>: Let's start digging.</p>
+<p>CUT TO:<br />
+[INT. MATTHEWS RESIDENCE - JESSE'S ROOM -- DAY] </p>
+<p>(Grissom photographs the paintings on the wall. One of the pictures is of a rainbow. Grissom puts his thumb up against the finger painting to measure the size and width of the strokes which match an adult's thumb.) </p>
+<p>(He steps back and looks at the paint bowl on the table.)</p>
+<p>(Catherine walks in.) </p>
+<p><strong>Catherine</strong>: I found this in Karen's medicine chest. Olanzapine.</p>
+<p>(She's holding a bagged prescription bottle.) </p>
+<p><strong>Grissom</strong>: That's a heavy-duty antipsychotic.</p>
+<p><strong>Catherine</strong>: Yeah. But the prescription is over four years old. I'll have Brass subpoena her medical records.</p>
+<p><strong>Grissom</strong>: You know, if she was being treated for psychosis, it could explain all of this, because she didn't overlook a single detail. I think she even did the finger paintings.</p>
+<p><strong>Catherine</strong>: It's hard for anyone to let go of someone they love.</p>
+<p><strong>Grissom</strong>: Yeah. After my dad died, my mom would still get him a present every Christmas. She'd put it under the tree. Christmas morning, the wrapping paper would be all crumpled up and, uh ... the tie or the sweater, whatever it was, would be hanging in their closet.</p>
+<p><strong>Catherine</strong>: How old were you when he died?</p>
+<p>(Grissom snaps photos of the play table.) </p>
+<p><strong>Grissom</strong>: Nine.</p>
+<p><strong>Catherine</strong>: Little guy. (Grissom stops and looks around, lost in his own thoughts.) I'll get started in Karen's room.</p>
+<p>(Catherine turns to leave, but Grissom stops her.) </p>
+<p><strong>Grissom</strong>: (suddenly) He taught botany. He, uh ... came home from school one hot, humid day, laid down on the couch. I was watching TV. My mom brought in some cold drinks ... but she couldn't wake him up. </p>
+<p>(They fall silent.) </p>
+<p><strong>Grissom</strong>: No one would tell me why.</p>
+<p>CUT TO:<br />
+[INT. CSI - GARAGE -- DAY] </p>
+<p>(Nick is going through Karen Matthews' car. He's examining the car trunk.) </p>
+<p>(He removes the carpeting and tosses it aside. He examines the trunk and finds some fibers. He takes a sample of the fibers and puts it in a container.) </p>
+<p><strong>Receptionist</strong>: (over P.A.) Nick Stokes, you have a visitor in reception. Nick Stokes, you have a visitor in reception.</p>
+<p>(Nick stops and listens when he hears his name.) </p>
+<p>[INT. CSI - TRACE LAB - DAY -- CONTINUOUS] </p>
+<p>(Nick walks into the lab.) </p>
+<p><strong>Nick</strong>: Hey, Hodges.</p>
+<p>(Hodges turns around.) </p>
+<p><strong>Hodges</strong>: Oh, hey, Nick. Did you hear you had a visitor?</p>
+<p><strong>Nick</strong>: Yeah, and you have a tissue sample with adherent hairs. Examine the hairs and get the tissue sample to DNA. Priority.</p>
+<p><strong>Hodges</strong>: I'll just drop everything I'm doing. Priority, Nick Stokes.</p>
+<p><strong>Nick</strong>: You're coming around, Hodges.</p>
+<p>(Nick leaves and heads over to Reception.) </p>
+<p>[INT. CSI - RECEPTION - DAY -- CONTINUOUS] </p>
+<p>(The receptionist is on the phone.) </p>
+<p><strong>Nick</strong>: Hey. I, uh, I have a visitor?</p>
+<p>(She points to the side.) </p>
+<p>(He turns and sees Kelly Gordon sitting on the chair.) </p>
+<p><strong>Nick</strong>: Kelly?</p>
+<p><strong>Kelly Gordon</strong>: Hi.</p>
+<p><strong>Nick</strong>: Hi. You ... you got out.</p>
+<p><strong>Kelly Gordon</strong>: Couple days ago. </p>
+<p><strong>Nick</strong>: (nods) Mm ... </p>
+<p><strong>Kelly Gordon</strong>: Parole Hearing Board liked my smile.</p>
+<p>(He smiles a little.) </p>
+<p><strong>Nick</strong>: You know, I thought I saw you at a crime scene the other day.</p>
+<p><strong>Kelly Gordon</strong>: You did.</p>
+<p><strong>Nick</strong>: I did?</p>
+<p><strong>Kelly Gordon</strong>: Just checking it out. (She stands up.) You know how, when you came to see me, what you said about when I get out, not taking it with me? I've been thinking a lot about that. I wanted you to know.</p>
+<p><strong>Nick</strong>: You all right?</p>
+<p><strong>Kelly Gordon</strong>: Perfect.</p>
+<p>(Kelly turns and leaves.) </p>
+<p>CUT TO:<br />
+[EXT. MATTHEWS RESIDENCE - BACK YARD -- DAY] </p>
+<p>(Warrick and Greg carefully dig out the soil in the area in front of the fence. They put it in a sifter where Sara goes through the soil.) </p>
+<p>(They take a canister sample of the soil. On the other side of the fence, we see Queenie trying to dig through the rocks to get under it.) </p>
+<p>(Greg puts a shovel full of dirt into a canister.) </p>
+<p><strong>Greg</strong>: That would be Queenie.</p>
+<p>(Queenie growls and barks.)</p>
+<p><strong>Sara</strong>: Even after four years, you'd expect to find some bones. There's nothing.</p>
+<p>(Sara and Warrick sift through the dirt as Greg digs. Warrick finds a plastic toy dinosaur in the dirt.) </p>
+<p><strong>Warrick</strong>: Jesse liked dinosaurs.</p>
+<p>(Quick flashback of: Karen puts a plastic toy dinosaur in the hole with Jesse. She covers him up with dirt. End of flashback.) </p>
+<p>(Everyone falls silent.) </p>
+<p><strong>Greg</strong>: Let's see what Hodges can tell us.</p>
+<p>(Greg tightens the container cover.) </p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE -- DAY] </p>
+<p>(Grissom, Catherine and Brass sit and share their findings.) </p>
+<p><strong>Grissom</strong>: The GCMS soil analysis found cadaverine, putrescine and several other organic compounds.</p>
+<p><strong>Brass</strong>: Yeah. English, please?</p>
+<p><strong>Grissom</strong>: It means there was a body buried in Karen's backyard. </p>
+<p><strong>Catherine</strong>: Just too long ago to get any DNA. But Hodges also found traces of olanzapine.</p>
+<p><strong>Brass</strong>: Well, that's interesting, because a warrant came through on Karen Matthews' medical records, and after her son was born, Karen was treated for postpartum psychosis, which her doctors treated by prescribing olanzapine.</p>
+<p><strong>Grissom</strong>: Even a small amount of that stuff would be lethal to a two-year-old.</p>
+<p><strong>Catherine</strong>: Karen is already mentally fragile when her husband is killed. She gets into a very heated argument with the in-laws at his funeral, goes over the deep end, poisons Jesse and buries him in the backyard near the fence.</p>
+<p>INTERCUT WITH: </p>
+<p>[INT. POLICE DEPARTMENT -- DAY] </p>
+<p>(Karen puts her earring on the table. The officer takes it and puts it in an envelope.) </p>
+<p>(Karen removes her wedding ring.) </p>
+<p><strong>Brass</strong>: (V.O.) But then she digs him up. Why?</p>
+<p><strong>Grissom</strong>: (V.O.) We have evidence to suggest that the neighbor's dog ... </p>
+<p>(Karen puts her wedding ring on the table.) </p>
+<p>[INT. CSI - GRISSOM'S OFFICE -- DAY] </p>
+<p><strong>Grissom</strong>: ... was digging in Karen's backyard. </p>
+<p><strong>Catherine</strong>: The neighbor claims that Karen killed his dog. If the dog detected decomp and dug near the grave, ... </p>
+<p>[INT. POLICE DEPARTMENT -- DAY] </p>
+<p>(An officer pats Karen down.) </p>
+<p><strong>Catherine</strong>: (V.O.) Karen may have moved the body to protect him.</p>
+<p><strong>Brass</strong>: (V.O.) So, where's Jesse's body?</p>
+<p>[INT. CSI - GRISSOM'S OFFICE -- DAY] </p>
+<p><strong>Catherine</strong>: Nick found a patch of tissue and hair in trunk of Karen's car. The DNA matches the toothbrush. </p>
+<p><strong>Grissom</strong>: If Karen doesn't tell us where to look, I doubt we'll ever find the body.</p>
+<p><strong>Brass</strong>: You know, as long as I do this job, I can never understand ... </p>
+<p>[INT. POLICE DEPARTMENT -- DAY] </p>
+<p>(Karen puts on the red shirt on.) </p>
+<p><strong>Brass</strong>: (V.O.) ... how a mother can kill her child.</p>
+<p>[INT. CSI - GRISSOM'S OFFICE -- DAY] </p>
+<p><strong>Grissom</strong>: Euripedes tried to understand it when he wrote Medea. &quot;I will slay my children without delaying long enough to hand them over to some more savage hand.&quot;</p>
+<p>[INT. POLICE DEPARTMENT -- DAY] </p>
+<p>(The officer puts handcuffs on Karen's wrists.) </p>
+<p><strong>Grissom</strong>: (V.O.) Medea, like Karen, was a soldier's wife.</p>
+<p><strong>Catherine</strong>: (V.O.) His father was a soldier, his grandfather was a soldier, ... </p>
+<p>(The officer leads Karen away.) </p>
+<p>[INT. CSI - GRISSOM'S OFFICE -- DAY] </p>
+<p><strong>Catherine</strong>: ... Karen did not want that for Jesse.</p>
+<p><strong>Brass</strong>: Well, it's still murder.</p>
+<p>(Grissom shrugs.) </p>
+<p>[INT. POLICE DEPARTMENT - HALLWAY -- DAY] </p>
+<p>(The officers open the door as Karen walks through into the hallway. They walk her through the hallway.) </p>
+<p>(Suddenly, Karen stops. In her mind, she hears a child's voice call out to her.) </p>
+<p><strong>Voice</strong>: (faintly) Mommy ... Mommy!</p>
+<p>[OFF KAREN]</p>
+<p>(Karen turns around, she smiles brightly as she kneels down and raises her arms out in front of her to welcome her child.) </p>
+<p>(We see there's no one there.) </p>
+<p>(But she sees otherwise. With arms outstretched in front of her, Karen smiles as the camera moves directly toward her.) </p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
- 
- 
- 
-Karen Matthews: Jesse? Jesse?
- 
-Karen Matthews: Jesse ... Jesse, can you hear me? Jesse, please!
- 
-Karen Matthews:  Jesse!!
-
-
-
- 
-Brass: Jesse Matthews, six years old.
- 
-Grissom: Is this an old photo?
-Brass: Yeah, it's the only one the mom had. She said one minute, he's on the swing, the next minute he's gone.
-Grissom: Abduction.
-Brass: Well, the search radius is over a mile -- no sign of the boy.
-Warrick: What about the father?
-Brass: The father is, um ... Army Sergeant, uh ...  ... Dwight Matthews. Killed in Afghanistan four years ago.
-Grissom: Any other family members? Grandparents? Boyfriends?
- 
-Brass: No, her parents are dead and her husband's parents -- she lost communication with them since he died.
- 
-Brass: Mrs. Matthews ... this is Gil Grissom and Warrick Brown from the Crime Lab.
-Karen Matthews: I, uh ... I never bring Jesse to the park. But this afternoon, the backyard just couldn't hold him, so we came here and ... uh ... he was on the swings; I couldn't even get him off, and then I look around and he's gone; he's just ...
-Brass: Mrs. Matthews, there's really nothing more you can do here. Why don't you let us give you a ride home?
- 
-Karen Matthews: I'm not leaving.  Not without Jesse.
- 
-Warrick: I called the team. 
- 
-Warrick: They always look so vulnerable.
-Grissom: They are.
-
-
-
-
-
- 
-Greg: It's like trying to get an ID on swimmers from ripples in the pool. How about you?
- 
-Sara: Lots of little fingers ... and some big ones.
-Greg: Helping hands?
- 
- 
- 
-Brass: Here, ma'am. Look at this picture. Do you remember this boy? It's not a recent photo.
-
-Housekeeper: I had my hands full. I don't take my eyes off him ever.
- 
-Brass: Sure. I understand.
-Housekeeper: But there was this man near the swings -- he kept looking around like he was waiting for something.
-Brass: What'd he look like?
-Housekeeper: He was a white guy, blue baseball cap ... that's all I remember.
-Brass: Did he seem interested in one of the kids?
-Housekeeper: Yeah. A boy. Could be that boy.  Mm ... it's hard to tell.
-Brass: Okay ... thank you. Thank you very much.
-Housekeeper: You're welcome.
- 
- 
-Brass: Mrs. Matthews ...  I know this is difficult for you, but I have to ask you again -- do you remember seeing anyone hanging around near the swings? Anyone. Maybe, maybe a man in a blue baseball cap?
- 
- 
-Karen Matthews: Yes.
-Brass: Can you describe him?
-Karen Matthews: He was white ... 
-Brass:  ... white ... 
-Karen Matthews: Uh ... just under six feet, I think.
-Brass: Six feet. Great.
-Karen Matthews: Jeans. 
- 
- 
- 
- 
-Karen Matthews: Did he take Jesse?
-Brass: We don't know.
-
-
- 
- 
- 
-
- 
-Grissom: Our K-9 officers are going to need something that Jesse's worn recently.
-Karen Matthews: Uh ... his jacket. It's in the car. I'll get it for you.
- 
-
-
- 
-Officer: Okay, man. All right? Seek!
- 
-Officer: Let's go! Come on!
- 
- 
-
- 
-Karen Matthews: Whoa! Whoa! What are they doing?
-Grissom: Pull the dogs back, please.
-
-Officer: Heel!
- 
-Grissom: Can I see this jacket? 
- 
-Grissom:  Has Jesse ever worn this?
-Karen Matthews: I just bought it for him. He's been growing so fast. I'm sorry, I ... 
-Grissom: That's okay; we'll get something from your house.
-
-
-
-
-
- 
- 
-Warrick: What do you make of this? 
- 
-Warrick: Possible struggle ... that could've been used as a weapon.  The blood drops could be castoff.
- 
-Warrick: Maybe the poor kid had to pee while his mom was in the car.
- 
- 
-
- 
-Warrick: Mrs. Matthews, I need you to take a look at something. Do you recognize these?
- 
-Karen Matthews: They're ...
- 
-
-
- 
- 
- 
- 
-Catherine: Mrs. Matthews inside?
-Brass: Yeah. Every mother's worst nightmare.
- 
-Brass:  I checked her answering machine: No calls.
-Catherine: Well, I'll get a DNA exemplar for Jesse and let her get some sleep.
-Brass: She won't sleep.  Okay, Greg, let's do a little legwork, what do you say? You take this side of the street; I'll take the other -- find out if anybody's seen anything suspicious.
- 
- 
- 
- 
-Catherine: Mrs. Matthews? 
- 
-Catherine: Mrs. Matthews? 
- 
-Catherine: I'm Catherine Willows from the Crime Lab.
-Karen Matthews: Sorry about the mess.
-Catherine: It's okay.
-Karen Matthews: Jesse was so full of energy this morning. He didn't give me time to clean up.
-Catherine: I understand. 
- 
-Catherine: This photo ... is it recent?
-Karen Matthews: Uh, yeah, that's, uh, that's from last month.
-Catherine: If it's all right with you, I'd like to borrow it. I'll get it to Nevada Child Search, and they can get it out to the media.
-Karen Matthews: Sure.
-Catherine: Thank you.
- 
-Karen Matthews: Jesse's home-schooled. We do art together ... music ... everything. 
-(Catherine leans forward and notices the penciled lines on the side wall with indications of Jesse's height and age:
-6 years - 36 1/2 &quot;
-5 years - 34 &quot;
-50 months
-4 years - 31 1/3&quot;
- 
-Karen Matthews: Do you have children?
-Catherine: I have a daughter. Thirteen.
-Catherine: &quot;Thirty-six and a half inches.&quot; I'll add it to the physical description. And, Mrs. Matthews, our K-9 unit will need something with Jesse's scent.
-Karen Matthews: Oh, right, right. Um ... maybe ... maybe his stuffed dinosaur? He holds it while he's sleeping.
-Catherine: That'll work. And I will need something with his DNA: A toothbrush, hairbrush, pillowcase ...
-Karen Matthews: Why do you need that?
-Catherine: Well, if we locate anything that could lead us to him, we want to make sure we've got the right boy.
-Karen Matthews: Well, I'll get those things for you.
- 
-
- 
- 
-Catherine: Hi. 
-Officer Ackers: Hey. Captain Brass asked me to drive the lady's car home.
-Catherine: Oh ... okay. Yeah, I'll let her know. 
- 
-Officer Ackers: Thanks.
-Catherine: Mm-hmm.
- 
-(Catherine takes a moment and looks around the garage. She notices wrapped birthday presents stacked on the wall shelf. One of the labels reads:
-HAPPY BIRTHDAY
-JESSE!
-LOVE, GRANDMA &amp; GRANDPA
-(The next package she looks at is a Christmas present with the label:
-TO: JESSE
-FROM: GRANDPA &amp; GRANDMA
- 
- 
- 
-Ken McCracken: Since her husband died, kid's toys always laying around. I'm always tossing balls over my fence back into her yard. They keep to themselves, which is fine by me.
-Greg: Sir, have you seen any suspicious cars in the neighborhood, or strangers?
-Ken McCracken: I work all day and I don't spend my nights looking at the neighbors, okay?
-Greg: Well, what about the weekends?
-
-Greg: Aggressive little pooch. 
-Ken McCracken: Oh, she's my sweetie. 
- 
-Ken McCracken: Who's my good girl? Queenie's my good girl. Yes, you are. Yes, you are.  Interesting how things work out.
-Greg: What do you mean?
-Ken McCracken: Her kid getting killed. This is Queenie. My last dog, Princess ... Princess died, and she did it.
-Greg: Karen Matthews?
-Ken McCracken: Four years ago. I found Princess hanging off the back fence. Supposed to look like it was an accident, like she got caught on collar and choked.
-Greg: Did you see her do that?
-Ken McCracken: No, but I knew. See, Princess used to bark through the fence at her kid. She just wanted to play.  If you ask me, you know what? The kid liked it, but Karen she just went off the deep end. 
-Greg: Mr. McCracken, who told you her son was killed?
-
-
- 
- 
-Catherine: Who takes care of the hamsters?
-Karen Matthews: Jesse. When he remembers. Which is as about as often as he remembers to brush his teeth.
- 
-Catherine: Mrs. Matthews, has Jesse ever run away from home?
-Karen Matthews:  He'd never do that.
- 
-Catherine: Was he upset about anything?
-Karen Matthews: No. No. No. You're going to find him. If something happened, I'd know. 
-
-Karen Matthews:  I'd know here. 
-Catherine: Of course. I'd feel the same. 
- 
-Catherine: Mrs. Matthews, when the officer brought your car back, I noticed that there were gifts in the garage that were from your husband's parents.
-Karen Matthews: The, um ... the colonel and his wife. We're, uh, we're not in touch anymore. Ever since Dwight was ... ever since Dwight died, my father-in-law thinks he should be raising Jesse, not me. He runs that house like an army barracks. Do you know what that does to a boy? Well, I saw what it did to Dwight, and I will not let him do that to Jesse.
-Catherine: I'm still going to need some contact information.
- 
-Karen Matthews: They took him.
-
-
-
-
- 
- 
-
-
- 
-
-
- 
-Warren Matthews: We haven't seen Karen or Jesse since, um ...  ... uh ... since ... 
-Faye Matthews: We haven't seen them in four years, since the day we buried our son.
-
- 
-Warren Matthews:  Here. Here's your toy soldier.
- 
-Faye Matthews:  Warren, not today.
-Warren Matthews:  He's my grandson. It-it's, it's a toy.
-Karen Matthews:  I will raise my own son-- not you.
-
- 
-Warren Matthews: Jesse comes from a, from a long line of military men going all the way back to Bull Run. Were you in the service?
-Brass: Yes, sir. Marine Corps.
-Warren Matthews: I bet your dad was, too, right?
-Brass: You know, we're here to talk about your family, not mine.
-Faye Matthews: If we hadn't seen Jesse's picture last night on TV, we wouldn't know what he looked like now.
-Warren Matthews: She blames me.
-Faye Matthews: I do not.
-Warren Matthews: Don't tell me what I know and don't know, all right?
-Faye Matthews: Can I please just go to the bathroom?
-Brass: Oh, absolutely. Absolutely.
-Warren Matthews: Where is it?
-Brass: It's. Uh ... down the hall to the right, through the door.
-Faye Matthews: Excuse me.
- 
-Warren Matthews:  This is just between you and me. I saw Karen last week.
- 
-Warren Matthews: Oh, hi, Karen, uh, could I see Jesse please?
-Karen Matthews: No.
- 
-Warren Matthews: Karen, he's my only grandson.
-Karen Matthews: You can't have him, okay?
-Warren Matthews: I don't want to keep him, Karen. I just want to give him these. Please.
- 
-Karen Matthews: Just leave us alone.
- 
-Warren Matthews: Jesse! It's Grandpa. Jesse!
-Karen Matthews: No, please.
- 
- 
- 
-Brass:  Colonel?
- 
-Warren Matthews: Where's my wife?
-Brass: She's in the ladies' room. It's okay. Do you get these uh ... these spells often? There's some memory loss?
-Warren Matthews: It's early Alzheimer's.
-Brass: That's a tough one.
-Warren Matthews: All I wanted was to see my grandson. Find him for me.
-Brass: We'll do our best, sir. We'll do our very best.
-
-
- 
- 
-Warrick: Any luck with those prints from the swing?
-Sara: Nothing on AFIS, but Brass did put out a bulletin for the guy in the blue baseball cap.
-Warrick: I wouldn't get our hopes up -- it's a vague description.
-Sara: What about the K-9 search?
-Warrick: Nothing.
- 
- 
-Warrick: What do you got for me?
- 
-Wendy Simms: Well, I ran the exemplar toothbrush against a blood sample from the men's room. It's not a match.
-Warrick: What about the underpants?
-Wendy Simms: Couldn't get enough epithelials for DNA 'cause the kid probably hadn't been wearing them for very long.
-(The label on the evidence bag reads:
-CRIME SCENE SEARCH EVIDENCE REPORT
-Name of Subject:
-Offense: LVPD 051207-1165 GG
-Date of Incident: 12-07-05 TIME: 11:28 AM/PM
-Search Officer: W. BROWN
-Evidence Description: BOYS UNDERPANTS
-Location: Mesa Valley Park Men's Room
-Warrick: I wonder why.
-Wendy Simms: Well, I did confirm a positive result for urea in the underpants. And the quantity and distribution suggests that the kid wet himself.
-Warrick: Ditched his wet tighty-whiteys and went back out to play. 
- 
-Wendy Simms: I got a hit on your blood. Conner Daly. Convicted of NRS
-201.450. Out on parole.
-(The information on the screen reads:
-ADDRESS: 1204 Bonnie Brae
-Las Vegas, NV 891-
-CRIMINAL HISTORY:
-NRS 201.450
-Sexual Penetration of a Dead Human Body
-One Year State Prison
-RELEASED:
-November 21, 2005 )
-Warrick: What's a 450?
-Wendy Simms: That'd be &quot;s*x with dead body.&quot;
-
- 
- 
-Warrick: Mr. Daly, where were you yesterday afternoon?
-Conner Daly: Playing nickel slots downtown. I, uh .... I'm not trying to win the big jackpot or anything; just passing time. It relaxes me. 
- 
-Warrick: Where did you go next?
-Conner Daly: Walked in the park. Fresh air. I'm allergic to smoke.
- 
-Warrick: Which park?
-Conner Daly: One near my apartment.
- 
-Warrick: Would that be Mesa Valley Park?
-Conner Daly:  Yeah. Then I sat down on a park bench and read a copy of the RJ that I picked out of the trash. What's this about?
-Warrick: Did you go to the men's room at any time?
-Conner Daly: Only when nature called.
-Warrick: What did you do there?
-Conner Daly: I amused myself.
-Warrick: What did you do next? We found your blood on the floor.
-Conner Daly: I get nosebleeds. Too much cocaine back in the day.
-Warrick: Yeah. I'm sure we'll find that in your medical records. 
- 
-Conner Daly:  My whole damn life is on record. So, why don't you look at the freakin' records, huh?
-Warrick: You have anger issues, Mr. Daly?
- 
-Conner Daly: Yeah.
-Warrick: Would you take a seat for me, please. 
- 
-Warrick: What's that cut on your hand from? Pick the wrong partner?
-Conner Daly:  No.
- 
- 
- 
-Conner Daly: Look, I'll send the county a buck-fifty. They can buy a new one.
-Warrick: You recognize this boy?
- 
-Conner Daly: Looks like a kid that this guy brought into the bathroom but I didn't stay to watch.
-Warrick: Did you get a look at the guy?
-Conner Daly:  51's fan.
- 
-Conner Daly: His cap.
-
- 
- 
-Paula Francis:  Las Vegas police may have a break in the case of a missing boy. An eyewitness has come forward with a more complete description of the suspect.
- 
-Paula Francis:  Authorities are now seeking this man in connection with the disappearance yesterday of six-year-old Jesse Matthews.
-
- 
-Paula Francis:  Initial reports from the scene only mention a man in a blue cap, but the police artist had a lot more to work with after the eyewitness came forward.
- 
-Karen Matthews:  Uh, uh ... I'm ju ... I'm just trying to stay positive. And, um, you know, I know that Jesse'll be safe at home again soon. 
-Reporter :  Do you think there's anything else the police ...
-Karen Matthews:  So. I know he'll be safe.
- 
-Paula Francis:  The boy's mother, Karen, is holding out hope that she'll see her son again. She's seen tragedy enough. Four years ago, she lost her husband in combat in Afghanistan.
-
- 
- 
- 
-Valerie Esposito: What's going on? 
- 
- 
-Victor Esposito:  It's ridiculous.
- 
-Clerk: Sorry. Declined again. You have another card?
-Victor Esposito: Aw, come on. That's the fourth time.
-Valerie Esposito: Maybe we got identity theft-ed or something.
- 
-Valerie Esposito:  Hey, hey, leave that candy alone.
-Clerk: It could be the card-reader. My manager'll be right back. If you guys want to get some coffee, it's on the house.
- 
-Brass: All right. Let's go.
- 
-Brass: Las Vegas police. You're under arrest.
-Victor Esposito: What? VALERIE ESPOSITO: What?
- 
-Clerk: That's the kid from the news, right?
-Brass: Yeah. You did good.
- 
-Valerie Esposito: What? 
-Victor Esposito: Yeah, what the hell is going on here?
- 
-Valerie Esposito: Hey, let go of me. 
-Victor Esposito: What are you arresting us for? Huh?
-Valerie Esposito: Let go of me, huh! What the hell is going on here? 
-Victor Esposito: What's going on? What are you arresting us for?!
-Valerie Esposito: Get away from him. Get away from him!
- 
-Brass: It's all right, son. You're safe now ..
-
- 
- 
-Karen Matthews: Oh, God, where is he?
-Catherine: He's in with a social worker. He's okay. 
-Karen Matthews: Jesse! 
- 
-Karen Matthews: Jesse! 
- 
-Karen Matthews: Oh, Jesse, thank God. Thank God you're okay. No, no, no, it's okay. Mommy is here. You're safe now.
- 
-Adam Esposito:  Mommy!
- 
-Adam Esposito: Mommy! 
-Valerie Esposito: Adam!
-Adam Esposito: Mommy!
- 
-Valerie Esposito: Adam! 
-Karen Matthews:  No, your mommy's here, honey.
-Valerie Esposito: No, please.  Get away from my kid!
- 
-Karen Matthews:  What did they say to you? 
-Victor Esposito:  Adam! Don't say nothing!
-Karen Matthews: What did they make you say, sweetheart?
-Victor Esposito:  Look at me. Don't say nothing to nobody. You hear me, little man, huh? Don't say nothing!
- 
- 
-Karen Matthews: Look at me. Just look at me. Don't look at those people. Just look at me. Just look right here.
- 
-Catherine: Jim?
-Warrick: What the hell's going on?
-Brass: That's Victor and Valerie Esposito. Transplants from Jersey. Check this out. 
- 
-Brass: It was with Mrs. Esposito's personal belongings at booking.
- 
-Catherine: He's got the same scar over his eye as in Karen's photos.
-Warrick: So this kid has two moms?
-Brass: King Solomon threatened to cut the baby in half. What are you going to do?
-Catherine: King Solomon didn't have a DNA lab.
-
- 
-Karen Matthews: Here you go, sweetie.
- 
-Catherine: Hey, is it all right if he goes with CSI Brown for a little while? It won't be long.
- 
-Karen Matthews:  Okay.
-Warrick: Hey. My name's Warrick. You want to go for a walk?
-Karen Matthews: It's okay, sweetheart. He's a friend.
- 
-Warrick: Come on, we'll have some fun.
- 
-Karen Matthews: Oh, wait.
- 
-Karen Matthews: He gets cold.
- 
-Warrick: Thanks.
- 
-Karen Matthews: Thank you.
- 
-
-
-
-;
-
-
-
- 
- 
- 
-Warrick: Wow, everybody's so busy in there, huh? Hey, I hear you like dinosaurs. Which one's your favorite?
- 
-Warrick: You know what mine is? T-rex. 'Cause he's got teeth like this big. 
-(Warrick hold out his hands to show the size of the teeth. Grudgingly, Adam looks sideways at Warrick, but he doesn't turn around. And he doesn't say anything.
-Warrick: I bet you wouldn't want him for a pet, would you? 
- 
-Warrick: You want to see something cool? Come over here. Let's sit down.
- 
-Warrick: This is my special science kit. 
- 
-Warrick: Got all kinds of stuff in here. Let me see ... I got rubber gloves.
- 
-Warrick: Here ... put that on.  What else I got in here? I got pens that turn into flashlights. 
- 
-Warrick: You want to see something invisible? Go like this.
- 
-Warrick: See, there's nothing there, right? 
- 
-Warrick: But take my magic wand right here, and I put it in my special magic powder like this.  Watch this. 
- 
-Warrick: What appears is our fingerprints.  Now shine the flashlight on it. 
- 
-Warrick: Wow ... Good job. Will you be my assistant? 
- 
-Warrick: See, no two people's fingerprints are alike. Just like no two people's spit is the same. 
- 
-Warrick: So if I took my spit like this ... 
- 
-Warrick: Now you do it.
- 
-Warrick: See, even if I mix them up, I have a machine to tell me which one is mine and which one is yours. Now, I need you to tell me something. 
- 
-Warrick: Which one of these two pretty ladies is your mom?
-Adam Esposito: That one.
- 
-
- 
- 
-Catherine: Thank you.
-Valerie Esposito: Yeah, whatever. Can I see Adam now?
-Catherine: Adam?
-Valerie Esposito: Yeah. My kid.
-Catherine: Well, once our lab confirms DNA, he can go home with his mother.
-Valerie Esposito: Who the hell do you think I am?
-Catherine: Mrs. Esposito ... did you adopt Adam?
-Valerie Esposito:  Give me a break. Twenty-six hours in labor. Finally had a c-section.
- 
- 
-Catherine:  Did you have twins?
- 
-
- 
- 
-Karen Matthews: Hi. Can I take Jesse home now?
-Catherine: I need your help to tie up a few loose ends.
-Karen Matthews: Of course, anything.
-Catherine: Let's start with a sample of your DNA.
-Karen Matthews: What?
-Catherine: We have to follow procedure for everyone's protection. In fact, Jesse can't even be released without a positive match.
-Karen Matthews: You know, he doesn't stay up this late.
-Catherine: I'll make it a rush, I promise. 
- 
-Catherine: Open your mouth, please.
- 
-
- 
- 
-Catherine: It's the same kid. It's a doppelganger, with an identical scar.
-Warrick: He picked Mrs. Esposito.
-Catherine: I know there's cases in which the kidnappers threatened their victims, &quot;Tell them that I'm your mother or I'll kill your real mom.&quot;
-Warrick: I don't think he's lying.
-Catherine: I don't think that Mrs. Esposito's lying either. Karen Matthews had a house full of photos of him.
-Warrick: Well, I'm sure the Espositos do, too.
- 
-Catherine: There's something off about this picture.
-Warrick: It seems kind of set up, doesn't it?
- 
-Warrick: The pixel density's not the same.
-
- 
- 
-Valerie Esposito: Where'd she get this picture of Adam? How'd she get it?
-Victor Esposito: Maybe she's a stalker.
-Valerie Esposito: No, she wouldn't have stalked us to Cape May. This isn't it. It's the only shore we've been to.
-Catherine: Do you recognize anything in the picture?
-Valerie Esposito: Yeah, that's the shirt his Nana gave him last summer. He only wore it that once, at our family reunion.
-Catherine: Was Karen Matthews there?
-Victor Esposito: No way.
-Catherine: Mr. Esposito ... several witnesses saw a man matching your description at Mesa Valley Park ...  ... when Jesse disappeared.
-Victor Esposito: Yeah, I'm there all the time. We live around the corner.
-Valerie Esposito: We just had Adam's birthday party there last month.
-Victor Esposito: Yeah.
-Catherine: Were you there the day before yesterday?
-Victor Esposito: Yeah, with Adam. Yeah.
- 
-Valerie Esposito: You told me you were taking him for ice cream. What were you doing in the park?
-Victor Esposito: I had to meet a guy.
-Valerie Esposito: A guy? Oh, my God. You're putting money down on a game? You promised you'd quit.
-Victor Esposito: I did, all right? It's for a guy at work.
- 
- 
-Victor Esposito: Three-to-one, right?
-Bookie: Yeah.
- 
-Victor Esposito:  Adam.
- 
-Valerie Esposito: Well, you should have just took him for ice cream.
-
- 
- 
-Warrick: So Karen took a picture of herself at the beach and Photoshopped Jesse in.
-Archie Johnson: Right.
-Warrick: So if that's really Adam Esposito, where did she get the pictures from?
-Archie Johnson: Well, let us see.
- 
-Warrick: Where are you going?
-Archie Johnson: Image search.
- 
-Archie Johnson: Family home page. My mom wants me to do one of these for our family.
-Warrick: Ah. Click on where it says &quot;Adam's Birthday Party.&quot;
- 
-Warrick: That one.
-Archie Johnson: Maybe Karen found the site. Cut out the kid's picture.
-Warrick: That's Mesa Valley Park.
-
- 
- 
-Warrick: Karen Matthews faked those photos that she gave Catherine.
-Grissom: How?
-Warrick: Cut-and-paste. The photos that she got off the Internet.
- 
-Grissom: The Espositos told Catherine that they were at the park with their son the day Jesse Matthews disappeared. Is that a coincidence?
-Warrick: No. My guess is Karen's been downloading pictures from the family website for a while -- the most recent being from Mesa Valley Park.
-Grissom: Could Karen have recognized the park from the pictures on the website?
-Warrick: Yeah, and she went there hoping to see him again.
-Grissom: But she reported him missing. That makes no sense.
- 
-Catherine: Hey, I got the DNA results. The boy is Adam Esposito. Victor and Valerie are his parents.
-Warrick: There you go, she's lying. She doesn't have a son.
-Catherine: Uh, not quite. She's got 13 alleles in common with the male DNA that we got from the toothbrush exemplar.
-Grissom: So she does have a son.
-Catherine: I was inside the house. Believe me, a kid does live there.
-Grissom: And we're still looking for Jesse Matthews.
-
-
-
-
- 
- 
-Brass: Karen Matthews.
- 
-Karen Matthews: Can I take Jesse home now?
-Brass: I'm afraid not. No. The DNA confirms the boy's not your child.
-Karen Matthews: I ... that's impossible.
-Brass: Your actions regarding the Espositos constitutes stalking and possible kidnapping. Please go with this officer.
-Karen Matthews: No, no ... what have you done with Jesse?
-Brass: Ma'am ...
-Karen Matthews: No. Where is he?
- 
-Officer: Ma'am ... Please ... 
-Karen Matthews: Jesse?
-Officer: Ma'am ...
-Karen Matthews: Jesse? Jesse, where are you?!
- 
-Officer: Ma'am, please ...
- 
-Karen Matthews: I need to see my son!  Jesse! Jesse, where are you?!
- 
-Karen Matthews:  Please! Please! Jesse! Jesse! Jesse, where are you?!
-
- 
- 
-Greg: &quot;Jesse David Matthews. Mother Karen, father Dwight. Born August 31, 1999.&quot; I also checked for a death certificate. Nothing on file.
-Catherine: These are all in chronological order. Archie confirmed that all the photos taken along the top row were genuine. Up until the photo taken at the funeral in which he was two.
-Sara: So, the rest of these were faked using Adam Esposito?
-Catherine: Yeah.
-Sara:  You talked to the neighbors. What did they say?
-Greg: Jesse and Karen kept to themselves. But he was always leaving his toys around outside.
-Sara: They saw his toys -- Did they see him?
-Greg: Well, when I asked, &quot;When was the last time you saw Jesse?&quot; No one remembered exactly.
-Warrick: What about his grandparents?
-Catherine: They haven't seen him since the funeral.
-Warrick: Has anyone seen Jesse since he was two? His teachers or a doctor, baby-sitters ... ?
-Catherine: Well, he was home-schooled. And we're looking into a doctor and a sitter.
-Warrick: Well, I guess we can impound her car and find out if there's any evidence that he was even in there.
-Catherine: For four years she's created an elaborate fantasy -- which collided with reality at Mesa Valley Park.
- 
- 
-Karen Matthews: Jesse.
- 
-Voice: Mommy! 
- 
-Karen Matthews: Jesse? Where are you?! Jesse?!
- 
-Warrick: I suppose she thought it was her son that was gone when she looked back at that empty swing.
-Catherine: When she couldn't find him, she called the police. 
-Sara: Jesse's been missing for four years. We're chasing a ghost.
- 
-
- 
- 
-Karen Matthews: We went to the park. I-I brought Jesse's new jacket. He was on the swings and when I wasn't looking, a man in a blue cap took him.
-Catherine: Karen, tell me what happened four years ago after your husband was killed.
-Karen Matthews: I-I ... that's a ... I am not the one that should be here. You should be talking to the man that took Jesse.
-Catherine: Did Jesse get sick? Was there an accident?
- 
-Catherine: Karen? Did something happen to Jesse? Is Jesse dead?
-Karen Matthews: You saw him. You were ... you were there while I held him in my arms. Why are you putting me through this? Tell me. Why?
-
- 
- 
-Greg: So how do we do this?
-Warrick: Old school. Soil probes. The probe goes deeper where the soil's been disturbed.
- 
-Greg: And that's where we dig?
-Sara: On the one hand, you really want to find the body. Give it respect, provide closure ... on the other hand ... 
-Warrick: Yeah.
- 
- 
-Warrick: She would have buried the body where he would have still been close to her.
-Sara: You know, I'm not finding any density changes.
-Greg: Me neither.
- 
-Warrick: Somebody replaced this fence board right here. These other ones look like they've been chewed on.
-Greg: Guy said that Karen freaked out when his dog barked at her kid. Maybe the dog chewed through the fence.
- 
-Warrick: There's definitely a change in density there.
-Sara: Let's start digging.
-
- 
- 
-
- 
-Catherine: I found this in Karen's medicine chest. Olanzapine.
- 
-Grissom: That's a heavy-duty antipsychotic.
-Catherine: Yeah. But the prescription is over four years old. I'll have Brass subpoena her medical records.
-Grissom: You know, if she was being treated for psychosis, it could explain all of this, because she didn't overlook a single detail. I think she even did the finger paintings.
-Catherine: It's hard for anyone to let go of someone they love.
-Grissom: Yeah. After my dad died, my mom would still get him a present every Christmas. She'd put it under the tree. Christmas morning, the wrapping paper would be all crumpled up and, uh ... the tie or the sweater, whatever it was, would be hanging in their closet.
-Catherine: How old were you when he died?
- 
-Grissom: Nine.
-Catherine: Little guy.  I'll get started in Karen's room.
- 
-Grissom:  He taught botany. He, uh ... came home from school one hot, humid day, laid down on the couch. I was watching TV. My mom brought in some cold drinks ... but she couldn't wake him up. 
- 
-Grissom: No one would tell me why.
-
- 
- 
- 
-Receptionist:  Nick Stokes, you have a visitor in reception. Nick Stokes, you have a visitor in reception.
- 
- 
- 
-Nick: Hey, Hodges.
- 
-Hodges: Oh, hey, Nick. Did you hear you had a visitor?
-Nick: Yeah, and you have a tissue sample with adherent hairs. Examine the hairs and get the tissue sample to DNA. Priority.
-Hodges: I'll just drop everything I'm doing. Priority, Nick Stokes.
-Nick: You're coming around, Hodges.
- 
- 
- 
-Nick: Hey. I, uh, I have a visitor?
- 
- 
-Nick: Kelly?
-Kelly Gordon: Hi.
-Nick: Hi. You ... you got out.
-Kelly Gordon: Couple days ago. 
-Nick:  Mm ... 
-Kelly Gordon: Parole Hearing Board liked my smile.
- 
-Nick: You know, I thought I saw you at a crime scene the other day.
-Kelly Gordon: You did.
-Nick: I did?
-Kelly Gordon: Just checking it out.  You know how, when you came to see me, what you said about when I get out, not taking it with me? I've been thinking a lot about that. I wanted you to know.
-Nick: You all right?
-Kelly Gordon: Perfect.
- 
-
- 
- 
- 
- 
-Greg: That would be Queenie.
-
-Sara: Even after four years, you'd expect to find some bones. There's nothing.
- 
-Warrick: Jesse liked dinosaurs.
- 
- 
-Greg: Let's see what Hodges can tell us.
- 
-
- 
- 
-Grissom: The GCMS soil analysis found cadaverine, putrescine and several other organic compounds.
-Brass: Yeah. English, please?
-Grissom: It means there was a body buried in Karen's backyard. 
-Catherine: Just too long ago to get any DNA. But Hodges also found traces of olanzapine.
-Brass: Well, that's interesting, because a warrant came through on Karen Matthews' medical records, and after her son was born, Karen was treated for postpartum psychosis, which her doctors treated by prescribing olanzapine.
-Grissom: Even a small amount of that stuff would be lethal to a two-year-old.
-Catherine: Karen is already mentally fragile when her husband is killed. She gets into a very heated argument with the in-laws at his funeral, goes over the deep end, poisons Jesse and buries him in the backyard near the fence.
-
- 
- 
- 
-Brass:  But then she digs him up. Why?
-Grissom:  We have evidence to suggest that the neighbor's dog ... 
- 
- 
-Grissom: ... was digging in Karen's backyard. 
-Catherine: The neighbor claims that Karen killed his dog. If the dog detected decomp and dug near the grave, ... 
- 
- 
-Catherine:  Karen may have moved the body to protect him.
-Brass:  So, where's Jesse's body?
- 
-Catherine: Nick found a patch of tissue and hair in trunk of Karen's car. The DNA matches the toothbrush. 
-Grissom: If Karen doesn't tell us where to look, I doubt we'll ever find the body.
-Brass: You know, as long as I do this job, I can never understand ... 
- 
- 
-Brass:  ... how a mother can kill her child.
- 
-Grissom: Euripedes tried to understand it when he wrote Medea. &quot;I will slay my children without delaying long enough to hand them over to some more savage hand.&quot;
- 
- 
-Grissom:  Medea, like Karen, was a soldier's wife.
-Catherine:  His father was a soldier, his grandfather was a soldier, ... 
- 
- 
-Catherine: ... Karen did not want that for Jesse.
-Brass: Well, it's still murder.
- 
- 
- 
- 
-Voice:  Mommy ... Mommy!
-
- 
- 
- 
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=06x10+-+Still+Life&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127413%23p127413" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=06x10+-+Still+Life&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127413%23p127413" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127413%23p127413&amp;name=06x10+-+Still+Life" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127413%23p127413" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=b456a70a71bebef80a532604eab8a408">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=b456a70a71bebef80a532604eab8a408">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=b456a70a71bebef80a532604eab8a408">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=b456a70a71bebef80a532604eab8a408">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

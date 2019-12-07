@@ -1,678 +1,908 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN: 
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) – NIGHT]
+[INT. DAVIS RESIDENCE – LIVING ROOM -- NIGHT] 
+(The dice rolls out onto the coffee table" />
+<meta property="og:title" content="08x06 - Who and What - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN: 
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) – NIGHT]
+[INT. DAVIS RESIDENCE – LIVING ROOM -- NIGHT] 
+(The dice rolls out onto the coffee table" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13363" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>08x06 - Who and What - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13363" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13363">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=74adf592bb33f1f61e77cc4fdaddd4eb"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=74adf592bb33f1f61e77cc4fdaddd4eb">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=74adf592bb33f1f61e77cc4fdaddd4eb">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=74adf592bb33f1f61e77cc4fdaddd4eb">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=74adf592bb33f1f61e77cc4fdaddd4eb">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13363&amp;sid=74adf592bb33f1f61e77cc4fdaddd4eb&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>08x06 - Who and What</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127457">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127457">08x06 - Who and What</a></div>
+							<div class="pull-right text-right"><time datetime="2007-11-22T20:59:20Z">11/22/07 20:59</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN: </p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) – NIGHT]</p>
+<p>[INT. DAVIS RESIDENCE – LIVING ROOM -- NIGHT] </p>
+<p>(The dice rolls out onto the coffee table.) </p>
+<p><strong>Carmen Davis</strong>: She-bang! </p>
+<p>(Carmen Davis is playing with a young blonde-haired boy who sits on the couch looking very bored. She holds a glass of wine as she plays the game.) </p>
+<p><strong>Carmen Davis</strong>: That's pretty cool, right?</p>
+<p><strong>Evan Michaels</strong>: (nods) Mm-hmm.</p>
+<p><strong>Carmen Davis</strong>: That doesn't happen very often, you know.</p>
+<p><strong>Evan Michaels</strong>: I know.</p>
+<p>(She totals the points.) </p>
+<p><strong>Carmen Davis</strong>: You won. You beat me!</p>
+<p><strong>Evan Michaels</strong>: (unenthusiastic) Uh-huh.</p>
+<p>(She puts her glass down on the table and gathers the dice.) </p>
+<p><strong>Carmen Davis</strong>: You want to play again?</p>
+<p>(She shakes the container. He shakes his head. The dice rattle. She sighs.) </p>
+<p><strong>Carmen Davis</strong>: Fine.</p>
+<p>(She picks up her wine glass.) </p>
+<p><strong>Carmen Davis</strong>: Whatever.</p>
+<p>(She gives him the television remote.) </p>
+<p><strong>Carmen Davis</strong>: Knock yourself out.</p>
+<p>(Carmen gets up and heads down the hallway. Evan turns the television set on to watch cartoons.) </p>
+<p>(Carmen closes the bathroom door.) </p>
+<p>[INT. DAVIS RESIDENCE -- BATHROOM – NIGHT]</p>
+<p>(The bathtub water runs. Carmen drops the towel wrapped around her, turns the water off and climbs into the bathtub. She sighs and settles back to enjoy her bath. She has candles lit on the sink, shelves and windowsill, and she has her glass of wine with her.) </p>
+<p>(The small apartment starts to quiver and shake, the bottles on the sink rattle as the nearby train passes by. But Carmen is used to this. She continues with her bath and sips from her wine glass.) </p>
+<p>(Then, she hears a loud thud coming from outside. She puts her wine glass down on the bathroom sink. She looks at the door.) </p>
+<p><strong>Carmen Davis</strong>: Evan? Evan.</p>
+<p>(She hears a sound coming from the other side of the door.)</p>
+<p>(She sees the doorknob turn and open. A bloodied hand pushes the door open.)</p>
+<p>(The train horn blows.) </p>
+<p>(She screams.)</p>
+<p>(The door is pushed open and a man carrying a hammer walks in. He hits her over and over and over again; blood spatters everywhere – on the sink, on the wall, on the tub.) </p>
+<p>CUT TO:<br />
+[EXT. STREET OUTSIDE DAVIS RESIDENCE – NIGHT]</p>
+<p>(The CSI SUV turns the corner and pulls up along the curb. Grissom gets out of the car and appears puzzled by what he sees – David Phillips and the other coroner are leaning against the gurney on the sidewalk.)</p>
+<p>(He heads for the house.) </p>
+<p>[INT. DAVIS RESIDENCE – NIGHT]</p>
+<p>(Grissom peers into the house. He sees the body of the little boy on the living room floor, face down. Apparently, nothing has been done yet. Grissom walks up to the body. Greg is kneeling next to the boy. He looks at Grissom.) </p>
+<p><strong>Grissom</strong>: How long have you been here?</p>
+<p><strong>Greg</strong>: About six hours.</p>
+<p>(Grissom turns and heads for the bathroom at the end of the hall where Carmen's body is on the floor. She is covered with a towel.) </p>
+<p>(He turns when he hears a camera snap. Catherine is taking photos in the bedroom.) </p>
+<p><strong>Grissom</strong>: Why haven't these bodies been released?</p>
+<p><strong>Catherine</strong>: Good question. David was in Henderson on another call, so, when Greg and I got here, we just started processing the house. </p>
+<p>(Catherine walks over to him.) </p>
+<p><strong>Catherine</strong>: Found the victim in the bathroom, covered with a towel. We got a plastic print on the bathroom door. It's the strongest piece of evidence -- I photographed it and transmitted the image back to the lab; Mandy got a hit to an unknown palm; case info was in ViCAP. And then, Dispatch called, telling me to stop processing immediately, by order of the FBI.</p>
+<p><strong>Grissom</strong>: The FBI field office is right next to the Strip. What's taking them so long?</p>
+<p><strong>Catherine</strong>: Oh, beats the hell out of me.</p>
+<p>(The small apartment starts to quiver and shake, the bottles on the sink rattle as the nearby train approaches. Overhead, they hear the sounds of a helicopter rotor. Catherine and Grissom look at each other.) </p>
+<p>[EXT. STREET OUTSIDE DAVIS RESIDENCE – NIGHT]</p>
+<p>(The FBI helicopter, #N67TV, approaches and lands near the house. Brass walks over. Jack Malone gets out of the helicopter and they shake hands.) </p>
+<p><strong>Jack</strong>: Jack Malone, FBI.</p>
+<p><strong>Brass</strong>: Jim Brass.</p>
+<p>(They head for the house.) </p>
+<p><strong>Jack</strong>: I'm based in New York, but I was testifying in a case in San Francisco. When I heard about the ViCAP hit, I got here as fast as I could.</p>
+<p><strong>Brass</strong>: Chopper from the Strip? That's nice. That's my tax dollars at work?</p>
+<p><strong>Jack</strong>: You get a positive ID on the boy?</p>
+<p><strong>Brass</strong>: No, but we have an ID on the female -- name is Carmen Davis. According to neighbors, she lives alone. Apparently no kids of her own. But if I find anything out, I'll let you know.</p>
+<p><strong>Jack</strong>: Thank you. </p>
+<p>(Brass leaves. Jack motions for David Phillips and the other coroner.) </p>
+<p><strong>Jack</strong>: You're up. </p>
+<p>(David takes his kit and follows him inside.) </p>
+<p>[INT. DAVIS RESIDENCE – NIGHT]</p>
+<p>(Jack enters the residence. He sees Greg with his camera.) </p>
+<p><strong>Jack</strong>: (to Greg) You -- you get enough photos?</p>
+<p><strong>Greg</strong>: Definitely.</p>
+<p>(Catherine and Grissom are there as well.) </p>
+<p><strong>Jack</strong>: (to David) Roll the body over.</p>
+<p>(David rolls the little boy's body over so that Jack can see his face. Jack is quiet. He sighs.) </p>
+<p><strong>Grissom</strong>: What's going on?</p>
+<p><strong>Jack</strong>: Jack Malone, FBI, New York City. </p>
+<p>(Jack hands Catherine a photo.) </p>
+<p><strong>Jack</strong>: This boy was kidnapped from his babysitter's apartment six years ago. Babysitter was killed. The only evidence at the crime scene was a bloody palm print.</p>
+<p><strong>Catherine</strong>: Well, there may be a resemblance, but kids change a lot in six years.</p>
+<p><strong>Jack</strong>: Mm-hmm.</p>
+<p><strong>Grissom</strong>: DNA will tell us if this is your kid. But it does look like your killer came to Vegas.</p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. DAVIS RESIDENCE – NIGHT]</p>
+<p>(David Phillips goes over the body.) </p>
+<p><strong>David Phillips</strong>: Based on levidity and rigor, TOD is roughly 24 hours ago. And he's got perimortem bruising on the back of the neck. And a single sharp-force injury to the forehead.</p>
+<p>(Grissom notices the blood on the table.) </p>
+<p>ECU – THE TABLE CORNER</p>
+<p>(There are blonde hairs stuck to the blood on the corner.) </p>
+<p>BACK TO SCENE</p>
+<p><strong>Grissom</strong>: Looks like he hit his head on the table.</p>
+<p><strong>Jack</strong>: Or somebody slammed it against the table.</p>
+<p><strong>Grissom</strong>: Well, we don't know that yet.</p>
+<p><strong>Catherine</strong>: Agent Malone, why don't I fill you in on what else we do know. There are no signs anywhere that the boy actually lived here. The sleeping bag on the couch indicates that he was probably a house guest. Why don't you follow me into the kitchen. </p>
+<p>(Catherine heads for the kitchen. Jack looks at David.) </p>
+<p><strong>Jack</strong>: Let me know when you're ready to transport the body.</p>
+<p><strong>David Phillips</strong>: Yes, sir.</p>
+<p>(Jack follows Catherine into the kitchen. Grissom looks at the little boy.)</p>
+<p>ECU – THE COLLAR</p>
+<p>(There is a fine white powder on the collar.) </p>
+<p>BACK TO SCENE</p>
+<p>(Grissom tape-lifts the powder and looks at it.) </p>
+<p>[INT. DAVIS RESIDENCE – KITCHEN -- NIGHT]</p>
+<p>(Greg is looking through a wallet at the kitchen table when Catherine and Jack join him.) </p>
+<p><strong>Catherine</strong>: Bring us up to speed, Greg. </p>
+<p><strong>Greg</strong>: Okay, sure. Um ... Carmen Davis's keys were still in her purse; the car's outside. No cash in the wallet, and the credit cards have been removed and neatly stacked on the table; it appears as though they've been wiped clean. The killer was smart enough not to take anything that could be traced.</p>
+<p><strong>Catherine</strong>: Which suggests that he was an experienced criminal. What do you know about this guy?</p>
+<p><strong>Jack</strong>: Including everything you just told me? Everything you just told me. Six years ago, the killer took the murder weapon with him. It was a baseball bat that he found in the apartment.</p>
+<p><strong>Catherine</strong>: Well, this time, we think it's hammer.</p>
+<p>[INT. DAVIS RESIDENCE – BATHROOM -- NIGHT]</p>
+<p>(Catherine shows Jack the wounds on Carmen's head.) </p>
+<p><strong>Catherine</strong>: The round indentation wounds are consistent with hammer blows. Do you see any similarities between this victim and the babysitter who was killed six years ago?</p>
+<p><strong>Jack</strong>: Just that they were both bludgeoned to death. The babysitter was a lot older, and she wasn't covered.</p>
+<p><strong>Catherine</strong>: Covering a body usually indicates remorse on the part of the killer.</p>
+<p><strong>Jack</strong>: So you think he felt remorseful about this victim and not the one from six years ago?</p>
+<p><strong>Catherine</strong>: Maybe he knew Carmen Davis. There's three toothbrushes, two of them in travel cases. My guess: the killer was staying here with the little boy. There was no sign of forced entry.</p>
+<p><strong>David Phillips</strong>: (o.s.) Agent Malone?</p>
+<p>(Jack turns and looks at the coroners.) </p>
+<p><strong>David Phillips</strong>: We're read to take the boy out.</p>
+<p><strong>Jack</strong>: Okay.</p>
+<p>(He turns back to Catherine.) </p>
+<p><strong>Catherine</strong>: So, I assume we'll be sending over the case evidence to Quantico?</p>
+<p><strong>Jack</strong>: We can't process the evidence from every case we're involved in. We have a massive overload already. This will be joint jurisdiction. You do your thing, I'll do mine.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – MORNING]</p>
+<p>[INT. CSI – FORENSIC AUTOPSY -- DAY] </p>
+<p>(Catherine walks into Autopsy. Robbins fills her in on his findings.) </p>
+<p><strong>Robbins</strong>: COD is multiple blunt-force trauma. Based on the development of the contusions, it appears the blow to the back of the skull was the first impact, but the ones on the face came about half-hour later.</p>
+<p><strong>Catherine</strong>: Half an hour? </p>
+<p><strong>Robbins</strong>: Yeah.</p>
+<p><strong>Catherine</strong>: Was she raped?</p>
+<p><strong>Robbins</strong>: Yeah. I ... uh ... did a wet mount, found semen in the vaginal vault, and I collected an SAE kit.</p>
+<p>(He hands her the kit.) </p>
+<p><strong>Robbins</strong>: This guy is some piece of work.</p>
+<p><strong>Catherine</strong>: (nods) I'll get it to DNA.</p>
+<p>(Catherine heads out.) </p>
+<p>WHITE FLASH TO: </p>
+<p>VARIOUS FLASHES OF THE LITTLE BOY'S BODY</p>
+<p>[INT. CSI – AUTOPSY – DAY]</p>
+<p>(Grissom is using a magnifying glass to look over the body. Jack is standing in the back of the room.) </p>
+<p><strong>Grissom</strong>: No birthmarks.</p>
+<p><strong>Jack</strong>: Our missing boy didn't have any, either.</p>
+<p><strong>Grissom</strong>: So the only way to confirm the identity ...</p>
+<p><strong>Jack</strong>: (interrupts) I've had the original DNA report electronically sent to your lab.</p>
+<p><strong>Grissom</strong>: Well, then you'll just have to wait for your answer. (Grissom turns around.) You know, maybe now would be a good time for you to brief us on the original case.</p>
+<p>WHITE FLASH TO: </p>
+<p>[INT. BABYSITTER'S APARTMENT – NIGHT – FLASHBACK]</p>
+<p><strong>Jack</strong>: (V.O.) His name was Jason Taylor.</p>
+<p>(The babysitter and Jason Taylor sit on the couch and watch television.)</p>
+<p>(The sound of glass breaking startles them.)</p>
+<p><strong>Jack</strong>: (V.O.) He was at his babysitter's apartment.</p>
+<p>(Someone outside opens a window.) </p>
+<p>(The babysitter and Jason get up.) </p>
+<p><strong>Jack</strong>: (V.O.) He'd been home sick from school.</p>
+<p>(The intruder climbs into the apartment.) </p>
+<p><strong>Jack</strong>: (V.O.) That's when it happened.</p>
+<p>(The intruder grabs a baseball bat leaning against the side of the wall.) </p>
+<p>(CUT TO: The babysitter falls to the floor, her head bleeding.) </p>
+<p>(The intruder carries Jason Taylor with him out the window. He keeps the bloodied bat.) </p>
+<p>(CUT TO: Jack enters the apartment with the officers processing the scene. He looks at the body on the floor. He looks at the open window. There's a bloodied palm print on the outside of the living room window frame.) </p>
+<p><strong>Jack</strong>: (V.O.) An unidentified male entered, most likely through an open window on the fire escape, murdered the babysitter and took Jason with him.</p>
+<p>BACK TO SCENE.</p>
+<p>[INT. CSI – EVIDENCE ROOM]</p>
+<p>(Jack is talking with Nick, Warrick, Catherine and Grissom.) </p>
+<p><strong>Jack</strong>: Uh, we never got a decent description of the perp.</p>
+<p><strong>Nick</strong>: Nothing was stolen?</p>
+<p><strong>Jack</strong>: Cash was still in the babysitter's purse; the only thing missing was a baseball bat.</p>
+<p><strong>Warrick</strong>: Which, based on her wounds, you figure that was the murder weapon?</p>
+<p><strong>Jack</strong>: Mm-hmm.</p>
+<p><strong>Nick</strong>: Baseball bat there, hammer here-- weapons of convenience. Guy seems to grab whatever's handy.</p>
+<p><strong>Catherine</strong>: And takes it with him. (to Jack) Was the babysitter raped?</p>
+<p><strong>Jack</strong>: No.</p>
+<p><strong>Nick</strong>: Why kidnap a kid, wait six years, then kill him?</p>
+<p><strong>Catherine</strong>: Most four-year-olds will do what you tell them. Most ten-year-olds will do what they want.</p>
+<p><strong>Warrick</strong>: Kid starts asking the wrong questions, talking to the wrong people ... tons of possibilities.</p>
+<p><strong>Jack</strong>: Yes. Way too many.</p>
+<p><strong>Nick</strong>: According to this, the kid was adopted. Did you take a look at the biological parents?</p>
+<p><strong>Jack</strong>: Jason was adopted as an infant. Uh, there was no way we could track his records.</p>
+<p><strong>Warrick</strong>: Adoptive parents had no contact with the kidnappers? They were not given any ransom demands?</p>
+<p><strong>Jack</strong>: There was no motive. I couldn't even give the parents a reason.</p>
+<p><strong>Grissom</strong>: Maybe there isn't one.</p>
+<p><strong>Jack</strong>: Most children are abducted by somebody who's associated with the family. Random kidnappings are extraordinarily rare.</p>
+<p><strong>Grissom</strong>: Except in the US last year, there were almost a hundred. Some things are just random.</p>
+<p><strong>Jack</strong>: Have you ever tried telling that to the parents of a child who's been kidnapped?</p>
+<p><strong>Grissom</strong>: Yes, actually, I have.</p>
+<p><strong>Jack</strong>: And how'd that work out for you?</p>
+<p>CUT TO:<br />
+[INT. CSI – DNA LAB] </p>
+<p>(Wendy is processing the samples.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) – DAY]</p>
+<p>[INT. DAVIS RESIDENCE – NIGHT]</p>
+<p>(Greg walks out of the bedroom and heads for the living room. Nick is in the living room while Warrick is looking around the kitchen.) </p>
+<p><strong>Greg</strong>: Hey, guys. I found an empty jewelry box in the bedroom. Maybe the killer swiped the jewelry in addition to the cash. Easy to fence in this neighborhood.</p>
+<p>(Nick picks up a framed photo.) </p>
+<p><strong>Nick</strong>: Was the dead girl wearing any jewelry when you found her?</p>
+<p><strong>Greg</strong>: Nope.</p>
+<p><strong>Nick</strong>: Then that's a good call, man, 'cause she's wearing some in just about every one of these pictures.</p>
+<p>(Warrick is looking at a printout for a POKER TOURNAMENT at PLANET HOLLYWOOD.) </p>
+<p><strong>Nick</strong>: I wouldn't doubt if she kept a lot of it in that box. I'll check with the local pawnshops, see if anything's been hocked.</p>
+<p>(Warrick checks the computer and finds it on a poker game.) </p>
+<p><strong>Warrick</strong>: Hey, Greg, you see any books on the shelf over there on gambling or poker?</p>
+<p><strong>Greg</strong>: No, just a lot of romance novels, mysteries and women's health.</p>
+<p><strong>Warrick</strong>: 'Cause I got poker player stats, and multiple websites on online gambling. Seems kind of out of place to be the victim's. I think we got a mystery houseguest who is a card shark.</p>
+<p>(The number highlighted and circled on the poker sheet print-out is 273.)</p>
+<p>CUT TO:<br />
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) – NIGHT]</p>
+<p>(The Planet Hollywood Hotel.) </p>
+<p>[INT. PLANET HOLLYWOOD – GAME FLOOR – NIGHT]</p>
+<p>(A poker table. The dealer shuffles and deals out the cards to the various players. Warrick, Jack and a couple of officers walk in. They look around the room, which is set up with many poker tables. They spread out between tables looking for player #273.) </p>
+<p><strong>Announcer</strong>: (over speakers) Ladies and gentlemen, the first of the elimination rounds for our money poker tournament are over and we're down to our last one hundred players. Congratulations to all and good luck.</p>
+<p>(As they walk through the tables, they look for the player #273.) </p>
+<p>(Player 273 wears a dark jacket and sits at the table. Warrick sees him. Player 273 sees Warrick. He gets up and runs.) </p>
+<p><strong>Warrick</strong>: Got him!</p>
+<p>(Warrick and the officers chase after him. Jack heads him off.) </p>
+<p>(Player 273 reaches the slot machines and runs, making his way to the exit. Suddenly, Jack steps out in front of him and elbows him in the face. Player 273 goes down with a thud.) </p>
+<p><strong>Player 273</strong>: Ugh.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. POLICE DEPARTMENT – INTERVIEW ROOM -- DAY] </p>
+<p>(Warrick takes Tom Michael's fingerprints.) </p>
+<p><strong>Tom Michaels</strong>: You know what this is? Huh? This is police brutality.</p>
+<p><strong>Warrick</strong>: Yeah, whatever.</p>
+<p>[INT. POLICE DEPARTMENT – OBSERVATION ROOM -- DAY] </p>
+<p>(Warrick hands Tom Michaels a tissue. In the observation room, Brass and Jack watch them inside the interview room.) </p>
+<p><strong>Warrick</strong>: (through speaker) We're not done yet.</p>
+<p><strong>Brass</strong>: Well, he doesn't look like much, but then again, they never do.</p>
+<p><strong>Jack</strong>: If you don't mind, I'd like to talk to him first.</p>
+<p><strong>Brass</strong>: You don't have to be polite, Jack. This is a federal case; you don't need my permission.</p>
+<p>(In the interview room, Warrick rolls some ink on Tom Michael's palm.</p>
+<p><strong>Brass</strong>: How you going to go at him?</p>
+<p><strong>Jack</strong>: I don't know. I usually just make it up as I go along.</p>
+<p>(Jack leaves the observation room.) </p>
+<p>[INT. POLICE DEPARTMENT – INTERVIEW ROOM -- DAY] </p>
+<p>(The door opens and Jack walks in. Warrick takes his things and heads out.) </p>
+<p><strong>Warrick</strong>: All done here.</p>
+<p><strong>Jack</strong>: Thank you. (to the officer at the door) You can leave, too.</p>
+<p>(Warrick and the officer leave the room. Jack closes the door.) </p>
+<p><strong>Jack</strong>: Mr. Michaels. Jack Malone, FBI.</p>
+<p>(Jack puts the file folder down on the table.)</p>
+<p><strong>Tom Michaels</strong>: Huh. FBI.</p>
+<p>(Jack sits down.) </p>
+<p><strong>Jack</strong>: Mm-hmm. Why'd you run back there?</p>
+<p><strong>Tom Michaels</strong>: Oh, I don't know. I was scared, I guess.</p>
+<p><strong>Jack</strong>: Of what?</p>
+<p><strong>Tom Michaels</strong>: (flippantly) Um ... of getting caught, being embarrassed.</p>
+<p><strong>Jack</strong>: Right. So it's probably a good idea not to do anything that would embarrass you.</p>
+<p><strong>Tom Michaels</strong>: Yeah, I know. But you never really think you're going to get caught, do you?</p>
+<p><strong>Jack</strong>: Yeah, but you did. You want to talk about it? I got nowhere I have to be. And you got nowhere to go.</p>
+<p><strong>Tom Michaels</strong>: (sighs) I don't know what the big deal is. I mean ... we've all thought about it, right?</p>
+<p><strong>Jack</strong>: Sure. It's natural.</p>
+<p><strong>Tom Michaels</strong>: Right. I had a plan. It was simple. I take it ... I play with it for a little while ...</p>
+<p><strong>Jack</strong>: &quot;It&quot;? Like it's property?</p>
+<p><strong>Tom Michaels</strong>: Yeah, yeah, it's nothing personal. I didn't even think Brother Willard would even miss it.</p>
+<p><strong>Jack</strong>: Brother Willard? You want to talk to me about Brother Willard?</p>
+<p><strong>Tom Michaels</strong>: (sighs) Oh, Brother Willard is my spiritual advisor. He's supposed to talk me out of doing things like this. But you know what? Sometimes I just ... I just feel like listening to that little voice inside my head.</p>
+<p><strong>Jack</strong>: Hmm. Right.</p>
+<p>(Jack stands up and walks around the table. He leans in close to Tom's ear.) </p>
+<p><strong>Jack</strong>: And what is that little voice inside your head telling you right now?</p>
+<p><strong>Tom Michaels</strong>: Just take it.</p>
+<p>(Jack slaps Tom's shoulder. He sits down.) </p>
+<p><strong>Jack</strong>: &quot;Just take it.&quot; This is not the first time that you've taken something that doesn't belong to you, is it?</p>
+<p><strong>Tom Michaels</strong>: What do you mean?</p>
+<p><strong>Jack</strong>: Six years ago, in New York City.</p>
+<p><strong>Tom Michaels</strong>: I don't know anything about New York.</p>
+<p><strong>Jack</strong>: Six years ago, in New York City, you took something that didn't belong to you.</p>
+<p><strong>Tom Michaels</strong>: I don't know anything about New York. Look, I told you -- I was going to give it back. Really, I just had some bad luck.</p>
+<p>(Jack stands and grabs Tom's shoulder, pushing him down onto the table.) </p>
+<p><strong>Jack</strong>: Is that what you call it?! You abducted and murdered a four-year-old boy!</p>
+<p>(Brass walks into the room.) </p>
+<p><strong>Tom Michaels</strong>: (shouts) I don't know what you're talking about!</p>
+<p>(Jack knocks the file folder off the table. The crime scene photos spill out onto the floor.) </p>
+<p><strong>Jack</strong>: Just bad luck?!</p>
+<p>(Brass reaches Jack.) </p>
+<p><strong>Brass</strong>: Let him go. Look, you want to rendition him to Gitmo, be my guest, but in this house, we play by the rules. Now get your hand off the suspect.</p>
+<p>(Jack lets Tom Michaels go. Tom sits up and wipes his mouth. He looks down and sees the photos of Evan Michael on the floor.) </p>
+<p><strong>Tom Michaels</strong>: What's that? That's ...</p>
+<p>(He picks up the photo and looks at it.) </p>
+<p><strong>Tom Michaels</strong>: That's Evan. That's ... this is my son. This is Evan.</p>
+<p>(Tom Michaels starts to cry.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – NIGHT]</p>
+<p>[INT. CSI – HALLWAY -- NIGHT] </p>
+<p>(Jack paces the floor. Grissom turns the corner and finds Jack.) </p>
+<p><strong>Jack</strong>: Guy's not the murderer.</p>
+<p><strong>Grissom</strong>: I know. We ran his palm print. Doesn't match. </p>
+<p><strong>Jack</strong>: He's a Mormon from Utah. Stole $10,000 from the church, entry money into a poker game. Figured he'd win the money, replace it before they noticed.</p>
+<p><strong>Grissom</strong>: And decided he'd bring his kid with him?</p>
+<p><strong>Jack</strong>: Single parent. Carmen Davis is an ex-girlfriend. Dropped the kid off with her.</p>
+<p><strong>Grissom</strong>: And while he's playing cards, they both get murdered.</p>
+<p><strong>Wendy</strong>: (o.s.) I got your DNA results. </p>
+<p>(They turn and see Wendy with the file.) </p>
+<p>TIME CUT TO: </p>
+<p>[INT. CSI – DNA LAB – CONTINUOUS]</p>
+<p>(Wendy shares her findings with Jack and Grissom.) </p>
+<p><strong>Wendy</strong>: The dead boy was confirmed as Tom Michael's son. So he's definitely not your kidnap victim from New York. However, the results of the SAE kit on the female victim showed two semen donors. </p>
+<p>(She reads the search results on the computer monitor.) </p>
+<p><strong>Wendy</strong>: One was Tom and the other unknown, but that unknown was connected to two unsolved rape murders in CODIS.</p>
+<p><strong>Jack</strong>: Excuse me.</p>
+<p>(Jack takes over the keyboard and scrolls through the screen.) </p>
+<p><strong>Jack</strong>: Two years ago in Wyoming, 11 months ago in Idaho. Okay, one victim was<br />
+23, the other one 54. One blonde, one brunette. Both female. Both with their faces covered.</p>
+<p><strong>Grissom</strong>: Both single, with no kids.</p>
+<p><strong>Jack</strong>: Breaks the pattern.</p>
+<p><strong>Grissom</strong>: If there is a pattern.</p>
+<p><strong>Jack</strong>: There's a big gap between Vegas and New York. Now, this guy has been involved in four murders in the last two years. There's got to be more.</p>
+<p><strong>Wendy</strong>: Well, if there are, then there may not be any associated DNA in the system. Small towns usually can't afford to run it if they don't have a suspect.</p>
+<p><strong>Jack</strong>: Doesn't mean there's not a pattern. Just means we haven't found it yet.</p>
+<p>(Jack goes back to looking at the monitor. Grissom watches Jack.) </p>
+<p>CUT TO:<br />
+[INT. CSI -- HALLWAY] </p>
+<p>(Jack walks through the hallway and passes Hodges in the Trace Lab. Hodges sees Jack and quickly gets up to join him.) </p>
+<p><strong>Hodges</strong>: Special Agent Malone. David Hodges. (hands him file) The granular powder that you found on the dead boy's neck and shirt was largely ammonium nitrates and sulfates -- commercial grade fertilizer.</p>
+<p>(Jack looks at the results and sighs.)</p>
+<p><strong>Jack</strong>: Great, so the killer could be from any farm in the United States.</p>
+<p><strong>Hodges</strong>: Yeah, or any backyard.</p>
+<p><strong>Jack</strong>: Thank you.</p>
+<p>(He hands the file back to Hodges.) </p>
+<p><strong>Hodges</strong>: So, I was curious about opportunities at the federal level. Pay scale, working conditions ...</p>
+<p><strong>Jack</strong>: You want my honest opinion?</p>
+<p><strong>Hodges</strong>: Absolutely.</p>
+<p><strong>Jack</strong>: There's a lot less competition in Vegas for a guy like you. The FBI has enough ass-kissers already.</p>
+<p>(Jack walks away. Hodges nods, stops and turns to head back to his lab.) </p>
+<p>CUT TO:<br />
+[INT. CSI – HALLWAY OUTSIDE FORENSIC AUTOPSY] </p>
+<p>(Jack heads down the hallway and sees Robbins.) </p>
+<p><strong>Jack</strong>: I'm looking for Tom Michaels.</p>
+<p><strong>Robbins</strong>: Yeah, he's in there. You might want to give him a minute, though. He's ... uh ... saying good-bye. Do you have any kids?</p>
+<p><strong>Jack</strong>: Yes. I have two daughters.</p>
+<p>(Robbins nods and leaves. Jack waits a moment, then steps into Autopsy where he finds Tom Michaels looking at Evan's body on the morgue cabinet.) </p>
+<p><strong>Jack</strong>: Um, Mr. Michaels ... I wanted to apologize for my behavior earlier.</p>
+<p><strong>Tom Michaels</strong>: You're afraid I'm going to sue?</p>
+<p><strong>Jack</strong>: The same man who murdered your son kidnapped another boy six years ago. He's here in Vegas, right now. And this is closest that I've ever been to him.</p>
+<p><strong>Tom Michaels</strong>: You thought it was me.</p>
+<p><strong>Jack</strong>: I promise you ... that I will do everything in my power to catch this man.</p>
+<p><strong>Tom Michaels</strong>: Is that what you told the other boy's parents?</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – DAY]</p>
+<p>[INT. PAWNSHOP -- DAY] </p>
+<p>(Nick is examining some jewelry on a tray when the pawnshop owner steps out from the back. Brass is there with Nick.) </p>
+<p><strong>Pawnshop Owner</strong>: Those the items?</p>
+<p><strong>Nick</strong>: Yep.</p>
+<p><strong>Pawnshop Owner</strong>: Damn. This always happens to me.</p>
+<p><strong>Nick</strong>: Is that the surveillance?</p>
+<p><strong>Pawnshop Owner</strong>: Yeah.</p>
+<p>(He gives the image sheets to Nick.) </p>
+<p><strong>Pawnshop Owner</strong>: That's the guy.</p>
+<p><strong>Nick</strong>: Okay.</p>
+<p><strong>Pawnshop Owner</strong>: I almost didn't call you guys, you know. What about me? I'm out 350 bucks.</p>
+<p><strong>Brass</strong>: You'll live. The woman these items belonged to is dead, along with a kid.</p>
+<p><strong>Pawnshop Owner</strong>: Oh. (beat) Is there a reward?</p>
+<p><strong>Brass</strong>: Shut up. You saw him the night before last. You talk to him? He say anything to you?</p>
+<p><strong>Pawnshop Owner</strong>: Not much. He showed me the jewels. I gave him his $350. Uh, he asked me for directions to the Tangiers.</p>
+<p><strong>Brass</strong>: Hmm.</p>
+<p><strong>Pawnshop Owner</strong>: I showed him how to get there. Recommended that Let It Ride game. It's been pretty lucky for me.</p>
+<p><strong>Brass</strong>: Good for you.</p>
+<p>(Brass makes a phone call.) </p>
+<p><strong>Woman</strong>: (from phone) Tangiers Hotel.</p>
+<p>(Nick looks at the images of the man in a baseball cap.) </p>
+<p><strong>Brass</strong>: (to phone) This is Captain Jim Brass, LVPD. Would you connect me to the surveillance room, please?</p>
+<p>CUT TO:<br />
+[INT. CSI – A/V LAB -- DAY] </p>
+<p>(Archie is reviewing the Tangier's surveillance tapes. On it is the man in a baseball cap sitting at the card table game. He's talking with the waitress. She leaves him and walks away.) </p>
+<p><strong>Archie</strong>: That's definitely not a guy you want to go home with. That cocktail waitress doesn't know how lucky she is.</p>
+<p><strong>Jack</strong>: We need a shot of his face.</p>
+<p>(Archie goes through the tape. The man in the baseball cap doesn't look up once.) </p>
+<p><strong>Archie</strong>: Well, I think he knows that.</p>
+<p><strong>Jack</strong>: Just ... hold on. Zoom in on the ball cap. There's a logo.</p>
+<p>(Archie enhances the logo. It's for HARGREEN HARVEST.) </p>
+<p><strong>Archie</strong>: &quot;Hargreen Harvest.&quot;</p>
+<p><strong>Jack</strong>: He had commercial fertilizer on his hands when he killed Evan Michaels. He's a migrant worker, perhaps.</p>
+<p><strong>Archie</strong>: Well, Tangiers sent over more than twelve hours on this guy. It's gonna take some time, but of course I'll let you know the minute I find anything.</p>
+<p><strong>Jack</strong>: Okay, great.</p>
+<p>(Jack leaves. Archie goes back to reviewing the tapes.) </p>
+<p>CUT TO:<br />
+[INT. CSI – GRISSOM'S OFFICE] </p>
+<p>(Grissom walks into his office. Jack follows him.) </p>
+<p><strong>Grissom</strong>: I'll call in some additional AV techs, help Archie get through the footage, ... </p>
+<p><strong>Jack</strong>: All right.</p>
+<p><strong>Grissom</strong>: ... but you know, I've learned that sometimes you can go faster by going slow.</p>
+<p><strong>Jack</strong>: Yeah, well, I like to go faster by going fast. Waiting around is not exactly my best thing. </p>
+<p><strong>Grissom</strong>: I gathered that from your interrogation technique. You know, maybe you should go back to your hotel, take a nap.</p>
+<p><strong>Jack</strong>: Is this your office? Really? By choice? It's not some kind of ... uh ... surplus overflow issue?</p>
+<p><strong>Grissom</strong>: What's wrong with my office?</p>
+<p><strong>Jack</strong>: Oh, I don't know. Uh ... why don't you tell me?</p>
+<p>(Jack puts his glasses on to look at a pig fetus in a jar on a shelf.) </p>
+<p><strong>Grissom</strong>: That's an irradiated fetal pig. I used it to determine the effects of radiation on tissue.</p>
+<p><strong>Jack</strong>: For what?</p>
+<p><strong>Grissom</strong>: For fun.</p>
+<p>(Sara walks in.) </p>
+<p><strong>Sara</strong>: Hey, Gil, I ... uh ... Oh, I'm sorry. I didn't mean to interrupt.</p>
+<p><strong>Grissom</strong>: No, no, it's fine. Jack Malone, FBI. Sara Sidle, CSI.</p>
+<p><strong>Jack</strong>: Hi.</p>
+<p><strong>Sara</strong>: Hello. I hear your abduction case is now a serial murder.</p>
+<p>(Jack nods and looks at Grissom.) </p>
+<p><strong>Jack</strong>: Uh ... yeah.</p>
+<p><strong>Sara</strong>: Well ... uh ... I got called into work early, but I did pick up Hank, and I took him to the sitter.</p>
+<p><strong>Grissom</strong>: Thank you. I'll see you when I see you.</p>
+<p>(Sara turns and leaves.) </p>
+<p><strong>Sara</strong>: Pleasure.</p>
+<p><strong>Jack</strong>: Hmm.</p>
+<p>(Jack nods. He looks at Grissom.) </p>
+<p><strong>Jack</strong>: Is Hank your kid?</p>
+<p><strong>Grissom</strong>: Hank's my dog. She walks him for me sometimes.</p>
+<p><strong>Jack</strong>: Oh, yeah, that's how it starts. Oh, I have some experience dating in the workplace.</p>
+<p><strong>Grissom</strong>: Really? And, uh ... how'd it work out for you?</p>
+<p><strong>Jack</strong>: Undetermined.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – DAY]</p>
+<p>(Children shout and laugh. A train horn blows in the background.) </p>
+<p>[EXT. COMMUNITY STREET -- DAY] </p>
+<p>(Several kids kick a soccer ball around on the street. They have a soccer goal set up. A kid kicks the ball at the goal and it misses, bouncing off the street and rolling on the grass. One of the kids runs to get it.) </p>
+<p>(He runs over the grassy hill and stops when he sees a man on the ground, bloodied and beaten up.) </p>
+<p><strong>Bloody Man</strong>: Please, help me. </p>
+<p>(He reaches up to the kid.) </p>
+<p><strong>Bloody Man</strong>: Please, help me, help me ...</p>
+<p>CUT TO:<br />
+[INT. RESIDENCE – DAY] </p>
+<p>(The door opens. Detective Ruben Bejarano, Sara and a couple of officers walk in.) </p>
+<p><strong>Det. Ruben Bejarno</strong>: Kid who found the old man says he lives here with his wife. She doesn't answer.</p>
+<p><strong>Sara</strong>: You think the suspect's still here?</p>
+<p><strong>Det. Ruben Bejarno</strong>: We'll know in a minute. You better wait here.</p>
+<p>(The officers continue through the house while Sara waits by the door. She sees some blood on the floor and notices it leads to the side.) </p>
+<p>(Dining room and Kitchen appear clear. The detective stops and turns to look at the living room. He finds a body.) </p>
+<p><strong>Det. Ruben Bejarno</strong>: Sara ...</p>
+<p>(Sara walks over and they find a woman dead on the floor with a blanket over her.) </p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. RESIDENCE – DAY] </p>
+<p>(Grissom is holding a bloodied hammer.) </p>
+<p><strong>Grissom</strong>: The victim have circular indentations on her head?</p>
+<p>(Robbins is kneeling next to the body. Sara is snapping photos in the kitchen.) </p>
+<p><strong>Robbins</strong>: Yeah. You want to do the autopsy, too? Just let me know.</p>
+<p><strong>Grissom</strong>: My guess is, this is the hammer we didn't find at the Davis house.</p>
+<p><strong>Robbins</strong>: Why take the murder weapon from one scene, walk around with it for more than a day, use it to kill again, but this time leave it behind?</p>
+<p>(She puts her camera down and opens the gun case.) </p>
+<p><strong>Sara</strong>: Maybe he found something better ... Colt .45 auto. Case is empty.</p>
+<p>(Grissom puts the hammer in a bag. He looks at the counter and sees the cards stacked neatly on the surface with the driver's license on the top. The keys are next to the cards. Just like the Davis house.) </p>
+<p><strong>Grissom</strong>: Huh.</p>
+<p>(Grissom checks the wallet and finds it empty.) </p>
+<p><strong>Grissom</strong>: He lost the proceeds from the Vegas murders at the Tangiers. So, he probably needed more cash.</p>
+<p><strong>Robbins</strong>: Double murder ATM.</p>
+<p><strong>Grissom</strong>: Driver's license is on top, like before.</p>
+<p><strong>Sara</strong>: He likes to know their names.</p>
+<p><strong>Robbins</strong>: I heard the husband died at the hospital. But the killer was definitely here awhile. According to liver temp, she died a couple hours before the husband.</p>
+<p><strong>Sara</strong>: So the husband was here and alive while his wife was being raped and killed?</p>
+<p><strong>Robbins</strong>: It looks that way.</p>
+<p>(Sara is quiet. This disturbs her. Grissom watches Sara.) </p>
+<p>CUT TO:<br />
+[EXT. RESIDENCE – DAY -- CONTINUOUS] </p>
+<p>(The officer holds the tape up as Sara leaves the house. Grissom follows her out.) </p>
+<p><strong>Grissom</strong>: Sara? You okay?</p>
+<p><strong>Sara</strong>: I don't know. Do you have any idea how he selects his victims?</p>
+<p><strong>Grissom</strong>: No. He picks houses with no security systems, or dogs. Enters at night when most people are asleep, through open doors or windows. Easy targets.</p>
+<p><strong>Sara</strong>: So, basically at random. (Grissom nods.) They were spending a night on the sofa, watching a movie. It's just ... uh ... </p>
+<p>(She turns -- </p>
+<p><strong>Sara</strong>: It's just wrong.</p>
+<p>-- and walks away. Grissom watches her for a moment. A train whistle blows nearby. Grissom quickly turns around.) </p>
+<p>TIME CUT TO: </p>
+<p>(Grissom steps down the hillside and finds train tracks running along the community. He looks around from the tracks to the houses. His cell phone rings.) </p>
+<p><strong>Grissom</strong>: (to phone) Grissom.</p>
+<p>INTERCUT WITH: </p>
+<p>[INT. CSI – HALLWAY]</p>
+<p><strong>Jack</strong>: (to phone) You at the Boulder City house?</p>
+<p><strong>Grissom</strong>: (from phone) No, I'm at a railroad spur about a quarter of a mile from the house.</p>
+<p><strong>Jack</strong>: (to phone) You taking a trip?</p>
+<p><strong>Grissom</strong>: (from phone) Carmen Davis's house was next to the tracks, too.</p>
+<p><strong>Jack</strong>: (to phone) So?</p>
+<p><strong>Grissom</strong>: (to phone) Freight trains carry bulk fertilizer. I think your killer is riding the rails.</p>
+<p>CUT TO:<br />
+[INT. CSI – LAYOUT ROOM] </p>
+<p>(Grissom and Jack look at a map of the area on the table. Catherine is at the wall map.) </p>
+<p><strong>Grissom</strong>: All the previous murders were committed within about a mile of an active railroad spur.</p>
+<p><strong>Jack</strong>: Right, so he gets off the train, finds his victim, kills them, rapes them if he feels like it, then just takes off.</p>
+<p><strong>Catherine</strong>: So, I cross-referenced similar-patterned unsolves in ViCAP by proximity to rail spurs. There's at least a dozen cases.</p>
+<p><strong>Grissom</strong>: (to Jack) You know, you have the authority to stop all the trains coming in and out of Nevada.</p>
+<p><strong>Jack</strong>: Well, I'm not gonna do that unless I got a face.</p>
+<p><strong>Catherine</strong>: If these are the work of your guy, he's piled up one hell of a body count.</p>
+<p>(Camera pans across the map showing the various red-circled cities and names of the victims. The two most recent: </p>
+<p>LAS VEGAS<br />
+JULIAN/CHRISTINA GARDELLA<br />
+11/1/07</p>
+<p>BOULDER CITY<br />
+CARMEN DAVIS<br />
+10/29/07</p>
+<p>CUT TO:<br />
+[INT. CSI – A/V LAB] </p>
+<p>(Archie and Nick are reviewing the Tangier's surveillance tapes. The first clip is from CAMERA 31, POKER PIT 15 at 17:38.) </p>
+<p><strong>Archie</strong>: Guy kept his head down the entire time.</p>
+<p><strong>Nick</strong>: Mm-hmm.</p>
+<p><strong>Archie</strong>: Oh, check out what happens when he runs out of money. He starts hitting on the waitress, been doing it to every one of them that walked by.</p>
+<p>(Archie changes the clip on the computer. The next clip is from CAMERA: 37, SLOT MACHINE PIT 4 at 17:41.) </p>
+<p><strong>Archie</strong>: And this ... is the last good image of him before he leaves the casino. He stops to look at this poster and quickly makes a phone call.</p>
+<p><strong>Nick</strong>: Three numbers? I don't know too many serial killers that dial 911. He's calling Information.</p>
+<p>(Nick takes his cell phone out and makes a call.) </p>
+<p><strong>Nick</strong>: (to phone) Uh, yes, this is CSI Nick Stokes with the Vegas PD. I need to get the telephone number of one of your pay phones on the casino floor. Near the ... uh ... Let It Ride tables.</p>
+<p>(Archie enhances the image of the waitress on the poster the man was looking at.) </p>
+<p><strong>Nick</strong>: (to phone) Yes, ma'am.</p>
+<p><strong>Archie</strong>: (mutters) So, why was he so interested in this poster?</p>
+<p><strong>Nick</strong>: (to phone) Oh, great. Okay.</p>
+<p>(Nick takes Archie's pen out of his pocket and jots the number down on his hand.)</p>
+<p><strong>Nick</strong>: (to phone) Mm-hmm. Very good. Thank you.</p>
+<p><strong>Archie</strong>: Look at this.</p>
+<p><strong>Nick</strong>: What is it?</p>
+<p><strong>Archie</strong>: South Point Casino, just outside Boulder City. Might be a reason he went there.</p>
+<p>(Nick sighs and makes another call.) </p>
+<p><strong>Nick</strong>: (to phone) Hey, it's Nick. Uh, I need to get an AG waiver to get a hold of some phone numbers. Yeah, exigent circs. Mm-hmm. (reads off his hand)<br />
+702-555-0177. At, uh ... </p>
+<p><strong>Archie</strong>: (prompts) 17-41-33.</p>
+<p><strong>Nick</strong>: (to phone) 17-41-33. Yes, ma'am, day before yesterday.</p>
+<p>(Archie goes back to the video and enhances the waitress's name tag.) </p>
+<p><strong>Archie</strong>: Well, we know this guy likes his waitresses. So maybe that's what he's looking at. (squints) Is that a &quot;D&quot;? No. &quot;G,&quot; &quot;G-I-R&quot;... &quot;N&quot;? </p>
+<p><strong>Nick</strong>: (to phone) Okay, thanks. (hangs up) Gina. Gina Farentino. He called Information to get her number in Boulder City, but it's unlisted.</p>
+<p>(On the video, the man in the baseball cap bangs the phone's receiver against the phone in frustration.) </p>
+<p><strong>Archie</strong>: Maybe that's what pissed him off.</p>
+<p><strong>Nick</strong>: He knows where she works.</p>
+<p>CUT TO:<br />
+[EXT. (BOULDER) SOUTH POINT CASINO – DAY]</p>
+<p>[INT. SOUTH POINT CASINO – MAIN FLOOR – DAY] </p>
+<p>(Nick and Jack talk with the floor manager.) </p>
+<p><strong>Floor Manager</strong>: Yeah, Gina works here; she's off today, though. Probably at home.</p>
+<p><strong>Jack</strong>: We checked her house; she's not there. When was the last time you saw her?</p>
+<p><strong>Floor Manager</strong>: Not since yesterday. </p>
+<p><strong>Jack</strong>: What about this guy, seen him?</p>
+<p>(He shows her the image of the man in the baseball cap taken from the pawnshop camera.) </p>
+<p><strong>Floor Manager</strong>: This is the best picture you got?</p>
+<p><strong>Jack</strong>: What do you think?</p>
+<p>(She looks at the photo.) </p>
+<p><strong>Floor Manager</strong>: There was a guy ... I don't know if it's him. He was on those slots when Gina came on her shift.</p>
+<p>(Quick flashback to: The man in the baseball cap wins big.)</p>
+<p><strong>Man in Baseball Cap</strong>: Oh, yeah! (laughs) Whoo!</p>
+<p>(Confetti falls down and the other people sitting around him applaud. Gina Farentino is smiling as she heads over to him.)</p>
+<p><strong>Floor Manager</strong>: (V.O.) Guess it was his lucky day. Must've thought the jackpot gave him a shot at her. He started chatting her up.</p>
+<p>(Her smile fades as she gets a good look at him. He heads over to her.) </p>
+<p><strong>Man in Baseball Cap</strong>: Hey.</p>
+<p><strong>Gina Farentino</strong>: Oh ...</p>
+<p>(She turns her back to him, but he starts after her.) </p>
+<p><strong>Man in Baseball Cap</strong>: Don't go. What are you doing? </p>
+<p><strong>Gina Farentino</strong>: No--</p>
+<p><strong>Man in Baseball Cap</strong>: When do you get off work? Huh? Where are you going?</p>
+<p><strong>Gina Farentino</strong>: Don't talk to me!</p>
+<p><strong>Floor Manager</strong>: (V.O.) She blew him off and left. Said she wasn't feeling well.</p>
+<p>(Gina leaves.)</p>
+<p>END FLASHBACK.</p>
+<p><strong>Jack</strong>: And when did he leave?</p>
+<p><strong>Floor Manager</strong>: He cashed out and left a few minutes later.</p>
+<p><strong>Nick</strong>: How much did he win?</p>
+<p><strong>Floor Manager</strong>: Um ... $2,500.</p>
+<p><strong>Nick</strong>: I need to take a look at his W2-G, okay?</p>
+<p>SHORT TIME CUT TO: </p>
+<p>(At the counter, Nick prints the form.) </p>
+<p><strong>Nick</strong>: If you make over twelve hundred bucks, Uncle Sam gets his cut, you know?</p>
+<p><strong>Jack</strong>: Oh. That's how we stay in business.</p>
+<p><strong>Nick</strong>: Mm-hmm.</p>
+<p><strong>Jack</strong>: It's got name, address, social ... The whole thing has got to be bogus.</p>
+<p><strong>Nick</strong>: Yeah, the cashiers don't really seem to care, (to the cashier) -- no offense, as long as you have a picture ID. (He tape-lifts the print.) And even when that's fake ... you can't fake one of those.</p>
+<p>CUT TO:<br />
+[EXT. NEVADA MOUNTAINS (STOCK) – DAY] </p>
+<p>(A siren wails.) </p>
+<p>[EXT. DESERT HIGHWAY ROAD -- DAY] </p>
+<p>(A black car, license #ARCB-421, pulls to the side of the road in front of the state trooper, who stops him.) </p>
+<p><strong>Dispatch</strong>: (from radio) Chevy Impala, Nevada license Adam-Robert-Charles-Boy-4-<br />
+2-1. No wants or warrants, welfare check only. License owner is a Gina Farentino.</p>
+<p><strong>State Trooper Robinson</strong>: (to radio) Copy, Dispatch.</p>
+<p>(Robinson gets out of the car. He walks over to the car and looks in the backseat. He waves, then looks at the driver.)</p>
+<p><strong>Robinson</strong>: License and registration, sir.</p>
+<p><strong>Man In The Baseball Cap</strong>: I got it right here.</p>
+<p>(The man reaches to the side, picks up his gun and shoots Robinson four times in the chest. Robinson falls backwards. The black car takes off and speeds away.) </p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. DESERT HIGHWAY ROAD -- DAY] </p>
+<p>(Jack sits in the car watching footage from the video camera mounted on the state trooper's car.) </p>
+<p>(On the monitor, Robinson walks up to the car, waves, then leans forward to talk with the driver. The driver fires and Robinson falls to the ground.) </p>
+<p>(Grissom kneels next to Robinson's body. Jack gets out of the car and joins him. Grissom picks up the casing and looks at it.) </p>
+<p><strong>Grissom</strong>: .45 auto. Same caliber as the one taken from the Boulder City double.</p>
+<p><strong>Jack</strong>: You can see the whole thing on video if you want.</p>
+<p><strong>Grissom</strong>: Was the waitress in the car with him?</p>
+<p><strong>Jack</strong>: He was waving at somebody in the passenger seat when he got shot. According to the time code on the dash cam, it was about 33 minutes ago.</p>
+<p>(Grissom looks out at the long stretch of road in front of them.) </p>
+<p><strong>Grissom</strong>: That's a pretty good head start.</p>
+<p><strong>Jack</strong>: Yeah. I don't want to lose this guy.</p>
+<p>(Grissom's phone rings. He answers it on speakerphone.) </p>
+<p><strong>Grissom</strong>: (to phone) Grissom.</p>
+<p>INTERCUT WITH: </p>
+<p>[INT. CSI – HALLWAY]</p>
+<p><strong>Catherine</strong>: (to phone) We ran the fingerprints that Nick lifted from the casino IRS form. Got an AFIS hit. Terry Lee Wicker. Served two years in Sing Sing for burglary. He got out four months before Jack's original kidnapping, and get this, when he was sent up, he was married to Gina Farentino. Brass put out a broadcast.</p>
+<p><strong>Grissom</strong>: (to phone) Listen, do me a favor. Take a look at the map, find the nearest railway spur to our location.</p>
+<p>(Catherine enters the layout room and checks the map on the table.) </p>
+<p><strong>Catherine</strong>: (to phone) Meadowood. It's off the 93, and it looks to be about ... 16 miles northeast of your location.</p>
+<p>(Grissom turns and looks in that direction.) </p>
+<p>CUT TO:<br />
+[EXT. MEADOWOOD -- RAILROAD SPUR (STOCK) – DAY]</p>
+<p>[EXT. MEADOWOOD -- DAY] </p>
+<p>(Officer cars arrive with sirens blaring. They stop just behind the black car parked next to one of the trains.) </p>
+<p>(Jack gets out of the car with his gun out. The other officers also get out with their guns out. Jack approaches the car and finds the driver door wide open and empty.) </p>
+<p>(The station yard controller dressed in an orange vest approaches them.) </p>
+<p><strong>Station Yard Controller</strong>: What the hell's going on?</p>
+<p><strong>Jack</strong>: Did you see who drove this car here?</p>
+<p><strong>Station Yard Controller</strong>: No, but I called the tow company. You can't park here.</p>
+<p>(A train whistle blows. One of the trains is leaving.) </p>
+<p><strong>Jack</strong>: Where's that train going?</p>
+<p><strong>Station Yard Controller</strong>: The Fresno 211. Chicago bound.</p>
+<p><strong>Grissom</strong>: Any other trains pass through here in the last hour?</p>
+<p><strong>Station Yard Controller</strong>: No, and nothing else is scheduled for another hour.</p>
+<p><strong>Grissom</strong>: Can you stop that train?</p>
+<p><strong>Station Yard Controller</strong>: I don't have that capacity, no. Who you guys looking for?</p>
+<p>(Jack, Grissom and one of the officers turn to board the train. It's several tracks over. Jack jumps onto an open car filled with motorcycles. He jumps out the other side, turns and finds Grissom already there waiting for him. Grissom shrugs and they continue toward the second train.) </p>
+<p>(Jack climbs up the side and jumps down the other side. Grissom follows them. They find the third train leaving.) </p>
+<p>(They both turn and run toward the moving train. They grab a hold and climb aboard.) </p>
+<p><strong>Jack</strong>: You starting to miss the lab?</p>
+<p><strong>Grissom</strong>: No, I like a good field trip.</p>
+<p>(Jack takes his gun out.) </p>
+<p><strong>Jack</strong>: Right. Stay behind me.</p>
+<p>(They enter the passenger car and start looking for a man in a baseball cap.) </p>
+<p>(They find a man wearing a baseball cap sitting next to a window and looking outside. Jack approaches the man.) </p>
+<p>(Grissom motions for the officers behind him to stay close.) </p>
+<p><strong>Jack</strong>: Freeze! (The man turns around.) Put your hands where I can see 'em! You Wicker?</p>
+<p><strong>Baxter</strong>: No. The name's Baxter, and I ain't got no ticket.</p>
+<p><strong>Grissom</strong>: Where'd you get that hat?</p>
+<p><strong>Baxter</strong>: Oh ... from a man. (Baxter takes out a bill and shows it to them.) He gave me a hundred bucks to get on this train. I don't want no trouble. I mean ... don't shoot.</p>
+<p>(Jack puts his gun away and takes his sunglasses off. This isn't the guy. He looks at Grissom.) </p>
+<p>CUT TO:<br />
+[EXT. MEADOWOOD -- DAY] </p>
+<p>REVERSE VIEW – INSIDE THE CAR TRUNK</p>
+<p>(The trunk opens. Grissom and Jack look inside. Grissom sighs.) </p>
+<p>(They find Gina Farentino's dead body inside.) </p>
+<p><strong>Grissom</strong>: Maybe, uh ... he came here to kill his ex-wife.</p>
+<p><strong>Jack</strong>: Why? </p>
+<p>(Grissom's phone rings. He puts it on speakerphone.) </p>
+<p><strong>Grissom</strong>: Grissom.</p>
+<p><strong>Brass</strong>: (from phone) It's Brass.</p>
+<p>INTERCUT WITH: </p>
+<p>[INT. POLICE DEPARTMENT – HALLWAY]</p>
+<p><strong>Brass</strong>: (to phone) Listen, the Boulder PD got a call from the principal at the local elementary school. Gina Farentino was supposed to pick up her son, only she didn't show up.</p>
+<p><strong>Grissom</strong>: (to phone) Yeah, there's a reason for that.</p>
+<p><strong>Jack</strong>: (to phone) She had a son?</p>
+<p><strong>Brass</strong>: (to phone) The kid's name is Kobe. Yeah, according to the principal, a guy fitting Wicker's description came and picked him up in the mother's car. He said the kid seemed to know him.</p>
+<p><strong>Grissom</strong>: (to phone) Thanks, Jim.</p>
+<p>(Jack thinks about it. Grissom opens the backseat door and looks inside. He finds a handheld game and an empty juice box left on the seat.)</p>
+<p><strong>Grissom</strong>: Hey, Jack. I don't think that trooper was waving at Gina.</p>
+<p>(Quick flashback to: State Trooper Robinson approaches the car. He looks in the backseat and sees the little boy. He smiles and waves to the boy. He approaches Wicker in the driver's seat.) </p>
+<p><strong>State Trooper Robinson</strong>: License and registration, sir.</p>
+<p><strong>Terry Lee Wicker</strong>: I got it right here.</p>
+<p>(Wicker reaches for his gun, turns and shoots the Trooper.) </p>
+<p>WHITE FLASH TO: PRESENT</p>
+<p>(Jack walks up to Grissom.) </p>
+<p><strong>Grissom</strong>: You said the kid who was kidnapped was six years old when he was adopted, birth parents unknown.</p>
+<p>(Grissom shows him the game and empty juice box.) </p>
+<p><strong>Jack</strong>: That's right.</p>
+<p><strong>Grissom</strong>: Terry Wicker was looking for his ex-wife ... </p>
+<p><strong>Jack</strong>: ... and his son.</p>
+<p><strong>Grissom</strong>: A family reunion.</p>
+<p>CUT TO:<br />
+[EXT. ROAD (STOCK) – DAY]</p>
+<p>(A MOJAVE EXPRESS bus passes by.) </p>
+<p>[INT. BUS – DAY]</p>
+<p>(The bus is full of passengers.) </p>
+<p><strong>Terry Lee Wicker</strong>: (singing softly)<br />
+The wheels on the bus go round and round<br />
+Round and round, round and round<br />
+The wheels on the bus go round and round<br />
+All round the town. </p>
+<p>(Terry Lee Wicker sits in the seat next to the sleeping blonde-haired boy.) </p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
- 
- 
-Carmen Davis: She-bang! 
- 
-Carmen Davis: That's pretty cool, right?
-Evan Michaels:  Mm-hmm.
-Carmen Davis: That doesn't happen very often, you know.
-Evan Michaels: I know.
- 
-Carmen Davis: You won. You beat me!
-Evan Michaels:  Uh-huh.
- 
-Carmen Davis: You want to play again?
- 
-Carmen Davis: Fine.
- 
-Carmen Davis: Whatever.
- 
-Carmen Davis: Knock yourself out.
- 
- 
-
- 
- 
- 
-Carmen Davis: Evan? Evan.
-
-
- 
-
- 
-
-
-
- 
-
- 
-Grissom: How long have you been here?
-Greg: About six hours.
- 
- 
-Grissom: Why haven't these bodies been released?
-Catherine: Good question. David was in Henderson on another call, so, when Greg and I got here, we just started processing the house. 
- 
-Catherine: Found the victim in the bathroom, covered with a towel. We got a plastic print on the bathroom door. It's the strongest piece of evidence -- I photographed it and transmitted the image back to the lab; Mandy got a hit to an unknown palm; case info was in ViCAP. And then, Dispatch called, telling me to stop processing immediately, by order of the FBI.
-Grissom: The FBI field office is right next to the Strip. What's taking them so long?
-Catherine: Oh, beats the hell out of me.
- 
-
- 
-Jack: Jack Malone, FBI.
-Brass: Jim Brass.
- 
-Jack: I'm based in New York, but I was testifying in a case in San Francisco. When I heard about the ViCAP hit, I got here as fast as I could.
-Brass: Chopper from the Strip? That's nice. That's my tax dollars at work?
-Jack: You get a positive ID on the boy?
-Brass: No, but we have an ID on the female -- name is Carmen Davis. According to neighbors, she lives alone. Apparently no kids of her own. But if I find anything out, I'll let you know.
-Jack: Thank you. 
- 
-Jack: You're up. 
- 
-
- 
-Jack:  You -- you get enough photos?
-Greg: Definitely.
- 
-Jack:  Roll the body over.
- 
-Grissom: What's going on?
-Jack: Jack Malone, FBI, New York City. 
- 
-Jack: This boy was kidnapped from his babysitter's apartment six years ago. Babysitter was killed. The only evidence at the crime scene was a bloody palm print.
-Catherine: Well, there may be a resemblance, but kids change a lot in six years.
-Jack: Mm-hmm.
-Grissom: DNA will tell us if this is your kid. But it does look like your killer came to Vegas.
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
- 
-David Phillips: Based on levidity and rigor, TOD is roughly 24 hours ago. And he's got perimortem bruising on the back of the neck. And a single sharp-force injury to the forehead.
- 
-ECU – THE TABLE CORNER
- 
-BACK TO SCENE
-Grissom: Looks like he hit his head on the table.
-Jack: Or somebody slammed it against the table.
-Grissom: Well, we don't know that yet.
-Catherine: Agent Malone, why don't I fill you in on what else we do know. There are no signs anywhere that the boy actually lived here. The sleeping bag on the couch indicates that he was probably a house guest. Why don't you follow me into the kitchen. 
- 
-Jack: Let me know when you're ready to transport the body.
-David Phillips: Yes, sir.
-
-ECU – THE COLLAR
- 
-BACK TO SCENE
- 
-
- 
-Catherine: Bring us up to speed, Greg. 
-Greg: Okay, sure. Um ... Carmen Davis's keys were still in her purse; the car's outside. No cash in the wallet, and the credit cards have been removed and neatly stacked on the table; it appears as though they've been wiped clean. The killer was smart enough not to take anything that could be traced.
-Catherine: Which suggests that he was an experienced criminal. What do you know about this guy?
-Jack: Including everything you just told me? Everything you just told me. Six years ago, the killer took the murder weapon with him. It was a baseball bat that he found in the apartment.
-Catherine: Well, this time, we think it's hammer.
-
- 
-Catherine: The round indentation wounds are consistent with hammer blows. Do you see any similarities between this victim and the babysitter who was killed six years ago?
-Jack: Just that they were both bludgeoned to death. The babysitter was a lot older, and she wasn't covered.
-Catherine: Covering a body usually indicates remorse on the part of the killer.
-Jack: So you think he felt remorseful about this victim and not the one from six years ago?
-Catherine: Maybe he knew Carmen Davis. There's three toothbrushes, two of them in travel cases. My guess: the killer was staying here with the little boy. There was no sign of forced entry.
-David Phillips:  Agent Malone?
- 
-David Phillips: We're read to take the boy out.
-Jack: Okay.
- 
-Catherine: So, I assume we'll be sending over the case evidence to Quantico?
-Jack: We can't process the evidence from every case we're involved in. We have a massive overload already. This will be joint jurisdiction. You do your thing, I'll do mine.
-
-
- 
- 
-Robbins: COD is multiple blunt-force trauma. Based on the development of the contusions, it appears the blow to the back of the skull was the first impact, but the ones on the face came about half-hour later.
-Catherine: Half an hour? 
-Robbins: Yeah.
-Catherine: Was she raped?
-Robbins: Yeah. I ... uh ... did a wet mount, found semen in the vaginal vault, and I collected an SAE kit.
- 
-Robbins: This guy is some piece of work.
-Catherine:  I'll get it to DNA.
- 
-
-VARIOUS FLASHES OF THE LITTLE BOY'S BODY
-
- 
-Grissom: No birthmarks.
-Jack: Our missing boy didn't have any, either.
-Grissom: So the only way to confirm the identity ...
-Jack:  I've had the original DNA report electronically sent to your lab.
-Grissom: Well, then you'll just have to wait for your answer.  You know, maybe now would be a good time for you to brief us on the original case.
-
-
-Jack:  His name was Jason Taylor.
-
-
-Jack:  He was at his babysitter's apartment.
- 
- 
-Jack:  He'd been home sick from school.
- 
-Jack:  That's when it happened.
- 
- 
- 
- 
-Jack:  An unidentified male entered, most likely through an open window on the fire escape, murdered the babysitter and took Jason with him.
-BACK TO SCENE.
-
- 
-Jack: Uh, we never got a decent description of the perp.
-Nick: Nothing was stolen?
-Jack: Cash was still in the babysitter's purse; the only thing missing was a baseball bat.
-Warrick: Which, based on her wounds, you figure that was the murder weapon?
-Jack: Mm-hmm.
-Nick: Baseball bat there, hammer here-- weapons of convenience. Guy seems to grab whatever's handy.
-Catherine: And takes it with him.  Was the babysitter raped?
-Jack: No.
-Nick: Why kidnap a kid, wait six years, then kill him?
-Catherine: Most four-year-olds will do what you tell them. Most ten-year-olds will do what they want.
-Warrick: Kid starts asking the wrong questions, talking to the wrong people ... tons of possibilities.
-Jack: Yes. Way too many.
-Nick: According to this, the kid was adopted. Did you take a look at the biological parents?
-Jack: Jason was adopted as an infant. Uh, there was no way we could track his records.
-Warrick: Adoptive parents had no contact with the kidnappers? They were not given any ransom demands?
-Jack: There was no motive. I couldn't even give the parents a reason.
-Grissom: Maybe there isn't one.
-Jack: Most children are abducted by somebody who's associated with the family. Random kidnappings are extraordinarily rare.
-Grissom: Except in the US last year, there were almost a hundred. Some things are just random.
-Jack: Have you ever tried telling that to the parents of a child who's been kidnapped?
-Grissom: Yes, actually, I have.
-Jack: And how'd that work out for you?
-
- 
- 
-
-
-
- 
-Greg: Hey, guys. I found an empty jewelry box in the bedroom. Maybe the killer swiped the jewelry in addition to the cash. Easy to fence in this neighborhood.
- 
-Nick: Was the dead girl wearing any jewelry when you found her?
-Greg: Nope.
-Nick: Then that's a good call, man, 'cause she's wearing some in just about every one of these pictures.
- 
-Nick: I wouldn't doubt if she kept a lot of it in that box. I'll check with the local pawnshops, see if anything's been hocked.
- 
-Warrick: Hey, Greg, you see any books on the shelf over there on gambling or poker?
-Greg: No, just a lot of romance novels, mysteries and women's health.
-Warrick: 'Cause I got poker player stats, and multiple websites on online gambling. Seems kind of out of place to be the victim's. I think we got a mystery houseguest who is a card shark.
-
-
-
- 
-
- 
-Announcer:  Ladies and gentlemen, the first of the elimination rounds for our money poker tournament are over and we're down to our last one hundred players. Congratulations to all and good luck.
- 
- 
-Warrick: Got him!
- 
- 
-Player 273: Ugh.
-
-
-
-
- 
- 
-Tom Michaels: You know what this is? Huh? This is police brutality.
-Warrick: Yeah, whatever.
- 
- 
-Warrick:  We're not done yet.
-Brass: Well, he doesn't look like much, but then again, they never do.
-Jack: If you don't mind, I'd like to talk to him first.
-Brass: You don't have to be polite, Jack. This is a federal case; you don't need my permission.
-(In the interview room, Warrick rolls some ink on Tom Michael's palm.
-Brass: How you going to go at him?
-Jack: I don't know. I usually just make it up as I go along.
- 
- 
- 
-Warrick: All done here.
-Jack: Thank you.  You can leave, too.
- 
-Jack: Mr. Michaels. Jack Malone, FBI.
-
-Tom Michaels: Huh. FBI.
- 
-Jack: Mm-hmm. Why'd you run back there?
-Tom Michaels: Oh, I don't know. I was scared, I guess.
-Jack: Of what?
-Tom Michaels:  Um ... of getting caught, being embarrassed.
-Jack: Right. So it's probably a good idea not to do anything that would embarrass you.
-Tom Michaels: Yeah, I know. But you never really think you're going to get caught, do you?
-Jack: Yeah, but you did. You want to talk about it? I got nowhere I have to be. And you got nowhere to go.
-Tom Michaels:  I don't know what the big deal is. I mean ... we've all thought about it, right?
-Jack: Sure. It's natural.
-Tom Michaels: Right. I had a plan. It was simple. I take it ... I play with it for a little while ...
-Jack: &quot;It&quot;? Like it's property?
-Tom Michaels: Yeah, yeah, it's nothing personal. I didn't even think Brother Willard would even miss it.
-Jack: Brother Willard? You want to talk to me about Brother Willard?
-Tom Michaels:  Oh, Brother Willard is my spiritual advisor. He's supposed to talk me out of doing things like this. But you know what? Sometimes I just ... I just feel like listening to that little voice inside my head.
-Jack: Hmm. Right.
- 
-Jack: And what is that little voice inside your head telling you right now?
-Tom Michaels: Just take it.
- 
-Jack: &quot;Just take it.&quot; This is not the first time that you've taken something that doesn't belong to you, is it?
-Tom Michaels: What do you mean?
-Jack: Six years ago, in New York City.
-Tom Michaels: I don't know anything about New York.
-Jack: Six years ago, in New York City, you took something that didn't belong to you.
-Tom Michaels: I don't know anything about New York. Look, I told you -- I was going to give it back. Really, I just had some bad luck.
- 
-Jack: Is that what you call it?! You abducted and murdered a four-year-old boy!
- 
-Tom Michaels:  I don't know what you're talking about!
- 
-Jack: Just bad luck?!
- 
-Brass: Let him go. Look, you want to rendition him to Gitmo, be my guest, but in this house, we play by the rules. Now get your hand off the suspect.
- 
-Tom Michaels: What's that? That's ...
- 
-Tom Michaels: That's Evan. That's ... this is my son. This is Evan.
- 
-
-
- 
- 
-Jack: Guy's not the murderer.
-Grissom: I know. We ran his palm print. Doesn't match. 
-Jack: He's a Mormon from Utah. Stole $10,000 from the church, entry money into a poker game. Figured he'd win the money, replace it before they noticed.
-Grissom: And decided he'd bring his kid with him?
-Jack: Single parent. Carmen Davis is an ex-girlfriend. Dropped the kid off with her.
-Grissom: And while he's playing cards, they both get murdered.
-Wendy:  I got your DNA results. 
- 
-
-
- 
-Wendy: The dead boy was confirmed as Tom Michael's son. So he's definitely not your kidnap victim from New York. However, the results of the SAE kit on the female victim showed two semen donors. 
- 
-Wendy: One was Tom and the other unknown, but that unknown was connected to two unsolved rape murders in CODIS.
-Jack: Excuse me.
- 
-Jack: Two years ago in Wyoming, 11 months ago in Idaho. Okay, one victim was
-23, the other one 54. One blonde, one brunette. Both female. Both with their faces covered.
-Grissom: Both single, with no kids.
-Jack: Breaks the pattern.
-Grissom: If there is a pattern.
-Jack: There's a big gap between Vegas and New York. Now, this guy has been involved in four murders in the last two years. There's got to be more.
-Wendy: Well, if there are, then there may not be any associated DNA in the system. Small towns usually can't afford to run it if they don't have a suspect.
-Jack: Doesn't mean there's not a pattern. Just means we haven't found it yet.
- 
-
- 
- 
-Hodges: Special Agent Malone. David Hodges.  The granular powder that you found on the dead boy's neck and shirt was largely ammonium nitrates and sulfates -- commercial grade fertilizer.
-
-Jack: Great, so the killer could be from any farm in the United States.
-Hodges: Yeah, or any backyard.
-Jack: Thank you.
- 
-Hodges: So, I was curious about opportunities at the federal level. Pay scale, working conditions ...
-Jack: You want my honest opinion?
-Hodges: Absolutely.
-Jack: There's a lot less competition in Vegas for a guy like you. The FBI has enough ass-kissers already.
- 
-
- 
- 
-Jack: I'm looking for Tom Michaels.
-Robbins: Yeah, he's in there. You might want to give him a minute, though. He's ... uh ... saying good-bye. Do you have any kids?
-Jack: Yes. I have two daughters.
- 
-Jack: Um, Mr. Michaels ... I wanted to apologize for my behavior earlier.
-Tom Michaels: You're afraid I'm going to sue?
-Jack: The same man who murdered your son kidnapped another boy six years ago. He's here in Vegas, right now. And this is closest that I've ever been to him.
-Tom Michaels: You thought it was me.
-Jack: I promise you ... that I will do everything in my power to catch this man.
-Tom Michaels: Is that what you told the other boy's parents?
-
-
- 
- 
-Pawnshop Owner: Those the items?
-Nick: Yep.
-Pawnshop Owner: Damn. This always happens to me.
-Nick: Is that the surveillance?
-Pawnshop Owner: Yeah.
- 
-Pawnshop Owner: That's the guy.
-Nick: Okay.
-Pawnshop Owner: I almost didn't call you guys, you know. What about me? I'm out 350 bucks.
-Brass: You'll live. The woman these items belonged to is dead, along with a kid.
-Pawnshop Owner: Oh.  Is there a reward?
-Brass: Shut up. You saw him the night before last. You talk to him? He say anything to you?
-Pawnshop Owner: Not much. He showed me the jewels. I gave him his $350. Uh, he asked me for directions to the Tangiers.
-Brass: Hmm.
-Pawnshop Owner: I showed him how to get there. Recommended that Let It Ride game. It's been pretty lucky for me.
-Brass: Good for you.
- 
-Woman:  Tangiers Hotel.
- 
-Brass:  This is Captain Jim Brass, LVPD. Would you connect me to the surveillance room, please?
-
- 
- 
-Archie: That's definitely not a guy you want to go home with. That cocktail waitress doesn't know how lucky she is.
-Jack: We need a shot of his face.
- 
-Archie: Well, I think he knows that.
-Jack: Just ... hold on. Zoom in on the ball cap. There's a logo.
- 
-Archie: &quot;Hargreen Harvest.&quot;
-Jack: He had commercial fertilizer on his hands when he killed Evan Michaels. He's a migrant worker, perhaps.
-Archie: Well, Tangiers sent over more than twelve hours on this guy. It's gonna take some time, but of course I'll let you know the minute I find anything.
-Jack: Okay, great.
- 
-
- 
- 
-Grissom: I'll call in some additional AV techs, help Archie get through the footage, ... 
-Jack: All right.
-Grissom: ... but you know, I've learned that sometimes you can go faster by going slow.
-Jack: Yeah, well, I like to go faster by going fast. Waiting around is not exactly my best thing. 
-Grissom: I gathered that from your interrogation technique. You know, maybe you should go back to your hotel, take a nap.
-Jack: Is this your office? Really? By choice? It's not some kind of ... uh ... surplus overflow issue?
-Grissom: What's wrong with my office?
-Jack: Oh, I don't know. Uh ... why don't you tell me?
- 
-Grissom: That's an irradiated fetal pig. I used it to determine the effects of radiation on tissue.
-Jack: For what?
-Grissom: For fun.
- 
-Sara: Hey, Gil, I ... uh ... Oh, I'm sorry. I didn't mean to interrupt.
-Grissom: No, no, it's fine. Jack Malone, FBI. Sara Sidle, CSI.
-Jack: Hi.
-Sara: Hello. I hear your abduction case is now a serial murder.
- 
-Jack: Uh ... yeah.
-Sara: Well ... uh ... I got called into work early, but I did pick up Hank, and I took him to the sitter.
-Grissom: Thank you. I'll see you when I see you.
- 
-Sara: Pleasure.
-Jack: Hmm.
- 
-Jack: Is Hank your kid?
-Grissom: Hank's my dog. She walks him for me sometimes.
-Jack: Oh, yeah, that's how it starts. Oh, I have some experience dating in the workplace.
-Grissom: Really? And, uh ... how'd it work out for you?
-Jack: Undetermined.
-
-
- 
- 
- 
- 
-Bloody Man: Please, help me. 
- 
-Bloody Man: Please, help me, help me ...
-
- 
- 
-Det. Ruben Bejarno: Kid who found the old man says he lives here with his wife. She doesn't answer.
-Sara: You think the suspect's still here?
-Det. Ruben Bejarno: We'll know in a minute. You better wait here.
- 
- 
-Det. Ruben Bejarno: Sara ...
- 
-
-
-
-;
-
-
-
- 
- 
-Grissom: The victim have circular indentations on her head?
- 
-Robbins: Yeah. You want to do the autopsy, too? Just let me know.
-Grissom: My guess is, this is the hammer we didn't find at the Davis house.
-Robbins: Why take the murder weapon from one scene, walk around with it for more than a day, use it to kill again, but this time leave it behind?
- 
-Sara: Maybe he found something better ... Colt .45 auto. Case is empty.
- 
-Grissom: Huh.
- 
-Grissom: He lost the proceeds from the Vegas murders at the Tangiers. So, he probably needed more cash.
-Robbins: Double murder ATM.
-Grissom: Driver's license is on top, like before.
-Sara: He likes to know their names.
-Robbins: I heard the husband died at the hospital. But the killer was definitely here awhile. According to liver temp, she died a couple hours before the husband.
-Sara: So the husband was here and alive while his wife was being raped and killed?
-Robbins: It looks that way.
- 
-
- 
- 
-Grissom: Sara? You okay?
-Sara: I don't know. Do you have any idea how he selects his victims?
-Grissom: No. He picks houses with no security systems, or dogs. Enters at night when most people are asleep, through open doors or windows. Easy targets.
-Sara: So, basically at random.  They were spending a night on the sofa, watching a movie. It's just ... uh ... 
-(She turns -- 
-Sara: It's just wrong.
--- and walks away. Grissom watches her for a moment. A train whistle blows nearby. Grissom quickly turns around.) 
-
- 
-Grissom:  Grissom.
-
-
-Jack:  You at the Boulder City house?
-Grissom:  No, I'm at a railroad spur about a quarter of a mile from the house.
-Jack:  You taking a trip?
-Grissom:  Carmen Davis's house was next to the tracks, too.
-Jack:  So?
-Grissom:  Freight trains carry bulk fertilizer. I think your killer is riding the rails.
-
- 
- 
-Grissom: All the previous murders were committed within about a mile of an active railroad spur.
-Jack: Right, so he gets off the train, finds his victim, kills them, rapes them if he feels like it, then just takes off.
-Catherine: So, I cross-referenced similar-patterned unsolves in ViCAP by proximity to rail spurs. There's at least a dozen cases.
-Grissom:  You know, you have the authority to stop all the trains coming in and out of Nevada.
-Jack: Well, I'm not gonna do that unless I got a face.
-Catherine: If these are the work of your guy, he's piled up one hell of a body count.
-(Camera pans across the map showing the various red-circled cities and names of the victims. The two most recent: 
-LAS VEGAS
-JULIAN/CHRISTINA GARDELLA
-11/1/07
-BOULDER CITY
-CARMEN DAVIS
-10/29/07
-
- 
- 
-Archie: Guy kept his head down the entire time.
-Nick: Mm-hmm.
-Archie: Oh, check out what happens when he runs out of money. He starts hitting on the waitress, been doing it to every one of them that walked by.
- 
-Archie: And this ... is the last good image of him before he leaves the casino. He stops to look at this poster and quickly makes a phone call.
-Nick: Three numbers? I don't know too many serial killers that dial 911. He's calling Information.
- 
-Nick:  Uh, yes, this is CSI Nick Stokes with the Vegas PD. I need to get the telephone number of one of your pay phones on the casino floor. Near the ... uh ... Let It Ride tables.
- 
-Nick:  Yes, ma'am.
-Archie:  So, why was he so interested in this poster?
-Nick:  Oh, great. Okay.
-
-Nick:  Mm-hmm. Very good. Thank you.
-Archie: Look at this.
-Nick: What is it?
-Archie: South Point Casino, just outside Boulder City. Might be a reason he went there.
- 
-Nick: 
-702-555-0177. At, uh ... 
-Archie:  17-41-33.
-Nick:  17-41-33. Yes, ma'am, day before yesterday.
- 
-Archie: Well, we know this guy likes his waitresses. So maybe that's what he's looking at.  Is that a &quot;D&quot;? No. &quot;G,&quot; &quot;G-I-R&quot;... &quot;N&quot;? 
-Nick:  Gina. Gina Farentino. He called Information to get her number in Boulder City, but it's unlisted.
- 
-Archie: Maybe that's what pissed him off.
-Nick: He knows where she works.
-
-
- 
- 
-Floor Manager: Yeah, Gina works here; she's off today, though. Probably at home.
-Jack: We checked her house; she's not there. When was the last time you saw her?
-Floor Manager: Not since yesterday. 
-Jack: What about this guy, seen him?
- 
-Floor Manager: This is the best picture you got?
-Jack: What do you think?
- 
-Floor Manager: There was a guy ... I don't know if it's him. He was on those slots when Gina came on her shift.
-
-Man in Baseball Cap: Oh, yeah!  Whoo!
-
-Floor Manager:  Guess it was his lucky day. Must've thought the jackpot gave him a shot at her. He started chatting her up.
- 
-Man in Baseball Cap: Hey.
-Gina Farentino: Oh ...
- 
-Man in Baseball Cap: Don't go. What are you doing? 
-Gina Farentino: No--
-Man in Baseball Cap: When do you get off work? Huh? Where are you going?
-Gina Farentino: Don't talk to me!
-Floor Manager:  She blew him off and left. Said she wasn't feeling well.
-
-
-Jack: And when did he leave?
-Floor Manager: He cashed out and left a few minutes later.
-Nick: How much did he win?
-Floor Manager: Um ... $2,500.
-Nick: I need to take a look at his W2-G, okay?
-
- 
-Nick: If you make over twelve hundred bucks, Uncle Sam gets his cut, you know?
-Jack: Oh. That's how we stay in business.
-Nick: Mm-hmm.
-Jack: It's got name, address, social ... The whole thing has got to be bogus.
-Nick: Yeah, the cashiers don't really seem to care,  And even when that's fake ... you can't fake one of those.
-
- 
- 
- 
- 
-Dispatch:  Chevy Impala, Nevada license Adam-Robert-Charles-Boy-4-
-2-1. No wants or warrants, welfare check only. License owner is a Gina Farentino.
-State Trooper Robinson:  Copy, Dispatch.
-
-Robinson: License and registration, sir.
-Man In The Baseball Cap: I got it right here.
- 
-
-
-
-
- 
- 
- 
- 
-Grissom: .45 auto. Same caliber as the one taken from the Boulder City double.
-Jack: You can see the whole thing on video if you want.
-Grissom: Was the waitress in the car with him?
-Jack: He was waving at somebody in the passenger seat when he got shot. According to the time code on the dash cam, it was about 33 minutes ago.
- 
-Grissom: That's a pretty good head start.
-Jack: Yeah. I don't want to lose this guy.
- 
-Grissom:  Grissom.
-
-
-Catherine:  We ran the fingerprints that Nick lifted from the casino IRS form. Got an AFIS hit. Terry Lee Wicker. Served two years in Sing Sing for burglary. He got out four months before Jack's original kidnapping, and get this, when he was sent up, he was married to Gina Farentino. Brass put out a broadcast.
-Grissom:  Listen, do me a favor. Take a look at the map, find the nearest railway spur to our location.
- 
-Catherine:  Meadowood. It's off the 93, and it looks to be about ... 16 miles northeast of your location.
- 
-
-
- 
- 
- 
- 
-Station Yard Controller: What the hell's going on?
-Jack: Did you see who drove this car here?
-Station Yard Controller: No, but I called the tow company. You can't park here.
- 
-Jack: Where's that train going?
-Station Yard Controller: The Fresno 211. Chicago bound.
-Grissom: Any other trains pass through here in the last hour?
-Station Yard Controller: No, and nothing else is scheduled for another hour.
-Grissom: Can you stop that train?
-Station Yard Controller: I don't have that capacity, no. Who you guys looking for?
- 
- 
- 
-Jack: You starting to miss the lab?
-Grissom: No, I like a good field trip.
- 
-Jack: Right. Stay behind me.
- 
- 
- 
-Jack: Freeze!  Put your hands where I can see 'em! You Wicker?
-Baxter: No. The name's Baxter, and I ain't got no ticket.
-Grissom: Where'd you get that hat?
-Baxter: Oh ... from a man.  He gave me a hundred bucks to get on this train. I don't want no trouble. I mean ... don't shoot.
- 
-
- 
-REVERSE VIEW – INSIDE THE CAR TRUNK
- 
- 
-Grissom: Maybe, uh ... he came here to kill his ex-wife.
-Jack: Why? 
- 
-Grissom: Grissom.
-Brass:  It's Brass.
-
-
-Brass:  Listen, the Boulder PD got a call from the principal at the local elementary school. Gina Farentino was supposed to pick up her son, only she didn't show up.
-Grissom:  Yeah, there's a reason for that.
-Jack:  She had a son?
-Brass:  The kid's name is Kobe. Yeah, according to the principal, a guy fitting Wicker's description came and picked him up in the mother's car. He said the kid seemed to know him.
-Grissom:  Thanks, Jim.
-
-Grissom: Hey, Jack. I don't think that trooper was waving at Gina.
- 
-State Trooper Robinson: License and registration, sir.
-Terry Lee Wicker: I got it right here.
- 
-
- 
-Grissom: You said the kid who was kidnapped was six years old when he was adopted, birth parents unknown.
- 
-Jack: That's right.
-Grissom: Terry Wicker was looking for his ex-wife ... 
-Jack: ... and his son.
-Grissom: A family reunion.
-
-
- 
-
- 
-Terry Lee Wicker: 
-The wheels on the bus go round and round
-Round and round, round and round
-The wheels on the bus go round and round
-All round the town. 
- 
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=08x06+-+Who+and+What&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127457%23p127457" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=08x06+-+Who+and+What&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127457%23p127457" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127457%23p127457&amp;name=08x06+-+Who+and+What" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127457%23p127457" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=74adf592bb33f1f61e77cc4fdaddd4eb">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=74adf592bb33f1f61e77cc4fdaddd4eb">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=74adf592bb33f1f61e77cc4fdaddd4eb">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=74adf592bb33f1f61e77cc4fdaddd4eb">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

@@ -1,771 +1,1003 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) -- NIGHT] 
+[EXT. ORPHEUS (STOCK) - NIGHT]
+(The limo pulls up in front of the hotel.)
+(Cut to: A woman leans ou" />
+<meta property="og:title" content="04x09 - Grissom Versus the Volcano - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) -- NIGHT] 
+[EXT. ORPHEUS (STOCK) - NIGHT]
+(The limo pulls up in front of the hotel.)
+(Cut to: A woman leans ou" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13267" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>04x09 - Grissom Versus the Volcano - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13267" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13267">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=bbb2e2fd051e3869c68c70cb3fe609f3"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=bbb2e2fd051e3869c68c70cb3fe609f3">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=bbb2e2fd051e3869c68c70cb3fe609f3">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=bbb2e2fd051e3869c68c70cb3fe609f3">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=bbb2e2fd051e3869c68c70cb3fe609f3">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13267&amp;sid=bbb2e2fd051e3869c68c70cb3fe609f3&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>04x09 - Grissom Versus the Volcano</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127361">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127361">04x09 - Grissom Versus the Volcano</a></div>
+							<div class="pull-right text-right"><time datetime="2003-12-25T05:36:04Z">12/25/03 05:36</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) -- NIGHT] </p>
+<p>[EXT. ORPHEUS (STOCK) - NIGHT]</p>
+<p>(The limo pulls up in front of the hotel.)</p>
+<p>(Cut to: A woman leans out the driver's window and hands the valet a cash tip.) </p>
+<p><strong>Valet 1</strong>: Thank you. Have a good night.</p>
+<p>(The woman drives away. As he heads back, a second valet walks by him on his way to his own customer.)</p>
+<p><strong>Valet 2</strong>: Eagles covered, bro. Cough up the twenty.</p>
+<p><strong>Valet 1</strong>: Man, backdoor touchdown. Man, kills you every time.</p>
+<p>(The first valet hands the money over to the second valet. He grins and laughs as he checks the bill out.)</p>
+<p><strong>Valet 2</strong>: Ha-ha!</p>
+<p>(Cut back to the front door: SHERIFF RORY ATWATER and his dinner party walk out of the hotel. The women laugh at something he says. He heads over to the valet.)</p>
+<p>(Cut to: [DRIVER'S POV] ADAM WATSON drives up the hotel front heading for the valet service.)</p>
+<p>(Resume: VALET 2 walks toward the driver's window.)</p>
+<p>(Cut to: SHERIFF RORY ATWATER tips the HEAD VALET and hands him the ticket for his car.)</p>
+<p>(VALET 2 reaches the car's driver and leans in through the open window.)</p>
+<p><strong>Valet 2</strong>: Welcome to the Orpheus. You checking in or just donating?</p>
+<p><strong>Adam Watson</strong>: Checking in.</p>
+<p><strong>Valet 2</strong>: Any bags, sir?</p>
+<p>(ADAM WATSON looks at the passenger seat to indicate the carry-on next to him.)</p>
+<p><strong>Adam Watson</strong>: I got this one. Grab the one in the trunk.</p>
+<p>(VALET 2 walks around the back of the car. No sooner than he reaches the trunk, it explodes sending him flying high up into the air. Patrons around the area scream and duck at the unexpected attack; fire engulfs the car interior shattering the car glass. The VALET'S body lands on the asphalt with a thud.)</p>
+<p>(SHERIFF RORY ATWATER watches from the side, crouched low.)</p>
+<p>CUT TO:<br />
+[EXT. ORPHEUS - FRONT -- NIGHT]</p>
+<p>(Emergency Personnel, Fire Units and Officer Cars assist with helping the injured. The Fire Units work on putting the car fire out.)</p>
+<p>(GRISSOM and CATHERINE exit their vehicle and make their way toward the scene. SHERIFF RORY ATWATER speaks with a couple of members of the BOMB SQUAD. He looks up and sees GRISSOM and CATHERINE walking toward him. He turns and heads toward them.)</p>
+<p><strong>Sheriff Rory Atwater</strong>: Car bomb. Driver and valet are dead. Another valet is critical. Got at least a dozen injured. I was having dinner here; was on my way out. It'd gone off a couple of seconds later, you'd be picking my badge up off the ground.</p>
+<p><strong>Grissom</strong>: Thank God you're all right. (GRISSOM points to the area behind him.)<br />
+Sheriff, did they, uh, sweep the area for secondaries?</p>
+<p><strong>Sheriff Rory Atwater</strong>: Bomb squad says it's all clear.</p>
+<p><strong>Catherine</strong>: (looking around) We'll photo-document the scene. Overalls from all angles. Aerials as well.</p>
+<p>(Suddenly consecutive gunfire rings out in the area. GRISSOM grabs CATHERINE and pushes her toward the nearest vehicle to shield her from the gunfire. The SHERIFF ducks down and heads for the vehicle as well.)</p>
+<p>(Uninjured people scream and run for cover.)</p>
+<p>(The gunfire continues.)</p>
+<p>(GRISSOM stays where he his using his body to cover CATHERINE. The SHERIFF draws his gun and stands up looking around for the shooter.)</p>
+<p>(GRISSOM looks around.)</p>
+<p>(The gunfire stops.)</p>
+<p>SMASH CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. ORPHEUS - FRONT -- NIGHT]</p>
+<p>(GRISSOM and SHERIFF RORY ATWATER look into the open trunk at the partially burned suitcase inside.) </p>
+<p><strong>Sheriff Rory Atwater</strong>: Guess it wasn't a sniper.</p>
+<p><strong>Grissom</strong>: (explains) Fixed ammunition in the trunk. The gunpowder must have heated up, and the, uh, rounds cooked off.</p>
+<p>(Quick CGI of: Inside the back of the trunk, the suitcase is burning. Camera pushes into the suitcase where we see the box of ammunition burning. Sounds of the rounds going off as they heat up and explode. End of CGI. Resume to present.)</p>
+<p>(CATHERINE stands to the side of the car.)</p>
+<p><strong>Catherine</strong>: I'm going to start marking the evidence.</p>
+<p>(She steps away. GRISSOM moves from the back of the car to the front as he narrates what he thinks happened.)</p>
+<p><strong>Grissom</strong>: I believe the, uh, glass pressure traveled from the rear of the vehicle, through the front ...</p>
+<p>(GRISSOM reaches the driver's side shining his flashlight on the steering wheel. He moves the light down to the floor where he finds a pair of feet flat on the floor cut off at the ankles.)</p>
+<p><strong>Grissom</strong>: ... and evidently separated the driver's body at the ankles. (louder)<br />
+David, we have body parts in the car!</p>
+<p><strong>David Phillips</strong>: I've been looking for the feet.</p>
+<p><strong>Grissom</strong>: I found 'em.</p>
+<p>(The SHERIFF stands to the side, his arms crossed looking at what GRISSOM'S showing him.)</p>
+<p><strong>Sheriff Rory Atwater</strong>: We gotta ID the driver ASAP.</p>
+<p>(GRISSOM looks at the dash.)</p>
+<p><strong>Grissom</strong>: Well, the VIN number's still attached.</p>
+<p><strong>Sheriff Rory Atwater</strong>: (to the officer) Write that down. Call in the DMV.</p>
+<p><strong>Officer</strong>: (cc) Yes, sir.</p>
+<p>(Cut to: DAVID PHILLIPS holds a burned hand cut off at the wrist. He gently wraps it in a white cloth.)</p>
+<p>(Cut to: CATHERINE places evidence markers on the ground as she sees something worth examining further. She places evidence marker #34 on the ground next to an empty bullet casing. She straightens, takes a couple steps forward then places evidence marker #35 on the ground next to what looks like a gun.)</p>
+<p>(She photographs it.)</p>
+<p>(In the background, a black vehicle pulls up. NICK exits the car. He looks around, sees her and walks over to her.)</p>
+<p><strong>Nick</strong>: Sorry, Catherine. Traffic's backed up all the way to the strip.</p>
+<p>(CATHERINE picks up the gun.)</p>
+<p><strong>Catherine</strong>: Got a sig-sauer. Probably the driver's.</p>
+<p><strong>Nick</strong>: I'll start bagging. Gather the detritus and separate out the bomb components.</p>
+<p><strong>Catherine</strong>: (distracted) Okay.</p>
+<p>(She points the camera downward and snaps another picture.)</p>
+<p>(Cut back to: The media van pulls up in front of the hotel.)</p>
+<p><strong>Grissom</strong>: Here's press. You're on. Wish I could help, but, uh, I got a vehicle to process.</p>
+<p>(The SHERIFF runs a hand through his hair.)</p>
+<p><strong>Sheriff Rory Atwater</strong>: Come on, Grissom -- a bomb goes off these days, they're going to assume it's a hit. What are you thinking?</p>
+<p><strong>Grissom</strong>: I'm not thinking. I'm just looking.</p>
+<p>(The SHERIFF heads for the media vans and crew setting up their equipment.)</p>
+<p><strong>Sheriff Rory Atwater</strong>: (over his shoulder) That's good. Can I use that?</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>(Camera pans across the strip to a large lit billboard on THE MEDITERRANEAN for MYLES RUEBEN, &quot;Prince of Soul&quot;.)</p>
+<p>[INT. THE MEDITERRANEAN - SUITE - NIGHT] </p>
+<p>(WARRICK, SARA and a detective walk into the hotel suite. There's a body floating face down in the bubbling hot tub.) </p>
+<p><strong>Detective Vartann</strong>: Amelia Rueben. Twenty-five.</p>
+<p><strong>Warrick</strong>: She a guest? Or a guest of a guest?</p>
+<p><strong>Detective Vartann</strong>: Myles Rueben's wife.</p>
+<p><strong>Sara</strong>: Who found her?</p>
+<p><strong>Detective Vartann</strong>: About forty minutes ago, a maid walked in for &quot;turn-down&quot; service. Called hotel security.</p>
+<p>(WARRICK starts taking pictures of the scene.)</p>
+<p><strong>Sara</strong>: Still on a timer.</p>
+<p>(SARA sees something. She puts her kit down and reaches into the tub to pull out a glass.)</p>
+<p><strong>Sara</strong>: Got a wine glass.</p>
+<p><strong>Warrick</strong>: Does Myles know?</p>
+<p><strong>Detective Vartann</strong>: He's still onstage.</p>
+<p>[INT. THE MEDITERRANEAN - ON STAGE -- NIGHT] </p>
+<p>(MYLES RUEBEN is on stage singing to a thrilled audience.) </p>
+<p><strong>Myles Ruben</strong>: (lyrics) hold up, slow to row / let's lay low before you go too far / remember who you are / why you want to start givin' me the third degree / all of this responsibility... /</p>
+<p>[HOTEL SUITE] </p>
+<p>(SARA opens her kit. WARRICK looks around the room and finds the wine bottle on the dressing table.) </p>
+<p><strong>Warrick</strong>: Got a wine bottle. </p>
+<p>(He takes a picture of it, puts his camera aside and picks up the bottle to check it.)</p>
+<p><strong>Warrick</strong>: Almost empty.</p>
+<p>(SARA glances over her shoulder at WARRICK.)</p>
+<p>[ON STAGE]</p>
+<p><strong>Myles Ruben</strong>: (lyrics)<br />
+Love ain't gonna get me till I know I'm ready ... </p>
+<p>[HOTEL SUITE]</p>
+<p>(WARRICK glances from the bottle to SARA.)</p>
+<p><strong>Warrick</strong>: Alcohol. Hot tub. A little bit too relaxed.</p>
+<p>(Camera shot of AMELIA RUEBEN face down in the tub.)</p>
+<p>[ON STAGE]</p>
+<p><strong>Myles Ruben</strong>: (lyrics) ...That you see / you see / just a part of me / just a part of me ... </p>
+<p>[HOTEL SUITE]</p>
+<p>(ROBBINS checks the body temperature. The body is now out of the hot tub and on a gurney.)</p>
+<p><strong>Robbins</strong>: Temperature of the spa water makes liver temp irrelevant. But given the redness of her eyes, I'd estimate she's been dead less than an hour.</p>
+<p>(SARA processes the hot tub buttons.)</p>
+<p>(In the background, we can hear MYLES RUEBEN sing.)</p>
+<p>[ON STAGE]</p>
+<p><strong>Myles Ruben</strong>: (lyrics)<br />
+You're having visions of happy ever after, lost in love / </p>
+<p>[HOTEL SUITE]</p>
+<p>(ROBBINS places the white sheet over AMELIA RUEBEN'S head, covering her.)</p>
+<p>[ON STAGE]</p>
+<p><strong>Myles Ruben</strong>: (lyrics) why you want the rush / why you want the rush / but yeah, I care for you / but I can't trust my heart the way that you do / 'cause when it comes/to love ... </p>
+<p>[HOTEL SUITE]</p>
+<p>(The CORONER'S office wheels the gurney away. SARA lifts a print off of the hot tub button.)</p>
+<p><strong>Warrick</strong>: It just dawned on me what's Rueben's biggest hit was.</p>
+<p><strong>Sara</strong>: What's that?</p>
+<p><strong>Warrick</strong>: &quot;Amelia.&quot;</p>
+<p>(SARA turns and glances over her shoulder at WARRICK.)</p>
+<p>[ON STAGE]</p>
+<p><strong>Myles Ruben</strong>: (lyrics)<br />
+Girl, love ain't gonna get me / gonna get me / till I know I'm ready / you think you know me / oh / but I'm hopin' that you see / you see / just a fantasy... </p>
+<p>(Backstage, the curtains shift as WARRICK, SARA and SAM HOPKINS, MYLES' manager enter. They stand on the side and watch MYLES RUEBEN onstage.)</p>
+<p><strong>Sam Hopkins</strong>: I'll handle this when Myles breaks for the encore. Been the kid's manager since '97.</p>
+<p><strong>Myles Ruben</strong>: (lyrics)<br />
+But I'm hopin' that you see... </p>
+<p><strong>Sam Hopkins</strong>: I should be the one to tell him.</p>
+<p><strong>Myles Ruben</strong>: (lyrics)<br />
+Just a part of me / I'm always gonna be / just a fantasy / a fantasy. </p>
+<p>(The song ends to the audience cheering and applauding. MYLES RUEBEN backs away and rushes off stage. A towel is handed to him and he walks down the steps toward SAM.)</p>
+<p>[BACKSTAGE]</p>
+<p>(Using the towel, MYLES dabs the sweat from his face.)</p>
+<p><strong>Myles Ruben</strong>: How was that, Sam? Sound good?</p>
+<p><strong>Sam Hopkins</strong>: (unenthusiastic) Great, Myles. The best.</p>
+<p><strong>Myles Ruben</strong>: What? What's wrong? I missed a high note, huh? Man ...</p>
+<p><strong>Sam Hopkins</strong>: No, no, no. Everything sounded great. (He glances at WARRICK and SARA) Listen, Myles, these are Crime Scene Investigators. Myles, uh ... there's been an accident.</p>
+<p><strong>Myles Ruben</strong>: (panicking) An accident? What, is it my mother? Did-did something happen back East?</p>
+<p><strong>Sam Hopkins</strong>: No, no, no. Your mother's fine. Look, Myles, it's, uh ...</p>
+<p>(SAM falters. He looks down, unable to continue. SARA picks it up.)</p>
+<p><strong>Sara</strong>: Mr. Rueben, I'm very sorry to have to tell you this, but your wife is dead.</p>
+<p>(MYLES is stunned. He looks at SAM. SAM nods. MYLES looks around, lost.)</p>
+<p><strong>Myles Ruben</strong>: (mumbling) I gotta ... I gotta ... </p>
+<p>(He turns and looks back at the audience who is clapping and chanting for an encore.)</p>
+<p><strong>Audience</strong>: (chanting) Amelia! Amelia!</p>
+<p>(He shakes his head and turns to SAM.)</p>
+<p><strong>Myles Ruben</strong>: Turn the houselights up, Sam. There's no encore tonight.</p>
+<p>(MYLES walks past SAM and heads out. Everyone watches him go.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY / GARAGE -- NIGHT] </p>
+<p>(GREG turns the hallway corner and walks into the garage where GRISSOM is working on the car.) </p>
+<p><strong>Greg</strong>: I heard about the bombing. I'm here to help.</p>
+<p><strong>Grissom</strong>: I located the seat of the explosion. The bomb was attached to the fuel tank. </p>
+<p><strong>Greg</strong>: Gas-enhanced. Bomber maximized his bang. </p>
+<p>(GRISSOM doesn't look up, but motions to under the car.)</p>
+<p><strong>Grissom</strong>: You really want to help, climb under here and find the initiation switch.</p>
+<p>(INTERCUT WITH: [UNDER THE CAR] GREG is on a dolly and pushes himself under the car. He uses his flashlight to examine under the car.)</p>
+<p>(GRISSOM examines the car steering wheel.)</p>
+<p>(GREG continues to examine under the car. He finds something.)</p>
+<p><strong>Greg</strong>: Got a stray wire.</p>
+<p>(He follows the wire.)</p>
+<p><strong>Greg</strong>: Leading away from the gas tank, right into the center of the dash.</p>
+<p>(Camera zooms to show us a close up of the frayed edge of the wire.)</p>
+<p><strong>Greg</strong>: Nowhere near the loom.</p>
+<p>(Back in the front seat, GRISSOM shifts his gaze from examining the steering wheel to the dash.)</p>
+<p>(The damaged dash morphs back into its pre-explosion state. GRISSOM sees something.)</p>
+<p>(Quick CGI through the digital clock in the dash in to the mechanism inside. A small jolt of electricity sets off inside the clock.)</p>
+<p><strong>Grissom</strong>: (V.O.) The digital clock was the switch.</p>
+<p>(The camera follows the blue electrical jolt through the wiring in the digital clock.)</p>
+<p>(End of quick CGI. Resume to GRISSOM.)</p>
+<p><strong>Grissom</strong>: It was time-activated.</p>
+<p><strong>Greg</strong>: What's next?</p>
+<p><strong>Grissom</strong>: Nick has to reconstruct the bomb.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- NIGHT] </p>
+<p>(NICK empties the tray with the bomb parts onto the table. He separates the larger pieces out of the mix and sets them aside. He picks up a piece, looks at it, then sets it aside.) </p>
+<p>(He picks up another piece, examines it and sets that aside next to the first piece.)</p>
+<p>(He empties the contents of the second tray onto the table and sorts through those items. He examines every item piece by piece and sorts through them.)</p>
+<p>(Finally, he's left with the wire. He examines the wire and sets it aside.)</p>
+<p>(Camera zooms in to the group of small fragments on the table.)</p>
+<p>(Quick CGI: The fragments assemble themselves to show a pipe. Inside the pipe, is the wire. Finally, the exploding cap twists onto the end of the pipe. Camera pulls away to show the pipe resting on some clay stuck to two red stands.)</p>
+<p>(End of quick CGI. Resume to:</p>
+<p>[INT. CSI - GRISSOM'S OFFICE - NIGHT]</p>
+<p>(NICK reports his findings to GRISSOM and SHERIFF RORY ATWATER.)</p>
+<p><strong>Nick</strong>: It was a pipe bomb. Initiated by a lightbulb filament.</p>
+<p><strong>Grissom</strong>: Bomb was attached to the fuel tank.</p>
+<p><strong>Nick</strong>: There were still magnet and solder fragments attached to the pipe.</p>
+<p>(NICK shows the photo to the SHERIFF.)</p>
+<p><strong>Sheriff Rory Atwater</strong>: Did you find any kind of timing device?</p>
+<p><strong>Nick</strong>: Digital clock in the dash.</p>
+<p><strong>Sheriff Rory Atwater</strong>: What about the type of explosive used?</p>
+<p><strong>Grissom</strong>: Not yet.</p>
+<p><strong>Nick</strong>: I was about to analyze the chemical residue left on the bomb frags.</p>
+<p><strong>Grissom</strong>: Be sure to do an organics and inorganics test.</p>
+<p><strong>Nick</strong>: Will do.</p>
+<p>(NICK leaves the office. The SHERIFF sighs, steps toward the seat in front of GRISSOM'S desk and sits down.)</p>
+<p><strong>Sheriff Rory Atwater</strong>: So ... what does it all mean?</p>
+<p><strong>Grissom</strong>: What does what all mean?</p>
+<p><strong>Sheriff Rory Atwater</strong>: Don't play dumb with me, Gil. Explosions lead the news. I need to know who, and I need to know why.</p>
+<p><strong>Grissom</strong>: Well, the evidence is only teaching us about the bomb, not the bomber.</p>
+<p><strong>Sheriff Rory Atwater</strong>: What about a signature? Is there anything distinct, unusual about this particular bomb?</p>
+<p><strong>Grissom</strong>: (shakes his head) No. (thinks about it) Nothing.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(ROBBINS goes over the preliminary findings with SARA and WARRICK.) </p>
+<p><strong>Robbins</strong>: Amelia Rueben didn't drown. If she had, there'd be fluid in her nasal sinuses. </p>
+<p>(Quick CGI to: AMELIA RUEBEN face-down in the water. Her head is submerged under the water. Camera zooms in toward her nose and in through her nose to show her sinuses. Water fills up the sinuses.)</p>
+<p><strong>Robbins</strong>: (V.O.) Clear as a bell.</p>
+<p>(End of quick CGI. Resume to present.)</p>
+<p><strong>Sara</strong>: What was the cause of death?</p>
+<p><strong>Robbins</strong>: Cardiac arrest.</p>
+<p>(WARRICK opens and references back to the file folder.)</p>
+<p><strong>Warrick</strong>: (surprised) She was only 25. Was there some kind of defect?</p>
+<p><strong>Robbins</strong>: No, her heart was in perfect condition. In fact, I have it over here. </p>
+<p>(ROBBINS motions to the side. They all step to gather around the tray with the heart in it.)</p>
+<p><strong>Robbins</strong>: See the myocardium? There's no evidence of hemorrhage, infarct or scarring. No coronary occlusions. I can't explain it.</p>
+<p><strong>Warrick</strong>: (gazing down at the heart) It's like a mystery of the heart.</p>
+<p>(ROBBINS and SARA turn to look at WARRICK. He raises his head to look back at them.)</p>
+<p>CUT TO:<br />
+[INT. CSI - BALLISTICS LAB] </p>
+<p>(Scene opens on the burned gun in a tray. BOBBY DAWSON explains his findings to CATHERINE.) </p>
+<p><strong>Bobby Dawson</strong>: So, that sig-sauer you found ...</p>
+<p><strong>Catherine</strong>: Yes.</p>
+<p><strong>Bobby Dawson</strong>: Relatively nondescript. Uh, the blue stuff, sent a sample to Trace. Pretty sure it's from some sort of bag that melted in the explosion.</p>
+<p><strong>Catherine</strong>: Right. And the bullets from the Camaro's trunk?</p>
+<p><strong>Bobby Dawson</strong>: A-ha. Pre-fragmented ammo. Now they're unique. Exemplar's under the magnifier. </p>
+<p>(CATHERINE looks at the bullet under the magnifier. Camera zooms in to the bullet for a close-up.)</p>
+<p><strong>Bobby Dawson</strong>: Copper jacket contains lead shot sealed with a clear epoxy plug.</p>
+<p><strong>Catherine</strong>: I've never seen anything like that.</p>
+<p><strong>Bobby Dawson</strong>: It's designed to enter a target, but not exit.</p>
+<p>(Quick flash to: A bullet is fired from a gun and impacts through a clothed target. The shirt disappears to reveal the chest and an x-ray view of the chest. The camera angle turns sideways to show the bullet enter the chest and dissipate inside the body.)</p>
+<p>(End of quick flash. Resume to present.)</p>
+<p><strong>Catherine</strong>: Penetration, not perforation. Why?</p>
+<p><strong>Bobby Dawson</strong>: Well, say you're on a commercial flight. Plane gets hijacked. US Air Marshal needs to take down the hijacker ...</p>
+<p><strong>Catherine</strong>: ... but not the plane.</p>
+<p><strong>Bobby Dawson</strong>: Right. Nowadays, magsafes are sold commercially, but there's really not much of a market. So chances are, your driver's a Federal Air Marshal.</p>
+<p>CUT TO:<br />
+[INT. CSI - PRINT LAB] </p>
+<p>(Scene opens on a close up of two prints, side-by-side, on the monitor screen. The computer is trying to match the print through the database.)</p>
+<p>(Different angle on the room. SARA sits behind the monitor while WARRICK watches next to her. The computer beeps.)</p>
+<p>(Back to the monitor to show the print match.)</p>
+<p><strong>Sara</strong>: It's a match. PRT on the hot tub dial was Sam Hopkins.</p>
+<p>(Monitor shows the following information:<br />
+SAM HOPKINS<br />
+493 PYRAMID WAY<br />
+LAS VEGAS, NV<br />
+Manager for Myles Ruben<br />
+No prior Criminal Record<br />
+&lt;&lt;File 02157.5784&gt;&gt;</p>
+<p><strong>Warrick</strong>: Rueben's manager? Amelia was butt-naked in the hot tub. What was he doing in her room tweaking dials? </p>
+<p><strong>Sara</strong>: While her husband's onstage?</p>
+<p>(GREG walks into the lab.)</p>
+<p><strong>Greg</strong>: Spectroscopy just got back. Hydrofluoric acid in her system.</p>
+<p><strong>Sara</strong>: Isn't that an industrial solvent?</p>
+<p><strong>Greg</strong>: High-powered stuff. Mainly used to remove rust, clean glass, brighten aluminum, dissolve silicas ... and commit murder. </p>
+<p><strong>Warrick</strong>: She was poisoned. That would explain her heart attack.</p>
+<p>CUT TO:<br />
+[INT. LAS VEGAS HOTEL -- DAY] </p>
+<p>(SAM HOPKINS is standing center stage while the spotlight is on him. He shields his eyes from the lights and yells to the LightMan, Jimmy.) </p>
+<p><strong>Sam Hopkins</strong>: You're killing me, Jimmy. You're killing me. All night the spotlight was off. Way too hot on his face. It's too hot on me right now. They guy's not Wayne Newton, all right? Can you see it on my face, Jim? I need ... Jimmy. Thank ... I need a cast shadow on him for all the love songs.</p>
+<p>(SARA and WARRICK stand in front of the stage.)</p>
+<p><strong>Warrick</strong>: Mr. Hopkins, could you answer the question, please.</p>
+<p>(SAM HOPKINS steps aside to pay attention to them.)</p>
+<p><strong>Sam Hopkins</strong>: Sorry.</p>
+<p>(He kneels down on stage to look at them.)</p>
+<p><strong>Sam Hopkins</strong>: Yes, I was in Amelia's room. I'm in there all the time. We're like family.</p>
+<p><strong>Sara</strong>: We know you were close. Do you always turn on the hot tub for her?</p>
+<p><strong>Sam Hopkins</strong>: I represent one of the biggest headliners in town. Wear a lot of hats: Manager, marriage counselor, confidante. I kept Myles happy by keeping her happy.</p>
+<p>(Quick flashback to: [BATHROOM] AMELIA is in the hot tub as the water runs, filling the tub. SAM HOPKINS stands nearby.)</p>
+<p><strong>Sam Hopkins</strong>: Amelia, anything else I can get for you?</p>
+<p>(AMELIA doesn't answer, although she glances at SAM.)</p>
+<p>(Cut to: AMELIA again doesn't answer. SAM kneels down next to the hot tub.)</p>
+<p><strong>Sam Hopkins</strong>: Look, sweetheart. Here's how this works. You give him his space, he sings his heart out. Honey, we all prosper. Let me set up a dinner for you two -- quiet, alone -- after the show.</p>
+<p><strong>Amelia Ruben</strong>: No work. Never happen.</p>
+<p><strong>Sam Hopkins</strong>: Relax.</p>
+<p>(He reaches and turns the water off.)</p>
+<p><strong>Sam Hopkins</strong>: Give me an hour.</p>
+<p>(He turns to leave the bathroom. AMELIA reaches for her wineglass.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: But you must admit, the boss' wife, naked in a hot tub, looks kind of funky.</p>
+<p><strong>Sam Hopkins</strong>: Look at me. Do I look like a threat? The reason I've succeeded in this business, I don't squat where I eat, you know what I mean?</p>
+<p><strong>Sara</strong>: All right, let's talk about drinking. There was a bottle of wine found near the tub. Did you have a drink with her?</p>
+<p><strong>Sam Hopkins</strong>: No. Never. I don't touch it. I'm on call 24/7. Myles can pick up the phone, have me do anything, anytime. Fly to L.A., pick someone up at the airport. </p>
+<p><strong>Warrick</strong>: So, you'd do just about anything for him then?</p>
+<p><strong>Sam Hopkins</strong>: When it comes to Myles, yeah. What's this all about?</p>
+<p><strong>Sara</strong>: Mr. Hopkins, Amelia didn't drown. She was poisoned.</p>
+<p><strong>Sam Hopkins</strong>: Poisoned? By who?</p>
+<p><strong>Warrick</strong>: That's what we're trying to find out.</p>
+<p>CUT TO:<br />
+[EXT. CAR RENTAL -- DAY] </p>
+<p>(BRASS interview's the MANAGER.) </p>
+<p><strong>Brass</strong>: According to the DMV, the Camaro was one of yours, is that right?</p>
+<p><strong>Manager</strong>: Yeah, it was rented to an Adam Watson. Waived insurance. Government discount.</p>
+<p><strong>Brass</strong>: Well, we have reason to believe Mr. Watson was a US Air Marshal.</p>
+<p><strong>Manager</strong>: Right. How could I forget him? He threw it in my face when I told him we were out of compacts.</p>
+<p>(Quick flashback to: ADAM WATSON shows the MANAGER his badge.)</p>
+<p><strong>Adam Watson</strong>: I'm a US Air Marshal, okay? I travel for a living. I don't need this crap.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: But you found him a car.</p>
+<p>(Quick flashback to: The MANAGER responds.)</p>
+<p><strong>Manager</strong>: I'll put you in a full-size and won't charge you for the difference.</p>
+<p><strong>Adam Watson</strong>: (shakes his head) No, forget it. </p>
+<p>(He turns, looks around and sees the Camaro parked just outside the windows.)</p>
+<p><strong>Adam Watson</strong>: I'll take the Camaro.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: What time was that?</p>
+<p><strong>Manager</strong>: Vehicle entered the lot at 9:31 P.M. Mr. Watson drove out nine minutes later.</p>
+<p><strong>Brass</strong>: Thanks a lot.</p>
+<p>(BRASS turns to head back toward GRISSOM. The MANAGER follows him.)</p>
+<p><strong>Manager</strong>: The Guy worked for Homeland Security. You think maybe some terrorist blew him up?</p>
+<p><strong>Brass</strong>: (non-committally) You'll be the first to know.</p>
+<p>(BRASS reaches GRISSOM.)</p>
+<p><strong>Brass</strong>: Well, it's been confirmed. The driver, Adam Watson, was a Federal Air Marshal.</p>
+<p><strong>Grissom</strong>: So, one of us needs to call the Sheriff.</p>
+<p><strong>Brass</strong>: I'll flip you for it.</p>
+<p><strong>Grissom</strong>: Well, before we make that call, what time did the Air Marshal drive off the lot?</p>
+<p><strong>Brass</strong>: Nine-forty. Why?</p>
+<p><strong>Grissom</strong>: Well, the bomb went off thirty minutes later. It takes that long to get from here to the Orpheus.</p>
+<p><strong>Brass</strong>: So you're saying the bomb was already in the car when he drove out? Well, that can't be. According to the manager, the Camaro was only in the lot for, uh, nine minutes.</p>
+<p><strong>Grissom</strong>: Well, it takes longer than that to hard-wire a bomb. Which can only mean that the bomb was already in the car when it was returned.</p>
+<p><strong>Brass</strong>: So, who rented the car before him?</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<p><strong>Brass</strong>: (V.O.) Roger Dunbar! Open up! Las Vegas police!</p>
+<p>[INT. ROGER DUNBAR'S RESIDENCE -- DAY] </p>
+<p>(BRASS kicks the door open and enters the residence with his gun drawn. OFFICERS follow him inside. Together the search the residence.) </p>
+<p>(GRISSOM approaches the door standing just outside.)</p>
+<p>(The OFFICERS walk out of the rooms and reholster their guns.</p>
+<p><strong>Officer</strong>: Clear.</p>
+<p><strong>Brass</strong>: Stand down.</p>
+<p>(The OFFICERS leave the apartment.)</p>
+<p><strong>Brass</strong>: Good job, guys.</p>
+<p>(GRISSOM and CATHERINE walk into the apartment.)</p>
+<p><strong>Brass</strong>: Okay, well. This guy was obviously on a week-to-week lease.</p>
+<p>(The residence is sparse at best. There's a mattress on the floor in the corner of the room. GRISSOM and CATHERINE walk into the bedroom.)</p>
+<p>(CATHERINE looks a the closet.)</p>
+<p><strong>Catherine</strong>: Left some clothes behind ... and a paper shredder. I'll bag it.)</p>
+<p>(GRISSOM checks the bathroom out.)</p>
+<p>(BRASS looks at CATHERINE.)</p>
+<p><strong>Brass</strong>: No sign of any bomb-making material. I'll go check the garage.</p>
+<p>(BRASS walks out.)</p>
+<p>(GRISSOM bags the toothbrush. CATHERINE looks at the contents on the table: a book and some magazines. On the cover of the magazine, she finds some written impressions. She opens her kit.)</p>
+<p>(In the bathroom, GRISSOM looks through the trash. He finds a discarded band-aid.)</p>
+<p>(In the next room, CATHERINE dusts the magazine cover. GRISSOM steps out of the bathroom as she reads the writing.)</p>
+<p><strong>Catherine</strong>: &quot;Dr. Amerian, 4:00 P.M.&quot; Oh, today. </p>
+<p>(CATHERINE turns to look at GRISSOM.)</p>
+<p><strong>Catherine</strong>: I'll make an appointment.</p>
+<p>FADE OUT</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. LAS VEGAS CITY (STOCK) -- DAY] </p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY]</p>
+<p>(BRASS and CATHERINE interview ROGER DUNBAR.) </p>
+<p><strong>Roger Dunbar</strong>: You drag me out of my dentist's office. You throw me in a squad car. Now you're accusing me of planting a car bomb?</p>
+<p><strong>Brass</strong>: Mr. Dunbar, you rented a Camaro from thrift rite rental. Returned it last night, 9:30 P.M. It blew up a half an hour later in front of the Orpheus.</p>
+<p><strong>Roger Dunbar</strong>: (shocked) It's all over the news. That was my Camaro?</p>
+<p><strong>Brass</strong>: Yeah.</p>
+<p><strong>Roger Dunbar</strong>: But this is crazy. </p>
+<p><strong>Brass</strong>: So, what happened? You have a beef with the rental car company?</p>
+<p><strong>Roger Dunbar</strong>: No. I-I get double miles. I'm a premier card member.</p>
+<p><strong>Brass</strong>: Oh, I'm sure you are.</p>
+<p><strong>Roger Dunbar</strong>: You know what, I'm not saying another word without an attorney.</p>
+<p><strong>Catherine</strong>: That's your right, Mr. Dunbar.</p>
+<p>(CATHERINE pushes the piece of paper across the table toward ROGER DUNBAR. He looks down at it.)</p>
+<p><strong>Catherine</strong>: Warrant for your clothes.</p>
+<p>(She hands him some clothing and a bag.)</p>
+<p><strong>Catherine</strong>: Strip. Everything in the bag.</p>
+<p>(He starts to unbutton his shirt.)</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(NICK works on the parts. He takes a liquid sample from the parts, dries it out into a powder, places some of the powder in a test tube and tests it. The liquid turns blue and crystallizes.) </p>
+<p>(GRISSOM walks into the lab.)</p>
+<p><strong>Nick</strong>: ID'd the explosive.</p>
+<p><strong>Grissom</strong>: Ammonium perchlorate.</p>
+<p><strong>Nick</strong>: Yeah, rocket fuel. GCMS picked up the other half of the equation-- gasoline.</p>
+<p><strong>Grissom</strong>: Combination of the two creates an unstable mass. Both shock-and friction-sensitive.</p>
+<p><strong>Nick</strong>: Ammonium perchlorate's available at any chemical supply store. You can gas up on every corner. Anyone could've made this bomb.</p>
+<p>(We hear footsteps of someone approaching the lab. NICK'S gaze shifts and he nods to GRISSOM that there's someone there to see him. GRISSOM turns around to find SHERIFF RORY ATWATER standing in the doorway, his arms crossed.)</p>
+<p><strong>Grissom</strong>: Sheriff? What can we do for you?</p>
+<p><strong>Sheriff Rory Atwater</strong>: Need a little clarification. I know Captain Brass has a suspect in custody. Where it get a little hazy for me, is I'm not getting his connection to the Air Marshal.</p>
+<p><strong>Grissom</strong>: Well, it's entirely possible that Mr. Watson was just in the wrong place at the wrong time.</p>
+<p><strong>Sheriff Rory Water</strong>: Another thing, you said that the switch was a digital clock. The bomb had been set to go off at a designated time, right? How do we get a wrong time?</p>
+<p>(NICK nods.)</p>
+<p><strong>Nick</strong>: I can answer that, too.</p>
+<p>(He turns to indicate the scope set up on the next table.)</p>
+<p><strong>Nick</strong>: Take a look.</p>
+<p>(GRISSOM looks through the scope.)</p>
+<p>[SCOPE VIEW] of the frayed wire.</p>
+<p><strong>Grissom</strong>: Short in the wire.</p>
+<p><strong>Nick</strong>: Compromised the timing device. Made the bomb unpredictable.</p>
+<p><strong>Grissom</strong>: We may never know when that bomb was supposed to explode.</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB -- DAY] </p>
+<p>(GREG is examining the wine glass as WARRICK walks up to the lab.) </p>
+<p><strong>Warrick</strong>: I got your page. You'd be a good maitre d'. Checking glassware for spots?</p>
+<p><strong>Greg</strong>: You know, a hot tub is just like a dishwasher. Washes away all of the impurities.</p>
+<p><strong>Warrick</strong>: Including hydrofluoric acid, huh?</p>
+<p>(GREG puts the wine glass down and picks up the glass container with the wine sample inside.)</p>
+<p><strong>Greg</strong>: '93 pinot. (French accent) Either it was a bad year for wine or a bad year for Amelia. (normal) I found trace amounts of hydrofluoric acid in the vino.</p>
+<p><strong>Warrick</strong>: So, somebody did spike the wine.</p>
+<p><strong>Greg</strong>: Oui.</p>
+<p>CUT TO:<br />
+[INT. HOTEL KITCHEN -- DAY] </p>
+<p>(WARRICK and SARA interview the WAITER.) </p>
+<p><strong>Warrick</strong>: We just want to know what happened the other night. Did you open the bottle for her?</p>
+<p><strong>Room Service Waiter</strong>: Hey, Amelia requested me. I was up there every night. I hooked her up. And she wasn't drinking no Italian Rotgut either. She was ordering '93 pinot from Russian River Valley. That's three-fifty a bottle, twenty percent delivery charge. You do the math.</p>
+<p><strong>Sara</strong>: Was anyone there with her?</p>
+<p><strong>Room Service Waiter</strong>: No.</p>
+<p><strong>Sara</strong>: What about Sam Hopkins?</p>
+<p><strong>Room Service Waiter</strong>: No, that mutt wasn't there.</p>
+<p><strong>Warrick</strong>: &quot;Mutt&quot;?</p>
+<p><strong>Room Service Waiter</strong>: Yeah, that manager scumbag. You bring a bottle of wine when he's there, forget about it. He signs for the bill and stiff city. Now, when the Prince of Soul is there, that's a different story. He'd give you $500 just to get lost.</p>
+<p><strong>Sara</strong>: But you didn't see Myles the other night?</p>
+<p><strong>Room Service Waiter</strong>: Yeah, I saw him for a sec. He came in between shows. He showed me the door.</p>
+<p>(Quick flashback to: [HOTEL SUITE] The ROOM SERVICE WAITER is opening the bottle of wine for AMELIA when MYLES RUBEN walks into the suite. He sees them.)</p>
+<p><strong>Myles Ruben</strong>: Whoa, whoa, whoa. My man.</p>
+<p>(The ROOM SERVICE WAITER turns around to see MYLES already reaching for his wallet.)</p>
+<p><strong>Myles Ruben</strong>: There's only one man who practices chivalry around here, and it ain't you, Ducky.</p>
+<p>(He hands the ROOM SERVICE WAITER a lot of bills, then leans over to kiss his wife on the cheek.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Room Service Waiter</strong>: Hey, I could tell they were in love, you know? But he was never around. I mean, I felt bad for Amelia. She'd have four times a night.<br />
+&quot;You forgot the fork. Can you bring some salt? How about some ice?&quot; If you ask me, I'd say she was lonely.</p>
+<p><strong>Warrick</strong>: Did you ever see them fight?</p>
+<p><strong>Room Service Waiter</strong>: No, but I heard 'em. And I'm sure 2202 and 2206 heard<br />
+'em, too. Hey, but I don't bite the hand that feeds me.</p>
+<p>(WARRICK looks at SARA and nods. He looks at the ROOM SERVICE WAITER.)</p>
+<p><strong>Warrick</strong>: Thanks.</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(CATHERINE stands at the printer as she waits for the results. She looks at the test results. It reads:<br />
+Searched: : C:\Database\Wiley27<br />
+: 99<br />
+: ROGER DUNBAR CLOTHING<br />
+AMMONIUM PERCHLORATE</p>
+<p>(She takes the results and walks out of the lab.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(CATHERINE is back in the interview room questioning ROGER DUNBAR while his lawyer RANDY PAINTER is present.) </p>
+<p><strong>Catherine</strong>: There was rocket fuel in the bomb and rocket fuel on your t-shirt.</p>
+<p><strong>Randy Painter</strong>: (to ROGER) That you need to explain.</p>
+<p><strong>Roger Dunbar</strong>: Well, I'm not really sure, but my son, he's got this science project due. You're right, I'm not supposed to help, but, really, all the parents do. We made a volcano. Spilled some of the chemicals.</p>
+<p>(Quick flashback to: ROGER DUNBAR adds the chemicals to the volcano. It bubbles, sizzles, and gurgles as liquid pours out from the top. Then it spurts<br />
+- all over his shirt.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: We've been to your apartment. What volcano? What kid?</p>
+<p><strong>Roger Dunbar</strong>: Timmy. Third grade. Mesquite Elementary.</p>
+<p><strong>Brass</strong>: You're divorced?</p>
+<p><strong>Roger Dunbar</strong>: No. No, well, look, here's the situation is the family, they live in Mesquite, and I'm there on the weekends.</p>
+<p><strong>Brass</strong>: And during the week?</p>
+<p><strong>Roger Dunbar</strong>: I-I'm in sales, so I travel all over the country.</p>
+<p><strong>Randy Painter</strong>: Which is why he rents a car when he's in town. It's cheaper than leasing.</p>
+<p><strong>Brass</strong>: Cheaper. All right, but it still doesn't explain the empty apartment.</p>
+<p><strong>Roger Dunbar</strong>: Look, I... like being married. I ... love my wife, my kid, but ... I need my space. I-I-I don't want to hurt anyone's feelings, so I just tell them that I'm out of town even when I'm not.</p>
+<p><strong>Brass</strong>: We're going to need your home address.</p>
+<p><strong>Roger Dunbar</strong>: No, look ... I'm begging you. Please don't blow things for me with the wife.</p>
+<p>CUT TO:<br />
+[EXT. DUNBAR RESIDENCE (MESQUITE) -- DAY] </p>
+<p>(GRISSOM and CATHERINE stand on the porch as BETH DUNBAR looks at the search warrant.) </p>
+<p><strong>Timmy Dunbar</strong>: Mom, what's going on?</p>
+<p><strong>Beth Dunbar</strong>: I don't understand.</p>
+<p><strong>Catherine</strong>: Mrs. Dunbar, could you and your son wait outside, please?</p>
+<p><strong>Officer</strong>: Ma'am, come with me. I'll fill you in.</p>
+<p>(BETH DUNBAR follows the OFFICER as CATHERINE and GRISSOM step into the house.)</p>
+<p>[INT. LIVING ROOM]</p>
+<p>(CATHERINE puts her kit down and picks up a framed family photograph from the coffee table. GRISSOM looks around. He finds the volcano with gold stars on the table. He puts his kit down.)</p>
+<p><strong>Grissom</strong>: Catherine, there is a volcano on the table.</p>
+<p>(CATHERINE walks over to the kitchen table. GRISSOM picks up the containers of ingredients and reads the labels.)</p>
+<p><strong>Grissom</strong>: Aluminum powder. Polyvinylbutadiene. Ammonium perchlorate.</p>
+<p><strong>Catherine</strong>: (nods) The three ingredients to make lava flow.</p>
+<p>(CATHERINE takes a moment a reminisces.)</p>
+<p><strong>Catherine</strong>: In fifth grade, I built one of these as my science fair project. It was awesome. First place should've been mine. But they ended up giving it to this kid with some lame red ant colony.</p>
+<p>(GRISSOM smirks at the thought as if he's remembering something, too. CATHERINE glances at GRISSOM, barely catches a glimpse of the smirk and does a double take.)</p>
+<p><strong>Catherine</strong>: (accusing) That was you.</p>
+<p><strong>Grissom</strong>: Yeah, only my ants were Black Argentinians.</p>
+<p><strong>Catherine</strong>: Uh-huh.</p>
+<p><strong>Grissom</strong>: I learned at a very early age that the bugs always win.</p>
+<p><strong>Catherine</strong>: Right.</p>
+<p>(GRISSOM shrugs.)</p>
+<p>CUT TO:<br />
+[EXT. DUNBAR RESIDENCE (MESQUITE) -- DAY] </p>
+<p>(CATHERINE interviews BETH DUNBAR.) </p>
+<p><strong>Beth Dunbar</strong>: Trust me, Roger didn't build a bomb. I love my husband, but he's inept. Just last week, the hose bib cracked. Front yard was a river. Roger was helpless till I got home.</p>
+<p><strong>Catherine</strong>: Well, what about that volcano? Your husband said that he helped your son build it.</p>
+<p><strong>Beth Dunbar</strong>: He watched. I'm a teacher. Timmy knows which parent to go to for help.</p>
+<p><strong>Catherine</strong>: Mrs. Dunbar, your husband told us that he was in sales.</p>
+<p><strong>Beth Dunbar</strong>: He's with the State Department. You know, all that sensitive government stuff. Keeps him on the road. He doesn't say much about it.</p>
+<p><strong>Catherine</strong>: As far as you know, has he talked about his job with anyone else? Any other family members? Friends?</p>
+<p><strong>Beth Dunbar</strong>: His parents are dead. Roger's an only child. He doesn't have time for friends. There was this one night, years ago. We were both a little drunk and ... (sighs) Roger confessed he was CIA.</p>
+<p>(CATHERINE nods.)</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB] </p>
+<p>(NICK walks into the lab where GRISSOM is working on the volcano from the DUNBAR-MESQUITE residence.) </p>
+<p><strong>Nick</strong>: Hey, I made one of those in third grade. Science fair. Should have won, too.</p>
+<p><strong>Grissom</strong>: Got to let it go Nick.</p>
+<p><strong>Nick</strong>: Bomb end-cap with tool marks. Given the orientation and spread of the marks, consistent with pliers, vise-grips.</p>
+<p><strong>Grissom</strong>: There were no vise-grips in the Dunbars' toolbox.</p>
+<p><strong>Nick</strong>: Hmm.</p>
+<p><strong>Grissom</strong>: But given that the bomb and the volcano were similarly constructed ...</p>
+<p><strong>Nick</strong>: We can compare the tool marks on both end-caps. Doesn't matter what you make; it's what you make it with.</p>
+<p>(NICK removes the bomb end cap from the container. GRISSOM pulls the pipe out from the volcano. They compare vice grips markings. They don't match.)</p>
+<p><strong>Grissom</strong>: Not even close.</p>
+<p><strong>Nick</strong>: Mm-mm. So, whatever tool made the volcano did not make the bomb.</p>
+<p>CUT TO:<br />
+[INT. CSI - QUESTIONED DOCUMENTS] </p>
+<p>(RONNIE LITRE goes over his findings with CATHERINE.) </p>
+<p><strong>Ronnie Litre</strong>: Okay, I reconstructed the contents of the paper shredder. Five bills. All in Roger Dunbar's name. Addressed to 2175 La Pressa.</p>
+<p>(A close up of the document reads:<br />
+ACCOUNT NUMBER: 421327921<br />
+BILLING ADDRESS: Roger A. Dunbar<br />
+2175 La Pressa<br />
+Las Vegas, NV 89101<br />
+PAYMENT DUE DATE: 11/20/03</p>
+<p><strong>Catherine</strong>: Mm-hmm. His apartment.</p>
+<p><strong>Ronnie Litre</strong>: Okay, top two are credit card bills. Both VISA. Separate accounts.</p>
+<p>(A close up of the document reads:<br />
+ROGER A. DUNBAR<br />
+2175 LA PRESSA<br />
+LAS VEGAS, NV 89101</p>
+<p>(A close up of a second document reads:<br />
+ROGER B. DUNBAR<br />
+2175 LA PRESSA<br />
+LAS VEGAS, NV 89101</p>
+<p><strong>Catherine</strong>: Roger A. Dunbar. Roger B. Dunbar. That's an easy way to separate out expenses.</p>
+<p><strong>Ronnie Litre</strong>: Check out the gas bills. Three different meters.</p>
+<p><strong>Catherine</strong>: (reading) 2175 La Pressa.</p>
+<p>(The next document reads:<br />
+METER ADDRESS: 822 DEVON ST.<br />
+MESQUITE, NV 89282<br />
+BILLING CYCLE: 09/26/03<br />
+DAYS OF SERVICE: 34<br />
+BILL TYPE: DUE BILL</p>
+<p><strong>Catherine</strong>: (reading) 822 Devon, Mesquite.</p>
+<p>(The next document reads:<br />
+METER ADDRESS: 1845 GALEWOOD AVE<br />
+HENDERSON, NV 890...<br />
+BILLING CYCLE: 09/26/03<br />
+DAYS OF SERVICE: 34<br />
+BILL TYPE: DUE BILL</p>
+<p><strong>Catherine</strong>: (reading) 1845 Galewood, Henderson.</p>
+<p>(GREG walks into the lab.)</p>
+<p><strong>Greg</strong>: Hey, got the DNA results back from that bloody band-aid that Grissom found at Dunbar's apartment. Compared it to his DNA. Not a match. But I did find seven alleles in common.</p>
+<p><strong>Catherine</strong>: His son.</p>
+<p><strong>Greg</strong>: No. It's female. Mother, sister, daughter.</p>
+<p><strong>Catherine</strong>: Well, according to his wife, his mother's deceased. He's an only child. So, that leaves a daughter. Well, there's no way there was a kid at that apartment.</p>
+<p><strong>Ronnie Litre</strong>: Well, maybe she was living in Henderson.</p>
+<p><strong>Catherine</strong>: Forget &quot;secret agent.&quot; Roger Dunbar was living a secret life.</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. DUNBAR RESIDENCE (HENDERSON) -- NIGHT] </p>
+<p>(GRISSOM and CATHERINE head up the front walk toward the front door. The woman of the house puts out the trash and sees them.) </p>
+<p><strong>Debbie Dunbar</strong>: Can I help you?</p>
+<p>(They turn and see her.)</p>
+<p><strong>Catherine</strong>: Good evening. We're with the Las Vegas Crime Lab.</p>
+<p><strong>Debbie Dunbar</strong>: Oh, god. Did something happen to my husband? He was supposed to be home on Monday night. I've been calling his cell. He's not at work.</p>
+<p><strong>Catherine</strong>: Is this your husband?</p>
+<p>(CATHERINE holds out a copy of ROGER DUNBAR'S Nevada Driver's License. She takes it from her.)</p>
+<p><strong>Debbie Dunbar</strong>: Yes.</p>
+<p><strong>Catherine</strong>: You're currently married to him?</p>
+<p><strong>Debbie Dunbar</strong>: Yes. What is going on?</p>
+<p>(GRISSOM looks over at the trash bin.)</p>
+<p><strong>Catherine</strong>: Well, your husband is a suspect in a criminal investigation. Currently, he's in police custody.</p>
+<p>(He heads to the trash and opens it to find bottles of chemicals.)</p>
+<p><strong>Grissom</strong>: Mrs. Dunbar? Do you have a daughter?</p>
+<p><strong>Debbie Dunbar</strong>: Amy.</p>
+<p><strong>Grissom</strong>: Is she entered in the science fair?</p>
+<p>CUT TO:<br />
+[INT. DUNBAR HOUSE (HENDERSON) - NIGHT -- CONTINUOUS] </p>
+<p>(AMY'S emphatic.) </p>
+<p><strong>Amy Dunbar</strong>: You can't take it.</p>
+<p>(GRISSOM holds out the vice grips.)</p>
+<p><strong>Grissom</strong>: Amy, did you use this the tool to work on the inside of your volcano?</p>
+<p><strong>Amy Dunbar</strong>: Yeah, my dad did.</p>
+<p><strong>Catherine</strong>: He helped you build it?</p>
+<p><strong>Amy Dunbar</strong>: Yeah.</p>
+<p><strong>Debbie Dunbar</strong>: I teach yoga. I have no idea how this works. It was all Roger.</p>
+<p><strong>Grissom</strong>: When's your science fair?</p>
+<p><strong>Amy Dunbar</strong>: Friday.</p>
+<p><strong>Grissom</strong>: Well, we'll do our best to get this back to you by Friday, okay?</p>
+<p><strong>Amy Dunbar</strong>: (nods) Okay.</p>
+<p>(GRISSOM nods and winks at AMY.)</p>
+<p>CUT TO:<br />
+[INT. MYLES RUBEN'S RESIDENCE -- NIGHT] </p>
+<p>(SARA and WARRICK walk into the opulent living room.) </p>
+<p><strong>Warrick</strong>: Which side do you want?</p>
+<p><strong>Sara</strong>: I'll take the west wing.</p>
+<p><strong>Warrick</strong>: It's a nice place.</p>
+<p><strong>Sara</strong>: Uh-huh.</p>
+<p>(SARA walks toward the bar area and opens the cabinet. She looks inside, then closes the cabinet.)</p>
+<p>(WARRICK looks around the living room.)</p>
+<p><strong>Warrick</strong>: You could record a whole album in this studio.</p>
+<p>(SARA opens the cabinet under the sink.)</p>
+<p><strong>Warrick</strong>: This guy's got it made.</p>
+<p>(She looks at the tray of sponges, picks up a sponge and smells it.)</p>
+<p><strong>Sara</strong>: The life of a celebrity.</p>
+<p>(WARRICK walks over to the piano. He sits down and can't help but play a little informal something.)</p>
+<p>(SARA looks up and heads back to the living room. WARRICK shakes his head, then looks around again.)</p>
+<p><strong>Sara</strong>: I don't know, I think it sounds kind of isolating, living in a fishbowl.</p>
+<p><strong>Warrick</strong>: Wouldn't be isolated. You'd have a butler, a maid service, laundry service.</p>
+<p>(He picks up some staff paper.)</p>
+<p><strong>Warrick</strong>: Sheet music. Guy writes his own stuff.</p>
+<p>(Under it, he finds a pair of yellow rubber gloves.)</p>
+<p><strong>Warrick</strong>: Dishwashing gloves. Dry erase markers.</p>
+<p>(He picks up the spray bottle.)</p>
+<p><strong>Warrick</strong>: Slate Industrial Glass Cleaner. (reading) The ingredients -- distilled water and hydrofluoric acid. Fatal if swallowed.</p>
+<p>(WARRICK and SARA look at each other.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- NIGHT] </p>
+<p>(DETECTIVE VARTAN, WARRICK and SARA interview MYLES RUBEN.) </p>
+<p><strong>Detective</strong>: You're sure you want to waive your right to an attorney?</p>
+<p><strong>Myles Ruben</strong>: (shrugs) I got nothin' to hide.</p>
+<p><strong>Warrick</strong>: Do you recognize this product?</p>
+<p><strong>Myles Ruben</strong>: Yeah. I use it to clean my windows.</p>
+<p><strong>Warrick</strong>: Don't you have a maid or someone to do that for you?</p>
+<p><strong>Myles Ruben</strong>: I write songs late at night. Windows are my chalkboard.</p>
+<p>(Quick flashback to: [LIVING ROOM] AMELIA sits on the bar counter leafing through a magazine as MYLES writes.)</p>
+<p><strong>Myles Ruben</strong>: (singing) Only what you feel / now I can ... </p>
+<p>(He pauses and writes on the glass windows with the dry erase markers. He stops, swipes at the words with a cloth, erasing them.)</p>
+<p><strong>Myles Ruben</strong>: (singing) ...clearly see... </p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: Mr. Rueben ... your wife was poisoned. We suspect window cleaner was slipped into her wine.</p>
+<p><strong>Myles Ruben</strong>: It can't be. I was there. I opened that wine.</p>
+<p><strong>Sara</strong>: Did you have a fight?</p>
+<p><strong>Myles Ruben</strong>: Not lately.</p>
+<p><strong>Warrick</strong>: But you have had fights in the past.</p>
+<p><strong>Myles Ruben</strong>: Who doesn't? I mean, fighting, loving, laughing ... it all comes from the same place, man. It's passion. And we loved each other passionately.</p>
+<p>(He shakes his head as he remembers.)</p>
+<p><strong>Myles Ruben</strong>: When we met, it was Fate.</p>
+<p>(Quick flashback to: MYLES RUBEN is on stage. He speaks out to the audience.)</p>
+<p><strong>Myles Ruben</strong>: But you know what I need right now? I need a woman. I need a woman to come up here and be my inspiration. </p>
+<p>(He points into the audience at AMELIA.)</p>
+<p><strong>Myles Ruben</strong>: You, baby. Second row. Come on up here.</p>
+<p>(She smiles, stands and heads for the stage.)</p>
+<p>(Cut to: On stage, he puts his hat on her and sings to her.)</p>
+<p><strong>Myles Ruben</strong>: (lyrics)<br />
+I can see by the love in your eyes / you've been hurt by love / so it's hard for you to trust a guy ... </p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Myles Ruben</strong>: I was looking for love. She was looking for the same thing. She loved my music. I loved her smile.</p>
+<p>(SARA turns and looks at WARRICK.)</p>
+<p><strong>Myles Ruben</strong>: It's hard being on top, you know? I mean, everybody loves you. Wants their piece. That's why we fought. I mean, all the time. Every night. She knew she could never have me to herself. (He starts to loose it, but composes himself.) Look, I got sound check for the late show in an hour. Can I go?</p>
+<p><strong>Warrick</strong>: Sure.</p>
+<p><strong>Detective Vartann</strong>: We might want to talk to you later.</p>
+<p>(MYLES walks out of the room.)</p>
+<p><strong>Sara</strong>: Wife's been dead less than 48 hours.</p>
+<p><strong>Warrick</strong>: Well, there's a man who definitely has his priorities straight.</p>
+<p><strong>Sara</strong>: Okay, three people have admitted to being with Amelia the night that she died. The room service waiter, Myles, and Myles's manager.</p>
+<p><strong>Detective Vartann</strong>: Room service guy's out. He left before the cork was popped.</p>
+<p><strong>Sara</strong>: So, did Myles kill Amelia and the manager's covering for him or did the manager kill Amelia and Myles doesn't have a clue?</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM] </p>
+<p>(BRASS shows copies of both marriage to ROGER DUNBAR.) </p>
+<p><strong>Brass</strong>: Bigamy is a Class D Felony. If convicted, you could be sentenced from one to four years in prison, do you know that?</p>
+<p><strong>Roger Dunbar</strong>: I'd just married Beth, when I met Debbie. She was a student. UNLV. She got pregnant. I did the right thing. Ever since, it's been Monday through Friday with Debbie and weekends with Beth. They both think I travel for a living. </p>
+<p><strong>Brass</strong>: I know I keep coming back to this, but, uh ... I mean, I got to ask you. What's with the empty apartment? Do you have a girlfriend on the side as well?</p>
+<p><strong>Roger Dunbar</strong>: No.</p>
+<p>(ROGER turns to his lawyer, RANDY PAINTER, and they confer.)</p>
+<p><strong>Randy Painter</strong>: Just tell them the truth.</p>
+<p>(ROGER turns back to BRASS and CATHERINE.)</p>
+<p><strong>Roger Dunbar</strong>: My life is really a balancing act. Early on, I took Debbie to dinner and Beth saw it on a credit card statement. So instead of a P.O. Box, I figured why not rent a cheap apartment, you know? Have a night to myself once in a while.</p>
+<p><strong>Catherine</strong>: We found a band-aid with your daughter Amy's blood at your apartment. So, you bring your daughter there, but not your wives?</p>
+<p><strong>Roger Dunbar</strong>: Oh, no. It's not like that. You know how kids are.</p>
+<p>(Quick flashback to: AMY DUNBAR is wearing a helmet. She runs up the sidewalk toward her dad as she holds out the band-aid in her hand.)</p>
+<p><strong>Amy Dunbar</strong>: Dad, take this. It keeps falling off.</p>
+<p>(He tucks the band-aid in his pocket.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Roger Dunbar</strong>: I emptied my pockets at the apartment.</p>
+<p><strong>Catherine</strong>: Mr. Dunbar, we collected both of your children's volcanoes and supplies. And we found a pair of pliers at your home in Henderson. Those pliers were used to make both of the volcanoes.</p>
+<p><strong>Roger Dunbar</strong>: That's right. I needed pliers in Henderson, so I borrowed Beth's pliers from Mesquite.</p>
+<p><strong>Randy Painter</strong>: There's no crime in that.</p>
+<p><strong>Catherine</strong>: I'm just really confused. Um ... your wife, Beth, told us that you couldn't build a volcano to save your soul. Yet your wife, Debbie, claims that it was all you that made your daughter's volcano. So, what is it?</p>
+<p><strong>Roger Dunbar</strong>: Well, I watched Beth when she made Timmy's volcano. So, then when Amy had a science project, I knew the drill. Now, granted, it wasn't as symmetrical as Beth's and the lava flow was a little anemic, but ... Amy liked it.</p>
+<p><strong>Catherine</strong>: When did you borrow those pliers?</p>
+<p><strong>Roger Dunbar</strong>: I don't know. Couple weeks ago. Why?</p>
+<p><strong>Catherine</strong>: You never returned them to your wife, Beth?</p>
+<p>(He puts a hand to his mouth as he realizes his mistake.)</p>
+<p><strong>Roger Dunbar</strong>: I've been meaning to do that.</p>
+<p>(CATHERINE closes her eyes as she, too, realizes.)</p>
+<p>CUT TO:<br />
+[INT. DUNBAR RESIDENCE (MESQUITE) -- DAY] </p>
+<p>(CATHERINE compares the plastic with the vice grip markings to the vice grip markings on the garden hose pipe.) </p>
+<p><strong>Catherine</strong>: Same characteristics. We got a match. </p>
+<p>(CATHERINE glances at BETH DUNBAR standing on the porch watching. She then turns to look at the OFFICER.)</p>
+<p><strong>Catherine</strong>: Take her in.</p>
+<p><strong>Officer</strong>: Come with me, Mrs. Dunbar.</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(WARRICK is working in the lab. He picks up the photo of the spray bottle. He picks up the bag with the yellow rubber gloves in it. He looks at the gloves and finds two holes in it.) </p>
+<p>(SARA walks into the lab.)</p>
+<p><strong>Sara</strong>: Hey. I dusted the bottle. I got prints.</p>
+<p><strong>Warrick</strong>: I've got burns. You first. Sam or Myles?</p>
+<p><strong>Sara</strong>: Amelia's.</p>
+<p>CUT TO:<br />
+[INT. CSI - MORGUE] </p>
+<p>(The table with AMELIA on it is pulled out. WARRICK and SARA walk into the room. WARRICK puts on a pair of gloves.) </p>
+<p><strong>Robbins</strong>: Well, you're just in time. She gets shipped in an hour.</p>
+<p><strong>Warrick</strong>: This should just take a second. Could you give me her right hand, please?</p>
+<p>(ROBBINS shows the back of AMELIA'S hand. WARRICK holds out the glove. They find correlating burns to match the holes in the glove.)</p>
+<p><strong>Sara</strong>: Three acid burns.</p>
+<p><strong>Warrick</strong>: This is not a murder. It's a suicide.</p>
+<p>(Quick flashback to: AMELIA opens the spray bottle and pours some of the industrial liquid into the wine bottle. She sets the spray bottle side. She walks the wine bottle to the next room and pours herself a glass of wine.)</p>
+<p>(She holds MYLES' hat to her nose and inhales.)</p>
+<p>(Cut to: [HOT TUB] AMELIA reaches for the wine glass. Crying, she drinks it all down. She falls backward in pain, then slips down into the water, the empty wine glass falling from her fingers. She clutches the side of the hot tub as the poison takes effect.)</p>
+<p>(End of flashback. Cut to:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) -- NIGHT] </p>
+<p>(The camera holds on the billboard of MYLES RUEBEN, &quot;Prince of Soul&quot;.)</p>
+<p>[INT. MEDITERRANEAN - BACK STAGE - NIGHT]</p>
+<p>(WARRICK and SAM HOPKINS stand in front of MYLES RUEBEN. They're all backstage.) </p>
+<p><strong>Myles Rueben</strong>: I knew she wasn't happy. I guess I just didn't pay attention.</p>
+<p><strong>Warrick</strong>: You shouldn't blame yourself for this.</p>
+<p><strong>Myles Rueben</strong>: Shouldn't I? Why shouldn't I? I spend most of my time making them happy. I never ... I never took the time to make her happy.</p>
+<p>(Out in the show room, the audience chants for MYLES.)</p>
+<p><strong>Audience</strong>: (chanting) Amelia, Amelia!</p>
+<p>(MYLES looks at them.)</p>
+<p><strong>Sam Hopkins</strong>: What do you want to do, kid?</p>
+<p>(MYLES looks at WARRICK.)</p>
+<p><strong>Myles Rueben</strong>: The show must go on, right?</p>
+<p><strong>Warrick</strong>: It's your call.</p>
+<p>(MYLES turns and heads back on stage. The audience cheers. WARRICK turns and leaves.)</p>
+<p>(MYLES starts to sing.)</p>
+<p><strong>Myles Ruben</strong>: (lyrics)<br />
+Amelia / ooh, Amelia / ooh, Amelia / I see the love in your eyes you've been hurt by ... </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- NIGHT] </p>
+<p>(CATHERINE puts the bagged vice grips on the table.) </p>
+<p><strong>Catherine</strong>: We found these pliers in your car's glove box. You used them to fix the hose bib. And to ... make a bomb.</p>
+<p><strong>Grissom</strong>: Mrs. Dunbar ... how long have you known about Roger's double life?</p>
+<p><strong>Beth Dunbar</strong>: His other wife's name is Debbie. Once or twice a year he'd call me by that name. I ignored it. </p>
+<p><strong>Grissom</strong>: It's very difficult for two people to live a lie, let alone three.</p>
+<p><strong>Beth Dunbar</strong>: Look, when Roger and I were together, he was a good husband. Terrific father. It was almost like being in a state of suspended honeymoon. </p>
+<p><strong>Grissom</strong>: Really? So what changed?</p>
+<p><strong>Beth Dunbar</strong>: He asked me to get his dirty laundry out of the trunk of his car.</p>
+<p>(Quick flashback to: BETH opens the car trunk and reaches in to get the laundry. She also sees the bag next to it.)</p>
+<p><strong>Beth Dunbar</strong>: (V.O.) There was a plastic bag with all the makings of a volcano. Including the stars I had hand-cut for my son. </p>
+<p>(She reaches into the bag and picks up the gold stars.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Beth Dunbar</strong>: I'd always suspected there was another woman, but never ... another family. So. Two weeks ago Sunday, I followed him. He, uh, dropped off his rental car and walked to some apartment building. Then he changed his clothes, and got into a nicer car, and drove out to Henderson.</p>
+<p><strong>Catherine</strong>: Why didn't you just leave him? Turn him in? </p>
+<p><strong>Beth Dunbar</strong>: He made a fool out of me. A mockery of our life.</p>
+<p><strong>Catherine</strong>: Mrs. Dunbar, you killed three innocent people.</p>
+<p><strong>Beth Dunbar</strong>: (shakes) That was never my intention. That bomb was supposed to go off at 8:30 on his way to the airport.</p>
+<p><strong>Grissom</strong>: Why a bomb?</p>
+<p><strong>Beth Dunbar</strong>: It, it's not much harder to make a bomb than a volcano.</p>
+<p>FADE TO BLACK</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
-
-
- 
-Valet 1: Thank you. Have a good night.
-
-Valet 2: Eagles covered, bro. Cough up the twenty.
-Valet 1: Man, backdoor touchdown. Man, kills you every time.
-
-Valet 2: Ha-ha!
-
-
-
-
-
-Valet 2: Welcome to the Orpheus. You checking in or just donating?
-Adam Watson: Checking in.
-Valet 2: Any bags, sir?
-
-Adam Watson: I got this one. Grab the one in the trunk.
-
-
-
-
-
-
-Sheriff Rory Atwater: Car bomb. Driver and valet are dead. Another valet is critical. Got at least a dozen injured. I was having dinner here; was on my way out. It'd gone off a couple of seconds later, you'd be picking my badge up off the ground.
-Grissom: Thank God you're all right. 
-Sheriff, did they, uh, sweep the area for secondaries?
-Sheriff Rory Atwater: Bomb squad says it's all clear.
-Catherine:  We'll photo-document the scene. Overalls from all angles. Aerials as well.
-
-
-
-
-
-
-SMASH CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
- 
-Sheriff Rory Atwater: Guess it wasn't a sniper.
-Grissom:  Fixed ammunition in the trunk. The gunpowder must have heated up, and the, uh, rounds cooked off.
-
-
-Catherine: I'm going to start marking the evidence.
-
-Grissom: I believe the, uh, glass pressure traveled from the rear of the vehicle, through the front ...
-
-Grissom: ... and evidently separated the driver's body at the ankles. 
-David, we have body parts in the car!
-David Phillips: I've been looking for the feet.
-Grissom: I found 'em.
-
-Sheriff Rory Atwater: We gotta ID the driver ASAP.
-
-Grissom: Well, the VIN number's still attached.
-Sheriff Rory Atwater:  Write that down. Call in the DMV.
-Officer:  Yes, sir.
-
-
-
-
-Nick: Sorry, Catherine. Traffic's backed up all the way to the strip.
-
-Catherine: Got a sig-sauer. Probably the driver's.
-Nick: I'll start bagging. Gather the detritus and separate out the bomb components.
-Catherine:  Okay.
-
-
-Grissom: Here's press. You're on. Wish I could help, but, uh, I got a vehicle to process.
-
-Sheriff Rory Atwater: Come on, Grissom -- a bomb goes off these days, they're going to assume it's a hit. What are you thinking?
-Grissom: I'm not thinking. I'm just looking.
-
-Sheriff Rory Atwater:  That's good. Can I use that?
-
-
-
- 
- 
-Detective Vartann: Amelia Rueben. Twenty-five.
-Warrick: She a guest? Or a guest of a guest?
-Detective Vartann: Myles Rueben's wife.
-Sara: Who found her?
-Detective Vartann: About forty minutes ago, a maid walked in for &quot;turn-down&quot; service. Called hotel security.
-
-Sara: Still on a timer.
-
-Sara: Got a wine glass.
-Warrick: Does Myles know?
-Detective Vartann: He's still onstage.
- 
- 
-Myles Ruben:  hold up, slow to row / let's lay low before you go too far / remember who you are / why you want to start givin' me the third degree / all of this responsibility... /
- 
- 
-Warrick: Got a wine bottle. 
-
-Warrick: Almost empty.
-
-
-Myles Ruben: 
-Love ain't gonna get me till I know I'm ready ... 
-
-
-Warrick: Alcohol. Hot tub. A little bit too relaxed.
-
-
-Myles Ruben:  ...That you see / you see / just a part of me / just a part of me ... 
-
-
-Robbins: Temperature of the spa water makes liver temp irrelevant. But given the redness of her eyes, I'd estimate she's been dead less than an hour.
-
-
-
-Myles Ruben: 
-You're having visions of happy ever after, lost in love / 
-
-
-
-Myles Ruben:  why you want the rush / why you want the rush / but yeah, I care for you / but I can't trust my heart the way that you do / 'cause when it comes/to love ... 
-
-
-Warrick: It just dawned on me what's Rueben's biggest hit was.
-Sara: What's that?
-Warrick: &quot;Amelia.&quot;
-
-
-Myles Ruben: 
-Girl, love ain't gonna get me / gonna get me / till I know I'm ready / you think you know me / oh / but I'm hopin' that you see / you see / just a fantasy... 
-
-Sam Hopkins: I'll handle this when Myles breaks for the encore. Been the kid's manager since '97.
-Myles Ruben: 
-But I'm hopin' that you see... 
-Sam Hopkins: I should be the one to tell him.
-Myles Ruben: 
-Just a part of me / I'm always gonna be / just a fantasy / a fantasy. 
-
-
-
-Myles Ruben: How was that, Sam? Sound good?
-Sam Hopkins:  Great, Myles. The best.
-Myles Ruben: What? What's wrong? I missed a high note, huh? Man ...
-Sam Hopkins: No, no, no. Everything sounded great.  Listen, Myles, these are Crime Scene Investigators. Myles, uh ... there's been an accident.
-Myles Ruben:  An accident? What, is it my mother? Did-did something happen back East?
-Sam Hopkins: No, no, no. Your mother's fine. Look, Myles, it's, uh ...
-
-Sara: Mr. Rueben, I'm very sorry to have to tell you this, but your wife is dead.
-
-Myles Ruben:  I gotta ... I gotta ... 
-
-Audience:  Amelia! Amelia!
-
-Myles Ruben: Turn the houselights up, Sam. There's no encore tonight.
-
-
- 
- 
-Greg: I heard about the bombing. I'm here to help.
-Grissom: I located the seat of the explosion. The bomb was attached to the fuel tank. 
-Greg: Gas-enhanced. Bomber maximized his bang. 
-
-Grissom: You really want to help, climb under here and find the initiation switch.
-
-
-
-Greg: Got a stray wire.
-
-Greg: Leading away from the gas tank, right into the center of the dash.
-
-Greg: Nowhere near the loom.
-
-
-
-Grissom:  The digital clock was the switch.
-
-
-Grissom: It was time-activated.
-Greg: What's next?
-Grissom: Nick has to reconstruct the bomb.
-
- 
- 
-
-
-
-
-
-(End of quick CGI. Resume to:
-
-
-Nick: It was a pipe bomb. Initiated by a lightbulb filament.
-Grissom: Bomb was attached to the fuel tank.
-Nick: There were still magnet and solder fragments attached to the pipe.
-
-Sheriff Rory Atwater: Did you find any kind of timing device?
-Nick: Digital clock in the dash.
-Sheriff Rory Atwater: What about the type of explosive used?
-Grissom: Not yet.
-Nick: I was about to analyze the chemical residue left on the bomb frags.
-Grissom: Be sure to do an organics and inorganics test.
-Nick: Will do.
-
-Sheriff Rory Atwater: So ... what does it all mean?
-Grissom: What does what all mean?
-Sheriff Rory Atwater: Don't play dumb with me, Gil. Explosions lead the news. I need to know who, and I need to know why.
-Grissom: Well, the evidence is only teaching us about the bomb, not the bomber.
-Sheriff Rory Atwater: What about a signature? Is there anything distinct, unusual about this particular bomb?
-Grissom:  Nothing.
-
-
-
-
-
- 
- 
-Robbins: Amelia Rueben didn't drown. If she had, there'd be fluid in her nasal sinuses. 
-
-Robbins:  Clear as a bell.
-
-Sara: What was the cause of death?
-Robbins: Cardiac arrest.
-
-Warrick:  She was only 25. Was there some kind of defect?
-Robbins: No, her heart was in perfect condition. In fact, I have it over here. 
-
-Robbins: See the myocardium? There's no evidence of hemorrhage, infarct or scarring. No coronary occlusions. I can't explain it.
-Warrick:  It's like a mystery of the heart.
-
-
- 
- 
-Bobby Dawson: So, that sig-sauer you found ...
-Catherine: Yes.
-Bobby Dawson: Relatively nondescript. Uh, the blue stuff, sent a sample to Trace. Pretty sure it's from some sort of bag that melted in the explosion.
-Catherine: Right. And the bullets from the Camaro's trunk?
-Bobby Dawson: A-ha. Pre-fragmented ammo. Now they're unique. Exemplar's under the magnifier. 
-
-Bobby Dawson: Copper jacket contains lead shot sealed with a clear epoxy plug.
-Catherine: I've never seen anything like that.
-Bobby Dawson: It's designed to enter a target, but not exit.
-
-
-Catherine: Penetration, not perforation. Why?
-Bobby Dawson: Well, say you're on a commercial flight. Plane gets hijacked. US Air Marshal needs to take down the hijacker ...
-Catherine: ... but not the plane.
-Bobby Dawson: Right. Nowadays, magsafes are sold commercially, but there's really not much of a market. So chances are, your driver's a Federal Air Marshal.
-
- 
-
-
-
-Sara: It's a match. PRT on the hot tub dial was Sam Hopkins.
-(Monitor shows the following information:
-SAM HOPKINS
-493 PYRAMID WAY
-LAS VEGAS, NV
-Manager for Myles Ruben
-No prior Criminal Record
-&lt;&lt;File 02157.5784&gt;&gt;
-Warrick: Rueben's manager? Amelia was butt-naked in the hot tub. What was he doing in her room tweaking dials? 
-Sara: While her husband's onstage?
-
-Greg: Spectroscopy just got back. Hydrofluoric acid in her system.
-Sara: Isn't that an industrial solvent?
-Greg: High-powered stuff. Mainly used to remove rust, clean glass, brighten aluminum, dissolve silicas ... and commit murder. 
-Warrick: She was poisoned. That would explain her heart attack.
-
- 
- 
-Sam Hopkins: You're killing me, Jimmy. You're killing me. All night the spotlight was off. Way too hot on his face. It's too hot on me right now. They guy's not Wayne Newton, all right? Can you see it on my face, Jim? I need ... Jimmy. Thank ... I need a cast shadow on him for all the love songs.
-
-Warrick: Mr. Hopkins, could you answer the question, please.
-
-Sam Hopkins: Sorry.
-
-Sam Hopkins: Yes, I was in Amelia's room. I'm in there all the time. We're like family.
-Sara: We know you were close. Do you always turn on the hot tub for her?
-Sam Hopkins: I represent one of the biggest headliners in town. Wear a lot of hats: Manager, marriage counselor, confidante. I kept Myles happy by keeping her happy.
-
-Sam Hopkins: Amelia, anything else I can get for you?
-
-
-Sam Hopkins: Look, sweetheart. Here's how this works. You give him his space, he sings his heart out. Honey, we all prosper. Let me set up a dinner for you two -- quiet, alone -- after the show.
-Amelia Ruben: No work. Never happen.
-Sam Hopkins: Relax.
-
-Sam Hopkins: Give me an hour.
-
-
-Warrick: But you must admit, the boss' wife, naked in a hot tub, looks kind of funky.
-Sam Hopkins: Look at me. Do I look like a threat? The reason I've succeeded in this business, I don't squat where I eat, you know what I mean?
-Sara: All right, let's talk about drinking. There was a bottle of wine found near the tub. Did you have a drink with her?
-Sam Hopkins: No. Never. I don't touch it. I'm on call 24/7. Myles can pick up the phone, have me do anything, anytime. Fly to L.A., pick someone up at the airport. 
-Warrick: So, you'd do just about anything for him then?
-Sam Hopkins: When it comes to Myles, yeah. What's this all about?
-Sara: Mr. Hopkins, Amelia didn't drown. She was poisoned.
-Sam Hopkins: Poisoned? By who?
-Warrick: That's what we're trying to find out.
-
- 
- 
-Brass: According to the DMV, the Camaro was one of yours, is that right?
-Manager: Yeah, it was rented to an Adam Watson. Waived insurance. Government discount.
-Brass: Well, we have reason to believe Mr. Watson was a US Air Marshal.
-Manager: Right. How could I forget him? He threw it in my face when I told him we were out of compacts.
-
-Adam Watson: I'm a US Air Marshal, okay? I travel for a living. I don't need this crap.
-
-Brass: But you found him a car.
-
-Manager: I'll put you in a full-size and won't charge you for the difference.
-Adam Watson:  No, forget it. 
-
-Adam Watson: I'll take the Camaro.
-
-Brass: What time was that?
-Manager: Vehicle entered the lot at 9:31 P.M. Mr. Watson drove out nine minutes later.
-Brass: Thanks a lot.
-
-Manager: The Guy worked for Homeland Security. You think maybe some terrorist blew him up?
-Brass:  You'll be the first to know.
-
-Brass: Well, it's been confirmed. The driver, Adam Watson, was a Federal Air Marshal.
-Grissom: So, one of us needs to call the Sheriff.
-Brass: I'll flip you for it.
-Grissom: Well, before we make that call, what time did the Air Marshal drive off the lot?
-Brass: Nine-forty. Why?
-Grissom: Well, the bomb went off thirty minutes later. It takes that long to get from here to the Orpheus.
-Brass: So you're saying the bomb was already in the car when he drove out? Well, that can't be. According to the manager, the Camaro was only in the lot for, uh, nine minutes.
-Grissom: Well, it takes longer than that to hard-wire a bomb. Which can only mean that the bomb was already in the car when it was returned.
-Brass: So, who rented the car before him?
-
-
-Brass:  Roger Dunbar! Open up! Las Vegas police!
- 
- 
-
-(The OFFICERS walk out of the rooms and reholster their guns.
-Officer: Clear.
-Brass: Stand down.
-
-Brass: Good job, guys.
-
-Brass: Okay, well. This guy was obviously on a week-to-week lease.
-
-
-Catherine: Left some clothes behind ... and a paper shredder. I'll bag it.)
-
-
-Brass: No sign of any bomb-making material. I'll go check the garage.
-
-
-
-
-Catherine: &quot;Dr. Amerian, 4:00 P.M.&quot; Oh, today. 
-
-Catherine: I'll make an appointment.
-FADE OUT
-
-
-;
-
-
-
- 
-
- 
-Roger Dunbar: You drag me out of my dentist's office. You throw me in a squad car. Now you're accusing me of planting a car bomb?
-Brass: Mr. Dunbar, you rented a Camaro from thrift rite rental. Returned it last night, 9:30 P.M. It blew up a half an hour later in front of the Orpheus.
-Roger Dunbar:  It's all over the news. That was my Camaro?
-Brass: Yeah.
-Roger Dunbar: But this is crazy. 
-Brass: So, what happened? You have a beef with the rental car company?
-Roger Dunbar: No. I-I get double miles. I'm a premier card member.
-Brass: Oh, I'm sure you are.
-Roger Dunbar: You know what, I'm not saying another word without an attorney.
-Catherine: That's your right, Mr. Dunbar.
-
-Catherine: Warrant for your clothes.
-
-Catherine: Strip. Everything in the bag.
-
-
- 
- 
-
-Nick: ID'd the explosive.
-Grissom: Ammonium perchlorate.
-Nick: Yeah, rocket fuel. GCMS picked up the other half of the equation-- gasoline.
-Grissom: Combination of the two creates an unstable mass. Both shock-and friction-sensitive.
-Nick: Ammonium perchlorate's available at any chemical supply store. You can gas up on every corner. Anyone could've made this bomb.
-
-Grissom: Sheriff? What can we do for you?
-Sheriff Rory Atwater: Need a little clarification. I know Captain Brass has a suspect in custody. Where it get a little hazy for me, is I'm not getting his connection to the Air Marshal.
-Grissom: Well, it's entirely possible that Mr. Watson was just in the wrong place at the wrong time.
-Sheriff Rory Water: Another thing, you said that the switch was a digital clock. The bomb had been set to go off at a designated time, right? How do we get a wrong time?
-
-Nick: I can answer that, too.
-
-Nick: Take a look.
-
- of the frayed wire.
-Grissom: Short in the wire.
-Nick: Compromised the timing device. Made the bomb unpredictable.
-Grissom: We may never know when that bomb was supposed to explode.
-
- 
- 
-Warrick: I got your page. You'd be a good maitre d'. Checking glassware for spots?
-Greg: You know, a hot tub is just like a dishwasher. Washes away all of the impurities.
-Warrick: Including hydrofluoric acid, huh?
-
-Greg: '93 pinot.  I found trace amounts of hydrofluoric acid in the vino.
-Warrick: So, somebody did spike the wine.
-Greg: Oui.
-
- 
- 
-Warrick: We just want to know what happened the other night. Did you open the bottle for her?
-Room Service Waiter: Hey, Amelia requested me. I was up there every night. I hooked her up. And she wasn't drinking no Italian Rotgut either. She was ordering '93 pinot from Russian River Valley. That's three-fifty a bottle, twenty percent delivery charge. You do the math.
-Sara: Was anyone there with her?
-Room Service Waiter: No.
-Sara: What about Sam Hopkins?
-Room Service Waiter: No, that mutt wasn't there.
-Warrick: &quot;Mutt&quot;?
-Room Service Waiter: Yeah, that manager scumbag. You bring a bottle of wine when he's there, forget about it. He signs for the bill and stiff city. Now, when the Prince of Soul is there, that's a different story. He'd give you $500 just to get lost.
-Sara: But you didn't see Myles the other night?
-Room Service Waiter: Yeah, I saw him for a sec. He came in between shows. He showed me the door.
-
-Myles Ruben: Whoa, whoa, whoa. My man.
-
-Myles Ruben: There's only one man who practices chivalry around here, and it ain't you, Ducky.
-
-
-Room Service Waiter: Hey, I could tell they were in love, you know? But he was never around. I mean, I felt bad for Amelia. She'd have four times a night.
-&quot;You forgot the fork. Can you bring some salt? How about some ice?&quot; If you ask me, I'd say she was lonely.
-Warrick: Did you ever see them fight?
-Room Service Waiter: No, but I heard 'em. And I'm sure 2202 and 2206 heard
-'em, too. Hey, but I don't bite the hand that feeds me.
-
-Warrick: Thanks.
-
- 
-(CATHERINE stands at the printer as she waits for the results. She looks at the test results. It reads:
-Searched: : C:\Database\Wiley27
-: 99
-: ROGER DUNBAR CLOTHING
-AMMONIUM PERCHLORATE
-
-
- 
- 
-Catherine: There was rocket fuel in the bomb and rocket fuel on your t-shirt.
-Randy Painter:  That you need to explain.
-Roger Dunbar: Well, I'm not really sure, but my son, he's got this science project due. You're right, I'm not supposed to help, but, really, all the parents do. We made a volcano. Spilled some of the chemicals.
-(Quick flashback to: ROGER DUNBAR adds the chemicals to the volcano. It bubbles, sizzles, and gurgles as liquid pours out from the top. Then it spurts
-- all over his shirt.)
-
-Brass: We've been to your apartment. What volcano? What kid?
-Roger Dunbar: Timmy. Third grade. Mesquite Elementary.
-Brass: You're divorced?
-Roger Dunbar: No. No, well, look, here's the situation is the family, they live in Mesquite, and I'm there on the weekends.
-Brass: And during the week?
-Roger Dunbar: I-I'm in sales, so I travel all over the country.
-Randy Painter: Which is why he rents a car when he's in town. It's cheaper than leasing.
-Brass: Cheaper. All right, but it still doesn't explain the empty apartment.
-Roger Dunbar: Look, I... like being married. I ... love my wife, my kid, but ... I need my space. I-I-I don't want to hurt anyone's feelings, so I just tell them that I'm out of town even when I'm not.
-Brass: We're going to need your home address.
-Roger Dunbar: No, look ... I'm begging you. Please don't blow things for me with the wife.
-
- 
- 
-Timmy Dunbar: Mom, what's going on?
-Beth Dunbar: I don't understand.
-Catherine: Mrs. Dunbar, could you and your son wait outside, please?
-Officer: Ma'am, come with me. I'll fill you in.
-
-
-
-Grissom: Catherine, there is a volcano on the table.
-
-Grissom: Aluminum powder. Polyvinylbutadiene. Ammonium perchlorate.
-Catherine:  The three ingredients to make lava flow.
-
-Catherine: In fifth grade, I built one of these as my science fair project. It was awesome. First place should've been mine. But they ended up giving it to this kid with some lame red ant colony.
-
-Catherine:  That was you.
-Grissom: Yeah, only my ants were Black Argentinians.
-Catherine: Uh-huh.
-Grissom: I learned at a very early age that the bugs always win.
-Catherine: Right.
-
-
- 
- 
-Beth Dunbar: Trust me, Roger didn't build a bomb. I love my husband, but he's inept. Just last week, the hose bib cracked. Front yard was a river. Roger was helpless till I got home.
-Catherine: Well, what about that volcano? Your husband said that he helped your son build it.
-Beth Dunbar: He watched. I'm a teacher. Timmy knows which parent to go to for help.
-Catherine: Mrs. Dunbar, your husband told us that he was in sales.
-Beth Dunbar: He's with the State Department. You know, all that sensitive government stuff. Keeps him on the road. He doesn't say much about it.
-Catherine: As far as you know, has he talked about his job with anyone else? Any other family members? Friends?
-Beth Dunbar: His parents are dead. Roger's an only child. He doesn't have time for friends. There was this one night, years ago. We were both a little drunk and ...  Roger confessed he was CIA.
-
-
- 
- 
-Nick: Hey, I made one of those in third grade. Science fair. Should have won, too.
-Grissom: Got to let it go Nick.
-Nick: Bomb end-cap with tool marks. Given the orientation and spread of the marks, consistent with pliers, vise-grips.
-Grissom: There were no vise-grips in the Dunbars' toolbox.
-Nick: Hmm.
-Grissom: But given that the bomb and the volcano were similarly constructed ...
-Nick: We can compare the tool marks on both end-caps. Doesn't matter what you make; it's what you make it with.
-
-Grissom: Not even close.
-Nick: Mm-mm. So, whatever tool made the volcano did not make the bomb.
-
- 
- 
-Ronnie Litre: Okay, I reconstructed the contents of the paper shredder. Five bills. All in Roger Dunbar's name. Addressed to 2175 La Pressa.
-(A close up of the document reads:
-ACCOUNT NUMBER: 421327921
-BILLING ADDRESS: Roger A. Dunbar
-2175 La Pressa
-Las Vegas, NV 89101
-PAYMENT DUE DATE: 11/20/03
-Catherine: Mm-hmm. His apartment.
-Ronnie Litre: Okay, top two are credit card bills. Both VISA. Separate accounts.
-(A close up of the document reads:
-ROGER A. DUNBAR
-2175 LA PRESSA
-LAS VEGAS, NV 89101
-(A close up of a second document reads:
-ROGER B. DUNBAR
-2175 LA PRESSA
-LAS VEGAS, NV 89101
-Catherine: Roger A. Dunbar. Roger B. Dunbar. That's an easy way to separate out expenses.
-Ronnie Litre: Check out the gas bills. Three different meters.
-Catherine:  2175 La Pressa.
-(The next document reads:
-METER ADDRESS: 822 DEVON ST.
-MESQUITE, NV 89282
-BILLING CYCLE: 09/26/03
-DAYS OF SERVICE: 34
-BILL TYPE: DUE BILL
-Catherine:  822 Devon, Mesquite.
-(The next document reads:
-METER ADDRESS: 1845 GALEWOOD AVE
-HENDERSON, NV 890...
-BILLING CYCLE: 09/26/03
-DAYS OF SERVICE: 34
-BILL TYPE: DUE BILL
-Catherine:  1845 Galewood, Henderson.
-
-Greg: Hey, got the DNA results back from that bloody band-aid that Grissom found at Dunbar's apartment. Compared it to his DNA. Not a match. But I did find seven alleles in common.
-Catherine: His son.
-Greg: No. It's female. Mother, sister, daughter.
-Catherine: Well, according to his wife, his mother's deceased. He's an only child. So, that leaves a daughter. Well, there's no way there was a kid at that apartment.
-Ronnie Litre: Well, maybe she was living in Henderson.
-Catherine: Forget &quot;secret agent.&quot; Roger Dunbar was living a secret life.
-FADE OUT
-
-
-
- 
- 
-Debbie Dunbar: Can I help you?
-
-Catherine: Good evening. We're with the Las Vegas Crime Lab.
-Debbie Dunbar: Oh, god. Did something happen to my husband? He was supposed to be home on Monday night. I've been calling his cell. He's not at work.
-Catherine: Is this your husband?
-
-Debbie Dunbar: Yes.
-Catherine: You're currently married to him?
-Debbie Dunbar: Yes. What is going on?
-
-Catherine: Well, your husband is a suspect in a criminal investigation. Currently, he's in police custody.
-
-Grissom: Mrs. Dunbar? Do you have a daughter?
-Debbie Dunbar: Amy.
-Grissom: Is she entered in the science fair?
-
- 
- 
-Amy Dunbar: You can't take it.
-
-Grissom: Amy, did you use this the tool to work on the inside of your volcano?
-Amy Dunbar: Yeah, my dad did.
-Catherine: He helped you build it?
-Amy Dunbar: Yeah.
-Debbie Dunbar: I teach yoga. I have no idea how this works. It was all Roger.
-Grissom: When's your science fair?
-Amy Dunbar: Friday.
-Grissom: Well, we'll do our best to get this back to you by Friday, okay?
-Amy Dunbar:  Okay.
-
-
- 
- 
-Warrick: Which side do you want?
-Sara: I'll take the west wing.
-Warrick: It's a nice place.
-Sara: Uh-huh.
-
-
-Warrick: You could record a whole album in this studio.
-
-Warrick: This guy's got it made.
-
-Sara: The life of a celebrity.
-
-
-Sara: I don't know, I think it sounds kind of isolating, living in a fishbowl.
-Warrick: Wouldn't be isolated. You'd have a butler, a maid service, laundry service.
-
-Warrick: Sheet music. Guy writes his own stuff.
-
-Warrick: Dishwashing gloves. Dry erase markers.
-
-Warrick: Slate Industrial Glass Cleaner.  The ingredients -- distilled water and hydrofluoric acid. Fatal if swallowed.
-
-
- 
- 
-Detective: You're sure you want to waive your right to an attorney?
-Myles Ruben:  I got nothin' to hide.
-Warrick: Do you recognize this product?
-Myles Ruben: Yeah. I use it to clean my windows.
-Warrick: Don't you have a maid or someone to do that for you?
-Myles Ruben: I write songs late at night. Windows are my chalkboard.
-
-Myles Ruben:  Only what you feel / now I can ... 
-
-Myles Ruben:  ...clearly see... 
-
-Sara: Mr. Rueben ... your wife was poisoned. We suspect window cleaner was slipped into her wine.
-Myles Ruben: It can't be. I was there. I opened that wine.
-Sara: Did you have a fight?
-Myles Ruben: Not lately.
-Warrick: But you have had fights in the past.
-Myles Ruben: Who doesn't? I mean, fighting, loving, laughing ... it all comes from the same place, man. It's passion. And we loved each other passionately.
-
-Myles Ruben: When we met, it was Fate.
-
-Myles Ruben: But you know what I need right now? I need a woman. I need a woman to come up here and be my inspiration. 
-
-Myles Ruben: You, baby. Second row. Come on up here.
-
-
-Myles Ruben: 
-I can see by the love in your eyes / you've been hurt by love / so it's hard for you to trust a guy ... 
-
-Myles Ruben: I was looking for love. She was looking for the same thing. She loved my music. I loved her smile.
-
-Myles Ruben: It's hard being on top, you know? I mean, everybody loves you. Wants their piece. That's why we fought. I mean, all the time. Every night. She knew she could never have me to herself.  Look, I got sound check for the late show in an hour. Can I go?
-Warrick: Sure.
-Detective Vartann: We might want to talk to you later.
-
-Sara: Wife's been dead less than 48 hours.
-Warrick: Well, there's a man who definitely has his priorities straight.
-Sara: Okay, three people have admitted to being with Amelia the night that she died. The room service waiter, Myles, and Myles's manager.
-Detective Vartann: Room service guy's out. He left before the cork was popped.
-Sara: So, did Myles kill Amelia and the manager's covering for him or did the manager kill Amelia and Myles doesn't have a clue?
-
- 
- 
-Brass: Bigamy is a Class D Felony. If convicted, you could be sentenced from one to four years in prison, do you know that?
-Roger Dunbar: I'd just married Beth, when I met Debbie. She was a student. UNLV. She got pregnant. I did the right thing. Ever since, it's been Monday through Friday with Debbie and weekends with Beth. They both think I travel for a living. 
-Brass: I know I keep coming back to this, but, uh ... I mean, I got to ask you. What's with the empty apartment? Do you have a girlfriend on the side as well?
-Roger Dunbar: No.
-
-Randy Painter: Just tell them the truth.
-
-Roger Dunbar: My life is really a balancing act. Early on, I took Debbie to dinner and Beth saw it on a credit card statement. So instead of a P.O. Box, I figured why not rent a cheap apartment, you know? Have a night to myself once in a while.
-Catherine: We found a band-aid with your daughter Amy's blood at your apartment. So, you bring your daughter there, but not your wives?
-Roger Dunbar: Oh, no. It's not like that. You know how kids are.
-
-Amy Dunbar: Dad, take this. It keeps falling off.
-
-
-Roger Dunbar: I emptied my pockets at the apartment.
-Catherine: Mr. Dunbar, we collected both of your children's volcanoes and supplies. And we found a pair of pliers at your home in Henderson. Those pliers were used to make both of the volcanoes.
-Roger Dunbar: That's right. I needed pliers in Henderson, so I borrowed Beth's pliers from Mesquite.
-Randy Painter: There's no crime in that.
-Catherine: I'm just really confused. Um ... your wife, Beth, told us that you couldn't build a volcano to save your soul. Yet your wife, Debbie, claims that it was all you that made your daughter's volcano. So, what is it?
-Roger Dunbar: Well, I watched Beth when she made Timmy's volcano. So, then when Amy had a science project, I knew the drill. Now, granted, it wasn't as symmetrical as Beth's and the lava flow was a little anemic, but ... Amy liked it.
-Catherine: When did you borrow those pliers?
-Roger Dunbar: I don't know. Couple weeks ago. Why?
-Catherine: You never returned them to your wife, Beth?
-
-Roger Dunbar: I've been meaning to do that.
-
-
- 
- 
-Catherine: Same characteristics. We got a match. 
-
-Catherine: Take her in.
-Officer: Come with me, Mrs. Dunbar.
-
- 
- 
-
-Sara: Hey. I dusted the bottle. I got prints.
-Warrick: I've got burns. You first. Sam or Myles?
-Sara: Amelia's.
-
- 
- 
-Robbins: Well, you're just in time. She gets shipped in an hour.
-Warrick: This should just take a second. Could you give me her right hand, please?
-
-Sara: Three acid burns.
-Warrick: This is not a murder. It's a suicide.
-
-
-
-(End of flashback. Cut to:
- 
-
-
- 
-Myles Rueben: I knew she wasn't happy. I guess I just didn't pay attention.
-Warrick: You shouldn't blame yourself for this.
-Myles Rueben: Shouldn't I? Why shouldn't I? I spend most of my time making them happy. I never ... I never took the time to make her happy.
-
-Audience:  Amelia, Amelia!
-
-Sam Hopkins: What do you want to do, kid?
-
-Myles Rueben: The show must go on, right?
-Warrick: It's your call.
-
-
-Myles Ruben: 
-Amelia / ooh, Amelia / ooh, Amelia / I see the love in your eyes you've been hurt by ... 
-
-
- 
- 
-Catherine: We found these pliers in your car's glove box. You used them to fix the hose bib. And to ... make a bomb.
-Grissom: Mrs. Dunbar ... how long have you known about Roger's double life?
-Beth Dunbar: His other wife's name is Debbie. Once or twice a year he'd call me by that name. I ignored it. 
-Grissom: It's very difficult for two people to live a lie, let alone three.
-Beth Dunbar: Look, when Roger and I were together, he was a good husband. Terrific father. It was almost like being in a state of suspended honeymoon. 
-Grissom: Really? So what changed?
-Beth Dunbar: He asked me to get his dirty laundry out of the trunk of his car.
-
-Beth Dunbar:  There was a plastic bag with all the makings of a volcano. Including the stars I had hand-cut for my son. 
-
-
-Beth Dunbar: I'd always suspected there was another woman, but never ... another family. So. Two weeks ago Sunday, I followed him. He, uh, dropped off his rental car and walked to some apartment building. Then he changed his clothes, and got into a nicer car, and drove out to Henderson.
-Catherine: Why didn't you just leave him? Turn him in? 
-Beth Dunbar: He made a fool out of me. A mockery of our life.
-Catherine: Mrs. Dunbar, you killed three innocent people.
-Beth Dunbar:  That was never my intention. That bomb was supposed to go off at 8:30 on his way to the airport.
-Grissom: Why a bomb?
-Beth Dunbar: It, it's not much harder to make a bomb than a volcano.
-FADE TO BLACK
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=04x09+-+Grissom+Versus+the+Volcano&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127361%23p127361" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=04x09+-+Grissom+Versus+the+Volcano&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127361%23p127361" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127361%23p127361&amp;name=04x09+-+Grissom+Versus+the+Volcano" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127361%23p127361" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=bbb2e2fd051e3869c68c70cb3fe609f3">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=bbb2e2fd051e3869c68c70cb3fe609f3">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=bbb2e2fd051e3869c68c70cb3fe609f3">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=bbb2e2fd051e3869c68c70cb3fe609f3">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

@@ -1,712 +1,948 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. LAS VEGAS (STOCK) - DAY]
+[EXT. APARTMENT COMPLEX - DAY]
+CUT TO:
 
+[INT. APARTMENT COMPLEX - HALLWAY - DAY]
+(The resident manager enter" />
+<meta property="og:title" content="02x05 - Scuba Doobie-Doo - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. LAS VEGAS (STOCK) - DAY]
+[EXT. APARTMENT COMPLEX - DAY]
+CUT TO:
 
+[INT. APARTMENT COMPLEX - HALLWAY - DAY]
+(The resident manager enter" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13216" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>02x05 - Scuba Doobie-Doo - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13216" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13216">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=9c666ddf2ecd28ac25bb035db021bc50"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=9c666ddf2ecd28ac25bb035db021bc50">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=9c666ddf2ecd28ac25bb035db021bc50">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=9c666ddf2ecd28ac25bb035db021bc50">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=9c666ddf2ecd28ac25bb035db021bc50">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13216&amp;sid=9c666ddf2ecd28ac25bb035db021bc50&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>02x05 - Scuba Doobie-Doo</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127310">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127310">02x05 - Scuba Doobie-Doo</a></div>
+							<div class="pull-right text-right"><time datetime="2001-11-08T04:30:16Z">11/08/01 04:30</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. LAS VEGAS (STOCK) - DAY]</p>
+<p>[EXT. APARTMENT COMPLEX - DAY]</p>
+<p>CUT TO:</p>
+<hr />
+[INT. APARTMENT COMPLEX - HALLWAY - DAY]</p>
+<p>(The resident manager enters the darkened hallway of the apartment complex with two prospective renters, STEVE and NANCY.)</p>
+<p><strong>Stu Evans</strong>: You'll like this apartment. My wife says it's the best of the lot. Now, the tenants moved out kind of quick so I don't normally show apartments before I've had a chance to look, so ... use your imagination.</p>
+<p>(He unlocks the door to apartment #103 and pushes it open for STEVE and NANCY to look at. They both step inside ... aghast at what they see. There's blood on the walls and on the floor.)</p>
+<p><strong>Nancy</strong>: (to STEVE) Oh, my god. Call 911.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. APARTMENT #103 - DAY]</p>
+<p>(Camera close up of BRASS.)</p>
+<p><strong>Brass</strong>: I worked in a slaughterhouse one summer. Looked a lot like this. </p>
+<p>(GRISSOM is also standing in the middle of the room. He's not looking at the walls, he's busy testing the blood.)</p>
+<p><strong>Brass</strong>: (V.O.) The lease is in the name of Clifford Renteria. He lived here with his girlfriend till they snuck out in the middle of the night. Gee, I wonder why.</p>
+<p><strong>Grissom</strong>: For all we know, this is animal blood.</p>
+<p><strong>Brass</strong>: Yeah, sure. Deer, sheep, llama.</p>
+<p><strong>Grissom</strong>: A deer hunter comes home from the mountains drunk decides to play butcher clean his kill. Chops his game up into oven-sized pieces for the winter. I mean, what does he care? He's renting.</p>
+<p>(GRISSOM drops a small sample of the mixture into the hand-held test and waits for the results. BRASS uses his flashlight and shines it on the test. Results of the test indicate that the victim was definitely &quot;human&quot;.)</p>
+<p><strong>Brass</strong>: Victim's human.</p>
+<p><strong>Grissom</strong>: And a human has only eight pints of blood. So, whoever the victim is ... is now dead.</p>
+<p>HARD CUT TO END OF TEASER. ROLL TITLE CREDITS.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<hr />
+[INT. APARTMENT -- DAY]</p>
+<p>(GRISSOM is looking through a small instrument used to measure the blood spatter.)</p>
+<p>(QUICK CGI through the end of the instrument, up to GRISSOM'S eye, fade back down to the end of the magnifying lens to measure the blood spatter where 1 DIV = 1 MM. 20X. Flash to white. Resume on GRISSOM looking at the blood on the wall.)</p>
+<p><strong>Sara</strong>: (o.s.) Any uniformity in the spray?</p>
+<p><strong>Grissom</strong>: Well, by and large, the average diameter is about one millimeter.</p>
+<p><strong>Sara</strong>: Blood drops this size are characteristic of high-velocity impact like gunshot trauma but there's no bullet strikes on the walls ... ruling out murder by gun.</p>
+<p><strong>Grissom</strong>: Just acquaint yourself, Sara. Don't interpret just yet, okay?</p>
+<p>(SARA continues to look around the room. WARRICK is busy spraying luminol on the entire floor. When he's finished, he puts the spray canister down.)</p>
+<p><strong>Warrick</strong>: All right. Show time.</p>
+<p>(GRISSOM closes the shades disturbing a single fly which buzzes off. SARA,<br />
+WARRICK and GRISSOM wait while the luminol begins to glow.)</p>
+<p><strong>Sara</strong>: This looks like a multiple. More than one vic. Acquainting myself.</p>
+<p><strong>Warrick</strong>: Check out these &quot;voids.&quot; That's the real evidence.</p>
+<p>(From the top view of the room, the entire floor glows except for certain &quot;voids&quot;.)</p>
+<p><strong>Grissom</strong>: Couch? We've only got 30 seconds till this luminol disappears.</p>
+<p>(SARA starts taking pictures of the &quot;voids&quot; and anything else pertinent. </p>
+<p>GRISSOM kneels to get a better look at the &quot;voids&quot; where he's standing.)</p>
+<p><strong>Grissom</strong>: Television, maybe? A magazine?</p>
+<p><strong>Sara</strong>: Triangle ... coat rack?</p>
+<p><strong>Warrick</strong>: Guys ... </p>
+<p>(Right where WARRICK is standing is an irregular shaped &quot;void&quot;.)</p>
+<p><strong>Grissom</strong>: What do you think that is?</p>
+<p><strong>Warrick</strong>: Looks like it could be an electric saw.</p>
+<p><strong>Grissom</strong>: High-velocity, small spray.</p>
+<p>(Close up on the &quot;void&quot; of the electric saw as it disappears ... )</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. MOJAVE DESERT NEAR LAKE MEAD -- DAY]</p>
+<p>(On the other side of the power lines, the hills are on fire. A helicopter flying by drops water on the flames. The camera travels low along the ground and moves upward as the helicopter with red bucket passes by.)</p>
+<p>(In the background we hear radio static and various radio dispatch transmissions.)</p>
+<p><strong>Radio Dispatcher</strong>: 76 ROMEO, approaching ETS 4-NINER-SIX.</p>
+<p><strong>Pine Ridge Command</strong>: 76 ROMEO, you're right on it.</p>
+<p>76 ROMEO: Pine ridge command, go to white fire three. Dozer tender 1441. Air attack 140. O.V. Tens on order. Report to willow springs.</p>
+<p>CUT TO:<br />
+(NICK and CATHERINE carrying their CSI kits, pass by a group of fire fighters to get to the crime scene.)</p>
+<p><strong>Nick</strong>: Zero humidity, record highs. 'Tis the season.</p>
+<p>(They both meet up with DET. O'RILEY.)</p>
+<p><strong>Catherine</strong>: Hi.</p>
+<p><strong>Det. O'Riley</strong>: Hey. I don't even know where to start with this one. Take a look at that. A scuba diver ... up a tree.</p>
+<p>(True to form, there's a dead person in scuba gear stuck up in a tree. The CSIs, DET. O'RILEY and DAVID PHILLIPS all look up at the figure in astonishment.)</p>
+<p><strong>Nick</strong>: Wow.</p>
+<p><strong>Catherine</strong>: How the hell he'd got up there?</p>
+<p>(CATHERINE is holding yellow evidence markers in her hand and is looking on the ground for anything unusual.)</p>
+<p><strong>Nick</strong>: He couldn't have climbed up there with all that crap on.</p>
+<p><strong>Det. O'Riley</strong>: He got up there somehow.</p>
+<p><strong>Nick</strong>: Well, you know ... Lake Mead is just over the hill and the copters are dropping water.</p>
+<p>(CATHERINE looks up at the helicopter and bucket whirring by. She turns to NICK.)</p>
+<p><strong>Catherine</strong>: You're serious?</p>
+<p>(NICK smiles.)</p>
+<p><strong>Catherine</strong>: That's a total urban legend. We're scientists, Nickie. No way that happened.</p>
+<p><strong>Nick</strong>: (looking up) Okay.</p>
+<p>(Cut to CGI POV of a scuba diver in Lake Mead and a large red bucket being dropped into the lake. End of CGI POV. Resume on CATHERINE.)</p>
+<p><strong>Catherine</strong>: And I suppose you believe in Santa?</p>
+<p><strong>Nick</strong>: After today ... oh, yeah.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. APARTMENT COMPLEX - HALLWAY JUST OUTSIDE APT #103 - DAY]</p>
+<p><strong>Brass</strong>: When I said Cliff Renteria and his girlfriend skipped out in the middle of the night, I didn't have the whole story. </p>
+<p><strong>Stu Evans</strong>: I haven't seen Alison in over a month.</p>
+<p><strong>Brass</strong>: Any idea where she might be?</p>
+<p><strong>Stu Evans</strong>: Renteria said she left town.</p>
+<p><strong>Brass</strong>: So you noticed that she was gone?</p>
+<p><strong>Stu Evans</strong>: I manage the complex. I notice everything.</p>
+<p><strong>Grissom</strong>: Did you notice if Mr. Renteria left a forwarding address?</p>
+<p><strong>Stu Evans</strong>: No. He just wrote the letter saying he was moving on. Listen, if you find him, you tell him he is not getting his deposit back, okay? The blood'll never come out.</p>
+<p><strong>Grissom</strong>: Hopefully not. That's all the evidence we have.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. MOJAVE DESERT NEAR LAKE MEAD -- DAY]</p>
+<p>(CATHERINE searches the grounds for evidence. A helicopter whirs (o.s.) overhead. CATHERINE finds something and puts evidence marker #1 next to the scuba diver's pressure gauge. The needle is frozen stuck. She takes pictures of the pressure gauge.)</p>
+<p>(Cut to NICK as he crouches low to the ground. CATHERINE approaches.)</p>
+<p><strong>Nick</strong>: What do you make of that void? Green vegetation.</p>
+<p><strong>Catherine</strong>: There's a consistent burn over this whole area.</p>
+<p><strong>Nick</strong>: Except for that one spot.</p>
+<p><strong>Catherine</strong>: Well, the chief said that the original fire was a class &quot;C.&quot; Downed power line. Winds keep shifting hot spots breaking out all over.</p>
+<p>(NICK looks around and notices a burned cigarette butt and matchbook.)</p>
+<p><strong>Nick</strong>: Well, well ... downed power line, huh?</p>
+<p>(He motions to CATHERINE. She looks at it.)</p>
+<p><strong>Catherine</strong>: Good eye.</p>
+<p>(CATHERINE puts down evidence marker #3 next to the matchbook and snaps a photograph of it. NICK picks the matchbook up.)</p>
+<p><strong>Nick</strong>: Matchbook time-delay device.</p>
+<p><strong>Catherine</strong>: Don't touch it. It'll disintegrate.</p>
+<p><strong>Nick</strong>: That's the only reason I carry this stuff.</p>
+<p>(NICK pulls out an aerosol can.)</p>
+<p><strong>Catherine</strong>: Hair spray. Extra hold?</p>
+<p>(CGI POV Close up of Hair spray adhering to the burnt matchbook sticks, coating them.)</p>
+<p><strong>Nick</strong>: The difference between walking and running. Guy lights a cigarette, sticks it in a matchbook takes a stroll.</p>
+<p>(CGI POV of a newly lit cigarette being wedged under the matchbook sticks. Flash to white. Close up of the matchbook and cigarette on the ground. Flash to white. Close up of fire consuming both the matchbook and the cigarette. Flash to white. Resume on NICK and CATHERINE.)</p>
+<p><strong>Catherine</strong>: It buys an arsonist a five-minute head start.</p>
+<p><strong>Nick</strong>: Mm-hmm.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. MONACO RECEIVING -- DAY]</p>
+<p>(BRASS exits his car (Nevada license #IEP-353). He and GRISSOM approach CLIFFORD RENTERIA.)</p>
+<p><strong>Brass</strong>: Monaco Receiving. Clifford Renteria, platform manager.</p>
+<p><strong>Grissom</strong>: Gee, Brass, all in one shift. I'm impressed.</p>
+<p><strong>Brass</strong>: Are you Clifford Renteria?</p>
+<p><strong>Clifford Renteria</strong>: Cliff. Who are you?</p>
+<p><strong>Brass</strong>: Las Vegas police. With the crime lab. Do you have any knowledge of the whereabouts of Alison Scott?</p>
+<p><strong>Clifford Renteria</strong>: She's in Canada visiting her parents. Why?</p>
+<p><strong>Grissom</strong>: We just came from your old apartment. We found some disturbing evidence there. Would you care to explain that?</p>
+<p><strong>Clifford Renteria</strong>: Hey, he had it coming. I'll tell you that right now. Apartment stank, there were flies everywhere, no water. So I trashed the place.</p>
+<p><strong>Brass</strong>: Who had it coming?</p>
+<p><strong>Clifford Renteria</strong>: The apartment manager. The lazy b*st*rd. Serves him right.</p>
+<p><strong>Grissom</strong>: Mr. Renteria, your apartment walls are covered in human blood. Are you aware of that?</p>
+<p><strong>Clifford Renteria</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: Do you have an explanation?</p>
+<p><strong>Clifford Renteria</strong>: It's my blood.</p>
+<p><strong>Grissom</strong>: Your blood?</p>
+<p><strong>Brass</strong>: You got a stigmata?</p>
+<p><strong>Clifford Renteria</strong>: No. I get nosebleeds.</p>
+<p><strong>Brass</strong>: Nosebleeds?</p>
+<p><strong>Clifford Renteria</strong>: From Hepatitis C. I got blood to spare. My nose is like old faithful. Finally came in handy.</p>
+<p><strong>Grissom</strong>: You expirated blood from your nose all over your apartment walls to get back at your manager?</p>
+<p><strong>Clifford Renteria</strong>: Yeah. I hope I made his clean-up job hell.</p>
+<p>(A noise from behind him distracts CLIFF RENTERIA. He turns around and sees a worker.)</p>
+<p><strong>Clifford Renteria</strong>: (to worker) That's not supposed to go anywhere.</p>
+<p><strong>Brass</strong>: This guy blows ten quarts of blood from his nose onto his wall? You want to ask for a demonstration?</p>
+<p><strong>Grissom</strong>: He's lying. Expirating from your nose would leave oval-shaped blood patterns. The ones we found in his apartment were V-shaped.</p>
+<p><strong>Brass</strong>: Mr. Renteria. We're going to need a sample of your blood -- from your arm, not your nose -- and a visit to your new apartment.</p>
+<p>(CLIFFORD RENTERIA motions to the large truck #84438 behind them.)</p>
+<p><strong>Clifford Renteria</strong>: That's home to me now. Been staying there about a week.</p>
+<p><strong>Grissom</strong>: Well, may we see your furniture?</p>
+<p><strong>Clifford Renteria</strong>: Sure.</p>
+<p>CUT TO:<br />
+[INT. TRAILER]</p>
+<p>(From inside the truck, the back opens and we see all CLIFFORD RENTERIA'S worldly possessions crammed in the back of the trailer-truck.)</p>
+<p>(Camera cut to looking into the truck from the outside. We immediately see an electric saw in front of a large monitor-sized box with the label DM(TM) 604 S2.)</p>
+<p><strong>Grissom</strong>: Electric saw.</p>
+<p><strong>Clifford Renteria</strong>: Used to do some landscaping.</p>
+<p><strong>Grissom</strong>: Interesting lamp. </p>
+<p><strong>Grissom</strong>: Mr. Renteria, with your permission, I'd like to move some of your property to my lab for a closer inspection.</p>
+<p><strong>Clifford Renteria</strong>: Hey, save me $250 a week truck rental. Keep it as long as you want. I'll sleep in the break room.</p>
+<p><strong>Brass</strong>: That's after you come down and give us that blood sample.</p>
+<p>(The truck door closes to black.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAB]</p>
+<p>(Four people carrying various things walk by the glass lab wall. WARRICK walks into the lab carrying a large white box with the words &quot;PROPERTY OF FIREARMS&quot; written in black on the side. WARRICK is wearing a white jumper suit. SARA is also wearing the same type of white jumper suit.)</p>
+<p><strong>Warrick</strong>: You check nosebleed's tools yet?</p>
+<p><strong>Sara</strong>: No observable blood. Not even with pheno.</p>
+<p><strong>Warrick</strong>: That's because he probably ditched them after using them on the victim. Now we've just got to figure out which one.</p>
+<p>(WARRICK puts the box down. It's filled with various types of electric saws.)</p>
+<p><strong>Sara</strong>: How long did Firearms give us these for?</p>
+<p><strong>Warrick</strong>: Twenty-four hours, then we've got to get them back. Clean.</p>
+<p><strong>Sara</strong>: Let's do it.</p>
+<p>CUT TO:<br />
+(WARRICK zips up his white jumper, secures his gloves, turns the radio up.)</p>
+<p>(Cut to SARA zips up her white jumper. WARRICK puts on his head gear with goggles.)</p>
+<p>(Cut to SARA with her head goggles on mixes the paint they're going to use.)</p>
+<p>(Cut to WARRICK pouring the paint in a large plastic container that they'll be dipping the saws in.)</p>
+<p>(Cut to SARA dipping in a saw with a small round blade into red paint. Behind her, WARRICK is holding a different kind of saw.)</p>
+<p>(Cut to SARA holding the saw with paint against a clear pexi-glass board backing. She turns the saw on and lets the paint spatter onto the backing.)</p>
+<p>(Cut to Close up of a saw blade being dipped in paint.)</p>
+<p>(Cut to WARRICK holding the electric saw against a clear pexi-glass board backing. He turns the saw on and it spatters paint onto the backing.)</p>
+<p>(WARRICK and SARA repeat this test using the different saws in the box.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GREG'S LAB]</p>
+<p>(Close up on GREG.)</p>
+<p><strong>Grissom</strong>: (o.s.) So?</p>
+<p>(GREG looks up and sees GRISSOM standing there. He didn't hear him enter.)</p>
+<p><strong>Greg</strong>: DNA results, um ... sixteen samples from the apartment walls and the one we just took from the guy's arm.</p>
+<p>(GREG puts aside what he's working on, finds the file and hands it to GRISSOM. GRISSOM opens the file to review the findings.)</p>
+<p><strong>Grissom</strong>: This cannot be right.</p>
+<p><strong>Greg</strong>: Hey, I always double-check your stuff. But all the results are pointing one way.</p>
+<p><strong>Grissom</strong>: What about the blood on the lamp?</p>
+<p><strong>Greg</strong>: That is my next run. Just a little backlogged.</p>
+<p><strong>Grissom</strong>: Well, get through it. </p>
+<p>(GRISSOM leaves. GREG sighs.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT -- HALLWAY]</p>
+<p>(GRISSOM and BRASS walk through the hallway. GRISSOM is holding the file folder.)</p>
+<p><strong>Brass</strong>: I thought you said the blood on those walls couldn't be his.</p>
+<p><strong>Grissom</strong>: I also thought the metric system would catch on. Look, everything that starts with a faulty premise is bound to fail. I saw &quot;V&quot; patterns and I foolishly ruled out the nose.</p>
+<p><strong>Clifford Renteria</strong>: I told you I had a condition, Hepatitis C. I was diagnosed when I was 18.</p>
+<p><strong>Brass</strong>: And this relates to your magic nose, how?</p>
+<p><strong>Grissom</strong>: Hepatitis C destroys the liver and a whole host of clotting functions. Cliff, indeed, has blood to spare.</p>
+<p><strong>Clifford Renteria</strong>: Thanks for coming around to my side. Which way is out?</p>
+<p><strong>Brass</strong>: Nobody released you. </p>
+<p>SHORT TIME CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT -- INTERROGATION ROOM]</p>
+<p><strong>Grissom</strong>: Mr. Renteria, I can't sign off on a case until I fully understand it. So, let me get this straight. You had a beef with your landlord and you decided to pay him back by blowing blood out of your nose all over the apartment walls. Is that about right?</p>
+<p><strong>Cliff Renteria</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: A day? A week? A couple of months? How long did this take?</p>
+<p><strong>Cliff Renteria</strong>: I don't know. About a month.</p>
+<p><strong>Grissom</strong>: So, you get up in the morning, make coffee and go &quot;I think I'll blow some blood on the kitchen wall today.&quot; Get out of the shower grab your towel, go &quot;Hey, this looks like a nice spot to expirate a couple of pints.&quot;</p>
+<p><strong>Cliff Renteria</strong>: It wasn't like that. Something would set me off. The disposal was backed up, no hot water, the toilet was broken ... I knew the landlord wasn't going to fix it.</p>
+<p><strong>Grissom</strong>: So, you made your statement through your nose?</p>
+<p><strong>Clifford Renteria</strong>: I wasn't getting anywhere with words. Look, if it'll get me out of here any quicker, I'll show you. </p>
+<p>(BRASS and GRISSOM sit back in their seats. CLIFF RENTERIA stands up and looks around for the necessary materials. He picks up a sheet of newspaper and hangs it up on the blackboard behind him.)</p>
+<p><strong>Clifford Renteria</strong>: Um ... it's really not that big a deal. </p>
+<p>(GRISSOM stands up and moves closer to where CLIFF is. CLIFF turns around.)</p>
+<p><strong>Clifford Renteria</strong>: You might want to back up.</p>
+<p>(GRISSOM takes a small step backward and CLIFF takes a deep breath, holds a hand up to his nose and ... )</p>
+<p>(OFF BRASS as we hear a loud spraying sound. BRASS has his head turned away and eyes sideways toward the test.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(Camera on the newspaper with CLIFF RENTERIA'S latest artwork hanging clipped to a board. The camera moves to show us that next to the newspaper sample, is a photograph of a blood spatter from the apartment wall with ruler measurement. Next to that is a photograph of one of the electric saw glass spatters. Next to that is a photograph of a plastic trash can with spatters on that.)</p>
+<p><strong>Sara</strong>: (o.s.) Same high-velocity spray.</p>
+<p><strong>Warrick</strong>: Same short &quot;v&quot; pattern, too.</p>
+<p><strong>Sara</strong>: Didn't you say expirating through the nose made oval patterns?</p>
+<p><strong>Grissom</strong>: Yeah, well ... as it turns out our guy stands very close to the wall and blows almost sideways.</p>
+<p><strong>Warrick</strong>: This is on the real. You actually saw him do this?</p>
+<p><strong>Grissom</strong>: Right through his Jimmy Durante. Ambidextrous, both nostrils.</p>
+<p><strong>Sara</strong>: Great. Our big murderer's a nosebleed.</p>
+<p>(GREG enters holding a paper with test results. He hands it to GRISSOM.)</p>
+<p><strong>Greg</strong>: Oh, not necessarily. Sample from the nosebleed's lamp. It's not his blood. And I don't know whose blood it is but the amelogenin came back with something pretty interesting: &quot;XX.&quot;</p>
+<p><strong>Warrick</strong>: Female blood.</p>
+<p><strong>Greg</strong>: Mm-hmm.</p>
+<p><strong>Sara</strong>: Our guy's girlfriend is still missing.</p>
+<p><strong>Grissom</strong>: Two things which may have nothing to do with each other.</p>
+<p><strong>Sara</strong>: Or everything.</p>
+<p>(Camera holds on GRISSOM'S look.)</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY ROOM]</p>
+<p><strong>Catherine</strong>: So you got an ID on the scuba guy?</p>
+<p><strong>Robbins</strong>: Jacques Cousteau. Kidding. Coroner's humor. But I'll tell you what I do know. He didn't die in that fire. No carboxyhemoglobin in his blood. </p>
+<p><strong>Catherine</strong>: Means he didn't inhale any carbon monoxide. </p>
+<p><strong>Robbins</strong>: Tells us he stopped breathing before the fire started. Guy was probably killed someplace else and dumped.</p>
+<p><strong>Nick</strong>: Oh, he was dumped all right ... out of a chopper. Right, doctor?</p>
+<p><strong>Robbins</strong>: Victim's injuries are inconsistent with a fall of that magnitude. No fracture of the pelvis no compression of the lumbar vertebrae no shortening of the body.</p>
+<p><strong>Catherine</strong>: There goes your theory, Nick. Good try, though. So what was the cause of death?</p>
+<p><strong>Robbins</strong>: His heart stopped beating. </p>
+<p><strong>Nick</strong>: Heart attack ... consistent with being scooped out of Lake Mead.</p>
+<p><strong>Robbins</strong>: The human heart beats in a four-beat rhythm like a fox-trot. The two atria contract, then the two ventricles. Ba-boom, ba-boom.</p>
+<p><strong>Nick</strong>: So, what happened to this guy?</p>
+<p><strong>Robbins</strong>: Commotio cordis. Cardiac concussion. The guy short-circuited. It's rare, but I've seen it. Couple of years ago a minor leaguer took a line drive to the chest. </p>
+<p>(CGI POV of a baseball hitting the center of a &quot;Blaster's&quot; jersey. Camera moves forward through the jersey and into the heart where it starts to beat irregularly. Flash to white. Resume to present.)</p>
+<p><strong>Robbins</strong>: Interrupted the impulse to the heart turning it into a bag of worms. Fibrillation.</p>
+<p><strong>Catherine</strong>: So, our scuba diver took one to the chest.</p>
+<p><strong>Robbins</strong>: Definitely. </p>
+<p><strong>Nick</strong>: He could've been clipped by the chopper's Bambi Bucket. Did you find anything between his toes? Like sand from ... </p>
+<p><strong>Robbins</strong>: ... Lake Mead. Sorry, Nick. But I did find something between him and his wetsuit. Soap residue. Like he started to shower. Soaped up never soaped off.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(Close up of NICK taking a swab of the soap residue from the dive suit. He looks at the tip of the swab. Close up of swab with the residue on it. NICK notices as GREG stands in the doorway.)</p>
+<p><strong>Nick</strong>: Something on your mind, Greg?</p>
+<p><strong>Greg</strong>: No. I heard about your case. Sounds interesting.</p>
+<p><strong>Nick</strong>: Yeah. You want to make yourself useful, drop this off at trace. </p>
+<p>(NICK hands the container with swab within to GREG. GREG looks at the suit.)</p>
+<p><strong>Nick</strong>: Must be some kind of soap. Robbins got me halfway there.</p>
+<p><strong>Greg</strong>: Bet it's liquid dishwashing soap.</p>
+<p>(GREG turns to leave and is nearly to the door with NICK stops him.)</p>
+<p><strong>Nick</strong>: Yeah? State your source.</p>
+<p><strong>Greg</strong>: Well, you know I used to do a little diving myself actually. Belize, Maui, Great Barrier Reef ... Okay, maybe I took that one a little too far. But the point is, that these rubber suits aren't very easy to put on. Neoprene and skin need a little romance to get together. And a capful of liquid soap works like a charm.</p>
+<p><strong>Greg</strong>: So, you check this safety valve?</p>
+<p><strong>Nick</strong>: Sealed closed.</p>
+<p><strong>Greg</strong>: And what about the pressure gauge?</p>
+<p><strong>Nick</strong>: Hose melted. Catherine found it at the base of the tree. </p>
+<p><strong>Greg</strong>: It's 3,000 psi; that tank was full.</p>
+<p><strong>Nick</strong>: Guess it's like anything pressurized. These things blow for one of two reasons: Too much air or too much heat.</p>
+<p>(NICK stops as it hits him. He looks at GREG. GREG looks back at NICK.)</p>
+<p><strong>Nick</strong>: You just made yourself useful, my friend.</p>
+<p><strong>Greg</strong>: (smiles) Yeah?</p>
+<p><strong>Nick</strong>: Oh, yeah.</p>
+<p><strong>Greg</strong>: How?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. APARTMENT -- HALLWAY]</p>
+<p>(GRISSOM and SARA return to the apartment complex. They're both carrying their CSI kits.)</p>
+<p><strong>Sara</strong>: What are we looking for exactly?</p>
+<p><strong>Grissom</strong>: Same thing we're always looking for evidence of a crime. Failing that, we'll have to release this apartment.</p>
+<p><strong>Sara</strong>: What about Nosebleed's missing girlfriend? You heard Brass. </p>
+<p>[INT. APARTMENT #103]</p>
+<p><strong>Sara</strong>: He got a-hold of Alison Scott's parents in Canada. They said she never arrived. They had no idea she was even going to see them.</p>
+<p>(They enter the apartment and put their kits down.)</p>
+<p><strong>Sara</strong>: What if nose man blew blood all over these walls to cover up Alison Scott's blood?</p>
+<p>(GRISSOM considers the thought. He gets up and goes to the nearest wall. He scrapes the blood of a random sample.)</p>
+<p><strong>Grissom</strong>: I don't see any evidence of that.</p>
+<p><strong>Sara</strong>: You're not finding another layer of blood under there?</p>
+<p><strong>Grissom</strong>: No.</p>
+<p><strong>Sara</strong>: You don't think maybe he off'ed his girlfriend?</p>
+<p>(A fly buzzes by distracting GRISSOM. He looks up.)</p>
+<p><strong>Grissom</strong>: How many flies do you count in this room?</p>
+<p>(They both focus their attention on the flies.)</p>
+<p><strong>Sara</strong>: Fifteen ... give or take.</p>
+<p><strong>Grissom</strong>: I counted four on my first walk-through.</p>
+<p>(GRISSOM notices the mess on the fridge. SARA notices the mess high on the walls.)</p>
+<p><strong>Sara</strong>: Fly spots. Regurgitations.</p>
+<p>(GRISSOM pulls a chair out, stands on it and tests the fly spots. They come off on his finger.)</p>
+<p><strong>Grissom</strong>: Fresh. Problem is flies don't feast on dry blood.</p>
+<p><strong>Sara</strong>: Place is sealed, and they don't spontaneously generate.</p>
+<p><strong>Grissom</strong>: So they're feeding on fresh blood. Could be a rodent, though, or bad garbage.</p>
+<p><strong>Sara</strong>: Or it could be something higher up the food chain like Alison Scott.</p>
+<p>(Both SARA and GRISSOM start looking for a source.)</p>
+<p><strong>Grissom</strong>: The preponderance of flies is in this room. </p>
+<p><strong>Sara</strong>: They can egress a space less than .001 centimeters.</p>
+<p>(Standing back to back, they search the room for the most flies. SARA looks up and finds it.)</p>
+<p><strong>Sara</strong>: Behind you. Vent.</p>
+<p>(Way up high near the ceiling, flies swam the vent grill. Camera holds on SARA and GRISSOM.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - BREAK ROOM]</p>
+<p>(CATHERINE enters the break room. She finds GREG there pouring himself a cup of coffee.)</p>
+<p><strong>Catherine</strong>: Hey, coffee boy. Where's my DNA? Cigarette butt? Match book time-delay device? Hair spray? Any of this sound familiar?</p>
+<p><strong>Greg</strong>: Bags under the eyes, coffee cups, stress face. Any of this look familiar? I'm working on it.</p>
+<p><strong>Catherine</strong>: Did Grissom put his stuff in front of mine?</p>
+<p><strong>Greg</strong>: No. I'm working on your case -- with Nick.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY -- CONTINUOUS]</p>
+<p>(CATHERINE exits the break room and walks down the hallway looking for NICK.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAB -- CONTINUOUS]</p>
+<p>(Close up of NICK working on the oxygen tank. CATHERINE enters.)</p>
+<p><strong>Catherine</strong>: I just talked with your partner. Working this case without me, huh?</p>
+<p><strong>Nick</strong>: Hmm?</p>
+<p><strong>Catherine</strong>: Greg Sanders?</p>
+<p><strong>Nick</strong>: Let go my Greg-o. He's a CSI wannabe. Please. Check out the bottom of this tank.</p>
+<p>(NICK points to the tank.)</p>
+<p><strong>Catherine</strong>: Fissure. </p>
+<p><strong>Nick</strong>: We had a little explosion here. </p>
+<p>(NICK reaches to uncap the dropper from a bottle of acid nearby.)</p>
+<p><strong>Catherine</strong>: That explains a lot. Acid etching. Not bad.</p>
+<p><strong>Nick</strong>: Figure if I can get the serial number off the tank get on the horn with some surf shops track the renter through a credit card.</p>
+<p><strong>Catherine</strong>: Pretty smart thinking there, partner.</p>
+<p><strong>Nick</strong>: Well, we still haven't ID'd the vic, but ... it's worth a shot.</p>
+<p><strong>Catherine</strong>: Okay, N-4-double oh-2, let's see what kind of lead you are.</p>
+<p>(Off the sound of a doorbell dinging, we ... )</p>
+<p>CUT TO:</p>
+<hr />
+[INT. JERRY WALDEN'S APT HALLWAY]</p>
+<p>(The door opens and its CATHERINE and DET. O'RILEY.)</p>
+<p><strong>Jerry Walden</strong>: Hi. Uh, whatever you're selling, I have no interest, okay.</p>
+<p>(JERRY WALDEN tries to close the door. DET. O'RILEY puts out an arm to stop him.)</p>
+<p><strong>Det. O'Riley</strong>: Maybe you should find out what we're selling first.</p>
+<p><strong>Catherine</strong>: I'm Catherine Willows, Las Vegas Crime Lab. Detective O'Riley. Is there a Jerry Walden lives here?</p>
+<p><strong>Jerry Walden</strong>: You're looking at him.</p>
+<p>(CATHERINE looks at DET. O'RILEY.)</p>
+<p><strong>Jerry Walden</strong>: What?</p>
+<p><strong>Catherine</strong>: Are you missing a scuba tank?</p>
+<p>(The door closes and JERRY WALDEN unchains the door. The door reopens.)</p>
+<p><strong>Jerry Walden</strong>: Come in.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. JERRY WALDEN'S APARTMENT]</p>
+<p><strong>Catherine</strong>: So, let me get this straight, Mr. Walden. You lent Bruce Skeller a spare tank.</p>
+<p>(He sighs.)</p>
+<p><strong>Jerry Walden</strong>: Yeah. I just, I can't believe what you're telling me here. I mean, Bruce was an experienced diver.</p>
+<p><strong>Catherine</strong>: Well, he didn't exactly dive in the water.</p>
+<p><strong>Jerry Walden</strong>: Bruce and I were about to break ground on this project. Really meant a lot to him.</p>
+<p><strong>Det. O'Riley</strong>: You guys were in business together?</p>
+<p><strong>Jerry Walden</strong>: We've been best friends since we were kids. We used to build these forts together like our imaginary casino, you know? Now we were going to build the real thing. We partnered up with this big development company Adventures. I mean, we were ready to roll ...</p>
+<p><strong>Catherine</strong>: Excuse me. You said that Mr. Skeller was an experienced diver. Why would he be borrowing a tank?</p>
+<p><strong>Jerry Walden</strong>: Well, just because somebody's experienced doesn't make them any less of a freeloader. He was just down on his luck. But, as I say, we were like brothers. I mean, we shared everything. What was mine was his, what was his was mine.</p>
+<p><strong>Det. O'Riley</strong>: But you just said he didn't have anything.</p>
+<p><strong>Jerry Walden</strong>: Yeah, but he would've, you know. And I kept telling him that. I mean, that's what kept him going. And then this happened.</p>
+<p>(CATHERINE looks down on the hardwood floors and notices markings of something that's no longer there.)</p>
+<p><strong>Catherine</strong>: There used to be something here.</p>
+<p><strong>Jerry Walden</strong>: Oh, yeah, it's my coffee table.</p>
+<p><strong>Catherine</strong>: Interesting furniture. What is that, ash wood?</p>
+<p><strong>Jerry Walden</strong>: Yeah.</p>
+<p><strong>Catherine</strong>: Is that what the coffee table was made out of?</p>
+<p><strong>Jerry Walden</strong>: Made them out of the same piece of wood.</p>
+<p><strong>Catherine</strong>: Where is the coffee table?</p>
+<p><strong>Jerry Walden</strong>: Oh, I sent it out to get it refinished. The guy said it would be back in a week.</p>
+<p>(CATHERINE kneels to look at the markings and notices some splinters of wood on the floor.)</p>
+<p><strong>Catherine</strong>: I, uh ... ... think it needed a little more than that.</p>
+<p>(She picks them up for a closer examination.)</p>
+<p>(JERRY WALDEN nods his head. Camera hold on CATHERINE looking back up at JERRY WALDEN.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. APARTMENT 103 - DAY]</p>
+<p>(There are more equipment in the apartment. Brighter lights. GRISSOM rests the vent grill on the chair. SARA kneels nearby. They both begin examining the vent cover.)</p>
+<p><strong>Sara</strong>: Fly egg casings.</p>
+<p>(STU EVANS appears in the doorway.)</p>
+<p><strong>Stu Evans</strong>: I thought I heard some banging around. You, uh, you find my tenant?</p>
+<p><strong>Sara</strong>: You can contact Captain Brass for that information, sir.</p>
+<p>(SARA holds out a business card. The forensics personnel standing there takes it and gives it to STU EVANS.)</p>
+<p>(GRISSOM picks up a live beetle caught in the grill's webbing.)</p>
+<p><strong>Sara</strong>: What do you got?</p>
+<p><strong>Grissom</strong>: Either Paul or John. </p>
+<p><strong>Sara</strong>: A very important beetle.</p>
+<p><strong>Grissom</strong>: The most important. The Silphid Beetle typically feeds on decomposing human flesh.</p>
+<p><strong>Sara</strong>: There's a dead body in here somewhere.</p>
+<p><strong>Grissom</strong>: Mr. Evans ... could you get permission from the owner to let us break into these walls? Our original warrant didn't cover that.</p>
+<p><strong>Stu Evans</strong>: Depends, how many walls and what for?</p>
+<p><strong>Grissom</strong>: We can't divulge that but it may be ... all the walls.</p>
+<p><strong>Stu Evans</strong>: In every room?</p>
+<p><strong>Grissom</strong>: Yeah.</p>
+<p><strong>Stu Evans</strong>: You CSI's going to pay for the replastering?</p>
+<p><strong>Grissom</strong>: We don't do that.</p>
+<p><strong>Sara</strong>: But you can submit a form to the city for reimbursement.</p>
+<p><strong>Stu Evans</strong>: Yeah, I'm still waiting for my tax rebate. I don't even have to bother the owner with this. He's not going to let you bust out these walls.</p>
+<p>(STU EVANS leaves.)</p>
+<p><strong>Sara</strong>: Now what?</p>
+<p>(GRISSOM holds out the container with the Silphid Beetle in it.)</p>
+<p><strong>Grissom</strong>: DNA lab. I don't want to hear any rumors that Paul is dead. He may be the only chance we have of getting in these walls.</p>
+<p>HARD CUT TO BLACK.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<hr />
+[INT. CSI -- LAB]</p>
+<p><strong>Warrick</strong>: We already know this beetle feeds only off of human blood, so why are we extracting its stomach contents?</p>
+<p>(WARRICK opens the container with the Silphid Bettle in it. He takes out the beetle and holds it down while SARA uses a small bore needle to get the sample out of the beetle.)</p>
+<p><strong>Sara</strong>: Ahhh ... Not so. According to Grissom -- Mr. Bug Guy -- the silphid beetle will actually feed on any decomposing mammal. So we need to show human DNA or we are not going to get a warrant to break down those walls.</p>
+<p><strong>Warrick</strong>: Well, I hope he got his grub before you grabbed him up.</p>
+<p>(SARA stands up and looks around.)</p>
+<p><strong>Sara</strong>: Where's Greg? We need to get this processed. You know, I swear that guy has a second job somewhere else.</p>
+<p>CUT TO:<br />
+[EXT. MOJAVE DESERT NEAR LAKE MEAD -- DAY]</p>
+<hr />
+[EXT. UNDEVELOPED LAND NEAR LAKE MEAD -- DAY]</p>
+<p>(CATHERINE meets with PAUL NEWSOME, District Engineer, at the &quot;Future Site of Adventures Hotel and Casino&quot; as per the billboard in the background.)</p>
+<p><strong>Paul Newsome</strong>: I'm, uh, all for being alone, but ... </p>
+<p><strong>Catherine</strong>: Did you bring the file? Well, there goes the foreplay.</p>
+<p><strong>Paul Newsome</strong>: It's in the car. I hope you appreciate that even as district engineer it wasn't easy getting you the original land deed.</p>
+<p><strong>Catherine</strong>: Well, I know how you love a challenge. So, what'd the property sell for?</p>
+<p><strong>Paul Newsome</strong>: Half a million bucks an acre. Is there anything else that you need to use me for?</p>
+<p><strong>Catherine</strong>: Whoa. Excuse me?</p>
+<p><strong>Paul Newsome</strong>: It's obvious that you're not here for me. You're here for yourself. So let's not waste each other's time, all right? The property was owned jointly by two men -- Jerry Walden and Bruce Skeller. At the time that they bought it, it was a steal -- fifty grand an acre. Two years later, Adventures Development come in, they start buying up the surrounding parcels. Your guys hold out, until last week and let me tell you, they got top dollar.</p>
+<p><strong>Catherine</strong>: Hmm ... Capitalist's wet dream -- buy low, sell high. So they played it smart.</p>
+<p><strong>Paul Newsome</strong>: Well, one of them did. From all I can tell Jerry Walden was selling to Adventures from the get-go but his partner ... well ... was a different deal altogether. He was a diehard environmentalist. A real tree-hugger.</p>
+<p><strong>Catherine</strong>: You can say that again.</p>
+<p><strong>Paul Newsome</strong>: He saw the writing on the wall. The urbanization of Lake Mead and he spent every cent he had trying to fight it. When it comes down to money versus the environment it's no big surprise who's going to win. So is there anything else that I can do for you?</p>
+<p>(CATHERINE kisses LEWIS, turns and walks away smiling.)</p>
+<p><strong>Catherine</strong>: I'll see you.</p>
+<p>(Camera holds on PAUL NEWSOME.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAB]</p>
+<p><strong>Ronnie Litre</strong>: This really frosts My lizard. I go out to the lake to get away from the casinos. Well, there goes jet-skiing.</p>
+<p><strong>Catherine</strong>: What about the land deed, Ronnie?</p>
+<p><strong>Ronnie Litre</strong>: Oh, what I can tell you about that is I'm impressed. If it is a forgery, it's a great forgery. Van Gogh. Nothing I can testify to.</p>
+<p><strong>Catherine</strong>: What can you testify to?</p>
+<p><strong>Ronnie Litre</strong>: Have you seen my VSC-4 machine?</p>
+<p><strong>Catherine</strong>: No.</p>
+<p>(RONNIE motions for CATHERINE to follow him. They move further into the lab.)</p>
+<p><strong>Ronnie Litre</strong>: The original copy of the land sale agreement, okay? Inks luminesce at different wavelengths.</p>
+<p>(Camera focuses on the original land deed document with the signatures of both sellers, JERRY WALDEN (dated 10/2/01) and BRUCE SKELLER and a third signature of the seller (also dated 10/2/01). The document is cast in a bluish light.)</p>
+<p><strong>Ronnie Litre</strong>: At one wavelength the signature on the left disappears.</p>
+<p>(The document is cast in a greenish light and JERRY WALDEN'S signature and date disappear.)</p>
+<p><strong>Ronnie Litre</strong>: At another wavelength the one on the right disappears.</p>
+<p>(The document is cast in a yellowish light and BRUCE SKELLER'S signature disappears. The document is cast in a red-colored light and both signatures disappear.)</p>
+<p><strong>Catherine</strong>: Where'd it go?</p>
+<p>[CLOSED-CAPTION: RONNIE LITRE: I can bring it back.]</p>
+<p>(The document is cast in an orange-colored light and all signatures once again appear on the document.)</p>
+<p><strong>Catherine</strong>: What does it mean?</p>
+<p><strong>Ronnie Litre</strong>: Whatever you make of it. You've got a legal document. Two signatures -- notarized, the whole nine yards. The only thing I can tell you is your two guys used separate pens.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GRISSOM'S OFFICE]</p>
+<p>(Camera close up on GRISSOM staring at the Silphid Beetle on its back in the container on his desk. GREG enters.)</p>
+<p><strong>Greg</strong>: Excuse me.</p>
+<p><strong>Grissom</strong>: Yeah.</p>
+<p><strong>Greg</strong>: Silphid beetle -- test for presence of human DNA.</p>
+<p>(An exhausted GREG hands GRISSOM the test results and sits down in the chair across his desk. GRISSOM reads the results, his face grim.)</p>
+<p><strong>Grissom</strong>: Is this definitive?</p>
+<p><strong>Greg</strong>: (nods) Yes, sir.</p>
+<p>(GRISSOM grabs his jacket and heads out the door.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LOCKER ROOM]</p>
+<p>(SARA and WARRICK are in the locker room. GRISSOM walks in holding a piece of paper.)</p>
+<p><strong>Sara</strong>: Did we get our warrant?</p>
+<p><strong>Grissom</strong>: The beetle was full of human DNA. Brass got us a judge.</p>
+<p>(WARRICK nods. He stands and grabs a large hammer.)</p>
+<p><strong>Warrick</strong>: Let's go knock down some walls.</p>
+<p>HARD CUT TO:</p>
+<hr />
+[INT. APARTMENT COMPLEX - APT #103]</p>
+<p>(Close up of the hammer breaking through the wall. WARRICK, SARA and GRISSOM break through the wall only to find nothing but insulation.)</p>
+<p><strong>Warrick</strong>: One wall down ... 15 to go.</p>
+<p>(BRASS enters the apartment with a blond-haired woman.)</p>
+<p><strong>Brass</strong>: Sorry to interrupt your fun but I have someone here you might like to meet. Jimmy Durante's girlfriend.</p>
+<p><strong>Sara</strong>: You're Alison Scott?</p>
+<p><strong>Alison Scott</strong>: I see Cliff's been showing off again. It's one of the reasons I left him.</p>
+<p><strong>Grissom</strong>: You left him?</p>
+<p><strong>Alison Scott</strong>: I went back to my old boyfriend in Chicago.</p>
+<p><strong>Grissom</strong>: Miss Scott, we found some blood on one of Cliff's lamps.</p>
+<p><strong>Alison Scott</strong>: Stubbed my toe on that lamp ... like ... once a week. I begged Cliff not to buy that thing but he never listens.</p>
+<p><strong>Grissom</strong>: Would you be amenable to providing us with a sample of your blood for comparison purposes?</p>
+<p><strong>Alison Scott</strong>: Sure. But I'm telling you, that's my blood. Look, Cliff's ... well, he's a lot of things, but he's not a murderer.</p>
+<p><strong>Grissom</strong>: Yeah, I still want a sample. Warrick, would you?</p>
+<p><strong>Warrick</strong>: Uh ... yeah.</p>
+<p>(WARRICK, ALISON and BRASS leave the room. GRISSOM pulls his goggles off and sighs.)</p>
+<p><strong>Grissom</strong>: You never get a second chance to make a first impression.</p>
+<p><strong>Sara</strong>: (counters) A square of nine dots on paper and you can only draw four lines to connect them ... without the pen ever leaving the paper.</p>
+<p>(GRISSOM smiles grimly.)</p>
+<p><strong>Grissom</strong>: Right. Think outside the box.</p>
+<p>(SARA smiles at GRISSOM and starts looking around satisfied that GRISSOM is thinking about possibilities and not dwelling on the situation. The camera focuses on GRISSOM as he considers his options. GRISSOM turns around and looks at the walls.)</p>
+<p>(Following GRISSOM'S gaze and his line of thought, the camera moves straight for the wall, through the walls of Apartment 103 and into the Apartment next door where ... )</p>
+<p>CUT TO:</p>
+<hr />
+[INT. RESIDENT MANAGER'S APARTMENT - APT 101]</p>
+<p>( ... the Resident Manager, STU EVANS, stands in front of his entertainment center. The doorbell rings.)</p>
+<p>(STU EVANS opens the door. SARA and GRISSOM are standing there.)</p>
+<p><strong>Stu Evans</strong>: Yeah. What do you want now?</p>
+<p><strong>Grissom</strong>: We need to take a look at your wall.</p>
+<p>(Camera holds on STU EVANS.)</p>
+<p>HARD CUT TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(CATHERINE walks down the hallway and passes by GREG'S lab. He looks up and sees CATHERINE.)</p>
+<p><strong>Greg</strong>: Hey, yo, Cat ...</p>
+<p>(CATHERINE stops and turns around.)</p>
+<p><strong>Catherine</strong>: I'm going to forget that you called me that.</p>
+<p><strong>Greg</strong>: Sorry. Um, I've got a full profile on our -- &quot;your&quot; torch. I pulled his DNA off of a cigarette butt. Lucky for us, he's a wet-lipped smoker.</p>
+<p>(CATHERINE looks down at the results and nods.)</p>
+<p><strong>Catherine</strong>: So, you've done your job. I got to go do mine. </p>
+<p><strong>Greg</strong>: Just get me something we can compare it to.</p>
+<p>(She smiles and leaves.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAB]</p>
+<p><strong>Catherine</strong>: These ash wood splinters are from scuba guy's back?</p>
+<p><strong>Nick</strong>: Mm-hmm. Embedded in his aconeus muscle. </p>
+<p>(Camera microscope view of the wood splinter.)</p>
+<p><strong>Nick</strong>: After you paged, me I had Robbins comb his body.</p>
+<p><strong>Catherine</strong>: They only get us something if they match Walden's ninja coffee table.</p>
+<p><strong>Nick</strong>: It's your theory.</p>
+<p>(NICK puts the second sample under the microscope for CATHERINE to match. He steps aside while she works. Camera changes to microscope view of the two splinter pieces side by side.)</p>
+<p><strong>Catherine</strong>: Radial chains align. Pores match. Two pieces of ash wood, one source. So, Walden and Skeller get into an argument probably over their land.</p>
+<p>(Quick Flashback to JERRY WALDEN arguing with BRUCE SKELLER.</p>
+<p><strong>Jerry Walden</strong>: Buy yourself a hundred acres of rain forest, man! Cash in your end!</p>
+<p><strong>Bruce Skeller</strong>: I'm not going to sell!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Walden pushes Skeller he falls back onto the ash wood table.</p>
+<p><strong>Nick</strong>: But that's not what killed Skeller. Robbins said he took a line drive to the chest.</p>
+<p><strong>Catherine</strong>: Which escalates to a punch.</p>
+<p>(Quick Flashback to JERRY WALDEN and BRUCE SKELLER arguing. JERRY WALDEN punches BRUCE SKELLER in the center of his chest. BRUCE SKELLER falls backward onto the coffee table, breaking it. End of flashback.)</p>
+<p><strong>Nick</strong>: (smiles) I'll call O'Reilly.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. RESIDENT MANAGER'S APARTMENT #103]</p>
+<p>(SARA and GRISSOM are standing in the small apartment's kitchen.)</p>
+<p><strong>Grissom</strong>: Scented candles, huh?</p>
+<p><strong>Stu Evans</strong>: Food went rotten wanted to cover the smell.</p>
+<p><strong>Sara</strong>: You've re-plastered this wall recently?</p>
+<p><strong>Stu Evans</strong>: I had rain damage. Funneled down, wrecked a five-foot area.</p>
+<p><strong>Sara</strong>: Huh.</p>
+<p>(GRISSOM takes the picture hanging on the wall down.)</p>
+<p><strong>Grissom</strong>: You wouldn't mind if I, uh ... examined your vent, would you?</p>
+<p>(The door opens and BRASS walks in. He's holding a warrant.)</p>
+<p><strong>Brass</strong>: You don't have to ask his permission. I got a new warrant that covers his apartment. (to STU EVANS) Your wife being missing put it over. Funny you didn't mention that before.</p>
+<p>(BRASS hands the warrant to STU EVANS who takes it and reads it. GRISSOM and SARA set up a small ladder that GRISSOM climbs to examine the vent.)</p>
+<p><strong>Grissom</strong>: Did you know that your apartment shares heating ducts with the apartment next door?</p>
+<p><strong>Stu Evans</strong>: Yeah, me and Cliff were always fighting about the temperature. So what?</p>
+<p>(GRISSOM turns back to look through the vent. The camera moves backward through the vent to reveal among other things, more flies than one can count, dust and a congregation of Silphid beetles.)</p>
+<p><strong>Grissom</strong>: Sara?</p>
+<p><strong>Sara</strong>: Yeah ...</p>
+<p>(GRISSOM gets down from the ladder and puts it away while SARA gets the hammer. Both she and GRISSOM start to rip the wall down.)</p>
+<p><strong>Sara</strong>: Hold up. Hold up. Hold up.</p>
+<p>(SARA reaches into the hole in the wall and removes a white blanket.)</p>
+<p><strong>Sara</strong>: Alklyd. There's blood on the blanket.</p>
+<p><strong>Grissom</strong>: And Dermestidae Masculatus.</p>
+<p><strong>Sara</strong>: That's Latin for &quot;you're hiding a dead body&quot;.</p>
+<p><strong>Brass</strong>: What's the matter? Didn't realize how bad a corpse can smell so you just decided to move it around the place?</p>
+<p><strong>Grissom</strong>: You can tell us where the body is or we can, uh ... tear your place apart piece by piece. Whichever. </p>
+<p>(Camera holds on STU EVANS.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERROGATION ROOM]</p>
+<p><strong>Lewis (Jerry Walden's lawyer)</strong>: Look, you got squat. Jerry and Bruce signed with different pens. You found a cigarette butt at Lake Mead and wood chips on a tree-hugger. Bottom line, you got a dead guy up a tree and you don't know how he got there.</p>
+<p><strong>Det. O'Riley</strong>: Hey, I'm just here to make the arrest.</p>
+<p><strong>Lewis</strong>: For what? What have you got?</p>
+<p><strong>Catherine</strong>: Plenty. Why don't we just start from the beginning. Bruce Skeller didn't die in any fire. He was killed at your house.</p>
+<p>(Quick flashback to JERRY WALDEN punching BRUCE SKELLER in the chest. Sound of BRUCE SKELLER taking the punch. End of flashback. Resume on CATHERINE.)</p>
+<p><strong>Catherine</strong>: He didn't pick up any ash splinters from that forest. It's all Telarosa and Oak out there.</p>
+<p><strong>Nick</strong>: You had a dead body. So, you decided to get creative. Fire season, wet suit, liquid soap.</p>
+<p>(Quick flashback to JERRY WALDEN applying dishwashing liquid soap to BRUCE SKELLER'S feet. End of Flashback. Resume on CATHERINE.)</p>
+<p><strong>Catherine</strong>: You drove out to the lake, dumped the body ...</p>
+<p>(Quick flashback to JERRY WALDEN carrying BRUCE SKELLER'S fully geared body and putting it down on the ground by the light of his car. Cut to JERRY WALDEN putting the mouthpiece in BRUCE SKELLER'S mouth. End of flashback. Resume on CATHERINE.)</p>
+<p><strong>Catherine</strong>: ... and lit up. </p>
+<p>(Quick flashback to match flare and cigarette in mouth being lit. Flash to white. End of flashback. Resume on CATHERINE.)</p>
+<p><strong>Catherine</strong>: Not 'cause you wanted a cigarette. You lit up with a purpose.</p>
+<p>(Quick flashback to lit cigarette being placed inside a matchbook. JERRY WALDEN looking up. Flash to white. End of flashback. Resume on NICK.)</p>
+<p><strong>Nick</strong>: This gave you a head start. My guess is around, what, five-minute mark.</p>
+<p>(Quick CGI POV of cigarette and matchbook combo catching on fire. Flash to white. Resume on CATHERINE.)</p>
+<p><strong>Catherine</strong>: You figured the fire department would label it a hot spot -- relate it to the original fire and the body would just burn up.</p>
+<p><strong>Lewis</strong>: Still doesn't explain how Bruce's body wound up in that tree.</p>
+<p><strong>Jerry Walden</strong>: I didn't put him there.</p>
+<p><strong>Nick</strong>: Actually ... you did. See, the thing you forgot about a scuba tank is it contains compressed air. Too much heat ... and kaboom.</p>
+<p>(Quick flashback to the air tank exploding and the body in scuba gear flying through the air in slow motion. As it descends, it gets caught in the tree's branches where it was eventually found. Flash to white. Resume on NICK.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT POLICE DEPARTMENT - HALLWAY -- CONTINUOUS]</p>
+<p>(CATHERINE and NICK exit the interrogation room. CATHERINE smiles. NICK sighs.)</p>
+<p><strong>Nick</strong>: Rocket Man.</p>
+<p><strong>Catherine</strong>: Yeah. Got to love this job.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. RESIDENT MANAGER'S APARTMENT #101]</p>
+<p>(WARRICK and the rest of the Forensics team continue to tear down the walls of the Resident Manager's Apartment. WARRICK taps on the next wall he's going to knock through.)</p>
+<p><strong>Warrick</strong>: I got a hollow section.</p>
+<p><strong>Grissom</strong>: Let's open it up.</p>
+<p>(Using a hand-held box cutter, WARRICK cuts out a piece of the wall. He peels it open and out drops an ironing board.)</p>
+<p><strong>Warrick</strong>: Damn. Are we in the wrong apartment again?</p>
+<p><strong>Grissom</strong>: I don't know. I don't mind being wrong. I just don't think I am this time. Okay ... start on the floorboards. I'm going outside.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. APARTMENT COMPLEX -- NIGHT]</p>
+<p>(GRISSOM exits the building and begins checking his pulse while keeping an eye on his wristwatch. He calculates his heart rate. He's breathing loudly and pacing the floor. He leans against the brick wall. Off screen, the glass doors open and SARA walks out.)</p>
+<p><strong>Sara</strong>: You okay?</p>
+<p><strong>Grissom</strong>: Ninety-five.</p>
+<p><strong>Sara</strong>: Excuse me?</p>
+<p><strong>Grissom</strong>: Normally my pulse is seventy. When it gets to 95, I realize how mad I am. I-I have ten people working around the clock on this thing.</p>
+<p><strong>Sara</strong>: You're too hard on yourself.</p>
+<p><strong>Grissom</strong>: No, no. I'm not mad at me. There's a body in there and that guy knows where it is!</p>
+<p><strong>Sara</strong>: What's your pulse at now?</p>
+<p>(GRISSOM sighs and pushes his cap up over his forehead.)</p>
+<p><strong>Sara</strong>: You want to take a walk around the block? Get some air?</p>
+<p><strong>Grissom</strong>: (sighs) No.</p>
+<p><strong>Sara</strong>: Clear your head ...</p>
+<p><strong>Grissom</strong>: I'm fine.</p>
+<p><strong>Sara</strong>: Okay.</p>
+<p>(GRISSOM has his eyes closed. SARA reaches out and wipes his cheek. A lingering move that surprises GRISSOM in it's intimacy. He looks at her. She meets his eyes. She shrugs.)</p>
+<p><strong>Sara</strong>: Chalk ... from plaster.</p>
+<p><strong>Grissom</strong>: Oh.</p>
+<p>(GRISSOM wipes his cheek and absently glances at the back of his hand. He looks at SARA. She meets his eyes for a moment then looks away.)</p>
+<p><strong>Sara</strong>: (gently) Better go wash up.</p>
+<p>(SARA smiles and walks back in leaving GRISSOM behind. GRISSOM pulls his cap down and follows.)</p>
+<p>SHORT TIME CUT TO:</p>
+<hr />
+[INT. APARTMENT #103 -- KITCHEN]</p>
+<p>(GRISSOM turns on the hot water. Nothing comes out but a few drops. He tries the cold water. It works fine. He closes the water and tries the hot water again. Nothing. GRISSOM ponders the possible connection.)</p>
+<p><strong>Grissom</strong>: Hey, Brass. When did The Shnoz say he lost his hot water?</p>
+<p><strong>Brass</strong>: He wasn't exact.</p>
+<p><strong>Grissom</strong>: (to STU EVANS) You, uh, have no pressure for your hot water.</p>
+<p><strong>Stu Evans</strong>: I got a plumber coming on Saturday.</p>
+<p><strong>Grissom</strong>: Well, you know, my Uncle Herb was a plumber. I might be able to help. Where's your installation?</p>
+<p><strong>Stu Evans</strong>: In the basement. But, really, I got a plumber coming.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. APARTMENT COMPLEX BASEMENT -- NIGHT]</p>
+<p>(GRISSOM turns on the light. The bulb blows.)</p>
+<p><strong>Grissom</strong>: You got an electrician coming, too? </p>
+<p>(He turns on his flashlight and proceeds through the basement followed by BRASS and STU EVANS.)</p>
+<p><strong>Grissom</strong>: A filtration system. It softens the water.</p>
+<p><strong>Stu Evans</strong>: Yeah. Listen, you know, I got a guy on retainer. You don't have to do this.</p>
+<p><strong>Grissom</strong>: Yeah, well, I'm non-union.</p>
+<p>(He looks up at the pipes.)</p>
+<p><strong>Grissom</strong>: There's no disruption to the cold water line. Hot water line ... water runs through the filtration tanks first and the water heater second, right?</p>
+<p><strong>Stu Evans</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: Why is it bypassed? You've cut off the water to the filtration tanks. </p>
+<p><strong>Stu Evans</strong>: Something's wrong with that. I had no choice.</p>
+<p>(GRISSOM knocks on the tank. It sounds full.)</p>
+<p><strong>Grissom</strong>: Brine tanks are usually hollow. Only got about eight inches of water at the bottom for the salt mixture.</p>
+<p>(He knocks on tank again. It definitely sounds full.)</p>
+<p><strong>Grissom</strong>: Does that sound hollow to you?</p>
+<p>(GRISSOM lifts up the cover to the tank. BRASS reacts to the smell. Camera cuts to inside the tank where we find STU EVANS' wife, dead and covered with Silphid Beetles. Flash to white. Resume outside of tank.)</p>
+<p><strong>Brass</strong>: Not enough candles in the world ... </p>
+<p><strong>Stu Evans</strong>: She nagged me.</p>
+<p>(GRISSOM turns around to look at STU EVANS.)</p>
+<p><strong>Grissom</strong>: (incredulous) She nagged you?</p>
+<p>(Camera holds on GRISSOM.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[INT. CSI - GRISSOM'S OFFICE]</p>
+<p><strong>Sara</strong>: Hey, you want to grab some breakfast?</p>
+<p><strong>Grissom</strong>: No, thanks.</p>
+<p>(GRISSOM opens the container with the Silphid Beetle in it.)</p>
+<p><strong>Nick</strong>: Come on ... we always get better service when you're there.</p>
+<p><strong>Grissom</strong>: I'm having breakfast with a friend of mine.</p>
+<p>(GRISSOM puts a piece of meat off of his plate into the container.)</p>
+<p><strong>Nick</strong>: You're keeping him alive? Sara said you guys already solved the case.</p>
+<p><strong>Grissom</strong>: He did.</p>
+<p><strong>Nick</strong>: (nods) All right.</p>
+<p>(NICK and SARA leave. Camera holds on GRISSOM eating breakfast with his beetle.)</p>
+<p>(Camera pans back down the hall.)</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-
-
-Stu Evans: You'll like this apartment. My wife says it's the best of the lot. Now, the tenants moved out kind of quick so I don't normally show apartments before I've had a chance to look, so ... use your imagination.
-
-Nancy:  Oh, my god. Call 911.
-
-
-
-
-Brass: I worked in a slaughterhouse one summer. Looked a lot like this. 
-
-Brass:  The lease is in the name of Clifford Renteria. He lived here with his girlfriend till they snuck out in the middle of the night. Gee, I wonder why.
-Grissom: For all we know, this is animal blood.
-Brass: Yeah, sure. Deer, sheep, llama.
-Grissom: A deer hunter comes home from the mountains drunk decides to play butcher clean his kill. Chops his game up into oven-sized pieces for the winter. I mean, what does he care? He's renting.
-
-Brass: Victim's human.
-Grissom: And a human has only eight pints of blood. So, whoever the victim is ... is now dead.
-
-
-
-
-
-
-
-Sara:  Any uniformity in the spray?
-Grissom: Well, by and large, the average diameter is about one millimeter.
-Sara: Blood drops this size are characteristic of high-velocity impact like gunshot trauma but there's no bullet strikes on the walls ... ruling out murder by gun.
-Grissom: Just acquaint yourself, Sara. Don't interpret just yet, okay?
-
-Warrick: All right. Show time.
-(GRISSOM closes the shades disturbing a single fly which buzzes off. SARA,
-WARRICK and GRISSOM wait while the luminol begins to glow.)
-Sara: This looks like a multiple. More than one vic. Acquainting myself.
-Warrick: Check out these &quot;voids.&quot; That's the real evidence.
-
-Grissom: Couch? We've only got 30 seconds till this luminol disappears.
-(SARA starts taking pictures of the &quot;voids&quot; and anything else pertinent. 
-GRISSOM kneels to get a better look at the &quot;voids&quot; where he's standing.)
-Grissom: Television, maybe? A magazine?
-Sara: Triangle ... coat rack?
-Warrick: Guys ... 
-
-Grissom: What do you think that is?
-Warrick: Looks like it could be an electric saw.
-Grissom: High-velocity, small spray.
-
-
-
-
-
-
-Radio Dispatcher: 76 ROMEO, approaching ETS 4-NINER-SIX.
-Pine Ridge Command: 76 ROMEO, you're right on it.
-76 ROMEO: Pine ridge command, go to white fire three. Dozer tender 1441. Air attack 140. O.V. Tens on order. Report to willow springs.
-
-
-Nick: Zero humidity, record highs. 'Tis the season.
-
-Catherine: Hi.
-Det. O'Riley: Hey. I don't even know where to start with this one. Take a look at that. A scuba diver ... up a tree.
-
-Nick: Wow.
-Catherine: How the hell he'd got up there?
-
-Nick: He couldn't have climbed up there with all that crap on.
-Det. O'Riley: He got up there somehow.
-Nick: Well, you know ... Lake Mead is just over the hill and the copters are dropping water.
-
-Catherine: You're serious?
-
-Catherine: That's a total urban legend. We're scientists, Nickie. No way that happened.
-Nick:  Okay.
-
-Catherine: And I suppose you believe in Santa?
-Nick: After today ... oh, yeah.
-
-
-
-Brass: When I said Cliff Renteria and his girlfriend skipped out in the middle of the night, I didn't have the whole story. 
-Stu Evans: I haven't seen Alison in over a month.
-Brass: Any idea where she might be?
-Stu Evans: Renteria said she left town.
-Brass: So you noticed that she was gone?
-Stu Evans: I manage the complex. I notice everything.
-Grissom: Did you notice if Mr. Renteria left a forwarding address?
-Stu Evans: No. He just wrote the letter saying he was moving on. Listen, if you find him, you tell him he is not getting his deposit back, okay? The blood'll never come out.
-Grissom: Hopefully not. That's all the evidence we have.
-
-
-
-
-
-Nick: What do you make of that void? Green vegetation.
-Catherine: There's a consistent burn over this whole area.
-Nick: Except for that one spot.
-Catherine: Well, the chief said that the original fire was a class &quot;C.&quot; Downed power line. Winds keep shifting hot spots breaking out all over.
-
-Nick: Well, well ... downed power line, huh?
-
-Catherine: Good eye.
-
-Nick: Matchbook time-delay device.
-Catherine: Don't touch it. It'll disintegrate.
-Nick: That's the only reason I carry this stuff.
-
-Catherine: Hair spray. Extra hold?
-
-Nick: The difference between walking and running. Guy lights a cigarette, sticks it in a matchbook takes a stroll.
-
-Catherine: It buys an arsonist a five-minute head start.
-Nick: Mm-hmm.
-
-
-
-
-Brass: Monaco Receiving. Clifford Renteria, platform manager.
-Grissom: Gee, Brass, all in one shift. I'm impressed.
-Brass: Are you Clifford Renteria?
-Clifford Renteria: Cliff. Who are you?
-Brass: Las Vegas police. With the crime lab. Do you have any knowledge of the whereabouts of Alison Scott?
-Clifford Renteria: She's in Canada visiting her parents. Why?
-Grissom: We just came from your old apartment. We found some disturbing evidence there. Would you care to explain that?
-Clifford Renteria: Hey, he had it coming. I'll tell you that right now. Apartment stank, there were flies everywhere, no water. So I trashed the place.
-Brass: Who had it coming?
-Clifford Renteria: The apartment manager. The lazy b*st*rd. Serves him right.
-Grissom: Mr. Renteria, your apartment walls are covered in human blood. Are you aware of that?
-Clifford Renteria: Yeah.
-Grissom: Do you have an explanation?
-Clifford Renteria: It's my blood.
-Grissom: Your blood?
-Brass: You got a stigmata?
-Clifford Renteria: No. I get nosebleeds.
-Brass: Nosebleeds?
-Clifford Renteria: From Hepatitis C. I got blood to spare. My nose is like old faithful. Finally came in handy.
-Grissom: You expirated blood from your nose all over your apartment walls to get back at your manager?
-Clifford Renteria: Yeah. I hope I made his clean-up job hell.
-
-Clifford Renteria:  That's not supposed to go anywhere.
-Brass: This guy blows ten quarts of blood from his nose onto his wall? You want to ask for a demonstration?
-Grissom: He's lying. Expirating from your nose would leave oval-shaped blood patterns. The ones we found in his apartment were V-shaped.
-Brass: Mr. Renteria. We're going to need a sample of your blood -- from your arm, not your nose -- and a visit to your new apartment.
-
-Clifford Renteria: That's home to me now. Been staying there about a week.
-Grissom: Well, may we see your furniture?
-Clifford Renteria: Sure.
-
-
-
-
-Grissom: Electric saw.
-Clifford Renteria: Used to do some landscaping.
-Grissom: Interesting lamp. 
-Grissom: Mr. Renteria, with your permission, I'd like to move some of your property to my lab for a closer inspection.
-Clifford Renteria: Hey, save me $250 a week truck rental. Keep it as long as you want. I'll sleep in the break room.
-Brass: That's after you come down and give us that blood sample.
-
-
-
-
-
-Warrick: You check nosebleed's tools yet?
-Sara: No observable blood. Not even with pheno.
-Warrick: That's because he probably ditched them after using them on the victim. Now we've just got to figure out which one.
-
-Sara: How long did Firearms give us these for?
-Warrick: Twenty-four hours, then we've got to get them back. Clean.
-Sara: Let's do it.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Grissom:  So?
-
-Greg: DNA results, um ... sixteen samples from the apartment walls and the one we just took from the guy's arm.
-
-Grissom: This cannot be right.
-Greg: Hey, I always double-check your stuff. But all the results are pointing one way.
-Grissom: What about the blood on the lamp?
-Greg: That is my next run. Just a little backlogged.
-Grissom: Well, get through it. 
-
-
-
-
-
-Brass: I thought you said the blood on those walls couldn't be his.
-Grissom: I also thought the metric system would catch on. Look, everything that starts with a faulty premise is bound to fail. I saw &quot;V&quot; patterns and I foolishly ruled out the nose.
-Clifford Renteria: I told you I had a condition, Hepatitis C. I was diagnosed when I was 18.
-Brass: And this relates to your magic nose, how?
-Grissom: Hepatitis C destroys the liver and a whole host of clotting functions. Cliff, indeed, has blood to spare.
-Clifford Renteria: Thanks for coming around to my side. Which way is out?
-Brass: Nobody released you. 
-
-
-
-Grissom: Mr. Renteria, I can't sign off on a case until I fully understand it. So, let me get this straight. You had a beef with your landlord and you decided to pay him back by blowing blood out of your nose all over the apartment walls. Is that about right?
-Cliff Renteria: Yeah.
-Grissom: A day? A week? A couple of months? How long did this take?
-Cliff Renteria: I don't know. About a month.
-Grissom: So, you get up in the morning, make coffee and go &quot;I think I'll blow some blood on the kitchen wall today.&quot; Get out of the shower grab your towel, go &quot;Hey, this looks like a nice spot to expirate a couple of pints.&quot;
-Cliff Renteria: It wasn't like that. Something would set me off. The disposal was backed up, no hot water, the toilet was broken ... I knew the landlord wasn't going to fix it.
-Grissom: So, you made your statement through your nose?
-Clifford Renteria: I wasn't getting anywhere with words. Look, if it'll get me out of here any quicker, I'll show you. 
-
-Clifford Renteria: Um ... it's really not that big a deal. 
-
-Clifford Renteria: You might want to back up.
-
-
-
-
-
-
-Sara:  Same high-velocity spray.
-Warrick: Same short &quot;v&quot; pattern, too.
-Sara: Didn't you say expirating through the nose made oval patterns?
-Grissom: Yeah, well ... as it turns out our guy stands very close to the wall and blows almost sideways.
-Warrick: This is on the real. You actually saw him do this?
-Grissom: Right through his Jimmy Durante. Ambidextrous, both nostrils.
-Sara: Great. Our big murderer's a nosebleed.
-
-Greg: Oh, not necessarily. Sample from the nosebleed's lamp. It's not his blood. And I don't know whose blood it is but the amelogenin came back with something pretty interesting: &quot;XX.&quot;
-Warrick: Female blood.
-Greg: Mm-hmm.
-Sara: Our guy's girlfriend is still missing.
-Grissom: Two things which may have nothing to do with each other.
-Sara: Or everything.
-
-
-
-
-
-
-
-
-Catherine: So you got an ID on the scuba guy?
-Robbins: Jacques Cousteau. Kidding. Coroner's humor. But I'll tell you what I do know. He didn't die in that fire. No carboxyhemoglobin in his blood. 
-Catherine: Means he didn't inhale any carbon monoxide. 
-Robbins: Tells us he stopped breathing before the fire started. Guy was probably killed someplace else and dumped.
-Nick: Oh, he was dumped all right ... out of a chopper. Right, doctor?
-Robbins: Victim's injuries are inconsistent with a fall of that magnitude. No fracture of the pelvis no compression of the lumbar vertebrae no shortening of the body.
-Catherine: There goes your theory, Nick. Good try, though. So what was the cause of death?
-Robbins: His heart stopped beating. 
-Nick: Heart attack ... consistent with being scooped out of Lake Mead.
-Robbins: The human heart beats in a four-beat rhythm like a fox-trot. The two atria contract, then the two ventricles. Ba-boom, ba-boom.
-Nick: So, what happened to this guy?
-Robbins: Commotio cordis. Cardiac concussion. The guy short-circuited. It's rare, but I've seen it. Couple of years ago a minor leaguer took a line drive to the chest. 
-
-Robbins: Interrupted the impulse to the heart turning it into a bag of worms. Fibrillation.
-Catherine: So, our scuba diver took one to the chest.
-Robbins: Definitely. 
-Nick: He could've been clipped by the chopper's Bambi Bucket. Did you find anything between his toes? Like sand from ... 
-Robbins: ... Lake Mead. Sorry, Nick. But I did find something between him and his wetsuit. Soap residue. Like he started to shower. Soaped up never soaped off.
-
-
-
-
-Nick: Something on your mind, Greg?
-Greg: No. I heard about your case. Sounds interesting.
-Nick: Yeah. You want to make yourself useful, drop this off at trace. 
-
-Nick: Must be some kind of soap. Robbins got me halfway there.
-Greg: Bet it's liquid dishwashing soap.
-
-Nick: Yeah? State your source.
-Greg: Well, you know I used to do a little diving myself actually. Belize, Maui, Great Barrier Reef ... Okay, maybe I took that one a little too far. But the point is, that these rubber suits aren't very easy to put on. Neoprene and skin need a little romance to get together. And a capful of liquid soap works like a charm.
-Greg: So, you check this safety valve?
-Nick: Sealed closed.
-Greg: And what about the pressure gauge?
-Nick: Hose melted. Catherine found it at the base of the tree. 
-Greg: It's 3,000 psi; that tank was full.
-Nick: Guess it's like anything pressurized. These things blow for one of two reasons: Too much air or too much heat.
-
-Nick: You just made yourself useful, my friend.
-Greg:  Yeah?
-Nick: Oh, yeah.
-Greg: How?
-
-
-
-
-Sara: What are we looking for exactly?
-Grissom: Same thing we're always looking for evidence of a crime. Failing that, we'll have to release this apartment.
-Sara: What about Nosebleed's missing girlfriend? You heard Brass. 
-
-Sara: He got a-hold of Alison Scott's parents in Canada. They said she never arrived. They had no idea she was even going to see them.
-
-Sara: What if nose man blew blood all over these walls to cover up Alison Scott's blood?
-
-Grissom: I don't see any evidence of that.
-Sara: You're not finding another layer of blood under there?
-Grissom: No.
-Sara: You don't think maybe he off'ed his girlfriend?
-
-Grissom: How many flies do you count in this room?
-
-Sara: Fifteen ... give or take.
-Grissom: I counted four on my first walk-through.
-
-Sara: Fly spots. Regurgitations.
-
-Grissom: Fresh. Problem is flies don't feast on dry blood.
-Sara: Place is sealed, and they don't spontaneously generate.
-Grissom: So they're feeding on fresh blood. Could be a rodent, though, or bad garbage.
-Sara: Or it could be something higher up the food chain like Alison Scott.
-
-Grissom: The preponderance of flies is in this room. 
-Sara: They can egress a space less than .001 centimeters.
-
-Sara: Behind you. Vent.
-
-
-
-
-
-Catherine: Hey, coffee boy. Where's my DNA? Cigarette butt? Match book time-delay device? Hair spray? Any of this sound familiar?
-Greg: Bags under the eyes, coffee cups, stress face. Any of this look familiar? I'm working on it.
-Catherine: Did Grissom put his stuff in front of mine?
-Greg: No. I'm working on your case -- with Nick.
-
-
-
-
-
-
-
-
-Catherine: I just talked with your partner. Working this case without me, huh?
-Nick: Hmm?
-Catherine: Greg Sanders?
-Nick: Let go my Greg-o. He's a CSI wannabe. Please. Check out the bottom of this tank.
-
-Catherine: Fissure. 
-Nick: We had a little explosion here. 
-
-Catherine: That explains a lot. Acid etching. Not bad.
-Nick: Figure if I can get the serial number off the tank get on the horn with some surf shops track the renter through a credit card.
-Catherine: Pretty smart thinking there, partner.
-Nick: Well, we still haven't ID'd the vic, but ... it's worth a shot.
-Catherine: Okay, N-4-double oh-2, let's see what kind of lead you are.
-
-
-
-
-
-Jerry Walden: Hi. Uh, whatever you're selling, I have no interest, okay.
-
-Det. O'Riley: Maybe you should find out what we're selling first.
-Catherine: I'm Catherine Willows, Las Vegas Crime Lab. Detective O'Riley. Is there a Jerry Walden lives here?
-Jerry Walden: You're looking at him.
-
-Jerry Walden: What?
-Catherine: Are you missing a scuba tank?
-
-Jerry Walden: Come in.
-
-
-
-Catherine: So, let me get this straight, Mr. Walden. You lent Bruce Skeller a spare tank.
-
-Jerry Walden: Yeah. I just, I can't believe what you're telling me here. I mean, Bruce was an experienced diver.
-Catherine: Well, he didn't exactly dive in the water.
-Jerry Walden: Bruce and I were about to break ground on this project. Really meant a lot to him.
-Det. O'Riley: You guys were in business together?
-Jerry Walden: We've been best friends since we were kids. We used to build these forts together like our imaginary casino, you know? Now we were going to build the real thing. We partnered up with this big development company Adventures. I mean, we were ready to roll ...
-Catherine: Excuse me. You said that Mr. Skeller was an experienced diver. Why would he be borrowing a tank?
-Jerry Walden: Well, just because somebody's experienced doesn't make them any less of a freeloader. He was just down on his luck. But, as I say, we were like brothers. I mean, we shared everything. What was mine was his, what was his was mine.
-Det. O'Riley: But you just said he didn't have anything.
-Jerry Walden: Yeah, but he would've, you know. And I kept telling him that. I mean, that's what kept him going. And then this happened.
-
-Catherine: There used to be something here.
-Jerry Walden: Oh, yeah, it's my coffee table.
-Catherine: Interesting furniture. What is that, ash wood?
-Jerry Walden: Yeah.
-Catherine: Is that what the coffee table was made out of?
-Jerry Walden: Made them out of the same piece of wood.
-Catherine: Where is the coffee table?
-Jerry Walden: Oh, I sent it out to get it refinished. The guy said it would be back in a week.
-
-Catherine: I, uh ... ... think it needed a little more than that.
-
-
-
-
-
-
-Sara: Fly egg casings.
-
-Stu Evans: I thought I heard some banging around. You, uh, you find my tenant?
-Sara: You can contact Captain Brass for that information, sir.
-
-
-Sara: What do you got?
-Grissom: Either Paul or John. 
-Sara: A very important beetle.
-Grissom: The most important. The Silphid Beetle typically feeds on decomposing human flesh.
-Sara: There's a dead body in here somewhere.
-Grissom: Mr. Evans ... could you get permission from the owner to let us break into these walls? Our original warrant didn't cover that.
-Stu Evans: Depends, how many walls and what for?
-Grissom: We can't divulge that but it may be ... all the walls.
-Stu Evans: In every room?
-Grissom: Yeah.
-Stu Evans: You CSI's going to pay for the replastering?
-Grissom: We don't do that.
-Sara: But you can submit a form to the city for reimbursement.
-Stu Evans: Yeah, I'm still waiting for my tax rebate. I don't even have to bother the owner with this. He's not going to let you bust out these walls.
-
-Sara: Now what?
-
-Grissom: DNA lab. I don't want to hear any rumors that Paul is dead. He may be the only chance we have of getting in these walls.
-
-
-
-;
-
-
-
-
-Warrick: We already know this beetle feeds only off of human blood, so why are we extracting its stomach contents?
-
-Sara: Ahhh ... Not so. According to Grissom -- Mr. Bug Guy -- the silphid beetle will actually feed on any decomposing mammal. So we need to show human DNA or we are not going to get a warrant to break down those walls.
-Warrick: Well, I hope he got his grub before you grabbed him up.
-
-Sara: Where's Greg? We need to get this processed. You know, I swear that guy has a second job somewhere else.
-
-
-
-
-
-Paul Newsome: I'm, uh, all for being alone, but ... 
-Catherine: Did you bring the file? Well, there goes the foreplay.
-Paul Newsome: It's in the car. I hope you appreciate that even as district engineer it wasn't easy getting you the original land deed.
-Catherine: Well, I know how you love a challenge. So, what'd the property sell for?
-Paul Newsome: Half a million bucks an acre. Is there anything else that you need to use me for?
-Catherine: Whoa. Excuse me?
-Paul Newsome: It's obvious that you're not here for me. You're here for yourself. So let's not waste each other's time, all right? The property was owned jointly by two men -- Jerry Walden and Bruce Skeller. At the time that they bought it, it was a steal -- fifty grand an acre. Two years later, Adventures Development come in, they start buying up the surrounding parcels. Your guys hold out, until last week and let me tell you, they got top dollar.
-Catherine: Hmm ... Capitalist's wet dream -- buy low, sell high. So they played it smart.
-Paul Newsome: Well, one of them did. From all I can tell Jerry Walden was selling to Adventures from the get-go but his partner ... well ... was a different deal altogether. He was a diehard environmentalist. A real tree-hugger.
-Catherine: You can say that again.
-Paul Newsome: He saw the writing on the wall. The urbanization of Lake Mead and he spent every cent he had trying to fight it. When it comes down to money versus the environment it's no big surprise who's going to win. So is there anything else that I can do for you?
-
-Catherine: I'll see you.
-
-
-
-
-Ronnie Litre: This really frosts My lizard. I go out to the lake to get away from the casinos. Well, there goes jet-skiing.
-Catherine: What about the land deed, Ronnie?
-Ronnie Litre: Oh, what I can tell you about that is I'm impressed. If it is a forgery, it's a great forgery. Van Gogh. Nothing I can testify to.
-Catherine: What can you testify to?
-Ronnie Litre: Have you seen my VSC-4 machine?
-Catherine: No.
-
-Ronnie Litre: The original copy of the land sale agreement, okay? Inks luminesce at different wavelengths.
-
-Ronnie Litre: At one wavelength the signature on the left disappears.
-
-Ronnie Litre: At another wavelength the one on the right disappears.
-
-Catherine: Where'd it go?
-
-
-Catherine: What does it mean?
-Ronnie Litre: Whatever you make of it. You've got a legal document. Two signatures -- notarized, the whole nine yards. The only thing I can tell you is your two guys used separate pens.
-
-
-
-
-Greg: Excuse me.
-Grissom: Yeah.
-Greg: Silphid beetle -- test for presence of human DNA.
-
-Grissom: Is this definitive?
-Greg:  Yes, sir.
-
-
-
-
-
-Sara: Did we get our warrant?
-Grissom: The beetle was full of human DNA. Brass got us a judge.
-
-Warrick: Let's go knock down some walls.
-
-
-
-
-Warrick: One wall down ... 15 to go.
-
-Brass: Sorry to interrupt your fun but I have someone here you might like to meet. Jimmy Durante's girlfriend.
-Sara: You're Alison Scott?
-Alison Scott: I see Cliff's been showing off again. It's one of the reasons I left him.
-Grissom: You left him?
-Alison Scott: I went back to my old boyfriend in Chicago.
-Grissom: Miss Scott, we found some blood on one of Cliff's lamps.
-Alison Scott: Stubbed my toe on that lamp ... like ... once a week. I begged Cliff not to buy that thing but he never listens.
-Grissom: Would you be amenable to providing us with a sample of your blood for comparison purposes?
-Alison Scott: Sure. But I'm telling you, that's my blood. Look, Cliff's ... well, he's a lot of things, but he's not a murderer.
-Grissom: Yeah, I still want a sample. Warrick, would you?
-Warrick: Uh ... yeah.
-
-Grissom: You never get a second chance to make a first impression.
-Sara:  A square of nine dots on paper and you can only draw four lines to connect them ... without the pen ever leaving the paper.
-
-Grissom: Right. Think outside the box.
-
-
-
-
-
-
-
-Stu Evans: Yeah. What do you want now?
-Grissom: We need to take a look at your wall.
-
-
-
-
-
-
-
-Greg: Hey, yo, Cat ...
-
-Catherine: I'm going to forget that you called me that.
-Greg: Sorry. Um, I've got a full profile on our -- &quot;your&quot; torch. I pulled his DNA off of a cigarette butt. Lucky for us, he's a wet-lipped smoker.
-
-Catherine: So, you've done your job. I got to go do mine. 
-Greg: Just get me something we can compare it to.
-
-
-
-
-Catherine: These ash wood splinters are from scuba guy's back?
-Nick: Mm-hmm. Embedded in his aconeus muscle. 
-
-Nick: After you paged, me I had Robbins comb his body.
-Catherine: They only get us something if they match Walden's ninja coffee table.
-Nick: It's your theory.
-
-Catherine: Radial chains align. Pores match. Two pieces of ash wood, one source. So, Walden and Skeller get into an argument probably over their land.
-(Quick Flashback to JERRY WALDEN arguing with BRUCE SKELLER.
-Jerry Walden: Buy yourself a hundred acres of rain forest, man! Cash in your end!
-Bruce Skeller: I'm not going to sell!
-
-Catherine: Walden pushes Skeller he falls back onto the ash wood table.
-Nick: But that's not what killed Skeller. Robbins said he took a line drive to the chest.
-Catherine: Which escalates to a punch.
-
-Nick:  I'll call O'Reilly.
-
-
-
-
-Grissom: Scented candles, huh?
-Stu Evans: Food went rotten wanted to cover the smell.
-Sara: You've re-plastered this wall recently?
-Stu Evans: I had rain damage. Funneled down, wrecked a five-foot area.
-Sara: Huh.
-
-Grissom: You wouldn't mind if I, uh ... examined your vent, would you?
-
-Brass: You don't have to ask his permission. I got a new warrant that covers his apartment.  Your wife being missing put it over. Funny you didn't mention that before.
-
-Grissom: Did you know that your apartment shares heating ducts with the apartment next door?
-Stu Evans: Yeah, me and Cliff were always fighting about the temperature. So what?
-
-Grissom: Sara?
-Sara: Yeah ...
-
-Sara: Hold up. Hold up. Hold up.
-
-Sara: Alklyd. There's blood on the blanket.
-Grissom: And Dermestidae Masculatus.
-Sara: That's Latin for &quot;you're hiding a dead body&quot;.
-Brass: What's the matter? Didn't realize how bad a corpse can smell so you just decided to move it around the place?
-Grissom: You can tell us where the body is or we can, uh ... tear your place apart piece by piece. Whichever. 
-
-
-
-
-Lewis : Look, you got squat. Jerry and Bruce signed with different pens. You found a cigarette butt at Lake Mead and wood chips on a tree-hugger. Bottom line, you got a dead guy up a tree and you don't know how he got there.
-Det. O'Riley: Hey, I'm just here to make the arrest.
-Lewis: For what? What have you got?
-Catherine: Plenty. Why don't we just start from the beginning. Bruce Skeller didn't die in any fire. He was killed at your house.
-
-Catherine: He didn't pick up any ash splinters from that forest. It's all Telarosa and Oak out there.
-Nick: You had a dead body. So, you decided to get creative. Fire season, wet suit, liquid soap.
-
-Catherine: You drove out to the lake, dumped the body ...
-
-Catherine: ... and lit up. 
-
-Catherine: Not 'cause you wanted a cigarette. You lit up with a purpose.
-
-Nick: This gave you a head start. My guess is around, what, five-minute mark.
-
-Catherine: You figured the fire department would label it a hot spot -- relate it to the original fire and the body would just burn up.
-Lewis: Still doesn't explain how Bruce's body wound up in that tree.
-Jerry Walden: I didn't put him there.
-Nick: Actually ... you did. See, the thing you forgot about a scuba tank is it contains compressed air. Too much heat ... and kaboom.
-
-
-
-
-
-Nick: Rocket Man.
-Catherine: Yeah. Got to love this job.
-
-
-
-
-Warrick: I got a hollow section.
-Grissom: Let's open it up.
-
-Warrick: Damn. Are we in the wrong apartment again?
-Grissom: I don't know. I don't mind being wrong. I just don't think I am this time. Okay ... start on the floorboards. I'm going outside.
-
-
-
-
-Sara: You okay?
-Grissom: Ninety-five.
-Sara: Excuse me?
-Grissom: Normally my pulse is seventy. When it gets to 95, I realize how mad I am. I-I have ten people working around the clock on this thing.
-Sara: You're too hard on yourself.
-Grissom: No, no. I'm not mad at me. There's a body in there and that guy knows where it is!
-Sara: What's your pulse at now?
-
-Sara: You want to take a walk around the block? Get some air?
-Grissom:  No.
-Sara: Clear your head ...
-Grissom: I'm fine.
-Sara: Okay.
-
-Sara: Chalk ... from plaster.
-Grissom: Oh.
-
-Sara:  Better go wash up.
-
-
-
-
-
-Grissom: Hey, Brass. When did The Shnoz say he lost his hot water?
-Brass: He wasn't exact.
-Grissom:  You, uh, have no pressure for your hot water.
-Stu Evans: I got a plumber coming on Saturday.
-Grissom: Well, you know, my Uncle Herb was a plumber. I might be able to help. Where's your installation?
-Stu Evans: In the basement. But, really, I got a plumber coming.
-
-
-
-
-Grissom: You got an electrician coming, too? 
-
-Grissom: A filtration system. It softens the water.
-Stu Evans: Yeah. Listen, you know, I got a guy on retainer. You don't have to do this.
-Grissom: Yeah, well, I'm non-union.
-
-Grissom: There's no disruption to the cold water line. Hot water line ... water runs through the filtration tanks first and the water heater second, right?
-Stu Evans: Yeah.
-Grissom: Why is it bypassed? You've cut off the water to the filtration tanks. 
-Stu Evans: Something's wrong with that. I had no choice.
-
-Grissom: Brine tanks are usually hollow. Only got about eight inches of water at the bottom for the salt mixture.
-
-Grissom: Does that sound hollow to you?
-
-Brass: Not enough candles in the world ... 
-Stu Evans: She nagged me.
-
-Grissom:  She nagged you?
-
-
-
-
-
-Sara: Hey, you want to grab some breakfast?
-Grissom: No, thanks.
-
-Nick: Come on ... we always get better service when you're there.
-Grissom: I'm having breakfast with a friend of mine.
-
-Nick: You're keeping him alive? Sara said you guys already solved the case.
-Grissom: He did.
-Nick:  All right.
-
-
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=02x05+-+Scuba+Doobie-Doo&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127310%23p127310" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=02x05+-+Scuba+Doobie-Doo&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127310%23p127310" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127310%23p127310&amp;name=02x05+-+Scuba+Doobie-Doo" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127310%23p127310" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=9c666ddf2ecd28ac25bb035db021bc50">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=9c666ddf2ecd28ac25bb035db021bc50">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=9c666ddf2ecd28ac25bb035db021bc50">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=9c666ddf2ecd28ac25bb035db021bc50">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

@@ -1,665 +1,897 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="FADE IN.
+[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) -- NIGHT] 
+(Camera pulls out and away from the city.) 
+[EXT. COPELAND RESIDENCE (STOCK) - NIGHT]
+" />
+<meta property="og:title" content="06x04 - Shooting Stars - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="FADE IN.
+[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) -- NIGHT] 
+(Camera pulls out and away from the city.) 
+[EXT. COPELAND RESIDENCE (STOCK) - NIGHT]
+" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13313" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>06x04 - Shooting Stars - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13313" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13313">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=89895dd46ce2cd4ead7cb0040d7a981e"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=89895dd46ce2cd4ead7cb0040d7a981e">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=89895dd46ce2cd4ead7cb0040d7a981e">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=89895dd46ce2cd4ead7cb0040d7a981e">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=89895dd46ce2cd4ead7cb0040d7a981e">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13313&amp;sid=89895dd46ce2cd4ead7cb0040d7a981e&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>06x04 - Shooting Stars</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127407">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127407">06x04 - Shooting Stars</a></div>
+							<div class="pull-right text-right"><time datetime="2005-10-27T11:56:18Z">10/27/05 11:56</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>FADE IN.</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) -- NIGHT] </p>
+<p>(Camera pulls out and away from the city.) </p>
+<p>[EXT. COPELAND RESIDENCE (STOCK) - NIGHT]</p>
+<p>(A dog barks. The house is dark; the lights are off. The dog continues to bark and growl viciously at something.) </p>
+<p>[INT. RESIDENCE - BEDROOM - NIGHT]</p>
+<p>(Mr and Mrs. Copeland are sleeping in bed. They get up.) </p>
+<p><strong>Mr. Copeland</strong>: Tucker's barking.</p>
+<p><strong>Mrs. Copeland</strong>: Probably another coyote.</p>
+<p>(Suddenly, they hear something clanging from downstairs. Mr. Copeland looks at the open bedroom door. The sounds continue.) </p>
+<p>(He opens the nightstand drawer and takes out a gun.) </p>
+<p><strong>Mrs. Copeland</strong>: What are you doing?</p>
+<p>(He snaps the cartridge in the gun, loading it.) </p>
+<p><strong>Mr. Copeland</strong>: Call the police.</p>
+<p>(He walks over to the door and looks out. He turns back.)</p>
+<p><strong>Mr. Copeland</strong>: (whispers) Do it!</p>
+<p><strong>Mrs. Copeland</strong>: (whispers) Okay!</p>
+<p>(She picks up the phone and makes the call.) </p>
+<p>(He heads downstairs. In the background, we hear the dog's low growl, then a whimper.) </p>
+<p>(He reaches the bottom of the stairs and finds someone in the kitchen taking food from the refrigerator. His arms are full of food and he's stuffing whatever he can in his mouth.) </p>
+<p><strong>Mr. Copeland</strong>: Freeze! I said freeze!</p>
+<p>(The intruder drops the food and runs out of the house. He runs outside.)</p>
+<p><strong>Mr. Copeland</strong>: I'm not afraid to use this.</p>
+<p>(The man chases him out of the house. He stops running when he finds a large group of people in his yard. He's stunned for a moment. They all are.)</p>
+<p><strong>Mr. Copeland</strong>: Nobody move.</p>
+<p>(Suddenly, the group runs.)</p>
+<p>(The man starts to chase them, then trips over a dead body.) </p>
+<p><strong>Mr. Copeland</strong>: Oh, my God.</p>
+<p>SHORT TIME CUT TO: </p>
+<p>[EXT. COPELAND RESIDENCE - BACK YARD -- NIGHT] </p>
+<p>(Catherine snaps photos of the dead man. David Phillips takes the liver temperature.) </p>
+<p><strong>David Phillips</strong>: No wallet, no ID. (The thermometer beeps.) 80.6 degrees. He's been dead around twelve hours.</p>
+<p><strong>Catherine</strong>: Broken nose, broken cheekbone. Somebody worked him over pretty good. There's a piece of his shirt that's missing. That doesn't look like a tear from a struggle. It looks like it got snagged on something.</p>
+<p>(She looks around and snaps photos of the shoe prints in the dirt near the fence.) </p>
+<p><strong>Catherine</strong>: There's heavy foot traffic but no blood. It's got to be a body dump.</p>
+<p><strong>David Phillips</strong>: Could be.</p>
+<p><strong>Catherine</strong>: But why here?</p>
+<p>(Brass walks over to Catherine. She notices the sheet over a second body nearer the house.) </p>
+<p><strong>Catherine</strong>: Dispatch didn't say anything about another body.</p>
+<p><strong>Brass</strong>: It's Tucker, their dog. He was found dead with his tongue hanging out. I guess they must've slipped it something.</p>
+<p><strong>Catherine</strong>: I'll get its blood to tox.</p>
+<p><strong>Brass</strong>: The homeowner said that nothing was missing in the house but food.</p>
+<p><strong>Catherine</strong>: They get a look at the intruders?</p>
+<p><strong>Brass</strong>: Yeah, the husband says they were dirty, you know, like filthy, like they hadn't showered in months. Didn't know if there were five or fifty of them. Where is he?</p>
+<p>(Catherine motions with her head.) </p>
+<p>(Grissom is standing outside the light and looking up at the sky at the meteor shower overhead.) </p>
+<p>(Brass walks up to him.) </p>
+<p><strong>Grissom</strong>: The Orionid meteor shower. You never get a view like this in town.</p>
+<p><strong>Brass</strong>: Hmm. So, uh, is this part of the investigation?</p>
+<p><strong>Grissom</strong>: No. But we're here, and it's beautiful.</p>
+<p>(Grissom turns on his flashlight and points it on the ground in front of him.) </p>
+<p><strong>Grissom</strong>: Footprints going in both directions. They came and they went.</p>
+<p><strong>Brass</strong>: So dump the body, raid the refrigerator.</p>
+<p><strong>Grissom</strong>: Maybe they had an appetite for murder.</p>
+<p>(Grissom and Brass both turn and look up at the sky.) </p>
+<p>SMASH CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. COMMUNITY (STOCK) - DAY]</p>
+<p>[INT. COPELAND RESIDENCE -- DAY] </p>
+<p>(Brass checks the back sliding door and sees that the screen is ripped. He uses a pen and pushes the sliding door open. He steps into the house.) </p>
+<p><strong>Brass</strong>: Well, it's no secret how they got in.</p>
+<p>(Sara is in the kitchen dusting the refrigerator for fingerprints. Brass sees the food on the floor.) </p>
+<p><strong>Brass</strong>: Whoa. Looks like somebody had a super bowl party in here.</p>
+<p><strong>Sara</strong>: They had some kind of party. Suspect made a mess. Seems like they were looking for junk food.</p>
+<p>(Brass puts on a pair of gloves. See sees the fingerprints on the refrigerator door.) </p>
+<p><strong>Sara</strong>: Somebody had sticky fingers.</p>
+<p>[EXT. COPELAND RESIDENCE - DAY]</p>
+<p>(Catherine jumps over the fence and joins Grissom on the other side. He's staring out at the desert.) </p>
+<p><strong>Catherine</strong>: It's a big desert.</p>
+<p><strong>Grissom</strong>: About 25,000 square miles.</p>
+<p><strong>Catherine</strong>: And the nearest town is Pahrump. That's about 30 miles from here.</p>
+<p>(Grissom shows her his canteen.) </p>
+<p><strong>Grissom</strong>: But I got water. We can share.</p>
+<p>(He heads out.) </p>
+<p><strong>Catherine</strong>: Who are you today, Moses?</p>
+<p>(Catherine takes out her phone and dials.) </p>
+<p><strong>Catherine</strong>: (to phone) Yeah, Jim, uh ... (chuckles) Grissom and I are going to take a little walk.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(Nick walks in. They go over Robbins' findings.) </p>
+<p><strong>Nick</strong>: Hey, Doc.</p>
+<p><strong>Robbins</strong>: Hi, there, Nick. I've lost count as to how many broken bones this guy has. Multiple fractures to the spine, ribs, pelvis, skull. Multiple lacerations and contusions. No vital response to the injuries.</p>
+<p><strong>Nick</strong>: Perimortem.</p>
+<p><strong>Robbins</strong>: Yep.</p>
+<p><strong>Nick</strong>: He was dumped in a backyard by a whole bunch of other people. Do you think they could've beat him to death?</p>
+<p><strong>Robbins</strong>: Nick, it took a lot of people to do this.</p>
+<p>CUT TO:<br />
+[EXT. COPELAND RESIDENCE -- DAY] </p>
+<p>(Warrick snaps photos of the shoe prints on the dirt. He makes a plaster cast of the prints.) </p>
+<p>(When the casts dry, he removes them and lines them up.) </p>
+<p><strong>Warrick</strong>: Dirty dozen.</p>
+<p>CUT TO:<br />
+[EXT. DESERT -- DAY] </p>
+<p>(Grissom and Catherine are out walking in the desert following the tracks as it leads them farther and farther away from the house.) </p>
+<p><strong>Grissom</strong>: I count five distinct treads: boots, shoes, sneakers. Drag marks are always right in the middle -- thin, parallel lines.</p>
+<p><strong>Catherine</strong>: The vic's shoes were scuffed at the toes, so he must've been dragged. </p>
+<p>(Quick flash of: The victim's feet drag on the ground as people half carry, half drag him. End of flash.) </p>
+<p>(Catherine finds a candy wrapper caught on a branch.) </p>
+<p><strong>Catherine</strong>: Well, whoever they are, they like junk food.</p>
+<p><strong>Grissom</strong>: Who doesn't?</p>
+<p>(They continue walking.) </p>
+<p><strong>Grissom</strong>: You ever seen the Pyramids?</p>
+<p><strong>Catherine</strong>: Does the Luxor count? Eh, what do you think? I haven't even been to New York.</p>
+<p><strong>Grissom</strong>: I'd like to see the Pyramids one day.</p>
+<p><strong>Catherine</strong>: Keep walking, we could come upon them today.</p>
+<p>(Grissom smiles.) </p>
+<p><strong>Catherine</strong>: So you like archeology, huh?</p>
+<p><strong>Grissom</strong>: Oh, yeah. Whenever I want to feel small.</p>
+<p>(In the distance, they see a column of black smoke rising in the air.)</p>
+<p><strong>Grissom</strong>: Smoke?</p>
+<p>DISSOLVE TO: </p>
+<p>(Catherine and Grissom walk up to the burnt car. Catherine snaps some photos.) </p>
+<p><strong>Catherine</strong>: I found the point of ignition.</p>
+<p>(She snaps a couple of photos.) </p>
+<p><strong>Catherine</strong>: Molotov.</p>
+<p>(Quick flash of: Someone lights the fuse and leaves. The car explodes. End of flash.) </p>
+<p>(Grissom is looking at the back of the car, when he stops and stands up.) </p>
+<p><strong>Grissom</strong>: You hear that?</p>
+<p>(He turns and looks around.) </p>
+<p><strong>Catherine</strong>: Sounds like a motor.</p>
+<p>(Nearby is a compound.) </p>
+<p><strong>Catherine</strong>: Think someone's in there?</p>
+<p>(They head for the compound.) </p>
+<p>(As they approach the compound, Grissom sees the generator running on the side of the wall.) </p>
+<p><strong>Grissom</strong>: This looks like some sort of observation post. Maybe used to monitor nuclear tests.</p>
+<p>(They head for the entrance.) </p>
+<p><strong>Catherine</strong>: Half of Nevada was a weapon site.</p>
+<p>(Grissom starts walking down the entryway stairs.) </p>
+<p><strong>Catherine</strong>: Stop. You're not going any further without backup.</p>
+<p>(Catherine's phone rings. She answers it.) </p>
+<p><strong>Brass</strong>: (from phone) Catherine, where the hell are you guys?</p>
+<p><strong>Catherine</strong>: (looking around) That's a good question, Jim. I think we're about three miles northeast of the Copeland house, in front of some kind of military installation.</p>
+<p>(Static crackles over the phone.) </p>
+<p><strong>Brass</strong>: (from phone) Hello, Catherine.</p>
+<p><strong>Catherine</strong>: Jim, can you hear me? </p>
+<p><strong>Brass</strong>: (from phone) I'm losing ... </p>
+<p><strong>Catherine</strong>: you're breaking up. Jim?</p>
+<p>(She hangs up.) </p>
+<p><strong>Catherine</strong>: Lost him.</p>
+<p><strong>Grissom</strong>: Well, we got two choices: Go back ... or go forward.</p>
+<p>(Catherine takes her gun out. Grissom turns and heads inside the compound.) </p>
+<p>[INT. COMPOUND - DAY - CONTINUOUS]</p>
+<p>(Grissom opens the door and looks inside.) </p>
+<p><strong>Catherine</strong>: I don't hear anything but the generator.</p>
+<p>(Grissom and Catherine both turn their flashlights on. She nods to Grissom.) </p>
+<p><strong>Catherine</strong>: After you.</p>
+<p>(Grissom steps inside. High above them is a large ceiling fan. Down below are several floors.) </p>
+<p><strong>Grissom</strong>: (shouts) Las Vegas Crime Lab! </p>
+<p><strong>Catherine</strong>: (shouts) Anyone here?</p>
+<p>(They walk deeper into the compound. The hallway wall is covered with graffiti.) </p>
+<p>(At the end of the hallway, they reach a large room lined on either side with wire cots. There's a dead person on each cot.)</p>
+<p>(Grissom and Catherine walk into the room.) </p>
+<p>(Grissom knocks over an empty water bottle.) </p>
+<p><strong>Grissom</strong>: I count eleven.</p>
+<p><strong>Catherine</strong>: Me, too. They're so young.</p>
+<p>(The bed on the end is empty.) </p>
+<p><strong>Grissom</strong>: And number twelve is missing. Maybe that was the guy we found in the yard.</p>
+<p>(Behind them, a loud clanging sounds. Catherine whirls around, her gun raised.) </p>
+<p><strong>Catherine</strong>: (shouts) Who's there?!</p>
+<p>(There's no answer. Grissom and Catherine head back toward the doorway) </p>
+<p><strong>Catherine</strong>: (shouts) Las Vegas Crime Lab! Identify yourself!</p>
+<p>(Suddenly, two officers appear in the doorway.) </p>
+<p><strong>Officer</strong>: Don't shoot, don't shoot. LVPD. Captain Brass radioed us. Said you might be in here and need assistance. </p>
+<p>(Grissom turns around and looks at the dead bodies in the room.) </p>
+<p><strong>Grissom</strong>: Well, unfortunately, we're not the ones who need the help.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. BUNKER -- DAY] </p>
+<p>(Greg looks into the burned car's broken window. He can barely make out a VIN number. He walks to the other side of the car and looks at the burned glove compartment. He snaps a photo of it. He takes out what looks like a burned piece of an ID card.) </p>
+<p>(An SUV drive up. Nick gets out of the car.) </p>
+<p><strong>Nick</strong>: Hey!</p>
+<p>(Nick waves to Greg, who waves back. Nick heads over to Robbins, who stands near the compound entrance.) </p>
+<p><strong>Robbins</strong>: Hey, Nick.</p>
+<p><strong>Nick</strong>: How many we looking at Doc?</p>
+<p><strong>Robbins</strong>: Eleven total. And it's hot. You got to move.</p>
+<p><strong>Nick</strong>: Okay.</p>
+<p>(Nick heads for the compound, then stops when he realizes that it goes underground. He overhears two officers talking to each other.) </p>
+<p><strong>Man</strong>: Yeah, eighty feet underground, no A/C. Thought I was going to suffocate.</p>
+<p><strong>Man 2</strong>: I can't even get down there. Claustrophobic.</p>
+<p><strong>Man</strong>: Yeah. Uh, listen, preliminary sketch here ... </p>
+<p>(Nick glances back at them. He looks at the compound and forces himself to continue.) </p>
+<p>(He pauses at the door and takes several deep breaths. He heads inside.) </p>
+<p>[INT. COMPOUND - DAY -- CONTINUOUS] </p>
+<p>(Nick walks down the stairs. He passes an officer on his way out. The officer points down below.) </p>
+<p><strong>Officer</strong>: Just keep on going.</p>
+<p>(Nick reaches the corridor. He passes the coroners wheeling out a gurney with a body bag. Nick continues down the corridor.) </p>
+<p>[INT. SLEEPING CHAMBERS - COMPOUND - DAY - CONTINUOUS]</p>
+<p>(Various photo flashes of: The empty water bottle, the victim's ankle, the victim's face.)</p>
+<p>(Catherine continues snapping photos. Nick arrives and walks up to Catherine.) </p>
+<p><strong>Nick</strong>: Oh, man. What is this place, a mini Jonestown?</p>
+<p><strong>Catherine</strong>: I don't know if they drank spiked Kool-Aid, but they drank something. Smells like alcohol.</p>
+<p><strong>Nick</strong>: I'll process the bottles.</p>
+<p>(Nick heads for the end of the row of beds.) </p>
+<p>(On the empty bed is an empty water bottle and funnel. Catherine takes a picture of it.) </p>
+<p>(Nick picks up the funnel and looks at it.)</p>
+<p>(Camera zooms in and notes the residual on the outside of the funnel.)</p>
+<p>(Grissom looks around the compound and comes across a large room. On one of the walls, he finds various article clippings posted - of aliens, Stonehenge, the Pyramids, astrology and other things. On the opposite wall near a single bed, he finds a mural of people ascending into a spaceship through a white beam of light.)</p>
+<p>(Next to the bed is a nightstand filled with bottles and things. Just behind the bed is a large metal sphere with a ring around it. Grissom walks up to the planet and turns it on. The light from inside the metal planet shines through the holes in the surface, casting different sized spots of light on the ceiling and walls as it turns.) </p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY - DAY]</p>
+<p>(Robbins has two bodies out on the table. Camera moves through the first autopsy room and into the hallway where we see that the other bodies are pushed up against both walls.) </p>
+<p>(Camera continues through the hallway into a second room where Warrick and Sara are documenting the physical evidence gathered from the bodies. Warrick takes a photo and matches it against one of the victim's shoes while Sara is taking photos.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(On the table in front of them, Warrick has the shoe prints and the casts from the Copeland house matched.) </p>
+<p><strong>Warrick</strong>: Well, I've matched the shoes from all the bodies in the bunker to the impressions that we found at the scene.</p>
+<p><strong>Sara</strong>: You got one extra.</p>
+<p><strong>Warrick</strong>: It's a size eight athletic shoe. I can't account for it. It doesn't belong to the guy who was dumped there, and I've already ruled out Mr. and Mrs. Copeland.</p>
+<p><strong>Sara</strong>: So one of the people that dragged that body through the desert did not die in the bunker.</p>
+<p>CUT TO:<br />
+[INT. BUNKER - CIRCULAR ROOM -- DAY] </p>
+<p>(Grissom snaps photos of the mural on the wall while Catherine is processing the bed. After snapping several photos, Grissom pauses.) </p>
+<p><strong>Grissom</strong>: The mythology here appears to be similar to the Heaven's Gate Cult in California several years ago. They committed mass suicide to shed their earthly bodies and hitch a ride on a spaceship hidden in the tail of the Hale-Bopp comet.</p>
+<p><strong>Catherine</strong>: Well, these earthly bodies got a good workout first. Big room, big bed, light show. This cult was about getting laid.</p>
+<p><strong>Grissom</strong>: Well, Jim Jones and Charles Manson used s*x to manipulate their followers. I'm guessing they were timing their ascension to the Orionid meteor shower last night?</p>
+<p><strong>Catherine</strong>: So while you were watching shooting stars, they were dying.</p>
+<p><strong>Grissom</strong>: There's twelve bunks in there, one bed in here. There should be thirteen bodies. One prophet, twelve apostles.</p>
+<p><strong>Catherine</strong>: And two people are missing.</p>
+<p><strong>Grissom</strong>: Maybe they caught the spaceship.</p>
+<p><strong>Catherine</strong>: Well ... would you settle for a flying saucer?</p>
+<p>(Catherine finds a metal bowl with burned pieces of paper inside. Grissom snaps photos of the bowl and contents.) </p>
+<p>CUT TO:<br />
+[INT. BUNKER - CORRIDOR -- DAY] </p>
+<p>(Nick is headed out carrying several evidence bags when something on the floor catches his eyes. He shines his flashlight on what appears to be smudges of blood on the metal floor.) </p>
+<p>(He looks at the blood on the floor and takes a couple of steps back, but the blood smudges stop. He then looks up at the walkways above.)</p>
+<p>(He sees some cloth caught on one of the metal walkways.)</p>
+<p>(Quick flash of: A body falls from above and hits the metal walkway, causing a tear in the clothes. End of flash. Resume to present.) </p>
+<p>CUT TO:<br />
+[INT. CSI - GARAGE -- DAY] </p>
+<p>(Greg smashes through the windshielf and removes the VIN plate off the front dashboard. He works on it and gets the VIN: YZ1AX8848E194189.) </p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -- DAY] </p>
+<p>(Greg reports his findings to Sara.) </p>
+<p><strong>Greg</strong>: VIN plate on the burned-out car came back to a Vivian Bentley. She died two years ago at the ripe old age of 90. Car was never re-registered.</p>
+<p><strong>Sara</strong>: Dead end.</p>
+<p><strong>Greg</strong>: Not exactly. I also found a melted name tag with a sunburst logo. Figured I'd let my fingers do the walking.</p>
+<p><strong>Sara</strong>: You scanned the yellow pages.</p>
+<p><strong>Greg</strong>: I knew the first three letters. By the way, do you know how many companies in Las Vegas start with S-U-N?</p>
+<p><strong>Sara</strong>: I so don't care.</p>
+<p><strong>Greg</strong>: Well, only one has the sunburst logo: Sunview Travel Agency. Vivian's grandson, Ty Bentley, works there. I pulled his DMV photo.</p>
+<p>(He shows her the copy of the NEVADA DRIVER LICENSE. It reads:<br />
+IC# 1800592214<br />
+EXPIRES: 02-17-2006<br />
+ISSN: ??03-45-734<br />
+CLASS: C<br />
+ENDORSE<br />
+RESTRICTIONS<br />
+BIRTHDATE: ??-17-1975<br />
+s*x: M<br />
+HEIGHT: 5'7&quot;<br />
+WEIGHT: 165<br />
+EYES: BRN<br />
+HAIR: BRN<br />
+BENTLEY, TY<br />
+7748 CANYON AVENUE.<br />
+LAS VEGAS, NV 89101 )</p>
+<p><strong>Sara</strong>: That's the guy that was dumped at the house.</p>
+<p><strong>Greg</strong>: Brass is going to check it out. How are we doing on the other IDs?</p>
+<p><strong>Sara</strong>: Including the one that you just made, we got one.</p>
+<p>(She hands the file folder to Greg and walks out of camera frame.) </p>
+<p>CUT TO:<br />
+[INT. SUNVIEW TRAVEL AGENCY - LOBBY -- DAY] </p>
+<p>(Brass is talking with the travel manager.) </p>
+<p><strong>Travel Manager</strong>: Ty hasn't been here for the last two days. Didn't even call in. This is his desk. It's really not like him. Is he okay?</p>
+<p><strong>Brass</strong>: Does Ty work here full time?</p>
+<p><strong>Travel Manager</strong>: Yeah. Puts in more hours than anybody.</p>
+<p><strong>Brass</strong>: Was he a member of any religious organizations that you know of?</p>
+<p><strong>Travel Manager</strong>: I don't know. It never really came up. Something happened to him, didn't it?</p>
+<p><strong>Brass</strong>: Yeah. So the last time you saw him was two days ago?</p>
+<p>(Brass finds a photo of Ty Bentley with a young woman.) </p>
+<p><strong>Travel Manager</strong>: He's worked here over a year, never raised his voice. Then this strange-looking customer came in. Ty must've known him ...</p>
+<p>(Quick flashback of: Ty stands and yells at an older man.) </p>
+<p><strong>Ty Bentley</strong>: I want to talk to Emma, you freak!</p>
+<p><strong>Joseph Diamond</strong>: She's moving on, boy.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Brass</strong>: Would that customer's information still be in the computer?</p>
+<p><strong>Travel Manager</strong>: Nobody's touched it since. Should be the last entry.</p>
+<p>(She sits at the desk and uses the computer. Brass shows her the photo.) </p>
+<p><strong>Brass</strong>: Do you know the person in this photo?</p>
+<p><strong>Travel Manager</strong>: That's Emma, Ty's girlfriend. Well, ex-girlfriend. They broke up last year. Here we go. Last customer was a Joseph Diamond. Booking a trip to Australia-Sydney-one way.</p>
+<p><strong>Brass</strong>: One way.</p>
+<p>CUT TO:<br />
+[INT. CSI - PRINT LAB -- DAY] </p>
+<p>(The print search runs on the database. The computer beeps showing a &quot;POSITIVE MATCH&quot;. Sara walks in. Mandy Websterk reports.) </p>
+<p><strong>Sara</strong>: Any good news, Mandy?</p>
+<p><strong>Mandy</strong>: A little bit. A male DB, at the bunker--matched your partial from the kitchen door. So far, he's the only one with a record.</p>
+<p>(The following record appears on screen:<br />
+FILE PRINT A<br />
+LAS VEGAS POLICE<br />
+NAME: MATTHEW DICKENS<br />
+AGE: 19 HEIGHT: 5'8&quot;<br />
+WEIGHT: 130 LBS EYES: BLUE<br />
+RACE: CAUCASIAN s*x: MALE<br />
+HAIR: BROWN DOB: MAR 1, 1986<br />
+LAST KNOWN ADDRESS:<br />
+WESTERN LAS VEGAS UNIVERSITY<br />
+SUNSET HALL, 574 CANYON GROVE<br />
+LAS VEGAS, NY 89107<br />
+STATUTE: HRS 205 0528<br />
+ARREST: MISDEMEANOR PETTY THEFT<br />
+DISPOSITION: ONE YEAR PROBATION (2002)<br />
+STATUTE: HRS 205 0528<br />
+ARREST: MISDEMEANOR PETTY THEFT<br />
+DISPOSITION: ONE YEAR PROBATION (2004) </p>
+<p><strong>Mandy</strong>: Matthew Dickens, 19. Busts for petty theft.</p>
+<p><strong>Sara</strong>: College student.</p>
+<p><strong>Mandy</strong>: Yeah, very impressionable. When I start my religion that's where I'm going to recruit.</p>
+<p>CUT TO:<br />
+[EXT. WESTERN LAS VEGAS UNIVERSITY (STOCK) - DAY]</p>
+<p><strong>Man (Ryan?)</strong>: (V.O.) I remember him. Matt Dickens. We used to call him Hollywood.</p>
+<p>[EXT. WESTERN LAS VEGAS UNIVERSITY - CAMPUS -- DAY] </p>
+<p>(Sofia Curtis talks with two students. Dexter is playing a hand-held game. He's wearing earplugs.) </p>
+<p><strong>Ryan</strong>: He was in our, uh, our freshman dorm. He was a ... </p>
+<p><strong>Dexter</strong>: ... religious studies major.</p>
+<p><strong>Ryan</strong>: Right. Hard core trekkie, too.</p>
+<p><strong>Dexter</strong>: Mars bars.</p>
+<p><strong>Ryan</strong>: Right. That dude loved junk food. He smoked a ton of weed.</p>
+<p><strong>Dexter</strong>: Guy was a loser.</p>
+<p>(Sofia grabs the game from Dexter. He pulls the earplugs out from his ears.) </p>
+<p><strong>Sofia Curtis</strong>: What do you mean? </p>
+<p><strong>Dexter</strong>: His parents sent him loads of cash. He spent it all on dope, and then he stole stuff to get more dope.</p>
+<p><strong>Sofia Curtis</strong>: According to the registrar, he was taking classes till the end of term last fall. Why did he leave?</p>
+<p><strong>Dexter</strong>: He started hanging out with some other losers, and they convinced him to drop out.</p>
+<p><strong>Ryan</strong>: Yeah, there was a redhead. She was hot, but in a ... in a weird kind of way.</p>
+<p><strong>Dexter</strong>: Hollywood was a moron. One week, the guy's saving the whales, and the next week, he's American Taliban.</p>
+<p><strong>Ryan</strong>: Yeah. He was totally into that girl.</p>
+<p><strong>Sofia Curtis</strong>: She have a name?</p>
+<p><strong>Dexter</strong>: Emma.</p>
+<p>(She shows them a morgue photo of Emma.) </p>
+<p><strong>Sofia Curtis</strong>: Was this her?</p>
+<p>(Ryan looks at the photo and points.) </p>
+<p><strong>Ryan</strong>: Is she dead?</p>
+<p><strong>Sofia Curtis</strong>: They're all dead.</p>
+<p><strong>Ryan</strong>: Emma was working Hollywood with some old guy named Diamond.</p>
+<p><strong>Sofia Curtis</strong>: Working him?</p>
+<p><strong>Dexter</strong>: Yeah, they were running some kind of religious scam. E-Emma tried to recruit me ... with her hands down my pants.</p>
+<p><strong>Ryan</strong>: She did that to me, too.</p>
+<p><strong>Dexter</strong>: No kidding?</p>
+<p><strong>Ryan</strong>: Yeah.</p>
+<p><strong>Dexter</strong>: (sighs) Anyway, uh, the second she started talking about outer space and transcendence, I blew her off, 'cause I do not waste time on crazy chicks.</p>
+<p><strong>Ryan</strong>: She was really hot, though.</p>
+<p><strong>Dexter</strong>: That was almost a year ago. Then the last time I saw Hollywood, he was with some other freak. A notch down, though. Abbey ... I think her name was. They said they were going to some better place.</p>
+<p><strong>Ryan</strong>: I thought they meant UCLA.</p>
+<p>(The two boys look at each other and chuckle. They quickly stop when they look at Sofia.) </p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. BUNKER -- DAY] </p>
+<p>(Catherine is on the phone. She's walking quickly out of the bunker.) </p>
+<p><strong>Catherine</strong>: (to phone) Nick, I got a real low signal; you're cutting in and out. Say that again.</p>
+<p>INTERCUT WITH: </p>
+<p>[INT. CSI - HALLWAY - DAY] </p>
+<p>(Nick is walking past reception.) </p>
+<p><strong>Nick</strong>: (to phone) I said all the prints on the bottles belong to the victims. The prints on the funnel came back unknown though.</p>
+<p><strong>Catherine</strong>: And what about the blood in the elevator shaft?</p>
+<p><strong>Nick</strong>: It matched to Ty Bentley, but we can't confirm he was murdered. For all we know, he fell down that shaft.</p>
+<p><strong>Catherine</strong>: No, that's unlikely, after all they torched his car, dragged his body three miles and dumped it in the Copelands' backyard. Anything on the liquid in the bottles?</p>
+<p><strong>Nick</strong>: Yeah, tox results just came back: 40 grams percent ethanol. Now, that's about 80 proof. Kind of smelled like vodka, the cheap stuff.</p>
+<p><strong>Catherine</strong>: Nobody dies from a martini.</p>
+<p><strong>Nick</strong>: No, but you add ten grams percent of ketamine and they do.</p>
+<p><strong>Catherine</strong>: Well, that's enough to kill a horse.</p>
+<p>(Nick walks into the break room and gets himself a cup of coffee.) </p>
+<p><strong>Nick</strong>: Yeah, or the Copelands' dog for that matter. Ketamine's a disassociative anesthetic, which means they were hallucinating, having out-of-body experiences ... </p>
+<p><strong>Catherine</strong>: So I was wrong; they did take a trip.</p>
+<p><strong>Nick</strong>: Well, there are a lot of different ways they could have killed themselves, so I'm guessing that was the point. </p>
+<p><strong>Catherine</strong>: Ten grams percent of ketamine times 12 bottles, that's 300 milliliters of ketamine? Can't score that on the street.</p>
+<p>(Nick picks up his cup of coffee and walks across the break room.) </p>
+<p><strong>Nick</strong>: Well, we didn't find any ephedrine, which is generally used to cut ketamine. Veterinarians use liquid injectable ketamine as an animal sedative, so Sofia's checking with the local vets now.</p>
+<p>(Grissom walks up to Catherine.) </p>
+<p><strong>Catherine</strong>: What did autopsy say time of death was?</p>
+<p><strong>Grissom</strong>: 3:15 A.M.?</p>
+<p><strong>Nick</strong>: Between 3:00 and 3:30.</p>
+<p><strong>Catherine</strong>: (to Grissom) How did you know that?</p>
+<p><strong>Grissom</strong>: That's when the Orionid meteor shower passed over Vegas. Ask him if they all died about the same time.</p>
+<p><strong>Catherine</strong>: Nick, was TOD same for everyone?</p>
+<p><strong>Nick</strong>: Approximately. It varied with body weight. Took between 12 and 20 minutes for them to die.</p>
+<p>(Quick flash of: Someone drinks from the bottle of water. He falls back on the bed and groans in pain with everyone else. End of flash. Resume to present.) </p>
+<p><strong>Nick</strong>: Ketamine's really hard on the stomach; it induces vomiting.</p>
+<p>(Quick flash of: Someone throws up. End of flash.) </p>
+<p><strong>Nick</strong>: I think a combination of alcohol and the drug just slowed their lungs.</p>
+<p>(Quick flash of: Someone falls back on the bed. Camera zooms in for a close-up. The person's eyes open wide.)</p>
+<p>(Quick CGI POV of: The camera zooms in to the person and shows their lungs stop working. End of CGI POV. Resume to present.) </p>
+<p><strong>Nick</strong>: (from phone) Ultimately, they died of respiratory arrest.</p>
+<p>(In the distance, Catherine sees buzzards flying overhead.) </p>
+<p><strong>Catherine</strong>: Okay, thanks, Nicki. Got to go.</p>
+<p>(She hangs up.) </p>
+<p><strong>Catherine</strong>: (to Grissom) Did you notice those buzzards earlier?</p>
+<p><strong>Grissom</strong>: No. But something sure smells good to them.</p>
+<p>(They both head off toward the buzzards.)</p>
+<p>CUT TO:<br />
+[INT. EXAM ROOM -- DAY] </p>
+<p>(Warrick is having his throat checked.) </p>
+<p><strong>Tina Brown</strong>: Say &quot;ah.&quot;</p>
+<p><strong>Warrick</strong>: Ah.</p>
+<p><strong>Tina Brown</strong>: Ahh ...</p>
+<p><strong>Warrick</strong>: Ahh ...</p>
+<p><strong>Tina Brown</strong>: Sore throat, you say? Okay, I don't see any inflammation. Take off your shirt, please.</p>
+<p>(Warrick starts to unbutton his shirt. He looks at his wife.) </p>
+<p><strong>Warrick</strong>: Can't we just make out?</p>
+<p><strong>Tina Brown</strong>: I'm working, Mr. Brown.</p>
+<p><strong>Warrick</strong>: I don't care, Mrs. Brown.</p>
+<p>(He pulls her toward him and they kiss.) </p>
+<p><strong>Tina Brown</strong>: There's nothing wrong with you. You're just working too hard.</p>
+<p><strong>Warrick</strong>: What time you get off shift?</p>
+<p><strong>Tina Brown</strong>: Midnight. You?</p>
+<p><strong>Warrick</strong>: Who knows?</p>
+<p><strong>Tina Brown</strong>: I got to get back to work.</p>
+<p>(They step out into the hallway and start to kiss.)</p>
+<p><strong>Woman</strong>: (over loudspeaker) Dr. Curry, please check with the message center. Dr. Curry, please check with the message center.</p>
+<p>(He looks up and sees a man talking with a woman at the end of the hallway. The man looks back at Warrick. Tina glances back at the man. She looks at Warrick.) </p>
+<p><strong>Tina Brown</strong>: Don't even say it, Warrick.</p>
+<p><strong>Warrick</strong>: I didn't say anything. You got to admit, though, working around the ex is a little strange. </p>
+<p><strong>Tina Brown</strong>: It was a long time ago.</p>
+<p><strong>Warrick</strong>: It was a year ago.</p>
+<p><strong>Tina Brown</strong>: You have to trust me.</p>
+<p><strong>Warrick</strong>: I do trust you.</p>
+<p><strong>Tina Brown</strong>: Look, there's still so much that we don't know about each other yet. Okay?</p>
+<p>(Warrick nods.) </p>
+<p><strong>Tina Brown</strong>: But we've got the rest of our lives to figure it out.</p>
+<p>(They kiss. Tina leaves. Warrick watches her go.) </p>
+<p>CUT TO:<br />
+[EXT. DESERT -- DAY] </p>
+<p>(Grissom and Catherine find a car under a makeshift roof.) </p>
+<p><strong>Grissom</strong>: Are you having the same mirage I'm having?</p>
+<p><strong>Catherine</strong>: A silver Beemer in the middle of the damn desert? Yeah. Nice wheels. Somebody sure went out of their way to hide this car.</p>
+<p><strong>Grissom</strong>: Well, you can sure smell what the buzzards are after.</p>
+<p><strong>Catherine</strong>: Decomp.</p>
+<p>(They pop the trunk and find the dead body inside.) </p>
+<p><strong>Catherine</strong>: Fits the description of the leader, Joseph Diamond. Guess he never made it to Australia.</p>
+<p><strong>Grissom</strong>: Something tells me this wasn't a suicide. Like this tire iron-- convenient weapon of choice.</p>
+<p><strong>Catherine</strong>: Well, assuming this is Diamond and Ty Bentley was a spurned lover and not a member of the cult ... we're still short one body.</p>
+<p><strong>Grissom</strong>: Which I believe makes that body our number one suspect.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - EVENING]</p>
+<p>[INT. CSI - LAB -- NIGHT] </p>
+<p>(Warrick is in the lab pulling out the partially burned pieces of paper. He groups the pieces together.) </p>
+<p>(Various dissolves of Warrick working.)</p>
+<p>(As he finishes the papers, he places a piece of glass over it. He puts the glass and paper into the machine. He passes it under different colored lights to see the writing on it.) </p>
+<p>(The first burned letter is from &quot;Mom&quot;.) </p>
+<p>(Cut to: Warrick scans the letter into the copier.) </p>
+<p>(Cut to: Warrick pins copies of the different letters up on the wall. He looks at the letters.) </p>
+<p><strong>Voice (woman)</strong>: (V.O.) &quot;Thank you for writing. Your father and I miss you so much.&quot;</p>
+<p><strong>Voice (man)</strong>: (V.O.) &quot;Money's kind of tight, I hope this helps. Send more when I can.&quot;</p>
+<p><strong>Voice (woman 2)</strong>: (V.O.) &quot;Mom and Dad went to the police to report you missing. Please come home, even if it's just a visit.&quot;</p>
+<p><strong>Voice (man 2)</strong>: (V.O.) &quot;I don't understand what you're doing with your life.<br />
+Your roommate says you left your things behind.&quot;</p>
+<p><strong>Voice (man 3)</strong>: (V.O.) &quot;I wish you could tell me why you need this money.&quot;</p>
+<p><strong>Voice (man 4)</strong>: (V.O.) &quot;Mom says you joined a commune. She's mad. Hey, Dad sent the money. When you talk to Mom ...&quot;</p>
+<p><strong>Voice (woman 3)</strong>: (V.O.) &quot;No more money until I hear from you. I love you.&quot;</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY -- NIGHT] </p>
+<p>(Brass and Sara walk through the hallway.) </p>
+<p><strong>Brass</strong>: The FBI keeps tabs on high-risk groups, cults, religious fanatics. They were good enough to fax this over. Makes good reading.</p>
+<p>(He hands her the report. They walk into his office.) </p>
+<p><strong>Sara</strong>: &quot;Joseph Diamond, AKA Sirus Bent, AKA Kelvin Adams ...&quot;</p>
+<p>(Brass and Sara sit down.) </p>
+<p><strong>Brass</strong>: Yeah, he founded a group called &quot;Soul Survivors&quot; in Tulsa in the mid-<br />
+90s. A few years later, same thing in Guadalajara, Mexico.</p>
+<p><strong>Sara</strong>: &quot;Recruited susceptible youths, keeping them isolated for nine months to a year.&quot;</p>
+<p><strong>Brass</strong>: Yeah, prior to the arrival of the mother ship, which they can only enter in spirit form, leaving their temporal vehicles, their bodies, behind.</p>
+<p><strong>Sara</strong>: Mass suicide.</p>
+<p><strong>Brass</strong>: Attempted mass suicide. They woke up -- probably with a hangover -- and both Diamond and their money were gone. And in both cases, his disappearance coincided with a meteor shower just like the one last night.</p>
+<p><strong>Sara</strong>: Only last night everybody died.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- NIGHT] </p>
+<p>(Robbins goes over the body with Grissom.) </p>
+<p><strong>Robbins</strong>: Depressed fracture.</p>
+<p><strong>Grissom</strong>: Well, we found a tire iron at the scene.</p>
+<p><strong>Robbins</strong>: That would do it.</p>
+<p><strong>Grissom</strong>: What about TOD?</p>
+<p><strong>Robbins</strong>: Well, it's hard to say. Desert heat, locked in a trunk ... both can make liver temp actually rise.</p>
+<p><strong>Grissom</strong>: What about relative to the other bodies? Did he die before or after the others?</p>
+<p><strong>Robbins</strong>: Given the degree of decomp, it appears that he died before the others. I can run some chemical tests, but that's going to take some time.</p>
+<p>(David walks up to the body and lifts the shirt.) </p>
+<p><strong>David Phillips</strong>: What's this?</p>
+<p>(He finds a belt wrapped around the body's waist. He unzips the belt and takes out folded bills.) </p>
+<p><strong>David Phillips</strong>: Hmm, looks like a money belt.</p>
+<p>(Warrick walks in as David hands some money to Robbins.) </p>
+<p><strong>Robbins</strong>: Gives new meaning to &quot;strapped for cash.&quot;</p>
+<p><strong>Warrick</strong>: Diamond was running a cash business. He had all those kids write home and ask for money. His return address was a P.O. Box that I found.</p>
+<p>(Grissom reaches into the money bag and takes out a plastic bag of pills.) </p>
+<p><strong>Robbins</strong>: I didn't find any undigested pills in the victims' stomachs.</p>
+<p><strong>Warrick</strong>: We assumed that they were ingesting a liquid ketamine.</p>
+<p><strong>Grissom</strong>: So what are these?</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB - NIGHT]</p>
+<p>(Henry Andrews reports to Grissom.) </p>
+<p><strong>Henry Andrews</strong>: Zolpidem. Popped one when I went to Europe. Six hours sleep, no hangover.</p>
+<p><strong>Grissom</strong>: Are there enough pills in that bag to kill 11 people?</p>
+<p><strong>Henry Andrews</strong>: Well, if only one person downed all these, yes, it'd be lethal. But divvied up, no way. Zolpidem's a pretty safe sedative.</p>
+<p><strong>Grissom</strong>: And from what we know, Diamond was a con man, not a murderer.</p>
+<p>(Greg walks in.) </p>
+<p><strong>Greg</strong>: Hey, I lifted a partial off that tire iron. Matched it to a print that Nick lifted off the funnel from the bunker. Whoever whacked Diamond mixed the ketamine cocktail.</p>
+<p><strong>Grissom</strong>: So who brought the ketamine to the party?</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. VETERINARIAN'S OFFICE -- DAY] </p>
+<p>(Sofia and Nick walk into the vet.) </p>
+<p><strong>Sofia Curtis</strong>: They had a break-in the day before yesterday.</p>
+<p><strong>Nick</strong>: Has it been forensicated?</p>
+<p><strong>Sofia Curtis</strong>: Not yet. Not much stolen, so ...</p>
+<p><strong>Nick</strong>: It's a low priority for CSI.</p>
+<p><strong>Sofia Curtis</strong>: Expensive equipment, pharmaceuticals -- doctor even had his laptop open on the desk. They obviously knew what they wanted.</p>
+<p><strong>Nick</strong>: Hmm, and where to look for it. Drugs have been alphabetized.</p>
+<p>Missing drug was between ivermectin otic suspension and methocarbamol.</p>
+<p><strong>Nick</strong>: &quot;K&quot; for ketamine.</p>
+<p><strong>Sofia Curtis</strong>: Yeah. They took it all.</p>
+<p><strong>Nick</strong>: Okay, well, it's probably an inside job. Just get me a list of current and former employees, and we'll ... go from there. Thanks.</p>
+<p>(She hands him the list.)</p>
+<p>CONFIDENTIAL EMPLOYEE LIST</p>
+<p>AARON CAPOLA<br />
+1153 STONE CREEK<br />
+LAS VEGAS, NV 89101<br />
+(702) 555-0198</p>
+<p>CARLISLE DEAMS<br />
+170 STORM CLOUD LN.<br />
+SUMMERLIN, NV 89129<br />
+(702) 555-0187</p>
+<p>JANET FROMMER<br />
+17611 COLLIE LANE ... )</p>
+<p><strong>Nick</strong>: Wow, it's alphabetized. (She puts on her gloves.) Now what are you doing?</p>
+<p><strong>Sofia Curtis</strong>: You'll be dusting for prints. I'll help.</p>
+<p><strong>Nick</strong>: Okay.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. CSI - MORGUE / HALLWAY -- NIGHT] </p>
+<p>(Warrick slides the table out to allow Mr. and Mrs. Meyers a chance to identify the body of the young woman on it.) </p>
+<p><strong>Mr. Meyers</strong>: That's Emma. That's our daughter.</p>
+<p>(They cry.) </p>
+<p>CUT TO:<br />
+(Warrick leads the Meyers out into the hallway with the other family members. Mrs. Meyers turns and stops Warrick.) </p>
+<p><strong>Mrs. Meyers</strong>: Excuse me, sir. Mrs. Spencer isn't here. Her daughter went to college with Emma. They disappeared at the same time. Uh, we both received letters from them last month.</p>
+<p><strong>Warrick</strong>: Spencer, you said?</p>
+<p><strong>Mrs. Meyers</strong>: Her daughter's name was Abigail.</p>
+<p><strong>Warrick</strong>: Well, ma'am, you see, the letters that we recovered were damaged. Not all of them yielded a name.</p>
+<p><strong>Mrs. Meyers</strong>: Well, perhaps she was luckier than me.</p>
+<p>(They turn to leave; Warrick stops them.) </p>
+<p><strong>Warrick</strong>: Ma'am ... would you be able to identify Abigail?</p>
+<p><strong>Mrs. Meyers</strong>: (nods) Absolutely. </p>
+<p>CUT TO:<br />
+[INT. CSI - PRINT LAB - NIGHT]</p>
+<p>(Nick is in front of the computer running the prints through the database. Warrick walks in just as the computer beeps to show a &quot;MATCH FOUND&quot;.) </p>
+<p><strong>Warrick</strong>: Nick, you have that employee list from the vet's office?</p>
+<p>(Nick hands the folder to Warrick.) </p>
+<p><strong>Nick</strong>: The prints found at the clinic break-in are a perfect match to the ones lifted off of the tire iron and the funnel.</p>
+<p>(Warrick looks at the employee list:</p>
+<p>EARL MICHAELS<br />
+50 VIKING CIRCLE<br />
+LAS VEGAS, NV 89101<br />
+(702) 555-0117</p>
+<p>ABIGAIL SPENCER<br />
+217 WOLF COURT<br />
+LAS VEGAS, NV 89101<br />
+(702) 555-0145 )</p>
+<p><strong>Warrick</strong>: Abigail Spencer. She was a cult member. She used to work for your vet until last year, and she's missing.</p>
+<p><strong>Nick</strong>: Her W-2's in the file.</p>
+<p><strong>Warrick</strong>: I'll call Brass.</p>
+<p>(Warrick leaves.) </p>
+<p>CUT TO:<br />
+[EXT. SPENCER RESIDENCE - FRONT PORCH - NIGHT] </p>
+<p>(Brass and Warrick knock on the front door. Mrs. Spencer opens the door.) </p>
+<p><strong>Brass</strong>: Mrs. Spencer?</p>
+<p><strong>Mrs. Spencer</strong>: Yeah?</p>
+<p><strong>Brass</strong>: I'm Detective Jim Brass, Las Vegas police. Do you have a daughter named Abigail?</p>
+<p><strong>Mrs. Spencer</strong>: Yes. Why?</p>
+<p><strong>Brass</strong>: We have a warrant to search these premises.</p>
+<p><strong>Mrs. Spencer</strong>: A warrant? What for?</p>
+<p><strong>Brass</strong>: Your daughter is wanted for questioning in the murder of Joseph Diamond.</p>
+<p>(He shows her the warrant and steps past her into the house.) </p>
+<p><strong>Mrs. Spencer</strong>: I haven't seen Abigail in almost a year. I have no idea where she is.</p>
+<p>(Brass heads for the bedrooms and finds an unmade bed. He touches the sheets.) </p>
+<p><strong>Brass</strong>: The bed's still warm. Where is she?</p>
+<p>CUT TO:<br />
+[EXT. ALLEYWAY - NIGHT]</p>
+<p>(Abigail Spencer is running down the alleyway.) </p>
+<p>[INT. SHED - NIGHT - CONTINUOUS]</p>
+<p>(Abigail steps into a shed and hides in a corner. She uncaps several bottles and drinks it. She chokes a little, then uncaps a large bottle of vodka and drinks that.) </p>
+<p>(She closes her eyes and looks up.) </p>
+<p><strong>Abigail Spencer</strong>: (softly) Please. Take me with you.</p>
+<p>(The shed starts to rumble and the tools hanging on the wall fall off. The shed continues to rumble. A bright light shines outside.) </p>
+<p>(Abigail gets to her feet and walks to the center of the shed. The bright light shines down on Abigail.)</p>
+<p>(Above, we hear the sounds of helicopter blades whirring.) </p>
+<p>(Abigail spreads her arms out to receive the light.)</p>
+<p>(Just then, the shed door opens and Brass walks in. Abigail looks stunned. A voice from the helicopter speaker filters through the blades whirring.) </p>
+<p><strong>Voice (man)</strong>: (over helicopter speaker) Freeze! Remain where you are.</p>
+<p>(Abigail closes her eyes and falls to the floor.)</p>
+<p>FADE OUT.</p>
+<p>FADE IN.</p>
+<p>[INT. HOSPITAL - ROOM - DAY]</p>
+<p>(Abigail opens her eyes and finds Grissom sitting next to her hospital bed.) </p>
+<p><strong>Grissom</strong>: Abigail?</p>
+<p><strong>Abigail Spencer</strong>: You pumped my stomach?</p>
+<p><strong>Grissom</strong>: Yeah. Just in time.</p>
+<p>(She turns her back to Grissom.) </p>
+<p><strong>Grissom</strong>: Are you disappointed?</p>
+<p><strong>Abigail Spencer</strong>: They're all up there right now. In rapture. A higher plane of existence. No wars, poverty, politics. Our bodies are just shells. They're worthless.</p>
+<p><strong>Grissom</strong>: Well, how come you didn't die with your friends? And why exactly did you kill Mr. Diamond? </p>
+<p><strong>Abigail Spencer</strong>: He was the most beautiful person I ever met.</p>
+<p>(Quick flashback to: Joseph Diamond speaks to a group of kids as they sit on the ground listening to him.) </p>
+<p>(Cut to: Joseph Diamond grunts and rolls off Abigail Spencer in bed. She stares up at the moving lights across the dark ceiling.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Grissom</strong>: We found your fingerprint on a tire iron that was used to split his head open.</p>
+<p><strong>Abigail Spencer</strong>: He always said we'd be tested.</p>
+<p>(Quick flashback to: Joseph Diamond opens the car trunk as Abigail walks up to him.) </p>
+<p><strong>Abigail Spencer</strong>: (V.O.) I was taking a walk when I spotted a car parking about a mile away from the compound.</p>
+<p>(She surprises him.) </p>
+<p><strong>Abigail Spencer</strong>: Whose car is this? Where have you been?</p>
+<p><strong>Joseph Diamond</strong>: I received a message last night from the Orionid. I have to move on, spread the word.</p>
+<p><strong>Abigail Spencer</strong>: What about us?</p>
+<p><strong>Joseph Diamond</strong>: Come with me, Abbey. We'll do it together ... somewhere near a beach.</p>
+<p><strong>Abigail Spencer</strong>: We're ascending tomorrow night to the mother ship.</p>
+<p><strong>Joseph Diamond</strong>: You're a smart girl.</p>
+<p>(He takes out a small plastic bag with the pills inside and gives it to Abbey.) </p>
+<p><strong>Joseph Diamond</strong>: Just two or three of these, and everyone will get a real good night's sleep. Time to get out of town. Everyone's parents have been really good to me.</p>
+<p>(He turns his back to her and continues to put his things in the trunk of the car.) </p>
+<p><strong>Joseph Diamond</strong>: I got forty grand. </p>
+<p>(Abigail picks up the tire iron and hits him over the head with it.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Abigail Spencer</strong>: I knew the others would be looking to me now.</p>
+<p><strong>Grissom</strong>: But you didn't tell them, did you?</p>
+<p><strong>Abigail Spencer</strong>: We were on a schedule.</p>
+<p><strong>Grissom</strong>: And fortunately, you knew where to find something a little stronger than zolpidem?</p>
+<p><strong>Abigail Spencer</strong>: It was important that no one suffered.</p>
+<p><strong>Grissom</strong>: Ty Bentley suffered.</p>
+<p><strong>Abigail Spencer</strong>: That was unfortunate.</p>
+<p>(Quick flashback to: Abigail sees Ty Bentley arrive with his own car. She sees him running toward them.) </p>
+<p><strong>Abigail Spencer</strong>: (V.O.) Ty must've followed Diamond back to our compound. I'm sure he was looking for his ex-girlfriend, Emma.</p>
+<p>(Cut to: In the bunker, Ty pulls Emma toward the door.) </p>
+<p><strong>Ty Bentley</strong>: These people are freaks, Emma! You're coming with me!</p>
+<p><strong>Emma Meyers</strong>: This is my family now.</p>
+<p><strong>Ty Bentley</strong>: Fine. I'm coming back, and I'm bringing the cops with me.</p>
+<p>(Ty Bentley leaves. On the way out, Abigail walks in. She grabs him and pushes him over the railing. He falls down the shaft, hitting one of the metal railings on the way down.)</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Abigail Spencer</strong>: Emma lost it, said we couldn't leave his body there. The others started to get restless.</p>
+<p><strong>Grissom</strong>: And as you said, you were on a schedule. The peak of the meteor shower was 3:00 A.M.</p>
+<p><strong>Abigail Spencer</strong>: (nods) We agreed to dump the body where it would be found ... given a decent burial.</p>
+<p><strong>Grissom</strong>: And then you went back to the compound ... and you used the funnel to distribute the ketamine and vodka.</p>
+<p>(Quick flashback to: The funnel is placed on a water bottle. The ketamine bottles are opened and poured into the funnel. End of flashback.) </p>
+<p><strong>Abigail Spencer</strong>: I had to be the last to drink.</p>
+<p><strong>Grissom</strong>: Did you watch them all die? What was it like?</p>
+<p>(Quick flashback to: The kids drink the bottle and start coughing and throwing up. They groan and cry out in pain. On the last bunker, Abigail stares at her water bottle. She doesn't drink. One by one, they gasp for breath and die on their beds. She recaps the bottle.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Abigail Spencer</strong>: They just died.</p>
+<p><strong>Grissom</strong>: And you went home to your mother.</p>
+<p><strong>Abigail Spencer</strong>: I know they're all up there ... happy ... healthy ... perfect. You don't believe we're one in the universe?</p>
+<p><strong>Grissom</strong>: Abigail ... I'm sure if there is something out there looking down on us from somewhere else in the universe, they're wise enough to stay away from us.</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
- 
-
- 
-
- 
-Mr. Copeland: Tucker's barking.
-Mrs. Copeland: Probably another coyote.
- 
- 
-Mrs. Copeland: What are you doing?
- 
-Mr. Copeland: Call the police.
-
-Mr. Copeland:  Do it!
-Mrs. Copeland:  Okay!
- 
- 
- 
-Mr. Copeland: Freeze! I said freeze!
-
-Mr. Copeland: I'm not afraid to use this.
-
-Mr. Copeland: Nobody move.
-
- 
-Mr. Copeland: Oh, my God.
-
- 
- 
-David Phillips: No wallet, no ID.  80.6 degrees. He's been dead around twelve hours.
-Catherine: Broken nose, broken cheekbone. Somebody worked him over pretty good. There's a piece of his shirt that's missing. That doesn't look like a tear from a struggle. It looks like it got snagged on something.
- 
-Catherine: There's heavy foot traffic but no blood. It's got to be a body dump.
-David Phillips: Could be.
-Catherine: But why here?
- 
-Catherine: Dispatch didn't say anything about another body.
-Brass: It's Tucker, their dog. He was found dead with his tongue hanging out. I guess they must've slipped it something.
-Catherine: I'll get its blood to tox.
-Brass: The homeowner said that nothing was missing in the house but food.
-Catherine: They get a look at the intruders?
-Brass: Yeah, the husband says they were dirty, you know, like filthy, like they hadn't showered in months. Didn't know if there were five or fifty of them. Where is he?
- 
- 
- 
-Grissom: The Orionid meteor shower. You never get a view like this in town.
-Brass: Hmm. So, uh, is this part of the investigation?
-Grissom: No. But we're here, and it's beautiful.
- 
-Grissom: Footprints going in both directions. They came and they went.
-Brass: So dump the body, raid the refrigerator.
-Grissom: Maybe they had an appetite for murder.
- 
-SMASH CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
- 
- 
-Brass: Well, it's no secret how they got in.
- 
-Brass: Whoa. Looks like somebody had a super bowl party in here.
-Sara: They had some kind of party. Suspect made a mess. Seems like they were looking for junk food.
- 
-Sara: Somebody had sticky fingers.
-
- 
-Catherine: It's a big desert.
-Grissom: About 25,000 square miles.
-Catherine: And the nearest town is Pahrump. That's about 30 miles from here.
- 
-Grissom: But I got water. We can share.
- 
-Catherine: Who are you today, Moses?
- 
-Catherine:  Grissom and I are going to take a little walk.
-
- 
- 
-Nick: Hey, Doc.
-Robbins: Hi, there, Nick. I've lost count as to how many broken bones this guy has. Multiple fractures to the spine, ribs, pelvis, skull. Multiple lacerations and contusions. No vital response to the injuries.
-Nick: Perimortem.
-Robbins: Yep.
-Nick: He was dumped in a backyard by a whole bunch of other people. Do you think they could've beat him to death?
-Robbins: Nick, it took a lot of people to do this.
-
- 
- 
- 
-Warrick: Dirty dozen.
-
- 
- 
-Grissom: I count five distinct treads: boots, shoes, sneakers. Drag marks are always right in the middle -- thin, parallel lines.
-Catherine: The vic's shoes were scuffed at the toes, so he must've been dragged. 
- 
- 
-Catherine: Well, whoever they are, they like junk food.
-Grissom: Who doesn't?
- 
-Grissom: You ever seen the Pyramids?
-Catherine: Does the Luxor count? Eh, what do you think? I haven't even been to New York.
-Grissom: I'd like to see the Pyramids one day.
-Catherine: Keep walking, we could come upon them today.
- 
-Catherine: So you like archeology, huh?
-Grissom: Oh, yeah. Whenever I want to feel small.
-
-Grissom: Smoke?
-DISSOLVE TO: 
- 
-Catherine: I found the point of ignition.
- 
-Catherine: Molotov.
- 
- 
-Grissom: You hear that?
- 
-Catherine: Sounds like a motor.
- 
-Catherine: Think someone's in there?
- 
- 
-Grissom: This looks like some sort of observation post. Maybe used to monitor nuclear tests.
- 
-Catherine: Half of Nevada was a weapon site.
- 
-Catherine: Stop. You're not going any further without backup.
- 
-Brass:  Catherine, where the hell are you guys?
-Catherine:  That's a good question, Jim. I think we're about three miles northeast of the Copeland house, in front of some kind of military installation.
- 
-Brass:  Hello, Catherine.
-Catherine: Jim, can you hear me? 
-Brass:  I'm losing ... 
-Catherine: you're breaking up. Jim?
- 
-Catherine: Lost him.
-Grissom: Well, we got two choices: Go back ... or go forward.
- 
-
- 
-Catherine: I don't hear anything but the generator.
- 
-Catherine: After you.
- 
-Grissom:  Las Vegas Crime Lab! 
-Catherine:  Anyone here?
- 
-
- 
- 
-Grissom: I count eleven.
-Catherine: Me, too. They're so young.
- 
-Grissom: And number twelve is missing. Maybe that was the guy we found in the yard.
- 
-Catherine:  Who's there?!
- 
-Catherine:  Las Vegas Crime Lab! Identify yourself!
- 
-Officer: Don't shoot, don't shoot. LVPD. Captain Brass radioed us. Said you might be in here and need assistance. 
- 
-Grissom: Well, unfortunately, we're not the ones who need the help.
-
-
-
-
- 
- 
- 
-Nick: Hey!
- 
-Robbins: Hey, Nick.
-Nick: How many we looking at Doc?
-Robbins: Eleven total. And it's hot. You got to move.
-Nick: Okay.
- 
-Man: Yeah, eighty feet underground, no A/C. Thought I was going to suffocate.
-Man 2: I can't even get down there. Claustrophobic.
-Man: Yeah. Uh, listen, preliminary sketch here ... 
- 
- 
- 
- 
-Officer: Just keep on going.
- 
-
-
- 
-Nick: Oh, man. What is this place, a mini Jonestown?
-Catherine: I don't know if they drank spiked Kool-Aid, but they drank something. Smells like alcohol.
-Nick: I'll process the bottles.
- 
- 
-
-
-
- 
-
-
- 
- 
-
- 
- 
-Warrick: Well, I've matched the shoes from all the bodies in the bunker to the impressions that we found at the scene.
-Sara: You got one extra.
-Warrick: It's a size eight athletic shoe. I can't account for it. It doesn't belong to the guy who was dumped there, and I've already ruled out Mr. and Mrs. Copeland.
-Sara: So one of the people that dragged that body through the desert did not die in the bunker.
-
- 
- 
-Grissom: The mythology here appears to be similar to the Heaven's Gate Cult in California several years ago. They committed mass suicide to shed their earthly bodies and hitch a ride on a spaceship hidden in the tail of the Hale-Bopp comet.
-Catherine: Well, these earthly bodies got a good workout first. Big room, big bed, light show. This cult was about getting laid.
-Grissom: Well, Jim Jones and Charles Manson used s*x to manipulate their followers. I'm guessing they were timing their ascension to the Orionid meteor shower last night?
-Catherine: So while you were watching shooting stars, they were dying.
-Grissom: There's twelve bunks in there, one bed in here. There should be thirteen bodies. One prophet, twelve apostles.
-Catherine: And two people are missing.
-Grissom: Maybe they caught the spaceship.
-Catherine: Well ... would you settle for a flying saucer?
- 
-
- 
- 
-
-
- 
-
- 
- 
-
- 
- 
-Greg: VIN plate on the burned-out car came back to a Vivian Bentley. She died two years ago at the ripe old age of 90. Car was never re-registered.
-Sara: Dead end.
-Greg: Not exactly. I also found a melted name tag with a sunburst logo. Figured I'd let my fingers do the walking.
-Sara: You scanned the yellow pages.
-Greg: I knew the first three letters. By the way, do you know how many companies in Las Vegas start with S-U-N?
-Sara: I so don't care.
-Greg: Well, only one has the sunburst logo: Sunview Travel Agency. Vivian's grandson, Ty Bentley, works there. I pulled his DMV photo.
-(He shows her the copy of the NEVADA DRIVER LICENSE. It reads:
-IC# 1800592214
-EXPIRES: 02-17-2006
-ISSN: ??03-45-734
-CLASS: C
-ENDORSE
-RESTRICTIONS
-BIRTHDATE: ??-17-1975
-s*x: M
-HEIGHT: 5'7&quot;
-WEIGHT: 165
-EYES: BRN
-HAIR: BRN
-BENTLEY, TY
-7748 CANYON AVENUE.
-LAS VEGAS, NV 89101 )
-Sara: That's the guy that was dumped at the house.
-Greg: Brass is going to check it out. How are we doing on the other IDs?
-Sara: Including the one that you just made, we got one.
- 
-
- 
- 
-Travel Manager: Ty hasn't been here for the last two days. Didn't even call in. This is his desk. It's really not like him. Is he okay?
-Brass: Does Ty work here full time?
-Travel Manager: Yeah. Puts in more hours than anybody.
-Brass: Was he a member of any religious organizations that you know of?
-Travel Manager: I don't know. It never really came up. Something happened to him, didn't it?
-Brass: Yeah. So the last time you saw him was two days ago?
- 
-Travel Manager: He's worked here over a year, never raised his voice. Then this strange-looking customer came in. Ty must've known him ...
- 
-Ty Bentley: I want to talk to Emma, you freak!
-Joseph Diamond: She's moving on, boy.
- 
-Brass: Would that customer's information still be in the computer?
-Travel Manager: Nobody's touched it since. Should be the last entry.
- 
-Brass: Do you know the person in this photo?
-Travel Manager: That's Emma, Ty's girlfriend. Well, ex-girlfriend. They broke up last year. Here we go. Last customer was a Joseph Diamond. Booking a trip to Australia-Sydney-one way.
-Brass: One way.
-
- 
- 
-Sara: Any good news, Mandy?
-Mandy: A little bit. A male DB, at the bunker--matched your partial from the kitchen door. So far, he's the only one with a record.
-(The following record appears on screen:
-FILE PRINT A
-LAS VEGAS POLICE
-NAME: MATTHEW DICKENS
-AGE: 19 HEIGHT: 5'8&quot;
-WEIGHT: 130 LBS EYES: BLUE
-RACE: CAUCASIAN s*x: MALE
-HAIR: BROWN DOB: MAR 1, 1986
-LAST KNOWN ADDRESS:
-WESTERN LAS VEGAS UNIVERSITY
-SUNSET HALL, 574 CANYON GROVE
-LAS VEGAS, NY 89107
-STATUTE: HRS 205 0528
-ARREST: MISDEMEANOR PETTY THEFT
-DISPOSITION: ONE YEAR PROBATION 
-STATUTE: HRS 205 0528
-ARREST: MISDEMEANOR PETTY THEFT
-DISPOSITION: ONE YEAR PROBATION  
-Mandy: Matthew Dickens, 19. Busts for petty theft.
-Sara: College student.
-Mandy: Yeah, very impressionable. When I start my religion that's where I'm going to recruit.
-
-
-Man :  I remember him. Matt Dickens. We used to call him Hollywood.
- 
- 
-Ryan: He was in our, uh, our freshman dorm. He was a ... 
-Dexter: ... religious studies major.
-Ryan: Right. Hard core trekkie, too.
-Dexter: Mars bars.
-Ryan: Right. That dude loved junk food. He smoked a ton of weed.
-Dexter: Guy was a loser.
- 
-Sofia Curtis: What do you mean? 
-Dexter: His parents sent him loads of cash. He spent it all on dope, and then he stole stuff to get more dope.
-Sofia Curtis: According to the registrar, he was taking classes till the end of term last fall. Why did he leave?
-Dexter: He started hanging out with some other losers, and they convinced him to drop out.
-Ryan: Yeah, there was a redhead. She was hot, but in a ... in a weird kind of way.
-Dexter: Hollywood was a moron. One week, the guy's saving the whales, and the next week, he's American Taliban.
-Ryan: Yeah. He was totally into that girl.
-Sofia Curtis: She have a name?
-Dexter: Emma.
- 
-Sofia Curtis: Was this her?
- 
-Ryan: Is she dead?
-Sofia Curtis: They're all dead.
-Ryan: Emma was working Hollywood with some old guy named Diamond.
-Sofia Curtis: Working him?
-Dexter: Yeah, they were running some kind of religious scam. E-Emma tried to recruit me ... with her hands down my pants.
-Ryan: She did that to me, too.
-Dexter: No kidding?
-Ryan: Yeah.
-Dexter:  Anyway, uh, the second she started talking about outer space and transcendence, I blew her off, 'cause I do not waste time on crazy chicks.
-Ryan: She was really hot, though.
-Dexter: That was almost a year ago. Then the last time I saw Hollywood, he was with some other freak. A notch down, though. Abbey ... I think her name was. They said they were going to some better place.
-Ryan: I thought they meant UCLA.
- 
-
-
-
-;
-
-
-
- 
- 
-Catherine:  Nick, I got a real low signal; you're cutting in and out. Say that again.
-
- 
- 
-Nick:  I said all the prints on the bottles belong to the victims. The prints on the funnel came back unknown though.
-Catherine: And what about the blood in the elevator shaft?
-Nick: It matched to Ty Bentley, but we can't confirm he was murdered. For all we know, he fell down that shaft.
-Catherine: No, that's unlikely, after all they torched his car, dragged his body three miles and dumped it in the Copelands' backyard. Anything on the liquid in the bottles?
-Nick: Yeah, tox results just came back: 40 grams percent ethanol. Now, that's about 80 proof. Kind of smelled like vodka, the cheap stuff.
-Catherine: Nobody dies from a martini.
-Nick: No, but you add ten grams percent of ketamine and they do.
-Catherine: Well, that's enough to kill a horse.
- 
-Nick: Yeah, or the Copelands' dog for that matter. Ketamine's a disassociative anesthetic, which means they were hallucinating, having out-of-body experiences ... 
-Catherine: So I was wrong; they did take a trip.
-Nick: Well, there are a lot of different ways they could have killed themselves, so I'm guessing that was the point. 
-Catherine: Ten grams percent of ketamine times 12 bottles, that's 300 milliliters of ketamine? Can't score that on the street.
- 
-Nick: Well, we didn't find any ephedrine, which is generally used to cut ketamine. Veterinarians use liquid injectable ketamine as an animal sedative, so Sofia's checking with the local vets now.
- 
-Catherine: What did autopsy say time of death was?
-Grissom: 3:15 A.M.?
-Nick: Between 3:00 and 3:30.
-Catherine:  How did you know that?
-Grissom: That's when the Orionid meteor shower passed over Vegas. Ask him if they all died about the same time.
-Catherine: Nick, was TOD same for everyone?
-Nick: Approximately. It varied with body weight. Took between 12 and 20 minutes for them to die.
- 
-Nick: Ketamine's really hard on the stomach; it induces vomiting.
- 
-Nick: I think a combination of alcohol and the drug just slowed their lungs.
-
- 
-Nick:  Ultimately, they died of respiratory arrest.
- 
-Catherine: Okay, thanks, Nicki. Got to go.
- 
-Catherine:  Did you notice those buzzards earlier?
-Grissom: No. But something sure smells good to them.
-
-
- 
- 
-Tina Brown: Say &quot;ah.&quot;
-Warrick: Ah.
-Tina Brown: Ahh ...
-Warrick: Ahh ...
-Tina Brown: Sore throat, you say? Okay, I don't see any inflammation. Take off your shirt, please.
- 
-Warrick: Can't we just make out?
-Tina Brown: I'm working, Mr. Brown.
-Warrick: I don't care, Mrs. Brown.
- 
-Tina Brown: There's nothing wrong with you. You're just working too hard.
-Warrick: What time you get off shift?
-Tina Brown: Midnight. You?
-Warrick: Who knows?
-Tina Brown: I got to get back to work.
-
-Woman:  Dr. Curry, please check with the message center. Dr. Curry, please check with the message center.
- 
-Tina Brown: Don't even say it, Warrick.
-Warrick: I didn't say anything. You got to admit, though, working around the ex is a little strange. 
-Tina Brown: It was a long time ago.
-Warrick: It was a year ago.
-Tina Brown: You have to trust me.
-Warrick: I do trust you.
-Tina Brown: Look, there's still so much that we don't know about each other yet. Okay?
- 
-Tina Brown: But we've got the rest of our lives to figure it out.
- 
-
- 
- 
-Grissom: Are you having the same mirage I'm having?
-Catherine: A silver Beemer in the middle of the damn desert? Yeah. Nice wheels. Somebody sure went out of their way to hide this car.
-Grissom: Well, you can sure smell what the buzzards are after.
-Catherine: Decomp.
- 
-Catherine: Fits the description of the leader, Joseph Diamond. Guess he never made it to Australia.
-Grissom: Something tells me this wasn't a suicide. Like this tire iron-- convenient weapon of choice.
-Catherine: Well, assuming this is Diamond and Ty Bentley was a spurned lover and not a member of the cult ... we're still short one body.
-Grissom: Which I believe makes that body our number one suspect.
-
-
- 
- 
-
- 
- 
- 
- 
-Voice :  &quot;Thank you for writing. Your father and I miss you so much.&quot;
-Voice :  &quot;Money's kind of tight, I hope this helps. Send more when I can.&quot;
-Voice :  &quot;Mom and Dad went to the police to report you missing. Please come home, even if it's just a visit.&quot;
-Voice :  &quot;I don't understand what you're doing with your life.
-Your roommate says you left your things behind.&quot;
-Voice :  &quot;I wish you could tell me why you need this money.&quot;
-Voice :  &quot;Mom says you joined a commune. She's mad. Hey, Dad sent the money. When you talk to Mom ...&quot;
-Voice :  &quot;No more money until I hear from you. I love you.&quot;
-
- 
- 
-Brass: The FBI keeps tabs on high-risk groups, cults, religious fanatics. They were good enough to fax this over. Makes good reading.
- 
-Sara: &quot;Joseph Diamond, AKA Sirus Bent, AKA Kelvin Adams ...&quot;
- 
-Brass: Yeah, he founded a group called &quot;Soul Survivors&quot; in Tulsa in the mid-
-90s. A few years later, same thing in Guadalajara, Mexico.
-Sara: &quot;Recruited susceptible youths, keeping them isolated for nine months to a year.&quot;
-Brass: Yeah, prior to the arrival of the mother ship, which they can only enter in spirit form, leaving their temporal vehicles, their bodies, behind.
-Sara: Mass suicide.
-Brass: Attempted mass suicide. They woke up -- probably with a hangover -- and both Diamond and their money were gone. And in both cases, his disappearance coincided with a meteor shower just like the one last night.
-Sara: Only last night everybody died.
-
- 
- 
-Robbins: Depressed fracture.
-Grissom: Well, we found a tire iron at the scene.
-Robbins: That would do it.
-Grissom: What about TOD?
-Robbins: Well, it's hard to say. Desert heat, locked in a trunk ... both can make liver temp actually rise.
-Grissom: What about relative to the other bodies? Did he die before or after the others?
-Robbins: Given the degree of decomp, it appears that he died before the others. I can run some chemical tests, but that's going to take some time.
- 
-David Phillips: What's this?
- 
-David Phillips: Hmm, looks like a money belt.
- 
-Robbins: Gives new meaning to &quot;strapped for cash.&quot;
-Warrick: Diamond was running a cash business. He had all those kids write home and ask for money. His return address was a P.O. Box that I found.
- 
-Robbins: I didn't find any undigested pills in the victims' stomachs.
-Warrick: We assumed that they were ingesting a liquid ketamine.
-Grissom: So what are these?
-
-
- 
-Henry Andrews: Zolpidem. Popped one when I went to Europe. Six hours sleep, no hangover.
-Grissom: Are there enough pills in that bag to kill 11 people?
-Henry Andrews: Well, if only one person downed all these, yes, it'd be lethal. But divvied up, no way. Zolpidem's a pretty safe sedative.
-Grissom: And from what we know, Diamond was a con man, not a murderer.
- 
-Greg: Hey, I lifted a partial off that tire iron. Matched it to a print that Nick lifted off the funnel from the bunker. Whoever whacked Diamond mixed the ketamine cocktail.
-Grissom: So who brought the ketamine to the party?
-
-
-
-
-
- 
- 
-Sofia Curtis: They had a break-in the day before yesterday.
-Nick: Has it been forensicated?
-Sofia Curtis: Not yet. Not much stolen, so ...
-Nick: It's a low priority for CSI.
-Sofia Curtis: Expensive equipment, pharmaceuticals -- doctor even had his laptop open on the desk. They obviously knew what they wanted.
-Nick: Hmm, and where to look for it. Drugs have been alphabetized.
-Missing drug was between ivermectin otic suspension and methocarbamol.
-Nick: &quot;K&quot; for ketamine.
-Sofia Curtis: Yeah. They took it all.
-Nick: Okay, well, it's probably an inside job. Just get me a list of current and former employees, and we'll ... go from there. Thanks.
-
-CONFIDENTIAL EMPLOYEE LIST
-AARON CAPOLA
-1153 STONE CREEK
-LAS VEGAS, NV 89101
- 555-0198
-CARLISLE DEAMS
-170 STORM CLOUD LN.
-SUMMERLIN, NV 89129
- 555-0187
-JANET FROMMER
-17611 COLLIE LANE ... )
-Nick: Wow, it's alphabetized.  Now what are you doing?
-Sofia Curtis: You'll be dusting for prints. I'll help.
-Nick: Okay.
-
-
- 
- 
-Mr. Meyers: That's Emma. That's our daughter.
- 
-
- 
-Mrs. Meyers: Excuse me, sir. Mrs. Spencer isn't here. Her daughter went to college with Emma. They disappeared at the same time. Uh, we both received letters from them last month.
-Warrick: Spencer, you said?
-Mrs. Meyers: Her daughter's name was Abigail.
-Warrick: Well, ma'am, you see, the letters that we recovered were damaged. Not all of them yielded a name.
-Mrs. Meyers: Well, perhaps she was luckier than me.
- 
-Warrick: Ma'am ... would you be able to identify Abigail?
-Mrs. Meyers:  Absolutely. 
-
-
- 
-Warrick: Nick, you have that employee list from the vet's office?
- 
-Nick: The prints found at the clinic break-in are a perfect match to the ones lifted off of the tire iron and the funnel.
-(Warrick looks at the employee list:
-EARL MICHAELS
-50 VIKING CIRCLE
-LAS VEGAS, NV 89101
- 555-0117
-ABIGAIL SPENCER
-217 WOLF COURT
-LAS VEGAS, NV 89101
-
-Warrick: Abigail Spencer. She was a cult member. She used to work for your vet until last year, and she's missing.
-Nick: Her W-2's in the file.
-Warrick: I'll call Brass.
- 
-
- 
- 
-Brass: Mrs. Spencer?
-Mrs. Spencer: Yeah?
-Brass: I'm Detective Jim Brass, Las Vegas police. Do you have a daughter named Abigail?
-Mrs. Spencer: Yes. Why?
-Brass: We have a warrant to search these premises.
-Mrs. Spencer: A warrant? What for?
-Brass: Your daughter is wanted for questioning in the murder of Joseph Diamond.
- 
-Mrs. Spencer: I haven't seen Abigail in almost a year. I have no idea where she is.
- 
-Brass: The bed's still warm. Where is she?
-
-
- 
-
- 
- 
-Abigail Spencer:  Please. Take me with you.
- 
-
- 
-
- 
-Voice :  Freeze! Remain where you are.
-
-
-
-
- 
-Grissom: Abigail?
-Abigail Spencer: You pumped my stomach?
-Grissom: Yeah. Just in time.
- 
-Grissom: Are you disappointed?
-Abigail Spencer: They're all up there right now. In rapture. A higher plane of existence. No wars, poverty, politics. Our bodies are just shells. They're worthless.
-Grissom: Well, how come you didn't die with your friends? And why exactly did you kill Mr. Diamond? 
-Abigail Spencer: He was the most beautiful person I ever met.
- 
- 
- 
-Grissom: We found your fingerprint on a tire iron that was used to split his head open.
-Abigail Spencer: He always said we'd be tested.
- 
-Abigail Spencer:  I was taking a walk when I spotted a car parking about a mile away from the compound.
- 
-Abigail Spencer: Whose car is this? Where have you been?
-Joseph Diamond: I received a message last night from the Orionid. I have to move on, spread the word.
-Abigail Spencer: What about us?
-Joseph Diamond: Come with me, Abbey. We'll do it together ... somewhere near a beach.
-Abigail Spencer: We're ascending tomorrow night to the mother ship.
-Joseph Diamond: You're a smart girl.
- 
-Joseph Diamond: Just two or three of these, and everyone will get a real good night's sleep. Time to get out of town. Everyone's parents have been really good to me.
- 
-Joseph Diamond: I got forty grand. 
- 
- 
-Abigail Spencer: I knew the others would be looking to me now.
-Grissom: But you didn't tell them, did you?
-Abigail Spencer: We were on a schedule.
-Grissom: And fortunately, you knew where to find something a little stronger than zolpidem?
-Abigail Spencer: It was important that no one suffered.
-Grissom: Ty Bentley suffered.
-Abigail Spencer: That was unfortunate.
- 
-Abigail Spencer:  Ty must've followed Diamond back to our compound. I'm sure he was looking for his ex-girlfriend, Emma.
- 
-Ty Bentley: These people are freaks, Emma! You're coming with me!
-Emma Meyers: This is my family now.
-Ty Bentley: Fine. I'm coming back, and I'm bringing the cops with me.
-
- 
-Abigail Spencer: Emma lost it, said we couldn't leave his body there. The others started to get restless.
-Grissom: And as you said, you were on a schedule. The peak of the meteor shower was 3:00 A.M.
-Abigail Spencer:  We agreed to dump the body where it would be found ... given a decent burial.
-Grissom: And then you went back to the compound ... and you used the funnel to distribute the ketamine and vodka.
- 
-Abigail Spencer: I had to be the last to drink.
-Grissom: Did you watch them all die? What was it like?
- 
- 
-Abigail Spencer: They just died.
-Grissom: And you went home to your mother.
-Abigail Spencer: I know they're all up there ... happy ... healthy ... perfect. You don't believe we're one in the universe?
-Grissom: Abigail ... I'm sure if there is something out there looking down on us from somewhere else in the universe, they're wise enough to stay away from us.
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=06x04+-+Shooting+Stars&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127407%23p127407" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=06x04+-+Shooting+Stars&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127407%23p127407" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127407%23p127407&amp;name=06x04+-+Shooting+Stars" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127407%23p127407" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=89895dd46ce2cd4ead7cb0040d7a981e">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=89895dd46ce2cd4ead7cb0040d7a981e">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=89895dd46ce2cd4ead7cb0040d7a981e">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=89895dd46ce2cd4ead7cb0040d7a981e">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

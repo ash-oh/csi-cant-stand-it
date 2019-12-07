@@ -1,880 +1,1108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]
+Emcee: (V.O.) Ladies and gentlemen, please put your hands together for the Comedy Hole's very own Mic" />
+<meta property="og:title" content="03x20 - Last Laugh - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]
+Emcee: (V.O.) Ladies and gentlemen, please put your hands together for the Comedy Hole's very own Mic" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13255" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>03x20 - Last Laugh - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13255" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13255">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=f61ffe10d23265922e0c74a48b0ab114"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=f61ffe10d23265922e0c74a48b0ab114">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=f61ffe10d23265922e0c74a48b0ab114">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=f61ffe10d23265922e0c74a48b0ab114">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=f61ffe10d23265922e0c74a48b0ab114">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13255&amp;sid=f61ffe10d23265922e0c74a48b0ab114&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>03x20 - Last Laugh</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127349">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127349">03x20 - Last Laugh</a></div>
+							<div class="pull-right text-right"><time datetime="2003-05-08T18:24:55Z">05/08/03 18:24</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p><strong>Emcee</strong>: (V.O.) Ladies and gentlemen, please put your hands together for the Comedy Hole's very own Michael Borland.</p>
+<p>(The audience applauds.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. COMEDY HOLE - STAGE -- NIGHT]</p>
+<p>(MICHAEL BORLAND is on stage doing his act.)</p>
+<p><strong>Michael Borland</strong>: Look, look, the Kennedys killed Marilyn Monroe. I'm pretty sure the gunman in the grassy knoll was either Arthur Miller or Joe DiMaggio. &quot;Bang my wife...?&quot;</p>
+<p>(He imitates a gunshot. There's sparse laughter in the audience.)</p>
+<p>CUT TO:<br />
+[EXT. ALLEYWAY OUTSIDE COMEDY HOLE - NIGHT -- CONTINUOUS]</p>
+<p>(DOUGIE MAX is outside in the alley facing the wall behind the trash cans. It's obvious that he's busy doing something. He's murmuring to himself, rehearsing for his act.)</p>
+<p><strong>Dougie Max</strong>: (sotto voce) &quot;Hey, if you'd have me, I'd ask you to marry hell, somebody's got to clean my apartment.&quot;</p>
+<p>CUT TO:<br />
+[INT. COMEDY HOLE - STAGE - NIGHT - CONTINUOUS]</p>
+<p><strong>Michael Borland</strong>: Hey, how many of you people know the theme to Gilligan's Island?</p>
+<p>(The audience applauds.)</p>
+<p><strong>Michael Borland</strong>: All right. Now, how many of you can recite the Bill of Rights?</p>
+<p>(The audience doesn't respond, unsure of the connection between the two.)</p>
+<p><strong>Michael Borland</strong>: That's-that's-that's ... who cares? It's really not that important. We don't use it anymore.</p>
+<p>CUT TO:<br />
+[EXT. ALLEYWAY OUTSIDE COMEDY HOLE - NIGHT - CONTINUOUS]</p>
+<p>(DOUGIE MAX is facing the wall and mumbling to himself, still going through his act. He laughs.)</p>
+<p>CUT TO:<br />
+[INT. COMEDY HOLE - STAGE - NIGHT - CONTINUOUS]</p>
+<p><strong>Michael Borland</strong>: I hear a lot of folks saying, &quot;you know, if it wasn't for the us, the, uh, French would be speaking German.&quot;</p>
+<p>(There's mild applause from the audience.)</p>
+<p><strong>Michael Borland</strong>: Yeah, well, if it, if it wasn't for the French, you'd be speaking Cherokee.</p>
+<p>(The audience doesn't applaud. He's lost them.)</p>
+<p><strong>Michael Borland</strong>: Oh, I'm sorry. Did I hurt your brains?</p>
+<p>CUT TO:<br />
+[EXT. ALLEYWAY OUTSIDE COMEDY HOLE - NIGHT - CONTINUOUS]</p>
+<p>(DOUGIE MAX finishes up his rehearsal.)</p>
+<p><strong>Dougie Max</strong>: (sotto voce) &quot;That's my time, everybody. Tip for the night: If you don't know what you're doing, don't do it harder. Good night, everybody!&quot;</p>
+<p>(DOUGIE MAX laughs hysterically at his own joke. He looks down.)</p>
+<p><strong>Dougie Max</strong>: Zip me up.</p>
+<p>(He sighs and a loud zipper sound is heard. The WAITRESS rises between DOUGIE and the wall.)</p>
+<p><strong>Waitress</strong>: Anything else?</p>
+<p><strong>Dougie Max</strong>: Yeah. Laugh.</p>
+<p>(DOUGIE steps backward and opens the door back into the Comedy Hole.)</p>
+<p><strong>Michael Borland</strong>: (V.O.) It recently came out that Jesus could've had siblings.</p>
+<p>CUT TO:<br />
+[INT. COMEDY HOLE -- BACK HALLWAY - CONTINUOUS]</p>
+<p>(DOUGIE MAX bursts in through the back hallway and starts waving to the people as he makes his way to the main room.)</p>
+<p><strong>Michael Borland</strong>: (V.O.) Could you imagine growing up having Jesus in your family? &quot;Why can't you be more like your brother?&quot;</p>
+<p><strong>Dougie Max</strong>: (to the man) What's up, Dude?</p>
+<p><strong>Michael Borland</strong>: (V.O.) &quot;Uh, 'cause he's the Messiah. He's the Son of God.&quot;</p>
+<p><strong>Dougie Max</strong>: (to the woman) Hi, Lis. All right!</p>
+<p><strong>Michael Borland</strong>: &quot;When your brother's home, we always have wine.&quot;</p>
+<p><strong>Alan</strong>: (to DOUGIE MAX) Caught your act on the tube last night. You knocked them out. I had to turn up the volume, I was laughing so loud.</p>
+<p><strong>Dougie Max</strong>: This art exhibit get any laughs?</p>
+<p><strong>Alan</strong>: Hey, come on, you're my only headliner, you know that.</p>
+<p>(MICHAEL sees DOUGIE head for the stage and he wraps it up.)</p>
+<p><strong>Michael Borland</strong>: Well, I'm Michael Borland, and that's my time ... </p>
+<p>(The audience doesn't applaud.)</p>
+<p><strong>Michael Borland</strong>: ...and that's your silence. All right, now, ladies and gentlemen, let me introduce you to the headliner this evening ...</p>
+<p>(The audience comes alive and starts to cheer. Rock music starts playing in the background.)</p>
+<p><strong>Michael Borland</strong>: ... a man I'm sure you know from his hit TV show, &quot;Dougie to the Max&quot;, Mr. Dougie Max!</p>
+<p>(The audience cheers. DOUGIE MAX makes his way to the stage from the back of the audience. He shakes people's hands as he passes them by. MICHAEL BORLAND puts the mike back on the stand and applauds, too. DOUGIE MAX stands up on stage and gives MICHAEL BORLAND a hug.)</p>
+<p><strong>Michael Borland</strong>: Hey, man ... </p>
+<p><strong>Dougie Max</strong>: (to MICHAEL BORLAND) Remember when I used to open for you?</p>
+<p>(The rock music continues to play. The audience is ready for him. He takes a bottled water from the side and drinks.)</p>
+<p><strong>Dougie Max</strong>: What's up, Vegas?!</p>
+<p>(He looks around the audience and spits out the water at them. He drops the water bottle.)</p>
+<p>(The audience continues to cheer and applaud.)</p>
+<p><strong>Dougie Max</strong>: Hey, kid, it's a cruel world!</p>
+<p>(The audience cheers and applauds. He tosses and twists the mike. He catches it.)</p>
+<p><strong>Dougie Max</strong>: Ain't it great?! Bam!</p>
+<p>FLASH TO WHITE:</p>
+<hr />
+[INT. COMEDY HOLE -- NIGHT]</p>
+<p>(BRASS leads CATHERINE and GRISSOM through the hallway to the main room where the body is.)</p>
+<p><strong>Brass</strong>: Welcome to the tragedy hall. Hey, you hear the one about the comedian who died onstage? (beat) Literally.</p>
+<p><strong>Catherine</strong>: Buh-du-bum.</p>
+<p><strong>Brass</strong>: I'll be here all week.</p>
+<p><strong>Catherine</strong>: Maybe he slipped on a banana peel.</p>
+<p><strong>Brass</strong>: Buh-du-bum.</p>
+<p><strong>Catherine</strong>: Hmm.</p>
+<p><strong>Brass</strong>: Crowd thought it was part of his act ... till he didn't get up.</p>
+<p>(They finally reach the stage where DOUGIE MAX is.)</p>
+<p><strong>Catherine</strong>: Hi, David.</p>
+<p><strong>David</strong>: Hey, Catherine.</p>
+<p>(CATHERINE kneels down next to the body and visually examines it.)</p>
+<p><strong>Catherine</strong>: Well, there's no foam on the mouth. No discoloration around the lips. Pupils aren't dilated. No overt evidence of a drug overdose.</p>
+<p><strong>Grissom</strong>: When was the last time a comedian died of natural causes?</p>
+<p><strong>David</strong>: Clenched fist ... classic levine sign. </p>
+<p><strong>Grissom</strong>: He's awfully young for a heart attack.</p>
+<p>(GRISSOM walks around CATHERINE and toward the center of the stage.)</p>
+<p><strong>Brass</strong>: Well, live fast, die young ... I forget the rest.</p>
+<p><strong>Grissom</strong>: (shouts out to the back of the room) Excuse me! Could someone turn down the house lights, and turn up the stage lights? Thank you.</p>
+<p>(The house lights turn down. The stage lights turn up.)</p>
+<p><strong>Grissom</strong>: I want to see what he saw ... right before he died.</p>
+<p><strong>Catherine</strong>: What do you see?</p>
+<p><strong>Grissom</strong>: Nothing.</p>
+<p><strong>Catherine</strong>: What are you looking for?</p>
+<p><strong>Grissom</strong>: A punchline?</p>
+<p><strong>Brass</strong>: Buh-du-bum.</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. COMEDY HOLE - MAIN ROOM -- NIGHT]</p>
+<p>(The coroner's office wheels the body through the room past the various performers. THE COMEDIAN - [played by GILBERT GOTTFRIED] -- watches the gurney as it passes by him. MICHAEL BORLAND sits at the bar nursing his drink.)</p>
+<p>[GILBERT GOTTFRIED]: See, here's a switch. They've got him rolling in the aisles. Well, I guess he's off to a better place.</p>
+<p><strong>Michael Borland</strong>: (mutters) Any place would be better than this dump.</p>
+<p><strong>Alan</strong>: (offended) Hey, hey, hey!</p>
+<p><strong>Michael Borland</strong>: Sorry, Alan. I didn't see you.</p>
+<p><strong>Alan</strong>: At least Dougie put laughter in the air and asses in the seats and drinks on the tab. (to BRASS) I loved that guy. Took me fifteen years to find the next Kinison, and the minute I do, he gets a sitcom. Now I have to pay him a king's ransom to come back here once a year, and this is where he started.<br />
+(laughs) Figures the b*st*rd would die on me. You know, I-I should put up a sign, you know, like in Dealey Plaza, &quot;Kennedy shot here,&quot; &quot;Dougie Dropped here.&quot;</p>
+<p>(THE BARTENDER approaches ALAN.)</p>
+<p><strong>Bartender</strong>: Hey, Alan, you got a spot open now. What do you say tomorrow you give me some time?</p>
+<p><strong>Alan</strong>: You got a job. You want to keep it? </p>
+<p>(THE BARTENDER turns away.)</p>
+<p><strong>Alan</strong>: (to BRASS) Dougie was a hack with hack material who caught a break and never let anybody forget it. Oh, you want suspects? (He turns around and points to the wall of pictures behind him.) Here, check out the wall. Any one of these guys'd kill to have his stage.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. COMEDY HOLE - GREEN ROOM -- NIGHT]</p>
+<p>(The door opens and CATHERINE walks into the green room. She starts looking around. On the counter is a coffee grinder and various other drinking rubbish littering the countertop. )</p>
+<p>(CATHERINE kneels down and checks out the food platter on the table. The card reads: DOUGIE MAX. She picks up a toothpick with a chunk of Spam (c) on it and smells it. She puts it down.)</p>
+<p>(On the table below under the food platter, she finds remnants of white powder. She checks it out.)</p>
+<p><strong>Catherine</strong>: Oh, china ...</p>
+<p>CUT TO:</p>
+<hr />
+[INT. COMEDY HOLE - CENTER STAGE -- NIGHT]</p>
+<p>(GRISSOM kneels next to the stool with the bottles of water on it. GRISSOM has to collect the water and the bottles. BRASS stands in front of him watching.)</p>
+<p><strong>Grissom</strong>: Six bottles of Innoko water. Three partially filled, three unopened.</p>
+<p><strong>Brass</strong>: Don't go Cousteau on me here. It was all part of his shtick. He was like Tarkanian with the towel. You know, always biting and pacing. Dougie's mantra was, &quot;It's a cruel world. Ain't it great?&quot; (GRISSOM doesn't say anything.) Uh, it was low-brow. Strictly chug-and-belch.</p>
+<p><strong>Grissom</strong>: Laughter is an involuntary motor response triggered by survival issues: Food, s*x, body functions ... death.</p>
+<p><strong>Brass</strong>: Yeah, it's a cruel world.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. COMEDY HOLE - HALLWAY TO THE MAIN ROOM -- NIGHT]</p>
+<p>(CATHERINE questions ALAN, the club owner.)</p>
+<p><strong>Catherine</strong>: So, who has access to the green room?</p>
+<p><strong>Alan</strong>: Well, according to who? According to me, just the talent. According to these meat sticks -- the world.</p>
+<p>(ALAN and CATHERINE reach the main room where the performers are.)</p>
+<p><strong>Catherine</strong>: All right. I would like to see everyone's wallet. I don't need to see your identification. Just open your wallets.</p>
+<p>(MICHAEL BORLAND gives CATHERINE his wallet. She looks at it.)</p>
+<p><strong>Michael Borland</strong>: Uh, it says I'm 180 pounds, but I'm 145. I know that, in Nevada law, if there's a 25-pound discrepancy, that ... that's actually against the law.</p>
+<p>(CATHERINE hands his wallet back to him.)</p>
+<p><strong>Catherine</strong>: (to MICHAEL BORLAND) Thank you.</p>
+<p>(She looks at THE BARTENDER'S wallet, then hands it back to him.) </p>
+<p><strong>Catherine</strong>: Thanks.</p>
+<p><strong>The Bartender</strong>: You're welcome.</p>
+<p>[GILBERT GOTTFRIED]: (points to something in his wallet) In this one I'm wearing a thong.</p>
+<p>(THE BARTENDER laughs at the joke.)</p>
+<p><strong>Catherine</strong>: That's more than I needed to know. Thank you.</p>
+<p>(CATHERINE hands his wallet back to him. She looks at the WAITRESS' wallet. She finds the white power on the edge of the credit card.)</p>
+<p>(Quick flashback to: [BOTTOM CAMERA ANGLE UPWARD UNDER THE GLASS TABLE TOP]<br />
+THE WAITRESS is cutting the cocaine on the table using her credit card. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: When was the last time you used this credit card?</p>
+<p><strong>Waitress</strong>: What?</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. COMEDY HOLE -- NIGHT]</p>
+<p>(The doors open. BRASS and an OFFICER escort the WAITRESS out of the building. The WAITRESS is in handcuffs. In the background, the sound of a car revving its engine can be heard.)</p>
+<p>(They put the WAITRESS into the police car.)</p>
+<p>(BRASS looks and sees someone he recognizes, GEORGE STARK. GEORGE STARK exits his brand new red Ferrari, which is parked across the street. BRASS stands there and watches as GEORGE STARK hands the keys to the valet, then escorts the beautiful blonde woman into the restaurant.)</p>
+<p>(BRASS doesn't look thrilled to see that. In fact, he looks very thoughtful.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY]</p>
+<p>(ROBBINS goes over the body findings with GRISSOM.)</p>
+<p><strong>Grissom</strong>: C.O.D.?</p>
+<p><strong>Robbins</strong>: Myocardial necrosis. Just what you'd expect from a heart attack, only I didn't find any blockages consistent with coronary disease. He was remarkably healthy for a dead guy.</p>
+<p><strong>Grissom</strong>: Well, Dougie Max had more than comedy in his blood. Tox came back positive for coke.</p>
+<p><strong>Robbins</strong>: The answer is ... the three main ways to take cocaine.</p>
+<p>(GRISSOM sighs and turns to look at ROBBINS.)</p>
+<p><strong>Grissom</strong>: All right, &quot;Alex&quot;. What is: Snorting it, smoking it, or injecting it?</p>
+<p><strong>Robbins</strong>: Very good. The answer is normal nasal passages, clear lungs, and no track marks on the body.</p>
+<p><strong>Grissom</strong>: Continuing this childish metaphor ... what is: How did the drugs get into his system?</p>
+<p><strong>Robbins</strong>: We'll have to wait for Final Jeopardy.</p>
+<p>(GRISSOM sighs dramatically, shakes his head and turns to leave the room. ROBBINS continues to polish his cutting tools.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM]</p>
+<p>(CATHERINE interviews the WAITRESS in the presence of the WAITRESS' LAWYER.)</p>
+<p><strong>Lawyer</strong>: My client has agreed to plead to possession and answer any questions. Nothing she tells you can be interpreted as criminal intent ...</p>
+<p><strong>Catherine</strong>: Well, that's between you and the D.A. The preliminary tox screen on Dougie Max came back positive for cocaine.</p>
+<p><strong>Waitress</strong>: Dougie was in a program, okay? It was my cocaine. He wasn't using.</p>
+<p><strong>Catherine</strong>: It was in his blood.</p>
+<p><strong>Waitress</strong>: Well ... Dougie always liked to do a little hum-and-coke before a show.</p>
+<p>(Quick flashback to: During MICHAEL BORLAND'S show, DOUGIE MAX and the WAITRESS go outside. DOUGIE drops his pants, the WAITRESS kneels down in front of him. She puts a little bit of coke on her fingernail. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Cocaine on the foreskin, or any skin, for that matter, is not a stimulant; it's a numbing agent.</p>
+<p><strong>Waitress</strong>: Right. That was the idea. You see, the goal wasn't to pop the cork. It was to ... shake the bottle.</p>
+<p><strong>Catherine</strong>: Sounds frustrating.</p>
+<p><strong>Waitress</strong>: Dougie liked to go out on stage frustrated.</p>
+<p>(Quick flashback to: DOUGIE is on stage and fired up to do this act.)</p>
+<p><strong>Dougie Max</strong>: (loudly and into the act) I ran away from home at age 25. I drank... and I whored ...</p>
+<p>(The audience cheers.)</p>
+<p><strong>Dougie Max</strong>: ... and I got my own show!</p>
+<p>(The cheers get louder.)</p>
+<p><strong>Dougie Max</strong>: Yeah, Dougie to the Max, bee-yatch!</p>
+<p>(The audience roars with him.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Waitress</strong>: Gave him an edge. That was Dougie's philosophy: Go in hot ... burn the place down.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LOUNGE ]</p>
+<p>(NICK is pouring himself a cup of coffee. BRASS walks in carrying a file folder.)</p>
+<p><strong>Brass</strong>: Oh, you're making coffee. Good. I could use some.</p>
+<p><strong>Nick</strong>: How do you take it?</p>
+<p><strong>Brass</strong>: Today, high-octane black. I need your help with something.</p>
+<p>(NICK hands BRASS a cup. NICK takes a seat at the table.)</p>
+<p><strong>Nick</strong>: Shoot.</p>
+<p><strong>Brass</strong>: A few weeks ago, homicide gets called to Green Valley. A woman in her<br />
+40s slips in the bathtub and drowns. You know, cracked skull, raccooned eyes --<br />
+I mean, a traumatic death, but nothing suspicious. </p>
+<p><strong>Nick</strong>: CSI found what?</p>
+<p><strong>Brass</strong>: I didn't call them in. I ruled it an accident.</p>
+<p><strong>Nick</strong>: What changed?</p>
+<p><strong>Brass</strong>: Last night I saw the husband out on the town. I mean, I could tell you something, Nick. Three weeks ago, this guy was devastated.</p>
+<p>(Quick flashback to: BRASS interviews GEORGE STARK in the bathroom. GEORGE STARK is sitting hunched over on the tub edge. BRASS listens to him.)</p>
+<p><strong>George Stark</strong>: (sobbing) I should've been here. What am I going to do? I mean, she was my life.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: Onward and upward.</p>
+<p><strong>Brass</strong>: No, but this is way upward. I mean, trades in his beat-up old Acura for a brand-new Ferrari. He's with a girl who gives more lift-off than-than Cape Canaveral.</p>
+<p><strong>Nick</strong>: (chuckles) People grieve in different ways, man.</p>
+<p><strong>Brass</strong>: No, I understand that. I got no problem with that. I'm not a priest. That's why I called the life insurance carrier. And check this out. </p>
+<p>(BRASS sits down at the table.)</p>
+<p><strong>Brass</strong>: The morning ... Shelley Stark ... was found, George Stark made a call to the life insurance agent. Went like this: &quot;My wife is dead. I want my money.&quot;<br />
+I mean, just like that. All in one breath.</p>
+<p><strong>Nick</strong>: (nods) What's the payout?</p>
+<p><strong>Brass</strong>: $750,000. Now, I got the police report, autopsy protocol, detective summary, and scene photos.</p>
+<p>(BRASS puts down a &quot;Las Vegas Police Department Homicide&quot; file folder flat on the table. NICK looks at it, then looks back at BRASS.)</p>
+<p><strong>Nick</strong>: You sure you're not looking for Grissom?</p>
+<p>(BRASS stands up.)</p>
+<p><strong>Brass</strong>: I'm chasing something that Gil Grissom isn't interested in -- a hunch.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- HALLWAY]</p>
+<p>(CATHERINE and GRISSOM walk through the hallway.)</p>
+<p><strong>Catherine</strong>: I don't have to run any tests. You cannot absorb enough cocaine through your pen1s to OD.</p>
+<p><strong>Grissom</strong>: Cite your source.</p>
+<p><strong>Catherine</strong>: I don't have a source. </p>
+<p><strong>Grissom</strong>: That's why we did the tests. </p>
+<p><strong>Catherine</strong>: Whatever.</p>
+<p>(GRISSOM and CATHERINE walk into GREG'S LAB. GREG looks up from his work, sees them and smiles.)</p>
+<p><strong>Greg</strong>: All right, who wants it?</p>
+<p>(GREG waves the test results in front of them. CATHERINE takes it. She and GRISSOM both look at it.)</p>
+<p><strong>Catherine</strong>: Cocaine levels are less than .05 milligrams per liter. Way too low. That's not what killed him.</p>
+<p><strong>Grissom</strong>: So what did?</p>
+<p><strong>Greg</strong>: Well, according to your blood sample, naratriptamine.</p>
+<p><strong>Grissom</strong>: The new migraine medication?</p>
+<p><strong>Greg</strong>: Mm-hmm. Powerful stuff.</p>
+<p><strong>Catherine</strong>: And what were the levels in the vic?</p>
+<p><strong>Greg</strong>: 30 milligrams-- 12 times the recommended dosage.</p>
+<p><strong>Catherine</strong>: Ooh. Dougie Max was poisoned.</p>
+<p><strong>Greg</strong>: To the Max.</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(NICK and SARA sit side by side as they go through the file contents. NICK hands SARA a photo.)</p>
+<p><strong>Sara</strong>: Cop shots. No rulers, no markers.</p>
+<p><strong>Nick</strong>: Just a bathroom, a towel bar, and a dead woman.</p>
+<p>(Quick flashback to: [THE STARK'S BATHROOM] From the photo: As if the camera were on backward, the towel bar jumps up from the filled bathtub and fuses itself to the bathroom wall. End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: Injuries are consistent with an accident.</p>
+<p><strong>Nick</strong>: Yeah, but the contusion to the back of the head was not fatal.</p>
+<p>(SARA looks at the photo taken of the back of SHELLEY STARK'S head.)</p>
+<p>(Quick flashback to: [THE STARK'S BATHROOM] Camera view runs backward. SHELLEY STARK rises from the water in the bathtub. The camera continues to run backward. SHELLEY STARK is standing in the bathtub. The camera runs forward. SHELLEY STARK falls backward and hits the back of her head on the bathtub. She's knocked unconscious and sinks into the bath water. End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: Abbreviated autopsy. Dr. Robbins oversaw.</p>
+<p>(Camera close up of a portion of the report. We see: </p>
+<p>STARK, SHELLEY<br />
+98-03810<br />
+<strong>Dr</strong>: ROBBINS<br />
+CAUSE OF DEATH:<br />
+DROWNING</p>
+<p><strong>Sara</strong>: Cause of death: Drowning. It jibes with the husband's account. It jibes with the detective's account. There is nothing in this file that suggests anything other than an accident.</p>
+<p><strong>Nick</strong>: I don't know, Sara ... other people's notes, other people's photos, evidence twice-removed. No CSI even got to look at it.</p>
+<p>(NICK looks at SARA. They look at each other. SARA knows where this is going.)</p>
+<p><strong>Sara</strong>: (blinks) Do you want to go to the bathroom?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(GRISSOM and CATHERINE sit across the lab table with a table full of consumables in jars in front of them. GRISSOM puts on his gloves.)</p>
+<p><strong>Grissom</strong>: Consumables from the club that matched Dougie's stomach contents. We know that he had naratriptamine in his system, and we also know that the poison was ingested.</p>
+<p><strong>Catherine</strong>: (picks up the jar with the chunk of spam) Because Spam can't be absorbed through the pen1s, and if you ask me to cite my source ... </p>
+<p>(GRISSOM holds out his hand for her to stop.)</p>
+<p><strong>Grissom</strong>: I'll take your word for it.</p>
+<p>(CATHERINE smiles.)</p>
+<p>(GRISSOM starts with the first water sample. The label on the bottle reads:</p>
+<p>INNOKO WATER BOTTLE 12<br />
+4-21-03<br />
+COMEDY HOLE<br />
+CW</p>
+<p>(GRISSOM puts the water in a test tube.)</p>
+<p>(CATHERINE puts a sample piece of Spam in a test tube.)</p>
+<p>(GRISSOM fills the second tube with an burnish color liquid.)</p>
+<p>(CATHERINE takes a sample out of the &quot;PASSION FRUIT&quot; jar and puts it in a test tube.)</p>
+<p>(GRISSOM takes a sample out of the &quot;COCKTAIL&quot; jar and puts it in the test tube.)</p>
+<p>(CATHERINE takes a sample out of the &quot;CHOCO BEES&quot; jar and looks at GRISSOM.)</p>
+<p><strong>Catherine</strong>: &quot;Death by chocolate&quot; again?</p>
+<p>[Note: In reference to episode 3X01: Revenge Is Best Served Cold.]</p>
+<p>(GRISSOM looks back at CATHERINE.)</p>
+<p><strong>Catherine</strong>: (smiles) Hmm.</p>
+<p>(She puts a piece of CHOCO BEES chocolate into the test tube.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. GREEN VALLEY -- STARK RESIDENCE -- DAY]</p>
+<p>(NICK and SARA are at GEORGE STARK'S residence. SARA is out examining the red Ferrari parked in the driveway. NICK is talking with GEORGE STARK on the porch.)</p>
+<p><strong>Nick</strong>: I'm Nick Stokes and Sara Sidle over there and we're with the Vegas Crime Lab.</p>
+<p><strong>George Stark</strong>: (nervously to SARA) Miss, plea-please-please don't get so close to the car, all right? The alarm is really delicate.</p>
+<p>(SARA waves to GEORGE STARK that she understands.)</p>
+<p><strong>Nick</strong>: We're not really as concerned with the car, sir. What we'd like to do is look at your bathroom.</p>
+<p><strong>George Stark</strong>: Um, why, wha-what would you like to look at the bathroom for?</p>
+<p>(SARA continues to look at the red Ferrari.)</p>
+<p><strong>Nick</strong>: Like I said, we're with the crime lab. We're here to tie up some loose ends regarding your wife's case.</p>
+<p>(SARA leans in close and looks through the driver's side window.)</p>
+<p><strong>George Stark</strong>: I appreciate how thorough you guys are being, but ... I got ... I got to be honest. This is pretty painful territory for me.</p>
+<p><strong>Nick</strong>: Right. </p>
+<p><strong>George Stark</strong>: I mean, it's still pretty hard to get up in the morning without Shelley.</p>
+<p><strong>Nick</strong>: I understand ...</p>
+<p>(SARA hears GEORGE STARK hedging, she turns around and deliberately knocks on the car window setting the car alarm off. Loudly. GEORGE STARK looks at SARA.)</p>
+<p><strong>George Stark</strong>: Ma'am, Miss, I thought I ...</p>
+<p>(SARA smiles and waves innocently. Behind them, the women walking with their baby strollers stop and stare at the neighbor with the car alarm blaring. NICK looks around.)</p>
+<p><strong>Sara</strong>: (smiling) Sorry. I-I-I-I'm sorry. I, uh ... your neighbors are looking. </p>
+<p>(Babies are crying in the background.)</p>
+<p><strong>George Stark</strong>: I'll get the keys. (waves them inside) Come on. Come on in.<br />
+(SARA heads for the front door. She smiles big time at NICK.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. STARK'S RESIDENCE - BATHROOM -- DAY]</p>
+<p>(GEORGE STARK holds open the bathroom door for NICK and SARA.)</p>
+<p><strong>Nick</strong>: It smells like fresh paint.</p>
+<p><strong>George Stark</strong>: Yeah, I had the whole place redone this week. Bad memories.</p>
+<p><strong>Nick</strong>: Did you replace the tub?</p>
+<p><strong>George Stark</strong>: No.</p>
+<p><strong>Nick</strong>: But you replaced the fixtures.</p>
+<p><strong>Sara</strong>: There used to be a towel bar there. </p>
+<p><strong>George Stark</strong>: Yeah.</p>
+<p><strong>Sara</strong>: Would you by any chance have the old towel bar lying around somewhere?</p>
+<p><strong>George Stark</strong>: No, the contractor tossed it. It was junk. Came with the house. This whole subdivision comes stock. In fact, the first thing the broker told me when I bought it -- if I ever want to sell, invest in upgrades.</p>
+<p><strong>Nick</strong>: You selling?</p>
+<p><strong>George Stark</strong>: Too big for one person.</p>
+<p><strong>Nick</strong>: Thank you.</p>
+<p><strong>Sara</strong>: Uh, thanks for your time. Mmm.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. GEORGE STARK'S RESIDENCE -- DAY]</p>
+<p>(NICK and SARA walk out of the house and head for their parked car.)</p>
+<p><strong>Sara</strong>: You pulled the plug kinda early. What's going on?</p>
+<p><strong>Nick</strong>: Yeah, that bathroom's not the crime scene anymore. I say we go with the next best thing.</p>
+<p>(NICK looks across the street and sees the Open House banner on the MODEL HOME.)</p>
+<p><strong>Sara</strong>: (smiles) Model home.</p>
+<p><strong>Nick</strong>: (smiles) Model home.</p>
+<p>(They both head for the Model Home.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GRISSOM'S OFFICE -- DAY]</p>
+<p>(GREG walks into GRISSOM'S office. Hidden behind his back, he holds a baggie of something.)</p>
+<p><strong>Greg</strong>: (rhetorically) What do Socrates, Edgar Allen Poe, and Dougie Max have in common? (pauses for a beat) They all drank themselves to death.</p>
+<p><strong>Grissom</strong>: You've isolated the source of the poison?</p>
+<p>(GREG sits down and puts the baggie with the empty bottle on GRISSOM'S desk.)</p>
+<p><strong>Greg</strong>: Naratriptamine -- Innoko water bottle, number three.</p>
+<p>(Quick flashback to: On stage, DOUGIE MAX drinks directly from the bottled water. The audience cheers and applauds.)</p>
+<p>(Flash to white: Camera close up of DOUGIE MAX'S clenched right fist.)</p>
+<p>(DOUGIE falls to his knees. He has difficulty seeing with the bright lights. The audience continues to cheer.)</p>
+<p><strong>Dougie Max</strong>: (croaks) Oh, god.</p>
+<p>(He falls down to the stage face forward.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: What about the other bottles?</p>
+<p><strong>Greg</strong>: Clean.</p>
+<p><strong>Grissom</strong>: Okay. I need you to process that bottle for trace impurities.</p>
+<p><strong>Greg</strong>: Got it. Anything that might've mixed in with the poison could help us identify the original source.</p>
+<p><strong>Grissom</strong>: We identify the source ... maybe we identify the killer.</p>
+<p>(GRISSOM picks up his pen, closes the file folder on his desk, picks that up, too, and stands up. He walks around the desk toward the door.)</p>
+<p><strong>Greg</strong>: Where are you going?</p>
+<p><strong>Grissom</strong>: To get a drink.</p>
+<p>(GRISSOM leaves the office.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. MODEL HOME - BATHROOM -- DAY]</p>
+<p>(NICK puts a blue mat down inside the bathtub. SARA stands by the bathroom mirror and puts on a hard helmet. She fiddles with the strap under her chin.)</p>
+<p><strong>Nick</strong>: Seventy-five units with seventy-five identical floor plans. I never thought I'd be grateful for cookie cutter homes.</p>
+<p>(SARA sits down on the edge of the bathtub and adjusts her helmet.)</p>
+<p><strong>Sara</strong>: Like bees in a hive. Gives me the creeps.</p>
+<p>(NICK helps SARA with her helmet.)</p>
+<p><strong>Nick</strong>: You sure you don't want me to do this?</p>
+<p><strong>Sara</strong>: Are you kidding? I live for this. I mean, Shelley Stark and I are the same height and weight.</p>
+<p><strong>Nick</strong>: Yeah, but you're taller, thinner.</p>
+<p><strong>Sara</strong>: Oh, butter that toast, Nick.</p>
+<p>(NICK laughs. SARA gets up and climbs into the bathtub. She settles herself inside the tub as if she were taking a bath.)</p>
+<p><strong>Sara</strong>: Okay, I'm Shelley Stark.</p>
+<p><strong>Nick</strong>: mm-hmmm.</p>
+<p><strong>Sara</strong>: My bath is over, and I'm about to get out, so ...</p>
+<p>(SARA puts her left hand on the edge of the tub. She puts her right hand slightly behind her and starts to push herself up.)</p>
+<p><strong>Sara</strong>: I brace myself with my left hand, and I'm getting up at a 45-degree angle, and I slip... so, I grab the first thing that I can.</p>
+<p><strong>Nick</strong>: Towel bar.</p>
+<p><strong>Sara</strong>: Towel bar.</p>
+<p>(SARA scoots over and grabs the towel bar with both her hands.)</p>
+<p><strong>Sara</strong>: Okay. So, at this point, all of my weight is being supported by this bar.</p>
+<p><strong>Nick</strong>: (leaning against the wall) And it doesn't budge.</p>
+<p><strong>Sara</strong>: No.</p>
+<p>(SARA starts tugging at the towel bar. She slips and falls backward into the tub. The towel bar remains on the wall. Towel bar-1; Sara-0.)</p>
+<p>(NICK laughs quietly. SARA turns her head and squints back at him. She's unamused.)</p>
+<p><strong>Nick</strong>: You okay?</p>
+<p><strong>Sara</strong>: (gruffly) Yeah, I'm fine. I'm fine ...</p>
+<p>(SARA gets back up and grabs the towel bar.)</p>
+<p><strong>Sara</strong>: (murmurs) This thing is coming down.</p>
+<p>(She clears her throat and gets a good grip on the towel bar. )</p>
+<p><strong>Sara</strong>: Okay.</p>
+<p>(SARA starts to tug at the towel bar. NICK stands off to the side and bits his lips at her efforts. He tries desperately not to laugh.)</p>
+<p><strong>Nick</strong>: You sure you don't want me to do that?</p>
+<p><strong>Sara</strong>: (tugging on the towel bar &amp; insistent) No.</p>
+<p><strong>Nick</strong>: Okay.</p>
+<p>(SARA has both hands on the bar and has given up all pretense of the bathtub scenario. She concentrates on taking that towel bar down. NICK stands off to the side with a big grin on his face as he watches her with the towel bar.)</p>
+<p><strong>Nick</strong>: (drawls) Sara.</p>
+<p>(SARA grunts. NICK smiles. SARA gives up.)</p>
+<p><strong>Sara</strong>: There is no way that Shelley Stark brought down this towel bar.</p>
+<p><strong>Nick</strong>: You want me to give it a shot?</p>
+<p>(SARA sighs and climbs out of the tub.)</p>
+<p>(NICK climbs into the tub. He knocks on the towel bar with his fist. He pulls the towel bar up with both hands. He braces himself with his leg on the edge of the bathtub and continues to pull at the towel bar.)</p>
+<p>(SARA stands off to the side and watches.)</p>
+<p>(NICK grunts with effort.)</p>
+<p>(Finally. The towel bar comes off of the wall.)</p>
+<p>(NICK exhales.)</p>
+<p><strong>Nick</strong>: Someone took a lot of effort to make this look like an accident.</p>
+<p><strong>Sara</strong>: Yeah, about $750,000 worth of effort.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. COMEDY HOLE -- NIGHT]</p>
+<p>(A COMEDIENNE is up on stage running through her act and completely bombing to an audience that gives her absolutely no response.)</p>
+<p><strong>Comedienne</strong>: Okay, so you know the thing that drives me crazy about men? You know how they take the toilet paper and then they put it up on top of the holder.</p>
+<p>(CATHERINE smiles and glances at GRISSOM. They both stand at the back of the room leaning against the bar.)</p>
+<p><strong>Comedienne</strong>: What is that? Do they not see that? Are they just busy looking at their underwear on the floor?</p>
+<p>(ALAN gets up and walks over to the light switch behind the counter on the wall. He flicks it on and off. A red light starts to flash.)</p>
+<p><strong>Comedienne</strong>: I got a nickname for my man. I call him Mr. Drop-and-stay, 'cause if he drops it, man, it just stays there.</p>
+<p>(The COMEDIENNE sees the red light and wraps it up.)</p>
+<p><strong>Comedienne</strong>: God, uh, ooh, well, and that's my time. Uh, you've been fourteen quiet people, six empty tables, and I'll see you in hell.</p>
+<p>(She walks off the stage.)</p>
+<p><strong>Grissom</strong>: (points to the red light) Modern version of the old hook.</p>
+<p>(The turn around toward the bar. The BARTENDER walks around carrying a box.)</p>
+<p><strong>Bartender</strong>: Welcome to open mike night, guys. What can I get you?</p>
+<p><strong>Catherine</strong>: Information.</p>
+<p>(MICHAEL BORLAND looks up from his seat at the bar.)</p>
+<p><strong>Michael Borland</strong>: (to the BARTENDER) Wow, your coffee stinks.</p>
+<p><strong>Bartender</strong>: (without missing a beat) Oh, really. I'm sorry it's not up to the standards of your crap-ass home brew, but that'll be five bucks all the same, my friend.</p>
+<p><strong>Catherine</strong>: Dougie Max's Innoko water bottles that were on the stage his last performance -- who set them up?</p>
+<p><strong>Bartender</strong>: Yours truly. Bartender. Mr. Max had very acquired tastes. Lofty demands, you know. Six pristine Innoko water bottles, labels all facing the Luxor. And a green room? Forget it. Silver tray, spam, choco bees -- all blue. Not-not to mention that, uh, passion fruit stuff -- what is it, two bucks a pop? Try to find that stuff.</p>
+<p><strong>Grissom</strong>: Let's get back to the water. It was poisoned.</p>
+<p>(The BARTENDER starts to bite his nails nervously.)</p>
+<p><strong>Bartender</strong>: Really?</p>
+<p><strong>Grissom</strong>: Mmm. The, uh, bottles you took out to the stage -- where'd they come from?</p>
+<p><strong>Bartender</strong>: That... Dougie's private stash.</p>
+<p><strong>Catherine</strong>: Well, besides you and Dougie, who had access to it?</p>
+<p>(Behind the BARTENDER, [GILBERT GOTTFRIED] THE COMEDIAN walks behind the bar and starts snooping around for something. He bends over looking at the counters.)</p>
+<p><strong>Bartender</strong>: (confidently to CATHERINE) Nobody's allowed behind the bar besides the bar staff and me.</p>
+<p>([GILBERT GOTTFRIED] THE COMEDIAN walks up to the BARTENDER from behind the bar. He immediately cuts into the conversation. )</p>
+<p>[GILBERT GOTTFRIED]: But no one listens to him. (THE COMEDIAN holds out a capped beer bottle.) You got a bottle opener?</p>
+<p><strong>Bartender</strong>: Hey, that's going on your tab, you Leech!</p>
+<p>[GILBERT GOTTFRIED]: (walks away) I'm scared.</p>
+<p><strong>Catherine</strong>: Well, you've got a temper ... and a record. Assault. Club in Tucson.</p>
+<p><strong>Bartender</strong>: Yeah, I had a temper, until I kicked the crap out of a heckler for interrupting my closing bit.</p>
+<p><strong>Grissom</strong>: Do you get headaches?</p>
+<p><strong>Bartender</strong>: I'm getting one right now.</p>
+<p><strong>Grissom</strong>: We want all the Innoko water ... to go.</p>
+<p>(Without another word, the BARTENDER opens the cabinet and the camera lingers on the label on the box:<br />
+INNOKO<br />
+Natural Caffeine Free Water<br />
+Bottled at the Source</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- HALLWAY]</p>
+<p>(GRISSOM catches WARRICK as he walks through the hallway. GRISSOM is carrying a slip of paper.)</p>
+<p><strong>Grissom</strong>: Warrick ... this just in. D.B. at a convenience store on Torrey Pines. You're all I got.</p>
+<p>(GRISSOM gives the paper to WARRICK.)</p>
+<p><strong>Warrick</strong>: I'm on it.</p>
+<p>(WARRICK leaves. CATHERINE catches up with GRISSOM.)</p>
+<p><strong>Catherine</strong>: Oh, hey, listen. I checked the bartender's medical records. The guy's had six different prescriptions for migraines in the last two years. Guess which one he's on now.</p>
+<p><strong>Grissom</strong>: Naratriptamine.</p>
+<p>CUT TO:<br />
+[EXT. COMMUNITY (STOCK) - DAY]</p>
+<hr />
+[INT. TORREY PINES -- SPEEDY MART-- DAY]</p>
+<p>(WARRICK walks into the store. On the floor in between the aisles is a body. WARRICK looks at the body then turns to the CASHIER.)</p>
+<p><strong>Warrick</strong>: I'm Warrick Brown from CSI. You want to tell me what happened here?</p>
+<p><strong>Cashier</strong>: I don't know. Kid walks in. He goes down an aisle. Next thing I know, he drops dead.</p>
+<p>(WARRICK turns around and looks at the dead kid. He turns back to the CASHIER.) </p>
+<p><strong>Warrick</strong>: Where'd he start?</p>
+<p>(WARRICK and the CASHIER walk around the store.)</p>
+<p><strong>Cashier</strong>: He was pacing back and forth, scoping the place out. I always spot those kids. People don't know. You consume food or drink in the store, it's the same as shoplifting until you pay for it.</p>
+<p><strong>Warrick</strong>: What'd he steal? </p>
+<p><strong>Cashier</strong>: A beverage. He put it back before I could catch him.</p>
+<p><strong>Warrick</strong>: Where?</p>
+<p><strong>Cashier</strong>: Over here.</p>
+<p>(WARRICK looks to the right of the aisle and sees nothing. He looks to the left of the aisle and finds a bottle of Innoko water. WARRICK takes out a glove and picks up the bottle. He looks at the bottle label and recognizes it instantly. Innoko water.)</p>
+<p><strong>Warrick</strong>: (grimly) This isn't funny anymore.</p>
+<p>FADE TO BLACK.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[EXT./INT. SPEEDY MART-- DAY]</p>
+<p>(The Speedy Mart is taped off. A man wheels out a cart full of stacked boxes of Innoko water.)</p>
+<p><strong>Catherine</strong>: (V.O.) Total recall. We pulled 140 bottles </p>
+<p>(Inside the store, CATHERINE is on her cell phone. She's at the back of the store and walking through the aisle to the front of the store.)</p>
+<p><strong>Catherine</strong>: (urgently) ... of Innoko water off the shelves in this store alone. There's 500 convenience stores in Vegas. We need to get this product off the shelves now. Grocery stores, restaurants, wholesalers ... I mean not to mention the population of informing the people ... </p>
+<p>(WARRICK is talking with a woman in a business suit.)</p>
+<p><strong>Warrick</strong>: ... right now, it looks like only your Innoko water product is involved. CSI is going to need the name of any recent firings, anyone with a lawsuit against the company, anyone who's made threats against the company -- anyone with an axe to grind.</p>
+<p><strong>Catherine</strong>: (to phone) Yes, I know that we risk panic, chief, but I'd rather risk that than have another victim.</p>
+<p>(GREG walks into the store. CATHERINE looks up and signals to GREG. He walks over to her.)</p>
+<p><strong>Catherine</strong>: (to phone) Hang on. (to GREG) We need to find out what's in there.</p>
+<p>(CATHERINE hands the bagged water bottle to GREG. She walks away.)</p>
+<p><strong>Catherine</strong>: (to phone) I'm back. (pause) Yeah. (pause) Right.</p>
+<p>(GREG walks back out of the store with the bagged bottle.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY]</p>
+<p>(ROBBINS is working on a body. NICK and BRASS is standing there trying to convince ROBBINS to authorize an exhumation.)</p>
+<p><strong>Robbins</strong>: I checked her lungs-- bath water. And the blow to the back of the head consistent with a fall. Besides, homicide reported that nothing at the scene indicated foul play, so, there was no reason to do more than an abbreviated autopsy.</p>
+<p><strong>Brass</strong>: No one's impugning your work, doctor.</p>
+<p><strong>Nick</strong>: Yeah, it's nothing personal, Doc.</p>
+<p>(ROBBINS takes something out of the body and walks to the scale.)</p>
+<p><strong>Robbins</strong>: Well, this is personal, Nick. I tend to take my work to heart, and when the two of you come in here asking me to sign a court-ordered request for an exhumation of a body that's already left my hands, (ROBBINS dumps the organ on the scale.) I tend to take it very personally.</p>
+<p><strong>Brass</strong>: Look, I'm the one who said Shelley Stark's death was an accident, and I'm the one with second thoughts. I mean, it's my ass on the line.</p>
+<p><strong>Robbins</strong>: (getting angry) That's wrong, Captain. It's my ass on the line. I don't think the two of you are sensitive to what we're really talking about here. First of all, exhumations are costly and public. Makes this office look inept, and that's just internally. God forbid it gets in the newspaper. Remember something -- the public does not understand &quot;abbreviated autopsy&quot;. All they hear is, &quot;Oh, what did he miss?&quot;</p>
+<p><strong>Nick</strong>: No one's saying you missed anything. We have new evidence. We need to reevaluate the body.</p>
+<p><strong>Robbins</strong>: (hard) Respectfully, Nick, I don't think you understand.</p>
+<p><strong>Nick</strong>: I think I do understand.</p>
+<p><strong>Brass</strong>: (quietly) Yeah, Nick ... give us a minute, will you? Just a minute.</p>
+<p>(NICK leaves the room. ROBBINS sighs. BRASS takes a step forward.)</p>
+<p><strong>Brass</strong>: Neither of us want to be wrong, but this isn't about the press, the public, your office, you or me. This is about Shelley Stark. Now, we can do one of two things. We can do nothing, let this guy walk, or we can go to work, exhume the body, and find new evidence. Now, it's your call.</p>
+<p>(Camera holds on ROBBINS.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. GRAVESITE -- DAY]</p>
+<p>(The backhoe breaks into the grass at the gravesite.)</p>
+<p>(Dissolve to: Diggers starts to clear the area with shovels.)</p>
+<p>(Dissolve to: The coffin is raised from the hole.)</p>
+<p>(Cut to: The coffin rises under ROBBINS' watchful supervision.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(Camera close up of the computer. GREG is on the computer working on the water analysis. The computer read out shows:</p>
+<p>VICTIM: D. MAX DATE: 4/23<br />
+VICTIM: C. FLYNN DATE: 4/24</p>
+<p>(The red spike for Naratriptamine flashes on screen.)</p>
+<p>(GREG absently raises the purple can to his lips. He stops and looks at it, stands, then throws it in the trash.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- HALLWAY]</p>
+<p>(GREG walks up to CATHERINE in the hallway and fills her in with the findings.)</p>
+<p><strong>Greg</strong>: The poison in both bottles is naratriptamine. Same trace impurities in the water-- sulfides, phenols, amino acid complexes and caffeine.</p>
+<p><strong>Catherine</strong>: So, we've got two bottles of poisoned Innoko water -- one from a comedy club on western, the other from a convenience store halfway across town.</p>
+<p><strong>Greg</strong>: What's the connection?</p>
+<p><strong>Catherine</strong>: There may not be one; it could just be random.</p>
+<p><strong>Greg</strong>: So, how are we going to get this guy?</p>
+<p><strong>Catherine</strong>: You know, they never caught the guy who put the cyanide in the Tylenol back in the '80s. They found out how the bottles were tampered with. That's where safety seals came from.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(GRISSOM tests the bottles to see whether there were any puncture holds in the plastic. In the back of the room, CATHERINE is looking through a scope. GRISSOM dunks the first bottle under the water and doesn't find any air bubbles/leaks.)</p>
+<p><strong>Grissom</strong>: No injection holes in the bottle from the Speedy Mart. Do you see anything?</p>
+<p><strong>Catherine</strong>: No, nothing yet.</p>
+<p>[SCOPE VIEW]</p>
+<p>(CATHERINE looks at the bottle cap under the scope and sees white crystals on the bottom inside cover. CATHERINE looks up.)</p>
+<p><strong>Catherine</strong>: Wait a minute. It's in the threads.</p>
+<p>(GRISSOM pulls out the baggie with the bottle cap from the other water bottle.)</p>
+<p><strong>Grissom</strong>: Would you like to try one from the Comedy Hole?</p>
+<p>(GRISSOM holds it out to CATHERINE.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY]</p>
+<p>(ROBBINS puts on his gloves. In the back of the room, NICK also puts on his gloves. DAVID is already gloved and is standing in front of the closed casket.)</p>
+<p><strong>Robbins</strong>: Mr. Phillips, she's not going to hop out of that coffin by herself.</p>
+<p><strong>David Phillips</strong>: Doc, I'm not quite sure how to proceed. (smiles) First exhumation.</p>
+<p><strong>Robbins</strong>: Well, it's very simple. You will open it up.</p>
+<p><strong>Nick</strong>: (deadpans) Now, if she grabs you, use your free hand and hold her down, okay?</p>
+<p>(DAVID seriously stares at NICK.)</p>
+<p><strong>David Phillips</strong>: Okay.</p>
+<p>CUT TO:<br />
+[INSIDE CASKET POV]</p>
+<p>(NICK opens the coffin cover. The lid squeaks.)</p>
+<p><strong>David Phillips</strong>: Wow. She's pretty well-preserved.</p>
+<p><strong>Nick</strong>: Well, embalming does ... </p>
+<p><strong>David Phillips</strong>: (getting enthused) ... removes the blood, retards bacterial growth, and, uh, pickles the tissue.</p>
+<p><strong>Robbins</strong>: David, would you go to the store and buy some cold cream?</p>
+<p>(DAVID looks at ROBBINS.)</p>
+<p><strong>David Phillips</strong>: Why?</p>
+<p><strong>Robbins</strong>: Her makeup -- it's got to come off.</p>
+<p><strong>David Phillips</strong>: (slightly disappointed) Oh. Okay.</p>
+<p>(DAVID turns to leave.)</p>
+<p><strong>Robbins</strong>: Thanks.</p>
+<p><strong>Nick</strong>: Thanks, Dave.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LOUNGE/BREAK ROOM]</p>
+<p>(On the television set, the newsreporter from EYEWITNESS NEWS, PAULA FRANCIS, gives her report.)</p>
+<p><strong>Paula Francis</strong>: (from tv) Las Vegas awakens today with a terrible realization that our city may face a new and deadly menace. </p>
+<p>(WARRICK is in the break room with LEAH, GREG and HODGES, who holds an open newspaper. They pause to watch the news report.)</p>
+<p><strong>Paula Francis</strong>: Fifteen-year-old Casey Flynn collapsed and died this morning shortly after drinking a bottle of Innoko water at a convenience store near Torrey pines.</p>
+<p><strong>Leah</strong>: What kind of sick b*st*rd would do something like this?</p>
+<p><strong>David Hodges</strong>: The question isn't who -- it's how. As in how do they expect this lab to test forty thousand bottles of overpriced tap water?</p>
+<p><strong>Warrick</strong>: If we have to, one bottle at a time until we find every tainted bottle.</p>
+<p>(Camera cuts back to the news report which shows the headline: PUBLIC PANIC. The camera has an outside view of the police outside the convenience store. Camera cuts to a close up of a LAS VEGAS POLICE CAR. Cut to: Innoko Bottled Water being re-boxed.)</p>
+<p><strong>Paula Francis</strong>: (from tv) ... at the Comedy Hole. The events occurred on opposite ends of town, have not yet established a definite connection between the two deaths. But Las Vegas residents fear the worst -- that our city may be in the grip of a product-tampering nightmare.</p>
+<p>CUT TO:<br />
+[INT. CSI - BREAK ROOM -- DAY] </p>
+<p>(GREG, WARRICK and LEAH sit at the table. HODGES is getting himself a cup of something.)</p>
+<p><strong>Greg</strong>: (to everyone) You know how they tested for the cyanide in the Tylenol case? (to HODGES) Hodges? (quickly) One, two, three?</p>
+<p>(GREG imitates a buzzer.)</p>
+<p><strong>Greg</strong>: They took it to the airport. They x-rayed bottles in bulk using baggage scanners.</p>
+<p><strong>Leah</strong>: (smiles and nods) Nice. Cyanide is opaque to x-rays.</p>
+<p>(HODGES folds the paper that he's reading and takes the seat next to GREG.)</p>
+<p><strong>David Hodges</strong>: Yeah, cyanide and x rays -- that's a lucky break. But any of you geniuses have a &quot;lucky&quot; test for naratriptamine?</p>
+<p>(CATHERINE rounds the hallway corner and walks in through the doorway.)</p>
+<p><strong>Catherine</strong>: (interrupting) We've got a bigger problem than we thought we had.</p>
+<p><strong>David Hodges</strong>: Why are you looking at me?</p>
+<p><strong>Catherine</strong>: I'm not looking at you.</p>
+<p><strong>David Hodges</strong>: Yes, you are.</p>
+<p><strong>Catherine</strong>: (closes her eyes for a moment before continuing) We think that we nailed the tampering method. The poison wasn't inside the bottle. It was on the bottle cap.</p>
+<p>(Quick demonstration of: The person picks up the bottled Innoko water.)</p>
+<p><strong>Catherine</strong>: (V.O.) We think that the killer dripped a solution of naratriptamine into the threads of the bottle cap.</p>
+<p>(The person drips the solution into the holds in the sealed cap sides.)</p>
+<p><strong>Catherine</strong>: (V.O.) Capillary action pulled the solution into the threads, where it dried into white crystals.</p>
+<p>(End of quick demonstration. Resume to present.)</p>
+<p><strong>Warrick</strong>: Oh, so, each time Dougie Max and Casey Flynn took a sip, the liquid came in contact with the threads and washed back into the bottle.</p>
+<p>(Quick black &amp; white flashback to: DOUGIE MAX throws his head back and drinks from the bottled water. End of flashback. Resume to present.)</p>
+<p><strong>Greg</strong>: And so the poison I found in the Innoko water was... backwash. Which means that we're going to have to take the caps off of forty thousand bottles.</p>
+<p><strong>Catherine</strong>: Right now, that's the way it looks.</p>
+<p><strong>Warrick</strong>: Great.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAB]</p>
+<p>(GRISSOM checks out an empty water bottle. He picks up his glasses from the table and puts them on.)</p>
+<p>(Camera close up of the lot # on the bottle reads: )</p>
+<p>PRD 03 FEB10 10:32<br />
+EXP FEB 2005 AN1WC<br />
+NV5871</p>
+<p>(He compares it to the lot # of the second bottle: )</p>
+<p>PRD 03 FEB10 10:32<br />
+EXP FEB 2005 AN1WC<br />
+NV5871</p>
+<p>(They're exactly the same. He stands up and leaves the lab carrying the two bottles.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAB -- CONTINUOUS]</p>
+<p>(GRISSOM walks into the lab. WARRICK is there.)</p>
+<p><strong>Grissom</strong>: I need to see the lot numbers of the bottles you pulled from the convenience store.</p>
+<p><strong>Warrick</strong>: I got all the stacks arranged by locations, so the convenience store is right here. 140 bottles-- NV6630.</p>
+<p>(GRISSOM looks at the lot # on the bottle. It doesn't match.)</p>
+<p><strong>Grissom</strong>: The tainted bottles didn't come from this lot.</p>
+<p><strong>Warrick</strong>: Well, the bottle that killed Casey Flynn came from this store.</p>
+<p><strong>Grissom</strong>: Somebody may have just walked in and put it there, though. Where are the bottles from the comedy club?</p>
+<p><strong>Warrick</strong>: Over here.</p>
+<p>(WARRICK pulls out a box with the lot # stamped on the side of the box:</p>
+<p>PRD 03 FEB10 10:32<br />
+EXP FEB 2005 AN1WC<br />
+NV5871</p>
+<p><strong>Grissom</strong>: These are a match.</p>
+<p><strong>Warrick</strong>: So, the source of the poison bottles was the comedy club.</p>
+<p><strong>Grissom</strong>: Maybe the killer wanted us to think it was random product tampering.</p>
+<p><strong>Warrick</strong>: Why?</p>
+<p><strong>Grissom</strong>: Cover up one murder with another?</p>
+<p>(GRISSOM turns to look at WARRICK. Camera holds on WARRICK.)</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY]</p>
+<p>(NICK and ROBBINS work on SHELLEY STARK'S exhumed body.)</p>
+<p><strong>Nick</strong>: I've never seen one like this.</p>
+<p><strong>Robbins</strong>: Embalming fluid's a witch's brew of formaldehyde, phenol, menthonol and alcohol, perfume and pink coloring agent.</p>
+<p><strong>Nick</strong>: Kills the bacteria, but ... mold feeds on it?</p>
+<p><strong>Robbins</strong>: Yeah. It's like bathing an infant, Nick. Soft and always in motion.</p>
+<p>(ROBBINS stops and takes a look at the body. Aware that ROBBINS has stopped working, NICK looks up.)</p>
+<p><strong>Nick</strong>: What's wrong? I'm not doing it right?</p>
+<p><strong>Robbins</strong>: No, you're doing fine. See the bruising on her back and her right elbow?</p>
+<p><strong>Nick</strong>: It's consistent with her fall. But it wasn't in your report.</p>
+<p><strong>Robbins</strong>: Well, it wasn't evident four weeks ago. Subtle bruising may not be evident ...</p>
+<p>(Quick flashback to: Top view of the body on the table as the body is being embalmed.)</p>
+<p><strong>Robbins</strong>: (V.O.) ... at the time of death, but it can be accentuated by the embalming process ...</p>
+<p>(Cut to: The body is being embalmed. Camera moves in on the bruises on the back.)</p>
+<p><strong>Robbins</strong>: (V.O.) ... after the body leaves my slab. This bruising would have meant nothing to the mortician.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: They're in the beauty business.</p>
+<p><strong>Robbins</strong>: It's my job to spot them, their job to cover them. Let's turn her over. (cc) Got her?</p>
+<p>(cc) NICK: Yeah.</p>
+<p><strong>Robbins</strong>: Here we go.</p>
+<p>(They flip the body over.)</p>
+<p><strong>Robbins</strong>: All right, let's see what's under that makeup. </p>
+<p>(ROBBINS digs into the cold cream and starts to take off the make up. As they work with the cold cream, more bruises are uncovered. They find a lot of bruises suspiciously in the shape of a handprint.)</p>
+<p><strong>Robbins</strong>: Bruises on her face.</p>
+<p><strong>Nick</strong>: Brass was right. We are looking at murder.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY ]</p>
+<p>(GREG, GRISSOM and CATHERINE walk through the hallway.)</p>
+<p><strong>Greg</strong>: Naratriptamine comes in tablet form. In order to get it in the solution, you'd have to grind it up.</p>
+<p><strong>Grissom</strong>: There were traces of caffeine with the naratriptamine.</p>
+<p><strong>Catherine</strong>: Right. But how did it get there?</p>
+<p><strong>Greg</strong>: Maybe it got there during the grinding process.</p>
+<p><strong>Catherine</strong>: There was a coffee grinder in the green room at the Comedy Hole.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. COMEDY CLUB - GREEN ROOM]</p>
+<p>(GRISSOM picks up the coffee grinder from the counter. He looks at it before bagging it.)</p>
+<p><strong>Grissom</strong>: Do you provide your comedians with or do they brew their own?</p>
+<p><strong>Alan</strong>: Around here you get generic. If they want something special, they can bring a thermos. (When it's evident that GRISSOM'S going to just take the stuff. He throws his hands up.) Just take whatever you want, okay?</p>
+<p>(ALAN turns and walks out of the room.)</p>
+<p><strong>Alan</strong>: Knock yourself out.</p>
+<p>(GRISSOM looks at the cartoon characterization drawing on the wall of DOUGIE MAX. It reads:<br />
+Go Home! (in black), Screw You! (in white), Sell Out (in blue)<br />
+$ Money can't buy you talent (in black)<br />
+See out (in yellow).)</p>
+<p>(It's signed, Dougie Max. Below that is &quot;Who?&quot; in blue. Under that is written<br />
+&quot;It's a cruel world ... you suck!&quot; (in black).)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. COMEDY CLUB - DAY -- CONTINUOUS]</p>
+<p>(GRISSOM stands in front of the memorial wreath set up in the front of the club with banners reading, &quot;We'll miss you&quot; draped on it. It has a photo of DOUGIE MAX in it with a star with the words, &quot;It's a cruel world, ain't it?&quot; on it. Under the picture is &quot;March 28, 1968 - April 24, 2003.)</p>
+<p><strong>Alan</strong>: That's the last picture taken of Dougie Max before he died.</p>
+<p>(GRISSOM takes out his glasses and puts them on. He leans in toward the picture. The camera zooms in on the red light in the background.) </p>
+<p><strong>Grissom</strong>: Doesn't the red light mean, &quot;Get off the stage?&quot; </p>
+<p><strong>Alan</strong>: No, the red light means &quot;Get off the stage NOW.&quot;</p>
+<p><strong>Grissom</strong>: So why were you giving Dougie Max the red light?</p>
+<p><strong>Alan</strong>: (confused) He's my headliner. I wasn't giving him the red light.</p>
+<p>(GRISSOM walks around the counter and puts on a pair of latex gloves. He turns the light switch on and off. On the stage, the red light switches on and off. ALAN turns around to look at the red light switching on and off as it's reflected back on the wall behind the stage. He looks at GRISSOM.)</p>
+<p>(GRISSOM takes out his flashlight and examines the light switch where he notices some blood stains. GRISSOM looks at ALAN.)</p>
+<p><strong>Grissom</strong>: We're going to need a sample of everyone's DNA.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. COMEDY CLUB - BACK ROOM -- DAY]</p>
+<p>(CATHERINE and an officer enter the backroom to get the DNA samples.)</p>
+<p><strong>Catherine</strong>: All right, gentleman. Good afternoon. Could you line up for me, please. Right up here, please.</p>
+<p><strong>Michael Borland</strong>: Is this going to take a long time? I've got a 4:00 bikini wax that I don't want to miss.</p>
+<p><strong>Bartender</strong>: I got to get my wig redone like in a half hour, so if we...</p>
+<p>[GILBERT GOTTFRIED]: I have plenty of time. I have no career.</p>
+<p><strong>Catherine</strong>: Right, well, I can see you all know how to open your mouths, so ... good. (She holds up a swab.) Ready? </p>
+<p>([GILBERT GOTTFRIED] deliberately shuts his mouth. CATHERINE sighs.) </p>
+<p><strong>Catherine</strong>: Just give me an &quot;O.&quot;</p>
+<p>[GILBERT GOTTFRIED]: I need a lot of foreplay.</p>
+<p><strong>Catherine</strong>: Oh, well, then maybe I should use a rectal swab.</p>
+<p>[GILBERT GOTTFRIED]: Ah ... oh.</p>
+<p>(When he opens his mouth to respond, CATHERINE shoves the swab in his mouth.)</p>
+<p><strong>Catherine</strong>: Good boy. </p>
+<p>(CATHERINE turns to the other two men.)</p>
+<p><strong>Catherine</strong>: Okay, who's next for some foreplay</p>
+<p>(The BARTENDER is biting his nails.) Oh, a nail biter, huh? You mind if I see your hands? </p>
+<p>(He holds out his hands for CATHERINE to look at. Camera close up of the blood on his fingertips where he bit his nails down to the skin.)</p>
+<p>(Quick flashback to: DOUGIE MAX is on stage during his act.)</p>
+<p><strong>Dougie Max</strong>: I'm one of eleven kids from twelve dads. You figure it out.</p>
+<p>(In the back of the room, The BARTENDER is flicking the light switch on and off.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Bartender</strong>: Yeah, I gave him the red light. What are you going to do, arrest me for distraction with intent to humiliate? I'm guilty. (He looks around at the other two men. Nobody laughs at his joke.) What? Are you kidding me? I was joking.</p>
+<p><strong>Catherine</strong>: Funny.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM]</p>
+<p>(BRASS is interviewing GEORGE STARK in the presence of his LAWYER. BRASS is pacing the room as he explains why they're there.)</p>
+<p><strong>Brass</strong>: You know, something about your wife's case never felt right to me. It bugged me, kept me up at night. It's not because you called your insurance company and filed a claim the next day. It's your policy; it's your right. It's not because you bought a new Ferrari; it's your money. Or because you're with a beautiful girl. I mean, you just lost your wife, you need some companionship. (he pauses) No. It's because of something you said.</p>
+<p>(Quick flashback to: GEORGE STARK has his head in his hands and is crying.)</p>
+<p><strong>George Stark</strong>: (sobbing) What am I going to do? She was my life. </p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: You said, &quot;She WAS my life.&quot; Not 'is'.</p>
+<p><strong>George Stark</strong>: That's why I'm sitting here? Because I used the wrong tense at the time of my wife's death?</p>
+<p><strong>Brass</strong>: No, hold on a minute. I've been a detective for half my life. I can count on one hand the times surviving spouses used the past tense, and I got to tell you, I'll be damned if every one of them wasn't guilty of something.</p>
+<p>(GEORGE STARK doesn't say anything.)</p>
+<p><strong>Brass</strong>: Now, I mean, that's just me. I mean, in a court of law it means nothing.</p>
+<p><strong>Nick</strong>: But ... this ...</p>
+<p>(NICK puts some photos down on the table, face up, one by one.)</p>
+<p><strong>Nick</strong>: ... and this ... and this ... mean everything. The fact that you're left-handed doesn't hurt us either. Hurts you, though.</p>
+<p>(GEORGE STARK'S lawyer looks at the pictures and is puzzled by their unfamiliarity.)</p>
+<p><strong>Lawyer</strong>: Wait a minute. I haven't seen these.</p>
+<p><strong>Nick</strong>: New evidence. Body was exhumed by a court order. Second autopsy.</p>
+<p><strong>George Stark</strong>: You dug her up.</p>
+<p><strong>Nick</strong>: (nods) Mm-hmm.</p>
+<p><strong>George Stark</strong>: I didn't give anyone permission to dig her up.</p>
+<p><strong>Brass</strong>: You're a suspect in a murder case. We don't need your permission.</p>
+<p><strong>George Stark</strong>: (to his lawyer) Can they do that?</p>
+<p><strong>Lawyer</strong>: Yeah.</p>
+<p><strong>Brass</strong>: (to GEORGE STARK) You killed your wife, George.</p>
+<p><strong>George Stark</strong>: I loved my wife.</p>
+<p><strong>Brass</strong>: And she loved you. Which is why she didn't react when you walked into the bathroom that night.</p>
+<p>(Quick flashback to: GEORGE STARK walks into the bathroom where SHELLEY STARK is taking a bath. He starts to help her with her bath by gently dabbing at her brow with a towel. She closes her eyes and relaxes in the water.)</p>
+<p>(He puts the towel aside, grabs her with his left hand and pushes her head under the water. She struggles. He holds her under until she stops breathing.)</p>
+<p>(GEORGE STARK reaches out and grabs the bath towel railing with both hands and rips it out of the wall.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: You staged the crime scene.</p>
+<p><strong>Brass</strong>: You see, it's physically impossible for her to pull that towel rack off the bathroom wall.</p>
+<p><strong>George Stark</strong>: It was an accident. You said so yourself.</p>
+<p><strong>Brass</strong>: I was wrong.</p>
+<p>(GEORGE STARK shakes his head. His LAWYER shakes his head.)</p>
+<p><strong>Lawyer</strong>: I see the pictures. I hear the theories. Still doesn't make my client a murderer.</p>
+<p>(NICK glares at the LAWYER and doesn't say anything.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. POLICE DEPARTMENT -- DAY]</p>
+<p>(GEORGE STARK walks out of the police department with his LAWYER. He laughs and looks up just in time to see the tow truck take his new Ferrari away. He runs after the tow truck.)</p>
+<p><strong>George Stark</strong>: Hey! Hey! Hey! That's my car! What are you ... ?</p>
+<p>(BRASS and NICK walks out onto the sidewalk. GEORGE STARK turns around.)</p>
+<p><strong>George Stark</strong>: What the hell is going on? </p>
+<p><strong>Lawyer</strong>: This is harassment.</p>
+<p><strong>Brass</strong>: We don't have enough to file charges, but the insurance company feels they got more than enough.</p>
+<p><strong>Nick</strong>: Civil charges.</p>
+<p><strong>Brass</strong>: Translated: That means they want their cheese back, man. They want their $750k.</p>
+<p><strong>George Stark</strong>: They can just take my car?</p>
+<p><strong>Brass</strong>: For starters, yeah.</p>
+<p><strong>Nick</strong>: This isn't the end of our criminal investigation there, George. It's just the beginning.</p>
+<p>(NICK walks away.)</p>
+<p><strong>Brass</strong>: That's present tense.</p>
+<p>(BRASS turns and walks away.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GRISSOM'S OFFICE]</p>
+<p>(GREG reports his findings to GRISSOM. He stands in front of GRISSOM'S desk, while GRISSOM sits behind it.)</p>
+<p><strong>Greg</strong>: The coffee you bagged from the club doesn't match the tainted Innoko water. That's the bad news.</p>
+<p><strong>Grissom</strong>: Still listening.</p>
+<p>(GREG sits down on GRISSOM'S desk.)</p>
+<p><strong>Greg</strong>: You know what I have that you want in the mornings? Apart from my devilish grin and rakish good looks, of course.</p>
+<p><strong>Grissom</strong>: I like your coffee.</p>
+<p><strong>Greg</strong>: No, no. You LOVE my coffee. And you want to know why? It's Blue Hawaiian. 40 bucks a pound, hand-picked ...</p>
+<p><strong>Grissom</strong>: I know, the finest money can buy.</p>
+<p><strong>Greg</strong>: No, not even close. Just let me get there. Now caffeine by itself is not distinctive. It's in all kinds of coffee by definition. Now the trace amino acid complex, on the other hand, is a signature.</p>
+<p><strong>Grissom</strong>: Okay, so you've identified the type of coffee.</p>
+<p>(GREG hits his hand against the results.)</p>
+<p><strong>Greg</strong>: Kopi luwak. The most expensive coffee in the world. Revered for its rich, chocolatey texture and made from the excrement of a small indonesian cat-like creature known as a luwak.</p>
+<p><strong>Grissom</strong>: Cat feces?</p>
+<p><strong>Greg</strong>: The luwak eats only the ripest beans, which pass through its digestive system intact. However, during the process enzymes break down a number of amino acids which cause bitterness. </p>
+<p><strong>Grissom</strong>: (understands) And leaves a unique chemical signature. </p>
+<p><strong>Greg</strong>: So whichever one of your suspects drinks kopi luwak is your killer.</p>
+<p>(GRISSOM looks down at the results and smiles.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. COMEDY HOLE -- NIGHT]</p>
+<p>(MICHAEL BORLAND is on center stage.)</p>
+<p><strong>Michael Borland</strong>: We are a bashing nation. Gay bashing? You know what that is? That's guys going, &quot;I hate you 'cause you're queer ... (he hits the mike in time with the phrasing) and you're gay, and you're kind of attractive ... and I would like to have s*x with you but I'm in the closet so I'll just beat you up and then play with myself in my trans am on the way home.&quot;</p>
+<p><strong>Heckler</strong>: Boo.</p>
+<p>(Looks up at the HECKLER.)</p>
+<p><strong>Michael Borland</strong>: &quot;Boo&quot;? Oh, I'm sorry. I didn't mean to offend you. Hey, you know what? If that offends you, perhaps you should just come out of the closet and move on with your life. You're going to feel so much better. You know, you are what you hate.</p>
+<p>(Only one person claps ... pathetically.)</p>
+<p><strong>Michael Borland</strong>: All right, um ... </p>
+<p>(He looks around to illustrate his point. He picks up the bottle of water from the chair and uncaps it ... and goes into DOUGIE MAX'S routine ... )</p>
+<p><strong>Michael Borland</strong>: ... mm, I'm a little dehydrated. I hope you don't mind if I replenish my bodily fluids. Mm...</p>
+<p>(He drinks from the water and spits it out into the audience. The audience starts to laugh. Some even start to applaud.)</p>
+<p><strong>Michael Borland</strong>: It's a cruel world ... !</p>
+<p><strong>Crowd</strong>: Ain't it great? Yeah!</p>
+<p><strong>Michael Borland</strong>: You know what you'd like? How many people would like it if I just, if I just dropped trousers right now and pee on Vin Diesel's head, huh?</p>
+<p>(The audience starts to get into it. They cheer.)</p>
+<p><strong>Michael Borland</strong>: Wouldn't you like that? I'll do it! I'm willing to do it for you good people. I'll do it.</p>
+<p>(He reaches for his pants belt and zipper. He does it.)</p>
+<p>(Camera shifts to GRISSOM who watches the act with a grim look on his face. The audience cheers.)</p>
+<p>(Cut back to the stage. MICHAEL BORLAND refastens his pants while continuing his routine.)</p>
+<p><strong>Michael Borland</strong>: Open wide. I'm flattering myself, ladies and gentlemen. You don't have to open up that wide. See, I'm implying I have a tiny, tiny pen1s. </p>
+<p>(MICHAEL BORLAND turns around and picks up his glass coffee cup from behind him.)</p>
+<p><strong>Michael Borland</strong>: That's what that joke would be. Ergo, the comedy. I'm talking about penises. (He takes a sip of coffee from his cup. From the back of the room, GRISSOM sees this.) You just want to eat out of that toilet bowl. Yum, yum.</p>
+<p>(GRISSOM turns to the COMEDY HOLE OWNER and nods. The COMEDY HOLE OWNER heads for the back of the bar where the switch to the red light is. MICHAEL BORLAND sees ALAN reach for the switch. ALAN flicks on the red light.)</p>
+<p>(The audience cheers.)</p>
+<p><strong>Michael Borland</strong>: Shut up.</p>
+<p>(The audience continues to cheers.)</p>
+<p><strong>Michael Borland</strong>: Shut up. Don't you get it? Are you that stupid? I am making fun of you. I am the lowest common denominator in comedy when I do that crap.</p>
+<p>(The audience calms down.)</p>
+<p><strong>Michael Borland</strong>: The only way I could get you to stop laughing now is if I went to every single table and slit every one of your throats. </p>
+<p>(The audience quiets down, confused.)</p>
+<p><strong>Michael Borland</strong>: I can see that I am getting the red light, ladies and gentlemen, and that means it's time for me to stop. Stop with the hate and stop with the fear. Stop with the lies. Comedy, uh, comedy's supposed to be about The Truth. You know, uh, I killed tonight. And, uh, I killed ... uh ... two nights ago .... Dougie Max ... uh ... on this stage. </p>
+<p>(Camera cuts to: GRISSOM -- grim -- in the back of the room.)</p>
+<p><strong>Michael Borland</strong>: 'Cause I despised everything he stood for. Dumb people, like you. </p>
+<p>(MICHAEL steps down from the stage and slowly makes his way to GRISSOM.)</p>
+<p><strong>Michael Borland</strong>: You think I did a disservice to the world by killing Dougie Max? You ought to give me a parade. But the shame of it is, is that, uh, an innocent kid got killed, too, and, uh ... I blame you.</p>
+<p>(MICHAEL BORLAND points the mike to GRISSOM. GRISSOM doesn't crack a smile.)</p>
+<p><strong>Michael Borland</strong>: Yeah, I, uh ... I didn't think you were going to get the joke.</p>
+<p><strong>Grissom</strong>: Oh, I got it. (beat) It just wasn't funny.</p>
+<p>(GRISSOM grabs the mike away from MICHAEL'S hand. The officers put him in hand cuffs. Camera holds on GRISSOM.)</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-Emcee:  Ladies and gentlemen, please put your hands together for the Comedy Hole's very own Michael Borland.
-
-
-
-
-
-Michael Borland: Look, look, the Kennedys killed Marilyn Monroe. I'm pretty sure the gunman in the grassy knoll was either Arthur Miller or Joe DiMaggio. &quot;Bang my wife...?&quot;
-
-
-
-
-Dougie Max:  &quot;Hey, if you'd have me, I'd ask you to marry hell, somebody's got to clean my apartment.&quot;
-
-
-Michael Borland: Hey, how many of you people know the theme to Gilligan's Island?
-
-Michael Borland: All right. Now, how many of you can recite the Bill of Rights?
-
-Michael Borland: That's-that's-that's ... who cares? It's really not that important. We don't use it anymore.
-
-
-
-
-
-Michael Borland: I hear a lot of folks saying, &quot;you know, if it wasn't for the us, the, uh, French would be speaking German.&quot;
-
-Michael Borland: Yeah, well, if it, if it wasn't for the French, you'd be speaking Cherokee.
-
-Michael Borland: Oh, I'm sorry. Did I hurt your brains?
-
-
-
-Dougie Max:  &quot;That's my time, everybody. Tip for the night: If you don't know what you're doing, don't do it harder. Good night, everybody!&quot;
-
-Dougie Max: Zip me up.
-
-Waitress: Anything else?
-Dougie Max: Yeah. Laugh.
-
-Michael Borland:  It recently came out that Jesus could've had siblings.
-
-
-
-Michael Borland:  Could you imagine growing up having Jesus in your family? &quot;Why can't you be more like your brother?&quot;
-Dougie Max:  What's up, Dude?
-Michael Borland:  &quot;Uh, 'cause he's the Messiah. He's the Son of God.&quot;
-Dougie Max:  Hi, Lis. All right!
-Michael Borland: &quot;When your brother's home, we always have wine.&quot;
-Alan:  Caught your act on the tube last night. You knocked them out. I had to turn up the volume, I was laughing so loud.
-Dougie Max: This art exhibit get any laughs?
-Alan: Hey, come on, you're my only headliner, you know that.
-
-Michael Borland: Well, I'm Michael Borland, and that's my time ... 
-
-Michael Borland: ...and that's your silence. All right, now, ladies and gentlemen, let me introduce you to the headliner this evening ...
-
-Michael Borland: ... a man I'm sure you know from his hit TV show, &quot;Dougie to the Max&quot;, Mr. Dougie Max!
-
-Michael Borland: Hey, man ... 
-Dougie Max:  Remember when I used to open for you?
-
-Dougie Max: What's up, Vegas?!
-
-
-Dougie Max: Hey, kid, it's a cruel world!
-
-Dougie Max: Ain't it great?! Bam!
-
-
-
-
-Brass: Welcome to the tragedy hall. Hey, you hear the one about the comedian who died onstage?  Literally.
-Catherine: Buh-du-bum.
-Brass: I'll be here all week.
-Catherine: Maybe he slipped on a banana peel.
-Brass: Buh-du-bum.
-Catherine: Hmm.
-Brass: Crowd thought it was part of his act ... till he didn't get up.
-
-Catherine: Hi, David.
-David: Hey, Catherine.
-
-Catherine: Well, there's no foam on the mouth. No discoloration around the lips. Pupils aren't dilated. No overt evidence of a drug overdose.
-Grissom: When was the last time a comedian died of natural causes?
-David: Clenched fist ... classic levine sign. 
-Grissom: He's awfully young for a heart attack.
-
-Brass: Well, live fast, die young ... I forget the rest.
-Grissom:  Excuse me! Could someone turn down the house lights, and turn up the stage lights? Thank you.
-
-Grissom: I want to see what he saw ... right before he died.
-Catherine: What do you see?
-Grissom: Nothing.
-Catherine: What are you looking for?
-Grissom: A punchline?
-Brass: Buh-du-bum.
-HARD CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
-
-
-: See, here's a switch. They've got him rolling in the aisles. Well, I guess he's off to a better place.
-Michael Borland:  Any place would be better than this dump.
-Alan:  Hey, hey, hey!
-Michael Borland: Sorry, Alan. I didn't see you.
-Alan: At least Dougie put laughter in the air and asses in the seats and drinks on the tab.  I loved that guy. Took me fifteen years to find the next Kinison, and the minute I do, he gets a sitcom. Now I have to pay him a king's ransom to come back here once a year, and this is where he started.
- Figures the b*st*rd would die on me. You know, I-I should put up a sign, you know, like in Dealey Plaza, &quot;Kennedy shot here,&quot; &quot;Dougie Dropped here.&quot;
-
-Bartender: Hey, Alan, you got a spot open now. What do you say tomorrow you give me some time?
-Alan: You got a job. You want to keep it? 
-
-Alan:  Here, check out the wall. Any one of these guys'd kill to have his stage.
-
-
-
-
-
-
-Catherine: Oh, china ...
-
-
-
-
-Grissom: Six bottles of Innoko water. Three partially filled, three unopened.
-Brass: Don't go Cousteau on me here. It was all part of his shtick. He was like Tarkanian with the towel. You know, always biting and pacing. Dougie's mantra was, &quot;It's a cruel world. Ain't it great?&quot;  Uh, it was low-brow. Strictly chug-and-belch.
-Grissom: Laughter is an involuntary motor response triggered by survival issues: Food, s*x, body functions ... death.
-Brass: Yeah, it's a cruel world.
-
-
-
-
-Catherine: So, who has access to the green room?
-Alan: Well, according to who? According to me, just the talent. According to these meat sticks -- the world.
-
-Catherine: All right. I would like to see everyone's wallet. I don't need to see your identification. Just open your wallets.
-
-Michael Borland: Uh, it says I'm 180 pounds, but I'm 145. I know that, in Nevada law, if there's a 25-pound discrepancy, that ... that's actually against the law.
-
-Catherine:  Thank you.
- 
-Catherine: Thanks.
-The Bartender: You're welcome.
-:  In this one I'm wearing a thong.
-
-Catherine: That's more than I needed to know. Thank you.
-
-(Quick flashback to: 
-THE WAITRESS is cutting the cocaine on the table using her credit card. End of flashback. Resume to present.)
-Catherine: When was the last time you used this credit card?
-Waitress: What?
-
-
-
-
-
-
-
-
-
-
-
-Grissom: C.O.D.?
-Robbins: Myocardial necrosis. Just what you'd expect from a heart attack, only I didn't find any blockages consistent with coronary disease. He was remarkably healthy for a dead guy.
-Grissom: Well, Dougie Max had more than comedy in his blood. Tox came back positive for coke.
-Robbins: The answer is ... the three main ways to take cocaine.
-
-Grissom: All right, &quot;Alex&quot;. What is: Snorting it, smoking it, or injecting it?
-Robbins: Very good. The answer is normal nasal passages, clear lungs, and no track marks on the body.
-Grissom: Continuing this childish metaphor ... what is: How did the drugs get into his system?
-Robbins: We'll have to wait for Final Jeopardy.
-
-
-
-
-
-Lawyer: My client has agreed to plead to possession and answer any questions. Nothing she tells you can be interpreted as criminal intent ...
-Catherine: Well, that's between you and the D.A. The preliminary tox screen on Dougie Max came back positive for cocaine.
-Waitress: Dougie was in a program, okay? It was my cocaine. He wasn't using.
-Catherine: It was in his blood.
-Waitress: Well ... Dougie always liked to do a little hum-and-coke before a show.
-
-Catherine: Cocaine on the foreskin, or any skin, for that matter, is not a stimulant; it's a numbing agent.
-Waitress: Right. That was the idea. You see, the goal wasn't to pop the cork. It was to ... shake the bottle.
-Catherine: Sounds frustrating.
-Waitress: Dougie liked to go out on stage frustrated.
-
-Dougie Max:  I ran away from home at age 25. I drank... and I whored ...
-
-Dougie Max: ... and I got my own show!
-
-Dougie Max: Yeah, Dougie to the Max, bee-yatch!
-
-
-Waitress: Gave him an edge. That was Dougie's philosophy: Go in hot ... burn the place down.
-
-
-
-
-Brass: Oh, you're making coffee. Good. I could use some.
-Nick: How do you take it?
-Brass: Today, high-octane black. I need your help with something.
-
-Nick: Shoot.
-Brass: A few weeks ago, homicide gets called to Green Valley. A woman in her
-40s slips in the bathtub and drowns. You know, cracked skull, raccooned eyes --
-I mean, a traumatic death, but nothing suspicious. 
-Nick: CSI found what?
-Brass: I didn't call them in. I ruled it an accident.
-Nick: What changed?
-Brass: Last night I saw the husband out on the town. I mean, I could tell you something, Nick. Three weeks ago, this guy was devastated.
-
-George Stark:  I should've been here. What am I going to do? I mean, she was my life.
-
-Nick: Onward and upward.
-Brass: No, but this is way upward. I mean, trades in his beat-up old Acura for a brand-new Ferrari. He's with a girl who gives more lift-off than-than Cape Canaveral.
-Nick:  People grieve in different ways, man.
-Brass: No, I understand that. I got no problem with that. I'm not a priest. That's why I called the life insurance carrier. And check this out. 
-
-Brass: The morning ... Shelley Stark ... was found, George Stark made a call to the life insurance agent. Went like this: &quot;My wife is dead. I want my money.&quot;
-I mean, just like that. All in one breath.
-Nick:  What's the payout?
-Brass: $750,000. Now, I got the police report, autopsy protocol, detective summary, and scene photos.
-
-Nick: You sure you're not looking for Grissom?
-
-Brass: I'm chasing something that Gil Grissom isn't interested in -- a hunch.
-
-
-
-
-Catherine: I don't have to run any tests. You cannot absorb enough cocaine through your pen1s to OD.
-Grissom: Cite your source.
-Catherine: I don't have a source. 
-Grissom: That's why we did the tests. 
-Catherine: Whatever.
-
-Greg: All right, who wants it?
-
-Catherine: Cocaine levels are less than .05 milligrams per liter. Way too low. That's not what killed him.
-Grissom: So what did?
-Greg: Well, according to your blood sample, naratriptamine.
-Grissom: The new migraine medication?
-Greg: Mm-hmm. Powerful stuff.
-Catherine: And what were the levels in the vic?
-Greg: 30 milligrams-- 12 times the recommended dosage.
-Catherine: Ooh. Dougie Max was poisoned.
-Greg: To the Max.
-
-
-
-
-
-
-
-Sara: Cop shots. No rulers, no markers.
-Nick: Just a bathroom, a towel bar, and a dead woman.
-
-Sara: Injuries are consistent with an accident.
-Nick: Yeah, but the contusion to the back of the head was not fatal.
-
-
-Sara: Abbreviated autopsy. Dr. Robbins oversaw.
-(Camera close up of a portion of the report. We see: 
-STARK, SHELLEY
-98-03810
-Dr: ROBBINS
-CAUSE OF DEATH:
-DROWNING
-Sara: Cause of death: Drowning. It jibes with the husband's account. It jibes with the detective's account. There is nothing in this file that suggests anything other than an accident.
-Nick: I don't know, Sara ... other people's notes, other people's photos, evidence twice-removed. No CSI even got to look at it.
-
-Sara:  Do you want to go to the bathroom?
-
-
-
-
-Grissom: Consumables from the club that matched Dougie's stomach contents. We know that he had naratriptamine in his system, and we also know that the poison was ingested.
-Catherine:  Because Spam can't be absorbed through the pen1s, and if you ask me to cite my source ... 
-
-Grissom: I'll take your word for it.
-
-(GRISSOM starts with the first water sample. The label on the bottle reads:
-INNOKO WATER BOTTLE 12
-4-21-03
-COMEDY HOLE
-CW
-
-
-
-
-
-
-Catherine: &quot;Death by chocolate&quot; again?
-
-
-Catherine:  Hmm.
-
-
-
-
-
-Nick: I'm Nick Stokes and Sara Sidle over there and we're with the Vegas Crime Lab.
-George Stark:  Miss, plea-please-please don't get so close to the car, all right? The alarm is really delicate.
-
-Nick: We're not really as concerned with the car, sir. What we'd like to do is look at your bathroom.
-George Stark: Um, why, wha-what would you like to look at the bathroom for?
-
-Nick: Like I said, we're with the crime lab. We're here to tie up some loose ends regarding your wife's case.
-
-George Stark: I appreciate how thorough you guys are being, but ... I got ... I got to be honest. This is pretty painful territory for me.
-Nick: Right. 
-George Stark: I mean, it's still pretty hard to get up in the morning without Shelley.
-Nick: I understand ...
-
-George Stark: Ma'am, Miss, I thought I ...
-
-Sara:  Sorry. I-I-I-I'm sorry. I, uh ... your neighbors are looking. 
-
-George Stark: I'll get the keys.  Come on. Come on in.
-
-
-
-
-
-Nick: It smells like fresh paint.
-George Stark: Yeah, I had the whole place redone this week. Bad memories.
-Nick: Did you replace the tub?
-George Stark: No.
-Nick: But you replaced the fixtures.
-Sara: There used to be a towel bar there. 
-George Stark: Yeah.
-Sara: Would you by any chance have the old towel bar lying around somewhere?
-George Stark: No, the contractor tossed it. It was junk. Came with the house. This whole subdivision comes stock. In fact, the first thing the broker told me when I bought it -- if I ever want to sell, invest in upgrades.
-Nick: You selling?
-George Stark: Too big for one person.
-Nick: Thank you.
-Sara: Uh, thanks for your time. Mmm.
-
-
-
-
-Sara: You pulled the plug kinda early. What's going on?
-Nick: Yeah, that bathroom's not the crime scene anymore. I say we go with the next best thing.
-
-Sara:  Model home.
-Nick:  Model home.
-
-
-
-
-
-Greg:  They all drank themselves to death.
-Grissom: You've isolated the source of the poison?
-
-Greg: Naratriptamine -- Innoko water bottle, number three.
-
-
-
-Dougie Max:  Oh, god.
-
-
-Grissom: What about the other bottles?
-Greg: Clean.
-Grissom: Okay. I need you to process that bottle for trace impurities.
-Greg: Got it. Anything that might've mixed in with the poison could help us identify the original source.
-Grissom: We identify the source ... maybe we identify the killer.
-
-Greg: Where are you going?
-Grissom: To get a drink.
-
-
-
-
-
-Nick: Seventy-five units with seventy-five identical floor plans. I never thought I'd be grateful for cookie cutter homes.
-
-Sara: Like bees in a hive. Gives me the creeps.
-
-Nick: You sure you don't want me to do this?
-Sara: Are you kidding? I live for this. I mean, Shelley Stark and I are the same height and weight.
-Nick: Yeah, but you're taller, thinner.
-Sara: Oh, butter that toast, Nick.
-
-Sara: Okay, I'm Shelley Stark.
-Nick: mm-hmmm.
-Sara: My bath is over, and I'm about to get out, so ...
-
-Sara: I brace myself with my left hand, and I'm getting up at a 45-degree angle, and I slip... so, I grab the first thing that I can.
-Nick: Towel bar.
-Sara: Towel bar.
-
-Sara: Okay. So, at this point, all of my weight is being supported by this bar.
-Nick:  And it doesn't budge.
-Sara: No.
-
-
-Nick: You okay?
-Sara:  Yeah, I'm fine. I'm fine ...
-
-Sara:  This thing is coming down.
-
-Sara: Okay.
-
-Nick: You sure you don't want me to do that?
-Sara:  No.
-Nick: Okay.
-
-Nick:  Sara.
-
-Sara: There is no way that Shelley Stark brought down this towel bar.
-Nick: You want me to give it a shot?
-
-
-
-
-
-
-Nick: Someone took a lot of effort to make this look like an accident.
-Sara: Yeah, about $750,000 worth of effort.
-
-
-
-
-Comedienne: Okay, so you know the thing that drives me crazy about men? You know how they take the toilet paper and then they put it up on top of the holder.
-
-Comedienne: What is that? Do they not see that? Are they just busy looking at their underwear on the floor?
-
-Comedienne: I got a nickname for my man. I call him Mr. Drop-and-stay, 'cause if he drops it, man, it just stays there.
-
-Comedienne: God, uh, ooh, well, and that's my time. Uh, you've been fourteen quiet people, six empty tables, and I'll see you in hell.
-
-Grissom:  Modern version of the old hook.
-
-Bartender: Welcome to open mike night, guys. What can I get you?
-Catherine: Information.
-
-Michael Borland:  Wow, your coffee stinks.
-Bartender:  Oh, really. I'm sorry it's not up to the standards of your crap-ass home brew, but that'll be five bucks all the same, my friend.
-Catherine: Dougie Max's Innoko water bottles that were on the stage his last performance -- who set them up?
-Bartender: Yours truly. Bartender. Mr. Max had very acquired tastes. Lofty demands, you know. Six pristine Innoko water bottles, labels all facing the Luxor. And a green room? Forget it. Silver tray, spam, choco bees -- all blue. Not-not to mention that, uh, passion fruit stuff -- what is it, two bucks a pop? Try to find that stuff.
-Grissom: Let's get back to the water. It was poisoned.
-
-Bartender: Really?
-Grissom: Mmm. The, uh, bottles you took out to the stage -- where'd they come from?
-Bartender: That... Dougie's private stash.
-Catherine: Well, besides you and Dougie, who had access to it?
-
-Bartender:  Nobody's allowed behind the bar besides the bar staff and me.
-
-: But no one listens to him.  You got a bottle opener?
-Bartender: Hey, that's going on your tab, you Leech!
-:  I'm scared.
-Catherine: Well, you've got a temper ... and a record. Assault. Club in Tucson.
-Bartender: Yeah, I had a temper, until I kicked the crap out of a heckler for interrupting my closing bit.
-Grissom: Do you get headaches?
-Bartender: I'm getting one right now.
-Grissom: We want all the Innoko water ... to go.
-(Without another word, the BARTENDER opens the cabinet and the camera lingers on the label on the box:
-INNOKO
-Natural Caffeine Free Water
-Bottled at the Source
-
-
-
-
-Grissom: Warrick ... this just in. D.B. at a convenience store on Torrey Pines. You're all I got.
-
-Warrick: I'm on it.
-
-Catherine: Oh, hey, listen. I checked the bartender's medical records. The guy's had six different prescriptions for migraines in the last two years. Guess which one he's on now.
-Grissom: Naratriptamine.
-
-
-
-
-
-Warrick: I'm Warrick Brown from CSI. You want to tell me what happened here?
-Cashier: I don't know. Kid walks in. He goes down an aisle. Next thing I know, he drops dead.
- 
-Warrick: Where'd he start?
-
-Cashier: He was pacing back and forth, scoping the place out. I always spot those kids. People don't know. You consume food or drink in the store, it's the same as shoplifting until you pay for it.
-Warrick: What'd he steal? 
-Cashier: A beverage. He put it back before I could catch him.
-Warrick: Where?
-Cashier: Over here.
-
-Warrick:  This isn't funny anymore.
-
-
-
-;
-
-
-
-
-
-
-Catherine:  Total recall. We pulled 140 bottles 
-
-Catherine:  ... of Innoko water off the shelves in this store alone. There's 500 convenience stores in Vegas. We need to get this product off the shelves now. Grocery stores, restaurants, wholesalers ... I mean not to mention the population of informing the people ... 
-
-Warrick: ... right now, it looks like only your Innoko water product is involved. CSI is going to need the name of any recent firings, anyone with a lawsuit against the company, anyone who's made threats against the company -- anyone with an axe to grind.
-Catherine:  Yes, I know that we risk panic, chief, but I'd rather risk that than have another victim.
-
-Catherine:  We need to find out what's in there.
-
-Catherine:  Right.
-
-
-
-
-
-Robbins: I checked her lungs-- bath water. And the blow to the back of the head consistent with a fall. Besides, homicide reported that nothing at the scene indicated foul play, so, there was no reason to do more than an abbreviated autopsy.
-Brass: No one's impugning your work, doctor.
-Nick: Yeah, it's nothing personal, Doc.
-
-Robbins: Well, this is personal, Nick. I tend to take my work to heart, and when the two of you come in here asking me to sign a court-ordered request for an exhumation of a body that's already left my hands,  I tend to take it very personally.
-Brass: Look, I'm the one who said Shelley Stark's death was an accident, and I'm the one with second thoughts. I mean, it's my ass on the line.
-Robbins:  That's wrong, Captain. It's my ass on the line. I don't think the two of you are sensitive to what we're really talking about here. First of all, exhumations are costly and public. Makes this office look inept, and that's just internally. God forbid it gets in the newspaper. Remember something -- the public does not understand &quot;abbreviated autopsy&quot;. All they hear is, &quot;Oh, what did he miss?&quot;
-Nick: No one's saying you missed anything. We have new evidence. We need to reevaluate the body.
-Robbins:  Respectfully, Nick, I don't think you understand.
-Nick: I think I do understand.
-Brass:  Yeah, Nick ... give us a minute, will you? Just a minute.
-
-Brass: Neither of us want to be wrong, but this isn't about the press, the public, your office, you or me. This is about Shelley Stark. Now, we can do one of two things. We can do nothing, let this guy walk, or we can go to work, exhume the body, and find new evidence. Now, it's your call.
-
-
-
-
-
-
-
-
-
-
-
-(Camera close up of the computer. GREG is on the computer working on the water analysis. The computer read out shows:
-VICTIM: D. MAX DATE: 4/23
-VICTIM: C. FLYNN DATE: 4/24
-
-
-
-
-
-
-Greg: The poison in both bottles is naratriptamine. Same trace impurities in the water-- sulfides, phenols, amino acid complexes and caffeine.
-Catherine: So, we've got two bottles of poisoned Innoko water -- one from a comedy club on western, the other from a convenience store halfway across town.
-Greg: What's the connection?
-Catherine: There may not be one; it could just be random.
-Greg: So, how are we going to get this guy?
-Catherine: You know, they never caught the guy who put the cyanide in the Tylenol back in the '80s. They found out how the bottles were tampered with. That's where safety seals came from.
-
-
-
-
-Grissom: No injection holes in the bottle from the Speedy Mart. Do you see anything?
-Catherine: No, nothing yet.
-
-
-Catherine: Wait a minute. It's in the threads.
-
-Grissom: Would you like to try one from the Comedy Hole?
-(GRISSOM holds it out to CATHERINE.
-
-
-
-
-Robbins: Mr. Phillips, she's not going to hop out of that coffin by herself.
-David Phillips: Doc, I'm not quite sure how to proceed.  First exhumation.
-Robbins: Well, it's very simple. You will open it up.
-Nick:  Now, if she grabs you, use your free hand and hold her down, okay?
-
-David Phillips: Okay.
-
-
-
-David Phillips: Wow. She's pretty well-preserved.
-Nick: Well, embalming does ... 
-David Phillips:  ... removes the blood, retards bacterial growth, and, uh, pickles the tissue.
-Robbins: David, would you go to the store and buy some cold cream?
-
-David Phillips: Why?
-Robbins: Her makeup -- it's got to come off.
-David Phillips:  Oh. Okay.
-
-Robbins: Thanks.
-Nick: Thanks, Dave.
-
-
-
-
-Paula Francis:  Las Vegas awakens today with a terrible realization that our city may face a new and deadly menace. 
-
-Paula Francis: Fifteen-year-old Casey Flynn collapsed and died this morning shortly after drinking a bottle of Innoko water at a convenience store near Torrey pines.
-Leah: What kind of sick b*st*rd would do something like this?
-David Hodges: The question isn't who -- it's how. As in how do they expect this lab to test forty thousand bottles of overpriced tap water?
-Warrick: If we have to, one bottle at a time until we find every tainted bottle.
-
-Paula Francis:  ... at the Comedy Hole. The events occurred on opposite ends of town, have not yet established a definite connection between the two deaths. But Las Vegas residents fear the worst -- that our city may be in the grip of a product-tampering nightmare.
-
- 
-
-Greg:  One, two, three?
-
-Greg: They took it to the airport. They x-rayed bottles in bulk using baggage scanners.
-Leah:  Nice. Cyanide is opaque to x-rays.
-
-David Hodges: Yeah, cyanide and x rays -- that's a lucky break. But any of you geniuses have a &quot;lucky&quot; test for naratriptamine?
-
-Catherine:  We've got a bigger problem than we thought we had.
-David Hodges: Why are you looking at me?
-Catherine: I'm not looking at you.
-David Hodges: Yes, you are.
-Catherine:  We think that we nailed the tampering method. The poison wasn't inside the bottle. It was on the bottle cap.
-
-Catherine:  We think that the killer dripped a solution of naratriptamine into the threads of the bottle cap.
-
-Catherine:  Capillary action pulled the solution into the threads, where it dried into white crystals.
-
-Warrick: Oh, so, each time Dougie Max and Casey Flynn took a sip, the liquid came in contact with the threads and washed back into the bottle.
-
-Greg: And so the poison I found in the Innoko water was... backwash. Which means that we're going to have to take the caps off of forty thousand bottles.
-Catherine: Right now, that's the way it looks.
-Warrick: Great.
-
-
-
-
-
-PRD 03 FEB10 10:32
-EXP FEB 2005 AN1WC
-NV5871
-
-PRD 03 FEB10 10:32
-EXP FEB 2005 AN1WC
-NV5871
-
-
-
-
-
-Grissom: I need to see the lot numbers of the bottles you pulled from the convenience store.
-Warrick: I got all the stacks arranged by locations, so the convenience store is right here. 140 bottles-- NV6630.
-
-Grissom: The tainted bottles didn't come from this lot.
-Warrick: Well, the bottle that killed Casey Flynn came from this store.
-Grissom: Somebody may have just walked in and put it there, though. Where are the bottles from the comedy club?
-Warrick: Over here.
-(WARRICK pulls out a box with the lot # stamped on the side of the box:
-PRD 03 FEB10 10:32
-EXP FEB 2005 AN1WC
-NV5871
-Grissom: These are a match.
-Warrick: So, the source of the poison bottles was the comedy club.
-Grissom: Maybe the killer wanted us to think it was random product tampering.
-Warrick: Why?
-Grissom: Cover up one murder with another?
-
-
-
-
-
-
-
-
-Nick: I've never seen one like this.
-Robbins: Embalming fluid's a witch's brew of formaldehyde, phenol, menthonol and alcohol, perfume and pink coloring agent.
-Nick: Kills the bacteria, but ... mold feeds on it?
-Robbins: Yeah. It's like bathing an infant, Nick. Soft and always in motion.
-
-Nick: What's wrong? I'm not doing it right?
-Robbins: No, you're doing fine. See the bruising on her back and her right elbow?
-Nick: It's consistent with her fall. But it wasn't in your report.
-Robbins: Well, it wasn't evident four weeks ago. Subtle bruising may not be evident ...
-
-Robbins:  ... at the time of death, but it can be accentuated by the embalming process ...
-
-Robbins:  ... after the body leaves my slab. This bruising would have meant nothing to the mortician.
-
-Nick: They're in the beauty business.
-Robbins: It's my job to spot them, their job to cover them. Let's turn her over.  Got her?
- NICK: Yeah.
-Robbins: Here we go.
-
-Robbins: All right, let's see what's under that makeup. 
-
-Robbins: Bruises on her face.
-Nick: Brass was right. We are looking at murder.
-
-
-
-
-Greg: Naratriptamine comes in tablet form. In order to get it in the solution, you'd have to grind it up.
-Grissom: There were traces of caffeine with the naratriptamine.
-Catherine: Right. But how did it get there?
-Greg: Maybe it got there during the grinding process.
-Catherine: There was a coffee grinder in the green room at the Comedy Hole.
-
-
-
-
-Grissom: Do you provide your comedians with or do they brew their own?
-Alan: Around here you get generic. If they want something special, they can bring a thermos.  Just take whatever you want, okay?
-
-Alan: Knock yourself out.
-(GRISSOM looks at the cartoon characterization drawing on the wall of DOUGIE MAX. It reads:
-Go Home! 
-$ Money can't buy you talent 
-See out 
-(It's signed, Dougie Max. Below that is &quot;Who?&quot; in blue. Under that is written
-&quot;It's a cruel world ... you suck!&quot; 
-
-
-
-
-Alan: That's the last picture taken of Dougie Max before he died.
- 
-Grissom: Doesn't the red light mean, &quot;Get off the stage?&quot; 
-Alan: No, the red light means &quot;Get off the stage NOW.&quot;
-Grissom: So why were you giving Dougie Max the red light?
-Alan:  He's my headliner. I wasn't giving him the red light.
-
-
-Grissom: We're going to need a sample of everyone's DNA.
-
-
-
-
-Catherine: All right, gentleman. Good afternoon. Could you line up for me, please. Right up here, please.
-Michael Borland: Is this going to take a long time? I've got a 4:00 bikini wax that I don't want to miss.
-Bartender: I got to get my wig redone like in a half hour, so if we...
-: I have plenty of time. I have no career.
-Catherine: Right, well, I can see you all know how to open your mouths, so ... good.  Ready? 
- 
-Catherine: Just give me an &quot;O.&quot;
-: I need a lot of foreplay.
-Catherine: Oh, well, then maybe I should use a rectal swab.
-: Ah ... oh.
-
-Catherine: Good boy. 
-
-Catherine: Okay, who's next for some foreplay
- Oh, a nail biter, huh? You mind if I see your hands? 
-
-
-Dougie Max: I'm one of eleven kids from twelve dads. You figure it out.
-
-
-Bartender: Yeah, I gave him the red light. What are you going to do, arrest me for distraction with intent to humiliate? I'm guilty.  What? Are you kidding me? I was joking.
-Catherine: Funny.
-
-
-
-
-Brass: You know, something about your wife's case never felt right to me. It bugged me, kept me up at night. It's not because you called your insurance company and filed a claim the next day. It's your policy; it's your right. It's not because you bought a new Ferrari; it's your money. Or because you're with a beautiful girl. I mean, you just lost your wife, you need some companionship.  No. It's because of something you said.
-
-George Stark:  What am I going to do? She was my life. 
-
-Brass: You said, &quot;She WAS my life.&quot; Not 'is'.
-George Stark: That's why I'm sitting here? Because I used the wrong tense at the time of my wife's death?
-Brass: No, hold on a minute. I've been a detective for half my life. I can count on one hand the times surviving spouses used the past tense, and I got to tell you, I'll be damned if every one of them wasn't guilty of something.
-
-Brass: Now, I mean, that's just me. I mean, in a court of law it means nothing.
-Nick: But ... this ...
-
-Nick: ... and this ... and this ... mean everything. The fact that you're left-handed doesn't hurt us either. Hurts you, though.
-
-Lawyer: Wait a minute. I haven't seen these.
-Nick: New evidence. Body was exhumed by a court order. Second autopsy.
-George Stark: You dug her up.
-Nick:  Mm-hmm.
-George Stark: I didn't give anyone permission to dig her up.
-Brass: You're a suspect in a murder case. We don't need your permission.
-George Stark:  Can they do that?
-Lawyer: Yeah.
-Brass:  You killed your wife, George.
-George Stark: I loved my wife.
-Brass: And she loved you. Which is why she didn't react when you walked into the bathroom that night.
-
-
-
-
-Nick: You staged the crime scene.
-Brass: You see, it's physically impossible for her to pull that towel rack off the bathroom wall.
-George Stark: It was an accident. You said so yourself.
-Brass: I was wrong.
-
-Lawyer: I see the pictures. I hear the theories. Still doesn't make my client a murderer.
-
-
-
-
-
-George Stark: Hey! Hey! Hey! That's my car! What are you ... ?
-
-George Stark: What the hell is going on? 
-Lawyer: This is harassment.
-Brass: We don't have enough to file charges, but the insurance company feels they got more than enough.
-Nick: Civil charges.
-Brass: Translated: That means they want their cheese back, man. They want their $750k.
-George Stark: They can just take my car?
-Brass: For starters, yeah.
-Nick: This isn't the end of our criminal investigation there, George. It's just the beginning.
-
-Brass: That's present tense.
-
-
-
-
-
-Greg: The coffee you bagged from the club doesn't match the tainted Innoko water. That's the bad news.
-Grissom: Still listening.
-
-Greg: You know what I have that you want in the mornings? Apart from my devilish grin and rakish good looks, of course.
-Grissom: I like your coffee.
-Greg: No, no. You LOVE my coffee. And you want to know why? It's Blue Hawaiian. 40 bucks a pound, hand-picked ...
-Grissom: I know, the finest money can buy.
-Greg: No, not even close. Just let me get there. Now caffeine by itself is not distinctive. It's in all kinds of coffee by definition. Now the trace amino acid complex, on the other hand, is a signature.
-Grissom: Okay, so you've identified the type of coffee.
-
-Greg: Kopi luwak. The most expensive coffee in the world. Revered for its rich, chocolatey texture and made from the excrement of a small indonesian cat-like creature known as a luwak.
-Grissom: Cat feces?
-Greg: The luwak eats only the ripest beans, which pass through its digestive system intact. However, during the process enzymes break down a number of amino acids which cause bitterness. 
-Grissom:  And leaves a unique chemical signature. 
-Greg: So whichever one of your suspects drinks kopi luwak is your killer.
-
-
-
-
-
-Michael Borland: We are a bashing nation. Gay bashing? You know what that is? That's guys going, &quot;I hate you 'cause you're queer ...  and you're gay, and you're kind of attractive ... and I would like to have s*x with you but I'm in the closet so I'll just beat you up and then play with myself in my trans am on the way home.&quot;
-Heckler: Boo.
-
-Michael Borland: &quot;Boo&quot;? Oh, I'm sorry. I didn't mean to offend you. Hey, you know what? If that offends you, perhaps you should just come out of the closet and move on with your life. You're going to feel so much better. You know, you are what you hate.
-
-Michael Borland: All right, um ... 
-
-Michael Borland: ... mm, I'm a little dehydrated. I hope you don't mind if I replenish my bodily fluids. Mm...
-
-Michael Borland: It's a cruel world ... !
-Crowd: Ain't it great? Yeah!
-Michael Borland: You know what you'd like? How many people would like it if I just, if I just dropped trousers right now and pee on Vin Diesel's head, huh?
-
-Michael Borland: Wouldn't you like that? I'll do it! I'm willing to do it for you good people. I'll do it.
-
-
-
-Michael Borland: Open wide. I'm flattering myself, ladies and gentlemen. You don't have to open up that wide. See, I'm implying I have a tiny, tiny pen1s. 
-
-Michael Borland: That's what that joke would be. Ergo, the comedy. I'm talking about penises.  You just want to eat out of that toilet bowl. Yum, yum.
-
-
-Michael Borland: Shut up.
-
-Michael Borland: Shut up. Don't you get it? Are you that stupid? I am making fun of you. I am the lowest common denominator in comedy when I do that crap.
-
-Michael Borland: The only way I could get you to stop laughing now is if I went to every single table and slit every one of your throats. 
-
-Michael Borland: I can see that I am getting the red light, ladies and gentlemen, and that means it's time for me to stop. Stop with the hate and stop with the fear. Stop with the lies. Comedy, uh, comedy's supposed to be about The Truth. You know, uh, I killed tonight. And, uh, I killed ... uh ... two nights ago .... Dougie Max ... uh ... on this stage. 
-
-Michael Borland: 'Cause I despised everything he stood for. Dumb people, like you. 
-
-Michael Borland: You think I did a disservice to the world by killing Dougie Max? You ought to give me a parade. But the shame of it is, is that, uh, an innocent kid got killed, too, and, uh ... I blame you.
-
-Michael Borland: Yeah, I, uh ... I didn't think you were going to get the joke.
-Grissom: Oh, I got it.  It just wasn't funny.
-
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=03x20+-+Last+Laugh&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127349%23p127349" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=03x20+-+Last+Laugh&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127349%23p127349" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127349%23p127349&amp;name=03x20+-+Last+Laugh" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127349%23p127349" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=f61ffe10d23265922e0c74a48b0ab114">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=f61ffe10d23265922e0c74a48b0ab114">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=f61ffe10d23265922e0c74a48b0ab114">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=f61ffe10d23265922e0c74a48b0ab114">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

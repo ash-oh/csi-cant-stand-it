@@ -1,600 +1,832 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]
+[EXT. LAS VEGAS STREETS (STOCK) - NIGHT]
+[INT. CASINO - MAIN FLOOR - NIGHT]
+(A large man in a leather" />
+<meta property="og:title" content="04x18 - Bad to the Bone - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]
+[EXT. LAS VEGAS STREETS (STOCK) - NIGHT]
+[INT. CASINO - MAIN FLOOR - NIGHT]
+(A large man in a leather" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13277" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>04x18 - Bad to the Bone - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13277" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13277">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=8b8ee3f14a130000f34a6fa137c31fa0"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=8b8ee3f14a130000f34a6fa137c31fa0">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=8b8ee3f14a130000f34a6fa137c31fa0">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=8b8ee3f14a130000f34a6fa137c31fa0">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=8b8ee3f14a130000f34a6fa137c31fa0">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13277&amp;sid=8b8ee3f14a130000f34a6fa137c31fa0&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>04x18 - Bad to the Bone</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127371">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127371">04x18 - Bad to the Bone</a></div>
+							<div class="pull-right text-right"><time datetime="2004-04-15T20:40:04Z">04/15/04 20:40</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[EXT. LAS VEGAS STREETS (STOCK) - NIGHT]</p>
+<p>[INT. CASINO - MAIN FLOOR - NIGHT]</p>
+<p>(A large man in a leather jacket and sporting a beard walks into the casino. He stops in the aisle and looks around. Most of the people continue about their business without sparing him a second glance.)</p>
+<p>(He sees something across the room and heads straight for it. He turns through the aisle and barrels into an elderly man, pushing him aside.)</p>
+<p><strong>Tony Sciarra</strong>: (mutters) Get out of the way!</p>
+<p>(The man continues walking across the room and we see that he's following someone who really isn't noticing that he's being targeted.) </p>
+<p>(The MAN in the blue shirt walks past the various displays.)</p>
+<p>The MAN in the leather jacket continues to follow him. He turns the corner and sees the door &quot;TO PARKING&quot; closing shut. He pauses a moment getting angrier by the second. Suddenly he moves forward, kicks the door open and walks through into the parking structure.)</p>
+<p>FLASH TO BLACK.</p>
+<p>FADE IN.</p>
+<p>(BRASS and GRISSOM kneel over the body of the late TONY SCIARRA, the man in the leather jacket.)</p>
+<p><strong>Brass</strong>: Wow, that had to hurt.</p>
+<p>(GRISSOM reaches into the leather jacket pocket and pulls out several chips.)</p>
+<p><strong>Brass</strong>: Well, robbery wasn't a motive.</p>
+<p><strong>Grissom</strong>: His eyes took the brunt of the punishment.</p>
+<p><strong>Brass</strong>: If you can't see, you can't fight back.</p>
+<p>(GRISSOM notices the blood under the man's finger nails along with several strands of light-colored hair.)</p>
+<p><strong>Grissom</strong>: No. But he may have tried.</p>
+<p>(BRASS reaches into the jacket pocket and pulls out a PENNSYLVANIA DRIVER'S LICENSE. It reads:</p>
+<p>TONY SCIARRA<br />
+7259 W. PORT ST.<br />
+PHILADELPHIA PA 19078</p>
+<p><strong>Brass</strong>: Tony Sciarra. From Philadelphia.</p>
+<p><strong>Grissom</strong>: So much for brotherly love.</p>
+<p>(GRISSOM looks up at BRASS.)</p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CASINO PARKING STRUCTURE -- NIGHT] </p>
+<p>(The camera flashes. WARRICK snaps photos while CATHERINE gathers evidence. She picks up a tooth off the floor and puts it in a bindle. She picks up the second tooth and puts it in another bindle. They work quietly and efficiently.) </p>
+<p>[CASINO HALLWAY TO PARKING LOT -- CONTINUOUS] </p>
+<p>(GRISSOM stands just inside the doorway to the parking lot looking out through the open door over the crime scene tape to where the body is. He turns when BRASS starts to report his findings.)</p>
+<p><strong>Brass</strong>: Our victim Tony just checked into the hotel. He hadn't even unpacked.</p>
+<p><strong>Grissom</strong>: He made enemies fast.</p>
+<p><strong>Brass</strong>: Yeah, old man at the casino, who he knocked down, said the same thing. He was hauling ass.</p>
+<p><strong>Grissom</strong>: Why?</p>
+<p>[PARKING STRUCTURE]</p>
+<p>(CATHERINE shines her flashlight on the blood-spattered wall. She turns and gets a swab to take a sample of the blood on the floor next to TONY SCIARRA'S head.)</p>
+<p><strong>Catherine</strong>: Blood drops are medium to large. Low-velocity spatter. No castoff.</p>
+<p>(WARRICK watches from the side.)</p>
+<p><strong>Warrick</strong>: Maybe he wasn't beaten with a weapon.</p>
+<p><strong>Catherine</strong>: Hand to hand?</p>
+<p><strong>Warrick</strong>: I know this guy's yoked. He's what? 6'2&quot;? 6'3&quot;?</p>
+<p><strong>Catherine</strong>: Size doesn't matter when you're outnumbered.</p>
+<p>(Quick flashback to: TONY SCIARRA'S on the floor being held while he's being punched repeatedly in the face.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(WARRICK leans over and gets a good look at the battered face.)</p>
+<p><strong>Warrick</strong>: Damn.</p>
+<p>(He leans over and snaps a photo.)</p>
+<p>CUT TO:<br />
+[INT. CASINO - SECURITY CONTROL ROOM - NIGHT]</p>
+<p>(SARA and NICK review the security camera video. On it, they see TONY SCIARRA bump into an old man and push him aside. He continues down the aisle.)</p>
+<p><strong>Sara</strong>: Here's our vic. Leaving the floor.</p>
+<p><strong>Surveillance Tech</strong>: And the cameras. No eyes in the corridors or the rest rooms.</p>
+<p><strong>Nick</strong>: Yeah, well, we know where he went. Just show us where he came from, please.</p>
+<p>(The SURVEILLANCE TECH rewinds the tape and they see TONY SCIARRA over at the crap table. He stands next to a man in a blue shirt.)</p>
+<p><strong>Nick</strong>: Whoa. Whoa. That's good. Start it from right there.</p>
+<p>(They stop rewinding the tape. The tape plays and they watch as the man in the blue shirt grabs a chip off TONY SCIARRA'S pile.)</p>
+<p><strong>Sara</strong>: Did you see that?</p>
+<p><strong>Nick</strong>: Yeah, the little guy on the right just snaked him.</p>
+<p>(They watch as TONY SCIARRA rolls again and the man in the blue shirt grabs another chip off of his pile.)</p>
+<p><strong>Sara</strong>: You've got to be kidding me. He just did it again.</p>
+<p><strong>Nick</strong>: Two for two.</p>
+<p><strong>Sara</strong>: That guy has got stones going after a mark as big as Tony.</p>
+<p><strong>Nick</strong>: He knows he has backup. Is the third time a charm?</p>
+<p>(The tape continues and they watch as the man in the blue shirt lifts another chip off of TONY'S pile.)</p>
+<p><strong>Nick</strong>: Yes, it is.</p>
+<p>(TONY notices the slight.)</p>
+<p><strong>Sara</strong>: Busted.</p>
+<p>(On the monitor, they watch as the two men have words with each other.)</p>
+<p><strong>Nick</strong>: Accusations from Tony. He's getting hot.</p>
+<p><strong>Sara</strong>: Some kind of denial from the little guy.</p>
+<p><strong>Nick</strong>: Tony got worked. Just wanted his money back.</p>
+<p><strong>Sara</strong>: We're going to need a still of the little guy's face, if you could.</p>
+<p><strong>Surveillance Tech</strong>: You got it.</p>
+<p>(Camera moves in on the man in the blue shirt standing at the craps table.)</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY - NIGHT]</p>
+<p>(Open on the monitor of TONY SCIARRA'S beaten face. DR. ALBERT ROBBINS goes over the preliminary findings with GRISSOM.)</p>
+<p><strong>Dr. Albert Robbins</strong>: Fractures to the zygomatic, ethmoidal, nasal bones. Also the mandible and maxilla. How many teeth did you find at the scene? </p>
+<p><strong>Grissom</strong>: Two.</p>
+<p>(DR. ALBERT ROBBINS pries open the lips and shows the missing teeth to GRISSOM.)</p>
+<p><strong>Dr. Albert Robbins</strong>: He's missing six. I found one in the back of his mouth. He probably swallowed the other three. I'll check his stomach.</p>
+<p><strong>Grissom</strong>: Blood evidence at the scene suggests that his attackers did not use a weapon.</p>
+<p><strong>Dr. Albert Robbins</strong>: Contusions are nondescript. No foreign tool marks.</p>
+<p><strong>Grissom</strong>: Bare knuckles?</p>
+<p><strong>Dr. Albert Robbins</strong>: That's what I'm thinking. Multiple blows to the head produced angular acceleration and deceleration in the brain.</p>
+<p>(Quick CGI flashback to: TONY SCIARRA'S on the floor. The man hits his head with his fist. A CGI view of TONY'S brains jiggle upon impact.)</p>
+<p>(Slow motion of another hit to TONY'S head. Blood spurts from his mouth.)</p>
+<p><strong>Dr. Albert Robbins</strong>: (V.O.) Twisting of the brain causes the bridging veins to rip. From there it's all downhill. The axons within the white matter of the brain begin to snap.</p>
+<p>(Camera zooms into TONY'S head to show us a lovely graphic shot of the bridging veins ripping. Lovely.)</p>
+<p>(End of CGI flashback. Resume to present.)</p>
+<p><strong>Dr. Albert Robbins</strong>: Officially, COD is diffuse axonal injury. Unofficially ... it's the most brutal beating I've ever seen.</p>
+<p>(GRISSOM places his left hand over the bruise pattern on the body.)</p>
+<p><strong>Grissom</strong>: Neck bruises were made by a left hand?</p>
+<p>(He points to another set of bruises.)</p>
+<p><strong>Grissom</strong>: What about these bruises?</p>
+<p><strong>Dr. Albert Robbins</strong>: Well, there's no defensive wounds on the hands or forearm. So I'm guessing it was restrained. Bruises could be somebody's knees on his chest.</p>
+<p><strong>Grissom</strong>: So a hand on his throat, knees on his chest, his head was butted up against a wall, and all the blows were directed at his face.</p>
+<p><strong>Dr. Albert Robbins</strong>: That doesn't leave much room for any other attackers to get their licks in.</p>
+<p><strong>Grissom</strong>: Maybe there were no other attackers.</p>
+<p>(Quick flashback to: A hallway view of one man beating the crap out of TONY SCIARRA while holding him down on the floor. TONY grunts and groans with each hit.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Dr. Albert Robbins</strong>: One guy did all this?</p>
+<p>CUT TO:<br />
+[INT. HOTEL / CASINO - NIGHT]</p>
+<p>(BRASS questions HOUSEKEEPER. He shows her the surveillance video photo of the man in the blue shirt at the craps table.)</p>
+<p><strong>Brass</strong>: So you're sure this was the man you saw?</p>
+<p><strong>Housekeeper</strong>: Yes. I was in the bathroom.</p>
+<p>(Quick flashback to: [BATHROOM] The MAN IN THE BLUE SHIRT walks past the bathroom. He goes over to the sink and washes his hands. Standing on the side, she watches him.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Housekeeper</strong>: I waited for him to leave. Then I called security.</p>
+<p><strong>Brass</strong>: Do you see this man now?</p>
+<p>(She hesitates.)</p>
+<p><strong>Brass</strong>: All you have to do is nod.</p>
+<p>(She looks around the room and sees the back of the man's head. He's wearing a white shirt and sitting at the table. She nods.)</p>
+<p><strong>Brass</strong>: Thanks.</p>
+<p>(They turn and look at the man at the table immediately recognizing him. NICK whispers to BRASS.)</p>
+<p><strong>Nick</strong>: ID's off. We're looking for a blue shirt and jeans.</p>
+<p><strong>Brass</strong>: He could have ditched the clothes. Let's be smart about this.</p>
+<p>[COFFEE SHOP - CONTINUOUS]</p>
+<p>(BRASS opens the door to the coffee shop and walks inside. NICK and a couple of officers follow him. They walk up to the man. They notice the missing hair and blood smears on his skin behind his ear.)</p>
+<p>(BRASS stops behind them man.)</p>
+<p><strong>Brass</strong>: Las Vegas Police. Put your hands behind your head and stand up.</p>
+<p>(The man pauses from taking a bite of his burger. He doesn't move.)</p>
+<p><strong>Brass</strong>: Come on.</p>
+<p>(The man puts his burger down. He stands up and puts his hands behind his head. The OFFICER grabs him and puts the cuffs on him.)</p>
+<p>(In the process he turns the man around. He looks at BRASS and sneers.)</p>
+<p>(The officer leads the MAN away. BRASS watches them go.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY]</p>
+<p>(BRASS interviews WALTER DARIAN. GRISSOM stands on the side and watches. BRASS walks up to WALTER DARIAN and speaks in a low voice into the DARIAN'S ear.)</p>
+<p><strong>Brass</strong>: You're not much of a talker, are you, Walter?</p>
+<p>(He leans in close and continues talking. WALKTER DARIAN doesn't move.)</p>
+<p><strong>Brass</strong>: I'll tell you. You must be a pretty tough guy to take on Tony. A guy as big as that? He's huge. That's his name, you know? Tony Sciarro from Philadelphia.</p>
+<p>(GRISSOM watches the exchange.)</p>
+<p><strong>Brass</strong>: Do you know Tony? How come you left his wallet and $500 in chips in his pocket, huh? That makes me think that this was about something else.</p>
+<p>(WALTER DARIAN clenches his handcuffed fists. BRASS continues.)</p>
+<p><strong>Brass</strong>: Did he ... wrong you in some way? He hurt you?</p>
+<p>(WALTER DARIAN doesn't answer.)</p>
+<p><strong>Brass</strong>: Huh?</p>
+<p>(BRASS steps back.)</p>
+<p><strong>Brass</strong>: Maybe it was just a ... lover's quarrel.</p>
+<p><strong>Walter Darian</strong>: I'm not soft.</p>
+<p><strong>Brass</strong>: That's okay. This is Vegas. But that's not what we saw on the video. You're at the crap table. You swiped his chips. And then you whispered sweet nothings in his ear. What did you say?</p>
+<p><strong>Walter Darian</strong>: Give me a reason.</p>
+<p><strong>Brass</strong>: That a confession?</p>
+<p><strong>Walter Darian</strong>: No. (He turns to look at BRASS.) That's what I said.</p>
+<p><strong>Brass</strong>: That stare doesn't work on me. But save it. Because they're going to love you in prison.</p>
+<p><strong>Grissom</strong>: Mr. Darian, may I see your fingers?</p>
+<p><strong>Walter Darian</strong>: Why?</p>
+<p>(GRISSOM steps forward and places a clean sheet of paper under WALTER DARIAN'S hands.)</p>
+<p><strong>Grissom</strong>: Well, because you may have evidence underneath the fingernails, and I'd like to collect it.</p>
+<p>(He reaches out and grabs his hand and suddenly lets go as if burned. GRISSOM takes a step back. WALTER DARIAN glances at GRISSOM.)</p>
+<p>(GRISSOM looks at BRASS who edges closer to WALTER DARIAN just in case something happens.)</p>
+<p>(GRISSOM cautiously reaches out again and takes ahold of WALTER DARIAN'S hand as he prepares to scrape under his fingernails.)</p>
+<p><strong>Grissom</strong>: Mr. Darian, do you have a fever?</p>
+<p>(WALTER DARIAN'S eyes grow wide as GRISSOM scrapes under his fingernails. GRISSOM glances at him several times and continues to scrape.)</p>
+<p>(Suddenly, DARIAN yells and lunges out of his seat. He goes for GRISSOM'S neck, pushing him back all the way to the wall.)</p>
+<p><strong>Brass</strong>: Hey! Hey! WALTER DARIAN: I'll kill you.</p>
+<p>(BRASS pries DARIAN off of GRISSOM. The other OFFICERS join in trying to subdue DARIAN. He pushes back and one of the OFFICERS hits the glass wall shattering it. He pushes another OFFICER off of him and down to the floor.)</p>
+<p>(WALTER DARIAN puts up a fight. There's an OFFICER holding him from behind, but he still manages to hit and push away the other THREE OFFICERS. He screams and grunts.)</p>
+<p>(Finally, an OFFICER takes out his club and starts hitting him into submission.)</p>
+<p><strong>Officer</strong>: Down. Down. OFFICER: Down. Down.</p>
+<p>(BRASS stands to the side and watches. GRISSOM stands in the back and watches. WALTER DARIAN slowly goes down to the floor, grunting along the way. Finally, he's quiet.)</p>
+<p>(BRASS checks DARIAN'S neck for a pulse.)</p>
+<p><strong>Brass</strong>: Jeez.</p>
+<p>(He can't find any.)</p>
+<p>(GRISSOM watches from the back.)</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM] </p>
+<p>(DAVID PHILLIPS sticks the meat thermometer into the deceased's liver. The temperature reads 101.5. CATHERINE glances at DAVID.) </p>
+<p><strong>Catherine</strong>: You might want to check that.</p>
+<p><strong>David Phillips</strong>: I did.</p>
+<p>(He picks up his pen and notates the final findings on the paper. CATHERINE sees something and stands up. She sees GRISSOM standing quietly to the side, leaning against the wall, a hand rubbing the back of his neck. Quietly freaked.)</p>
+<p>[HALLWAY - CONTINUOUS]</p>
+<p>(SHERIFF RORY ATWATER arrives. He's also rubbing the back of his own neck. He heads toward BRASS who's leaning a shoulder up against the wall.)</p>
+<p><strong>Brass</strong>: It's not as bad as it looks.</p>
+<p><strong>Sheriff Rory Atwater</strong>: It never looks too good when a suspects dies in custody.</p>
+<p>(The SHERIFF sighs.)</p>
+<p><strong>Brass</strong>: What are you saying, Rory? You'd rather it be one of us?</p>
+<p><strong>Sheriff Rory Atwater</strong>: No, that's not what I'm saying. If I was here, I'd have been in there with you, you know that. (He paces the floor.) I assume we're going to come out looking like the bad guy again.</p>
+<p>(CATHERINE steps out into the hallway. She notes the SHERIFF talking with BRASS. They both note her as she looks at them. She heads over to GRISSOM.)</p>
+<p><strong>Catherine</strong>: You okay?</p>
+<p>(He stops rubbing his neck and waves away her concern.)</p>
+<p><strong>Grissom</strong>: I'm fine.</p>
+<p>(CATHERINE reaches out and looks at the reddish-burn/bruise on GRISSOM'S neck.)</p>
+<p><strong>Catherine</strong>: Nasty. That kind of looks like a hickey. (She sighs.) You want to tell me what got this party started?</p>
+<p><strong>Grissom</strong>: I scraped his nails.</p>
+<p><strong>Catherine</strong>: That's it?</p>
+<p><strong>Grissom</strong>: What was his liver temp?</p>
+<p><strong>Catherine</strong>: 101.5.</p>
+<p><strong>Grissom</strong>: He's been dead an hour. That means his body temperature was 103. I touched his skin, Catherine. He felt like he was on fire.</p>
+<p>CUT TO:<br />
+[INT. CSI - GARAGE]</p>
+<p>(SARA and NICK stand just outside WALTER DARIAN'S car. It is packed with stuff. Stuff, stuff and more stuff.)</p>
+<p><strong>Sara</strong>: How did Walter Darian even drive this thing?</p>
+<p><strong>Nick</strong>: Where there's a will, there's a way. PD found it in the Orpheus parking lot.</p>
+<p>(They open the car door and sees the blood-stained clothes.)</p>
+<p><strong>Sara</strong>: Blue shirt and jeans right on top. (She picks it up.) He didn't even try to hide them.</p>
+<p>(She tests the blood for blood.)</p>
+<p><strong>Sara</strong>: Positive for blood. I'll get it to Greg.</p>
+<p><strong>Nick</strong>: So this scumbag, Walter Darian, he beats a guy to death, goes out to his car, changes clothes and then goes back into the casino, washes his hands and just gets something to eat.</p>
+<p><strong>Sara</strong>: Just another day.</p>
+<p><strong>Nick</strong>: Wow.</p>
+<p>(NICK turns and looks inside a box in the car. It's filled with chips. NICK'S impressed.)</p>
+<p><strong>Nick</strong>: Whoa ... yahtzee.</p>
+<p>(He takes the box out of the car and puts it on the table. He opens it and looks at it.)</p>
+<p><strong>Nick</strong>: Whoa. Must be a few thousand dollars' worth of chips here.</p>
+<p>(He picks up a couple of chips.)</p>
+<p><strong>Nick</strong>: So, he grifts, but doesn't cash in?</p>
+<p><strong>Sara</strong>: Maybe it wasn't about the money. I got gloves, a t-shirt and a jacket all with the tags still on them. Maybe he just likes to steal things.</p>
+<p>(NICK drops the chips in the box and turns to look at what else is in the car. He pulls out a woman's waitress blouse. He reads the tag.)</p>
+<p><strong>Nick</strong>: &quot;Road side diner, Libby.&quot; Sara.</p>
+<p>(SARA turns around. NICK holds it up to show her the blouse. SARA drops what she's looking at and walks over toward NICK.)</p>
+<p><strong>Sara</strong>: What does that look like to you?</p>
+<p>(Camera zooms in to focus on the two small burn holes in the blouse.)</p>
+<p><strong>Nick</strong>: Burn holes.</p>
+<p><strong>Sara</strong>: The guy takes on five cops in their house. Makes you wonder what he might have done to a waitress.</p>
+<p>(NICK and SARA look at each other.)</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY]</p>
+<p>(ROBBINS is picking at the body on the table when GRISSOM walks in.)</p>
+<p><strong>Robbins</strong>: Didn't get enough of this guy in the interrogation room?</p>
+<p><strong>Grissom</strong>: I have a question.</p>
+<p><strong>Robbins</strong>: Yes?</p>
+<p><strong>Grissom</strong>: Cause of death?</p>
+<p><strong>Robbins</strong>: Well, it wasn't the nightstick action.</p>
+<p>(ROBBINS picks up the pan with the heart in it and shows it to GRISSOM.)</p>
+<p><strong>Robbins</strong>: Cardiac arrhythmia. His heart rate increased till he went into tachycardia. Started throwing PVCs and then v-fib.</p>
+<p><strong>Grissom</strong>: Prior condition?</p>
+<p><strong>Robbins</strong>: Nothing I could find. The guy had a big heart-550 grams-- but otherwise healthy.</p>
+<p><strong>Grissom</strong>: (sighs) This guy was pumped up before the fight. White knuckles, veins popping.</p>
+<p><strong>Robbins</strong>: Well, he could have been on something -- tox is pending -- but there were no observable effects of long-term drug abuse. No atrophy, cirrhosis, tissue necrosis. I checked all the hot spots.</p>
+<p><strong>Grissom</strong>: He had a temperature of 103 when he died. Any pathology to explain that?</p>
+<p><strong>Robbins</strong>: The organs showed no sign of infection or disease.</p>
+<p><strong>Grissom</strong>: So there was nothing wrong with this guy.</p>
+<p><strong>Robbins</strong>: Well, I'll send a tissue sample to histology, but 98.6 is just an average. Some people run hot.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - WAITING ROOM]</p>
+<p>(SHERRIF RORY ATWATER breaks the news to BETH DARIAN.)</p>
+<p><strong>Sheriff Rory Atwater</strong>: See, during questioning, your brother became a little ... unruly, and, uh... so for their own safety, the officers had no choice but to use force. At which point ...</p>
+<p><strong>Beth Darian</strong>: I've heard enough.</p>
+<p><strong>Sheriff Rory Atwater</strong>: Ms. Darian, it's very important that you understand the situation here.</p>
+<p><strong>Beth Darian</strong>: I do. Walter was killed in police custody.</p>
+<p>(He sighs. This doesn't look good. He turns and sees GRISSOM in the doorway walking toward them.)</p>
+<p><strong>Sheriff Rory Atwater</strong>: Uh, let me introduce Gil Grissom from the crime lab. This is Beth Darian, the ...</p>
+<p><strong>Grissom</strong>: I was in the room with your brother.</p>
+<p><strong>Beth Darian</strong>: Was that how he touched your life?</p>
+<p><strong>Grissom</strong>: The autopsy concluded that your brother's death was not the result of the officers' use of force.</p>
+<p><strong>Beth Darian</strong>: I don't care how he died. I'm just relieved that it's over.</p>
+<p>(GRISSOM and the SHERIFF share a surprised look.)</p>
+<p><strong>Beth Darian</strong>: Walter hurt a lot of people. If you had something he wanted, he just took it. And if you got in his way ... I always kept my distance.</p>
+<p><strong>Grissom</strong>: Ms. Darian, your brother's body temperature was ...</p>
+<p><strong>Beth Darian</strong>: ... hot to the touch? He was always that way, ever since we were kids.</p>
+<p><strong>Sheriff Rory Atwater</strong>: I'll have someone from the department contact you, all right, Ms. Darian?</p>
+<p><strong>Beth Darian</strong>: Always knew that Walter would end up in jail or dead. (She looks up and notices the reddish-burn/bruise on GRISSOM'S neck.) I'm sorry.</p>
+<p>(Suddenly conscious of it, GRISSOM tugs his shirt collar up to cover it somewhat.)</p>
+<p>CUT TO:<br />
+[EXT. DESERT (STOCK) - DAY]</p>
+<p>[EXT. NO VACANCY MOTEL - DAY]</p>
+<p>(WARRICK and GRISSOM step out of the car. WARRICK walks around the car toward GRISSOM.)</p>
+<p><strong>Warrick</strong>: Gris, what are you hoping to find here?</p>
+<p><strong>Grissom</strong>: Walter Darian lived here. He owned the place.</p>
+<p><strong>Warrick</strong>: Well, Greg ran the DNA. The blood on Walter's clothes is a match to Tony. The hair in Tony's hands is a match to Walter's. This case is closed, isn't it?</p>
+<p>(They head toward the building.)</p>
+<p><strong>Grissom</strong>: That case is closed.</p>
+<p><strong>Warrick</strong>: We can't prosecute a dead man.</p>
+<p>(They pause in front of the door.)</p>
+<p><strong>Grissom</strong>: &quot;The evil men do lives after them. The good is oft interred with their bones.&quot;</p>
+<p><strong>Warrick</strong>: Shakespeare?</p>
+<p><strong>Grissom</strong>: Julius Caesar.</p>
+<p>(GRISSOM opens the door and walks inside.)</p>
+<p>[INT. NO VACANCY MOTEL - DAY - CONTINUOUS]</p>
+<p>(Inside, they find the place just as cluttered as his car.)</p>
+<p><strong>Warrick</strong>: Whew. This guy never threw anything away. You think he had a major case of OCD? </p>
+<p><strong>Grissom</strong>: Well ... if Walter viewed his world as a threatening place, according to the shrinks, the hoarding of useless objects may have made him feel safe and secure.</p>
+<p><strong>Warrick</strong>: Yeah, well, in the real world, Walter's the threat. Guess he didn't like what he saw.</p>
+<p>(They look around the place. GRISSOM looks outside and sees a long piece of plastic blowing in the wind.)</p>
+<p>[EXT. NO VACANCY MOTEL - BACKYARD - DAY - CONTINUOUS]</p>
+<p>(GRISSOM pushes aside the plastic and sees the wheelbarrow with various supplies. He pushes aside the nearly empty bag of cement and picks up the tool used to smooth out cement. He looks at it, then looks around. Meanwhile, WARRICK is walking around the backyard looking around. He kneels down next to a large block of cement.)</p>
+<p><strong>Warrick</strong>: Hey, Grissom.</p>
+<p>(GRISSOM turns around. WARRICK steps onto the cement block.)</p>
+<p><strong>Warrick</strong>: This doesn't look like a patio.</p>
+<p>(They share a look; they share a thought.)</p>
+<p>[EXT. DESERT HIGHWAY (STOCK) - DAY]</p>
+<p>[INT. ROADSIDE DINER - DAY]</p>
+<p>(The WAITRESS pours the customer a cup of coffee as she thinks.)</p>
+<p><strong>Waitress</strong>: Libby ... Libby ... oh, yeah, dish girl. </p>
+<p>(She turns to look at SARA and NICK who are there following up on the waitress' blouse found in the back of DARIAN'S car.)</p>
+<p><strong>Sara</strong>: She have a last name?</p>
+<p><strong>Waitress</strong>: Sure, she does, but I don't know it.</p>
+<p><strong>Nick</strong>: When's the last time you saw her?</p>
+<p><strong>Waitress</strong>: Eight years ago. The kid had no chops.</p>
+<p>(Quick flashback to: [INT. ROADSIDE DINER - KITCHEN] LIBBY'S at the stove and burns herself.)</p>
+<p><strong>Libby</strong>: Ouch!</p>
+<p><strong>Waitress</strong>: (V.O.) Burned herself real good.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Waitress</strong>: That was her first and last day.</p>
+<p><strong>Sara</strong>: We need an ID. Is there any chance you still have a W2 lying around or a copy of her driver's license?</p>
+<p><strong>Waitress</strong>: Girl wasn't here long enough to refill the coffee pot, let alone sign anything. I don't know where she came from, don't know where she went.</p>
+<p><strong>Nick</strong>: What about this guy? You ever see him with Libby?</p>
+<p>(NICK holds out the photo of WALTER DARIAN. The WAITRESS looks at it and shakes her head.)</p>
+<p><strong>Waitress</strong>: I ain't gettin' nothin'.</p>
+<p>(The order bell dings.)</p>
+<p><strong>Waitress</strong>: Sorry. Order's up.</p>
+<p>(She turns and leaves to get the order.)</p>
+<p>CUT TO:<br />
+[EXT. NO VACANCY MOTEL - BACKYARD - DAY]</p>
+<p>(WARRICK uses the jackhammer on the cement block.)</p>
+<p>(GRISSOM pushes the wheelbarrow. There are other people from FORENSICS helping out to clean up the backyard.)</p>
+<p>(Various FADE INS from day to night they chip away at the cement block.)</p>
+<p>(WARRICK uses the shovel to dig out more dirt and hits something. GRISSOM immediately stops and turns around. WARRICK freezes.)</p>
+<p><strong>Warrick</strong>: Only one thing makes that sound.</p>
+<p>(GRISSOM gets out the small digging tool and brush. He hands them to WARRICK. WARRICK uses the brush and reveals the skull underneath.)</p>
+<p><strong>Grissom</strong>: Well ... I guess there was no more room at the inn.</p>
+<p>FADE OUT</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. NO VACANCY MOTEL -- NIGHT] </p>
+<p>(OFFICER cars swarm around the front of the NO VACANCY MOTEL. BRASS heads over to the grave site. The OFFICER holds the tape down so he can walk over it. He heads over to the pit where GRISSOM and WARRICK are working.) </p>
+<p>(Inside, he sees the pile of bones. WARRICK dusts while GRISSOM takes pictures. WARRICK brushes aside some dirt to reveal a wedding ring.)</p>
+<p><strong>Warrick</strong>: It's a wedding band.</p>
+<p><strong>Brass</strong>: You think this is the waitress Nick and Sara are looking for?</p>
+<p><strong>Grissom</strong>: Well, there's no clothing left. The wedding band could be either/or. There's nothing gender-specific yet.</p>
+<p><strong>Warrick</strong>: Next to no tissue. No hairs at all. To get the bones, what do you think, Grissom? Been down here at least three years?</p>
+<p>(GRISSOM leans forward a sniffs deeply. Go figure.)</p>
+<p><strong>Grissom</strong>: No, it's probably more than three years.</p>
+<p>(BRASS doesn't believe it.)</p>
+<p><strong>Brass</strong>: You're kidding me, right?</p>
+<p><strong>Grissom</strong>: Well, the rule of thumb is if the skull smells bad, it's usually under three years. This one smells like dirt.</p>
+<p><strong>Warrick</strong>: There's something under the pelvic bone.</p>
+<p>(WARRICK brushes the dirt aside to reveal a knife. GRISSOM snaps a bunch of photos.)</p>
+<p><strong>Grissom</strong>: Possible murder weapon.</p>
+<p>(WARRICK picks it up.)</p>
+<p><strong>Warrick</strong>: You think we could still get any DNA off of it?</p>
+<p><strong>Grissom</strong>: Any blood's been exposed to the elements longer than the inside of these bones.</p>
+<p><strong>Warrick</strong>: There's no skin, clothing or tissue to protect it.</p>
+<p><strong>Brass</strong>: Doesn't fit. Walter was a fighter. Used his fists, not knives, you know?</p>
+<p><strong>Grissom</strong>: Well, we haven't known him that long.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY - NIGHT]</p>
+<p>(ROBBINS goes over the bones with WARRICK.)</p>
+<p><strong>Robbins</strong>: Forehead's upright, smooth. Mandible's small. Lower face narrow.</p>
+<p><strong>Warrick</strong>: Female traits.</p>
+<p><strong>Robbins</strong>: Yeah. Pelvis confirms it. It's wide for the birth canal. No pits in the pubic bone -- she never gave birth.</p>
+<p><strong>Warrick</strong>: What about her race?</p>
+<p><strong>Robbins</strong>: Zygomatic bones retreat, slant back. Nasal opening's long and narrow.</p>
+<p><strong>Warrick</strong>: Caucasian.</p>
+<p><strong>Robbins</strong>: Mm. Around 5'4&quot;. I estimated her height from the length of the femur.</p>
+<p><strong>Warrick</strong>: How old are we talking?</p>
+<p><strong>Robbins</strong>: Well ... third molars haven't erupted. No wisdom teeth.</p>
+<p><strong>Warrick</strong>: So that would put her in her late teens, early 20s.</p>
+<p><strong>Robbins</strong>: Eh, it's a safe estimate.</p>
+<p><strong>Warrick</strong>: Cause of death?</p>
+<p><strong>Robbins</strong>: Strangulation. Fracture to the hyoid bone.</p>
+<p><strong>Warrick</strong>: What about these right here?</p>
+<p><strong>Robbins</strong>: Fractures to the zygomatic bone and maxilla ... also the left ulna ... but no tool marks on any of the bones.</p>
+<p><strong>Warrick</strong>: So maybe she was punched in the face and tried to shield herself?</p>
+<p><strong>Robbins</strong>: Yeah. Walter Darian strangled a female Caucasian, 5'4&quot;, around 20 years old.</p>
+<p><strong>Warrick</strong>: Yeah, but is it our missing waitress?</p>
+<p><strong>Robbins</strong>: Well, I, uh, did dental charts, x-rays. David's off and running with 'em now. I also excised a portion of the femur, scraped a tissue sample from inside the pelvis, and yanked a molar. If there's any usable DNA left, that's where it'll be.</p>
+<p><strong>Warrick</strong>: Okay.</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE - NIGHT]</p>
+<p>(GRISSOM'S sitting at his desk reading a book. CATHERINE walks in.)</p>
+<p><strong>Catherine</strong>: How'd you know there was another body at that motel?</p>
+<p><strong>Grissom</strong>: I didn't.</p>
+<p>(GRISSOM picks up the test results.)</p>
+<p><strong>Grissom</strong>: Tox and histology results came back on Walter Darian. Negative across the board. No drugs, no diseases. I don't get it. The guy was 38 years old, and this was his first arrest.</p>
+<p><strong>Catherine</strong>: And you're wondering what he'd been doing all his life.</p>
+<p>(CATHERINE'S phone rings. She answers it.)</p>
+<p><strong>Catherine</strong>: Willows.</p>
+<p>(She pauses, then turns her back to GRISSOM and laughs quietly into the phone.)</p>
+<p><strong>Catherine</strong>: (softly) Why don't you hold that thought until later?</p>
+<p>(GRISSOM waits for her. CATHERINE hangs up, then turns around to look at GRISSOM. She clears her throat.)</p>
+<p><strong>Catherine</strong>: Sorry. A new friend.</p>
+<p><strong>Grissom</strong>: Congratulations.</p>
+<p>(GREG walks up to the office and lingers in the doorway.)</p>
+<p><strong>Greg</strong>: Got time for something a little weird?</p>
+<p>(CATHERINE turns around and looks at GREG.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY / DNA LAB - NIGHT]</p>
+<p>(GREG leads CATHERINE and GRISSOM into the lab.)</p>
+<p><strong>Greg</strong>: I recovered DNA from your Jane Doe skeleton. Clean samples from the molar and femur ... but no hits in CODIS.</p>
+<p><strong>Catherine</strong>: So Jane Doe was never reported missing.</p>
+<p><strong>Greg</strong>: Apparently not. I also pulled DNA from the pelvic sample. A mixture: Foreign DNA from a male.</p>
+<p><strong>Grissom</strong>: Walter Darian.</p>
+<p><strong>Greg</strong>: No. That's where it gets weird.</p>
+<p>(He opens a file folder.)</p>
+<p><strong>Greg</strong>: The foreign DNA was homozygous. Hit all 13 loci. One peep per marker.</p>
+<p><strong>Catherine</strong>: Shared alleles, so it was either a father or a son.</p>
+<p><strong>Grissom</strong>: According to the autopsy, she never gave birth.</p>
+<p><strong>Catherine</strong>: So it was a father.</p>
+<p><strong>Greg</strong>: Okay, so how'd it get there? The tissue was from inside the pelvis, so even if daddy's blood or semen got on her clothes or skin, it never would've survived being in the ground all that time.</p>
+<p><strong>Grissom</strong>: So there has to be an additional biological source, 'cause there was no one else in that grave.</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB - NIGHT]</p>
+<p>(NICK watches as ARCHIE works on a computer composite of the skull.)</p>
+<p><strong>Nick</strong>: That's all I got. No name, no tissue, no hair.</p>
+<p><strong>Archie</strong>: I like a challenge.</p>
+<p><strong>Nick</strong>: Pull up the standard tissue thickness scale for female American caucasoids. Use the normal figures.</p>
+<p>(ARCHIE starts to reconstruct the skull on the computer according to NICK'S instructions.)</p>
+<p><strong>Nick</strong>: Apply the midline measurements. Good. Now the bilateral.</p>
+<p><strong>Archie</strong>: That's the blueprint.</p>
+<p><strong>Nick</strong>: Mm-hmm.</p>
+<p>CUT TO:<br />
+[EXT. WALTER DARIAN'S RESIDENCE - NIGHT]</p>
+<p>(The OFFICERS continue to move out packages of evidence into the back of the truck.)</p>
+<p>[INT. WALTER DARIAN'S RESIDENCE - NIGHT]</p>
+<p>(WARRICK snaps photos of the various things in the living room. He turns and snaps photos of the typewriter on the desk. He closes the typewriter cover.)</p>
+<p><strong>Warrick</strong>: Okay, you can take this.</p>
+<p>(He turns and takes photos of the printer.)</p>
+<p>(CATHERINE snaps photos of the things in the kitchen. She turns and sees the large fist-sized hole in the wall. She takes her hand, makes a fist and measures it to the hole in the wall.)</p>
+<p>[INT. CSI - A/V LAB - NIGHT]</p>
+<p>(ARCHIE continues working on the computer composite. The skull has a layer of muscles on it. He adds eyes to the image.)</p>
+<p>(NICK stands in front of the monitor watching.)</p>
+<p>[INT. WALTER DARIAN'S RESIDENCE - NIGHT]</p>
+<p>(WARRICK opens a box and sees a leopard-patterned scarf out. He pulls out a pink scarf and snaps a photo of it. He also finds a red baseball cap He looks on the inside and sees some strands of hair with tags on them. He places a strand in a bindle.)</p>
+<p>[INT. CSI - A/V LAB - NIGHT]</p>
+<p>(ARCHIE continues to work on the composite. He adds a nose to the image. A pair of lips is added. He hits a key and the image is covered with skin.)</p>
+<p><strong>Nick</strong>: Long skull. Prominent nose and chin.</p>
+<p><strong>Archie</strong>: Maybe nordic descent. That means ... light complexion, hair ... and ... blue-green eyes.</p>
+<p>(ARCHIE finishes up the picture. NICK nods approvingly.)</p>
+<p>[INT. WALTER DARIAN'S RESIDENCE - NIGHT]</p>
+<p>(CATHERINE looks around and sees a suitcase. She takes the suitcase out and opens it. Inside she finds maternity clothes and a torn photo of a very pregnant young blonde woman. She also finds the other half of the photo of a young dark-haired man.</p>
+<p><strong>Catherine</strong>: Warrick.</p>
+<p>(She shows them to him and goes through the clothes.)</p>
+<p><strong>Catherine</strong>: These have got to be maternity clothes.</p>
+<p>(WARRICK flips the photo over and reads the writing on the back: AND BABY MAKES THREE! / LOVE, SEAN.</p>
+<p><strong>Warrick</strong>: &quot;And baby makes three.&quot;</p>
+<p>(CATHERINE finds a wallet and looks at the Nevada driver's license inside. For<br />
+MARISSA CLEARY<br />
+1153 STONE CREEK<br />
+LAS VEGAS, NV 89154</p>
+<p><strong>Catherine</strong>: Her name's not Libby.</p>
+<p>[INT. CSI - LAB - NIGHT]</p>
+<p>(CATHERINE fills GRISSOM in on the identity of the bones.)</p>
+<p><strong>Catherine</strong>: Dental records confirm our Jane Doe was Marissa Cleary.</p>
+<p><strong>Grissom</strong>: Which leaves our missing waitress Libby still unaccounted for.</p>
+<p><strong>Catherine</strong>: The foreign DNA in her pelvis wasn't from her father. It was from her son.</p>
+<p><strong>Grissom</strong>: There was no evidence of a fetus or a baby in that grave. She never gave birth.</p>
+<p><strong>Catherine</strong>: Not through her birth canal. There's other ways to deliver a baby.</p>
+<p><strong>Grissom</strong>: Well, that might explain the hunting knife we found.</p>
+<p>(Quick flashback to: [INT. DARIAN'S RESIDENCE - NIGHT] WALTER DARIAN chokes MARISSA CLEARY. She's lying on the floor gagging. WALTER takes the knife and plunges it down into her ... )</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: The umbilical cord contains fetal DNA.</p>
+<p>(Quick CGI POV of the umbilical cord drying up. End of CGI POV. Resume to present.)</p>
+<p><strong>Grissom</strong>: Walter Darian never threw anything out ... So where'd the baby go?</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. POLICE DEPARTMENT - WAITING ROOM -- NIGHT] </p>
+<p>(BRASS and CATHERINE interview SEAN CLEARY.) </p>
+<p><strong>Sean Cleary</strong>: Eight years. I never thought she was dead. I wondered where she was, at she was doing with her life. What my kid was like.</p>
+<p><strong>Catherine</strong>: Mr. Cleary, we haven't found any evidence to suggest that your son ...</p>
+<p><strong>Sean Cleary</strong>: (interrupts) My son? You mean it was a boy?</p>
+<p><strong>Catherine</strong>: Yes. </p>
+<p><strong>Sean Cleary</strong>: Well, can I see him? Is he dead, too?</p>
+<p><strong>Brass</strong>: We don't know.</p>
+<p><strong>Sean Cleary</strong>: Marissa and I had only been seeing each other for a few months, and everything was great. And then she got pregnant, so we got married. And all of a sudden, she hates me, I hate her. All we did was fight. Then she calls me one night at work.</p>
+<p>(Quick flashback to: [NIGHT] SEAN CLEARY is talking on the phone.)</p>
+<p><strong>Marissa Cleary</strong>: (from phone) (sobbing) You don't want me in your life, fine. I'm gone!</p>
+<p><strong>Sean Cleary</strong>: (to phone) Good! It's the best news I've heard all year.</p>
+<p>(He hangs up and throws the cell phone into the open car window.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Sean Cleary</strong>: That was the last time we spoke.</p>
+<p><strong>Brass</strong>: And you never reported her missing?</p>
+<p><strong>Sean Cleary</strong>: I didn't think she was. I was 19. Barely out of high school. </p>
+<p><strong>Catherine</strong>: Last thing you needed was a family. </p>
+<p><strong>Sean Cleary</strong>: She was in her ninth month when she split. I thought she'd cool off in a couple of days, come back, we would work things out. But then I got this.</p>
+<p>(He takes out a note and shows it to CATHERINE. She reads the note.)</p>
+<p><strong>Sean Cleary</strong>: (recites from memory) &quot;You're not who I thought you were. You don't want me. You don't want this baby. We don't want you. Marissa.&quot;</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB]</p>
+<p>(GREG removes the hair sample from the bindle. He processes the tag.)</p>
+<p>CUT TO:<br />
+[INT. CSI - QUESTIONED DOCTUMENTS LAB]</p>
+<p>(RONNIE LITRE uses the signature on the driver's license and compares it to the signature on the note. He explains his findings to CATHERINE.)</p>
+<p><strong>Ronnie Litre</strong>: All right, you see the long legs she gives to her &quot;M,&quot; and how it stands alone?</p>
+<p><strong>Catherine</strong>: Mm-hmm.</p>
+<p><strong>Ronnie Litre</strong>: Now look at the Dear John letter. This is not Marissa's signature ... just a quick and dirty forgery.</p>
+<p><strong>Catherine</strong>: My money's on Walter.</p>
+<p><strong>Ronnie Litre</strong>: Well, I can't tell you anything without an exemplar.</p>
+<p><strong>Catherine</strong>: Yeah, well, Warrick's going through his stuff now.</p>
+<p><strong>Ronnie Litre</strong>: From what I hear, that's going to take a while.</p>
+<p><strong>Catherine</strong>: So, what about this text?</p>
+<p><strong>Ronnie Litre</strong>: Uh, not typed - printed uh, off an inkjet, and so far, all of Walter's accumulated printers are dot matrix. No match.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB]</p>
+<p>(WARRICK hang sup a shirt on the rack. Surrounding him are the stacks of envelopes and evidence packages of the things gathered from WALTER DARIAN'S place. WARRICK picks up a package, opens it and removes a LAS VEGAS shirt out from it with blood stains on it. The back of the shirt reads: ... NEVER SLEEPS.)</p>
+<p>[INT. CSI - ANOTHER LAB]</p>
+<p>(SARA examines the envelope MARISSA'S note came in. It's addressed to:<br />
+SEAN CLEARY<br />
+8824 SANDY CREEK RD.<br />
+LAS VEGAS, NV 89123</p>
+<p>(She examines the cancelled stamp mark on the envelope.)</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB]</p>
+<p>(GREG reports his findings to GRISSOM and CATHERINE.)</p>
+<p><strong>Greg</strong>: Warrick found a baseball cap in Walter's motel. Yielded a blond hair. DNA was still good, which means the hair was no more than a few years old. It was Marissa's son.</p>
+<p><strong>Catherine</strong>: So, he'd be eight now. Assuming he's still alive.</p>
+<p>(SARA calls out from the doorway.)</p>
+<p><strong>Sara</strong>: Hey, guys, I've been working on that John Doe envelope. The postmark was Henderson.</p>
+<p><strong>Catherine</strong>: The Bates Motel is in Sloan. Why would Walter go that far out of his way to mail a letter?</p>
+<p><strong>Grissom</strong>: He wouldn't.</p>
+<p>CUT TO:<br />
+[INT. BETH DARIAN'S RESIDENCE - DAY]</p>
+<p>(CATHERINE interviews BETH DARIAN as GRISSOM stands quietly against the desk near the window.)</p>
+<p><strong>Beth Darian</strong>: Well, I moved to Henderson to get away from Walter. I stayed out of his life, hoping he'd stay out of mine. Didn't matter that I was his sister. He treated me like he did everybody else.</p>
+<p><strong>Catherine</strong>: Do you recognize this woman?</p>
+<p>(CATHEIRNE shows her a taped and photocopied picture of MARISSA and SEAN CLEARY.)</p>
+<p><strong>Beth Darian</strong>: No. Who is she?</p>
+<p><strong>Catherine</strong>: Her name is Marissa Cleary. We believe she was a guest in your brother's motel eight years ago.</p>
+<p><strong>Beth Darian</strong>: He killed her, didn't he?</p>
+<p><strong>Grissom</strong>: We think so.</p>
+<p><strong>Beth Darian</strong>: Oh, I wonder what she did to set him off.</p>
+<p><strong>Catherine</strong>: I don't know. I'm sure it wasn't much.</p>
+<p>(Quick flashback to: [MOTEL - NIGHT] MARISSA CLEARY is on the phone with SEAN. She's crying.)</p>
+<p><strong>Marissa Cleary</strong>: (to phone) (crying) You don't want me in your life. Fine. I'm gone!</p>
+<p>(Through the thin walls from the next room, WALTER can hear her on the phone.)</p>
+<p><strong>Sean Cleary</strong>: (from phone) Good! It's the best news I've heard all year.</p>
+<p>(She throws the phone at the wall. WALTER stands up and starts pounding on the wall. MARISSA is crying. She picks up the photo from her luggage and tears it in two.)</p>
+<p>(WALTER continues to pound on the wall hard enough to punch holes in the drywall. MARISSA hits the wall and shouts.)</p>
+<p><strong>Marissa Cleary</strong>: Shut up! Shut up. Damn it!</p>
+<p>(WALTER bursts through the door, grabs MARISSA and hits her. He pushes her back on the bed and chokes her.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Beth Darian</strong>: He could always find an excuse for anything that he did.</p>
+<p>(She glances at her watch and notes the time: 3:40.)</p>
+<p><strong>Catherine</strong>: Are we keeping you from something?</p>
+<p><strong>Beth Darian</strong>: No. It makes me really uncomfortable talking about Walter.</p>
+<p>(BETH removes her sweater showing the burn marks on her right arm.)</p>
+<p><strong>Catherine</strong>: Did Walter give you those burns?</p>
+<p><strong>Beth Darian</strong>: No, that was, uh ... an accident on the job many, many years ago.</p>
+<p><strong>Grissom</strong>: When you used to be a waitress, Libby?</p>
+<p><strong>Beth Darian</strong>: Nobody's called me that in years. How did you know?</p>
+<p><strong>Grissom</strong>: We found your old waitress uniform in Walter's car.</p>
+<p><strong>Beth Darian</strong>: I, I had that job for one day. I was a lousy waitress. Why would he keep that?</p>
+<p>(Outside, the bus stops in front of the house, the door opens and kids exit the bus. A cute blonde-haired kid runs out of the bus and into the house.)</p>
+<p><strong>Martin Darian</strong>: Hi, mom.</p>
+<p><strong>Beth Darian</strong>: Hey, baby. </p>
+<p>(MARTIN DARIAN gives his mom a hug; she kisses him on the cheek.)</p>
+<p><strong>Beth Darian</strong>: Why don't you take your stuff and put it in your room? I'll make you a snack.</p>
+<p>(He turns and looks at the CSIs.)</p>
+<p><strong>Grissom</strong>: How old is that little guy?</p>
+<p><strong>Beth Darian</strong>: He's going to be nine next month.</p>
+<p>CUT TO:<br />
+[INT. CSI]</p>
+<p>(CATHERINE takes a swab sample from MARTIN.)</p>
+<p>[HALLWAY]</p>
+<p>(GRISSOM takes a swab sample from SEAN CLEARY. GRISSOM caps the sample and steps aside. SEAN CLEARY looks into the room at MARTIN who turns and looks at him.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM]</p>
+<p>(CATHERINE puts the test results on the table as she and GRISSOM re-interview BETH DARIAN.)</p>
+<p><strong>Catherine</strong>: You're not his mother.</p>
+<p><strong>Beth Darian</strong>: I'm the only mother he's ever known. I raised him; I had to.</p>
+<p>(Quick flashback to: [BETH'S HOUSE] She's sitting in the living room reading a book when WALTER pounds on the door. She can hear a baby crying.)</p>
+<p>(She opens the door and WALTER walks in carrying the baby. He gives the baby to her, then walks out.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Middle of the night, your brother shows up and hands you a baby. You don't ask any questions. You don't report it.</p>
+<p><strong>Beth Darian</strong>: Walter said that the mother was a runaway, and that she didn't want the baby. I took him in. I love him.</p>
+<p><strong>Grissom</strong>: How did Martin get the scar on his forehead?</p>
+<p><strong>Beth Darian</strong>: I don't know.</p>
+<p><strong>Grissom</strong>: Or you didn't want to know.</p>
+<p>(Quick flashback to: [MOTEL ROOM] MARISSA'S on the bed, her eyes wide-open. WALTER holds the knife up high.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(CATHERINE shows BETH the note.)</p>
+<p><strong>Catherine</strong>: Marissa Cleary didn't sign that note.</p>
+<p><strong>Grissom</strong>: And we don't think Walter wrote it, either.</p>
+<p><strong>Beth Darian</strong>: I'm not like Walter. When I opened the suitcase, and I saw the photograph ... I didn't want the father to suffer. </p>
+<p>(Quick flashback to: [BETH'S PLACE] BETH is sitting at her desk typing out a note on the computer. She looks down at both halves of the photo on the desk along with MARISSA'S driver's license..)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: The suitcase was in Walter's closet. </p>
+<p><strong>Beth Darian</strong>: I took it back. I didn't want it around me. I knew that he would never notice. </p>
+<p>(CATHERINE gives GRISSOM a &quot;I can't believe this&quot; look.)</p>
+<p><strong>Beth Darian</strong>: Giving me Martin ... was the only good thing that Walter ever did. I don't know why he did it. But it wasn't out of the goodness of his heart.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY/ LAB]</p>
+<p>(GRISSOM rounds the corner. He's reading a file folder on his way to the lab. He walks into the lab now cluttered with boxed and packaged evidence from WALTER DARIAN'S MOTEL.)</p>
+<p>(GRISSOM puts the file folder down on the table. He picks up a pair of latex gloves and puts them on. He opens the first package and removes a white bloody shirt and starts examining it.)</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-
-Tony Sciarra:  Get out of the way!
- 
-
-The MAN in the leather jacket continues to follow him. He turns the corner and sees the door &quot;TO PARKING&quot; closing shut. He pauses a moment getting angrier by the second. Suddenly he moves forward, kicks the door open and walks through into the parking structure.)
-
-
-
-Brass: Wow, that had to hurt.
-
-Brass: Well, robbery wasn't a motive.
-Grissom: His eyes took the brunt of the punishment.
-Brass: If you can't see, you can't fight back.
-
-Grissom: No. But he may have tried.
-(BRASS reaches into the jacket pocket and pulls out a PENNSYLVANIA DRIVER'S LICENSE. It reads:
-TONY SCIARRA
-7259 W. PORT ST.
-PHILADELPHIA PA 19078
-Brass: Tony Sciarra. From Philadelphia.
-Grissom: So much for brotherly love.
-
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
- 
-
-Brass: Our victim Tony just checked into the hotel. He hadn't even unpacked.
-Grissom: He made enemies fast.
-Brass: Yeah, old man at the casino, who he knocked down, said the same thing. He was hauling ass.
-Grissom: Why?
-
-
-Catherine: Blood drops are medium to large. Low-velocity spatter. No castoff.
-
-Warrick: Maybe he wasn't beaten with a weapon.
-Catherine: Hand to hand?
-Warrick: I know this guy's yoked. He's what? 6'2&quot;? 6'3&quot;?
-Catherine: Size doesn't matter when you're outnumbered.
-
-
-
-Warrick: Damn.
-
-
-
-
-Sara: Here's our vic. Leaving the floor.
-Surveillance Tech: And the cameras. No eyes in the corridors or the rest rooms.
-Nick: Yeah, well, we know where he went. Just show us where he came from, please.
-
-Nick: Whoa. Whoa. That's good. Start it from right there.
-
-Sara: Did you see that?
-Nick: Yeah, the little guy on the right just snaked him.
-
-Sara: You've got to be kidding me. He just did it again.
-Nick: Two for two.
-Sara: That guy has got stones going after a mark as big as Tony.
-Nick: He knows he has backup. Is the third time a charm?
-
-Nick: Yes, it is.
-
-Sara: Busted.
-
-Nick: Accusations from Tony. He's getting hot.
-Sara: Some kind of denial from the little guy.
-Nick: Tony got worked. Just wanted his money back.
-Sara: We're going to need a still of the little guy's face, if you could.
-Surveillance Tech: You got it.
-
-
-
-
-Dr. Albert Robbins: Fractures to the zygomatic, ethmoidal, nasal bones. Also the mandible and maxilla. How many teeth did you find at the scene? 
-Grissom: Two.
-
-Dr. Albert Robbins: He's missing six. I found one in the back of his mouth. He probably swallowed the other three. I'll check his stomach.
-Grissom: Blood evidence at the scene suggests that his attackers did not use a weapon.
-Dr. Albert Robbins: Contusions are nondescript. No foreign tool marks.
-Grissom: Bare knuckles?
-Dr. Albert Robbins: That's what I'm thinking. Multiple blows to the head produced angular acceleration and deceleration in the brain.
-
-
-Dr. Albert Robbins:  Twisting of the brain causes the bridging veins to rip. From there it's all downhill. The axons within the white matter of the brain begin to snap.
-
-
-Dr. Albert Robbins: Officially, COD is diffuse axonal injury. Unofficially ... it's the most brutal beating I've ever seen.
-
-Grissom: Neck bruises were made by a left hand?
-
-Grissom: What about these bruises?
-Dr. Albert Robbins: Well, there's no defensive wounds on the hands or forearm. So I'm guessing it was restrained. Bruises could be somebody's knees on his chest.
-Grissom: So a hand on his throat, knees on his chest, his head was butted up against a wall, and all the blows were directed at his face.
-Dr. Albert Robbins: That doesn't leave much room for any other attackers to get their licks in.
-Grissom: Maybe there were no other attackers.
-
-
-Dr. Albert Robbins: One guy did all this?
-
-
-
-Brass: So you're sure this was the man you saw?
-Housekeeper: Yes. I was in the bathroom.
-
-
-Housekeeper: I waited for him to leave. Then I called security.
-Brass: Do you see this man now?
-
-Brass: All you have to do is nod.
-
-Brass: Thanks.
-
-Nick: ID's off. We're looking for a blue shirt and jeans.
-Brass: He could have ditched the clothes. Let's be smart about this.
-
-
-
-Brass: Las Vegas Police. Put your hands behind your head and stand up.
-
-Brass: Come on.
-
-
-
-
-
-
-
-Brass: You're not much of a talker, are you, Walter?
-
-Brass: I'll tell you. You must be a pretty tough guy to take on Tony. A guy as big as that? He's huge. That's his name, you know? Tony Sciarro from Philadelphia.
-
-Brass: Do you know Tony? How come you left his wallet and $500 in chips in his pocket, huh? That makes me think that this was about something else.
-
-Brass: Did he ... wrong you in some way? He hurt you?
-
-Brass: Huh?
-
-Brass: Maybe it was just a ... lover's quarrel.
-Walter Darian: I'm not soft.
-Brass: That's okay. This is Vegas. But that's not what we saw on the video. You're at the crap table. You swiped his chips. And then you whispered sweet nothings in his ear. What did you say?
-Walter Darian: Give me a reason.
-Brass: That a confession?
-Walter Darian: No.  That's what I said.
-Brass: That stare doesn't work on me. But save it. Because they're going to love you in prison.
-Grissom: Mr. Darian, may I see your fingers?
-Walter Darian: Why?
-
-Grissom: Well, because you may have evidence underneath the fingernails, and I'd like to collect it.
-
-
-
-Grissom: Mr. Darian, do you have a fever?
-
-
-Brass: Hey! Hey! WALTER DARIAN: I'll kill you.
-
-
-
-Officer: Down. Down. OFFICER: Down. Down.
-
-
-Brass: Jeez.
-
-
-FADE OUT
-
-
-
- 
- 
-Catherine: You might want to check that.
-David Phillips: I did.
-
-
-
-Brass: It's not as bad as it looks.
-Sheriff Rory Atwater: It never looks too good when a suspects dies in custody.
-
-Brass: What are you saying, Rory? You'd rather it be one of us?
-Sheriff Rory Atwater: No, that's not what I'm saying. If I was here, I'd have been in there with you, you know that.  I assume we're going to come out looking like the bad guy again.
-
-Catherine: You okay?
-
-Grissom: I'm fine.
-
-Catherine: Nasty. That kind of looks like a hickey.  You want to tell me what got this party started?
-Grissom: I scraped his nails.
-Catherine: That's it?
-Grissom: What was his liver temp?
-Catherine: 101.5.
-Grissom: He's been dead an hour. That means his body temperature was 103. I touched his skin, Catherine. He felt like he was on fire.
-
-
-
-Sara: How did Walter Darian even drive this thing?
-Nick: Where there's a will, there's a way. PD found it in the Orpheus parking lot.
-
-Sara: Blue shirt and jeans right on top.  He didn't even try to hide them.
-
-Sara: Positive for blood. I'll get it to Greg.
-Nick: So this scumbag, Walter Darian, he beats a guy to death, goes out to his car, changes clothes and then goes back into the casino, washes his hands and just gets something to eat.
-Sara: Just another day.
-Nick: Wow.
-
-Nick: Whoa ... yahtzee.
-
-Nick: Whoa. Must be a few thousand dollars' worth of chips here.
-
-Nick: So, he grifts, but doesn't cash in?
-Sara: Maybe it wasn't about the money. I got gloves, a t-shirt and a jacket all with the tags still on them. Maybe he just likes to steal things.
-
-Nick: &quot;Road side diner, Libby.&quot; Sara.
-
-Sara: What does that look like to you?
-
-Nick: Burn holes.
-Sara: The guy takes on five cops in their house. Makes you wonder what he might have done to a waitress.
-
-
-
-
-Robbins: Didn't get enough of this guy in the interrogation room?
-Grissom: I have a question.
-Robbins: Yes?
-Grissom: Cause of death?
-Robbins: Well, it wasn't the nightstick action.
-
-Robbins: Cardiac arrhythmia. His heart rate increased till he went into tachycardia. Started throwing PVCs and then v-fib.
-Grissom: Prior condition?
-Robbins: Nothing I could find. The guy had a big heart-550 grams-- but otherwise healthy.
-Grissom:  This guy was pumped up before the fight. White knuckles, veins popping.
-Robbins: Well, he could have been on something -- tox is pending -- but there were no observable effects of long-term drug abuse. No atrophy, cirrhosis, tissue necrosis. I checked all the hot spots.
-Grissom: He had a temperature of 103 when he died. Any pathology to explain that?
-Robbins: The organs showed no sign of infection or disease.
-Grissom: So there was nothing wrong with this guy.
-Robbins: Well, I'll send a tissue sample to histology, but 98.6 is just an average. Some people run hot.
-
-
-
-Sheriff Rory Atwater: See, during questioning, your brother became a little ... unruly, and, uh... so for their own safety, the officers had no choice but to use force. At which point ...
-Beth Darian: I've heard enough.
-Sheriff Rory Atwater: Ms. Darian, it's very important that you understand the situation here.
-Beth Darian: I do. Walter was killed in police custody.
-
-Sheriff Rory Atwater: Uh, let me introduce Gil Grissom from the crime lab. This is Beth Darian, the ...
-Grissom: I was in the room with your brother.
-Beth Darian: Was that how he touched your life?
-Grissom: The autopsy concluded that your brother's death was not the result of the officers' use of force.
-Beth Darian: I don't care how he died. I'm just relieved that it's over.
-
-Beth Darian: Walter hurt a lot of people. If you had something he wanted, he just took it. And if you got in his way ... I always kept my distance.
-Grissom: Ms. Darian, your brother's body temperature was ...
-Beth Darian: ... hot to the touch? He was always that way, ever since we were kids.
-Sheriff Rory Atwater: I'll have someone from the department contact you, all right, Ms. Darian?
-Beth Darian: Always knew that Walter would end up in jail or dead.  I'm sorry.
-
-
-
-
-
-Warrick: Gris, what are you hoping to find here?
-Grissom: Walter Darian lived here. He owned the place.
-Warrick: Well, Greg ran the DNA. The blood on Walter's clothes is a match to Tony. The hair in Tony's hands is a match to Walter's. This case is closed, isn't it?
-
-Grissom: That case is closed.
-Warrick: We can't prosecute a dead man.
-
-Grissom: &quot;The evil men do lives after them. The good is oft interred with their bones.&quot;
-Warrick: Shakespeare?
-Grissom: Julius Caesar.
-
-
-
-Warrick: Whew. This guy never threw anything away. You think he had a major case of OCD? 
-Grissom: Well ... if Walter viewed his world as a threatening place, according to the shrinks, the hoarding of useless objects may have made him feel safe and secure.
-Warrick: Yeah, well, in the real world, Walter's the threat. Guess he didn't like what he saw.
-
-
-
-Warrick: Hey, Grissom.
-
-Warrick: This doesn't look like a patio.
-
-
-
-
-Waitress: Libby ... Libby ... oh, yeah, dish girl. 
-
-Sara: She have a last name?
-Waitress: Sure, she does, but I don't know it.
-Nick: When's the last time you saw her?
-Waitress: Eight years ago. The kid had no chops.
-
-Libby: Ouch!
-Waitress:  Burned herself real good.
-
-Waitress: That was her first and last day.
-Sara: We need an ID. Is there any chance you still have a W2 lying around or a copy of her driver's license?
-Waitress: Girl wasn't here long enough to refill the coffee pot, let alone sign anything. I don't know where she came from, don't know where she went.
-Nick: What about this guy? You ever see him with Libby?
-
-Waitress: I ain't gettin' nothin'.
-
-Waitress: Sorry. Order's up.
-
-
-
-
-
-
-
-Warrick: Only one thing makes that sound.
-
-Grissom: Well ... I guess there was no more room at the inn.
-FADE OUT
-
-
-;
-
-
-
- 
- 
-
-Warrick: It's a wedding band.
-Brass: You think this is the waitress Nick and Sara are looking for?
-Grissom: Well, there's no clothing left. The wedding band could be either/or. There's nothing gender-specific yet.
-Warrick: Next to no tissue. No hairs at all. To get the bones, what do you think, Grissom? Been down here at least three years?
-
-Grissom: No, it's probably more than three years.
-
-Brass: You're kidding me, right?
-Grissom: Well, the rule of thumb is if the skull smells bad, it's usually under three years. This one smells like dirt.
-Warrick: There's something under the pelvic bone.
-
-Grissom: Possible murder weapon.
-
-Warrick: You think we could still get any DNA off of it?
-Grissom: Any blood's been exposed to the elements longer than the inside of these bones.
-Warrick: There's no skin, clothing or tissue to protect it.
-Brass: Doesn't fit. Walter was a fighter. Used his fists, not knives, you know?
-Grissom: Well, we haven't known him that long.
-
-
-
-Robbins: Forehead's upright, smooth. Mandible's small. Lower face narrow.
-Warrick: Female traits.
-Robbins: Yeah. Pelvis confirms it. It's wide for the birth canal. No pits in the pubic bone -- she never gave birth.
-Warrick: What about her race?
-Robbins: Zygomatic bones retreat, slant back. Nasal opening's long and narrow.
-Warrick: Caucasian.
-Robbins: Mm. Around 5'4&quot;. I estimated her height from the length of the femur.
-Warrick: How old are we talking?
-Robbins: Well ... third molars haven't erupted. No wisdom teeth.
-Warrick: So that would put her in her late teens, early 20s.
-Robbins: Eh, it's a safe estimate.
-Warrick: Cause of death?
-Robbins: Strangulation. Fracture to the hyoid bone.
-Warrick: What about these right here?
-Robbins: Fractures to the zygomatic bone and maxilla ... also the left ulna ... but no tool marks on any of the bones.
-Warrick: So maybe she was punched in the face and tried to shield herself?
-Robbins: Yeah. Walter Darian strangled a female Caucasian, 5'4&quot;, around 20 years old.
-Warrick: Yeah, but is it our missing waitress?
-Robbins: Well, I, uh, did dental charts, x-rays. David's off and running with 'em now. I also excised a portion of the femur, scraped a tissue sample from inside the pelvis, and yanked a molar. If there's any usable DNA left, that's where it'll be.
-Warrick: Okay.
-
-
-
-Catherine: How'd you know there was another body at that motel?
-Grissom: I didn't.
-
-Grissom: Tox and histology results came back on Walter Darian. Negative across the board. No drugs, no diseases. I don't get it. The guy was 38 years old, and this was his first arrest.
-Catherine: And you're wondering what he'd been doing all his life.
-
-Catherine: Willows.
-
-Catherine:  Why don't you hold that thought until later?
-
-Catherine: Sorry. A new friend.
-Grissom: Congratulations.
-
-Greg: Got time for something a little weird?
-
-
-
-
-Greg: I recovered DNA from your Jane Doe skeleton. Clean samples from the molar and femur ... but no hits in CODIS.
-Catherine: So Jane Doe was never reported missing.
-Greg: Apparently not. I also pulled DNA from the pelvic sample. A mixture: Foreign DNA from a male.
-Grissom: Walter Darian.
-Greg: No. That's where it gets weird.
-
-Greg: The foreign DNA was homozygous. Hit all 13 loci. One peep per marker.
-Catherine: Shared alleles, so it was either a father or a son.
-Grissom: According to the autopsy, she never gave birth.
-Catherine: So it was a father.
-Greg: Okay, so how'd it get there? The tissue was from inside the pelvis, so even if daddy's blood or semen got on her clothes or skin, it never would've survived being in the ground all that time.
-Grissom: So there has to be an additional biological source, 'cause there was no one else in that grave.
-
-
-
-Nick: That's all I got. No name, no tissue, no hair.
-Archie: I like a challenge.
-Nick: Pull up the standard tissue thickness scale for female American caucasoids. Use the normal figures.
-
-Nick: Apply the midline measurements. Good. Now the bilateral.
-Archie: That's the blueprint.
-Nick: Mm-hmm.
-
-
-
-
-
-Warrick: Okay, you can take this.
-
-
-
-
-
-
-
-
-
-Nick: Long skull. Prominent nose and chin.
-Archie: Maybe nordic descent. That means ... light complexion, hair ... and ... blue-green eyes.
-
-
-(CATHERINE looks around and sees a suitcase. She takes the suitcase out and opens it. Inside she finds maternity clothes and a torn photo of a very pregnant young blonde woman. She also finds the other half of the photo of a young dark-haired man.
-Catherine: Warrick.
-
-Catherine: These have got to be maternity clothes.
-(WARRICK flips the photo over and reads the writing on the back: AND BABY MAKES THREE! / LOVE, SEAN.
-Warrick: &quot;And baby makes three.&quot;
-(CATHERINE finds a wallet and looks at the Nevada driver's license inside. For
-MARISSA CLEARY
-1153 STONE CREEK
-LAS VEGAS, NV 89154
-Catherine: Her name's not Libby.
-
-
-Catherine: Dental records confirm our Jane Doe was Marissa Cleary.
-Grissom: Which leaves our missing waitress Libby still unaccounted for.
-Catherine: The foreign DNA in her pelvis wasn't from her father. It was from her son.
-Grissom: There was no evidence of a fetus or a baby in that grave. She never gave birth.
-Catherine: Not through her birth canal. There's other ways to deliver a baby.
-Grissom: Well, that might explain the hunting knife we found.
-
-
-Catherine: The umbilical cord contains fetal DNA.
-
-Grissom: Walter Darian never threw anything out ... So where'd the baby go?
-FADE OUT
-
-
-
- 
- 
-Sean Cleary: Eight years. I never thought she was dead. I wondered where she was, at she was doing with her life. What my kid was like.
-Catherine: Mr. Cleary, we haven't found any evidence to suggest that your son ...
-Sean Cleary:  My son? You mean it was a boy?
-Catherine: Yes. 
-Sean Cleary: Well, can I see him? Is he dead, too?
-Brass: We don't know.
-Sean Cleary: Marissa and I had only been seeing each other for a few months, and everything was great. And then she got pregnant, so we got married. And all of a sudden, she hates me, I hate her. All we did was fight. Then she calls me one night at work.
-
-Marissa Cleary:  You don't want me in your life, fine. I'm gone!
-Sean Cleary:  Good! It's the best news I've heard all year.
-
-
-Sean Cleary: That was the last time we spoke.
-Brass: And you never reported her missing?
-Sean Cleary: I didn't think she was. I was 19. Barely out of high school. 
-Catherine: Last thing you needed was a family. 
-Sean Cleary: She was in her ninth month when she split. I thought she'd cool off in a couple of days, come back, we would work things out. But then I got this.
-
-Sean Cleary:  &quot;You're not who I thought you were. You don't want me. You don't want this baby. We don't want you. Marissa.&quot;
-
-
-
-
-
-
-Ronnie Litre: All right, you see the long legs she gives to her &quot;M,&quot; and how it stands alone?
-Catherine: Mm-hmm.
-Ronnie Litre: Now look at the Dear John letter. This is not Marissa's signature ... just a quick and dirty forgery.
-Catherine: My money's on Walter.
-Ronnie Litre: Well, I can't tell you anything without an exemplar.
-Catherine: Yeah, well, Warrick's going through his stuff now.
-Ronnie Litre: From what I hear, that's going to take a while.
-Catherine: So, what about this text?
-Ronnie Litre: Uh, not typed - printed uh, off an inkjet, and so far, all of Walter's accumulated printers are dot matrix. No match.
-
-
-
-
-(SARA examines the envelope MARISSA'S note came in. It's addressed to:
-SEAN CLEARY
-8824 SANDY CREEK RD.
-LAS VEGAS, NV 89123
-
-
-
-
-Greg: Warrick found a baseball cap in Walter's motel. Yielded a blond hair. DNA was still good, which means the hair was no more than a few years old. It was Marissa's son.
-Catherine: So, he'd be eight now. Assuming he's still alive.
-
-Sara: Hey, guys, I've been working on that John Doe envelope. The postmark was Henderson.
-Catherine: The Bates Motel is in Sloan. Why would Walter go that far out of his way to mail a letter?
-Grissom: He wouldn't.
-
-
-
-Beth Darian: Well, I moved to Henderson to get away from Walter. I stayed out of his life, hoping he'd stay out of mine. Didn't matter that I was his sister. He treated me like he did everybody else.
-Catherine: Do you recognize this woman?
-
-Beth Darian: No. Who is she?
-Catherine: Her name is Marissa Cleary. We believe she was a guest in your brother's motel eight years ago.
-Beth Darian: He killed her, didn't he?
-Grissom: We think so.
-Beth Darian: Oh, I wonder what she did to set him off.
-Catherine: I don't know. I'm sure it wasn't much.
-
-Marissa Cleary:  You don't want me in your life. Fine. I'm gone!
-
-Sean Cleary:  Good! It's the best news I've heard all year.
-
-
-Marissa Cleary: Shut up! Shut up. Damn it!
-
-
-Beth Darian: He could always find an excuse for anything that he did.
-
-Catherine: Are we keeping you from something?
-Beth Darian: No. It makes me really uncomfortable talking about Walter.
-
-Catherine: Did Walter give you those burns?
-Beth Darian: No, that was, uh ... an accident on the job many, many years ago.
-Grissom: When you used to be a waitress, Libby?
-Beth Darian: Nobody's called me that in years. How did you know?
-Grissom: We found your old waitress uniform in Walter's car.
-Beth Darian: I, I had that job for one day. I was a lousy waitress. Why would he keep that?
-
-Martin Darian: Hi, mom.
-Beth Darian: Hey, baby. 
-
-Beth Darian: Why don't you take your stuff and put it in your room? I'll make you a snack.
-
-Grissom: How old is that little guy?
-Beth Darian: He's going to be nine next month.
-
-
-
-
-
-
-
-
-Catherine: You're not his mother.
-Beth Darian: I'm the only mother he's ever known. I raised him; I had to.
-
-
-
-Catherine: Middle of the night, your brother shows up and hands you a baby. You don't ask any questions. You don't report it.
-Beth Darian: Walter said that the mother was a runaway, and that she didn't want the baby. I took him in. I love him.
-Grissom: How did Martin get the scar on his forehead?
-Beth Darian: I don't know.
-Grissom: Or you didn't want to know.
-
-
-
-Catherine: Marissa Cleary didn't sign that note.
-Grissom: And we don't think Walter wrote it, either.
-Beth Darian: I'm not like Walter. When I opened the suitcase, and I saw the photograph ... I didn't want the father to suffer. 
-
-
-Catherine: The suitcase was in Walter's closet. 
-Beth Darian: I took it back. I didn't want it around me. I knew that he would never notice. 
-
-Beth Darian: Giving me Martin ... was the only good thing that Walter ever did. I don't know why he did it. But it wasn't out of the goodness of his heart.
-
-
-
-
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=04x18+-+Bad+to+the+Bone&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127371%23p127371" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=04x18+-+Bad+to+the+Bone&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127371%23p127371" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127371%23p127371&amp;name=04x18+-+Bad+to+the+Bone" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127371%23p127371" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=8b8ee3f14a130000f34a6fa137c31fa0">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=8b8ee3f14a130000f34a6fa137c31fa0">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=8b8ee3f14a130000f34a6fa137c31fa0">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=8b8ee3f14a130000f34a6fa137c31fa0">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

@@ -1,887 +1,1119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. (VARIOUS) LAS VEGAS CITY (STOCK) - NIGHT]
 
+[EXT. METEOR MEAT - NIGHT]
+(The METEOR MEAT delivery trucks back into the loading stall. T" />
+<meta property="og:title" content="03x11 - Recipe for Murder - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. (VARIOUS) LAS VEGAS CITY (STOCK) - NIGHT]
 
+[EXT. METEOR MEAT - NIGHT]
+(The METEOR MEAT delivery trucks back into the loading stall. T" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13246" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>03x11 - Recipe for Murder - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13246" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13246">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=5829f95d80db5a27ee224ea26e2afba5"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=5829f95d80db5a27ee224ea26e2afba5">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=5829f95d80db5a27ee224ea26e2afba5">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=5829f95d80db5a27ee224ea26e2afba5">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=5829f95d80db5a27ee224ea26e2afba5">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13246&amp;sid=5829f95d80db5a27ee224ea26e2afba5&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>03x11 - Recipe for Murder</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127340">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127340">03x11 - Recipe for Murder</a></div>
+							<div class="pull-right text-right"><time datetime="2003-01-23T21:10:00Z">01/23/03 21:10</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. (VARIOUS) LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[EXT. METEOR MEAT - NIGHT]</p>
+<p>(The METEOR MEAT delivery trucks back into the loading stall. The driver gets out of the truck and looks at HARLAN who stands in front of the doorway.)</p>
+<p><strong>Delivery Man</strong>: Hey, Harlan. Special delivery. Fresh shipment in from Nebraska.</p>
+<p><strong>Harlan</strong>: Great. Just stack it in the freezer, will you? I got to open up.</p>
+<p><strong>Delivery Man</strong>: All right, you got it, boss.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. METEOR MEAT - NIGHT]</p>
+<p>(HARLAN opens up the main meat packing area and turns on the lights. He walks inside and powers up the conveyer belt where meat is already placed upon.)</p>
+<p>(HARLAN reaches up and turns on the overhead fluorescent lights.)</p>
+<p>(He continues his morning routine and reaches the next machine to turn it on. He looks over and notices that it's already been used with ground up meat in the metal bin on the side.)</p>
+<p>(HARLAN walks over to the bin and looks inside. His eyes widen as he sees a bloody human hand sticking out.)</p>
+<p>FLASH TO WHITE:</p>
+<hr />
+[INT. METEOR MEAT - NIGHT]]</p>
+<p>(BRASS escorts GRISSOM and CATHERINE through the main meat packing area.)</p>
+<p><strong>Brass</strong>: Ever wonder what's in that hot dog? Human body in a meat grinder. Shop foreman found an arm. The rest of him is prime grade a sirloin.</p>
+<p><strong>Catherine</strong>: Body in a meat grinder. Sounds kind of &quot;mob-ish&quot; except they left town in the '80s.</p>
+<p>(They stop. BRASS points to an officer interviewing MANNY SALDANO.)</p>
+<p><strong>Brass</strong>: The last guy to operate the meat grinder is this guy over here. Manny Saldano, age 37. Worked for meteor for eleven years. Shop foreman vouches for him. Says he inspected all three of his machines before he clocked him out.</p>
+<p><strong>Grissom</strong>: Well, we're going to need to process him.</p>
+<p><strong>Brass</strong>: Sure. (BRASS points to the meat grinder) Check out the smorgasbord. Go ahead.</p>
+<p>(CATHERINE and GRISSOM head for the meat grinder. They duck under the crime scene tape.)</p>
+<p><strong>Brass</strong>: (b.g.) Mike.</p>
+<p>(CATHERINE puts her case down.)</p>
+<p><strong>Catherine</strong>: (under her breath) Good god...</p>
+<p><strong>Grissom</strong>: Looks like the elbow got stuck in the blade.</p>
+<p>(Camera zooms down to the pipe at the end of the grinder. GRISSOM puts on his gloves.)</p>
+<p><strong>Grissom</strong>: Yup, the ulna.</p>
+<p><strong>Catherine</strong>: One of the strongest bones in the body. Probably what jammed this grinder.</p>
+<p><strong>Grissom</strong>: Possibly why whoever did this didn't finish the job.</p>
+<p>(CATHERINE snaps a couple of pictures. GRISSOM tries to take the hand out of the grinder and finds that it's not easy.)</p>
+<p><strong>Catherine</strong>: It's like that Morrissey album - &quot;Meat is Murder&quot; ...</p>
+<p>(GRISSOM continues to struggle with the hand. He finally looks up at CATHERINE.)</p>
+<p><strong>Grissom</strong>: I'm going to need a hand.</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. METEOR MEAT -- NIGHT]</p>
+<p>(GRISSOM and CATHERINE kneel in front of the ground meat. GRISSOM holds out his flashlight and they both assess where to start.)</p>
+<p><strong>Grissom</strong>: The last remains of John Doe. We're going to need sifters.</p>
+<p><strong>Catherine</strong>: Blood's everywhere. Phenolphthalein and luminol are useless.</p>
+<p>(GRISSOM shines his flashlight on the &quot;Butcher&quot; meat grinder.)</p>
+<p><strong>Grissom</strong>: We're going to have to dismantle this piece by piece.</p>
+<p><strong>Catherine</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: I'll get a foreman.</p>
+<p><strong>Catherine</strong>: I think I can handle this.</p>
+<p><strong>Grissom</strong>: You know about meat grinders?</p>
+<p><strong>Catherine</strong>: Well, everything's pretty much plumbing. Male into female parts. Righty tighty, lefty loosey.</p>
+<p>(CATHERINE reaches over to the meat grinder mouthpiece and starts to unscrew it.)</p>
+<p>(Dissolve to: CATHERINE starts to take the meat grinder apart piece by piece.)</p>
+<p><strong>Catherine</strong>: Grinder plate.</p>
+<p>(She puts the grinder plate aside and pulls out the ... )</p>
+<p><strong>Catherine</strong>: Blade.</p>
+<p>(She puts the blade aside and pulls out the large piece inside the meat grinder with meat still wrapped around it oozing out.)</p>
+<p><strong>Catherine</strong>: The worm.</p>
+<p>(She turns around and puts &quot;The worm&quot; in a bag. Behind her, some distance away, GRISSOM finds something on the ground. He picks it up and examines it.)</p>
+<p><strong>Grissom</strong>: Found an ear plug. </p>
+<p>(CATHERINE turns to look at GRISSOM.)</p>
+<p><strong>Grissom</strong>: Ear wax is ripe with DNA.</p>
+<p><strong>Catherine</strong>: Except ... all the employees wear them.</p>
+<p>(They both stand up.)</p>
+<p><strong>Grissom</strong>: This one's different than the ones they use. Whoever wore this brought it with them. We just have to find out whose ear it fits.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. LINDA DAMEN'S RESIDENCE -- NIGHT]</p>
+<p>(DETECTIVE &quot;SULLY&quot; SULIK escorts SARA and WARRICK through the pool area toward LINDA DAMEN'S apartment. He fills them in.)</p>
+<p><strong>Det. &quot;Sully&quot; Sulik</strong>: Girl's name is Linda Damen, 23, apparent suicide. Father stopped by with dinner found her dead, called 9-1-1.</p>
+<p><strong>Sara</strong>: No signs of forced entry?</p>
+<p>(The Detective ducks under the crime scene tape. SARA and WARRICK follow. They all head up the stairs to LINDA DAMEN'S apartment.)</p>
+<p><strong>Det. &quot;Sully&quot; Sulik</strong>: Nope. Did find her wallet out. Empty.</p>
+<p>(The DETECTIVE hands the bagged wallet to SARA. She looks at it and hands it to WARRICK.)</p>
+<p><strong>Sara</strong>: Hmmm ...</p>
+<p><strong>Warrick</strong>: Empty? Maybe she was just broke.</p>
+<p>(They reach the top of the stairs where JOHN and JANE DAMEN, LINDA'S parents stand. They enter the apartment.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. LINDA DAMEN'S APARTMENT - NIGHT -- CONTINUOUS]</p>
+<p>(Inside the apartment, HANK PEDDIGREW is putting his things away.)</p>
+<p><strong>Sara</strong>: Hey.</p>
+<p>(HANK looks up.)</p>
+<p><strong>Hank Peddigrew</strong>: You guys are fast.</p>
+<p><strong>Sara</strong>: You pronounce?</p>
+<p><strong>Hank Peddigrew</strong>: 7:20. Coroner will be able to tell you more. Looks like she bled out. Her left wrist is transected.</p>
+<p><strong>Sara</strong>: It's atypical for a female. Women usually commit suicide in the tub. It's easier cleanup for whoever's left behind.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>(SARA looks down at the bed and sees something. She lifts the sheet away to reveal a straight-edged razor.)</p>
+<p><strong>Sara</strong>: Warrick. </p>
+<p>(WARRICK raises the camera and snaps some pictures.)</p>
+<p><strong>Sara</strong>: Did her parents say whether she was living with a man?</p>
+<p><strong>Detective</strong>: Was dating a Brody Jones. No idea where he works or lives.</p>
+<p>(WARRICK looks at the streak of blood across the bed covering.)</p>
+<p><strong>Warrick</strong>: Did someone move her?</p>
+<p>(HANK looks at the bed cover.)</p>
+<p><strong>Hank Peddigrew</strong>: She was propped up when we got here. I checked for vitals.</p>
+<p><strong>Warrick</strong>: You sure with all your life-saving efforts you didn't move her?</p>
+<p><strong>Hank Peddigrew</strong>: Hey, man, like I said, I checked for vitals.</p>
+<p><strong>Sara</strong>: It's okay, babe.</p>
+<p>(HANK turns and stares at SARA, surprised by what she said. DETECTIVE SULIK looks at SARA. SARA turns her back to the men and shakes her head slightly at herself.)</p>
+<p><strong>Hank Peddigrew</strong>: (continues) The victim had no response. I had no reason to move her.</p>
+<p><strong>Warrick</strong>: Well, someone moved her. She bled out her </p>
+<p>(HANK doesn't say anything more.)</p>
+<p>(SARA turns on her flashlight and checks out the closet. She lets out a deep breath.)</p>
+<p>(HANK walks up to SARA.)</p>
+<p><strong>Hank Peddigrew</strong>: I'm going to hit the road ... (beat) ... baby.</p>
+<p><strong>Sara</strong>: (grimaces) I'm sorry.</p>
+<p>(HANK leaves. SARA examines the clothes in the closet and finds something.)</p>
+<p><strong>Sara</strong>: There's a stain here. So cold stains.</p>
+<p><strong>Warrick</strong>: Is it recent?</p>
+<p>(SARA checks.)</p>
+<p><strong>Sara</strong>: It's cool to the touch, yeah.</p>
+<p>(WARRICK finds some bloodied footprints on the carpet near the bed.)</p>
+<p><strong>Warrick</strong>: Sara.</p>
+<p>(SARA turns to look at WARRICK.)</p>
+<p><strong>Warrick</strong>: I think our suicide just became suspicious circs.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC PATHOLOGY -- NIGHT]</p>
+<p>(GRISSOM examines the partial arm on the table. ROBBINS stands near him.)</p>
+<p><strong>Robbins</strong>: Since I'm the one who always seems to state the obvious this arm was dead before it was hacked off.</p>
+<p><strong>Grissom</strong>: What do you make of the, uh scar tissue on the palm?</p>
+<p><strong>Robbins</strong>: Occupational hazard, maybe. I see this kind of thing a lot in bricklayers, plumbers, carpenters.</p>
+<p><strong>Grissom</strong>: Looks like it's blistered.</p>
+<p>(GRISSOM turns around and picks up something from the table behind him.)</p>
+<p><strong>Robbins</strong>: Gradual denaturation of the proteins in the epithelials. Resulting in general scarring on the palm or surface.</p>
+<p>(GRISSOM takes a sample from under the fingernails.)</p>
+<p><strong>Grissom</strong>: I'll send this sample to trace.</p>
+<p>(GRISSOM continues to look at the hand.)</p>
+<p><strong>Grissom</strong>: Tips of the fingers look like they're worn to the bone.</p>
+<p><strong>Robbins</strong>: Can you get a partial?</p>
+<p>(GRISSOM turns around and picks up a small bottle of something from the table behind him.)</p>
+<p><strong>Grissom</strong>: Much more than that. Lansberry's Ridge Builder. One application to the bulbs of the fingers and the ridges plump out temporarily like a chia pet on steroids.</p>
+<p>(GRISSOM brushes the liquid onto the fingertips.)</p>
+<p>(Camera close up of the fingertip. CGI has the print ridges well defined. Resume to ROBBINS.)</p>
+<p>(GRISSOM lightly inks the tip of the finger, then takes a print from it. Pleased, he glances at ROBBINS.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - PRINT LAB]</p>
+<p>(GRISSOM and CATHERINE stand around the print database monitor as they run the print. The computer beeps and it pops out a name with ID.)</p>
+<p><strong>Grissom</strong>: Petrov Samsko. Non-gaming sheriff's permit, head chef, Debreff Restaurant.</p>
+<p>(GRISSOM pronounces it &quot;doo-breff&quot;.) </p>
+<p><strong>Grissom</strong>: Chef-- that would explain the burn scar tissue on his palm.</p>
+<p><strong>Catherine</strong>: (nods) It's &quot;Debreff.&quot; </p>
+<p>(CATHERINE pronounces it &quot;dough-breff&quot;.)</p>
+<p><strong>Catherine</strong>: It's a five-star restaurant. I've eaten there.</p>
+<p><strong>Grissom</strong>: Good, maybe you can get us a table.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. LINDA DAMEN'S APARTMENT -- NIGHT]</p>
+<p>(Camera opens on WARRICK comparing the shoe print with JOHN DAMEN'S shoe while JANE DAMEN stands near and watches.)</p>
+<p><strong>Warrick</strong>: Different sole, different size. Thank you. Sorry for the inconvenience. This is just a standard procedure. </p>
+<p>(WARRICK sits down.)</p>
+<p><strong>Warrick</strong>: Do you have any idea where your daughter's boyfriend works?</p>
+<p><strong>John Damen</strong>: Well, a casino.</p>
+<p><strong>Warrick</strong>: Uh, which one?</p>
+<p><strong>John Damen</strong>: All of them. He's, uh, he's a gambler. Um, used to drag Linda out, keep her up days at a time. Ran her health down, her spirit.</p>
+<p><strong>Jane Damen</strong>: She was getting better, though. She had a, uh... rough time after college finding herself, but she was getting better.</p>
+<p>(JANE DAMEN shifts her gaze past WARRICK where the Coroner's office bring out LINDA DAMEN'S body on a gurney. Her eyes follow the gurney as they wheel the body away.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY -- NIGHT]</p>
+<p>(ROBBINS fills SARA in on the findings. Camera opens on the blade cut on LINDA DAMEN'S left wrist.)</p>
+<p><strong>Robbins</strong>: The trans-section of the left wrist is consistent with a self-inflicted wound particularly because she's right-handed.</p>
+<p>(SARA leans over and looks at the wound.)</p>
+<p><strong>Sara</strong>: There's no hesitation marks. Isn't that uncommon for suicide?</p>
+<p><strong>Robbins</strong>: People usually stutter-cut a few times ... </p>
+<p>(Quick CGI to: Camera close up of a razor against a wrist making small hesitation cuts.) </p>
+<p><strong>Robbins</strong>: (V.O.) ... trying to work up the courage.</p>
+<p>(End of CGI. Resume to present.)</p>
+<p><strong>Robbins</strong>: This woman cut herself with one smooth motion.</p>
+<p><strong>Sara</strong>: This D.B. is all wrong. Someone moved her two feet from where she bled out. What did the tox screen say?</p>
+<p><strong>Robbins</strong>: Nothing. Not back yet. But I'll get it to you soon as it is.</p>
+<p><strong>Sara</strong>: Thank you.</p>
+<p>(SARA and ROBBINS turn to look at the body. SARA sees something and leans over for a better look.)</p>
+<p><strong>Sara</strong>: Is that glass in her hair?</p>
+<p><strong>Robbins</strong>: Minute pieces of it, yeah. I tweezed a few for trace.</p>
+<p>(ROBBINS takes a sample piece out and hands it to SARA for her to look at.)</p>
+<p><strong>Sara</strong>: We didn't see any broken glass in her apartment. Round edges, tinted ... </p>
+<p>(Camera zooms in for a close up of the piece of glass.)</p>
+<p><strong>Sara</strong>: ... it looks polarized.</p>
+<p><strong>Robbins</strong>: Probably safety glass.</p>
+<p><strong>Sara</strong>: Yeah. Too bad it didn't protect her.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. DE BREFF BISTRO (RESTAURANT) - FRONT -- NIGHT]</p>
+<p>(At the front, the HOSTESS is on the phone. GRISSOM and CATHERINE walk up to her.)</p>
+<p><strong>Hostess</strong>: (to phone) Uh, Debreff, please hold. Debreff, please hold. Debreff, please hold. </p>
+<p>(Still on the phone, the HOSTESS looks up at GRISSOM and CATHERINE. She puts the phone down for the moment.)</p>
+<p><strong>Hostess</strong>: Hi. Last name?</p>
+<p><strong>Grissom</strong>: We don't have reservations. W-we're here...</p>
+<p>(As soon as the HOSTESS hears that they don't have reservations, she turns back to the phone. She puts a hand up to stop GRISSOM from talking.)</p>
+<p><strong>Hostess</strong>: (to phone) eh, party of four? Three weeks from Thursday? Let me see.</p>
+<p>(The HOSTESS turns to look at her reservation book.)</p>
+<p><strong>Catherine</strong>: Excuse me, but you don't understand.</p>
+<p><strong>Hostess</strong>: No, I'm sorry. You don't understand. You're walk-in's on a very busy night. We're short a chef.</p>
+<p><strong>Catherine</strong>: We know. He's dead. </p>
+<p><strong>Grissom</strong>: Not just dead. Dismembered. </p>
+<p>(GRISSOM holds up his work ID for the HOSTESS.)</p>
+<p><strong>Grissom</strong>: We're with the crime lab.</p>
+<p>(The phone continues to ring in the background. The HOSTESS hangs up the phone she's holding.)</p>
+<p><strong>Hostess</strong>: I'll get the owner.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. DE BREFF BISTRO (RESTAURANT) - KITCHEN -- NIGHT]</p>
+<p>(GRISSOM examines the items on the shelves in the kitchen while CATHERINE talks with LES DUTTON, the OWNER.)</p>
+<p><strong>Les Dutton</strong>: Are you sure it's Petrov?</p>
+<p><strong>Catherine</strong>: Coroner made a positive identification.</p>
+<p><strong>Les Dutton</strong>: What makes you think this event happened here?</p>
+<p><strong>Catherine</strong>: We found traces of aspic and olive oil under his fingernails. Means that he went into the meat grinder without showering. Possibly straight from this kitchen.</p>
+<p><strong>Les Dutton</strong>: If there was a murder in our kitchen don't you think that, uh ... I'd know about it?</p>
+<p>(He chuckles nervously.)</p>
+<p><strong>Catherine</strong>: I don't know. Would you?</p>
+<p>(GRISSOM continues to look around the kitchen. He finds in the hamper, two blood-stained chefs jackets. One belongs to &quot;ROSS HALPO, SOUS CHEF&quot; and the other to &quot;LOLA CREIGHTON, SAUCIER CHEF&quot;. Both also have &quot;Do Breff Bistro&quot; embroidered on it.)</p>
+<p><strong>Grissom</strong>: Hey, Cath? (points to the jackets) Blood spatter.</p>
+<p><strong>Owner</strong>: It's a kitchen. The chefs use knives. That's not uncommon. You are...?</p>
+<p><strong>Grissom</strong>: Gil Grissom. I'm with her.</p>
+<p>(GRISSOM pulls out another white jacket. On it reads: &quot;Do Breff Bistro&quot;, &quot;Stephanie&quot;. There is no job title on it.)</p>
+<p><strong>Grissom</strong>: Who's, uh, Stephanie?</p>
+<p><strong>Owner</strong>: One of my waitresses.</p>
+<p><strong>Grissom</strong>: Oh, I understand how chefs cut their fingers and how the kitchen help could have blood spatter on their uniforms, but how does a waitress get blood on the back of her shirt?</p>
+<p>(LES DUTTON doesn't say anything.)</p>
+<p><strong>Catherine</strong>: We can shut you down for hours or get a warrant and shut you down for good.</p>
+<p>(He turns and looks back nervously at his busy kitchen.)</p>
+<p><strong>Les Dutton</strong>: (to CATHERINE) Give me till after the rush?</p>
+<p>(GRISSOM looks up at him.)</p>
+<p>CUT TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. DE BREFF BISTRO (RESTAURANT) - FRONT -- NIGHT]</p>
+<p>(GRISSOM and CATHERINE wait back out in the main dining room. GRISSOM sighs.)</p>
+<p><strong>Grissom</strong>: Okay, this &quot;rush&quot; is taking entirely too long.</p>
+<p><strong>Waiter</strong>: (to PATRON) Sir? The Coquilles St. Jacques.</p>
+<p>(The WAITER lifts up the dish lid.)</p>
+<p><strong>Patron</strong>: Thank you.</p>
+<p><strong>Catherine</strong>: People always think that the show is out front. It wasn't till I waitressed I realized it's all in the back.</p>
+<p>(Bored, GRISSOM looks around and notices something unusual. He walks to an unused booth and moves the flower vase. CATHERINE sees GRISSOM'S interest in the booth and joins him.)</p>
+<p><strong>Catherine</strong>: What are you looking at?</p>
+<p>(GRISSOM taps the booth wall with his finger. There appears to be a blackish-colored stain on it.)</p>
+<p><strong>Grissom</strong>: Looks like a v-pattern to me. What do you think?</p>
+<p>(CATHERINE looks at it.)</p>
+<p><strong>Catherine</strong>: Yeah. What? Caused by a candle?</p>
+<p><strong>Grissom</strong>: Burn area seems too big for a candle.</p>
+<p>(LES DUTTON walks up to them.)</p>
+<p><strong>Les Dutton</strong>: Okay. Kitchen's all yours.</p>
+<p><strong>Grissom</strong>: Mr. Dutton, uh, can I ask you what happened here?</p>
+<p><strong>Les Dutton</strong>: Oh, geez. Uh, waiters probably put the candles too close to the wall. I've told them a million times.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. DE BREFF BISTRO (RESTAURANT) - KITCHEN -- NIGHT]</p>
+<p>(The chefs prepare the meals. A waitress walks up to the main area. GRISSOM glances at her and holds up the baggied bloodied jacket.)</p>
+<p><strong>Grissom</strong>: Ah, excuse me. Stephanie?</p>
+<p><strong>Stephanie</strong>: Uh-huh.</p>
+<p><strong>Grissom</strong>: Is this your uniform?</p>
+<p><strong>Lola Creighton</strong>: Don't have to answer that, Steph. They don't have a warrant.</p>
+<p><strong>Grissom</strong>: (to CATHERINE) I thought you said the mafia left town.</p>
+<p>(CATHERINE chuckles.)</p>
+<p><strong>Catherine</strong>: We have the owner's consent so, again, could you explain this blood?</p>
+<p>(STEPHANIE hesitates.)</p>
+<p><strong>Ross Halpo</strong>: (interrupting) Order up, Stephanie. Hot items. Two filet mignon and one coquilles St. Jacques. Boogie. Go, go.</p>
+<p>(CATHERINE watches as STEPHANIE grabs the dishes and leaves the kitchen without answering their question. She gets angry and turns to the two chefs.)</p>
+<p><strong>Catherine</strong>: Hey! We found blood spatter on the uniforms of several employees who worked the night that Chef Petrov died.</p>
+<p>(GRISSOM holds up one of the baggied jackets.)</p>
+<p><strong>Grissom</strong>: Ross Halpo -- sous chef.</p>
+<p>(He lifts up the other bag.)</p>
+<p><strong>Grissom</strong>: Lola Creighton -- saucier.</p>
+<p>(To the two chefs.)</p>
+<p><strong>Grissom</strong>: You want to tell us how the blood got here?</p>
+<p><strong>Ross Halpo</strong>: It's my blood. We got a rule in the kitchen: Don't touch my knife; don't touch my Johnson.</p>
+<p>(Quick flashback to: In the kitchen, PETROV SAMSKO and ROSS HALPO work side by side.)</p>
+<p><strong>Ross Halpo</strong>: (V.O.) I was working with Petrov, the head chef.</p>
+<p>(ROSS HALPO absently grabs the knife near him. PETROV sees him grab his knife and stops him.)</p>
+<p><strong>Petrov Samsko</strong>: Hey, hey, that's my knife!</p>
+<p>(Using the knife in his hand, PETROV cuts ROSS HALPO.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Ross Halpo</strong>: Touched his knife. I deserved it.</p>
+<p><strong>Grissom</strong>: Okay. That still doesn't explain how the blood got on the uniforms.</p>
+<p><strong>Lola Creighton</strong>: They don't get it. Chefs here have a ritual. Macho thing. If you get cut, it's tradition that you disburse maximum spillage.</p>
+<p>(Quick flashback to: In the back of the kitchen, ROSS HALPO starts tossing his blood around the kitchen toward the other laughing chefs.)</p>
+<p><strong>Chef</strong>: (laughing) Oh, hey, watch it. CHEF: (laughing) Ah, blood! CHEF: (laughing) Oh, hey, stop... ooh!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Ross Halpo</strong>: That's how everyone got blood on themselves.</p>
+<p><strong>Catherine</strong>: Macho.</p>
+<p><strong>Grissom</strong>: (unamused) Haven't these people ever heard of HIV?</p>
+<p><strong>Catherine</strong>: Apparently not.</p>
+<p><strong>Grissom</strong>: Alert all your employees. We're going to take over your kitchen, starting now.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - TRACE LAB] </p>
+<p>(SARA walks into the lab.)</p>
+<p><strong>Sara</strong>: Hey. You got something on that glass?</p>
+<p><strong>David Hodges</strong>: Didn't beep you to say hi.</p>
+<p><strong>Sara</strong>: Glad to you're settling in, Hodges.</p>
+<p><strong>David Hodges</strong>: You were right. It is polarized. Ultraviolet quotient is very high. Glass is from a car windshield.</p>
+<p><strong>Sara</strong>: Maybe she was in some kind of car accident. Hit-and-run ... </p>
+<p>(HODGES looks up and continues sarcastically.)</p>
+<p><strong>David Hodges</strong>: ... then she crawls home, gets on her bed and commits hari-kari?</p>
+<p>[Note: The correct Japanese term is &quot;hara-kiri&quot;.]</p>
+<p><strong>Sara</strong>: Stranger things have happened. If you weren't such a lab rat, you would know that. You got a make of a car for me?</p>
+<p><strong>David Hodges</strong>: (doesn't look up) No.</p>
+<p>(After a beat, HODGES looks up.)</p>
+<p><strong>David Hodges</strong>: But ... I can narrow it down to the year it was manufactured. Car companies add more ultraviolet sealants each season to stay ahead of safety standards. Used a comparison study of a car that was made in 2001. </p>
+<p>(Camera view: The two pieces of glass side by side.)</p>
+<p><strong>David Hodges</strong>: Your windshield glass is from a 2002 model.</p>
+<p><strong>Sara</strong>: Thank you.</p>
+<p><strong>David Hodges</strong>: Mm-hmm.</p>
+<p>(HODGES walks away.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. PARKING GARAGE]</p>
+<p>(SARA and WARRICK finish examining LINDA DAMEN'S car. They sigh.)</p>
+<p><strong>Sara</strong>: The windshield's intact.</p>
+<p><strong>Warrick</strong>: Yeah. Well, maybe the glass came from another windshield in this lot.</p>
+<p>(WARRICK turns and looks around at the other cars in the garage.)</p>
+<p><strong>Sara</strong>: Yeah. Let's take a look.</p>
+<p>(They start walking around and looking at the cars' glass.)</p>
+<p><strong>Sara</strong>: You know, you can tell a lot about a person by what they leave in their car.</p>
+<p><strong>Sara</strong>: Rotten bananas.</p>
+<p>(WARRICK chuckles.)</p>
+<p><strong>Warrick</strong>: Business suit.</p>
+<p><strong>Sara</strong>: I got a paycheck. Who would do that?</p>
+<p><strong>Warrick</strong>: Underwear.</p>
+<p>(WARRICK chuckles. He finds something with the next car.)</p>
+<p><strong>Warrick</strong>: That looks like adhesive.</p>
+<p><strong>Sara</strong>: Still tacky.</p>
+<p>(Off screen, a woman yells at them.)</p>
+<p><strong>Linda's Neighbor</strong>: Hey, hey! What are you doing? That's my car.</p>
+<p>(SARA holds out her ID to the woman.)</p>
+<p><strong>Sara</strong>: Crime lab. How are you?</p>
+<p><strong>Linda's Neighbor</strong>: Cute picture. I'm late for work.</p>
+<p>(She opens the car door. SARA stops her.)</p>
+<p><strong>Sara</strong>: We noticed you had your windshield replaced recently. The adhesive's seeping.</p>
+<p><strong>Linda's Neighbor</strong>: You get what you pay for. So the car shop was having a half-off deal. I'm in no position to go to the big guys.</p>
+<p><strong>Sara</strong>: Did replacing the windshield have anything with the tenant in apartment<br />
+325?</p>
+<p><strong>Linda's Neighbor</strong>: Linda? (scoffs) Yeah. She did it. I'd send her the bill if I thought she'd pay. She hasn't paid for anything else she trashed in this complex.</p>
+<p><strong>Warrick</strong>: Like what else?</p>
+<p><strong>Linda's Neighbor</strong>: Oh, well, that would depend on her mood. Um, when she's up, she breaks the mailboxes. </p>
+<p>(Quick flashback to: LINDA DAMEN bangs something clutched with both hands against the mail boxes. She grunts in frustration. End of flashback. Resume to present.)</p>
+<p><strong>Linda's Neighbor</strong>: When she's down she throws the patio furniture into the pool.</p>
+<p>(Quick flashback to: LINDA DAMEN tosses the furniture into the pool while screaming. End of flashback. Resume to present.)</p>
+<p><strong>Linda's Neighbor</strong>: She broke my windshield yesterday because she said she 'heard' me talking on my cell about her.</p>
+<p>(Quick flashback to: LINDA hitting and breaking the car windshield while screaming. The neighbor is sitting inside the car.)</p>
+<p><strong>Linda Damen</strong>: You bitch! LINDA DAMEN: I heard you!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Linda's Neighbor</strong>: We just call her &quot;the whack job in 325.&quot;</p>
+<p><strong>Warrick</strong>: Well, she died yesterday. We think it may have been a suicide.</p>
+<p><strong>Linda's Neighbor</strong>: (flippantly) Yeah? I'm surprised someone didn't kill her.</p>
+<p>(SARA stares at the NEIGHBOR. WARRICK also watches her carefully. The NEIGHBOR starts to worry that she might have said the wrong thing.)</p>
+<p><strong>Linda's Neighbor</strong>: Look, unless you want to call my pit boss and tell him I'm under arrest, I'm going to work. </p>
+<p>(She gets into her car.)</p>
+<p><strong>Sara</strong>: Thank you. (to WARRICK) I would like to see Linda Damen's tox report.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>(The car engine starts.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. DE BREFF BISTRO (RESTAURANT) - KITCHEN]</p>
+<p>(CATHERINE vacuums the kitchen countertop. In the storage room at the back of the kitchen, NICK checks the counters with an ALS. He finds body fluid. He looks up and sighs.)</p>
+<p>(CATHERINE finishes up vacuuming and turns the motor off.)</p>
+<p><strong>Nick</strong>: Fresh off an airplane from a conference, and bamm -- I got seminal fluid.</p>
+<p><strong>Catherine</strong>: Lucky you.</p>
+<p>(CATHERINE takes the filter out of the vacuum and tests the white powder inside. She sees the change, stands up and smiles.) </p>
+<p><strong>Catherine</strong>: Some things never change.</p>
+<p><strong>Nick</strong>: What's that?</p>
+<p><strong>Catherine</strong>: Cocaine.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. DE BREFF BISTRO (RESTAURANT) - KITCHEN -- CONTINUOUS]</p>
+<p>(GRISSOM kneels down next to the floor drain and tests it. The area around the drain turns pink.)</p>
+<p><strong>Grissom</strong>: Presence of blood on the drain.</p>
+<p>(CATHERINE and NICK join him.)</p>
+<p><strong>Catherine</strong>: Blood, coke, semen. These people were doing everything in this kitchen but cook.</p>
+<p><strong>Nick</strong>: I'll go have a little chit-chat with the hostess. They always seem to know everything.</p>
+<p>(NICK leaves. CATHERINE kneels down as GRISSOM takes off the drain cover. Inside they find something.)</p>
+<p>(Camera close up of the blood clot GRISSOM picked up.)</p>
+<p><strong>Catherine</strong>: Blood clot. What is that, sand around it?</p>
+<p><strong>Grissom</strong>: Looks like it. What would sand be doing in a kitchen?</p>
+<p><strong>Catherine</strong>: Well, one thing's for sure: The blood got there before the sand.</p>
+<p><strong>Grissom</strong>: This was not a little knife knick. This guy was stuck. I mean, uh, he bled out long enough for his blood to pool and clot.</p>
+<p>(GRISSOM and CATHERINE both stand up.) </p>
+<p><strong>Grissom</strong>: Excuse me. (beat) We're going to need all your knives. (to ROSS HALPO) Starting with yours.</p>
+<p>(ROSS HALPO clears his throat and walks to the counter with his knifes. He opens his knife holder and shows the knives to GRISSOM and CATHERINE.)</p>
+<p><strong>Ross Halpo</strong>: I need them back by the next shift.</p>
+<p><strong>Catherine</strong>: Well, that depends on what we find.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[INT. POLICE DEPARTMENT - WAITING ROOM]</p>
+<p>(SARA sits with JOHN and JANE DAMEN. JOHN reaches into his coat pocket and pulls out a photograph.)</p>
+<p><strong>John Damen</strong>: Oh, uh, this is the clearest picture that we could find of Brody.</p>
+<p><strong>Sara</strong>: Thank you. I'll get it to a detective.</p>
+<p><strong>Jane Damen</strong>: The shoeprint that you found in Linda's bedroom? Are you thinking that Brody might have...?</p>
+<p><strong>Sara</strong>: Oh, we don't know yet. We're going to wait and see what the evidence tells us. I did meet a tenant at your daughter's apartment complex that described Linda as ... troubled. Did you ever witness her being violent?</p>
+<p><strong>Jane Damen</strong>: We like to think of her as normal, as improving. She was prescribed lithium her junior year of college.</p>
+<p><strong>Sara</strong>: She was diagnosed bipolar?</p>
+<p><strong>John Damen</strong>: She's a rapid cycler. She shifts into manic in a blink. We knew she had been violent around the complex.</p>
+<p><strong>Sara</strong>: Lithium didn't help?</p>
+<p><strong>Jane Damen</strong>: Well, it's a catch-22. When Linda's in an &quot;up&quot; phase, she doesn't think she needs the lithium, so she doesn't take it which then makes her more unstable.</p>
+<p>(She corrects herself.)</p>
+<p><strong>Jane Damen</strong>: Made.</p>
+<p><strong>Sara</strong>: I'm sorry for your loss.</p>
+<p>(Camera holds on JANE DAMEN. JOHN DAMEN reaches over and holds onto her hand.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. DE BREFF BISTRO (RESTAURANT) - OWNER'S OFFICE]</p>
+<p>(GRISSOM looks through the Owner's Log. It reads: )</p>
+<p>SEPTEMBER 26, 2002</p>
+<p>LOAN REPAYMENT FROM 2. COC ...</p>
+<p>PLATE BREAKAGES<br />
+14 DINNER<br />
+3 SALAD</p>
+<p>BEEF ORDER SHORTED,<br />
+ON NEXT BILL</p>
+<p>ACCIDENT REPORTED</p>
+<p>DANNY PASQUALLE, ITALIAN MALE ... SUFFERED SUFFERED THIRD DEGREE ... ON HIS FACE, THE NIGHT OF SEPT. ... </p>
+<p>SPECIALS: </p>
+<p>(GRISSOM closes the log book and thinks about it. He looks around and finds under the small shelf, something covered with a red cloth. He pulls the cloth away and finds a gueridon.)</p>
+<p>(Quick flashback to: The gueridon is lit and a high flame leaves a V-shaped pattern on the booth wall. End of flashback. Resume to present.)</p>
+<p>(LES DUTTON walks into the office.)</p>
+<p><strong>Les Dutton</strong>: That's a guéridon used for tableside cooking.</p>
+<p><strong>Grissom</strong>: I thought there was a policy against the use of these in Las Vegas restaurants.</p>
+<p><strong>Les Dutton</strong>: Ever since a television star from the '70s burned his face by one. It's changed dining forever.</p>
+<p><strong>Grissom</strong>: You know, those v-marks that we found in the restaurant -- those were made fairly recently. Certainly ... since the '70s.</p>
+<p><strong>Les Dutton</strong>: I lied about the candles. It was an accident.</p>
+<p><strong>Grissom</strong>: According to your owner's log, ... (GRISSOM lifts up the log book) ... it was a bad accident. (reading) Danny Pasqualle, Italian male model suffered third-degree burns on his face the night of September 26, 2002.</p>
+<p><strong>Les Dutton</strong>: We do special requests for special customers. Chef Petrov made Mr. Pasqualle a cafe diablo.</p>
+<p>(Quick flashback to: CHEF PETROV is cooking in front of the booth. DANNY PASQUALLE watches with anticipation.)</p>
+<p><strong>Petrov Samsko</strong>: Myers rum, grand marnier, kahlua, and now for the rind.</p>
+<p>(CHEF PETROV holds up a long piece of rind. He lights it and drops it into the gueridon. It literally explodes in DANNY PASQUALLE'S face. He cries out in pain.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Did he ever file formal charges against you?</p>
+<p><strong>Owner</strong>: No, that's the strange thing. He... he never did.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM]</p>
+<p>(BRASS and GRISSOM interview DANNY PASQUALLE. The camera starts on the left side of DANNY PASQUALLE to show us the unburned side of his face and slowly pans around him to his right side.)</p>
+<p><strong>Danny Pasqualle</strong>: What am I going to do, sue for a restaurant? I used to make five million a year. (scoffs) You do the math.</p>
+<p><strong>Brass</strong>: So after losing all that salary you never filed suit. Maybe you didn't file charges it and settle it for yourself.</p>
+<p>(The camera stops moving and reveals the scarring on DANNY PASQUALLE'S right side of his face.)</p>
+<p><strong>Danny Pasqualle</strong>: (pauses for a moment) Are you accusing me of something?</p>
+<p><strong>Grissom</strong>: No charges will be filed, Mr. Pasqualle if ... you'd be willing to fill out a statement to that effect.</p>
+<p>(GRISSOM pushes the piece of paper on the table toward DANNY PASQUALLE and holds out a pen for him. DANNY takes the pen in his right hand and leans over to read the paper. When he grabs the pen, GRISSOM sees the wound on his knuckles.)</p>
+<p><strong>Grissom</strong>: The wound on your hand, Mr. Pasqualle? Patterned abrasions over the dorsal of the hand at the metacarpal phalangeal joints.</p>
+<p><strong>Brass</strong>: We call it a &quot;fight bite.&quot;</p>
+<p><strong>Grissom</strong>: Human mouths are full of bacteria. A wound from a human bite is a tremendous source of infection, unfortunately.</p>
+<p><strong>Brass</strong>: So, what happened, Mr. Pasqualle? You paid the chef a little visit and did your version of &quot;etu, brute?&quot;</p>
+<p>(DANNY PASQUALLE pushes the paper from him and sits up. He remains silent.)</p>
+<p><strong>Grissom</strong>: You don't have to say anything, Mr. Pasqualle.</p>
+<p>(GRISSOM reaches into his jacket pocket and takes out a swab. He uncaps the swab.)</p>
+<p><strong>Grissom</strong>: We just need your hand.</p>
+<p>FADE TO BLACK.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM]</p>
+<p>(The technician takes a syringe and takes a sample from the wound on DANNY PASQUALLE'S right hand. He flinches as the needle pierces his skin. A sample of the liquid is extracted.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - TRACE LAB]</p>
+<p>(Camera opens on the line of culinary knives on the table, each one tagged.)</p>
+<p>(CATHERINE picks up a knife. In the DNA lab next door, the printer spews out GREG'S test results. He looks at it, then turns to CATHERINE.)</p>
+<p><strong>Greg</strong>: Blade #25: Not human.</p>
+<p><strong>Catherine</strong>: 25 knives in, and I'm bust.</p>
+<p>(CATHERINE lifts up the knife and finds some dried red stuff on it.)</p>
+<p><strong>Catherine</strong>: Oh, now we're cooking.</p>
+<p>(She rubs a swab on it and nothing comes off.)</p>
+<p><strong>Catherine</strong>: It's not blood.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CASINO - MAIN FLOOR]</p>
+<p>(DET SULIK points out BRODY JONES to SARA and WARRICK.)</p>
+<p><strong>Det. &quot;Sully&quot; Sulik</strong>: There he is-dollar slots, wearing the cap.</p>
+<p><strong>Sara</strong>: How did you track him down?</p>
+<p><strong>Det. &quot;Sully&quot; Sulik</strong>: We showed his photo around. The ATM in the lobby -- he used it 24 hours ago.</p>
+<p>(As they get closer, they notice that BRODY JAMES is sitting in front of a slot machine writing vigorously in his notebook. It reads: )</p>
+<p>BAR LINE LINE<br />
+LINE BAR LINE<br />
+BLANK BAR BAR<br />
+BAR BAR LINE<br />
+LINE BAR BAR<br />
+BAR LINE LINE<br />
+LINE BAR BAR</p>
+<p><strong>Sara</strong>: What is he doing?</p>
+<p><strong>Warrick</strong>: We used to call a guy like that a bean counter. Degenerates paying 25 cents a pop in the hopes of cracking a pattern.</p>
+<p><strong>Sara</strong>: What are the notebooks for?</p>
+<p><strong>Warrick</strong>: It's his results. But that joker doesn't realize that the patterns can end up in the hundreds of millions.</p>
+<p><strong>Sara</strong>: You know, the more I see of this kind of stuff the less I picture you a gambler.</p>
+<p><strong>Warrick</strong>: This isn't gambling. This is the end of the line.</p>
+<p>(As they get closer, they notice blood stains on BRODY JONES' right shirt sleeve. BRODY doesn't notice them approaching.)</p>
+<p><strong>Warrick</strong>: How long have you been here, sir?</p>
+<p><strong>Det. &quot;Sully&quot; Sulik</strong>: Las vegas police. We want a word with you. What do you know about the death of Linda Damen?</p>
+<p><strong>Brody Jones</strong>: Unfortunate. I need to ... write my results. I need to ... document them.</p>
+<p><strong>Warrick</strong>: How did you get the blood on your shirt?</p>
+<p><strong>Brody Jones</strong>: What blood?</p>
+<p><strong>Sara</strong>: We're going to need your shirt.</p>
+<p>(BRODY JONES sighs. Without missing a beat, he shoves his pen in his mouth and takes his shirt off. He tosses it to SARA.)</p>
+<p><strong>Brody Jones</strong>: Take it.</p>
+<p><strong>Warrick</strong>: You're coming with the shirt. We'll need your shoes, too.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- HALLWAY]</p>
+<p>(GREG and GRISSOM walk down the hallway. GRISSOM looks through a file while GREG holds on to the test results.)</p>
+<p><strong>Greg</strong>: Did you know that some doctors believe that oral bacteria have no other benefits than to make it impossible for other more vicious bacteria to take up residence in our mouths?</p>
+<p><strong>Grissom</strong>: I knew that, Greg.</p>
+<p><strong>Greg</strong>: So, then I should just stop trying to impress you.</p>
+<p><strong>Grissom</strong>: That would impress me.</p>
+<p><strong>Greg</strong>: Okay. Well, results from the fight bite boy. </p>
+<p>(GREG hands the test results envelope to GRISSOM.)</p>
+<p><strong>Greg</strong>: I had to get it from an outside lab since we're not equipped to do bacterial DNA testing ourselves. Hint, hint.</p>
+<p>(GRISSOM removes the test results and looks at it. The results done between the two samples, SAMPLE (PASQUALLE) and BACTERIA (SAMSKO), had findings of &quot;MATCH FOUND 1 IN 600 BILLION&quot;.)</p>
+<p><strong>Greg</strong>: Bacteria on his knuckles matches the natural bacteria in the chef's mouth.</p>
+<p><strong>Grissom</strong>: I guess he settled out of court.</p>
+<p>(Quick flashback to: In the De Breff Bistro kitchen, DANNY PASQUALLE walks up to CHEF PETRO SAMSKO. He grabs his shoulder and spins him around.)</p>
+<p><strong>Danny Pasqualle</strong>: You ruined my life! I'll never work again!</p>
+<p>(He swings his fist and makes contact with the CHEF'S mouth. The CHEF grunts upon impact.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Greg</strong>: Looks like he took a cheek swab of the chef with his own fist.</p>
+<p><strong>Grissom</strong>: Thanks, Greg.</p>
+<p>(GRISSOM continues down the hallway.)</p>
+<p><strong>Greg</strong>: (nods) Mm-hmm.</p>
+<p>(GREG turns around and heads back down the hallway.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - HALLWAY OUTSIDE INTERVIEW ROOM]</p>
+<p>(BRASS walks down the hallway toward the interview room door. Inside the interview room, GRISSOM shows DANNY PASQUALLE the DNA test results.)</p>
+<p><strong>Grissom</strong>: (muffled) You can see why I might have a hard time believing you, right?</p>
+<p>(BRASS taps lightly on the glass door. GRISSOM looks up and sees BRASS at the door.)</p>
+<p><strong>Grissom</strong>: (muffled) Excuse me.</p>
+<p>(GRISSOM puts the test results away and heads for the door. He exits the interview room and stalks with BRASS out in the hallway.)</p>
+<p><strong>Brass</strong>: So ... our male model copping to battery?</p>
+<p><strong>Grissom</strong>: He's denying murder.</p>
+<p><strong>Brass</strong>: Well, maybe he's telling the truth. The earplug from the meat plant -- we got a hit on CODIS. Kicked out Harold Haskins delivery man from Meteor Meat. Out on parole for extortion. (beat) He delivers to Debreff Restaurant.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. METEOR MEAT -- DAY]</p>
+<p>(BRASS interviews HAROLD HASKINS.)</p>
+<p><strong>Brass</strong>: So, you snuck in the place to grind up a body?</p>
+<p><strong>Harold Haskins</strong>: No. I didn't even know what it was till it was too late.</p>
+<p><strong>Brass</strong>: Who exactly gave you the, uh, &quot;meat&quot; to grind?</p>
+<p><strong>Harold Haskins</strong>: Uh, it was in the restaurant freezer at the De Breff.</p>
+<p><strong>Brass</strong>: You see my face? This is me almost believing you. Now, I've already violated your parole so whatever I say to the judge is up to you. So, what is it?</p>
+<p>(HAROLD HASKINS sighs.)</p>
+<p><strong>Harold Haskins</strong>: It was Ross. The Sous Chef. I owed him 3,000 for coke. He said I could pay him back with the favor.</p>
+<p><strong>Brass</strong>: You ground up a body as a favor?</p>
+<p><strong>Harold Haskins</strong>: It was already dead. It's not like I killed him.</p>
+<p><strong>Brass</strong>: Well, that's a very tenuous distinction.</p>
+<p>(BRASS turns around and heads back down the hallway. He turns around and tosses over his shoulder to HAROLD HASKINS.)</p>
+<p><strong>Brass</strong>: Stay right there.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. DE BREFF BISTRO (RESTAURANT) -- KITCHEN]</p>
+<p>(The kitchens are busy again. CATHERINE and GRISSOM )</p>
+<p><strong>Ross Halpo</strong>: (to the chef off screen) That's a filet, not a porterhouse. (to CATHERINE) I'm a Sous Chef. Twenty guys are into me for recreational substances. It doesn't mean they'd cut a body up for me.</p>
+<p><strong>Catherine</strong>: &quot;Ground it up&quot;. We're thinking that you did the actual filleting.</p>
+<p><strong>Ross Halpo</strong>: (chuckles) Never happened. Ask any of the guys.</p>
+<p><strong>Catherine</strong>: We have. They won't talk. Military calls it &quot;code red.&quot;</p>
+<p>(Behind them, GRISSOM looks around and finds something above the stove.)</p>
+<p><strong>Catherine</strong>: Fierce loyalty to the top dog. I guess Petrov was that until somebody killed him. (GRISSOM takes a sample of it and holds it.) His tragedy is your promotion?</p>
+<p>(LES DUTTON interrupts CATHERINE.)</p>
+<p><strong>Les Dutton</strong>: Excuse me. We're in the middle of a rush here. Customers don't forgive a cold meal or a late meal.</p>
+<p><strong>Catherine</strong>: I bet they'd forgive a murder, Les.</p>
+<p><strong>Grissom</strong>: Hey, do you guys serve mutton?</p>
+<p><strong>Les Dutton</strong>: What?</p>
+<p><strong>Grissom</strong>: Mutton. It's from the french word for sheep. These fibers look like wool and since sheep are sheered before they're butchered I think that somebody was cooking something here, and it wasn't food.</p>
+<p>(And with that, CATHERINE turns back to look at ROSS HALPO.)</p>
+<p><strong>Catherine</strong>: &quot;Code red&quot;?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM]</p>
+<p>(BRODY JONES sits at the table, rubbing his eyes. WARRICK puts a photo down on the table in front of BRODY JONES.)</p>
+<p><strong>Warrick</strong>: Brody, we have your shoeprint in Linda's blood. We also have a sample of Linda's blood that we found on your t-shirt. Is there anything you'd like to tell us?</p>
+<p><strong>Brody Jones</strong>: Yes. Someone is playing that machine right now and is throwing the entire last 72 hours of calculations out the window.</p>
+<p><strong>Det. &quot;Sully&quot; Sulik</strong>: Did you kill this girl and try to make it look like a suicide?</p>
+<p><strong>Brody</strong>: If anything, I tried to save her.</p>
+<p><strong>Det. &quot;Sully&quot; Sulik</strong>: Save her how?</p>
+<p><strong>Brody Jones</strong>: I went to her place.</p>
+<p>(Quick flashback to: BRODY JONES opens the apartment door and walks inside. LINDA DAMEN is on the bed.)</p>
+<p><strong>Brody Jones</strong>: (V.O.) Borrowed some money from her.</p>
+<p>(BRODY gets LINDA'S wallet and removes some money. End of flashback. Resume to present.)</p>
+<p><strong>Brody Jones</strong>: I looked in her bedroom. I thought she fell asleep reading. Then I saw blood.</p>
+<p>(Quick flashback to: BRODY JONES sees the slit wrist and the blood on the bed. He kneels on the bed and grabs her.)</p>
+<p><strong>Brody Jones</strong>: Linda!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brody Jones</strong>: Tried to revive her.</p>
+<p>(Quick flashback to: BRODY JONES climbs on the bed and tries to revive LINDA, unmindful that he's steeping in the blood on the sheets. Still he tries.)</p>
+<p><strong>Brody Jones</strong>: Oh, oh. BRODY JONES: Oh, god!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: But you left her there, dead.</p>
+<p><strong>Brody Jones</strong>: You don't get it. Even as the Son of God, I can only do so much.</p>
+<p>(SARA sits in the observation room looking through BRODY JONES' notebook.)</p>
+<p><strong>Warrick</strong>: Oh, I get it. You and Linda are kind of on the same page, huh?<br />
+(pause) Did you stop taking your lithium together? Is that it?</p>
+<p><strong>Brody Jones</strong>: It's not a crime.</p>
+<p><strong>Warrick</strong>: Yeah, you're right. It's not.</p>
+<p>(WARRICK grabs his things and walks out of the interview room.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - OBSERVATION ROOM -- CONTINUOUS]</p>
+<p>(WARRICK walks into the observation room where SARA is. Behind them, down the hallway, DR. ROBBINS slowly makes his way toward them.)</p>
+<p><strong>Sara</strong>: Bipolar girl meets a bipolar guy. Together, they cut out their medication. She ends up committing suicide.</p>
+<p><strong>Warrick</strong>: It's almost like bipolar boy is too high to even realize what went down.</p>
+<p>(DR. ROBBINS walks into the observation room.)</p>
+<p><strong>Sara</strong>: Yeah. Hey, Doc.</p>
+<p><strong>Robbins</strong>: I was over here on an exhumation matter. I knew you wanted this. Tox results for Linda Damen.</p>
+<p>(He hands the folder to WARRICK.)</p>
+<p><strong>Warrick</strong>: Thank you.</p>
+<p>(ROBBINS leaves. WARRICK opens the folder and looks at the test results.)</p>
+<p><strong>Warrick</strong>: No lithium, just like her parents said. She did have a huge dose of valium, ingested less than an hour before her time of death.</p>
+<p><strong>Sara</strong>: Valium? </p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p><strong>Sara</strong>: That doesn't make any sense. I mean, that's the last thing a depressed person would take.</p>
+<p><strong>Warrick</strong>: 200 milligrams. That's more than five times the normal dosage.</p>
+<p><strong>Sara</strong>: That much valium. There's no way she could have fought somebody off if they were coming after her with a straight razor.</p>
+<p>(WARRICK raises his head and looks back into the interview room.)</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI - DNA LAB]</p>
+<p>(CATHERINE walks into the lab.)</p>
+<p><strong>Catherine</strong>: Greg, how's the knife coming with that mysterious smudge on it?</p>
+<p><strong>Greg</strong>: I just got the results. Alcohol, acetate and red dye #58.</p>
+<p>(GREG hands the results to CATHERINE.)</p>
+<p><strong>Catherine</strong>: Nail polish.</p>
+<p><strong>Greg</strong>: Mm-hmm.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY]</p>
+<p>(CATHERINE has a mini-line up inside the interview room. De Breff Bristro's two waitresses, the chef and the hostess hold out their hands for CATHERINE to look at.)</p>
+<p><strong>Catherine</strong>: May I see your nails, please?</p>
+<p>(One by one, they hold out their hands for CATHERINE to inspect. She stops when she sees that the HOSTESS has on red nail polish.)</p>
+<p><strong>Catherine</strong>: Oh. Well, I'm going to need a sample of that polish. A scraping.</p>
+<p>(The HOSTESS peels off a single painted nail and holds it out to CATHERINE.)</p>
+<p><strong>Hostess</strong>: Uh, is this small enough?</p>
+<p><strong>Catherine</strong>: Yeah. That'll do.</p>
+<p>(CATHERINE dismisses the others.)</p>
+<p><strong>Catherine</strong>: Okay, the, uh, three of you can go. Thank you, ladies. (to the HOSTESS) And I've got a table for you. A five top. All by yourself. By the window. Someone will be with you shortly.</p>
+<p>(CATHERINE walks out of the interview room.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT -- HALLWAY]</p>
+<p>(DET. &quot;SULLY&quot; SULIK fills SARA and WARRICK in on the info he's found.)</p>
+<p><strong>Det. &quot;Sully&quot; Sulik</strong>: I looked into that prescription at the pharmacy you asked about. Linda Damen, the deceased.</p>
+<p><strong>Warrick</strong>: That was quick.</p>
+<p><strong>Det. &quot;Sully&quot; Sulik</strong>: She doesn't have a prescription for valium. Her mother does -- Jane Damen. 25 milligrams as needed.</p>
+<p><strong>Sara</strong>: I think we better go pay mom a visit.</p>
+<p><strong>Warrick</strong>: Yeah. Thanks, Sully.</p>
+<p><strong>Det. &quot;Sully&quot; Sulik</strong>: Okay.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - TRACE LAB]</p>
+<p>(DAVID HODGES brings up something on the computer monitor.)</p>
+<p><strong>David Hodges</strong>: Wools are worsted. 12-ounce weight.</p>
+<p><strong>Grissom</strong>: That's heavy?</p>
+<p><strong>David Hodges</strong>: Light ... weave. Mostly for season spanners.</p>
+<p><strong>Grissom</strong>: We're talking about clothes?</p>
+<p><strong>David Hodges</strong>: Worsted is predominately used in the manufacturing of suits and light overcoats. The finish on this is trademark coating in high-end suits.</p>
+<p><strong>Grissom</strong>: Okay, good. Thanks.</p>
+<p>(GRISSOM turns to leave. DAVID HODGES stops him.)</p>
+<p><strong>David Hodges</strong>: Mmm. I'm not done. There was also blood present on the burnt wool.</p>
+<p><strong>Grissom</strong>: Did we get a DNA test?</p>
+<p><strong>David Hodges</strong>: It's victim's blood, from your chef. </p>
+<p>(GRISSOM looks at HODGES.) </p>
+<p><strong>David Hodges</strong>: (continues) I know what you're thinking. Couldn't possibly be his suit. Chefs wear checks and white shirts. But somebody did burn a bloody suit in the restaurant kitchen. A high-end suit.</p>
+<p>(GRISSOM doesn't say anything. HODGES looks at GRISSOM. After a beat.)</p>
+<p><strong>David Hodges</strong>: (continues) You have a candidate.</p>
+<p><strong>Grissom</strong>: You're the new guy.</p>
+<p><strong>David Hodges</strong>: Yeah. Uh, David Hodges. Transferred from LAPD. (scoffs) They said I had an attitude problem. Said that I thought I was entitled.</p>
+<p>(GRISSOM turns and leaves the lab.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY]</p>
+<p>(CATHERINE walks in with the test results.)</p>
+<p><strong>Catherine</strong>: So that sample I collected matches the polish on this knife. </p>
+<p>(She puts down on the table both the test results and a photo of the knife. On the photo of the knife is a yellow post it with the following on it.)</p>
+<p>00876-592-077<br />
+G.G.<br />
+12-31-02</p>
+<p><strong>Catherine</strong>: You handled this knife.</p>
+<p><strong>Hostess</strong>: So?</p>
+<p><strong>Catherine</strong>: Kitchen's first rule: Don't touch my knife; don't touch my Johnson.</p>
+<p>(CATHERINE sits down at the table.)</p>
+<p><strong>Catherine</strong>: Did you stab the chef?</p>
+<p><strong>Hostess</strong>: Well, this is the sous chef's knife.</p>
+<p><strong>Catherine</strong>: I'm aware of that. (beat) But when a transfer is made on a blade it's usually from slippage. Due to a stabbing motion.</p>
+<p>(Quick flash to: A knife in a hand making a stabbing motion and the hand slipping on the knife. End of flash. Resume to present.)</p>
+<p><strong>Hostess</strong>: Ar-are you charging me with anything?</p>
+<p><strong>Catherine</strong>: No. But why don't you have a seat out in reception. Things could change.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. DAMEN RESIDENCE -- DAY]</p>
+<p>(WARRICK and SARA question JANE DAMEN about the prescription. In the kitchen behind them, JOHN DAMEN rummages through the cabinets.)</p>
+<p><strong>Warrick</strong>: Mrs. Damen, our detective found this prescription in your name for valium.</p>
+<p>(WARRICK hands a copy of the prescription form to JANE DAMEN. She takes it. It reads:</p>
+<p>SUNDOWN CLINIC<br />
+7545 Castle Banks Rd. Las Vegas, NV 89125<br />
+(702) 555-0177</p>
+<p>Name: JANE DAMEN Date: 120 ... Address: 187654 St????... City: L.V.<br />
+25 mg as needed Valium<br />
+[signature] MD No. 087654</p>
+<p><strong>Warrick</strong>: Can you tell us anything about that?</p>
+<p>(She puts the paper on the counter behind her.)</p>
+<p><strong>Jane Damen</strong>: I take valium on occasion. Yes. Our lives get pretty frenetic just trying to keep up with Linda. </p>
+<p><strong>Warrick</strong>: And you last got a prescription ... this past monday. What does that mean?</p>
+<p><strong>Sara</strong>: The tox report says Linda had five times the normal dose of valium in her system. Because there were no hesitation marks on her wrists it suggests that someone else inflicted the wound. That much valium would've been enough to subdue her.</p>
+<p><strong>John Damen</strong>: Hey, I-I think you're a little out of line here.</p>
+<p><strong>Jane Damen</strong>: I did not drug my daughter.</p>
+<p><strong>Warrick</strong>: May we have your permission to look through the current contents of your prescription?</p>
+<p>(She sighs.)</p>
+<p><strong>Jane Damen</strong>: Did Linda's boyfriend put you up to this? Because he is not stable.</p>
+<p>(SARA'S cell phone rings.)</p>
+<p><strong>Warrick</strong>: No.</p>
+<p>(SARA stands up and moves away to answer it.)</p>
+<p><strong>Sara</strong>: Excuse me.</p>
+<p><strong>Warrick</strong>: We're simply trying to determine ...</p>
+<p><strong>Sara</strong>: (to phone) Hello?</p>
+<p>INTERCUT WITH:</p>
+<p>[INT. CSI - DNA LAB]</p>
+<p><strong>Greg</strong>: The blouse from your vic's closet is stained. The substances are biological. High salt content.</p>
+<p><strong>Sara</strong>: Male or female?</p>
+<p>(SARA listens to GREG'S answer on the phone.)</p>
+<p><strong>Sara</strong>: Thanks, Greg.</p>
+<p>(SARA hangs up and turns around.)</p>
+<p><strong>Sara</strong>: Mr. And Mrs. Damen, there are five types of tears -- sorrow, regret, joy, fear and allergic reaction. The one thing that they have in common is DNA. We found a blouse in your daughter's closet the night that she died. There was moisture on it. The moisture... was tears. The DNA ... (SARA looks at JOHN DAMEN.) ... was male. </p>
+<p>(Everyone turns to look at JOHN DAMEN.)</p>
+<p><strong>Sara</strong>: Mr. Damen? Were you waiting in the closet for your daughter?</p>
+<p>(JOHN DAMEN looks down and doesn't answer.)</p>
+<p><strong>Warrick</strong>: We can get a warrant to test your DNA sample against our sample.</p>
+<p><strong>Jane Damen</strong>: John?</p>
+<p><strong>John Damen</strong>: (stutters) The... The-the only way to get an adult committed for psychological help is if they hurt themselves.</p>
+<p><strong>Warrick</strong>: (quietly) Or someone else.</p>
+<p><strong>John Damen</strong>: Everyone Linda attacked was too afraid to file complaints against her. She was out of hand. She was attacking strangers. She was vandalizing property. She was refusing to take her medication and we were helpless to make her.</p>
+<p>(Quick flashback to: In LINDA DAMEN'S apartment, she's lying asleep on the bed. JOHN DAMEN lingers over her with the straight edged razor.)</p>
+<p><strong>John Damen</strong>: (V.O.) It was supposed to be a suicide attempt ...</p>
+<p>(He makes the first cut.)</p>
+<p><strong>John Damen</strong>: but then ... </p>
+<p>(He turns around as the door handle rattles.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>John Damen</strong>: I heard somebody at the door and I ... I-I ... I guess I panicked. </p>
+<p>(Quick flashback to: In the apartment, JOHN DAMEN hides the razor under the bedsheet and heads for the closet.)</p>
+<p><strong>John Damen</strong>: (V.O.) I hid in the closet.</p>
+<p>(The closet door opens and closes.)</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>John Damen</strong>: (crying) And, um, she, uh ... when he...</p>
+<p>(Quick flashback to: Through the closet door blinds, JOHN DAMEN watches as BRODY JONES climbs onto the bed and tries to revive LINDA.)</p>
+<p><strong>Brody Jones</strong>: Linda? Linda?!</p>
+<p>(Crying, JOHN DAMEN cries and rests his head against the blouse hanging on the hanger.)</p>
+<p><strong>John Damen</strong>: (V.O.) By then it was too late.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>John Damen</strong>: (to JANE) I just wanted to get her help. I just wa-- ... (to WARRICK) She needed my help. I just ...</p>
+<p>(WARRICK turns and signals to the officer standing behind them. The officer puts handcuffs on JOHN DAMEN.)</p>
+<p><strong>John Damen</strong>: (stutters) She, she needed help. (to JANE) Honey, you know ... she-she wouldn't ... </p>
+<p>(JANE looks at him, stunned by the confession. The officer takes JOHN DAMEN out of the room. JANE DAMEN moves off camera frame.)</p>
+<p><strong>Warrick</strong>: Reminds of what my grandmother said a long time ago. I would never believe her.</p>
+<p><strong>Sara</strong>: What's that?</p>
+<p><strong>Warrick</strong>: Crazy people make even sane people act crazy.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - EVIDENCE ROOM]</p>
+<p>(GRISSOM sits alone inside the lab with the chef's knife in one hand and a magnifying glass in the other. He shakes the knife. He looks at the knife.)</p>
+<p>(CATHERINE walks in. GRISSOM shakes the knife again.) </p>
+<p><strong>Catherine</strong>: What'd you find?</p>
+<p><strong>Grissom</strong>: Come here. Do you hear this?</p>
+<p>(He holds the knife near CATHERINE'S ear and shakes it up and down. A faint rattling sound is heard.)</p>
+<p><strong>Catherine</strong>: How did we miss that in trace?</p>
+<p><strong>Grissom</strong>: I don't know. But I've learned that the evidence room is the quietest place in the lab.</p>
+<p>(GRISSOM looks at the knife and twists it open. The handle clicks and slides apart. He tilts the knife and empties sand out of the handle.)</p>
+<p><strong>Catherine</strong>: Sand. Right -- for balance and precision.</p>
+<p>(GRISSOM grabs his magnifying glass and examines the grains of sand on the table.)</p>
+<p><strong>Grissom</strong>: Did you know that to a geologist there's no such thing as sand? Each grain is its own tiny rock. Fine, glassy crystals ... (Camera zooms into the glass for a close up.) ... dark. Obsidian, I bet.</p>
+<p>(GRISSOM hands the magnifying glass to CATHERINE.)</p>
+<p><strong>Catherine</strong>: Volcanic sand. Long way from home.</p>
+<p><strong>Grissom</strong>: Japanese call it singing sand. If you walk on certain beaches in Japan it'll make a musical sound.</p>
+<p><strong>Catherine</strong>: Never been to Japan, but I've seen this sand before ... on the blood clot.</p>
+<p>(GRISSOM takes the magnifying glass and looks at the knife hole where he finds some blood.)</p>
+<p><strong>Grissom</strong>: Well. (he chuckles) &quot;Let us carve him as a dish fit for the gods.&quot;</p>
+<p><strong>Catherine</strong>: I'm going to guess Shakespeare.</p>
+<p><strong>Grissom</strong>: Julius Caesar.</p>
+<p>[Note: Julius Caesar, Act II, Scene 1, (Wm. Shakespeare)]</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM]</p>
+<p>(GRISSOM interviews CHEF ROSS HALPO.)</p>
+<p><strong>Grissom</strong>: That's your knife.</p>
+<p>(He puts a photo on the table in front of the chef.)</p>
+<p><strong>Grissom</strong>: This is the owner's log.</p>
+<p>(GRISSOM opens the log book and reads.)</p>
+<p><strong>Grissom</strong>: &quot;The sous chef gets 89% of the meat off of trout filet -- six percent better than any chef on the line.&quot; </p>
+<p>(GRISSOM looks at ROSS HALPO)</p>
+<p><strong>Grissom</strong>: I don't think you killed the chef. (beat) You did fillet him, though.</p>
+<p>(Quick flashback to: ROSS HALPO is busy working, his hands bloodied.)</p>
+<p><strong>Grissom</strong>: (V.O.) Your knife handle slid open...</p>
+<p>(Cut to: The blood and sand slides down the floor drain.)</p>
+<p><strong>Grissom</strong>: (V.O.) ...sand went down the drain landing on the victim's clotted blood.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: It's hard work, carving up a man. I believe that's how you broke your knife handle.</p>
+<p>(ROSS HALPO looks at GRISSOM and doesn't say anything.)</p>
+<p><strong>Grissom</strong>: But you didn't do this alone, did you?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM]</p>
+<p>(CATHERINE is interviewing LES DUTTON, the De Breff Bistro OWNER.)</p>
+<p><strong>Catherine</strong>: A murdered chef in your kitchen. Kiss of death for a restaurant.</p>
+<p>(Quick flashback to: LES DUTTON is in the back kitchen standing next to ROSS HALPO and pointing to the body on the ground in front of them.)</p>
+<p><strong>Les Dutton</strong>: (to ROSS HALPO) We'll never get our customers back. How am I going to get a body out of here?</p>
+<p><strong>Ross Halpo</strong>: I do for you, you do for me.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Code red, in fact -- protect the kitchen.</p>
+<p>(Quick flashback to: ROSS HALPO and LES DUTTON are in the back while ROSS cuts the body up. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Some people say that the most important part of preparing a meal is the cleanup.</p>
+<p>(Quick flashback to: ROSS HALPO is covered with blood.)</p>
+<p><strong>Catherine</strong>: (V.O.) While the fillet man disposed of the chef parts you got rid of your bloody woolen suit.</p>
+<p>(Cut to: LES DUTTON takes off his coat. Cut to: The wool suit burns on the grill. The woolen particles get trapped in the fan above.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT -- HALLWAY]</p>
+<p>(GRISSOM meets BRASS outside in the hallway.)</p>
+<p><strong>Brass</strong>: How's it going?</p>
+<p><strong>Grissom</strong>: Well, he's not denying anything. He's not admitting anything, either.</p>
+<p>(BRASS sighs.)</p>
+<p><strong>Brass</strong>: Yeah. Same as the other two here. They need a little nudge.</p>
+<p><strong>Grissom</strong>: Such as?</p>
+<p><strong>Brass</strong>: While they're in our custody shall we try a little theater?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- CONTINUOUS]</p>
+<p>(BRASS walks into the interview room and whispers into CATHERINE'S ear. She nods her head as she listens. He glances periodically at LES DUTTON, who watches them nervously.)</p>
+<p>(BRASS walks over to LES DUTTON.)</p>
+<p><strong>Brass</strong>: Let's go for a walk.</p>
+<p>(LES DUTTON sighs.)</p>
+<p><strong>Brass</strong>: Hey, relax. You'll be with a friend.</p>
+<p>(He stands up and BRASS escorts him out of the room.)</p>
+<p><strong>Brass</strong>: Cuff him up.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - HALLWAY -- CONTINUOUS]</p>
+<p>[CAMERA SLOW MOTION]</p>
+<p>(CHEF ROSS HALPO in handcuffs is being escorted down the hallway by an officer. LES DUTTON, also in handcuffs meets up with him and is escorted down the hallway behind him by another officer and BRASS.)</p>
+<p>(They walk slowly by the waiting room where THE HOSTESS stands. The HOSTESS looks at ROSS HALPO. ROSS HALPO glances back at LES DUTTON behind him. LES DUTTON also glances up and looks at THE HOSTESS. She watches the men walk by.)</p>
+<p>(GRISSOM leans casually against the far wall and notices her reaction.)</p>
+<p>(The two men are lead out of the hallway.)</p>
+<p>(GRISSOM walks up to the HOSTESS.)</p>
+<p><strong>Grissom</strong>: Why did you kill him?</p>
+<p><strong>Hostess</strong>: I-I went into the walk-in to, to get some lemons.</p>
+<p>(Quick flashback to: In the back room storage walk-in, CHEFS PETROV SAMSKO and LOLA CREIGHTON are making out. THE HOSTESS walks in and sees them.)</p>
+<p><strong>Petrov Samsko</strong>: (moans) Oh, yeah ... </p>
+<p>(She turns around and heads out the door. End of flashback. Resume to present.)</p>
+<p><strong>Hostess</strong>: He played around all the time -- waitresses, patrons ... nobodies. </p>
+<p>(CATHERINE walks into the room.)</p>
+<p><strong>Hostess</strong>: But ... she was different. (beat) She was a chef.</p>
+<p>(She says it as if it means something.)</p>
+<p><strong>Grissom</strong>: What does that mean?</p>
+<p><strong>Hostess</strong>: Well, I can't make toast, um ... where did I stand?</p>
+<p>(Quick flashback to: THE HOSTESS walks out of the walk in and toward CHEF PETROV SAMSKO. He turns around and smiles at her.)</p>
+<p><strong>Petrov Samsko</strong>: Hey, beautiful, I haven't seen you all night.</p>
+<p>(The HOSTESS doesn't take her gaze off of him. She walks up to him.)</p>
+<p><strong>Hostess</strong>: Well, I've seen you.</p>
+<p>(He scoffs and turns around to walk away. She reaches him and we hear the sound of a knife. She stabs him in the back and he goes down.)</p>
+<p>(She, along with everyone else in the kitchen, watches as PETROV SAMSKO falls to the floor.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(GRISSOM stares at THE HOSTESS. He turns and looks at CATHERINE who also stares at THE HOSTESS in disbelief. The HOSTESS stares back at them as if it makes all the sense in the world to her.)</p>
+<p><strong>Grissom</strong>: Officer, would you take her to booking, please?</p>
+<p>(The officer puts handcuffs on THE HOSTESS and leads her out of the room.)</p>
+<p><strong>Catherine</strong>: (sighs) All in a day's work.</p>
+<p><strong>Grissom</strong>: Yeah.</p>
+<p>[beat]</p>
+<p><strong>Grissom</strong>: You up for dinner?</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-Delivery Man: Hey, Harlan. Special delivery. Fresh shipment in from Nebraska.
-Harlan: Great. Just stack it in the freezer, will you? I got to open up.
-Delivery Man: All right, you got it, boss.
-
-
-
-
-
-
-
-
-
-
-
-Brass: Ever wonder what's in that hot dog? Human body in a meat grinder. Shop foreman found an arm. The rest of him is prime grade a sirloin.
-Catherine: Body in a meat grinder. Sounds kind of &quot;mob-ish&quot; except they left town in the '80s.
-
-Brass: The last guy to operate the meat grinder is this guy over here. Manny Saldano, age 37. Worked for meteor for eleven years. Shop foreman vouches for him. Says he inspected all three of his machines before he clocked him out.
-Grissom: Well, we're going to need to process him.
-Brass: Sure.  Check out the smorgasbord. Go ahead.
-
-Brass:  Mike.
-
-Catherine:  Good god...
-Grissom: Looks like the elbow got stuck in the blade.
-
-Grissom: Yup, the ulna.
-Catherine: One of the strongest bones in the body. Probably what jammed this grinder.
-Grissom: Possibly why whoever did this didn't finish the job.
-
-Catherine: It's like that Morrissey album - &quot;Meat is Murder&quot; ...
-
-Grissom: I'm going to need a hand.
-HARD CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
-
-
-Grissom: The last remains of John Doe. We're going to need sifters.
-Catherine: Blood's everywhere. Phenolphthalein and luminol are useless.
-
-Grissom: We're going to have to dismantle this piece by piece.
-Catherine: Yeah.
-Grissom: I'll get a foreman.
-Catherine: I think I can handle this.
-Grissom: You know about meat grinders?
-Catherine: Well, everything's pretty much plumbing. Male into female parts. Righty tighty, lefty loosey.
-
-
-Catherine: Grinder plate.
-
-Catherine: Blade.
-
-Catherine: The worm.
-
-Grissom: Found an ear plug. 
-
-Grissom: Ear wax is ripe with DNA.
-Catherine: Except ... all the employees wear them.
-
-Grissom: This one's different than the ones they use. Whoever wore this brought it with them. We just have to find out whose ear it fits.
-
-
-
-
-Det. &quot;Sully&quot; Sulik: Girl's name is Linda Damen, 23, apparent suicide. Father stopped by with dinner found her dead, called 9-1-1.
-Sara: No signs of forced entry?
-
-Det. &quot;Sully&quot; Sulik: Nope. Did find her wallet out. Empty.
-
-Sara: Hmmm ...
-Warrick: Empty? Maybe she was just broke.
-
-
-
-
-
-Sara: Hey.
-
-Hank Peddigrew: You guys are fast.
-Sara: You pronounce?
-Hank Peddigrew: 7:20. Coroner will be able to tell you more. Looks like she bled out. Her left wrist is transected.
-Sara: It's atypical for a female. Women usually commit suicide in the tub. It's easier cleanup for whoever's left behind.
-Warrick: Yeah.
-
-Sara: Warrick. 
-
-Sara: Did her parents say whether she was living with a man?
-Detective: Was dating a Brody Jones. No idea where he works or lives.
-
-Warrick: Did someone move her?
-
-Hank Peddigrew: She was propped up when we got here. I checked for vitals.
-Warrick: You sure with all your life-saving efforts you didn't move her?
-Hank Peddigrew: Hey, man, like I said, I checked for vitals.
-Sara: It's okay, babe.
-
-Hank Peddigrew:  The victim had no response. I had no reason to move her.
-Warrick: Well, someone moved her. She bled out her 
-
-
-
-Hank Peddigrew: I'm going to hit the road ...  ... baby.
-Sara:  I'm sorry.
-
-Sara: There's a stain here. So cold stains.
-Warrick: Is it recent?
-
-Sara: It's cool to the touch, yeah.
-
-Warrick: Sara.
-
-Warrick: I think our suicide just became suspicious circs.
-
-
-
-
-Robbins: Since I'm the one who always seems to state the obvious this arm was dead before it was hacked off.
-Grissom: What do you make of the, uh scar tissue on the palm?
-Robbins: Occupational hazard, maybe. I see this kind of thing a lot in bricklayers, plumbers, carpenters.
-Grissom: Looks like it's blistered.
-
-Robbins: Gradual denaturation of the proteins in the epithelials. Resulting in general scarring on the palm or surface.
-
-Grissom: I'll send this sample to trace.
-
-Grissom: Tips of the fingers look like they're worn to the bone.
-Robbins: Can you get a partial?
-
-Grissom: Much more than that. Lansberry's Ridge Builder. One application to the bulbs of the fingers and the ridges plump out temporarily like a chia pet on steroids.
-
-
-
-
-
-
-
-Grissom: Petrov Samsko. Non-gaming sheriff's permit, head chef, Debreff Restaurant.
- 
-Grissom: Chef-- that would explain the burn scar tissue on his palm.
-Catherine:  It's &quot;Debreff.&quot; 
-
-Catherine: It's a five-star restaurant. I've eaten there.
-Grissom: Good, maybe you can get us a table.
-
-
-
-
-Warrick: Different sole, different size. Thank you. Sorry for the inconvenience. This is just a standard procedure. 
-
-Warrick: Do you have any idea where your daughter's boyfriend works?
-John Damen: Well, a casino.
-Warrick: Uh, which one?
-John Damen: All of them. He's, uh, he's a gambler. Um, used to drag Linda out, keep her up days at a time. Ran her health down, her spirit.
-Jane Damen: She was getting better, though. She had a, uh... rough time after college finding herself, but she was getting better.
-
-
-
-
-
-Robbins: The trans-section of the left wrist is consistent with a self-inflicted wound particularly because she's right-handed.
-
-Sara: There's no hesitation marks. Isn't that uncommon for suicide?
-Robbins: People usually stutter-cut a few times ... 
- 
-Robbins:  ... trying to work up the courage.
-
-Robbins: This woman cut herself with one smooth motion.
-Sara: This D.B. is all wrong. Someone moved her two feet from where she bled out. What did the tox screen say?
-Robbins: Nothing. Not back yet. But I'll get it to you soon as it is.
-Sara: Thank you.
-
-Sara: Is that glass in her hair?
-Robbins: Minute pieces of it, yeah. I tweezed a few for trace.
-
-Sara: We didn't see any broken glass in her apartment. Round edges, tinted ... 
-
-Sara: ... it looks polarized.
-Robbins: Probably safety glass.
-Sara: Yeah. Too bad it didn't protect her.
-
-
-
-
-Hostess:  Uh, Debreff, please hold. Debreff, please hold. Debreff, please hold. 
-
-Hostess: Hi. Last name?
-Grissom: We don't have reservations. W-we're here...
-
-Hostess:  eh, party of four? Three weeks from Thursday? Let me see.
-
-Catherine: Excuse me, but you don't understand.
-Hostess: No, I'm sorry. You don't understand. You're walk-in's on a very busy night. We're short a chef.
-Catherine: We know. He's dead. 
-Grissom: Not just dead. Dismembered. 
-
-Grissom: We're with the crime lab.
-
-Hostess: I'll get the owner.
-
-
-
-
-Les Dutton: Are you sure it's Petrov?
-Catherine: Coroner made a positive identification.
-Les Dutton: What makes you think this event happened here?
-Catherine: We found traces of aspic and olive oil under his fingernails. Means that he went into the meat grinder without showering. Possibly straight from this kitchen.
-Les Dutton: If there was a murder in our kitchen don't you think that, uh ... I'd know about it?
-
-Catherine: I don't know. Would you?
-
-Grissom: Hey, Cath?  Blood spatter.
-Owner: It's a kitchen. The chefs use knives. That's not uncommon. You are...?
-Grissom: Gil Grissom. I'm with her.
-
-Grissom: Who's, uh, Stephanie?
-Owner: One of my waitresses.
-Grissom: Oh, I understand how chefs cut their fingers and how the kitchen help could have blood spatter on their uniforms, but how does a waitress get blood on the back of her shirt?
-
-Catherine: We can shut you down for hours or get a warrant and shut you down for good.
-
-Les Dutton:  Give me till after the rush?
-
-
-
-
-
-
-
-
-Grissom: Okay, this &quot;rush&quot; is taking entirely too long.
-Waiter:  Sir? The Coquilles St. Jacques.
-
-Patron: Thank you.
-Catherine: People always think that the show is out front. It wasn't till I waitressed I realized it's all in the back.
-
-Catherine: What are you looking at?
-
-Grissom: Looks like a v-pattern to me. What do you think?
-
-Catherine: Yeah. What? Caused by a candle?
-Grissom: Burn area seems too big for a candle.
-
-Les Dutton: Okay. Kitchen's all yours.
-Grissom: Mr. Dutton, uh, can I ask you what happened here?
-Les Dutton: Oh, geez. Uh, waiters probably put the candles too close to the wall. I've told them a million times.
-
-
-
-
-Grissom: Ah, excuse me. Stephanie?
-Stephanie: Uh-huh.
-Grissom: Is this your uniform?
-Lola Creighton: Don't have to answer that, Steph. They don't have a warrant.
-Grissom:  I thought you said the mafia left town.
-
-Catherine: We have the owner's consent so, again, could you explain this blood?
-
-Ross Halpo:  Order up, Stephanie. Hot items. Two filet mignon and one coquilles St. Jacques. Boogie. Go, go.
-
-Catherine: Hey! We found blood spatter on the uniforms of several employees who worked the night that Chef Petrov died.
-
-Grissom: Ross Halpo -- sous chef.
-
-Grissom: Lola Creighton -- saucier.
-
-Grissom: You want to tell us how the blood got here?
-Ross Halpo: It's my blood. We got a rule in the kitchen: Don't touch my knife; don't touch my Johnson.
-
-Ross Halpo:  I was working with Petrov, the head chef.
-
-Petrov Samsko: Hey, hey, that's my knife!
-
-
-Ross Halpo: Touched his knife. I deserved it.
-Grissom: Okay. That still doesn't explain how the blood got on the uniforms.
-Lola Creighton: They don't get it. Chefs here have a ritual. Macho thing. If you get cut, it's tradition that you disburse maximum spillage.
-
-Chef:  Oh, hey, stop... ooh!
-
-Ross Halpo: That's how everyone got blood on themselves.
-Catherine: Macho.
-Grissom:  Haven't these people ever heard of HIV?
-Catherine: Apparently not.
-Grissom: Alert all your employees. We're going to take over your kitchen, starting now.
-
-
- 
-
-Sara: Hey. You got something on that glass?
-David Hodges: Didn't beep you to say hi.
-Sara: Glad to you're settling in, Hodges.
-David Hodges: You were right. It is polarized. Ultraviolet quotient is very high. Glass is from a car windshield.
-Sara: Maybe she was in some kind of car accident. Hit-and-run ... 
-
-David Hodges: ... then she crawls home, gets on her bed and commits hari-kari?
-
-Sara: Stranger things have happened. If you weren't such a lab rat, you would know that. You got a make of a car for me?
-David Hodges:  No.
-
-David Hodges: But ... I can narrow it down to the year it was manufactured. Car companies add more ultraviolet sealants each season to stay ahead of safety standards. Used a comparison study of a car that was made in 2001. 
-
-David Hodges: Your windshield glass is from a 2002 model.
-Sara: Thank you.
-David Hodges: Mm-hmm.
-
-
-
-
-
-Sara: The windshield's intact.
-Warrick: Yeah. Well, maybe the glass came from another windshield in this lot.
-
-Sara: Yeah. Let's take a look.
-
-Sara: You know, you can tell a lot about a person by what they leave in their car.
-Sara: Rotten bananas.
-
-Warrick: Business suit.
-Sara: I got a paycheck. Who would do that?
-Warrick: Underwear.
-
-Warrick: That looks like adhesive.
-Sara: Still tacky.
-
-Linda's Neighbor: Hey, hey! What are you doing? That's my car.
-
-Sara: Crime lab. How are you?
-Linda's Neighbor: Cute picture. I'm late for work.
-
-Sara: We noticed you had your windshield replaced recently. The adhesive's seeping.
-Linda's Neighbor: You get what you pay for. So the car shop was having a half-off deal. I'm in no position to go to the big guys.
-Sara: Did replacing the windshield have anything with the tenant in apartment
-325?
-Linda's Neighbor: Linda?  Yeah. She did it. I'd send her the bill if I thought she'd pay. She hasn't paid for anything else she trashed in this complex.
-Warrick: Like what else?
-Linda's Neighbor: Oh, well, that would depend on her mood. Um, when she's up, she breaks the mailboxes. 
-
-Linda's Neighbor: When she's down she throws the patio furniture into the pool.
-
-Linda's Neighbor: She broke my windshield yesterday because she said she 'heard' me talking on my cell about her.
-
-Linda Damen: You bitch! LINDA DAMEN: I heard you!
-
-Linda's Neighbor: We just call her &quot;the whack job in 325.&quot;
-Warrick: Well, she died yesterday. We think it may have been a suicide.
-Linda's Neighbor:  Yeah? I'm surprised someone didn't kill her.
-
-Linda's Neighbor: Look, unless you want to call my pit boss and tell him I'm under arrest, I'm going to work. 
-
-Sara: Thank you.  I would like to see Linda Damen's tox report.
-Warrick: Yeah.
-
-
-
-
-
-
-Nick: Fresh off an airplane from a conference, and bamm -- I got seminal fluid.
-Catherine: Lucky you.
- 
-Catherine: Some things never change.
-Nick: What's that?
-Catherine: Cocaine.
-
-
-
-
-Grissom: Presence of blood on the drain.
-
-Catherine: Blood, coke, semen. These people were doing everything in this kitchen but cook.
-Nick: I'll go have a little chit-chat with the hostess. They always seem to know everything.
-
-
-Catherine: Blood clot. What is that, sand around it?
-Grissom: Looks like it. What would sand be doing in a kitchen?
-Catherine: Well, one thing's for sure: The blood got there before the sand.
-Grissom: This was not a little knife knick. This guy was stuck. I mean, uh, he bled out long enough for his blood to pool and clot.
- 
-Grissom: Excuse me.  Starting with yours.
-
-Ross Halpo: I need them back by the next shift.
-Catherine: Well, that depends on what we find.
-
-
-
-
-
-John Damen: Oh, uh, this is the clearest picture that we could find of Brody.
-Sara: Thank you. I'll get it to a detective.
-Jane Damen: The shoeprint that you found in Linda's bedroom? Are you thinking that Brody might have...?
-Sara: Oh, we don't know yet. We're going to wait and see what the evidence tells us. I did meet a tenant at your daughter's apartment complex that described Linda as ... troubled. Did you ever witness her being violent?
-Jane Damen: We like to think of her as normal, as improving. She was prescribed lithium her junior year of college.
-Sara: She was diagnosed bipolar?
-John Damen: She's a rapid cycler. She shifts into manic in a blink. We knew she had been violent around the complex.
-Sara: Lithium didn't help?
-Jane Damen: Well, it's a catch-22. When Linda's in an &quot;up&quot; phase, she doesn't think she needs the lithium, so she doesn't take it which then makes her more unstable.
-
-Jane Damen: Made.
-Sara: I'm sorry for your loss.
-
-
-
-
-
-SEPTEMBER 26, 2002
-LOAN REPAYMENT FROM 2. COC ...
-PLATE BREAKAGES
-14 DINNER
-3 SALAD
-BEEF ORDER SHORTED,
-ON NEXT BILL
-ACCIDENT REPORTED
-DANNY PASQUALLE, ITALIAN MALE ... SUFFERED SUFFERED THIRD DEGREE ... ON HIS FACE, THE NIGHT OF SEPT. ... 
-SPECIALS: 
-
-
-
-Les Dutton: That's a guéridon used for tableside cooking.
-Grissom: I thought there was a policy against the use of these in Las Vegas restaurants.
-Les Dutton: Ever since a television star from the '70s burned his face by one. It's changed dining forever.
-Grissom: You know, those v-marks that we found in the restaurant -- those were made fairly recently. Certainly ... since the '70s.
-Les Dutton: I lied about the candles. It was an accident.
-Grissom: According to your owner's log, ...  Danny Pasqualle, Italian male model suffered third-degree burns on his face the night of September 26, 2002.
-Les Dutton: We do special requests for special customers. Chef Petrov made Mr. Pasqualle a cafe diablo.
-
-Petrov Samsko: Myers rum, grand marnier, kahlua, and now for the rind.
-
-
-Grissom: Did he ever file formal charges against you?
-Owner: No, that's the strange thing. He... he never did.
-
-
-
-
-Danny Pasqualle: What am I going to do, sue for a restaurant? I used to make five million a year.  You do the math.
-Brass: So after losing all that salary you never filed suit. Maybe you didn't file charges it and settle it for yourself.
-
-Danny Pasqualle:  Are you accusing me of something?
-Grissom: No charges will be filed, Mr. Pasqualle if ... you'd be willing to fill out a statement to that effect.
-
-Grissom: The wound on your hand, Mr. Pasqualle? Patterned abrasions over the dorsal of the hand at the metacarpal phalangeal joints.
-Brass: We call it a &quot;fight bite.&quot;
-Grissom: Human mouths are full of bacteria. A wound from a human bite is a tremendous source of infection, unfortunately.
-Brass: So, what happened, Mr. Pasqualle? You paid the chef a little visit and did your version of &quot;etu, brute?&quot;
-
-Grissom: You don't have to say anything, Mr. Pasqualle.
-
-Grissom: We just need your hand.
-
-
-
-;
-
-
-
-
-
-
-
-
-
-
-
-Greg: Blade #25: Not human.
-Catherine: 25 knives in, and I'm bust.
-
-Catherine: Oh, now we're cooking.
-
-Catherine: It's not blood.
-
-
-
-
-Det. &quot;Sully&quot; Sulik: There he is-dollar slots, wearing the cap.
-Sara: How did you track him down?
-Det. &quot;Sully&quot; Sulik: We showed his photo around. The ATM in the lobby -- he used it 24 hours ago.
-
-BAR LINE LINE
-LINE BAR LINE
-BLANK BAR BAR
-BAR BAR LINE
-LINE BAR BAR
-BAR LINE LINE
-LINE BAR BAR
-Sara: What is he doing?
-Warrick: We used to call a guy like that a bean counter. Degenerates paying 25 cents a pop in the hopes of cracking a pattern.
-Sara: What are the notebooks for?
-Warrick: It's his results. But that joker doesn't realize that the patterns can end up in the hundreds of millions.
-Sara: You know, the more I see of this kind of stuff the less I picture you a gambler.
-Warrick: This isn't gambling. This is the end of the line.
-
-Warrick: How long have you been here, sir?
-Det. &quot;Sully&quot; Sulik: Las vegas police. We want a word with you. What do you know about the death of Linda Damen?
-Brody Jones: Unfortunate. I need to ... write my results. I need to ... document them.
-Warrick: How did you get the blood on your shirt?
-Brody Jones: What blood?
-Sara: We're going to need your shirt.
-
-Brody Jones: Take it.
-Warrick: You're coming with the shirt. We'll need your shoes, too.
-
-
-
-
-Greg: Did you know that some doctors believe that oral bacteria have no other benefits than to make it impossible for other more vicious bacteria to take up residence in our mouths?
-Grissom: I knew that, Greg.
-Greg: So, then I should just stop trying to impress you.
-Grissom: That would impress me.
-Greg: Okay. Well, results from the fight bite boy. 
-
-Greg: I had to get it from an outside lab since we're not equipped to do bacterial DNA testing ourselves. Hint, hint.
-
-Greg: Bacteria on his knuckles matches the natural bacteria in the chef's mouth.
-Grissom: I guess he settled out of court.
-
-Danny Pasqualle: You ruined my life! I'll never work again!
-
-
-Greg: Looks like he took a cheek swab of the chef with his own fist.
-Grissom: Thanks, Greg.
-
-Greg:  Mm-hmm.
-
-
-
-
-
-Grissom:  You can see why I might have a hard time believing you, right?
-
-Grissom:  Excuse me.
-
-Brass: So ... our male model copping to battery?
-Grissom: He's denying murder.
-Brass: Well, maybe he's telling the truth. The earplug from the meat plant -- we got a hit on CODIS. Kicked out Harold Haskins delivery man from Meteor Meat. Out on parole for extortion.  He delivers to Debreff Restaurant.
-
-
-
-
-Brass: So, you snuck in the place to grind up a body?
-Harold Haskins: No. I didn't even know what it was till it was too late.
-Brass: Who exactly gave you the, uh, &quot;meat&quot; to grind?
-Harold Haskins: Uh, it was in the restaurant freezer at the De Breff.
-Brass: You see my face? This is me almost believing you. Now, I've already violated your parole so whatever I say to the judge is up to you. So, what is it?
-
-Harold Haskins: It was Ross. The Sous Chef. I owed him 3,000 for coke. He said I could pay him back with the favor.
-Brass: You ground up a body as a favor?
-Harold Haskins: It was already dead. It's not like I killed him.
-Brass: Well, that's a very tenuous distinction.
-
-Brass: Stay right there.
-
-
-
-
-Ross Halpo:  I'm a Sous Chef. Twenty guys are into me for recreational substances. It doesn't mean they'd cut a body up for me.
-Catherine: &quot;Ground it up&quot;. We're thinking that you did the actual filleting.
-Ross Halpo:  Never happened. Ask any of the guys.
-Catherine: We have. They won't talk. Military calls it &quot;code red.&quot;
-
-Catherine: Fierce loyalty to the top dog. I guess Petrov was that until somebody killed him.  His tragedy is your promotion?
-
-Les Dutton: Excuse me. We're in the middle of a rush here. Customers don't forgive a cold meal or a late meal.
-Catherine: I bet they'd forgive a murder, Les.
-Grissom: Hey, do you guys serve mutton?
-Les Dutton: What?
-Grissom: Mutton. It's from the french word for sheep. These fibers look like wool and since sheep are sheered before they're butchered I think that somebody was cooking something here, and it wasn't food.
-
-Catherine: &quot;Code red&quot;?
-
-
-
-
-Warrick: Brody, we have your shoeprint in Linda's blood. We also have a sample of Linda's blood that we found on your t-shirt. Is there anything you'd like to tell us?
-Brody Jones: Yes. Someone is playing that machine right now and is throwing the entire last 72 hours of calculations out the window.
-Det. &quot;Sully&quot; Sulik: Did you kill this girl and try to make it look like a suicide?
-Brody: If anything, I tried to save her.
-Det. &quot;Sully&quot; Sulik: Save her how?
-Brody Jones: I went to her place.
-
-Brody Jones:  Borrowed some money from her.
-
-Brody Jones: I looked in her bedroom. I thought she fell asleep reading. Then I saw blood.
-
-Brody Jones: Linda!
-
-Brody Jones: Tried to revive her.
-
-Brody Jones: Oh, oh. BRODY JONES: Oh, god!
-
-Warrick: But you left her there, dead.
-Brody Jones: You don't get it. Even as the Son of God, I can only do so much.
-
-Warrick: Oh, I get it. You and Linda are kind of on the same page, huh?
- Did you stop taking your lithium together? Is that it?
-Brody Jones: It's not a crime.
-Warrick: Yeah, you're right. It's not.
-
-
-
-
-
-Sara: Bipolar girl meets a bipolar guy. Together, they cut out their medication. She ends up committing suicide.
-Warrick: It's almost like bipolar boy is too high to even realize what went down.
-
-Sara: Yeah. Hey, Doc.
-Robbins: I was over here on an exhumation matter. I knew you wanted this. Tox results for Linda Damen.
-
-Warrick: Thank you.
-
-Warrick: No lithium, just like her parents said. She did have a huge dose of valium, ingested less than an hour before her time of death.
-Sara: Valium? 
-Warrick: Yeah.
-Sara: That doesn't make any sense. I mean, that's the last thing a depressed person would take.
-Warrick: 200 milligrams. That's more than five times the normal dosage.
-Sara: That much valium. There's no way she could have fought somebody off if they were coming after her with a straight razor.
-
-
-
-
-
-
-
-
-Catherine: Greg, how's the knife coming with that mysterious smudge on it?
-Greg: I just got the results. Alcohol, acetate and red dye #58.
-
-Catherine: Nail polish.
-Greg: Mm-hmm.
-
-
-
-
-Catherine: May I see your nails, please?
-
-Catherine: Oh. Well, I'm going to need a sample of that polish. A scraping.
-
-Hostess: Uh, is this small enough?
-Catherine: Yeah. That'll do.
-
-Catherine: Okay, the, uh, three of you can go. Thank you, ladies.  And I've got a table for you. A five top. All by yourself. By the window. Someone will be with you shortly.
-
-
-
-
-
-Det. &quot;Sully&quot; Sulik: I looked into that prescription at the pharmacy you asked about. Linda Damen, the deceased.
-Warrick: That was quick.
-Det. &quot;Sully&quot; Sulik: She doesn't have a prescription for valium. Her mother does -- Jane Damen. 25 milligrams as needed.
-Sara: I think we better go pay mom a visit.
-Warrick: Yeah. Thanks, Sully.
-Det. &quot;Sully&quot; Sulik: Okay.
-
-
-
-
-David Hodges: Wools are worsted. 12-ounce weight.
-Grissom: That's heavy?
-David Hodges: Light ... weave. Mostly for season spanners.
-Grissom: We're talking about clothes?
-David Hodges: Worsted is predominately used in the manufacturing of suits and light overcoats. The finish on this is trademark coating in high-end suits.
-Grissom: Okay, good. Thanks.
-
-David Hodges: Mmm. I'm not done. There was also blood present on the burnt wool.
-Grissom: Did we get a DNA test?
-David Hodges: It's victim's blood, from your chef. 
- 
-David Hodges:  I know what you're thinking. Couldn't possibly be his suit. Chefs wear checks and white shirts. But somebody did burn a bloody suit in the restaurant kitchen. A high-end suit.
-
-David Hodges:  You have a candidate.
-Grissom: You're the new guy.
-David Hodges: Yeah. Uh, David Hodges. Transferred from LAPD.  They said I had an attitude problem. Said that I thought I was entitled.
-
-
-
-
-
-Catherine: So that sample I collected matches the polish on this knife. 
-
-00876-592-077
-G.G.
-12-31-02
-Catherine: You handled this knife.
-Hostess: So?
-Catherine: Kitchen's first rule: Don't touch my knife; don't touch my Johnson.
-
-Catherine: Did you stab the chef?
-Hostess: Well, this is the sous chef's knife.
-Catherine: I'm aware of that.  But when a transfer is made on a blade it's usually from slippage. Due to a stabbing motion.
-
-Hostess: Ar-are you charging me with anything?
-Catherine: No. But why don't you have a seat out in reception. Things could change.
-
-
-
-
-Warrick: Mrs. Damen, our detective found this prescription in your name for valium.
-(WARRICK hands a copy of the prescription form to JANE DAMEN. She takes it. It reads:
-SUNDOWN CLINIC
-7545 Castle Banks Rd. Las Vegas, NV 89125
- 555-0177
-Name: JANE DAMEN Date: 120 ... Address: 187654 St????... City: L.V.
-25 mg as needed Valium
- MD No. 087654
-Warrick: Can you tell us anything about that?
-
-Jane Damen: I take valium on occasion. Yes. Our lives get pretty frenetic just trying to keep up with Linda. 
-Warrick: And you last got a prescription ... this past monday. What does that mean?
-Sara: The tox report says Linda had five times the normal dose of valium in her system. Because there were no hesitation marks on her wrists it suggests that someone else inflicted the wound. That much valium would've been enough to subdue her.
-John Damen: Hey, I-I think you're a little out of line here.
-Jane Damen: I did not drug my daughter.
-Warrick: May we have your permission to look through the current contents of your prescription?
-
-Jane Damen: Did Linda's boyfriend put you up to this? Because he is not stable.
-
-Warrick: No.
-
-Sara: Excuse me.
-Warrick: We're simply trying to determine ...
-Sara:  Hello?
-
-
-Greg: The blouse from your vic's closet is stained. The substances are biological. High salt content.
-Sara: Male or female?
-
-Sara: Thanks, Greg.
-
-Sara: Mr. And Mrs. Damen, there are five types of tears -- sorrow, regret, joy, fear and allergic reaction. The one thing that they have in common is DNA. We found a blouse in your daughter's closet the night that she died. There was moisture on it. The moisture... was tears. The DNA ...  ... was male. 
-
-Sara: Mr. Damen? Were you waiting in the closet for your daughter?
-
-Warrick: We can get a warrant to test your DNA sample against our sample.
-Jane Damen: John?
-John Damen:  The... The-the only way to get an adult committed for psychological help is if they hurt themselves.
-Warrick:  Or someone else.
-John Damen: Everyone Linda attacked was too afraid to file complaints against her. She was out of hand. She was attacking strangers. She was vandalizing property. She was refusing to take her medication and we were helpless to make her.
-
-John Damen:  It was supposed to be a suicide attempt ...
-
-John Damen: but then ... 
-
-
-John Damen: I heard somebody at the door and I ... I-I ... I guess I panicked. 
-
-John Damen:  I hid in the closet.
-
- 
-John Damen:  And, um, she, uh ... when he...
-
-Brody Jones: Linda? Linda?!
-
-John Damen:  By then it was too late.
-
-John Damen:  She needed my help. I just ...
-
-John Damen:  Honey, you know ... she-she wouldn't ... 
-
-Warrick: Reminds of what my grandmother said a long time ago. I would never believe her.
-Sara: What's that?
-Warrick: Crazy people make even sane people act crazy.
-
-
-
-
- 
-Catherine: What'd you find?
-Grissom: Come here. Do you hear this?
-
-Catherine: How did we miss that in trace?
-Grissom: I don't know. But I've learned that the evidence room is the quietest place in the lab.
-
-Catherine: Sand. Right -- for balance and precision.
-
-Grissom: Did you know that to a geologist there's no such thing as sand? Each grain is its own tiny rock. Fine, glassy crystals ...  ... dark. Obsidian, I bet.
-
-Catherine: Volcanic sand. Long way from home.
-Grissom: Japanese call it singing sand. If you walk on certain beaches in Japan it'll make a musical sound.
-Catherine: Never been to Japan, but I've seen this sand before ... on the blood clot.
-
-Grissom: Well.  &quot;Let us carve him as a dish fit for the gods.&quot;
-Catherine: I'm going to guess Shakespeare.
-Grissom: Julius Caesar.
-
-
-
-
-
-Grissom: That's your knife.
-
-Grissom: This is the owner's log.
-
-Grissom: &quot;The sous chef gets 89% of the meat off of trout filet -- six percent better than any chef on the line.&quot; 
-
-Grissom: I don't think you killed the chef.  You did fillet him, though.
-
-Grissom:  Your knife handle slid open...
-
-Grissom:  ...sand went down the drain landing on the victim's clotted blood.
-
-Grissom: It's hard work, carving up a man. I believe that's how you broke your knife handle.
-
-Grissom: But you didn't do this alone, did you?
-
-
-
-
-Catherine: A murdered chef in your kitchen. Kiss of death for a restaurant.
-
-Les Dutton:  We'll never get our customers back. How am I going to get a body out of here?
-Ross Halpo: I do for you, you do for me.
-
-Catherine: Code red, in fact -- protect the kitchen.
-
-Catherine: Some people say that the most important part of preparing a meal is the cleanup.
-
-Catherine:  While the fillet man disposed of the chef parts you got rid of your bloody woolen suit.
-
-
-
-
-
-
-Brass: How's it going?
-Grissom: Well, he's not denying anything. He's not admitting anything, either.
-
-Brass: Yeah. Same as the other two here. They need a little nudge.
-Grissom: Such as?
-Brass: While they're in our custody shall we try a little theater?
-
-
-
-
-
-Brass: Let's go for a walk.
-
-Brass: Hey, relax. You'll be with a friend.
-
-Brass: Cuff him up.
-
-
-
-
-
-
-
-
-
-Grissom: Why did you kill him?
-Hostess: I-I went into the walk-in to, to get some lemons.
-
-Petrov Samsko:  Oh, yeah ... 
-
-Hostess: He played around all the time -- waitresses, patrons ... nobodies. 
-
-Hostess: But ... she was different.  She was a chef.
-
-Grissom: What does that mean?
-Hostess: Well, I can't make toast, um ... where did I stand?
-
-Petrov Samsko: Hey, beautiful, I haven't seen you all night.
-
-Hostess: Well, I've seen you.
-
-
-
-
-Grissom: Officer, would you take her to booking, please?
-
-Catherine:  All in a day's work.
-Grissom: Yeah.
-
-Grissom: You up for dinner?
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=03x11+-+Recipe+for+Murder&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127340%23p127340" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=03x11+-+Recipe+for+Murder&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127340%23p127340" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127340%23p127340&amp;name=03x11+-+Recipe+for+Murder" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127340%23p127340" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=5829f95d80db5a27ee224ea26e2afba5">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=5829f95d80db5a27ee224ea26e2afba5">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=5829f95d80db5a27ee224ea26e2afba5">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=5829f95d80db5a27ee224ea26e2afba5">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

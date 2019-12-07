@@ -1,813 +1,1045 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="FADE IN: 
+[Scenes from 7X01: Built to Kill (1)]
+[Song: &quot;Waiting on the World to Change,&quot; John Mayer]
+[INT. HOTEL - BAR -- NIGHT] 
+(CLOSE-UP:" />
+<meta property="og:title" content="07x02 - Built To Kill (2) - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="FADE IN: 
+[Scenes from 7X01: Built to Kill (1)]
+[Song: &quot;Waiting on the World to Change,&quot; John Mayer]
+[INT. HOTEL - BAR -- NIGHT] 
+(CLOSE-UP:" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13335" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>07x02 - Built To Kill (2) - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13335" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13335">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=52a7b1f7dafd8b65575d0dba9e69cdab"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=52a7b1f7dafd8b65575d0dba9e69cdab">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=52a7b1f7dafd8b65575d0dba9e69cdab">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=52a7b1f7dafd8b65575d0dba9e69cdab">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=52a7b1f7dafd8b65575d0dba9e69cdab">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13335&amp;sid=52a7b1f7dafd8b65575d0dba9e69cdab&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>07x02 - Built To Kill (2)</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127429">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127429">07x02 - Built To Kill (2)</a></div>
+							<div class="pull-right text-right"><time datetime="2006-10-12T04:28:00Z">10/12/06 04:28</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>FADE IN: </p>
+<p>[Scenes from 7X01: Built to Kill (1)]</p>
+<p>[Song: &quot;Waiting on the World to Change,&quot; John Mayer]</p>
+<p>[INT. HOTEL - BAR -- NIGHT] </p>
+<p>(CLOSE-UP: Catherine's drink. She mixes the drink.) </p>
+<p>VARIOUS CUTS:</p>
+<p>(Catherine is woozy; her vision blurry. The music sounds muffled and fades out. The people in the bar look as if they're moving in slow motion.) </p>
+<p>CUT TO:<br />
+[CU: CATHERINE'S EYE]</p>
+<p>(Catherine opens her eyes.) </p>
+<p>REVERSE POV</p>
+<p>[INT. MOTEL ROOM - MORNING]</p>
+<p>(Sunlight filters in through large holes in the closed curtains.) </p>
+<p>(Catherine raises her head off the bed. We note that she is naked and on her stomach on a bed in an unknown motel room.) </p>
+<p>(Cut to: Catherine opens the curtains and is blinded by the sunlight.)</p>
+<p>(Outside is a small motel swimming pool. She squints as her eyes adjust to the bright light and as she looks around. All she sees is a parking lot and more motel rooms.) </p>
+<p>CUT TO:<br />
+(Catherine is standing in front of the mirror. She's wearing her black slip. She picks up the phone and dials.) </p>
+<p>CUT TO:<br />
+(She takes the tampon and uses it to get a sample from herself. She sets it aside.)</p>
+<p>[INT. MOTEL ROOM - SHOWER -- MORNING]</p>
+<p>(Catherine is taking a shower. As the water falls and steam rises, she covers her face with her hands and cries.) </p>
+<p>CUT TO: END OF PREVIOUSLY ON RESUME EPISODE</p>
+<p>TEASER</p>
+<p>[EXT. MOTEL - WALKWAY -- DAY] </p>
+<p>(Catherine is dressed and heads toward the registration office. She looks around.) </p>
+<p>[INT. MOTEL - REGISTRATION OFFICE - DAY]</p>
+<p>(The desk clerk is on the phone. He's looking at the computer at MatchMistress.com. On the site is a photo of a dark-haired woman, presumably the woman he's talking to on the phone. He touches the photo as he talks.) </p>
+<p><strong>Desk Clerk</strong>: (to phone) Yeah, that's my real photo on my profile.</p>
+<p>(Catherine walks into the office.) </p>
+<p><strong>Catherine</strong>: Excuse me.</p>
+<p>(He holds up his finger for her to wait. He continues talking on the phone.) </p>
+<p><strong>Desk Clerk</strong>: (to phone) Well, I exercise a lot. Kind of an animal about it.</p>
+<p>(Catherine looks around and sees the concrete. It triggers a memory.)</p>
+<p>INSERT: FLASHBACK</p>
+<p>(Someone walks along the concrete sidewalk at night half-carrying, half-dragging Catherine on his back.) </p>
+<p>BACK TO SCENE.</p>
+<p>(Agitated, Catherine grabs the desk clerk's arm.) </p>
+<p><strong>Desk Clerk</strong>: Hey. </p>
+<p><strong>Catherine</strong>: Did you see me last night?</p>
+<p><strong>Desk Clerk</strong>: Yeah, you were feeling no pain.</p>
+<p><strong>Catherine</strong>: Who was I with? Describe him. Was he white, black, tall? Hair color, car?</p>
+<p><strong>Desk Clerk</strong>: Look, lady, I get paid not to notice.</p>
+<p>(Catherine digs into her bag and shows him her ID.) </p>
+<p><strong>Catherine</strong>: Who was room 229 registered to?</p>
+<p>(He reluctantly checks. The computer beeps.) </p>
+<p><strong>Desk Clerk</strong>: Catherine Willows. You used your credit card.</p>
+<p>(Catherine turns and walks out of the office.) </p>
+<p>CUT TO:<br />
+[INT. DELANCY RESIDENCE - KITCHEN -- DAY] </p>
+<p>(Izzy Delancy is dead and slumped over the kitchen table, his head in a pool of blood. Sara and Grissom are near the kitchen counter looking at the diorama, an exact replica of the real crime scene.) </p>
+<p><strong>Sara</strong>: I think Malibu Barbie did it.</p>
+<p>(Sara glances over at Izzy at the table.) </p>
+<p><strong>Grissom</strong>: Well, then there's a lot more to Barbie than just a pretty face, 'cause this is a perfect half-inch scale model of the room. And assuming that the killer is the same person who made the miniature ... </p>
+<p><strong>Sara</strong>: -- it would of taken weeks. Maybe even months to create with this kind of detail.</p>
+<p>(She notes the miniature framed photos and miniature bowl of fruit on the miniature counter.) </p>
+<p><strong>Sara</strong>: Certainly qualifies as premeditation.</p>
+<p>(Grissom takes out a swab.) </p>
+<p><strong>Grissom</strong>: Yeah, but take a look at the blood pools.</p>
+<p><strong>Sara</strong>: They're identical.</p>
+<p><strong>Grissom</strong>: There's no predicting a blood pool; it's inherently random.</p>
+<p><strong>Sara</strong>: Killer must of stuck around to match the scene.</p>
+<p>(Grissom takes a swab of the blood in the miniature and tests it as Sara looks at Izzy.) </p>
+<p><strong>Grissom</strong>: It's real blood.</p>
+<p>INSERT: FLASH OF</p>
+<p>(Someone takes a syringe of blood from the real blood pool and adds a drop of blood to the miniature crime scene.)</p>
+<p>BACK TO SCENE.</p>
+<p><strong>Sara</strong>: That is a level of obsession that gives even you a run for your money.</p>
+<p>(Sara turns and notes the gold records on the wall. She reads the title off the first one. It's a Final Mile record.) </p>
+<p><strong>Sara</strong>: &quot;If Dusty Fell,&quot; Izzy Delancy. </p>
+<p><strong>Grissom</strong>: It's his biggest hit.</p>
+<p>(Sara turns to look at Grissom.) </p>
+<p><strong>Sara</strong>: I have never heard of him.</p>
+<p><strong>Grissom</strong>: Probably before your time.</p>
+<p><strong>Sara</strong>: I'll download it. (Sara turns back to Izzy and walks around him.) I checked the perimeter; property is gated with a code. There is no sign of forced entry on the windows or the doors. Of course if a girl can get into Brad Pitt's underwear drawer and take a nap on his bed, I guess anything is possible.</p>
+<p>(Sara touches the body.) </p>
+<p><strong>Sara</strong>: Lividity suggests he hasn't been moved. He was probably sitting right here when he was killed.</p>
+<p>(She looks at the back of Izzy's head. Grissom watches her.) </p>
+<p><strong>Sara</strong>: Looks like blunt force trauma.</p>
+<p>(Sara looks up at the ceiling.) </p>
+<p><strong>Sara</strong>: No spatter or cast off.</p>
+<p>INSERT: FLASH TO:</p>
+<p>(Someone comes up behind Izzy as he sits at the table and hits him on the back of the head. He slumps forward.) </p>
+<p><strong>Sara</strong>: (V.O.) Which suggests a single blow ... </p>
+<p>BACK TO SCENE.</p>
+<p>(Sara stops and looks at Grissom.) </p>
+<p><strong>Grissom</strong>: Sometimes it only takes one hit.</p>
+<p>SMASH CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. DELANCY RESIDENCE - FRONT DRIVE-- DAY] </p>
+<p>(The coroners roll the gurney with Izzy's body down the front drive. Sara follows them. Off screen, we hear a crowd of adoring fans scream. We see the flash of camera bulbs as the body is wheeled out.) </p>
+<p>(The officers lift the tape up and the coroners exit under it and through the crowd.) </p>
+<p>(At the same time, a group of girls duck under the tape and run up the drive toward the house. An officer runs after them.)</p>
+<p>(Greg also ducks under the tape and walks up to Sara. She sees him and turns around to walk with him up the drive.) </p>
+<p><strong>Sara</strong>: Oh, great, you're here. Thanks for coming.</p>
+<p><strong>Greg</strong>: I can't believe you're leaving Izzy Delancy's death scene. Groupies are already starting to gather.</p>
+<p><strong>Sara</strong>: I have something that I have to take care of. Nick and Sofia are talking to the family, Grissom's s in the kitchen. You can process the bedrooms? Thanks. </p>
+<p>(Sara turns and heads back down the front drive while Greg turns and heads toward the house.) </p>
+<p>(An officer drags a woman fan away from the front door.) </p>
+<p><strong>Fan</strong>: Izzy!</p>
+<p>CUT TO:<br />
+[INT. DELANCY RESIDENCE - LIVING ROOM -- DAY] </p>
+<p>(Sofia and Nick enter the living room where Annie Lansfield is jiggling the baby.) </p>
+<p><strong>Sofia</strong>: Mrs. Delancy?</p>
+<p>(Annie Lansfield turns around. She smiles as she walks over to them.)</p>
+<p><strong>Annie Lansfield</strong>: No, that's Mrs. Delancy. (She points to the blonde woman on the phone behind them.) I'm Annie, the nanny.</p>
+<p><strong>Nick</strong>: I'm going to need to photograph your hands.</p>
+<p><strong>Annie Lansfield</strong>: To look for blood, right?</p>
+<p><strong>Nick</strong>: Blood evidence, yeah, and defensive wounds. I'm also going to get a sample of your DNA and your fingerprints. So, why don't you hand little Nora to her mom for right now, okay?</p>
+<p><strong>Annie Lansfield</strong>: (shakes her head) No, Mrs. D never holds the baby.<br />
+(whispers) She's got a bad back.</p>
+<p>(She surprises Sofia and holds the baby out to her.) </p>
+<p>(Sofia takes the baby and Annie holds her hands out, palms down. Nick clears his throat and shakes his head. He snaps photos of her hands.)</p>
+<p><strong>Annie Lansfield</strong>: I should warn you, I'm a little freaked. When I get nervous or scared or whatever I have this problem where I talk a lot. I've had it since I was little. I just keep talking ...</p>
+<p><strong>Sofia</strong>: (interrupts) You found the body?</p>
+<p>(Annie stops talking and tears up. She nods. Nick continues to snap photos of her hands.) </p>
+<p><strong>Annie Lansfield</strong>: Tuesday is Chinese. Izzy insists ... on having ... a really strict eating schedule. I have to start cooking by 4:00 and when I went into the kitchen ...</p>
+<p>(Quick flashback to: Annie Lansfield bounces the baby in her arms as she heads to the kitchen.) </p>
+<p><strong>Annie Lansfield</strong>: (to the baby) Baby's don't eat bok choy. Yeah, wonder what you're going to have for --</p>
+<p>(She suddenly stops when she sees Izzy slumped in a pool of blood over on the table.) </p>
+<p>(She screams.) </p>
+<p>(End of flashback. Resume present.)</p>
+<p><strong>Annie Lansfield</strong>: I immediately called 911. Speaking of which, can I get a copy of the police report?</p>
+<p>(Sofia looks at Nick and shakes her head at the girl's audacity.)</p>
+<p><strong>Nick</strong>: Why don't you ... where is your shirt?</p>
+<p>(Annie glances down at the bra she's wearing. She laughs.) </p>
+<p><strong>Annie Lansfield</strong>: Right after it all went down, the baby spit up on it and I put it in the laundry.</p>
+<p><strong>Nick</strong>: Mmm.</p>
+<p><strong>Annie Lansfield</strong>: It happens all the time. (shakes her head) Nobody minds.</p>
+<p>[INT. DELANCY RESIDENCE - NURSERY -- DAY] </p>
+<p>(Greg opens the door and walks into the nursery. He snaps photos of the baby's changing bed, crib and wall. He walks out of the nursery, through the open connecting door and into the nanny's bedroom.) </p>
+<p>(He stops and snaps the contents of the photos pinned to a small bulletin board hanging on the wall. There's also a photo of Annie with Izzy.) </p>
+<p>(Cut to: Greg pulls back the bed covers and uses the ALS on the sheets. He doesn't find anything and turns the ALS off.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) -MORNING]</p>
+<p>[EXT. MOTEL PARKING LOT -- MORNING] </p>
+<p>(Catherine is standing out in the parking lot. She turns as Sara walks up to her.) </p>
+<p><strong>Sara</strong>: Hey, what's going on?</p>
+<p><strong>Catherine</strong>: I may have been roofied and raped. I woke up here. </p>
+<p><strong>Sara</strong>: What?</p>
+<p>(They start walking.) </p>
+<p><strong>Catherine</strong>: I, uh, improvised my own rape kit. I've got pubic combing, nail scrapings, vaginal swab, urine samples ...</p>
+<p><strong>Sara</strong>: Whoa, whoa, whoa. Did you call it in?</p>
+<p><strong>Catherine</strong>: I called you.</p>
+<p><strong>Sara</strong>: Catherine, doing it yourself is going to make anything that you get inadmissible.</p>
+<p><strong>Catherine</strong>: Yeah, I know procedure. I didn't want an official investigation. I-<br />
+I just want to know what happened.</p>
+<p><strong>Sara</strong>: Okay, all right.</p>
+<p><strong>Catherine</strong>: Uh ... I got to get this, uh, stuff to the lab. Room 229, it's right up there. Please print it. And keep it between us.</p>
+<p><strong>Sara</strong>: Okay.</p>
+<p><strong>Catherine</strong>: Thanks.</p>
+<p>(Catherine turns and heads to the taxi waiting nearby. She gets in the car.)</p>
+<p>CUT TO:<br />
+[INT. DELANCY RESIDENCE - LIVING ROOM -- MORNING] </p>
+<p>(Mrs. Delancy holds her hands out, palms down as Nick snaps photos.) </p>
+<p><strong>Madeline Delancy</strong>: I went out for a latte. I got home around five. I never even went into the kitchen. I just went straight upstairs and took a shower.<br />
+(She sighs.) God that means that he was dead this whole time.</p>
+<p><strong>Sofia</strong>: We believe whoever killed your husband had access to the house.</p>
+<p><strong>Nick</strong>: Yeah, do you think anyone else had the ... the gate code?</p>
+<p><strong>Madeline Delancy</strong>: (shakes her head) Just the housekeepers. And the handymen, and the pool guys. And the gardeners, and the ... messengers and ... the caterers.</p>
+<p>[INT. DELANCY RESIDENCE - MASTER BEDROOM - MORNING]</p>
+<p>(Greg is in the master bedroom. He looks around and notes the photo hanging on the wall of Mrs. Delancy and Izzy, who are both holding bouquets.)</p>
+<p>(Greg pulls back the bedcovers and uses the ALS on the bed.) </p>
+<p>[INT. DELANCY RESIDENCE - LIVING ROOM -- MORNING] </p>
+<p><strong>Madeline Delancy</strong>: I can tell you where you should start looking.</p>
+<p>(She nods toward someone off screen.) </p>
+<p><strong>Madeline Delancy</strong>: (whispers) Sven.</p>
+<p>(Nick and Sofia turn around and note the teenager sitting quietly on the couch, video game in hand and earphones on.) </p>
+<p><strong>Nick</strong>: Are you accusing your son of killing your husband?</p>
+<p>(She laughs.) </p>
+<p><strong>Madeline Delancy</strong>: He is not my son. That's Izzy's kid from his first wife.</p>
+<p><strong>Nick</strong>: Oh.</p>
+<p><strong>Madeline Delancy</strong>: He has real problems. (whispers) His mom was like a cokehead or something.</p>
+<p>[INT. DELANCY RESIDENCE - MASTER BEDROOM - MORNING]</p>
+<p>(Greg is in Sven's bedroom. He has the ALS on and pulls back the bedcovers. He uses the ALS on the bedsheets and finds semen.) </p>
+<p>[INT. DELANCY RESIDENCE - LIVING ROOM -- MORNING] </p>
+<p>(Sven Delancy is playing his video game.) </p>
+<p><strong>Sofia</strong>: (o.s.) Hey, how you doing?</p>
+<p>(He looks up and finds Sofia and Nick in front of him. Nick taps his ear. Sven removes his earphones.) </p>
+<p><strong>Nick</strong>: How you doing man?</p>
+<p><strong>Sven Delancy</strong>: I've been better.</p>
+<p><strong>Sofia</strong>: What time did you get back from school?</p>
+<p><strong>Sven Delancy</strong>: Around four.</p>
+<p><strong>Sofia</strong>: And then what did you do?</p>
+<p><strong>Sven Delancy</strong>: Homework, games.</p>
+<p><strong>Sofia</strong>: Did you ... see your dad at all?</p>
+<p><strong>Sven Delancy</strong>: No, I usually don't see him until dinner. And then ... I get picked up right after, so.</p>
+<p><strong>Nick</strong>: By who?</p>
+<p><strong>Sven Delancy</strong>: My mom.</p>
+<p><strong>Nick</strong>: You don't live here full time?</p>
+<p><strong>Sven Delancy</strong>: Tuesdays and every other Saturday.</p>
+<p>(Sofia kneels in front of him.) </p>
+<p><strong>Sofia</strong>: Well, that's got to be tough. </p>
+<p><strong>Sven Delancy</strong>: (shrugs) Whatever. I just go where I'm told.</p>
+<p><strong>Dusty Decosta</strong>: (o.s.) Let me in, I am his mother. </p>
+<p>(A woman enters the house and pushes past the officer at the door. She ignores Nick and Sofia. She sits on the armrest of Sven's chair and hugs him.) </p>
+<p><strong>Dusty Decosta</strong>: (croons) I know, baby, I know. This is really hard. It's okay to be upset, okay. </p>
+<p>(She holds his hand and kisses his knuckles. She notices the fingerprint ink.) </p>
+<p><strong>Dusty Decosta</strong>: What's on your finger ... (She glares at Nick and Sofia.) Did you fingerprint my son?</p>
+<p><strong>Nick</strong>: We fingerprinted everyone in the house, DNA samples as well.</p>
+<p><strong>Dusty Decosta</strong>: Is he a suspect?</p>
+<p><strong>Sofia</strong>: He didn't refuse and Mrs. Delancy was here.</p>
+<p><strong>Dusty Decosta</strong>: Sleeping with his father does not make her his mother, okay. I'm his mother.</p>
+<p><strong>Sofia</strong>: Where were you this afternoon?</p>
+<p><strong>Dusty Decosta</strong>: I was taking a walk.</p>
+<p><strong>Sofia</strong>: Can anyone confirm that?</p>
+<p><strong>Dusty Decosta</strong>: No.</p>
+<p>(She stands up and pulls Sven up as well.) </p>
+<p><strong>Dusty Decosta</strong>: (to Sven) Come on. Let's go.</p>
+<p>(Dusty puts her arm around Sven's shoulders and walks out of the room with him.) </p>
+<p>CUT TO:<br />
+[INT. DELANCY RESIDENCE - KITCHEN -- DAY] </p>
+<p>(Grissom opens the drawer in the miniature kitchen. He finds a miniature blue and white bottle of bleach in a white trash bag. This gets him thinking. He sets aside his glasses and opens the RECYCLABLE MATERIALS ONLY bin. Inside, he finds a blue and white bottle of bleach in a white trash bag.) </p>
+<p>(Grissom grabs the camera off the counter and snaps a photo of it. He picks up the bottle of bleach and looks at it, quietly impressed by the detail. He turns and looks at the empty chair and blood pool on the table.) </p>
+<p>(He sets the bleach down and looks over at the garbage disposal.)</p>
+<p>(Grissom takes out his spray bottle and sprays the inside of the garbage disposal. He puts his goggles on and uses the ALS on the disposal. He finds bloodstains in the sink.) </p>
+<p>(He continues down to the drawer. He pulls open the utensil drawer and continues on, ALSing the other drawers.)</p>
+<p>(He finds stains on a drawer handle and opens it. Inside, he finds a rolling pin with bloodstains on the handle. He picks up the rolling pin and looks at it.) </p>
+<p>(Greg walks into the kitchen.) </p>
+<p>(Grissom puts his goggles down on the counter and turns to address Greg.) </p>
+<p><strong>Grissom</strong>: Bleach was used in this kitchen but not to clean up the blood.</p>
+<p><strong>Greg</strong>: So the aging rocker bit it in the kitchen with the marble rolling pin?</p>
+<p>(Grissom carries the rolling pin to the miniature. He opens the same drawer and finds the same utensils in the drawer - including a miniature marble rolling pin.) </p>
+<p>(Grissom and Greg share a look.) </p>
+<p><strong>Grissom</strong>: If only the who was as easy as the how.</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB -- DAY] </p>
+<p>VARIOUS CUTS: </p>
+<p>(Catherine snips a piece of the tampon and sets about processing it.) </p>
+<p>(Wendy Simms walks in and startles Catherine.)</p>
+<p><strong>Wendy Simms</strong>: Oh, hey. You got to be pulling a double if you're in my lab at this hour.</p>
+<p><strong>Catherine</strong>: Yeah.</p>
+<p><strong>Wendy Simms</strong>: What's up? You need a hand?</p>
+<p><strong>Catherine</strong>: No. Thanks.</p>
+<p>(Wendy looks over Catherine's shoulder.) </p>
+<p><strong>Wendy Simms</strong>: Oh. ABA card. It's negative for semen.</p>
+<p><strong>Catherine</strong>: I said I didn't need your help.</p>
+<p>(Catherine takes her things and walks out of the lab.)</p>
+<p>[INT. CSI - TRACE LAB - DAY - CONTINUOUS]</p>
+<p>(Catherine walks through the hallway and into Trace. She puts a cup on the table.) </p>
+<p><strong>Hodges</strong>: Oh, thank you, but there's no drinking or eating allowed in the lab.</p>
+<p><strong>Catherine</strong>: It's a urine sample.</p>
+<p><strong>Hodges</strong>: My bad.</p>
+<p><strong>Catherine</strong>: Get it to Tox. And ... (She gives Hodges the tampon.) Check this for spermicide. Call me with the results.</p>
+<p>(Hodges looks at the tampon.) </p>
+<p><strong>Hodges</strong>: Did you run out of proper swabs?</p>
+<p><strong>Catherine</strong>: Just do it.</p>
+<p><strong>Hodges</strong>: What's the case number?</p>
+<p><strong>Catherine</strong>: Consider this a proficiency exam.</p>
+<p>(Catherine walks out of the lab and into the -- </p>
+<p>[INT. CSI - HALLWAY - DAY -- CONTINUOUS] </p>
+<p>(Someone points Catherine out to Sam.) </p>
+<p><strong>Woman</strong>: There she is.</p>
+<p><strong>Sam Braun</strong>: Muggs?</p>
+<p>(Catherine turns around and heads over to Sam. The woman leaves.) </p>
+<p><strong>Catherine</strong>: Sam. What are you doing here?</p>
+<p><strong>Sam Braun</strong>: Just wanted to see your face, and I missed you at the implosion party.</p>
+<p><strong>Catherine</strong>: Oh, yeah. I heard about that, um ... I'm sorry I missed that. </p>
+<p>(Catherine takes Sam's arm and leads him away.) </p>
+<p><strong>Sam Braun</strong>: When's Lily get back from her cruise?</p>
+<p><strong>Catherine</strong>: Monday.</p>
+<p><strong>Sam Braun</strong>: How about a family dinner?</p>
+<p><strong>Catherine</strong>: Uh, yeah, I'll call you when she's had a chance to catch her breath.</p>
+<p><strong>Sam Braun</strong>: You know you don't always need a reason to call me. I know you're busy. (He touches his finger to her cheek.) I'll see you later.</p>
+<p>(Sam leaves. Catherine looks surprised by the sudden departure.) </p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY OUTSIDE FORENSIC AUTOPSY - DAY]</p>
+<p>(A couple of coroners wheel out a body on a gurney. In the background, we hear rock music and someone singing along loudly.) </p>
+<p><strong>Voices</strong>: (over rock music)<br />
+Knows how to get what she wants<br />
+knows how to get what she needs, yeah, yeah<br />
+yeah, she knows just how to play, what to say </p>
+<p>(The camera moves along the hallway and turns to the window in the Forensic Autopsy door. We see Robbins tapping a drum beat on the autopsy table in front of the body, singing loudly to the music with Grissom on the other side.) </p>
+<p>[INT. CSI - FORENSIC AUTOPSY - DAY - CONTINUOUS]</p>
+<p><strong>Grissom &amp; Robbins</strong>: (singing to music) make you give her anything </p>
+<p>(Izzy is dead on the table, his eyes wide open. Robbins segues into the guitar solo he plays to his cane.)</p>
+<p>(Grissom looks over at him and Robbins turns the tape off.) </p>
+<p><strong>Grissom</strong>: Cause of death?</p>
+<p><strong>Robbins</strong>: (sings)<br />
+Blunt force trauma<br />
+to the back of the skull<br />
+and a fracturing of the occipital lobe<br />
+there was massive hemorrhaging on the brain<br />
+and death was probably swift<br />
+yeah!</p>
+<p>(Grissom glances down at the body on the table.) </p>
+<p><strong>Grissom</strong>: Sorry, Izzy. Now ... </p>
+<p>(Grissom picks up a chest x-ray and points to a white object inside.) </p>
+<p><strong>Grissom</strong>: What is that?</p>
+<p>CUT TO:<br />
+(Robbins digs into the chest and pulls out a BUMBLEBEE key.) </p>
+<p><strong>Grissom</strong>: The key to our mystery?</p>
+<p>(Robbins chuckles.)</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. TAXI -- DAY] </p>
+<p>(The cab comes to a stop. Catherine pays the driver.) </p>
+<p><strong>Catherine</strong>: Keep the change.</p>
+<p>(She exits the taxi at the bar and finds her car still in the parking lot. She uses her key and unlocks the car.) </p>
+<p>(She opens the glove compartment and sees her gun and holster inside.) </p>
+<p>CUT TO:<br />
+[INT. BAR -- DAY] </p>
+<p>(Catherine walks through the bar. She looks over at the stage. A worker is waxing the dance floor.) </p>
+<p>INSERT: FLASH OF:</p>
+<p>(The night before - John Mayer is on stage singing, people are on the dance floor, the bartender tends the bar--) </p>
+<p>BACK TO SCENE.</p>
+<p>(Catherine walks up to the bar.) </p>
+<p><strong>Catherine</strong>: Excuse me.</p>
+<p>(The bartender turns around.) </p>
+<p><strong>Bartender</strong>: What can I do you for?</p>
+<p><strong>Catherine</strong>: You were working last night.</p>
+<p><strong>Bartender</strong>: Always. I own the place.</p>
+<p><strong>Catherine</strong>: Do you remember me? I was ... I was here.</p>
+<p><strong>Bartender</strong>: Was a busy night, I'm sorry.</p>
+<p>(She sighs.) </p>
+<p><strong>Catherine</strong>: Well ... do you have any surveillance cameras in the place?</p>
+<p><strong>Bartender</strong>: What's this about?</p>
+<p>(She shows him her ID.)</p>
+<p><strong>Catherine</strong>: I'm with the Crime Lab.</p>
+<p>(He tosses her ID back at her and indicates the camera above the bar.) </p>
+<p><strong>Bartender</strong>: Yeah, that's the only one. Just gets the cash register.</p>
+<p><strong>Catherine</strong>: So you've got nothing that covers the customers or the dance floor, or ... ?</p>
+<p><strong>Bartender</strong>: No need to.</p>
+<p>(Catherine sighs and looks around.) </p>
+<p>INSERT: FLASH OF:</p>
+<p>(The night before - Catherine sits at the bar, tending her drink. She gets woozy. Fast forward to the people on the floor.) </p>
+<p>BACK TO SCENE.</p>
+<p>(Catherine looks around the room as she thinks.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - LAYOUT ROOM -- DAY] </p>
+<p>(Grissom cuts the shirt off the miniature Izzy doll. He sits at the layout table, the photos spread out in front of him showing the different views of the miniature crime scene.) </p>
+<p>(He places the mini Izzy doll on the metal pan and cuts it open - a slit down the chest as if performing a mini autopsy on the doll.) </p>
+<p>(He opens the doll up and finds it stuffed with cotton.)</p>
+<p>(Sara walks in.) </p>
+<p><strong>Sara</strong>: Find something?</p>
+<p>(She leans forward to see what he's doing.) </p>
+<p><strong>Grissom</strong>: No. No prints, no hairs, no fibers. Materials are common hobby shop issue, but the blood matches the victim's.</p>
+<p><strong>Sara</strong>: Are you interested in motive? Sofia just spent the last two hours with the sheriff, the head of the Olympia Casino, and a couple of dozen lawyers. Apparently, Izzy Delancy owned the rights to his own songs. The Olympia was negotiating to purchase them for a medley show based on his music. Izzy never got a chance to sign the contracts. Dead rock star, nut job family, and a company hungry for the next Mamma Mia!</p>
+<p><strong>Grissom</strong>: Who inherits the music rights?</p>
+<p><strong>Sara</strong>: The son, Sven, but he's a minor, so the rights would be controlled by his mother, Dusty.</p>
+<p><strong>Grissom</strong>: Its illegal to benefit from a criminal act. If either one of them committed the murder ...</p>
+<p><strong>Sara</strong>: Then the rights would go to Izzy's current wife, Madeline.</p>
+<p><strong>Grissom</strong>: Well, that's motive for her. But how does this fit in?</p>
+<p>(He points to the miniature crime scene.)</p>
+<p>(Ecklie walks in.) </p>
+<p><strong>Conrad Ecklie</strong>: Maybe we should release it to the media. Someone might have unwittingly made a component of the miniature. If they came forward, that could help us.</p>
+<p><strong>Grissom</strong>: What's the point of gratifying the murderer with publicity?</p>
+<p><strong>Conrad Ecklie</strong>: Izzy Delancy is famous; the press wants answers.</p>
+<p><strong>Grissom</strong>: Don't we all?</p>
+<p><strong>Conrad Ecklie</strong>: Sara, this is your case, too -- what do you think?</p>
+<p><strong>Sara</strong>: I, uh ... I agree with Grissom.</p>
+<p><strong>Conrad Ecklie</strong>: (nods) Of course you do.</p>
+<p>(Ecklie rolls his eyes and walks out of the room. Sara watches him leave. He couldn't know - could he?) </p>
+<p>(She turns and shares a look with Grissom.)</p>
+<p>(She shakes her head. Nah.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -- DAY] </p>
+<p>(Greg reports his findings to Grissom as they walk through the hallway.) </p>
+<p><strong>Greg</strong>: I looked into the key that Izzy swallowed. Turns out that Bumblebee is a safe company. Sofia asked Madeline about it. She says she knew that there was a safe in the house but didn't know where it was -- my kind of marriage.</p>
+<p><strong>Grissom</strong>: So the key could've been in his system anywhere from a few minutes to several days?</p>
+<p><strong>Greg</strong>: Right. So if robbery was the motive for murder and Izzy swallowed the key to keep something hidden, maybe whatever is in that safe will lead us to who.</p>
+<p>CUT TO:<br />
+[INT. DELANCY RESIDENCE] </p>
+<p>(Greg is back at the Delancy home. He's removing a large framed wedding photo from the wall. He sets it aside and runs a scanner device along the wall as he looks for the safe.) </p>
+<p>VARIOUS CUTS:</p>
+<p>(Greg walks into the hallway and removes another large framed photo from the wall. He checks the wall for a hidden safe.) </p>
+<p>[INT. DELANCY RESIDENCE -- BATHROOM] </p>
+<p>(Greg enters the large bathroom and runs the device over the wall over the large framed Izzy photo.) </p>
+<p>(It must be a big house. Greg looks exhausted. He takes a break and sits on the toilet. Right in front of him is a large television set. He picks up the remote and points it at the television. He presses the button to turn it on.)</p>
+<p>(The floor under the furry rug clicks and pops up.) </p>
+<p>(Greg moves the furry rug aside. He's found the safe. He opens the safe door and reveals the lock. He takes the key out of his pocket and opens the safe.) </p>
+<p>(He finds the OLYMPIA HOTEL CASINO CONTRACT. It's dated the &quot;12th day of August, 2006,&quot; and it has IZZY DELANCY'S name on it.) </p>
+<p>(Greg puts the contract aside.)</p>
+<p>(He finds a framed wedding photo of Izzy with a young woman in his arms.) </p>
+<p>(He finds a small box labeled:<br />
+CINCINNATI<br />
+6/21/86 )</p>
+<p>(He opens it and finds an eagle head inside.) </p>
+<p>(Inside the box, he finds white fibers. He takes a sample of it.)</p>
+<p>[INT. DELANCY RESIDENCE -- NURSERY] </p>
+<p>(Greg goes back into the nursery and looks around. He looks at the baby blanket and things to see if it could be a possible match to the fibers.)</p>
+<p>[INT. DELANCY RESIDENCE - NANNY'S ROOM] </p>
+<p>(Greg goes back to Annie the nanny's room. On her laptop, she has dice rolling on her screen saver. Greg looks at her laptop and finds photos of the eagle head - one from CINCINNATI, 6/21/86; and LOS ANGELES, 8/2/85.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]</p>
+<p>[EXT. STREET - NIGHT]</p>
+<p>(Catherine slows at the side of the road. She beeps her horn twice and Lindsey heads over to the car. Lindsey looks peeved.) </p>
+<p>(She gets into the back seat and closes the door.)</p>
+<p>(Catherine drives off.) </p>
+<p>[INT. CAR (MOVING) - NIGHT -- CONTINUOUS] </p>
+<p><strong>Lindsey</strong>: You're late.</p>
+<p><strong>Catherine</strong>: (sighs) I did the best I could, Lindsey.</p>
+<p><strong>Lindsey</strong>: You said you would watch the rehearsal.</p>
+<p><strong>Catherine</strong>: Work just ... really got out of hand.</p>
+<p><strong>Lindsey</strong>: Surprise.</p>
+<p>(Catherine's cell phone beeps. She checks the message:<br />
+SWAB SPERMICIDE NEGATIVE. HODGES</p>
+<p>(Catherine sighs and puts the phone down. Lindsey continues to sulk in the back seat.) </p>
+<p><strong>Catherine</strong>: Lindsey. I really am sorry. I hate it when work gets in the way. I love to watch you dance.</p>
+<p>(Lindsey shrugs and lets a little resentment go.) </p>
+<p><strong>Lindsey</strong>: Fine. Whatever. (shyly) I got a solo.</p>
+<p><strong>Catherine</strong>: You did? That's so great!</p>
+<p><strong>Lindsey</strong>: (smiles) It's Romeo and Juliet.</p>
+<p><strong>Catherine</strong>: Fantast ...</p>
+<p>BAM!</p>
+<p>(Someone hits Catherine's car. The car comes to an abrupt stop, the airbags inflate.)</p>
+<p>(Lindsey's head rolls back. She groans. Catherine's head is bleeding from a cut on her forehead.)</p>
+<p>(In the background, we see the driver of the other car get out. The driver of a second vehicle behind them also gets out of his car. He reaches into the back seat and releases Lindsey's seatbelt.) </p>
+<p><strong>Catherine</strong>: Is my daughter okay?</p>
+<p>(The man doesn't say anything. He picks Lindsey up and carries her out of the car.) </p>
+<p>(Groggy, Catherine tries to get her seatbelt off but is hindered by the airbag.) </p>
+<p><strong>Catherine</strong>: Lindsey!</p>
+<p>(The man puts Lindsey in the back of his vehicle.) </p>
+<p><strong>Catherine</strong>: (panicking) Lindsey!</p>
+<p>(Catherine scrambles to get out of her seatbelt and is helpless to stop them from taking her daughter. She hears the car tires screech as it leaves the scene with Lindsey.) </p>
+<p><strong>Catherine</strong>: (screams) Lindsey ... !</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. STREET -- NIGHT] </p>
+<p>(The emergency personnel are there. A tow truck removes the car used to crash into Catherine's vehicle.) </p>
+<p><strong>Catherine</strong>: (o.s.) I don't need that. I'm fine.</p>
+<p>(Catherine sits in the back of the open ambulance as the EMT checks on her.) </p>
+<p><strong>Paramedic Rivers</strong>: Ma'am, you need to put this on, for your own safety. </p>
+<p><strong>Catherine</strong>: No -- </p>
+<p><strong>Paramedic Rivers</strong>: You suffered a head trauma. There could be serious delayed problems.</p>
+<p><strong>Catherine</strong>: I'm refusing treatment. Just give me the release form.</p>
+<p><strong>Paramedic Rivers</strong>: Ma'am, I strongly recommend you put this on ...</p>
+<p>(Warrick walks up to them.) </p>
+<p><strong>Catherine</strong>: (annoyed) Just give me the damn form!</p>
+<p><strong>Warrick</strong>: Hey, hey, hey. Catherine.</p>
+<p>(He puts an arm on her shoulder. Catherine turns and stands up.)</p>
+<p><strong>Catherine</strong>: They got Lindsey. <strong>Warrick</strong>: I know.</p>
+<p>(They turn and walk out on the road.) </p>
+<p><strong>Catherine</strong>: They took Lindsey.</p>
+<p><strong>Warrick</strong>: It's all over the radio. I heard.</p>
+<p><strong>Catherine</strong>: It was an SUV. And it was silver or brown.</p>
+<p><strong>Warrick</strong>: We're gonna get Lindsey back, okay?</p>
+<p>(She points in the direction the tow car is going.) </p>
+<p><strong>Catherine</strong>: And they drove that direction. I never saw it coming.</p>
+<p><strong>Warrick</strong>: Okay.</p>
+<p>(Catherine walks out onto the road; Warrick follows her.) </p>
+<p><strong>Catherine</strong>: They came from this direction.</p>
+<p><strong>Warrick</strong>: Slow down, slow down.</p>
+<p>(Catherine looks at the tire marks on the asphalt.)</p>
+<p>INSERT: FLASHBACK OF</p>
+<p>(The tires screech and the car moves forward.) </p>
+<p>(CUT TO: Catherine is in the car when she's hit. The air bag inflates.)</p>
+<p>BACK TO SCENE.</p>
+<p>(She stands up.) </p>
+<p><strong>Catherine</strong>: These are acceleration marks. They were waiting for us.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -- NIGHT] </p>
+<p>(Catherine talks with Grissom.) </p>
+<p><strong>Catherine</strong>: I should've told you, but I didn't want a sermon. I did my own rape kit. Came back negative.</p>
+<p><strong>Grissom</strong>: Thank God. These events have to be connected. We'll check your old cases for possible suspects. I'll ask Ecklie if he can kick in some help from day shift.</p>
+<p><strong>Catherine</strong>: I appreciate that.</p>
+<p><strong>Grissom</strong>: You've got to stay at arm's length, Catherine.</p>
+<p><strong>Catherine</strong>: (nods) I-I know.</p>
+<p>(Catherine turns and sees Nick in the garage with the car that hit Catherine's car. Grissom leaves and Catherine enters the garage.) </p>
+<p>[INT. CSI - GARAGE - NIGHT - CONTINUOUS]</p>
+<p>(Nick is examining a tape lifted print.) </p>
+<p><strong>Catherine</strong>: Any luck on the prints?</p>
+<p><strong>Nick</strong>: Nothing but partials.</p>
+<p><strong>Catherine</strong>: That's impossible.</p>
+<p><strong>Nick</strong>: I ran the VIN number on the cougar that hit you. A place sold it yesterday for cash. Catherine, I'm really sorry for leaving you there.</p>
+<p><strong>Catherine</strong>: Don't go there, Nick. They were gonna get to me, one way or another. It had to have been at least two guys -- one who was driving the Cougar, and the other in the SUV.</p>
+<p>INSERT: FLASHBACK</p>
+<p>(After the crash, Lindsey is in the back seat. She groans.) </p>
+<p>(The man reaches in through the open window and opens the car from the inside.) </p>
+<p>BACK TO SCENE.</p>
+<p>(Catherine's phone rings.) </p>
+<p><strong>Catherine</strong>: He reached through the window. Print the inside of that handle.</p>
+<p>(Catherine's phone rings.) </p>
+<p><strong>Nick</strong>: Okay.</p>
+<p>(Nick starts printing the inside door handle as Catherine answers her phone.) </p>
+<p><strong>Catherine</strong>: (to phone) Sam?</p>
+<p>(Catherine turns and heads out of the garage.) </p>
+<p><strong>Sam Braun</strong>: (from phone) When were you going to tell me about Lindsey?</p>
+<p><strong>Catherine</strong>: (to phone) It just happened. Who told you?</p>
+<p><strong>Sam Braun</strong>: (from phone) It's a small town, Catherine.</p>
+<p><strong>Catherine</strong>: (to phone) Well, I can't talk right now. I'll let you know when we find something out.</p>
+<p><strong>Sam Braun</strong>: (from phone) Anything you need to tell me, I've got people who deal with this stuff. Nobody gets away with threatening my family.</p>
+<p><strong>Catherine</strong>: (to phone) Sure, Sam.</p>
+<p>(Catherine hangs up. She stops, then thinks about it.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]</p>
+<p>[INT. CASINO - MAIN FLOOR -- NIGHT] </p>
+<p>(Catherine walks quickly through the main floor. She sees Sam.) </p>
+<p><strong>Catherine</strong>: Sam!</p>
+<p>(He stops and turns around.) </p>
+<p><strong>Catherine</strong>: What do you know about what happened to Lindsey?</p>
+<p>(He continues walking, forcing Catherine to walk with him.) </p>
+<p><strong>Sam Braun</strong>: What do you know about it?</p>
+<p><strong>Catherine</strong>: Who's using us to get to you? This is your granddaughter we're talking about. What the hell do you know?</p>
+<p>(He stops and looks at Catherine. He reaches into his pocket and takes out an envelope.) </p>
+<p><strong>Sam Braun</strong>: Front desk found this in the quick checkout bin.</p>
+<p>(Catherine opens the envelope and takes out a photo of Catherine sprawled naked on the motel bed. There's a message: CAN YOU GUESS WHAT YOU'RE GOING TO GIVE ME?)</p>
+<p><strong>Catherine</strong>: &quot;Can you guess what you're going to give me&quot; What does that mean? Who's behind this?</p>
+<p><strong>Sam Braun</strong>: I don't know. This was just found. Same place.</p>
+<p>(He takes out a second envelope.) </p>
+<p>(Inside is another photo of Lindsey, blindfolded and tied to a chair in an empty room. The message reads:<br />
+20 MILLION BY WIRE<br />
+#77-889-9000-662<br />
+BANQUE ROYALE GENEVA )</p>
+<p><strong>Catherine</strong>: Where is she? Who has her?</p>
+<p><strong>Sam Braun</strong>: I swear, I don't know.</p>
+<p><strong>Catherine</strong>: Like hell! I blame you! I blame you for this!</p>
+<p><strong>Sam Braun</strong>: I never wanted to involve you personally or professionally in any of my business.</p>
+<p><strong>Catherine</strong>: Business? You don't have a business. You're a thug in thousand dollar shoes! </p>
+<p>(Sam slaps her across the face.) </p>
+<p><strong>Catherine</strong>: Thanks for not disappointing me, Sam.</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB -- NIGHT] </p>
+<p>(Warrick is analyzing the Lindsey photo as Catherine watches earnestly.) </p>
+<p><strong>Warrick</strong>: Catherine, I know this is really hard, okay, but could you take a break or get a cup of tea or something here?</p>
+<p>(The door opens and Nick walks in with a file folder.) </p>
+<p><strong>Nick</strong>: Think I got something.</p>
+<p><strong>Catherine</strong>: What?</p>
+<p><strong>Nick</strong>: Mandy ran the print that I picked up from your car, and it's a match to an open burglary case, from a few months ago. I think this was yours, Warrick.</p>
+<p>(Catherine takes the file from Nick, but before she can look at it, Warrick takes the file from Catherine.) </p>
+<p><strong>Warrick</strong>: (softly) I got it.</p>
+<p>(He looks at the file and remembers the case. He looks at the case photos.) </p>
+<p><strong>Warrick</strong>: Oh, this is from this couple from San Francisco. Bought a second home in Seven Hills, came back and found it tossed.</p>
+<p>(He notices the chair.) </p>
+<p><strong>Warrick</strong>: The chair.</p>
+<p>(It's the same chair Lindsey's sitting in the photos.) </p>
+<p><strong>Warrick</strong>: Look at that. The chair.</p>
+<p>CUT TO:<br />
+[INT. ROOM -- NIGHT] </p>
+<p>(The door bursts open.) </p>
+<p>(Armed officers enter the room through the door. The man sitting at the table in the dark gets up and runs for it.) </p>
+<p><strong>Officer</strong>: (shouts) Las Vegas Police! You're under arrest!</p>
+<p>(The man runs through the house, trying to get out.) </p>
+<p><strong>Officer</strong>: (shouts) Move! Move!</p>
+<p>(The man runs and pulls out a gun.)</p>
+<p><strong>Officer</strong>: (shouts) Gun!</p>
+<p>(The man fires at the officers.) </p>
+<p>(The officers fire back.)</p>
+<p>(The man falls to the floor with a thud.)</p>
+<p>(Brass runs forward to check the man.)</p>
+<p><strong>Brass</strong>: Police!</p>
+<p>(He reaches the man and checks for a pulse.)</p>
+<p><strong>Brass</strong>: Call a paramedic!</p>
+<p>CUT TO:<br />
+(Catherine runs into the room. Warrick runs in right behind her, his gun raised.) </p>
+<p><strong>Catherine</strong>: Lindsey!</p>
+<p><strong>Officer</strong>: (shouts) Clear!</p>
+<p>(Catherine runs through the living room and heads for the hallway.) </p>
+<p><strong>Catherine</strong>: Lindsey!</p>
+<p>(Bound to her chair, Lindsey hears her.) </p>
+<p><strong>Lindsey</strong>: (muffled screams) Mmmm!</p>
+<p><strong>Catherine</strong>: Where are you, Lindsey?!</p>
+<p><strong>Lindsey</strong>: (muffled screams) </p>
+<p><strong>Catherine</strong>: Lindsey! Lindsey!</p>
+<p>(Catherine finds Lindsey sitting in the center of one of the rooms and runs down the stairs to her.) </p>
+<p><strong>Catherine</strong>: Lindsey!</p>
+<p>(She reaches Lindsey and puts a hand on her shoulder. Warrick immediately stops her.) </p>
+<p><strong>Warrick</strong>: Catherine! Don't touch her!</p>
+<p>(He gently guides Catherine away from Lindsey.) </p>
+<p><strong>Warrick</strong>: If you want a conviction, you have to let me do this, all right? Let me do it, all right?</p>
+<p>(Getting through to her, Catherine nods.) </p>
+<p><strong>Catherine</strong>: All right.</p>
+<p>(She stops, steps back and kneels down in front of Lindsey. Warrick works on removing the tape from Lindsey's eyes and mouth.) </p>
+<p><strong>Warrick</strong>: (softly) Lindsey, you're gonna be fine.</p>
+<p><strong>Catherine</strong>: I'm right here, Lindsey. Right here. I'm right here.</p>
+<p>(Warrick removes the tape from Lindsey's eyes. She sees Catherine and starts to cry.) </p>
+<p><strong>Catherine</strong>: I'm right here. I'm right here. I'm right here.</p>
+<p>(Warrick removes the tape from Lindsey's mouth.) </p>
+<p><strong>Catherine</strong>: Deep breaths.</p>
+<p>(Catherine takes deep breaths, trying to get Lindsey to do the same. Lindsey's crying and barely holding it together.)</p>
+<p><strong>Catherine</strong>: Breathe easy. Deep breaths.</p>
+<p><strong>Warrick</strong>: Almost. Almost.</p>
+<p>(Warrick works on removing the tape around Lindsey's wrists. He finally frees her and Lindsey falls into Catherine's arms.) </p>
+<p><strong>Catherine</strong>: Okay. It's okay. I got you. I got you. Everything's okay.</p>
+<p>(Catherine and Lindsey cling to each other.) </p>
+<p><strong>Lindsey</strong>: (crying) Mom.</p>
+<p><strong>Catherine</strong>: It's okay. It's okay, baby. It's okay. Everything's okay.</p>
+<p>(Warrick climbs the stairs and puts a hand on Brass' shoulder. Brass stands at the top of the stairs watching them.) </p>
+<p><strong>Lindsey</strong>: (crying) Mom.</p>
+<p><strong>Catherine</strong>: I got you. Everything's okay.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. HOSPITAL - ROOM -- NIGHT] </p>
+<p>(The kidnapper/gunman is handcuffed to the hospital bed. He's alive and hooked up to machines. An officer sits in the room with him.) </p>
+<p>(Catherine stands out in the hallway and looks at him through the glass.) </p>
+<p>(Grissom arrives.) </p>
+<p><strong>Grissom</strong>: How's Lindsey?</p>
+<p><strong>Catherine</strong>: (sighs) She says she's fine. The doctor is assessing her now. We still don't have an ID.</p>
+<p>(Grissom shows Catherine the print-out.) </p>
+<p><strong>Grissom</strong>: Prints put him in the motel. Found them on the Polaroid paper slip.</p>
+<p>INSERT: FLASHBACK</p>
+<p>(Catherine is lying naked on the bed in the motel. The man steps forward with a Polaroid camera and takes a photo. He pulls out the picture and the paper slip falls to the carpet.)</p>
+<p>BACK TO SCENE.</p>
+<p>(Catherine looks at the man in the hospital bed.) </p>
+<p><strong>Grissom</strong>: Can you place him at the bar?</p>
+<p>INSERT: FLASHBACK</p>
+<p>(Catherine turns and looks at the man who wants to buy her the drink. It's the same man.) </p>
+<p>BACK TO SCENE.</p>
+<p><strong>Catherine</strong>: Yeah. Yeah, he was there.</p>
+<p><strong>Grissom</strong>: The accident was a two-man job. Can you remember anybody else?</p>
+<p>(Catherine thinks about it.)</p>
+<p>INSERT: FLASHES OF VARIOUS FACES</p>
+<p>(She remembers the bartender and other men at the bar, but no one specific.) </p>
+<p>BACK TO SCENE.</p>
+<p><strong>Catherine</strong>: (shakes her head) I can't get a face.</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB -- NIGHT] </p>
+<p>(Sara is scrolling through the e-mails from<br />
+From: &lt;Annie Lansfield&gt;<br />
+Sent: 9:05 PM<br />
+To: ScandalPages.com<br />
+Subject: More Izzy Photos. Let's talk price )</p>
+<p>(She reports the findings to Grissom.) </p>
+<p><strong>Sara</strong>: Greg found the mother lode. The nanny saved all of her e-mails on her computer. She was sending private Delancy family photos to an editor at Scandal Pages magazine. Based on a sliding scale of salaciousness, Scandal Pages was depositing money into Annie's Paypal account. </p>
+<p>(She scrolls through the photos and the Scandal Pages website.) </p>
+<p>(Wendy Simms walks in with DNA results.) </p>
+<p><strong>Wendy Simms</strong>: So I have the DNA combo from Sven's bed sheets, and none of it was actually Sven's.</p>
+<p>(She hands the results to Grissom.)</p>
+<p>(Just then, Sara finds the crime scene photos of Izzy on the Scandal Pages website.)</p>
+<p><strong>Sara</strong>: Whoa.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM] </p>
+<p>(Sofia interviews Annie Lansfield.) </p>
+<p><strong>Sofia</strong>: Annie Lansfield, Cornstalk Queen of Tidioute, Pennsylvania. You move to Vegas to become famous and ended up doing diaper duty for a washed-up rock star. Do you want to tell me how you ended up in a safe that even his wife didn't know about?</p>
+<p><strong>Annie Lansfield</strong>: I clean for extra cash. I know the house better than anyone. I knew where the safe was. I just didn't have a key, until ...</p>
+<p>(Quick flashback to: Madeline talks with Izzy at the kitchen table. They're sitting opposite each other while Annie holds the baby and sits at the far end of the table.) </p>
+<p><strong>Madeline Delancy</strong>: Honey, I need some money to buy clothes for Emma.</p>
+<p><strong>Izzy Delancy</strong>: I just gave you money for that.</p>
+<p><strong>Madeline Delancy</strong>: She's a baby. She grows. You know, this wouldn't even be an issue if you would sign those damn contracts.</p>
+<p><strong>Izzy Delancy</strong>: Really? Well, that is between me and my music. And you, you will never see this safe.</p>
+<p>(He takes the safe key out and puts it in his mouth. He drinks some water and swallows the key. He laughs maniacally.) </p>
+<p><strong>Izzy Delancy</strong>: Gold digger! Dig for that!</p>
+<p>(Annie watches the exchange with interest.)</p>
+<p>(End of flashback. Resume present.)</p>
+<p>(Annie chuckles.)</p>
+<p><strong>Annie Lansfield</strong>: The ER doctor said it would pass in a couple of days. They gave us a copy of the x-ray to keep on file with the general physician. It had the perfect outline of the key. (shrugs) So, I took the x-ray to a key shop, told them my kid swallowed it.</p>
+<p><strong>Sofia</strong>: Resourceful.</p>
+<p><strong>Annie Lansfield</strong>: But I put everything back. </p>
+<p><strong>Sofia</strong>: After making Scandal Pages money off it.</p>
+<p><strong>Annie Lansfield</strong>: Look, a few years ago, Izzy went on this big health kick -- vegetarian, blah, blah. He claimed that all those chicken heads that he bit on stage were fake. When I found them, I was just so excited. Do you know how much Scandal Pages pays for an urban legend story? A lot.</p>
+<p><strong>Sofia</strong>: Here's a scandal: We got evidence of s*x between you and Izzy Delancy in Sven's bed. Or how about this: If you killed him, you'd be the first to crack open that whole story.</p>
+<p>(Sofia puts the crime scene photo on the table in front of Annie.) </p>
+<p><strong>Sofia</strong>: Exclusive pics, the whole deal.</p>
+<p><strong>Annie Lansfield</strong>: It took 911 a while to come. I just got a quick pic. You said it-- I'm resourceful, not a murderer. I didn't do it.</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB] </p>
+<p>(Greg and Sara sit and watch a program. Various photos of Izzy Delancy flash on the monitor, then the title card for the show: AFTER THE HITS.) </p>
+<p><strong>Narrator</strong>: (from program) After the Hits. The Izzy Delancy story. It seemed like a fairy tale. Hard living rocker Izzy Delancy met Dusty Decosta. They fell in love. He wrote a hit song about her. She was to become his first wife ... or was she? In a potentially shocking display of distrust and business acumen, -- </p>
+<p><strong>Sara</strong>: (to Greg) Where did you find this?</p>
+<p><strong>Greg</strong>: Oh, I dug deep.</p>
+<p><strong>Narrator</strong>: (from program) -- Izzy Delancy, after ten years of dating Dusty Decosta, wed her in a beautiful, flower-filled ceremony in Malaysia. The ceremony was everything a girl could hope for -- beautiful, romantic. The only thing it wasn't? Legal. Much to Dusty's surprise, years later, after filing for divorce and custody of their then eight-year-old son, Sven, she was shocked to discover that the Malaysian shaman was not recognized by the United States as an officiant. The marriage was a sham. </p>
+<p>(Sara is surprised.) </p>
+<p>(Greg stops the program.) </p>
+<p><strong>Greg</strong>: Sounds like motive to me.</p>
+<p>CUT TO:<br />
+[INT. DECOSTA RESIDENCE -- DAY] </p>
+<p>(Dusty Decosta opens the door and finds Sara and Sofia standing outside.) </p>
+<p><strong>Dusty Decosta</strong>: Oh. Hi. Listen, you're going to have to follow me 'cause I'm late for a client.</p>
+<p>(She turns and heads inside. Sara and Sofia follow.) </p>
+<p><strong>Dusty Decosta</strong>: What is it you want?</p>
+<p><strong>Sofia</strong>: We were wondering if you could tell us about your relationship with Izzy?</p>
+<p>(She stops in front of her worktable.) </p>
+<p><strong>Dusty Decosta</strong>: (groans) Oh, God. So I'm a suspect now? That's precious. Okay. The man makes a mint off of singing about our s*x life, barely offers a relationship to our son, kicks me out of a house we built together, leaves me with nothing, and now you want to put me in jail? Rich. Really rich.</p>
+<p><strong>Sofia</strong>: Izzy was a smart businessman. He owned all the rights to his music.</p>
+<p><strong>Dusty Decosta</strong>: What does that matter to me? Do I get royalty checks for being his muse.</p>
+<p>(She chuckles wryly.)</p>
+<p><strong>Sara</strong>: Exactly. But with Izzy dead, the rights go to Sven. Ostensibly you.</p>
+<p><strong>Sofia</strong>: And you still don't an alibi for the afternoon of Izzy's death.</p>
+<p><strong>Dusty Decosta</strong>: I do. (sighs) It's just embarrassing to me. The &quot;new&quot; Mrs. Delancy called a meeting. She tells me about the Olympia offer. Izzy's being difficult about the deal, so would I talk to him because he listens to me still.</p>
+<p>(She scoffs.)</p>
+<p><strong>Dusty Decosta</strong>: Had he started sleeping with the nanny yet?</p>
+<p><strong>Sara/Sofia</strong>: Yeah.</p>
+<p><strong>Dusty Decosta</strong>: Did Madeline tell you that was her old job?</p>
+<p><strong>Sara</strong>: No. SOFIA: No.</p>
+<p><strong>Dusty Decosta</strong>: Look, I'd like to pin it on her, I really would, but I can't because I was with her at the Espresso Drop all afternoon. I really have to go.</p>
+<p>(Sara notices some half-inch scaled drawings on the table.) </p>
+<p><strong>Sara</strong>: What are those drawings on the table?</p>
+<p>(She turns and picks up the drawings.) </p>
+<p><strong>Dusty Decosta</strong>: Oh, those are Sven's. Some mothers get sport trophies; I get perfectly rendered skyscrapers. He wants to be an urban planner. He's kind of obsessed with models. You guys let yourself out, okay?</p>
+<p>(Dusty leaves.) </p>
+<p>(Sara and Sofia share a look.)</p>
+<p>CUT TO:<br />
+[INT. DELANCY RESIDENCE - SVEN'S ROOM - DAY]</p>
+<p>(Sara and Sofia walk into the room and notice the various scaled drawings hanging on the walls and on the desk.) </p>
+<p><strong>Sara</strong>: If Sven is capable of creating these kinds of 3-D renderings, he definitely could've built that miniature.</p>
+<p><strong>Sofia</strong>: Son defending the honor of his mother?</p>
+<p><strong>Sara</strong>: Name that Greek tragedy.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Sofia interviews Sven Delancy. An advocate sits at the back of the room.) </p>
+<p><strong>Sven Delancy</strong>: Yes, I'm angry with my father for the way he treated my mother. I'm angry with my father for sleeping with Annie. I'm angry with my father for naming me Sven. But I've been in therapy twice a week since I was six. I'm tired of adults asking me if I'm angry. Besides, I'm ... I'm not the only one who's pissed at my dad.</p>
+<p><strong>Sofia</strong>: Right, but your mom and Madeline are covered. They were together at the time of your father's death.</p>
+<p>(She shows him a security cam photo of Dusty Decosta and Madeline Delancy at the Espresso Drop.)</p>
+<p>(Sven swallows.)</p>
+<p>INTERCUT WITH: </p>
+<p>[OBSERVATION ROOM]</p>
+<p>(Grissom and Sara watch the interview.) </p>
+<p><strong>Sofia</strong>: (from intercom) So maybe you were so angry with your father that you channeled your anger and used your skills as a model builder to build this.</p>
+<p>(She puts a photo of the model on the table in front of Sven. Sven's very quiet and surprised as he looks a the photo of the model.)</p>
+<p><strong>Sofia</strong>: And a nice ... heavy object to do this.</p>
+<p>(She puts another crime scene photo on the table of Izzy dead, his head in a pool of blood.) </p>
+<p>(Sven looks at the photos of his dad in the blood. His eyes roll back and he loses consciousness.) </p>
+<p><strong>Voice</strong>: (o.s.) Sven? Sven!</p>
+<p>(Sofia stops the advocate from getting too close. She watches Sven as he slowly slides down his chair.)</p>
+<p>(In the observation room, Grissom and Sara share a look.) </p>
+<p>(After a moment, Sven wakes up and sits up.) </p>
+<p><strong>Sven</strong>: I always faint at the sight of blood.</p>
+<p>(The interview continues in the background. Sara discusses with Grissom what it means to their case.) </p>
+<p><strong>Sara</strong>: If that's the case, he probably did not commit the murder and he certainly didn't paint the miniature with his father's blood.</p>
+<p><strong>Grissom</strong>: And there's a test we can do to prove it.</p>
+<p>CUT TO:<br />
+[INT. HOSPITAL -- DAY] </p>
+<p>(Sven is on a tilt table in the room. Outside, Grissom explains the test to Dusty Decosta. A nurse inside the room preps a needle for Sven.) </p>
+<p><strong>Grissom</strong>: We're using a tilt table and we're injecting him with isoproterenol. We're testing his sensitivity to his vagus nerve. Basically, we're looking to find out if the nerves that control his blood pressure are predisposed to short circuit when he gets an adrenaline rush.</p>
+<p><strong>Dusty Decosta</strong>: So, you're telling me that this could keep him out of jail?</p>
+<p><strong>Grissom</strong>: Unless he was faking it.</p>
+<p>(Sven turns and looks at his mom.) </p>
+<p>(Dusty sighs and looks at Sven.)</p>
+<p>VARIOUS CUTS OF THE TEST IN PROGRESS</p>
+<p>(The orderlies tilt the table. The heart monitor beeps.)</p>
+<p><strong>Voice</strong>: Start the IV.</p>
+<p>(The nurse injects the solution into the IV. The heart monitor beeps rapidly. Sven's eyes roll back and he passes out.) </p>
+<p>(Dusty turns and looks at Grissom.)</p>
+<p>(Grissom sighs.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]</p>
+<p>[INT. CSI - GRISSOM'S OFFICE -- NIGHT] </p>
+<p>(Grissom sits behind his desk looking at the diorama. Sara walks up to the doorway and knocks softly on the frame.) </p>
+<p>(Grissom looks up.) </p>
+<p><strong>Sara</strong>: I hear we're out of suspects.</p>
+<p><strong>Grissom</strong>: Not necessarily. Could be anybody in town. Or anybody out of town for that matter. That's a lot of suspects.</p>
+<p><strong>Sara</strong>: What do you want us to do?</p>
+<p><strong>Grissom</strong>: I don't know.</p>
+<p>(He puts his glasses on. Sara watches him.) </p>
+<p><strong>Grissom</strong>: I'll deal with it.</p>
+<p>(He sighs and shakes his head as he pushes the magnifying lens down and looks at the diorama.) </p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -- NIGHT] </p>
+<p>(Wendy Simms shares her findings with Catherine as they walk through the hallway.) </p>
+<p><strong>Wendy Simms</strong>: I ran DNA on the guy who was holding Lindsey.</p>
+<p><strong>Catherine</strong>: Did you get a name?</p>
+<p><strong>Wendy Simms</strong>: Um, kind of. See, this guy has markers that are found in, like, ten percent of the population, which reminded me of some other results that I'd been processing recently.</p>
+<p>(She shows the results to Catherine.) </p>
+<p><strong>Catherine</strong>: Thirteen alleles in common with Robert O'Brien?</p>
+<p><strong>Wendy Simms</strong>: The suicide from Sam Braun's implosion party.</p>
+<p>INSERT: FLASHBACK OF</p>
+<p>(Blood drips from Robert O'Brien's mouth as he slumps forward after shooting himself.)</p>
+<p>BACK TO SCENE.</p>
+<p><strong>Catherine</strong>: The guy who grabbed Lindsey is Robert O'Brien's brother?</p>
+<p><strong>Wendy Simms</strong>: Right. So when that came up, I ran all the other exemplars from the O'Brien case, and I got a hit on a piece of hair from the duct tape that they used to bind Lindsey.</p>
+<p>(Catherine looks at the results.) </p>
+<p><strong>Catherine</strong>: Joe Hirschoff. O'Brien's partner.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]</p>
+<p>[EXT. HOTEL - FRONT -- NIGHT] </p>
+<p>(Sam Braun and a blonde-haired woman exit the hotel. Catherine walks up to him.) </p>
+<p><strong>Catherine</strong>: Hi, Sam.</p>
+<p>(He chuckles.)</p>
+<p><strong>Catherine</strong>: Everybody in town knows you're here every Thursday night. And usually with my mother.</p>
+<p><strong>Sam Braun</strong>: (to the blonde) I'll be right along.</p>
+<p>(The woman steps away.) </p>
+<p><strong>Sam Braun</strong>: She doesn't mean a thing. It's all show. Look, Muggs, yesterday was ...</p>
+<p><strong>Catherine</strong>: (interrupts) Just save it. I only came here to tell you to call off your guys.</p>
+<p><strong>Sam Braun</strong>: I don't know what you're talking about.</p>
+<p><strong>Catherine</strong>: Joe Hirschoff and his partner invested everything they had in the Eclipse. But it went bankrupt before you broke ground. You formed a new corporation to finish the project, leaving those guys with nothing.</p>
+<p><strong>Sam Braun</strong>: Sometimes that's the way it goes in business.</p>
+<p><strong>Catherine</strong>: (nods) Uh-huh. O'Brien and Hirschoff lost $20 million, right? O'Brien caved and stuck a gun in his mouth. Hirschoff wants you to pay him back. So, where is he?</p>
+<p><strong>Sam Braun</strong>: I don't know.</p>
+<p><strong>Catherine</strong>: Come on, Sam, this isn't old Vegas anymore. Let the police handle it. Or have you already killed him?</p>
+<p>(He chuckles. Behind him, we see Joe Hirschoff walking up to them, his right hand hidden behind his back.)</p>
+<p><strong>Sam Braun</strong>: I give you my word, no.</p>
+<p>(Catherine sees Joe, her face serious.)</p>
+<p>INSERT: FLASHES OF</p>
+<p>(Catherine thinks back to the bar. Various flashes of the people she remembers seeing in the bar flash in her mind. Suddenly, it stops on the man in the hospital. He's looking at her, then he leans back and Catherine remembers Joe Hirschoff sitting next to him.) </p>
+<p>BACK TO SCENE.</p>
+<p>AUDIO OFF</p>
+<p>(SLOW MOTION. Joe raises his gun at Sam. Catherine reacts. Sam turns around and Joe fires twice, hitting Sam in the chest. Sam falls backward, collapsing in Catherine's arms.)</p>
+<p>(Joe turns and runs across the street. Sam's armed bodyguards step forward and shoots Joe in the back. Joe falls to the ground.)</p>
+<p>(Catherine shakes Sam.)</p>
+<p><strong>Catherine</strong>: (no audio) Sam? Sam?</p>
+<p>(Catherine looks around for help.)</p>
+<p><strong>Catherine</strong>: (no audio) Somebody help me!</p>
+<p>(Catherine puts her head down.)</p>
+<p>BLUR OUT.</p>
+<p>[INT. CSI - GRISSOM'S OFFICE - NIGHT]</p>
+<p>CU: MINIATURE DOLL</p>
+<p>(Grissom is looking at the diorama through a magnifying scope.)</p>
+<p>(He passes the miniature Izzy doll and continues to examine the contents on the countertop. He sees the various framed photos, the bottle of water, the mail, the bowl of fruit and other items.) </p>
+<p>(He focuses in on a framed photo of Izzy holding a baby in his arms.)</p>
+<p>(Grissom puts the scope down and puts his glasses back on. He uses the tweezers and picks up the framed photo. It's very, very tiny.) </p>
+<p>(He flips the frame around and sees something. He uses a hand-held magnifying glass to look at it.)</p>
+<p>(He finds a laser-etched picture of what looks like a portion of a doll's face - one green left eye and red blood on its forehead. The detail is amazing. A closer look at the photo of the doll's eye has us seeing her individual top and bottom eye lashes.) </p>
+<p>(We hold on Grissom's eye as he puts the magnifying glass down and thinks about it.) </p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
- 
- 
-
- 
-
-
- 
-REVERSE POV
-
- 
- 
-
- 
-
- 
-
-
-
- 
-
-TEASER
- 
- 
-
- 
-Desk Clerk:  Yeah, that's my real photo on my profile.
- 
-Catherine: Excuse me.
- 
-Desk Clerk:  Well, I exercise a lot. Kind of an animal about it.
-
-INSERT: FLASHBACK
- 
-BACK TO SCENE.
- 
-Desk Clerk: Hey. 
-Catherine: Did you see me last night?
-Desk Clerk: Yeah, you were feeling no pain.
-Catherine: Who was I with? Describe him. Was he white, black, tall? Hair color, car?
-Desk Clerk: Look, lady, I get paid not to notice.
- 
-Catherine: Who was room 229 registered to?
- 
-Desk Clerk: Catherine Willows. You used your credit card.
- 
-
- 
- 
-Sara: I think Malibu Barbie did it.
- 
-Grissom: Well, then there's a lot more to Barbie than just a pretty face, 'cause this is a perfect half-inch scale model of the room. And assuming that the killer is the same person who made the miniature ... 
-Sara: -- it would of taken weeks. Maybe even months to create with this kind of detail.
- 
-Sara: Certainly qualifies as premeditation.
- 
-Grissom: Yeah, but take a look at the blood pools.
-Sara: They're identical.
-Grissom: There's no predicting a blood pool; it's inherently random.
-Sara: Killer must of stuck around to match the scene.
- 
-Grissom: It's real blood.
-INSERT: FLASH OF
-
-BACK TO SCENE.
-Sara: That is a level of obsession that gives even you a run for your money.
- 
-Sara: &quot;If Dusty Fell,&quot; Izzy Delancy. 
-Grissom: It's his biggest hit.
- 
-Sara: I have never heard of him.
-Grissom: Probably before your time.
-Sara: I'll download it.  I checked the perimeter; property is gated with a code. There is no sign of forced entry on the windows or the doors. Of course if a girl can get into Brad Pitt's underwear drawer and take a nap on his bed, I guess anything is possible.
- 
-Sara: Lividity suggests he hasn't been moved. He was probably sitting right here when he was killed.
- 
-Sara: Looks like blunt force trauma.
- 
-Sara: No spatter or cast off.
-
- 
-Sara:  Which suggests a single blow ... 
-BACK TO SCENE.
- 
-Grissom: Sometimes it only takes one hit.
-SMASH CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
- 
-
- 
-Sara: Oh, great, you're here. Thanks for coming.
-Greg: I can't believe you're leaving Izzy Delancy's death scene. Groupies are already starting to gather.
-Sara: I have something that I have to take care of. Nick and Sofia are talking to the family, Grissom's s in the kitchen. You can process the bedrooms? Thanks. 
- 
- 
-Fan: Izzy!
-
- 
- 
-Sofia: Mrs. Delancy?
-
-Annie Lansfield: No, that's Mrs. Delancy.  I'm Annie, the nanny.
-Nick: I'm going to need to photograph your hands.
-Annie Lansfield: To look for blood, right?
-Nick: Blood evidence, yeah, and defensive wounds. I'm also going to get a sample of your DNA and your fingerprints. So, why don't you hand little Nora to her mom for right now, okay?
-Annie Lansfield:  No, Mrs. D never holds the baby.
- She's got a bad back.
- 
-
-Annie Lansfield: I should warn you, I'm a little freaked. When I get nervous or scared or whatever I have this problem where I talk a lot. I've had it since I was little. I just keep talking ...
-Sofia:  You found the body?
- 
-Annie Lansfield: Tuesday is Chinese. Izzy insists ... on having ... a really strict eating schedule. I have to start cooking by 4:00 and when I went into the kitchen ...
- 
-Annie Lansfield:  Baby's don't eat bok choy. Yeah, wonder what you're going to have for --
- 
- 
-
-Annie Lansfield: I immediately called 911. Speaking of which, can I get a copy of the police report?
-
-Nick: Why don't you ... where is your shirt?
- 
-Annie Lansfield: Right after it all went down, the baby spit up on it and I put it in the laundry.
-Nick: Mmm.
-Annie Lansfield: It happens all the time.  Nobody minds.
- 
- 
- 
- 
-
-
- 
- 
-Sara: Hey, what's going on?
-Catherine: I may have been roofied and raped. I woke up here. 
-Sara: What?
- 
-Catherine: I, uh, improvised my own rape kit. I've got pubic combing, nail scrapings, vaginal swab, urine samples ...
-Sara: Whoa, whoa, whoa. Did you call it in?
-Catherine: I called you.
-Sara: Catherine, doing it yourself is going to make anything that you get inadmissible.
-Catherine: Yeah, I know procedure. I didn't want an official investigation. I-
-I just want to know what happened.
-Sara: Okay, all right.
-Catherine: Uh ... I got to get this, uh, stuff to the lab. Room 229, it's right up there. Please print it. And keep it between us.
-Sara: Okay.
-Catherine: Thanks.
-
-
- 
- 
-Madeline Delancy: I went out for a latte. I got home around five. I never even went into the kitchen. I just went straight upstairs and took a shower.
- God that means that he was dead this whole time.
-Sofia: We believe whoever killed your husband had access to the house.
-Nick: Yeah, do you think anyone else had the ... the gate code?
-Madeline Delancy:  Just the housekeepers. And the handymen, and the pool guys. And the gardeners, and the ... messengers and ... the caterers.
-
-
- 
- 
-Madeline Delancy: I can tell you where you should start looking.
- 
-Madeline Delancy:  Sven.
- 
-Nick: Are you accusing your son of killing your husband?
- 
-Madeline Delancy: He is not my son. That's Izzy's kid from his first wife.
-Nick: Oh.
-Madeline Delancy: He has real problems.  His mom was like a cokehead or something.
-
- 
- 
- 
-Sofia:  Hey, how you doing?
- 
-Nick: How you doing man?
-Sven Delancy: I've been better.
-Sofia: What time did you get back from school?
-Sven Delancy: Around four.
-Sofia: And then what did you do?
-Sven Delancy: Homework, games.
-Sofia: Did you ... see your dad at all?
-Sven Delancy: No, I usually don't see him until dinner. And then ... I get picked up right after, so.
-Nick: By who?
-Sven Delancy: My mom.
-Nick: You don't live here full time?
-Sven Delancy: Tuesdays and every other Saturday.
- 
-Sofia: Well, that's got to be tough. 
-Sven Delancy:  Whatever. I just go where I'm told.
-Dusty Decosta:  Let me in, I am his mother. 
- 
-Dusty Decosta:  I know, baby, I know. This is really hard. It's okay to be upset, okay. 
- 
-Dusty Decosta: What's on your finger ...  Did you fingerprint my son?
-Nick: We fingerprinted everyone in the house, DNA samples as well.
-Dusty Decosta: Is he a suspect?
-Sofia: He didn't refuse and Mrs. Delancy was here.
-Dusty Decosta: Sleeping with his father does not make her his mother, okay. I'm his mother.
-Sofia: Where were you this afternoon?
-Dusty Decosta: I was taking a walk.
-Sofia: Can anyone confirm that?
-Dusty Decosta: No.
- 
-Dusty Decosta:  Come on. Let's go.
- 
-
- 
- 
- 
-
- 
-
- 
- 
- 
-Grissom: Bleach was used in this kitchen but not to clean up the blood.
-Greg: So the aging rocker bit it in the kitchen with the marble rolling pin?
- 
- 
-Grissom: If only the who was as easy as the how.
-
- 
-
- 
-
-Wendy Simms: Oh, hey. You got to be pulling a double if you're in my lab at this hour.
-Catherine: Yeah.
-Wendy Simms: What's up? You need a hand?
-Catherine: No. Thanks.
- 
-Wendy Simms: Oh. ABA card. It's negative for semen.
-Catherine: I said I didn't need your help.
-
-
- 
-Hodges: Oh, thank you, but there's no drinking or eating allowed in the lab.
-Catherine: It's a urine sample.
-Hodges: My bad.
-Catherine: Get it to Tox. And ...  Check this for spermicide. Call me with the results.
- 
-Hodges: Did you run out of proper swabs?
-Catherine: Just do it.
-Hodges: What's the case number?
-Catherine: Consider this a proficiency exam.
-(Catherine walks out of the lab and into the -- 
- 
- 
-Woman: There she is.
-Sam Braun: Muggs?
- 
-Catherine: Sam. What are you doing here?
-Sam Braun: Just wanted to see your face, and I missed you at the implosion party.
-Catherine: Oh, yeah. I heard about that, um ... I'm sorry I missed that. 
- 
-Sam Braun: When's Lily get back from her cruise?
-Catherine: Monday.
-Sam Braun: How about a family dinner?
-Catherine: Uh, yeah, I'll call you when she's had a chance to catch her breath.
-Sam Braun: You know you don't always need a reason to call me. I know you're busy.  I'll see you later.
- 
-
-
- 
-Voices: 
-Knows how to get what she wants
-knows how to get what she needs, yeah, yeah
-yeah, she knows just how to play, what to say 
- 
-
-Grissom &amp; Robbins:  make you give her anything 
-
- 
-Grissom: Cause of death?
-Robbins: 
-Blunt force trauma
-to the back of the skull
-and a fracturing of the occipital lobe
-there was massive hemorrhaging on the brain
-and death was probably swift
-yeah!
- 
-Grissom: Sorry, Izzy. Now ... 
- 
-Grissom: What is that?
-
- 
-Grissom: The key to our mystery?
-
-
-
-
-
- 
- 
-Catherine: Keep the change.
- 
- 
-
- 
- 
-
- 
-BACK TO SCENE.
- 
-Catherine: Excuse me.
- 
-Bartender: What can I do you for?
-Catherine: You were working last night.
-Bartender: Always. I own the place.
-Catherine: Do you remember me? I was ... I was here.
-Bartender: Was a busy night, I'm sorry.
- 
-Catherine: Well ... do you have any surveillance cameras in the place?
-Bartender: What's this about?
-
-Catherine: I'm with the Crime Lab.
- 
-Bartender: Yeah, that's the only one. Just gets the cash register.
-Catherine: So you've got nothing that covers the customers or the dance floor, or ... ?
-Bartender: No need to.
- 
-
- 
-BACK TO SCENE.
-
-
-
- 
- 
- 
-
- 
-Sara: Find something?
- 
-Grissom: No. No prints, no hairs, no fibers. Materials are common hobby shop issue, but the blood matches the victim's.
-Sara: Are you interested in motive? Sofia just spent the last two hours with the sheriff, the head of the Olympia Casino, and a couple of dozen lawyers. Apparently, Izzy Delancy owned the rights to his own songs. The Olympia was negotiating to purchase them for a medley show based on his music. Izzy never got a chance to sign the contracts. Dead rock star, nut job family, and a company hungry for the next Mamma Mia!
-Grissom: Who inherits the music rights?
-Sara: The son, Sven, but he's a minor, so the rights would be controlled by his mother, Dusty.
-Grissom: Its illegal to benefit from a criminal act. If either one of them committed the murder ...
-Sara: Then the rights would go to Izzy's current wife, Madeline.
-Grissom: Well, that's motive for her. But how does this fit in?
-
- 
-Conrad Ecklie: Maybe we should release it to the media. Someone might have unwittingly made a component of the miniature. If they came forward, that could help us.
-Grissom: What's the point of gratifying the murderer with publicity?
-Conrad Ecklie: Izzy Delancy is famous; the press wants answers.
-Grissom: Don't we all?
-Conrad Ecklie: Sara, this is your case, too -- what do you think?
-Sara: I, uh ... I agree with Grissom.
-Conrad Ecklie:  Of course you do.
- 
-
-
-
- 
- 
-Greg: I looked into the key that Izzy swallowed. Turns out that Bumblebee is a safe company. Sofia asked Madeline about it. She says she knew that there was a safe in the house but didn't know where it was -- my kind of marriage.
-Grissom: So the key could've been in his system anywhere from a few minutes to several days?
-Greg: Right. So if robbery was the motive for murder and Izzy swallowed the key to keep something hidden, maybe whatever is in that safe will lead us to who.
-
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
-(He finds a small box labeled:
-CINCINNATI
-6/21/86 )
- 
-
- 
-
- 
-
-
-
-
- 
-
- 
- 
-Lindsey: You're late.
-Catherine:  I did the best I could, Lindsey.
-Lindsey: You said you would watch the rehearsal.
-Catherine: Work just ... really got out of hand.
-Lindsey: Surprise.
-(Catherine's cell phone beeps. She checks the message:
-SWAB SPERMICIDE NEGATIVE. HODGES
- 
-Catherine: Lindsey. I really am sorry. I hate it when work gets in the way. I love to watch you dance.
- 
-Lindsey: Fine. Whatever.  I got a solo.
-Catherine: You did? That's so great!
-Lindsey:  It's Romeo and Juliet.
-Catherine: Fantast ...
-BAM!
-
-
- 
-Catherine: Is my daughter okay?
- 
- 
-Catherine: Lindsey!
- 
-Catherine:  Lindsey!
- 
-Catherine:  Lindsey ... !
-
-
-
-;
-
-
-
- 
- 
-Catherine:  I don't need that. I'm fine.
- 
-Paramedic Rivers: Ma'am, you need to put this on, for your own safety. 
-Catherine: No -- 
-Paramedic Rivers: You suffered a head trauma. There could be serious delayed problems.
-Catherine: I'm refusing treatment. Just give me the release form.
-Paramedic Rivers: Ma'am, I strongly recommend you put this on ...
- 
-Catherine:  Just give me the damn form!
-Warrick: Hey, hey, hey. Catherine.
-
-Catherine: They got Lindsey. Warrick: I know.
- 
-Catherine: They took Lindsey.
-Warrick: It's all over the radio. I heard.
-Catherine: It was an SUV. And it was silver or brown.
-Warrick: We're gonna get Lindsey back, okay?
- 
-Catherine: And they drove that direction. I never saw it coming.
-Warrick: Okay.
- 
-Catherine: They came from this direction.
-Warrick: Slow down, slow down.
-
-INSERT: FLASHBACK OF
- 
-
-BACK TO SCENE.
- 
-Catherine: These are acceleration marks. They were waiting for us.
-
- 
- 
-Catherine: I should've told you, but I didn't want a sermon. I did my own rape kit. Came back negative.
-Grissom: Thank God. These events have to be connected. We'll check your old cases for possible suspects. I'll ask Ecklie if he can kick in some help from day shift.
-Catherine: I appreciate that.
-Grissom: You've got to stay at arm's length, Catherine.
-Catherine:  I-I know.
- 
-
- 
-Catherine: Any luck on the prints?
-Nick: Nothing but partials.
-Catherine: That's impossible.
-Nick: I ran the VIN number on the cougar that hit you. A place sold it yesterday for cash. Catherine, I'm really sorry for leaving you there.
-Catherine: Don't go there, Nick. They were gonna get to me, one way or another. It had to have been at least two guys -- one who was driving the Cougar, and the other in the SUV.
-INSERT: FLASHBACK
- 
- 
-BACK TO SCENE.
- 
-Catherine: He reached through the window. Print the inside of that handle.
- 
-Nick: Okay.
- 
-Catherine:  Sam?
- 
-Sam Braun:  When were you going to tell me about Lindsey?
-Catherine:  It just happened. Who told you?
-Sam Braun:  It's a small town, Catherine.
-Catherine:  Well, I can't talk right now. I'll let you know when we find something out.
-Sam Braun:  Anything you need to tell me, I've got people who deal with this stuff. Nobody gets away with threatening my family.
-Catherine:  Sure, Sam.
- 
-
-
- 
- 
-Catherine: Sam!
- 
-Catherine: What do you know about what happened to Lindsey?
- 
-Sam Braun: What do you know about it?
-Catherine: Who's using us to get to you? This is your granddaughter we're talking about. What the hell do you know?
- 
-Sam Braun: Front desk found this in the quick checkout bin.
-
-Catherine: &quot;Can you guess what you're going to give me&quot; What does that mean? Who's behind this?
-Sam Braun: I don't know. This was just found. Same place.
- 
-(Inside is another photo of Lindsey, blindfolded and tied to a chair in an empty room. The message reads:
-20 MILLION BY WIRE
-#77-889-9000-662
-BANQUE ROYALE GENEVA )
-Catherine: Where is she? Who has her?
-Sam Braun: I swear, I don't know.
-Catherine: Like hell! I blame you! I blame you for this!
-Sam Braun: I never wanted to involve you personally or professionally in any of my business.
-Catherine: Business? You don't have a business. You're a thug in thousand dollar shoes! 
- 
-Catherine: Thanks for not disappointing me, Sam.
-
- 
- 
-Warrick: Catherine, I know this is really hard, okay, but could you take a break or get a cup of tea or something here?
- 
-Nick: Think I got something.
-Catherine: What?
-Nick: Mandy ran the print that I picked up from your car, and it's a match to an open burglary case, from a few months ago. I think this was yours, Warrick.
- 
-Warrick:  I got it.
- 
-Warrick: Oh, this is from this couple from San Francisco. Bought a second home in Seven Hills, came back and found it tossed.
- 
-Warrick: The chair.
- 
-Warrick: Look at that. The chair.
-
- 
- 
- 
-Officer:  Las Vegas Police! You're under arrest!
- 
-Officer:  Move! Move!
-
-Officer:  Gun!
- 
-
-
-
-Brass: Police!
-
-Brass: Call a paramedic!
-
- 
-Catherine: Lindsey!
-Officer:  Clear!
- 
-Catherine: Lindsey!
- 
-Lindsey:  Mmmm!
-Catherine: Where are you, Lindsey?!
-Lindsey:  
-Catherine: Lindsey! Lindsey!
- 
-Catherine: Lindsey!
- 
-Warrick: Catherine! Don't touch her!
- 
-Warrick: If you want a conviction, you have to let me do this, all right? Let me do it, all right?
- 
-Catherine: All right.
- 
-Warrick:  Lindsey, you're gonna be fine.
-Catherine: I'm right here, Lindsey. Right here. I'm right here.
- 
-Catherine: I'm right here. I'm right here. I'm right here.
- 
-Catherine: Deep breaths.
-
-Catherine: Breathe easy. Deep breaths.
-Warrick: Almost. Almost.
- 
-Catherine: Okay. It's okay. I got you. I got you. Everything's okay.
- 
-Lindsey:  Mom.
-Catherine: It's okay. It's okay, baby. It's okay. Everything's okay.
- 
-Lindsey:  Mom.
-Catherine: I got you. Everything's okay.
-
-
-
-
- 
- 
- 
- 
-Grissom: How's Lindsey?
-Catherine:  She says she's fine. The doctor is assessing her now. We still don't have an ID.
- 
-Grissom: Prints put him in the motel. Found them on the Polaroid paper slip.
-INSERT: FLASHBACK
-
-BACK TO SCENE.
- 
-Grissom: Can you place him at the bar?
-INSERT: FLASHBACK
- 
-BACK TO SCENE.
-Catherine: Yeah. Yeah, he was there.
-Grissom: The accident was a two-man job. Can you remember anybody else?
-
-INSERT: FLASHES OF VARIOUS FACES
- 
-BACK TO SCENE.
-Catherine:  I can't get a face.
-
- 
-(Sara is scrolling through the e-mails from
-From: &lt;Annie Lansfield&gt;
-Sent: 9:05 PM
-To: ScandalPages.com
-Subject: More Izzy Photos. Let's talk price )
- 
-Sara: Greg found the mother lode. The nanny saved all of her e-mails on her computer. She was sending private Delancy family photos to an editor at Scandal Pages magazine. Based on a sliding scale of salaciousness, Scandal Pages was depositing money into Annie's Paypal account. 
- 
- 
-Wendy Simms: So I have the DNA combo from Sven's bed sheets, and none of it was actually Sven's.
-
-
-Sara: Whoa.
-
- 
- 
-Sofia: Annie Lansfield, Cornstalk Queen of Tidioute, Pennsylvania. You move to Vegas to become famous and ended up doing diaper duty for a washed-up rock star. Do you want to tell me how you ended up in a safe that even his wife didn't know about?
-Annie Lansfield: I clean for extra cash. I know the house better than anyone. I knew where the safe was. I just didn't have a key, until ...
- 
-Madeline Delancy: Honey, I need some money to buy clothes for Emma.
-Izzy Delancy: I just gave you money for that.
-Madeline Delancy: She's a baby. She grows. You know, this wouldn't even be an issue if you would sign those damn contracts.
-Izzy Delancy: Really? Well, that is between me and my music. And you, you will never see this safe.
- 
-Izzy Delancy: Gold digger! Dig for that!
-
-
-
-Annie Lansfield: The ER doctor said it would pass in a couple of days. They gave us a copy of the x-ray to keep on file with the general physician. It had the perfect outline of the key.  So, I took the x-ray to a key shop, told them my kid swallowed it.
-Sofia: Resourceful.
-Annie Lansfield: But I put everything back. 
-Sofia: After making Scandal Pages money off it.
-Annie Lansfield: Look, a few years ago, Izzy went on this big health kick -- vegetarian, blah, blah. He claimed that all those chicken heads that he bit on stage were fake. When I found them, I was just so excited. Do you know how much Scandal Pages pays for an urban legend story? A lot.
-Sofia: Here's a scandal: We got evidence of s*x between you and Izzy Delancy in Sven's bed. Or how about this: If you killed him, you'd be the first to crack open that whole story.
- 
-Sofia: Exclusive pics, the whole deal.
-Annie Lansfield: It took 911 a while to come. I just got a quick pic. You said it-- I'm resourceful, not a murderer. I didn't do it.
-
- 
- 
-Narrator:  After the Hits. The Izzy Delancy story. It seemed like a fairy tale. Hard living rocker Izzy Delancy met Dusty Decosta. They fell in love. He wrote a hit song about her. She was to become his first wife ... or was she? In a potentially shocking display of distrust and business acumen, -- 
-Sara:  Where did you find this?
-Greg: Oh, I dug deep.
-Narrator:  -- Izzy Delancy, after ten years of dating Dusty Decosta, wed her in a beautiful, flower-filled ceremony in Malaysia. The ceremony was everything a girl could hope for -- beautiful, romantic. The only thing it wasn't? Legal. Much to Dusty's surprise, years later, after filing for divorce and custody of their then eight-year-old son, Sven, she was shocked to discover that the Malaysian shaman was not recognized by the United States as an officiant. The marriage was a sham. 
- 
- 
-Greg: Sounds like motive to me.
-
- 
- 
-Dusty Decosta: Oh. Hi. Listen, you're going to have to follow me 'cause I'm late for a client.
- 
-Dusty Decosta: What is it you want?
-Sofia: We were wondering if you could tell us about your relationship with Izzy?
- 
-Dusty Decosta:  Oh, God. So I'm a suspect now? That's precious. Okay. The man makes a mint off of singing about our s*x life, barely offers a relationship to our son, kicks me out of a house we built together, leaves me with nothing, and now you want to put me in jail? Rich. Really rich.
-Sofia: Izzy was a smart businessman. He owned all the rights to his music.
-Dusty Decosta: What does that matter to me? Do I get royalty checks for being his muse.
-
-Sara: Exactly. But with Izzy dead, the rights go to Sven. Ostensibly you.
-Sofia: And you still don't an alibi for the afternoon of Izzy's death.
-Dusty Decosta: I do.  It's just embarrassing to me. The &quot;new&quot; Mrs. Delancy called a meeting. She tells me about the Olympia offer. Izzy's being difficult about the deal, so would I talk to him because he listens to me still.
-
-Dusty Decosta: Had he started sleeping with the nanny yet?
-Sara/Sofia: Yeah.
-Dusty Decosta: Did Madeline tell you that was her old job?
-Sara: No. SOFIA: No.
-Dusty Decosta: Look, I'd like to pin it on her, I really would, but I can't because I was with her at the Espresso Drop all afternoon. I really have to go.
- 
-Sara: What are those drawings on the table?
- 
-Dusty Decosta: Oh, those are Sven's. Some mothers get sport trophies; I get perfectly rendered skyscrapers. He wants to be an urban planner. He's kind of obsessed with models. You guys let yourself out, okay?
- 
-
-
-
- 
-Sara: If Sven is capable of creating these kinds of 3-D renderings, he definitely could've built that miniature.
-Sofia: Son defending the honor of his mother?
-Sara: Name that Greek tragedy.
-
- 
- 
-Sven Delancy: Yes, I'm angry with my father for the way he treated my mother. I'm angry with my father for sleeping with Annie. I'm angry with my father for naming me Sven. But I've been in therapy twice a week since I was six. I'm tired of adults asking me if I'm angry. Besides, I'm ... I'm not the only one who's pissed at my dad.
-Sofia: Right, but your mom and Madeline are covered. They were together at the time of your father's death.
-
-
-
-
- 
-Sofia:  So maybe you were so angry with your father that you channeled your anger and used your skills as a model builder to build this.
-
-Sofia: And a nice ... heavy object to do this.
- 
- 
-Voice:  Sven? Sven!
-
- 
- 
-Sven: I always faint at the sight of blood.
- 
-Sara: If that's the case, he probably did not commit the murder and he certainly didn't paint the miniature with his father's blood.
-Grissom: And there's a test we can do to prove it.
-
- 
- 
-Grissom: We're using a tilt table and we're injecting him with isoproterenol. We're testing his sensitivity to his vagus nerve. Basically, we're looking to find out if the nerves that control his blood pressure are predisposed to short circuit when he gets an adrenaline rush.
-Dusty Decosta: So, you're telling me that this could keep him out of jail?
-Grissom: Unless he was faking it.
- 
-
-VARIOUS CUTS OF THE TEST IN PROGRESS
-
-Voice: Start the IV.
- 
-
-
-
-
- 
- 
- 
-Sara: I hear we're out of suspects.
-Grissom: Not necessarily. Could be anybody in town. Or anybody out of town for that matter. That's a lot of suspects.
-Sara: What do you want us to do?
-Grissom: I don't know.
- 
-Grissom: I'll deal with it.
- 
-
- 
- 
-Wendy Simms: I ran DNA on the guy who was holding Lindsey.
-Catherine: Did you get a name?
-Wendy Simms: Um, kind of. See, this guy has markers that are found in, like, ten percent of the population, which reminded me of some other results that I'd been processing recently.
- 
-Catherine: Thirteen alleles in common with Robert O'Brien?
-Wendy Simms: The suicide from Sam Braun's implosion party.
-INSERT: FLASHBACK OF
-
-BACK TO SCENE.
-Catherine: The guy who grabbed Lindsey is Robert O'Brien's brother?
-Wendy Simms: Right. So when that came up, I ran all the other exemplars from the O'Brien case, and I got a hit on a piece of hair from the duct tape that they used to bind Lindsey.
- 
-Catherine: Joe Hirschoff. O'Brien's partner.
-
-
- 
- 
-Catherine: Hi, Sam.
-
-Catherine: Everybody in town knows you're here every Thursday night. And usually with my mother.
-Sam Braun:  I'll be right along.
- 
-Sam Braun: She doesn't mean a thing. It's all show. Look, Muggs, yesterday was ...
-Catherine:  Just save it. I only came here to tell you to call off your guys.
-Sam Braun: I don't know what you're talking about.
-Catherine: Joe Hirschoff and his partner invested everything they had in the Eclipse. But it went bankrupt before you broke ground. You formed a new corporation to finish the project, leaving those guys with nothing.
-Sam Braun: Sometimes that's the way it goes in business.
-Catherine:  Uh-huh. O'Brien and Hirschoff lost $20 million, right? O'Brien caved and stuck a gun in his mouth. Hirschoff wants you to pay him back. So, where is he?
-Sam Braun: I don't know.
-Catherine: Come on, Sam, this isn't old Vegas anymore. Let the police handle it. Or have you already killed him?
-
-Sam Braun: I give you my word, no.
-
-INSERT: FLASHES OF
- 
-BACK TO SCENE.
-AUDIO OFF
-
-
-
-Catherine:  Sam? Sam?
-
-Catherine:  Somebody help me!
-
-BLUR OUT.
-
-CU: MINIATURE DOLL
-
- 
-
- 
-
- 
- 
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=07x02+-+Built+To+Kill+%282%29&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127429%23p127429" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=07x02+-+Built+To+Kill+%282%29&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127429%23p127429" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127429%23p127429&amp;name=07x02+-+Built+To+Kill+%282%29" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127429%23p127429" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=52a7b1f7dafd8b65575d0dba9e69cdab">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=52a7b1f7dafd8b65575d0dba9e69cdab">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=52a7b1f7dafd8b65575d0dba9e69cdab">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=52a7b1f7dafd8b65575d0dba9e69cdab">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

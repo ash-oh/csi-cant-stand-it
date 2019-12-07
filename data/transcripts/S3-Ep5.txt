@@ -1,963 +1,1195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) - MIRAGE -- NIGHT]
+WHITE FLASH TO:
+[INT. LAS VEGAS MAGIC SHOW - NIGHT]
+(ZEPHYR walks out on stage, pulls out t" />
+<meta property="og:title" content="03x05 - Abra Cadaver - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) - MIRAGE -- NIGHT]
+WHITE FLASH TO:
+[INT. LAS VEGAS MAGIC SHOW - NIGHT]
+(ZEPHYR walks out on stage, pulls out t" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13240" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>03x05 - Abra Cadaver - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13240" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13240">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=3003f76a719b3131577b1b6b5783218e"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=3003f76a719b3131577b1b6b5783218e">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=3003f76a719b3131577b1b6b5783218e">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=3003f76a719b3131577b1b6b5783218e">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=3003f76a719b3131577b1b6b5783218e">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13240&amp;sid=3003f76a719b3131577b1b6b5783218e&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>03x05 - Abra Cadaver</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127334">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127334">03x05 - Abra Cadaver</a></div>
+							<div class="pull-right text-right"><time datetime="2002-11-14T22:27:09Z">11/14/02 22:27</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - MIRAGE -- NIGHT]</p>
+<p>WHITE FLASH TO:</p>
+<p>[INT. LAS VEGAS MAGIC SHOW - NIGHT]</p>
+<p>(ZEPHYR walks out on stage, pulls out two show swords from a rack. He holds them up. His assistant presents him.)</p>
+<p>WHITE FLASH TO:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>(Overhead view of a large intersection on the strip taped in high-speed showing cars traveling at the intersection.)</p>
+<p>WHITE FLASH TO:</p>
+<p>[INT. LAS VEGAS MAGIC SHOW - NIGHT]</p>
+<p>(ZEPHYR is on stage holding up the two swords in front of a large glass case. Cut to a scene of the audience clapping.)</p>
+<p>WHITE FLASH TO:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT</p>
+<p>(Close up of an overhead view of a large intersection on the strip taped in high-speed showing cars traveling at the intersection.)</p>
+<p>WHITE FLASH TO:</p>
+<hr />
+[INT. LAS VEGAS MAGIC SHOW - NIGHT]</p>
+<p>(Back to ZEPHYR on stage. He holds up the two swords and hits them against each other to show that they're real.)</p>
+<p>WHITE FLASH TO:</p>
+<p>(ZEPHYR on stage looks out on the audience.)</p>
+<p><strong>Zephyr</strong>: I need one volunteer from the audience.</p>
+<p><strong>Audience (woman)</strong>: Here! Here!</p>
+<p>(The assistant looks out into the audience looking for a volunteer. ZEPHYR points to someone.)</p>
+<p><strong>Zephyr</strong>: You. In the blue dress.</p>
+<p>(Sitting in the audience with her head slightly turned away from the stage is a red-haired woman in a dark blue dress. She's sitting in the seat nearest the aisle.)</p>
+<p>(She turns around, looks around and stands. She walks to the stage as the audience applauds. The assistant escorts the woman volunteer up onto the stage. She opens the glass chamber door. ZEPHYR puts one of the swords he's carrying forcibly back into the piece of wood.)</p>
+<p><strong>Zephyr</strong>: Step into the box. Hands by your sides. Don't move.</p>
+<p>(The woman steps into the chamber. The assistant closes the chamber door and it starts to fill with a white cloud of gas.)</p>
+<p>(ZEPHYR puts the sword he's carrying through the slots in the chamber. The audience gasps. He moves to get another sword. He walks to the other side of the chamber and puts a sword through the slots. The audience gasps.)</p>
+<p>(The Magician's Assistant hands the final sword to ZEPHYR. He takes the sword and plunges it through the slot in the side of the chamber facing the audience. The sword meets some resistance, but he forces it through. The audience gasps.)</p>
+<p>(ZEPHYR turns around, stretches his arms and presents the chamber. The audience applauds. The gas dissipates inside the chamber revealing that it's completely empty.)</p>
+<p><strong>Zephyr</strong>: And ladies and gentleman I assure you she's quite all right. In fact, she's ... spotlight, please.</p>
+<p>(The magician's assistant walks through the audience and stops next to a seat. She presents the seat where the woman should be just as the spotlight hits the seat.)</p>
+<p>(It's empty.)</p>
+<p>(The assistant looks around. ZEPHYR himself starts looking around the stage. He walks around the chamber to the front of the stage where his assistant meets with him.)</p>
+<p><strong>Matilda</strong>: (whispering): I don't know where she is.</p>
+<p>(ZEPHYR looks out into the audience. He takes off his mask and addresses them.)</p>
+<p><strong>Zephyr</strong>: Ladies and gentlemen ... I can't quite explain ... </p>
+<p>WHITE FLASH TO:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[INT. CASINO - MAGIC SHOW - AUDITORIUM - NIGHT]</p>
+<p>(Grissom enters the auditorium carrying his kit. He walks toward the stage where BRASS is waiting on the steps.)</p>
+<p><strong>Brass</strong>: Welcome to the house of illusion. This is bizarre. You're not going to believe this. Female volunteer goes on the stage, disappears and doesn't come back.</p>
+<p><strong>Grissom</strong>: Was she supposed to ... reappear?</p>
+<p><strong>Brass</strong>: The Amazing Zephyr won't say. </p>
+<p>(GRISSOM climbs onto the stage and approaches the glass case with the three swords still in it.)</p>
+<p><strong>Brass</strong>: You know magicians, they never reveal their tricks, but we're working on him.</p>
+<p>(GRISSOM looks closely at the swords in the chamber.)</p>
+<p><strong>Grissom</strong>: Well, I can understand why he doesn't want to reveal his trick ... but would he like to explain this blood?</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS HOTEL &amp; CASINO (STOCK) - NIGHT]</p>
+<hr />
+[INT. LAS VEGAS HOTEL &amp; CASINO - AUDITORIUM - NIGHT]</p>
+<p>(BRASS fills GRISSOM in on what they've discovered in their initial investigation.)</p>
+<p><strong>Brass</strong>: I got a bunch of police officers, uh canvassing the theater right now. No sign yet, but we have traced the woman back to her aisle seat, 8A. Paid cash.</p>
+<p><strong>Grissom</strong>: Magic is fun, Jim, but it's not real. The woman is somewhere.</p>
+<p><strong>Brass</strong>: Thanks for that. Thanks.</p>
+<p>(GRISSOM leaves BRASS. A tourist being detained by the police approaches BRASS.)</p>
+<p><strong>Tourist (woman)</strong>: Excuse me.</p>
+<p><strong>Brass</strong>: Yeah? </p>
+<p><strong>Tourist (woman)</strong>: Um, hi, are we finished here?</p>
+<p><strong>Brass</strong>: No. You were sitting in front of the volunteer, is that right?</p>
+<p><strong>Tourist (woman)</strong>: Mm-hmm.</p>
+<p><strong>Brass</strong>: You take any photos during the show?</p>
+<p><strong>Tourist (woman)</strong>: Uh ...</p>
+<p><strong>Brass</strong>: We're going to need your camera.</p>
+<p><strong>Tourist (woman)</strong>: But our whole trip's on there.</p>
+<p><strong>Brass</strong>: We'll get the negatives back to you. (to the officer behind them)<br />
+Michael. (to the tourist woman) Excuse me. Thanks for your help.</p>
+<p>(BRASS leaves the tourist couple to the other officer.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. LAS VEGAS HOTEL &amp; CASINO - AUDITORIUM - NIGHT]</p>
+<p>(Up on stage, SARA is examining the swords from the glass chamber. She pulls one out just as GRISSOM arrives to check it out. He checks the edge of the sword.)</p>
+<p><strong>Grissom</strong>: Dull as a spoon. </p>
+<p><strong>Sara</strong>: From a distance, it looks razor-sharp.</p>
+<p><strong>Grissom</strong>: That's the point. So is it real blood?</p>
+<p><strong>Sara</strong>: Well, let's see. </p>
+<p>(SARA checks.)</p>
+<p><strong>Sara</strong>: That's real blood, all right.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. LAS VEGAS HOTEL &amp; CASINO - BACK STAGE - NIGHT]</p>
+<p>(ZEPHYR is taking off his make-up in his dressing room. GRISSOM is there questioning him.)</p>
+<p><strong>Zephyr</strong>: Nothing is as it seems, is it?</p>
+<p><strong>Grissom</strong>: That's the conflict of magic -- the burden of knowledge versus the mystique of wonder. </p>
+<p><strong>Zephyr</strong>: And you're wondering right now -- I can hear your mind ticking-- &quot;Was she a plant? Was it real?&quot;</p>
+<p><strong>Grissom</strong>: Well, there are no secrets, are there? Only hidden answers.</p>
+<p><strong>Zephyr</strong>: I'm an honest liar, sir. In my line of work it's accepted. You could say it was my livelihood.</p>
+<p><strong>Grissom</strong>: Well, my livelihood is dispelling lies and finding the truth.</p>
+<p>(ZEPHYR points to the box of tissues in front of GRISSOM. GRISSOM pulls out a tissue and hands it to ZEPHYR.)</p>
+<p><strong>Zephyr</strong>: My secrets can't be revealed by any microscope.</p>
+<p><strong>Grissom</strong>: Yeah ... but there's a woman missing.</p>
+<p>(ZEPHYR reaches behind GRISSOM'S right ear and pulls out a large coin. He shows it to GRISSOM.)</p>
+<p><strong>Zephyr</strong>: The only thing missing ... </p>
+<p>(ZEPHYR holds the coin in the palm of his left hand and uses his right hand to elaborately grab the coin from his left hand. He holds it loosely in a fist, shakes it a couple of times and opens it to reveal that the coin is missing.)</p>
+<p><strong>Zephyr</strong>: ... is this.</p>
+<p><strong>Grissom</strong>: Very nice. So, where'd she go?</p>
+<p><strong>Zephyr</strong>: From the salt in my marrow, I don't know. I mean, I can't give you this </p>
+<p>(ZEPHYR holds out his empty right hand.)</p>
+<p><strong>Zephyr</strong>: ... but I can give you... </p>
+<p>(ZEPHYR looks back at his left hand holding the coin.)</p>
+<p><strong>Zephyr</strong>: ... that. </p>
+<p>(Amused, GRISSOM picks up the coin and looks at it. ZEPHYR resumes removing his make-up.)</p>
+<p><strong>Zephyr</strong>: It's as real as my answer. </p>
+<p>(GRISSOM hands the coin back to ZEPHYR.)</p>
+<p><strong>Zephyr</strong>: No, you can keep it.</p>
+<p>(ZEPHYR smiles.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. NEAR PARKED BUS -- NIGHT]</p>
+<p>(CATHERINE and NICK make their way to the crime scene.)</p>
+<p><strong>Catherine</strong>: What's the name of the band again?</p>
+<p><strong>Nick</strong>: Pekinpah. Back in '93, first album was a moderate hit. Don't you remember that song, it was pretty popular-- uh... &quot;Symphony of Epiphanies&quot;? </p>
+<p><strong>Both Humming</strong>: &quot;Na, na, na, na, na, na come here, come here... &quot;</p>
+<p><strong>Catherine</strong>: Yeah, that was good to dance to.</p>
+<p>(On the side is the ROAD MANAGER speaking with an officer.)</p>
+<p><strong>Road Manager</strong>: (to the officer) He's been laying in the back of the bus for half an hour now.</p>
+<p><strong>Catherine</strong>: (o.s. to NICK) I'm guessing that's the road manager.</p>
+<p>(CATHERINE and NICK continue to walk to the bus.)</p>
+<p><strong>Catherine</strong>: He does not look too happy.</p>
+<p><strong>Nick</strong>: Well, he just lost a lead singer.</p>
+<p>(CATHERINE and NICK reach the bus. CATHERINE opens the trailer door.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. BUS - NIGHT -- CONTINUOUS]</p>
+<p>(CATHERINE enters the bus first, her flashlight held out so she can see inside. NICK walks in behind her. On the chair inside the bus is an electric guitar.)</p>
+<p><strong>Nick</strong>: Ooh ... rock and roll, baby.</p>
+<p>(CATHERINE walks on to the back of the bus where GUS KENYON is dead on the bed with a needle sticking out of his right arm.)</p>
+<p><strong>Catherine</strong>: Gus Kenyon.</p>
+<p><strong>Nick</strong>: It's a shame, man. He had a good voice.</p>
+<p>(CATHERINE leans in to look at the body.)</p>
+<p><strong>Catherine</strong>: Heroin. If this was an overdose, why leave some in the syringe?</p>
+<p>(NICK looks down at the floor around the bed.)</p>
+<p><strong>Nick</strong>: No vomit around, either. That's a first for me.</p>
+<p>(CATHERINE reaches out and notices something black-ish on the tip of GUS KENYON'S right index finger.)</p>
+<p><strong>Catherine</strong>: Wait a second, what's this? Doesn't look like a bruise.</p>
+<p><strong>Nick</strong>: How'd he do that?</p>
+<p><strong>Catherine</strong>: What's that?</p>
+<p><strong>Nick</strong>: The tourniquet. He's obviously left-handed if he shot up in the right arm. If he tied it off himself he would have pulled it towards him, like so. It's tied the other way, pulled away from him.</p>
+<p>(Quick flashback to someone tying the red tourniquet around a well-muscled bicep. Flash to white. Resume to present.)</p>
+<p><strong>Catherine</strong>: By someone else standing over him?</p>
+<p>(CATHERINE stands up and notices an empty BR Black Rush irish whiskey bottle next to the bed. She picks it up.)</p>
+<p><strong>Catherine</strong>: Easy ... if you're capacitated.</p>
+<p>(Behind them, the manager of the band walks into the bus. He yells out from the doorway to them.)</p>
+<p><strong>Manager</strong>: You people seen enough? When can I put him to rest?</p>
+<p>(NICK warns the manager.)</p>
+<p><strong>Nick</strong>: You really shouldn't be in here, sir.</p>
+<p>(The manager takes a few more steps into the bus.)</p>
+<p><strong>Manager</strong>: Hey, look, I'm sorry. You know, this is a tragedy for all of us, and his family. I just don't want the press to see him like this.</p>
+<p><strong>Catherine</strong>: We understand that, sir, but this is a crime scene.</p>
+<p><strong>Manager</strong>: Crime scene? It's an O.D., Right? He killed himself.</p>
+<p><strong>Catherine</strong>: Then you knew he was a drug user?</p>
+<p><strong>Manager</strong>: Well, he was a drug user. I mean, he's been clean for a long time. A health freak, actually. It's a shock to us all.</p>
+<p>(Camera holds on CATHERINE.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. THEATRE - ON STAGE]</p>
+<p>(WARRICK and SARA continue to process the glass box.)</p>
+<p><strong>Warrick</strong>: Big glass box and all I got is a partial thumb print.</p>
+<p>(GRISSOM walks up to them and looks at the box.)</p>
+<p><strong>Grissom</strong>: Is this processed yet?</p>
+<p><strong>Warrick</strong>: Yeah. Want me to bag it for you?</p>
+<p><strong>Sara</strong>: Let's take it back to the lab. Maybe we can make Greg disappear.</p>
+<p><strong>Grissom</strong>: Who controls this stage, do we know?</p>
+<p><strong>Punky Dillinger</strong>: (o.s.) I do.</p>
+<p>(They all turn toward the voice coming from behind them. Off to the side of the stage, a young man appears.)</p>
+<p><strong>Grissom</strong>: And you are ... ?</p>
+<p><strong>Punky Dillinger</strong>: Punky Dillinger. I'm Zephyr's stagehand.</p>
+<p><strong>Grissom</strong>: Well, Mr. Dillinger do you know how this trick works?</p>
+<p><strong>Punky Dillinger</strong>: I only control the stage part.</p>
+<p>(GRISSOM looks at PUNKY DILLINGER without responding. He doesn't believe it for a moment.)</p>
+<p><strong>Punky Dillinger</strong>: (relents) Yeah.</p>
+<p><strong>Grissom</strong>: Good. Make me disappear.</p>
+<p>(SARA and WARRICK who had been doing their own thing in the background, suddenly look up at GRISSOM. PUNKY DILLINGER laughs.)</p>
+<p>SHORT TIME CUT TO:<br />
+(GRISSOM is standing inside the glass box. The lights inside the box flash several times and with a hiss, a white cloud fills the box, slowly obscuring GRISSOM from SARA and WARRICK who watch from the audience aisle.)</p>
+<p><strong>Sara</strong>: (waving) Bye-bye.</p>
+<p>(The white cloud fills the box. The lights inside the box continue to flash. The cloud slowly dissipates and the lights stop flashing. The box is empty.)</p>
+<p>(SARA and WARRICK look at each other for a moment. They both approach the stage to look for GRISSOM. SARA looks a big perplexed. WARRICK looks down and sees it. He walks to the side of the box. SARA follows him.)</p>
+<p><strong>Warrick</strong>: Oh, I get it. There's a chute inside the steps.</p>
+<p>(WARRICK pushes the steps leading to the box aside. GRISSOM looks up at them from under the stage.)</p>
+<p><strong>Grissom</strong>: Still here.</p>
+<p>(Camera cuts to SARA and WARRICK look down at GRISSOM from the stage above.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. THEATRE - UNDER THE STAGE - CONTINUOUS]</p>
+<p>(Everyone is under the stage looking around. PUNKY DILLINGER shows them around the place while explaining how the trick works in the show.)</p>
+<p><strong>Punky Dillinger</strong>: At this point of the trick, I'm supposed to escort the volunteer out of the basement. Now I only turned my back for a second and she was gone.</p>
+<p><strong>Grissom</strong>: Is there any other way out of here besides that door?</p>
+<p><strong>Punky Dillinger</strong>: No, that's the thing. Stage left's the only exit. I don't know.</p>
+<p><strong>Grissom</strong>: You have any lights in here besides red? We're looking for blood.</p>
+<p>(SARA and WARRICK start looking around and walking in separate directions.)</p>
+<p><strong>Punky Dillinger</strong>: Mm-hmm. </p>
+<p>(PUNKY DILLINGER reaches up above him and turns on the lights. He notices that SARA is almost to the end of the aisle where there's a locked wire cage.)</p>
+<p><strong>Punky Dillinger</strong>: Oh, hey? Hey?! Those are Zephyr's tricks in the corner. No one's allowed to go near them not even me.</p>
+<p>(For a moment, SARA has her hand on the cage door. They all look at PUNKY.)</p>
+<p>(Cut to SARA and WARRICK continuing to examine the area by the cage. SARA is looking inside the cage from the outside and WARRICK is examining the ground. He kneels down when he finds something.)</p>
+<p><strong>Warrick</strong>: I've got ovoid blood drops leading towards the wall.</p>
+<p><strong>Punky Dillinger</strong>: You guys want more lights?</p>
+<p><strong>Grissom</strong>: No. Turn them off. </p>
+<p>(PUNKY turns the lights off. Using their flashlights, the team follows the blood trail. They follow the trail around a stack of crates, directly to a second door.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. BACK STAGE -- NIGHT]</p>
+<p>(The door opens and GRISSOM walks out onto the catwalk. WARRICK follows.)</p>
+<p>(Cut to SARA as she stays behind and examines the door and door frame.)</p>
+<p>(Cut back to GRISSOM following the blood trail through the catwalk.)</p>
+<p><strong>Grissom</strong>: Magicians of Zephyr's caliber belong to a very secluded society. They barnstorm from city to city ... no contact with the outside world, no association with other magicians. They're like ghosts with skin.</p>
+<p>(GRISSOM and WARRICK walk down the stairs and to the loading zone below. At the bottom of the steps, GRISSOM finds something. WARRICK walks down to the road level loading zone and examines the ground.)</p>
+<p><strong>Grissom</strong>: This looks like an admixture of blood and some sort of clear liquid.</p>
+<p><strong>Warrick</strong>: Someone bolted out of here pretty fast.</p>
+<p>(GRISSOM raises his flashlight to look at what WARRICK is talking about.)</p>
+<p>(Cut to SARA dusting the door and lifting a print from the door. She looks at the clear print she has on the sheet.)</p>
+<p><strong>Sara</strong>: (to herself) I'm no psychic, but I have been known to read palms.</p>
+<p>(She smiles and yells out.)</p>
+<p><strong>Sara</strong>: Hey! </p>
+<p>(Cut to outside where WARRICK and GRISSOM look up when they hear SARA yell.)</p>
+<p><strong>Sara</strong>: (o.s.) I got a print.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY -- NIGHT]</p>
+<p>(CATHERINE and DR. ROBBINS stand around the deceased on the table.)</p>
+<p><strong>Catherine</strong>: You're kidding me.</p>
+<p><strong>Robbins</strong>: Nope. No heroin in his system. Lots of bourbon, but no heroin at all.</p>
+<p><strong>Catherine</strong>: So what killed him?</p>
+<p><strong>Robbins</strong>: Embolism to the heart.</p>
+<p><strong>Catherine</strong>: Air bubble.</p>
+<p><strong>Robbins</strong>: I withdrew air from his right ventricle and air can be deadlier the heroin. </p>
+<p>(Flash to white. Quick CGI POV in fast motion of a syringe. The camera follows the path of the air bubble rapidly traveling from the exterior tip of the needle all the way to the open end then turns into the interior of the syringe where it travels out through the needle tip and into the bloodstream. The camera view travels through the bloodstream among a whir of red blood cells ... )</p>
+<p><strong>Robbins</strong>: (V.O.) It travels through the vein into the right ventricle to prevent blood from entering or leaving the chamber which eventually leads to heart failure.</p>
+<p>( ... and out directly through to the heart where the camera slows to regular motion ... )</p>
+<p><strong>Catherine</strong>: (V.O.) Shock. Suffocation. </p>
+<p>( ... and for a moment, we watch the heart beat. White flash to end of CGI POV. Resume to present.)</p>
+<p><strong>Catherine</strong>: Explains why he didn't throw up.</p>
+<p><strong>Robbins</strong>: And why his pupils weren't pinpointed. They would have been bilaterally small after an overdose.</p>
+<p><strong>Catherine</strong>: There was heroin still in the needle. Why didn't it make it into his system?</p>
+<p><strong>Robbins</strong>: His blood alcohol count was point-three-one (.31). My guess is he was unconscious before his heart stopped.</p>
+<p>(CATHERINE looks up for a moment, thinks about it, then turns to leave. ROBBINS stops her.)</p>
+<p><strong>Robbins</strong>: Catherine, wait. That black mark ... </p>
+<p>(ROBBINS lifts up the deceased's right hand and shows CATHERINE the index finger.)</p>
+<p><strong>Catherine</strong>: Oh, right, on his index finger.</p>
+<p><strong>Robbins</strong>: Ink. Standard black printing ink.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CASINO THEATRE - BACKSTAGE -- NIGHT]</p>
+<p>(Camera close-up of the stage hands and everyone involved in the show production being palm printed by SARA. The blonde-haired magician's assistant, MATILDA, is printed. She leaves. PUNKY DILLINGER is next in line with ZEPHYR standing behind him.)</p>
+<p>SARA (PRELAP): (V.O.) The stagehand was lying about another exit.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAB]</p>
+<p><strong>Sara</strong>: I got his palm print off the trap door.</p>
+<p>(SARA is showing GRISSOM the palm print that matched the print taken off of the stage door. WARRICK enters the lab holding an envelope.)</p>
+<p><strong>Warrick</strong>: Try this one. It's a print from the &quot;Chamber of Doom.&quot;</p>
+<p>(WARRICK slips the contents of the envelope onto the table. It's a partial print taken from the glass box with &quot;WB 11/06/02 CHAMBER DOOM PARTIAL&quot; written on it. GRISSOM takes the print and visually compares it to the existing print they have. He looks up at WARRICK and at SARA, pleased.)</p>
+<p><strong>Sara</strong>: Hands on the trap door?</p>
+<p><strong>Warrick</strong>: Hands inside the trick?</p>
+<p><strong>Grissom</strong>: (nods slightly) There are no secrets.</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERROGATION ROOM]</p>
+<p>(PUNKY DILLINGER lights up a cigarette and inhales.)</p>
+<p><strong>Brass</strong>: Hey, hey, hey. This is a non-smoking facility. </p>
+<p>(PUNKY looks at BRASS, then makes a fist with his left hand and puts it on the table, thumb facing up. He takes his cigarette in his right hand and puts the cigarette flame end first into his fist as far as it will go. He covers the exposed filter with his right hand. He looks back up at BRASS and smiles.)</p>
+<p>(After a moment, he slowly turns his left hand fist fingernails downward and continues to look at his &quot;audience&quot;. With the deliberateness of a magician, he opens up his right hand palm up to show nothing there. He looks back up at his audience to see if they're paying attention, then slowly opens his left hand palm up. Nothing is there. Both hands are empty.)</p>
+<p>(PUNKY smiles. GRISSOM also smiles.)</p>
+<p><strong>Punky Dillinger</strong>: I'm not a bad magician, you know.</p>
+<p><strong>Brass</strong>: When you find that, put that out.</p>
+<p><strong>Punky Dillinger</strong>: Okay. Truth is ... I lied.</p>
+<p><strong>Brass</strong>: We know that. That's why we're here.</p>
+<p><strong>Punky Dillinger</strong>: I love magic, you know? One of the fringe benefits of my job is knowing how the tricks work. Zephyr wouldn't let anyone go near his tricks. You think I want to be a stagehand the rest of my life? I got aspirations, too, you know? So, I snooped around. Climbed inside the &quot;chamber&quot; one night and tried it out. Is that a crime?</p>
+<p><strong>Brass</strong>: We don't know yet.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - WAITING ROOM]</p>
+<p>(NICK sits down on the seat in the waiting room across from the members of the band, Pekinpah. A second member of the band sits across from him as well as a third who stands nearby. NICK is holding an evidence bag.)</p>
+<p><strong>Nick</strong>: The videotape from last night's show has you ... wearing this.</p>
+<p>(NICK shows the evidence bag to the guitarist.)</p>
+<p><strong>Man 1</strong>: So what?</p>
+<p><strong>Nick</strong>: So, it was used as a tourniquet on Gus' arm.</p>
+<p><strong>Man 1</strong>: Look, I-I was with these guys the entire night last night.</p>
+<p>(Guitarist KEITH CASTLE who was standing up takes a seat.)</p>
+<p><strong>Nick</strong>: Okay. When was the last time you saw him alive </p>
+<p><strong>Man 1</strong>: On the bus? Last night after the show. He said he wanted to be left alone so we left him alone. </p>
+<p><strong>Man 2</strong>: We finished the set with, uh, &quot;City of Sin.&quot; You know, the hometown pleaser. </p>
+<p><strong>Man 1</strong>: He always hated that song. I don't know why. It was his best one.</p>
+<p><strong>Nick</strong>: I talked to your manager, and he said Gus was clean.</p>
+<p><strong>Man 2</strong>: Yeah. The whole band for six years now. </p>
+<p><strong>Man 1</strong>: We-we did it together as a band. You know, we kind of had to. We went gold three months after we signed our first contract. The next couple of years got pretty crazy.</p>
+<p><strong>Nick</strong>: Crazy?</p>
+<p><strong>Keith Castle</strong>: Dude, hit single, 24 years old. Touring with Pearl Jam. I mean Gus had bitches lining up outside of his room 24 hours a day. Sleep ain't an option. So, by your next gig, you're going ... you know, need a little bop.</p>
+<p><strong>Nick</strong>: I obtained Gus's medical records from L.A. that said he was treated for depression. You guys know anything about that?</p>
+<p><strong>Keith Castle</strong>: Sober suits some better than others.</p>
+<p><strong>Man 2</strong>: He could get pretty dark. I mean, sometimes you couldn't even speak with him, you know?</p>
+<p><strong>Man 1</strong>: He's been wanting out for some time now.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - DNA LAB]</p>
+<p><strong>Sara</strong>: I know you didn't beep me for a magic trick.</p>
+<p>(SARA is in GREG'S DNA lab waiting for the results of the test. GREG is on the other side of his lab table wearing a large turban-like hat on his head.)</p>
+<p><strong>Greg</strong>: Swami doesn't do magic tricks. Swami's here to reveal all of your DNA secrets.</p>
+<p>(GREG grabs a folder off of the table in front of him.)</p>
+<p><strong>Sara</strong>: I'm very busy, Greg. </p>
+<p><strong>Greg</strong>: Blood from the &quot;Chamber of Doom.&quot; </p>
+<p>(GREG slaps the folder flat side to his forehead and holds it there.)</p>
+<p><strong>Greg</strong>: Same as the d-donor of the blood found on the basement floor but ... d-different than the blood found in the alleyway.</p>
+<p><strong>Sara</strong>: Different person?</p>
+<p><strong>Greg</strong>: Different ... animal.</p>
+<p><strong>Sara</strong>: Really? What kind of animal?</p>
+<p>(GREG rolls his eyes upward and shakes his head.)</p>
+<p><strong>Greg</strong>: Oh, Swami needs more time.</p>
+<p>(The printer next to him immediately begins to print out another set of results. GREG reaches for that paper.)</p>
+<p><strong>Greg</strong>: Now ... clear liquid found near the blood droplets. </p>
+<p>(As he did with the folder, GREG holds the paper flat against his forehead, print side turned away from SARA.)</p>
+<p><strong>Greg</strong>: It's ... </p>
+<p>(GRISSOM silently walks up behind GREG and starts reading the results for himself.)</p>
+<p><strong>Greg</strong>: ... not from Thora birch, but ...</p>
+<p><strong>Grissom</strong>: Thorazine.</p>
+<p>(GREG'S eyes open in surprise. He immediately puts the test results down and quickly takes off the Swami hat.)</p>
+<p><strong>Greg</strong>: Thorazine.</p>
+<p><strong>Sara</strong>: Thorazine. That's an animal tranquilizer. Zephyr didn't use any live animals in his act.</p>
+<p><strong>Grissom</strong>: Maybe he didn't use it on animals.</p>
+<p>(GRISSOM leaves. ERIC stands there looking quite embarrassed back at SARA who finally smiles.)</p>
+<p>CUT TO:</p>
+<hr />
+(A couple of close-ups on photos of the tourist couple in front of various Las Vegas sites is being reviewed on the monitor.)</p>
+<p>[INT. CSI - A/V LAB]</p>
+<p>(Cut to a photo of Zephyr's Assistant assisting a red-haired woman in a blue dress up the stairs to the stage.)</p>
+<p>(Cut to a photo of the tourist couple in front of another Las Vegas site.)</p>
+<p><strong>Grissom</strong>: Whoa. Go back one, Arch.</p>
+<p>(ARCHIE hits a key and the photo goes back one.)</p>
+<p><strong>Archie Johnson</strong>: Is that her?</p>
+<p><strong>Grissom</strong>: Blue dress, red hair.</p>
+<p>(They look at the picture for a moment.)</p>
+<p><strong>Grissom</strong>: Go on.</p>
+<p>(The monitor changes to the next picture of the two tourists at the show with the red-haired woman sitting behind them with her hand covering her face. ARCHIE squints.)</p>
+<p><strong>Archie Johnson</strong>: Is that who I think it is?</p>
+<p><strong>Grissom</strong>: Who?</p>
+<p>(ARCHIE highlights the people sitting at the table far behind the tourists. He enlarges the block and definitely recognizes the man sitting there.)</p>
+<p><strong>Archie Johnson</strong>: Toby Arcane. &quot;Freak man&quot;.</p>
+<p><strong>Grissom</strong>: What makes him a &quot;freak&quot; besides that shirt?</p>
+<p><strong>Archie Johnson</strong>: All I can say he's not for the faint of heart.</p>
+<p>(Looking at the photo, ARCHIE smiles. GRISSOM turns to look at ARCHIE.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. LAS VEGAS CASINO -- NIGHT]</p>
+<p>(The hammer hits the nail with a loud clang. The nail pierces the flesh and cracks through the wood underneath.)</p>
+<p>(TOBY ARCANE groans. The audience flinches at the sight of the magician being nailed to a large wooden &quot;X&quot;. Blood drips through the wood; blood splatters across the magician's face. The audience reacts with fascinated horror.)</p>
+<p>(As the large wooden &quot;X&quot; is being raised amidst the cheers, the audience grows and more people join in to watch the trick.)</p>
+<p>(The cross is successfully standing upright and TOBY ARCANE lets out a loud roar. The audience cheers.)</p>
+<p>(GRISSOM, SARA and WARRICK stand in the back of the crowd watching the magic show.)</p>
+<p>(The music suddenly stops and the lights turn off. The silence is deafening. People immediately begin to look for the missing magician.)</p>
+<p>(The lights go on and the music resumes. The cross is empty. The audience looks around for the magician to appear.)</p>
+<p>(Behind them on the catwalk in a wall of fire, TOBY ARCANE appears unhurt. The audience cheers. GRISSOM smiles, appreciating the trick. TOBY ARCANE shows the crowd the palms of his hands, skin unbroken. He salutes the crowd and leaves.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. -- NIGHT]</p>
+<p>(Inside some kind of enclosed area, presumably what TOBY ARCANE uses as his dressing room, GRISSOM, SARA and WARRICK question the magician.)</p>
+<p><strong>Toby Arcane</strong>: It's, uh, called &quot;The Cross-ifixion.&quot; I get, uh, nailed to it every night.</p>
+<p><strong>Grissom</strong>: Well, miraculously, you've resurrected. Have you ever been to the Zephyr show?</p>
+<p><strong>Toby Arcane</strong>: He's a hack. </p>
+<p>(TOBY takes a drink.) </p>
+<p><strong>Toby Arcane</strong>: I wouldn't be caught dead at that show.</p>
+<p><strong>Grissom</strong>: I know. But we caught you alive.</p>
+<p>(GRISSOM shows TOBY the photo of him sitting at Zephyr's magic show. TOBY leans forward to get a better look at the picture. He reaches for the picture and GRISSOM pulls it away from him out of his reach.)</p>
+<p><strong>Toby Arcane</strong>: You should see my nudes, Grissom.</p>
+<p><strong>Grissom</strong>: The, uh, woman who disappeared -- do you think she was a plant?</p>
+<p><strong>Toby Arcane</strong>: Of course she's a plant. Zephyr's on life support. His way of doing magic -- it's dead as, uh ... dead. Fooling people from a hundred feet away. </p>
+<p>(TOBY stands up and takes a few steps closer to GRISSOM.)</p>
+<p><strong>Toby Arcane</strong>: 'Cause I'm in your face. Right here.</p>
+<p>(TOBY ARCANE smiles. He reaches for the towel hanging just behind GRISSOM. He turns around and sits back down in his chair.)</p>
+<p><strong>Warrick</strong>: We have reason to believe that that woman, planted or not ... </p>
+<p>(Quick CGI POV flashback to a close up of the tip of the sword being pushed through the slot in the glass box. The camera follows the tip of the sword as it passes through skin and bleeds. In the background, a woman gasps.)</p>
+<p><strong>Warrick</strong>: (V.O.) ... sustained injury during the first insertion of the saber.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: Do you think it was part of the act or do you think it was some kind of mistake?</p>
+<p>(TOBY touches up his stage make-up in the mirror.)</p>
+<p><strong>Toby Arcane</strong>: Uh, yeah, could have been a blood pouch but knowing him ... it was a mistake.</p>
+<p>(TOBY looks up at GRISSOM.)</p>
+<p><strong>Grissom</strong>: Is it possible that he put his saber into the wrong slot?</p>
+<p><strong>Toby Arcane</strong>: Well, this is Vegas, baby.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- HALLWAY]</p>
+<p>(GREG, NICK and CATHERINE walk through the hallway. GREG hands two CD's to CATHERINE.)</p>
+<p><strong>Greg</strong>: The band's last two albums, and the DVD. You know, I heard that they were splitting up.</p>
+<p>(NICK stops walking and turns around.)</p>
+<p><strong>Nick</strong>: Where did you hear that?</p>
+<p>GREG Uh, the New World Library -- internet. This contains, uh, TV appearances live footage, things like that.</p>
+<p>(GREG hands the DVD to NICK. CATHERINE finds something on the CD covers she's looking at.)</p>
+<p><strong>Catherine</strong>: He wrote every song.</p>
+<p><strong>Nick</strong>: Who, the singer, Gus?</p>
+<p><strong>Catherine</strong>: His name's on every title. If they were splitting up and he took his songs back ... </p>
+<p><strong>Nick</strong>: No more Pekinpah; no more money for the band. (to GREG) Why don't you get back on the internet for us? See if there's any gossip floating around.</p>
+<p>(GREG raises his hands and turns to leave. He walks back in the direction they came from. GREG and CATHERINE continue on.)</p>
+<p><strong>Catherine</strong>: We need to get back to the crime scene. I'm looking for ink.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - EARLY EVENING SUNSET]</p>
+<hr />
+[INT. GUS KENYON'S BUS]</p>
+<p>(CATHERINE returns back to bus to search it again. Looking around, she finds something. It appears to be the key pad numbers for a cell phone. She thinks for a moment and starts searching the place for the cell phone. She finds it under the bed. The cell phone is broken.) </p>
+<p>(Quick flashback to GUS KENYON on his cell phone, looking at it, then smashing it against the wall in frustration. He throws the cell phone to the ground. End of flashback. Resume to present.)</p>
+<p>(NICK enters the bus. He's putting on his gloves.)</p>
+<p><strong>Nick</strong>: I showed the road manager a copy of the warrant. He went nuts. He's on the phone with his lawyer right now.</p>
+<p><strong>Catherine</strong>: Why do they want us off this bus so badly? </p>
+<p>(NICK picks up a nearby bag and opens it. Inside, we see a CD player and headphones.)</p>
+<p>(Cut back to CATHERINE who once again starts looking around. She notices the<br />
+&quot;Las Vegas White Pages&quot; stuck between the bed and the wall. She settles down and looks through the book. The book opens up to a page listing for &quot;Dean&quot;. In the middle of the list there is a finger smudge.)</p>
+<p><strong>Catherine</strong>: Standard printing ink. </p>
+<p>(Quick flashback to GUS KENYON flipping through the pages, finding the page he's looking for and with uses his right index finger against the page to look for the name. End of flashback. Resume to present.)</p>
+<p>(CATHERINE looks around.)</p>
+<p><strong>Catherine</strong>: (quietly to herself) What to do when your cell phone's not working?</p>
+<p>(She slowly gets up.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. GUS KENYON'S BUS - NIGHT]</p>
+<p>(The bus door opens and CATHERINE walks out. She's still carrying the white pages with her. She finds the nearest telephone booth not far from the bus and steps inside it. She looks for the telephone book and finds that it's ... )</p>
+<p><strong>Catherine</strong>: Gone.</p>
+<p>(NICK appears behind her. He taps on the telephone booth glass. CATHERINE turns around. He holds up the CD player he found.)</p>
+<p><strong>Nick</strong>: This doesn't work.</p>
+<p><strong>Catherine</strong>: Seems like nothing on that bus does.</p>
+<p><strong>Nick</strong>: Yeah, but this doesn't work, 'cause the batteries suck.</p>
+<p>(NICK opens up the battery compartment and pulls out a bag of heroin. He shows it to CATHERINE.)</p>
+<p><strong>Catherine</strong>: Oh.</p>
+<p><strong>Nick</strong>: Belongs to the guitarist. Looks like Mr. Clean and Sober had a habit.</p>
+<p><strong>Catherine</strong>: Bet it matches that smack we found on the needle.</p>
+<p><strong>Nick</strong>: Yeah. You, uh, trying to make a call?</p>
+<p><strong>Catherine</strong>: No ... but somebody did. </p>
+<p>(Quick flashback to GUS KENYON walking into the telephone booth and looking through the white pages. He finds what he's looking for and rips the book out of its hard-covered binding. He turns around and leaves. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: I got a smudged name. &quot;Dean.&quot;</p>
+<p>(Camera close up of the telephone book listing and CATHERINE pointing to the name, &quot;Dean, Samantha 55 Vista Ct LV&quot;.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(The computer runs through the tire print database. The computer beeps and someone pulls up the tire details showing that the tire belongs to a &quot;Goodyear Wrangler, Letter Design, 2, Ford, F-150.&quot;)</p>
+<p><strong>Warrick</strong>: Goodyear Wrangler. Ford F-150. Hallelujah.</p>
+<p>(GREG enters the lab and pulls up a chair. He sits down.)</p>
+<p><strong>Greg</strong>: Okay, your vanishing act. Did a DNA profile on your blood. Ran it through CODIS. Guess who I found?</p>
+<p><strong>Warrick</strong>: Who?</p>
+<p><strong>Greg</strong>: Zoe Clein. White caucasian. Female. Red hair.</p>
+<p><strong>Warrick</strong>: Wait a minute. CODIS? What database?</p>
+<p><strong>Greg</strong>: Missing persons.</p>
+<p><strong>Warrick</strong>: (surprised) She's in the database already?</p>
+<p><strong>Greg</strong>: Yeah. She's been in there for six months. Same time she's been missing. Brass is working on an address.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. CLEIN RESIDENCE -- DAY]</p>
+<p>(GRISSOM, SARA and WARRICK walk up the front steps toward the front door. They're all carrying their kits. They meet up with an officer already waiting for them outside the front door.)</p>
+<p><strong>Sara</strong>: (looking around) Nice house.</p>
+<p>(In the background train whistles sound continuously.)</p>
+<p><strong>Warrick</strong>: Built it so close to the railroad.</p>
+<p><strong>Grissom</strong>: (looking around) I bet this house was here first.</p>
+<p>(The officer knocks on the door.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CLEIN RESIDENCE -- DAY]</p>
+<p>(The front door opens. The officer and three CSIs walk into the house.)</p>
+<p><strong>Grissom</strong>: (calling out) Las Vegas Crime Lab.</p>
+<p>(Inside the house, the large pieces of furniture are covered with dust cloths.)</p>
+<p><strong>Warrick</strong>: (looking around) It's a little too calm in here.</p>
+<p><strong>Sara</strong>: Yeah. I'll take upstairs.</p>
+<p>(SARA leaves the men and starts up the stairs. WARRICK indicates the kitchen on the left of them and heads to check that room out. GRISSOM turns toward the right and starts looking around the main room.)</p>
+<p>(Cut to WARRICK entering the kitchen which also looks like it hasn't been used recently. There are a couple of stools around the island and one stool still turned on its side on the island counter.) </p>
+<p>(Cut to GRISSOM walking into the dining room area.)</p>
+<p>(Cut to WARRICK opening the refrigerator and finding bags of red blood.)</p>
+<p><strong>Warrick</strong>: Wow.</p>
+<p><strong>Grissom</strong>: What?</p>
+<p><strong>Warrick</strong>: Six pints of &quot;A&quot; positive.</p>
+<p>(Cut back to GRISSOM as he checks the dining room area out. Outside another train whistle roars. Sounds of train cars clattering and a loud rumble as the room shakes when the train passes by the house can be heard and seen. GRISSOM watches the walls as they paintings hanging on them shake, shudder and tremble. For some reason, he's drawn to a particular painting hanging on a wall that isn't moving at all because it's nailed to the wall.)</p>
+<p>(GRISSOM notices this and puts his CSI kit down. He examines the panel and finds that the panel is really a door. He pushes the door inward. It opens.)</p>
+<p>(Cut to SARA walking down the staircase.)</p>
+<p><strong>Sara</strong>: Hey, guys? </p>
+<p>(SARA stops halfway down the stairs, leans over the staircase rail and talks in the direction of the dining room.)</p>
+<p><strong>Sara</strong>: Zoe's bedroom seems intact. Suitcases, purses, clothes. It looks like she never left.</p>
+<p>(She waits for a response and gets none. She walks the rest of the way down the stairs.)</p>
+<p><strong>Sara</strong>: Guys?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CLEIN RESIDENCE - HIDDEN ROOM]</p>
+<p>(GRISSOM is standing at the top of the spiral stairs leading down to another room. Using his flashlight, GRISSOM looks around. He turns and makes his way down the spiral stairs to the room below.)</p>
+<p>(On the ground floor, GRISSOM looks around. He walks over to the worktable at the far end of the room. On the work table is an open set of blueprints. He leans over them to get a better look.)</p>
+<p>(Behind GRISSOM, the camera approaches. The music gets louder. A hand reaches out to grab GRISSOM'S shoulder.)</p>
+<p>(GRISSOM startles.)</p>
+<p><strong>Sara</strong>: Sorry. </p>
+<p>(SARA pulls her hand back and smiles.)</p>
+<p><strong>Warrick</strong>: You keep disappearing.</p>
+<p><strong>Grissom</strong>: Take a look at this.</p>
+<p><strong>Sara</strong>: Huh. Looks like the &quot;chamber of doom.&quot; </p>
+<p><strong>Grissom</strong>: Designed by Zoe Clein.</p>
+<p>(The bottom of the blueprints read: &quot;Property of Zoe Clein. All Rights Reserved.&quot;)</p>
+<p><strong>Sara</strong>: So, she's an inventor.</p>
+<p>(WARRICK looks around at what else is in the room. On the work table on the opposite wall, he finds a framed photograph.)</p>
+<p><strong>Warrick</strong>: Hey, guys, check out this old photo. The &quot;Clein Magical Tour&quot;. I guess the old man with beard must be the father.</p>
+<p><strong>Sara</strong>: Zoe Clein the daughter. Young Zephyr ... </p>
+<p><strong>Grissom</strong>: What's he doing there? And who's that baby in his arms?</p>
+<p>FADE TO BLACK.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(NICK walks in with CATHERINE.)</p>
+<p><strong>Nick</strong>: What's up, G?</p>
+<p><strong>Greg</strong>: Well, I did my snooping around. Obviously everyone's upset about Kenyon croaking. </p>
+<p><strong>Nick</strong>: And?</p>
+<p><strong>Greg</strong>: And they were planning a &quot;Best of...&quot; album.</p>
+<p><strong>Catherine</strong>: No surprise. Cash cow, everybody does it.</p>
+<p><strong>Greg</strong>: Well, someone e-mailed me a clip of Gus on MTV2 a few months ago.</p>
+<p>(GREG loads the clip on his computer and plays a portion of the interview with GUS KENYON.)</p>
+<p><strong>Gus Kenyon</strong>: (on video) (laughing) Compilation albums are for has-beens. They can release one over my dead body. As long as I'm alive, I'm going to continue to write originals.</p>
+<p>(End of clip.)</p>
+<p><strong>Nick</strong>: Who's planning the album?</p>
+<p><strong>Greg</strong>: Keith Castle.</p>
+<p><strong>Nick</strong>: The guitarist?</p>
+<p><strong>Greg</strong>: (nods) Mm-hmm.</p>
+<p><strong>Nick</strong>: I'm chasing the smack.</p>
+<p><strong>Catherine</strong>: I'm chasing the phone book.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. ZOE CLEIN'S RESIDENCE - HIDDEN ROOM -- DAY]</p>
+<p>(GRISSOM opens a magician's top hat. The audio is low and we can hear SARA talking to WARRICK in the background. The sound is muffled to indicate that GRISSOM'S not paying attention to the conversation and that it's not really important.)</p>
+<p><strong>Sara</strong>: (b.g.) There's got to be twelve to thirteen ...</p>
+<p><strong>Warrick</strong>: (b.g.) Yes.</p>
+<p>(GRISSOM hangs the hat on the nearby hatpost. He looks around and notices a moth on the window sill. He walks to the window, then grasps onto the nearest coat hook attached to the wall and hoists himself up for a better look at the moth.)</p>
+<p>(GRISSOM gently grabs the moth.)</p>
+<p><strong>Grissom</strong>: (quietly) Warrick, come here.</p>
+<p>(WARRICK leaves SARA sitting at the work station and walks over to GRISSOM. He notices immediately that GRISSOM is holding something.)</p>
+<p><strong>Warrick</strong>: What is that, a butterfly?</p>
+<p><strong>Grissom</strong>: A male IO moth. One of the largest in North America.</p>
+<p><strong>Warrick</strong>: How'd it get in here?</p>
+<p><strong>Grissom</strong>: I don't know. It feeds on trees and foliage. </p>
+<p><strong>Warrick</strong>: There's none of that in here. </p>
+<p><strong>Grissom</strong>: See the eye-like spots on the back of its wings? </p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: It's an illusion to confuse predators. Birds get fooled into thinking it's an owl. I have a similar one in my office.</p>
+<p>(They hear the soft thud of footsteps coming from up above them. GRISSOM, WARRICK and SARA quiet down and listen. SARA turns around to look at GRISSOM and WARRICK. There's definitely someone up there.)</p>
+<p><strong>Sara</strong>: Didn't we release Officer Henderson?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. ZOE CLEIN'S RESIDENCE - MAIN FLOOR - DAY -- CONTINUOUS]</p>
+<p>(WARRICK and SARA walk out of the hidden room. SARA looks down the hallway and calls out.)</p>
+<p><strong>Sara</strong>: Hello?</p>
+<p>(There's no response. Behind her, WARRICK unholsters his gun. SARA turns around and looks at WARRICK. WARRICK points to his right to indicate that he's going to check that side of the house out. SARA looks down the hallway and unholsters her gun. She walks down the hallway.)</p>
+<p><strong>Sara</strong>: Hello?</p>
+<p>(There's no response. SARA turns around and looks back at where she just came from. Listening.)</p>
+<p>A FIGURE RUNS ACROSS THE HALLWAY BEHIND SARA</p>
+<p>(SARA turns around again, now facing the direction she was originally headed toward. She continues down the hallway. The hallway opens up where SARA sees a door ajar. She continues to move forward walking toward the door.)</p>
+<p>(SARA reaches for the door knob ... )</p>
+<p>(The door bursts open and a blonde-haired woman slips out.)</p>
+<p><strong>Matilda</strong>: (rapidly explaining herself) Okay, I'm sorry ...</p>
+<p>(It's Zephyr's Assistant. Her hands are raised. Surprised, SARA reaches for her gun and takes a couple steps backward. She starts yelling instructions to the woman who's still trying to explain herself.)</p>
+<p><strong>Sara</strong>: Hold up! Back up!</p>
+<p><strong>Matilda</strong>: I really didn't realize that anyone was ... </p>
+<p><strong>Sara</strong>: Warrick!</p>
+<p>(WARRICK appears, his gun aimed at the woman.)</p>
+<p><strong>Warrick</strong>: Hey! Back up.</p>
+<p>(The woman becomes quiet and looks from WARRICK to SARA.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERROGATION ROOM]</p>
+<p>(NICK puts the evidence bag on the table in front of KEITH CASTLE.)</p>
+<p><strong>Keith Castle</strong>: Look, I got a family, okay? They think I'm clean. The band, too.</p>
+<p><strong>Nick</strong>: Did you give some to Gus last night? </p>
+<p>(KEITH looks away and clears his throat.)</p>
+<p><strong>Nick</strong>: Needle, too?</p>
+<p>(KEITH looks at NICK.)</p>
+<p><strong>Keith Castle</strong>: No, no, no, man. I don't shoot up. That's just for snorting.</p>
+<p><strong>Nick</strong>: Well, Keith ... </p>
+<p>(NICK takes a seat at the table.)</p>
+<p><strong>Nick</strong>: ... think Gus would get messed up enough to kill himself? That'd help you sell a few more albums, wouldn't it?</p>
+<p><strong>Keith Castle</strong>: Gus is dead, okay? You never had the pleasure of finding out what an ass he was in person. Yeah, we made some money off his talent but he made us feel worthless. At least when he was high he'd shut up.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS RESIDENTIAL (STOCK) - DAY]</p>
+<hr />
+[EXT. SAMANTHA DEAN'S RESIDENCE -- DAY]</p>
+<p>(CATHERINE walks up the path to the front door. She rings the doorbell and waits. As she waits, she notices something on the red front door just above the peep hole.)</p>
+<p>(She rings the door bell and gets something from her kit to take a sample of the door. She starts to take a sample when the door opens.)</p>
+<p><strong>Catherine</strong>: Samantha Dean? I'm with the Las Vegas Crime Lab. Do you know Gus Kenyon? </p>
+<p>CUT TO:<br />
+[INT. SAMANTHA DEAN'S RESIDENCE - DAY -- CONTINUOUS]</p>
+<p><strong>Catherine</strong>: Gus Kenyon looked up your number and address in this directory and, uh, called you last night ... </p>
+<p>(CATHERINE hands SAMANTHA DEAN the evidence bag with a piece of paper in it.)</p>
+<p><strong>Catherine</strong>: ... from a phone booth outside of his tour bus. Records indicate the call was made around 2:00 A.M. </p>
+<p><strong>Samantha Dean</strong>: I must have been asleep.</p>
+<p>(She hands the bag back to CATHERINE.)</p>
+<p><strong>Catherine</strong>: It lasted 20 seconds.</p>
+<p><strong>Samantha Dean</strong>: I didn't answer.</p>
+<p><strong>Catherine</strong>: So it rang?</p>
+<p><strong>Samantha Dean</strong>: No, I mean, I can't remember. We're both in bed by nine.</p>
+<p>(SAMANTHA indicates her son playing with a soccer ball outside. He's wearing a green sweater and a pair of dark glasses. CATHERINE looks outside and watches the little boy play.)</p>
+<p><strong>Catherine</strong>: What's your son's name?</p>
+<p><strong>Samantha Dean</strong>: Brandon. You a mother?</p>
+<p><strong>Catherine</strong>: Yeah, yeah. I have a-a daughter who is nine. Yeah, I know how hard it is to do it alone. </p>
+<p>(SAMANTHA turns to look at CATHERINE. CATHERINE notices the glasses that BRANDON is wearing.)</p>
+<p><strong>Catherine</strong>: Now those are some cool shades Brandon has on. Are those Silhouettes? Those are expensive. </p>
+<p><strong>Samantha Dean</strong>: Um, do you have any more questions because, uh, Brandon needs to go to my mother's. I have to go to work.</p>
+<p><strong>Catherine</strong>: All right. Thanks for your time.</p>
+<p>(SAMANTHA nods and CATHERINE turns and leaves.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. SAMANTHA DEAN'S RESIDENCE - DAY -- CONTINUOUS]</p>
+<p>(CATHERINE walks down the pathway toward her car. She gets in the car and takes out the PEKINPAH's CD. She pops it into the player and takes out the CD booklet. She turns up the volume and reads the lyrics to the song, &quot;City of Sin&quot;.)</p>
+<p><strong>Lyric</strong>: Down in the city of sin / that's where I've been / and I caught a glance / of what could be, yeah, you and me ...</p>
+<p>CUT TO:</p>
+<hr />
+[INT. ZOE CLEIN'S RESIDENCE - MAIN FLOOR - DAY]</p>
+<p>(On the ground floor main room, BRASS and GRISSOM question Zephyr's Assistant, MATILDA. SARA and WARRICK sit nearby.)</p>
+<p><strong>Brass</strong>: How long have you been working for the Zephyr?</p>
+<p><strong>Matilda</strong>: A year. The magician I used to assist for retired.</p>
+<p><strong>Grissom</strong>: What are you doing here?</p>
+<p><strong>Matilda</strong>: I came to talk to Zoe, and the door was open so I thought I'd snoop around a little.</p>
+<p><strong>Brass</strong>: A lot of people are snooping around these days. You know, everybody who works for the Zephyr wants to be a magician. How come?</p>
+<p><strong>Matilda</strong>: 'Cause we do everything. I mean, what does he do? Wave his arms around? I work my butt off for that guy. Bring this out, bring that out keep proper timing, inspect the tricks. You know, follow his lead. Zoe is the best inventor in the business. You know, she sells me just one of her tricks and I can be in business myself.</p>
+<p><strong>Grissom</strong>: So you know Zoe Clein.</p>
+<p><strong>Matilda</strong>: Through Zephyr. Yeah.</p>
+<p><strong>Grissom</strong>: Was she a plant the night she disappeared?</p>
+<p><strong>Matilda</strong>: Yeah. It's one of her stipulations that she's the volunteer opening night.</p>
+<p><strong>Brass</strong>: Zoe Clein has been missing for six months. And you saw her the night she ... disappeared. How do you explain that?</p>
+<p><strong>Matilda</strong>: I don't know.</p>
+<p><strong>Brass</strong>: By the way how'd you get here?</p>
+<p><strong>Matilda</strong>: Drove. My car's parked down the street.</p>
+<p><strong>Warrick</strong>: What kind of car do you drive?</p>
+<p><strong>Matilda</strong>: A Ford F-150.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. ZOE CLEIN'S RESIDENCE - DAY -- CONTINUOUS]</p>
+<p><strong>Warrick</strong>: Ford F-150.</p>
+<p>(WARRICK and SARA carry their kits and check out MATILDA'S Ford. WARRICK checks the tires out and compares it to a photo of the treads they took outside the back of the stage.)</p>
+<p><strong>Warrick</strong>: It's a match.</p>
+<p>(SARA opens the back hatch. Inside the back of the Ford is a caged black panther. The panther growls. SARA and WARRICK take a precautionary step back.)</p>
+<p><strong>Warrick</strong>: Whoa. Well, at least we know the animal. Black panther.</p>
+<p>(SARA takes out her cell phone and dials.)</p>
+<p><strong>Sara</strong>: Dispatch, this is P-4981. We need animal control at, uh ... Oh, my god.</p>
+<p>(SARA glances inside the back of the Ford and finds smudges of blood. Next to the blood are empty vials and used syringes.)</p>
+<p><strong>Warrick</strong>: Thorazine.</p>
+<p><strong>Sara</strong>: What did they do? Drug her and feed her to the panther?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - A/V LAB]</p>
+<p>(CATHERINE takes out the CD booklet and flips it open to a page with various photos on it. She sticks it under the fluorescent magnifying glass and shows what she found to NICK.)</p>
+<p><strong>Catherine</strong>: There.</p>
+<p><strong>Nick</strong>: What?</p>
+<p><strong>Catherine</strong>: There.</p>
+<p><strong>Nick</strong>: Where?</p>
+<p>(The photo that CATHERINE is talking about is one of SAMANTHA DEAN and GUS KENYON sitting side by side on a couch.)</p>
+<p><strong>Catherine</strong>: Samantha Dean. She knows him. She's backstage with him.</p>
+<p><strong>Nick</strong>: And?</p>
+<p><strong>Catherine</strong>: Backstage with a rock star. Trust me, it's a big deal. See that VIP pass around her neck? That's like diamonds.</p>
+<p>(Camera Close up of the &quot;PEKINPAH 1996 VIP&quot; pass around SAMANTHA'S neck. Also passing notice is taken of the pair of shades that GUS KENYON is wearing in the photo.)</p>
+<p><strong>Nick</strong>: Really? Hmm. So ... groupie? </p>
+<p><strong>Catherine</strong>: Girlfriend?</p>
+<p>(Camera close up of SAMANTHA and GUS holding hands in the photo and the ring on GUS' finger.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - EVIDENCE LOCKER ROOM -- DAY]</p>
+<p>(CATHERINE walks into the room and heads for the locker. She opens the drawer and takes out a paper package. Behind her NICK grabs a pair of latex gloves and puts them on. CATHERINE empties the package on the table. Various kinds of silver jewelry spill onto the table.)</p>
+<p>(CATHERINE picks up GUS' ring and looks at it. She holds it out to NICK. He takes it and looks at it.)</p>
+<p><strong>Catherine</strong>: There was a scuff on Samantha Dean's door.</p>
+<p><strong>Nick</strong>: Was it a red door?</p>
+<p><strong>Catherine</strong>: Uh-huh.</p>
+<p>(NICK grabs a magnifying glass and looks at the ring. There's some red stuff on the head of the ring.)</p>
+<p>(Quick flashback to GUS KENYON pounding on SAMANTHA DEAN'S front door using the back of his hand.)</p>
+<p><strong>Gus</strong>: Samantha! Samantha!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(CATHERINE looks at NICK.)</p>
+<p><strong>Catherine</strong>: Kick ass.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. ZOE CLEIN'S RESIDENCE - DAY]</p>
+<p>(MATILDA is standing outside next to the back of her Ford. She explains her cat to GRISSOM. SARA and WARRICK stand nearby listening.)</p>
+<p><strong>Matilda</strong>: Sadie's my cat. She's my pet. I got her from a previous gig. Zephyr hates animals so I just keep her in my truck during the show. I let her out between shows so she can get some air and she cut her leg on the tailgate. So I sedated her. </p>
+<p>(Quick flashback camera close up of a syringe being filled with Thorazine and being pulled out of the vial. Liquid squirts out from the end of the needle up into the air. The needle is then inserted into the black fur.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Matilda</strong>: Can I go? I've got a lot of work to do. Tonight's a really big night. We're sold out for the first time and Zephyr's debuting a new trick.</p>
+<p>(This catches GRISSOM'S attention.)</p>
+<p><strong>Grissom</strong>: Really? New trick.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS HOTEL/CASINO (STOCK) - NIGHT]</p>
+<p>CUE: AUDIENCE APPLAUSE (PRELAP) TO:</p>
+<hr />
+[INT. THEATRE -- NIGHT]</p>
+<p>(ZEPHYR steps out on stage as the audience continues to applaud. His arms are outstretched toward the audience. Behind him is the Chamber of Doom.)</p>
+<p>(GRISSOM, SARA and WARRICK step down into the back of the audience They remain standing as they watch the show.)</p>
+<p>(ZEPHYR walks to the middle of the stage and addresses the audience.)</p>
+<p><strong>Zephyr</strong>: Ladies and gentlemen: I know you all want to disappear. But tonight, there'll be no sabers, no surprises and no volunteers.</p>
+<p>(The audience groans. ZEPHYR takes off his mask.)</p>
+<p><strong>Zephyr</strong>: Tonight, I will attempt to make myself disappear.</p>
+<p>(There is little response from the audience. ZEPHYR chuckles. He turns around and walks to the side of the stage. He also puts his mask back on.)</p>
+<p>(An assistant holds out ZEPHYR'S jacket. He puts it on, then heads back to the Chamber of Doom. MATILDA opens the chamber door and ZEPHYR walks in. She closes the glass door and white smoke fills the chamber.)</p>
+<p>(The audience watches carefully. Lights flash within the chamber and soon it's completely covered in white smoke.)</p>
+<p>(To everyone's horror, the smoke bursts into flames as the fire within the chamber consumes the man still inside. The audience shrieks and stands. They watch as the man inside pounds on the glass and struggles to get out.)</p>
+<p>(Camera cut to GRISSOM, SARA and WARRICK stunned by what they're watching on stage.)</p>
+<p>(The audience continues to shriek. The flame-engulfed man inside the chamber continues to pound on the glass walls as he slowly falls to the floor.)</p>
+<p>(Assistants with hammers appear on stage. They break through the glass, but it's way too late. They get the chamber door open and manage to put out the fire with extinguishers.)</p>
+<p>(Camera close up of GRISSOM with SARA and WARRICK in frame.)</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. THEATRE - UNDER THE STAGE -- NIGHT]</p>
+<p>(Camera close up of a large nail stuck in the trap door preventing it from opening.)</p>
+<p><strong>Sara</strong>: (o.s.) It's been rigged.</p>
+<p><strong>Grissom</strong>: With a metal stake.</p>
+<p>(GRISSOM, SARA and WARRICK are once again under the stage looking up at the trap door under the glass box. WARRICK reaches up and pulls the stake out. The trap door immediately falls open. He looks at it.)</p>
+<p><strong>Warrick</strong>: Someone just got nailed to the cross.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY]</p>
+<p>(ROBBINS and GRISSOM go over the preliminary autopsy findings.)</p>
+<p><strong>Robbins</strong>: He's got external burns covering approximately eighty percent of his body. Majority are second-and third-degree. Extensive damage to his hands. Curled and closed.</p>
+<p><strong>Grissom</strong>: The human body protecting its prints.</p>
+<p><strong>Robbins</strong>: You're going to have a tough time finding anything substantial here.</p>
+<p><strong>Grissom</strong>: Better run his dental records, then, huh?</p>
+<p><strong>Robbins</strong>: Yeah, sure.</p>
+<p><strong>Grissom</strong>: COD?</p>
+<p><strong>Robbins</strong>: Laryngeal spasm. We usually see this in drownings. Only instead of swallowing water, he swallowed fire.</p>
+<p>(Quick flashback to ZEPHYR standing in the glass box. His arms spread out and he opens his mouth as he screams in pain. Switch to CGI POV of fire starting from the ground up and moving higher. The camera zooms into ZEPHYR'S mouth along with the fire. The view continuously travels down through the mouth, through the wind pipe and down to the lungs. It follows the path of the fire and camera holds at the end with a close up of the fire in the lungs.)</p>
+<p>(The camera pulls back a little and the muscles close.)</p>
+<p><strong>Robbins</strong>: (V.O.) It causes the larynx to pinch shut protecting itself ... </p>
+<p>(End of CGI POV and flashback. Resume to present.)</p>
+<p><strong>Robbins</strong>: ... yet cutting off his air supply and that leads to immediate unconsciousness and death. Another example of the body trying to protect itself. And, uh, I'd say in this case, it didn't work.</p>
+<p><strong>Grissom</strong>: Unusual, though.</p>
+<p><strong>Robbins</strong>: Not as unusual as what I found in his mouth. </p>
+<p>(Quick CGI POV as the camera speeds forward and travels to the open mouth and shows us the burnt palate inside.)</p>
+<p><strong>Robbins</strong>: (V.O.) ... Surgically created soft tissue pouches within the gingivae. It's like pockets of skin.</p>
+<p>(End of CGI POV. Resume to present.)</p>
+<p><strong>Grissom</strong>: In the lining. I've never seen this before.</p>
+<p><strong>Robbins</strong>: Neither have I.</p>
+<p><strong>Grissom</strong>: I knew that Houdini could swallow and regurgitate keys on cue, but I've never heard of skin pockets.</p>
+<p><strong>Robbins</strong>: Learn something new every day don't you?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERROGATION ROOM -- DAY]</p>
+<p>(A bag full of magician's supplies is emptied onto the table. SARA and WARRICK go through the malicious-looking items as TOBY ARCANE stands nearby watching.)</p>
+<p>(They lift up various items. SARA finds the metal stake. She hands it to WARRICK. TOBY ARCANE takes a step forward and immediately pulls the stake out of WARRICK'S grasp. With his other hand, he grabs WARRICK'S wrist. WARRICK resists.)</p>
+<p><strong>Toby Arcane</strong>: Come on, trust me.</p>
+<p><strong>Warrick</strong>: Okay.</p>
+<p>(Without breaking eye contact and finding it entirely amusing, TOBY ARCANE puts WARRICK'S hand flat against the table, palm up.)</p>
+<p>(TOBY carefully places the metal stake in the middle of WARRICK'S open palm. With his free hand, he reaches over and picks up the mallet. He looks up at SARA.)</p>
+<p>(SARA takes a cautionary step backward.)</p>
+<p>(TOBY pounds the table with the mallet a couple of times to show that the mallet is real.)</p>
+<p>(With a loud thud, he hits the metal stake with the mallet. SARA flinches at the contact. The stake inches down into WARRICK'S palm with the first hit. WARRICK doesn't react, although a puzzled look crosses his face.)</p>
+<p>(TOBY laughs.)</p>
+<p>(He lifts the metal stake off of WARRICK'S perfectly intact palm leaving behind some dark-reddish looking &quot;blood&quot;. He holds up the stake and plays with the tip pushing it in and out to show how easily it collapses at the mere touch of his fingertip.)</p>
+<p><strong>Toby Arcane</strong>: This, uh, collapsible stake right here breaks a tiny little blood capsule inside ...</p>
+<p>(TOBY tosses the metal stake back on to the table.)</p>
+<p><strong>Toby Arcane</strong>: ... giving the illusion that I'm bleeding. </p>
+<p>(He holds up his hands palms open for emphasis. After a moment, he turns to SARA, who no longer looks impressed at all the nifty gadgetry in front of her.)</p>
+<p><strong>Toby Arcane</strong>: Look it doesn't suit me to kill Zephyr. See, I've been killing him for years. Come on, people, this is magic.</p>
+<p>(TOBY hits the stuff on the table making it rattle loudly.)</p>
+<p><strong>Toby Arcane</strong>: It's B.S. It's all fake. </p>
+<p>(He sticks an index finger in his mouth. He opens his shirt and starts rubbing his &quot;tattoo&quot; off.)</p>
+<p><strong>Toby Arcane</strong>: Look at this. Even this tattoo.</p>
+<p>(He chuckles.)</p>
+<p><strong>Toby Arcane</strong>: I'm from Orange County, dude.</p>
+<p><strong>Sara</strong>: Thanks for your time. </p>
+<p><strong>Warrick</strong>: Yeah. On earth.</p>
+<p><strong>Toby Arcane</strong>: You're welcome.</p>
+<p>(SARA and WARRICK leave the room ... and TOBY ARCANE.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. SAMANTHA DEAN'S RESIDENCE -- DAY]</p>
+<p>(BRANDON DEAN sits on the living room floor while and officer keeps him occupied while NICK and CATHERINE interview SAMANTHA DEAN at the dining room table.)</p>
+<p><strong>Samantha Dean</strong>: This is ridiculous. I don't even own a stereo.</p>
+<p><strong>Nick</strong>: So, you never met Gus Kenyon?</p>
+<p><strong>Samantha Dean</strong>: No.</p>
+<p><strong>Nick</strong>: You sure? We know he was here. We matched the paint from your door to the paint on Gus's ring.</p>
+<p>(NICK puts a small evidence card on the table. CATHERINE also pulls out an evidence bag with an enlarged picture of the photograph from the CD and shows it to SAMANTHA.)</p>
+<p><strong>Catherine</strong>: And it's not so much that this girl in the photograph looks exactly like you. It's that the sunglasses that Gus is wearing ... familiar?</p>
+<p><strong>Samantha Dean</strong>: (shakes her head) Of course not.</p>
+<p><strong>Catherine</strong>: Very rare, custom-made graduated lenses. Your son is holding them in his hands. </p>
+<p>(SAMANTHA turns around to look at the glasses that BRANDON is holding.)</p>
+<p><strong>Catherine</strong>: Were they a gift for him?</p>
+<p><strong>Samantha Dean</strong>: No.</p>
+<p><strong>Catherine</strong>: He has his father's eyes. The two of you met on a video shoot in Vegas six years ago. </p>
+<p>(Quick flashback to SAMANTHA DEAN'S front porch and the red front door opening.)</p>
+<p><strong>Catherine</strong>: (V.O.) Last night ...</p>
+<p>(SAMANTHA opens the door and GUS KENYON is standing there. SAMANTHA has a surprised look on her face. She is not happy to see him there.)</p>
+<p><strong>Gus Kenyon</strong>: Hey, baby.</p>
+<p><strong>Catherine</strong>: (V.O.): ... Alone and depressed ...</p>
+<p><strong>Gus Kenyon</strong>: I tried to call you.</p>
+<p><strong>Catherine</strong>: (V.O.) ...He just decided to look you up.</p>
+<p>(He walks in through the door and sees BRANDON standing there.)</p>
+<p><strong>Gus Kenyon</strong>: Who's that? Huh?</p>
+<p><strong>Catherine</strong>: (V.O.) He knew immediately that it was his son. Any father would. </p>
+<p>(GUS KENYON takes off his sunglasses and puts them on BRANDON.)</p>
+<p><strong>Catherine</strong>: (V.O.) For some reason you had kept Brandon a secret.</p>
+<p><strong>Gus Kenyon</strong>: (to SAMANTHA) Why didn't you tell me?</p>
+<p>(SAMANTHA starts to push GUS toward the door.)</p>
+<p><strong>Samantha Dean</strong>: (yelling) Please, just leave! Just go! Please!</p>
+<p><strong>Catherine</strong>: (V.O.) Gus gets angry. He can't understand why you won't let him be a parent.</p>
+<p>(SAMANTHA pushes GUS out the front door and closes it in his face. Inside in the background, we can hear him pounding on the door. SAMANTHA turns to look at BRANDON.)</p>
+<p><strong>Samantha Dean</strong>: (to BRANDON) Honey, it's okay. </p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: (quietly) You've changed a lot since your days with Gus. You were protecting your son from his father's lifestyle.</p>
+<p><strong>Nick</strong>: Miss Dean, you're a Registered Nurse, is that correct? That means you have access to medical supplies. Needles?</p>
+<p>(SAMANTHA doesn't say anything.)</p>
+<p>(Quick flashback to the night GUS KENYON died. Gus is both frustrated and wired. He grabs the CD case and takes a drink from the bottle of Irish Whiskey. GUS looks at the drugs in his hand. He lies down on the bed.)</p>
+<p><strong>Nick</strong>: (V.O.) Gus left here and he went back on the bus. He thought about doing some of Mr. Castle's drugs but he didn't. He said he just passed out from the booze. </p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: But you, you've been around heroin before, haven't you? You know how to cook it. Did you think you put just enough in the syringe to make it look like a suicide?</p>
+<p><strong>Samantha Dean</strong>: Am I under arrest?</p>
+<p><strong>Nick</strong>: No. No, we're just here for your son's DNA.</p>
+<p><strong>Samantha Dean</strong>: (she nods) Then I think I should hire a lawyer.</p>
+<p><strong>Catherine</strong>: I just have one other thing, Miss Dean. I'm just guessing that when you found out you were pregnant that you stopped listening to Gus' band and that you haven't heard any of his latest songs. </p>
+<p>(CATHERINE opens the CD booklet and starts to read.)</p>
+<p><strong>Catherine</strong>: (reading) &quot;I'm drying up like rain and sand without you wiping away my tears with your hand, you saw through the lies that make up my disguise I need you back to set me free just give me one last chance come back to me.&quot; I think that he wrote this for you. I think that he loved you very much and ... that he missed you.</p>
+<p>(SAMANTHA starts to cry.)</p>
+<p><strong>Samantha Dean</strong>: When I made him leave, he said he'd call an L.A. Lawyer and take Brandon away from me. </p>
+<p>(Quick flashback to SAMANTHA stepping into GUS KENYON'S trailer/bus. She looks inside and sees GUS KENYON passed out on the bed.)</p>
+<p><strong>Samantha Dean</strong>: (V.O.) I'm not sure now what I was going to do but ... </p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Samantha Dean</strong>: ... when I saw him with the heroin next to him ... I knew nothing had changed. </p>
+<p>(Quick flashback to SAMANTHA holding the guitarist's red scarf in her hands. Cut to SAMANTHA walking toward the bed. Cut to SAMANTHA taking the tourniquet and wrapping it around GUS KENYON'S arm.)</p>
+<p><strong>Samantha Dean</strong>: (V.O.) I carry needles in my kit. </p>
+<p>(Cut to SAMANTHA preparing the needle. Cut to SAMANTHA injecting GUS KENYON with air.)</p>
+<p>[CLOSED CAPTIONING: SAMANTHA DEAN: (V.O.) Took a tourniquet from the dresser. Injected him with air multiple times.]</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Samantha Dean</strong>: I am not proud of my youth and my son was never going to be a part of that world. You're a mother. What would you be willing to do to save the life of your child?</p>
+<p>(Thinks about it for a moment.)</p>
+<p><strong>Catherine</strong>: I think that I'd rather have my daughter know a bad father than no father at all.</p>
+<p>(Camera holds on SAMANTHA DEAN.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[INT. CSI - GRISSOM'S OFFICE -- NIGHT]</p>
+<p>(GRISSOM sits at his desk holding the coin that he got from ZEPHYR. He tries to do a magic trick in slow motion. He holds the coin in his left hand and grabs it with his right hand. He opens his right hand and there's no coin. He clasps his left hand as if catching something, then opens it to show the coin.)</p>
+<p>(The coin is heads up. He flips the coin over and it again shows heads up again. He looks at the coin and flips it over one more time. He looks at it making connections. He thinks about it for a moment, then looks at his shelf where he has an IO moth in a glass container displayed. Something clicks within.)</p>
+<p>(Camera holds on the IO Moth.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY]</p>
+<p>(GRISSOM exits his office and walks down the hallway. He's got a purpose in his step and an inkling in his mind.)</p>
+<p>(He walks a short distance when he finds SARA and WARRICK in one of the labs. He barks out orders.)</p>
+<p><strong>Grissom</strong>: Warrick. I need you to find out everything you can about Zephyr and his crew. Sara, check web sites. Concentrate on Punky. I've got a hunch about these guys. </p>
+<p><strong>Sara</strong>: Where are you going?</p>
+<p><strong>Grissom</strong>: Coroner. I need a piece of the Zephyr.</p>
+<p>(GRISSOM is already leaving.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - MORGUE - NIGHT -- CONTINUOUS]</p>
+<p>(The refrigeration unit is opened and the table with the body on it is pulled out. ROBBINS finds the hand and holds it out while GRISSOM cuts off the tip of an index finger.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB] </p>
+<p>(Camera close up of a website about the &quot;Amazing ZEPHYR&quot;. The main page graphic clouds up with white smoke and a picture of ZEPHYR appears with his name underneath.)</p>
+<p><strong>Warrick</strong>: Zephyr Dillinger and Punky the stagehand. They're related?</p>
+<p><strong>Sara</strong>: Father and son?</p>
+<p><strong>Warrick</strong>: (looks at SARA) Magician and his double.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(With the piece of finger tip that GRISSOM cut off from the body, he pulls the bone out of the skin casing. He places the skin shell on his own right hand pinky finger. He then proceeds to take a fingerprint of the body they have down at the morgue. He rolls the finger tip onto an ink pad and rolls it again on a piece of paper.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - PRINT LAB]</p>
+<p>(Close up of the computer screen. The finger print they're matching appears on the right with identifiers. It runs it against the prints in the database and a match is found immediately.)</p>
+<p>(The computer screen reads: &quot;PRINT MATCH: PUNKY DILLINGER&quot; which is a direct match to the reference print.)</p>
+<p><strong>Grissom</strong>: He fooled us. It was Punky burning in that box. Zephyr murdered his son.</p>
+<p><strong>Warrick</strong>: The little boy from the picture.</p>
+<p><strong>Grissom</strong>: They pulled a switch.</p>
+<p>(Quick flashback as one masked man in black walks away from the stage and past another masked man in black walking back on stage.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(GRISSOM tosses the coin up and catches it. He holds it out for SARA and WARRICK to see. He flips it over so that they can see both sides of the coin.)</p>
+<p><strong>Grissom</strong>: See this coin?</p>
+<p><strong>Sara</strong>: It's two-headed.</p>
+<p><strong>Grissom</strong>: Two heads as one. One and the same. Zephyr and his son are interchangeable in physical appearance like the IO moth. You know what that means? </p>
+<p><strong>Warrick</strong>: Zephyr's still out there.</p>
+<p><strong>Grissom</strong>: So, if you're a master of deception where do you hide? </p>
+<p>(GRISSOM turns his head to SARA.)</p>
+<p><strong>Grissom</strong>: Or do you?</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[INT. ZOE CLEIN'S RESIDENCE - HIDDEN ROOM - NIGHT]</p>
+<p>(GRISSOM walks cautiously down the spiral staircase. His flashlight the only light in the dark room. He reaches the bottom and looks around the room. He sighs and looks around some more. He sees it.)</p>
+<p>(On the ground under the window, he sees the hook broken. It's a curious sight. He walks over to it and picks it up. He looks at it carefully and definitely recognizes it.)</p>
+<p>(Quick flashback to GRISSOM grabbing on to the wall hook to hoist himself up to the window sill to look at the IO moth. End of flashback. Resume to present.)</p>
+<p>(GRISSOM looks at the hook. He looks at the wall. He tries to match the hook to it's place on the wall, but doesn't find it. He looks at the large wall in front of him from side to top and makes an amazing assessment.)</p>
+<p><strong>Grissom</strong>: I think this room is shrinking.</p>
+<p>(GRISSOM places his two hands flat against the wall and starts to push the wall back. With some effort, the entire wall moves slightly back. As it does, a doorway appears on his right.)</p>
+<p>(Another hidden passage.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. ZOE CLEIN'S RESIDENCE - HIDDEN PASSAGEWAY- NIGHT -- CONTINUOUS]</p>
+<p>(GRISSOM walks through the passageway. It's a corridor that leads him to another lit room. He turns the corner and sees ZEPHYR sitting at the far table working on something, his back to the doorway.)</p>
+<p>[INT. ZOE CLEIN'S RESIDENCE - HIDDEN ROOM 2 - NIGHT -- CONTINUOUS]</p>
+<p><strong>Zephyr</strong>: Nothing is what it seems. But I fooled them all. Even that ungrateful masochist.</p>
+<p>(Quick flashback to the night of ZOE CLEIN'S purported disappearance.)</p>
+<p>&quot;ZEPHYR&quot;: (o.s.) You, in the blue dress.</p>
+<p>(Cut to ZEPHYR in disguise, dressed in the blue dress, red wig and dark sunglasses, looking up and smiling.)</p>
+<p>(Cut to TONY ARCANE sitting at the back table between two women.)</p>
+<p><strong>Toby Arcane</strong>: Who's he kidding? That's a plant.</p>
+<p><strong>Zephyr</strong>: (V.O.) His arrogance blinded his perception.</p>
+<p>(Cut to the ZEPHYR in his disguise smiling and standing up to do the trick.)</p>
+<p>(Cut back to TOBY ARCANE pointing and muttering.)</p>
+<p><strong>Toby Arcane</strong>: That was a plant.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Zephyr</strong>: It-it's amazing what you can do with a stagehand and a masquerade mask. You know, not to mention a prop like a packet full of Zoe's blood. </p>
+<p>(Quick flashback and close camera angle of the tip of the sword blade sliding through the glass box slots from the outside; then into the box where we see ZEPHYR lift up the blue dress where he has a packet of blood taped underneath. The sword then pierces through the packet to deliberately leave behind the blood evidence that was eventually found.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Zephyr</strong>: You know, lucky for me she let me have some before she mysteriously disappeared.</p>
+<p><strong>Grissom</strong>: You made her disappear.</p>
+<p>(ZEPHYR turns around to look at GRISSOM.)</p>
+<p><strong>Zephyr</strong>: No, I &quot;assumed&quot; her.</p>
+<p>(Quick flashback to the night of the trick. ZEPHYR jumps down through the trap door and starts removing his wig. He tosses it aside. He tears off the dress. He tosses that aside also. All the while on the move. Cut to one masked man in black walking away from the stage and past another masked man in black walking back on stage. End of flashback. Resume to present.)</p>
+<p><strong>Zephyr</strong>: (proudly) Quick-change artistry. A magical transformation. With a good seamstress and some velcro, you ...</p>
+<p><strong>Grissom</strong>: (interrupting) We know that you switched with your son, Punky to set up Toby Arcane for your murder. That trick didn't work so well, did it?</p>
+<p><strong>Zephyr</strong>: (confesses and sounding slightly disappointed) Not as planned. And your finding me here has thwarted my transmutation. </p>
+<p>(He turns to GRISSOM and smiles.)</p>
+<p><strong>Zephyr</strong>: Abracadabra.</p>
+<p><strong>Grissom</strong>: &quot;Abracadabra&quot;. That's a cabalistic charm said to be made up from three Hebrew words meaning, father, son and the holy spirit. You're the father who took his son's life ... so that you could disappear and become the holy spirit?</p>
+<p><strong>Zephyr</strong>: No. </p>
+<p>(ZEPHYR stands and walks to GRISSOM.)</p>
+<p><strong>Zephyr</strong>: From caterpillar to cocoon. From cocoon ... </p>
+<p>(ZEPHYR reaches out and grabs something from GRISSOM. It's a magic trick, but instead of the coin, he reveals the IO moth.)</p>
+<p><strong>Zephyr</strong>: ... to moth. And from moth ... </p>
+<p>(ZEPHYR puts the moth in his hand and shakes it. He tips his closed fist over and a stream of gold glitter pours out.)</p>
+<p><strong>Zephyr</strong>: ... to dust.</p>
+<p>(GRISSOM is unamused and doesn't crack a smile. ZEPHYR finds his trick humorous and smiles. He even chuckles slightly.)</p>
+<p><strong>Grissom</strong>: Your son aspired to be a great magician, didn't he?</p>
+<p><strong>Zephyr</strong>: Yeah, but he served better as a prop.</p>
+<p><strong>Grissom</strong>: You're about to be arrested for his murder.</p>
+<p><strong>Zephyr</strong>: You don't want to know how I did that trick?</p>
+<p><strong>Grissom</strong>: No. Magicians shouldn't reveal their tricks.</p>
+<p><strong>Zephyr</strong>: And they say, they save their best trick for last.</p>
+<p>(And with that, ZEPHYR smiles.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. ZOE CLEIN'S RESIDENCE - NIGHT]</p>
+<p>(ZEPHYR is handcuffed behind his back and being escorted by an officer to the waiting car. GRISSOM rushes to catch up to the pair. He's putting on a pair of latex gloves.)</p>
+<p><strong>Grissom</strong>: Officer? </p>
+<p>(GRISSOM catches up to the pair.)</p>
+<p><strong>Grissom</strong>: Officer, wait a minute. Turn him around, please. </p>
+<p>(ZEPHYR turns around. He looks at GRISSOM.)</p>
+<p><strong>Grissom</strong>: Open your mouth, please.</p>
+<p>(ZEPHYR opens his mouth. GRISSOM uses his flashlight and checks ZEPHYR'S mouth. He checks thoroughly. He finds nothing.)</p>
+<p><strong>Zephyr</strong>: Satisfied?</p>
+<p><strong>Grissom</strong>: Yeah.</p>
+<p>(ZEPHYR looks at GRISSOM and nods slightly. He turns around and goes into the police car. GRISSOM watches as the car door is closed. He takes off his latex gloves and turns away as the car drives off.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE CAR - NIGHT -- CONTINUOUS]</p>
+<p>(Sitting in the back seat of the car, ZEPHYR makes a face. He works his throat muscles and swallows several times. He continues to work the muscles in his upper chest area.)</p>
+<p>(After a moment, ZEPHYR opens his mouth and exposes a black key sitting on his tongue.)</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-
-
-
-
-
-
-
-[EXT. LAS VEGAS CITY  - NIGHT
-
-
-
-
-
-
-
-Zephyr: I need one volunteer from the audience.
-Audience : Here! Here!
-
-Zephyr: You. In the blue dress.
-
-
-Zephyr: Step into the box. Hands by your sides. Don't move.
-
-
-
-
-Zephyr: And ladies and gentleman I assure you she's quite all right. In fact, she's ... spotlight, please.
-
-
-
-Matilda: : I don't know where she is.
-
-Zephyr: Ladies and gentlemen ... I can't quite explain ... 
-
-
-
-
-
-Brass: Welcome to the house of illusion. This is bizarre. You're not going to believe this. Female volunteer goes on the stage, disappears and doesn't come back.
-Grissom: Was she supposed to ... reappear?
-Brass: The Amazing Zephyr won't say. 
-
-Brass: You know magicians, they never reveal their tricks, but we're working on him.
-
-Grissom: Well, I can understand why he doesn't want to reveal his trick ... but would he like to explain this blood?
-HARD CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
-
-
-
-Brass: I got a bunch of police officers, uh canvassing the theater right now. No sign yet, but we have traced the woman back to her aisle seat, 8A. Paid cash.
-Grissom: Magic is fun, Jim, but it's not real. The woman is somewhere.
-Brass: Thanks for that. Thanks.
-
-Tourist : Excuse me.
-Brass: Yeah? 
-Tourist : Um, hi, are we finished here?
-Brass: No. You were sitting in front of the volunteer, is that right?
-Tourist : Mm-hmm.
-Brass: You take any photos during the show?
-Tourist : Uh ...
-Brass: We're going to need your camera.
-Tourist : But our whole trip's on there.
-Brass: We'll get the negatives back to you. 
-Michael.  Excuse me. Thanks for your help.
-
-
-
-
-
-Grissom: Dull as a spoon. 
-Sara: From a distance, it looks razor-sharp.
-Grissom: That's the point. So is it real blood?
-Sara: Well, let's see. 
-
-Sara: That's real blood, all right.
-
-
-
-
-Zephyr: Nothing is as it seems, is it?
-Grissom: That's the conflict of magic -- the burden of knowledge versus the mystique of wonder. 
-Zephyr: And you're wondering right now -- I can hear your mind ticking-- &quot;Was she a plant? Was it real?&quot;
-Grissom: Well, there are no secrets, are there? Only hidden answers.
-Zephyr: I'm an honest liar, sir. In my line of work it's accepted. You could say it was my livelihood.
-Grissom: Well, my livelihood is dispelling lies and finding the truth.
-
-Zephyr: My secrets can't be revealed by any microscope.
-Grissom: Yeah ... but there's a woman missing.
-
-Zephyr: The only thing missing ... 
-
-Zephyr: ... is this.
-Grissom: Very nice. So, where'd she go?
-Zephyr: From the salt in my marrow, I don't know. I mean, I can't give you this 
-
-Zephyr: ... but I can give you... 
-
-Zephyr: ... that. 
-
-Zephyr: It's as real as my answer. 
-
-Zephyr: No, you can keep it.
-
-
-
-
-
-Catherine: What's the name of the band again?
-Nick: Pekinpah. Back in '93, first album was a moderate hit. Don't you remember that song, it was pretty popular-- uh... &quot;Symphony of Epiphanies&quot;? 
-Both Humming: &quot;Na, na, na, na, na, na come here, come here... &quot;
-Catherine: Yeah, that was good to dance to.
-
-Road Manager:  He's been laying in the back of the bus for half an hour now.
-Catherine:  I'm guessing that's the road manager.
-
-Catherine: He does not look too happy.
-Nick: Well, he just lost a lead singer.
-
-
-
-
-
-Nick: Ooh ... rock and roll, baby.
-
-Catherine: Gus Kenyon.
-Nick: It's a shame, man. He had a good voice.
-
-Catherine: Heroin. If this was an overdose, why leave some in the syringe?
-
-Nick: No vomit around, either. That's a first for me.
-
-Catherine: Wait a second, what's this? Doesn't look like a bruise.
-Nick: How'd he do that?
-Catherine: What's that?
-Nick: The tourniquet. He's obviously left-handed if he shot up in the right arm. If he tied it off himself he would have pulled it towards him, like so. It's tied the other way, pulled away from him.
-
-Catherine: By someone else standing over him?
-
-Catherine: Easy ... if you're capacitated.
-
-Manager: You people seen enough? When can I put him to rest?
-
-Nick: You really shouldn't be in here, sir.
-
-Manager: Hey, look, I'm sorry. You know, this is a tragedy for all of us, and his family. I just don't want the press to see him like this.
-Catherine: We understand that, sir, but this is a crime scene.
-Manager: Crime scene? It's an O.D., Right? He killed himself.
-Catherine: Then you knew he was a drug user?
-Manager: Well, he was a drug user. I mean, he's been clean for a long time. A health freak, actually. It's a shock to us all.
-
-
-
-
-
-Warrick: Big glass box and all I got is a partial thumb print.
-
-Grissom: Is this processed yet?
-Warrick: Yeah. Want me to bag it for you?
-Sara: Let's take it back to the lab. Maybe we can make Greg disappear.
-Grissom: Who controls this stage, do we know?
-Punky Dillinger:  I do.
-
-Grissom: And you are ... ?
-Punky Dillinger: Punky Dillinger. I'm Zephyr's stagehand.
-Grissom: Well, Mr. Dillinger do you know how this trick works?
-Punky Dillinger: I only control the stage part.
-
-Punky Dillinger:  Yeah.
-Grissom: Good. Make me disappear.
-
-
-
-Sara:  Bye-bye.
-
-
-Warrick: Oh, I get it. There's a chute inside the steps.
-
-Grissom: Still here.
-
-
-
-
-
-Punky Dillinger: At this point of the trick, I'm supposed to escort the volunteer out of the basement. Now I only turned my back for a second and she was gone.
-Grissom: Is there any other way out of here besides that door?
-Punky Dillinger: No, that's the thing. Stage left's the only exit. I don't know.
-Grissom: You have any lights in here besides red? We're looking for blood.
-
-Punky Dillinger: Mm-hmm. 
-
-Punky Dillinger: Oh, hey? Hey?! Those are Zephyr's tricks in the corner. No one's allowed to go near them not even me.
-
-
-Warrick: I've got ovoid blood drops leading towards the wall.
-Punky Dillinger: You guys want more lights?
-Grissom: No. Turn them off. 
-
-
-
-
-
-
-
-Grissom: Magicians of Zephyr's caliber belong to a very secluded society. They barnstorm from city to city ... no contact with the outside world, no association with other magicians. They're like ghosts with skin.
-
-Grissom: This looks like an admixture of blood and some sort of clear liquid.
-Warrick: Someone bolted out of here pretty fast.
-
-
-Sara:  I'm no psychic, but I have been known to read palms.
-
-Sara: Hey! 
-
-Sara:  I got a print.
-
-
-
-
-Catherine: You're kidding me.
-Robbins: Nope. No heroin in his system. Lots of bourbon, but no heroin at all.
-Catherine: So what killed him?
-Robbins: Embolism to the heart.
-Catherine: Air bubble.
-Robbins: I withdrew air from his right ventricle and air can be deadlier the heroin. 
-
-Robbins:  It travels through the vein into the right ventricle to prevent blood from entering or leaving the chamber which eventually leads to heart failure.
-
-Catherine:  Shock. Suffocation. 
-
-Catherine: Explains why he didn't throw up.
-Robbins: And why his pupils weren't pinpointed. They would have been bilaterally small after an overdose.
-Catherine: There was heroin still in the needle. Why didn't it make it into his system?
-Robbins: His blood alcohol count was point-three-one . My guess is he was unconscious before his heart stopped.
-
-Robbins: Catherine, wait. That black mark ... 
-
-Catherine: Oh, right, on his index finger.
-Robbins: Ink. Standard black printing ink.
-
-
-
-
-SARA :  The stagehand was lying about another exit.
-
-
-
-Sara: I got his palm print off the trap door.
-
-Warrick: Try this one. It's a print from the &quot;Chamber of Doom.&quot;
-
-Sara: Hands on the trap door?
-Warrick: Hands inside the trick?
-Grissom:  There are no secrets.
-
-
-
-
-
-
-
-Brass: Hey, hey, hey. This is a non-smoking facility. 
-
-
-
-Punky Dillinger: I'm not a bad magician, you know.
-Brass: When you find that, put that out.
-Punky Dillinger: Okay. Truth is ... I lied.
-Brass: We know that. That's why we're here.
-Punky Dillinger: I love magic, you know? One of the fringe benefits of my job is knowing how the tricks work. Zephyr wouldn't let anyone go near his tricks. You think I want to be a stagehand the rest of my life? I got aspirations, too, you know? So, I snooped around. Climbed inside the &quot;chamber&quot; one night and tried it out. Is that a crime?
-Brass: We don't know yet.
-
-
-
-
-Nick: The videotape from last night's show has you ... wearing this.
-
-Man 1: So what?
-Nick: So, it was used as a tourniquet on Gus' arm.
-Man 1: Look, I-I was with these guys the entire night last night.
-
-Nick: Okay. When was the last time you saw him alive 
-Man 1: On the bus? Last night after the show. He said he wanted to be left alone so we left him alone. 
-Man 2: We finished the set with, uh, &quot;City of Sin.&quot; You know, the hometown pleaser. 
-Man 1: He always hated that song. I don't know why. It was his best one.
-Nick: I talked to your manager, and he said Gus was clean.
-Man 2: Yeah. The whole band for six years now. 
-Man 1: We-we did it together as a band. You know, we kind of had to. We went gold three months after we signed our first contract. The next couple of years got pretty crazy.
-Nick: Crazy?
-Keith Castle: Dude, hit single, 24 years old. Touring with Pearl Jam. I mean Gus had bitches lining up outside of his room 24 hours a day. Sleep ain't an option. So, by your next gig, you're going ... you know, need a little bop.
-Nick: I obtained Gus's medical records from L.A. that said he was treated for depression. You guys know anything about that?
-Keith Castle: Sober suits some better than others.
-Man 2: He could get pretty dark. I mean, sometimes you couldn't even speak with him, you know?
-Man 1: He's been wanting out for some time now.
-
-
-
-Sara: I know you didn't beep me for a magic trick.
-
-Greg: Swami doesn't do magic tricks. Swami's here to reveal all of your DNA secrets.
-
-Sara: I'm very busy, Greg. 
-Greg: Blood from the &quot;Chamber of Doom.&quot; 
-
-Greg: Same as the d-donor of the blood found on the basement floor but ... d-different than the blood found in the alleyway.
-Sara: Different person?
-Greg: Different ... animal.
-Sara: Really? What kind of animal?
-
-Greg: Oh, Swami needs more time.
-
-Greg: Now ... clear liquid found near the blood droplets. 
-
-Greg: It's ... 
-
-Greg: ... not from Thora birch, but ...
-Grissom: Thorazine.
-
-Greg: Thorazine.
-Sara: Thorazine. That's an animal tranquilizer. Zephyr didn't use any live animals in his act.
-Grissom: Maybe he didn't use it on animals.
-
-
-
-
-
-
-
-Grissom: Whoa. Go back one, Arch.
-
-Archie Johnson: Is that her?
-Grissom: Blue dress, red hair.
-
-Grissom: Go on.
-
-Archie Johnson: Is that who I think it is?
-Grissom: Who?
-
-Archie Johnson: Toby Arcane. &quot;Freak man&quot;.
-Grissom: What makes him a &quot;freak&quot; besides that shirt?
-Archie Johnson: All I can say he's not for the faint of heart.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Toby Arcane: It's, uh, called &quot;The Cross-ifixion.&quot; I get, uh, nailed to it every night.
-Grissom: Well, miraculously, you've resurrected. Have you ever been to the Zephyr show?
-Toby Arcane: He's a hack. 
- 
-Toby Arcane: I wouldn't be caught dead at that show.
-Grissom: I know. But we caught you alive.
-
-Toby Arcane: You should see my nudes, Grissom.
-Grissom: The, uh, woman who disappeared -- do you think she was a plant?
-Toby Arcane: Of course she's a plant. Zephyr's on life support. His way of doing magic -- it's dead as, uh ... dead. Fooling people from a hundred feet away. 
-
-Toby Arcane: 'Cause I'm in your face. Right here.
-
-Warrick: We have reason to believe that that woman, planted or not ... 
-
-Warrick:  ... sustained injury during the first insertion of the saber.
-
-Sara: Do you think it was part of the act or do you think it was some kind of mistake?
-
-Toby Arcane: Uh, yeah, could have been a blood pouch but knowing him ... it was a mistake.
-
-Grissom: Is it possible that he put his saber into the wrong slot?
-Toby Arcane: Well, this is Vegas, baby.
-
-
-
-
-Greg: The band's last two albums, and the DVD. You know, I heard that they were splitting up.
-
-Nick: Where did you hear that?
-GREG Uh, the New World Library -- internet. This contains, uh, TV appearances live footage, things like that.
-
-Catherine: He wrote every song.
-Nick: Who, the singer, Gus?
-Catherine: His name's on every title. If they were splitting up and he took his songs back ... 
-Nick: No more Pekinpah; no more money for the band.  Why don't you get back on the internet for us? See if there's any gossip floating around.
-
-Catherine: We need to get back to the crime scene. I'm looking for ink.
-
-
-
-
- 
-
-
-Nick: I showed the road manager a copy of the warrant. He went nuts. He's on the phone with his lawyer right now.
-Catherine: Why do they want us off this bus so badly? 
-
-(Cut back to CATHERINE who once again starts looking around. She notices the
-&quot;Las Vegas White Pages&quot; stuck between the bed and the wall. She settles down and looks through the book. The book opens up to a page listing for &quot;Dean&quot;. In the middle of the list there is a finger smudge.)
-Catherine: Standard printing ink. 
-
-
-Catherine:  What to do when your cell phone's not working?
-
-
-
-
-
-Catherine: Gone.
-
-Nick: This doesn't work.
-Catherine: Seems like nothing on that bus does.
-Nick: Yeah, but this doesn't work, 'cause the batteries suck.
-
-Catherine: Oh.
-Nick: Belongs to the guitarist. Looks like Mr. Clean and Sober had a habit.
-Catherine: Bet it matches that smack we found on the needle.
-Nick: Yeah. You, uh, trying to make a call?
-Catherine: No ... but somebody did. 
-
-Catherine: I got a smudged name. &quot;Dean.&quot;
-
-
-
-
-
-Warrick: Goodyear Wrangler. Ford F-150. Hallelujah.
-
-Greg: Okay, your vanishing act. Did a DNA profile on your blood. Ran it through CODIS. Guess who I found?
-Warrick: Who?
-Greg: Zoe Clein. White caucasian. Female. Red hair.
-Warrick: Wait a minute. CODIS? What database?
-Greg: Missing persons.
-Warrick:  She's in the database already?
-Greg: Yeah. She's been in there for six months. Same time she's been missing. Brass is working on an address.
-
-
-
-
-Sara:  Nice house.
-
-Warrick: Built it so close to the railroad.
-Grissom:  I bet this house was here first.
-
-
-
-
-
-Grissom:  Las Vegas Crime Lab.
-
-Warrick:  It's a little too calm in here.
-Sara: Yeah. I'll take upstairs.
-
- 
-
-
-Warrick: Wow.
-Grissom: What?
-Warrick: Six pints of &quot;A&quot; positive.
-
-
-
-Sara: Hey, guys? 
-
-Sara: Zoe's bedroom seems intact. Suitcases, purses, clothes. It looks like she never left.
-
-Sara: Guys?
-
-
-
-
-
-
-
-Sara: Sorry. 
-
-Warrick: You keep disappearing.
-Grissom: Take a look at this.
-Sara: Huh. Looks like the &quot;chamber of doom.&quot; 
-Grissom: Designed by Zoe Clein.
-
-Sara: So, she's an inventor.
-
-Warrick: Hey, guys, check out this old photo. The &quot;Clein Magical Tour&quot;. I guess the old man with beard must be the father.
-Sara: Zoe Clein the daughter. Young Zephyr ... 
-Grissom: What's he doing there? And who's that baby in his arms?
-
-
-
-;
-
-
-
-
-
-
-Nick: What's up, G?
-Greg: Well, I did my snooping around. Obviously everyone's upset about Kenyon croaking. 
-Nick: And?
-Greg: And they were planning a &quot;Best of...&quot; album.
-Catherine: No surprise. Cash cow, everybody does it.
-Greg: Well, someone e-mailed me a clip of Gus on MTV2 a few months ago.
-
-Gus Kenyon:  Compilation albums are for has-beens. They can release one over my dead body. As long as I'm alive, I'm going to continue to write originals.
-
-Nick: Who's planning the album?
-Greg: Keith Castle.
-Nick: The guitarist?
-Greg:  Mm-hmm.
-Nick: I'm chasing the smack.
-Catherine: I'm chasing the phone book.
-
-
-
-
-Sara:  There's got to be twelve to thirteen ...
-Warrick:  Yes.
-
-
-Grissom:  Warrick, come here.
-
-Warrick: What is that, a butterfly?
-Grissom: A male IO moth. One of the largest in North America.
-Warrick: How'd it get in here?
-Grissom: I don't know. It feeds on trees and foliage. 
-Warrick: There's none of that in here. 
-Grissom: See the eye-like spots on the back of its wings? 
-Warrick: Yeah.
-Grissom: It's an illusion to confuse predators. Birds get fooled into thinking it's an owl. I have a similar one in my office.
-
-Sara: Didn't we release Officer Henderson?
-
-
-
-
-Sara: Hello?
-
-Sara: Hello?
-
-A FIGURE RUNS ACROSS THE HALLWAY BEHIND SARA
-
-
-
-Matilda:  Okay, I'm sorry ...
-
-Sara: Hold up! Back up!
-Matilda: I really didn't realize that anyone was ... 
-Sara: Warrick!
-
-Warrick: Hey! Back up.
-
-
-
-
-
-Keith Castle: Look, I got a family, okay? They think I'm clean. The band, too.
-Nick: Did you give some to Gus last night? 
-
-Nick: Needle, too?
-
-Keith Castle: No, no, no, man. I don't shoot up. That's just for snorting.
-Nick: Well, Keith ... 
-
-Nick: ... think Gus would get messed up enough to kill himself? That'd help you sell a few more albums, wouldn't it?
-Keith Castle: Gus is dead, okay? You never had the pleasure of finding out what an ass he was in person. Yeah, we made some money off his talent but he made us feel worthless. At least when he was high he'd shut up.
-
-
-
-
-
-
-Catherine: Samantha Dean? I'm with the Las Vegas Crime Lab. Do you know Gus Kenyon? 
-
-
-Catherine: Gus Kenyon looked up your number and address in this directory and, uh, called you last night ... 
-
-Catherine: ... from a phone booth outside of his tour bus. Records indicate the call was made around 2:00 A.M. 
-Samantha Dean: I must have been asleep.
-
-Catherine: It lasted 20 seconds.
-Samantha Dean: I didn't answer.
-Catherine: So it rang?
-Samantha Dean: No, I mean, I can't remember. We're both in bed by nine.
-
-Catherine: What's your son's name?
-Samantha Dean: Brandon. You a mother?
-Catherine: Yeah, yeah. I have a-a daughter who is nine. Yeah, I know how hard it is to do it alone. 
-
-Catherine: Now those are some cool shades Brandon has on. Are those Silhouettes? Those are expensive. 
-Samantha Dean: Um, do you have any more questions because, uh, Brandon needs to go to my mother's. I have to go to work.
-Catherine: All right. Thanks for your time.
-
-
-
-
-
-Lyric: Down in the city of sin / that's where I've been / and I caught a glance / of what could be, yeah, you and me ...
-
-
-
-
-Brass: How long have you been working for the Zephyr?
-Matilda: A year. The magician I used to assist for retired.
-Grissom: What are you doing here?
-Matilda: I came to talk to Zoe, and the door was open so I thought I'd snoop around a little.
-Brass: A lot of people are snooping around these days. You know, everybody who works for the Zephyr wants to be a magician. How come?
-Matilda: 'Cause we do everything. I mean, what does he do? Wave his arms around? I work my butt off for that guy. Bring this out, bring that out keep proper timing, inspect the tricks. You know, follow his lead. Zoe is the best inventor in the business. You know, she sells me just one of her tricks and I can be in business myself.
-Grissom: So you know Zoe Clein.
-Matilda: Through Zephyr. Yeah.
-Grissom: Was she a plant the night she disappeared?
-Matilda: Yeah. It's one of her stipulations that she's the volunteer opening night.
-Brass: Zoe Clein has been missing for six months. And you saw her the night she ... disappeared. How do you explain that?
-Matilda: I don't know.
-Brass: By the way how'd you get here?
-Matilda: Drove. My car's parked down the street.
-Warrick: What kind of car do you drive?
-Matilda: A Ford F-150.
-
-
-
-Warrick: Ford F-150.
-
-Warrick: It's a match.
-
-Warrick: Whoa. Well, at least we know the animal. Black panther.
-
-Sara: Dispatch, this is P-4981. We need animal control at, uh ... Oh, my god.
-
-Warrick: Thorazine.
-Sara: What did they do? Drug her and feed her to the panther?
-
-
-
-
-Catherine: There.
-Nick: What?
-Catherine: There.
-Nick: Where?
-
-Catherine: Samantha Dean. She knows him. She's backstage with him.
-Nick: And?
-Catherine: Backstage with a rock star. Trust me, it's a big deal. See that VIP pass around her neck? That's like diamonds.
-
-Nick: Really? Hmm. So ... groupie? 
-Catherine: Girlfriend?
-
-
-
-
-
-
-Catherine: There was a scuff on Samantha Dean's door.
-Nick: Was it a red door?
-Catherine: Uh-huh.
-
-
-Gus: Samantha! Samantha!
-
-
-Catherine: Kick ass.
-
-
-
-
-Matilda: Sadie's my cat. She's my pet. I got her from a previous gig. Zephyr hates animals so I just keep her in my truck during the show. I let her out between shows so she can get some air and she cut her leg on the tailgate. So I sedated her. 
-
-
-Matilda: Can I go? I've got a lot of work to do. Tonight's a really big night. We're sold out for the first time and Zephyr's debuting a new trick.
-
-Grissom: Really? New trick.
-
-
-CUE: AUDIENCE APPLAUSE  TO:
-
-
-
-
-
-Zephyr: Ladies and gentlemen: I know you all want to disappear. But tonight, there'll be no sabers, no surprises and no volunteers.
-
-Zephyr: Tonight, I will attempt to make myself disappear.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sara:  It's been rigged.
-Grissom: With a metal stake.
-
-Warrick: Someone just got nailed to the cross.
-
-
-
-
-Robbins: He's got external burns covering approximately eighty percent of his body. Majority are second-and third-degree. Extensive damage to his hands. Curled and closed.
-Grissom: The human body protecting its prints.
-Robbins: You're going to have a tough time finding anything substantial here.
-Grissom: Better run his dental records, then, huh?
-Robbins: Yeah, sure.
-Grissom: COD?
-Robbins: Laryngeal spasm. We usually see this in drownings. Only instead of swallowing water, he swallowed fire.
-
-
-Robbins:  It causes the larynx to pinch shut protecting itself ... 
-
-Robbins: ... yet cutting off his air supply and that leads to immediate unconsciousness and death. Another example of the body trying to protect itself. And, uh, I'd say in this case, it didn't work.
-Grissom: Unusual, though.
-Robbins: Not as unusual as what I found in his mouth. 
-
-Robbins:  ... Surgically created soft tissue pouches within the gingivae. It's like pockets of skin.
-
-Grissom: In the lining. I've never seen this before.
-Robbins: Neither have I.
-Grissom: I knew that Houdini could swallow and regurgitate keys on cue, but I've never heard of skin pockets.
-Robbins: Learn something new every day don't you?
-
-
-
-
-
-Toby Arcane: Come on, trust me.
-Warrick: Okay.
-
-
-
-
-
-
-
-Toby Arcane: This, uh, collapsible stake right here breaks a tiny little blood capsule inside ...
-
-Toby Arcane: ... giving the illusion that I'm bleeding. 
-
-Toby Arcane: Look it doesn't suit me to kill Zephyr. See, I've been killing him for years. Come on, people, this is magic.
-
-Toby Arcane: It's B.S. It's all fake. 
-
-Toby Arcane: Look at this. Even this tattoo.
-
-Toby Arcane: I'm from Orange County, dude.
-Sara: Thanks for your time. 
-Warrick: Yeah. On earth.
-Toby Arcane: You're welcome.
-
-
-
-
-
-Samantha Dean: This is ridiculous. I don't even own a stereo.
-Nick: So, you never met Gus Kenyon?
-Samantha Dean: No.
-Nick: You sure? We know he was here. We matched the paint from your door to the paint on Gus's ring.
-
-Catherine: And it's not so much that this girl in the photograph looks exactly like you. It's that the sunglasses that Gus is wearing ... familiar?
-Samantha Dean:  Of course not.
-Catherine: Very rare, custom-made graduated lenses. Your son is holding them in his hands. 
-
-Catherine: Were they a gift for him?
-Samantha Dean: No.
-Catherine: He has his father's eyes. The two of you met on a video shoot in Vegas six years ago. 
-
-Catherine:  Last night ...
-
-Gus Kenyon: Hey, baby.
-Catherine: : ... Alone and depressed ...
-Gus Kenyon: I tried to call you.
-Catherine:  ...He just decided to look you up.
-
-Gus Kenyon: Who's that? Huh?
-Catherine:  He knew immediately that it was his son. Any father would. 
-
-Catherine:  For some reason you had kept Brandon a secret.
-Gus Kenyon:  Why didn't you tell me?
-
-Samantha Dean:  Please, just leave! Just go! Please!
-Catherine:  Gus gets angry. He can't understand why you won't let him be a parent.
-
-Samantha Dean:  Honey, it's okay. 
-
-Catherine:  You've changed a lot since your days with Gus. You were protecting your son from his father's lifestyle.
-Nick: Miss Dean, you're a Registered Nurse, is that correct? That means you have access to medical supplies. Needles?
-
-
-Nick:  Gus left here and he went back on the bus. He thought about doing some of Mr. Castle's drugs but he didn't. He said he just passed out from the booze. 
-
-Nick: But you, you've been around heroin before, haven't you? You know how to cook it. Did you think you put just enough in the syringe to make it look like a suicide?
-Samantha Dean: Am I under arrest?
-Nick: No. No, we're just here for your son's DNA.
-Samantha Dean:  Then I think I should hire a lawyer.
-Catherine: I just have one other thing, Miss Dean. I'm just guessing that when you found out you were pregnant that you stopped listening to Gus' band and that you haven't heard any of his latest songs. 
-
-Catherine:  &quot;I'm drying up like rain and sand without you wiping away my tears with your hand, you saw through the lies that make up my disguise I need you back to set me free just give me one last chance come back to me.&quot; I think that he wrote this for you. I think that he loved you very much and ... that he missed you.
-
-Samantha Dean: When I made him leave, he said he'd call an L.A. Lawyer and take Brandon away from me. 
-
-Samantha Dean:  I'm not sure now what I was going to do but ... 
-
-Samantha Dean: ... when I saw him with the heroin next to him ... I knew nothing had changed. 
-
-Samantha Dean:  I carry needles in my kit. 
-
-
- 
-Samantha Dean: I am not proud of my youth and my son was never going to be a part of that world. You're a mother. What would you be willing to do to save the life of your child?
-
-Catherine: I think that I'd rather have my daughter know a bad father than no father at all.
-
-
-
-
-
-
-
-
-
-
-
-
-Grissom: Warrick. I need you to find out everything you can about Zephyr and his crew. Sara, check web sites. Concentrate on Punky. I've got a hunch about these guys. 
-Sara: Where are you going?
-Grissom: Coroner. I need a piece of the Zephyr.
-
-
-
-
-
-
-
- 
-
-Warrick: Zephyr Dillinger and Punky the stagehand. They're related?
-Sara: Father and son?
-Warrick:  Magician and his double.
-
-
-
-
-
-
-
-
-
-Grissom: He fooled us. It was Punky burning in that box. Zephyr murdered his son.
-Warrick: The little boy from the picture.
-Grissom: They pulled a switch.
-
-
-
-Grissom: See this coin?
-Sara: It's two-headed.
-Grissom: Two heads as one. One and the same. Zephyr and his son are interchangeable in physical appearance like the IO moth. You know what that means? 
-Warrick: Zephyr's still out there.
-Grissom: So, if you're a master of deception where do you hide? 
-
-Grissom: Or do you?
-
-
-
-
-
-
-
-
-Grissom: I think this room is shrinking.
-
-
-
-
-
-
-
-Zephyr: Nothing is what it seems. But I fooled them all. Even that ungrateful masochist.
-
-&quot;ZEPHYR&quot;:  You, in the blue dress.
-
-
-Toby Arcane: Who's he kidding? That's a plant.
-Zephyr:  His arrogance blinded his perception.
-
-
-Toby Arcane: That was a plant.
-
-Zephyr: It-it's amazing what you can do with a stagehand and a masquerade mask. You know, not to mention a prop like a packet full of Zoe's blood. 
-
-
-Zephyr: You know, lucky for me she let me have some before she mysteriously disappeared.
-Grissom: You made her disappear.
-
-Zephyr: No, I &quot;assumed&quot; her.
-
-Zephyr:  Quick-change artistry. A magical transformation. With a good seamstress and some velcro, you ...
-Grissom:  We know that you switched with your son, Punky to set up Toby Arcane for your murder. That trick didn't work so well, did it?
-Zephyr:  Not as planned. And your finding me here has thwarted my transmutation. 
-
-Zephyr: Abracadabra.
-Grissom: &quot;Abracadabra&quot;. That's a cabalistic charm said to be made up from three Hebrew words meaning, father, son and the holy spirit. You're the father who took his son's life ... so that you could disappear and become the holy spirit?
-Zephyr: No. 
-
-Zephyr: From caterpillar to cocoon. From cocoon ... 
-
-Zephyr: ... to moth. And from moth ... 
-
-Zephyr: ... to dust.
-
-Grissom: Your son aspired to be a great magician, didn't he?
-Zephyr: Yeah, but he served better as a prop.
-Grissom: You're about to be arrested for his murder.
-Zephyr: You don't want to know how I did that trick?
-Grissom: No. Magicians shouldn't reveal their tricks.
-Zephyr: And they say, they save their best trick for last.
-
-
-
-
-
-Grissom: Officer? 
-
-Grissom: Officer, wait a minute. Turn him around, please. 
-
-Grissom: Open your mouth, please.
-
-Zephyr: Satisfied?
-Grissom: Yeah.
-
-
-
-
-
-
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=03x05+-+Abra+Cadaver&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127334%23p127334" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=03x05+-+Abra+Cadaver&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127334%23p127334" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127334%23p127334&amp;name=03x05+-+Abra+Cadaver" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127334%23p127334" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=3003f76a719b3131577b1b6b5783218e">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=3003f76a719b3131577b1b6b5783218e">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=3003f76a719b3131577b1b6b5783218e">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=3003f76a719b3131577b1b6b5783218e">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

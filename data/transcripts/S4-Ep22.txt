@@ -1,857 +1,1089 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] 
+(Sirens wail in the distance.) 
+[INT. UNKNOWN PLACE - NIGHT]
+(ERNIE MENLO sits in the chair" />
+<meta property="og:title" content="04x22 - No More Bets - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] 
+(Sirens wail in the distance.) 
+[INT. UNKNOWN PLACE - NIGHT]
+(ERNIE MENLO sits in the chair" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13281" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>04x22 - No More Bets - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13281" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13281">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=9b381126b5db1c3d42d7d1bea3d426cf"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=9b381126b5db1c3d42d7d1bea3d426cf">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=9b381126b5db1c3d42d7d1bea3d426cf">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=9b381126b5db1c3d42d7d1bea3d426cf">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=9b381126b5db1c3d42d7d1bea3d426cf">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13281&amp;sid=9b381126b5db1c3d42d7d1bea3d426cf&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>04x22 - No More Bets</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127375">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127375">04x22 - No More Bets</a></div>
+							<div class="pull-right text-right"><time datetime="2004-05-27T23:16:51Z">05/27/04 23:16</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] </p>
+<p>(Sirens wail in the distance.) </p>
+<p>[INT. UNKNOWN PLACE - NIGHT]</p>
+<p>(ERNIE MENLO sits in the chair in the center of the darkened room. In front of him stands two men - one holding a bright light on him, the other interrogates him.)</p>
+<p><strong>Interrogator</strong>: I'm going to make this really simple. Who are you working with?</p>
+<p><strong>Ernie Menlo</strong>: I'm, uh, unemployed at the moment.</p>
+<p><strong>Interrogator</strong>: You got any idea what we did to chumps like you back in the day?</p>
+<p><strong>Ernie Menlo</strong>: (swallows and tugs at his collar) Uh, no. Look, could you put the A.C. on in here or somethin'? That, or just, uh, let me go. I mean, you can't keep me in here. It's against the law.</p>
+<p><strong>Interrogator</strong>: There's no law in this room.</p>
+<p>(He looks at both his interrogators.)</p>
+<p><strong>Ernie Menlo</strong>: (scared) You can't touch me.</p>
+<p>CUT TO:<br />
+[EXT. NEON GRAVEYARD -- NIGHT] </p>
+<p>(Camera swoops down to show ERNIE MENLO'S dead body at the base of the &quot;W&quot; in the WHISKEYTOWN letter sign.) </p>
+<p>[EXT. NEON GRAVEYARD - NIGHT - LATER]</p>
+<p>(BRASS, GRISSOM and CATHERINE stand around the body.)</p>
+<p><strong>Brass</strong>: Two shots to the back of the head. Double tap.</p>
+<p>(GRISSOM shines his flashlight on the wound at the back of the victim's neck.)</p>
+<p><strong>Grissom</strong>: He's wearing a wig and a fat suit. It's not Halloween, is it?</p>
+<p><strong>Catherine</strong>: In this town, it's always Halloween.</p>
+<p>(BRASS picks up the NEVADA DRIVER'S LICENSE. It reads: </p>
+<p>MENLO, ERNIE<br />
+2974 WESTFALL AVE<br />
+LAS VEGAS, NV</p>
+<p>LIC# 64836483749<br />
+EXPIRES: 06-29-2009</p>
+<p><strong>Brass</strong>: &quot;Ernie Menlo.&quot; (BRASS waves a bill in the air.) Well, he wasn't carrying a very &quot;fat&quot; wad.</p>
+<p><strong>Catherine</strong>: Rolex is still on his wrist. Probably rules out robbery. (She looks at GRISSOM.) What do you think?</p>
+<p><strong>Grissom</strong>: I don't know. </p>
+<p>(GRISSOM turns around and looks at the various signs abandoned and thrown away littering the area.)</p>
+<p><strong>Grissom</strong>: I'm looking for a sign.</p>
+<p>CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. NEON GRAVEYARD -- DAY] </p>
+<p>(CATHERINE is on the phone. A distance away behind her, GRISSOM is with DAVID PHILLIPS near the victim's body at the base of the &quot;W&quot;.) </p>
+<p><strong>Catherine</strong>: (to phone) He's not in the system? (pause) Yeah ... gotta be.<br />
+(pause) Okay. Thanks.</p>
+<p>(CATHERINE hangs up the phone and turns to GRISSOM.)</p>
+<p><strong>Catherine</strong>: So, uh ... Brass ran the ID. There's no &quot;Ernie Menlo&quot; in the system. Fake.</p>
+<p><strong>Grissom</strong>: GSR in the wound track. No stellate tearing. Gunshots appear to be close range, but non-contact.</p>
+<p>(GRISSOM bags the wig.)</p>
+<p><strong>David Phillips</strong>: No exit wounds.</p>
+<p>(CATHERINE looks around the area.)</p>
+<p><strong>Catherine</strong>: Well, I don't see any shell casings either. So maybe the killer picked them up.</p>
+<p><strong>Grissom</strong>: (shrugs) Professional hit?</p>
+<p>(CATHERINE nods, then steps away a bit and looks at the ground.)</p>
+<p>(DAVID picks up the victim's hand to show the lacerations on his knuckles.)</p>
+<p><strong>David Phillips</strong>: Major fractures and lacerations on his hands. </p>
+<p><strong>Grissom</strong>: Lividity's consistent with body position. I don't think it was a body dump.</p>
+<p><strong>Catherine</strong>: So either he walked in or he got a ride. Either way, this gravel and glass makes good evidence.</p>
+<p>(She indicates the fragments on the ground.)</p>
+<p><strong>Grissom</strong>: I'll go ahead and bag a sample.</p>
+<p>(CATHERINE takes the camera and walks away to look around the area.)</p>
+<p>(GRISSOM opens an evidence bag.)</p>
+<p>(CATHERINE walks a distance further and lifts the camera to snap more photos of the tire tracks in the dirt.) </p>
+<p>(She stands near the HORSESHOE sign and looks out at the tire tracks of a vehicle that turned around by backing up.)</p>
+<p>(As she stands there, she envisions the vehicle backing up, shifting gears, then driving off. The vision ends.)</p>
+<p>(CATHERINE takes out a tape measure and measures the tire marks. GRISSOM checks the victim's shirt pocket and finds a receipt folded inside. He opens it and reads it: </p>
+<p># 3232<br />
+RAMPART CASINO<br />
+221 NORTH RAMPART BLVD.<br />
+LAS VEGAS, NV 89145</p>
+<p>Federal Identification Number: 88-0513636</p>
+<p>WINNER'S Name: ERNIE MENLO<br />
+2974 WESTFALL AVE<br />
+LAS VEGAS, NV 89156</p>
+<p><strong>Grissom</strong>: &quot;Rampart Casino.&quot; Well, his day started out good. He won $436,278. </p>
+<p><strong>David Phillips</strong>: Rampart's always been lucky for me.</p>
+<p><strong>Grissom</strong>: So where is this money?</p>
+<p>(GRISSOM turns and walks away from DAVID PHILLIPS.)</p>
+<p>(CATHERINE finishes measuring the tread markings on the ground. She closes the tape measure. GRISSOM walks up to her.)</p>
+<p><strong>Catherine</strong>: I found some tire treads. I think the vehicle was making a three-point turn.</p>
+<p><strong>Grissom</strong>: And it seems that robbery may be a motive after all.</p>
+<p>(CATHERINE takes off her sunglasses as she looks at the receipt in GRISSOM'S hand.)</p>
+<p>1 Gross Winnings: $436,278.00<br />
+3 Type of wager: Roulette<br />
+5 Transaction: 79362</p>
+<p><strong>Catherine</strong>: Wow!</p>
+<p>(She notes the other information:<br />
+PAYER'S name, Street address, City, state<br />
+RAMPART CASINO<br />
+221 NORTH RAMPART BLVD<br />
+LAS VEGAS, NV 89145</p>
+<p>Federal identification number: 88-0513636</p>
+<p><strong>Catherine</strong>: &quot;Rampart.&quot; Guess I'll go check that out.</p>
+<p><strong>Grissom</strong>: You can't. We found the body under the WHISKEY TOWN sign and the guy just cleaned out the Rampart Casino.</p>
+<p><strong>Catherine</strong>: Coincidence.</p>
+<p><strong>Grissom</strong>: Even if it is, they're still Sam Braun's casinos.</p>
+<p><strong>Catherine</strong>: Why is that a problem?</p>
+<p><strong>Grissom</strong>: He's your father. You can't be on this case.</p>
+<p><strong>Catherine</strong>: Gil ... </p>
+<p><strong>Grissom</strong>: Catherine, you have to go home.</p>
+<p>(CATHERINE hands GRISSOM the tape measure and the camera. She turns and leaves.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) -- DAY]</p>
+<p>[INT. CSI - FORENSIC AUTOPSY -- DAY]</p>
+<p>(SARA, WARRICK and DAVID PHILLIP work on the victim's body.)</p>
+<p>(Camera view down on ERNIE MENLO'S body on the autopsy table. He's still in the fat suit.)</p>
+<p>(SARA picks up something off of his forehead and puts it in a clean envelope.)</p>
+<p>(DAVID PHILLIPS puts the victim's clothes in a package. WARRICK works on the victim's lacerated hand. SARA removes the rolex watch. She looks at it. It's<br />
+9:41 am.)</p>
+<p><strong>Sara</strong>: No ticks. It's authentic.</p>
+<p>(She flips the watch over and looks at the back.)</p>
+<p><strong>Sara</strong>: Logo sticker isn't worn down. Watch could be new.</p>
+<p><strong>Warrick</strong>: Guy hits the jackpot, has to celebrate. Goes and buys some bling-bling to impress the strippers with.</p>
+<p>(DAVID lifts up the body's foot and sees the holes in the sock's heels.)</p>
+<p><strong>Warrick</strong>: What have you got?</p>
+<p>(WARRICK and SARA both look at the feet.)</p>
+<p><strong>Warrick</strong>: Air conditioned socks.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p><strong>Lyric</strong>: ... I can hear the sound of violins </p>
+<p>[INT. RAMPART CASINO - MAIN FLOOR - NIGHT]</p>
+<p>(The floor is crowded as people play at the tables.)</p>
+<p><strong>Croupier</strong>: Insurance?</p>
+<p><strong>Lyric</strong>: Long before it begins ... dealer wins.</p>
+<p><strong>Croupier</strong>: Craps.</p>
+<p>(The players sitting around the table groan.)</p>
+<p><strong>Croupier</strong>: Seven!</p>
+<p>(The players groan.)</p>
+<p>(The roulette wheel turns</p>
+<p><strong>Croupier</strong>: Twenty-four is even.</p>
+<p>(The game ends and the players stand for the next people.)</p>
+<p>(GRISSOM stands in the middle of the main floor and looks around the room. He notes the cameras high up in the ceiling. BRASS walks up to him.)</p>
+<p><strong>Brass</strong>: So, I talked to the pit boss who signed the vic's W-2. He was pulling surveillance. He remembers the big winner.</p>
+<p>(GRISSOM doesn't say anything. SAM BRAUN makes his way through the crowd toward GRISSOM and BRASS.)</p>
+<p><strong>Brass</strong>: Sam Braun! What a surprise!</p>
+<p><strong>Sam Braun</strong>: The fat kid ... he was cheating.</p>
+<p><strong>Brass</strong>: What do you do about it?</p>
+<p><strong>Sam Braun</strong>: Well, we had a little chat. I didn't kill him.</p>
+<p><strong>Grissom</strong>: Did you take him to the box?</p>
+<p><strong>Sam Braun</strong>: Gentlemen, these days, we call it &quot;The Holding Room&quot;.</p>
+<p>CUT TO:<br />
+[INT. RAMPART CASINO - HOLDING ROOM - NIGHT - CONTINUOUS]</p>
+<p>(The door to the holding room opens. SAM BRAUN flicks the lights on and GRISSOM walks in. He looks around.)</p>
+<p><strong>Grissom</strong>: Smells like the cleaning crew just left.</p>
+<p>(GRISSOM sets his kit down on the floor.)</p>
+<p><strong>Sam Braun</strong>: Security brought the kid down here around 2:00 A.M. I came in. We talked. He walked out around three.</p>
+<p>[SECURITY CAMERA VIEW]</p>
+<p>(SAM BRAUN walks over to the camera as GRISSOM stands up. The camera reads:<br />
+05-13-04 1:32 pm. SAM BRAUN points to the camera.)</p>
+<p><strong>Sam Braun</strong>: It's all in there.</p>
+<p><strong>Grissom</strong>: Well, good. We'll look at the tapes a little later.</p>
+<p>[RESUME VIEW: HOLDING ROOM]</p>
+<p>(GRISSOM points to the light switch.)</p>
+<p><strong>Grissom</strong>: Would you turn off the lights, please?</p>
+<p>(SAM BRAUN turns around and flicks the lights off.)</p>
+<p><strong>Sam Braun</strong>: It's well within my rights to have a discussion with anyone in my place. </p>
+<p>(GRISSOM uses the ALS on the walls.)</p>
+<p><strong>Sam Braun</strong>: The kid was cheating. I wanted to know how.</p>
+<p>(Quick flashback to: [HOLDING ROOM] SAM BRAUN talks with ERNIE MENLO.)</p>
+<p><strong>Sam Braun</strong>: Nobody wins 400k at roulette. What's your system?</p>
+<p><strong>Ernie Menlo</strong>: Clean living... good karma. But either you call the cops and book me now, or I'm out of here.</p>
+<p><strong>Sam Braun</strong>: You're no longer welcome at the Rampart.</p>
+<p><strong>Ernie Menlo</strong>: Awesome. Okay, I'll take my money and go.</p>
+<p>(ERNIE stands up to leave.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(GRISSOM continues to ALS the room.)</p>
+<p><strong>Sam Braun</strong>: Do you have any idea the house advantage in roulette? </p>
+<p><strong>Grissom</strong>: Five point two six percent. Albert Einstein had a theory about roulette. He said the only way to win at roulette is to steal the money from the table when the croupier isn't looking.</p>
+<p><strong>Sam Braun</strong>: There's always someone looking.</p>
+<p>(GRISSOM kneels down to look under the table.)</p>
+<p><strong>Grissom</strong>: Well, maybe it was an inside job, Sam. Maybe somebody bought off one of your guys.</p>
+<p>(SAM smiles as he reads GRISSOM.)</p>
+<p><strong>Sam Braun</strong>: I'm curious. What bothers you more? The fact that you couldn't pin a murder on me or that Catherine cashed my check?</p>
+<p>(GRISSOM stops what he's doing and slowly stands up to look at SAM BRAUN.)</p>
+<p><strong>Sam Braun</strong>: There were no strings on that money.</p>
+<p>(GRISSOM takes off his glasses.)</p>
+<p><strong>Grissom</strong>: Just because you can't see something doesn't mean it's not there.</p>
+<p><strong>Sam Braun</strong>: (shrugs) Believe whatever you like. That kid walked out of here with my money. If you figure out how he ripped me off, would you let me know?</p>
+<p>(SAM turns and leaves the room; GRISSOM watches him leave.)</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY] </p>
+<p>(ROBBINS examines ERNIE MENLO'S feet as WARRICK watches.) </p>
+<p><strong>Robbins</strong>: For what it's worth, these bruises correspond to the holes in his sock.</p>
+<p>(ROBBINS walks around the body toward the head-side of the table.)</p>
+<p><strong>Warrick</strong>: Well, he's been worked over pretty good. He's got a nice fat lip.</p>
+<p><strong>Robbins</strong>: Yeah. (ROBBINS reaches out and pulls the lower lip out to look inside.) There was a good clot in the wound, and the tissues were contused. I'd say it occurred at least an hour or two before death. I teased out a couple of small-caliber projectiles from his brain.</p>
+<p>(He holds out the bullets. He gives them to WARRICK.)</p>
+<p><strong>Robbins</strong>: One was embedded in the right frontal cortex. The other lodged in the first cervical vertebra.</p>
+<p><strong>Warrick</strong>: It's copper-washed lead. Must be a .22.</p>
+<p><strong>Robbins</strong>: You know, historically, .22s were the hit man's bullet of choice.</p>
+<p>(Quick CGI POV: The gun shot sounds and the bullet hits the brain and swishes around inside.)</p>
+<p><strong>Robbins</strong>: (V.O.) They have the energy to enter into the cranial vault, but not enough to exit, so they just ricochet around inside, shredding the gray matter until they stop.</p>
+<p>(End of CGI POV. Resume to present.)</p>
+<p><strong>Warrick</strong>: Nice.</p>
+<p><strong>Robbins</strong>: There's also extensive crush injury to both hands, with fractures of the metacarpals and the phalanges.</p>
+<p>(ROBBINS picks up the body's wrist to show WARRICK the knuckles.)</p>
+<p><strong>Robbins</strong>: Bruises appear perimortem.</p>
+<p><strong>Warrick</strong>: Any idea what might have caused that kind of damage?</p>
+<p>(ROBBINS indicates the x-rays up on the view box behind WARRICK who turns around to look at them.)</p>
+<p><strong>Robbins</strong>: Given the fracture pattern, I'd guess it was some sort of blunt object. </p>
+<p><strong>Warrick</strong>: Maybe a ball peen hammer.</p>
+<p><strong>Robbins</strong>: What gets you to that?</p>
+<p><strong>Warrick</strong>: They used to tell me back in the days, the first time you got caught cheating, they'd give you a couple whacks on the hand with a ball peen hammer.</p>
+<p><strong>Robbins</strong>: Ow.</p>
+<p><strong>Warrick</strong>: The second time, you'd lose a limb.</p>
+<p><strong>Robbins</strong>: Third time?</p>
+<p><strong>Warrick</strong>: A long walk in the desert with a shovel.</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(WARRICK takes out the victim's shoes from the package to look at them. On the underside of the shoe, he finds pieces of color glass shards embedded in the rubber.) </p>
+<p>(He looks inside the shoe and finds an elaborate series of buttons and electronic switches. Camera zooms in to give us a nice view of the electronics. It ends on the Energizer battery inside the shoe.)</p>
+<p>(WARRICK pulls the slip in out of the shoe.)</p>
+<p>CUT TO:<br />
+[INT. CSI -- STAIRS] </p>
+<p>(GRISSOM walks down the stairs as WARRICK fills him in.) </p>
+<p><strong>Grissom</strong>: A computer in his shoe.</p>
+<p><strong>Warrick</strong>: As far as I could tell, it's a wireless receiver. It picks up a signal, solenoids drive the points up against the guy's foot, tells him what number to bet.</p>
+<p><strong>Grissom</strong>: Based on what?</p>
+<p><strong>Warrick</strong>: I don't know. Archie's working on it right now.</p>
+<p><strong>Grissom</strong>: Well, if our vic was the receiver, there has to be a transmitter.</p>
+<p>(SARA steps out of the lounge and joins them.)</p>
+<p><strong>Sara</strong>: Hey, I got an ID on our vic. (She looks down at the papers in her hands.) A Teddy Keller. Everyone who buys a rolex gets registered at the point of purchase. So I ran the serial number. He bought the watch at the forum shops two days ago. And I got his home address.</p>
+<p><strong>Grissom</strong>: Well, his driver's license was fake, so, this could be fake, too.</p>
+<p><strong>Sara</strong>: A fake ID is for scamming a casino. A baller puts his real name on a roley. </p>
+<p>(GRISSOM turns and gives SARA a look, surprised by what he just heard. She shrugs it off and waves the papers in her hand toward WARRICK.) </p>
+<p><strong>Sara</strong>: What? He rubs off.</p>
+<p>CUT TO:<br />
+[EXT. KELLER'S APARTMENTS - POOLSIDE -- NIGHT] </p>
+<p>(MR. GREEN, the landlord, shows BRASS and WARRICK to the apartment.) </p>
+<p><strong>Joseph Greene (landlord)</strong>: Teddy Deller. That's apartment 27. Is he in some kind of trouble? Hey, John.</p>
+<p>(He greets the MAN walking by off screen.)</p>
+<p><strong>John</strong>: (o.s.) Hey, Mr. Green.</p>
+<p>(They continue walking.)</p>
+<p><strong>Brass</strong>: When was the last time you saw him?</p>
+<p><strong>Joseph Greene (landlord)</strong>: I don't know. He's got a roommate -- Davis Mullins. Oh, yeah, they eat a tremendous amount of pizza. (They start up the stairs.)<br />
+Tremendous amount of pizza and calzone. I feel like bopping that delivery guy every time he buzzes the gate.</p>
+<p>(They reach the apartment door at the top of the stairs.)</p>
+<p><strong>Joseph Greene (landlord)</strong>: Here we are.</p>
+<p>(He knocks on the door.)</p>
+<p><strong>Joseph Greene (landlord)</strong>: Anybody home?</p>
+<p>(There's no answer. He knocks again.)</p>
+<p><strong>Joseph Greene (landlord)</strong>: Hello?</p>
+<p><strong>Brass</strong>: I guess the roommate's out, huh?</p>
+<p>(MR. GREEN uses the key and unlocks the door. He opens the door and they walk inside.)</p>
+<p>[INT. KELLER'S APARTMENT #27 - NIGHT - CONTINUOUS]</p>
+<p>(WARRICK and BRASS walk into the apartment and look around. The LANDLORD steps out of the apartment.)</p>
+<p><strong>Warrick</strong>: It's freezing in here.</p>
+<p>(In the center of the living room, a huge roulette wheel and table has been set up.)</p>
+<p><strong>Warrick</strong>: Get a load of this wheel. It's regulation. These things run about 1,500 bucks.</p>
+<p><strong>Brass</strong>: Well, they cleared almost half a mil. It's a good investment.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>(BRASS turns to look at the rest of the apartment. WARRICK notes the various colored and numbered charts hanging on the wall.)</p>
+<p><strong>Warrick</strong>: These guys definitely had a system.</p>
+<p>(BRASS opens the bedroom door and looks inside.)</p>
+<p><strong>Brass</strong>: Hey, Rick, you might want to check this out.</p>
+<p>(WARRICK turns and heads for the bedroom. On the floor at the foot of the bed, they find a dead body.)</p>
+<p><strong>Warrick</strong>: Looks like the roommate's home after all.</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. KELLER'S APARTMENT #27 - NIGHT - CONTINUOUS]</p>
+<p>(DAVID PHILLIPS moves the head to check the fatal wounds. WARRICK snaps a photo.) </p>
+<p><strong>Warrick</strong>: Two taps to the head. Deja vu.</p>
+<p>(DAVID PHILLIPS continues to attend to the body. In the back of the room, BRASS opens the closet door and checks the clothes on the hangers inside. On the closet shelf, he finds wigs, hats and various make-up applications.)</p>
+<p><strong>Brass</strong>: These guys liked to play dress-up.</p>
+<p><strong>Warrick</strong>: You find any shoes back there?</p>
+<p>(BRASS looks in the closet floor and not finding any, turns and checks out the room.)</p>
+<p><strong>Brass</strong>: I'm looking.</p>
+<p>(BRASS walks over to the table with the make-up and prosthetics on the tabletop.)</p>
+<p>(WARRICK continues to look at the evidence near the body.)</p>
+<p><strong>Warrick</strong>: Blood smear here.</p>
+<p><strong>David Phillips</strong>: Maybe the killer tried to clean up.</p>
+<p>(WARRICK snaps a photo.)</p>
+<p><strong>Warrick</strong>: That's ridiculous. Why bother?</p>
+<p><strong>David Phillips</strong>: Okay.</p>
+<p><strong>Warrick</strong>: Have a distinctive white mark on his right shoulder.</p>
+<p>(WARRICK raises his camera and snaps another photo.)</p>
+<p><strong>Warrick</strong>: What do you make of that?</p>
+<p><strong>David Phillips</strong>: You already shot me down once.</p>
+<p><strong>Warrick</strong>: Look, uh, it could be right.</p>
+<p><strong>David Phillips</strong>: Thanks.</p>
+<p><strong>Warrick</strong>: Can you make sure that gets to trace?</p>
+<p><strong>David Phillips</strong>: Yeah. Sure.</p>
+<p>(WARRICK stands up and walks over to BRASS who has just picked up an electronic shoe slip-in.)</p>
+<p><strong>Warrick</strong>: Hey, what're you doing, touching that? You got gloves?</p>
+<p><strong>Brass</strong>: Relax. I got it covered. Hey, Rick, remember the time you said you could get a print off of air?</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p><strong>Brass</strong>: Check this out.</p>
+<p>(He turns the shoe slip-in and the camera goes in for a close-up of the fingerprint on the clear plastic covering.)</p>
+<p>CUT TO:<br />
+[EXT. KELLER'S RESIDENCE - NIGHT]</p>
+<p>(GRISSOM slowly walks down the stairs just outside apartment #27. He checks the steps carefully. He follows the dirt smudges down to the ground floor, past the pool and to the officer standing in front of the stairs going down to the building. He looks at the officer standing in his path and the officer steps aside.) </p>
+<p>(GRISSOM continues following the dirt smudges down the steps to the basement. When he reaches the bottom, he finds it: The blue and red glass. He kneels down to look at it and smiles.)</p>
+<p>CUT TO:<br />
+[EXT. CITY SIDEWALK -- NIGHT] </p>
+<p>(CATHERINE and CHRIS BEZICH walk along the busy sidewalk arm in arm, window shopping along the way.) </p>
+<p><strong>Chris Bezich</strong>: So you just got the day off? Just ... just like that?</p>
+<p><strong>Catherine</strong>: Are you complaining?</p>
+<p><strong>Chris Bezich</strong>: No. You just seem a little pissed off about it. (He glances at her a little embarrassed by his next confession.) I like it.</p>
+<p>(CATHERINE smiles.)</p>
+<p><strong>Catherine</strong>: Hmm.</p>
+<p>(She points to the artwork in the window.)</p>
+<p><strong>Catherine</strong>: You like that?</p>
+<p><strong>Chris Bezich</strong>: Depends on what you're gonna do with it. </p>
+<p>(CATHERINE laughs and looks at him.)</p>
+<p><strong>Chris Bezich</strong>: Pretty expensive taste for a public servant.</p>
+<p>(Behind them, SAM BRAUN walks up to them.)</p>
+<p><strong>Sam Braun</strong>: She can afford it. </p>
+<p>(They both turn, surprised to see him. Each for different reasons. CATHERINE stares at him. CHRIS BEZICH smiles.) </p>
+<p><strong>Sam Braun</strong>: (to CATHERINE) You going to introduce him?</p>
+<p>(He shakes his hand.)</p>
+<p><strong>Chris Bezich</strong>: Mr. Braun. Chris Bezich. It's a pleasure to meet you. Your hosts, they-they send a lot of your whales to my club, Acid Drop.</p>
+<p>(SAM'S attention is on CATHERINE.)</p>
+<p><strong>Sam Braun</strong>: (not really paying attention) That's great.</p>
+<p><strong>Catherine</strong>: (to CHRIS) Uh-uh. Just give us a minute.</p>
+<p><strong>Chris Bezich</strong>: Okay.</p>
+<p>(CATHERINE and SAM BRAUN step aside.)</p>
+<p><strong>Catherine</strong>: What do you want?</p>
+<p><strong>Sam Braun</strong>: Mugs, I heard you had some time off because of me.</p>
+<p><strong>Catherine</strong>: I could get fired for even having this conversation.</p>
+<p><strong>Sam Braun</strong>: Relax. Vegas is a small town. I'm always running into people I know.</p>
+<p>(CATHERINE sighs heavily.)</p>
+<p><strong>Catherine</strong>: Just cut to the chase, Sam.</p>
+<p><strong>Sam Braun</strong>: Some people in this town think I'm a murderer.</p>
+<p><strong>Catherine</strong>: Some people in this town know you're a murderer.</p>
+<p>(SAM puts a hand on CATHERINE'S shoulder. CHRIS sees this and walks toward them, his face serious.)</p>
+<p><strong>Sam Braun</strong>: (insistent) I did not kill those kids. I did not!</p>
+<p><strong>Catherine</strong>: (interrupts) Kids? How do you know there's more than one?</p>
+<p><strong>Chris Bezich</strong>: (concerned) Cath ...</p>
+<p>(CATHERINE stops and turns away.)</p>
+<p><strong>Catherine</strong>: I'm fine.</p>
+<p>(SAM'S hand is still on CATHERINE'S shoulder.)</p>
+<p><strong>Sam Braun</strong>: (over his shoulder to CHRIS) You're not impressing her. I'll be in touch.</p>
+<p>(SAM steps away toward his limo. CATHERINE and CHRIS watch as he gets in. The door slams shut behind him. The limo moves away.)</p>
+<p>(CATHERINE takes note of the tires as it reverses to turn around.)</p>
+<p>(The limo drives away.)</p>
+<p><strong>Chris Bezich</strong>: (o.s.) So. You and Sam Braun ...</p>
+<p><strong>Catherine</strong>: He slept with my mother.</p>
+<p>CUT TO:<br />
+[INT. CSI - TRACE LAB -- NIGHT] </p>
+<p>[SCOPE VIEW: COLORED GLASS]</p>
+<p>(DAVID HODGES explains the composition of the glass as GRISSOM looks through the scope at the shards.) </p>
+<p><strong>David Hodges</strong>: The glass fragments you found at the apartment building are primarily lead-based. Different curvatures and textures with traces of florescent powder, phosphorous and mercury.</p>
+<p><strong>Grissom</strong>: Neon glass.</p>
+<p><strong>David Hodges</strong>: I checked out that graveyard once. Pretty interesting.</p>
+<p><strong>Grissom</strong>: The comparison?</p>
+<p><strong>David Hodges</strong>: Your sample's consistent with the glass collected from the first crime scene.</p>
+<p><strong>Grissom</strong>: See? That connects the two murders. We've got a timeline.</p>
+<p>CUT TO:<br />
+[INT. CSI - LOCKER ROOM - NIGHT]</p>
+<p>(SARA turns the corner and walks into the locker room. She finds NICK sitting on the bench reading a letter.)</p>
+<p><strong>Sara</strong>: Hey.</p>
+<p>(NICK looks up at her.)</p>
+<p><strong>Nick</strong>: Hey.</p>
+<p>(SARA opens her locker as NICK goes back to looking at his letter. He puts the letter down, thinking about it. SARA notices that he's troubled about something.)</p>
+<p><strong>Sara</strong>: Everything okay?</p>
+<p>(NICK raises the letter.)</p>
+<p><strong>Nick</strong>: This is about the key CSI position. Grissom recommended me.</p>
+<p>(The look on her face freezes. It takes a beat, then she smiles.)</p>
+<p><strong>Sara</strong>: Congratulations.</p>
+<p>(NICK tucks the letter back into its envelope and stands up to get ready for his shift.)</p>
+<p><strong>Nick</strong>: It's not necessary. Position was cut. Budget had room for the new promotion or a new qiagen, bio robot ez-1. Greg will be thrilled.</p>
+<p>(As he talks, SARA'S lost in her thoughts. NICK checks his weapon and tucks it in his side.)</p>
+<p><strong>Sara</strong>: (less than enthusiastic) Yeah.</p>
+<p>(NICK shuts his locker door, turns and glances at SARA before heading for the door.)</p>
+<p><strong>Nick</strong>: Oh, well, it's just an honor to be nominated, right?</p>
+<p>(NICK leaves the room. SARA'S left standing in the locker room alone.)</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB - NIGHT]</p>
+<p>(WARRICK talks as GRISSOM examines the electronic shoe device.)</p>
+<p><strong>Warrick</strong>: Grissom, I have been in Vegas my whole life. I've known guys who counted cards, hedged bets, crushed a poker table with a lowball pair. I've seen guys beat the house with their hands ... but never with their toes.</p>
+<p>(GRISSOM presses the buttons on the transmitter and watches as the three hammers in the shoe pad pop up and down.)</p>
+<p><strong>Grissom</strong>: Transmitter and receiver.</p>
+<p><strong>Warrick</strong>: I was reading about these silicon valley types in the '80s called the ... eudaemonic enterprises. Have you heard of them?</p>
+<p><strong>Grissom</strong>: The Eudaemon. Aristotle's presiding spirit of rationality.</p>
+<p><strong>Warrick</strong>: They say they figured out a way to beat the roulette wheel. Not through a betting system, but through physics.</p>
+<p><strong>Grissom</strong>: It's simple in principle.</p>
+<p>(GRISSOM gives the roulette wheel a spin and goes into lecture mode.)</p>
+<p><strong>Grissom</strong>: A fixed mass in a known orbit.</p>
+<p>(He tosses the ball onto the wheel and the familiar sound of the ball hitting the wood is heard.)</p>
+<p>(Quick flashback to: [TOP VIEW DOWN] of a spinning roulette wheel in the casino.)</p>
+<p><strong>Grissom</strong>: (V.O.) As long as you can account for all the forces-- air resistance, friction, gravity -- you can land a probe on mars.</p>
+<p>(Camera swings around the roulette table and finds the person with the transmitter watching the wheel spin.)</p>
+<p>(Camera zooms in on the side of the spinning roulette wheel.)</p>
+<p><strong>Warrick</strong>: (V.O.) Well, they say that every roulette wheel is a little different. Tilt, wobble, bounce ...</p>
+<p>(There are various cuts between the player with the transmitter and the spinning roulette wheel. It's obvious that he's watching the wheel very carefully.)</p>
+<p><strong>Warrick</strong>: (V.O.) So, the guy with the transmitter does the calibration, clocks the position of the ball, ... </p>
+<p>(The roulette wheel slowly comes to a stop. The ball on the wheel very slowly stops in front of the player with the transmitter.)</p>
+<p><strong>Warrick</strong>: (V.O.) ... hits the switch ... </p>
+<p>(Camera zooms down the player with the transmitter down to his toes. The players toes hit the switch.)</p>
+<p><strong>Warrick</strong>: (V.O.) ... and the computer does the rest.</p>
+<p>(The camera continues to travel through the electronics in the shoe device. The lights go on and off.)</p>
+<p><strong>Warrick</strong>: (V.O.) Plays out the spin in milliseconds, ... </p>
+<p>(White flash to: The transmitter sends the signal and the camera travels across the floor past the other players feet.)</p>
+<p><strong>Warrick</strong>: (V.O.) ... predicts the result, ... </p>
+<p>(The signal goes into the receiver in the player's shoe.)</p>
+<p><strong>Warrick</strong>: (V.O.) ... and then transmits a code to the receiver about where that ball will land.</p>
+<p>(The camera travels up and lands on TEDDY KELLER in his wig and fat suit at the other end of the roulette wheel table.)</p>
+<p><strong>Player</strong>: All right, big money, big money!</p>
+<p>(As he stares at the board, the right betting number pads glow. TEDDY reaches forward and starts to place his bets.)</p>
+<p><strong>Teddy Keller</strong>: $1,000 on four, 22, five and 17.</p>
+<p>(Camera close up of the roulette ball on the wheel. The ball stops.)</p>
+<p><strong>Croupier</strong>: It's number 22.</p>
+<p>(The camera moves from TEDDY KELLER to DAVIS MULLINS in the baseball cap with the transmitter. The crowd cheers.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: This setup gives you a 44-percent advantage over the house. For every hundred these guys bet, they're pulling in $2,200 an hour.</p>
+<p><strong>Grissom</strong>: Nice return. But it's a complicated system.</p>
+<p>(NICK walks into the room.)</p>
+<p><strong>Nick</strong>: Complicated, huh? Maybe for a couple of pizza majors. But not for an electrical engineering grad student. AFIS got a hit on the print off the transmitter in the shoe. </p>
+<p>(NICK hands GRISSOM the sheet. It reads:<br />
+PUPOSES<br />
+ATTN* 182672KUSC-971316502-HOM V<br />
+** LVMP RECORD<br />
+** LAS VEGAS<br />
+** III NEVADA ONLY RECORD<br />
+CII/A05309354<br />
+DOB/ 07/14/82 s*x/M RAC/CAUCASIAN<br />
+HGT/510 WGT/155 EYE/BRO HAI/BRO<br />
+NAM/01 LANDERS, SETH<br />
+OCCUPATION: STUDENT<br />
+CHARGES: FRAUD CHARGES-<br />
+NRS205.463<br />
+OBTAINING AND USING PERSO--<br />
+OF ANOTHER PERSON TO HAR--</p>
+<p><strong>Nick</strong>: Seth Landers. WLVU. Got busted a few years ago for making fake IDs.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<p>[EXT. SIDEWALK -- DAY] </p>
+<p>(BRASS runs out of the apartment building and heads for NICK.) </p>
+<p><strong>Brass</strong>: Seth Landers doesn't have a roommate. No answer at his door. Guy's in the wind.</p>
+<p>(He joins NICK and the two of them walk down the sidewalk.)</p>
+<p><strong>Nick</strong>: Well, If someone hit my boys all mob-style I'd disappear, too, you know?</p>
+<p><strong>Brass</strong>: Yeah, I guess we're gonna have to do this the hard way. I'll put out a broadcast.</p>
+<p>(They stop at the side of the building. BRASS sees something.)</p>
+<p><strong>Brass</strong>: Wait a minute. </p>
+<p>(On the side of the building near the parked cars, BRASS sees a kid fiddling with the lock on his bike. He shouts over to the kid.)</p>
+<p><strong>Brass</strong>: Hey, kid ... you know Seth Landers?</p>
+<p>(The kid turns and looks at BRASS and NICK. He panics and takes off running in the other direction.)</p>
+<p><strong>Nick</strong>: Uh-oh.</p>
+<p>(NICK takes off after him. They run past the building.)</p>
+<p><strong>Nick</strong>: Stop!</p>
+<p>(NICK slowly catches up to the kid. BRASS runs after them. SETH LANDERS turns and glances behind him and finds NICK closer than before. He runs to the fence and grabs it intending to get over it somehow.)</p>
+<p>(NICK grabs SETH LANDERS and pulls him down from the fence. SETH LANDERS starts screaming.)</p>
+<p><strong>Seth Landers</strong>: (desperately) Don't kill me! Don't kill me! Please! I'll do whatever Mr. Braun wants! </p>
+<p>(NICK gets SETH LANDERS' arms behind him. BRASS reaches them.)</p>
+<p><strong>Seth Landers</strong>: (pleading) Please don't kill me! Please!</p>
+<p>(BRASS takes over in cuffing SETH LANDERS while NICK takes a breather.)</p>
+<p><strong>Brass</strong>: Las Vegas police. You Seth Landers?</p>
+<p><strong>Seth Landers</strong>: Yeah.</p>
+<p><strong>Brass</strong>: Seth Landers?</p>
+<p><strong>Seth Landers</strong>: (shouts) Yes!</p>
+<p><strong>Brass</strong>: Let's go.</p>
+<p>(BRASS pulls SETH LANDERS back to the building as NICK watches. NICK takes a breath and follows them.)</p>
+<p>FADE OUT</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(BRASS and WARRICK interview SETH LANDERS. BRASS paces the floor as WARRICK stands next to the table.) </p>
+<p><strong>Brass</strong>: Jacking Sam Braun's casino at roulette -- that was gutsy... and smart. And since you weren't the one placing the bet, I guess that makes you the smart one.</p>
+<p><strong>Warrick</strong>: Your boys right here -- Teddy and Davis, the candid camera.</p>
+<p>(WARRICK puts the photos on the table. The first photo is of TEDDY KELLER in the fat suit and wig. The photo is labeled on the bottom: RAMPART HOTEL<br />
+01.05.42 05/20/04 CAMERA 247 CASINO SECURITY.)</p>
+<p>(The second photo is of DAVIS MULLINS sitting at the roulette table. The bottom of the photo is labeled: RAMPART HOTEL 01:07:56 05/20/04 CAMERA<br />
+247 CASINO SECURITY.)</p>
+<p><strong>Seth Landers</strong>: They came to me. It was their idea.</p>
+<p>(WARRICK sits down.)</p>
+<p><strong>Warrick</strong>: Judging from what we found in your apartment, looks like you made their idea work.</p>
+<p>(WARRICK puts another photo of the cluttered workstation on the table in front of )</p>
+<p><strong>Seth Landers</strong>: I built the computers to put in the shoes. That's all.</p>
+<p><strong>Brass</strong>: Your partners cleared half a mil on your skills. Dollar signs get involved, things get ugly, huh?</p>
+<p><strong>Seth Landers</strong>: Scam was 20 to 30k a night, max. We hit Pike's. Next day, Tangiers. Everything was great. We made fifty grand, and then Teddy and Davis got greedy. You can't crush a roulette table like that, and not expect someone to notice.</p>
+<p><strong>Warrick</strong>: The Tangiers, Pike's, Rampart ... these are all Sam Braun's places. You got something against him?</p>
+<p><strong>Seth Landers</strong>: No. His casinos are old school. They're low tech. (WARRICK nods in understanding.) There's less interference for my gear.</p>
+<p><strong>Warrick</strong>: Your gear ... (He looks at the photo of the workstation.) What was your cut?</p>
+<p><strong>Seth Landers</strong>: I didn't get one. I just got paid for my supplies and my time. That's all.</p>
+<p><strong>Warrick</strong>: (scoffs) Yeah, picture that!</p>
+<p><strong>Seth Landers</strong>: It was a challenge. I just wanted to see if I could make it work.</p>
+<p><strong>Brass</strong>: Any idea where the money is?</p>
+<p><strong>Seth Landers</strong>: Why don't you ask Sam Braun?</p>
+<p>(Quick flashback to: [RAMPART CASINO - NIGHT] SETH LANDERS is at the slot machines when TEDDY KELLER walks into the casino. He walks by.)</p>
+<p>(TEDDY KELLER is stopped by a couple of security guards.)</p>
+<p><strong>Seth Landers</strong>: (V.O.) When they took teddy to the &quot;box,&quot; I was sure we were busted.</p>
+<p>(DAVID MULLINS stands up and leaves the roulette table. The guards with TEDDY KELLER pass by SETH still at the slot machines.)</p>
+<p><strong>Seth Landers</strong>: (V.O.) Davis freaked. He split.</p>
+<p>(Later, TEDDY KELLER walks out past SETH with the bag of money.)</p>
+<p><strong>Seth Landers</strong>: (V.O.) And then when he came out with the money, everything was great.</p>
+<p>(TEDDY walks by SETH. SETH moves away from his slot machine and follows TEDDY.)</p>
+<p><strong>Seth Landers</strong>: (V.O.) For about two seconds.</p>
+<p>(After a couple of steps, SETH watches as two security guards grab TEDDY KELLER just as he clears the doorway.)</p>
+<p><strong>Security Guard</strong>: Come on, pal. Let's take a walk.</p>
+<p><strong>Seth Landers</strong>: (V.O.) They grabbed him and took him outside.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Seth Landers</strong>: That was the last time I saw either one of them.</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE -- DAY] </p>
+<p>(GRISSOM stands in his office, his phone on the floor. He uses his toes and tries to dial. CATHERINE knocks loudly on the door frame as she walks into the office. GRISSOM glances up and continues to dial the phone with his toes.) </p>
+<p><strong>Catherine</strong>: What are you doing?</p>
+<p><strong>Grissom</strong>: I'm testing my podiatric dexterity. What are you doing?</p>
+<p><strong>Catherine</strong>: Uh, you know those tracks that we found at the neon graveyard?</p>
+<p>(GRISSOM stops dialing and looks at CATHERINE.)</p>
+<p><strong>Grissom</strong>: The ones from the case you're not working on?</p>
+<p><strong>Catherine</strong>: Yeah, those. Sam ... used to be a caddy man. He would drive a new one every year. These days, he's being driven.</p>
+<p><strong>Grissom</strong>: And you know this because ... ?</p>
+<p><strong>Catherine</strong>: I saw him. (GRISSOM moves over to the seat behind his desk.) He came to me.</p>
+<p><strong>Grissom</strong>: And you walked away, I hope.</p>
+<p><strong>Catherine</strong>: I made him walk away from me. Right into a stretch limo with a big turning radius.</p>
+<p><strong>Grissom</strong>: That doesn't prove anything. Besides, any evidence that comes from you is tainted.</p>
+<p><strong>Catherine</strong>: Then have it come from you. Warrant shouldn't be hard to get. Especially if the call comes from someone whose character is above reproach.</p>
+<p>(GRISSOM stops and looks at CATHERINE. She makes sure he meets her eyes and her meaning. She turns and leaves the office.)</p>
+<p>CUT TO:<br />
+[INT. CSI - GARAGE - NIGHT]</p>
+<p>(GRISSOM and SARA are going over SAM BRAUN'S limo, Nevada license # 225-THG.)</p>
+<p>(Camera moves around the limo and we see GRISSOM walking along the length of the limo, pulling the tape measure that SARA'S holding down at the other end. He holds a clipboard in his hand.)</p>
+<p>(As he measures the distance between the tires, SARA looks up at the side of the limo.)</p>
+<p><strong>Sara</strong>: Nick said the budget for the promotion was cut. </p>
+<p><strong>Grissom</strong>: 240 inches-- 20 feet. </p>
+<p><strong>Sara</strong>: He also said you recommended him.</p>
+<p>(SARA lets go of the tape measure. It slides along the length of the limo and snaps back in front of GRISSOM. He looks at her.)</p>
+<p><strong>Grissom</strong>: I did.</p>
+<p>(She turns to look at the tires. GRISSOM clicks his pen open and writes on the clipboard.)</p>
+<p>(SARA finds blue glass bits embedded in the tire treads.)</p>
+<p><strong>Sara</strong>: Possible neon glass fragment. </p>
+<p>(She reaches to her kit to get an instrument to take a sample of the glass. GRISSOM walks over to her. She picks off the glass and looks at it. GRISSOM kneels in front of her, his eyes on the fragment in her hand.)</p>
+<p>(He looks at SARA. She looks at him.)</p>
+<p>(Cut to: [INSIDE THE LIMO])</p>
+<p>(The limo door opens on both sides. GRISSOM looks in from the left as SARA crawls into the back of the limo from the right.)</p>
+<p>(They both sit on the side seat. SARA sprays the back of the limo as GRISSOM sprays the front.)</p>
+<p><strong>Sara</strong>: You said you didn't have a problem with me.</p>
+<p><strong>Grissom</strong>: I don't. </p>
+<p>(They continue to spray the seats.)</p>
+<p><strong>Grissom</strong>: I thought that Nick was the best candidate for the position.</p>
+<p><strong>Sara</strong>: Why?</p>
+<p><strong>Grissom</strong>: Because he didn't care whether he got the job or not.</p>
+<p>(SARA stops spraying.)</p>
+<p><strong>Sara</strong>: That's a stupid reason.</p>
+<p>(They resume spraying. GRISSOM finds something on the back seat.)</p>
+<p><strong>Grissom</strong>: We've got blood.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. RAMPART CASINO - MAIN FLOOR -- NIGHT] </p>
+<p>(BRASS and WARRICK walk through the casino accompanied by other OFFICERS.) </p>
+<p><strong>Warrick</strong>: Handle your scandal.</p>
+<p>(SAM BRAUN turns around and sees them walking toward him.)</p>
+<p><strong>Brass</strong>: Sam Braun? You're under arrest for the murder of Teddy Keller.</p>
+<p>(SAM BRAUN laughs.)</p>
+<p><strong>Sam Braun</strong>: Is this some kind of joke?</p>
+<p><strong>Brass</strong>: I'm not laughing.</p>
+<p>(SAM turns to the security guard standing next to him.)</p>
+<p><strong>Sam Braun</strong>: Call my lawyer. This won't take long.</p>
+<p>(The SECURITY GUARD turns to make the call. SAM turns to follow the SECURITY GUARD. BRASS stops him.)</p>
+<p><strong>Brass</strong>: Sam? I'm parked out front.</p>
+<p>(SAM laughs as an OFFICER puts his hands behind his back and cuffs him.)</p>
+<p>[SLOW MOTION CAMERA]</p>
+<p>(BRASS and an OFFICER accompany SAM BRAUN through the main casino floor.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(BRASS and GRISSOM interview SAM BRAUN with his LAWYER next to him.) </p>
+<p><strong>Lawyer</strong>: As much as my client appreciates your flair for the dramatic, the show's over, gentlemen. What do you have?</p>
+<p><strong>Grissom</strong>: The tire patterns at the scene of Teddy Keller's murder are consistent with the wheel base and turning radius of your client's limousine.</p>
+<p><strong>Lawyer</strong>: As well as every other limo in Vegas.</p>
+<p><strong>Grissom</strong>: We also found neon glass embedded in all four tires.</p>
+<p><strong>Lawyer</strong>: The whole town's a construction site. It's a tenuous link, at best.</p>
+<p><strong>Grissom</strong>: Well, then ... how did his blood end up in the back of your client's limousine?</p>
+<p>(THE LAWYER doesn't say anything.)</p>
+<p><strong>Brass</strong>: You waited until Teddy cleared the security cameras ...</p>
+<p>(Quick flashback to: [BACKSEAT OF LIMO] The door opens and SAM pulls TEDDY KELLER into the back seat with him. The door shuts behind him. SAM back hands TEDDY KELLER in the face causing his nose to bleed. A large splotch of blood falls to the seat.)</p>
+<p><strong>Sam Braun</strong>: We're not through talking, kid.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: And then you took him for a ride ... Vegas style. Just like the old days, huh.</p>
+<p>(Quick flashback to: [NEON GRAVEYARD - NIGHT] </p>
+<p>(They pull TEDDY KELLER out of the limo's backseat.)</p>
+<p><strong>Teddy Keller</strong>: Please. Please. Let me go.</p>
+<p>(The limo door shuts and they lead TEDDY along the neon graveyard.)</p>
+<p><strong>Teddy Keller</strong>: Please. Please.</p>
+<p>(TEDDY'S shirt is opened and the fat suit he's wearing is revealed.)</p>
+<p><strong>Sam Braun</strong>: Let me show you what I do to cheaters.</p>
+<p><strong>Teddy Keller</strong>: (screams) No, no!</p>
+<p>(They pull TEDDY over to the sign and he shoots him twice in the back of the head.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(SAM leans over and whispers something to his LAWYER. When done, the LAWYER turns, looks, and smiles at BRASS and GRISSOM.)</p>
+<p><strong>Lawyer</strong>: My client offered the young man a ride home. They stopped briefly at the neon graveyard, where they held a private conversation regarding the ethics of defrauding a casino.</p>
+<p>(BRASS chuckles.)</p>
+<p><strong>Brass</strong>: That must have been some chat. We know he left the casino with the money.</p>
+<p><strong>Lawyer</strong>: The young man returned the money as a sign of respect for my client and his position in the community.</p>
+<p><strong>Brass</strong>: I'm sure he did.</p>
+<p>(GRISSOM and SAM stare at each other.)</p>
+<p><strong>Brass</strong>: So, what next? You gonna tell me you're being set up? It happens to you a lot, huh, Sam?</p>
+<p>CUT TO:<br />
+[INT. RAMPART CASINO - MAIN FLOOR - NIGHT]</p>
+<p>(WARRICK uses an ELENCO F-2800 miniature frequency counter and walks through the floor monitoring for frequencies being used.)</p>
+<p>(He walks up the stairs to a higher point, turns and looks out at he busy gaming floor.)</p>
+<p>(He envisions seeing the frequency sound waves travel across the room.)</p>
+<p>(Camera holds on WARRICK.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY - DAY]</p>
+<p>(WARRICK walks through the hallway. DAVID HODGES grabs his test results and exits the trace lab. He heads toward WARRICK.)</p>
+<p><strong>David Hodges</strong>: Your smudge from that second kid's shirt -- I got a spectral library match to Sherwin-Williams Everclean Interior paint, navajo white.</p>
+<p>(WARRICK looks at the results.)</p>
+<p>(Quick flashback to: [INT. MULLER'S APT] WARRICK notices the paint on DAVIS MULLEN'S shirt. End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: Anything distinctive?</p>
+<p><strong>David Hodges</strong>: I would have mentioned it. Sometimes a paint sample's just a paint sample.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>(WARRICK enters the lab. GRISSOM'S inside.)</p>
+<p><strong>Warrick</strong>: You still liking Braun for these murders?</p>
+<p><strong>Grissom</strong>: Yeah, why? Something change?</p>
+<p><strong>Warrick</strong>: I'm thinking Seth Landers and his pals had a woody for him. I went back to the Rampart, and I took some electronic noise measurements. The place is a mess of interference. Electronics in old casinos aren't shielded.</p>
+<p><strong>Grissom</strong>: So, you're saying that the shoe computers would've worked better in one of the new casinos on the strip?</p>
+<p><strong>Warrick</strong>: Definitely. A kid as smart as Seth wouldn't make a mistake like that.</p>
+<p><strong>Grissom</strong>: Then it was intentional.</p>
+<p>(WARRICK nods.)</p>
+<p><strong>Grissom</strong>: Maybe personal.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB]</p>
+<p>(WARRICK searches for SETH LANDERS on the computer. The computer beeps and SETH LANDERS' Nevada Driver License appears on screen.)</p>
+<p>LANDERS, SETH<br />
+247 DUNPHY RD.<br />
+LAS VEGAS, NV<br />
+LIC # 21256453349</p>
+<p>(WARRICK thinks about it and remembers something. He picks up SETH LANDERS' rap sheet. It reads:</p>
+<p>DOB: 07-14-82<br />
+s*x: M<br />
+HGT / 5'10&quot; WGT / 155 EYE/BRN<br />
+NAM/01 LANDERS, SETH<br />
+CURRENT ADDRESS:<br />
+WLVU MESA HALL 6622 NELS-<br />
+PREVIOUS ADDRESS:<br />
+247 DUNPHY ROAD APT 3<br />
+COURT: 02/25/98<br />
+NAM: 01<br />
+CAMC LAS VEGAS<br />
+CNT: 01 #M73118<br />
+-ATTEMPTED ... </p>
+<p>(Up on screen is the following Nevada Drivers' License Information:<br />
+MULLINS, DAVIS<br />
+247 DUNPHY RD #27<br />
+LAS VEGAS NV 89109</p>
+<p>(WARRICK thinks about it and types in another search for: JOSEPH GREENE. He finds the matching address:<br />
+GREENE, JOSEPH<br />
+247 DUNPHY RD #03<br />
+LAS VEGAS, NV 89109</p>
+<p>(Camera rises and focuses on JOSEPH GREENE'S DMV photo.)</p>
+<p>CUT TO:<br />
+[INT. SMALL STORE / CASINO -- DAY] </p>
+<p>(Through the window, we see WARRICK and BRASS walking along the sidewalk toward the small store/casino. We hear the sounds of a small slot machine along with the mutterings of the person playing the machine off screen.) </p>
+<p><strong>Joseph Greene</strong>: (muttering) (o.s.) Come on, give me something. Somehting, something ... anything ...</p>
+<p>(WARRICK and BRASS turn and walk into the small store/casino where they find JOSEPH GREENE playing the slots.)</p>
+<p><strong>Brass</strong>: So, this is your casino of choice? That's what your tenants said.</p>
+<p><strong>Warrick</strong>: Sir, could you tell us about Seth Landers?</p>
+<p><strong>Joseph Greene</strong>: That's my son. Is he okay?</p>
+<p><strong>Brass</strong>: Let's stop playing dumb, Mr. Greene, huh? </p>
+<p><strong>Joseph Greene</strong>: Would you mind stepping away from the machine? You're st-staring over my shoulder, you're looking at me. You're jinxing me, and I'm gonna have to ... </p>
+<p>(BRASS reaches out and stops JOSEPH GREENE from pulling the slot machine handle.)</p>
+<p><strong>Brass</strong>: How's that? Is that better?</p>
+<p>(They see JOSEPH GREENE'S injury.)</p>
+<p><strong>Brass</strong>: What happened to your hand?</p>
+<p><strong>Joseph Greene</strong>: I had an accident a long time ago.</p>
+<p><strong>Warrick</strong>: Sam Braun do that with a hammer?</p>
+<p><strong>Joseph Greene</strong>: I'm sorry, I don't know who that person is. (He looks at WARRICK.) Who is that? (He shrugs.) I don't like to talk about my hand, okay?</p>
+<p><strong>Brass</strong>: Well, that's too bad. 'Cause you know what? Today ... this is your life.</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. POLICE DEPARTMENT - HALLWAY / WAITING ROOM - DAY] </p>
+<p>(The OFFICER escorts SAM BRAUN through the hallway and into the waiting room. They walk past JOSEPH GREENE sitting in the waiting room chair. JOSEPH GREENE turns his head to look at SAM BRAUN. They seat SAM BRAUN a few chairs away from JOSEPH GREENE.) </p>
+<p>(They cuff SAM BRAUN to the chair. JOSEPH GREENE can't keep his eyes off of SAM BRAUN. SAM turns and looks at JOSEPH GREENE. Then he turns and looks at BRASS and GRISSOM sitting in the next room staring at them.)</p>
+<p>[INT. POLICE DEPARTMENT - BRASS' OFFICE - DAY - CONTINUOUS]</p>
+<p>(BRASS and GRISSOM watch the two men in the other room.)</p>
+<p><strong>Brass</strong>: Joe Greene -- aka Joe Landers. They're old friends.</p>
+<p>(BRASS steps out of the office and heads for the waiting room.)</p>
+<p><strong>Brass</strong>: Sorry to break up the reunion, fellas. Mr. Greene ... Mr. Landers ... which is it?</p>
+<p>(SAM notices JOSEPH GREENE'S smashed fingers. JOSEPH GREENE moves his hand trying to hide it.)</p>
+<p><strong>Joseph Greene</strong>: It's Greene.</p>
+<p><strong>Brass</strong>: Come with me.</p>
+<p>(JOSEPH GREENE stands and slowly walks over to the door with BRASS. SAM BRAUN stops him.)</p>
+<p><strong>Sam Braun</strong>: (calls out) Do your hands hurt when it rains, Joe?</p>
+<p>(JOSEPH GREENE stops and turns to look at SAM BRAUN. JOSEPH GREENE turns and looks casually at SAM.)</p>
+<p><strong>Joseph Greene</strong>: Do I know you?</p>
+<p>(JOSEPH GREENE turns his back to SAM BRAUN and continues walking out of the waiting room.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY - CONTINUOUS]</p>
+<p>(BRASS interviews JOSEPH GREENE.)</p>
+<p><strong>Brass</strong>: The exclusion/exemption clause means you don't get to gamble. Period. Not even the quarter slots at the gas-and-go.</p>
+<p><strong>Joseph Greene</strong>: Don't you have something better to do? Like find out who murdered those two kids in number 27.</p>
+<p><strong>Brass</strong>: You got any theories? It was your apartment building. Your son Seth fingered the guy you were sitting next to. A guy you don't know. The guy who put you in the black book.</p>
+<p><strong>Joseph Greene</strong>: No. The gaming commission put me in the black book.</p>
+<p><strong>Brass</strong>: Yeah, for cheating, Joe.</p>
+<p><strong>Joseph Greene</strong>: (chuckles and takes off his glasses) I did not cheat. I did not cheat. I didn't have to cheat. I beat the casinos. I beat 'em, and they ganged up on me, and, uh ... that was it, they didn't want me there anymore.</p>
+<p><strong>Brass</strong>: No, you beat Sam Braun's casino and he ended your gambling career. You're barred from the casinos for life. That sounds like motive to me.</p>
+<p><strong>Joseph Greene</strong>: Motive for what, playing the quarter slots?</p>
+<p><strong>Brass</strong>: Come on.</p>
+<p><strong>Joseph Greene</strong>: Come on.</p>
+<p>(BRASS sits down at the table.)</p>
+<p><strong>Brass</strong>: Okay, look, here's a quiz. Teddy Keller, Davis Mullins and your son Seth were caught fleecing the Rampart. Now two of 'em are dead.</p>
+<p><strong>Joseph Greene</strong>: I had no idea what those two boys were doing. But I will tell you this -- I will tell you that my son is a good kid, he's a good boy.</p>
+<p><strong>Brass</strong>: Then why'd you put him in the middle of your action? Why'd you use him to settle an old score? (sighs) Maybe Sam Braun's innocent. Maybe Seth whacked his partners because he got caught.</p>
+<p><strong>Joseph Greene</strong>: Stop looking at my son. Stop looking at me, and start looking at Sam.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[EXT. SETH LANDERS' DORM - DAY]</p>
+<p>(NICK kneels next to the trash on the ground and snaps photos of the gun.)</p>
+<p><strong>Officer Metcalf</strong>: Garbage detail called it in. Says they didn't touch it.</p>
+<p><strong>Nick</strong>: Well, this is Seth Landers' dorm. </p>
+<p>(NICK picks up the gun and the shirt it's on. He stands up.) </p>
+<p><strong>Nick</strong>: There's a lot of garbage build up. When was the last pick-up?</p>
+<p><strong>Officer Metcalf</strong>: Day before yesterday. End of finals party last night.</p>
+<p><strong>Nick</strong>: Looks like blood. Let's hope the killer left his DNA behind. .22 revolver, two live rounds, four expended. Should be able to pull some prints off it.</p>
+<p><strong>Officer Metcalf</strong>: Gun's a relic.</p>
+<p><strong>Nick</strong>: Doesn't matter if it still works.</p>
+<p>CUT TO:<br />
+[INT. CSI - BALLISTICS LAB -- DAY]</p>
+<p>(The gun is fired. Two bullets slowly sink to the bottom of the water tank.)</p>
+<p>(NICK retrieves the bullets from the bottom of the tank. He looks at them while WARRICK sits at the table in front of the scope.)</p>
+<p>(NICK hands the bullet to WARRICK.)</p>
+<p><strong>Nick</strong>: There you go.</p>
+<p>(WARRICK puts the bullet under the scope and finds a match.)</p>
+<p><strong>Warrick</strong>: The test fire matches the bullet found in Teddy Keller's body.</p>
+<p><strong>Nick</strong>: So we've got our murder weapon.</p>
+<p><strong>Warrick</strong>: Yeah, we found our murder weapon. I don't know the kid thinks up this elaborate scheme to cheat the casinos. Then he kills his partners. But he dumps his gun at his dorm?</p>
+<p><strong>Nick</strong>: An rg .22. That's not a very bad ass' first weapon of choice.</p>
+<p><strong>Warrick</strong>: No, it's a small caliber weapon for an up-close-and-personal hit. I don't really see the kid pulling a Gotti.</p>
+<p><strong>Nick</strong>: Okay, two victims, two taps to the head. But the loads are different.</p>
+<p><strong>Warrick</strong>: Well, maybe he ran out of ammo. Went back and bought another brand.</p>
+<p><strong>Nick</strong>: And reloaded, yeah.</p>
+<p><strong>Warrick</strong>: The bullets that were found in Teddy Keller's skull, were copper washed cci .22s.</p>
+<p><strong>Nick</strong>: And the two rounds found in Davis Mullins were Remington Brass washed. So, based on the position of the cylinder Remingtons were fired first?</p>
+<p>(Quick flashback to: [APARTMENT #27] Close up of the gun cylinder as the chamber moves, advancing to the new bullets. Two gun shots fire. DAVIS MULLINS falls to the ground.)</p>
+<p>(Cut to: [NEON GRAVEYARD] Close up of the gun cylinder as the chamber advances to the old bullets. Two gun shots fire. TEDDY KELLER falls to the ground.)</p>
+<p><strong>Warrick</strong>: But that would mean that Davis Mullins was killed in the apartment before Teddy Keller was killed in the graveyard. The timeline's off.</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB]</p>
+<p>(GREG shows GRISSOM his findings.)</p>
+<p><strong>Greg</strong>: Blood on the shirt is a match to Davis Mullins. Epithelials from inside the shirt belong to Seth Landers.</p>
+<p>(GREG watches GRISSOM carefully. GRISSOM looks up from the test results and looks at GREG.)</p>
+<p><strong>Grissom</strong>: What?</p>
+<p><strong>Greg</strong>: That means Sam Braun's innocent. This time. Are you disappointed?</p>
+<p><strong>Grissom</strong>: It's the evidence.</p>
+<p>(GRISSOM gets up and heads out of the lab.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPATMENT - HOLDING CELL - DAY]</p>
+<p>(Inside the holding cell, SETH LANDERS sits on the bench. He scrambles to his feet and rushes over to the bars when he sees WARRICK walking toward him.)</p>
+<p><strong>Seth Landers</strong>: Hey, what's up, man? Am I going to get out of here?</p>
+<p><strong>Warrick</strong>: No. Where did you go after Teddy Keller was taken?</p>
+<p><strong>Seth Landers</strong>: You know what, you keep on asking me all these questions, but my lawyer says I'm not even supposed to talk to you.</p>
+<p><strong>Warrick</strong>: Okay, you don't have to talk to me. But you got to know you're looking at two counts of murder.</p>
+<p><strong>Seth Landers</strong>: What? I didn't kill anybody. This is crazy.</p>
+<p><strong>Warrick</strong>: Then talk to me. Tell me what happened. Where did you go? For real.</p>
+<p><strong>Seth Landers</strong>: I waited outside the casino for an hour. Teddy didn't show up so I went to his place.</p>
+<p>(Quick flashback to: [APARTMENT #27] SETH LANDERS walks into the apartment. He's panicking.)</p>
+<p><strong>Seth Landers</strong>: Davis, where are you, man? Braun got Teddy.</p>
+<p>(He rushes through the living room and heads for the bedroom. He sees DAVIS MULLINS on the floor at the foot of the bed.)</p>
+<p><strong>Seth Landers</strong>: Davis, wake up, man!</p>
+<p>(He gets a good look at DAVIS and sees that he's dead. He looks at the blood on his hands and absently wipes them on the front of his shirt. He scrambles to his feet and runs out of the apartment closing the bedroom door on his way out.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: We found the murder weapon that was used to kill your two partners. It was wrapped in your bloody t-shirt. Can you tell me about that?</p>
+<p><strong>Seth Landers</strong>: I have never used a gun in my life.</p>
+<p><strong>Warrick</strong>: It was found outside of your campus apartment.</p>
+<p><strong>Seth Landers</strong>: (shakes his head) That can't be. (WARRICK nods.) Can't be.</p>
+<p><strong>Warrick</strong>: Unless you clear it up.</p>
+<p><strong>Seth Landers</strong>: Um ... the rule was that if something went wrong, we were supposed to just go home.</p>
+<p>(SETH LANDERS turns and walks back to the bench against the far cell wall. He sits down.)</p>
+<p><strong>Seth Landers</strong>: Uh... so I found the body, got blood all over my shirt, so... I gave it to my dad. I gave my dad the shirt. He's the one who had the shirt.</p>
+<p>(Quick flashback to: [JOE GREENE'S APARTMENT] The door opens and SETH LANDERS runs inside.)</p>
+<p><strong>Seth Landers</strong>: Dad! Dad!</p>
+<p>(He grabs his dad to get his attention. JOE turns around.)</p>
+<p><strong>Seth Landers</strong>: Davis ... Davis is dead.</p>
+<p>(White flash.)</p>
+<p><strong>Seth Landers</strong>: I think they got Teddy, too. Braun's on to us. What am I going to do?</p>
+<p><strong>Joseph Greene</strong>: Give me your shirt. Go back to school and lay low.</p>
+<p>(SETH LANDERS takes his shirt off and gives it to JOE GREENE. SETH turns and leaves.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: Are you trying to tell me that your own father set you up?</p>
+<p><strong>Seth Landers</strong>: The truth is, I just wanted him to like me. But I'm not him. You know, I'm never going to be him. Counting cards and the poker face. They say it's a skill, but it's a gift. Till Sam Braun took it away.</p>
+<p><strong>Warrick</strong>: So you went after Sam Braun to prove something to your old man.</p>
+<p>(SETH gets to his feet and walks back to the bars.)</p>
+<p><strong>Seth Landers</strong>: Yeah. I mean, I went after the whale, but I skinned it. I did what my dad could never do.</p>
+<p>(SETH grabs the bars nervously. WARRICK glances down at SETH'S knuckles and sees it clean: no bruises. He looks at SETH.)</p>
+<p><strong>Warrick</strong>: Does your father own a .22?</p>
+<p>(SETH LANDERS stares at WARRICK.)</p>
+<p>CUT TO:<br />
+[INT. JOSEPH GREENE'S APARTMENT - DAY]</p>
+<p>(Outside the apartment, JOE GREENE stands with OFFICER METCALF. Inside the apartment, WARRICK and GRISSOM search for evidence.)</p>
+<p>(WARRICK uses the ALS on the couch and floor.)</p>
+<p><strong>Warrick</strong>: I got nothing.</p>
+<p>(GRISSOM walks over to the washer and checks inside.)</p>
+<p><strong>Grissom</strong>: Maybe he was expecting us.</p>
+<p><strong>Warrick</strong>: You think he cleaned up?</p>
+<p>(GRISSOM turns around and sees something. He walks over to the wall key hanger and finds some white paint on the leather key ring handle.)</p>
+<p><strong>Grissom</strong>: Well, if he did ... he missed a spot.</p>
+<p>CUT TO:<br />
+[INT. APARTMENT - DAY] </p>
+<p>(Open on the taped up door handle. It twists slowly as the door is opened. GRISSOM and WARRICK walk inside to find the place completely re-painted over, plastic sheeting still hangs from the ceiling.) </p>
+<p>(The entire apartment is newly painted white.)</p>
+<p>(GRISSOM puts his kit down on the floor.)</p>
+<p><strong>Warrick</strong>: Nice and new in here.</p>
+<p>(In the center of the room, they see the open can of paint.)</p>
+<p><strong>Warrick</strong>: Sherwin Williams, latex flat. Navajo white. What do you know. (He snaps a photo.) Same as the paint on the shirt.</p>
+<p>(While WARRICK takes photos, GRISSOM walks over to the closet and opens it. On the top shelf, he finds a black backpack. He pulls it down from the shelf. WARRICK turns around to see what GRISSOM found.)</p>
+<p><strong>Warrick</strong>: What's in the bag, &quot;dad&quot;?</p>
+<p>(GRISSOM opens the bag and pulls out the stack of bills.)</p>
+<p><strong>Grissom</strong>: Money from ... the Tangiers ... money from Pike's. Bet there's fifty grand in there.</p>
+<p>(WARRICK snaps more photos.)</p>
+<p><strong>Grissom</strong>: Plus ... what could be paint and blood smears.</p>
+<p><strong>Warrick</strong>: That blood could match the stains we found on Davis' shirt. I don't understand why he had to kill his kids. They were making a lot of money off of Braun. Dad was getting his revenge.</p>
+<p><strong>Grissom</strong>: My guess, stopped being about the money.</p>
+<p>(Quick flashback to: [APARTMENT] JOE GREENE'S painting the kitchen when his phone rings. He answers it.)</p>
+<p><strong>Joe Greene</strong>: Yeah.</p>
+<p><strong>Teddy Keller</strong>: (from phone) Hey, Joe, it's Teddy.</p>
+<p><strong>Joe Greene</strong>: Oh, hi, Teddy.</p>
+<p><strong>Teddy Keller</strong>: (from phone) Sam's on to us. He took me to neon graveyard.</p>
+<p><strong>Joe Greene</strong>: Slow down, slow down.</p>
+<p><strong>Teddy Keller</strong>: (from phone) I had to give him the money. I thought he was going to kill me.</p>
+<p><strong>Joe Greene</strong>: Don't move. I'll be there in a minute.</p>
+<p>(JOE hangs up and tosses the phone on the counter.)</p>
+<p>(Cut to: [APARTMENT #27] DAVIS MULLINS opens drawers and packs quickly.)</p>
+<p>(White flash to: JOE GREENE walks into the apartment. He closes the door behind him. DAVIS glances behind him and sees JOE.)</p>
+<p><strong>Davis Mullins</strong>: Mr. Greene, what's up, man?</p>
+<p>(JOE GREENE walks toward him.)</p>
+<p><strong>Joe Greene</strong>: Hey ... Hey ...</p>
+<p>(Cut to: JOE GREENE fires the gun pointed at the back of DAVIS MULLINS' head twice. DAVIS falls forward. JOE reaches out and pulls him to the floor. He gets white paint on the backpack when he does.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: Why settle for the money, when you can frame up your worst enemy for murder.</p>
+<p>(Quick flashback to: [NEON GRAVEYARD - NIGHT] TEDDY KELLER paces the roadway as he waits for his ride.)</p>
+<p>(The car pulls up.)</p>
+<p><strong>Teddy Keller</strong>: Hey, what the hell took you so long?</p>
+<p>(JOE steps out of the car.)</p>
+<p><strong>Teddy Keller</strong>: Joe ... Joe we got a problem. Sam ... Sam he ... </p>
+<p>(JOE pulls out the gun.)</p>
+<p><strong>Joe Greene</strong>: Turn around and walk.</p>
+<p>(He pushes TEDDY toward the &quot;W&quot;.)</p>
+<p>(Two gunshots are fired and TEDDY falls to the ground.)</p>
+<p>(White flash to: JOE uses the hammer and pounds TEDDY'S knuckles. He pulls TEDDY and rests him on the &quot;W&quot;.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(Having worked out the theory, GRISSOM and WARRICK look at each other.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[EXT. POLICE DEPARTMENT - PARKING LOT - NIGHT]</p>
+<p>(CATHERINE steps out of her vehicle. She walks over to SAM BEAUN'S limo. The back door is open. SAM'S standing at the front of the limo. She walks past the open door and toward SAM.)</p>
+<p><strong>Catherine</strong>: Sam. Could I buy you some dinner?</p>
+<p><strong>Sam Braun</strong>: Feeling a little guilty?</p>
+<p><strong>Seth Landers</strong>: Hey, Sam. (SETH LANDERS stands up out of the back of the limo. CATHERINE turns around.) Where's the ice?</p>
+<p><strong>Sam Braun</strong>: Next to the tv, kid.</p>
+<p>(CATHERINE turns and looks at SAM.)</p>
+<p><strong>Sam Braun</strong>: You want to catch a cheater -- hire one.</p>
+<p><strong>Catherine</strong>: Right. He gets to work off his debt.</p>
+<p><strong>Sam Braun</strong>: On way or another, I always get my money's worth.</p>
+<p>(SAM walks past CATHERINE and slips into the back of the limo. The door shuts behind him and the limo drives away.)</p>
+<p>(CATHERINE stands in the middle of the parking lot and watches the limo leave.)</p>
+<p>FADE TO BLACK</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
- 
-
-
-Interrogator: I'm going to make this really simple. Who are you working with?
-Ernie Menlo: I'm, uh, unemployed at the moment.
-Interrogator: You got any idea what we did to chumps like you back in the day?
-Ernie Menlo:  Uh, no. Look, could you put the A.C. on in here or somethin'? That, or just, uh, let me go. I mean, you can't keep me in here. It's against the law.
-Interrogator: There's no law in this room.
-
-Ernie Menlo:  You can't touch me.
-
- 
- 
-
-
-Brass: Two shots to the back of the head. Double tap.
-
-Grissom: He's wearing a wig and a fat suit. It's not Halloween, is it?
-Catherine: In this town, it's always Halloween.
-(BRASS picks up the NEVADA DRIVER'S LICENSE. It reads: 
-MENLO, ERNIE
-2974 WESTFALL AVE
-LAS VEGAS, NV
-LIC# 64836483749
-EXPIRES: 06-29-2009
-Brass: &quot;Ernie Menlo.&quot;  Well, he wasn't carrying a very &quot;fat&quot; wad.
-Catherine: Rolex is still on his wrist. Probably rules out robbery.  What do you think?
-Grissom: I don't know. 
-
-Grissom: I'm looking for a sign.
-CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Catherine:  Yeah ... gotta be.
- Okay. Thanks.
-
-Catherine: So, uh ... Brass ran the ID. There's no &quot;Ernie Menlo&quot; in the system. Fake.
-Grissom: GSR in the wound track. No stellate tearing. Gunshots appear to be close range, but non-contact.
-
-David Phillips: No exit wounds.
-
-Catherine: Well, I don't see any shell casings either. So maybe the killer picked them up.
-Grissom:  Professional hit?
-
-
-David Phillips: Major fractures and lacerations on his hands. 
-Grissom: Lividity's consistent with body position. I don't think it was a body dump.
-Catherine: So either he walked in or he got a ride. Either way, this gravel and glass makes good evidence.
-
-Grissom: I'll go ahead and bag a sample.
-
-
- 
-
-
-(CATHERINE takes out a tape measure and measures the tire marks. GRISSOM checks the victim's shirt pocket and finds a receipt folded inside. He opens it and reads it: 
-# 3232
-RAMPART CASINO
-221 NORTH RAMPART BLVD.
-LAS VEGAS, NV 89145
-Federal Identification Number: 88-0513636
-WINNER'S Name: ERNIE MENLO
-2974 WESTFALL AVE
-LAS VEGAS, NV 89156
-Grissom: &quot;Rampart Casino.&quot; Well, his day started out good. He won $436,278. 
-David Phillips: Rampart's always been lucky for me.
-Grissom: So where is this money?
-
-
-Catherine: I found some tire treads. I think the vehicle was making a three-point turn.
-Grissom: And it seems that robbery may be a motive after all.
-
-1 Gross Winnings: $436,278.00
-3 Type of wager: Roulette
-5 Transaction: 79362
-Catherine: Wow!
-(She notes the other information:
-PAYER'S name, Street address, City, state
-RAMPART CASINO
-221 NORTH RAMPART BLVD
-LAS VEGAS, NV 89145
-Federal identification number: 88-0513636
-Catherine: &quot;Rampart.&quot; Guess I'll go check that out.
-Grissom: You can't. We found the body under the WHISKEY TOWN sign and the guy just cleaned out the Rampart Casino.
-Catherine: Coincidence.
-Grissom: Even if it is, they're still Sam Braun's casinos.
-Catherine: Why is that a problem?
-Grissom: He's your father. You can't be on this case.
-Catherine: Gil ... 
-Grissom: Catherine, you have to go home.
-
-
-
-
-
-
-
-(DAVID PHILLIPS puts the victim's clothes in a package. WARRICK works on the victim's lacerated hand. SARA removes the rolex watch. She looks at it. It's
-9:41 am.)
-Sara: No ticks. It's authentic.
-
-Sara: Logo sticker isn't worn down. Watch could be new.
-Warrick: Guy hits the jackpot, has to celebrate. Goes and buys some bling-bling to impress the strippers with.
-
-Warrick: What have you got?
-
-Warrick: Air conditioned socks.
-
-
-Lyric: ... I can hear the sound of violins 
-
-
-Croupier: Insurance?
-Lyric: Long before it begins ... dealer wins.
-Croupier: Craps.
-
-Croupier: Seven!
-
-(The roulette wheel turns
-Croupier: Twenty-four is even.
-
-
-Brass: So, I talked to the pit boss who signed the vic's W-2. He was pulling surveillance. He remembers the big winner.
-
-Brass: Sam Braun! What a surprise!
-Sam Braun: The fat kid ... he was cheating.
-Brass: What do you do about it?
-Sam Braun: Well, we had a little chat. I didn't kill him.
-Grissom: Did you take him to the box?
-Sam Braun: Gentlemen, these days, we call it &quot;The Holding Room&quot;.
-
-
-
-Grissom: Smells like the cleaning crew just left.
-
-Sam Braun: Security brought the kid down here around 2:00 A.M. I came in. We talked. He walked out around three.
-
-(SAM BRAUN walks over to the camera as GRISSOM stands up. The camera reads:
-05-13-04 1:32 pm. SAM BRAUN points to the camera.)
-Sam Braun: It's all in there.
-Grissom: Well, good. We'll look at the tapes a little later.
-
-
-Grissom: Would you turn off the lights, please?
-
-Sam Braun: It's well within my rights to have a discussion with anyone in my place. 
-
-Sam Braun: The kid was cheating. I wanted to know how.
-
-Sam Braun: Nobody wins 400k at roulette. What's your system?
-Ernie Menlo: Clean living... good karma. But either you call the cops and book me now, or I'm out of here.
-Sam Braun: You're no longer welcome at the Rampart.
-Ernie Menlo: Awesome. Okay, I'll take my money and go.
-
-
-
-Sam Braun: Do you have any idea the house advantage in roulette? 
-Grissom: Five point two six percent. Albert Einstein had a theory about roulette. He said the only way to win at roulette is to steal the money from the table when the croupier isn't looking.
-Sam Braun: There's always someone looking.
-
-Grissom: Well, maybe it was an inside job, Sam. Maybe somebody bought off one of your guys.
-
-Sam Braun: I'm curious. What bothers you more? The fact that you couldn't pin a murder on me or that Catherine cashed my check?
-
-Sam Braun: There were no strings on that money.
-
-Grissom: Just because you can't see something doesn't mean it's not there.
-Sam Braun:  Believe whatever you like. That kid walked out of here with my money. If you figure out how he ripped me off, would you let me know?
-
-
- 
- 
-Robbins: For what it's worth, these bruises correspond to the holes in his sock.
-
-Warrick: Well, he's been worked over pretty good. He's got a nice fat lip.
-Robbins: Yeah.  There was a good clot in the wound, and the tissues were contused. I'd say it occurred at least an hour or two before death. I teased out a couple of small-caliber projectiles from his brain.
-
-Robbins: One was embedded in the right frontal cortex. The other lodged in the first cervical vertebra.
-Warrick: It's copper-washed lead. Must be a .22.
-Robbins: You know, historically, .22s were the hit man's bullet of choice.
-
-Robbins:  They have the energy to enter into the cranial vault, but not enough to exit, so they just ricochet around inside, shredding the gray matter until they stop.
-
-Warrick: Nice.
-Robbins: There's also extensive crush injury to both hands, with fractures of the metacarpals and the phalanges.
-
-Robbins: Bruises appear perimortem.
-Warrick: Any idea what might have caused that kind of damage?
-
-Robbins: Given the fracture pattern, I'd guess it was some sort of blunt object. 
-Warrick: Maybe a ball peen hammer.
-Robbins: What gets you to that?
-Warrick: They used to tell me back in the days, the first time you got caught cheating, they'd give you a couple whacks on the hand with a ball peen hammer.
-Robbins: Ow.
-Warrick: The second time, you'd lose a limb.
-Robbins: Third time?
-Warrick: A long walk in the desert with a shovel.
-
- 
- 
-
-
-
- 
- 
-Grissom: A computer in his shoe.
-Warrick: As far as I could tell, it's a wireless receiver. It picks up a signal, solenoids drive the points up against the guy's foot, tells him what number to bet.
-Grissom: Based on what?
-Warrick: I don't know. Archie's working on it right now.
-Grissom: Well, if our vic was the receiver, there has to be a transmitter.
-
-Sara: Hey, I got an ID on our vic.  A Teddy Keller. Everyone who buys a rolex gets registered at the point of purchase. So I ran the serial number. He bought the watch at the forum shops two days ago. And I got his home address.
-Grissom: Well, his driver's license was fake, so, this could be fake, too.
-Sara: A fake ID is for scamming a casino. A baller puts his real name on a roley. 
- 
-Sara: What? He rubs off.
-
- 
- 
-Joseph Greene : Teddy Deller. That's apartment 27. Is he in some kind of trouble? Hey, John.
-
-John:  Hey, Mr. Green.
-
-Brass: When was the last time you saw him?
-Joseph Greene : I don't know. He's got a roommate -- Davis Mullins. Oh, yeah, they eat a tremendous amount of pizza. 
-Tremendous amount of pizza and calzone. I feel like bopping that delivery guy every time he buzzes the gate.
-
-Joseph Greene : Here we are.
-
-Joseph Greene : Anybody home?
-
-Joseph Greene : Hello?
-Brass: I guess the roommate's out, huh?
-
-
-
-Warrick: It's freezing in here.
-
-Warrick: Get a load of this wheel. It's regulation. These things run about 1,500 bucks.
-Brass: Well, they cleared almost half a mil. It's a good investment.
-Warrick: Yeah.
-
-Warrick: These guys definitely had a system.
-
-Brass: Hey, Rick, you might want to check this out.
-
-Warrick: Looks like the roommate's home after all.
-FADE OUT
-
-
-
-
- 
-Warrick: Two taps to the head. Deja vu.
-
-Brass: These guys liked to play dress-up.
-Warrick: You find any shoes back there?
-
-Brass: I'm looking.
-
-
-Warrick: Blood smear here.
-David Phillips: Maybe the killer tried to clean up.
-
-Warrick: That's ridiculous. Why bother?
-David Phillips: Okay.
-Warrick: Have a distinctive white mark on his right shoulder.
-
-Warrick: What do you make of that?
-David Phillips: You already shot me down once.
-Warrick: Look, uh, it could be right.
-David Phillips: Thanks.
-Warrick: Can you make sure that gets to trace?
-David Phillips: Yeah. Sure.
-
-Warrick: Hey, what're you doing, touching that? You got gloves?
-Brass: Relax. I got it covered. Hey, Rick, remember the time you said you could get a print off of air?
-Warrick: Yeah.
-Brass: Check this out.
-
-
-
- 
-
-
- 
- 
-Chris Bezich: So you just got the day off? Just ... just like that?
-Catherine: Are you complaining?
-Chris Bezich: No. You just seem a little pissed off about it.  I like it.
-
-Catherine: Hmm.
-
-Catherine: You like that?
-Chris Bezich: Depends on what you're gonna do with it. 
-
-Chris Bezich: Pretty expensive taste for a public servant.
-
-Sam Braun: She can afford it. 
- 
-Sam Braun:  You going to introduce him?
-
-Chris Bezich: Mr. Braun. Chris Bezich. It's a pleasure to meet you. Your hosts, they-they send a lot of your whales to my club, Acid Drop.
-
-Sam Braun:  That's great.
-Catherine:  Uh-uh. Just give us a minute.
-Chris Bezich: Okay.
-
-Catherine: What do you want?
-Sam Braun: Mugs, I heard you had some time off because of me.
-Catherine: I could get fired for even having this conversation.
-Sam Braun: Relax. Vegas is a small town. I'm always running into people I know.
-
-Catherine: Just cut to the chase, Sam.
-Sam Braun: Some people in this town think I'm a murderer.
-Catherine: Some people in this town know you're a murderer.
-
-Sam Braun:  I did not kill those kids. I did not!
-Catherine:  Kids? How do you know there's more than one?
-Chris Bezich:  Cath ...
-
-Catherine: I'm fine.
-
-Sam Braun:  You're not impressing her. I'll be in touch.
-
-
-
-Chris Bezich:  So. You and Sam Braun ...
-Catherine: He slept with my mother.
-
- 
-
- 
-David Hodges: The glass fragments you found at the apartment building are primarily lead-based. Different curvatures and textures with traces of florescent powder, phosphorous and mercury.
-Grissom: Neon glass.
-David Hodges: I checked out that graveyard once. Pretty interesting.
-Grissom: The comparison?
-David Hodges: Your sample's consistent with the glass collected from the first crime scene.
-Grissom: See? That connects the two murders. We've got a timeline.
-
-
-
-Sara: Hey.
-
-Nick: Hey.
-
-Sara: Everything okay?
-
-Nick: This is about the key CSI position. Grissom recommended me.
-
-Sara: Congratulations.
-
-Nick: It's not necessary. Position was cut. Budget had room for the new promotion or a new qiagen, bio robot ez-1. Greg will be thrilled.
-
-Sara:  Yeah.
-
-Nick: Oh, well, it's just an honor to be nominated, right?
-
-
-
-
-Warrick: Grissom, I have been in Vegas my whole life. I've known guys who counted cards, hedged bets, crushed a poker table with a lowball pair. I've seen guys beat the house with their hands ... but never with their toes.
-
-Grissom: Transmitter and receiver.
-Warrick: I was reading about these silicon valley types in the '80s called the ... eudaemonic enterprises. Have you heard of them?
-Grissom: The Eudaemon. Aristotle's presiding spirit of rationality.
-Warrick: They say they figured out a way to beat the roulette wheel. Not through a betting system, but through physics.
-Grissom: It's simple in principle.
-
-Grissom: A fixed mass in a known orbit.
-
-
-Grissom:  As long as you can account for all the forces-- air resistance, friction, gravity -- you can land a probe on mars.
-
-
-Warrick:  Well, they say that every roulette wheel is a little different. Tilt, wobble, bounce ...
-
-Warrick:  So, the guy with the transmitter does the calibration, clocks the position of the ball, ... 
-
-Warrick:  ... hits the switch ... 
-
-Warrick:  ... and the computer does the rest.
-
-Warrick:  Plays out the spin in milliseconds, ... 
-
-Warrick:  ... predicts the result, ... 
-
-Warrick:  ... and then transmits a code to the receiver about where that ball will land.
-
-Player: All right, big money, big money!
-
-Teddy Keller: $1,000 on four, 22, five and 17.
-
-Croupier: It's number 22.
-
-
-Warrick: This setup gives you a 44-percent advantage over the house. For every hundred these guys bet, they're pulling in $2,200 an hour.
-Grissom: Nice return. But it's a complicated system.
-
-Nick: Complicated, huh? Maybe for a couple of pizza majors. But not for an electrical engineering grad student. AFIS got a hit on the print off the transmitter in the shoe. 
-(NICK hands GRISSOM the sheet. It reads:
-PUPOSES
-ATTN* 182672KUSC-971316502-HOM V
-** LVMP RECORD
-** LAS VEGAS
-** III NEVADA ONLY RECORD
-CII/A05309354
-DOB/ 07/14/82 s*x/M RAC/CAUCASIAN
-HGT/510 WGT/155 EYE/BRO HAI/BRO
-NAM/01 LANDERS, SETH
-OCCUPATION: STUDENT
-CHARGES: FRAUD CHARGES-
-NRS205.463
-OBTAINING AND USING PERSO--
-OF ANOTHER PERSON TO HAR--
-Nick: Seth Landers. WLVU. Got busted a few years ago for making fake IDs.
-
-
- 
- 
-Brass: Seth Landers doesn't have a roommate. No answer at his door. Guy's in the wind.
-
-Nick: Well, If someone hit my boys all mob-style I'd disappear, too, you know?
-Brass: Yeah, I guess we're gonna have to do this the hard way. I'll put out a broadcast.
-
-Brass: Wait a minute. 
-
-Brass: Hey, kid ... you know Seth Landers?
-
-Nick: Uh-oh.
-
-Nick: Stop!
-
-
-Seth Landers:  Don't kill me! Don't kill me! Please! I'll do whatever Mr. Braun wants! 
-
-Seth Landers:  Please don't kill me! Please!
-
-Brass: Las Vegas police. You Seth Landers?
-Seth Landers: Yeah.
-Brass: Seth Landers?
-Seth Landers:  Yes!
-Brass: Let's go.
-
-FADE OUT
-
-
-;
-
-
-
- 
- 
-Brass: Jacking Sam Braun's casino at roulette -- that was gutsy... and smart. And since you weren't the one placing the bet, I guess that makes you the smart one.
-Warrick: Your boys right here -- Teddy and Davis, the candid camera.
-(WARRICK puts the photos on the table. The first photo is of TEDDY KELLER in the fat suit and wig. The photo is labeled on the bottom: RAMPART HOTEL
-01.05.42 05/20/04 CAMERA 247 CASINO SECURITY.)
-(The second photo is of DAVIS MULLINS sitting at the roulette table. The bottom of the photo is labeled: RAMPART HOTEL 01:07:56 05/20/04 CAMERA
-247 CASINO SECURITY.)
-Seth Landers: They came to me. It was their idea.
-
-Warrick: Judging from what we found in your apartment, looks like you made their idea work.
-
-Seth Landers: I built the computers to put in the shoes. That's all.
-Brass: Your partners cleared half a mil on your skills. Dollar signs get involved, things get ugly, huh?
-Seth Landers: Scam was 20 to 30k a night, max. We hit Pike's. Next day, Tangiers. Everything was great. We made fifty grand, and then Teddy and Davis got greedy. You can't crush a roulette table like that, and not expect someone to notice.
-Warrick: The Tangiers, Pike's, Rampart ... these are all Sam Braun's places. You got something against him?
-Seth Landers: No. His casinos are old school. They're low tech.  There's less interference for my gear.
-Warrick: Your gear ...  What was your cut?
-Seth Landers: I didn't get one. I just got paid for my supplies and my time. That's all.
-Warrick:  Yeah, picture that!
-Seth Landers: It was a challenge. I just wanted to see if I could make it work.
-Brass: Any idea where the money is?
-Seth Landers: Why don't you ask Sam Braun?
-
-
-Seth Landers:  When they took teddy to the &quot;box,&quot; I was sure we were busted.
-
-Seth Landers:  Davis freaked. He split.
-
-Seth Landers:  And then when he came out with the money, everything was great.
-
-Seth Landers:  For about two seconds.
-
-Security Guard: Come on, pal. Let's take a walk.
-Seth Landers:  They grabbed him and took him outside.
-
-Seth Landers: That was the last time I saw either one of them.
-
- 
- 
-Catherine: What are you doing?
-Grissom: I'm testing my podiatric dexterity. What are you doing?
-Catherine: Uh, you know those tracks that we found at the neon graveyard?
-
-Grissom: The ones from the case you're not working on?
-Catherine: Yeah, those. Sam ... used to be a caddy man. He would drive a new one every year. These days, he's being driven.
-Grissom: And you know this because ... ?
-Catherine: I saw him.  He came to me.
-Grissom: And you walked away, I hope.
-Catherine: I made him walk away from me. Right into a stretch limo with a big turning radius.
-Grissom: That doesn't prove anything. Besides, any evidence that comes from you is tainted.
-Catherine: Then have it come from you. Warrant shouldn't be hard to get. Especially if the call comes from someone whose character is above reproach.
-
-
-
-
-
-
-Sara: Nick said the budget for the promotion was cut. 
-Grissom: 240 inches-- 20 feet. 
-Sara: He also said you recommended him.
-
-Grissom: I did.
-
-
-Sara: Possible neon glass fragment. 
-
-
-
-
-
-Sara: You said you didn't have a problem with me.
-Grissom: I don't. 
-
-Grissom: I thought that Nick was the best candidate for the position.
-Sara: Why?
-Grissom: Because he didn't care whether he got the job or not.
-
-Sara: That's a stupid reason.
-
-Grissom: We've got blood.
-
-
- 
- 
-Warrick: Handle your scandal.
-
-Brass: Sam Braun? You're under arrest for the murder of Teddy Keller.
-
-Sam Braun: Is this some kind of joke?
-Brass: I'm not laughing.
-
-Sam Braun: Call my lawyer. This won't take long.
-
-Brass: Sam? I'm parked out front.
-
-
-
-
- 
- 
-Lawyer: As much as my client appreciates your flair for the dramatic, the show's over, gentlemen. What do you have?
-Grissom: The tire patterns at the scene of Teddy Keller's murder are consistent with the wheel base and turning radius of your client's limousine.
-Lawyer: As well as every other limo in Vegas.
-Grissom: We also found neon glass embedded in all four tires.
-Lawyer: The whole town's a construction site. It's a tenuous link, at best.
-Grissom: Well, then ... how did his blood end up in the back of your client's limousine?
-
-Brass: You waited until Teddy cleared the security cameras ...
-
-Sam Braun: We're not through talking, kid.
-
-Brass: And then you took him for a ride ... Vegas style. Just like the old days, huh.
-(Quick flashback to:  
-
-Teddy Keller: Please. Please. Let me go.
-
-Teddy Keller: Please. Please.
-
-Sam Braun: Let me show you what I do to cheaters.
-Teddy Keller:  No, no!
-
-
-
-Lawyer: My client offered the young man a ride home. They stopped briefly at the neon graveyard, where they held a private conversation regarding the ethics of defrauding a casino.
-
-Brass: That must have been some chat. We know he left the casino with the money.
-Lawyer: The young man returned the money as a sign of respect for my client and his position in the community.
-Brass: I'm sure he did.
-
-Brass: So, what next? You gonna tell me you're being set up? It happens to you a lot, huh, Sam?
-
-
-
-
-
-
-
-
-
-David Hodges: Your smudge from that second kid's shirt -- I got a spectral library match to Sherwin-Williams Everclean Interior paint, navajo white.
-
-
-Warrick: Anything distinctive?
-David Hodges: I would have mentioned it. Sometimes a paint sample's just a paint sample.
-Warrick: Yeah.
-
-Warrick: You still liking Braun for these murders?
-Grissom: Yeah, why? Something change?
-Warrick: I'm thinking Seth Landers and his pals had a woody for him. I went back to the Rampart, and I took some electronic noise measurements. The place is a mess of interference. Electronics in old casinos aren't shielded.
-Grissom: So, you're saying that the shoe computers would've worked better in one of the new casinos on the strip?
-Warrick: Definitely. A kid as smart as Seth wouldn't make a mistake like that.
-Grissom: Then it was intentional.
-
-Grissom: Maybe personal.
-
-
-
-LANDERS, SETH
-247 DUNPHY RD.
-LAS VEGAS, NV
-LIC # 21256453349
-(WARRICK thinks about it and remembers something. He picks up SETH LANDERS' rap sheet. It reads:
-DOB: 07-14-82
-s*x: M
-HGT / 5'10&quot; WGT / 155 EYE/BRN
-NAM/01 LANDERS, SETH
-CURRENT ADDRESS:
-WLVU MESA HALL 6622 NELS-
-PREVIOUS ADDRESS:
-247 DUNPHY ROAD APT 3
-COURT: 02/25/98
-NAM: 01
-CAMC LAS VEGAS
-CNT: 01 #M73118
--ATTEMPTED ... 
-(Up on screen is the following Nevada Drivers' License Information:
-MULLINS, DAVIS
-247 DUNPHY RD #27
-LAS VEGAS NV 89109
-(WARRICK thinks about it and types in another search for: JOSEPH GREENE. He finds the matching address:
-GREENE, JOSEPH
-247 DUNPHY RD #03
-LAS VEGAS, NV 89109
-
-
- 
- 
-Joseph Greene:  Come on, give me something. Somehting, something ... anything ...
-
-Brass: So, this is your casino of choice? That's what your tenants said.
-Warrick: Sir, could you tell us about Seth Landers?
-Joseph Greene: That's my son. Is he okay?
-Brass: Let's stop playing dumb, Mr. Greene, huh? 
-Joseph Greene: Would you mind stepping away from the machine? You're st-staring over my shoulder, you're looking at me. You're jinxing me, and I'm gonna have to ... 
-
-Brass: How's that? Is that better?
-
-Brass: What happened to your hand?
-Joseph Greene: I had an accident a long time ago.
-Warrick: Sam Braun do that with a hammer?
-Joseph Greene: I'm sorry, I don't know who that person is.  I don't like to talk about my hand, okay?
-Brass: Well, that's too bad. 'Cause you know what? Today ... this is your life.
-FADE OUT
-
-
-
-
- 
- 
-
-
-
-Brass: Joe Greene -- aka Joe Landers. They're old friends.
-
-Brass: Sorry to break up the reunion, fellas. Mr. Greene ... Mr. Landers ... which is it?
-
-Joseph Greene: It's Greene.
-Brass: Come with me.
-
-Sam Braun:  Do your hands hurt when it rains, Joe?
-
-Joseph Greene: Do I know you?
-
-
-
-
-Brass: The exclusion/exemption clause means you don't get to gamble. Period. Not even the quarter slots at the gas-and-go.
-Joseph Greene: Don't you have something better to do? Like find out who murdered those two kids in number 27.
-Brass: You got any theories? It was your apartment building. Your son Seth fingered the guy you were sitting next to. A guy you don't know. The guy who put you in the black book.
-Joseph Greene: No. The gaming commission put me in the black book.
-Brass: Yeah, for cheating, Joe.
-Joseph Greene:  I did not cheat. I did not cheat. I didn't have to cheat. I beat the casinos. I beat 'em, and they ganged up on me, and, uh ... that was it, they didn't want me there anymore.
-Brass: No, you beat Sam Braun's casino and he ended your gambling career. You're barred from the casinos for life. That sounds like motive to me.
-Joseph Greene: Motive for what, playing the quarter slots?
-Brass: Come on.
-Joseph Greene: Come on.
-
-Brass: Okay, look, here's a quiz. Teddy Keller, Davis Mullins and your son Seth were caught fleecing the Rampart. Now two of 'em are dead.
-Joseph Greene: I had no idea what those two boys were doing. But I will tell you this -- I will tell you that my son is a good kid, he's a good boy.
-Brass: Then why'd you put him in the middle of your action? Why'd you use him to settle an old score?  Maybe Sam Braun's innocent. Maybe Seth whacked his partners because he got caught.
-Joseph Greene: Stop looking at my son. Stop looking at me, and start looking at Sam.
-
-
-
-
-Officer Metcalf: Garbage detail called it in. Says they didn't touch it.
-Nick: Well, this is Seth Landers' dorm. 
- 
-Nick: There's a lot of garbage build up. When was the last pick-up?
-Officer Metcalf: Day before yesterday. End of finals party last night.
-Nick: Looks like blood. Let's hope the killer left his DNA behind. .22 revolver, two live rounds, four expended. Should be able to pull some prints off it.
-Officer Metcalf: Gun's a relic.
-Nick: Doesn't matter if it still works.
-
-
-
-
-
-Nick: There you go.
-
-Warrick: The test fire matches the bullet found in Teddy Keller's body.
-Nick: So we've got our murder weapon.
-Warrick: Yeah, we found our murder weapon. I don't know the kid thinks up this elaborate scheme to cheat the casinos. Then he kills his partners. But he dumps his gun at his dorm?
-Nick: An rg .22. That's not a very bad ass' first weapon of choice.
-Warrick: No, it's a small caliber weapon for an up-close-and-personal hit. I don't really see the kid pulling a Gotti.
-Nick: Okay, two victims, two taps to the head. But the loads are different.
-Warrick: Well, maybe he ran out of ammo. Went back and bought another brand.
-Nick: And reloaded, yeah.
-Warrick: The bullets that were found in Teddy Keller's skull, were copper washed cci .22s.
-Nick: And the two rounds found in Davis Mullins were Remington Brass washed. So, based on the position of the cylinder Remingtons were fired first?
-
-
-Warrick: But that would mean that Davis Mullins was killed in the apartment before Teddy Keller was killed in the graveyard. The timeline's off.
-
-
-
-Greg: Blood on the shirt is a match to Davis Mullins. Epithelials from inside the shirt belong to Seth Landers.
-
-Grissom: What?
-Greg: That means Sam Braun's innocent. This time. Are you disappointed?
-Grissom: It's the evidence.
-
-
-
-
-Seth Landers: Hey, what's up, man? Am I going to get out of here?
-Warrick: No. Where did you go after Teddy Keller was taken?
-Seth Landers: You know what, you keep on asking me all these questions, but my lawyer says I'm not even supposed to talk to you.
-Warrick: Okay, you don't have to talk to me. But you got to know you're looking at two counts of murder.
-Seth Landers: What? I didn't kill anybody. This is crazy.
-Warrick: Then talk to me. Tell me what happened. Where did you go? For real.
-Seth Landers: I waited outside the casino for an hour. Teddy didn't show up so I went to his place.
-
-Seth Landers: Davis, where are you, man? Braun got Teddy.
-
-Seth Landers: Davis, wake up, man!
-
-
-Warrick: We found the murder weapon that was used to kill your two partners. It was wrapped in your bloody t-shirt. Can you tell me about that?
-Seth Landers: I have never used a gun in my life.
-Warrick: It was found outside of your campus apartment.
-Seth Landers:  Can't be.
-Warrick: Unless you clear it up.
-Seth Landers: Um ... the rule was that if something went wrong, we were supposed to just go home.
-
-Seth Landers: Uh... so I found the body, got blood all over my shirt, so... I gave it to my dad. I gave my dad the shirt. He's the one who had the shirt.
-
-Seth Landers: Dad! Dad!
-
-Seth Landers: Davis ... Davis is dead.
-
-Seth Landers: I think they got Teddy, too. Braun's on to us. What am I going to do?
-Joseph Greene: Give me your shirt. Go back to school and lay low.
-
-
-Warrick: Are you trying to tell me that your own father set you up?
-Seth Landers: The truth is, I just wanted him to like me. But I'm not him. You know, I'm never going to be him. Counting cards and the poker face. They say it's a skill, but it's a gift. Till Sam Braun took it away.
-Warrick: So you went after Sam Braun to prove something to your old man.
-
-Seth Landers: Yeah. I mean, I went after the whale, but I skinned it. I did what my dad could never do.
-
-Warrick: Does your father own a .22?
-
-
-
-
-
-Warrick: I got nothing.
-
-Grissom: Maybe he was expecting us.
-Warrick: You think he cleaned up?
-
-Grissom: Well, if he did ... he missed a spot.
-
- 
- 
-
-
-Warrick: Nice and new in here.
-
-Warrick: Sherwin Williams, latex flat. Navajo white. What do you know.  Same as the paint on the shirt.
-
-Warrick: What's in the bag, &quot;dad&quot;?
-
-Grissom: Money from ... the Tangiers ... money from Pike's. Bet there's fifty grand in there.
-
-Grissom: Plus ... what could be paint and blood smears.
-Warrick: That blood could match the stains we found on Davis' shirt. I don't understand why he had to kill his kids. They were making a lot of money off of Braun. Dad was getting his revenge.
-Grissom: My guess, stopped being about the money.
-
-Joe Greene: Yeah.
-Teddy Keller:  Hey, Joe, it's Teddy.
-Joe Greene: Oh, hi, Teddy.
-Teddy Keller:  Sam's on to us. He took me to neon graveyard.
-Joe Greene: Slow down, slow down.
-Teddy Keller:  I had to give him the money. I thought he was going to kill me.
-Joe Greene: Don't move. I'll be there in a minute.
-
-
-
-Davis Mullins: Mr. Greene, what's up, man?
-
-Joe Greene: Hey ... Hey ...
-
-
-Warrick: Why settle for the money, when you can frame up your worst enemy for murder.
-
-
-Teddy Keller: Hey, what the hell took you so long?
-
-Teddy Keller: Joe ... Joe we got a problem. Sam ... Sam he ... 
-
-Joe Greene: Turn around and walk.
-
-
-
-
-
-
-
-
-
-Catherine: Sam. Could I buy you some dinner?
-Sam Braun: Feeling a little guilty?
-Seth Landers: Hey, Sam.  Where's the ice?
-Sam Braun: Next to the tv, kid.
-
-Sam Braun: You want to catch a cheater -- hire one.
-Catherine: Right. He gets to work off his debt.
-Sam Braun: On way or another, I always get my money's worth.
-
-
-FADE TO BLACK
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=04x22+-+No+More+Bets&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127375%23p127375" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=04x22+-+No+More+Bets&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127375%23p127375" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127375%23p127375&amp;name=04x22+-+No+More+Bets" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127375%23p127375" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=9b381126b5db1c3d42d7d1bea3d426cf">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=9b381126b5db1c3d42d7d1bea3d426cf">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=9b381126b5db1c3d42d7d1bea3d426cf">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=9b381126b5db1c3d42d7d1bea3d426cf">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

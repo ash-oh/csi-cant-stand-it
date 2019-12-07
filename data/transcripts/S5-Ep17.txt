@@ -1,899 +1,1131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="FADE IN.
+[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]
+[INT. HOTEL CASINO - MAIN FLOOR - NIGHT]
+[INT. FOUR ACES- FRONT DESK - NIGHT]
+(Martha Kr" />
+<meta property="og:title" content="05x17 - Compulsion - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="FADE IN.
+[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]
+[INT. HOTEL CASINO - MAIN FLOOR - NIGHT]
+[INT. FOUR ACES- FRONT DESK - NIGHT]
+(Martha Kr" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13301" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>05x17 - Compulsion - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13301" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13301">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=096d9081a411a6b2d7024be36f41a023"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=096d9081a411a6b2d7024be36f41a023">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=096d9081a411a6b2d7024be36f41a023">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=096d9081a411a6b2d7024be36f41a023">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=096d9081a411a6b2d7024be36f41a023">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13301&amp;sid=096d9081a411a6b2d7024be36f41a023&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>05x17 - Compulsion</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127395">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127395">05x17 - Compulsion</a></div>
+							<div class="pull-right text-right"><time datetime="2005-03-24T05:38:15Z">03/24/05 05:38</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>FADE IN.</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]</p>
+<p>[INT. HOTEL CASINO - MAIN FLOOR - NIGHT]</p>
+<p>[INT. FOUR ACES- FRONT DESK - NIGHT]</p>
+<p>(Martha Krell rolls her bag to the front desk. The Front Desk Clerk looks at her.) </p>
+<p><strong>Front Desk Clerk</strong>: Welcome back, Mrs. Krell.</p>
+<p><strong>Martha Krell</strong>: I told you, it's Martha.</p>
+<p>(She takes her card.) </p>
+<p><strong>Front Desk Clerk</strong>: Your room's ready and I have your credit card on file. </p>
+<p>(She turns to her co-workers as she leaves.) </p>
+<p><strong>Martha Krell</strong>: See you in the morning. I'm beat.</p>
+<p>(The elevator door opens. She walks inside and presses the button.) </p>
+<p><strong>Front Desk Clerk</strong>: (o.s.) Call me if you need anything, Martha.</p>
+<p>(She smiles as the elevator doors close.) </p>
+<p>(The Front Desk Clerk looks up.) </p>
+<p>(The elevator light for the second floor lights up.) </p>
+<p>CUT TO:<br />
+[INT. FOUR ACES MOTEL - SECOND FLOOR - NIGHT -- CONTINUOUS] </p>
+<p>(The stairwell door opens and a man in a dark-colored jacket steps out. He looks down the hallway one way, then notes the EXIT door down the other hallway.) </p>
+<p>(Off screen, the elevator bell dings.) </p>
+<p>(The man in the dark-colored jacket and white sneakers heads toward the EXIT door. He follows the hallway and sees Martha Krell heading down the hallway with her luggage in tow.)</p>
+<p>(He starts walking quickly and purposefully toward her.)</p>
+<p>(Martha Krell reaches the motel room door and uses the card key to unlock the door.)</p>
+<p>(The man reaches Martha Krell quickly. He swiftly grabs her and pushes his way into her motel room, her scream muffled by his hand over her mouth.) </p>
+<p>WHITE FLASH TO: </p>
+<p>[INT. FOUR ACES MOTEL - KRELL'S ROOM] </p>
+<p>(Brass, Grissom and Sara walk into the room. Officers are there.) </p>
+<p><strong>Brass</strong>: Decedent's name is Martha Krell. Flight attendant. She checked in this afternoon.</p>
+<p>(Brass stops near the bed where Martha is dead on the bed, her blood seeping into the sheets.) </p>
+<p><strong>Brass</strong>: Apparently, she was stabbed to death. The coroner's en route.</p>
+<p>(Grissom and Sara put their kits down.) </p>
+<p><strong>Grissom</strong>: Weird ... no sign of struggle.</p>
+<p>(They look around the room.) </p>
+<p><strong>Brass</strong>: No clothes, no luggage.</p>
+<p><strong>Sara</strong>: Bedspread's undisturbed. (Sara notes the trash bin.) Trashcan is empty and the inside is spotless. It's possible a liner's been removed.</p>
+<p>(Grissom looks at the dead body.) </p>
+<p><strong>Brass</strong>: Take a whiff.</p>
+<p><strong>Grissom</strong>: Smells clean.</p>
+<p><strong>Brass</strong>: Smells like a hospital.</p>
+<p><strong>Sara</strong>: Bleaches and deodorizers. Killer attacked the victim, then cleaned and sanitized the room.</p>
+<p><strong>Grissom</strong>: Ah, but here's the smell of the blood still, and all the perfumes in Arabia will not sweeten this little room.</p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. FOUR ACES MOTEL - STREET OUT FRONT -- NIGHT] </p>
+<p>(Officer car lights flash.) </p>
+<p>[INT. FOUR ACES MOTEL - KRELL'S ROOM] </p>
+<p>(Close-up: The DFP450 thermometer gage reads 83 degrees. David Phillips removes it from the liver.) </p>
+<p>(A camera snaps and flashes.) </p>
+<p><strong>David Phillips</strong>: Her liver temp's 83 degrees. She's been dead approximately ten hours.</p>
+<p>(Sara is taking picture of the body.) </p>
+<p><strong>Sara</strong>: I'd like to get a clear photo of her wounds. Can we lay her out?</p>
+<p><strong>David Phillips</strong>: Oh, yeah. Grab her feet.</p>
+<p>(Sara puts her camera down. She grabs the feet while David holds on to the victim's upper body. As they flatten the body out, we hear the joints cracking.) </p>
+<p>(David picks up the victim's bloodied hand and looks at it.) </p>
+<p><strong>David Phillips</strong>: Defensive wounds.</p>
+<p>(Sara picks up her camera and takes more photos.) </p>
+<p><strong>David Phillips</strong>: Incised.</p>
+<p>(He looks down the body at the stab wounds. Sara snaps more photos.) </p>
+<p><strong>David Phillips</strong>: At least a dozen.</p>
+<p><strong>Sara</strong>: She did not want to die.</p>
+<p>(Off screen, the motel room door opens. Greg walks in with his kit.) </p>
+<p><strong>Greg</strong>: I just got the call.</p>
+<p>(Sara turns and looks at Greg.) </p>
+<p><strong>Greg</strong>: Where's Grissom?</p>
+<p><strong>Sara</strong>: Bathroom.</p>
+<p>(Greg tilts his head, puzzled.) </p>
+<p><strong>Sara</strong>: Working the, uh, case.</p>
+<p>(Greg heads for the bathroom.) </p>
+<p>CUT TO:<br />
+[INT. FOUR ACES MOTEL - KRELL'S ROOM -- BATHROOM] </p>
+<p>(Greg walks into the bathroom and finds Grissom sitting in the tub holding his flashlight down at the drain.) </p>
+<p><strong>Greg</strong>: Hey.</p>
+<p><strong>Grissom</strong>: Hand me my multi-tool, will ya, Greg? I need a Phillips.</p>
+<p>(Greg puts his kit down and picks up Grissom's multi-tool. He takes out the Phillips screwdriver and hands it to Grissom.) </p>
+<p>(Grissom takes the tool and starts unscrewing the drain.) </p>
+<p><strong>Greg</strong>: What are you doing?</p>
+<p><strong>Grissom</strong>: Well, the stabbing was brutal, but the crime scene is clean. No cast-off, no spatter. So, I want to know if the killer washed blood down the drain.</p>
+<p>(Grissom removes the drain cover. He holds it up and looks at its underside with his flashlight. He puts it aside. He uses the forceps and removes a wad of hair in the drain. He holds it up and looks at it with his flashlight.) </p>
+<p><strong>Grissom</strong>: Swab and phenol this, will ya?</p>
+<p>(Greg takes a swab from Grissom's open kit on the toilet and kneels down to swab the wad of hair. He tests it with phenol and the swab tip turns pink.) </p>
+<p><strong>Greg</strong>: Blood.</p>
+<p>(Grissom holds out the wad of hair for Greg to take.) </p>
+<p><strong>Grissom</strong>: Label it. Send it to DNA.</p>
+<p>(Greg takes the forceps from Grissom.) </p>
+<p>CUT TO:<br />
+[INT. FOUR ACES MOTEL - KRELL'S ROOM -- CONTINUOUS] </p>
+<p>(Close-up of: Martha Krell is on the gurney. The coroner covers her with a sheet.)</p>
+<p>(Grissom steps out of the bathroom. He removes his latex gloves and watches as the coroner wheels out the victim's body. He heads over to Sara.) </p>
+<p>(Sara is dusting the hotel table. Grissom stops and stands next to her.) </p>
+<p><strong>Sara</strong>: Usually in hotel rooms, we find too many prints. (She sighs.) Not a single one. Just wipes and swipes.</p>
+<p>CUT TO:<br />
+[INT. FOUR ACES MOTEL - LOBBY -- NIGHT] </p>
+<p>(Brass interviews the Front Desk Clerk.) </p>
+<p><strong>Front Desk Clerk</strong>: Ms. Krell was a real nice lady. She brought me a Dodger baseball cap.</p>
+<p><strong>Brass</strong>: Wow. So you were friends? </p>
+<p><strong>Front Desk Clerk</strong>: Not really. Airlines buy a chunk of rooms for their trolley dollies, discounted. She's just staying here for a few months.</p>
+<p><strong>Brass</strong>: So you discovered the body.</p>
+<p><strong>Front Desk Clerk</strong>: Her supervisor called to say her A.M. flight was canceled. She wasn't answering her phone. He asked me to make sure she got the message.</p>
+<p><strong>Brass</strong>: So you knocked on her door, and when she didn't answer, you just went right in?</p>
+<p><strong>Front Desk Clerk</strong>: Yeah. I got a master key.</p>
+<p><strong>Brass</strong>: Yeah, I knew that. Does the hotel have surveillance?</p>
+<p><strong>Front Desk Clerk</strong>: Nope.</p>
+<p><strong>Brass</strong>: Thank you. You've been a big help.</p>
+<p><strong>Front Desk Clerk</strong>: Right on.</p>
+<p>(The Front Desk Clerk leaves. Hayden Michael steps up toward Brass.) </p>
+<p><strong>Hayden Michaels</strong>: Excuse me. I'm Hayden Michaels. I'm the Manager of the Four Aces. I just got the call. Anything we can do to help?</p>
+<p><strong>Brass</strong>: Thank you. I'll let you know.</p>
+<p><strong>Hayden Michaels</strong>: Detective, if this hits the media, this is really going to hurt our business.</p>
+<p><strong>Brass</strong>: What are you asking me?</p>
+<p><strong>Hayden Michaels</strong>: Anything you can do to keep it out of the press?</p>
+<p><strong>Brass</strong>: Look, I'm trying to catch a killer. I got no control over the press. If this makes the news, then it is what it is.</p>
+<p>(Brass turns and leaves.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[EXT. HAWKINS' RESIDENCE - DAY]</p>
+<p>(Officers put up crime scene tape around the front of the house.) </p>
+<p>(Catherine and Nick exit their vehicle and head for the house carrying their kits. They pass an officer escorting Martin Hawkins out the front walk, another officer escorting Yvonne Hawkins and a third officer escorting their son, Matthew Hawkins.) </p>
+<p>(The officer opens the back seat car door for Martin Hawkins.)</p>
+<p>(Catherine passes Matthew Hawkins on her way to the house.) </p>
+<p>(Detective Chris Cavaliere meets up with Catherine and Nick.) </p>
+<p><strong>Det. Chris Cavaliere</strong>: Hey. Victim's in the bedroom. Ty Hawkins, 12.</p>
+<p>(He leads them into the house.)</p>
+<p>CUT TO:<br />
+[INT. HAWKINS' RESIDENCE - TY'S BEDROOM -- AFTERNOON] </p>
+<p>(David Phillips removes the thermometer and puts the sheet down.) </p>
+<p><strong>Det. Chris Cavaliere</strong>: Mother came in to wake him ... found him like this.</p>
+<p>(Det. Cavaliere, Nick and Catherine look at the little boy bruised and beaten under the bed sheet. Nick sighs.) </p>
+<p><strong>Nick</strong>: Beaten to death.</p>
+<p><strong>Det. Chris Cavaliere</strong>: This many blows; it was personal. </p>
+<p><strong>David Phillips</strong>: Liver temp makes T.O.D. around midnight.</p>
+<p><strong>Det. Chris Cavaliere</strong>: No sign of forced entry. Nothing's missing. All the doors and windows were locked except for the screen door. Parents claim they keep that locked.</p>
+<p><strong>Catherine</strong>: You find a weapon?</p>
+<p><strong>Det. Chris Cavaliere</strong>: Negative. Family's been transported down to the station. I'm gonna go down and take their statement. Hey, when you're done here, roll by. We'll ink them.</p>
+<p><strong>Nick</strong>: You got it.</p>
+<p>(Det. Cavaliere leaves.) </p>
+<p><strong>Catherine</strong>: Boy's not even safe in his own bed.</p>
+<p>(Nick sighs again.) </p>
+<p><strong>Catherine</strong>: I'll take the inside.</p>
+<p><strong>Nick</strong>: Yeah, I could use the fresh air.</p>
+<p>CUT TO:<br />
+[INT. HAWKINS' RESIDENCE - TY'S BEDROOM -- AFTERNOON] </p>
+<p>(Catherine takes a swab of Ty Hawkins' bed. She picks up the bat and looks at the knob at the base of the bat handle. She swabs the head of the bat. She puts the bat down and tests it. Negative. She looks at the swab.) </p>
+<p>(Catherine removes the sheets off the bed.)</p>
+<p>(Camera pulls back out of the bedroom through the bedroom window and out of the house ... </p>
+<p>[EXT. HAWKINS' RESIDENCE - BACKYARD-AFTERNOON -- CONTINUOUS] </p>
+<p>( ... where Nick is standing with his camera to take a photo of the shoe print in the dirt just outside Ty Hawkins' bedroom window.) </p>
+<p>(He puts the ruler aside and puts a metal ring around the shoe print. He smashes the bag of plaster and pours it over the shoe print.) </p>
+<p>(Nick stands up.) </p>
+<p>(Camera zooms back into the house through the bedroom window ... </p>
+<p>[INT. HAWKINS' RESIDENCE - TY'S BEDROOM - AFTERNOON -- CONTINUOUS] </p>
+<p>( ... where Catherine is standing near the shelves dusting them for prints.) </p>
+<p>INTERCUT WITH: </p>
+<p>[EXT. HAWKINS' RESIDENCE - BACKYARD-AFTERNOON -- CONTINUOUS] </p>
+<p>(Nick has found the word &quot;BRAT&quot; written on the bedroom window. He dusts it.) </p>
+<p>(Inside, Catherine dusts the window jalousies.)</p>
+<p>(Outside, Nick dusts the word on the window glass. He leans in close and snaps a photo of it.)</p>
+<p>[INT. HAWKINS' RESIDENCE - UTILITY ROOM - AFTERNOON -- CONTINUOUS] </p>
+<p>(Catherine walks into the utility room and opens the washer. She takes out some bed sheets and other clothing. She uses an ALS on the clothes and finds some urine stains on the clothing and the bed sheets.) </p>
+<p>[EXT. HAWKINS' RESIDENCE - BACKYARD-AFTERNOON -- CONTINUOUS] </p>
+<p>(Nick walks over to the trash bins. On the ground are some heavy lead pipes. He snaps photos of it. He picks one up and looks at the treading at the bottom. He puts the pipe down and snaps a photo of it.) </p>
+<p>[EXT. HAWKINS' RESIDENCE - DRIVEWAY -AFTERNOON -- CONTINUOUS] </p>
+<p>(Catherine opens the back of their SUV. She takes her sunglasses off. Nick walks up to her carrying a lead pipe.) </p>
+<p><strong>Nick</strong>: Found a pile of pipes by the side of the house; one seems to be missing. This is an exemplar of a possible murder weapon. And I cast a shoe impression just outside the kid's bedroom window. Also some graffiti on the window -- B-R-<br />
+A-T. Maybe somebody had it in for the kid. </p>
+<p>(Catherine slips her jacket on.) </p>
+<p><strong>Catherine</strong>: Well, I bagged the bloody sheets from the bed. Found boxers, a t-shirt and a fitted sheet in the washer. ALS'd for blood, found urine.</p>
+<p><strong>Nick</strong>: (nods) Mm. Well, whoever killed the boy knew how to get in and out of this house without waking the family.</p>
+<p>(Catherine closes the back door.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(Robbins goes over Martha Krell's body with Grissom.) </p>
+<p><strong>Robbins</strong>: No mystery here. Ms. Krell was violently stabbed to death. C.O.D. exsanguination.</p>
+<p><strong>Grissom</strong>: SAE kit?</p>
+<p><strong>Robbins</strong>: She was raped. Contusions to the vaginal introitus and an eighth-inch hemorrhagic laceration at the vaginal fourchette. Six o'clock position. The attack was brutal.</p>
+<p><strong>Grissom</strong>: Aren't they always? I don't know why people think that rape has anything to do with s*x.</p>
+<p><strong>Robbins</strong>: If a guy just wants s*x, he can hire a hooker.</p>
+<p><strong>Grissom</strong>: What else?</p>
+<p><strong>Robbins</strong>: Well, there is some good news. Motile sperm in the t mount. I've sent the kit to DNA for analysis.</p>
+<p>CUT TO:<br />
+[INT. CSI - ECKLIE'S OFFICE -- DAY] </p>
+<p>(Open on the writing on the side of a file storage box:<br />
+STEIN, SUE<br />
+MAY 12 1999</p>
+<p>(Sara walks to the office and lingers in the doorway.) </p>
+<p><strong>Sara</strong>: (smiles) Ecklie, what's up?</p>
+<p>(Ecklie looks at Sara.) </p>
+<p><strong>Conrad Ecklie</strong>: I paged Grissom.</p>
+<p>(Sara walks into the office.) </p>
+<p><strong>Sara</strong>: And he paged me. How can I help you?</p>
+<p><strong>Conrad Ecklie</strong>: Five years ago, there was this, uh, day-shift case, homicide.<br />
+(Ecklie lays out the photos on the trace table. Sara moves in closer for a better look.) The victim was a flight attendant named Sue Stein from Palo Alto, California. (Sara moves to stand next to Ecklie.) She was raped and murdered in a local hotel. Killer was never apprehended. </p>
+<p>(Camera focuses in on a particular photo of the victim. She's dressed in her underwear and on her side on the bed. A similar scene to the one she just left.)</p>
+<p>(Quick flashback to: [FOUR ACES MOTEL - DAY] David Phillips is standing over the victim's body while Sara snaps photos of her.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p>(CU: Sara's eyes. She looks at the photos on the table. The crime scene from five years ago is very similar to the one they're investigating. The victim is on the bed bloodied from stab wounds. There are defensive cuts on her left hand.)</p>
+<p>(Quick flashback to: [FOUR ACES MOTEL - DAY] David Phillips lifts up Martha Krell's bloodied right hand.)</p>
+<p>(End of flashback. Resume to present.) </p>
+<p>(Camera pans over the photos of the immaculate motel room from five years ago.)</p>
+<p>(Quick flashback to: [FOUR ACES MOTEL - DAY] Camera moves over the table wiped clean.)</p>
+<p>(End of flashback. Resume to present.) </p>
+<p>(CU: Sara's eyes. She looks at the photos on the table. Ecklie looks at Sara.) </p>
+<p><strong>Conrad Ecklie</strong>: Vic's clothing and suitcase were missing. Room was immaculate, smelled like disinfectant.</p>
+<p><strong>Sara</strong>: Same signature.</p>
+<p><strong>Conrad Ecklie</strong>: One difference. In the, uh, prior case, body was found in a first floor room. Sliding glass door facing the pool was unlocked.</p>
+<p><strong>Sara</strong>: Ms. Krell was killed on the second floor. There was only one way into her room.</p>
+<p>(Ecklie nods.) </p>
+<p><strong>Sara</strong>: Was there semen present in Sue Stein's SAE kit?</p>
+<p><strong>Conrad Ecklie</strong>: Yeah. Ran it through CODIS. No hit. I asked Mia to compare it with the semen from the recent attack.</p>
+<p><strong>Sara</strong>: Is that fingerprint from your crime scene?</p>
+<p>(Ecklie hands the print tape and photo to Sara.) </p>
+<p><strong>Conrad Ecklie</strong>: Only print we found. Impressed in Sue's blood on the bedspread near her hips. Underlying pattern on the fabric made it impossible to read.</p>
+<p><strong>Sara</strong>: That was then. (Sara looks at Ecklie.) This is now.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Nick fingerprints Martin Hawkins.) </p>
+<p><strong>Martin Hawkins</strong>: (upset) My son's dead. Why are you fingerprinting me?</p>
+<p><strong>Nick</strong>: The Crime Lab is going to dust your house for prints, so I need to know which ones are yours.</p>
+<p>(Nick rips open a towel wipe and hands it to Martin Hawkins. Det. Chris Cavaliere questions Martin Hawkins.) </p>
+<p><strong>Det. Chris Cavaliere</strong>: Now, your wife said that you both went to bed after the news.</p>
+<p><strong>Martin Hawkins</strong>: I already told you that. Twice. </p>
+<p>(Martin Hawkins nervously wipes his ink-stained fingertips on the towelette.) </p>
+<p><strong>Martin Hawkins</strong>: You know, I ... I got questions, too, you know. Why Ty? (He swallows.) Why not me?</p>
+<p>(Nick looks at Det. Cavaliere.) </p>
+<p><strong>Martin Hawkins</strong>: How could my wife and I sleep ... (He takes a deep breath.) ... through it all?</p>
+<p><strong>Nick</strong>: Mr. Hawkins, would you stand up, facing me, so I can take some photos?</p>
+<p><strong>Martin Hawkins</strong>: (upset) Is this really necessary?</p>
+<p><strong>Det. Chris Cavaliere</strong>: Please, just let him do his job. Sir ...</p>
+<p>(Martin Hawkins stands up. Nick raises his camera and snaps several photos - from his face down to his shoes.) </p>
+<p>(Martin Hawkins glances over at Det. Cavaliere. Det. Cavaliere looks away.) </p>
+<p>(Nick takes out a swab.) </p>
+<p><strong>Nick</strong>: Open up.</p>
+<p>(Nick holds out a swab. Martin Hawkins opens his mouth. Nick swabs the inside of his mouth.) </p>
+<p><strong>Nick</strong>: I'll be needing to take your shoes as well. You can wear some booties home.</p>
+<p><strong>Martin Hawkins</strong>: What now?</p>
+<p><strong>Det. Chris Cavaliere</strong>: You and your wife are free to go.</p>
+<p><strong>Martin Hawkins</strong>: What about Matt?</p>
+<p><strong>Det. Chris Cavaliere</strong>: He has to stay here in protective custody until this is resolved.</p>
+<p>(Det. Cavaliere glances at Nick. Martin Hawkins glances at Nick. Nick nods.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY - DAY - CONTINUOUS]</p>
+<p>(Yvonne Hawkins sits in the hallway chair waiting. Martin Hawkins walks out and sees her.) </p>
+<p><strong>Martin Hawkins</strong>: Yvonne? (He walks over to her.) Hey.</p>
+<p>(They hug.) </p>
+<p>(Det. Cavaliere waits in the back.) </p>
+<p><strong>Yvonne Hawkins</strong>: They're keeping Matt.</p>
+<p><strong>Martin Hawkins</strong>: I know. He'll be home soon. It's just procedure. (He turns and looks at Det. Cavaliere.) Right?</p>
+<p>(Det. Cavaliere nods.) </p>
+<p><strong>Det. Chris Cavaliere</strong>: Right.</p>
+<p><strong>Martin Hawkins</strong>: Can we at least speak to him?</p>
+<p><strong>Det. Chris Cavaliere</strong>: Can't allow that.</p>
+<p>(Yvonne Hawkins turns and looks at Matthew sitting in the waiting room nursing a can of something to drink. She turns back and looks at Robert.) </p>
+<p><strong>Martin Hawkins</strong>: Come on, let-let's go. Come on.</p>
+<p>(Nick walks out and watches them. Martin and Yvonne Hawkins leave. Matthew waves to them as they go.) </p>
+<p>(Nick looks at Det. Cavaliere.) </p>
+<p><strong>Nick</strong>: You just gonna let them go?</p>
+<p><strong>Det. Chris Cavaliere</strong>: Neither has a record, no motive. There's no blood on them.</p>
+<p><strong>Nick</strong>: Well, they could've showered, tossed their clothes.</p>
+<p><strong>Det. Chris Cavaliere</strong>: Their grief is not an act.</p>
+<p><strong>Nick</strong>: Yeah, based on what?</p>
+<p><strong>Det. Chris Cavaliere</strong>: Years of listening to the parents of dead children. Let's go talk to this kid.</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB] </p>
+<p>(Greg walks into the lab. Mia is at the counter working. She doesn't look up when he stops near her.) </p>
+<p><strong>Greg</strong>: Hey, Mia.</p>
+<p>(He notices that she's got earplugs on. He waves a hand in front of her face to get her attention. She takes the earplugs out.) </p>
+<p><strong>Greg</strong>: Let me guess; you're listening to something classy like Jessica or Ashlee.</p>
+<p>( Man speaking French through headset )</p>
+<p>(Mia smugly gives Greg a plug. He sticks it in his ear and hears a male voice speaking in French.) </p>
+<p><strong>Mia Dickerson</strong>: It's ... Jean-Paul Sartre. &quot;Huis clos.&quot; (Greg shakes his head.) &quot;No Exit?&quot; (Greg takes the earplug out and looks at it.) It loses something in a translation.</p>
+<p><strong>Greg</strong>: Oui, oui.</p>
+<p><strong>Mia Dickerson</strong>: The blood from the hairy wad that you found in the drain is consistent with the victim.</p>
+<p><strong>Greg</strong>: And what about the semen from Martha's SAE?</p>
+<p><strong>Mia Dickerson</strong>: That's consistent with the DNA from the first attack. You are looking at the same rapist. I want to show you something.</p>
+<p><strong>Greg</strong>: Really?</p>
+<p>(She points to the microscope. They exchange places and Greg looks through the scope.) </p>
+<p>[SCOPE VIEW:]</p>
+<p>(Sperm with red spots around it.) </p>
+<p><strong>Greg</strong>: This guy's immune system doesn't recognize his own sperm. Antibodies are attacking the little guys.</p>
+<p><strong>Mia Dickerson</strong>: I read about this phenomenon in a forensic journal ... </p>
+<p><strong>Greg</strong>: November, 2003. Killer had a vasectomy, then had it reversed.</p>
+<p><strong>Mia Dickerson</strong>: Oui, oui.</p>
+<p><strong>Greg</strong>: Thanks, Mia.</p>
+<p>(Mia nods and smiles as Greg leaves.)</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY] </p>
+<p>(Close-up of: Ty Hawkins' bashed and beaten face is on the monitor. Camera moves aside and we find Robbins going over the body with Catherine.) </p>
+<p><strong>Robbins</strong>: How could a boy have made someone so mad? C-O-D is blunt-force trauma. I counted fourteen separate blows. Several more were coinciding. Cylindrical weapon, about an inch in diameter.</p>
+<p><strong>Catherine</strong>: Consistent with a pipe?</p>
+<p><strong>Robbins</strong>: Yeah. In fact, check this out.</p>
+<p>(Quick CGI POV: Close-up of Ty Hawkins' head and a particular bruising indentation in his left forehead that looks to be in the shape of the threads of the pipe. The virtual image of a pipe is placed over the matching wound.) </p>
+<p><strong>Robbins</strong>: (V.O.) Thread pattern's consistent with the end of a pipe.</p>
+<p>(The virtual pipe vanishes.)</p>
+<p>(End of CGI POV. Resume to present.) </p>
+<p>(Catherine picks up Ty Hawkins' hand and looks at it.) </p>
+<p><strong>Catherine</strong>: He's got no defense wounds.</p>
+<p><strong>Robbins</strong>: Yeah. My guess, he never woke up.</p>
+<p>(Catherine looks at the beaten little boy and shakes her head.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Nick sits across the table from Matthew Hawkins. Matthew puts his shoe on the table for Nick.) </p>
+<p>(Det. Cavaliere starts in on Matthew.) </p>
+<p><strong>Det. Chris Cavaliere</strong>: You're not fooling me, kid. The second I laid eyes on you, I knew how it went down. You took a pipe from the backyard, you went into Ty's bedroom, and while he was sleeping, you beat his brains to a pulp.</p>
+<p>(Nick glances at Det. Cavaliere.) </p>
+<p><strong>Det. Chris Cavaliere</strong>: Now, what the hell's wrong with you, kid? Your little brother is dead. What did he ever do to you?</p>
+<p>(Matthew looks at Nick. Det. Cavaliere gets in Matthew's face.) </p>
+<p><strong>Det. Chris Cavaliere</strong>: Now, don't look at him. He can't help you. Nobody can help you. You're going to prison. And at fourteen, that means life. (shouts)<br />
+I'm talking to you, you little ... !</p>
+<p>(Matthew jumps. Nick interrupts him.) </p>
+<p><strong>Nick</strong>: Detective ... can I have a word with you outside, please?</p>
+<p>(Nick and Det. Cavaliere leave the room.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY - CONTINUOUS]</p>
+<p>(Nick closes the door behind them.) </p>
+<p><strong>Nick</strong>: We don't have enough evidence to suggest that that boy killed his brother.</p>
+<p><strong>Det. Chris Cavaliere</strong>: Well, what are you getting at?</p>
+<p><strong>Nick</strong>: I'm saying I'm not sure if threatening him is the right tactic right now. I found no blood on his clothes. The screen door could have been the point of entry. (Det. Cavaliere shakes his head.) I mean, have you considered asking him what he heard or-or saw before you just put the full court press on him?</p>
+<p><strong>Det. Chris Cavaliere</strong>: (scoffs) I don't tell you how to collect the evidence.</p>
+<p><strong>Nick</strong>: No, you don't. Look, there's no disrespect here, okay? We're all on the same team.</p>
+<p><strong>Det. Chris Cavaliere</strong>: Then get to the lab and get me something that I can use. </p>
+<p>(Det. Cavaliere turns and leaves. Nick sighs.)</p>
+<p>CUT TO:<br />
+[INT. CSI - PRINT LAB] </p>
+<p>(CU: The photo of the blood-stained print on the material is on the monitor. Sara walks into the lab and stands next to the Neil Jansen, the print tech.) </p>
+<p><strong>Sara</strong>: Hey.</p>
+<p><strong>Neil Jansen</strong>: Hey. Call me a geek, but background subtraction application software is the bomb.</p>
+<p><strong>Sara</strong>: Only geeks still say &quot;the bomb.&quot; But it you ask me, geeks should be revered.</p>
+<p><strong>Neil Jansen</strong>: Okay. Um, the technology's pretty new. You'll get hammered on cross, but it definitely works. (He hits a key on the keyboard.) Okay, check it out. So the fingerprint is blood-red -- that's the shade we use for the color identifier -- and now the preprogrammed algorithm is just removing all the other colors from the fabric, and we're left with just the print. It's ...</p>
+<p><strong>Sara</strong>: Mind if I watch?</p>
+<p><strong>Neil Jansen</strong>: Voyeur, huh? I like that.</p>
+<p><strong>Sara</strong>: Geek.</p>
+<p>(The monitor shows the pattern removed, leaving the bloodstain and the print.) </p>
+<p><strong>Sara</strong>: Wow.</p>
+<p><strong>Neil Jansen</strong>: Yeah. Right.</p>
+<p>(He hits some keys on the keyboard.)</p>
+<p><strong>Neil Jansen</strong>: Scan this into I-AFIS, and here we go.</p>
+<p>(The print is automatically scanned into the database and searches the database. The computer beeps.) </p>
+<p>(The results read:<br />
+ACHESON, JESSE<br />
+EYES: BLUE HAIR: DARK BLONE WGT: 205 LBS HGT<br />
+RACE: CAUCASIAN s*x: MALE<br />
+ADDRESS:<br />
+288 TYLER RD. HENDERSON, NV 89101</p>
+<p>CRIMINAL HISTORY</p>
+<p>JANUARY 1998-APRIL 1999:<br />
+POSSESSION OF COCAINE WITH THE INTENT TO SELL (1ST OFFENSE) </p>
+<p>JULY 1999 - JANUARY 2000:<br />
+POSSESSION OF COCAINE WITH THE INTENT TO SELL (2ND OFFENSE) </p>
+<p>JUNE 2000 - MAY 2002:<br />
+POSSESSION OF COCAINE WITH THE INTENT TO SELL (3RD OFFENSE) </p>
+<p>NOVEMBER 2002 - SEPTEMBER 2004:<br />
+POSSESSION OF COCAINE WITH THE INTENT TO SELL (4TH OFFENSE) </p>
+<p><strong>Neil Jansen</strong>: Got yourself a hit. &quot;Jesse Acheson. 38. &quot;Multiple convictions, cocaine possession, intent to sell. In and out of prison for the past ... seven years.</p>
+<p><strong>Sara</strong>: Was he in or out on May 12, 1999?</p>
+<p><strong>Neil Jansen</strong>: Out.</p>
+<p><strong>Sara</strong>: What about last night?</p>
+<p><strong>Neil Jansen</strong>: Released six months ago. Living in Henderson.</p>
+<p><strong>Sara</strong>: Thanks, Neil.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<p><strong>Cue Sound</strong>: (PRE-LAP) KNOCKING</p>
+<p>[INT. ACHESON RESIDENCE - DAY]</p>
+<p>(Brass knocks on the door of house #25153. Sara is with him as well as another officer.) </p>
+<p><strong>Michelle Acheson</strong>: (through door) Who is it?</p>
+<p><strong>Brass</strong>: Las Vegas police. </p>
+<p>(The door opens. Michelle Acheson, wearing a VEGAS VEGAS sparkly shirt glares at them.) </p>
+<p><strong>Brass</strong>: We're looking for Jesse Acheson.</p>
+<p><strong>Michelle Acheson</strong>: Hey, look, my husband hasn't used since he got out of the joint, so whatever you think he did, you're wrong.</p>
+<p><strong>Brass</strong>: Do you know where he is?</p>
+<p><strong>Michelle Acheson</strong>: No idea.</p>
+<p><strong>Brass</strong>: Well, your marriage is just full of romance, huh?</p>
+<p><strong>Sara</strong>: May we come in?</p>
+<p><strong>Michelle Acheson</strong>: Nah, I don't think so.</p>
+<p><strong>Sara</strong>: Just one more question. Do you happen to know where he was last night?</p>
+<p><strong>Michelle Acheson</strong>: No. I, uh, I haven't seen him in days.</p>
+<p><strong>Sara</strong>: Thank you.</p>
+<p>(She slams the door on them. Brass looks at Sara.) </p>
+<p><strong>Brass</strong>: That was fun.</p>
+<p><strong>Sara</strong>: Brass, ... </p>
+<p>(She looks at Brass and the officer.) </p>
+<p><strong>Sara</strong>: You guys get in your cars, drive around the block. Pick me up in five minutes.</p>
+<p><strong>Brass</strong>: (nods) We'll be close.</p>
+<p>(He and the officer head for their cars, leaving Sara in front of the front door.) </p>
+<p>(We hear the sounds of the car doors opening.)</p>
+<p>(Sara peers into the house through the window. We hear the sounds of a touch-tone phone beeping as Michelle Acheson makes a call.) </p>
+<p><strong>Michelle Acheson</strong>: (to phone) Jesse, cops were just here. What the hell's going on?</p>
+<p>(Sara watches and listens in on the one-sided conversation.) </p>
+<p>(In the background, we see the cop car pulling away.) </p>
+<p><strong>Michelle Acheson</strong>: (to phone) No, I didn't tell them where you are! I don't know where the hell you are! And when are you coming home? Jesse ... (She pulls the phone away from her ear. We can only surmise that Jesse hung up on her.) Damn you!</p>
+<p>(She hangs up.)</p>
+<p>(Sara pulls back away from the window.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAB]</p>
+<p>(Nick compares the shoe print samples taken from:<br />
+SUSPECT: HAWKINS, MARTIN<br />
+CASE #42396-NS-03/10/05</p>
+<p>With the original shoe print found in the dirt:<br />
+VICTIM: HAWKINS, TY<br />
+CASE #42396-NS-03/10/05<br />
+SHOE IMPRESSION:<br />
+EXTERIOR BEDROOM</p>
+<p>(It's not a match.) </p>
+<p>INTERCUT WITH:</p>
+<p>[INT. CSI - LAB]</p>
+<p>(Catherine examines the victim's clothing. She finds a strand of hair and puts it on a tape. She puts it under the scope and finds that it's a match to another hair.)</p>
+<p>(She looks at the shirt and finds something else. She takes a tape lift of it.) </p>
+<p>(Nick reaches for the next shoe print for:<br />
+SUSPECT: HAWKINS, MATTHEW<br />
+CASE #42396-NS-03/10/05</p>
+<p>(It's a match.) </p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY - DAY]</p>
+<p>(Nick reports to Catherine.) </p>
+<p><strong>Nick</strong>: The shoe impression outside Ty's window matches the brother's. </p>
+<p><strong>Catherine</strong>: Yeah, I got a hair off of Ty's t-shirt. Also consistent with Matt.</p>
+<p><strong>Nick</strong>: Either of which could be related to the murder or just a result of two brothers living together.</p>
+<p><strong>Catherine</strong>: Yeah.</p>
+<p><strong>Nick</strong>: What's in the bindle?</p>
+<p><strong>Catherine</strong>: Uh, blue fibers. Got them off the vic's t-shirt.</p>
+<p><strong>Nick</strong>: Nobody in the family was wearing anything blue.</p>
+<p><strong>Catherine</strong>: No, but you know, could be from a blanket, a carpet, towel. I'll take them to Trace.</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p>(They continue walking.) </p>
+<p><strong>Nick</strong>: Hey, I am concerned that Detective Cavaliere's moving ahead of Forensics on this one.</p>
+<p><strong>Catherine</strong>: He can move as fast as wants. The D.A. won't file without the physical evidence. And right now, we got nothing.</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB] </p>
+<p>(Sara is working on the geography. She shows Grissom what she's found.) </p>
+<p>(She shows the Acheson residence on the map on the monitor.) </p>
+<p><strong>Sara</strong>: Sandra Acheson called her husband at exactly 3:03 P.M. today. I secured a 2703-D court order for the number she was calling. It was a cell phone. I contacted the cell phone company and found out that Jesse answered his phone near tower 8, Phase West. Given the signal strength, he was within two blocks of the tower.</p>
+<p>(She shows the tower on the map and the signal range in yellow.) </p>
+<p><strong>Sara</strong>: His wife said that she hasn't seen him in several days, so I had Homicide check registration at all the hotels within the yellow area. He is booked at the Tangiers.</p>
+<p>(She shows the Tangiers inside the yellow area on the map.) </p>
+<p><strong>Grissom</strong>: Well done.</p>
+<p>(Sara smiles.) </p>
+<p>(Greg walks into the room to report what he's found.) </p>
+<p><strong>Greg</strong>: Get this -- the rapist's semen came back positive for cocaine.</p>
+<p><strong>Grissom</strong>: We don't usually run a panel for semen, Greg.</p>
+<p><strong>Greg</strong>: I know that, but given our suspect's priors for blow, I had a tech run an immunoassay specific to the drug.</p>
+<p><strong>Grissom</strong>: (impressed) Wow. You guys are rendering me obsolete.</p>
+<p>(Greg smiles.) </p>
+<p><strong>Sara</strong>: So, Jesse gets coked up, he commits the crime, he drives down to the strip and he checks into the Tangiers.</p>
+<p><strong>Greg</strong>: The gift show's in town. There aren't any vacancies on the strip.</p>
+<p><strong>Sara</strong>: Well, his wife said that she hadn't seen him in a few days.</p>
+<p><strong>Grissom</strong>: Maybe he's back in the game again, selling coke to out-of-town businessmen from the comfort and security of his hotel room.</p>
+<p><strong>Sara</strong>: So, he takes a break from his job, rapes and kills the vic at another hotel, and then goes back to work?</p>
+<p><strong>Grissom</strong>: Even cokeheads need a diversion now and then.</p>
+<p>(Grissom looks at Greg, who shrugs.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT -- BULLPEN] </p>
+<p>(Nick walks into the bullpen and heads over to Det. Cavaliere.) </p>
+<p><strong>Nick</strong>: Hey.</p>
+<p><strong>Det. Chris Cavaliere</strong>: Hi, Stokes. Solve the case?</p>
+<p>(Nick chuckles.) </p>
+<p><strong>Nick</strong>: I'm getting there. Nothing definitive as of yet. Which means you can't hold Matt Hawkins for longer than his twenty-four hours.</p>
+<p><strong>Det. Chris Cavaliere</strong>: Really? Well, you know, uh ... I got a signed confession.</p>
+<p>(Det. Cavaliere hands Nick a file folder. He stands up.) </p>
+<p><strong>Nick</strong>: Really?</p>
+<p><strong>Det. Chris Cavaliere</strong>: Mm-hmm. Sort of kicks the crap out of your &quot;evidence,&quot; now, doesn't it?</p>
+<p><strong>Nick</strong>: He confessed?</p>
+<p><strong>Det. Chris Cavaliere</strong>: Signed. Check it.</p>
+<p><strong>Nick</strong>: Did you beat it out of him?</p>
+<p>(Det. Cavaliere chuckles as he heads out of the bullpen. Nick follows him.)</p>
+<p><strong>Det. Chris Cavaliere</strong>: (scoffs) No, I used science, kind of like you guys.</p>
+<p><strong>Nick</strong>: Mm, how's that?</p>
+<p><strong>Det. Chris Cavaliere</strong>: I put him on a computer voice stress analyzer. Once I caught him lying, he gave it right up. </p>
+<p>(Det. Cavaliere puts a file folder in the holder and takes out another file folder.) </p>
+<p><strong>Nick</strong>: That device has been discredited for years.</p>
+<p><strong>Det. Chris Cavaliere</strong>: Well, check their web site. It's still used in 1,400 state and local agencies.</p>
+<p><strong>Nick</strong>: Well, not in Las Vegas. Or anywhere else in this state. Say, was an advocate or a parent present at the time of the confession? </p>
+<p><strong>Det. Chris Cavaliere</strong>: He didn't ask for his mommy and daddy. Long as he says he understands his rights, we don't have to have anyone there with him.</p>
+<p><strong>Nick</strong>: He tell you why he did it?</p>
+<p><strong>Det. Chris Cavaliere</strong>: No, but he will. Hey, listen, Stokes, thanks for trying to help, but we got him.</p>
+<p>(Det. Cavaliere leaves.) </p>
+<p><strong>Nick</strong>: Okay.</p>
+<p>(Camera holds on Nick.) </p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - HALLWAY] </p>
+<p>(Brass and Grissom walk through the hallway.) </p>
+<p><strong>Brass</strong>: So, I just got back from the Tangiers. The G.M. won't let us into Jesse Acheson's room without a search warrant, and the judge denied our request.</p>
+<p><strong>Grissom</strong>: I'll talk to the judge.</p>
+<p><strong>Brass</strong>: I'll bring Acheson in for questioning, I guess.</p>
+<p><strong>Grissom</strong>: Could you just keep him under surveillance for now, let Greg tag along with your guy? We might learn something.</p>
+<p><strong>Brass</strong>: Sure, I'll get him a bag of donuts.</p>
+<p>CUT TO:<br />
+[INT. CSI - LOCKER ROOM - DAY]</p>
+<p>(Warrick and Nick are in the locker room.) </p>
+<p><strong>Warrick</strong>: I was testifying today. I ran into the D.A. He filled me in on your case. (Warrick removes his jacket.) Looks like Matt Hawkins' confession is gonna stand up in court.</p>
+<p><strong>Nick</strong>: Suspects are tricked into confessing all the time, but I'm telling you, Cavaliere intimidated that boy. Man, he would've signed anything.</p>
+<p><strong>Warrick</strong>: So you think he's innocent?</p>
+<p><strong>Nick</strong>: Could be. I checked the crime stats for the Hawkins neighborhood. There's been a rash of nuisance calls. There's some homeless guy running around out there peeping in windows, urinating in public, attempted B and E.</p>
+<p><strong>Warrick</strong>: Sounds like a suspect.</p>
+<p><strong>Nick</strong>: I'm gonna go back out there, see if the Hawkins know anything about it.</p>
+<p>(Nick closes his locker.) </p>
+<p><strong>Warrick</strong>: Need some help?</p>
+<p><strong>Nick</strong>: You got that kind of time?</p>
+<p>(Nick puts his jacket on.)</p>
+<p><strong>Warrick</strong>: I'll meet you in the car.</p>
+<p><strong>Nick</strong>: Thanks, Rick.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) -- DAY] </p>
+<p>[INT. JUDGE WITHERSPOON'S CHAMBERS -- DAY] </p>
+<p>(Judge Witherspoon goes through the files on the desk while Grissom waits.) </p>
+<p><strong>Judge Witherspoon</strong>: You expect me to invade Mr. Acheson's privacy based upon a five-year-old fingerprint that was manipulated on a computer? </p>
+<p><strong>Grissom</strong>: It wasn't manipulated -- it was processed. That's what we do.</p>
+<p><strong>Judge Witherspoon</strong>: Try getting that one past a defense attorney. It's one thing to send a print through AFIS; it's another thing to use ... a &quot;background subtraction algorithm&quot; to isolate the print from a bedspread.</p>
+<p><strong>Grissom</strong>: It's not my fault that the courts lag behind our technology.</p>
+<p><strong>Judge Witherspoon</strong>: Gil. I'm sympathetic to your request, but if I grant a warrant based upon this print, and the print is later thrown out of court, then everything you find as a result of it would be excluded, and your pattern rapist could be back on the street. Give me something else -- I'll be happy to grant you a warrant.</p>
+<p><strong>Grissom</strong>: Your honor, I need the warrant in order to find something else.</p>
+<p>(She closes the file folder and hands it to Grissom.) </p>
+<p><strong>Judge Witherspoon</strong>: You'll find another way.</p>
+<p>(He takes the folder from her.) </p>
+<p>CUT TO:<br />
+[EXT. SIDEWALK -- DAY] </p>
+<p>(Officer Akers holds a photo of Jesse Acheson.) </p>
+<p>(Camera refocuses and we see Jesse Acheson sitting at a table drinking his coffee.) </p>
+<p><strong>Officer Akers</strong>: Kind of like bird-watching, ain't it?</p>
+<p>(Greg is sitting next to the Officer.) </p>
+<p><strong>Greg</strong>: I wouldn't know.</p>
+<p><strong>Officer Akers</strong>: You bored?</p>
+<p>(Greg sighs.) </p>
+<p><strong>Greg</strong>: I'm bored.</p>
+<p>(He chuckles.)</p>
+<p><strong>Officer Akers</strong>: So, I got a question. (Greg takes a sip from his coffee.) I hear the killer completely wiped down the crime scene. So why do you think he left his semen behind? Could've worn a condom.</p>
+<p><strong>Greg</strong>: Well, before committing a crime, a typical serial rapist will often m*st*rb*t* to his perfect rape-murder fantasy. Didn't wear a condom then, didn't want to wear one during the act. Besides, the DNA isn't on file. It wasn't much of a risk.</p>
+<p>(Jesse Acheson puts his cup down on the table. He folds his magazine, picks up his glasses and puts them on as he stands up. He leaves.) </p>
+<p><strong>Officer Akers</strong>: Litterbug.</p>
+<p><strong>Greg</strong>: CSI's don't mind the bugs. </p>
+<p>(Greg picks up the coffee cup and puts it in a plastic bag.) </p>
+<p><strong>Greg</strong>: If the DNA on this cup matches the seminal DNA, Grissom won't need a warrant. We'll be making an arrest.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. HAWKINS' RESIDENCE - LIVING ROOM -- NIGHT] </p>
+<p>(Nick and Warrick talk with Yvonne and Martin Hawkins.) </p>
+<p><strong>Yvonne Hawkins</strong>: We're not unfit parents. Please, we just want to speak with our son.</p>
+<p><strong>Martin Hawkins</strong>: We called the detective, but no one will tell us anything.</p>
+<p><strong>Nick</strong>: Right now your son's under investigation.</p>
+<p><strong>Yvonne Hawkins</strong>: What?</p>
+<p><strong>Nick</strong>: Yeah, the detective asked him if he wanted a parent or advocate present at the interrogation. He's fourteen years old, so it's his right to say no.</p>
+<p><strong>Martin Hawkins</strong>: But he's just a kid. I mean, he just lost his brother.</p>
+<p><strong>Yvonne Hawkins</strong>: Matt's sensitive. He doesn't handle stress well. If we-we-we could just talk to him. (softly) He may need a change of clothes. </p>
+<p><strong>Nick</strong>: Were those his clothes in the washer?</p>
+<p><strong>Yvonne Hawkins</strong>: Yeah.</p>
+<p><strong>Nick</strong>: Okay, we'll see what we can do about getting him something to wear.</p>
+<p><strong>Warrick</strong>: In the meantime, if you could just answer the question.</p>
+<p><strong>Yvonne Hawkins</strong>: You want to know about that homeless guy?</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p><strong>Yvonne Hawkins</strong>: He's nuts. He-he scared the boys once or twice, but ... </p>
+<p><strong>Warrick</strong>: How did he scare them?</p>
+<p><strong>Martin Hawkins</strong>: Ty saw him writing something on the window.</p>
+<p><strong>Nick</strong>: Was it &quot;brat&quot;?</p>
+<p><strong>Martin Hawkins</strong>: Yeah. I chased him away. Matt ... cleaned off the window.</p>
+<p><strong>Nick</strong>: That would explain the shoe impressions outside the bedroom window.</p>
+<p><strong>Yvonne Hawkins</strong>: You're thinking that that guy had something to do with what happened?</p>
+<p><strong>Nick</strong>: Well, that's what we're trying to find out.</p>
+<p><strong>Yvonne Hawkins</strong>: (crying) Oh, God. I knew we should've called the cops.</p>
+<p><strong>Warrick</strong>: When was the last time that you saw him?</p>
+<p><strong>Martin Hawkins</strong>: I jog through that park every evening. Um, he's got this, uh ... makeshift tent thing set up by the playground.</p>
+<p>CUT TO:<br />
+[EXT. PLAYGROUND - NIGHT]</p>
+<p>(Lights flash from the officers' parked cars. An officer gets out of his car and hurries across the grass. Nick and Warrick rush across the grass over to the homeless man's tent hidden in the brush.) </p>
+<p>(Officers reach in and pull the homeless man out.) </p>
+<p><strong>Walter (homeless man)</strong>: What? Hey! Stop it!</p>
+<p><strong>Officer</strong>: Come on! Get up!</p>
+<p><strong>Walter (homeless man)</strong>: Let me ... let me go!</p>
+<p>(They pull Walter to his feet. He struggles against the three officers.) </p>
+<p><strong>Walter (homeless man)</strong>: Let go of me! Stop it!</p>
+<p><strong>Officer Metcalf</strong>: Hey, what's your name?</p>
+<p><strong>Walter (homeless man)</strong>: What?</p>
+<p><strong>Officer Metcalf</strong>: Tell the gentlemen your name.</p>
+<p><strong>Walter (homeless man)</strong>: Walter! My name is Walter!</p>
+<p><strong>Nick</strong>: Walter, that's a nice blue sweater. Where'd you get it?</p>
+<p><strong>Walter (homeless man)</strong>: What?</p>
+<p><strong>Nick</strong>: I said I like your sweater -- where'd you get it?</p>
+<p><strong>Walter (homeless man)</strong>: It's mine!</p>
+<p><strong>Nick</strong>: Oh, it's yours?</p>
+<p>(We see the bloodstains on the sweater.) </p>
+<p><strong>Walter (homeless man)</strong>: Yes, this is my sweater!</p>
+<p><strong>Warrick</strong>: Whose blood is it on your sweater, Walter?</p>
+<p><strong>Walter (homeless man)</strong>: Huh?</p>
+<p><strong>Warrick</strong>: We're gonna give you a nice warm place to sleep tonight, partner.</p>
+<p><strong>Walter (homeless man)</strong>: Wha-- ?</p>
+<p>(He looks around, surprised and not happy.) </p>
+<p><strong>Nick</strong>: Suspicion of murder.</p>
+<p>(The officers lead Walter toward their cars. He trips and falls to the ground, screaming.) </p>
+<p><strong>Walter (homeless man)</strong>: No! No!</p>
+<p><strong>Nick</strong>: Easy with the sweater. It's evidence.</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB - NIGHT]</p>
+<p>(Mia reports her findings to Sara and Greg.) </p>
+<p><strong>Mia Dickerson</strong>: So, I processed the DNA from the coffee cup, and it turns out that there were two contributions on the lip, which means that your coffee shop recycles, and not in the good way.</p>
+<p><strong>Sara</strong>: Gross.</p>
+<p><strong>Mia Dickerson</strong>: Bad news is that neither of the contributions is consistent with the semen that was recovered from the crime scene. </p>
+<p><strong>Sara</strong>: If Acheson didn't rape Sue Stein, what is his print doing on the bedspread?</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM]</p>
+<p>(Brass and Sara interview Jesse Acheson. Sara sits across him at the table while Brass looks out the room window.) </p>
+<p><strong>Jesse Acheson</strong>: Well, I certainly didn't kill anyone, and ... I do not know how my fingerprint got there.</p>
+<p><strong>Sara</strong>: We don't think that you did rape or kill anyone. We simply want to know how your fingerprint ended up at a murder scene five years ago.</p>
+<p><strong>Brass</strong>: Look, Jesse, we appreciate you coming down here voluntarily, but if you clam up, we're gonna have to file an obstruction of justice charge, and that's not good ... for you. Let's make it easy on yourself.</p>
+<p>(Brass turns around.) </p>
+<p><strong>Brass</strong>: What were you doing in Sue Stein's hotel room?</p>
+<p><strong>Jesse Acheson</strong>: You won't believe me.</p>
+<p><strong>Brass</strong>: Try us.</p>
+<p><strong>Jesse Acheson</strong>: I did go to see Sue that night.</p>
+<p>(Quick flashback to: [MOTEL ROOM - NIGHT - FIVE YEARS AGO] Jesse Acheson slips into the motel room through the open sliding door.) </p>
+<p><strong>Jesse Acheson</strong>: Sue.</p>
+<p>(In the dark, he walks over to the bed and sees Sue on it. He shakes her trying to wake her up.) </p>
+<p><strong>Jesse Acheson</strong>: Come on, girl, wake up.</p>
+<p>(He rolls her over and sees that she's bloodied and dead.) </p>
+<p>(He sees the blood on his hands and wipes his hands on the bedcover.) </p>
+<p>(He leaves through the sliding glass doors.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Sara</strong>: You just took off? You didn't bother to report a murder </p>
+<p><strong>Jesse Acheson</strong>: Ma'am, I ... I got a record, and I was on probation. If I'd done all of that, I'd have been ... suspect numero uno. </p>
+<p><strong>Brass</strong>: All right, let's cut to the chase. You were there to sell her blow, right?</p>
+<p>(Jesse turns to look at Brass.) </p>
+<p><strong>Jesse Acheson</strong>: I don't need a lawyer, right? I mean, it's off the record?</p>
+<p><strong>Brass</strong>: We're just having a little chat here.</p>
+<p>(He turns to look at Sara.) </p>
+<p><strong>Jesse Acheson</strong>: Well, that's why she left the door unlocked. We'd been doing it that way for years. Whenever Sue came to town, I always took care of her.</p>
+<p>(There's a long pause.) </p>
+<p><strong>Jesse Acheson</strong>: I'm really sorry. She was my friend. I wish I could be more help.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY -- DAY] </p>
+<p>(Nick steps out into the hallway. He's looking through the file folder.) </p>
+<p><strong>Det. Chris Cavaliere</strong>: (o.s.) Stokes.</p>
+<p>(Nick looks up and sees Det. Cavaliere.) </p>
+<p><strong>Nick</strong>: Hey, man.</p>
+<p>(Det. Cavaliere walks up to Nick.) </p>
+<p><strong>Det. Chris Cavaliere</strong>: What the hell are you doing? Are you trying to screw with my case?</p>
+<p><strong>Nick</strong>: I'm just following the evidence, and it led me to another suspect. I think you're going to want to talk to him in the interest of justice.</p>
+<p><strong>Det. Chris Cavaliere</strong>: What, are you trying to help the defense now?</p>
+<p><strong>Nick</strong>: You know any good defense is gonna bring up a &quot;rush to judgment&quot; here. Come on! Chris, you put another interviewed suspect on your list. It shows due diligence. Let's go.</p>
+<p>(Nick turns and heads for the interview room. Not liking it one bit, Det. Cavaliere turns and watches him go.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM] </p>
+<p>(Nick interviews Walter with Det. Cavaliere in the room along with another officer in the back.) </p>
+<p><strong>Nick</strong>: Your sweater's been analyzed, Walter. Found bloodstains from a murdered boy on it.</p>
+<p><strong>Walter (homeless man)</strong>: It's not my sweater.</p>
+<p><strong>Nick</strong>: You already told me it was yours.</p>
+<p><strong>Walter (homeless man)</strong>: Finders keepers. It wasn't always mine, though.</p>
+<p><strong>Nick</strong>: Where did you find it?</p>
+<p><strong>Walter (homeless man)</strong>: On a bench. By the basketball courts.</p>
+<p>(Quick flashback to: [NIGHT] The sweater is on the bench. Walter appears and looks around. He grabs the sweater and clutches it to himself. He leaves. End of flashback. Resume to present.) </p>
+<p>(Det. Cavaliere glances at Nick.) </p>
+<p><strong>Walter (homeless man)</strong>: I was cold.</p>
+<p><strong>Det. Chris Cavaliere</strong>: Hey, man ... if you're lying ...</p>
+<p><strong>Walter (homeless man)</strong>: I'm not lying. I'm not lying!</p>
+<p><strong>Det. Chris Cavaliere</strong>: So when did you find it?</p>
+<p><strong>Walter (homeless man)</strong>: Yesterday. No, um, a few days ago. I don't remember.</p>
+<p><strong>Det. Chris Cavaliere</strong>: Put him in lockup -- maybe it'll help his memory. </p>
+<p>(The officer steps forward and takes Walter out of the room, leaving Nick with Det. Cavaliere.) </p>
+<p><strong>Det. Chris Cavaliere</strong>: Stokes ... I got a signed confession. You got a bum in a bloody sweater. What are you gonna do about it?</p>
+<p>(Nick shakes his head. Det. Cavaliere turns and leaves. Camera holds on Nick.) </p>
+<p>FADE OUT. </p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI -- LAB] </p>
+<p>(Nick processes the blue sweater, putting fibers he finds in a bindle.) </p>
+<p>(He puts it aside and picks up the goggles. He puts the goggles on and uses an ALS on the sweater.) </p>
+<p>(He finds a laundry mark near the inner back neck seam:<br />
+YUNG'S CLEANERS<br />
+#555-93-5157</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY]</p>
+<p>(Nick catches Catherine in the hallway. They walk as he fills Catherine in.) </p>
+<p><strong>Nick</strong>: Hey, Catherine.</p>
+<p><strong>Catherine</strong>: Yeah?</p>
+<p><strong>Nick</strong>: DNA finished up with the blue sweater and I processed it.</p>
+<p><strong>Catherine</strong>: Anything probative?</p>
+<p><strong>Nick</strong>: I ran it under the UV light and out popped one of those invisible dry cleaner ID stamps, you know?</p>
+<p><strong>Catherine</strong>: Yeah?</p>
+<p><strong>Nick</strong>: I called the dry cleaner; they gave me a name.</p>
+<p>CUT TO:<br />
+[INT. HAWKINS' RESIDENCE - KITCHEN]</p>
+<p>(Nick questions Martin Hawkins.) </p>
+<p><strong>Nick</strong>: Mr. Hawkins, is that your sweater?</p>
+<p>(Nick shows them a photo of the blue sweater.) </p>
+<p><strong>Martin Hawkins</strong>: Yeah ... it looks like my sweater. </p>
+<p><strong>Yvonne Hawkins</strong>: Where'd you find it?</p>
+<p><strong>Nick</strong>: Did you give it away?</p>
+<p><strong>Martin Hawkins</strong>: No, but I haven't seen it in a while, though. Why?</p>
+<p><strong>Nick</strong>: It's got Ty's blood on it.</p>
+<p>(Yvonne glances at Martin.) </p>
+<p><strong>Martin Hawkins</strong>: Do I need a lawyer?</p>
+<p><strong>Nick</strong>: That's your call, sir.</p>
+<p>CUT TO:<br />
+[INT. CSI - TRACE LAB] </p>
+<p>(Hodges removes a petri dish with the wad of hair out from under the microscope. Grissom walks into the lab.) </p>
+<p><strong>Grissom</strong>: You called me?</p>
+<p><strong>David Hodges</strong>: Yeah, Mia sent me that wad of hair that you pulled out of the hotel drain.</p>
+<p>(He puts the wad of hair back in its container and turns to look at Grissom.) </p>
+<p><strong>David Hodges</strong>: It's coated in bleach. I'm thinking the killer must've poured the stuff down the drain. Really compromised the trace.</p>
+<p><strong>Grissom</strong>: That's it? A compromised wad of hair?</p>
+<p><strong>David Hodges</strong>: No, uh, I called you to discuss the bleach. The hairy wad smelled a bit woodsy to me. Which is odd, considering it should only smell like bleach. </p>
+<p><strong>Grissom</strong>: You sniffed it?</p>
+<p><strong>David Hodges</strong>: That disgust you?</p>
+<p><strong>Grissom</strong>: No, actually, it's the first time you've ever done anything to impress me.</p>
+<p><strong>David Hodges</strong>: Hm. Anyway, um, I analyzed the bleach. (He hands Grissom the analysis results.) It contains a cedar additive. Thought you'd want to know.</p>
+<p>(Grissom takes the container with the wad of hair, turns and heads out of the lab.) </p>
+<p><strong>Grissom</strong>: Thanks, David.</p>
+<p><strong>David Hodges</strong>: Sure, Gil.</p>
+<p>CUT TO:<br />
+[EXT. FOUR ACES MOTEL (STOCK) -- NIGHT] </p>
+<p>[INT. FOUR ACES MOTEL - HALLWAY/ GM OFFICE -- NIGHT] </p>
+<p>(A woman towing a luggage on wheels behind her walks down the hallway. Camera moves across the hallway and over to the General Manager's office where Brass and Grissom interview Hayden Michaels. The housekeeper, Lucy, is standing behind the desk near Hayden Michaels.) </p>
+<p><strong>Hayden Michaels</strong>: Like I said, I'm more than happy to help you in any way I can. So, when I got your phone call about the scent of our bleach, I figured you should to talk to Lucy. Lucy is our head of housekeeping.</p>
+<p><strong>Lucy</strong>: The guests sometimes complained about the bleach smell after we cleaned the bathrooms. A few years ago, I started adding cedar chips to the bottles. Makes it smell better.</p>
+<p><strong>Grissom</strong>: Lucy, who else has access to your bleach?</p>
+<p><strong>Lucy</strong>: Just the maids.</p>
+<p><strong>Brass</strong>: Are they all female?</p>
+<p><strong>Lucy</strong>: Yes.</p>
+<p><strong>Brass</strong>: You park your carts in the hallway when you clean the room, so anyone could have swiped a bottle of bleach, right?</p>
+<p>(Grissom looks around the General Manager's desk and sees the family photos.) </p>
+<p>(Camera passes over the first photo of Hayden Michaels with a dark-haired woman and an older son.)</p>
+<p>(The second photo behind it is of Hayden Michaels with a young, blonde-haired woman carrying a baby.) </p>
+<p><strong>Lucy</strong>: No. We've had problems with theft, towels mainly, but now our maids take their carts into the rooms.</p>
+<p><strong>Grissom</strong>: Those your kids?</p>
+<p><strong>Hayden Michaels</strong>: Yeah. Two eldest are at UNLV.</p>
+<p><strong>Grissom</strong>: And the baby?</p>
+<p><strong>Hayden Michaels</strong>: Jake. Jake is, uh, six months old.</p>
+<p><strong>Grissom</strong>: Is that your second wife?</p>
+<p><strong>Hayden Michaels</strong>: Mm-hmm.</p>
+<p><strong>Grissom</strong>: So you must have had your vasectomy reversed.</p>
+<p>(Hayden Michael is a little startled by the sudden change in subject.) </p>
+<p><strong>Hayden Michaels</strong>: Why are we talking about my vasectomy?</p>
+<p><strong>Grissom</strong>: You also have access to the bleach, so you won't mind if I take a DNA sample.</p>
+<p><strong>Hayden Michaels</strong>: (sighs) Look. If word leaks out that you took my DNA and I'm a murder suspect, I will never work in hospitality again. I'm sorry, the answer's no. Anything else?</p>
+<p><strong>Brass</strong>: We'll be in touch.</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(Catherine goes over the case and evidence with Nick and Warrick.) </p>
+<p><strong>Catherine</strong>: So we've got three suspects, three scenarios.</p>
+<p><strong>Nick</strong>: Yeah, Matt could have worn his dad's sweater when he killed Ty. Dumped it in the park during the night, where Walter found it.</p>
+<p><strong>Catherine</strong>: Or dad could have worn it and dumped it in the park.</p>
+<p><strong>Warrick</strong>: Or this sweater could have accidentally been left in the park, and Walter, the homeless guy, could have picked it up and worn it when he entered the house through the screen door and killed Ty. But none of the evidence goes to motive.</p>
+<p><strong>Catherine</strong>: Not our problem at the moment. Let's just stay focused on the sweater. It's tied to the victim and this scene. We need to tie it to the killer. Hey, how tall would you say Matt Hawkins?</p>
+<p><strong>Nick</strong>: (shrugs) About five feet, why? Dad is ... 6'2&quot;. What about Walter?</p>
+<p><strong>Warrick</strong>: Mmm ... 5'10&quot;. About Nick's height.</p>
+<p>(Warrick and Nick nod.) </p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p><strong>Warrick</strong>: What you getting at?</p>
+<p><strong>Catherine</strong>: Meet me in the garage in half an hour.</p>
+<p>(Catherine turns and leaves.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM] </p>
+<p>(CU: The blue sign for the &quot;Interview Room&quot; is lit . Inside, Grissom interviews Hayden Michaels in the presence of his attorney, Adam Matthews.) </p>
+<p><strong>Grissom</strong>: Mr. Michaels, in my work over the last twenty-five years, I've come to understand the kind of person who's a rapist-killer.</p>
+<p><strong>Adam Matthews</strong>: Is that an accusation?</p>
+<p><strong>Grissom</strong>: Well, a woman was murdered in your client's hotel. He has a right to hear our theory. The killer is clearly a psychopath. He's killed more than once. I'm sure that before his first rape and murder he fantasized about it for years.</p>
+<p>(Quick flash to: [MOTEL ROOM - NIGHT] The woman struggles, trying to get away from the killer.) </p>
+<p><strong>Woman</strong>: No. No! WOMAN: No! WOMAN: Get away!</p>
+<p>(She falls back on the bed. He covers her mouth with his hand and holds the knife to her face.) </p>
+<p><strong>Killer</strong>: Quiet! Quiet! Quiet!</p>
+<p>(He strips her.)</p>
+<p><strong>Woman</strong>: No!</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Grissom</strong>: During that time, he engaged in behavioral tryouts. Stalking women and attempting to coerce them sexually, each time moving closer and closer to the actual event.</p>
+<p>(Quick flashback to: [MOTEL ROOM - NIGHT] The killer has the woman on the bed. His hand is over her mouth. She cries.) </p>
+<p><strong>Killer</strong>: Shut up! Shut up! KILLER: Shhh-!</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Grissom</strong>: I believe that after you consummated your first attack, you felt excitement greater than you anticipated. Your only regret was that she died too quickly.</p>
+<p>(Quick flashback to: [MOTEL ROOM - NIGHT] Hayden Michaels stands over Sue Stein's dead body on the bed. He holds the bloodied knife in his hand.)</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Grissom</strong>: But you took solace in the knowledge that, uh, you could do it again. In fact, your subsequent victim had similar characteristics to your first victim.</p>
+<p>(Quick flashback to: [MOTEL ROOM - NIGHT] Hayden Michaels holds the knife on Martha Krell.) </p>
+<p><strong>Martha Krell</strong>: No! No! No!</p>
+<p><strong>Killer</strong>: Shut up! KILLER: Shut up!</p>
+<p>(She cries as he strips her slowly.) </p>
+<p><strong>Martha Krell</strong>: Please! Please! </p>
+<p>(FAR SHOT: Hayden Michaels is on the bed with Martha Krell. She cries.)</p>
+<p>(Cut to: Martha Krell is dead. Hayden Michaels holds the knife as he looks around.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Adam Matthews</strong>: This is a waste of time.</p>
+<p><strong>Grissom</strong>: You see, what differentiates a psychopath from a &quot;heat of the moment&quot; killer is forethought.</p>
+<p>(Quick flashback to: [MOTEL ROOM - NIGHT] Hayden Michaels uses the bleach and cleans the room. He wipes down the tables.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Grissom</strong>: And you thought about this for a long time.</p>
+<p><strong>Adam Matthews</strong>: Thank you for the fascinating seminar, but you have no evidence, so we are free to go.</p>
+<p>(The interview room door opens. Sara walks in with a wheelie luggage in tow behind her.) </p>
+<p><strong>Sara</strong>: Actually, I have some evidence.</p>
+<p><strong>Hayden Michaels</strong>: What is this? What's going on?</p>
+<p>(Sara picks up the wheelie luggage and puts it on the table. She looks at Hayden Michaels expectantly.) </p>
+<p><strong>Sara</strong>: Mr. Michaels?</p>
+<p>(Grissom looks at Hayden Michaels.) </p>
+<p><strong>Hayden Michaels</strong>: She can't ... you can't do that.</p>
+<p>(Adam Matthews looks at Hayden Michaels.) </p>
+<p><strong>Adam Matthews</strong>: Do what?</p>
+<p><strong>Hayden Michaels</strong>: No, I know my rights.</p>
+<p><strong>Adam Matthews</strong>: Hey, shh.</p>
+<p><strong>Hayden Michaels</strong>: (angry) The bitch broke into my car.</p>
+<p>(Sara and Grissom look at each other.) </p>
+<p><strong>Adam Matthews</strong>: I don't remember seeing a warrant, Ms. Sidle.</p>
+<p><strong>Sara</strong>: I don't have a warrant. I was following a hunch.</p>
+<p>(Adam Matthews looks at Grissom smugly.) </p>
+<p><strong>Adam Matthews</strong>: Well, then you just set my client free.</p>
+<p><strong>Sara</strong>: On the contrary. Western Airlines issues this exact type of &quot;wheelie&quot; to all its flight attendants. Since Martha's wheelie wasn't in the hotel room, we thought maybe the killer took it ... as a souvenir. This particular suit case ...</p>
+<p>(Sara unzips the luggage to show them the tape recorder inside.) </p>
+<p><strong>Sara</strong>: ... is not Martha's wheelie.</p>
+<p>(Adam Matthews smiles.) </p>
+<p><strong>Grissom</strong>: And now that we know where to find it, and we have your client on tape, I bet you we'll get a warrant.</p>
+<p>(Grissom turns to Hayden Michaels.) </p>
+<p><strong>Grissom</strong>: Thank you.</p>
+<p>(Camera holds on Sara.) </p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(Catherine is putting red dye on the head of a dummy. Warrick stands in front of the counter watching. He's wearing goggles and a clean sweater.) </p>
+<p><strong>Catherine</strong>: Okay, Warrick, you are approximately the height of Martin Hawkins. Nick, you and the homeless dude are about the same, and Judy, you're close to Matt.</p>
+<p>(Nick and Judy are also wearing clean sweaters.) </p>
+<p><strong>Catherine</strong>: The table is the same height as Ty's bed - forty-three and half inches from the floor to the top of the mattress. The white sweaters, which you all look so adorable in, are the same fabric as the bloody one.</p>
+<p>(Catherine walks around the counter and over to the shelf where the pipes are.) </p>
+<p><strong>Catherine</strong>: The pipes are the same diameter as the wounds on Ty's face. I want each of you to take a whack at our victim.</p>
+<p>(She hands a pipe to each person.) </p>
+<p><strong>Judy Tremont</strong>: Just like Chuckie Cheese. Whack-a-mole.</p>
+<p>(Catherine chuckles.)</p>
+<p><strong>Catherine</strong>: Uh, spatter up.</p>
+<p>(Warrick steps up to the counter first. He uses both hands to grip the pipe and hits the dummy on the counter. With every whack, the red dye spatters on his white sweater.) </p>
+<p>(Quick VIRTUAL POV of: Martin Hawkins holds the pipe and whacks Ty Hawkins as he sleeps.)</p>
+<p>(Quick flash to: [BEDROOM - NIGHT] Martin Hawkins whacks Ty Hawkins as he sleeps.) </p>
+<p>(End of flash. Resume to present.) </p>
+<p>(Cut to: Nick whacks the dummy on the counter. With every one-handed whack, the red dye spatters on his white sweater.) </p>
+<p>(Quick VIRTUAL POV of: Walter holds the pipe and whacks Ty Hawkins as he sleeps.)</p>
+<p>(Quick flash to: [BEDROOM - NIGHT] Walter whacks Ty Hawkins as he sleeps.) </p>
+<p>(End of flash. Resume to present.) </p>
+<p>(Cut to: Judy Tremont whacks the dummy on the counter. With every two-handed whack, the red dye spatters on her white sweater.) </p>
+<p>(Quick VIRTUAL POV of: Matthew Hawkins holds the pipe and whacks Ty Hawkins as he sleeps.)</p>
+<p>(Quick flash to: [BEDROOM - NIGHT] Matthew Hawkins whacks Ty Hawkins as he sleeps.) </p>
+<p>(End of flash. Resume to present.) </p>
+<p>SHORT TIME CUT TO:<br />
+(Warrick's white sweater has spatters on the top three-fourths of his sweater.) </p>
+<p>(Catherine steps over to Nick's sweater. The spatters cover half of the sweater, up to his elbows.)</p>
+<p>(Catherine looks over at the blue sweater and sees that it's not a match.) </p>
+<p>(Catherine steps over to Judy Tremont's sweater. The spatters cover the top one-fourth of the sweater, up to her mid-chest.) </p>
+<p>(It's a match to the original blue sweater.)</p>
+<p>(Quick flashback to: [BEDROOM - NIGHT] Ty Hawkins is sleeping in bed. Matthew steps into the room and bashes his head in with a pipe. The blood spatters on the blue sweater he's wearing.)</p>
+<p>(Cut to: [PARK - NIGHT] Matthew removes the sweater and drops it on the park bench.)</p>
+<p>(End of flashback. Resume to present.) </p>
+<p>(Judy's sweater matches the original blue sweater.) </p>
+<p><strong>Catherine</strong>: Judy, your sweater -- killer.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM] </p>
+<p>(Matthew talks with Nick and Det. Cavaliere.) </p>
+<p><strong>Matthew Hawkins</strong>: (scoffs) Like I told him, I did it. You want a medal for figuring out what I already said?</p>
+<p>(On the other side of the observation mirror, his parents watch the interview.) </p>
+<p><strong>Det. Chris Cavaliere</strong>: You never told me why.</p>
+<p><strong>Matthew Hawkins</strong>: Why's it matter, anyways?</p>
+<p>[OBSERVATION ROOM]</p>
+<p>(Yvonne Hawkins turns and cries. Martin holds her. He looks at Warrick. Warrick motions with his head.)</p>
+<p><strong>Warrick</strong>: Go ahead.</p>
+<p>(Martin leaves the room.) </p>
+<p>[INTERVIEW ROOM]</p>
+<p>(Martin walks into the interview room. Matthew is clearly surprised to see him.) </p>
+<p><strong>Matthew Hawkins</strong>: Dad.</p>
+<p><strong>Martin Hawkins</strong>: I want to know why.</p>
+<p><strong>Matthew Hawkins</strong>: Dad ...</p>
+<p><strong>Martin Hawkins</strong>: Why? Damn it. (Matthew starts crying.) Ty looked up to you. He ... he loved you.</p>
+<p><strong>Matthew Hawkins</strong>: (angry) He told. He told everyone!</p>
+<p><strong>Martin Hawkins</strong>: That you wet the bed?</p>
+<p>(Matthew stands up and screams.) </p>
+<p><strong>Matthew Hawkins</strong>: Shut up!</p>
+<p>(Martin stares at his son. Matthew sits back down in his chair and starts crying.) </p>
+<p><strong>Matthew Hawkins</strong>: Dad ... I'm sorry. I ...</p>
+<p>(Martin shakes his head.)</p>
+<p>[OBSERVATION ROOM]</p>
+<p>(Yvonne Hawkins cries. Martin turns and looks back at the mirror where he knows Yvonne is. He shakes his head and looks at Matthew.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT -- HALLWAY] </p>
+<p>(Close-up: Matthew Hawkins' hands are handcuffed behind his back. He's escorted down the hallway. As he passes them, he tries to go to his mom, but the officers stop him.) </p>
+<p><strong>Yvonne Hawkins</strong>: (crying) Oh, Matthew.</p>
+<p>(The officers lead Matthew away. Martin leads Yvonne away.) </p>
+<p>(Down the hall, Nick watches.) </p>
+<p>(From behind him, Det. Cavaliere turns the corner. He sees Nick and heads over to him.) </p>
+<p><strong>Det. Chris Cavaliere</strong>: Hey. (Nick turns and looks at him.) You owe me an apology.</p>
+<p>(Det. Cavaliere looks at him expectantly. Nick nods a little.) </p>
+<p><strong>Nick</strong>: I'm sorry ... </p>
+<p>(Nick turns away.) </p>
+<p><strong>Nick</strong>: ... that you feel that way.</p>
+<p>(Nick turns and leaves.) </p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
- 
-Front Desk Clerk: Welcome back, Mrs. Krell.
-Martha Krell: I told you, it's Martha.
- 
-Front Desk Clerk: Your room's ready and I have your credit card on file. 
- 
-Martha Krell: See you in the morning. I'm beat.
- 
-Front Desk Clerk:  Call me if you need anything, Martha.
- 
- 
- 
-
- 
- 
- 
-
-
-
- 
-
- 
- 
-Brass: Decedent's name is Martha Krell. Flight attendant. She checked in this afternoon.
- 
-Brass: Apparently, she was stabbed to death. The coroner's en route.
- 
-Grissom: Weird ... no sign of struggle.
- 
-Brass: No clothes, no luggage.
-Sara: Bedspread's undisturbed.  Trashcan is empty and the inside is spotless. It's possible a liner's been removed.
- 
-Brass: Take a whiff.
-Grissom: Smells clean.
-Brass: Smells like a hospital.
-Sara: Bleaches and deodorizers. Killer attacked the victim, then cleaned and sanitized the room.
-Grissom: Ah, but here's the smell of the blood still, and all the perfumes in Arabia will not sweeten this little room.
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
- 
- 
- 
-David Phillips: Her liver temp's 83 degrees. She's been dead approximately ten hours.
- 
-Sara: I'd like to get a clear photo of her wounds. Can we lay her out?
-David Phillips: Oh, yeah. Grab her feet.
- 
- 
-David Phillips: Defensive wounds.
- 
-David Phillips: Incised.
- 
-David Phillips: At least a dozen.
-Sara: She did not want to die.
- 
-Greg: I just got the call.
- 
-Greg: Where's Grissom?
-Sara: Bathroom.
- 
-Sara: Working the, uh, case.
- 
-
- 
- 
-Greg: Hey.
-Grissom: Hand me my multi-tool, will ya, Greg? I need a Phillips.
- 
- 
-Greg: What are you doing?
-Grissom: Well, the stabbing was brutal, but the crime scene is clean. No cast-off, no spatter. So, I want to know if the killer washed blood down the drain.
- 
-Grissom: Swab and phenol this, will ya?
- 
-Greg: Blood.
- 
-Grissom: Label it. Send it to DNA.
- 
-
- 
-
- 
- 
-Sara: Usually in hotel rooms, we find too many prints.  Not a single one. Just wipes and swipes.
-
- 
- 
-Front Desk Clerk: Ms. Krell was a real nice lady. She brought me a Dodger baseball cap.
-Brass: Wow. So you were friends? 
-Front Desk Clerk: Not really. Airlines buy a chunk of rooms for their trolley dollies, discounted. She's just staying here for a few months.
-Brass: So you discovered the body.
-Front Desk Clerk: Her supervisor called to say her A.M. flight was canceled. She wasn't answering her phone. He asked me to make sure she got the message.
-Brass: So you knocked on her door, and when she didn't answer, you just went right in?
-Front Desk Clerk: Yeah. I got a master key.
-Brass: Yeah, I knew that. Does the hotel have surveillance?
-Front Desk Clerk: Nope.
-Brass: Thank you. You've been a big help.
-Front Desk Clerk: Right on.
- 
-Hayden Michaels: Excuse me. I'm Hayden Michaels. I'm the Manager of the Four Aces. I just got the call. Anything we can do to help?
-Brass: Thank you. I'll let you know.
-Hayden Michaels: Detective, if this hits the media, this is really going to hurt our business.
-Brass: What are you asking me?
-Hayden Michaels: Anything you can do to keep it out of the press?
-Brass: Look, I'm trying to catch a killer. I got no control over the press. If this makes the news, then it is what it is.
- 
-
-
-
- 
- 
-
- 
- 
-Det. Chris Cavaliere: Hey. Victim's in the bedroom. Ty Hawkins, 12.
-
-
- 
- 
-Det. Chris Cavaliere: Mother came in to wake him ... found him like this.
- 
-Nick: Beaten to death.
-Det. Chris Cavaliere: This many blows; it was personal. 
-David Phillips: Liver temp makes T.O.D. around midnight.
-Det. Chris Cavaliere: No sign of forced entry. Nothing's missing. All the doors and windows were locked except for the screen door. Parents claim they keep that locked.
-Catherine: You find a weapon?
-Det. Chris Cavaliere: Negative. Family's been transported down to the station. I'm gonna go down and take their statement. Hey, when you're done here, roll by. We'll ink them.
-Nick: You got it.
- 
-Catherine: Boy's not even safe in his own bed.
- 
-Catherine: I'll take the inside.
-Nick: Yeah, I could use the fresh air.
-
- 
- 
-
-(Camera pulls back out of the bedroom through the bedroom window and out of the house ... 
- 
- 
- 
- 
-(Camera zooms back into the house through the bedroom window ... 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
-Nick: Found a pile of pipes by the side of the house; one seems to be missing. This is an exemplar of a possible murder weapon. And I cast a shoe impression just outside the kid's bedroom window. Also some graffiti on the window -- B-R-
-A-T. Maybe somebody had it in for the kid. 
- 
-Catherine: Well, I bagged the bloody sheets from the bed. Found boxers, a t-shirt and a fitted sheet in the washer. ALS'd for blood, found urine.
-Nick:  Mm. Well, whoever killed the boy knew how to get in and out of this house without waking the family.
- 
-
-
- 
- 
-Robbins: No mystery here. Ms. Krell was violently stabbed to death. C.O.D. exsanguination.
-Grissom: SAE kit?
-Robbins: She was raped. Contusions to the vaginal introitus and an eighth-inch hemorrhagic laceration at the vaginal fourchette. Six o'clock position. The attack was brutal.
-Grissom: Aren't they always? I don't know why people think that rape has anything to do with s*x.
-Robbins: If a guy just wants s*x, he can hire a hooker.
-Grissom: What else?
-Robbins: Well, there is some good news. Motile sperm in the t mount. I've sent the kit to DNA for analysis.
-
- 
-(Open on the writing on the side of a file storage box:
-STEIN, SUE
-MAY 12 1999
- 
-Sara:  Ecklie, what's up?
- 
-Conrad Ecklie: I paged Grissom.
- 
-Sara: And he paged me. How can I help you?
-Conrad Ecklie: Five years ago, there was this, uh, day-shift case, homicide.
- She was raped and murdered in a local hotel. Killer was never apprehended. 
-
- 
- 
-
-
- 
-
-
- 
- 
-Conrad Ecklie: Vic's clothing and suitcase were missing. Room was immaculate, smelled like disinfectant.
-Sara: Same signature.
-Conrad Ecklie: One difference. In the, uh, prior case, body was found in a first floor room. Sliding glass door facing the pool was unlocked.
-Sara: Ms. Krell was killed on the second floor. There was only one way into her room.
- 
-Sara: Was there semen present in Sue Stein's SAE kit?
-Conrad Ecklie: Yeah. Ran it through CODIS. No hit. I asked Mia to compare it with the semen from the recent attack.
-Sara: Is that fingerprint from your crime scene?
- 
-Conrad Ecklie: Only print we found. Impressed in Sue's blood on the bedspread near her hips. Underlying pattern on the fabric made it impossible to read.
-Sara: That was then.  This is now.
-
-
-
-
- 
- 
-Martin Hawkins:  My son's dead. Why are you fingerprinting me?
-Nick: The Crime Lab is going to dust your house for prints, so I need to know which ones are yours.
- 
-Det. Chris Cavaliere: Now, your wife said that you both went to bed after the news.
-Martin Hawkins: I already told you that. Twice. 
- 
-Martin Hawkins: You know, I ... I got questions, too, you know. Why Ty?  Why not me?
- 
-Martin Hawkins: How could my wife and I sleep ...  ... through it all?
-Nick: Mr. Hawkins, would you stand up, facing me, so I can take some photos?
-Martin Hawkins:  Is this really necessary?
-Det. Chris Cavaliere: Please, just let him do his job. Sir ...
- 
- 
- 
-Nick: Open up.
- 
-Nick: I'll be needing to take your shoes as well. You can wear some booties home.
-Martin Hawkins: What now?
-Det. Chris Cavaliere: You and your wife are free to go.
-Martin Hawkins: What about Matt?
-Det. Chris Cavaliere: He has to stay here in protective custody until this is resolved.
-
-
-
- 
-Martin Hawkins: Yvonne?  Hey.
- 
- 
-Yvonne Hawkins: They're keeping Matt.
-Martin Hawkins: I know. He'll be home soon. It's just procedure.  Right?
- 
-Det. Chris Cavaliere: Right.
-Martin Hawkins: Can we at least speak to him?
-Det. Chris Cavaliere: Can't allow that.
- 
-Martin Hawkins: Come on, let-let's go. Come on.
- 
- 
-Nick: You just gonna let them go?
-Det. Chris Cavaliere: Neither has a record, no motive. There's no blood on them.
-Nick: Well, they could've showered, tossed their clothes.
-Det. Chris Cavaliere: Their grief is not an act.
-Nick: Yeah, based on what?
-Det. Chris Cavaliere: Years of listening to the parents of dead children. Let's go talk to this kid.
-
- 
- 
-Greg: Hey, Mia.
- 
-Greg: Let me guess; you're listening to something classy like Jessica or Ashlee.
-
- 
-Mia Dickerson: It's ... Jean-Paul Sartre. &quot;Huis clos.&quot;  It loses something in a translation.
-Greg: Oui, oui.
-Mia Dickerson: The blood from the hairy wad that you found in the drain is consistent with the victim.
-Greg: And what about the semen from Martha's SAE?
-Mia Dickerson: That's consistent with the DNA from the first attack. You are looking at the same rapist. I want to show you something.
-Greg: Really?
- 
-
- 
-Greg: This guy's immune system doesn't recognize his own sperm. Antibodies are attacking the little guys.
-Mia Dickerson: I read about this phenomenon in a forensic journal ... 
-Greg: November, 2003. Killer had a vasectomy, then had it reversed.
-Mia Dickerson: Oui, oui.
-Greg: Thanks, Mia.
-
-
- 
- 
-Robbins: How could a boy have made someone so mad? C-O-D is blunt-force trauma. I counted fourteen separate blows. Several more were coinciding. Cylindrical weapon, about an inch in diameter.
-Catherine: Consistent with a pipe?
-Robbins: Yeah. In fact, check this out.
- 
-Robbins:  Thread pattern's consistent with the end of a pipe.
-
- 
- 
-Catherine: He's got no defense wounds.
-Robbins: Yeah. My guess, he never woke up.
-
-
- 
- 
- 
-Det. Chris Cavaliere: You're not fooling me, kid. The second I laid eyes on you, I knew how it went down. You took a pipe from the backyard, you went into Ty's bedroom, and while he was sleeping, you beat his brains to a pulp.
- 
-Det. Chris Cavaliere: Now, what the hell's wrong with you, kid? Your little brother is dead. What did he ever do to you?
- 
-Det. Chris Cavaliere: Now, don't look at him. He can't help you. Nobody can help you. You're going to prison. And at fourteen, that means life. 
-I'm talking to you, you little ... !
- 
-Nick: Detective ... can I have a word with you outside, please?
-
-
-
- 
-Nick: We don't have enough evidence to suggest that that boy killed his brother.
-Det. Chris Cavaliere: Well, what are you getting at?
-Nick: I'm saying I'm not sure if threatening him is the right tactic right now. I found no blood on his clothes. The screen door could have been the point of entry.  I mean, have you considered asking him what he heard or-or saw before you just put the full court press on him?
-Det. Chris Cavaliere:  I don't tell you how to collect the evidence.
-Nick: No, you don't. Look, there's no disrespect here, okay? We're all on the same team.
-Det. Chris Cavaliere: Then get to the lab and get me something that I can use. 
-
-
- 
- 
-Sara: Hey.
-Neil Jansen: Hey. Call me a geek, but background subtraction application software is the bomb.
-Sara: Only geeks still say &quot;the bomb.&quot; But it you ask me, geeks should be revered.
-Neil Jansen: Okay. Um, the technology's pretty new. You'll get hammered on cross, but it definitely works.  Okay, check it out. So the fingerprint is blood-red -- that's the shade we use for the color identifier -- and now the preprogrammed algorithm is just removing all the other colors from the fabric, and we're left with just the print. It's ...
-Sara: Mind if I watch?
-Neil Jansen: Voyeur, huh? I like that.
-Sara: Geek.
- 
-Sara: Wow.
-Neil Jansen: Yeah. Right.
-
-Neil Jansen: Scan this into I-AFIS, and here we go.
- 
-(The results read:
-ACHESON, JESSE
-EYES: BLUE HAIR: DARK BLONE WGT: 205 LBS HGT
-RACE: CAUCASIAN s*x: MALE
-ADDRESS:
-288 TYLER RD. HENDERSON, NV 89101
-CRIMINAL HISTORY
-JANUARY 1998-APRIL 1999:
-POSSESSION OF COCAINE WITH THE INTENT TO SELL  
-JULY 1999 - JANUARY 2000:
-POSSESSION OF COCAINE WITH THE INTENT TO SELL  
-JUNE 2000 - MAY 2002:
-POSSESSION OF COCAINE WITH THE INTENT TO SELL  
-NOVEMBER 2002 - SEPTEMBER 2004:
-POSSESSION OF COCAINE WITH THE INTENT TO SELL  
-Neil Jansen: Got yourself a hit. &quot;Jesse Acheson. 38. &quot;Multiple convictions, cocaine possession, intent to sell. In and out of prison for the past ... seven years.
-Sara: Was he in or out on May 12, 1999?
-Neil Jansen: Out.
-Sara: What about last night?
-Neil Jansen: Released six months ago. Living in Henderson.
-Sara: Thanks, Neil.
-
-
-Cue Sound:  KNOCKING
-
- 
-Michelle Acheson:  Who is it?
-Brass: Las Vegas police. 
- 
-Brass: We're looking for Jesse Acheson.
-Michelle Acheson: Hey, look, my husband hasn't used since he got out of the joint, so whatever you think he did, you're wrong.
-Brass: Do you know where he is?
-Michelle Acheson: No idea.
-Brass: Well, your marriage is just full of romance, huh?
-Sara: May we come in?
-Michelle Acheson: Nah, I don't think so.
-Sara: Just one more question. Do you happen to know where he was last night?
-Michelle Acheson: No. I, uh, I haven't seen him in days.
-Sara: Thank you.
- 
-Brass: That was fun.
-Sara: Brass, ... 
- 
-Sara: You guys get in your cars, drive around the block. Pick me up in five minutes.
-Brass:  We'll be close.
- 
-
- 
-Michelle Acheson:  Jesse, cops were just here. What the hell's going on?
- 
- 
-Michelle Acheson:  Damn you!
-
- 
-
-
-(Nick compares the shoe print samples taken from:
-SUSPECT: HAWKINS, MARTIN
-CASE #42396-NS-03/10/05
-With the original shoe print found in the dirt:
-VICTIM: HAWKINS, TY
-CASE #42396-NS-03/10/05
-SHOE IMPRESSION:
-EXTERIOR BEDROOM
- 
-
-
-
- 
-(Nick reaches for the next shoe print for:
-SUSPECT: HAWKINS, MATTHEW
-CASE #42396-NS-03/10/05
- 
-
-
- 
-Nick: The shoe impression outside Ty's window matches the brother's. 
-Catherine: Yeah, I got a hair off of Ty's t-shirt. Also consistent with Matt.
-Nick: Either of which could be related to the murder or just a result of two brothers living together.
-Catherine: Yeah.
-Nick: What's in the bindle?
-Catherine: Uh, blue fibers. Got them off the vic's t-shirt.
-Nick: Nobody in the family was wearing anything blue.
-Catherine: No, but you know, could be from a blanket, a carpet, towel. I'll take them to Trace.
-Nick: Yeah.
- 
-Nick: Hey, I am concerned that Detective Cavaliere's moving ahead of Forensics on this one.
-Catherine: He can move as fast as wants. The D.A. won't file without the physical evidence. And right now, we got nothing.
-
- 
- 
- 
-Sara: Sandra Acheson called her husband at exactly 3:03 P.M. today. I secured a 2703-D court order for the number she was calling. It was a cell phone. I contacted the cell phone company and found out that Jesse answered his phone near tower 8, Phase West. Given the signal strength, he was within two blocks of the tower.
- 
-Sara: His wife said that she hasn't seen him in several days, so I had Homicide check registration at all the hotels within the yellow area. He is booked at the Tangiers.
- 
-Grissom: Well done.
- 
- 
-Greg: Get this -- the rapist's semen came back positive for cocaine.
-Grissom: We don't usually run a panel for semen, Greg.
-Greg: I know that, but given our suspect's priors for blow, I had a tech run an immunoassay specific to the drug.
-Grissom:  Wow. You guys are rendering me obsolete.
- 
-Sara: So, Jesse gets coked up, he commits the crime, he drives down to the strip and he checks into the Tangiers.
-Greg: The gift show's in town. There aren't any vacancies on the strip.
-Sara: Well, his wife said that she hadn't seen him in a few days.
-Grissom: Maybe he's back in the game again, selling coke to out-of-town businessmen from the comfort and security of his hotel room.
-Sara: So, he takes a break from his job, rapes and kills the vic at another hotel, and then goes back to work?
-Grissom: Even cokeheads need a diversion now and then.
- 
-
- 
- 
-Nick: Hey.
-Det. Chris Cavaliere: Hi, Stokes. Solve the case?
- 
-Nick: I'm getting there. Nothing definitive as of yet. Which means you can't hold Matt Hawkins for longer than his twenty-four hours.
-Det. Chris Cavaliere: Really? Well, you know, uh ... I got a signed confession.
- 
-Nick: Really?
-Det. Chris Cavaliere: Mm-hmm. Sort of kicks the crap out of your &quot;evidence,&quot; now, doesn't it?
-Nick: He confessed?
-Det. Chris Cavaliere: Signed. Check it.
-Nick: Did you beat it out of him?
-
-Det. Chris Cavaliere:  No, I used science, kind of like you guys.
-Nick: Mm, how's that?
-Det. Chris Cavaliere: I put him on a computer voice stress analyzer. Once I caught him lying, he gave it right up. 
- 
-Nick: That device has been discredited for years.
-Det. Chris Cavaliere: Well, check their web site. It's still used in 1,400 state and local agencies.
-Nick: Well, not in Las Vegas. Or anywhere else in this state. Say, was an advocate or a parent present at the time of the confession? 
-Det. Chris Cavaliere: He didn't ask for his mommy and daddy. Long as he says he understands his rights, we don't have to have anyone there with him.
-Nick: He tell you why he did it?
-Det. Chris Cavaliere: No, but he will. Hey, listen, Stokes, thanks for trying to help, but we got him.
- 
-Nick: Okay.
- 
-
-
-
-;
-
-
-
- 
- 
-Brass: So, I just got back from the Tangiers. The G.M. won't let us into Jesse Acheson's room without a search warrant, and the judge denied our request.
-Grissom: I'll talk to the judge.
-Brass: I'll bring Acheson in for questioning, I guess.
-Grissom: Could you just keep him under surveillance for now, let Greg tag along with your guy? We might learn something.
-Brass: Sure, I'll get him a bag of donuts.
-
-
- 
-Warrick: I was testifying today. I ran into the D.A. He filled me in on your case.  Looks like Matt Hawkins' confession is gonna stand up in court.
-Nick: Suspects are tricked into confessing all the time, but I'm telling you, Cavaliere intimidated that boy. Man, he would've signed anything.
-Warrick: So you think he's innocent?
-Nick: Could be. I checked the crime stats for the Hawkins neighborhood. There's been a rash of nuisance calls. There's some homeless guy running around out there peeping in windows, urinating in public, attempted B and E.
-Warrick: Sounds like a suspect.
-Nick: I'm gonna go back out there, see if the Hawkins know anything about it.
- 
-Warrick: Need some help?
-Nick: You got that kind of time?
-
-Warrick: I'll meet you in the car.
-Nick: Thanks, Rick.
-
- 
- 
- 
-Judge Witherspoon: You expect me to invade Mr. Acheson's privacy based upon a five-year-old fingerprint that was manipulated on a computer? 
-Grissom: It wasn't manipulated -- it was processed. That's what we do.
-Judge Witherspoon: Try getting that one past a defense attorney. It's one thing to send a print through AFIS; it's another thing to use ... a &quot;background subtraction algorithm&quot; to isolate the print from a bedspread.
-Grissom: It's not my fault that the courts lag behind our technology.
-Judge Witherspoon: Gil. I'm sympathetic to your request, but if I grant a warrant based upon this print, and the print is later thrown out of court, then everything you find as a result of it would be excluded, and your pattern rapist could be back on the street. Give me something else -- I'll be happy to grant you a warrant.
-Grissom: Your honor, I need the warrant in order to find something else.
- 
-Judge Witherspoon: You'll find another way.
- 
-
- 
- 
- 
-Officer Akers: Kind of like bird-watching, ain't it?
- 
-Greg: I wouldn't know.
-Officer Akers: You bored?
- 
-Greg: I'm bored.
-
-Officer Akers: So, I got a question.  I hear the killer completely wiped down the crime scene. So why do you think he left his semen behind? Could've worn a condom.
-Greg: Well, before committing a crime, a typical serial rapist will often m*st*rb*t* to his perfect rape-murder fantasy. Didn't wear a condom then, didn't want to wear one during the act. Besides, the DNA isn't on file. It wasn't much of a risk.
- 
-Officer Akers: Litterbug.
-Greg: CSI's don't mind the bugs. 
- 
-Greg: If the DNA on this cup matches the seminal DNA, Grissom won't need a warrant. We'll be making an arrest.
-
-
- 
- 
-Yvonne Hawkins: We're not unfit parents. Please, we just want to speak with our son.
-Martin Hawkins: We called the detective, but no one will tell us anything.
-Nick: Right now your son's under investigation.
-Yvonne Hawkins: What?
-Nick: Yeah, the detective asked him if he wanted a parent or advocate present at the interrogation. He's fourteen years old, so it's his right to say no.
-Martin Hawkins: But he's just a kid. I mean, he just lost his brother.
-Yvonne Hawkins: Matt's sensitive. He doesn't handle stress well. If we-we-we could just talk to him.  He may need a change of clothes. 
-Nick: Were those his clothes in the washer?
-Yvonne Hawkins: Yeah.
-Nick: Okay, we'll see what we can do about getting him something to wear.
-Warrick: In the meantime, if you could just answer the question.
-Yvonne Hawkins: You want to know about that homeless guy?
-Warrick: Yeah.
-Yvonne Hawkins: He's nuts. He-he scared the boys once or twice, but ... 
-Warrick: How did he scare them?
-Martin Hawkins: Ty saw him writing something on the window.
-Nick: Was it &quot;brat&quot;?
-Martin Hawkins: Yeah. I chased him away. Matt ... cleaned off the window.
-Nick: That would explain the shoe impressions outside the bedroom window.
-Yvonne Hawkins: You're thinking that that guy had something to do with what happened?
-Nick: Well, that's what we're trying to find out.
-Yvonne Hawkins:  Oh, God. I knew we should've called the cops.
-Warrick: When was the last time that you saw him?
-Martin Hawkins: I jog through that park every evening. Um, he's got this, uh ... makeshift tent thing set up by the playground.
-
-
- 
- 
-Walter : What? Hey! Stop it!
-Officer: Come on! Get up!
-Walter : Let me ... let me go!
- 
-Walter : Let go of me! Stop it!
-Officer Metcalf: Hey, what's your name?
-Walter : What?
-Officer Metcalf: Tell the gentlemen your name.
-Walter : Walter! My name is Walter!
-Nick: Walter, that's a nice blue sweater. Where'd you get it?
-Walter : What?
-Nick: I said I like your sweater -- where'd you get it?
-Walter : It's mine!
-Nick: Oh, it's yours?
- 
-Walter : Yes, this is my sweater!
-Warrick: Whose blood is it on your sweater, Walter?
-Walter : Huh?
-Warrick: We're gonna give you a nice warm place to sleep tonight, partner.
-Walter : Wha-- ?
- 
-Nick: Suspicion of murder.
- 
-Walter : No! No!
-Nick: Easy with the sweater. It's evidence.
-
-
- 
-Mia Dickerson: So, I processed the DNA from the coffee cup, and it turns out that there were two contributions on the lip, which means that your coffee shop recycles, and not in the good way.
-Sara: Gross.
-Mia Dickerson: Bad news is that neither of the contributions is consistent with the semen that was recovered from the crime scene. 
-Sara: If Acheson didn't rape Sue Stein, what is his print doing on the bedspread?
-
-
- 
-Jesse Acheson: Well, I certainly didn't kill anyone, and ... I do not know how my fingerprint got there.
-Sara: We don't think that you did rape or kill anyone. We simply want to know how your fingerprint ended up at a murder scene five years ago.
-Brass: Look, Jesse, we appreciate you coming down here voluntarily, but if you clam up, we're gonna have to file an obstruction of justice charge, and that's not good ... for you. Let's make it easy on yourself.
- 
-Brass: What were you doing in Sue Stein's hotel room?
-Jesse Acheson: You won't believe me.
-Brass: Try us.
-Jesse Acheson: I did go to see Sue that night.
- 
-Jesse Acheson: Sue.
- 
-Jesse Acheson: Come on, girl, wake up.
- 
- 
- 
- 
-Sara: You just took off? You didn't bother to report a murder 
-Jesse Acheson: Ma'am, I ... I got a record, and I was on probation. If I'd done all of that, I'd have been ... suspect numero uno. 
-Brass: All right, let's cut to the chase. You were there to sell her blow, right?
- 
-Jesse Acheson: I don't need a lawyer, right? I mean, it's off the record?
-Brass: We're just having a little chat here.
- 
-Jesse Acheson: Well, that's why she left the door unlocked. We'd been doing it that way for years. Whenever Sue came to town, I always took care of her.
- 
-Jesse Acheson: I'm really sorry. She was my friend. I wish I could be more help.
-
- 
- 
-Det. Chris Cavaliere:  Stokes.
- 
-Nick: Hey, man.
- 
-Det. Chris Cavaliere: What the hell are you doing? Are you trying to screw with my case?
-Nick: I'm just following the evidence, and it led me to another suspect. I think you're going to want to talk to him in the interest of justice.
-Det. Chris Cavaliere: What, are you trying to help the defense now?
-Nick: You know any good defense is gonna bring up a &quot;rush to judgment&quot; here. Come on! Chris, you put another interviewed suspect on your list. It shows due diligence. Let's go.
- 
-
- 
- 
-Nick: Your sweater's been analyzed, Walter. Found bloodstains from a murdered boy on it.
-Walter : It's not my sweater.
-Nick: You already told me it was yours.
-Walter : Finders keepers. It wasn't always mine, though.
-Nick: Where did you find it?
-Walter : On a bench. By the basketball courts.
- 
- 
-Walter : I was cold.
-Det. Chris Cavaliere: Hey, man ... if you're lying ...
-Walter : I'm not lying. I'm not lying!
-Det. Chris Cavaliere: So when did you find it?
-Walter : Yesterday. No, um, a few days ago. I don't remember.
-Det. Chris Cavaliere: Put him in lockup -- maybe it'll help his memory. 
- 
-Det. Chris Cavaliere: Stokes ... I got a signed confession. You got a bum in a bloody sweater. What are you gonna do about it?
- 
-
-
-
-
- 
- 
- 
-(He finds a laundry mark near the inner back neck seam:
-YUNG'S CLEANERS
-#555-93-5157
-
-
- 
-Nick: Hey, Catherine.
-Catherine: Yeah?
-Nick: DNA finished up with the blue sweater and I processed it.
-Catherine: Anything probative?
-Nick: I ran it under the UV light and out popped one of those invisible dry cleaner ID stamps, you know?
-Catherine: Yeah?
-Nick: I called the dry cleaner; they gave me a name.
-
-
- 
-Nick: Mr. Hawkins, is that your sweater?
- 
-Martin Hawkins: Yeah ... it looks like my sweater. 
-Yvonne Hawkins: Where'd you find it?
-Nick: Did you give it away?
-Martin Hawkins: No, but I haven't seen it in a while, though. Why?
-Nick: It's got Ty's blood on it.
- 
-Martin Hawkins: Do I need a lawyer?
-Nick: That's your call, sir.
-
- 
- 
-Grissom: You called me?
-David Hodges: Yeah, Mia sent me that wad of hair that you pulled out of the hotel drain.
- 
-David Hodges: It's coated in bleach. I'm thinking the killer must've poured the stuff down the drain. Really compromised the trace.
-Grissom: That's it? A compromised wad of hair?
-David Hodges: No, uh, I called you to discuss the bleach. The hairy wad smelled a bit woodsy to me. Which is odd, considering it should only smell like bleach. 
-Grissom: You sniffed it?
-David Hodges: That disgust you?
-Grissom: No, actually, it's the first time you've ever done anything to impress me.
-David Hodges: Hm. Anyway, um, I analyzed the bleach.  It contains a cedar additive. Thought you'd want to know.
- 
-Grissom: Thanks, David.
-David Hodges: Sure, Gil.
-
- 
- 
- 
-Hayden Michaels: Like I said, I'm more than happy to help you in any way I can. So, when I got your phone call about the scent of our bleach, I figured you should to talk to Lucy. Lucy is our head of housekeeping.
-Lucy: The guests sometimes complained about the bleach smell after we cleaned the bathrooms. A few years ago, I started adding cedar chips to the bottles. Makes it smell better.
-Grissom: Lucy, who else has access to your bleach?
-Lucy: Just the maids.
-Brass: Are they all female?
-Lucy: Yes.
-Brass: You park your carts in the hallway when you clean the room, so anyone could have swiped a bottle of bleach, right?
- 
-
- 
-Lucy: No. We've had problems with theft, towels mainly, but now our maids take their carts into the rooms.
-Grissom: Those your kids?
-Hayden Michaels: Yeah. Two eldest are at UNLV.
-Grissom: And the baby?
-Hayden Michaels: Jake. Jake is, uh, six months old.
-Grissom: Is that your second wife?
-Hayden Michaels: Mm-hmm.
-Grissom: So you must have had your vasectomy reversed.
- 
-Hayden Michaels: Why are we talking about my vasectomy?
-Grissom: You also have access to the bleach, so you won't mind if I take a DNA sample.
-Hayden Michaels:  Look. If word leaks out that you took my DNA and I'm a murder suspect, I will never work in hospitality again. I'm sorry, the answer's no. Anything else?
-Brass: We'll be in touch.
-
- 
- 
-Catherine: So we've got three suspects, three scenarios.
-Nick: Yeah, Matt could have worn his dad's sweater when he killed Ty. Dumped it in the park during the night, where Walter found it.
-Catherine: Or dad could have worn it and dumped it in the park.
-Warrick: Or this sweater could have accidentally been left in the park, and Walter, the homeless guy, could have picked it up and worn it when he entered the house through the screen door and killed Ty. But none of the evidence goes to motive.
-Catherine: Not our problem at the moment. Let's just stay focused on the sweater. It's tied to the victim and this scene. We need to tie it to the killer. Hey, how tall would you say Matt Hawkins?
-Nick:  About five feet, why? Dad is ... 6'2&quot;. What about Walter?
-Warrick: Mmm ... 5'10&quot;. About Nick's height.
- 
-Nick: Yeah.
-Warrick: What you getting at?
-Catherine: Meet me in the garage in half an hour.
- 
-
- 
- 
-Grissom: Mr. Michaels, in my work over the last twenty-five years, I've come to understand the kind of person who's a rapist-killer.
-Adam Matthews: Is that an accusation?
-Grissom: Well, a woman was murdered in your client's hotel. He has a right to hear our theory. The killer is clearly a psychopath. He's killed more than once. I'm sure that before his first rape and murder he fantasized about it for years.
- 
-Woman: No. No! WOMAN: No! WOMAN: Get away!
- 
-Killer: Quiet! Quiet! Quiet!
-
-Woman: No!
- 
-Grissom: During that time, he engaged in behavioral tryouts. Stalking women and attempting to coerce them sexually, each time moving closer and closer to the actual event.
- 
-Killer: Shut up! Shut up! KILLER: Shhh-!
- 
-Grissom: I believe that after you consummated your first attack, you felt excitement greater than you anticipated. Your only regret was that she died too quickly.
-
- 
-Grissom: But you took solace in the knowledge that, uh, you could do it again. In fact, your subsequent victim had similar characteristics to your first victim.
- 
-Martha Krell: No! No! No!
-Killer: Shut up! KILLER: Shut up!
- 
-Martha Krell: Please! Please! 
-
- 
- 
-Adam Matthews: This is a waste of time.
-Grissom: You see, what differentiates a psychopath from a &quot;heat of the moment&quot; killer is forethought.
- 
- 
-Grissom: And you thought about this for a long time.
-Adam Matthews: Thank you for the fascinating seminar, but you have no evidence, so we are free to go.
- 
-Sara: Actually, I have some evidence.
-Hayden Michaels: What is this? What's going on?
- 
-Sara: Mr. Michaels?
- 
-Hayden Michaels: She can't ... you can't do that.
- 
-Adam Matthews: Do what?
-Hayden Michaels: No, I know my rights.
-Adam Matthews: Hey, shh.
-Hayden Michaels:  The bitch broke into my car.
- 
-Adam Matthews: I don't remember seeing a warrant, Ms. Sidle.
-Sara: I don't have a warrant. I was following a hunch.
- 
-Adam Matthews: Well, then you just set my client free.
-Sara: On the contrary. Western Airlines issues this exact type of &quot;wheelie&quot; to all its flight attendants. Since Martha's wheelie wasn't in the hotel room, we thought maybe the killer took it ... as a souvenir. This particular suit case ...
- 
-Sara: ... is not Martha's wheelie.
- 
-Grissom: And now that we know where to find it, and we have your client on tape, I bet you we'll get a warrant.
- 
-Grissom: Thank you.
- 
-
- 
- 
-Catherine: Okay, Warrick, you are approximately the height of Martin Hawkins. Nick, you and the homeless dude are about the same, and Judy, you're close to Matt.
- 
-Catherine: The table is the same height as Ty's bed - forty-three and half inches from the floor to the top of the mattress. The white sweaters, which you all look so adorable in, are the same fabric as the bloody one.
- 
-Catherine: The pipes are the same diameter as the wounds on Ty's face. I want each of you to take a whack at our victim.
- 
-Judy Tremont: Just like Chuckie Cheese. Whack-a-mole.
-
-Catherine: Uh, spatter up.
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-
- 
- 
-
-
-
- 
- 
-Catherine: Judy, your sweater -- killer.
-
- 
- 
-Matthew Hawkins:  Like I told him, I did it. You want a medal for figuring out what I already said?
- 
-Det. Chris Cavaliere: You never told me why.
-Matthew Hawkins: Why's it matter, anyways?
-
-
-Warrick: Go ahead.
- 
-
- 
-Matthew Hawkins: Dad.
-Martin Hawkins: I want to know why.
-Matthew Hawkins: Dad ...
-Martin Hawkins: Why? Damn it.  Ty looked up to you. He ... he loved you.
-Matthew Hawkins:  He told. He told everyone!
-Martin Hawkins: That you wet the bed?
- 
-Matthew Hawkins: Shut up!
- 
-Matthew Hawkins: Dad ... I'm sorry. I ...
-
-
- 
-
- 
- 
-Yvonne Hawkins:  Oh, Matthew.
- 
- 
- 
-Det. Chris Cavaliere: Hey.  You owe me an apology.
- 
-Nick: I'm sorry ... 
- 
-Nick: ... that you feel that way.
- 
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=05x17+-+Compulsion&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127395%23p127395" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=05x17+-+Compulsion&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127395%23p127395" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127395%23p127395&amp;name=05x17+-+Compulsion" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127395%23p127395" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=096d9081a411a6b2d7024be36f41a023">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=096d9081a411a6b2d7024be36f41a023">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=096d9081a411a6b2d7024be36f41a023">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=096d9081a411a6b2d7024be36f41a023">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

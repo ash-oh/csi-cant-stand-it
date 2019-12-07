@@ -1,680 +1,908 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="FADE IN: 
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]
+(Heavy black clouds cover the sky. Lightning flashes. Thunder rumbles as it prepares to rain." />
+<meta property="og:title" content="07x07 - Post Mortem - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="FADE IN: 
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]
+(Heavy black clouds cover the sky. Lightning flashes. Thunder rumbles as it prepares to rain." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13340" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>07x07 - Post Mortem - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13340" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13340">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=1ca7b8ffffbed61cec6f43f618401fa6"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=1ca7b8ffffbed61cec6f43f618401fa6">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=1ca7b8ffffbed61cec6f43f618401fa6">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=1ca7b8ffffbed61cec6f43f618401fa6">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=1ca7b8ffffbed61cec6f43f618401fa6">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13340&amp;sid=1ca7b8ffffbed61cec6f43f618401fa6&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>07x07 - Post Mortem</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127434">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127434">07x07 - Post Mortem</a></div>
+							<div class="pull-right text-right"><time datetime="2006-11-23T11:20:57Z">11/23/06 11:20</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>FADE IN: </p>
+<p>[EXT. LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]</p>
+<p>(Heavy black clouds cover the sky. Lightning flashes. Thunder rumbles as it prepares to rain.</p>
+<p>[CU: TURNTABLE] </p>
+<p>(Someone puts the needle on the LP.)</p>
+<p><strong>Lyric</strong>: &quot;Lollypop, lollypop. Oh, lolly, lolly, lolly. Lollypop, lollypop – &quot;</p>
+<p>(An old woman dabs at her nose with a white handkerchief. She sniffles.) </p>
+<p>(Lightning flashes and thunder rumbles outside.) </p>
+<p>(She tucks the handkerchief into the right sweater sleeve.) </p>
+<p>TOP VIEW DOWN</p>
+<p>(The woman sits in a chair.)</p>
+<p>(She opens a cigarette case and removes a single cigarette. She puts the case down in the side-table tray. She picks up a heavy lighter and lights the cigarette between her lips. She breathes deeply.) </p>
+<p>(She exhales as she puts the heavy lighter aside. She coughs.) </p>
+<p>(The old woman takes out a bottle of CHERRY HERRING liqueur and uncaps it. She pours herself a glass.)</p>
+<p>(She sits back and enjoys her cigarette and glass of liqueur as she listens to the music.)</p>
+<p>(She finishes her glass.)</p>
+<p>(She picks up the paper and cuts coupons out. She cuts a coupon out and looks at it.) </p>
+<p>(Thunder rumbles outside.)</p>
+<p>(She gets up.) </p>
+<p>[EXT. VIEW]</p>
+<p>(Through the covered windows, we see the shadow of a figure moving about in the room. The figure's arms are moving about as the person moves to and fro, almost as if they're dancing. The figure's arms bump into the lamp stand, causing it to tilt, but not fall over.)</p>
+<p>(Finally, the shadow of the figure rushes across the room into the arms of a second shadowy figure that suddenly appears in the room. The two figures move close with each other and appear to sway to the music.) </p>
+<p>(We move in closer toward the large clear glass windows of the room. The two figures continue to move together across the room.) </p>
+<p>(Suddenly, the shadowy figure of the old woman moves swiftly from one end of the room and SMASH! -- into the glass window as it breaks. The old woman slumps on the broken shards of glass, over the window frame, hanging partially outside.)</p>
+<p>FLASH TO:<br />
+[EXT./INT. GARDEN RESIDENCE – ROOM -- NIGHT] </p>
+<p>(Penny Garden hangs over the broken picture window frame, shards of glass cutting through her skin. We hear the camera snap and see the lights flash.) </p>
+<p>(Grissom kneels outside in front of the body as he takes photos of the dead woman.) </p>
+<p>(Brass is inside the room as he reports to Grissom. Sara walks around the room snapping more photos.) </p>
+<p><strong>Brass</strong>: Her name is Penny Garden. Age 65. Retired cocktail waitress.</p>
+<p>(Sara holds the camera and snaps a photo of the overturned liqueur bottle, overturned glass and coupons scattered on the floor.) </p>
+<p><strong>Brass</strong>: Been living here since the Rat Pack days.</p>
+<p><strong>Grissom</strong>: She may have served them drinks.</p>
+<p><strong>Brass</strong>: Well, they must have tipped well because twenty years ago, this was a nice neighborhood. Anyway, a guy next door heard a racket, called 911. Down the hallway, there's a spare bedroom. The bed's unmade. So if the vic had a houseguest, they're nowhere to be found, so I'm going to dig around.</p>
+<p>(Brass walks away.)</p>
+<p>(Sara continues to snap photos of the room. Grissom notes the windows.) </p>
+<p><strong>Grissom</strong>: Unfortunately, these windows aren't tempered.</p>
+<p><strong>Sara</strong>: Very dangerous if broken.</p>
+<p><strong>Grissom</strong>: And she went through face first.</p>
+<p><strong>Sara</strong>: The door's right here -- I doubt she missed it. Maybe she had some help.</p>
+<p>INSERT: FLASHBACK</p>
+<p>(The man in the hooded sweater has his hands around Penny Garden's face and neck as he pulls her toward the window. Penny screams.) </p>
+<p>END FLASHBACK</p>
+<p><strong>Sara</strong>: Those coupons on the floor on top of the glass suggests they were scattered after the window broke.</p>
+<p><strong>Grissom</strong>: Maybe they went through the room after they killed her.</p>
+<p>(Sara looks back at the room.) </p>
+<p><strong>Sara</strong>: There's nothing particularly valuable here.</p>
+<p>(Grissom looks at the dead body in front of him.) </p>
+<p><strong>Grissom</strong>: There used to be.</p>
+<p>SMASH TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. LAS VEGAS CITY (STOCK) – DAY]</p>
+<p>[INT. COURTROOM -- DAY] </p>
+<p>(Greg is looking around the courtroom.) </p>
+<p><strong>Greg</strong>: (V.O.) (faintly) Control, Control, this is CSI Sanders. I need some help.</p>
+<p>FLASH TO FLASHBACKS</p>
+<p>[Scenes from 7X04: Fannysmackin']</p>
+<p>[EXT. ALLEYWAY – NIGHT]</p>
+<p>VARIOUS FLASHES</p>
+<p>(Greg is witnessing a mob go after a man in the alley. One of the hooded attackers turns and looks back at Greg.) </p>
+<p><strong>Woman</strong>: (V.O.) Control, go with the information. GREG: (V.O.) Assault in progress.</p>
+<p>(The driver's side window smashes and the mob pulls Greg out of the SUV.)</p>
+<p>(They attack Greg.) </p>
+<p><strong>Control</strong>: (V.O.) How many suspects? Are they armed?</p>
+<p><strong>Greg</strong>: (V.O.) Ma'am, please, they gotta get here quicker than this.</p>
+<p>(They continue to surround and beat up on Greg.)</p>
+<p>(The SUV smashes into one of the hooded mob men.) </p>
+<p>END FLASHBACK</p>
+<p>(We are in what appears to be a courtroom. Greg is sitting behind the table.</p>
+<p><strong>Pete Athens</strong>: Thank you, ladies and gentlemen. My name is Pete Athens. I am the coroner of Clark County; I want to thank you all for being here. Coroner inquests go back to medieval times during the reign of Richard I in England. In fact, &quot;coroner&quot; comes from the word &quot;crown.&quot; A public inquest was one of the crown's checks and balances on the powers of the sheriff. And today, a thousand years later, it serves the same purpose in our county—checks and balances on the sheriff and for those who work for him. The Honorable Clayton Trueblood will be our hearing master. He's not a judge, but he's going to be more like a, um ... a traffic cop, because an inquest isn't a trial. </p>
+<p><strong>Judge Clayton Trueblood</strong>: We're going to examine the death of Demetrius James. The Assistant District Attorney Valerie Nichols will present the facts in the case, introduce the witnesses and ask them questions. Any member of the jury may also ask questions, either orally or in writing. I understand that there are family members of the deceased present. </p>
+<p>(He looks out and several people raise their hands. Greg turns to see who.) </p>
+<p>INSERT: FLASHBACK</p>
+<p>(Marla James cries over the body of her dead son. Greg looks out the window. Aaron James turns and glares at Greg.) </p>
+<p>END FLASHBACK</p>
+<p><strong>Judge Clayton Trueblood</strong>: I'm very sorry for your loss, and I want you to know that as what the State calls &quot;interested parties,&quot; you may ask questions, too. When all the facts have been presented, the jury will then rule the death in question as either justifiable, excusable or criminal. </p>
+<p>CUT TO:<br />
+[EXT./INT. GARDEN RESIDENCE – ROOM -- NIGHT] </p>
+<p>(Sara looks at the body draped over the windowsill. She's kneeling outside the house looking at the body while David and the other coroner are inside the house.) </p>
+<p><strong>Sara</strong>: Cut's pretty deep. Let's try and keep her head on while we move her.</p>
+<p>(She helps David and the coroner remove the body from the windowsill.)</p>
+<p><strong>David Phillips</strong>: On three: one, two, three.</p>
+<p>(They lift the body. David and the coroner take the body into the house. Sara steps away from the window.) </p>
+<p>(David and the coroner put the body down on an open bag. Catherine walks in.) </p>
+<p><strong>Catherine</strong>: Hi. </p>
+<p>(Sara looks up from writing on her clipboard.) </p>
+<p><strong>Sara</strong>: Hi.</p>
+<p><strong>Catherine</strong>: Grissom said you could use some help. What haven't you done?</p>
+<p><strong>Sara</strong>: (grimaces) The rest of the house.</p>
+<p>(Catherine nods as she turns and leaves the room.)</p>
+<p>(She walks back through the hallway and looks into one of the rooms. She continues through the hallway and stops at the end room. She looks inside and notes the tubs of poker chips on the table.)</p>
+<p>(She walks into the room and kneels next to the bed. She picks up a prescription bottle.)</p>
+<p>(Catherine opens the bedside drawer and finds dozens of prescription bottles inside.) </p>
+<p><strong>Catherine</strong>: (to herself) Hope I die before I get old.</p>
+<p>CUT TO:<br />
+[EXT. NEIGHBOR – DAY -- CONTINUOUS] </p>
+<p>(Brass talks with the neighbor, Jason Tua. Behind him, a couple of other men sit in lawn chairs drinking beer.) </p>
+<p><strong>Jason Tua</strong>: Man, I was just lampin' in the crib with my boys when all of a sudden, psssh. I thought someone was breaking in next door. Took a look over the fence, old Penny was breaking out.</p>
+<p><strong>Brass</strong>: Did you hear anything? Any voices, yelling, screaming?</p>
+<p><strong>Jason Tua</strong>: (shakes his head) Mm-mm. I don't even think Mrs. Penny could scream. She had, like, a real low, raspy voice.</p>
+<p><strong>Brass</strong>: Yeah. Well, you think that's sexy? Is that the way you roll? Huh? All right, I'll take that for a &quot;no.&quot; You see anybody leave the house?</p>
+<p><strong>Jason Tua</strong>: No, sir. Not last night.</p>
+<p><strong>Brass</strong>: Who's she got staying with her? </p>
+<p><strong>Jason Tua</strong>: Don't know his name, but I seen him always going in and out of there.</p>
+<p><strong>Brass</strong>: Describe him.</p>
+<p><strong>Jason Tua</strong>: White dude. Skinny. Always wears jeans and white tees. </p>
+<p>(Jason sees the coroners wheel out Penny's body on a gurney wrapped in a white sheet.) </p>
+<p><strong>Jason Tua</strong>: Man. I liked that old lady. She made some good vittles and always had an extra stogie if I was out. </p>
+<p><strong>Brass</strong>: This is my card. If you see that white skinny guy, give me a call, will you? All right? </p>
+<p>(Brass gives him his card.) </p>
+<p><strong>Jason Tua</strong>: Yeah.</p>
+<p><strong>Brass</strong>: All right?</p>
+<p><strong>Jason Tua</strong>: Yeah.</p>
+<p>(Brass turns and leaves. Jason Tua heads back to his own house.) </p>
+<p>(Officer Mitchell heads over toward Brass. Brass turns and sees a house nearby with CLOSED CIRCUIT TV.) </p>
+<p><strong>Brass</strong>: You talk to that guy in that house?</p>
+<p><strong>Officer Mitchell</strong>: Been there twice. Still nobody home.</p>
+<p><strong>Brass</strong>: Put someone on his doorstep until he shows. He's got security cameras. I want the video.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – DAY]</p>
+<p>[INT. JUDGE TRUEBLOOD'S COURTROOM -- DAY] </p>
+<p>(Sofia is on the stand. ADA Valerie Nichols is questioning her.) </p>
+<p><strong>Sofia</strong>: The first attack that night occurred just after midnight, in the employee parking structure at the Golden Sapphire Hotel.</p>
+<p>(On the monitor, the location and name of victim appears on the map on screen.) </p>
+<p><strong>Sofia</strong>: A group of youths ranging from teens to early 20s attacked Vasco Ruiz, a hotel dishwasher on his way to his car.</p>
+<p>(Various photos of the badly beaten victim appear on the screen.) </p>
+<p><strong>Sofia</strong>: He was apparently selected at random.</p>
+<p>INSERT: FLASHBACKS OF</p>
+<p>(Vasco Ruiz is beaten by a group of people. They punch and kick him in the face and all over his body.) </p>
+<p>BACK TO SCENE.</p>
+<p><strong>Sofia</strong>: Mr. Ruiz was found dead at the scene.</p>
+<p><strong>Valerie Nichols</strong>: And what was the mob's next move?</p>
+<p><strong>Sofia</strong>: Approximately thirty minutes after the first attack, not far away, at the Holiday Motel, they attacked their next victim, Jessica Hershbaum.</p>
+<p>(A second caption pops-up on the monitor map: JESSICA HERSHBAUM, HOLIDAY MOTEL.) </p>
+<p>INSERT: FLASHBACK</p>
+<p>(The gang beats Jessica up.) </p>
+<p><strong>Jessica Hershbaum</strong>: Stop it! Stop it!</p>
+<p>BACK TO SCENE.</p>
+<p>(Valerie Nichols puts a photo of Jessica's injured face on the monitor. She turns to Sofia.) </p>
+<p><strong>Valerie Nichols</strong>: Now, Miss Hershbaum survived.</p>
+<p><strong>Sofia</strong>: She's alive. But she has physical and emotional scars from the attack that she may never recover from.</p>
+<p><strong>Valerie Nichols</strong>: So when Mr. Sanders was coming to your crime scene, would he have known about these first two swarming attacks?</p>
+<p><strong>Sofia</strong>: Absolutely. CSI was still processing those crime scenes, and then I heard on my radio about another attack- - the third that night -- and that a CSI was one of the victims.</p>
+<p>(A third caption pops-up on the monitor map: STANLEY TANNER, CASINO CENTER DR. ALLEYWAY.) </p>
+<p><strong>Valerie Nichols</strong>: Is this the location of the third swarming attack?</p>
+<p><strong>Sofia</strong>: Yes. I drove over there immediately.</p>
+<p><strong>Valerie Nichols</strong>: And what did you find?</p>
+<p><strong>Sofia</strong>: Three men, all seriously injured. Stanley Tanner was unconscious, as was Demetrius James and CSI Sanders.</p>
+<p>(Photos of Demetrius James appear on the monitor.) </p>
+<p><strong>Sofia</strong>: The mob had pulled CSI Sanders from his vehicle and beaten him.</p>
+<p>(Photos of Greg on the ground appear on the monitor.) </p>
+<p><strong>Sofia</strong>: But it was his intervention that saved Stanley Tanner's life.</p>
+<p>(One of the male jurors hands a note to the juror next to him. She hands the note to the bailiff. The bailiff hands it over to the judge.)</p>
+<p>(The judge reads the note.) </p>
+<p><strong>Judge Clayton Trueblood</strong>: While I appreciate your participation in the process here, I don't find this question relevant.</p>
+<p>(The male juror stands up.) </p>
+<p><strong>Male Juror 1</strong>: Excuse me, Your Honor. The question's quite relevant. Are we just going through the motions here, so it looks like someone actually asked whether or not it's okay to run over black kids in the street?</p>
+<p><strong>Judge Clayton Trueblood</strong>: Do you have a question, sir?</p>
+<p><strong>Male Juror 1</strong>: Yeah. Are you also going to be censoring verbal questions?</p>
+<p><strong>Judge Clayton Trueblood</strong>: Relevance is at my discretion here. Now, please, take your seat.</p>
+<p>(The male juror sits down, then turns and glares at Greg.) </p>
+<p>(We hold on Greg.) </p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. LAS VEGAS CITY (STOCK) – DAY]</p>
+<p>[INT. CSI – FORENSIC AUTOPSY – DAY] </p>
+<p>(Robbins goes over the findings for Penny Garden with Grissom.) </p>
+<p><strong>Robbins</strong>: Multiple lacerations on face, neck shoulders. If it weren't for the couple dozen glass fragments I tweezed out, I'd say somebody went to town on her with a straight razor. COD is exsanguinations due to sharp force injury to the jugular-carotid complex, but she was already on her way out.</p>
+<p>(Robbins shows Grissom the lungs on a metal pan.) </p>
+<p><strong>Robbins</strong>: Cannonballs of tumors on her lungs.</p>
+<p><strong>Grissom</strong>: Man ... her cancer had cancer. I guess she liked smoking more than living, huh?</p>
+<p><strong>Robbins</strong>: Or else she wanted to die with a cigarette in her mouth.</p>
+<p><strong>Grissom</strong>: You know, Catherine found antidepressants, laxatives, acid-reflux meds in her house, but I don't think she found anything for pain.</p>
+<p><strong>Robbins</strong>: I guarantee you, this lady was in pain. She must have been taking something for it.</p>
+<p><strong>Grissom</strong>: Maybe the killer took it with him.</p>
+<p><strong>Robbins</strong>: Well, there's a big market for that stuff now. I'll get her medical records.</p>
+<p>CUT TO:<br />
+[INT. GARDEN RESIDENCE – KITCHEN – DAY]</p>
+<p>(Catherine closes the washing machine cover and looks around the kitchen. She finds a piece of glass on the rug near the door.) </p>
+<p>(Sara steps into the room and finds Catherine down near the rug to look at the glass.) </p>
+<p><strong>Sara</strong>: Did you find something?</p>
+<p><strong>Catherine</strong>: Bloody glass.</p>
+<p>(Sara snaps a couple of photos.) </p>
+<p><strong>Sara</strong>: The killer on his way out?</p>
+<p>(Catherine picks up the glass and stands up. Sara toes the door open and slips out of the house.) </p>
+<p>[EXT. GARDEN RESIDENCE – BACK YARD – DAY -- CONTINUOUS]</p>
+<p>(Sara checks outside and finds another piece of bloodied glass on the grass. She snaps a photo of it.) </p>
+<p>(She continues walking along the back of the sunroom past the open doors and broken window. She turns and sees a peephole cut into the fence. She walks over to it and snaps a photo of it.) </p>
+<p>CUT TO:<br />
+[EXT. GARDEN RESIDENCE – FRONT – DAY]</p>
+<p>(Officer Mitchell keeps a skinny man in a white t-shirt and carrying a bag of groceries out of the taped-off area.) </p>
+<p><strong>Henry Briney</strong>: You can't keep me out of there! This is where I live, man!</p>
+<p><strong>Officer Mitchell</strong>: Sorry, son. This is a crime scene. You don't want to be in there.</p>
+<p><strong>Henry Briney</strong>: Look, I just want to see my Auntie Penny. Where is she?</p>
+<p>(Sara exits the house and heads over toward them.) </p>
+<p><strong>Officer Mitchell</strong>: Calm ... calm down.</p>
+<p><strong>Henry Briney</strong>: I don't want to calm down!</p>
+<p><strong>Sara</strong>: Do you live here?</p>
+<p><strong>Henry Briney</strong>: Yeah, that's what I was just telling this guy. What's going on?</p>
+<p><strong>Sara</strong>: What's your name?</p>
+<p><strong>Henry Briney</strong>: Henry. Henry Briney.</p>
+<p><strong>Sara</strong>: Henry, I'm going to need you to come down to the police station, give us a statement.</p>
+<p><strong>Henry Briney</strong>: For what?</p>
+<p><strong>Sara</strong>: Um ... Sorry to tell you, but your aunt is dead.</p>
+<p>CUT TO:<br />
+[INT. JUDGE TRUEBLOOD'S COURTROOM -- DAY] </p>
+<p>VARIOUS FLASHES OF the mob beating up Stanley Tanner.</p>
+<p><strong>ADA Valerie Nichols</strong>: (V.O.) Mr. Tanner, can you tell us what injuries you sustained as a result of the attack?</p>
+<p>BACK TO SCENE.</p>
+<p>(Stanley Tanner is on the stand.) </p>
+<p><strong>Stanley Tanner</strong>: Cuts, some of them pretty bad, mostly on my face. Broke left arm, crushed windpipe, one eye socket cracked, broke right ankle. And I got this headache they tell me might be permanent.</p>
+<p><strong>ADA Valerie Nichols</strong>: Would it be correct to say that while you were being attacked, you felt like your life was in danger?</p>
+<p><strong>Stanley Tanner</strong>: Hell, yeah.</p>
+<p><strong>Male Juror 1</strong>: I have a question.</p>
+<p><strong>Judge Clayton Trueblood</strong>: Go ahead.</p>
+<p><strong>Male Juror 1</strong>: Did you actually see Demetrius James attacking you?</p>
+<p><strong>Stanley Tanner</strong>: Oh, I couldn't tell who was who. I mean, hell, my hands were on my face. I was just trying to stay alive. If Mr. Sanders hadn't shown up just then, I'd have been like that first guy -- dead.</p>
+<p>CUT TO:<br />
+[INT. JUDGE TRUEBLOOD'S COURTROOM -- DAY] </p>
+<p>(Robbins is on the stand. A photo of a brain is on the monitor as Robbins goes through his testimony.) </p>
+<p><strong>Robbins</strong>: There was a large laceration where Demetrius James' head hit the ground when he fell. Underlying that wound was a fracture of the occipital bone, which crosses at the base of the skull. The motion of the impact caused the brain to collide with the bony protrusions inside the skull, resulting in what we call contra-coup contusions. There was also prominent cerebral edema -- or swelling -- as well as hemorrhages of the brain stem.</p>
+<p><strong>ADA Valerie Nichols</strong>: So your official cause of death was ... ?</p>
+<p><strong>Robbins</strong>: Blunt force trauma to the head following a motor vehicle collision.</p>
+<p><strong>Male Juror 1</strong>: So this was a death at the hands of another?</p>
+<p><strong>Robbins</strong>: Yes.</p>
+<p><strong>Male Juror 1</strong>: And what do you call that kind of death?</p>
+<p><strong>Robbins</strong>: A homicide.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT – INTERVIEW ROOM -- DAY] </p>
+<p>(Brass talks with Henry Briney.) </p>
+<p><strong>Brass</strong>: So where did you go last night?</p>
+<p>(He puts a ticket stub on the table.) </p>
+<p><strong>Henry Briney</strong>: Movies.</p>
+<p><strong>Brass</strong>: Oh, a ticket stub. That's good. Who'd you go with? You went by yourself?</p>
+<p><strong>Henry Briney</strong>: Who else would I go with?</p>
+<p><strong>Brass</strong>: I don't know. A friend?</p>
+<p><strong>Henry Briney</strong>: No. I don't have friends.</p>
+<p><strong>Brass</strong>: Okay, so the movie ended. You're all by yourself, then what?</p>
+<p><strong>Henry Briney</strong>: I sat in the Keno Lounge all night, hit the grocery store, and then came home to cops.</p>
+<p><strong>Brass</strong>: Why are you staying at your Aunt Penny's?</p>
+<p><strong>Henry Briney</strong>: Because my parents threw me out.</p>
+<p><strong>Brass</strong>: Why would they do that?</p>
+<p><strong>Henry Briney</strong>: Because they don't like me.</p>
+<p><strong>Brass</strong>: Let me see your arms.</p>
+<p>(Henry shows Brass the scars on the inside of his right arm.) </p>
+<p><strong>Brass</strong>: Are you &quot;booting that good oodgie&quot;? You ever use intravenous drugs?</p>
+<p><strong>Henry Briney</strong>: Not anymore, but I did for a while.</p>
+<p><strong>Brass</strong>: You know, your Aunt Penny had some scrips for some pain medication –<br />
+Oxycontin, Fentanyl, Methadone. When we searched her house, we didn't find any. Did you take them?</p>
+<p><strong>Henry Briney</strong>: No, I didn't take them. She must have taken them. I don't touch them. I just got out of rehab. Haven't touched a pill, line or needle in six months.</p>
+<p><strong>Brass</strong>: (scoffs) </p>
+<p><strong>Henry Briney</strong>: My parents threw me out, and she took me in. I would not screw her over.</p>
+<p><strong>Brass</strong>: We're going to need to take your clothes and your shoes.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – DAY]</p>
+<p>[INT. CSI – LAYOUT ROOM – DAY]</p>
+<p>(Sara is using the ALS on Henry Briney's clothes. Catherine walks in as Sara turns the ALS off.) </p>
+<p><strong>Catherine</strong>: Any luck?</p>
+<p><strong>Sara</strong>: No. No blood on the nephew's shoes or clothes.</p>
+<p><strong>Catherine</strong>: Drug panel on his urine came back negative. He's clean.</p>
+<p><strong>Sara</strong>: What about Auntie Penny?</p>
+<p><strong>Catherine</strong>: No pain meds in her system either.</p>
+<p><strong>Sara</strong>: We've got a lot of serious drugs that are unaccounted for.</p>
+<p>CUT TO:<br />
+[INT. JUDGE TRUEBLOOD'S COURTROOM -- DAY] </p>
+<p>(Nick is on the stand. A photo of the glass fragments is on the monitor.) </p>
+<p><strong>Nick</strong>: These glass fragments are from the mob breaking out the windows of CSI Sanders' Denali.</p>
+<p>INSERT: FLASHBACK</p>
+<p>(The group breaks through the car's back window. They pull Greg out of the car.) </p>
+<p><strong>Nick</strong>: (V.O.) That's how they dragged him out.</p>
+<p>BACK TO SCENE.</p>
+<p>(Nick continues. His testimony is interspersed with flashes from 7X04:<br />
+‘Fannysmackin'.) </p>
+<p>(On the monitor, he shows a photo of Greg's torn hair and a photo of a rock.) </p>
+<p><strong>Nick</strong>: This is a clump of his hair, torn from his scalp. And that's the rock Demetrius James used as a weapon.</p>
+<p><strong>Male Juror 1</strong>: According to who? This is the first we've even heard that Demetrius James had a weapon.</p>
+<p><strong>ADA Valerie Nichols</strong>: In his report, Mr. Sanders testified to that fact. The rock was found at the scene.</p>
+<p><strong>Male Juror 1</strong>: How do we know the cops didn't plant it there?</p>
+<p><strong>Judge Clayton Trueblood</strong>: Sir, I've warned you.</p>
+<p><strong>Nick</strong>: I'd like to answer that question. Usually, when someone plants a weapon, whoever did it puts it right beside the body -- in this case, the rock was found near the front tire of the Denali. Skid marks suggest it was dropped upon impact.</p>
+<p><strong>Male Juror 1</strong>: A rock against two tons of steel.</p>
+<p><strong>Nick</strong>: No. More like one man against an extremely violent, out-of-control mob.</p>
+<p><strong>Male Juror 1</strong>: What's department policy in a situation like that?</p>
+<p><strong>Nick</strong>: It has always been department policy not to harm innocent civilians. You call for backup, you try to be a good witness, and you stay out of the way.</p>
+<p><strong>Male Juror 1</strong>: So what makes it okay to start running over people?</p>
+<p><strong>Nick</strong>: Well, when those people are wearing masks, running around beating people up.</p>
+<p><strong>Aaron James</strong>: Man, DJ was going to a costume party.</p>
+<p><strong>Nick</strong>: One victim was dead. Another was seriously injured. Another fatality imminent. I'd say the use of deadly force in this case was consistent with department policy, absolutely.</p>
+<p><strong>ADA Valerie Nichols</strong>: Demetrius James was going to finish off the victim with the rock.</p>
+<p>(Marla and Aaron James surge to their feet.) </p>
+<p><strong>Marla James</strong>: (shouts) You're a liar! AARON JAMES: (shouts) My brother wasn't a killer!</p>
+<p><strong>ADA Valerie Nichols</strong>: Excuse me.</p>
+<p><strong>Marla James</strong>: Demetrius was going to college.</p>
+<p><strong>ADA Valerie Nichols</strong>: Mrs. James!</p>
+<p><strong>Marla James</strong>: He had a 3.6 GPA.</p>
+<p><strong>ADA Valerie Nichols</strong>: We are all very sorry for your loss, but you are not a witness here.</p>
+<p>(Judge Clayton Trueblood doesn't say anything.) </p>
+<p><strong>Marla James</strong>: (shouts) You didn't know him! AARON JAMES: (shouts) DJ had a future!</p>
+<p><strong>Marla James</strong>: I knew him! We knew him!</p>
+<p><strong>ADA Valerie Nichols</strong>: Judge, can we have some order here?</p>
+<p><strong>Marla James</strong>: You didn't run over a mob, you ran over one boy! My boy!</p>
+<p><strong>ADA Valerie Nichols</strong>: Judge?</p>
+<p><strong>Judge Clayton Trueblood</strong>: Mrs. James' comments give context to the events of the night in question. I'd like to hear what she has to say.</p>
+<p>(Valerie Nichols sits down. Greg leans over toward her.) </p>
+<p><strong>Greg</strong>: Why is Trueblood letting her do this?</p>
+<p><strong>ADA Valerie Nichols</strong>: It's probably good for his campaign. He's running for Assembly.</p>
+<p><strong>Greg</strong>: Now you tell me.</p>
+<p>CUT TO:<br />
+[INT. CSI – A/V LAB -- DAY] </p>
+<p>(Sara walks into the lab. Archie is reviewing the tapes from the neighbor's security camera.) </p>
+<p><strong>Sara</strong>: Got your page. Surveillance footage from the neighborhood watch guy across the street.</p>
+<p><strong>Archie</strong>: Yeah, he was paranoid, but lazy. He had four security cameras on his house; three of them were cardboard boxes. Homemade security is the worst. Okay, so the nephew comes in and out of the house a couple times during the day.</p>
+<p><strong>Sara</strong>: Yeah? </p>
+<p><strong>Archie</strong>: It's a whole different story next door. Okay, this guy comes out of the house and meets with a different car at least three times an hour.</p>
+<p><strong>Sara</strong>: He's slinging drugs.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT – INTERVIEW ROOM – DAY]</p>
+<p>(Brass shows Jason Tua a couple of photos of pills.) </p>
+<p><strong>Brass</strong>: We found these in your house. The white one is Carisoprodol. It's a muscle relaxant.</p>
+<p><strong>Jason Tua</strong>: Yeah, I strained my pecs bench pressing.</p>
+<p><strong>Brass</strong>: Oh, yeah. And the blue one is Prevalis. You look a little young to need that.</p>
+<p><strong>Jason Tua</strong>: Well, I've had my share of women. Mr. Johnson's gotten bored over the years, so?</p>
+<p><strong>Brass</strong>: Well, he's going to get really bored in prison. You hope.</p>
+<p><strong>Jason Tua</strong>: What, you gonna bust me for selling Prevalis?</p>
+<p><strong>Brass</strong>: Well, you think a guy in my job doesn't know what goes on in the clubs and in the street? You ever hear of a Las Vegas Cocktail.</p>
+<p><strong>Jason Tua</strong>: I don't drink.</p>
+<p><strong>Brass</strong>: It's a combination of Carisoprodol, Prevalis and very strong painkiller called Fentanyl. Problem is, Fentanyl's hard to get. I mean, doctors don't just give it away. You got to be in really serious pain to get it, like dying of cancer. On the street it's called &quot;perc-a-pop&quot;.</p>
+<p>(Jason Tua shakes his head.) </p>
+<p><strong>Brass</strong>: Now, Penny Garden was prescribed 40 a month. Problem is, we couldn't find any in her house.</p>
+<p><strong>Jason Tua</strong>: So what, you think I stole them?</p>
+<p><strong>Brass</strong>: Yeah, I do.</p>
+<p>(Quick flashback to: [INT. GARDEN RESIDENCE – NIGHT] Penny sits in her chair clipping coupons when Jason Tua walks in.) </p>
+<p><strong>Jason Tua</strong>: Where are the pops, old lady?</p>
+<p><strong>Penny Garden</strong>: Get out of my house.</p>
+<p>(He grabs her and pushes her back.) </p>
+<p><strong>Jason Tua</strong>: Where are they?</p>
+<p><strong>Penny Garden</strong>: Back off, bully! </p>
+<p><strong>Jason Tua</strong>: No you won't.</p>
+<p>(He throws her toward the glass windows. She smashes through the glass.) </p>
+<p>BACK TO SCENE.</p>
+<p><strong>Jason Tua</strong>: Never. Never, never, never. Look, I told you, I liked the lady. She made me dinner. She lent me smokes, man.</p>
+<p><strong>Brass</strong>: You liked her 'cause she had what you needed.</p>
+<p><strong>Jason Tua</strong>: No, man. No way. (He turns and looks around.) Hey, I need a lawyer in here.</p>
+<p>CUT TO:<br />
+[INT. CSI – HALLWAY – DAY]</p>
+<p>(Sara and Catherine talk.) </p>
+<p><strong>Sara</strong>: So we have a drug dealer and a former drug user, both of which would have motive to steal Penny's drugs.</p>
+<p><strong>Catherine</strong>: Well, there wasn't any trace of Fentanyl in the nephew's system.</p>
+<p><strong>Sara</strong>: He's broke, he's unemployed; maybe he's stealing them from Penny so he can sell them to the neighbor.</p>
+<p><strong>Catherine</strong>: If that's the case, it's motive for both.</p>
+<p>(They turn the corner and stop at reception.) </p>
+<p><strong>Henry Briney</strong>: (o.s.) Excuse me.</p>
+<p>(Henry Briney is at reception carrying a large box.) </p>
+<p><strong>Sara</strong>: Hi, Henry. What are you doing here?</p>
+<p><strong>Henry Briney</strong>: Um ... I just found this on my porch -- I opened it and thought I should bring it down to you guys. It's ... pretty creepy.</p>
+<p>(Sara and Catherine step forward to look inside the box and find an exact miniature replica of Penny Garden's crime scene.) </p>
+<p>(We hold on Sara.) </p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[CU: MINIATURE] </p>
+<p>(There's broken glass on the grass outside the room and roses just outside the windowsill where the miniature body of Penny Garden hangs partially outside.) </p>
+<p>(Camera continues over the body and into the miniature crime scene room where furniture is overturned, clipped coupons are strewn on the floor, Chinese take-out containers are on the table. The detail is amazing.)</p>
+<p>(Camera continues moving through the room, then moves on to the first miniature crime scene with a miniature Izzy Delancy slumped over the kitchen table.) </p>
+<p>(Camera moves in toward the blood on mini-Izzy Delancy's shoe, then rapidly pulls back and out.)</p>
+<p>[INT. CSI – LAYOUT ROOM – DAY]</p>
+<p>(TOP VIEW DOWN. The two miniature crime scenes are side-by-side on the table.)</p>
+<p><strong>Sara</strong>: If one was horrifying ... what is two?</p>
+<p>(Sara and Grissom look at the two dioramas.) </p>
+<p><strong>Grissom</strong>: Possible serial killer.</p>
+<p><strong>Sara</strong>: I'd say that it takes the nephew and the neighbor off the hook. I doubt either one of them could afford a mini-contractor, anyway.</p>
+<p>(Grissom picks up one of the small pillows with an image on it. He looks at it under the magnifying glass.) </p>
+<p><strong>Sara</strong>: A bloody doll. Similar to the one in the other miniature.</p>
+<p>(Sara pulls out the photo and they compare the two.) </p>
+<p><strong>Grissom</strong>: Look at the blood on the doll's forehead.</p>
+<p><strong>Sara</strong>: Same pattern on both.</p>
+<p><strong>Grissom</strong>: Could be two different views of the same subject.</p>
+<p><strong>Sara</strong>: Maybe it's a signature.</p>
+<p><strong>Grissom</strong>: Yeah, but we have no context. It could mean or represent just about anything.</p>
+<p><strong>Sara</strong>: Okay ... again, the miniature suggests that the killer had an intimate familiarity with the victim, home and habits. So what do they have in common?</p>
+<p><strong>Grissom</strong>: Izzy Delancy, 50-year-old white male, washed-up rock star. Penny Garden, cancer-stricken retiree.</p>
+<p><strong>Sara</strong>: Different friends, different family, different social circles.</p>
+<p><strong>Grissom</strong>: Why wasn't this one left at the crime scene like that one?</p>
+<p>(Grissom picks up the Penny Garden diorama and shakes it. Something rattles.) </p>
+<p>(He and Sara share a look.) </p>
+<p>CUT TO:<br />
+[INT. JUDGE TRUEBLOOD'S COURTROOM -- DAY] </p>
+<p>(Marla and Aaron James stand in front of the courtroom.) </p>
+<p><strong>Judge Clayton Trueblood</strong>: Marla and Aaron James are not sworn witnesses. If they were, they couldn't be in the courtroom during testimony and that would effectively take away their rights as interested parties to question witnesses. So please try to remember that their remarks are not evidence. Go ahead.</p>
+<p><strong>Marla James</strong>: My sons didn't grow up with a father. Barely had a mother on account of me working all the time. They got into trouble. Mostly 'cause of where we live. Aaron here, he got into a whole lot of trouble. </p>
+<p><strong>Aaron James</strong>: And I did my time, too. I did my time, but that wasn't D.J. He was helping me turn my life around. Coached me on my GED. Made me feel like there was a chance for me, you know. (to Greg) Man, you have no idea what you killed when you killed my brother.</p>
+<p>CUT TO:<br />
+[INT. HALLWAY OUTSIDE COURTROOM -- DAY] </p>
+<p>(Reporters record their segments as people mill about.) </p>
+<p><strong>Reporter 1 (woman)</strong>: Everyone was moved by the compelling testimony of the victim's mother, Marla James. Her outburst in the courtroom today -- </p>
+<p><strong>Reporter 2 (man)</strong>: It wasn't the judge, the jury or the lawyer. Instead it was the mother of Demitrius James that had the courtroom asking did her son behave ...</p>
+<p>(Greg exits the courtroom and meets up with Sofia at the end of the hallway.) </p>
+<p><strong>Sofia</strong>: Hey.</p>
+<p><strong>Greg</strong>: Nichols was right. This isn't a trial, it's a circus. </p>
+<p><strong>Sofia</strong>: Yeah, I heard. Starring the mother.</p>
+<p>(She indicates Marla and Aaron James giving an interview with a reporter.) </p>
+<p><strong>Greg</strong>: I feel like I should say something.</p>
+<p><strong>Sofia</strong>: Like what?</p>
+<p><strong>Greg</strong>: I don't know. </p>
+<p><strong>Sofia</strong>: Sorry? You going to apologize to the mother of a guy who beat one man to death and was trying to do the same to you? That's as good as saying you're guilty and setting yourself up for one hell of a civil suit besides. You did nothing wrong.</p>
+<p><strong>Greg</strong>: I just want to be able to sleep again.</p>
+<p><strong>Sofia</strong>: We put ourselves in harm's way every single day and sometimes we pay one hell of a price for surviving it. Other people will never understand that.</p>
+<p>(Greg again turns and watches Marla and Aaron James giving their interview to a reporter.) </p>
+<p><strong>Aaron James</strong>: No way D.J. was a violent person.</p>
+<p><strong>Marla James</strong>: My son is not a killer. He was trying to stop that killing.</p>
+<p>CUT TO:<br />
+[INT. CSI – LAYOUT ROOM -- DAY] </p>
+<p>(Grissom turns the MINI-RAD 3000 X-RAY MACHINE on. It's pointed at the Penny Garden diorama, which appears on the laptop monitor.) </p>
+<p>(Grissom turns the diorama around and adjusts the lens on the x-ray machine. As he adjusts the image and finds something, he picks up a loose rock on the grass and looks at it.) </p>
+<p>INTERCUT WITH: </p>
+<p>[EXT. GARDEN RESIDENCE – DAY]</p>
+<p>(Sara kneels on the grass outside the windows as she takes photos of the rock in front of the bushes lining the wall.)</p>
+<p>(She puts her camera down and moves the rock aside.) </p>
+<p>[INT. CSI – LAYOUT ROOM -- DAY] </p>
+<p>(Under the rock, Grissom finds something wrapped in plastic. He picks it up and looks at it.) </p>
+<p>[EXT. GARDEN RESIDENCE – DAY]</p>
+<p>(Sara picks up a syringe wrapped in plastic. It's marked FENTANYL 400 MCG.)</p>
+<p>CUT TO:<br />
+[INT. CSI – LOCKER ROOMS – DAY]</p>
+<p>(Nick is at his locker when Warrick walks in.) </p>
+<p><strong>Warrick</strong>: Hey.</p>
+<p><strong>Nick</strong>: Hey.</p>
+<p><strong>Warrick</strong>: How'd it go in there?</p>
+<p><strong>Nick</strong>: I don't know.</p>
+<p><strong>Warrick</strong>: Really?</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p><strong>Warrick</strong>: You know, I know it was a hardcore situation that Greg ran up on, but you think it ever would have occurred to him to just put it in reverse and get the hell out of there?</p>
+<p><strong>Nick</strong>: Well, that's not the question. What a jury wants to know is did Greg do what any reasonable person would have done under the circumstances.</p>
+<p><strong>Warrick</strong>: I know Greg must have been scared as hell, man.</p>
+<p><strong>Nick</strong>: What can we do to help him?</p>
+<p><strong>Warrick</strong>: We'll put the jury behind the wheel of the car.</p>
+<p>(Nick smiles.) </p>
+<p>CUT TO:<br />
+VARIOUS CUTS OF NICK AND WARRICK</p>
+<p>[INT. CSI – GARAGE -- DAY] </p>
+<p>(Warrick hooks the Denali's black box to the laptop and downloads the information. </p>
+<p>ENGINE SPEED<br />
+RPM/100</p>
+<p>BRAKE SWITCH<br />
+CIRCUIT STATUS<br />
+100=ON</p>
+<p>[EXT. ALLEYWAY -- DAY] </p>
+<p>(Nick uses a hand-drawn layout of the crime scene and is setting up the alleyway, marking the area with cones.) </p>
+<p>[INT. CSI – LAB -- DAY] </p>
+<p>(Warrick is working on a computerized reenactment of the events of the night.) </p>
+<p>[EXT. ALLEYWAY -- DAY] </p>
+<p>(Nick marks two cones – one &quot;DJ&quot; and the other &quot;DENALI&quot;.) </p>
+<p>[EXT. ALLEYWAY -- DAY] </p>
+<p>(Warrick shows Nick the computer reenactment.) </p>
+<p><strong>Warrick</strong>: All right, the Denali's black box reports only five seconds before impact. Now, Greg was idling with his foot on the brake. And then he accelerated for no more than two seconds.</p>
+<p><strong>Nick</strong>: Yeah, according to the acceleration skid marks, the front end went from there to there with D.J. coming at him.</p>
+<p><strong>Warrick</strong>: Want to give it a go?</p>
+<p>(Nick nods and heads for the Denali.) </p>
+<p><strong>Warrick</strong>: Take it for a spin?</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p>(Nick removes the cone in front of the Denali. He climbs behind the driver's wheel and starts the engine.)</p>
+<p>(Warrick turns the laptop timer on.) </p>
+<p><strong>Warrick</strong>: You ready?</p>
+<p><strong>Nick</strong>: Ready.</p>
+<p><strong>Warrick</strong>: Go.</p>
+<p>(Nick presses the gas and heads to the second cone.) </p>
+<p><strong>Warrick</strong>: Stop!</p>
+<p>(Nick stops the car. Warrick walks over.) </p>
+<p><strong>Nick</strong>: (shakes his head) With this kid running at him the whole time, there's no way Greg could have avoided hitting him.</p>
+<p><strong>Warrick</strong>: You think a jury will see it that way?</p>
+<p>CUT TO:<br />
+[INT. COURTHOUSE – BATHROOM -- DAY] </p>
+<p>(Greg walks into the bathroom and leans against the sink as he looks at himself in the mirror.) </p>
+<p>(A man exits the stall and leaves.)</p>
+<p>(Greg runs the faucet, washes his hands and wets his face. The door opens and Aaron James walks in. He lingers in the doorway and watches Greg.)</p>
+<p>(Greg looks into the mirror, then notices Aaron James standing there.) </p>
+<p><strong>Aaron James</strong>: How tough you feel when you're not in your big SUV, huh?</p>
+<p>(Greg says nothing. Aaron James walks toward him.) </p>
+<p><strong>Aaron James</strong>: I asked you a question, killer.</p>
+<p>(Greg turns and looks at him, still saying nothing.)</p>
+<p>(A man walks in and heads for the faucets. He walks between them.) </p>
+<p><strong>Man</strong>: Excuse me.</p>
+<p>(Aaron James backs away and leaves. We hold on Greg.) </p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. JUDGE TRUEBLOOD'S COURTROOM -- DAY] </p>
+<p>(Greg is sworn in.) </p>
+<p><strong>Judge Clayton Trueblood</strong>: In the cause now pending before this court, do you swear to tell the truth, the whole truth and nothing but the truth?</p>
+<p><strong>Greg</strong>: I do.</p>
+<p><strong>Judge Clayton Trueblood</strong>: Be seated.</p>
+<p>(Greg sits down.) </p>
+<p><strong>ADA Valerie Nichols</strong>: All right, let's take a look at the official transcript of your call for backup. </p>
+<p><strong>ADA Valerie Nichols</strong>: 01:54 and 21 seconds, Dispatch Control answers. Would you please read your response.</p>
+<p>(The transcript appears on the monitor.) </p>
+<p><strong>Greg</strong>: (reads) &quot;Control, Control, this is CSI Sanders. I need some help.&quot; </p>
+<p><strong>ADA Valerie Nichols</strong>: You took a couple of seconds to look at the street signs. There's a few more exchanges and then dispatch tells you: &quot;Closest unit has a five minute ETA.&quot; Five minutes. Control continues-- &quot;Rolling Code 3. Are they armed?&quot; Please read your response.</p>
+<p>INSERT: FLASHBACK</p>
+<p><strong>Greg</strong>: I don't know, I don't know. Ma'am, please, listen. They gotta get here quicker than this.</p>
+<p><strong>Dispatch</strong>: Copy that.</p>
+<p>BACK TO SCENE.</p>
+<p><strong>ADA Valerie Nichols</strong>: What'd you do?</p>
+<p><strong>Greg</strong>: I thought I'd try to break up the mob. I turned into the alley, hit the horn, yelled, anything.</p>
+<p><strong>ADA Valerie Nichols</strong>: Did that stop the beating?</p>
+<p><strong>Greg</strong>: Not entirely. One guy decided not to run away. Instead, he turned around, picked up a rock ... and moved like he was going to finish off the victim. But he turned and started coming at me with it.</p>
+<p><strong>Aaron James</strong>: Oh, come on, that's just his word, man. His word against my brother's word!</p>
+<p><strong>ADA Valerie Nichols</strong>: Mr. James.</p>
+<p><strong>Aaron James</strong>: You know, we can't get his side, now can we?</p>
+<p><strong>ADA Valerie Nichols</strong>: All right. Your Honor?</p>
+<p><strong>Judge Clayton Trueblood</strong>: Ms. Nichols. The man has a right to speak.</p>
+<p><strong>Marla James</strong>: C'mon. Sit down. C'mon.</p>
+<p>(Marla and Aaron sit down.) </p>
+<p><strong>ADA Valerie Nichols</strong>: At this point, did you fear for your life?</p>
+<p><strong>Greg</strong>: Yes.</p>
+<p><strong>ADA Valerie Nichols</strong>: Did you have a weapon, a gun?</p>
+<p><strong>Greg</strong>: No.</p>
+<p><strong>ADA Valerie Nichols</strong>: What were you thinking when D.J. left Stanley Tanner's unconscious body and ran at you with that rock?</p>
+<p><strong>Greg</strong>: I thought that he could make me his next target. I thought he wanted to kill me. No matter what, I knew that I had to incapacitate him.</p>
+<p><strong>ADA Valerie Nichols</strong>: Now it's taken us several minutes to go through the events of that night. And I'm sure that you've all formed some kind of opinion about what happened. But, right now, let's put ourselves in Mr. Sanders' position. Let's see how much time Greg had to save a man's life. </p>
+<p>(She runs the computer-generated scenario.) </p>
+<p><strong>ADA Valerie Nichols</strong>: Seconds. Mere seconds. What would you have done? Mr. Sanders, was it your intention to kill Demitrius James?</p>
+<p><strong>Greg</strong>: No. I wish he hadn't come at me. I wish that he had just run away.</p>
+<p><strong>Judge Clayton Trueblood</strong>: Mr. Sanders ... aren't you leaving something out?</p>
+<p><strong>Greg</strong>: I don't think so.</p>
+<p><strong>Judge Clayton Trueblood</strong>: You testified at a criminal trial earlier that day, didn't you?</p>
+<p><strong>Greg</strong>: Yes.</p>
+<p><strong>Judge Clayton Trueblood</strong>: ADA Ulrich must've been pleased with your testimony. She took you to dinner at the Tillerman. I'm looking at a copy of her credit card receipt. How was the sea bass? And the bottle of Pinot Grigio Santa Margherita 2005. How was that?</p>
+<p><strong>ADA Valerie Nichols</strong>: Your Honor ...</p>
+<p><strong>Greg</strong>: I ... wasn't on shift, and I only had ...</p>
+<p><strong>Judge Clayton Trueblood</strong>: Mr. Sanders, I'm sure the jury's wondering, if you hadn't been drinking before going to work, would Demitrius James still be alive?</p>
+<p><strong>Greg</strong>: (clearly) Alcohol wasn't ... a factor. ADA Ulrich insisted on ordering the wine. I drank half a glass. About six ounces. At my weight, 150, that would give me a blood-alcohol content of .02%. Even without food, the alcohol burn-off rate would be .015% per hour ... meaning that there was no alcohol in my bloodstream after ninety minutes, well before I reported for my shift and about ... seven hours before the incident.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – LATE DAY]</p>
+<p>[INT. POLICE DEPARTMENT – INTERVIEW ROOM 1 -- DAY] </p>
+<p>(Sara shows Henry Briney the file folder.) </p>
+<p><strong>Sara</strong>: This is where we found your aunt's Fentanyl, so we know that you didn't take it.</p>
+<p>(She puts the file folder on the table.) </p>
+<p><strong>Sara</strong>: Which means you've gone from a suspect ... </p>
+<p>(Camera follows Sara as she walks around the room, then veers off through the wall and into – </p>
+<p>[INT. POLICE DEPARTMENT – INTERVIEW ROOM 2 – DAY – CONTINUOUS]</p>
+<p>(Brass interviews Jason Tua.) </p>
+<p>BRASS -- to a witness. Now it's up to you to help us find the real killer. If you really cared about Penny, you'll tell us the truth about everything.</p>
+<p><strong>Jason Tua</strong>: So this is off the record?</p>
+<p><strong>Brass</strong>: Yeah.</p>
+<p><strong>Jason Tua</strong>: So I ain't going to jail?</p>
+<p><strong>Brass</strong>: Yeah, what do you want to know?</p>
+<p>[INT. POLICE DEPARTMENT – INTERVIEW ROOM 1 – DAY – CONTINUOUS]</p>
+<p>(Sara continues interviewing Henry Briney.) </p>
+<p><strong>Sara</strong>: Who was Penny hiding her drugs from?</p>
+<p><strong>Henry Briney</strong>: I don't know. Maybe it was me, although I never would've taken them. Or maybe you should ask the guy next door.</p>
+<p><strong>Jason Tua</strong>: No, man, I'd never take those things from her. I buy 'em, 50 bucks a pop.</p>
+<p>INSERT: FLASHBACK</p>
+<p>[EXT. FENCE – NIGHT]</p>
+<p>(Jason Tua knocks on the fence. Fentanyl syringes in plastic wraps are pushed through the hole. He takes the syringes and puts the cash through the hole.) </p>
+<p>BACK TO SCENE.</p>
+<p>[INT. POLICE DEPARTMENT – INTERVIEW ROOM 1 – DAY – CONTINUOUS]</p>
+<p><strong>Sara</strong>: Did you know your aunt was selling her drugs?</p>
+<p><strong>Henry Briney</strong>: Yeah, I had an idea. I figured it was how she was supporting her habit.</p>
+<p><strong>Sara</strong>: Which one?</p>
+<p><strong>Henry Briney</strong>: I guess I should've said &quot;habits.&quot; Um, she loved her liqueur, and she loved her cigarettes, but what she really loved was video poker. She liked the sound the coins made when she hit a jackpot. She offered me a couple of bucks a week to keep the house clean, and ... and she paid me in nickels and quarters.</p>
+<p><strong>Sara</strong>: Can you think ... of anyone else that might have known that those drugs were there?</p>
+<p><strong>Henry Briney</strong>: No. I lived with her for a couple of months, and ... and she never had anyone over but me.</p>
+<p>DISSOLVE TO: </p>
+<p>[INT. CSI – LAB] </p>
+<p>(Grissom is examining the latest miniature crime scene through a scope. He pushes the scope through the room and notices something on the miniature chair.) </p>
+<p>(Hodges walks in.) </p>
+<p><strong>Hodges</strong>: I know that look. You just figured something out.</p>
+<p>(Hodges looks at the miniature.) </p>
+<p><strong>Hodges</strong>: This is much better than dead rock star kitchen. The whole al fresco thing? (Grissom looks at Hodges.) Come on, share. (beat) Please?</p>
+<p>(Grissom hands the scope to Hodges.) </p>
+<p><strong>Grissom</strong>: Look carefully at the back of the doll and at the pillow on the chair. There appears to be remnants of glue on both.</p>
+<p><strong>Hodges</strong>: So the doll was originally glued to the back of the chair.</p>
+<p>(Grissom studies the chair.) </p>
+<p><strong>Grissom</strong>: I think the killer expected the victim to die in this chair.</p>
+<p>INSERT: VISUALIZATION</p>
+<p>(The image of Penny Garden appears in the chair, drinking her liqueur.) </p>
+<p>(From above, Grissom visualizes what must've happened.)</p>
+<p>(As Penny Garden sits, the hooded intruder comes up from behind her.) </p>
+<p><strong>Hodges</strong>: Well, if that's the case, then how did the killer expect to ... kill her?</p>
+<p>(Grissom continues visualizing Penny Garden sitting in the chair, drinking from her glass. The killer is behind her, waiting.)</p>
+<p>(Grissom reaches down and tries to pick up the miniature liqueur bottle from off the floor. It doesn't move. It's glued there.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – DAY]</p>
+<p>[INT. JUDGE TRUEBLOOD'S COURTROOM -- DAY] </p>
+<p><strong>Judge Clayton Trueblood</strong>: I understand the jury has reached a verdict?</p>
+<p><strong>Woman Juror</strong>: We have, Your Honor. (reads) We, the jury in this inquest, find the death of Demitrius James excusable.</p>
+<p>(The people murmur.) </p>
+<p><strong>Coroner Pete Athens</strong>: Well, thank you, ladies and gentlemen, Judge Trueblood. This inquest is concluded.</p>
+<p><strong>ADA Valerie Nichols</strong>: (mutters under her breath) &quot;Excusa ...&quot; No. (She turns to Greg.) See, &quot;excusable&quot; is a lawful act with no intention to kill. &quot;Justifiable&quot; means that the action was the only alternative. That's what they should have found.</p>
+<p><strong>Greg</strong>: It's okay. I think they may have it right.</p>
+<p>CUT TO:<br />
+[EXT. COURTHOUSE – FRONT STEPS -- DAY] </p>
+<p>(The Male Juror 1 interviews with a reporter.) </p>
+<p><strong>Male Juror 1</strong>: Look, look, I got nothing against Mr. Sanders personally, but all these inquests ever really seem to do is protect the cops. ...</p>
+<p>(Camera moves past him and we see Greg exit the courthouse. He looks around and we see Judge Trueblood interviewing with another reporter.) </p>
+<p><strong>Judge Clayton Trueblood</strong>: As I've emphasized during my campaign, the public deserves the truth about any death at the hands of law enforcement.</p>
+<p>(Just behind him, Marla and Aaron James are interviewing with yet another reporter.) </p>
+<p><strong>Marla James</strong>: No, it's not over. We won't get justice till Demetrius -- </p>
+<p>(Greg continues walking through the crowd. A reporter stops him.) </p>
+<p><strong>Reporter</strong>: Mr. Sanders, Mr. Sanders, do you think the verdict was fair? Was your killing Demitrius James excusable? </p>
+<p>(Before Greg can respond, a friendly arm wraps around his shoulders. Stanley Tanner appears at his side.) </p>
+<p><strong>Stanley Tanner</strong>: This kid saved my damn life. He is a hero, a genuine hero.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – EARLY EVENING]</p>
+<p>[INT. CSI – LAB -- EVENING] </p>
+<p>(Hodges removes the Cherry Herring Liqueur bottle from the evidence bag. He takes a sample and processes it.) </p>
+<p>(He puts it in the machine and switches it on. The machine runs and Hodges takes a moment to dance along with the machine and background music.)</p>
+<p>(The results print out.) </p>
+<p>(Hodges smiles and heads out.) </p>
+<p>CUT TO:<br />
+[INT. CSI – GRISSOM'S OFFICE – NIGHT]</p>
+<p>(The results read: NICOTINE – FATAL LEVEL.)</p>
+<p>(Grissom shares his findings with Sara.) </p>
+<p><strong>Grissom</strong>: Penny Garden was poisoned with nicotine.</p>
+<p><strong>Sara</strong>: Well, that's not exactly a surprise -- the woman smoked liked a chimney.</p>
+<p><strong>Grissom</strong>: She didn't smoke it. She drank it. Liquid nicotine. Truman Capote used it as a murder weapon in his story, &quot;Hand-Carved Coffins,&quot; and our killer put it in Aunt Penny's liqueur bottle.</p>
+<p>INSERT: FLASHBACK</p>
+<p>(The killer drops liquid nicotine into the cherry liqueur bottle.)</p>
+<p>(Penny Garden sits, lights her cigarette and pours herself a drink.) </p>
+<p><strong>Grissom</strong>: (V.O.) A cigarette introduces approximately one milligram of nicotine into the body. The liqueur contained over 60. A dose that massive can induce severe convulsions ...</p>
+<p>(Penny stands up and starts convulsing. She takes several steps, knocking things over along the way. She coughs and gags.) </p>
+<p>[EXT. GARDEN'S RESIDENCE – NIGHT]</p>
+<p>(The shadow moves around the room, till she finally smashes into the window, falling on broken glass on the windowsill.) </p>
+<p><strong>Grissom</strong>: (V.O.) ... and evidently, mess up a meticulously crafted murder.</p>
+<p>BACK TO SCENE.</p>
+<p><strong>Grissom</strong>: That's why the miniature wasn't at the crime scene. The killer was compelled to fix it, so that it would match what actually happened.</p>
+<p>VARIOUS FLASHES OF: The killer pulls the miniature Penny doll off the chair and puts it on the windowsill.</p>
+<p>BACK TO SCENE.</p>
+<p><strong>Sara</strong>: Liquid nicotine is in a lot of smoking cessation products.</p>
+<p><strong>Grissom</strong>: Yeah. Commonly available to just about anyone. Any luck with the vic's calls?</p>
+<p><strong>Sara</strong>: Kind of. I data-mined the home phone numbers of Izzy Delancy and Penny Garden. They actually had ten numbers in common. Information, couple of mail-order catalogs, power company, Moviefone. There's one other number which turned out to be an untraceable disposable cell phone – suggests someone who doesn't want to be found.</p>
+<p>(Greg appears in the doorway.) </p>
+<p><strong>Greg</strong>: Hey, boss, unless you need me for something, I'm gonna take off.</p>
+<p><strong>Grissom</strong>: Yeah. Take off that suit, too.</p>
+<p>(Greg turns to leave; Grissom stops him.) </p>
+<p><strong>Grissom</strong>: And Greg ... you did a good job.</p>
+<p><strong>Greg</strong>: I'm glad you think so.</p>
+<p>(Greg turns and leaves. Sara turns to look at Grissom.) </p>
+<p>CUT TO:<br />
+[INT. CSI – PARKING GARAGE] </p>
+<p>(Greg is on his way to his car. A car engine starts and revs. He looks up and sees Aaron James sitting behind a driver's wheel revving the engine.) </p>
+<p>(A man walks up to Greg and hands him some papers.) </p>
+<p><strong>Man</strong>: Mr. Sanders, you've been served.</p>
+<p>(The man leaves. Greg looks at the papers:</p>
+<p>DISTRICT COURT<br />
+CLARK COUNTY, NEVADA</p>
+<p>THE ESTATE OF DEMITRIUS JAMES, PLAINTIFF, VS.<br />
+GREG SANDERS, AND DOES 1 THROUGH 50, INCLUSIVE AND EACH OF THEM, DEFENDANTS</p>
+<p>CASE NO. CIV. 11456<br />
+COMPLAINT FOR WRONGFUL DEATH</p>
+<p>(Greg turns around and looks at Aaron James behind the car wheel.)</p>
+<p>(Aaron James guns the engine and the car surges forward, tires screeching and headed straight toward Greg. Greg steps aside as the car passes him.) </p>
+<p>CUT TO:<br />
+[INT. CSI – A/V LAB -- NIGHT] </p>
+<p>(Archie is reviewing security video. Grissom walks in.) </p>
+<p><strong>Grissom</strong>: What is it, Archie?</p>
+<p><strong>Archie</strong>: Oh, hey, Gris. I was just looking at footage from the next-door neighbor's, the night the package was delivered.</p>
+<p>(Archie runs the video. Someone walks up to the front door.)</p>
+<p><strong>Archie</strong>: Never underestimate the Neighborhood Watch.</p>
+<p>(Archie enhances the video. The person carries the box to the front door and puts it down.) </p>
+<p><strong>Archie</strong>: I don't see a delivery truck.</p>
+<p><strong>Grissom</strong>: Well, fortunately for us, this was a personal delivery ... right to our front door.</p>
+<p>(On the video, the person walks away.) </p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-(Heavy black clouds cover the sky. Lightning flashes. Thunder rumbles as it prepares to rain.
- 
-
-Lyric: &quot;Lollypop, lollypop. Oh, lolly, lolly, lolly. Lollypop, lollypop – &quot;
- 
- 
- 
-TOP VIEW DOWN
-
- 
- 
-
-
-
- 
-
- 
-
-
- 
- 
-
-
- 
- 
- 
- 
-Brass: Her name is Penny Garden. Age 65. Retired cocktail waitress.
- 
-Brass: Been living here since the Rat Pack days.
-Grissom: She may have served them drinks.
-Brass: Well, they must have tipped well because twenty years ago, this was a nice neighborhood. Anyway, a guy next door heard a racket, called 911. Down the hallway, there's a spare bedroom. The bed's unmade. So if the vic had a houseguest, they're nowhere to be found, so I'm going to dig around.
-
- 
-Grissom: Unfortunately, these windows aren't tempered.
-Sara: Very dangerous if broken.
-Grissom: And she went through face first.
-Sara: The door's right here -- I doubt she missed it. Maybe she had some help.
-INSERT: FLASHBACK
- 
-END FLASHBACK
-Sara: Those coupons on the floor on top of the glass suggests they were scattered after the window broke.
-Grissom: Maybe they went through the room after they killed her.
- 
-Sara: There's nothing particularly valuable here.
- 
-Grissom: There used to be.
-SMASH TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
- 
- 
-Greg:  Control, Control, this is CSI Sanders. I need some help.
-FLASH TO FLASHBACKS
-
-
-VARIOUS FLASHES
- 
-Woman:  Assault in progress.
-
- 
-Control:  How many suspects? Are they armed?
-Greg:  Ma'am, please, they gotta get here quicker than this.
-
- 
-END FLASHBACK
-(We are in what appears to be a courtroom. Greg is sitting behind the table.
-Pete Athens: Thank you, ladies and gentlemen. My name is Pete Athens. I am the coroner of Clark County; I want to thank you all for being here. Coroner inquests go back to medieval times during the reign of Richard I in England. In fact, &quot;coroner&quot; comes from the word &quot;crown.&quot; A public inquest was one of the crown's checks and balances on the powers of the sheriff. And today, a thousand years later, it serves the same purpose in our county—checks and balances on the sheriff and for those who work for him. The Honorable Clayton Trueblood will be our hearing master. He's not a judge, but he's going to be more like a, um ... a traffic cop, because an inquest isn't a trial. 
-Judge Clayton Trueblood: We're going to examine the death of Demetrius James. The Assistant District Attorney Valerie Nichols will present the facts in the case, introduce the witnesses and ask them questions. Any member of the jury may also ask questions, either orally or in writing. I understand that there are family members of the deceased present. 
- 
-INSERT: FLASHBACK
- 
-END FLASHBACK
-Judge Clayton Trueblood: I'm very sorry for your loss, and I want you to know that as what the State calls &quot;interested parties,&quot; you may ask questions, too. When all the facts have been presented, the jury will then rule the death in question as either justifiable, excusable or criminal. 
-
- 
- 
-Sara: Cut's pretty deep. Let's try and keep her head on while we move her.
-
-David Phillips: On three: one, two, three.
- 
- 
-Catherine: Hi. 
- 
-Sara: Hi.
-Catherine: Grissom said you could use some help. What haven't you done?
-Sara:  The rest of the house.
-
-
-
- 
-Catherine:  Hope I die before I get old.
-
- 
- 
-Jason Tua: Man, I was just lampin' in the crib with my boys when all of a sudden, psssh. I thought someone was breaking in next door. Took a look over the fence, old Penny was breaking out.
-Brass: Did you hear anything? Any voices, yelling, screaming?
-Jason Tua:  Mm-mm. I don't even think Mrs. Penny could scream. She had, like, a real low, raspy voice.
-Brass: Yeah. Well, you think that's sexy? Is that the way you roll? Huh? All right, I'll take that for a &quot;no.&quot; You see anybody leave the house?
-Jason Tua: No, sir. Not last night.
-Brass: Who's she got staying with her? 
-Jason Tua: Don't know his name, but I seen him always going in and out of there.
-Brass: Describe him.
-Jason Tua: White dude. Skinny. Always wears jeans and white tees. 
- 
-Jason Tua: Man. I liked that old lady. She made some good vittles and always had an extra stogie if I was out. 
-Brass: This is my card. If you see that white skinny guy, give me a call, will you? All right? 
- 
-Jason Tua: Yeah.
-Brass: All right?
-Jason Tua: Yeah.
- 
- 
-Brass: You talk to that guy in that house?
-Officer Mitchell: Been there twice. Still nobody home.
-Brass: Put someone on his doorstep until he shows. He's got security cameras. I want the video.
-
-
- 
- 
-Sofia: The first attack that night occurred just after midnight, in the employee parking structure at the Golden Sapphire Hotel.
- 
-Sofia: A group of youths ranging from teens to early 20s attacked Vasco Ruiz, a hotel dishwasher on his way to his car.
- 
-Sofia: He was apparently selected at random.
-INSERT: FLASHBACKS OF
- 
-BACK TO SCENE.
-Sofia: Mr. Ruiz was found dead at the scene.
-Valerie Nichols: And what was the mob's next move?
-Sofia: Approximately thirty minutes after the first attack, not far away, at the Holiday Motel, they attacked their next victim, Jessica Hershbaum.
- 
-INSERT: FLASHBACK
- 
-Jessica Hershbaum: Stop it! Stop it!
-BACK TO SCENE.
- 
-Valerie Nichols: Now, Miss Hershbaum survived.
-Sofia: She's alive. But she has physical and emotional scars from the attack that she may never recover from.
-Valerie Nichols: So when Mr. Sanders was coming to your crime scene, would he have known about these first two swarming attacks?
-Sofia: Absolutely. CSI was still processing those crime scenes, and then I heard on my radio about another attack- - the third that night -- and that a CSI was one of the victims.
- 
-Valerie Nichols: Is this the location of the third swarming attack?
-Sofia: Yes. I drove over there immediately.
-Valerie Nichols: And what did you find?
-Sofia: Three men, all seriously injured. Stanley Tanner was unconscious, as was Demetrius James and CSI Sanders.
- 
-Sofia: The mob had pulled CSI Sanders from his vehicle and beaten him.
- 
-Sofia: But it was his intervention that saved Stanley Tanner's life.
-
- 
-Judge Clayton Trueblood: While I appreciate your participation in the process here, I don't find this question relevant.
- 
-Male Juror 1: Excuse me, Your Honor. The question's quite relevant. Are we just going through the motions here, so it looks like someone actually asked whether or not it's okay to run over black kids in the street?
-Judge Clayton Trueblood: Do you have a question, sir?
-Male Juror 1: Yeah. Are you also going to be censoring verbal questions?
-Judge Clayton Trueblood: Relevance is at my discretion here. Now, please, take your seat.
- 
- 
-
-
-
-
-
- 
- 
-Robbins: Multiple lacerations on face, neck shoulders. If it weren't for the couple dozen glass fragments I tweezed out, I'd say somebody went to town on her with a straight razor. COD is exsanguinations due to sharp force injury to the jugular-carotid complex, but she was already on her way out.
- 
-Robbins: Cannonballs of tumors on her lungs.
-Grissom: Man ... her cancer had cancer. I guess she liked smoking more than living, huh?
-Robbins: Or else she wanted to die with a cigarette in her mouth.
-Grissom: You know, Catherine found antidepressants, laxatives, acid-reflux meds in her house, but I don't think she found anything for pain.
-Robbins: I guarantee you, this lady was in pain. She must have been taking something for it.
-Grissom: Maybe the killer took it with him.
-Robbins: Well, there's a big market for that stuff now. I'll get her medical records.
-
-
- 
- 
-Sara: Did you find something?
-Catherine: Bloody glass.
- 
-Sara: The killer on his way out?
- 
-
- 
- 
-
-
- 
-Henry Briney: You can't keep me out of there! This is where I live, man!
-Officer Mitchell: Sorry, son. This is a crime scene. You don't want to be in there.
-Henry Briney: Look, I just want to see my Auntie Penny. Where is she?
- 
-Officer Mitchell: Calm ... calm down.
-Henry Briney: I don't want to calm down!
-Sara: Do you live here?
-Henry Briney: Yeah, that's what I was just telling this guy. What's going on?
-Sara: What's your name?
-Henry Briney: Henry. Henry Briney.
-Sara: Henry, I'm going to need you to come down to the police station, give us a statement.
-Henry Briney: For what?
-Sara: Um ... Sorry to tell you, but your aunt is dead.
-
- 
-
-ADA Valerie Nichols:  Mr. Tanner, can you tell us what injuries you sustained as a result of the attack?
-BACK TO SCENE.
- 
-Stanley Tanner: Cuts, some of them pretty bad, mostly on my face. Broke left arm, crushed windpipe, one eye socket cracked, broke right ankle. And I got this headache they tell me might be permanent.
-ADA Valerie Nichols: Would it be correct to say that while you were being attacked, you felt like your life was in danger?
-Stanley Tanner: Hell, yeah.
-Male Juror 1: I have a question.
-Judge Clayton Trueblood: Go ahead.
-Male Juror 1: Did you actually see Demetrius James attacking you?
-Stanley Tanner: Oh, I couldn't tell who was who. I mean, hell, my hands were on my face. I was just trying to stay alive. If Mr. Sanders hadn't shown up just then, I'd have been like that first guy -- dead.
-
- 
- 
-Robbins: There was a large laceration where Demetrius James' head hit the ground when he fell. Underlying that wound was a fracture of the occipital bone, which crosses at the base of the skull. The motion of the impact caused the brain to collide with the bony protrusions inside the skull, resulting in what we call contra-coup contusions. There was also prominent cerebral edema -- or swelling -- as well as hemorrhages of the brain stem.
-ADA Valerie Nichols: So your official cause of death was ... ?
-Robbins: Blunt force trauma to the head following a motor vehicle collision.
-Male Juror 1: So this was a death at the hands of another?
-Robbins: Yes.
-Male Juror 1: And what do you call that kind of death?
-Robbins: A homicide.
-
- 
- 
-Brass: So where did you go last night?
- 
-Henry Briney: Movies.
-Brass: Oh, a ticket stub. That's good. Who'd you go with? You went by yourself?
-Henry Briney: Who else would I go with?
-Brass: I don't know. A friend?
-Henry Briney: No. I don't have friends.
-Brass: Okay, so the movie ended. You're all by yourself, then what?
-Henry Briney: I sat in the Keno Lounge all night, hit the grocery store, and then came home to cops.
-Brass: Why are you staying at your Aunt Penny's?
-Henry Briney: Because my parents threw me out.
-Brass: Why would they do that?
-Henry Briney: Because they don't like me.
-Brass: Let me see your arms.
- 
-Brass: Are you &quot;booting that good oodgie&quot;? You ever use intravenous drugs?
-Henry Briney: Not anymore, but I did for a while.
-Brass: You know, your Aunt Penny had some scrips for some pain medication –
-Oxycontin, Fentanyl, Methadone. When we searched her house, we didn't find any. Did you take them?
-Henry Briney: No, I didn't take them. She must have taken them. I don't touch them. I just got out of rehab. Haven't touched a pill, line or needle in six months.
-Brass:  
-Henry Briney: My parents threw me out, and she took me in. I would not screw her over.
-Brass: We're going to need to take your clothes and your shoes.
-
-
-
- 
-Catherine: Any luck?
-Sara: No. No blood on the nephew's shoes or clothes.
-Catherine: Drug panel on his urine came back negative. He's clean.
-Sara: What about Auntie Penny?
-Catherine: No pain meds in her system either.
-Sara: We've got a lot of serious drugs that are unaccounted for.
-
- 
- 
-Nick: These glass fragments are from the mob breaking out the windows of CSI Sanders' Denali.
-INSERT: FLASHBACK
- 
-Nick:  That's how they dragged him out.
-BACK TO SCENE.
-(Nick continues. His testimony is interspersed with flashes from 7X04:
-‘Fannysmackin'.) 
- 
-Nick: This is a clump of his hair, torn from his scalp. And that's the rock Demetrius James used as a weapon.
-Male Juror 1: According to who? This is the first we've even heard that Demetrius James had a weapon.
-ADA Valerie Nichols: In his report, Mr. Sanders testified to that fact. The rock was found at the scene.
-Male Juror 1: How do we know the cops didn't plant it there?
-Judge Clayton Trueblood: Sir, I've warned you.
-Nick: I'd like to answer that question. Usually, when someone plants a weapon, whoever did it puts it right beside the body -- in this case, the rock was found near the front tire of the Denali. Skid marks suggest it was dropped upon impact.
-Male Juror 1: A rock against two tons of steel.
-Nick: No. More like one man against an extremely violent, out-of-control mob.
-Male Juror 1: What's department policy in a situation like that?
-Nick: It has always been department policy not to harm innocent civilians. You call for backup, you try to be a good witness, and you stay out of the way.
-Male Juror 1: So what makes it okay to start running over people?
-Nick: Well, when those people are wearing masks, running around beating people up.
-Aaron James: Man, DJ was going to a costume party.
-Nick: One victim was dead. Another was seriously injured. Another fatality imminent. I'd say the use of deadly force in this case was consistent with department policy, absolutely.
-ADA Valerie Nichols: Demetrius James was going to finish off the victim with the rock.
- 
-Marla James:  My brother wasn't a killer!
-ADA Valerie Nichols: Excuse me.
-Marla James: Demetrius was going to college.
-ADA Valerie Nichols: Mrs. James!
-Marla James: He had a 3.6 GPA.
-ADA Valerie Nichols: We are all very sorry for your loss, but you are not a witness here.
- 
-Marla James:  DJ had a future!
-Marla James: I knew him! We knew him!
-ADA Valerie Nichols: Judge, can we have some order here?
-Marla James: You didn't run over a mob, you ran over one boy! My boy!
-ADA Valerie Nichols: Judge?
-Judge Clayton Trueblood: Mrs. James' comments give context to the events of the night in question. I'd like to hear what she has to say.
- 
-Greg: Why is Trueblood letting her do this?
-ADA Valerie Nichols: It's probably good for his campaign. He's running for Assembly.
-Greg: Now you tell me.
-
- 
- 
-Sara: Got your page. Surveillance footage from the neighborhood watch guy across the street.
-Archie: Yeah, he was paranoid, but lazy. He had four security cameras on his house; three of them were cardboard boxes. Homemade security is the worst. Okay, so the nephew comes in and out of the house a couple times during the day.
-Sara: Yeah? 
-Archie: It's a whole different story next door. Okay, this guy comes out of the house and meets with a different car at least three times an hour.
-Sara: He's slinging drugs.
-
-
- 
-Brass: We found these in your house. The white one is Carisoprodol. It's a muscle relaxant.
-Jason Tua: Yeah, I strained my pecs bench pressing.
-Brass: Oh, yeah. And the blue one is Prevalis. You look a little young to need that.
-Jason Tua: Well, I've had my share of women. Mr. Johnson's gotten bored over the years, so?
-Brass: Well, he's going to get really bored in prison. You hope.
-Jason Tua: What, you gonna bust me for selling Prevalis?
-Brass: Well, you think a guy in my job doesn't know what goes on in the clubs and in the street? You ever hear of a Las Vegas Cocktail.
-Jason Tua: I don't drink.
-Brass: It's a combination of Carisoprodol, Prevalis and very strong painkiller called Fentanyl. Problem is, Fentanyl's hard to get. I mean, doctors don't just give it away. You got to be in really serious pain to get it, like dying of cancer. On the street it's called &quot;perc-a-pop&quot;.
- 
-Brass: Now, Penny Garden was prescribed 40 a month. Problem is, we couldn't find any in her house.
-Jason Tua: So what, you think I stole them?
-Brass: Yeah, I do.
- 
-Jason Tua: Where are the pops, old lady?
-Penny Garden: Get out of my house.
- 
-Jason Tua: Where are they?
-Penny Garden: Back off, bully! 
-Jason Tua: No you won't.
- 
-BACK TO SCENE.
-Jason Tua: Never. Never, never, never. Look, I told you, I liked the lady. She made me dinner. She lent me smokes, man.
-Brass: You liked her 'cause she had what you needed.
-Jason Tua: No, man. No way.  Hey, I need a lawyer in here.
-
-
- 
-Sara: So we have a drug dealer and a former drug user, both of which would have motive to steal Penny's drugs.
-Catherine: Well, there wasn't any trace of Fentanyl in the nephew's system.
-Sara: He's broke, he's unemployed; maybe he's stealing them from Penny so he can sell them to the neighbor.
-Catherine: If that's the case, it's motive for both.
- 
-Henry Briney:  Excuse me.
- 
-Sara: Hi, Henry. What are you doing here?
-Henry Briney: Um ... I just found this on my porch -- I opened it and thought I should bring it down to you guys. It's ... pretty creepy.
- 
- 
-
-
-
-;
-
-
-
- 
- 
-
- 
-
-
-
-Sara: If one was horrifying ... what is two?
- 
-Grissom: Possible serial killer.
-Sara: I'd say that it takes the nephew and the neighbor off the hook. I doubt either one of them could afford a mini-contractor, anyway.
- 
-Sara: A bloody doll. Similar to the one in the other miniature.
- 
-Grissom: Look at the blood on the doll's forehead.
-Sara: Same pattern on both.
-Grissom: Could be two different views of the same subject.
-Sara: Maybe it's a signature.
-Grissom: Yeah, but we have no context. It could mean or represent just about anything.
-Sara: Okay ... again, the miniature suggests that the killer had an intimate familiarity with the victim, home and habits. So what do they have in common?
-Grissom: Izzy Delancy, 50-year-old white male, washed-up rock star. Penny Garden, cancer-stricken retiree.
-Sara: Different friends, different family, different social circles.
-Grissom: Why wasn't this one left at the crime scene like that one?
- 
- 
-
- 
- 
-Judge Clayton Trueblood: Marla and Aaron James are not sworn witnesses. If they were, they couldn't be in the courtroom during testimony and that would effectively take away their rights as interested parties to question witnesses. So please try to remember that their remarks are not evidence. Go ahead.
-Marla James: My sons didn't grow up with a father. Barely had a mother on account of me working all the time. They got into trouble. Mostly 'cause of where we live. Aaron here, he got into a whole lot of trouble. 
-Aaron James: And I did my time, too. I did my time, but that wasn't D.J. He was helping me turn my life around. Coached me on my GED. Made me feel like there was a chance for me, you know.  Man, you have no idea what you killed when you killed my brother.
-
- 
- 
-Reporter 1 : Everyone was moved by the compelling testimony of the victim's mother, Marla James. Her outburst in the courtroom today -- 
-Reporter 2 : It wasn't the judge, the jury or the lawyer. Instead it was the mother of Demitrius James that had the courtroom asking did her son behave ...
- 
-Sofia: Hey.
-Greg: Nichols was right. This isn't a trial, it's a circus. 
-Sofia: Yeah, I heard. Starring the mother.
- 
-Greg: I feel like I should say something.
-Sofia: Like what?
-Greg: I don't know. 
-Sofia: Sorry? You going to apologize to the mother of a guy who beat one man to death and was trying to do the same to you? That's as good as saying you're guilty and setting yourself up for one hell of a civil suit besides. You did nothing wrong.
-Greg: I just want to be able to sleep again.
-Sofia: We put ourselves in harm's way every single day and sometimes we pay one hell of a price for surviving it. Other people will never understand that.
- 
-Aaron James: No way D.J. was a violent person.
-Marla James: My son is not a killer. He was trying to stop that killing.
-
- 
- 
- 
-
-
-
- 
- 
- 
-
-
-
-
- 
-Warrick: Hey.
-Nick: Hey.
-Warrick: How'd it go in there?
-Nick: I don't know.
-Warrick: Really?
-Nick: Yeah.
-Warrick: You know, I know it was a hardcore situation that Greg ran up on, but you think it ever would have occurred to him to just put it in reverse and get the hell out of there?
-Nick: Well, that's not the question. What a jury wants to know is did Greg do what any reasonable person would have done under the circumstances.
-Warrick: I know Greg must have been scared as hell, man.
-Nick: What can we do to help him?
-Warrick: We'll put the jury behind the wheel of the car.
- 
-
-VARIOUS CUTS OF NICK AND WARRICK
- 
-(Warrick hooks the Denali's black box to the laptop and downloads the information. 
-ENGINE SPEED
-RPM/100
-BRAKE SWITCH
-CIRCUIT STATUS
-100=ON
- 
- 
- 
- 
- 
- 
- 
- 
-Warrick: All right, the Denali's black box reports only five seconds before impact. Now, Greg was idling with his foot on the brake. And then he accelerated for no more than two seconds.
-Nick: Yeah, according to the acceleration skid marks, the front end went from there to there with D.J. coming at him.
-Warrick: Want to give it a go?
- 
-Warrick: Take it for a spin?
-Nick: Yeah.
-
- 
-Warrick: You ready?
-Nick: Ready.
-Warrick: Go.
- 
-Warrick: Stop!
- 
-Nick:  With this kid running at him the whole time, there's no way Greg could have avoided hitting him.
-Warrick: You think a jury will see it that way?
-
- 
- 
-
-
- 
-Aaron James: How tough you feel when you're not in your big SUV, huh?
- 
-Aaron James: I asked you a question, killer.
-
- 
-Man: Excuse me.
- 
-
-
-
-
- 
- 
-Judge Clayton Trueblood: In the cause now pending before this court, do you swear to tell the truth, the whole truth and nothing but the truth?
-Greg: I do.
-Judge Clayton Trueblood: Be seated.
- 
-ADA Valerie Nichols: All right, let's take a look at the official transcript of your call for backup. 
-ADA Valerie Nichols: 01:54 and 21 seconds, Dispatch Control answers. Would you please read your response.
- 
-Greg:  &quot;Control, Control, this is CSI Sanders. I need some help.&quot; 
-ADA Valerie Nichols: You took a couple of seconds to look at the street signs. There's a few more exchanges and then dispatch tells you: &quot;Closest unit has a five minute ETA.&quot; Five minutes. Control continues-- &quot;Rolling Code 3. Are they armed?&quot; Please read your response.
-INSERT: FLASHBACK
-Greg: I don't know, I don't know. Ma'am, please, listen. They gotta get here quicker than this.
-Dispatch: Copy that.
-BACK TO SCENE.
-ADA Valerie Nichols: What'd you do?
-Greg: I thought I'd try to break up the mob. I turned into the alley, hit the horn, yelled, anything.
-ADA Valerie Nichols: Did that stop the beating?
-Greg: Not entirely. One guy decided not to run away. Instead, he turned around, picked up a rock ... and moved like he was going to finish off the victim. But he turned and started coming at me with it.
-Aaron James: Oh, come on, that's just his word, man. His word against my brother's word!
-ADA Valerie Nichols: Mr. James.
-Aaron James: You know, we can't get his side, now can we?
-ADA Valerie Nichols: All right. Your Honor?
-Judge Clayton Trueblood: Ms. Nichols. The man has a right to speak.
-Marla James: C'mon. Sit down. C'mon.
- 
-ADA Valerie Nichols: At this point, did you fear for your life?
-Greg: Yes.
-ADA Valerie Nichols: Did you have a weapon, a gun?
-Greg: No.
-ADA Valerie Nichols: What were you thinking when D.J. left Stanley Tanner's unconscious body and ran at you with that rock?
-Greg: I thought that he could make me his next target. I thought he wanted to kill me. No matter what, I knew that I had to incapacitate him.
-ADA Valerie Nichols: Now it's taken us several minutes to go through the events of that night. And I'm sure that you've all formed some kind of opinion about what happened. But, right now, let's put ourselves in Mr. Sanders' position. Let's see how much time Greg had to save a man's life. 
- 
-ADA Valerie Nichols: Seconds. Mere seconds. What would you have done? Mr. Sanders, was it your intention to kill Demitrius James?
-Greg: No. I wish he hadn't come at me. I wish that he had just run away.
-Judge Clayton Trueblood: Mr. Sanders ... aren't you leaving something out?
-Greg: I don't think so.
-Judge Clayton Trueblood: You testified at a criminal trial earlier that day, didn't you?
-Greg: Yes.
-Judge Clayton Trueblood: ADA Ulrich must've been pleased with your testimony. She took you to dinner at the Tillerman. I'm looking at a copy of her credit card receipt. How was the sea bass? And the bottle of Pinot Grigio Santa Margherita 2005. How was that?
-ADA Valerie Nichols: Your Honor ...
-Greg: I ... wasn't on shift, and I only had ...
-Judge Clayton Trueblood: Mr. Sanders, I'm sure the jury's wondering, if you hadn't been drinking before going to work, would Demitrius James still be alive?
-Greg:  Alcohol wasn't ... a factor. ADA Ulrich insisted on ordering the wine. I drank half a glass. About six ounces. At my weight, 150, that would give me a blood-alcohol content of .02%. Even without food, the alcohol burn-off rate would be .015% per hour ... meaning that there was no alcohol in my bloodstream after ninety minutes, well before I reported for my shift and about ... seven hours before the incident.
-
-
- 
- 
-Sara: This is where we found your aunt's Fentanyl, so we know that you didn't take it.
- 
-Sara: Which means you've gone from a suspect ... 
-(Camera follows Sara as she walks around the room, then veers off through the wall and into – 
-
- 
-BRASS -- to a witness. Now it's up to you to help us find the real killer. If you really cared about Penny, you'll tell us the truth about everything.
-Jason Tua: So this is off the record?
-Brass: Yeah.
-Jason Tua: So I ain't going to jail?
-Brass: Yeah, what do you want to know?
-
- 
-Sara: Who was Penny hiding her drugs from?
-Henry Briney: I don't know. Maybe it was me, although I never would've taken them. Or maybe you should ask the guy next door.
-Jason Tua: No, man, I'd never take those things from her. I buy 'em, 50 bucks a pop.
-INSERT: FLASHBACK
-
- 
-BACK TO SCENE.
-
-Sara: Did you know your aunt was selling her drugs?
-Henry Briney: Yeah, I had an idea. I figured it was how she was supporting her habit.
-Sara: Which one?
-Henry Briney: I guess I should've said &quot;habits.&quot; Um, she loved her liqueur, and she loved her cigarettes, but what she really loved was video poker. She liked the sound the coins made when she hit a jackpot. She offered me a couple of bucks a week to keep the house clean, and ... and she paid me in nickels and quarters.
-Sara: Can you think ... of anyone else that might have known that those drugs were there?
-Henry Briney: No. I lived with her for a couple of months, and ... and she never had anyone over but me.
-DISSOLVE TO: 
- 
- 
- 
-Hodges: I know that look. You just figured something out.
- 
-Hodges: This is much better than dead rock star kitchen. The whole al fresco thing?  Please?
- 
-Grissom: Look carefully at the back of the doll and at the pillow on the chair. There appears to be remnants of glue on both.
-Hodges: So the doll was originally glued to the back of the chair.
- 
-Grissom: I think the killer expected the victim to die in this chair.
-INSERT: VISUALIZATION
- 
-
- 
-Hodges: Well, if that's the case, then how did the killer expect to ... kill her?
-
- 
-
-
- 
-Judge Clayton Trueblood: I understand the jury has reached a verdict?
-Woman Juror: We have, Your Honor.  We, the jury in this inquest, find the death of Demitrius James excusable.
- 
-Coroner Pete Athens: Well, thank you, ladies and gentlemen, Judge Trueblood. This inquest is concluded.
-ADA Valerie Nichols:  See, &quot;excusable&quot; is a lawful act with no intention to kill. &quot;Justifiable&quot; means that the action was the only alternative. That's what they should have found.
-Greg: It's okay. I think they may have it right.
-
- 
- 
-Male Juror 1: Look, look, I got nothing against Mr. Sanders personally, but all these inquests ever really seem to do is protect the cops. ...
- 
-Judge Clayton Trueblood: As I've emphasized during my campaign, the public deserves the truth about any death at the hands of law enforcement.
- 
-Marla James: No, it's not over. We won't get justice till Demetrius -- 
- 
-Reporter: Mr. Sanders, Mr. Sanders, do you think the verdict was fair? Was your killing Demitrius James excusable? 
- 
-Stanley Tanner: This kid saved my damn life. He is a hero, a genuine hero.
-
-
- 
- 
-
- 
- 
-
-
-
- 
-Grissom: Penny Garden was poisoned with nicotine.
-Sara: Well, that's not exactly a surprise -- the woman smoked liked a chimney.
-Grissom: She didn't smoke it. She drank it. Liquid nicotine. Truman Capote used it as a murder weapon in his story, &quot;Hand-Carved Coffins,&quot; and our killer put it in Aunt Penny's liqueur bottle.
-INSERT: FLASHBACK
-
- 
-Grissom:  A cigarette introduces approximately one milligram of nicotine into the body. The liqueur contained over 60. A dose that massive can induce severe convulsions ...
- 
-
- 
-Grissom:  ... and evidently, mess up a meticulously crafted murder.
-BACK TO SCENE.
-Grissom: That's why the miniature wasn't at the crime scene. The killer was compelled to fix it, so that it would match what actually happened.
-
-BACK TO SCENE.
-Sara: Liquid nicotine is in a lot of smoking cessation products.
-Grissom: Yeah. Commonly available to just about anyone. Any luck with the vic's calls?
-Sara: Kind of. I data-mined the home phone numbers of Izzy Delancy and Penny Garden. They actually had ten numbers in common. Information, couple of mail-order catalogs, power company, Moviefone. There's one other number which turned out to be an untraceable disposable cell phone – suggests someone who doesn't want to be found.
- 
-Greg: Hey, boss, unless you need me for something, I'm gonna take off.
-Grissom: Yeah. Take off that suit, too.
- 
-Grissom: And Greg ... you did a good job.
-Greg: I'm glad you think so.
- 
-
- 
- 
- 
-Man: Mr. Sanders, you've been served.
-(The man leaves. Greg looks at the papers:
-DISTRICT COURT
-CLARK COUNTY, NEVADA
-THE ESTATE OF DEMITRIUS JAMES, PLAINTIFF, VS.
-GREG SANDERS, AND DOES 1 THROUGH 50, INCLUSIVE AND EACH OF THEM, DEFENDANTS
-CASE NO. CIV. 11456
-COMPLAINT FOR WRONGFUL DEATH
-
- 
-
- 
- 
-Grissom: What is it, Archie?
-Archie: Oh, hey, Gris. I was just looking at footage from the next-door neighbor's, the night the package was delivered.
-
-Archie: Never underestimate the Neighborhood Watch.
- 
-Archie: I don't see a delivery truck.
-Grissom: Well, fortunately for us, this was a personal delivery ... right to our front door.
- 
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=07x07+-+Post+Mortem&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127434%23p127434" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=07x07+-+Post+Mortem&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127434%23p127434" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127434%23p127434&amp;name=07x07+-+Post+Mortem" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127434%23p127434" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=1ca7b8ffffbed61cec6f43f618401fa6">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=1ca7b8ffffbed61cec6f43f618401fa6">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=1ca7b8ffffbed61cec6f43f618401fa6">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=1ca7b8ffffbed61cec6f43f618401fa6">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

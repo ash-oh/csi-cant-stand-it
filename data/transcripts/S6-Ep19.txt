@@ -1,839 +1,1069 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN: 
+[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]
+[EXT. STREET OUTSIDE THE SIXTH SENSE OCCULT SHOP - NIGHT]
+(Sirens wail in the distanc" />
+<meta property="og:title" content="06x19 - Spellbound - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN: 
+[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]
+[EXT. STREET OUTSIDE THE SIXTH SENSE OCCULT SHOP - NIGHT]
+(Sirens wail in the distanc" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13328" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>06x19 - Spellbound - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13328" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13328">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=f63769187ac4b239a686e0cae888a9ac"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=f63769187ac4b239a686e0cae888a9ac">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=f63769187ac4b239a686e0cae888a9ac">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=f63769187ac4b239a686e0cae888a9ac">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=f63769187ac4b239a686e0cae888a9ac">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13328&amp;sid=f63769187ac4b239a686e0cae888a9ac&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>06x19 - Spellbound</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127422">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127422">06x19 - Spellbound</a></div>
+							<div class="pull-right text-right"><time datetime="2006-04-20T17:54:45Z">04/20/06 17:54</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN: </p>
+<p>[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]</p>
+<p>[EXT. STREET OUTSIDE THE SIXTH SENSE OCCULT SHOP - NIGHT]</p>
+<p>(Sirens wail in the distance. There's low to medium traffic on the street - a car parks and people get out. People walk on the sidewalk on both sides of the street.)</p>
+<p>(Camera focuses on the neon sign on the occult shop's window - a neon eye on a neon yellow triangle in the center of the shop name: SIXTH SENSE.)</p>
+<p>(We slowly push in toward the sign, through the center of the eye's pupil as we enter through the window and into the ... </p>
+<p>[INT. THE SIXTH SENSE OCCULT SHOP - NIGHT -- CONTINUOUS] </p>
+<p>(The shop is dimly lit with lamps and low lighting. We push further into the shop past a shelf with skulls and a crystal ball on a stand.) </p>
+<p>CUE <strong>Voices</strong>:</p>
+<p>(Sounds of conversation filter from the back room. We move completely through the crystal ball and past the shelves of different colored bottles filed with various items.)</p>
+<p><strong>Sedona Wiley</strong>: (o.s.) Focus all your intention on the crystal for your highest truth.</p>
+<p>(We pass hanging baskets with a sign that reads &quot;CHICKEN FEET&quot;, across the countertop with various colored bottlesand a wall with various photos as we move to the back of the shop.)</p>
+<p>[INT. SIXTH SENSE - BACK ROOM - NIGHT - CONTINUOUS]</p>
+<p><strong>Sedona Wiley</strong>: (o.s.) What is your first question?</p>
+<p>(We continue past a cabinet and stop in front of the entryway to the back room. The voices are clearer.) </p>
+<p><strong>Lori</strong>: I want to know if he loves me.</p>
+<p>FLASH TO:<br />
+[CRYSTAL BALL]</p>
+<p>(We see the reflection of two women in the glass.) </p>
+<p><strong>Sedona Wiley</strong>: I see red.</p>
+<p>(Sedona Wiley sits across a small table from two young women - the same two women from 1X22: Evaluation Day.)</p>
+<p><strong>Sedona Wiley</strong>: That can be passion. The connection between you is very strong.</p>
+<p>(Lori smiles, pleased with the answer. Anna Leah watches Sedona skeptically. Sedona takes a breath and closes her eyes.) </p>
+<p><strong>Sedona Wiley</strong>: I see blood. There's danger around you.</p>
+<p><strong>Lori</strong>: Well, my parents do hate him.</p>
+<p><strong>Sedona Wiley</strong>: I'm getting a name Ray. Ray. And a letter &quot;B.&quot;</p>
+<p>(She opens her eyes.) </p>
+<p><strong>Sedona Wiley</strong>: Uh, when, when we put the name Ray with the letter &quot;B,&quot; does anything come up for you?</p>
+<p><strong>Anna Leah</strong>: We don't know anyone named Ray. And my boyfriend's name is Stuart.</p>
+<p>(Sedona looks at the clear marble in her hands.) </p>
+<p><strong>Sedona Wiley</strong>: There's something else -- &quot;R.&quot; Ro-ro ... rode, rode, rodeo. Is he connected to a rodeo? Is he taking you to a rodeo?</p>
+<p><strong>Lori</strong>: I don't think so.</p>
+<p>(Sedona appears upset, as if she's doing this reluctantly.) </p>
+<p><strong>Sedona Wiley</strong>: I'm getting another image. Um ... an arm. It's a one-armed cactus, but it's not in the ground. And then it's cold. </p>
+<p>(She opens her eyes and looks at them.) </p>
+<p><strong>Sedona Wiley</strong>: I don't usually tell people when I see bad things, but the danger is so strong I can feel it. </p>
+<p>(Spooked, Anna Leah gets to her feet.) </p>
+<p><strong>Anna Leah</strong>: Okay, this is stupid. You're scaring us.</p>
+<p>(Concerned, Lori gets to her feet. Sedona grabs her hands.) </p>
+<p><strong>Sedona Wiley</strong>: Don't ... go.</p>
+<p>(Anna Leah grabs Lori and the two head for the door.) </p>
+<p><strong>Anna Leah</strong>: Come on.</p>
+<p><strong>Sedona Wiley</strong>: Don't!</p>
+<p>(Anna Leah and Lori leave.) </p>
+<p>CUT TO:<br />
+[EXT. STREET OUTSIDE SIXTH SENSE - NIGHT - CONTINUOUS]</p>
+<p>(The doorbell jingles as Anna Leah and Lori leave the shop. They head across the street. As soon as Anna Leah steps off the curb, a car stops, tires screeching.)</p>
+<p>(She whacks the car hood with the palm of her hand.) </p>
+<p><strong>Anna Leah</strong>: Jerk!</p>
+<p>[DRIVER POV]</p>
+<p>(Anna Leah and Lori continue walking down the street in front of the car, their images blurring.) </p>
+<p>CUT TO:<br />
+[EXT. STREET OUTSIDE SIXTH SENSE - NIGHT]</p>
+<p>(The area is crowded with officer cars, lights flashing. Grissom exits the SUV and joins Brass.) </p>
+<p><strong>Brass</strong>: Say hello to Anna Leah and Lori. You may remember them. A few years ago they stole a car and found a severed head in the trunk.</p>
+<p><strong>Grissom</strong>: How could I forget that?</p>
+<p><strong>Brass</strong>: Well, now they found a dead psychic, Sedona Wiley, in the occult shop.</p>
+<p><strong>Lori</strong>: She said there was danger all around us. I mean, we almost got hit by a car right here, and then she's dead.</p>
+<p><strong>Grissom</strong>: Wait, I'm confused. You left and then you came back?</p>
+<p><strong>Lori</strong>: Yeah. I forgot my sunglasses. Two hundred bucks.</p>
+<p><strong>Brass</strong>: This officer will take you downtown to take your statement, okay?</p>
+<p>(Anna Leah rolls her eyes.) </p>
+<p>FLASH TO:<br />
+[INT. SIXTH SENSE - NIGHT - CONTINUOUS]</p>
+<p>(Sedona Wiley is dead, faced-up on the floor, her arms away from her body.)</p>
+<p>(Grissom enters the shop. Photo flashes snap as someone takes pictures of the body. The entire room is trashed.) </p>
+<p><strong>Grissom</strong>: Greg?</p>
+<p>(Crouched near the body alongside David Phillips, Greg looks up at Grissom. Greg stands up.) </p>
+<p><strong>Greg</strong>: Hey.</p>
+<p><strong>Grissom</strong>: I thought I paged Warrick on this.</p>
+<p>(Grissom puts his kit down.) </p>
+<p><strong>Greg</strong>: Yeah, about that, uh, we traded days.</p>
+<p>(Grissom shines his flashlight on Greg.) </p>
+<p><strong>Grissom</strong>: Because?</p>
+<p>(Greg puts a hand up to block the light.) </p>
+<p><strong>Greg</strong>: Well, uh, it's a long story, but the short answer is I have an expertise in the occult.</p>
+<p><strong>Grissom</strong>: Huh. Hello, David. What do you know? </p>
+<p>(Grissom heads toward them. Sedona's body is located near the backroom entryway.) </p>
+<p><strong>David Phillips</strong>: Gunshot to the chest. Liver temp is 98 degrees which is odd unless she's running a fever. It means I can't give you an accurate TOD. Sorry.</p>
+<p>(Greg continues taking photos. David rolls the body over.) </p>
+<p><strong>David Phillips</strong>: Bullet was a through-and-through. Based on lividity, the body wasn't moved.</p>
+<p><strong>Grissom</strong>: What's in the back room?</p>
+<p><strong>Greg</strong>: A small office. Probably where she did the readings. There's, uh, incense, pendulum, jar of marbles. They're used for divining. It's hipper than the old crystal ball.</p>
+<p><strong>Grissom</strong>: Where did you say your expertise comes from?</p>
+<p><strong>Greg</strong>: Oh, my grandmother, Nana Olaf. She was a psychic. She didn't have a store. She just had a kitchen table and she prognosticated for free. She had a sixth sense. And the family thinks that I might have inherited it.</p>
+<p><strong>Grissom</strong>: Okay. What am I thinking?</p>
+<p><strong>Greg</strong>: That I'm due for a promotion?</p>
+<p><strong>Grissom</strong>: I'm thinking you should focus on your other five senses.</p>
+<p>SMASH CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. SIXTH SENSE - DAY]</p>
+<p>(Greg snaps photos of blood drops on a skeleton-decorated stool. He turns and snaps more photos of the broken jars and bottles on the shelves and countertops. He finds more blood drops.) </p>
+<p><strong>Greg</strong>: (puzzled) Got some blood drops over here.</p>
+<p><strong>Grissom</strong>: Connected to the blood pool?</p>
+<p><strong>Greg</strong>: No.</p>
+<p>(Grissom snaps a photo of the floor near evidence marker B.) </p>
+<p><strong>Greg</strong>: Maybe the killer cut himself?</p>
+<p>(Quick flash of: Someone swings his arm, knocking the jars and bottles off the countertop. Blood drops fall on the surface. End of flash. Resume to present.) </p>
+<p>(Greg puts his camera down and digs into his pocket for a swab.) </p>
+<p><strong>Greg</strong>: I'll swab it.</p>
+<p>(then)</p>
+<p><strong>Greg</strong>: You ever been to a psychic?</p>
+<p><strong>Grissom</strong>: Would it surprise you if I had?</p>
+<p><strong>Greg</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: Surprise. So go ahead and run it for me.</p>
+<p>(Greg looks around and points to the cash register.) </p>
+<p><strong>Greg</strong>: Sure. Uh, cash register's empty, which could mean robbery gone bad.</p>
+<p>(He turns to the bullet hole in the wall.) </p>
+<p><strong>Greg</strong>: The shot was a through-and-through. Bullet went into this wall. Haven't extracted it yet. Shot was fired along this line.</p>
+<p>(Greg places his back to the wall, aligning himself in line with the bullet trajectory.) </p>
+<p>(Quick flash to: The killer stands in the same position, raises a gun and fires. The bullet heads straight for Sedona Wiley.)</p>
+<p>(We hear her grunt as the bullet hits flesh.) </p>
+<p>(End of flash. Resume to present.) </p>
+<p>(Greg straightens.) </p>
+<p><strong>Greg</strong>: Which puts the shooter on the far side of the body.</p>
+<p>(Grissom looks around at the damage to the shop.) </p>
+<p><strong>Grissom</strong>: Well, if it was a robbery, why'd they trash the place?</p>
+<p><strong>Greg</strong>: Well, I can think of two reasons: One, the shooter was on drugs and did it just to do it. Or there wasn't enough money in the register and he decided to look for more.</p>
+<p><strong>Grissom</strong>: Go on.</p>
+<p>(Grissom heads for the back room.) </p>
+<p>[INT. SIXTH SENSE - BACK ROOM - DAY -- CONTINUOUS]</p>
+<p>(Grissom pushes the hanging bead divider and looks in the room as he listens to Greg talk.) </p>
+<p><strong>Greg</strong>: (o.s.) Well, uh, he figured that the victim must have had a purse or a safe somewhere ... </p>
+<p>(Grissom steps into the room and looks around.) </p>
+<p><strong>Greg</strong>: (o.s.) and terrorizing her is one way to get her to give it up.</p>
+<p>(Grissom picks up a book on the counter nearby. There's a five-point star in a circle on cover. The book is labeled &quot;DEATH&quot;. He puts the book down and notices Sedona's purse on the counter. He looks through the purse and takes out her wallet. He opens it, sees the driver's ID, credit cards and cash inside.) </p>
+<p>NEVADA DRIVER LICENSE<br />
+EXPIRES: 09-21-2006<br />
+s*x: M<br />
+HEIGHT: 5'5&quot;<br />
+WEIGHT: 114<br />
+EYES: BRN<br />
+HAIR: GRN<br />
+WILEY, SEDONA<br />
+32 POINT VIEW<br />
+LAS VEGAS, NV 89101</p>
+<p><strong>Grissom</strong>: They didn't take her purse.</p>
+<p>(Greg snaps more photos. Grissom finds a tape recorder. He turns it on and rewinds it a little.</p>
+<p><strong>Sedona Wiley</strong>: (from tape) I'm getting a name: Ray. Ray. And a letter &quot;B.&quot;<br />
+Um, when, when we put the name Ray with the letter &quot;B,&quot; does anything come up for you?</p>
+<p>(Greg enters the back room and listens to the tape. He looks down on the table and sees a pair of sunglasses.) </p>
+<p><strong>Anna Leah</strong>: (from tape) We don't know anyone named Ray, and my boyfriend's name is Stuart.</p>
+<p>(Greg picks up the sunglasses and looks at Grissom.) </p>
+<p><strong>Greg</strong>: Ray Bans -- &quot;Ray B.&quot;</p>
+<p><strong>Sedona Wiley</strong>: (from tape) There's something else. &quot;R,&quot; ro, rode. Rodeo. Is it connected to a rodeo? Is he taking you to a rodeo?</p>
+<p><strong>Lori</strong>: (from tape) I don't think so.</p>
+<p>(Greg steps out of the back room.) </p>
+<p><strong>Sedona Wiley</strong>: (from tape) I'm gettin another image, an arm. </p>
+<p>(He looks out the window.) </p>
+<p><strong>Sedona Wiley</strong>: (from tape) A one-armed cactus, ... </p>
+<p>(And sees a one-armed cactus sign on the building across the street.) </p>
+<p><strong>Sedona Wiley</strong>: (from tape) ... but it's not in the ground. And then it's cold ... </p>
+<p>(Greg looks down at the broken glass on the floor. Something catches his eye. He kneels down and the partially covered label on the broken glass reads: RHODE--. The other partially-covered label on the broken glass reads: LAEO--.) </p>
+<p><strong>Sedona Wiley</strong>: (from tape) I usually tell people when I see bad things, but the danger ...</p>
+<p>(Greg looks at the labels ... then up at the partially covered one-armed cactus sign on the building across the street. </p>
+<p><strong>Greg</strong>: Grissom?</p>
+<p><strong>Sedona Wiley</strong>: (from tape) ... is so strong, I ...</p>
+<p>(Grissom appears in the doorway, pushing the hanging beads to the side.) </p>
+<p><strong>Greg</strong>: (points) Take a look out there. What do you see?</p>
+<p>(Grissom looks at the sign.) </p>
+<p><strong>Greg</strong>: A one-armed cactus. And take a look at these labels. &quot;Rhode ... eo.&quot;<br />
+They spell rodeo.</p>
+<p><strong>Grissom</strong>: Power of suggestion, Greg.</p>
+<p>(Greg stands up.) </p>
+<p><strong>Greg</strong>: I think that the victim saw images of the crime scene. Grissom, I think she foresaw her own death.</p>
+<p>(Grissom smiles slightly, then closes the hanging beads.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - FORENSIC AUTOPSY - DAY]</p>
+<p>(Robbins is standing next to the body on the autopsy table when Grissom enters.) </p>
+<p><strong>Robbins</strong>: Before you ask, no, I did not find her third eye.</p>
+<p><strong>Grissom</strong>: What did you find?</p>
+<p><strong>Robbins</strong>: Center-mass shot front to back. Large caliber bullet. Clipped her aorta. COD was exsanguination. She bled out.</p>
+<p><strong>Grissom</strong>: David said she was running hot.</p>
+<p><strong>Robbins</strong>: There's no signs of infection but I did find trace amounts of a white powder in her nasal cavities and lungs. Possibly cocaine-induced hyperthermia. I ordered a full drug panel and sent a sample to Hodges. It could be a hallucinogen. In some native cultures, shamans use peyote to call forth visions.</p>
+<p><strong>Grissom</strong>: Al, when someone sells love potions and magic spells, the only visions they see are dollar signs.</p>
+<p>CUT TO:<br />
+[INT. SIXTH SENSE OCCULT SHOP -- DAY] </p>
+<p>(Greg prints the cash register. He finds some prints and tapes them. He puts the tape on the others on the counter.) </p>
+<p>(He looks in the cash register and finds some gold-colored flecks. He takes a tape sample of the flecks.) </p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -- DAY] </p>
+<p>(Grissom and Warrick are moving through the hallway. Grissom is holding a file folder.) </p>
+<p><strong>Grissom</strong>: Five right 44, consistent with a Smith &amp; Wesson, but no hits in IBIS.</p>
+<p><strong>Warrick</strong>: Whew, somebody used some heavy artillery on that psychic.</p>
+<p><strong>Grissom</strong>: And remind me again why you didn't show up at the crime scene?</p>
+<p><strong>Warrick</strong>: 'Cause your former lab boy begged me for it. He offered to take my next holiday on-call. I thought he was nuts, but I wasn't going to pass him up. To be honest with you, Grissom, my wife's having a hard time with my schedule. She's spending a lot of time alone. I didn't think it would be that big of a deal.</p>
+<p><strong>Grissom</strong>: Well, you should have cleared it with me. And by the way, you're still on the case.</p>
+<p>(Grissom hands the file folder to Warrick.) </p>
+<p><strong>Warrick</strong>: All right.</p>
+<p>(Grissom and Warrick enter the Print Lab.)</p>
+<p>[INT. CSI - PRINT LAB - DAY - CONTINUOUS]</p>
+<p>(Mandy Webster reports her findings to Grissom and Warrick.) </p>
+<p><strong>Mandy Webster</strong>: I paged Greg. I don't know where he is.</p>
+<p><strong>Grissom</strong>: That's okay, 'cause Warrick is now backing him up.</p>
+<p><strong>Warrick</strong>: What do you got?</p>
+<p><strong>Mandy Webster</strong>: There's too many prints and there's too many hits. I need some help. Can you talk to Ecklie, please?</p>
+<p><strong>Grissom</strong>: I'll do what I can. What about the cash register?</p>
+<p><strong>Mandy Webster</strong>: I ran those per Greg ... per you. All the prints belonged to the victim except for two. Both of which were a match to a Reese Bingham. His work card's in the system.</p>
+<p>(She points to the monitor which reads:<br />
+REESE BINGHAM<br />
+AGE: 22 HEIGHT: 5'9&quot;<br />
+WEIGHT: 139 LBS EYES: BROWN<br />
+RACE: CAUCASIAN s*x: MALE<br />
+HAIR: BROWN DOB: SEPT 7, 1984</p>
+<p>LAST KNOWN ADDRESS:<br />
+30382 DESERT WAY<br />
+LAS VEGAS, NV 89109</p>
+<p>CURRENT OCCUPATION:<br />
+2004 - PRESENT: BASMATI RESTAURANT<br />
+DELIVERY BOY/SERVER</p>
+<p><strong>Warrick</strong>: Okay, I'm on it.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY]</p>
+<p>(Warrick and Brass interview Reese Bingham.) </p>
+<p><strong>Brass</strong>: The state has a law that murder committed during the commission of a felony buys you the death penalty. Do you understand that?</p>
+<p><strong>Reese Bingham</strong>: This has to be a mistake. I don't even eat meat. Or cheese. I won't even hire an exterminator.</p>
+<p><strong>Warrick</strong>: Your prints were found at the crime scene.</p>
+<p><strong>Reese Bingham</strong>: I haven't been to any crime scenes.</p>
+<p><strong>Brass</strong>: You been to any occult shops lately?</p>
+<p><strong>Reese Bingham</strong>: Yeah, I work next door to one.</p>
+<p><strong>Warrick</strong>: You want to explain to me why your prints were found on the cash register?</p>
+<p><strong>Reese Bingham</strong>: The owner's my friend. Did something happen to her?</p>
+<p><strong>Brass</strong>: You don't know that she's dead?</p>
+<p>(He sighs, saddened.) </p>
+<p><strong>Reese Bingham</strong>: No.</p>
+<p><strong>Warrick</strong>: She was killed and then robbed, and your prints are on her cash register.</p>
+<p><strong>Reese Bingham</strong>: Okay, yeah, wait ... I can explain that.</p>
+<p><strong>Brass</strong>: Start explaining.</p>
+<p><strong>Reese Bingham</strong>: I work at a vegetarian restaurant. We make these soy burgers. Sedona was hooked on them. So, you know, she'd order, I'd deliver.</p>
+<p><strong>Brass</strong>: So you're a soy-burger-making, vegetarian delivery boy, hmm?</p>
+<p><strong>Reese Bingham</strong>: Look, she's always busy doing a reading or whipping up some kind of potion. She told me to take the money out of the drawer.</p>
+<p><strong>Brass</strong>: Give yourself a tip?</p>
+<p><strong>Reese Bingham</strong>: Soy burger and fries was $6.95 plus tax. I'd take a ten.</p>
+<p><strong>Warrick</strong>: You delivered to her last night?</p>
+<p><strong>Reese Bingham</strong>: (shakes his head) No.</p>
+<p><strong>Brass</strong>: Was it your day off?</p>
+<p><strong>Reese Bingham</strong>: Like most nights, I work until six and then I like ... to go to the Stripperama.</p>
+<p><strong>Brass</strong>: I thought you didn't like meat?</p>
+<p>(He chuckles unsure.) </p>
+<p><strong>Warrick</strong>: Is there anyone who can confirm that?</p>
+<p><strong>Reese Bingham</strong>: Well, yeah.</p>
+<p><strong>Warrick</strong>: She got a name?</p>
+<p><strong>Reese Bingham</strong>: Girls aren't allowed to tell you their real names, but I call her Star 'cause she has these ... blue stars tattooed on her hips. And it kind of looks like a meteor shower when she dances.</p>
+<p><strong>Warrick</strong>: Would you stand up, please.</p>
+<p>(Reese stands up slowly, unsure.)</p>
+<p><strong>Reese Bingham</strong>: I can go?</p>
+<p><strong>Warrick</strong>: No. You can strip down to your skivvies.</p>
+<p><strong>Reese Bingham</strong>: Excuse me?</p>
+<p><strong>Brass</strong>: You want some music?</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY] </p>
+<p>[INT. POLICE DEPARTMENT - HALLWAY - DAY]</p>
+<p>(Packey Jameson waits out in the hallway. Brass exits the room and sees him.) </p>
+<p><strong>Det. Packey Jameson</strong>: Hey, Jim.</p>
+<p><strong>Brass</strong>: Packey. </p>
+<p>(They shake hands.) </p>
+<p><strong>Brass</strong>: What are you doing here? Aren't you retired?</p>
+<p><strong>Det. Packey Jameson</strong>: Well, I'm here on business.</p>
+<p>(They turn and head down the hallway toward Brass' office.) </p>
+<p><strong>Brass</strong>: Business? I thought your only business was playing golf.</p>
+<p><strong>Det. Packey Jameson</strong>: (chuckles) Any leads on your dead psychic?</p>
+<p>(They stop in front of Brass' office door. Packey Jameson reaches for the doorknob and opens the door.) </p>
+<p><strong>Brass</strong>: Why? What's the interest? You looking to make a bet?</p>
+<p><strong>Packey Jameson</strong>: I knew the victim. A few weeks ago I went to see her about the Wallace case.</p>
+<p><strong>Brass</strong>: So you're still hunting the white whale, huh?</p>
+<p>(They enter Brass' office.) </p>
+<p>[INT. POLICE DEPARTMENT - BRASS' OFFICE - DAY - CONTINUOUS]</p>
+<p><strong>Packey Jameson</strong>: Fifteen years, no arrests. (The door closes behind him.)<br />
+Still burns me he used to be one of us. I really wanted to catch Wallace before I retired.</p>
+<p><strong>Brass</strong>: So you talked to a psychic.</p>
+<p>(Brass sits behind his desk. Packey remains standing.) </p>
+<p><strong>Packey Jameson</strong>: Jim, she told me things that she couldn't possibly know about this case. She also told me that Claire Wallace was murdered by her husband and he buried the body in Summerlin.</p>
+<p><strong>Brass</strong>: Too bad she didn't give you an address.</p>
+<p>(Brass chuckles. Packey watches him, not pleased at being laughed at. He turns to leave. Brass stops him.) </p>
+<p><strong>Packey Jameson</strong>: Forget it.</p>
+<p><strong>Brass</strong>: No, hey, come on, Packey. Come on, come on. Sit down. Sit down.</p>
+<p>(Packey sits down.) </p>
+<p><strong>Packey Jameson</strong>: Look, Jim, I interrogated him at least a dozen times. And I never got a rise from the smug b*st*rd until the last time -- until I repeated what this psychic told me.</p>
+<p><strong>Brass</strong>: So you think Wallace killed her because ...</p>
+<p><strong>Packey Jameson</strong>: He was afraid she'd eventually lead me to the body. I even scheduled another reading with her, but ...</p>
+<p><strong>Brass</strong>: Did he know her?</p>
+<p>(Packey shakes his head, no.) </p>
+<p><strong>Brass</strong>: Did you tell him her name?</p>
+<p><strong>Packey Jameson</strong>: Of course not.</p>
+<p><strong>Brass</strong>: Well, if he didn't know who she was ...</p>
+<p><strong>Packey Jameson</strong>: All right, all right. At least do me the courtesy of running Gordon Wallace's prints against any prints found at the crime scene.</p>
+<p>(Packey stands up.) </p>
+<p><strong>Packey Jameson</strong>: Check the case file. The last interrogation tape's still in there. You'll see.</p>
+<p>(He turns and leaves the office. Brass watches him go. He takes a moment and thinks about it, then reaches for the phone and dials.) </p>
+<p><strong>Brass</strong>: (to phone) Gil, I need a favor.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. STRIPPERAMA -- NIGHT] </p>
+<p>(The Stripperama is packed and busy. Girls in high heels and skimpy outfits dance on stage as men sit around with bills in their hands.) </p>
+<p>(Warrick talks with the manager.) </p>
+<p><strong>Manager</strong>: Most of my girls have tats.</p>
+<p><strong>Warrick</strong>: He said they were shaped like stars.</p>
+<p><strong>Manager</strong>: What color?</p>
+<p><strong>Warrick</strong>: Blue.</p>
+<p><strong>Manager</strong>: That'd be Tammy. </p>
+<p>(He indicates the blonde talking with someone at the bar.) </p>
+<p><strong>Manager</strong>: She's at the bar. Help yourself.</p>
+<p>(The manager leaves.) </p>
+<p><strong>Warrick</strong>: Thanks.</p>
+<p>(Greg walks in and joins Warrick.) </p>
+<p><strong>Greg</strong>: Hey.</p>
+<p><strong>Warrick</strong>: Greg, what are you doing here?</p>
+<p><strong>Greg</strong>: Oh, Grissom said you're backing me up. Can't back me up if I'm not here.</p>
+<p><strong>Warrick</strong>: The next time you screw me up with Grissom, I'm going to back you up right off a cliff.</p>
+<p><strong>Greg</strong>: (saunters) Oh, come on, Rick, ain't no thing. We're working the case. Flash the badge, no cover charge. (He stops in front of the stage and watches the girl dancing.) Get to see the ladies.</p>
+<p><strong>Warrick</strong>: Let's go.</p>
+<p>(Warrick and Greg head over to the bar to talk with Tammy. She has blue stars tattooed on her hip.) </p>
+<p><strong>Warrick</strong>: You must be Tammy.</p>
+<p>(She smiles at him.) </p>
+<p><strong>Tammy</strong>: Yes.</p>
+<p><strong>Warrick</strong>: Is there a quiet place where we could talk?</p>
+<p>(The man talking with Tammy at the bar glares at Warrick and Greg before walking away.) </p>
+<p><strong>Tammy</strong>: You got the dime, I got the time.</p>
+<p><strong>Greg</strong>: Unfortunately, the Crime Lab doesn't have a budget for that. Greg Sanders, Warrick Brown. Las Vegas Crime Lab.</p>
+<p><strong>Tammy</strong>: Well, we get the bottom of the barrel around this place. Who's in trouble now?</p>
+<p>(Warrick shows Tammy Reese Bingham's photo.) </p>
+<p><strong>Warrick</strong>: He is. Have you seen him?</p>
+<p><strong>Tammy</strong>: He comes in all the time. Smells like nasty pickles.</p>
+<p><strong>Warrick</strong>: Was he here last night?</p>
+<p><strong>Tammy</strong>: Yeah. Let's see, I go on around seven. He was in the front row waiting. Hung around all night. Then he waited in the parking lot to say good-bye.</p>
+<p><strong>Greg</strong>: So he was stalking you?</p>
+<p><strong>Tammy</strong>: (chuckles) No, nothing like that. He's harmless. (to Greg) Like you, sweetie.</p>
+<p>(She looks at Greg and kisses the air. Warrick smiles.)</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE -- NIGHT] </p>
+<p>(Grissom stands at the table with CLAIRE WALLACE'S file box as he puts the file folder aside. He opens the box and goes through the photos. He looks at the photo of Claire Wallace, smiling and holding a black dog in her arms.) </p>
+<p>(Grissom sits down and looks over the file folder.) </p>
+<p>(He picks up a second photo of Gordon Wallace in uniform, holding Claire Wallace. Both are looking at the camera.) </p>
+<p>(Grissom sets the photo aside and picks up a third photo of the front seat inside a car. There's a pink sweater on the passenger seat.) </p>
+<p>(He looks through all the photos and puts them down on the desk.) </p>
+<p>(He flips through the file and looks at the MISSING PERSON report: </p>
+<p>Date of report: 6-15-91 Time: 0952<br />
+Name: Wallace, Claire<br />
+Race: Caucasian s*x: F<br />
+Birthdate: 3-29-66<br />
+Driver's License Number: T5616624 State: NV<br />
+Social Security: 121-5---<br />
+License Plate: 079 HVA State: NV Year: 91<br />
+Year of Vehicle: 1990 Make: Honda Type: Accor</p>
+<p>Claire Wallace was reported missing by her sister<br />
+Emily, on June 15, 1991, M.P.'s vehicle located in McCarran<br />
+parking lot B by airport police. Vehicle impounded. No<br />
+signs of violence in vehicle. M.P.'s sweater postive (sic)<br />
+---band. Husband claims wife left him for another man.</p>
+<p>Arresting Officer: Packey Jameson<br />
+ID No. 7204</p>
+<p>(Catherine walks in.) </p>
+<p><strong>Catherine</strong>: Hey, Gil, if you're swamped, I can always cancel my vacation plans.</p>
+<p><strong>Grissom</strong>: We've got it covered.</p>
+<p><strong>Catherine</strong>: Good, 'cause I really wasn't that serious. What are you working on?</p>
+<p><strong>Grissom</strong>: A favor for Brass.</p>
+<p>(She picks up the Claire Wallace photo on the desk.) </p>
+<p><strong>Catherine</strong>: Oh, the Wallace case. Yeah, I wanted on this way back when. But I was the new kid, and my supervisor wouldn't let me do it. I probably would have solved it, too. Is there a new lead? </p>
+<p><strong>Grissom</strong>: I'm not sure yet.</p>
+<p><strong>Catherine</strong>: I heard Jameson dug thirty holes in the desert looking for her body?</p>
+<p><strong>Grissom</strong>: Thirty-seven actually.</p>
+<p><strong>Catherine</strong>: That's dedication. (beat) Or obsession. You know, my sister lived near the Wallaces out in Henderson. Their fights were legendary. I was at a barbecue one time, I heard them screaming at each other from three blocks away. Made me and Eddie seem like amateurs. </p>
+<p>(Grissom picks up a photo off the desk and heads out the office door with Catherine.) </p>
+<p><strong>Grissom</strong>: Where are you and Lindsay going this year?</p>
+<p><strong>Catherine</strong>: Disneyland. With the parents.</p>
+<p><strong>Grissom</strong>: Quality time with Dad? </p>
+<p>[INT. CSI - HALLWAY - NIGHT - CONTINUOUS]</p>
+<p>(They walk through the hallway.) </p>
+<p><strong>Catherine</strong>: Oh, yeah. And Sam wanted to take us on the Tangiers jet but my mother refused. Said it wasn't the tradition. So now we're driving. Yeah, that'll be a hell of a road trip.</p>
+<p>(Catherine continues down the hallway as Grissom stops in front of the Print Lab.) </p>
+<p><strong>Grissom</strong>: Have fun. Say 'hi' to Sam.</p>
+<p><strong>Catherine</strong>: (o.s.) Will do.</p>
+<p>(Grissom enters the Print Lab.) </p>
+<p>[INT. CSI - PRINT LAB - NIGHT -- CONTINUOUS] </p>
+<p>(The computer beeps periodically as Mandy continues working on the prints.) </p>
+<p><strong>Mandy Webster</strong>: Still working on those prints from the occult shop. Thank you for talking to Ecklie. He sent me some help.</p>
+<p><strong>Grissom</strong>: Good. I have one more for you.</p>
+<p>(Grissom hands her a print card for GORDON WALLACE, SSN 399-81-9789.)</p>
+<p><strong>Mandy Webster</strong>: This is LVPD. It's not going to be in the AFIS criminal database. I'm going to have to do a manual comparison. It's going to take longer. Is he a suspect?</p>
+<p><strong>Grissom</strong>: He's a person of interest.</p>
+<p>(Grissom turns and leaves.) </p>
+<p>CUT TO:<br />
+[INT. CSI - TRACE -- NIGHT] </p>
+<p>(The label on the evidence bag reads:<br />
+ARTICLE: TRACE EXHIBIT NO. 28<br />
+DATE FOUND, LOCATED OR DEVELOPED: 04/12/06<br />
+WHERE THIS ARTICLE WAS FOUND: VIC'S NOSE<br />
+INVESTIGATION OFFICER: GREG SANDERS</p>
+<p>(Henry Andrews takes a swab of the evidence bag. He takes some chloroform and adds it to the sample.)</p>
+<p>(Various dissolves as Henry continues to process the sample. He puts the sample in the machine.) </p>
+<p>TIME CUT TO: </p>
+<p>(The results print out just as Greg walks into the lab.) </p>
+<p><strong>Greg</strong>: Hey, Henry, what's up?</p>
+<p><strong>Henry Andrews</strong>: My job can get a little mundane sometimes ... not today.</p>
+<p><strong>Greg</strong>: I'll second that and raise you a stripper.</p>
+<p><strong>Henry Andrews</strong>: Okay, sure ... anyway, the powder on your victim's nose and lungs is atropine. It's used to dilate pupils, control bladder problems and it can be fatal in large doses.</p>
+<p><strong>Greg</strong>: Atropine comes from a plant, right?</p>
+<p><strong>Henry Andrews</strong>: Belladonna. Also known as 'deadly nightshade.' Most people don't know it grows wild throughout the southwest.</p>
+<p>(Quick flashback to: A broken bottle with the label, BELLADONNA. End of flashback. Resume scene.) </p>
+<p><strong>Greg</strong>: The psychic had that in her shop. Can you tell from the blood work whether she absorbed enough for it to be lethal?</p>
+<p><strong>Henry Andrews</strong>: Levels were fairly low. No other drugs detected. So, no. But if she hadn't been shot, it would have made her sick.</p>
+<p><strong>Greg</strong>: What about hyperthermia?</p>
+<p><strong>Henry Andrews</strong>: Definitely. Why?</p>
+<p><strong>Greg</strong>: The vic's temperature was elevated. Belladonna would help explain it.</p>
+<p>(Greg turns and sees Wendy walk past the lab.) </p>
+<p><strong>Greg</strong>: Later.</p>
+<p>(He rushes out of the lab to catch up with her.) </p>
+<p>[INT. CSI - HALLWAY - NIGHT -- CONTINUOUS] </p>
+<p>(Greg and Wendy are on the move through the hallway.) </p>
+<p><strong>Wendy Simms</strong>: Hey, I'm on a break. I'll see you in twenty.</p>
+<p><strong>Greg</strong>: Vending machine's on me if you give me your results first.</p>
+<p><strong>Wendy Simms</strong>: No, make it dinner.</p>
+<p><strong>Greg</strong>: Me and you?</p>
+<p><strong>Wendy Simms</strong>: Me, you and my friend Julie.</p>
+<p><strong>Greg</strong>: Okay, but I get to sit in the middle.</p>
+<p><strong>Wendy Simms</strong>: Deal.</p>
+<p>(They enter the break room.) </p>
+<p>[INT. CSI - BREAK ROOM - NIGHT - CONTINUOUS]</p>
+<p>(Wendy opens the refrigerator door and gets a plastic container out.) </p>
+<p><strong>Wendy Simms</strong>: So the isolated blood drops from behind the register are not a match to your vic. In fact, they are male.</p>
+<p>(She shuts the refrigerator door. She sits down.) </p>
+<p><strong>Greg</strong>: Really? Can I have the file?</p>
+<p>(She shakes her dinner.) </p>
+<p><strong>Wendy Simms</strong>: Later. So, Mandy says that you have a suspect. The guy have any cuts?</p>
+<p><strong>Greg</strong>: Warrick didn't find any, and the suspect had an alibi. But I think you just broke the case.</p>
+<p><strong>Wendy Simms</strong>: How'd I do that?</p>
+<p><strong>Greg</strong>: Well, one of the broken jars at the store contained belladonna, which is a poison. The vic only inhaled it, but if the killer had an open wound, he not only inhaled it ...</p>
+<p><strong>Wendy Simms</strong>: It went directly into his bloodstream.</p>
+<p>(Quick flash to: Someone knocks the bottles off the shelves. A cloud of white dust rises around the person as they inhale. End of flash. Resume scene.) </p>
+<p><strong>Greg</strong>: (perks up) I need to check the hospitals.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]</p>
+<p>[INT. HOSPITAL - HALLWAY -- NIGHT] </p>
+<p>(Detective Sam Vega and Greg head for the hospital room.) </p>
+<p><strong>Sam Vega</strong>: Got to hand it to you, Sanders -- nice call. They brought the guy in after he ran his car up onto a median, right behind the Las Vegas sign.</p>
+<p><strong>Greg</strong>: That's like ten blocks from the crime scene.</p>
+<p><strong>Sam Vega</strong>: Yeah. Name's Damon Mitchell. Showed symptoms of narcotics withdrawal. According to the police report, he ran his car off the road up onto the median. No damage to the car, no injuries. But he's apparently hyped up on something.</p>
+<p>(They enter the hospital room where a physician is attending to Damon Mitchell.) </p>
+<p><strong>Sam Vega</strong>: What do you got, doc?</p>
+<p><strong>Dr. Franks</strong>: Well, the lab just confirmed his blood is positive for atropine. So I'm starting him on an IV drip of physostigmine.</p>
+<p><strong>Greg</strong>: You swab that wound on his hand yet?</p>
+<p><strong>Dr. Franks</strong>: Right when he came in.</p>
+<p><strong>Greg</strong>: Swab's still around?</p>
+<p><strong>Dr. Franks</strong>: Saved it for you. It's in the biohazard bag.</p>
+<p>(The doctor steps aside. Detective Vega steps forward.) </p>
+<p><strong>Sam Vega</strong>: Mr. Mitchell? I'm Detective Vega.</p>
+<p>[MITCHELL'S POV]</p>
+<p>(Detective Vega's voice is distorted and his face is blurry.) </p>
+<p><strong>Sam Vega</strong>: Mind if I ask you a few questions?</p>
+<p>(Damon puts a hand up, tripped by what he sees.) </p>
+<p><strong>Damon Mitchell</strong>: Oh ... man. Your face is melting.</p>
+<p>(Vega turns and looks at Greg. Greg shakes his head.) </p>
+<p><strong>Damon Mitchell</strong>: I think I'm going to puke.</p>
+<p><strong>Sam Vega</strong>: (to officer) Make sure you book him when he gets sober.</p>
+<p>(Vega and Greg turn and leave.) </p>
+<p>CUT TO:<br />
+[VIDEO TAPE] </p>
+<p>(Packey Jameson interviews Gordon Wallace on tape.) </p>
+<p>RESUME SCENE</p>
+<p>(Brass looks over at Grissom as they watch the tape.) </p>
+<p><strong>Packey Jameson</strong>: (from tape) I got a psychic who can communicate with the dead. The FBI uses her to locate people. Your dead wife's been talking to her. Says her spirit is stuck in Summerlin. She can't cross over until the b*st*rd who murdered her is caught. Psychic says it's you.</p>
+<p>(Grissom rewinds the tape.) </p>
+<p><strong>Grissom</strong>: Watch this again.</p>
+<p><strong>Packey Jameson</strong>: (from tape) Your dead wife's been talking to her. Says her spirit is stuck in Summerlin. She can't cross over until the b*st*rd who murdered her is caught.</p>
+<p>(Close-up on Gordon Wallace's eyes. They pause the tape.) </p>
+<p><strong>Brass</strong>: Yeah, Packey, said he got a rise out of him.</p>
+<p><strong>Grissom</strong>: Right when he mentions Summerlin.</p>
+<p><strong>Brass</strong>: So, old Packey has been punching holes in the wrong part of the desert all these years, huh?</p>
+<p>(Mandy knocks on the door.) </p>
+<p><strong>Mandy Webster</strong>: Sir?</p>
+<p><strong>Grissom</strong>: Yeah?</p>
+<p><strong>Mandy Webster</strong>: You said you wanted the print results as soon as I got them?</p>
+<p><strong>Grissom</strong>: Yes.</p>
+<p><strong>Mandy Webster</strong>: I tried to run Wallace's ten card, but the finger rolls were too sloppy. So I used the latents from the crime scene against the AFIS civil database, knowing he'd be in there, 'cause he used to be a cop.</p>
+<p><strong>Brass</strong>: Did you get a hit?</p>
+<p><strong>Mandy Webster</strong>: Yeah, I got two. Uh, Wallace's prints were on the inside of the door handle.</p>
+<p><strong>Grissom</strong>: That places him at the scene.</p>
+<p><strong>Brass</strong>: Well, what do you know?</p>
+<p><strong>Grissom</strong>: Were the other ones Greg's?</p>
+<p><strong>Mandy Webster</strong>: No. They were another cop. A ... retired Detective Patrick Jameson.</p>
+<p><strong>Brass</strong>: Yeah, Packey said he went there to get a reading.</p>
+<p><strong>Mandy Webster</strong>: Yeah. Found a few on the table, then there were a few more on the broken jars that were found behind the counter.</p>
+<p><strong>Grissom</strong>: Why was he behind the counter?</p>
+<p><strong>Brass</strong>: Come on. Why would Packey want to kill Sedona?</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. CSI - HALLWAY -- NIGHT] </p>
+<p>(Grissom finds Greg walking in the hallway.) </p>
+<p><strong>Grissom</strong>: I need to talk to you.</p>
+<p><strong>Greg</strong>: You heard about the strip club?</p>
+<p><strong>Grissom</strong>: I hear about everything, Greg.</p>
+<p><strong>Greg</strong>: Then that ear surgery paid off. Our first lead didn't pan out, but I got a better one. Damon Mitchell crashed his black Chevy into a median only ten blocks from the occult shop, right around the time the psychic was killed. His prints match latents we found at the scene. He was hospitalized for what turned out to be belladonna poisoning. And get this -- he worked the National Finals Rodeo last year. Slam dunk. I'm meeting Vega at PD in twenty minutes.</p>
+<p><strong>Grissom</strong>: We have one more lead to follow up before we call this a slam dunk.</p>
+<p><strong>Greg</strong>: What lead? I don't think your sixth sense is working as well as you'd hoped.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - BRASS' OFFICE] </p>
+<p>(Brass talks with Packey Jameson.) </p>
+<p><strong>Packey Jameson</strong>: Are you accusing me of something?</p>
+<p><strong>Brass</strong>: Oh, come on, Packey, you know how this works. I'm just trying to put the pieces together.</p>
+<p><strong>Packey Jameson</strong>: I went to Sedona's shop for a consultation. I brought her Claire Wallace's sweater, from the car we found at the airport. And for your information, I signed it in and out of evidence, per chain of custody.</p>
+<p><strong>Brass</strong>: Okay ...</p>
+<p><strong>Packey Jameson</strong>: I also showed her a couple of photos. She did her thing; I paid her; I left.</p>
+<p><strong>Brass</strong>: So you were only in the back of the shop?</p>
+<p><strong>Packey Jameson</strong>: You've been there. You know you have to walk from the front to get to the back. Now, come on, Jim. You want ask me something? Don't be shy.</p>
+<p><strong>Brass</strong>: Somebody trashed the place, and we found your prints, on the pieces of broken glass.</p>
+<p><strong>Packey Jameson</strong>: And you think, what, I did it?</p>
+<p><strong>Brass</strong>: No, but I want to know what your prints are doing on those glass jars.</p>
+<p>(He sighs.)</p>
+<p><strong>Packey Jameson</strong>: She had all these weird powders and fairy dust, and something called a gris-gris bag. Said she had her mojo working. Seemed sketchy. I figured she was dealing.</p>
+<p><strong>Brass</strong>: Oh ... I don't know, Packey, that's a stretch.</p>
+<p><strong>Packey Jameson</strong>: Come on, Jim. You know these hippy-dippy types. They love their drugs, so I questioned her. Got a lesson in alchemy. Have you ever seen a wolf's heart? (Brass shakes his head.) A dried bat? (no.) Well, I held<br />
+'em. Satisfied?</p>
+<p>(Brass sighs.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Damon Mitchell drinks a cup of water. Detective Vega and Greg interview him.) </p>
+<p><strong>Damon Mitchell</strong>: Can I get some more water?</p>
+<p><strong>Sam Vega</strong>: We're all out. Mr. Mitchell, are you into psychics?</p>
+<p><strong>Damon Mitchell</strong>: No. I'm not ... I'm really thirsty. Doctor said push the fluids.</p>
+<p><strong>Sam Vega</strong>: We know that you went to an occult shop.</p>
+<p><strong>Greg</strong>: Yeah, you left your fingerprints and your blood at the location. And according to this tox report, you were most likely poisoned at the same place.</p>
+<p><strong>Damon Mitchell</strong>: Okay. I was there, but I didn't kill that little con artist bitch.</p>
+<p><strong>Sam Vega</strong>: Then why lie about it?</p>
+<p><strong>Damon Mitchell</strong>: 'Cause I didn't think you'd believe me. (He shows them the handcuffs.) I'm in enough trouble already.</p>
+<p><strong>Sam Vega</strong>: Give it a shot.</p>
+<p><strong>Damon Mitchell</strong>: My wife is a junky. She's a psychic junky. She spent our entire savings on consultations, tarot readings and other garbage. Thousands of dollars. I told her she had to quit seeing this woman. That was my mistake. The week after, Sedona starts having these visions of me cheating. You ever try to defend yourself against a psychic's vision?</p>
+<p><strong>Sam Vega</strong>: I bet that pissed you off. So you got revenge by ...</p>
+<p><strong>Damon Mitchell</strong>: I went down there to confront the bitch because she ruined my life. You want to know what she said to me?</p>
+<p>(Quick flashback to: [INT. SIXTH SENSE OCCULT SHOP - DAY] Damon Mitchell talks with Sedona Wiley.) </p>
+<p><strong>Sedona Wiley</strong>: You want your wife back? That's going to cost you $5,000.</p>
+<p><strong>Damon Mitchell</strong>: What?!</p>
+<p><strong>Sedona Wiley</strong>: Cash. I will look into her future and I'll tell her that she takes you back, and you live happily ever after.</p>
+<p>(End of flashback. Resume scene.) </p>
+<p><strong>Damon Mitchell</strong>: She tried to extort more money from me after she had already taken it all. I lost it.</p>
+<p>(Quick flashback to:</p>
+<p><strong>Damon Mitchell</strong>: You think this is funny? Huh!</p>
+<p>(Damon Mitchell trashes the shop, knocking the glass bottles off the counters, smashing them to the floor.) </p>
+<p>(End of flashback. Resume scene.) </p>
+<p><strong>Sam Vega</strong>: Mr. Mitchell, do you own a gun?</p>
+<p><strong>Damon Mitchell</strong>: No. Look, when I left there, she was alive.</p>
+<p><strong>Greg</strong>: What time was that?</p>
+<p><strong>Damon Mitchell</strong>: It was after nine, around ... closer to 9:30.</p>
+<p><strong>Sam Vega</strong>: Then where'd you go?</p>
+<p><strong>Damon Mitchell</strong>: Uh ... I went around the corner to the liquor store for some bourbon. But before I even opened it, I started to feel woozy. You know, then ... everything kind of went sideways.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY] </p>
+<p>(Warrick and Greg move through the hallway.) </p>
+<p><strong>Warrick</strong>: The cops find the gun or the stolen cash in the vehicle?</p>
+<p><strong>Greg</strong>: No. Only a full bottle of bourbon. But he could've ditched the gun.</p>
+<p><strong>Warrick</strong>: Well, the victim took him for several grand. He's not ditching the money.</p>
+<p>(Hodges turns the corner. He's wearing a suit.) </p>
+<p><strong>Warrick</strong>: Tight suit, baby.</p>
+<p><strong>Hotches</strong>: Actually, it's not. Um, I've only gained a couple of pounds, and I tend to gain ...</p>
+<p><strong>Warrick</strong>: No, I mean it, looks good on you.</p>
+<p><strong>Hodges</strong>: I see. Well ... Thank you, Warrick.</p>
+<p><strong>Greg</strong>: So, what's with the ghetto?</p>
+<p><strong>Hodges</strong>: I was with Conrad and the mayor at the City Council budget meeting, requesting more funds for you slackers.</p>
+<p><strong>Greg</strong>: So you probably didn't have any time to get some work done?</p>
+<p><strong>Hodges</strong>: Au contraire. </p>
+<p>(He turns and motions them to follow him.) </p>
+<p><strong>Hodges</strong>: Multitasking is my forte. In fact, I shared your results with the City Council. (to Greg) Fine crime fighting, courtesy of your Trace Lab. </p>
+<p>(They enter the Trace Lab.) </p>
+<p>[INT. CSI - TRACE LAB - CONTINUOUS]</p>
+<p>(Hodges goes over the results with them.) </p>
+<p><strong>Hodges</strong>: The gold flecks that you pulled from the cash register was iron pyrite, commonly known as 'fool's gold.'</p>
+<p><strong>Warrick</strong>: What was it doing in the cash register?</p>
+<p><strong>Hodges</strong>: It's also known as 'prosperity dust.' It could be for good luck.</p>
+<p><strong>Greg</strong>: Didn't work for Sedona Wiley.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS SKYLINE (STOCK) - DAY]</p>
+<p>[INT. CONCERT VENUE - BACKSTAGE -- DAY] </p>
+<p>(Brass and Grissom walk up to Gordon Wallace standing in the center of the stage. Grissom is carrying a file folder. Gordon Wallace oversees the work going on around him. He turns around and sees them.) </p>
+<p><strong>Gordon Wallace</strong>: Jim Brass. Been a long time. </p>
+<p>(They don't shake hands.) </p>
+<p><strong>Brass</strong>: How's it going, Gordon? This is Gil Grissom from the Crime Lab. So, Gordon, where were you the night before last between six-thirty and ten?</p>
+<p><strong>Gordon Wallace</strong>: Well, I'm working 24-7 for Joslynn Raines ... (He turns to point her out.) ... while she's in town, so I was here with my crew until ten. Raced over to the airport, picked up my brother. Flew in from Florida, landed around ten-thirty. Brought him back here for the last show.</p>
+<p><strong>Grissom</strong>: You ever been to the Sixth Sense Occult Shop?</p>
+<p>(Gordon Wallace scoffs.)</p>
+<p><strong>Brass</strong>: What? That's funny?</p>
+<p><strong>Gordon Wallace</strong>: Nah, it's just, I ... I thought you were busting my chops for your boy, Jameson. Yeah, I was there, earlier this week. Joslynn wanted to buy a love potion. Despite her killer looks, the young lady is unlucky in the romance department. (off their looks) You don't believe me? Let's go ask her.</p>
+<p>(He turns around and heads over to Joslynn Raines.) </p>
+<p><strong>Gordon Wallace</strong>: Hey, Joslynn can you spare a minute for the, uh, boys in blue?</p>
+<p>(She turns around as Gordon sits down on a speaker and crosses his feet.) </p>
+<p><strong>Joslynn Raines</strong>: Friends of yours? Sure. Nice to meet you. Love your city. So you got a pen, or ... ?</p>
+<p>(Puzzled, Grissom gives her his pen. She takes the pen ... and the file folder in his hand. She signs the folder for him.) </p>
+<p><strong>Brass</strong>: Um, Miss Raines, were you at the Sixth Sense Occult Shop earlier this week?</p>
+<p>(She hands the signed file folder and pen back to Grissom.) </p>
+<p><strong>Joslynn Raines</strong>: Yeah. Gordie took me. I got a reading, picked up a few things.</p>
+<p><strong>Brass</strong>: Uh-huh. Did, uh, did Gordie go inside the shop with you?</p>
+<p><strong>Joslynn Raines</strong>: Mm-hmm. He goes where I go.</p>
+<p>(Grissom notices the underside of Gordon's shoes. There's a piece of red glass stuck in the rubber.) </p>
+<p><strong>Joslynn Raines</strong>: I offered to pay to clear his aura, but he wasn't in to it. It's good for his soul.</p>
+<p>(Gordon stands up.) </p>
+<p><strong>Gordon Wallace</strong>: Are we done? You're going to need to ... exit out the front.</p>
+<p>SHORT TIME CUT TO: </p>
+<p>(Brass and Grissom are making their way to the front.) </p>
+<p><strong>Brass</strong>: Maybe we can get a warrant and match the glass in Wallace's shoe to the glass we found at the scene, and then tie him to the murder.</p>
+<p><strong>Grissom</strong>: I don't know how. Glass breaks all the time. It's not a unique event. Plus, he admits to being in the shop, which accounts for his prints.</p>
+<p><strong>Brass</strong>: You know, maybe Packey was right -- maybe Wallace did kill that psychic.</p>
+<p><strong>Grissom</strong>: Well, he'd only kill her if he also killed his wife.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]</p>
+<p>[INT. CSI - LAYOUT ROOM -- NIGHT] </p>
+<p>(Packey Jameson opens the map on the table between him, Greg and Warrick.) </p>
+<p><strong>Packey Jameson</strong>: This is the map I've been working off of, and each of these red stickers represents a hole I dug based on different information.</p>
+<p>(He points to the red dots on the map over and near SUNRISE MANOR.) </p>
+<p><strong>Packey Jameson</strong>: Now, most were around the house he owned in Sunrise Manor. These were near his, uh, brother's place, and a few near his sister's place. That's where they grew up, in Henderson.</p>
+<p><strong>Greg</strong>: So you never looked in Summerlin?</p>
+<p><strong>Packey Jameson</strong>: No reason to.</p>
+<p><strong>Warrick</strong>: Well, it says here, when Wallace was a cop, he worked the northwest substation, that includes Summerlin.</p>
+<p><strong>Packey Jameson</strong>: Yeah, but he hadn't been on the job that long, and Summerlin is out of his comfort zone and a long way from where they live. No, he ... he had better options closer to home.</p>
+<p><strong>Warrick</strong>: So, where would his parameters be?</p>
+<p><strong>Packey Jameson</strong>: Well, he'd pick a place where people don't normally go. </p>
+<p>(Warrick looks at Gordon Wallace's work log.) </p>
+<p><strong>Warrick</strong>: Wallace worked northwest from January 1990 to August '92. He responded to like 20 crime scenes in Summerlin. If we just limit it down to the remote location ...</p>
+<p><strong>Packey Jameson</strong>: Yeah. Let me look at that.</p>
+<p>(He looks at the list of calls: </p>
+<p>Illegal Dumping<br />
+Susp. Person<br />
+Vandalism<br />
+Broken water pipe<br />
+Illegal dumping at abandoned septic tank<br />
+Disturbance<br />
+Susp. Persons<br />
+Abandoned property<br />
+Abandoned vehicle<br />
+Illegal Dumping<br />
+Illegal Dumping</p>
+<p><strong>Warrick</strong>: Summerlin's changed a lot over the last ten years.</p>
+<p><strong>Packey Jameson</strong>: Yeah, but there's two ...</p>
+<p>(He looks back up the list.) </p>
+<p><strong>Packey Jameson</strong>: ... three, possibilities. I got an idea.</p>
+<p>CUT TO:<br />
+[EXT. SUMMERLIN -- NIGHT] </p>
+<p>(Various personnel are looking around the area. They each are pushing equipment to look at what's buried underground.) </p>
+<p>(Grissom and Packey Jameson are standing behind an open SUV.) </p>
+<p><strong>Packey Jameson</strong>: Back in the day, squatters were always camping their RVs in this area. That's what brought Wallace up here. Illegal dumping of human waste on public lands.</p>
+<p>(Warrick finds something.) </p>
+<p><strong>Warrick</strong>: Grissom! I've got something!</p>
+<p>(He turns and looks at the monitor.) </p>
+<p><strong>Grissom</strong>: That's a metallic signature. This could be the abandoned septic tank.</p>
+<p><strong>Packey Jameson</strong>: Time to find out.</p>
+<p>SHORT TIME CUT TO: </p>
+<p>(Warrick, Greg and others are digging in the area. Packey watches from the side.) </p>
+<p>(They find the septic tank lid and clear it.)</p>
+<p>(Greg hooks the wires to the lid. Warrick hooks the wires together.) </p>
+<p><strong>Warrick</strong>: Clear!</p>
+<p>(He activates the pulley and the lid is dragged off the septic tank.) </p>
+<p>(Grissom and Packey Jameson turn on their flashlights and look inside. They find a wrapped body on the bottom.) </p>
+<p>[INT. TANK - NIGHT - CONTINUOUS]</p>
+<p>(Greg goes down into the tank and unwraps the body. Sure enough, there's a skeleton. It's a grim find.)</p>
+<p><strong>Grissom</strong>: Mrs. Wallace, I presume.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. SUMMERLIN -- DAY] </p>
+<p>(It's day. Grissom, Packey and other personnel are still out at the site. Grissom looks in the tank and sees something.) </p>
+<p><strong>Grissom</strong>: Hey, Greg. (Greg looks at him.) You missed some.</p>
+<p>(Greg sighs and gets to his feet. He heads over to the tank.)</p>
+<p><strong>Greg</strong>: (mutters) Well, one more spider bite won't make a difference. But you, being the bug guy, would probably enjoy being bitten.</p>
+<p>[INT. TANK - DAY -- CONTINUOUS]</p>
+<p>(Greg enters the tank. He sees the bone just under the dirt and picks it up. It's a small curved bone. He looks at it, then heads back up.) </p>
+<p>(He hands the bone to Grissom.) </p>
+<p><strong>Greg</strong>: (o.s.) Could be rib.</p>
+<p>(Grissom looks at the bone.) </p>
+<p><strong>Grissom</strong>: It's too small.</p>
+<p>(Greg brushes the dirt away from more bones in the ground.) </p>
+<p><strong>Grissom</strong>: (to Packey) Did the Wallaces have a kid?</p>
+<p><strong>Packey Jameson</strong>: No. That was part of the marital discord.</p>
+<p><strong>Greg</strong>: Check this out.</p>
+<p>(Greg hands a small skull and some spine to Grissom. Grissom looks at it.) </p>
+<p><strong>Grissom</strong>: Claire Wallace did have a dog.</p>
+<p><strong>Packey Jameson</strong>: Yeah. Yeah, I interviewed her sister. Said Claire had a little bulldog named, uh ... think it was Sneakers.</p>
+<p>(Warrick stands up and snaps a photo of the bones.) </p>
+<p><strong>Packey Jameson</strong>: Took him everywhere with her.</p>
+<p>(Warrick notice something.) </p>
+<p><strong>Warrick</strong>: What's this around the neck?</p>
+<p><strong>Grissom</strong>: It's a wire.</p>
+<p><strong>Packey Jameson</strong>: Killed the dog. He had to kill the dog to make it look like Claire took Sneakers with her. Otherwise, nobody'd believe his story.</p>
+<p><strong>Greg</strong>: No collar or tags down here, but I found this ... whatever it is.</p>
+<p>(Greg hands Warrick the metal contraption. It looks like a small brace with two tires.) </p>
+<p>(Grissom looks at the item.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(Robbins and David Phillips stand around the table. David is holding a clipboard. Grissom walks in.) </p>
+<p><strong>Robbins</strong>: (to David) Really thin, high-bridge nose. All indicate caucasoid.</p>
+<p><strong>Grissom</strong>: Any chance at an ID?</p>
+<p><strong>Robbins</strong>: Well, so far, everything's consistent with Claire Wallace. Unfortunately, because she was in a metal box in the desert, DNA's not likely viable. I sent samples of the long bones to Wendy anyway, but I don't expect results.</p>
+<p><strong>Grissom</strong>: Dental records?</p>
+<p>(Robbins picks up the skull.) </p>
+<p><strong>Robbins</strong>: (sighs) The, uh, killer knocked out most of her teeth. Roots are still in the bone. She was brutalized.</p>
+<p><strong>Grissom</strong>: Cause of death?</p>
+<p>(He points to the holes in the skull.) </p>
+<p><strong>Robbins</strong>: I noted three separate and distinct fractures: One on the right side ... and two distinct fractures on the left side. We were able to identify the missing skull fragments, but when I tried to fit them back together, I couldn't. There was deformation of the bones. Pre- or peri-mortem, the human skull has an elastic quality, so when there's a fracture, the pieces will change shape. But post-mortem, the bone is brittle, and when it's fractured, the pieces retain their shape. It's not unlike breaking a vase or a bowl.</p>
+<p>INSERT: CGI EFX:</p>
+<p>(The pieces fit in perfectly in the hole in the skull.)</p>
+<p><strong>Robbins</strong>: (V.O.) The pieces all fit together like a jigsaw puzzle.</p>
+<p>RESUME SCENE: </p>
+<p><strong>Robbins</strong>: So based on the fractures to her skull, it appears she was struck in the head three separate times, and since the pieces won't fit back together, blunt force trauma to her skull is your COD.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Greg and Warrick stand over the table with the dog bones on it.) </p>
+<p><strong>Greg</strong>: Did you know that there are approximately 280 bones in a dog's body?</p>
+<p><strong>Warrick</strong>: Yeah?</p>
+<p><strong>Greg</strong>: Well, the, uh, forensic vet should be here soon. Hopefully, he'll be able to determine whether this is a French Bulldog.</p>
+<p><strong>Warrick</strong>: I'm thinking this dog was an amputee.</p>
+<p><strong>Greg</strong>: Based on what?</p>
+<p>(He picks up the metal contraption.) </p>
+<p><strong>Warrick</strong>: This contraption. Looks like the, uh, canine equivalent of a wheelchair. My grandmother had a neighbor whose dog was hit by a car. The dog lived, but the doctor had to amputate the hind legs mid-femur.</p>
+<p>(He picks up a bone.) </p>
+<p><strong>Warrick</strong>: This is the hind femur, or what's left of it. You see how it was cut?</p>
+<p>(Greg takes the bone and looks at it under the magnifying glass.) </p>
+<p><strong>Warrick</strong>: You know, if Sneakers here was a handicapped dog, ID-ing it just became a whole lot easier.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -DAY]</p>
+<p>(Grissom and Brass talk as they walk through the hallway.) </p>
+<p><strong>Grissom</strong>: If we can ID the dog, it'd at least give us a compelling argument that the body found was Claire Wallace.</p>
+<p><strong>Brass</strong>: Yeah, but even with a cause of death of blunt force trauma, we still don't have enough to arrest him.</p>
+<p><strong>Grissom</strong>: So, we re-focus on Sedona Wiley?</p>
+<p><strong>Brass</strong>: Well, it's like a Chinese puzzle. She knew who Wallace was, but Wallace didn't know her.</p>
+<p><strong>Grissom</strong>: Greg's suspect, Damon Mitchell, claims that she tried to extort money from him.</p>
+<p><strong>Brass</strong>: So maybe she hit up Wallace, too.</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB -- DAY] </p>
+<p>(Archie is going through the phone logs.) </p>
+<p><strong>Archie Johnson</strong>: 702-555-0122 that's GW Security.</p>
+<p><strong>Brass</strong>: That's Wallace's company.</p>
+<p><strong>Archie Johnson</strong>: She called that number three times in the last week or so.</p>
+<p><strong>Brass</strong>: She was reaching out to him.</p>
+<p><strong>Archie Johnson</strong>: She called him again four days before she was murdered.</p>
+<p><strong>Brass</strong>: Upping the ante, maybe.</p>
+<p>(Quick flash to: [INT. SIXTH SENSE OCCULT SHOP - DAY] The doorbell jingles. Joslynn Raines and Gordon Wallace walk into the shop.) </p>
+<p><strong>Sedona Wiley</strong>: (to Joslynn) Hi.</p>
+<p>(Sedona looks up and sees Gordon Wallace there. She doesn't appear pleased to see him.) </p>
+<p><strong>Grissom</strong>: (V.O.) Maybe he went there to intimidate her.</p>
+<p>(End of flashback. Resume scene.) </p>
+<p><strong>Brass</strong>: So she was shaking him down when he went in the store to shake her up. You know, Wallace said it was the singer's idea to go in there, not his.</p>
+<p><strong>Grissom</strong>: Yeah, he also said he didn't murder his wife.</p>
+<p><strong>Brass</strong>: You know, the girls said something curious -- the two that found the body. I didn't think it was important at the time. When they left the store, a car almost ran them down.</p>
+<p>(Quick flash to: [EXT. STREET OUTSIDE SIXTH SENSE OCCULT SHOP - NIGHT] A car speeds along the street just as Anna Leah and Lori are crossing. The car barely stops in time, tires screeching.) </p>
+<p><strong>Anna Leah</strong>: Jerk!</p>
+<p>(Anna Leah hits the car with the palm of her hand.) </p>
+<p>(End of flash. Resume.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - WAITING ROOM -- DAY] </p>
+<p>(Greg and Brass talk with Anna Leah and Lori.) </p>
+<p><strong>Greg</strong>: So, your hand made contact with the hood of the car?</p>
+<p><strong>Anna Leah</strong>: You bet it did. I was born in Manhattan.</p>
+<p><strong>Greg</strong>: Well, I'm going to need an impression of your palm and your fingerprints.</p>
+<p><strong>Anna Leah</strong>: If it helps nail the guy, sure.</p>
+<p>(She holds out her right palm. Greg rolls black ink on it.) </p>
+<p><strong>Brass</strong>: Do you remember anything about the vehicle? Was it a car, a truck, SUV?</p>
+<p><strong>Lori</strong>: I think it was a car.</p>
+<p><strong>Brass</strong>: What color was it?</p>
+<p><strong>Lori</strong>: It was red. Stuck in my head after what the psychic said. Blood red.</p>
+<p>CUT TO:<br />
+[EXT. CONCERT VENUE -- NIGHT] </p>
+<p>(The parking lot is filled. Greg and Grissom are leaning over the hood of a red car. Greg dusts the hood and finds a palm print. He tapes the print.) </p>
+<p><strong>Greg</strong>: Voila.</p>
+<p>(An officer escorts Gordon Wallace out of the venue and into the parking lot.) </p>
+<p>(Greg does a visual comparison. Both he and Grissom are satisfied it's a match.) </p>
+<p>(Gordon Wallace walks up to Packey Jameson.) </p>
+<p><strong>Gordon Wallace</strong>: You sad old man. Is this all you have to live for?</p>
+<p>(Greg and Grissom join them.) </p>
+<p><strong>Greg</strong>: Palm print on the hood of the car appears to be a solid match to Anna Leah.</p>
+<p><strong>Gordon Wallace</strong>: Who's that?</p>
+<p><strong>Brass</strong>: She's a good witness who places your car outside the shop on the night of the murder.</p>
+<p><strong>Gordon Wallace</strong>: (shrugs) Maybe I was in the neighborhood. It's not a crime to drive around Vegas. I was only in that shop once, and I got my own witness. You got nothing.</p>
+<p><strong>Grissom</strong>: Our warrant also includes your shoes.</p>
+<p>(Grissom holds up the warrant.) </p>
+<p><strong>Gordon Wallace</strong>: You like 'em? They're new. Threw the old ones away.</p>
+<p><strong>Grissom</strong>: May I take a look at your wallet, please?</p>
+<p><strong>Gordon Wallace</strong>: What for?</p>
+<p>(Grissom holds up the warrant.) </p>
+<p><strong>Grissom</strong>: Because I can.</p>
+<p>(Gordon Wallace takes out his wallet and gives it to Grissom. Grissom tucks the warrant in his jacket pocket and takes the wallet. He opens the wallet and pulls out some of the bills a little to look inside.) </p>
+<p>(Gordon Wallace watches him smugly. Grissom turns on his flashlight and finds gold flecks on the bills.) </p>
+<p><strong>Grissom</strong>: You didn't make a purchase at that shop, did you?</p>
+<p><strong>Gordon Wallace</strong>: Already told you that.</p>
+<p><strong>Grissom</strong>: Gold flecks ... similar to the substance we found in Sedona Wiley's cash register. </p>
+<p>INSERT FLASHBACK TO: </p>
+<p>[INT. SIXTH SENSE OCCULT SHOP - NIGHT - FLASHBACK]</p>
+<p>(Sedona gasps. Gordon Wallace steps forward, aims his gun and fires. He takes the cash out of the register.) </p>
+<p>END OF FLASHBACK - RESUME SCENE</p>
+<p><strong>Greg</strong>: You took the money to make it look like a robbery.</p>
+<p><strong>Packey Jameson</strong>: We got him.</p>
+<p><strong>Brass</strong>: You know, Packey, you've been waiting a long time for this. Why don't you take him down?</p>
+<p>(Packey looks at Gordon Wallace.) </p>
+<p><strong>Packey Jameson</strong>: I couldn't get you for the murder of your wife, but you are now under arrest for the murder of Sedona Wiley.</p>
+<p>(The officer handcuffs Wallace and leads him away. Packey smiles, satisfied.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]</p>
+<p>[INT. CSI - GRISSOM'S OFFICE -- NIGHT] </p>
+<p>(Greg and Grissom sit at his desk and talk.) </p>
+<p><strong>Greg</strong>: You have to admit, it's, uh, pretty eerie -- Sedona's visions of her own death.</p>
+<p><strong>Grissom</strong>: Yeah. Maybe you should ask Nana Olaf to contact her, see how she's doing.</p>
+<p><strong>Greg</strong>: Yeah, I know you're a cynic. I just think that you can have beliefs and still be a scientist.</p>
+<p><strong>Grissom</strong>: I agree. The problems arise when people mistake their beliefs for the science. </p>
+<p>(Greg nods. He looks pointedly at the book in Grissom's hand.) </p>
+<p><strong>Grissom</strong>: I've been reading her notebooks.</p>
+<p>(Grissom opens the notebook and shows Greg the title: DEATH.) </p>
+<p><strong>Grissom</strong>: Take a look at this.</p>
+<p>(Grissom opens to a page and shows it to Greg.) </p>
+<p>The text reads:<br />
+I see that something is blocking ...<br />
+cannot move alone.<br />
+I am looking through an immense cloud ... a thick fog.<br />
+I sense discomfort, uneasiness in the path ahead.<br />
+He/she is in Summerland, but there is chaos and darkness surrounding him/her.<br />
+He/she is in Summerland, but she can't cross over yet.</p>
+<p><strong>Greg</strong>: (reading) &quot;She is in Summerland ... but there is chaos and darkness surrounding her. She is in Summerland, but she can't cross over yet.&quot;</p>
+<p><strong>Grissom</strong>: Sedona said Claire Wallace was &quot;In Summerland,&quot; not buried in Summerlin.</p>
+<p><strong>Greg</strong>: What's Summerland?</p>
+<p><strong>Grissom</strong>: Pagans believe it's a mystical place where souls go to rest before they reincarnate.</p>
+<p><strong>Greg</strong>: So Jameson heard Summerlin ...</p>
+<p><strong>Grissom</strong>: Because he was desperate to solve the case. Then when Wallace heard Summerlin ... he assumed Sedona was the real deal.</p>
+<p>(Greg thinks about it and closes the book.) </p>
+<p><strong>Greg</strong>: The power of suggestion.</p>
+<p>(Off Grissom's knowing look, we ...</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-(We slowly push in toward the sign, through the center of the eye's pupil as we enter through the window and into the ... 
- 
- 
-CUE Voices:
-
-Sedona Wiley:  Focus all your intention on the crystal for your highest truth.
-
-
-Sedona Wiley:  What is your first question?
- 
-Lori: I want to know if he loves me.
-
-
- 
-Sedona Wiley: I see red.
-
-Sedona Wiley: That can be passion. The connection between you is very strong.
- 
-Sedona Wiley: I see blood. There's danger around you.
-Lori: Well, my parents do hate him.
-Sedona Wiley: I'm getting a name Ray. Ray. And a letter &quot;B.&quot;
- 
-Sedona Wiley: Uh, when, when we put the name Ray with the letter &quot;B,&quot; does anything come up for you?
-Anna Leah: We don't know anyone named Ray. And my boyfriend's name is Stuart.
- 
-Sedona Wiley: There's something else -- &quot;R.&quot; Ro-ro ... rode, rode, rodeo. Is he connected to a rodeo? Is he taking you to a rodeo?
-Lori: I don't think so.
- 
-Sedona Wiley: I'm getting another image. Um ... an arm. It's a one-armed cactus, but it's not in the ground. And then it's cold. 
- 
-Sedona Wiley: I don't usually tell people when I see bad things, but the danger is so strong I can feel it. 
- 
-Anna Leah: Okay, this is stupid. You're scaring us.
- 
-Sedona Wiley: Don't ... go.
- 
-Anna Leah: Come on.
-Sedona Wiley: Don't!
- 
-
-
-
- 
-Anna Leah: Jerk!
-
- 
-
-
- 
-Brass: Say hello to Anna Leah and Lori. You may remember them. A few years ago they stole a car and found a severed head in the trunk.
-Grissom: How could I forget that?
-Brass: Well, now they found a dead psychic, Sedona Wiley, in the occult shop.
-Lori: She said there was danger all around us. I mean, we almost got hit by a car right here, and then she's dead.
-Grissom: Wait, I'm confused. You left and then you came back?
-Lori: Yeah. I forgot my sunglasses. Two hundred bucks.
-Brass: This officer will take you downtown to take your statement, okay?
- 
-
-
-
- 
-Grissom: Greg?
- 
-Greg: Hey.
-Grissom: I thought I paged Warrick on this.
- 
-Greg: Yeah, about that, uh, we traded days.
- 
-Grissom: Because?
- 
-Greg: Well, uh, it's a long story, but the short answer is I have an expertise in the occult.
-Grissom: Huh. Hello, David. What do you know? 
- 
-David Phillips: Gunshot to the chest. Liver temp is 98 degrees which is odd unless she's running a fever. It means I can't give you an accurate TOD. Sorry.
- 
-David Phillips: Bullet was a through-and-through. Based on lividity, the body wasn't moved.
-Grissom: What's in the back room?
-Greg: A small office. Probably where she did the readings. There's, uh, incense, pendulum, jar of marbles. They're used for divining. It's hipper than the old crystal ball.
-Grissom: Where did you say your expertise comes from?
-Greg: Oh, my grandmother, Nana Olaf. She was a psychic. She didn't have a store. She just had a kitchen table and she prognosticated for free. She had a sixth sense. And the family thinks that I might have inherited it.
-Grissom: Okay. What am I thinking?
-Greg: That I'm due for a promotion?
-Grissom: I'm thinking you should focus on your other five senses.
-SMASH CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
- 
-Greg:  Got some blood drops over here.
-Grissom: Connected to the blood pool?
-Greg: No.
- 
-Greg: Maybe the killer cut himself?
- 
- 
-Greg: I'll swab it.
-
-Greg: You ever been to a psychic?
-Grissom: Would it surprise you if I had?
-Greg: Yeah.
-Grissom: Surprise. So go ahead and run it for me.
- 
-Greg: Sure. Uh, cash register's empty, which could mean robbery gone bad.
- 
-Greg: The shot was a through-and-through. Bullet went into this wall. Haven't extracted it yet. Shot was fired along this line.
- 
-
- 
- 
- 
-Greg: Which puts the shooter on the far side of the body.
- 
-Grissom: Well, if it was a robbery, why'd they trash the place?
-Greg: Well, I can think of two reasons: One, the shooter was on drugs and did it just to do it. Or there wasn't enough money in the register and he decided to look for more.
-Grissom: Go on.
- 
-
- 
-Greg:  Well, uh, he figured that the victim must have had a purse or a safe somewhere ... 
- 
-Greg:  and terrorizing her is one way to get her to give it up.
- 
-NEVADA DRIVER LICENSE
-EXPIRES: 09-21-2006
-s*x: M
-HEIGHT: 5'5&quot;
-WEIGHT: 114
-EYES: BRN
-HAIR: GRN
-WILEY, SEDONA
-32 POINT VIEW
-LAS VEGAS, NV 89101
-Grissom: They didn't take her purse.
-(Greg snaps more photos. Grissom finds a tape recorder. He turns it on and rewinds it a little.
-Sedona Wiley:  I'm getting a name: Ray. Ray. And a letter &quot;B.&quot;
-Um, when, when we put the name Ray with the letter &quot;B,&quot; does anything come up for you?
- 
-Anna Leah:  We don't know anyone named Ray, and my boyfriend's name is Stuart.
- 
-Greg: Ray Bans -- &quot;Ray B.&quot;
-Sedona Wiley:  There's something else. &quot;R,&quot; ro, rode. Rodeo. Is it connected to a rodeo? Is he taking you to a rodeo?
-Lori:  I don't think so.
- 
-Sedona Wiley:  I'm gettin another image, an arm. 
- 
-Sedona Wiley:  A one-armed cactus, ... 
- 
-Sedona Wiley:  ... but it's not in the ground. And then it's cold ... 
- 
-Sedona Wiley:  I usually tell people when I see bad things, but the danger ...
-(Greg looks at the labels ... then up at the partially covered one-armed cactus sign on the building across the street. 
-Greg: Grissom?
-Sedona Wiley:  ... is so strong, I ...
- 
-Greg:  Take a look out there. What do you see?
- 
-Greg: A one-armed cactus. And take a look at these labels. &quot;Rhode ... eo.&quot;
-They spell rodeo.
-Grissom: Power of suggestion, Greg.
- 
-Greg: I think that the victim saw images of the crime scene. Grissom, I think she foresaw her own death.
- 
-
-
-
- 
-Robbins: Before you ask, no, I did not find her third eye.
-Grissom: What did you find?
-Robbins: Center-mass shot front to back. Large caliber bullet. Clipped her aorta. COD was exsanguination. She bled out.
-Grissom: David said she was running hot.
-Robbins: There's no signs of infection but I did find trace amounts of a white powder in her nasal cavities and lungs. Possibly cocaine-induced hyperthermia. I ordered a full drug panel and sent a sample to Hodges. It could be a hallucinogen. In some native cultures, shamans use peyote to call forth visions.
-Grissom: Al, when someone sells love potions and magic spells, the only visions they see are dollar signs.
-
- 
- 
- 
-
- 
- 
-Grissom: Five right 44, consistent with a Smith &amp; Wesson, but no hits in IBIS.
-Warrick: Whew, somebody used some heavy artillery on that psychic.
-Grissom: And remind me again why you didn't show up at the crime scene?
-Warrick: 'Cause your former lab boy begged me for it. He offered to take my next holiday on-call. I thought he was nuts, but I wasn't going to pass him up. To be honest with you, Grissom, my wife's having a hard time with my schedule. She's spending a lot of time alone. I didn't think it would be that big of a deal.
-Grissom: Well, you should have cleared it with me. And by the way, you're still on the case.
- 
-Warrick: All right.
-
-
- 
-Mandy Webster: I paged Greg. I don't know where he is.
-Grissom: That's okay, 'cause Warrick is now backing him up.
-Warrick: What do you got?
-Mandy Webster: There's too many prints and there's too many hits. I need some help. Can you talk to Ecklie, please?
-Grissom: I'll do what I can. What about the cash register?
-Mandy Webster: I ran those per Greg ... per you. All the prints belonged to the victim except for two. Both of which were a match to a Reese Bingham. His work card's in the system.
-(She points to the monitor which reads:
-REESE BINGHAM
-AGE: 22 HEIGHT: 5'9&quot;
-WEIGHT: 139 LBS EYES: BROWN
-RACE: CAUCASIAN s*x: MALE
-HAIR: BROWN DOB: SEPT 7, 1984
-LAST KNOWN ADDRESS:
-30382 DESERT WAY
-LAS VEGAS, NV 89109
-CURRENT OCCUPATION:
-2004 - PRESENT: BASMATI RESTAURANT
-DELIVERY BOY/SERVER
-Warrick: Okay, I'm on it.
-
-
- 
-Brass: The state has a law that murder committed during the commission of a felony buys you the death penalty. Do you understand that?
-Reese Bingham: This has to be a mistake. I don't even eat meat. Or cheese. I won't even hire an exterminator.
-Warrick: Your prints were found at the crime scene.
-Reese Bingham: I haven't been to any crime scenes.
-Brass: You been to any occult shops lately?
-Reese Bingham: Yeah, I work next door to one.
-Warrick: You want to explain to me why your prints were found on the cash register?
-Reese Bingham: The owner's my friend. Did something happen to her?
-Brass: You don't know that she's dead?
- 
-Reese Bingham: No.
-Warrick: She was killed and then robbed, and your prints are on her cash register.
-Reese Bingham: Okay, yeah, wait ... I can explain that.
-Brass: Start explaining.
-Reese Bingham: I work at a vegetarian restaurant. We make these soy burgers. Sedona was hooked on them. So, you know, she'd order, I'd deliver.
-Brass: So you're a soy-burger-making, vegetarian delivery boy, hmm?
-Reese Bingham: Look, she's always busy doing a reading or whipping up some kind of potion. She told me to take the money out of the drawer.
-Brass: Give yourself a tip?
-Reese Bingham: Soy burger and fries was $6.95 plus tax. I'd take a ten.
-Warrick: You delivered to her last night?
-Reese Bingham:  No.
-Brass: Was it your day off?
-Reese Bingham: Like most nights, I work until six and then I like ... to go to the Stripperama.
-Brass: I thought you didn't like meat?
- 
-Warrick: Is there anyone who can confirm that?
-Reese Bingham: Well, yeah.
-Warrick: She got a name?
-Reese Bingham: Girls aren't allowed to tell you their real names, but I call her Star 'cause she has these ... blue stars tattooed on her hips. And it kind of looks like a meteor shower when she dances.
-Warrick: Would you stand up, please.
-
-Reese Bingham: I can go?
-Warrick: No. You can strip down to your skivvies.
-Reese Bingham: Excuse me?
-Brass: You want some music?
-
- 
-
- 
-Det. Packey Jameson: Hey, Jim.
-Brass: Packey. 
- 
-Brass: What are you doing here? Aren't you retired?
-Det. Packey Jameson: Well, I'm here on business.
- 
-Brass: Business? I thought your only business was playing golf.
-Det. Packey Jameson:  Any leads on your dead psychic?
- 
-Brass: Why? What's the interest? You looking to make a bet?
-Packey Jameson: I knew the victim. A few weeks ago I went to see her about the Wallace case.
-Brass: So you're still hunting the white whale, huh?
- 
-
-Packey Jameson: Fifteen years, no arrests. 
-Still burns me he used to be one of us. I really wanted to catch Wallace before I retired.
-Brass: So you talked to a psychic.
- 
-Packey Jameson: Jim, she told me things that she couldn't possibly know about this case. She also told me that Claire Wallace was murdered by her husband and he buried the body in Summerlin.
-Brass: Too bad she didn't give you an address.
- 
-Packey Jameson: Forget it.
-Brass: No, hey, come on, Packey. Come on, come on. Sit down. Sit down.
- 
-Packey Jameson: Look, Jim, I interrogated him at least a dozen times. And I never got a rise from the smug b*st*rd until the last time -- until I repeated what this psychic told me.
-Brass: So you think Wallace killed her because ...
-Packey Jameson: He was afraid she'd eventually lead me to the body. I even scheduled another reading with her, but ...
-Brass: Did he know her?
- 
-Brass: Did you tell him her name?
-Packey Jameson: Of course not.
-Brass: Well, if he didn't know who she was ...
-Packey Jameson: All right, all right. At least do me the courtesy of running Gordon Wallace's prints against any prints found at the crime scene.
- 
-Packey Jameson: Check the case file. The last interrogation tape's still in there. You'll see.
- 
-Brass:  Gil, I need a favor.
-
-
-
-
- 
- 
- 
-Manager: Most of my girls have tats.
-Warrick: He said they were shaped like stars.
-Manager: What color?
-Warrick: Blue.
-Manager: That'd be Tammy. 
- 
-Manager: She's at the bar. Help yourself.
- 
-Warrick: Thanks.
- 
-Greg: Hey.
-Warrick: Greg, what are you doing here?
-Greg: Oh, Grissom said you're backing me up. Can't back me up if I'm not here.
-Warrick: The next time you screw me up with Grissom, I'm going to back you up right off a cliff.
-Greg:  Get to see the ladies.
-Warrick: Let's go.
- 
-Warrick: You must be Tammy.
- 
-Tammy: Yes.
-Warrick: Is there a quiet place where we could talk?
- 
-Tammy: You got the dime, I got the time.
-Greg: Unfortunately, the Crime Lab doesn't have a budget for that. Greg Sanders, Warrick Brown. Las Vegas Crime Lab.
-Tammy: Well, we get the bottom of the barrel around this place. Who's in trouble now?
- 
-Warrick: He is. Have you seen him?
-Tammy: He comes in all the time. Smells like nasty pickles.
-Warrick: Was he here last night?
-Tammy: Yeah. Let's see, I go on around seven. He was in the front row waiting. Hung around all night. Then he waited in the parking lot to say good-bye.
-Greg: So he was stalking you?
-Tammy:  Like you, sweetie.
-
-
- 
- 
- 
- 
- 
- 
-(He flips through the file and looks at the MISSING PERSON report: 
-Date of report: 6-15-91 Time: 0952
-Name: Wallace, Claire
-Race: Caucasian s*x: F
-Birthdate: 3-29-66
-Driver's License Number: T5616624 State: NV
-Social Security: 121-5---
-License Plate: 079 HVA State: NV Year: 91
-Year of Vehicle: 1990 Make: Honda Type: Accor
-Claire Wallace was reported missing by her sister
-Emily, on June 15, 1991, M.P.'s vehicle located in McCarran
-parking lot B by airport police. Vehicle impounded. No
-signs of violence in vehicle. M.P.'s sweater postive 
----band. Husband claims wife left him for another man.
-Arresting Officer: Packey Jameson
-ID No. 7204
- 
-Catherine: Hey, Gil, if you're swamped, I can always cancel my vacation plans.
-Grissom: We've got it covered.
-Catherine: Good, 'cause I really wasn't that serious. What are you working on?
-Grissom: A favor for Brass.
- 
-Catherine: Oh, the Wallace case. Yeah, I wanted on this way back when. But I was the new kid, and my supervisor wouldn't let me do it. I probably would have solved it, too. Is there a new lead? 
-Grissom: I'm not sure yet.
-Catherine: I heard Jameson dug thirty holes in the desert looking for her body?
-Grissom: Thirty-seven actually.
-Catherine: That's dedication.  Or obsession. You know, my sister lived near the Wallaces out in Henderson. Their fights were legendary. I was at a barbecue one time, I heard them screaming at each other from three blocks away. Made me and Eddie seem like amateurs. 
- 
-Grissom: Where are you and Lindsay going this year?
-Catherine: Disneyland. With the parents.
-Grissom: Quality time with Dad? 
-
- 
-Catherine: Oh, yeah. And Sam wanted to take us on the Tangiers jet but my mother refused. Said it wasn't the tradition. So now we're driving. Yeah, that'll be a hell of a road trip.
- 
-Grissom: Have fun. Say 'hi' to Sam.
-Catherine:  Will do.
- 
- 
- 
-Mandy Webster: Still working on those prints from the occult shop. Thank you for talking to Ecklie. He sent me some help.
-Grissom: Good. I have one more for you.
-
-Mandy Webster: This is LVPD. It's not going to be in the AFIS criminal database. I'm going to have to do a manual comparison. It's going to take longer. Is he a suspect?
-Grissom: He's a person of interest.
- 
-
- 
-(The label on the evidence bag reads:
-ARTICLE: TRACE EXHIBIT NO. 28
-DATE FOUND, LOCATED OR DEVELOPED: 04/12/06
-WHERE THIS ARTICLE WAS FOUND: VIC'S NOSE
-INVESTIGATION OFFICER: GREG SANDERS
-
- 
-
- 
-Greg: Hey, Henry, what's up?
-Henry Andrews: My job can get a little mundane sometimes ... not today.
-Greg: I'll second that and raise you a stripper.
-Henry Andrews: Okay, sure ... anyway, the powder on your victim's nose and lungs is atropine. It's used to dilate pupils, control bladder problems and it can be fatal in large doses.
-Greg: Atropine comes from a plant, right?
-Henry Andrews: Belladonna. Also known as 'deadly nightshade.' Most people don't know it grows wild throughout the southwest.
- 
-Greg: The psychic had that in her shop. Can you tell from the blood work whether she absorbed enough for it to be lethal?
-Henry Andrews: Levels were fairly low. No other drugs detected. So, no. But if she hadn't been shot, it would have made her sick.
-Greg: What about hyperthermia?
-Henry Andrews: Definitely. Why?
-Greg: The vic's temperature was elevated. Belladonna would help explain it.
- 
-Greg: Later.
- 
- 
- 
-Wendy Simms: Hey, I'm on a break. I'll see you in twenty.
-Greg: Vending machine's on me if you give me your results first.
-Wendy Simms: No, make it dinner.
-Greg: Me and you?
-Wendy Simms: Me, you and my friend Julie.
-Greg: Okay, but I get to sit in the middle.
-Wendy Simms: Deal.
- 
-
- 
-Wendy Simms: So the isolated blood drops from behind the register are not a match to your vic. In fact, they are male.
- 
-Greg: Really? Can I have the file?
- 
-Wendy Simms: Later. So, Mandy says that you have a suspect. The guy have any cuts?
-Greg: Warrick didn't find any, and the suspect had an alibi. But I think you just broke the case.
-Wendy Simms: How'd I do that?
-Greg: Well, one of the broken jars at the store contained belladonna, which is a poison. The vic only inhaled it, but if the killer had an open wound, he not only inhaled it ...
-Wendy Simms: It went directly into his bloodstream.
- 
-Greg:  I need to check the hospitals.
-
-
- 
- 
-Sam Vega: Got to hand it to you, Sanders -- nice call. They brought the guy in after he ran his car up onto a median, right behind the Las Vegas sign.
-Greg: That's like ten blocks from the crime scene.
-Sam Vega: Yeah. Name's Damon Mitchell. Showed symptoms of narcotics withdrawal. According to the police report, he ran his car off the road up onto the median. No damage to the car, no injuries. But he's apparently hyped up on something.
- 
-Sam Vega: What do you got, doc?
-Dr. Franks: Well, the lab just confirmed his blood is positive for atropine. So I'm starting him on an IV drip of physostigmine.
-Greg: You swab that wound on his hand yet?
-Dr. Franks: Right when he came in.
-Greg: Swab's still around?
-Dr. Franks: Saved it for you. It's in the biohazard bag.
- 
-Sam Vega: Mr. Mitchell? I'm Detective Vega.
-
- 
-Sam Vega: Mind if I ask you a few questions?
- 
-Damon Mitchell: Oh ... man. Your face is melting.
- 
-Damon Mitchell: I think I'm going to puke.
-Sam Vega:  Make sure you book him when he gets sober.
- 
-
- 
- 
-RESUME SCENE
- 
-Packey Jameson:  I got a psychic who can communicate with the dead. The FBI uses her to locate people. Your dead wife's been talking to her. Says her spirit is stuck in Summerlin. She can't cross over until the b*st*rd who murdered her is caught. Psychic says it's you.
- 
-Grissom: Watch this again.
-Packey Jameson:  Your dead wife's been talking to her. Says her spirit is stuck in Summerlin. She can't cross over until the b*st*rd who murdered her is caught.
- 
-Brass: Yeah, Packey, said he got a rise out of him.
-Grissom: Right when he mentions Summerlin.
-Brass: So, old Packey has been punching holes in the wrong part of the desert all these years, huh?
- 
-Mandy Webster: Sir?
-Grissom: Yeah?
-Mandy Webster: You said you wanted the print results as soon as I got them?
-Grissom: Yes.
-Mandy Webster: I tried to run Wallace's ten card, but the finger rolls were too sloppy. So I used the latents from the crime scene against the AFIS civil database, knowing he'd be in there, 'cause he used to be a cop.
-Brass: Did you get a hit?
-Mandy Webster: Yeah, I got two. Uh, Wallace's prints were on the inside of the door handle.
-Grissom: That places him at the scene.
-Brass: Well, what do you know?
-Grissom: Were the other ones Greg's?
-Mandy Webster: No. They were another cop. A ... retired Detective Patrick Jameson.
-Brass: Yeah, Packey said he went there to get a reading.
-Mandy Webster: Yeah. Found a few on the table, then there were a few more on the broken jars that were found behind the counter.
-Grissom: Why was he behind the counter?
-Brass: Come on. Why would Packey want to kill Sedona?
-
-
-
-;
-
-
-
- 
- 
-Grissom: I need to talk to you.
-Greg: You heard about the strip club?
-Grissom: I hear about everything, Greg.
-Greg: Then that ear surgery paid off. Our first lead didn't pan out, but I got a better one. Damon Mitchell crashed his black Chevy into a median only ten blocks from the occult shop, right around the time the psychic was killed. His prints match latents we found at the scene. He was hospitalized for what turned out to be belladonna poisoning. And get this -- he worked the National Finals Rodeo last year. Slam dunk. I'm meeting Vega at PD in twenty minutes.
-Grissom: We have one more lead to follow up before we call this a slam dunk.
-Greg: What lead? I don't think your sixth sense is working as well as you'd hoped.
-
- 
- 
-Packey Jameson: Are you accusing me of something?
-Brass: Oh, come on, Packey, you know how this works. I'm just trying to put the pieces together.
-Packey Jameson: I went to Sedona's shop for a consultation. I brought her Claire Wallace's sweater, from the car we found at the airport. And for your information, I signed it in and out of evidence, per chain of custody.
-Brass: Okay ...
-Packey Jameson: I also showed her a couple of photos. She did her thing; I paid her; I left.
-Brass: So you were only in the back of the shop?
-Packey Jameson: You've been there. You know you have to walk from the front to get to the back. Now, come on, Jim. You want ask me something? Don't be shy.
-Brass: Somebody trashed the place, and we found your prints, on the pieces of broken glass.
-Packey Jameson: And you think, what, I did it?
-Brass: No, but I want to know what your prints are doing on those glass jars.
-
-Packey Jameson: She had all these weird powders and fairy dust, and something called a gris-gris bag. Said she had her mojo working. Seemed sketchy. I figured she was dealing.
-Brass: Oh ... I don't know, Packey, that's a stretch.
-Packey Jameson: Come on, Jim. You know these hippy-dippy types. They love their drugs, so I questioned her. Got a lesson in alchemy. Have you ever seen a wolf's heart?  Well, I held
-'em. Satisfied?
-
-
- 
- 
-Damon Mitchell: Can I get some more water?
-Sam Vega: We're all out. Mr. Mitchell, are you into psychics?
-Damon Mitchell: No. I'm not ... I'm really thirsty. Doctor said push the fluids.
-Sam Vega: We know that you went to an occult shop.
-Greg: Yeah, you left your fingerprints and your blood at the location. And according to this tox report, you were most likely poisoned at the same place.
-Damon Mitchell: Okay. I was there, but I didn't kill that little con artist bitch.
-Sam Vega: Then why lie about it?
-Damon Mitchell: 'Cause I didn't think you'd believe me.  I'm in enough trouble already.
-Sam Vega: Give it a shot.
-Damon Mitchell: My wife is a junky. She's a psychic junky. She spent our entire savings on consultations, tarot readings and other garbage. Thousands of dollars. I told her she had to quit seeing this woman. That was my mistake. The week after, Sedona starts having these visions of me cheating. You ever try to defend yourself against a psychic's vision?
-Sam Vega: I bet that pissed you off. So you got revenge by ...
-Damon Mitchell: I went down there to confront the bitch because she ruined my life. You want to know what she said to me?
- 
-Sedona Wiley: You want your wife back? That's going to cost you $5,000.
-Damon Mitchell: What?!
-Sedona Wiley: Cash. I will look into her future and I'll tell her that she takes you back, and you live happily ever after.
- 
-Damon Mitchell: She tried to extort more money from me after she had already taken it all. I lost it.
-(Quick flashback to:
-Damon Mitchell: You think this is funny? Huh!
- 
- 
-Sam Vega: Mr. Mitchell, do you own a gun?
-Damon Mitchell: No. Look, when I left there, she was alive.
-Greg: What time was that?
-Damon Mitchell: It was after nine, around ... closer to 9:30.
-Sam Vega: Then where'd you go?
-Damon Mitchell: Uh ... I went around the corner to the liquor store for some bourbon. But before I even opened it, I started to feel woozy. You know, then ... everything kind of went sideways.
-
- 
- 
-Warrick: The cops find the gun or the stolen cash in the vehicle?
-Greg: No. Only a full bottle of bourbon. But he could've ditched the gun.
-Warrick: Well, the victim took him for several grand. He's not ditching the money.
- 
-Warrick: Tight suit, baby.
-Hotches: Actually, it's not. Um, I've only gained a couple of pounds, and I tend to gain ...
-Warrick: No, I mean it, looks good on you.
-Hodges: I see. Well ... Thank you, Warrick.
-Greg: So, what's with the ghetto?
-Hodges: I was with Conrad and the mayor at the City Council budget meeting, requesting more funds for you slackers.
-Greg: So you probably didn't have any time to get some work done?
-Hodges: Au contraire. 
- 
-Hodges: Multitasking is my forte. In fact, I shared your results with the City Council.  Fine crime fighting, courtesy of your Trace Lab. 
- 
-
- 
-Hodges: The gold flecks that you pulled from the cash register was iron pyrite, commonly known as 'fool's gold.'
-Warrick: What was it doing in the cash register?
-Hodges: It's also known as 'prosperity dust.' It could be for good luck.
-Greg: Didn't work for Sedona Wiley.
-
-
- 
- 
-Gordon Wallace: Jim Brass. Been a long time. 
- 
-Brass: How's it going, Gordon? This is Gil Grissom from the Crime Lab. So, Gordon, where were you the night before last between six-thirty and ten?
-Gordon Wallace: Well, I'm working 24-7 for Joslynn Raines ...  ... while she's in town, so I was here with my crew until ten. Raced over to the airport, picked up my brother. Flew in from Florida, landed around ten-thirty. Brought him back here for the last show.
-Grissom: You ever been to the Sixth Sense Occult Shop?
-
-Brass: What? That's funny?
-Gordon Wallace: Nah, it's just, I ... I thought you were busting my chops for your boy, Jameson. Yeah, I was there, earlier this week. Joslynn wanted to buy a love potion. Despite her killer looks, the young lady is unlucky in the romance department.  You don't believe me? Let's go ask her.
- 
-Gordon Wallace: Hey, Joslynn can you spare a minute for the, uh, boys in blue?
- 
-Joslynn Raines: Friends of yours? Sure. Nice to meet you. Love your city. So you got a pen, or ... ?
- 
-Brass: Um, Miss Raines, were you at the Sixth Sense Occult Shop earlier this week?
- 
-Joslynn Raines: Yeah. Gordie took me. I got a reading, picked up a few things.
-Brass: Uh-huh. Did, uh, did Gordie go inside the shop with you?
-Joslynn Raines: Mm-hmm. He goes where I go.
- 
-Joslynn Raines: I offered to pay to clear his aura, but he wasn't in to it. It's good for his soul.
- 
-Gordon Wallace: Are we done? You're going to need to ... exit out the front.
-
- 
-Brass: Maybe we can get a warrant and match the glass in Wallace's shoe to the glass we found at the scene, and then tie him to the murder.
-Grissom: I don't know how. Glass breaks all the time. It's not a unique event. Plus, he admits to being in the shop, which accounts for his prints.
-Brass: You know, maybe Packey was right -- maybe Wallace did kill that psychic.
-Grissom: Well, he'd only kill her if he also killed his wife.
-
-
- 
- 
-Packey Jameson: This is the map I've been working off of, and each of these red stickers represents a hole I dug based on different information.
- 
-Packey Jameson: Now, most were around the house he owned in Sunrise Manor. These were near his, uh, brother's place, and a few near his sister's place. That's where they grew up, in Henderson.
-Greg: So you never looked in Summerlin?
-Packey Jameson: No reason to.
-Warrick: Well, it says here, when Wallace was a cop, he worked the northwest substation, that includes Summerlin.
-Packey Jameson: Yeah, but he hadn't been on the job that long, and Summerlin is out of his comfort zone and a long way from where they live. No, he ... he had better options closer to home.
-Warrick: So, where would his parameters be?
-Packey Jameson: Well, he'd pick a place where people don't normally go. 
- 
-Warrick: Wallace worked northwest from January 1990 to August '92. He responded to like 20 crime scenes in Summerlin. If we just limit it down to the remote location ...
-Packey Jameson: Yeah. Let me look at that.
-(He looks at the list of calls: 
-Illegal Dumping
-Susp. Person
-Vandalism
-Broken water pipe
-Illegal dumping at abandoned septic tank
-Disturbance
-Susp. Persons
-Abandoned property
-Abandoned vehicle
-Illegal Dumping
-Illegal Dumping
-Warrick: Summerlin's changed a lot over the last ten years.
-Packey Jameson: Yeah, but there's two ...
- 
-Packey Jameson: ... three, possibilities. I got an idea.
-
- 
- 
- 
-Packey Jameson: Back in the day, squatters were always camping their RVs in this area. That's what brought Wallace up here. Illegal dumping of human waste on public lands.
- 
-Warrick: Grissom! I've got something!
- 
-Grissom: That's a metallic signature. This could be the abandoned septic tank.
-Packey Jameson: Time to find out.
-
- 
-
- 
-Warrick: Clear!
- 
- 
-
-
-Grissom: Mrs. Wallace, I presume.
-
-
-
-
- 
- 
-Grissom: Hey, Greg.  You missed some.
-
-Greg:  Well, one more spider bite won't make a difference. But you, being the bug guy, would probably enjoy being bitten.
-
- 
- 
-Greg:  Could be rib.
- 
-Grissom: It's too small.
- 
-Grissom:  Did the Wallaces have a kid?
-Packey Jameson: No. That was part of the marital discord.
-Greg: Check this out.
- 
-Grissom: Claire Wallace did have a dog.
-Packey Jameson: Yeah. Yeah, I interviewed her sister. Said Claire had a little bulldog named, uh ... think it was Sneakers.
- 
-Packey Jameson: Took him everywhere with her.
- 
-Warrick: What's this around the neck?
-Grissom: It's a wire.
-Packey Jameson: Killed the dog. He had to kill the dog to make it look like Claire took Sneakers with her. Otherwise, nobody'd believe his story.
-Greg: No collar or tags down here, but I found this ... whatever it is.
- 
-
-
-
- 
- 
-Robbins:  Really thin, high-bridge nose. All indicate caucasoid.
-Grissom: Any chance at an ID?
-Robbins: Well, so far, everything's consistent with Claire Wallace. Unfortunately, because she was in a metal box in the desert, DNA's not likely viable. I sent samples of the long bones to Wendy anyway, but I don't expect results.
-Grissom: Dental records?
- 
-Robbins:  The, uh, killer knocked out most of her teeth. Roots are still in the bone. She was brutalized.
-Grissom: Cause of death?
- 
-Robbins: I noted three separate and distinct fractures: One on the right side ... and two distinct fractures on the left side. We were able to identify the missing skull fragments, but when I tried to fit them back together, I couldn't. There was deformation of the bones. Pre- or peri-mortem, the human skull has an elastic quality, so when there's a fracture, the pieces will change shape. But post-mortem, the bone is brittle, and when it's fractured, the pieces retain their shape. It's not unlike breaking a vase or a bowl.
-INSERT: CGI EFX:
-
-Robbins:  The pieces all fit together like a jigsaw puzzle.
-RESUME SCENE: 
-Robbins: So based on the fractures to her skull, it appears she was struck in the head three separate times, and since the pieces won't fit back together, blunt force trauma to her skull is your COD.
-
- 
- 
-Greg: Did you know that there are approximately 280 bones in a dog's body?
-Warrick: Yeah?
-Greg: Well, the, uh, forensic vet should be here soon. Hopefully, he'll be able to determine whether this is a French Bulldog.
-Warrick: I'm thinking this dog was an amputee.
-Greg: Based on what?
- 
-Warrick: This contraption. Looks like the, uh, canine equivalent of a wheelchair. My grandmother had a neighbor whose dog was hit by a car. The dog lived, but the doctor had to amputate the hind legs mid-femur.
- 
-Warrick: This is the hind femur, or what's left of it. You see how it was cut?
- 
-Warrick: You know, if Sneakers here was a handicapped dog, ID-ing it just became a whole lot easier.
-
-
- 
-Grissom: If we can ID the dog, it'd at least give us a compelling argument that the body found was Claire Wallace.
-Brass: Yeah, but even with a cause of death of blunt force trauma, we still don't have enough to arrest him.
-Grissom: So, we re-focus on Sedona Wiley?
-Brass: Well, it's like a Chinese puzzle. She knew who Wallace was, but Wallace didn't know her.
-Grissom: Greg's suspect, Damon Mitchell, claims that she tried to extort money from him.
-Brass: So maybe she hit up Wallace, too.
-
- 
- 
-Archie Johnson: 702-555-0122 that's GW Security.
-Brass: That's Wallace's company.
-Archie Johnson: She called that number three times in the last week or so.
-Brass: She was reaching out to him.
-Archie Johnson: She called him again four days before she was murdered.
-Brass: Upping the ante, maybe.
- 
-Sedona Wiley:  Hi.
- 
-Grissom:  Maybe he went there to intimidate her.
- 
-Brass: So she was shaking him down when he went in the store to shake her up. You know, Wallace said it was the singer's idea to go in there, not his.
-Grissom: Yeah, he also said he didn't murder his wife.
-Brass: You know, the girls said something curious -- the two that found the body. I didn't think it was important at the time. When they left the store, a car almost ran them down.
- 
-Anna Leah: Jerk!
- 
- 
-
- 
- 
-Greg: So, your hand made contact with the hood of the car?
-Anna Leah: You bet it did. I was born in Manhattan.
-Greg: Well, I'm going to need an impression of your palm and your fingerprints.
-Anna Leah: If it helps nail the guy, sure.
- 
-Brass: Do you remember anything about the vehicle? Was it a car, a truck, SUV?
-Lori: I think it was a car.
-Brass: What color was it?
-Lori: It was red. Stuck in my head after what the psychic said. Blood red.
-
- 
- 
-Greg: Voila.
- 
- 
- 
-Gordon Wallace: You sad old man. Is this all you have to live for?
- 
-Greg: Palm print on the hood of the car appears to be a solid match to Anna Leah.
-Gordon Wallace: Who's that?
-Brass: She's a good witness who places your car outside the shop on the night of the murder.
-Gordon Wallace:  Maybe I was in the neighborhood. It's not a crime to drive around Vegas. I was only in that shop once, and I got my own witness. You got nothing.
-Grissom: Our warrant also includes your shoes.
- 
-Gordon Wallace: You like 'em? They're new. Threw the old ones away.
-Grissom: May I take a look at your wallet, please?
-Gordon Wallace: What for?
- 
-Grissom: Because I can.
- 
- 
-Grissom: You didn't make a purchase at that shop, did you?
-Gordon Wallace: Already told you that.
-Grissom: Gold flecks ... similar to the substance we found in Sedona Wiley's cash register. 
-
-
- 
-END OF FLASHBACK - RESUME SCENE
-Greg: You took the money to make it look like a robbery.
-Packey Jameson: We got him.
-Brass: You know, Packey, you've been waiting a long time for this. Why don't you take him down?
- 
-Packey Jameson: I couldn't get you for the murder of your wife, but you are now under arrest for the murder of Sedona Wiley.
- 
-
-
- 
- 
-Greg: You have to admit, it's, uh, pretty eerie -- Sedona's visions of her own death.
-Grissom: Yeah. Maybe you should ask Nana Olaf to contact her, see how she's doing.
-Greg: Yeah, I know you're a cynic. I just think that you can have beliefs and still be a scientist.
-Grissom: I agree. The problems arise when people mistake their beliefs for the science. 
- 
-Grissom: I've been reading her notebooks.
- 
-Grissom: Take a look at this.
- 
-The text reads:
-I see that something is blocking ...
-cannot move alone.
-I am looking through an immense cloud ... a thick fog.
-I sense discomfort, uneasiness in the path ahead.
-He/she is in Summerland, but there is chaos and darkness surrounding him/her.
-He/she is in Summerland, but she can't cross over yet.
-Greg:  &quot;She is in Summerland ... but there is chaos and darkness surrounding her. She is in Summerland, but she can't cross over yet.&quot;
-Grissom: Sedona said Claire Wallace was &quot;In Summerland,&quot; not buried in Summerlin.
-Greg: What's Summerland?
-Grissom: Pagans believe it's a mystical place where souls go to rest before they reincarnate.
-Greg: So Jameson heard Summerlin ...
-Grissom: Because he was desperate to solve the case. Then when Wallace heard Summerlin ... he assumed Sedona was the real deal.
- 
-Greg: The power of suggestion.
-(Off Grissom's knowing look, we ...
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=06x19+-+Spellbound&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127422%23p127422" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=06x19+-+Spellbound&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127422%23p127422" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127422%23p127422&amp;name=06x19+-+Spellbound" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127422%23p127422" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=f63769187ac4b239a686e0cae888a9ac">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=f63769187ac4b239a686e0cae888a9ac">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=f63769187ac4b239a686e0cae888a9ac">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=f63769187ac4b239a686e0cae888a9ac">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

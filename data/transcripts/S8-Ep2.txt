@@ -1,786 +1,1016 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN: 
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]
+[INT. CSI – HALLWAY – NIGHT]
+(Sara walks through the hallway. Her arm is in a sling. Sh" />
+<meta property="og:title" content="08x02 - A La Cart - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN: 
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]
+[INT. CSI – HALLWAY – NIGHT]
+(Sara walks through the hallway. Her arm is in a sling. Sh" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13359" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>08x02 - A La Cart - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13359" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13359">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=309f3f4cbc5c17da38f4c8b6ad76aa69"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=309f3f4cbc5c17da38f4c8b6ad76aa69">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=309f3f4cbc5c17da38f4c8b6ad76aa69">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=309f3f4cbc5c17da38f4c8b6ad76aa69">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=309f3f4cbc5c17da38f4c8b6ad76aa69">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13359&amp;sid=309f3f4cbc5c17da38f4c8b6ad76aa69&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>08x02 - A La Cart</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127453">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127453">08x02 - A La Cart</a></div>
+							<div class="pull-right text-right"><time datetime="2007-10-18T01:23:26Z">10/18/07 01:23</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN: </p>
+<p>[EXT. LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]</p>
+<p>[INT. CSI – HALLWAY – NIGHT]</p>
+<p>(Sara walks through the hallway. Her arm is in a sling. She walks past the Print Lab. Mandy looks up from her worktable and watches her go.) </p>
+<p>(Sara continues through the hallway.) </p>
+<p>(She walks past the Trace Lab. Hodges looks up from his work and watches her go.) </p>
+<p>[INT. CSI – ECKLIE'S OFFICE – CONTINUING]</p>
+<p>(Ecklie closes the file folder. He's on the phone waiting for someone to pick up.) </p>
+<p>(Sara appears in the doorway and knocks lightly on the door to get Ecklie's attention. He looks up and motions her inside as he stands up at his desk.) </p>
+<p><strong>Conrad Ecklie</strong>: (to Sara) Have a seat.</p>
+<p>(The line clicks and the recorded message switches on.) </p>
+<p><strong>Grissom</strong>: (answering machine) This is Grissom.</p>
+<p><strong>Conrad Ecklie</strong>: (to Sara) How's the arm?</p>
+<p><strong>Grissom</strong>: (answering machine) Please leave a detailed message after the tone.</p>
+<p><strong>Sara</strong>: Fractured in two places.</p>
+<p>(Sara sits down.) </p>
+<p>(The machine beeps.)</p>
+<p><strong>Conrad Ecklie</strong>: (to phone) Gil, Conrad again. Um ... message number three. Call me back please.</p>
+<p>(He smiles at her and hangs up.) </p>
+<p><strong>Conrad Ecklie</strong>: It's feeling better?</p>
+<p><strong>Sara</strong>: Yeah.</p>
+<p><strong>Conrad Ecklie</strong>: Good.</p>
+<p>(beat) </p>
+<p><strong>Conrad Ecklie</strong>: So, you must know where he is.</p>
+<p><strong>Sara</strong>: Actually, I don't.</p>
+<p><strong>Conrad Ecklie</strong>: Really?</p>
+<p>(He picks up his folder.) </p>
+<p><strong>Conrad Ecklie</strong>: Okay ... um ... Look, I don't want to play any games here. This is as difficult for me as it is for you.</p>
+<p>(He closes the office door.)</p>
+<p><strong>Conrad Ecklie</strong>: So let's just ... uh ... get this over with, shall we? </p>
+<p>(He sits down on the other side of his desk and opens his notebook.) </p>
+<p><strong>Conrad Ecklie</strong>: Okay then ... uh ... this is an administrative inquiry. You and your supervisor were in direct violation of lab policy ...</p>
+<p><strong>Sara</strong>: (corrects) &quot;Are.&quot;</p>
+<p><strong>Conrad Ecklie</strong>: &quot;Are&quot; in direct violation of lab policy, which states that members of the same forensic team may not engage in a romantic relationship. So when did you and Supervisor Grissom begin your relationship?</p>
+<p><strong>Sara</strong>: We've always had a relationship.</p>
+<p><strong>Conrad Ecklie</strong>: I mean, when did you become intimate?</p>
+<p><strong>Sara</strong>: Two years ago. I think it was a Sunday.</p>
+<p>(HOLD on ECKLIE.)</p>
+<p>CUT TO:<br />
+[EXT. ROAD – NIGHT]</p>
+<p>(SLOW MOTION. VIEW of the desert road at a SLOW 360 degree turn. For the moment, WE are the OBJECT turning.) </p>
+<p>MUSIC STARTS: &quot;An der Schonen Blauden Donau,&quot; Op. 314 (On the Beautiful Blue Danube&quot;) by Johann Strauss</p>
+<p>(A round object comes into view. It rolls and turns as it bounces off the pavement and continues down the road.) </p>
+<p>(The round object bounces along the pavement, leaving dark, circular splotches on the road.)</p>
+<p>(A truck heads its way and it hits the bouncing object.) </p>
+<p>SIDE VIEW</p>
+<p>(Like a basketball, the bouncing object bounces against the truck and the pavement until the truck passes over it.) </p>
+<p>TOP VIEW DOWN</p>
+<p>(The object stops in the middle of the road.) </p>
+<p>-- AND NIGHT TURNS INTO DAY – </p>
+<p>(The object hasn't moved.) </p>
+<p>(Another truck passes by, knocking the round object off the road.) </p>
+<p>(The object skips and hits the pavement as it heads over to a group of highwaymen in orange vests cleaning the roadside.) </p>
+<p>(The object bounces off the pavement and onto the dirt, where it rolls to a STOP right in front of one of the men.) </p>
+<p>(He looks and sees that it's a HEAD in a football HELMET.) </p>
+<p>CUT TO:<br />
+[EXT. ROADSIDE – DAY]</p>
+<p>(Grissom leans forward and looks at the head closely. Yep, it's a head. The helmet is for the SVHS cobras.) </p>
+<p><strong>Det. Ezekiel Holstein</strong>: (o.s.) Sagebrush Valley High School.</p>
+<p>(Detective Ezekiel Holstein and Nick look closely at the head in the helmet.) </p>
+<p><strong>Ezekiel Holstein</strong>: The Cobras.</p>
+<p><strong>Nick</strong>: He looks like he could still be in high school. Boy, football's gotten a lot more brutal since my playing days.</p>
+<p><strong>Ezekiel Holstein</strong>: Yeah, where's the rest of him, still on the field?</p>
+<p>(Nick looks down the long stretch of highway before them.) </p>
+<p><strong>Nick</strong>: There's no high school football fields around here anyway. What do you think, Grissom?</p>
+<p>(Grissom studies the head.) </p>
+<p><strong>Grissom</strong>: &quot;Ichabod was horror-struck on perceiving that he was headless.&quot;</p>
+<p>[Note: &quot;The Legend of Sleepy Hollow,&quot; by Washington Irving]</p>
+<p>(Nick grins and looks at Holstein.) </p>
+<p>HOLD on the HEAD.</p>
+<p>SMASH CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. ROADSIDE – DAY]</p>
+<p>(Grissom's phone rings. He's still at the crime scene and he steps away to check it.)<br />
+INCOMING CALL<br />
+CONRAD ECKLIE</p>
+<p>(Grissom shuts his phone without answering it. He walks over to Nick who is in the middle of the road looking at the bloodstain.) </p>
+<p><strong>Nick</strong>: Blood pool tells me the helmet must've been here for a while.</p>
+<p>(Grissom looks at the stain.) </p>
+<p><strong>Grissom</strong>: Vehicle tire rolled through it. Helmet has black abrasions on it consistent with being hit by a tire.</p>
+<p><strong>Nick</strong>: Probably got pinballed down the road.</p>
+<p>(Greg joins them.) </p>
+<p><strong>Greg</strong>: I checked with Traffic. No reports of any traffic accidents near here. Uh, Holstein's getting an absentee list from the high school.</p>
+<p>(Nick nods.) </p>
+<p><strong>Grissom</strong>: Head's over there. Blood trail leads up from here. We follow the blood.</p>
+<p>(Grissom starts walking.) </p>
+<p>(Greg walks up to Nick.) </p>
+<p><strong>Greg</strong>: (low whisper) He say anything about what's happening with Sara?</p>
+<p><strong>Nick</strong>: (shakes his head) No.</p>
+<p>(They turn and follow Grissom down the road.) </p>
+<p>(Nick stops, puts an evidence marker down on the road. Greg raises the camera and takes a photo.) </p>
+<p>VARIOUS DISSOLVES: </p>
+<p>(Grissom continues looking at the blood trail.) </p>
+<p>(A camera clicks.) </p>
+<p>(Grissom points to something.) </p>
+<p>(The camera shutter clicks again.) </p>
+<p>(Grissom continues further down the road. Nick and Greg are a little ways behind documenting the blood trail.) </p>
+<p>(Nick looks out at Grissom, a good distance away from them.) </p>
+<p><strong>Nick</strong>: (to Greg) Hey, did Sara ever say anything to you about her and Grissom?</p>
+<p><strong>Greg</strong>: Not in so many words.</p>
+<p><strong>Nick</strong>: So you knew about the two of them?</p>
+<p><strong>Greg</strong>: (shrugs) Yeah.</p>
+<p>(Greg continues down the road. Nick spreads his arms wide.) </p>
+<p>(Meanwhile, Grissom finds more bloodstains on the road. This one veers off to the side. He follows the fluid trail in the dirt. He heads for the bushes and finds a body without a head.) </p>
+<p><strong>Grissom</strong>: Hey!</p>
+<p>(Nick and Greg appear.) </p>
+<p>(Nick takes his glasses off and sighs from the smell.)</p>
+<p><strong>Nick</strong>: Where's the uniform? (He kneels next to the body.) If he's not a player, what's with the helmet?</p>
+<p>(They note that the left hand is missing.) </p>
+<p><strong>Greg</strong>: Maybe he's a rabid fan. There were all kinds of high school games last night.</p>
+<p><strong>Grissom</strong>: Where's his hand?</p>
+<p><strong>Nick</strong>: (o.s.) Got to be around here somewhere.</p>
+<p>CUT TO:<br />
+[INT. CSI – AUTOPSY -- DAY] </p>
+<p>(Nick takes prints off the dead man's hand. The door opens and Robbins walks in.) </p>
+<p>(In the foreground, David Phillips is struggling to get the helmet off the body.) </p>
+<p><strong>Robbins</strong>: The hand -- where did you find it?</p>
+<p><strong>Nick</strong>: Twenty yards away, two hours later.</p>
+<p>(David isn't having any success with getting the head out of the helmet. Robbins goes to check on him.) </p>
+<p><strong>Robbins</strong>: David, he doesn't look prepped. What's taking so long?</p>
+<p><strong>David Phillips</strong>: I can't get the helmet off.</p>
+<p><strong>Nick</strong>: I better get this ten-card to Mandy right away.</p>
+<p>(Nick leaves with the print card. Robbins puts his cane aside and assists.) </p>
+<p>(Robbins holds the head; David holds the helmet and they pull.) </p>
+<p><strong>Robbins</strong>: Hold it.</p>
+<p>(They get the head out of the helmet. Robbins sighs.) </p>
+<p><strong>Robbins</strong>: His face looks like hamburger.</p>
+<p>(Robbins snaps photos of the victim's face.) </p>
+<p>(He picks up the envelope and comb. He combs the debris from the hair into the envelope. Some black powder falls into the envelope.) </p>
+<p><strong>David Phillips</strong>: I found the same black powder on his clothes.</p>
+<p>(Robbins looks at him.) </p>
+<p>CUT TO:<br />
+[INT. CSI – HALLWAY/ PRINT LAB – NIGHT]</p>
+<p>(Nick walks into the print lab and gives the card to Mandy.) </p>
+<p><strong>Nick</strong>: Hey, Mandy. I got a ten-card on our John Doe.</p>
+<p><strong>Mandy</strong>: Well, let's see if it matches the safe-kit that Holstein brought in. Only have one more kid unaccounted for at that high school.</p>
+<p>(Mandy takes the envelope from Nick and heads into her lab.) </p>
+<p><strong>Nick</strong>: Hey, if you had a kid, would you collect a safe-kit on them?</p>
+<p><strong>Mandy</strong>: Why not? It's better to be prepared. Think of it as a cheap insurance policy.</p>
+<p>(Mandy visually checks the two sets of prints.) </p>
+<p><strong>Mandy</strong>: It's just a print card, a cheek swab and a photo.</p>
+<p><strong>Nick</strong>: Then go to bed every night hoping you don't have to use it.</p>
+<p><strong>Mandy</strong>: Mm ... well, there's a match. Your John Doe is Vincent Bartley.</p>
+<p><strong>Nick</strong>: Yeah?</p>
+<p><strong>Mandy</strong>: Yeah.</p>
+<p>(She hands Vincent Bartley's file to Nick.) </p>
+<p><strong>Nick</strong>: Okay, good. Thanks.</p>
+<p>(He heads out.) </p>
+<p><strong>Mandy</strong>: You're welcome.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) – NIGHT]</p>
+<p>[INT. BLIND – LOBBY -- NIGHT] </p>
+<p>(The place is quiet as people speak in hushed tones. Techs snap photos and officers take statements. An officer talks with two women.) </p>
+<p><strong>Shasta McCloud</strong>: Well, nothing. I mean, it was dark.</p>
+<p><strong>April Kissimee</strong>: It was really dark.</p>
+<p>(Warrick and Catherine walk in with their kits.) </p>
+<p><strong>Warrick</strong>: One minute we're married, and the next ...</p>
+<p><strong>Catherine</strong>: You know what? Good for you. Divorces should be like Band-Aids, one quick yank and done.</p>
+<p>(They note the people sitting at the tables.) </p>
+<p><strong>Warrick</strong>: You think?</p>
+<p><strong>Catherine</strong>: Oh, what do I know? Eddie and I stayed together way too long. Every decision was an act of Congress.</p>
+<p>(Warrick and Catherine leave the main room and turn into the dining area.) </p>
+<p>[INT. BLIND – DINING ROOM – NIGHT]</p>
+<p>(The officer at the door lets them in. Catherine and Warrick note the food and the tables. They find Brass standing next to the dead body on the floor.) </p>
+<p><strong>Brass</strong>: It's the end of an era, ladies and gentlemen. Hampton Huxley, publisher of Hux magazine -- where boys became men, and men became more manly -- has died. </p>
+<p>(Catherine puts her kit down as she waits for David Phillips to finish with the body.) </p>
+<p><strong>Brass</strong>: That magazine got me through Vietnam.</p>
+<p><strong>Warrick</strong>: Oh, that would explain the lookers out front. They were Kitties.</p>
+<p><strong>Brass</strong>: Yes, Kitties, indeed. He was dining with a couple of them when he bought the farm. Miss Summer and Miss Winter, I believe.</p>
+<p><strong>David Phillips</strong>: Every male in the Phillips family gets a lifetime subscription to Hux for his Bar Mitzvah. </p>
+<p>(He turns and looks at the dead body.) </p>
+<p><strong>David Phillips</strong>: I guess my sons will have to settle for a Cross pen.</p>
+<p><strong>Catherine</strong>: I'm sure the magazine will go on without him, Dave.</p>
+<p>(David nods.) </p>
+<p><strong>Catherine</strong>: What are we looking at?</p>
+<p><strong>David Phillips</strong>: Puncture wound. Um ... no abrasion ring. But I can re-approximate the skin.</p>
+<p><strong>Catherine</strong>: So it's probably not a gunshot. (David nods.) Stabbing?</p>
+<p><strong>David Phillips</strong>: Maybe. Right through the temple, into the brain. Be lights out in seconds.</p>
+<p><strong>Warrick</strong>: It's a crowded restaurant. Somebody must have seen something.</p>
+<p><strong>Brass</strong>: Not exactly. Welcome to the latest fad. Dining in the dark.</p>
+<p>(Brass holds up the remote. He presses the button and the lights go out. The shades on the windows lower.) </p>
+<p><strong>Brass</strong>: Waiters are blind. No one sees anything. Piece of cake, huh?</p>
+<p>(The blinds close. Everyone is in the dark.) </p>
+<p>[BLACK SCREEN]</p>
+<p>(They hear the soft sounds of footfalls as someone leaves.)</p>
+<p><strong>Catherine</strong>: (V.O.) Did he just leave?</p>
+<p><strong>Warrick</strong>: (V.O.) I think so.</p>
+<p><strong>David Phillips</strong>: (V.O.) Guys? I-I have a dead body here.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. BLIND – LOBBY – NIGHT]</p>
+<p>(TOP VIEW DOWN. A waiter dressed in black walks on screen. The tray of food is illuminated like a work of art. As he walks, the waiter vanishes ... only the food remains as it is carried across the room.) </p>
+<p><strong>Pippa Sanchez</strong>: (V.O.) Dining should be an experience, like opera or art. It should feed the soul as well as the belly. You should smell it, touch it and let it rest on your tongue. </p>
+<p>VARIOUS IMAGES OF WOMEN EATING</p>
+<p><strong>Pippa Sanchez</strong>: (V.O.) I'm selling sensuality here. I encourage eating with your hands. Texture is crucial. The salty, meaty flesh of lobster drenched in creamy, clarified French butter. The pulpy seeded flesh and firm skin of a fresh fig dipped in honey. The tongue understands four major taste groups – </p>
+<p>CGI ZOOM INTO THE MOUTH AND HIGH POWERED IMAGE OF THE TASTE BUDS ON THE TONGUE</p>
+<p><strong>Pippa Sanchez</strong>: (V.O.) -- salty, sweet, sour, bitter -- and has over 10,000 taste buds, -- </p>
+<p>CGI ZAP! PULSES TRAVEL FROM THE NERVES TO THE BRAIN</p>
+<p><strong>Pippa Sanchez</strong>: (V.O.) -- each with a direct connection to the pleasure center of the brain, triggering endorphins. The anticipation and the release of eating good food is chemically quite similar -- </p>
+<p>END CGI</p>
+<p>(The chef, Pippa Sanchez, talks with Brass.) </p>
+<p><strong>Pippa Sanchez</strong>: -- to getting high on drugs.</p>
+<p><strong>Brass</strong>: And apparently just as dangerous.</p>
+<p>(As they talk, a CSI tech takes Pippa's prints.</p>
+<p><strong>Brass</strong>: So tell me what happened.</p>
+<p><strong>Pippa Sanchez</strong>: I don't know. Each one of the waiters has one of those clickers. If there's an emergency, the houselights come up and a red light goes off in the kitchen.</p>
+<p>(Quick flashback to: A woman screams. The alarm buzzes and Pippa Sanchez comes running out of the kitchen.) </p>
+<p><strong>Woman</strong>: Somebody help! WOMAN: Help! Help him!</p>
+<p>(Pippa reaches the room and finds the screaming woman standing next to Hampton Huxley on the floor.) </p>
+<p><strong>Pippa Sanchez</strong>: Are you okay?</p>
+<p><strong>April Kissimee</strong>: Hux!</p>
+<p><strong>Pippa Sanchez</strong>: Call 9-1-1.</p>
+<p>(End flashback.) </p>
+<p><strong>Brass</strong>: Oh, so you didn't see anything?</p>
+<p><strong>Pippa Sanchez</strong>: I'm in the kitchen. I have two sittings a night, at 7:00 and<br />
+10:00, average 25 heads, ten courses per. I have no time to pee.</p>
+<p>CUT TO:<br />
+[INT. BLIND – DINING ROOM – NIGHT]</p>
+<p>(Catherine has a floor map of the room and a seating chart.) </p>
+<p><strong>Catherine</strong>: April was here ... and Huxley was here.</p>
+<p>(She and Warrick are putting name place cards down on the table. They finish with the Huxley table. Catherine puts the chart down. Warrick puts his goggles on and turns on the ALS.) </p>
+<p>(He checks the overturned chair.) </p>
+<p><strong>Warrick</strong>: Okay. Got blood on the chair.</p>
+<p>(Catherine picks up a discarded napkin off the floor and looks at it. Warrick finds more blood drops.) </p>
+<p><strong>Warrick</strong>: Blood on the tablecloth.</p>
+<p>(He works his way around the table.) </p>
+<p><strong>Warrick</strong>: Blood drops on the floor, leading away from Hux's chair.</p>
+<p><strong>Catherine</strong>: Stab him. Extract the weapon—drip, drip, drip.</p>
+<p><strong>Warrick</strong>: And they end here.</p>
+<p><strong>Catherine</strong>: Near Ms. Shasta.</p>
+<p>CUT TO:<br />
+[INT. BLIND – LOBBY – NIGHT]</p>
+<p>(Brass talks with Shasta McCloud, the woman in the black dress, while the woman in the pink dress is there.) </p>
+<p><strong>Shasta McCloud</strong>: Shasta McCloud -- big &quot;M,&quot; little &quot;c,&quot; big &quot;C,&quot; plus &quot;loud.&quot;<br />
+McCloud.</p>
+<p><strong>April Kissimee</strong>: On TV, they never show anyone bleeding from a heart attack.</p>
+<p><strong>Brass</strong>: Is that what you think happened?</p>
+<p><strong>April Kissimee</strong>: Well, yeah. I mean, all that Prevalis and diet soda. I just figured ...</p>
+<p><strong>Shasta McCloud</strong>: April, shh! He was an animal until the day he died, sir.</p>
+<p><strong>Brass</strong>: Uh-huh.</p>
+<p><strong>April Kissimee</strong>: Wait a minute. What did happen?</p>
+<p><strong>Brass</strong>: Well-well, you're the one with blood on you. Maybe you can tell me.</p>
+<p><strong>April Kissimee</strong>: I thought he just fell asleep like he always does at the end of meals.</p>
+<p>(Quick flashback to: The room is completely dark.) </p>
+<p><strong>April</strong>: (V.O.) Come on! Wake up, Huxey.</p>
+<p>(April takes out the pink kitten.) </p>
+<p><strong>April</strong>: (v.o., low voice) Wake up, Huxey. Wake up, Huxey-Hux. Come on, it's time to go. Meow, meow! Meow, meow!</p>
+<p>(She makes kissy noises. Hampton Huxley appears in the light and we see that the side of his face is smeared with blood. He falls on her and she whimpers.) </p>
+<p><strong>April Kissimee</strong>: Waiter! Emergency!</p>
+<p><strong>Shasta McCloud</strong>: April? April, what's wrong?!</p>
+<p><strong>April Kissimee</strong>: Call 9-1-1! Help!</p>
+<p>(Hampton Huxley falls to the floor.) </p>
+<p><strong>Shasta McCloud</strong>: April! April!</p>
+<p>(The waiter appears.) </p>
+<p><strong>Michael Bowie</strong>: Michael here.</p>
+<p><strong>April Kissimee</strong>: (screams) Code red!</p>
+<p>(She screams.) </p>
+<p>(The place is very loud.) </p>
+<p><strong>Shasta McCloud</strong>: Help! Help us!</p>
+<p>(Michael hits his button and starts the alarm.) </p>
+<p>(End of flashback.) </p>
+<p><strong>Brass</strong>: Okay. Um, look, I'm going to need to take your sweater.</p>
+<p><strong>April Kissimee</strong>: (giggles) Yeah, like I haven't heard that one before.</p>
+<p>(She starts to take her sweater off. Brass stops her.) </p>
+<p><strong>Brass</strong>: No. No, I don't mean right now. No, I mean, I... I'll need to take it before I go. You know, later, when I, when I leave, I have to take your sweater then.</p>
+<p>(April nods.) </p>
+<p>CUT TO:<br />
+[INT. CSI – HALLWAY – NIGHT]</p>
+<p>(Nick walks out into the hallway and finds Matt Bartley sitting in a wheelchair and drinking from the water fountain. Nick stops.) </p>
+<p><strong>Nick</strong>: Mr. Bartley?</p>
+<p>(Matt stops drinking. He turns his chair around.) </p>
+<p><strong>Matt Bartley</strong>: Matt. I'm Vincent's brother.</p>
+<p><strong>Nick</strong>: I'm... Nick.</p>
+<p>(Nick shakes his hand.) </p>
+<p><strong>Nick</strong>: Stokes. Uh ...</p>
+<p><strong>Matt Bartley</strong>: You don't need to say it. I knew when the detective asked me for that safe-kit that it was going to be Vinnie.</p>
+<p><strong>Nick</strong>: Shouldn't I be talking to your parents?</p>
+<p><strong>Matt Bartley</strong>: Don't have any parents. Mom skipped out when we were little, and Dad died a couple years ago. It's just the two of us.</p>
+<p>(Nick sits down.) </p>
+<p><strong>Nick</strong>: Matt ... your brother wasn't on the football team, but when we found him, he was wearing a football helmet. Why is that?</p>
+<p><strong>Matt Bartley</strong>: It was my old helmet.</p>
+<p><strong>Nick</strong>: Is that how you got injured?</p>
+<p><strong>Matt Bartley</strong>: No. It was the last day of spring break, and ... I was wasted. Like a dumb-ass, I dove into the Tangiers wave pool headfirst. Fractured my T-1 vertebra.</p>
+<p><strong>Nick</strong>: So why the helmet?</p>
+<p><strong>Matt Bartley</strong>: Well, I was a pretty good football player. He was proud of that. That and my dad's dragon belt. He got it when he was in the service. Vinnie wears it every day. It's just something that he has to hold onto ... (voice breaks) ...to deal with.</p>
+<p><strong>Nick</strong>: (softly) Yeah.</p>
+<p>CUT TO:<br />
+[INT. BLIND – DINING ROOM – NIGHT]</p>
+<p>(Catherine and Warrick are still processing the dining room. Catherine picks up a kabob skewer.) </p>
+<p><strong>Catherine</strong>: You know, one of these could've been the murder weapon. It's approximate in size and shape. And everybody had one.</p>
+<p>(Warrick takes a swab of something on the carpet.)</p>
+<p>(Catherine grabs another napkin off the table and puts it in an envelope.) </p>
+<p>(Warrick tests the swab.) </p>
+<p><strong>Warrick</strong>: Well, something dripped over here that is not blood.</p>
+<p><strong>Catherine</strong>: Well, could've been whatever food was on the skewers. ALS will pick up anything that's fatty or dairy-based.</p>
+<p>(Warrick sees something. He finds a pair of goggles under the table and picks it up.) </p>
+<p>(He opens it and looks at it. He removes the goggles from the headband.) </p>
+<p><strong>Warrick</strong>: Could you turn off the lights for a second?</p>
+<p>(Catherine puts her clipboard down and turns the lights off with the remote. She chuckles as everything is dark and the shades lower.) </p>
+<p><strong>Catherine</strong>: I'm sorry, but this is a stupid idea for a restaurant.</p>
+<p>WARRICK'S POV: NIGHT GOGGLE VISION. Catherine is cast in green.</p>
+<p><strong>Catherine</strong>: I need to see what I'm eating.</p>
+<p>(Warrick walks over to Catherine.) </p>
+<p><strong>Warrick</strong>: I can see just fine.</p>
+<p>(Catherine turns at the sound of his voice.) </p>
+<p><strong>Catherine</strong>: Where are you?</p>
+<p><strong>Warrick</strong>: (whispers) Right here. CATHERINE: (whispers) Oh.</p>
+<p>(She turns the lights back on. Warrick is standing right in front of her looking through the goggles.) </p>
+<p><strong>Catherine</strong>: Hi. <strong>Warrick</strong>: Hi.</p>
+<p>(The shades pull up.) </p>
+<p><strong>Catherine</strong>: Night vision goggles?</p>
+<p><strong>Warrick</strong>: Yeah, someone left these behind. </p>
+<p><strong>Catherine</strong>: Kind of defeats the purpose of dining in the dark.</p>
+<p><strong>Warrick</strong>: Unless you don't come here for the food.</p>
+<p>CUT TO:<br />
+[INT. BLIND – LOBBY – NIGHT]</p>
+<p>(Warrick talks with Jerry Nivens.) </p>
+<p><strong>Warrick</strong>: Mr. Nivens. Are these yours?</p>
+<p>(He shows him the goggles in an evidence bag.) </p>
+<p>(Mona Nivens sits nearby and looks at her husband, Jerry. Jerry rolls his eyes, barely looking at her and doesn't answer Warrick.) </p>
+<p><strong>Warrick</strong>: I'll take that as a &quot;yes.&quot;</p>
+<p>(The officers turn Jerry Nivens around to handcuff him.) </p>
+<p><strong>Jerry Nivens</strong>: Wait, wait ... I didn't kill anyone.</p>
+<p><strong>Warrick</strong>: Then why would your bring military-grade, night vision goggles to the restaurant?</p>
+<p>(He glares at his wife.) </p>
+<p><strong>Jerry Nivens</strong>: A hunch.</p>
+<p>(Quick flashback to: [BLACK SCREEN] The dining room is dark. We hear the sounds of eating intermittent with a man and a woman moaning.) </p>
+<p><strong>Jerry Nivens</strong>: Hey. Sweetheart, you want to try some of my steak?</p>
+<p>(Jerry Nivens appears in the light holding a piece of steak.) </p>
+<p><strong>Mona Nivens</strong>: (o.s.) No, thanks. I'm all good.</p>
+<p>(He hears heavy breathing and gets suspicious. He takes out his night vision goggles and puts it on.)</p>
+<p>JERRY'S POV</p>
+<p>(Mona is sharing an intimate bite with the husband of the couple they're seated with while his wife is alone eating her meal.) </p>
+<p>END FLASHBACK.</p>
+<p><strong>Jerry Nivens</strong>: Always be suspicious when your wife wants to dine in the dark with another couple.</p>
+<p><strong>Mona Nivens</strong>: You brought night vision goggles to spy on me during dinner?</p>
+<p><strong>Jerry Nivens</strong>: Damn right.</p>
+<p>(Warrick can't believe this. Brass wipes his face with his hand and sighs. He grins sheepishly.) </p>
+<p>CUT TO:<br />
+[INT. CSI – HALLWAY – DAY]</p>
+<p>(Nick is walking through the hallway and reading a file when Hodges steps out of his lab and joins him.) </p>
+<p><strong>Hodges</strong>: Millions of tires wear out ever year. You ever wonder where all that rubber dust goes?</p>
+<p><strong>Nick</strong>: No, I don't.</p>
+<p><strong>Hodges</strong>: The black powder trace you found in your victim's clothing was tire rubber.</p>
+<p><strong>Nick</strong>: It's not surprising. We found the body on the side of the highway.</p>
+<p><strong>Hodges</strong>: Of course you would expect that. However, I did find some very interesting type of rubber.</p>
+<p><strong>Nick</strong>: Okay, Hodges, dazzle me.</p>
+<p><strong>Hodges</strong>: Truck tires have 27% isoprene and 14% neoprene. That's what makes them so hard. Passenger tires have a lower isoprene-to-neoprene ratio, but they also have silica for fuel economy and wet traction.</p>
+<p>INSERT: FLASH OF A GO-CART TIRE</p>
+<p><strong>Hodges</strong>: (V.O.) Go-cart tires, or &quot;slicks,&quot; – </p>
+<p>END FLASH.</p>
+<p>(Hodges shows Nick the test results.) </p>
+<p><strong>Hodges</strong>: -- to those in the know, have much higher levels of carbon black and oil, resulting in extremely high traction.</p>
+<p><strong>Nick</strong>: Guess I better get my go-cart on.</p>
+<p><strong>Hodges</strong>: You know, just so you know, I'm a bit of go-cart enthusiast myself.</p>
+<p><strong>Nick</strong>: Oh, uh ... that's awesome.</p>
+<p>(Nick leaves.) </p>
+<p>CUT TO:<br />
+[INT. GO-CART TRACKS -- DAY] </p>
+<p>(Nick and Greg talk with the girl behind the counter, Christin Gillis.) </p>
+<p><strong>Greg</strong>: Have you seen this guy before?</p>
+<p><strong>Christin Gillis</strong>: Day before yesterday, day before that, and the day before that. Oh, man, did he get in trouble?</p>
+<p><strong>Greg</strong>: Are these the race stats?</p>
+<p><strong>Christin Gillis</strong>: Uh-huh.</p>
+<p><strong>Greg</strong>: You keep record of them?</p>
+<p><strong>Christin Gillis</strong>: Yeah, all in here. People ask for them every day like they're some sort of trophy.</p>
+<p><strong>Greg</strong>: Could you print out Vincent Bartley's trophy from the last time he was here?</p>
+<p><strong>Christin Gillis</strong>: Yeah. But I'm not getting him in trouble, am I?</p>
+<p><strong>Nick</strong>: No. No, not really. (to Greg) You know, when I was a kid, we used to make these things out of lunch trays and old lawn mower engines.</p>
+<p><strong>Greg</strong>: When I was kid, I used to make bombs--little bombs.</p>
+<p>(She hands the printout to Greg.) </p>
+<p><strong>Greg</strong>: Oh. &quot;Vinnie Vroom.&quot; Won all three of his races. Beat out a guy named &quot;Hot Rod.&quot;</p>
+<p><strong>Christin Gillis</strong>: Vinnie ran circles around him.</p>
+<p>INSERT: FLASHBACK TO</p>
+<p>(Vinnie Vroom and Hot Rod race around the tracks.) </p>
+<p><strong>Vinnie Vroom</strong>: Yes.</p>
+<p>(Vinnie stops and takes his helmet off to do his victory dance.) </p>
+<p><strong>Vinnie Vroom</strong>: Yes. Yes, is that all you got? Is that all you got? Is that all you got? Is that all you got?</p>
+<p>(Hot Rod gets out of his go-cart while Vinnie continues his victory dance.) </p>
+<p><strong>Vinnie Vroom</strong>: Is that all you got? Is that all you got?</p>
+<p>END FLASHBACK.</p>
+<p><strong>Christin Gillis</strong>: Rodney went from being A-Rod to being No-Rod.</p>
+<p>(Behind them, they hear tires screech.) </p>
+<p><strong>Christin Gillis</strong>: Hey, there he is, right there.</p>
+<p>(They turn around to see Hot Rod get out of his cart.) </p>
+<p><strong>Hot Rod</strong>: Aw, come on. Hey, if you guys want to race, then you guys have to wear dresses, huh?</p>
+<p>(He takes his helmet off.) </p>
+<p><strong>Hot Rod</strong>: Get your skill up, all right. I need some competition here.</p>
+<p><strong>Nick</strong>: Hot Rod!</p>
+<p>(He turns and looks at them ... then runs.) </p>
+<p>(Nick and Greg look at each other. Greg shrugs and motions for Nick to go on ahead.)</p>
+<p>(Nick takes off after Hot Rod. He jumps right over the track fence and takes the direct route. Greg takes off, going around the fence to head Hot Rod off.) </p>
+<p>(Nick runs clear through the track.)</p>
+<p>(Hot Rod jumps over the fence on the other side.) </p>
+<p>(Nick jumps over the other side of the fence.) </p>
+<p>(They exit the building.) </p>
+<p>[EXT. GO-CART TRACKS – PARKING LOT – CONTINUING]</p>
+<p>(Hot Rod heads for his truck.) </p>
+<p>(He opens the truck door and gets inside just as Nick reaches the truck. Nick takes his gun out and holds it on Hot Rod.) </p>
+<p><strong>Nick</strong>: Get out of the truck! Get out of the truck now!</p>
+<p>(Hot Rod takes his hands off the steering wheel.) </p>
+<p><strong>Nick</strong>: Get out of the truck now!</p>
+<p>(Hot Rod gets out of the truck.) </p>
+<p>(Greg arrives with the officers, who handcuff Hot Rod.) </p>
+<p><strong>Nick</strong>: Nothing says &quot;I'm guilty&quot; like running from the cops, dumb-ass. Give me his wallet.</p>
+<p>(The officer takes Hot Rod's wallet out of his pocket.) </p>
+<p><strong>Nick</strong>: Rodney Banks. We're with the Vegas Crime Lab, Mr. Banks.</p>
+<p>(Greg looks inside the truck.) </p>
+<p><strong>Rodney Banks</strong>: Hey, I didn't do nothing.</p>
+<p><strong>Greg</strong>: You got quite a mess here, Rod. Mind if I take a look?</p>
+<p>(Greg holds up the belt.) </p>
+<p><strong>Nick</strong>: Where'd you get that belt?</p>
+<p><strong>Rodney Banks</strong>: I don't know.</p>
+<p><strong>Nick</strong>: Where?</p>
+<p><strong>Rodney Banks</strong>: I don't know.</p>
+<p>(Greg tests the belt for blood.) </p>
+<p><strong>Greg</strong>: Blood. Looks like things just got a lot hotter for you, Rod.</p>
+<p>CUT TO:<br />
+[INT. BLIND – DINING ROOM – DAY]</p>
+<p>(Warrick continues to snap photos of the food on the table. Catherine is in the back testing the skewers.) </p>
+<p><strong>Catherine</strong>: All skewers accounted for, none of them bloody.</p>
+<p>(Warrick picks up something off the table and looks at it.) </p>
+<p><strong>Catherine</strong>: We've got a high-profile dead guy in a locked-room situation, with sixteen diners and three blind waiters. Give me something.</p>
+<p><strong>Warrick</strong>: How about a Band-Aid with petals?</p>
+<p>(Catherine walks over and looks at it.) </p>
+<p><strong>Catherine</strong>: It's not a Band-Aid. It's a nipple flower.</p>
+<p><strong>Warrick</strong>: What's it doing at a table with four guys?</p>
+<p>CUT TO:<br />
+[INT. BLIND – LOBBY – DAY]</p>
+<p>(Man 1 stands in front of Brass.) </p>
+<p><strong>Man 1</strong>: Can I go to the bathroom? Please, please, please?!</p>
+<p><strong>Brass</strong>: Again?</p>
+<p><strong>Man 1</strong>: Yes, sir.</p>
+<p><strong>Brass</strong>: Yeah, okay.</p>
+<p>(Man 1 runs to the bathroom. The rest of the three guys in his party laugh.) </p>
+<p><strong>Brass</strong>: Okay. What's so funny?</p>
+<p><strong>Orange Shirt Manducci</strong>: We slipped a laxative in his beer in the dark. It's his sixth trip to the can. It's freakin' hilarious.</p>
+<p><strong>Brass</strong>: What are you guys, like twelve years old? Oh, hey, hey, Curly. How come you're so pretty in pink? Huh?</p>
+<p>(The man in the orange shirt looks down at the pink fur on his sleeve.) </p>
+<p>(He points at April Kissimee, who is being comforted by Shasta McCloud.) </p>
+<p><strong>Orange Shirt Manducci</strong>: Breast exam.</p>
+<p>(The men erupt in laughter.) </p>
+<p><strong>Orange Shirt Manducci</strong>: You know, doctors without boundaries, if you know what I mean.</p>
+<p>INSERT: FLASHBACK</p>
+<p>(It's completely dark in the room. The two women with Hampton Huxley are giggling softly. The orange shirt man turns to his buddies.) </p>
+<p><strong>Orange Shirt Manducci</strong>: You guys, come here. It's total darkness. There's two Kitties. That's four ... They're all up for grabs! I'm going on a mission of mercy.</p>
+<p>(He gets up and heads over. He feels around for their table, then reaches April. He grabs her.) </p>
+<p><strong>April Kissimee</strong>: Who is that? Hux? Stop it. Save it for later.</p>
+<p><strong>Hampton Huxley</strong>: What are you talking about?</p>
+<p><strong>April Kissimee</strong>: That's not you, Hux? (screams) Somebody's touching me!</p>
+<p><strong>Orange Shirt Manducci</strong>: Sweet mother. Guys, they're real -- both of them!</p>
+<p><strong>Hampton Huxley</strong>: Waiter? Waiter, we have a problem over here.</p>
+<p>(The waiter, Michael Bowie, heads over to them.) </p>
+<p>END FLASHBACK.</p>
+<p>(Brass talks with Michael Bowie.) </p>
+<p><strong>Michael Bowie</strong>: Yeah, I lead Mr. Manducci back to his seat. He and his brothers had had quite a bit to drink.</p>
+<p><strong>Brass</strong>: So it was the blind leading the drunk, huh?</p>
+<p><strong>Michael Bowie</strong>: I could do it with my eyes closed.</p>
+<p><strong>Brass</strong>: Well, did you, did you hear anything unusual?</p>
+<p><strong>Michael Bowie</strong>: No. Everyone seemed to be having a good time. Until the woman in the fuzzy dress shrieked. I found Mr. Huxley slumped forward. Checked for a pulse, and he didn't have one, so I turned on the emergency lights. Then she really screamed. Is she pretty? She had a pretty girl scream.</p>
+<p><strong>Brass</strong>: Oh, man. She's a Huxley Kitty. She's gorgeous. </p>
+<p>(Brass notes the waiter's tie is wet.) </p>
+<p><strong>Brass</strong>: Hey, uh ... Let me ask you something. Did you wash your hands?</p>
+<p><strong>Michael Bowie</strong>: Force of habit; I'm sorry. Waiter.</p>
+<p><strong>Brass</strong>: Okay, we're going to have to take your prints, okay?</p>
+<p><strong>Michael Bowie</strong>: Sure. </p>
+<p>(Brass leads Michael Bowie over to the print table.) </p>
+<p><strong>Brass</strong>: We're going to walk, straight ahead.</p>
+<p>CUT TO:<br />
+[INT. BLIND – DINING ROOM – DAY]</p>
+<p>(Warrick and Catherine look at the mess on the table.) </p>
+<p><strong>Warrick</strong>: Looks like there was some kind of struggle.</p>
+<p>(Catherine touches the substance.) </p>
+<p><strong>Catherine</strong>: Sticky.</p>
+<p>(She finds it on the floor as well.) </p>
+<p><strong>Warrick</strong>: What do you think it is?</p>
+<p>(She touches it and smells it. She looks at Warrick) </p>
+<p>CUT TO:<br />
+[INT. BLIND – LOBBY – DAY]</p>
+<p><strong>Peter Ellis</strong>: Honey? The detective needs to ask us some questions.</p>
+<p>(Nanci Katz holds a cold pack to her head. She shakes Brass's hand.) </p>
+<p><strong>Nanci Katz</strong>: Hi, Nanci Katz. Soon to be Ellis.</p>
+<p>(She giggles.)</p>
+<p><strong>Brass</strong>: I'm Jim Brass. Yes. So, what happened, Nanci?</p>
+<p><strong>Nanci Katz</strong>: Oh, um ... ask him.</p>
+<p><strong>Peter Ellis</strong>: Oh ... uh ... well, I-I thought it would be romantic ...</p>
+<p>(Quick flashback to: They're eating in the dark.) </p>
+<p><strong>Nanci Katz</strong>: (V.O.) Mmm. I have not ever tasted a fig this juicy.</p>
+<p><strong>Peter Ellis</strong>: Oh, they're so good.</p>
+<p><strong>Nanci Katz</strong>: Mmm.</p>
+<p><strong>Peter Ellis</strong>: It's like they're, it's like, it's better than the Newtons.</p>
+<p>(He feels around and opens a ring box. He takes out a diamond ring and slides it across the table toward her hand.) </p>
+<p><strong>Nanci Katz</strong>: Mmm. It's so much better.</p>
+<p>(He pulls the tablecloth down and the plates of food fall off the table.) </p>
+<p><strong>Peter Ellis</strong>: Oh, God!</p>
+<p><strong>Nanci Katz</strong>: Baby, are you okay?</p>
+<p><strong>Peter Ellis</strong>: Yeah, um ...</p>
+<p><strong>Nanci Katz</strong>: What happened?</p>
+<p><strong>Peter Ellis</strong>: Yeah. Uh ... a thing ... I'm ... uh ... okay.</p>
+<p>(Peter tries again.) </p>
+<p><strong>Michael Bowie</strong>: (o.s.) It's Michael here. Is ... is everyone all right?</p>
+<p>(Peter puts the ring in Michael's hand so he can feel what he's trying to do.) </p>
+<p><strong>Peter Ellis</strong>: Oh ... uh ... yeah. Michael, I'm just ... (mutters) I'm trying to get something going here.</p>
+<p><strong>Michael Bowie</strong>: Oh, no problem, sir. I'll leave you two alone.</p>
+<p><strong>Peter Ellis</strong>: Okay.</p>
+<p>(Michael leaves.) </p>
+<p><strong>Peter Ellis</strong>: Uh, baby, where's your ...</p>
+<p><strong>Nanci Katz</strong>: Yeah?</p>
+<p><strong>Peter Ellis</strong>: Where's your hand?</p>
+<p>(He reaches for her hand. She gasps.) </p>
+<p><strong>Peter Ellis</strong>: Ever since I met you, I've known I wanted to ask you this question. (He pauses to count her fingers to make sure he gets the ring on the right one.) One, two, three. Would you be my wife? Will you marry me?</p>
+<p>(She laughs.) </p>
+<p><strong>Nanci Katz</strong>: Yes! Yes.</p>
+<p>(Since she can't see it, she feels the diamond.) </p>
+<p><strong>Nanci Katz</strong>: Oh, my gosh. I can't even see it, but it feels big. The ring, I mean.</p>
+<p><strong>Peter Ellis</strong>: Sure, yeah.</p>
+<p><strong>Nanci Katz</strong>: Yes! Yes!</p>
+<p>END FLASHBACK.</p>
+<p>(Brass is holding Nanci's hand and looking at the ring. Peter looks at him expectantly.) </p>
+<p><strong>Brass</strong>: Oh. Congratulations.</p>
+<p><strong>Peter Ellis</strong>: Thanks.</p>
+<p><strong>Brass</strong>: So how'd you bump your noggin?</p>
+<p>(She looks a little embarrassed as she glances at Peter.) </p>
+<p><strong>Nanci Katz</strong>: It was dark; nobody, could see. I wanted to say yes.</p>
+<p>(Brass nods. He gets it.)</p>
+<p><strong>Nanci Katz</strong>: Loud and clear? There's a lot of metal under those tables.</p>
+<p><strong>Peter Ellis</strong>: There really is, yeah.</p>
+<p><strong>Nanci Katz</strong>: Way too much.</p>
+<p><strong>Peter Ellis</strong>: It's not safe.</p>
+<p><strong>Brass</strong>: I bet.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – DAY] </p>
+<p><strong>Holstein</strong>: (V.O.) Losing the race was just the beginning.</p>
+<p>[INT. PD – INTERVIEW ROOM – DAY]</p>
+<p>(Holstein and Nick interview Rodney Banks.) </p>
+<p><strong>Holstein</strong>: Then, you killed him. Cut his body up and dumped it on the side of the road.</p>
+<p><strong>Rodney Banks</strong>: Whoa, man. I swear I didn't kill anybody. Or I didn't cut anybody up or dump 'em. All I did was ask him for a rematch ... off the track, where it really counts.</p>
+<p>(Quick flashback to: [NIGHT] Vincent Bartley and Rodney Banks race the go-carts on the open road behind a truck.)</p>
+<p>(Vincent tries to pass the truck, but there's another car coming toward them. He goes back behind the truck.)</p>
+<p>(Rodney goes ahead and passes the truck.)</p>
+<p>(He stops and celebrates, knowing he won.) </p>
+<p><strong>Rodney Banks</strong>: Yeah!</p>
+<p>(He turns and sees Vincent's go-cart swerve uncontrollably. Vincent has no head.) </p>
+<p>END FLASHBACK.</p>
+<p><strong>Nick</strong>: So your statement is he just spontaneously lost his head?</p>
+<p><strong>Rodney Banks</strong>: Yeah. You know, one minute, he's staring at me. The next, I look back, and the Headless Horseman is driving his cart.</p>
+<p><strong>Nick</strong>: And then what happened?</p>
+<p>(Rodney's quiet.)</p>
+<p>(Quick flashback to: He gets his helmet off and gets out of the go-cart. He gets Vincent's body out of the cart, removes Vincent's belt and uses it has a tie between the two go-carts. He climbs back into his cart and tows it back.) </p>
+<p>END FLASHBACK.</p>
+<p><strong>Ezekiel Holstein</strong>: So why you just didn't ditch the carts?</p>
+<p><strong>Rodney Banks</strong>: Christin, that ... that girl at the track, she let us sneak out with them. You know, my life was turning into a horror movie -- I didn't want to bring her in on it.</p>
+<p>(Nick shrugs.) </p>
+<p>CUT TO:<br />
+[INT. CSI – HALLWAY / GRISSOM'S OFFICE -- DAY] </p>
+<p>(Conrad Ecklie moves through the hallway, determined to corner Grissom. He walks into Grissom's office.) </p>
+<p><strong>Conrad Ecklie</strong>: You've been dodging me; it's time to talk. </p>
+<p>(Grissom is sitting at his desk.) </p>
+<p><strong>Conrad Ecklie</strong>: Gil, nobody wants to hear about your love life less than I do, but since you didn't handle this right, I have to take a formal statement. </p>
+<p>(Ecklie sits down and opens his notebook.) </p>
+<p><strong>Conrad Ecklie</strong>: Should've been a conversation between friends. I mean, we could've found some way around this. Catherine could have done Sara's evaluations. Why didn't you just tell me?</p>
+<p><strong>Grissom</strong>: We didn't want you to know.</p>
+<p><strong>Conrad Ecklie</strong>: Don't most women like the world to know they're dating someone?</p>
+<p><strong>Grissom</strong>: Where do you get your information about women, Conrad?</p>
+<p>(Ecklie shakes his head.) </p>
+<p><strong>Conrad Ecklie</strong>: Okay, so, when did you two, you know?</p>
+<p>(Grissom thinks about it.) </p>
+<p><strong>Grissom</strong>: Nine years ago.</p>
+<p>(Ecklie rolls his eyes.) </p>
+<p><strong>Conrad Ecklie</strong>: (exasperated) You know what? You two need to get your stories straight.</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[EXT. LAS VEGAS CITY (STOCK) – DAY] </p>
+<p>[INT. GO-CART TRACKS -- DAY] </p>
+<p>(Greg examines the go-carts. He stops and kneels next to one of the carts. He notices gravel.) </p>
+<p>CUT TO:<br />
+[INT. CSI – GARAGE -- DAY] </p>
+<p>(Nick and Greg examine the go-carts.) </p>
+<p><strong>Nick</strong>: There's road gravel embedded in all these tires.</p>
+<p><strong>Greg</strong>: Yeah, but no visible blood on that one.</p>
+<p>(Greg looks at the bumpers.) </p>
+<p><strong>Greg</strong>: Got a worn area on this front bumper. Some brown trace. Same goes for the rear of that one.</p>
+<p>(Nick moves over to look at the bumper.) </p>
+<p><strong>Nick</strong>: Well, if it turns out to be leather, it would confirm Hot Rod's story that he towed the second cart back using Vinnie's belt.</p>
+<p><strong>Greg</strong>: Got what looks like ... blood on this wheel well.</p>
+<p>INSERT: CGI BLOODSPATTER</p>
+<p>(Greg swabs it and tests it.) </p>
+<p><strong>Greg</strong>: This is the victim's cart. Must have been movin' when his head popped off.</p>
+<p>CUT TO:<br />
+[INT. CSI – FORENSIC AUTOPSY – DAY]</p>
+<p>(Robbins snaps photos of Hampton Huxley on the table as David works nearby.) </p>
+<p><strong>Robbins</strong>: Well, another one for the scrapbook. Boy, he looks different without hair. Never knew he wore a toupee.</p>
+<p><strong>David Phillips</strong>: Oh ... uh ... it had something sticky on it, so I bagged it for Trace. (He holds up the bag.) But if you want, we could put it back on for the photo op.</p>
+<p><strong>Robbins</strong>: No, that's okay; let's get to cutting.</p>
+<p>(David picks up the bone saw.) </p>
+<p>(He turns the saw on as Robbins makes the initial cut on Hampton Huxley's skull.) </p>
+<p>SHORT TIME CUT TO: </p>
+<p>(Robbins examines Huxley's brain.) </p>
+<p><strong>Robbins</strong>: Embedded horizontally in the parenchyma of the right temporal lobe is a linear, silver-toned, metal tube that tapers to a point. And in this case, David, the pen may be mightier than the sword.</p>
+<p>INSERT: CGI</p>
+<p>(The pen punctures through the head into the brain where the tip breaks off as it's extracted.) </p>
+<p>(The blood and ink drip out.) </p>
+<p>CUT TO:<br />
+[INT. PD – BRASS'S OFFICE -- DAY] </p>
+<p>(He empties Shasta's bag onto the desk and finds her cell phone, wallet and other items stained with leaky ink.) </p>
+<p><strong>Brass</strong>: Okay.</p>
+<p><strong>Shasta McCloud</strong>: Okay, that pen's not mine.</p>
+<p><strong>Brass</strong>: Yeah. Nice try, sweetheart.</p>
+<p>(Shasta sighs and sits down.) </p>
+<p><strong>Shasta McCloud</strong>: Excuse me. Can I be Lucy Logic for a bit? First of all, that purse is designer. There's no way I'm ruining it with ink.</p>
+<p>(April shakes her head at Brass in agreement.) </p>
+<p><strong>Shasta McCloud</strong>: Second of all, I know where my bread is buttered. Hux was my meal ticket -- kill him, go hungry.</p>
+<p><strong>Brass</strong>: Unless you're in the will.</p>
+<p>(Both April and Shasta laugh.) </p>
+<p><strong>Shasta McCloud</strong>: Kitties don't get in the will. Besides, if I had touched that thing, wouldn't I have ink on my hands?</p>
+<p><strong>Brass</strong>: Hmm.</p>
+<p><strong>Shasta McCloud</strong>: Whoever did it ditched the pen in my bag. It was on the back of my chair the whole time. It could have been anyone.</p>
+<p><strong>April Kissime</strong>: What about the guy who assaulted me?</p>
+<p><strong>Shasta McCloud</strong>: Look, if you really want a suspect, you need to check out little Miss Chef Lady.</p>
+<p><strong>Brass</strong>: Little Miss Chef Lady? Why is that?</p>
+<p><strong>April Kissime</strong>: Hello.</p>
+<p><strong>Shasta McCloud</strong>: Duh, she's ... Winter Issue? 1995.</p>
+<p>CUT TO:<br />
+[INT. PD – INTERVIEW ROOM -- DAY] </p>
+<p>(Brass sits at the table looking at a magazine centerfold.) </p>
+<p><strong>Brass</strong>: You certainly weren't hiding anything back then. Hmm?</p>
+<p>(He closes the magazine and looks at Pippa Sanchez.) </p>
+<p><strong>Brass</strong>: Ms. Sanchez, according to your fellow Kitties, you and Huxley had a falling out. It's curious that you didn't mention that.</p>
+<p><strong>Pippa Sanchez</strong>: I didn't mention it, because it's ancient history. Twelve years ago, a misogynist told me I should eat less. And today, I now have a hot restaurant on the Strip and two contracts for spots in LA and Chicago. &quot;Food Seduction&quot; is a best-seller. I think I won that battle already.</p>
+<p><strong>Brass</strong>: So, did you and Huxley speak to each other last night?</p>
+<p><strong>Pippa Sanchez</strong>: His reservation was booked under a pseudonym. I didn't even know he was there. Mr. Brass, do you know why I started my restaurant?</p>
+<p><strong>Brass</strong>: No. Tell me.</p>
+<p><strong>Pippa Sanchez</strong>: Because I fell in love with a blind man. He would turn off the lights and feed me. When you deprive one sense, other senses are heightened. My only focus was on my tongue. It was brilliant. And then he died. And this restaurant is an homage to him—to our love affair.</p>
+<p><strong>Brass</strong>: How nice for you. </p>
+<p><strong>Pippa Sanchez</strong>: I don't mean to be crude, but a murder is, quite frankly, bad for business.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN: </p>
+<p>[INT. CSI – LAB -- DAY] </p>
+<p>(Warrick takes one of the napkins out of the package and puts it in the video spectral comparator.) </p>
+<p>VARIOUS DISSOLVES.</p>
+<p>(He takes the napkin out and grabs the next package where he does the same for the next napkin and the next napkin.) </p>
+<p>INTERCUT WITH: </p>
+<p>[INT. CSI – LAYOUT ROOM – DAY]</p>
+<p>(Catherine looks at the morgue photos and spreads them out on the table. She opens the file folder and looks at the photos of various items -- of a watch, wallet and toupee.) </p>
+<p>(In the file, she sees:<br />
+8) TOUPEE AUTOPSY – D. HODGES TRACE. IDENTIFY UNKNOWN STICKY SUBSTANCE</p>
+<p>(Warrick finishes the napkins. He looks at the napkins under various lights in the VSC and finds a print on one of them.) </p>
+<p>(Catherine finds the analysis for the sticky substance: HONEY.) </p>
+<p>(Warrick walks into the room with his results.) </p>
+<p><strong>Catherine</strong>: Hey.</p>
+<p><strong>Warrick</strong>: Hey.</p>
+<p><strong>Catherine</strong>: So, Huxley had honey on his hairpiece, ink in his brain and blood all over. There were three people who had honey on their hands: the frisky couple and Michael. Two people who had blood on their clothing: April and Michael. And there was a total of five people moving around the room: two Manducci brothers and all three waiters. Now, that's a lot of lists for Michael to turn up on. He does work there, so there's reason for it, but ...</p>
+<p><strong>Warrick</strong>: Well, there's no reason for this: Michael's print in ink, on a napkin.</p>
+<p>(He shows her the print.) </p>
+<p><strong>Catherine</strong>: What would he have against Huxley?</p>
+<p><strong>Warrick</strong>: His prints hit back to an old work card. The guy used to be a chef.</p>
+<p><strong>Catherine</strong>: A blind chef?</p>
+<p><strong>Warrick</strong>: He lost his sight a few years back. But before that, guess who was his sous-chef?</p>
+<p>CUT TO:<br />
+[INT. PD – INTERVIEW ROOM -- DAY] </p>
+<p>(Catherine reads to Michael Bowie from Pippa Sanchez's book) </p>
+<p><strong>Catherine</strong>: (reads) &quot;The man knew his way around a kitchen, and his way into my heart. Michael would spend hours teaching me, feeding me ... loving me.&quot;</p>
+<p><strong>Brass</strong>: So, you're the dead guy?</p>
+<p><strong>Michael Bowie</strong>: She seduces me, steals my recipes, my ideas, my investors. And then she hires me as a freaking waiter. Night after night, I listen to her tell stories of the tragic love affair, of the poor, dead blind guy. Last night, I finally confronted her. </p>
+<p>(Quick flashback to: Michael talks with Pippa.) </p>
+<p><strong>Michael Bowie</strong>: I deserve a piece of the action.</p>
+<p><strong>Pippa Sanchez</strong>: At $200 a head, you're clearing at least $1,000 in tips at night. That's a lot of action for a blind man.</p>
+<p><strong>Michael Bowie</strong>: I made you.</p>
+<p><strong>Pippa Sanchez</strong>: You're fired. We're done.</p>
+<p>(End of flashback.) </p>
+<p><strong>Brass</strong>: But why kill Huxley? Why not just her?</p>
+<p><strong>Michael Bowie</strong>: I'm blind. She's not. But in that dining room, everybody else is blind, too. And when Huxley walked in with his Kitties, it was like a sign from the gods. I knew I could destroy her and the restaurant.</p>
+<p>(Quick flashback to: Hampton Huxley eats an oyster.) </p>
+<p><strong>Michael Bowie</strong>: (V.O.) I waited till the oyster course. The shells clanging, and slurping, the &quot;oohing,&quot; the &quot;aahing, I knew it would cover any noise I was going to make.</p>
+<p>(As they eat, Michael stabs him with the pen.) </p>
+<p>(End of flashback.) </p>
+<p><strong>Michael Bowie</strong>: I wanted her rotting in jail, eating bologna sandwiches.</p>
+<p><strong>Catherine</strong>: If you wanted to frame Pippa, why did you plant the pen in Shasta's purse?</p>
+<p><strong>Michael Bowie</strong>: I tell everyone to put their purses and jackets on the back of the chairs, so I knew exactly where her purse was.</p>
+<p>(Quick flashback to: Michael puts the dripping pen in the purse. He wipes his hands on the napkin and drops the napkin on the floor.) </p>
+<p><strong>Michael Bowie</strong>: Old cat frames young Kitty. Kind of perfect.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – DAY] </p>
+<p>[INT. CSI – GRISSOM'S OFFICE -- DAY] </p>
+<p>(Greg and Nick report back to Grissom.) </p>
+<p><strong>Greg</strong>: We found high velocity blood spatter inside the rear wheel well of the victim's cart, which means he lost his head at high speed.</p>
+<p><strong>Nick</strong>: So how did Hot Rod decapitate Vinnie while racing down a highway at 60 miles an hour?</p>
+<p><strong>Grissom</strong>: Maybe he didn't.</p>
+<p><strong>Greg</strong>: Well, people's heads just don't fly off for no reason. Well, I mean, maybe we should check the scene for some wires or branches, or something he could've run into.</p>
+<p><strong>Nick</strong>: If it would've happened that way, we would've found trace from whatever did it. The only trace in the neck and arm wounds was rubber from truck tires.</p>
+<p><strong>Grissom</strong>: Which was present on both sides of his wounds but not on his clothing.</p>
+<p><strong>Greg</strong>: There were blown-out tire fragments all over the road.</p>
+<p><strong>Grissom</strong>: But we found his body off the road. There shouldn't be any transfer from truck tires.</p>
+<p>(Grissom thinks about it.) </p>
+<p><strong>Grissom</strong>: Unless ...</p>
+<p>(Nick and Greg exchange looks.) </p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(Grissom is revving up a rubber tire. In the background, Ecklie passes in the hallway and stops when he sees Greg and Nick setting up the Jell-O bust. They secure the bust at about the same height as the go-cart.) </p>
+<p>(Ecklie walks in.) </p>
+<p><strong>Conrad Ecklie</strong>: What's going on here?</p>
+<p><strong>Grissom</strong>: We're trying to determine whether a steel-belted truck tire can decapitate a kid driving a go-cart.</p>
+<p>(Nick puts the helmet on the bust.) </p>
+<p><strong>Conrad Ecklie</strong>: I thought that was an urban myth.</p>
+<p><strong>Grissom</strong>: Myths, legends, tall tales -- they all come from something real.</p>
+<p><strong>Nick</strong>: If that go-cart was going 60 miles an hour drafting a truck going the same speed, and that truck blows a tire, sending a two-pound projectile into the driver's neck ...</p>
+<p><strong>Conrad Ecklie</strong>: Yeah, the combined speed of impact would be 120 miles an hour. Which is about ...</p>
+<p><strong>Greg</strong>: 962 foot-pounds of energy.</p>
+<p><strong>Grissom</strong>: All right, let's go, fellas.</p>
+<p>(Nick pats the helmet secure on the bust. He and Greg get up and move behind the shield. Ecklie doesn't move. They can't do the experiment until Ecklie moves.) </p>
+<p><strong>Grissom</strong>: Come on, Conrad. There's always room for Jell-O.</p>
+<p><strong>Conrad Ecklie</strong>: (mutters) It's expensive Jell-O.</p>
+<p>(Ecklie grabs protective head gear and moves behind the shield with the others.) </p>
+<p>(Grissom picks up some rubber, -- </p>
+<p><strong>Greg</strong>: (excitedly) I love this.</p>
+<p>-- then sends it through the rolling tires.) </p>
+<p>SLOW MOTION. The rubber hits the helmet and knocks the head off the bust.</p>
+<p>(Quick flashback to: [NIGHT] During the race, Vincent doesn't pass the truck. The truck hits a piece of rubber on the road, sending it back toward Vincent, hitting him on the shoulder. He blocks it and continues racing.) </p>
+<p>(The truck hits more pieces of rubber on the road, sending it back toward Vincent. He raises his hand to block it. The rubber cuts off his head and his hand.) </p>
+<p>(End of flashback.) </p>
+<p>SLOW MOTION. The rubber knocks the head off the bust.</p>
+<p>(The helmet and Jell-O bounce off the lab floor.) </p>
+<p>(Ecklie looks at them.) </p>
+<p><strong>Conrad Ecklie</strong>: Well, it worked. See if we can't reuse some of that.</p>
+<p>(And like a kid, Grissom smiles.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) – DAY] </p>
+<p>[INT. GRISSOM'S CAR (PARKED) -- DAY] </p>
+<p>(Grissom and Sara talk.) </p>
+<p><strong>Grissom</strong>: When did you tell Ecklie we got involved?</p>
+<p>(Thinks about it.) </p>
+<p><strong>Sara</strong>: Two years ago. Why? What did you tell him?</p>
+<p><strong>Grissom</strong>: Nine years ago.</p>
+<p>(Sara laughs.)</p>
+<p><strong>Sara</strong>: The Forensic Academy Conference?</p>
+<p><strong>Grissom</strong>: Yeah.</p>
+<p>(She laughs.)</p>
+<p><strong>Grissom</strong>: You ... uh ... had too many questions about anthropology, for some reason. </p>
+<p><strong>Sara</strong>: Well, I was stalling. I was trying to get the nerve to ask you to dinner. </p>
+<p><strong>Grissom</strong>: You had a ponytail.</p>
+<p><strong>Sara</strong>: I'm going to move to swing.</p>
+<p><strong>Grissom</strong>: We talked about this. </p>
+<p><strong>Sara</strong>: I know that you said that you would do it, but I don't want to do that to the team. Besides ... I am sure that I could use more daylight in my life.</p>
+<p>(Grissom is quiet. He nods.) </p>
+<p><strong>Sara</strong>: We should go.</p>
+<p><strong>Grissom</strong>: Yeah.</p>
+<p>(They get out of the car.) </p>
+<p>CUT TO:<br />
+[INT. GO-CART TRACKS -- DAY] </p>
+<p>(The team is inside racing around the tracks in the go-carts. Sara and Grissom walk up to the fence and watch them. As they round the corner, they wave to them. Grissom gives a thumbs-up sign to them.) </p>
+<p>(Nick stops the cart in front of them and opens his helmet visor.) </p>
+<p><strong>Nick</strong>: Whoo! (to Sara) You ... uh ... you want a ride?</p>
+<p><strong>Sara</strong>: Wish I could.</p>
+<p><strong>Nick</strong>: What about you, Ricky Bobby?</p>
+<p><strong>Grissom</strong>: No, thanks, I like to watch.</p>
+<p><strong>Nick</strong>: Okay.</p>
+<p>(Nick laughs, shuts the visor and heads off on his way. Sara turns at Grissom.)</p>
+<p><strong>Sara</strong>: You should go.</p>
+<p><strong>Grissom</strong>: Yeah?</p>
+<p><strong>Sara</strong>: Yeah, you should go.</p>
+<p><strong>Grissom</strong>: Okay.</p>
+<p>(Grissom goes through the gate and picks up the helmet off the nearby cart.) </p>
+<p>(Sara smiles. Grissom is in the cart and ready to go. Sara gives him a thumbs-up sign.)</p>
+<p>(Grissom starts the cart, gives her a thumbs-up sign and races around the track with the others. They're like a bunch of little kids.) </p>
+<p>(Sara remains at the fence watching them from the outside.) </p>
+<p>(Grissom rides the go-cart around the tracks.) </p>
+<p>(HOLD on Sara watching.)</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
- 
- 
- 
-
- 
- 
-Conrad Ecklie:  Have a seat.
- 
-Grissom:  This is Grissom.
-Conrad Ecklie:  How's the arm?
-Grissom:  Please leave a detailed message after the tone.
-Sara: Fractured in two places.
- 
-
-Conrad Ecklie:  Gil, Conrad again. Um ... message number three. Call me back please.
- 
-Conrad Ecklie: It's feeling better?
-Sara: Yeah.
-Conrad Ecklie: Good.
- 
-Conrad Ecklie: So, you must know where he is.
-Sara: Actually, I don't.
-Conrad Ecklie: Really?
- 
-Conrad Ecklie: Okay ... um ... Look, I don't want to play any games here. This is as difficult for me as it is for you.
-
-Conrad Ecklie: So let's just ... uh ... get this over with, shall we? 
- 
-Conrad Ecklie: Okay then ... uh ... this is an administrative inquiry. You and your supervisor were in direct violation of lab policy ...
-Sara:  &quot;Are.&quot;
-Conrad Ecklie: &quot;Are&quot; in direct violation of lab policy, which states that members of the same forensic team may not engage in a romantic relationship. So when did you and Supervisor Grissom begin your relationship?
-Sara: We've always had a relationship.
-Conrad Ecklie: I mean, when did you become intimate?
-Sara: Two years ago. I think it was a Sunday.
-
-
-
- 
-MUSIC STARTS: &quot;An der Schonen Blauden Donau,&quot; Op. 314  by Johann Strauss
- 
-
- 
-SIDE VIEW
- 
-TOP VIEW DOWN
- 
--- AND NIGHT TURNS INTO DAY – 
- 
- 
- 
- 
- 
-
-
- 
-Det. Ezekiel Holstein:  Sagebrush Valley High School.
- 
-Ezekiel Holstein: The Cobras.
-Nick: He looks like he could still be in high school. Boy, football's gotten a lot more brutal since my playing days.
-Ezekiel Holstein: Yeah, where's the rest of him, still on the field?
- 
-Nick: There's no high school football fields around here anyway. What do you think, Grissom?
- 
-Grissom: &quot;Ichabod was horror-struck on perceiving that he was headless.&quot;
-
- 
-HOLD on the HEAD.
-SMASH CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
-
-INCOMING CALL
-CONRAD ECKLIE
- 
-Nick: Blood pool tells me the helmet must've been here for a while.
- 
-Grissom: Vehicle tire rolled through it. Helmet has black abrasions on it consistent with being hit by a tire.
-Nick: Probably got pinballed down the road.
- 
-Greg: I checked with Traffic. No reports of any traffic accidents near here. Uh, Holstein's getting an absentee list from the high school.
- 
-Grissom: Head's over there. Blood trail leads up from here. We follow the blood.
- 
- 
-Greg:  He say anything about what's happening with Sara?
-Nick:  No.
- 
- 
-VARIOUS DISSOLVES: 
- 
- 
- 
- 
- 
- 
-Nick:  Hey, did Sara ever say anything to you about her and Grissom?
-Greg: Not in so many words.
-Nick: So you knew about the two of them?
-Greg:  Yeah.
- 
- 
-Grissom: Hey!
- 
-
-Nick: Where's the uniform?  If he's not a player, what's with the helmet?
- 
-Greg: Maybe he's a rabid fan. There were all kinds of high school games last night.
-Grissom: Where's his hand?
-Nick:  Got to be around here somewhere.
-
- 
- 
- 
-Robbins: The hand -- where did you find it?
-Nick: Twenty yards away, two hours later.
- 
-Robbins: David, he doesn't look prepped. What's taking so long?
-David Phillips: I can't get the helmet off.
-Nick: I better get this ten-card to Mandy right away.
- 
- 
-Robbins: Hold it.
- 
-Robbins: His face looks like hamburger.
- 
- 
-David Phillips: I found the same black powder on his clothes.
- 
-
-
- 
-Nick: Hey, Mandy. I got a ten-card on our John Doe.
-Mandy: Well, let's see if it matches the safe-kit that Holstein brought in. Only have one more kid unaccounted for at that high school.
- 
-Nick: Hey, if you had a kid, would you collect a safe-kit on them?
-Mandy: Why not? It's better to be prepared. Think of it as a cheap insurance policy.
- 
-Mandy: It's just a print card, a cheek swab and a photo.
-Nick: Then go to bed every night hoping you don't have to use it.
-Mandy: Mm ... well, there's a match. Your John Doe is Vincent Bartley.
-Nick: Yeah?
-Mandy: Yeah.
- 
-Nick: Okay, good. Thanks.
- 
-Mandy: You're welcome.
-
-
- 
- 
-Shasta McCloud: Well, nothing. I mean, it was dark.
-April Kissimee: It was really dark.
- 
-Warrick: One minute we're married, and the next ...
-Catherine: You know what? Good for you. Divorces should be like Band-Aids, one quick yank and done.
- 
-Warrick: You think?
-Catherine: Oh, what do I know? Eddie and I stayed together way too long. Every decision was an act of Congress.
- 
-
- 
-Brass: It's the end of an era, ladies and gentlemen. Hampton Huxley, publisher of Hux magazine -- where boys became men, and men became more manly -- has died. 
- 
-Brass: That magazine got me through Vietnam.
-Warrick: Oh, that would explain the lookers out front. They were Kitties.
-Brass: Yes, Kitties, indeed. He was dining with a couple of them when he bought the farm. Miss Summer and Miss Winter, I believe.
-David Phillips: Every male in the Phillips family gets a lifetime subscription to Hux for his Bar Mitzvah. 
- 
-David Phillips: I guess my sons will have to settle for a Cross pen.
-Catherine: I'm sure the magazine will go on without him, Dave.
- 
-Catherine: What are we looking at?
-David Phillips: Puncture wound. Um ... no abrasion ring. But I can re-approximate the skin.
-Catherine: So it's probably not a gunshot.  Stabbing?
-David Phillips: Maybe. Right through the temple, into the brain. Be lights out in seconds.
-Warrick: It's a crowded restaurant. Somebody must have seen something.
-Brass: Not exactly. Welcome to the latest fad. Dining in the dark.
- 
-Brass: Waiters are blind. No one sees anything. Piece of cake, huh?
- 
-
-
-Catherine:  Did he just leave?
-Warrick:  I think so.
-David Phillips:  Guys? I-I have a dead body here.
-
-
-
-
-
- 
-Pippa Sanchez:  Dining should be an experience, like opera or art. It should feed the soul as well as the belly. You should smell it, touch it and let it rest on your tongue. 
-VARIOUS IMAGES OF WOMEN EATING
-Pippa Sanchez:  I'm selling sensuality here. I encourage eating with your hands. Texture is crucial. The salty, meaty flesh of lobster drenched in creamy, clarified French butter. The pulpy seeded flesh and firm skin of a fresh fig dipped in honey. The tongue understands four major taste groups – 
-CGI ZOOM INTO THE MOUTH AND HIGH POWERED IMAGE OF THE TASTE BUDS ON THE TONGUE
-Pippa Sanchez:  -- salty, sweet, sour, bitter -- and has over 10,000 taste buds, -- 
-CGI ZAP! PULSES TRAVEL FROM THE NERVES TO THE BRAIN
-Pippa Sanchez:  -- each with a direct connection to the pleasure center of the brain, triggering endorphins. The anticipation and the release of eating good food is chemically quite similar -- 
-END CGI
- 
-Pippa Sanchez: -- to getting high on drugs.
-Brass: And apparently just as dangerous.
-(As they talk, a CSI tech takes Pippa's prints.
-Brass: So tell me what happened.
-Pippa Sanchez: I don't know. Each one of the waiters has one of those clickers. If there's an emergency, the houselights come up and a red light goes off in the kitchen.
- 
-Woman: Somebody help! WOMAN: Help! Help him!
- 
-Pippa Sanchez: Are you okay?
-April Kissimee: Hux!
-Pippa Sanchez: Call 9-1-1.
- 
-Brass: Oh, so you didn't see anything?
-Pippa Sanchez: I'm in the kitchen. I have two sittings a night, at 7:00 and
-10:00, average 25 heads, ten courses per. I have no time to pee.
-
-
- 
-Catherine: April was here ... and Huxley was here.
- 
- 
-Warrick: Okay. Got blood on the chair.
- 
-Warrick: Blood on the tablecloth.
- 
-Warrick: Blood drops on the floor, leading away from Hux's chair.
-Catherine: Stab him. Extract the weapon—drip, drip, drip.
-Warrick: And they end here.
-Catherine: Near Ms. Shasta.
-
-
- 
-Shasta McCloud: Shasta McCloud -- big &quot;M,&quot; little &quot;c,&quot; big &quot;C,&quot; plus &quot;loud.&quot;
-McCloud.
-April Kissimee: On TV, they never show anyone bleeding from a heart attack.
-Brass: Is that what you think happened?
-April Kissimee: Well, yeah. I mean, all that Prevalis and diet soda. I just figured ...
-Shasta McCloud: April, shh! He was an animal until the day he died, sir.
-Brass: Uh-huh.
-April Kissimee: Wait a minute. What did happen?
-Brass: Well-well, you're the one with blood on you. Maybe you can tell me.
-April Kissimee: I thought he just fell asleep like he always does at the end of meals.
- 
-April:  Come on! Wake up, Huxey.
- 
-April:  Wake up, Huxey. Wake up, Huxey-Hux. Come on, it's time to go. Meow, meow! Meow, meow!
- 
-April Kissimee: Waiter! Emergency!
-Shasta McCloud: April? April, what's wrong?!
-April Kissimee: Call 9-1-1! Help!
- 
-Shasta McCloud: April! April!
- 
-Michael Bowie: Michael here.
-April Kissimee:  Code red!
- 
- 
-Shasta McCloud: Help! Help us!
- 
- 
-Brass: Okay. Um, look, I'm going to need to take your sweater.
-April Kissimee:  Yeah, like I haven't heard that one before.
- 
-Brass: No. No, I don't mean right now. No, I mean, I... I'll need to take it before I go. You know, later, when I, when I leave, I have to take your sweater then.
- 
-
-
- 
-Nick: Mr. Bartley?
- 
-Matt Bartley: Matt. I'm Vincent's brother.
-Nick: I'm... Nick.
- 
-Nick: Stokes. Uh ...
-Matt Bartley: You don't need to say it. I knew when the detective asked me for that safe-kit that it was going to be Vinnie.
-Nick: Shouldn't I be talking to your parents?
-Matt Bartley: Don't have any parents. Mom skipped out when we were little, and Dad died a couple years ago. It's just the two of us.
- 
-Nick: Matt ... your brother wasn't on the football team, but when we found him, he was wearing a football helmet. Why is that?
-Matt Bartley: It was my old helmet.
-Nick: Is that how you got injured?
-Matt Bartley: No. It was the last day of spring break, and ... I was wasted. Like a dumb-ass, I dove into the Tangiers wave pool headfirst. Fractured my T-1 vertebra.
-Nick: So why the helmet?
-Matt Bartley: Well, I was a pretty good football player. He was proud of that. That and my dad's dragon belt. He got it when he was in the service. Vinnie wears it every day. It's just something that he has to hold onto ...  ...to deal with.
-Nick:  Yeah.
-
-
- 
-Catherine: You know, one of these could've been the murder weapon. It's approximate in size and shape. And everybody had one.
-
- 
- 
-Warrick: Well, something dripped over here that is not blood.
-Catherine: Well, could've been whatever food was on the skewers. ALS will pick up anything that's fatty or dairy-based.
- 
- 
-Warrick: Could you turn off the lights for a second?
- 
-Catherine: I'm sorry, but this is a stupid idea for a restaurant.
-WARRICK'S POV: NIGHT GOGGLE VISION. Catherine is cast in green.
-Catherine: I need to see what I'm eating.
- 
-Warrick: I can see just fine.
- 
-Catherine: Where are you?
-Warrick:  Oh.
- 
-Catherine: Hi. Warrick: Hi.
- 
-Catherine: Night vision goggles?
-Warrick: Yeah, someone left these behind. 
-Catherine: Kind of defeats the purpose of dining in the dark.
-Warrick: Unless you don't come here for the food.
-
-
- 
-Warrick: Mr. Nivens. Are these yours?
- 
- 
-Warrick: I'll take that as a &quot;yes.&quot;
- 
-Jerry Nivens: Wait, wait ... I didn't kill anyone.
-Warrick: Then why would your bring military-grade, night vision goggles to the restaurant?
- 
-Jerry Nivens: A hunch.
- 
-Jerry Nivens: Hey. Sweetheart, you want to try some of my steak?
- 
-Mona Nivens:  No, thanks. I'm all good.
-
-JERRY'S POV
- 
-
-Jerry Nivens: Always be suspicious when your wife wants to dine in the dark with another couple.
-Mona Nivens: You brought night vision goggles to spy on me during dinner?
-Jerry Nivens: Damn right.
- 
-
-
- 
-Hodges: Millions of tires wear out ever year. You ever wonder where all that rubber dust goes?
-Nick: No, I don't.
-Hodges: The black powder trace you found in your victim's clothing was tire rubber.
-Nick: It's not surprising. We found the body on the side of the highway.
-Hodges: Of course you would expect that. However, I did find some very interesting type of rubber.
-Nick: Okay, Hodges, dazzle me.
-Hodges: Truck tires have 27% isoprene and 14% neoprene. That's what makes them so hard. Passenger tires have a lower isoprene-to-neoprene ratio, but they also have silica for fuel economy and wet traction.
-INSERT: FLASH OF A GO-CART TIRE
-Hodges:  Go-cart tires, or &quot;slicks,&quot; – 
-
- 
-Hodges: -- to those in the know, have much higher levels of carbon black and oil, resulting in extremely high traction.
-Nick: Guess I better get my go-cart on.
-Hodges: You know, just so you know, I'm a bit of go-cart enthusiast myself.
-Nick: Oh, uh ... that's awesome.
- 
-
- 
- 
-Greg: Have you seen this guy before?
-Christin Gillis: Day before yesterday, day before that, and the day before that. Oh, man, did he get in trouble?
-Greg: Are these the race stats?
-Christin Gillis: Uh-huh.
-Greg: You keep record of them?
-Christin Gillis: Yeah, all in here. People ask for them every day like they're some sort of trophy.
-Greg: Could you print out Vincent Bartley's trophy from the last time he was here?
-Christin Gillis: Yeah. But I'm not getting him in trouble, am I?
-Nick: No. No, not really.  You know, when I was a kid, we used to make these things out of lunch trays and old lawn mower engines.
-Greg: When I was kid, I used to make bombs--little bombs.
- 
-Greg: Oh. &quot;Vinnie Vroom.&quot; Won all three of his races. Beat out a guy named &quot;Hot Rod.&quot;
-Christin Gillis: Vinnie ran circles around him.
-INSERT: FLASHBACK TO
- 
-Vinnie Vroom: Yes.
- 
-Vinnie Vroom: Yes. Yes, is that all you got? Is that all you got? Is that all you got? Is that all you got?
- 
-Vinnie Vroom: Is that all you got? Is that all you got?
-
-Christin Gillis: Rodney went from being A-Rod to being No-Rod.
- 
-Christin Gillis: Hey, there he is, right there.
- 
-Hot Rod: Aw, come on. Hey, if you guys want to race, then you guys have to wear dresses, huh?
- 
-Hot Rod: Get your skill up, all right. I need some competition here.
-Nick: Hot Rod!
- 
-
- 
-
- 
- 
- 
-
- 
- 
-Nick: Get out of the truck! Get out of the truck now!
- 
-Nick: Get out of the truck now!
- 
- 
-Nick: Nothing says &quot;I'm guilty&quot; like running from the cops, dumb-ass. Give me his wallet.
- 
-Nick: Rodney Banks. We're with the Vegas Crime Lab, Mr. Banks.
- 
-Rodney Banks: Hey, I didn't do nothing.
-Greg: You got quite a mess here, Rod. Mind if I take a look?
- 
-Nick: Where'd you get that belt?
-Rodney Banks: I don't know.
-Nick: Where?
-Rodney Banks: I don't know.
- 
-Greg: Blood. Looks like things just got a lot hotter for you, Rod.
-
-
- 
-Catherine: All skewers accounted for, none of them bloody.
- 
-Catherine: We've got a high-profile dead guy in a locked-room situation, with sixteen diners and three blind waiters. Give me something.
-Warrick: How about a Band-Aid with petals?
- 
-Catherine: It's not a Band-Aid. It's a nipple flower.
-Warrick: What's it doing at a table with four guys?
-
-
- 
-Man 1: Can I go to the bathroom? Please, please, please?!
-Brass: Again?
-Man 1: Yes, sir.
-Brass: Yeah, okay.
- 
-Brass: Okay. What's so funny?
-Orange Shirt Manducci: We slipped a laxative in his beer in the dark. It's his sixth trip to the can. It's freakin' hilarious.
-Brass: What are you guys, like twelve years old? Oh, hey, hey, Curly. How come you're so pretty in pink? Huh?
- 
- 
-Orange Shirt Manducci: Breast exam.
- 
-Orange Shirt Manducci: You know, doctors without boundaries, if you know what I mean.
-INSERT: FLASHBACK
- 
-Orange Shirt Manducci: You guys, come here. It's total darkness. There's two Kitties. That's four ... They're all up for grabs! I'm going on a mission of mercy.
- 
-April Kissimee: Who is that? Hux? Stop it. Save it for later.
-Hampton Huxley: What are you talking about?
-April Kissimee: That's not you, Hux?  Somebody's touching me!
-Orange Shirt Manducci: Sweet mother. Guys, they're real -- both of them!
-Hampton Huxley: Waiter? Waiter, we have a problem over here.
- 
-
- 
-Michael Bowie: Yeah, I lead Mr. Manducci back to his seat. He and his brothers had had quite a bit to drink.
-Brass: So it was the blind leading the drunk, huh?
-Michael Bowie: I could do it with my eyes closed.
-Brass: Well, did you, did you hear anything unusual?
-Michael Bowie: No. Everyone seemed to be having a good time. Until the woman in the fuzzy dress shrieked. I found Mr. Huxley slumped forward. Checked for a pulse, and he didn't have one, so I turned on the emergency lights. Then she really screamed. Is she pretty? She had a pretty girl scream.
-Brass: Oh, man. She's a Huxley Kitty. She's gorgeous. 
- 
-Brass: Hey, uh ... Let me ask you something. Did you wash your hands?
-Michael Bowie: Force of habit; I'm sorry. Waiter.
-Brass: Okay, we're going to have to take your prints, okay?
-Michael Bowie: Sure. 
- 
-Brass: We're going to walk, straight ahead.
-
-
- 
-Warrick: Looks like there was some kind of struggle.
- 
-Catherine: Sticky.
- 
-Warrick: What do you think it is?
- 
-
-
-Peter Ellis: Honey? The detective needs to ask us some questions.
- 
-Nanci Katz: Hi, Nanci Katz. Soon to be Ellis.
-
-Brass: I'm Jim Brass. Yes. So, what happened, Nanci?
-Nanci Katz: Oh, um ... ask him.
-Peter Ellis: Oh ... uh ... well, I-I thought it would be romantic ...
- 
-Nanci Katz:  Mmm. I have not ever tasted a fig this juicy.
-Peter Ellis: Oh, they're so good.
-Nanci Katz: Mmm.
-Peter Ellis: It's like they're, it's like, it's better than the Newtons.
- 
-Nanci Katz: Mmm. It's so much better.
- 
-Peter Ellis: Oh, God!
-Nanci Katz: Baby, are you okay?
-Peter Ellis: Yeah, um ...
-Nanci Katz: What happened?
-Peter Ellis: Yeah. Uh ... a thing ... I'm ... uh ... okay.
- 
-Michael Bowie:  It's Michael here. Is ... is everyone all right?
- 
-Peter Ellis: Oh ... uh ... yeah. Michael, I'm just ...  I'm trying to get something going here.
-Michael Bowie: Oh, no problem, sir. I'll leave you two alone.
-Peter Ellis: Okay.
- 
-Peter Ellis: Uh, baby, where's your ...
-Nanci Katz: Yeah?
-Peter Ellis: Where's your hand?
- 
-Peter Ellis: Ever since I met you, I've known I wanted to ask you this question.  One, two, three. Would you be my wife? Will you marry me?
- 
-Nanci Katz: Yes! Yes.
- 
-Nanci Katz: Oh, my gosh. I can't even see it, but it feels big. The ring, I mean.
-Peter Ellis: Sure, yeah.
-Nanci Katz: Yes! Yes!
-
- 
-Brass: Oh. Congratulations.
-Peter Ellis: Thanks.
-Brass: So how'd you bump your noggin?
- 
-Nanci Katz: It was dark; nobody, could see. I wanted to say yes.
-
-Nanci Katz: Loud and clear? There's a lot of metal under those tables.
-Peter Ellis: There really is, yeah.
-Nanci Katz: Way too much.
-Peter Ellis: It's not safe.
-Brass: I bet.
-
- 
-Holstein:  Losing the race was just the beginning.
-
- 
-Holstein: Then, you killed him. Cut his body up and dumped it on the side of the road.
-Rodney Banks: Whoa, man. I swear I didn't kill anybody. Or I didn't cut anybody up or dump 'em. All I did was ask him for a rematch ... off the track, where it really counts.
-
-
-
- 
-Rodney Banks: Yeah!
- 
-
-Nick: So your statement is he just spontaneously lost his head?
-Rodney Banks: Yeah. You know, one minute, he's staring at me. The next, I look back, and the Headless Horseman is driving his cart.
-Nick: And then what happened?
-
- 
-
-Ezekiel Holstein: So why you just didn't ditch the carts?
-Rodney Banks: Christin, that ... that girl at the track, she let us sneak out with them. You know, my life was turning into a horror movie -- I didn't want to bring her in on it.
- 
-
- 
- 
-Conrad Ecklie: You've been dodging me; it's time to talk. 
- 
-Conrad Ecklie: Gil, nobody wants to hear about your love life less than I do, but since you didn't handle this right, I have to take a formal statement. 
- 
-Conrad Ecklie: Should've been a conversation between friends. I mean, we could've found some way around this. Catherine could have done Sara's evaluations. Why didn't you just tell me?
-Grissom: We didn't want you to know.
-Conrad Ecklie: Don't most women like the world to know they're dating someone?
-Grissom: Where do you get your information about women, Conrad?
- 
-Conrad Ecklie: Okay, so, when did you two, you know?
- 
-Grissom: Nine years ago.
- 
-Conrad Ecklie:  You know what? You two need to get your stories straight.
-
-
-
-;
-
-
-
- 
- 
- 
-
- 
- 
-Nick: There's road gravel embedded in all these tires.
-Greg: Yeah, but no visible blood on that one.
- 
-Greg: Got a worn area on this front bumper. Some brown trace. Same goes for the rear of that one.
- 
-Nick: Well, if it turns out to be leather, it would confirm Hot Rod's story that he towed the second cart back using Vinnie's belt.
-Greg: Got what looks like ... blood on this wheel well.
-INSERT: CGI BLOODSPATTER
- 
-Greg: This is the victim's cart. Must have been movin' when his head popped off.
-
-
- 
-Robbins: Well, another one for the scrapbook. Boy, he looks different without hair. Never knew he wore a toupee.
-David Phillips: Oh ... uh ... it had something sticky on it, so I bagged it for Trace.  But if you want, we could put it back on for the photo op.
-Robbins: No, that's okay; let's get to cutting.
- 
- 
-
- 
-Robbins: Embedded horizontally in the parenchyma of the right temporal lobe is a linear, silver-toned, metal tube that tapers to a point. And in this case, David, the pen may be mightier than the sword.
-INSERT: CGI
- 
- 
-
- 
- 
-Brass: Okay.
-Shasta McCloud: Okay, that pen's not mine.
-Brass: Yeah. Nice try, sweetheart.
- 
-Shasta McCloud: Excuse me. Can I be Lucy Logic for a bit? First of all, that purse is designer. There's no way I'm ruining it with ink.
- 
-Shasta McCloud: Second of all, I know where my bread is buttered. Hux was my meal ticket -- kill him, go hungry.
-Brass: Unless you're in the will.
- 
-Shasta McCloud: Kitties don't get in the will. Besides, if I had touched that thing, wouldn't I have ink on my hands?
-Brass: Hmm.
-Shasta McCloud: Whoever did it ditched the pen in my bag. It was on the back of my chair the whole time. It could have been anyone.
-April Kissime: What about the guy who assaulted me?
-Shasta McCloud: Look, if you really want a suspect, you need to check out little Miss Chef Lady.
-Brass: Little Miss Chef Lady? Why is that?
-April Kissime: Hello.
-Shasta McCloud: Duh, she's ... Winter Issue? 1995.
-
- 
- 
-Brass: You certainly weren't hiding anything back then. Hmm?
- 
-Brass: Ms. Sanchez, according to your fellow Kitties, you and Huxley had a falling out. It's curious that you didn't mention that.
-Pippa Sanchez: I didn't mention it, because it's ancient history. Twelve years ago, a misogynist told me I should eat less. And today, I now have a hot restaurant on the Strip and two contracts for spots in LA and Chicago. &quot;Food Seduction&quot; is a best-seller. I think I won that battle already.
-Brass: So, did you and Huxley speak to each other last night?
-Pippa Sanchez: His reservation was booked under a pseudonym. I didn't even know he was there. Mr. Brass, do you know why I started my restaurant?
-Brass: No. Tell me.
-Pippa Sanchez: Because I fell in love with a blind man. He would turn off the lights and feed me. When you deprive one sense, other senses are heightened. My only focus was on my tongue. It was brilliant. And then he died. And this restaurant is an homage to him—to our love affair.
-Brass: How nice for you. 
-Pippa Sanchez: I don't mean to be crude, but a murder is, quite frankly, bad for business.
-
-
-
-
- 
- 
-VARIOUS DISSOLVES.
- 
-
-
- 
-(In the file, she sees:
-8) TOUPEE AUTOPSY – D. HODGES TRACE. IDENTIFY UNKNOWN STICKY SUBSTANCE
- 
- 
- 
-Catherine: Hey.
-Warrick: Hey.
-Catherine: So, Huxley had honey on his hairpiece, ink in his brain and blood all over. There were three people who had honey on their hands: the frisky couple and Michael. Two people who had blood on their clothing: April and Michael. And there was a total of five people moving around the room: two Manducci brothers and all three waiters. Now, that's a lot of lists for Michael to turn up on. He does work there, so there's reason for it, but ...
-Warrick: Well, there's no reason for this: Michael's print in ink, on a napkin.
- 
-Catherine: What would he have against Huxley?
-Warrick: His prints hit back to an old work card. The guy used to be a chef.
-Catherine: A blind chef?
-Warrick: He lost his sight a few years back. But before that, guess who was his sous-chef?
-
- 
- 
-Catherine:  &quot;The man knew his way around a kitchen, and his way into my heart. Michael would spend hours teaching me, feeding me ... loving me.&quot;
-Brass: So, you're the dead guy?
-Michael Bowie: She seduces me, steals my recipes, my ideas, my investors. And then she hires me as a freaking waiter. Night after night, I listen to her tell stories of the tragic love affair, of the poor, dead blind guy. Last night, I finally confronted her. 
- 
-Michael Bowie: I deserve a piece of the action.
-Pippa Sanchez: At $200 a head, you're clearing at least $1,000 in tips at night. That's a lot of action for a blind man.
-Michael Bowie: I made you.
-Pippa Sanchez: You're fired. We're done.
- 
-Brass: But why kill Huxley? Why not just her?
-Michael Bowie: I'm blind. She's not. But in that dining room, everybody else is blind, too. And when Huxley walked in with his Kitties, it was like a sign from the gods. I knew I could destroy her and the restaurant.
- 
-Michael Bowie:  I waited till the oyster course. The shells clanging, and slurping, the &quot;oohing,&quot; the &quot;aahing, I knew it would cover any noise I was going to make.
- 
- 
-Michael Bowie: I wanted her rotting in jail, eating bologna sandwiches.
-Catherine: If you wanted to frame Pippa, why did you plant the pen in Shasta's purse?
-Michael Bowie: I tell everyone to put their purses and jackets on the back of the chairs, so I knew exactly where her purse was.
- 
-Michael Bowie: Old cat frames young Kitty. Kind of perfect.
-
- 
- 
- 
-Greg: We found high velocity blood spatter inside the rear wheel well of the victim's cart, which means he lost his head at high speed.
-Nick: So how did Hot Rod decapitate Vinnie while racing down a highway at 60 miles an hour?
-Grissom: Maybe he didn't.
-Greg: Well, people's heads just don't fly off for no reason. Well, I mean, maybe we should check the scene for some wires or branches, or something he could've run into.
-Nick: If it would've happened that way, we would've found trace from whatever did it. The only trace in the neck and arm wounds was rubber from truck tires.
-Grissom: Which was present on both sides of his wounds but not on his clothing.
-Greg: There were blown-out tire fragments all over the road.
-Grissom: But we found his body off the road. There shouldn't be any transfer from truck tires.
- 
-Grissom: Unless ...
- 
-
- 
- 
- 
-Conrad Ecklie: What's going on here?
-Grissom: We're trying to determine whether a steel-belted truck tire can decapitate a kid driving a go-cart.
- 
-Conrad Ecklie: I thought that was an urban myth.
-Grissom: Myths, legends, tall tales -- they all come from something real.
-Nick: If that go-cart was going 60 miles an hour drafting a truck going the same speed, and that truck blows a tire, sending a two-pound projectile into the driver's neck ...
-Conrad Ecklie: Yeah, the combined speed of impact would be 120 miles an hour. Which is about ...
-Greg: 962 foot-pounds of energy.
-Grissom: All right, let's go, fellas.
- 
-Grissom: Come on, Conrad. There's always room for Jell-O.
-Conrad Ecklie:  It's expensive Jell-O.
- 
-(Grissom picks up some rubber, -- 
-Greg:  I love this.
--- then sends it through the rolling tires.) 
-SLOW MOTION. The rubber hits the helmet and knocks the head off the bust.
- 
- 
- 
-SLOW MOTION. The rubber knocks the head off the bust.
- 
- 
-Conrad Ecklie: Well, it worked. See if we can't reuse some of that.
- 
-
- 
- 
- 
-Grissom: When did you tell Ecklie we got involved?
- 
-Sara: Two years ago. Why? What did you tell him?
-Grissom: Nine years ago.
-
-Sara: The Forensic Academy Conference?
-Grissom: Yeah.
-
-Grissom: You ... uh ... had too many questions about anthropology, for some reason. 
-Sara: Well, I was stalling. I was trying to get the nerve to ask you to dinner. 
-Grissom: You had a ponytail.
-Sara: I'm going to move to swing.
-Grissom: We talked about this. 
-Sara: I know that you said that you would do it, but I don't want to do that to the team. Besides ... I am sure that I could use more daylight in my life.
- 
-Sara: We should go.
-Grissom: Yeah.
- 
-
- 
- 
- 
-Nick: Whoo!  You ... uh ... you want a ride?
-Sara: Wish I could.
-Nick: What about you, Ricky Bobby?
-Grissom: No, thanks, I like to watch.
-Nick: Okay.
-
-Sara: You should go.
-Grissom: Yeah?
-Sara: Yeah, you should go.
-Grissom: Okay.
- 
-
- 
- 
- 
-
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=08x02+-+A+La+Cart&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127453%23p127453" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=08x02+-+A+La+Cart&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127453%23p127453" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127453%23p127453&amp;name=08x02+-+A+La+Cart" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127453%23p127453" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=309f3f4cbc5c17da38f4c8b6ad76aa69">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=309f3f4cbc5c17da38f4c8b6ad76aa69">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=309f3f4cbc5c17da38f4c8b6ad76aa69">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=309f3f4cbc5c17da38f4c8b6ad76aa69">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

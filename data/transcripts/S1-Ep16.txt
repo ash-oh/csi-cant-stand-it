@@ -1,815 +1,1049 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]
+[EXT. SHOPPING MALL (STOCK) -- NIGHT] 
+[EXT SHOPPING MALL PARKING GARAGE (STOCK) - NIGHT]
 
+[I" />
+<meta property="og:title" content="01x16 - Too Tough to Die - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]
+[EXT. SHOPPING MALL (STOCK) -- NIGHT] 
+[EXT SHOPPING MALL PARKING GARAGE (STOCK) - NIGHT]
 
+[I" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13198" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>01x16 - Too Tough to Die - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13198" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13198">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=705e63cc2a735fc525435360abc78591"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=705e63cc2a735fc525435360abc78591">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=705e63cc2a735fc525435360abc78591">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=705e63cc2a735fc525435360abc78591">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=705e63cc2a735fc525435360abc78591">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13198&amp;sid=705e63cc2a735fc525435360abc78591&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>01x16 - Too Tough to Die</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127292">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127292">01x16 - Too Tough to Die</a></div>
+							<div class="pull-right text-right"><time datetime="2001-03-15T12:41:08Z">03/15/01 12:41</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[EXT. SHOPPING MALL (STOCK) -- NIGHT] </p>
+<p>[EXT SHOPPING MALL PARKING GARAGE (STOCK) - NIGHT]</p>
+<hr />
+[INT. CITRUS CANYON MALL - PARKING GARAGE - NIGHT]</p>
+<p>(In the parking garage, the security guards gather around the television set and watch the game.)</p>
+<p>(A woman walks up to the elevators and presses the button. The doors open and she walks inside.)</p>
+<p>(Cut to: The elevator takes the woman up to the floor. The elevators open and she walks out. She walks across the parking lot toward her car.)</p>
+<p>(She reaches for her keys and disables the car alarm. As she reaches the car to unlock the car door. Someone sticks a gun in her back. She screams.)</p>
+<p>(He pushes her against the car window and instructs her.)</p>
+<p><strong>Male Voice</strong>: Give me your keys and get in the car.</p>
+<p>(She drops the keys and it falls to the floor.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. DESERTED ROAD - NIGHT]</p>
+<p>(A car drives down the deserted roadway. Off to the side of the road lying on the dirt is the WOMAN from the shopping mall.)</p>
+<p>(Cut to: Inside the car, as they take the bend, the lights from the car fall upon the WOMAN on the side of the road.)</p>
+<p>Rosalyn Dudek: What is that?</p>
+<p>(It starts to rain. The car pulls over to check it out. HANK and ROSALYN DUDEK both step out of the car.)</p>
+<p>Hank Dudek: Is that a body?</p>
+<p>(They shut the car doors and step in for a closer look.)</p>
+<p>(The WOMAN moves.)</p>
+<p>Rosalyn Dudek: Oh, my god. She's alive.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. DESERTED ROAD - NIGHT - LATER]</p>
+<p>(POLICE CARS pull over. The CSI Tahoe also pulls over as they arrive at the site.)</p>
+<p>(SARA, GRISSOM and NICK get out of the car to meet up with BRASS.)</p>
+<p><strong>Sara</strong>: Hey.</p>
+<p><strong>Brass</strong>: Here's what I know so far. Victim was a well-dressed woman, young, black. She's at Desert Palm Hospital multiple gunshots to the head possible sexual assault. Doctor has her as &quot;death imminent.&quot;</p>
+<p><strong>Grissom</strong>: Sara, I'm going to need you to go to the hospital process the victim-- sexual assault kit, hairs, fibers, the works.</p>
+<p><strong>Sara</strong>: Right now? I thought I would help you two with the scene.</p>
+<p><strong>Grissom</strong>: The evidence won't stay on the body long at the E.R.</p>
+<p><strong>Sara</strong>: Walk in the park, guys.</p>
+<p>(SARA leaves.)</p>
+<p>(NICK and GRISSOM cross under the crime scene table. They look around the area where the body was found. NICK finds some shoe prints. He takes pictures of it.)</p>
+<p><strong>Nick</strong>: It looks like a high heel print. Maybe abducted. </p>
+<p>(He takes more pictures.)</p>
+<p><strong>Nick</strong>: Did she know the guy? Did he use his car or hers?</p>
+<p><strong>Grissom</strong>: Locard's principle: He took a piece of her away with him and he left a piece of himself here. (beat) We get to find it.</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI - HALLWAY -- NIGHT] </p>
+<p>(CATHERINE, WARRICK and GRISSOM walk into the lab carrying boxes of evidence for a case.)</p>
+<p><strong>Grissom</strong>: Thank you, my sherpas.</p>
+<p><strong>Catherine</strong>: Surely. (They put the boxes down on the table.) So, you got our assignments?</p>
+<p><strong>Grissom</strong>: You're looking at it. Murder case.</p>
+<p><strong>Catherine</strong>: This mess? You're not serious.</p>
+<p><strong>Grissom</strong>: DA is. Guy named McCall shot and killed his neighbor over a motorcycle. D.A. Can't make heads or tails of the evidence for the preliminary hearing.</p>
+<p><strong>Warrick</strong>: Where's McCall now? He's being held?</p>
+<p><strong>Grissom</strong>: He ran from the arresting officers so the Judge refused him bail.</p>
+<p><strong>Catherine</strong>: And why isn't the case CSI dealing with this?</p>
+<p><strong>Grissom</strong>: Franovich from days? He quit yesterday. Burnout.</p>
+<p><strong>Catherine</strong>: And what did the DA charge?</p>
+<p><strong>Grissom</strong>: Murder one. The case has changed hands so many times that the D.A. Can't make any sense of it. It gets better. The prelim's in four days.</p>
+<p>(At that, CATHERINE drops the file she's looking at back on the table.)</p>
+<p><strong>Catherine</strong>: Well, no pressure here.</p>
+<p><strong>Warrick</strong>: Great.</p>
+<p><strong>Grissom</strong>: Cath, can I see you outside for a sec?</p>
+<p>(CATHERINE looks at GRISSOM, puzzled by the request, then follows him outside.)</p>
+<p>SHORT TIME CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY - NIGHT - CONTINUOUS]</p>
+<p>(GRISSOM and CATHERINE talk in the hallway.) </p>
+<p><strong>Catherine</strong>: Why would my bank be asking you about my employment record?</p>
+<p><strong>Grissom</strong>: Well, technically, I'm your supervisor. They said that Eddie took a second mortgage out on your house. They said that you still own it together until the divorce is final.</p>
+<p>(CATHERINE sighs.)</p>
+<p><strong>Catherine</strong>: We didn't want to sell it until the market went back up and then we were going to split the profits. I can't believe he took a second out on the house. How can he do that without my signature?</p>
+<p><strong>Grissom</strong>: It's Eddie. I just thought you should know. I gotta get back out to Nick.</p>
+<p>(GRISSOM leaves.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. DESERT PALM HOSPITAL - HALLWAY -- DAY]</p>
+<p>(SARA walks into the busy hospital emergency area and heads for DETECTIVE EVANS who leans against the door.)</p>
+<p><strong>Sara</strong>: Hey.</p>
+<p><strong>Det. Evans</strong>: Hey.</p>
+<p><strong>Sara</strong>: You get any I.D. On her?</p>
+<p><strong>Det. Evans</strong>: No. She's a Jane Doe. She's got two bullets lodged in her brain. Docs can't remove them without killing her.</p>
+<p><strong>Sara</strong>: All right. </p>
+<p>(SARA turns to enter the room. The NURSE who is leaving lets her inside.)</p>
+<p><strong>Nurse</strong>: Come in.</p>
+<p><strong>Sara</strong>: Hi.</p>
+<p>[EMERGENCY EXAM ROOM - CONTINUOUS]</p>
+<p>(The NURSE closes her door on her way out. DET. EVANS helps SARA with her kit.)</p>
+<p><strong>Sara</strong>: Thanks.</p>
+<p>(He puts it on the counter in the back of the room. SARA turns and looks at JANE DOE in bed.)</p>
+<p>(SARA notes the missing ring on her finger.)</p>
+<p><strong>Sara</strong>: Make a note she's married. Or recently divorced. </p>
+<p>(DET. EVANS takes a notebook out from his pocket. SARA reaches out and picks up JANE DOE'S hand.)</p>
+<p><strong>Sara</strong>: She's warm.</p>
+<p><strong>Det. Evans</strong>: Feels different, huh?</p>
+<p>(SARA looks at JANE DOE, then calls back out to EVANS.)</p>
+<p><strong>Sara</strong>: Uh, Evans ... we're going to need a little privacy here.</p>
+<p>(DET. EVANS turns and leaves the room. SARA pushes the table forward, then takes off her jacket. She opens her kit and puts on a pair of gloves.)</p>
+<p>(On the side table, SARA takes a package off the Sexual Assault Evidence Collection Kit box. She sits down. She looks at JANE DOE, then starts with scraping under her fingernails into the envelope.)</p>
+<p>(Dissolve to: SARA leans over and reaches out to take a swab of her mouth.)</p>
+<p>(Dissolve to: SARA is at the foot of the bed and rolls up the blanket above JANE DOE'S knees. She positions her legs, then reaches for a speculum.)</p>
+<p><strong>Sara</strong>: I never really liked this part of my yearly exam. These things are always freezing.</p>
+<p>(SARA tries to warm the speculum up a moment.)</p>
+<p><strong>Sara</strong>: Okay.</p>
+<p>(She places the instrument and reaches for a swab, her eyes constantly rising to look at JANE DOE on the bed.)</p>
+<p>CUT TO:<br />
+SCENE #07</p>
+<p>[EXT. DESERTED ROAD - DAY</p>
+<p>(Camera snaps a photo of evidence marker #2. Cut to: The camera snaps another photo of evidence marker #1, an empty bullet casing.)</p>
+<p>(NICK is taking photographs.)</p>
+<p><strong>Nick</strong>: Cartridge casings. They don't look like hunters' either.</p>
+<p>(GRISSOM sees something and kneels down to look at it.)</p>
+<p>(Camera zooms in for a close up of a piece of denim partially covered by a rock)</p>
+<p><strong>Grissom</strong>: Nick, get a shot of this.</p>
+<p>(GRISSOM removes the rock.)</p>
+<p><strong>Grissom</strong>: Looks like a belt loop. </p>
+<p>(NICK walks over to look at it.)</p>
+<p><strong>Nick</strong>: We couldn't have been there long. No elements.</p>
+<p>(He takes a picture.)</p>
+<p><strong>Grissom</strong>: Brass, was the victim wearing denim?</p>
+<p><strong>Brass</strong>: Silk or lace, something like that. Definitely not denim.</p>
+<p>(He takes another photo.)</p>
+<p><strong>Grissom</strong>: Good chance this is our suspect's. I'm going to use scent pads.</p>
+<p>(GRISSOM stands up. NICK glances over at BRASS, then stands up also.)</p>
+<p><strong>Nick</strong>: Scent pads?</p>
+<p><strong>Brass</strong>: Canine voodoo.</p>
+<p>(GRISSOM is at the back of the car opening a kit as he explains it further to NICK.)</p>
+<p><strong>Grissom</strong>: A dog's sense of smell is about 40 times more acute than a human's. A dog's nose is packed with dense rolls of membranes that absorb odor. Stretched out, these membranes extend about a third the length of a dog's body. The membranes of the human nose about the size of a postage stamp.</p>
+<p>(GRISSOM puts the Sirchie scent pad machine together.)</p>
+<p><strong>Nick</strong>: Looks like a giant dustbuster.</p>
+<p>GRISSOM; Similar. You place absorbent pads into the chamber then run the machine over the suspected item. Then you take the pad seal it in an envelope and freeze it.</p>
+<p>(GRISSOM picks up the scent pad machine and heads back to the area.)</p>
+<p><strong>Nick</strong>: Yeah. Yeah, then we pull them out when we know enough about this denim guy to find a proximal location.</p>
+<p><strong>Grissom</strong>: Except there's a caveat.</p>
+<p>(GRISSOM turns the machine on and holds it over the small piece of denim.)</p>
+<p><strong>Brass</strong>: You want to explain that caveat?</p>
+<p>(Quick CGI POV through the nozzle of the scent pad machine as it &quot;gathers&quot; the<br />
+&quot;scent&quot; from the denim piece and is sucked into the scent pad.)</p>
+<p><strong>Grissom</strong>: (V.O.) Later. </p>
+<p>(End of CGI POV. Resume to present.</p>
+<p><strong>Grissom</strong>: Hopefully, Sara's making some progress.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAB -- DAY] </p>
+<p>(CATHERINE and WARRICK go over the files for the case.)</p>
+<p><strong>Warrick</strong>: Hey, are you just going to ignore my question?</p>
+<p><strong>Catherine</strong>: I called Eddie about the loan. I got his voicemail. The guy's like ether. You going to answer my question?</p>
+<p><strong>Warrick</strong>: All right, here's what we know from the arresting officer: </p>
+<p>(WARRICK picks up the file and reads.)</p>
+<p><strong>Warrick</strong>: Two 25-year-old guys Chuckie Hastings and Roy McCall, lifelong neighbors one step up from a trailer park got into a beef over a motorcycle in the owner's backyard.</p>
+<p><strong>Catherine</strong>: All right, here's McCall's statement. If you can believe a guy who's looking at murder. Mccall says that he returned Hastings' motorcycle to him with the front end smashed up. They were standing in Hastings' backyard...</p>
+<p>(Quick flashback to: HASTINGS is looking at the damage to the motorcycle. McCALL stands next to him.)</p>
+<p>Roy McCall: I told you I'd pay for it.</p>
+<p>Chuckie Hastings: Yeah, you said that last time.</p>
+<p>(ROY McCALL turns away.)</p>
+<p>ROY McCALL: Whatever.</p>
+<p>(CHUCKIE HASTINGS gets to his feet.)</p>
+<p>Chuckie Hastings: Yeah, whatever. You b*st*rd.</p>
+<p>(HASTINGS slaps McCALL.)</p>
+<p>Roy McCall: Hey, back off, man, back off.</p>
+<p>(HASTINGS picks up a screwdriver.)</p>
+<p>Chuckie Hastings: You're going to pay for all of it.</p>
+<p>(HASTINGS swings the screwdriver and attacks MCCALL with it. He swipes MCCALL in the arm before MCCALL pushes him away. MCCALL looks down at the wound in his arm, then reaches for his gun.)</p>
+<p><strong>Catherine</strong>: (V.O.) Mccall defends himself with an automatic that was down his pants.</p>
+<p>(MCCALL pulls out an automatic, aims and shoots. Once, twice.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: All right, now, Hastings' wife said that McCall shot Hastings in the back. </p>
+<p><strong>Catherine</strong>: Mm-hmm.</p>
+<p><strong>Warrick</strong>: And the coroner's report substantiates that.</p>
+<p>(Quick flashback to: CHUCKIE HASTINGS has his back to ROY MCCALL when MCCALL shoots him twice. LAURIANE HASTINGS watches on the side and screams.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: So, what? McCall lied. He really said that Hastings cam at him with a screwdriver so he can plead self-defense?</p>
+<p><strong>Warrick</strong>: Well, we would need the screwdriver with McCall's blood on it to prove that, now, wouldn't we?</p>
+<p>(CATHERINE stands up ready to search through the boxes.)</p>
+<p><strong>Catherine</strong>: All right, which box?</p>
+<p><strong>Warrick</strong>: I have been through all these boxes twice. It's not there.</p>
+<p><strong>Catherine</strong>: The evidence is lost? In a murder case?</p>
+<p><strong>Warrick</strong>: The gun is here, but there's no screwdriver. They even have crime scene photos of it. But no tests were run on it before it was misplaced.</p>
+<p><strong>Catherine</strong>: So, we know why Franovich left. He quit before we could fire his ass. </p>
+<p><strong>Warrick</strong>: Right.</p>
+<p><strong>Catherine</strong>: So, you know who the DA will blame for this?</p>
+<p><strong>Warrick</strong>: Yeah, the same people homicide'll blame.</p>
+<p><strong>Catherine</strong>: Well, now that we've exhausted all of our options let's start over.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - BALLISTICS LAB]</p>
+<p>(BOBBY DAWSON looks at the monitor running the cartridge comparison through the database.)</p>
+<p><strong>Bobby Dawson</strong>: So this lady's expected to die. Is that the story?</p>
+<p><strong>Grissom</strong>: Somebody raped her, shot her and left her for dead.</p>
+<p><strong>Nick</strong>: And left two cartridge casings behind for us. Thank you very much.</p>
+<p>(Quick CGI POV to: A Camera close up of a gun being fired and the two empty cartridge casings falling to the ground. End of CGI POV. Resume to present.)</p>
+<p><strong>Bobby Dawson</strong>: That kind of oversight tells you he's stupid.</p>
+<p><strong>Grissom</strong>: Or true to form. People are usually meticulous in planning up to a murder. They rarely plan the aftermath.</p>
+<p><strong>Nick</strong>: Still, you'd think the bad guys would figure we'd eventually start a database on cartridge casings, huh?</p>
+<p>(GRISSOM looks up when the computer starts to beep. The monitor indicates two matches.)</p>
+<p><strong>Bobby Dawson</strong>: Gentlemen, we've got ourselves a bull's-eye.</p>
+<p><strong>Nick</strong>: Well, well, well. Looks like this gun was used before in a case we've handled. </p>
+<p>(The monitor splices the bullets in half and matches the two sides together to each other.)</p>
+<p><strong>Nick</strong>: North Vegas shooting.</p>
+<p><strong>Bobby Dawson</strong>: You gotta do a side-by-side comparison to be sure.</p>
+<p><strong>Grissom</strong>: Well, listen, if you get a confirmation, page me. I gotta go see Sara.</p>
+<p>(GRISSOM stands and leaves the lab.)</p>
+<p><strong>Bobby Dawson</strong>: Okay.</p>
+<p>(BOBBY takes a seat in front of the monitor.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. HOSPITAL - EMERGENCY EXAM ROOM - NIGHT]</p>
+<p>(SARA finishes the exam and puts the envelopes on the box on her kit. She moves to the side to pick up the packages of victim clothing. As she lifts it, something falls out of the package and onto the floor. The metal hits the floor with a clink.) </p>
+<p>(SARA picks it up and looks at it under the lamp.)</p>
+<p><strong>Sara</strong>: Saint Catherine. She studied science. </p>
+<p>(SARA sits down in the seat next to the bed continuing to talk with JANE DOE.)</p>
+<p><strong>Sara</strong>: She was touch and very outspoken. Went against the Emperor himself. Chewed him out for persecuting Christians. Took him two or three tries to execute her. </p>
+<p>(She pauses and thinks about it ... about the similarities.)</p>
+<p><strong>Sara</strong>: She never gave up. She was brave.</p>
+<p>(SARA puts the medallion in JANE DOE'S hand.)</p>
+<p><strong>Sara</strong>: You hold on to this.</p>
+<p>(Through the window in the door, GRISSOM walks up to the door. He watches as SARA pulls her seat closer to JANE DOE. He pushes the door open and hears what SARA says.)</p>
+<p><strong>Sara</strong>: (quietly) This shouldn't have happened to you. But, I promise I will find out who did this. I promise.</p>
+<p>(SARA sits back in her seat and notices GRISSOM standing in the doorway.)</p>
+<p><strong>Grissom</strong>: Hey.</p>
+<p><strong>Sara</strong>: Hey. </p>
+<p>(GRISSOM doesn't say anything. SARA stands up.)</p>
+<p><strong>Sara</strong>: Sexual assault kit's ready to process.</p>
+<p><strong>Grissom</strong>: How's it look?</p>
+<p>(SARA stands in front of GRISSOM, a little off-balance by his question.)</p>
+<p><strong>Sara</strong>: We'll see. She's, um ... (she nods, gathering her composure) ... breathing.</p>
+<p><strong>Grissom</strong>: She's evidence.</p>
+<p>(Not liking his response, SARA doesn't say anything and turns around back to the bed.)</p>
+<p><strong>Grissom</strong>: Sara?</p>
+<p><strong>Sara</strong>: Yeah?</p>
+<p><strong>Grissom</strong>: If you try and chase two rabbits you end up losing them both.</p>
+<p>(SARA stares at GRISSOM. He slowly backs away from the door letting it close between them.)</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[EXT. HASTINGS RESIDENCE - DAY]</p>
+<p>(CATHERINE and WARRICK walk toward the HASTINGS' house. A dog barks as they walk up the front.) </p>
+<p>(CATHERINE knocks on the door. A woman answers.)</p>
+<p><strong>Catherine</strong>: Hi. Laurieane Hastings? We're with the Las Vegas Crime Lab.</p>
+<p><strong>Laurieane Hastings</strong>: Cops. I have talked to enough of you already.</p>
+<p><strong>Warrick</strong>: Ma'am, we're not cops. We're crime scene investigators. We've come to ask you a few questions about the day that your husband was killed. Maybe acquaint ourselves with the actual crime scene.</p>
+<p><strong>Laurieane Hastings</strong>: Is this going to let Roy McCall out of jail which is where he belongs?</p>
+<p><strong>Catherine</strong>: We're simply reviewing the evidence for the preliminary hearing.</p>
+<p>[INT. HASTINGS' RESIDENCE - DAY - CONTINUOUS]</p>
+<p>(She leads them into the garage where the motorcycle is.)</p>
+<p><strong>Laurieane Hastings</strong>: McCall was always borrowing this motorcycle and Chuckie was mad at him 'cause he returned it wrecked again. He was yelling at him and out of the blue mccall pulled his gun.</p>
+<p><strong>Catherine</strong>: You were home.</p>
+<p><strong>Laurieane Hastings</strong>: Yes, I was.</p>
+<p><strong>Catherine</strong>: And you saw the shooting?</p>
+<p><strong>Laurieane Hastings</strong>: I most certainly did. I was doing laundry here ...</p>
+<p>(Quick flashback to: On the day of the shooting, LAURIEANE HASTINGS is standing at the washing machine when she hears voices.)</p>
+<p>Roy McCall: (o.s.) Get your hands off me.</p>
+<p>Chuckie Hastings: (o.s.) I'm sick of you, man.</p>
+<p>Roy McCall: (o.s.) Whatever.</p>
+<p>(White flash to: LAURIEANE HASTINGS walks out of the house and sees HASTINGS AND MCCALL in a shoving match in the back yard.</p>
+<p><strong>Laurieane Hastings</strong>: (V.O.) I went to see and try to break it up.</p>
+<p>Chuckie Hastings: Back off, man. Back off.</p>
+<p>(She watches as CHUCKIE turns around to walk toward her.)</p>
+<p>Chuckie Hastings: Get your sorry ass off my property.</p>
+<p>(MCCALL takes out his gun and shoots him in the back.)</p>
+<p>(CHUCKIE HASTINGS looks at LAURIEANE, then falls to the ground. She starts screaming.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: Out back here?</p>
+<p><strong>Laurieane Hastings</strong>: Yes.</p>
+<p>(WARRICK opens the back door and walks outside.)</p>
+<p><strong>Catherine</strong>: How long did you say they had been arguing before you heard the first shot?</p>
+<p><strong>Laurieane Hastings</strong>: (shrugs) Couple minutes.</p>
+<p><strong>Catherine</strong>: And then you went out back?</p>
+<p><strong>Laurieane Hastings</strong>: That's right.</p>
+<p><strong>Catherine</strong>: Okay, thank you. This won't take very long.</p>
+<p>(CATHERINE reaches into her pocket and takes out a stopwatch. She clicks it on, then runs out the back door.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. HASTINGS RESIDENCE - BACKYARD - DAY - CONTINUOUS]</p>
+<p>(CATHERINE runs out the back door into the yard. WARRICK sees her.) </p>
+<p><strong>Warrick</strong>: What's up?</p>
+<p>(CATHERINE clicks off the stopwatch and explains.</p>
+<p><strong>Catherine</strong>: She did a &quot;fill-in&quot; back there in the garage. First, she said she saw both shots, but I just asked her and she said she heard the first shot and then came running out here.</p>
+<p><strong>Warrick</strong>: Heard the first shot and then came running out here.</p>
+<p><strong>Catherine</strong>: Yeah.</p>
+<p><strong>Warrick</strong>: McCall had a semiautomatic. I mean, you could pull off a shot in two-tenths of a second.</p>
+<p><strong>Catherine</strong>: Right. It took me 3.8 seconds to get out here. She didn't see any shot.</p>
+<p><strong>Warrick</strong>: So she just filled in what she thought happened -- that McCall shot her husband in cold blood.</p>
+<p><strong>Catherine</strong>: Right.</p>
+<p><strong>Warrick</strong>: Typical eyewitness.</p>
+<p><strong>Catherine</strong>: So, there's a good chance that McCall was telling the truth -- that he shot Hastings in self-defense.</p>
+<p><strong>Warrick</strong>: Well, if we had the screwdriver that someone lost </p>
+<p><strong>Catherine</strong>: Right.</p>
+<p><strong>Warrick</strong>: We'd be able to check for blood.</p>
+<p><strong>Catherine</strong>: Right. Let's go see McCall. No one lost him.</p>
+<p>(They both leave the backyard.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - EVIDENCE LOCKER - DAY]</p>
+<p>(GRISSOM, NICK and SARA go through the evidence from the case.) </p>
+<p><strong>Nick</strong>: Hey, you guys, this North Vegas shooting with the same casings as our Jane Doe's?</p>
+<p><strong>Grissom</strong>: Mm-hmm.</p>
+<p><strong>Nick</strong>: It was gang-related. And homicide never found the shooter.</p>
+<p><strong>Grissom</strong>: It's almost impossible in gang neighborhoods. Nobody wants to talk. People are afraid. Listen, let's see if we have any evidence that's not attributed to the victim.</p>
+<p>(They look at the paper bags. SARA finds something.)</p>
+<p><strong>Sara</strong>: Here you go.</p>
+<p>(She takes out a cap with a snake logo sewn on the front.)</p>
+<p><strong>Nick</strong>: Snakebacks.</p>
+<p><strong>Grissom</strong>: Gang shooters mark their kills by tossing down their hats. </p>
+<p>(Quick flashback to: A dead body on the ground. The person throws their hat with the snake logo on it over the body. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Some sort of anthropological quirk of territoriality. Like cats spraying on a bush.</p>
+<p>(NICK laughs. SARA takes the hat.)</p>
+<p><strong>Nick</strong>: Lets the opposition know who was responsible.</p>
+<p>(She looks at it and notices something.)</p>
+<p><strong>Sara</strong>: Somebody wore this hat a lot.</p>
+<p>(Quick Close up of a sweaty head, the inside of the hat, and the sweat marks on the inside of the hat. Resume to present.)</p>
+<p><strong>Sara</strong>: This sweatband might give us DNA and I could compare it to the samples I collected off of Jane at the hospital.</p>
+<p>(GRISSOM looks at SARA, surprised.)</p>
+<p><strong>Grissom</strong>: Jane?</p>
+<p><strong>Sara</strong>: Our ... Jane Doe. My &quot;death imminent.&quot;</p>
+<p><strong>Nick</strong>: First-name basis, Sara?</p>
+<p>(SARA looks at NICK.)</p>
+<p><strong>Sara</strong>: I'll be in DNA.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. NEIGHBORHOOD - DAY]</p>
+<p>(BRASS walks around the corner. GRISSOM and NICK get out of the car.)</p>
+<p><strong>Brass</strong>: Hey. This is, uh, Detective Sam Vega from the gang detail. He's here to give us information on 23rd street. This is Gil Grissom and Nick Stokes from the crime lab.</p>
+<p>(They shake hands.)</p>
+<p><strong>Grissom</strong>: We're looking for a shooter. Guy abducted, raped and shot a young black woman the other night.</p>
+<p><strong>Det. Sam Vega</strong>: We get a couple of shootings a week here from the snakebacks, out of a four-block radius from this point here. Usually at the pepper street gang. Your guy might have left the neighborhood as part of a gang initiation. It means more when the victim's a civilian.</p>
+<p><strong>Nick</strong>: Our ball cap belongs to somebody in this neighborhood. These houses are full of people who know the guy who wears it.</p>
+<p><strong>Brass</strong>: Okay, Nick, ready to burn some shoe leather? Some old-fashioned police work? What do you say, huh?</p>
+<p>(BRASS leads them away.)</p>
+<p><strong>Nick</strong>: Why can't we just use those scent pads?</p>
+<p><strong>Grissom</strong>: The dogs? Constitutional issue. We can't get a warrant for the evidence we find off the dogs' search.</p>
+<p><strong>Nick</strong>: Great, great. Why'd you even suggest it?</p>
+<p><strong>Grissom</strong>: You're a grown man, Nick. Stop whining.</p>
+<p>(Camera cuts to an above the neighborhood shot showing just how large an area they need to cover.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY]</p>
+<p>(CATHERINE and WARRICK question ROY MCCALL with his lawyer, MARGARET FINN.) </p>
+<p><strong>Warrick</strong>: Mr. McCall, according to your statement you went over to your neighbor Hastings' house to return his motorcycle. You got into a dispute over a wrecked fender and he attacked you with a screwdriver.</p>
+<p>(MCCALL looks at MARGARET FINN who nods to him.)</p>
+<p>Roy McCall: He stabbed me in the arm.</p>
+<p>(Quick flashback to: CHUCKIE HASTINGS grabs a screwdriver as they argue.)</p>
+<p>Chuckie Hastings: Hey, back off, man.</p>
+<p>Roy McCall: You're gonna pay for this.</p>
+<p>(HASTINGS stabs MCCALL in the arm. The two struggle.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Can you circle the area in which the screwdriver entered your arm when Hastings attacked you? </p>
+<p>(MCCALL grabs the pen with his right hand and marks the paper. He puts the pen down.)</p>
+<p><strong>Catherine</strong>: May I exam your client's wound?</p>
+<p><strong>Margaret Finn</strong>: Yes, anything to clear my client.</p>
+<p>(CATHERINE stands up. MCCALL pulls up his sleeve to show the mark on his arm.)</p>
+<p><strong>Catherine</strong>: Thanks. </p>
+<p>(CATHERINE turns to WARRICK. MCCALL and MARGARET FINN speak softly to each other.)</p>
+<p><strong>Catherine</strong>: (softly to WARRICK) I think he's telling the truth. He's right-handed. I could tell when he took the pen.</p>
+<p><strong>Warrick</strong>: So you're saying that if he'd inflicted the wound on himself he would have stabbed his left arm.</p>
+<p><strong>Catherine</strong>: And even if he'd tried to fool us and stabbed his right arm the entry scar would have been upward, not down.</p>
+<p><strong>Warrick</strong>: Mr. McCall, which direction was Hastings facing when you shot him?</p>
+<p><strong>Margaret Finn</strong>: He was facing my client. End of story.</p>
+<p><strong>Catherine</strong>: Well, the coroner disagrees.</p>
+<p><strong>Margaret Finn</strong>: Well, that's the coroner's problem. And I after I tell any jury how your side managed to lose a piece of evidence as important as the screwdriver ... (WARRICK sighs.) really, how much weight will the coroner's findings have?</p>
+<p>(MARGARET FINN reaches for her bag.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - HALLWAY - DAY -- CONTINUOUS]</p>
+<p>(CATHERINE and WARRICK walk out of the interview room and into the hallway.))</p>
+<p><strong>Catherine</strong>: People don't realize just how many sets of hands a piece of evidence passes through. Losing evidence isn't about anything sneaky. It's just human error.</p>
+<p>(CATHERINE'S phone rings.)</p>
+<p><strong>Warrick</strong>: Defense attorneys have made a whole career off that human error.</p>
+<p><strong>Catherine</strong>: Yeah, tell me about it.</p>
+<p>(She takes out her phone and answers it.)</p>
+<p><strong>Catherine</strong>: (to phone) Hello. Eddie ... (to WARRICK) I-I'll meet you at the coroner's. (to phone) So, you took a second out on the house and, uh, didn't tell me about it? No, I would have remembered you telling me something as big as... oh, a studio. Are you out of your mind? So, now I'm going to be making house payments which you never had money for when we lived together and a second mortgage? No, we don't have time to talk about this. (angry) You get that loan canceled, and you do it now, Ed. Now! </p>
+<p>(CATHERINE hangs up and sighs.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY]</p>
+<p>(WARRICK talks with DR. ROBBINS.) </p>
+<p><strong>Warrick</strong>: Doc, are you sure McCall shot Hastings in the back?</p>
+<p><strong>Dr. Albert Robbins</strong>: Back to front, both times.</p>
+<p><strong>Warrick</strong>: This guy McCall swears that he shot him straight ahead in self-defense.</p>
+<p><strong>Dr. Albert Robbins</strong>: Look at my notes.</p>
+<p>(DR. ROBBINS walks over to the desk where the file is.)</p>
+<p><strong>Dr. Albert Robbins</strong>: Right here. &quot;Entry wounds piercing the back, both small, regular with evidence of carbonaceous material typical of having just emerged from a gun ... &quot; </p>
+<p><strong>Warrick</strong>: (nods) Right. </p>
+<p><strong>Dr. Albert Robbins</strong>: &quot;...And they exited out the front with a classic keyhole effect-- irregular. First bullet entered Hastings'</p>
+<p>(Quick CGI POV: The gun fires. The bullet shoots out of the barrel, through the cloth and into flesh. It passes through the necessary organs and muscles, then pierces back out.)</p>
+<p><strong>Dr. Albert Robbins</strong>: (V.O.) ... &quot;lattissimus dorsi passed through the lower intestine exited out the intercostal muscle. </p>
+<p>(End of quick CGI POV. Resume to WARRICK.)</p>
+<p>(Quick CGI POV of the second shot. The sound of a gun firing, the bullet pierces through the cloth, through the flesh and out the back.)</p>
+<p><strong>Dr. Albert Robbins</strong>: (V.O.) The second bullet passed through Hastings' C-7<br />
+thoracic nerve exited out the pectoralis major.&quot;</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(DR. ROBBINS looks at WARRICK who closes the file.)</p>
+<p><strong>Warrick</strong>: All right, look, I'm not doubting your findings. But when guys go at it they're not like gingerbread men, you know? They're, like, bobbing and weaving. It's like W.W.F. Smackdown. You know? All of these things could have changed what went down when Hastings and McCall tangled.</p>
+<p><strong>Dr. Albert Robbins</strong>: Anatomically speaking, it's open-and-shut. You guys are the ones to put perspective on it.</p>
+<p><strong>Warrick</strong>: No doubt. When Catherine gets here can you tell her I went over to evidence to check out the victim's t-shirt?</p>
+<p><strong>Dr. Albert Robbins</strong>: Mm-hmm.</p>
+<p>(WARRICK heads out the room.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - COMPUTER LAB]</p>
+<p>(SARA sits in front of the computer going file by file through the missing persons list. She hums softly to herself and continues to patiently go through the listing.)</p>
+<p>(GRISSOM walks through the hallway and notices SARA in the room. He stops by the doorway and lingers.)</p>
+<p>(He watches her for a moment, then steps inside the room.)</p>
+<p><strong>Grissom</strong>: Hey.</p>
+<p>(SARA glances up at him, then continues to look through the listings.)</p>
+<p><strong>Sara</strong>: Any luck on 23rd street?</p>
+<p><strong>Grissom</strong>: I, uh, broke in my new shoes. That's about it. What'd the lab say?</p>
+<p><strong>Sara</strong>: The DNA from the ball cap is a match to the semen we found on our Jane Doe. But ... CODIS hasn't kicked out a name.</p>
+<p><strong>Grissom</strong>: So you're just ... looking at missing persons reports?</p>
+<p><strong>Sara</strong>: We're not having any luck finding the shooter from his DNA with a belt loop so I thought I would at least try and identify the poor woman before she dies.</p>
+<p>(GRISSOM takes a step forward and leans in close to SARA.)</p>
+<p><strong>Grissom</strong>: Sara. Do you have any diversions?</p>
+<p><strong>Sara</strong>: Do I what?</p>
+<p><strong>Grissom</strong>: You max out on overtime every month. You go home and listen to your police scanner. </p>
+<p>(SARA turns to look at GRISSOM.)</p>
+<p><strong>Grissom</strong>: You read forensic textbooks ...</p>
+<p><strong>Sara</strong>: Yeah.</p>
+<p>(She turns back to the computer. GRISSOM sits down in the chair next to her.)</p>
+<p><strong>Grissom</strong>: Look, every day we meet people on the worst day of their lives. It's a lot to deal with. Everyone who's had any time on this job knows that you have to have a diversion in order to cope with what we see. What do you do for fun?</p>
+<p><strong>Sara</strong>: I chase rabbits. And ... I read crime books. And I listen to the scanner.</p>
+<p><strong>Grissom</strong>: You need something outside of law enforcement. Catherine has her kid, you know? I sometimes ... ride roller coasters. </p>
+<p>(SARA again turns to look at GRISSOM.)</p>
+<p><strong>Grissom</strong>: What do you do?</p>
+<p>(She turns back to the computer.)</p>
+<p><strong>Sara</strong>: Nothing.</p>
+<p><strong>Grissom</strong>: Okay. What do you like?</p>
+<p><strong>Sara</strong>: I don't like anything.</p>
+<p><strong>Grissom</strong>: You've got to find something to like. You can't get too close to the victims.</p>
+<p><strong>Sara</strong>: She's special ... to me. I can't help it.</p>
+<p><strong>Grissom</strong>: If you don't find something they'll all become special and you'll burn out.</p>
+<p>(For the moment, SARA stops looking through the list. GRISSOM stands up and heads for the door. When he reaches the doorway, he turns around.)</p>
+<p><strong>Grissom</strong>: Sara.</p>
+<p><strong>Sara</strong>: Okay. I'm almost done. I just got to log off.</p>
+<p>(GRISSOM nods and walks out. SARA turns back to the computer and continues searching through the listings.)</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<hr />
+[INT. CSI - LAYOUT ROOM - NIGHT]</p>
+<p>(CATHERINE and WARRICK go back over the evidence. CATHERINE picks up the bloodied shirt.) </p>
+<p><strong>Catherine</strong>: Well, this is progress. The shirt confirms what the coroner said: That the shots were fired back to front. Look at those entry holes.</p>
+<p><strong>Warrick</strong>: Yeah, but look at that gunpowder. Unburned gunpowder.</p>
+<p><strong>Catherine</strong>: Which happens when a gun is fired less than three feet from a victim.</p>
+<p><strong>Warrick</strong>: Right.</p>
+<p><strong>Catherine</strong>: McCall says that they were standing five paces apart. </p>
+<p>(CATHERINE looks at the file with LAURIEANE HASTINGS' statement.)</p>
+<p><strong>Catherine</strong>: Mrs. Hastings says the exact same thing. So we have two eyewitnesses on opposite sides of the case ... saying the same thing.</p>
+<p><strong>Warrick</strong>: In direct contradiction to our evidence.</p>
+<p><strong>Catherine</strong>: Well, the DA's on my beeper. Would you, uh, explain this to him because I can't.</p>
+<p><strong>Warrick</strong>: Yeah, right.</p>
+<p>(CATHERINE heads for the door. WARRICK follows her.)</p>
+<p><strong>Warrick</strong>: Hey ... when's the last time you took target practice?</p>
+<p>(He holds up the box. CATHERINE takes her gloves off.)</p>
+<p><strong>Catherine</strong>: Figures. I just had a manicure.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. POLICE DEPARTMENT - FIRING RANGE]</p>
+<p>(WARRICK and CATHERINE set up various shirt targets at measured distances apart.) </p>
+<p><strong>Warrick</strong>: Okay, so we're doing this reconstruction and the best way is to measure the distance between the victim and the assailant during the time of the altercation, right?</p>
+<p><strong>Catherine</strong>: Right.</p>
+<p>(CATHERINE snaps the gun chamber shut.)</p>
+<p><strong>Catherine</strong>: Using the same firearm and ammo that McCall used in his backyard on Hastings. </p>
+<p><strong>Warrick</strong>: Right.</p>
+<p>(CATHERINE puts on her gear and checks the gun. WARRICK also puts on his head gear.)</p>
+<p>(CATHERINE puts the gun in the holder and fires it against the target shirt that reads &quot;6 INCHES&quot;.)</p>
+<p>(WARRICK moves the gun placehold over to the next shirt with the note &quot;1 FOOT&quot;. CATHERINE fires.)</p>
+<p>(They move over to the next shirt target, &quot;1 1/2 FEET&quot;. CATHERINE fires.)</p>
+<p>(And finally, she shoots into the shirt with the tag &quot;2 FEET&quot;.)</p>
+<p>(They take their head gear off and compare the shirt with the targets. WARRICK holds the bloodied shirt up to compare it with the target.)</p>
+<p><strong>Warrick</strong>: Circumference of the gunpowder is the same. </p>
+<p>(Camera zooms in for a close up of the target's bullet hole.)</p>
+<p><strong>Warrick</strong>: Looks like two feet for shot number one ...</p>
+<p>(He moves the shirt over to the next target. Camera zooms in for a close up of the target's bullet hole.)</p>
+<p><strong>Warrick</strong>: ...and one foot for shot number two.</p>
+<p><strong>Catherine</strong>: And according to Lauriane Hastings' statement he was running away. How can the second shot be closer than the first?</p>
+<p><strong>Warrick</strong>: It can't. It's not possible.</p>
+<p>(Quick flashback to: The day of the shooting, from LAURIEANE HASTINGS' POV, CHUCKIE HASTINGS walks away from ROY MCCALL as he fires twice. End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: We just disproved their statement.</p>
+<p>CATHERINE And then we've got McCall's statement. </p>
+<p>(Quick flashback to: The day of the shooting, from ROY MCCALL'S POV, he pushes CHUCKIE HASTINGS away from him after being stabbed with the screwdriver. He reaches for the gun as HASTINGS comes toward him. He fires.)</p>
+<p><strong>Catherine</strong>: Can't happen when someone's facing you.</p>
+<p>(WARRICK sighs.)</p>
+<p><strong>Warrick</strong>: The truth is somewhere in the middle. How long do we have till the prelim?</p>
+<p><strong>Catherine</strong>: I think I know how we can figure this out. I saw this thing in my forensics catalog.</p>
+<p><strong>Warrick</strong>: What kind of &quot;thing&quot;?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- HALLWAY-- DAY]</p>
+<p><strong>Nick</strong>: Now you want to use the dogs to track down the Jane Doe shooter?</p>
+<p>(NICK and GRISSOM walk through the hallway.)</p>
+<p><strong>Grissom</strong>: K-9 unit's going to meet us there.</p>
+<p><strong>Nick</strong>: Yeah, but I spoke to Brass. He said we can't get a warrant on anything we need from the suspect's house-- gun, jeans, nothing.</p>
+<p><strong>Grissom</strong>: That's if we find him inside his house. In which case, we'll figure out another way to get a warrant.</p>
+<p><strong>Nick</strong>: You're rushing this for Sara.</p>
+<p><strong>Grissom</strong>: My priority is the case, Nick. Release the hounds.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - COMPUTER ROOM - DAY]</p>
+<p>(Meanwhile, back in the computer room, SARA continues to go through the missing persons listings. With her eyes glued on to the monitor, she opens a pack of sugar with her teeth and pours it into her coffee cup - just one of many on the table beside her. She stirs the coffee.)</p>
+<p>(She picks up her cup and sighs.)</p>
+<p>(The monitor scrolls through a couple of listings. Then she stops on something familiar. It reads:</p>
+<p>MISING PERSON</p>
+<p>Pamela Adler: 26 YEAR OLD BLACK FEMALE, MISSING SINCE 1730 TUESDAY. WEARING<br />
+LAVENDER BUSINESS SUIT. REPORTED MISSING<br />
+BY THOMAS ADLER, HUSBAND. LAST<br />
+SEEN AT LAS VEGAS SHOPPING<br />
+CAR 1992 ACURA LEGEND. LA<br />
+360-RYD.</p>
+<p>(SARA reads the report and stops.)</p>
+<p><strong>Sara</strong>: You were shopping.</p>
+<p>(She pauses and reads the name. Finally.)</p>
+<p><strong>Sara</strong>: Pamela ... (sighs) ... Pamela Adler.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. NEIGHBORHOOD -- DAY]</p>
+<p>(The OFFICER leads the dog over to the back of the car where GRISSOM and NICK are. GRISSOM opens the cooler with the scent pack inside.)</p>
+<p><strong>Officer</strong>: Here we go. Come on.</p>
+<p>(GRISSOM opens the bag and takes out the container.)</p>
+<p><strong>Grissom</strong>: Hey, lady. You ready for a scent pad?</p>
+<p>(GRISSOM takes out the pad and lets the two dogs smell it.)</p>
+<p><strong>Grissom</strong>: Breathe deep. Girls.</p>
+<p>(They bark and head off.)</p>
+<p><strong>Officer</strong>: Here we go!</p>
+<p>(The OFFICERS run along side the dogs. NICK watches them run.)</p>
+<p><strong>Nick</strong>: Whoa! (to GRISSOM) Are we supposed to be able to keep up with those guys?</p>
+<p>(GRISSOM looks at NICK and motions after the dogs.)</p>
+<p><strong>Grissom</strong>: Yeah!</p>
+<p>(NICK takes off after them. GRISSOM stands behind him with a smile on his face and slowly shakes his head. He laughs as he watches NICK run to catch up to the dogs.)</p>
+<p>(He turns back to the car.)</p>
+<p>(Cut to: The dogs track the scent along the sidewalk.)</p>
+<p>(Various cuts of the dogs tracking the scent.)</p>
+<p><strong>Officer</strong>: Here we go. OFFICER: Come on. OFFICER: Come on. Good girl.</p>
+<p>(GRISSOM and NICK walk behind the dogs, watching them.)</p>
+<p>(The dogs start barking, then run along the street toward a particular house.)</p>
+<p>(The dogs run up the driveway toward a young man playing basketball out in front.)</p>
+<p>Tony Thorpe: Hey, hey, yo, yo. Back off, snoop. What'd you raggedy mutts want with me anyway?</p>
+<p>(NICK runs up the driveway after the dogs.)</p>
+<p>Tony Thorpe: Hey, you two, don't be hassling me.</p>
+<p>(NICK takes off his glasses when he sees it.)</p>
+<p>(Camera zooms in for a close up of the missing belt loop on the boy's jeans.)</p>
+<p>(GRISSOM catches up.)</p>
+<p><strong>Nick</strong>: Guy's wearing the evidence in plain sight. We just got lucky.</p>
+<p>Shandra Thorpe: Tony! </p>
+<p>(The front door slams and a woman walks out of the house.)</p>
+<p>Shandra Thorpe: What are you doing?! (to the OFFICERS) You got a problem?</p>
+<p><strong>Grissom</strong>: Ma'am, is-is this your son?</p>
+<p>Shandra Thorpe: Yes.</p>
+<p><strong>Grissom</strong>: Well, we're going to have to talk to him for a minute.</p>
+<p>Shandra Thorpe: You police -- coming here with your attack dogs.</p>
+<p><strong>Grissom</strong>: Actually, they're scent dogs, and I'm not a police officer. I'm a Forensic Scientist with the Las Vegas Police Department.</p>
+<p>Shandra Thorpe: What do I got to say to a scientist?</p>
+<p><strong>Grissom</strong>: (shrugs) You could say &quot;hello.&quot;</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GARAGE]</p>
+<p>(CATHERINE stands over by the counter going through the files. WARRICK stands in front of a dummy marking the holes with a pen.)</p>
+<p><strong>Warrick</strong>: This dummy cost over $500?</p>
+<p><strong>Catherine</strong>: Oh, yeah. He's worth it.</p>
+<p>(CATHERINE picks up the second stick and walks toward the dummy.)</p>
+<p><strong>Warrick</strong>: Why?</p>
+<p><strong>Catherine</strong>: Well, look at him. He's lifelike, he doesn't talk, and he's self-<br />
+healing.</p>
+<p><strong>Warrick</strong>: He's &quot;self-healing&quot;?</p>
+<p><strong>Catherine</strong>: Yeah. We make a mistake in our calculations we just start over.</p>
+<p>(CATHERINE puts the first stick into the dummy.)</p>
+<p><strong>Warrick</strong>: Cool. Um, the wound track is off. Do it two centimeters higher.</p>
+<p><strong>Catherine</strong>: All right. How's that?</p>
+<p><strong>Warrick</strong>: Good.</p>
+<p><strong>Catherine</strong>: All right.</p>
+<p>(She gets the second stick and marks the second shot.)</p>
+<p><strong>Warrick</strong>: Now, the second shot was fired like so. Now, the coroner says that Hastings was shot just like this, from back to front and Hastings' wife says the same thing -- that her husband was running away.</p>
+<p><strong>Catherine</strong>: And McCcall says that Hastings was facing him shot him in self-defense and he's got the wound ... to prove it.</p>
+<p>(She moves the right arm into position.)</p>
+<p><strong>Warrick</strong>: Just like I said before, guys don't go at it and fight like gingerbread men, you know?</p>
+<p><strong>Catherine</strong>: Mm-hmm.</p>
+<p><strong>Warrick</strong>: Check it out.</p>
+<p>(Thinking about the case, WARRICK moves CATHERINE away from behind the dummy and takes her place there. CATHERINE steps aside.)</p>
+<p><strong>Warrick</strong>: What if, um ... he was lunged ...</p>
+<p>(WARRICK bends the body over at the waist. CATHERINE sees her opportunity and quietly grabs the camera.)</p>
+<p><strong>Warrick</strong>: ...just kind of like this?</p>
+<p>(CATHERINE snaps a photo. WARRICK turns to look at CATHERINE.)</p>
+<p><strong>Warrick</strong>: Oh, you are wrong!</p>
+<p>(Laughing, CATHERINE takes the photo and waves it in front of him. She looks over at the dummy and her face freezes. She sees it.)</p>
+<p><strong>Catherine</strong>: Warrick ... ?</p>
+<p>(WARRICK turns around to look at the dummy. He sees it, too.)</p>
+<p><strong>Catherine</strong>: I think maybe they were both telling the truth. </p>
+<p><strong>Warrick</strong>: Yeah. I'm calling the DA.</p>
+<p>(He turns and grabs the photo from CATHERINE as he walks out of the garage.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY]</p>
+<p>[OBSERVATION ROOM]</p>
+<p>(Through the observation room glass, SARA watches BRASS and GRISSOM interview TONY THORPE with his mother, SHANDRA there.) </p>
+<p><strong>Brass</strong>: So, Tony, where were you two nights ago?</p>
+<p>Tony Thorpe: I was nowhere special. I was just hanging.</p>
+<p><strong>Sara</strong>: (to NICK) Grissom told you to keep me out, didn't he?</p>
+<p>(SARA turns to look at NICK who is standing beside her.)</p>
+<p><strong>Nick</strong>: (nods) Yeah.</p>
+<p>[INTERVIEW ROOM]</p>
+<p><strong>Grissom</strong>: Were you wearing those pants the other night?</p>
+<p>Tony Thorpe: Oh, these jeans? What's it to you?</p>
+<p><strong>Grissom</strong>: They're missing a belt loop. </p>
+<p>(TONY looks down at his jeans.)</p>
+<p><strong>Grissom</strong>: I find that interesting.</p>
+<p><strong>Brass</strong>: You mind if we look at those? We got some scrubs for you to wear.</p>
+<p>(BRASS throws some clothes on the table in front of TONY. SHANDRA pushes the scrubs back toward BRASS.)</p>
+<p>Shandra Thorpe: I know the law. He doesn't have to do anything unless a judge says to.</p>
+<p><strong>Brass</strong>: That's why we're asking Tony to volunteer ... with your permission ...</p>
+<p>(BRASS throws the scrubs back toward TONY.)</p>
+<p>[OBSERVATION ROOM]</p>
+<p>(Through the room glass, SARA watches as TONY casually stands up.)</p>
+<p>Tony Thorpe: Chill, moms. </p>
+<p>[INTERVIEW ROOM]</p>
+<p>(He takes off his jeans.)</p>
+<p>Tony Thorpe: (smugly) I got nothing to hide. It's no big thing. Cop said lady isn't even dead.</p>
+<p>(And throws them on the table in front of GRISSOM.)</p>
+<p><strong>Grissom</strong>: That's true, she isn't ... but if she dies within a year and a day of the shooting ... then it's murder.</p>
+<p>Shaunda Thorpe: Is this some kind of a trick?</p>
+<p><strong>Brass</strong>: No, ma'am, it's the law. We're working this case as a murder.</p>
+<p>Tony Thorpe: At least for the next year and a day and even then, I'm still a juvie. </p>
+<p><strong>Grissom</strong>: Well, then I guess the law is on your side, Tony, isn't it? For now.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY - DAY]</p>
+<p>(EDDIE WILLOWS sits in the chair in the hallway making faces with LINDSEY as she giggles and laughs.) </p>
+<p>(CATHERINE and WARRICK walk into the hallway.)</p>
+<p><strong>Eddie Willows</strong>: Hi, Catherine. Somebody wanted to see you.</p>
+<p><strong>Catherine</strong>: Hey, baby.</p>
+<p><strong>Lindsey Willows</strong>: Hi, mommy. </p>
+<p>(CATHERINE kneels down and they hug.)</p>
+<p><strong>Lindsey Willows</strong>: (excited) Daddy's taking me to dinner tonight.</p>
+<p><strong>Catherine</strong>: He is?</p>
+<p><strong>Eddie Willows</strong>: Main room at the Orpheus.</p>
+<p><strong>Lindsey Willows</strong>: They have lions and tigers at the restaurant and daddy said I can go to a show after.</p>
+<p><strong>Catherine Willows</strong>: Well, uh ... you know, honey, it's a school night so I need to discuss that with daddy first.</p>
+<p><strong>Lindsey Willows</strong>: Come on, mom. It's just this one night.</p>
+<p>(CATHERINE smiles at LINDSEY and stands up.)</p>
+<p><strong>Catherine</strong>: Ed ...</p>
+<p>(WARRICK leans over to look at LINDSEY.)</p>
+<p><strong>Warrick</strong>: Hey, Lindsey, I got some games on my computer. You want to see?</p>
+<p><strong>Lindsey Willows</strong>: Sure.</p>
+<p><strong>Warrick</strong>: Let's play one. </p>
+<p>(WARRICK takes LINDSEY out of the hallway.)</p>
+<p><strong>Catherine</strong>: (to LINDSEY) Uh, I'll see you in a bit, honey. </p>
+<p>(EDDIE stands up.)</p>
+<p><strong>Catherine</strong>: (to EDDIE) You set me up. Again.</p>
+<p><strong>Eddie Willows</strong>: How, by taking out daughter to dinner?</p>
+<p><strong>Catherine</strong>: Get over here.</p>
+<p>(CATHERINE leads EDDIE into the next hallway to continue to conversation.)</p>
+<p><strong>Eddie Willows</strong>: Oh, come on now! What?!</p>
+<p><strong>Catherine</strong>: You are so pathetic.</p>
+<p><strong>Eddie Willows</strong>: What?! What?!</p>
+<p><strong>Catherine</strong>: Just so pathetic.</p>
+<p><strong>Eddie Willows</strong>: Watch it, Cath.</p>
+<p><strong>Catherine</strong>: Sucking up to our daughter 'cause I caught you robbing me.</p>
+<p><strong>Eddie Willows</strong>: The only thing I ever robbed you of was good s*x.</p>
+<p>(EDDIE takes a step closer to CATHERINE. She scoffs at him.)</p>
+<p><strong>Catherine</strong>: No s*x is worth you, and you are not taking my daughter to a club with one of your music whores.</p>
+<p><strong>Eddie Willows</strong>: Oh, they're whores? When I met you, you were taking your clothes off in a strip club.</p>
+<p><strong>Catherine</strong>: It was a job, Ed and it supported you, just like every job I've had including this one!</p>
+<p>(In the hallway, GRISSOM turns the corner and sees them. He watches them.)</p>
+<p><strong>Eddie Willows</strong>: Yeah? And who paid to close up your nose?</p>
+<p><strong>Catherine</strong>: You're such a bast...!</p>
+<p>(CATHERINE steps up and swings. EDDIE grabs her hand. She struggles.)</p>
+<p><strong>Catherine</strong>: Let go of me.</p>
+<p>(He grabs her other hand and has CATHERINE up against the glass wall.)</p>
+<p><strong>Eddie Willows</strong>: What?! </p>
+<p>(GRISSOM heads for them.)</p>
+<p><strong>Eddie Willows</strong>: (mutters) I'll let go of you when I'm damn good and ...</p>
+<p><strong>Grissom</strong>: Let go of her, Ed!</p>
+<p>(GRISSOM grabs EDDIE'S arm and pushes him off of CATHERINE.)</p>
+<p><strong>Grissom</strong>: Catherine?</p>
+<p><strong>Catherine</strong>: (upset) Just get him out of here.</p>
+<p>(CATHERINE walks away.)</p>
+<p><strong>Grissom</strong>: I don't want to ever see you in this building again. This is our place of business. You understand that?</p>
+<p><strong>Eddie Willows</strong>: I always knew you two had a thing.</p>
+<p><strong>Grissom</strong>: Go home, Eddie.</p>
+<p><strong>Eddie Willows</strong>: Sure.</p>
+<p>(EDDIE walks out of the hallway. GRISSOM turns to watch him go. Then he turns to look back in the other direction.)</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI -- LAB] </p>
+<p>(SARA and NICK work in the lab. SARA sings quietly to herself.) </p>
+<p><strong>Sara</strong>: (singing softly) One way or another / I'm going to see you / ( hums ) / one day, maybe next week / I'm going to meet you, meet you / I will ... </p>
+<p>(NICK stops working on the jeans to look up and listen to SARA.)</p>
+<p><strong>Nick</strong>: Hey, Sara, did anyone ever tell you, you have a pretty good singing voice?</p>
+<p><strong>Sara</strong>: (retorts) If you like chalk on a board.</p>
+<p><strong>Nick</strong>: Come on. I've heard you around here. People never tell you that?</p>
+<p>(SARA turns around and looks at NICK.)</p>
+<p><strong>Sara</strong>: It's a-a habit. I don't even realize I'm doing it. Did you get that belt loop from the crime scene lined up yet?</p>
+<p><strong>Nick</strong>: Yeah. Yeah. Take a look.</p>
+<p>(NICK steps aside to let SARA look through the magnifying glass. She matches the loop with the jeans. Camera zooms in for a close up.)</p>
+<p><strong>Sara</strong>: Fits like a glove.</p>
+<p><strong>Nick</strong>: Okay, let's go tell the boss. </p>
+<p>(SARA moves back to her table.)</p>
+<p><strong>Sara</strong>: You go. I have something to do first.</p>
+<p><strong>Nick</strong>: (worried) Hey, if you go near that Thorpe kid...</p>
+<p>(SARA turns around to look at NICK.)</p>
+<p><strong>Sara</strong>: Excuse me?</p>
+<p>(NICK doesn't back down. He's still concerned.)</p>
+<p><strong>Nick</strong>: I'm just saying ...</p>
+<p><strong>Sara</strong>: (appreciative) It's something else. Promise.</p>
+<p>(SARA gathers her things and leaves the room. NICK watches her leave.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GARAGE - DAY]</p>
+<p>(CATHERINE and WARRICK report their findings to D.A. SAM GENTRY. He reads the report.) </p>
+<p>D.A. Sam Gentry: Wait a minute. Hastings was facing McCall, and McCall shot him in the back? You can't have it both ways, guys. A judge will laugh me out of court.</p>
+<p>(CATHERINE steps forward and stands behind the dummy.)</p>
+<p><strong>Catherine</strong>: Well ... bear with us.</p>
+<p>(WARRICK steps forward to help CATHERINE illustrate what they've learned about the shooting.)</p>
+<p><strong>Warrick</strong>: All right. I'm McCall. I have a gun.</p>
+<p><strong>Catherine</strong>: I'm Hastings. I stab McCall in the right arm.</p>
+<p>(CATHERINE grabs the dummy's arm and moves it.)</p>
+<p>(Quick flashback to: The day of the shooting, CHUCKIE HASTINGS swings the screwdriver and stabs ROY MCCALL in the arm.)</p>
+<p>(Cut to: ROY MCCALL pushes HASTINGS off of him. HASTINGS falls backward to the ground.)</p>
+<p><strong>Warrick</strong>: (V.O.) I push him back off.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: And Hastings charges again. This time he lunges at his midsection.</p>
+<p>(CATHERINE bends the dummy over to illustrate.)</p>
+<p>(Quick flashback to: HASTINGS charges MCCALL, butting his head into MCCALL'S stomach, pushing him back. End of flashback. Resume to present.)</p>
+<p>(WARRICK lifts his hands as if he's holding a gun and points it downward.)</p>
+<p><strong>Warrick</strong>: I shoot.</p>
+<p>(Quick flashback to: MCCALL fires the first shot. HASTINGS goes down. End of flashback. Resume to present.)</p>
+<p>(D.A. SAM GENTRY takes a step forward.)</p>
+<p><strong>Catherine</strong>: He shoots from two feet according to our firearms range test and the unburned powder on the victim's clothes.</p>
+<p><strong>Warrick</strong>: And the bullet enters through the back even though we are facing each other and exits ... out the front.</p>
+<p><strong>Catherine</strong>: The first shot is fired in self-defense. But then McCall shoots Hastings a second time. Now that shot ...</p>
+<p>(WARRICK illustrates by bringing his fingers downward toward the dummy.)</p>
+<p><strong>Warrick</strong>: Boom.</p>
+<p><strong>Catherine</strong>: ... Was not in self-defense.</p>
+<p>(Quick flashback to: HASTINGS is down on his knees and clutching his stomach. He's breathing hard. MCCALL fires a second time. HASTINGS falls to the ground.)</p>
+<p>(Cut to: MCCALL looks up and around. LAURIEANE HASTINGS walks out of the house and sees CHUCKIE on the ground. She starts screaming.)</p>
+<p><strong>Laurieane Hastings</strong>: No!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Warrick</strong>: Chalk it up to adrenaline or revenge, but Hastings was already going down. There was no reason to shoot him a second time.</p>
+<p>D.A. Sam Gentry: I've got to say, I'm impressed. You two just put on quite a show. Think you can do it again at trial?</p>
+<p><strong>Warrick</strong>: That's our job.</p>
+<p><strong>Catherine</strong>: We'll see you in court, Sam.</p>
+<p>(The D.A. walks out of the garage.)</p>
+<p><strong>Warrick</strong>: Hey, how's Linds?</p>
+<p><strong>Catherine</strong>: Um, well, uh, she's with my sister. Hey, thanks for helping me out there. </p>
+<p><strong>Warrick</strong>: Right.</p>
+<p><strong>Catherine</strong>: I appreciate it. I ...</p>
+<p><strong>Warrick</strong>: Catherine, you've got to get that divorce finalized, huh?</p>
+<p>(CATHERINE doesn't say anything. WARRICK picks up the dummy and leaves the garage.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. HOSPITAL - EMERGENCY ROOM - DAY]</p>
+<p>(SARA walks into PAMELA ADLER'S room. She walks up to the bed, looking at PAM and sits down. She doesn't notice the man sitting in the chair in the darkened corner.) </p>
+<p><strong>Sara</strong>: We caught him. If you hadn't pulled that belt loop we might never have found him, but ... you did good.</p>
+<p>(The man in the chair leans forward into the light.)</p>
+<p><strong>Thomas Adler</strong>: You must be Sara. </p>
+<p>(SARA turns around.)</p>
+<p><strong>Thomas Adler</strong>: The CSI who called me?</p>
+<p>(They stand up and shake hands.)</p>
+<p><strong>Sara</strong>: Hi.</p>
+<p><strong>Thomas Adler</strong>: I'm Tom. Uh ... Pam's husband. Thanks, uh, for all you've done.</p>
+<p><strong>Sara</strong>: Sure. Oh, I wanted to give you this. I've been keeping it ... for Jane -- Pam, uh, until I found her family.</p>
+<p>(SARA gives THOMAS the medallion.)</p>
+<p><strong>Thomas Adler</strong>: Thanks.</p>
+<p>(He looks over at PAM.)</p>
+<p><strong>Sara</strong>: How are you doing?</p>
+<p><strong>Thomas Adler</strong>: Okay, uh ... good. The doctor says Pammie's condition is stabilized. He was in an hour ago. He expects her to live. (SARA nods.) Says she's not going to die.</p>
+<p><strong>Sara</strong>: (her smile freezes) That's great. That's-that's great. She's a real fighter, huh?</p>
+<p><strong>Thomas Adler</strong>: Well, we're moving her to Haven View Center later this week. Do-do you know that facility?</p>
+<p><strong>Sara</strong>: Yeah, I do ... know people who've gone there. They'll take real good care of her.</p>
+<p><strong>Thomas Adler</strong>: Yeah. That's what the doctor said.</p>
+<p>(THOMAS wipes a tear away from his eye and sniffles.)</p>
+<p><strong>Sara</strong>: I got to go.</p>
+<p>(SARA turns and heads for the door.)</p>
+<p><strong>Thomas Adler</strong>: Well, um, uh ... come see us sometime.</p>
+<p><strong>Sara</strong>: Definitely. Haven View. I'll be there. (he nods) Good luck.</p>
+<p>(SARA opens the door.)</p>
+<p><strong>Thomas Adler</strong>: Good luck to you.</p>
+<p>(She leaves the room. The door shuts behind her. THOMAS turns back to look at PAM.)</p>
+<p>CUT TO:<br />
+[INT. HOSPITAL HALLWAY - DAY - CONTINUOUS]</p>
+<p>(SARA walks out of the room and into the hallway. About mid-way through, she stops.)</p>
+<p>(After a moment, with tears in her eyes, she continues walking through the hallway and out of camera frame.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GRISSOM'S OFFICE - DAY]</p>
+<p>(SARA sits in GRISSOM'S office across the desk from him. She's quiet. He listens intently to her.) </p>
+<p><strong>Sara</strong>: The husband doesn't get it. </p>
+<p>(She shakes her head and brushes a tear from her eye.)</p>
+<p><strong>Sara</strong>: He's so happy she's going to live. He doesn't realize she's going to be in a vegetative state for the rest of her life. (her voice breaks) And that kid Thorpe ... is going to be out of juvie in 48 months. (whispers) It's not fair.</p>
+<p>(She wipes her eyes.)</p>
+<p>(GRISSOM takes a breath.)</p>
+<p><strong>Grissom</strong>: It's the system.</p>
+<p><strong>Sara</strong>: What kind of system rewards the suspect when the victim is too tough to die?</p>
+<p>(GRISSOM has no answer for her. SARA gets up from the chair, turns and heads for the door. GRISSOM stops her.)</p>
+<p><strong>Grissom</strong>: Sara ... you got to learn to let this go or you're going to spend all your time in hospitals trying to help the people you couldn't save.</p>
+<p><strong>Sara</strong>: I wish I was like you, Grissom. I wish I didn't feel anything.</p>
+<p>(SARA turns and leaves the office. The door closes behind her.)</p>
+<p>(GRISSOM turns away from the door and takes a deep breath.)</p>
+<p><strong>Grissom</strong>: (exhales) Oh.</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
- 
-
-
-
-
-
-
-
-
-Male Voice: Give me your keys and get in the car.
-
-
-
-
-
-
-Rosalyn Dudek: What is that?
-
-Hank Dudek: Is that a body?
-
-
-Rosalyn Dudek: Oh, my god. She's alive.
-
-
-
-
-
-Sara: Hey.
-Brass: Here's what I know so far. Victim was a well-dressed woman, young, black. She's at Desert Palm Hospital multiple gunshots to the head possible sexual assault. Doctor has her as &quot;death imminent.&quot;
-Grissom: Sara, I'm going to need you to go to the hospital process the victim-- sexual assault kit, hairs, fibers, the works.
-Sara: Right now? I thought I would help you two with the scene.
-Grissom: The evidence won't stay on the body long at the E.R.
-Sara: Walk in the park, guys.
-
-
-Nick: It looks like a high heel print. Maybe abducted. 
-
-Nick: Did she know the guy? Did he use his car or hers?
-Grissom: Locard's principle: He took a piece of her away with him and he left a piece of himself here.  We get to find it.
-HARD CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
- 
-
-Grissom: Thank you, my sherpas.
-Catherine: Surely.  So, you got our assignments?
-Grissom: You're looking at it. Murder case.
-Catherine: This mess? You're not serious.
-Grissom: DA is. Guy named McCall shot and killed his neighbor over a motorcycle. D.A. Can't make heads or tails of the evidence for the preliminary hearing.
-Warrick: Where's McCall now? He's being held?
-Grissom: He ran from the arresting officers so the Judge refused him bail.
-Catherine: And why isn't the case CSI dealing with this?
-Grissom: Franovich from days? He quit yesterday. Burnout.
-Catherine: And what did the DA charge?
-Grissom: Murder one. The case has changed hands so many times that the D.A. Can't make any sense of it. It gets better. The prelim's in four days.
-
-Catherine: Well, no pressure here.
-Warrick: Great.
-Grissom: Cath, can I see you outside for a sec?
-
-
-
-
- 
-Catherine: Why would my bank be asking you about my employment record?
-Grissom: Well, technically, I'm your supervisor. They said that Eddie took a second mortgage out on your house. They said that you still own it together until the divorce is final.
-
-Catherine: We didn't want to sell it until the market went back up and then we were going to split the profits. I can't believe he took a second out on the house. How can he do that without my signature?
-Grissom: It's Eddie. I just thought you should know. I gotta get back out to Nick.
-
-
-
-
-
-Sara: Hey.
-Det. Evans: Hey.
-Sara: You get any I.D. On her?
-Det. Evans: No. She's a Jane Doe. She's got two bullets lodged in her brain. Docs can't remove them without killing her.
-Sara: All right. 
-
-Nurse: Come in.
-Sara: Hi.
-
-
-Sara: Thanks.
-
-
-Sara: Make a note she's married. Or recently divorced. 
-
-Sara: She's warm.
-Det. Evans: Feels different, huh?
-
-Sara: Uh, Evans ... we're going to need a little privacy here.
-
-
-
-
-Sara: I never really liked this part of my yearly exam. These things are always freezing.
-
-Sara: Okay.
-
-
-SCENE #07
-[EXT. DESERTED ROAD - DAY
-
-
-Nick: Cartridge casings. They don't look like hunters' either.
-
-
-Grissom: Nick, get a shot of this.
-
-Grissom: Looks like a belt loop. 
-
-Nick: We couldn't have been there long. No elements.
-
-Grissom: Brass, was the victim wearing denim?
-Brass: Silk or lace, something like that. Definitely not denim.
-
-Grissom: Good chance this is our suspect's. I'm going to use scent pads.
-
-Nick: Scent pads?
-Brass: Canine voodoo.
-
-Grissom: A dog's sense of smell is about 40 times more acute than a human's. A dog's nose is packed with dense rolls of membranes that absorb odor. Stretched out, these membranes extend about a third the length of a dog's body. The membranes of the human nose about the size of a postage stamp.
-
-Nick: Looks like a giant dustbuster.
-GRISSOM; Similar. You place absorbent pads into the chamber then run the machine over the suspected item. Then you take the pad seal it in an envelope and freeze it.
-
-Nick: Yeah. Yeah, then we pull them out when we know enough about this denim guy to find a proximal location.
-Grissom: Except there's a caveat.
-
-Brass: You want to explain that caveat?
-(Quick CGI POV through the nozzle of the scent pad machine as it &quot;gathers&quot; the
-&quot;scent&quot; from the denim piece and is sucked into the scent pad.)
-Grissom:  Later. 
-(End of CGI POV. Resume to present.
-Grissom: Hopefully, Sara's making some progress.
-
-
- 
-
-Warrick: Hey, are you just going to ignore my question?
-Catherine: I called Eddie about the loan. I got his voicemail. The guy's like ether. You going to answer my question?
-Warrick: All right, here's what we know from the arresting officer: 
-
-Warrick: Two 25-year-old guys Chuckie Hastings and Roy McCall, lifelong neighbors one step up from a trailer park got into a beef over a motorcycle in the owner's backyard.
-Catherine: All right, here's McCall's statement. If you can believe a guy who's looking at murder. Mccall says that he returned Hastings' motorcycle to him with the front end smashed up. They were standing in Hastings' backyard...
-
-Roy McCall: I told you I'd pay for it.
-Chuckie Hastings: Yeah, you said that last time.
-
-ROY McCALL: Whatever.
-
-Chuckie Hastings: Yeah, whatever. You b*st*rd.
-
-Roy McCall: Hey, back off, man, back off.
-
-Chuckie Hastings: You're going to pay for all of it.
-
-Catherine:  Mccall defends himself with an automatic that was down his pants.
-
-
-Warrick: All right, now, Hastings' wife said that McCall shot Hastings in the back. 
-Catherine: Mm-hmm.
-Warrick: And the coroner's report substantiates that.
-
-
-Catherine: So, what? McCall lied. He really said that Hastings cam at him with a screwdriver so he can plead self-defense?
-Warrick: Well, we would need the screwdriver with McCall's blood on it to prove that, now, wouldn't we?
-
-Catherine: All right, which box?
-Warrick: I have been through all these boxes twice. It's not there.
-Catherine: The evidence is lost? In a murder case?
-Warrick: The gun is here, but there's no screwdriver. They even have crime scene photos of it. But no tests were run on it before it was misplaced.
-Catherine: So, we know why Franovich left. He quit before we could fire his ass. 
-Warrick: Right.
-Catherine: So, you know who the DA will blame for this?
-Warrick: Yeah, the same people homicide'll blame.
-Catherine: Well, now that we've exhausted all of our options let's start over.
-
-
-
-
-Bobby Dawson: So this lady's expected to die. Is that the story?
-Grissom: Somebody raped her, shot her and left her for dead.
-Nick: And left two cartridge casings behind for us. Thank you very much.
-
-Bobby Dawson: That kind of oversight tells you he's stupid.
-Grissom: Or true to form. People are usually meticulous in planning up to a murder. They rarely plan the aftermath.
-Nick: Still, you'd think the bad guys would figure we'd eventually start a database on cartridge casings, huh?
-
-Bobby Dawson: Gentlemen, we've got ourselves a bull's-eye.
-Nick: Well, well, well. Looks like this gun was used before in a case we've handled. 
-
-Nick: North Vegas shooting.
-Bobby Dawson: You gotta do a side-by-side comparison to be sure.
-Grissom: Well, listen, if you get a confirmation, page me. I gotta go see Sara.
-
-Bobby Dawson: Okay.
-
-
-
-
- 
-
-Sara: Saint Catherine. She studied science. 
-
-Sara: She was touch and very outspoken. Went against the Emperor himself. Chewed him out for persecuting Christians. Took him two or three tries to execute her. 
-
-Sara: She never gave up. She was brave.
-
-Sara: You hold on to this.
-
-Sara:  This shouldn't have happened to you. But, I promise I will find out who did this. I promise.
-
-Grissom: Hey.
-Sara: Hey. 
-
-Sara: Sexual assault kit's ready to process.
-Grissom: How's it look?
-
-Sara: We'll see. She's, um ...  ... breathing.
-Grissom: She's evidence.
-
-Grissom: Sara?
-Sara: Yeah?
-Grissom: If you try and chase two rabbits you end up losing them both.
-
-
-
-
-
-
-
- 
-
-Catherine: Hi. Laurieane Hastings? We're with the Las Vegas Crime Lab.
-Laurieane Hastings: Cops. I have talked to enough of you already.
-Warrick: Ma'am, we're not cops. We're crime scene investigators. We've come to ask you a few questions about the day that your husband was killed. Maybe acquaint ourselves with the actual crime scene.
-Laurieane Hastings: Is this going to let Roy McCall out of jail which is where he belongs?
-Catherine: We're simply reviewing the evidence for the preliminary hearing.
-
-
-Laurieane Hastings: McCall was always borrowing this motorcycle and Chuckie was mad at him 'cause he returned it wrecked again. He was yelling at him and out of the blue mccall pulled his gun.
-Catherine: You were home.
-Laurieane Hastings: Yes, I was.
-Catherine: And you saw the shooting?
-Laurieane Hastings: I most certainly did. I was doing laundry here ...
-
-Roy McCall:  Get your hands off me.
-Chuckie Hastings:  I'm sick of you, man.
-Roy McCall:  Whatever.
-(White flash to: LAURIEANE HASTINGS walks out of the house and sees HASTINGS AND MCCALL in a shoving match in the back yard.
-Laurieane Hastings:  I went to see and try to break it up.
-Chuckie Hastings: Back off, man. Back off.
-
-Chuckie Hastings: Get your sorry ass off my property.
-
-
-
-Warrick: Out back here?
-Laurieane Hastings: Yes.
-
-Catherine: How long did you say they had been arguing before you heard the first shot?
-Laurieane Hastings:  Couple minutes.
-Catherine: And then you went out back?
-Laurieane Hastings: That's right.
-Catherine: Okay, thank you. This won't take very long.
-
-
-
-
- 
-Warrick: What's up?
-(CATHERINE clicks off the stopwatch and explains.
-Catherine: She did a &quot;fill-in&quot; back there in the garage. First, she said she saw both shots, but I just asked her and she said she heard the first shot and then came running out here.
-Warrick: Heard the first shot and then came running out here.
-Catherine: Yeah.
-Warrick: McCall had a semiautomatic. I mean, you could pull off a shot in two-tenths of a second.
-Catherine: Right. It took me 3.8 seconds to get out here. She didn't see any shot.
-Warrick: So she just filled in what she thought happened -- that McCall shot her husband in cold blood.
-Catherine: Right.
-Warrick: Typical eyewitness.
-Catherine: So, there's a good chance that McCall was telling the truth -- that he shot Hastings in self-defense.
-Warrick: Well, if we had the screwdriver that someone lost 
-Catherine: Right.
-Warrick: We'd be able to check for blood.
-Catherine: Right. Let's go see McCall. No one lost him.
-
-
-
-
- 
-Nick: Hey, you guys, this North Vegas shooting with the same casings as our Jane Doe's?
-Grissom: Mm-hmm.
-Nick: It was gang-related. And homicide never found the shooter.
-Grissom: It's almost impossible in gang neighborhoods. Nobody wants to talk. People are afraid. Listen, let's see if we have any evidence that's not attributed to the victim.
-
-Sara: Here you go.
-
-Nick: Snakebacks.
-Grissom: Gang shooters mark their kills by tossing down their hats. 
-
-Grissom: Some sort of anthropological quirk of territoriality. Like cats spraying on a bush.
-
-Nick: Lets the opposition know who was responsible.
-
-Sara: Somebody wore this hat a lot.
-
-Sara: This sweatband might give us DNA and I could compare it to the samples I collected off of Jane at the hospital.
-
-Grissom: Jane?
-Sara: Our ... Jane Doe. My &quot;death imminent.&quot;
-Nick: First-name basis, Sara?
-
-Sara: I'll be in DNA.
-
-
-
-
-Brass: Hey. This is, uh, Detective Sam Vega from the gang detail. He's here to give us information on 23rd street. This is Gil Grissom and Nick Stokes from the crime lab.
-
-Grissom: We're looking for a shooter. Guy abducted, raped and shot a young black woman the other night.
-Det. Sam Vega: We get a couple of shootings a week here from the snakebacks, out of a four-block radius from this point here. Usually at the pepper street gang. Your guy might have left the neighborhood as part of a gang initiation. It means more when the victim's a civilian.
-Nick: Our ball cap belongs to somebody in this neighborhood. These houses are full of people who know the guy who wears it.
-Brass: Okay, Nick, ready to burn some shoe leather? Some old-fashioned police work? What do you say, huh?
-
-Nick: Why can't we just use those scent pads?
-Grissom: The dogs? Constitutional issue. We can't get a warrant for the evidence we find off the dogs' search.
-Nick: Great, great. Why'd you even suggest it?
-Grissom: You're a grown man, Nick. Stop whining.
-
-
-
-
- 
-Warrick: Mr. McCall, according to your statement you went over to your neighbor Hastings' house to return his motorcycle. You got into a dispute over a wrecked fender and he attacked you with a screwdriver.
-
-Roy McCall: He stabbed me in the arm.
-
-Chuckie Hastings: Hey, back off, man.
-Roy McCall: You're gonna pay for this.
-
-
-Catherine: Can you circle the area in which the screwdriver entered your arm when Hastings attacked you? 
-
-Catherine: May I exam your client's wound?
-Margaret Finn: Yes, anything to clear my client.
-
-Catherine: Thanks. 
-
-Catherine:  I think he's telling the truth. He's right-handed. I could tell when he took the pen.
-Warrick: So you're saying that if he'd inflicted the wound on himself he would have stabbed his left arm.
-Catherine: And even if he'd tried to fool us and stabbed his right arm the entry scar would have been upward, not down.
-Warrick: Mr. McCall, which direction was Hastings facing when you shot him?
-Margaret Finn: He was facing my client. End of story.
-Catherine: Well, the coroner disagrees.
-Margaret Finn: Well, that's the coroner's problem. And I after I tell any jury how your side managed to lose a piece of evidence as important as the screwdriver ...  really, how much weight will the coroner's findings have?
-
-
-
-
-
-Catherine: People don't realize just how many sets of hands a piece of evidence passes through. Losing evidence isn't about anything sneaky. It's just human error.
-
-Warrick: Defense attorneys have made a whole career off that human error.
-Catherine: Yeah, tell me about it.
-
-Catherine:  You get that loan canceled, and you do it now, Ed. Now! 
-
-
-
-
- 
-Warrick: Doc, are you sure McCall shot Hastings in the back?
-Dr. Albert Robbins: Back to front, both times.
-Warrick: This guy McCall swears that he shot him straight ahead in self-defense.
-Dr. Albert Robbins: Look at my notes.
-
-Dr. Albert Robbins: Right here. &quot;Entry wounds piercing the back, both small, regular with evidence of carbonaceous material typical of having just emerged from a gun ... &quot; 
-Warrick:  Right. 
-Dr. Albert Robbins: &quot;...And they exited out the front with a classic keyhole effect-- irregular. First bullet entered Hastings'
-
-Dr. Albert Robbins:  ... &quot;lattissimus dorsi passed through the lower intestine exited out the intercostal muscle. 
-
-
-Dr. Albert Robbins:  The second bullet passed through Hastings' C-7
-thoracic nerve exited out the pectoralis major.&quot;
-
-
-Warrick: All right, look, I'm not doubting your findings. But when guys go at it they're not like gingerbread men, you know? They're, like, bobbing and weaving. It's like W.W.F. Smackdown. You know? All of these things could have changed what went down when Hastings and McCall tangled.
-Dr. Albert Robbins: Anatomically speaking, it's open-and-shut. You guys are the ones to put perspective on it.
-Warrick: No doubt. When Catherine gets here can you tell her I went over to evidence to check out the victim's t-shirt?
-Dr. Albert Robbins: Mm-hmm.
-
-
-
-
-
-
-
-Grissom: Hey.
-
-Sara: Any luck on 23rd street?
-Grissom: I, uh, broke in my new shoes. That's about it. What'd the lab say?
-Sara: The DNA from the ball cap is a match to the semen we found on our Jane Doe. But ... CODIS hasn't kicked out a name.
-Grissom: So you're just ... looking at missing persons reports?
-Sara: We're not having any luck finding the shooter from his DNA with a belt loop so I thought I would at least try and identify the poor woman before she dies.
-
-Grissom: Sara. Do you have any diversions?
-Sara: Do I what?
-Grissom: You max out on overtime every month. You go home and listen to your police scanner. 
-
-Grissom: You read forensic textbooks ...
-Sara: Yeah.
-
-Grissom: Look, every day we meet people on the worst day of their lives. It's a lot to deal with. Everyone who's had any time on this job knows that you have to have a diversion in order to cope with what we see. What do you do for fun?
-Sara: I chase rabbits. And ... I read crime books. And I listen to the scanner.
-Grissom: You need something outside of law enforcement. Catherine has her kid, you know? I sometimes ... ride roller coasters. 
-
-Grissom: What do you do?
-
-Sara: Nothing.
-Grissom: Okay. What do you like?
-Sara: I don't like anything.
-Grissom: You've got to find something to like. You can't get too close to the victims.
-Sara: She's special ... to me. I can't help it.
-Grissom: If you don't find something they'll all become special and you'll burn out.
-
-Grissom: Sara.
-Sara: Okay. I'm almost done. I just got to log off.
-
-
-
-
-;
-
-
-
-
-
-
- 
-Catherine: Well, this is progress. The shirt confirms what the coroner said: That the shots were fired back to front. Look at those entry holes.
-Warrick: Yeah, but look at that gunpowder. Unburned gunpowder.
-Catherine: Which happens when a gun is fired less than three feet from a victim.
-Warrick: Right.
-Catherine: McCall says that they were standing five paces apart. 
-
-Catherine: Mrs. Hastings says the exact same thing. So we have two eyewitnesses on opposite sides of the case ... saying the same thing.
-Warrick: In direct contradiction to our evidence.
-Catherine: Well, the DA's on my beeper. Would you, uh, explain this to him because I can't.
-Warrick: Yeah, right.
-
-Warrick: Hey ... when's the last time you took target practice?
-
-Catherine: Figures. I just had a manicure.
-
-
-
- 
-Warrick: Okay, so we're doing this reconstruction and the best way is to measure the distance between the victim and the assailant during the time of the altercation, right?
-Catherine: Right.
-
-Catherine: Using the same firearm and ammo that McCall used in his backyard on Hastings. 
-Warrick: Right.
-
-
-
-
-
-
-Warrick: Circumference of the gunpowder is the same. 
-
-Warrick: Looks like two feet for shot number one ...
-
-Warrick: ...and one foot for shot number two.
-Catherine: And according to Lauriane Hastings' statement he was running away. How can the second shot be closer than the first?
-Warrick: It can't. It's not possible.
-
-Warrick: We just disproved their statement.
-CATHERINE And then we've got McCall's statement. 
-
-Catherine: Can't happen when someone's facing you.
-
-Warrick: The truth is somewhere in the middle. How long do we have till the prelim?
-Catherine: I think I know how we can figure this out. I saw this thing in my forensics catalog.
-Warrick: What kind of &quot;thing&quot;?
-
-
-
-Nick: Now you want to use the dogs to track down the Jane Doe shooter?
-
-Grissom: K-9 unit's going to meet us there.
-Nick: Yeah, but I spoke to Brass. He said we can't get a warrant on anything we need from the suspect's house-- gun, jeans, nothing.
-Grissom: That's if we find him inside his house. In which case, we'll figure out another way to get a warrant.
-Nick: You're rushing this for Sara.
-Grissom: My priority is the case, Nick. Release the hounds.
-
-
-
-
-
-(The monitor scrolls through a couple of listings. Then she stops on something familiar. It reads:
-MISING PERSON
-Pamela Adler: 26 YEAR OLD BLACK FEMALE, MISSING SINCE 1730 TUESDAY. WEARING
-LAVENDER BUSINESS SUIT. REPORTED MISSING
-BY THOMAS ADLER, HUSBAND. LAST
-SEEN AT LAS VEGAS SHOPPING
-CAR 1992 ACURA LEGEND. LA
-360-RYD.
-
-Sara: You were shopping.
-
-Sara: Pamela ...  ... Pamela Adler.
-
-
-
-
-Officer: Here we go. Come on.
-
-Grissom: Hey, lady. You ready for a scent pad?
-
-Grissom: Breathe deep. Girls.
-
-Officer: Here we go!
-
-Nick: Whoa!  Are we supposed to be able to keep up with those guys?
-
-Grissom: Yeah!
-
-
-
-
-Officer: Here we go. OFFICER: Come on. OFFICER: Come on. Good girl.
-
-
-
-Tony Thorpe: Hey, hey, yo, yo. Back off, snoop. What'd you raggedy mutts want with me anyway?
-
-Tony Thorpe: Hey, you two, don't be hassling me.
-
-
-
-Nick: Guy's wearing the evidence in plain sight. We just got lucky.
-Shandra Thorpe: Tony! 
-
-Shandra Thorpe: What are you doing?!  You got a problem?
-Grissom: Ma'am, is-is this your son?
-Shandra Thorpe: Yes.
-Grissom: Well, we're going to have to talk to him for a minute.
-Shandra Thorpe: You police -- coming here with your attack dogs.
-Grissom: Actually, they're scent dogs, and I'm not a police officer. I'm a Forensic Scientist with the Las Vegas Police Department.
-Shandra Thorpe: What do I got to say to a scientist?
-Grissom:  You could say &quot;hello.&quot;
-
-
-
-
-Warrick: This dummy cost over $500?
-Catherine: Oh, yeah. He's worth it.
-
-Warrick: Why?
-Catherine: Well, look at him. He's lifelike, he doesn't talk, and he's self-
-healing.
-Warrick: He's &quot;self-healing&quot;?
-Catherine: Yeah. We make a mistake in our calculations we just start over.
-
-Warrick: Cool. Um, the wound track is off. Do it two centimeters higher.
-Catherine: All right. How's that?
-Warrick: Good.
-Catherine: All right.
-
-Warrick: Now, the second shot was fired like so. Now, the coroner says that Hastings was shot just like this, from back to front and Hastings' wife says the same thing -- that her husband was running away.
-Catherine: And McCcall says that Hastings was facing him shot him in self-defense and he's got the wound ... to prove it.
-
-Warrick: Just like I said before, guys don't go at it and fight like gingerbread men, you know?
-Catherine: Mm-hmm.
-Warrick: Check it out.
-
-Warrick: What if, um ... he was lunged ...
-
-Warrick: ...just kind of like this?
-
-Warrick: Oh, you are wrong!
-
-Catherine: Warrick ... ?
-
-Catherine: I think maybe they were both telling the truth. 
-Warrick: Yeah. I'm calling the DA.
-
-
-
-
-
- 
-Brass: So, Tony, where were you two nights ago?
-Tony Thorpe: I was nowhere special. I was just hanging.
-Sara:  Grissom told you to keep me out, didn't he?
-
-Nick:  Yeah.
-
-Grissom: Were you wearing those pants the other night?
-Tony Thorpe: Oh, these jeans? What's it to you?
-Grissom: They're missing a belt loop. 
-
-Grissom: I find that interesting.
-Brass: You mind if we look at those? We got some scrubs for you to wear.
-
-Shandra Thorpe: I know the law. He doesn't have to do anything unless a judge says to.
-Brass: That's why we're asking Tony to volunteer ... with your permission ...
-
-
-
-Tony Thorpe: Chill, moms. 
-
-
-Tony Thorpe:  I got nothing to hide. It's no big thing. Cop said lady isn't even dead.
-
-Grissom: That's true, she isn't ... but if she dies within a year and a day of the shooting ... then it's murder.
-Shaunda Thorpe: Is this some kind of a trick?
-Brass: No, ma'am, it's the law. We're working this case as a murder.
-Tony Thorpe: At least for the next year and a day and even then, I'm still a juvie. 
-Grissom: Well, then I guess the law is on your side, Tony, isn't it? For now.
-
-
-
- 
-
-Eddie Willows: Hi, Catherine. Somebody wanted to see you.
-Catherine: Hey, baby.
-Lindsey Willows: Hi, mommy. 
-
-Lindsey Willows:  Daddy's taking me to dinner tonight.
-Catherine: He is?
-Eddie Willows: Main room at the Orpheus.
-Lindsey Willows: They have lions and tigers at the restaurant and daddy said I can go to a show after.
-Catherine Willows: Well, uh ... you know, honey, it's a school night so I need to discuss that with daddy first.
-Lindsey Willows: Come on, mom. It's just this one night.
-
-Catherine: Ed ...
-
-Warrick: Hey, Lindsey, I got some games on my computer. You want to see?
-Lindsey Willows: Sure.
-Warrick: Let's play one. 
-
-Catherine:  Uh, I'll see you in a bit, honey. 
-
-Catherine:  You set me up. Again.
-Eddie Willows: How, by taking out daughter to dinner?
-Catherine: Get over here.
-
-Eddie Willows: Oh, come on now! What?!
-Catherine: You are so pathetic.
-Eddie Willows: What?! What?!
-Catherine: Just so pathetic.
-Eddie Willows: Watch it, Cath.
-Catherine: Sucking up to our daughter 'cause I caught you robbing me.
-Eddie Willows: The only thing I ever robbed you of was good s*x.
-
-Catherine: No s*x is worth you, and you are not taking my daughter to a club with one of your music whores.
-Eddie Willows: Oh, they're whores? When I met you, you were taking your clothes off in a strip club.
-Catherine: It was a job, Ed and it supported you, just like every job I've had including this one!
-
-Eddie Willows: Yeah? And who paid to close up your nose?
-Catherine: You're such a bast...!
-
-Catherine: Let go of me.
-
-Eddie Willows: What?! 
-
-Eddie Willows:  I'll let go of you when I'm damn good and ...
-Grissom: Let go of her, Ed!
-
-Grissom: Catherine?
-Catherine:  Just get him out of here.
-
-Grissom: I don't want to ever see you in this building again. This is our place of business. You understand that?
-Eddie Willows: I always knew you two had a thing.
-Grissom: Go home, Eddie.
-Eddie Willows: Sure.
-
-
-
-
-
-
- 
- 
-Sara:  / one day, maybe next week / I'm going to meet you, meet you / I will ... 
-
-Nick: Hey, Sara, did anyone ever tell you, you have a pretty good singing voice?
-Sara:  If you like chalk on a board.
-Nick: Come on. I've heard you around here. People never tell you that?
-
-Sara: It's a-a habit. I don't even realize I'm doing it. Did you get that belt loop from the crime scene lined up yet?
-Nick: Yeah. Yeah. Take a look.
-
-Sara: Fits like a glove.
-Nick: Okay, let's go tell the boss. 
-
-Sara: You go. I have something to do first.
-Nick:  Hey, if you go near that Thorpe kid...
-
-Sara: Excuse me?
-
-Nick: I'm just saying ...
-Sara:  It's something else. Promise.
-
-
-
-
- 
-D.A. Sam Gentry: Wait a minute. Hastings was facing McCall, and McCall shot him in the back? You can't have it both ways, guys. A judge will laugh me out of court.
-
-Catherine: Well ... bear with us.
-
-Warrick: All right. I'm McCall. I have a gun.
-Catherine: I'm Hastings. I stab McCall in the right arm.
-
-
-
-Warrick:  I push him back off.
-
-Catherine: And Hastings charges again. This time he lunges at his midsection.
-
-
-
-Warrick: I shoot.
-
-
-Catherine: He shoots from two feet according to our firearms range test and the unburned powder on the victim's clothes.
-Warrick: And the bullet enters through the back even though we are facing each other and exits ... out the front.
-Catherine: The first shot is fired in self-defense. But then McCall shoots Hastings a second time. Now that shot ...
-
-Warrick: Boom.
-Catherine: ... Was not in self-defense.
-
-
-Laurieane Hastings: No!
-
-Warrick: Chalk it up to adrenaline or revenge, but Hastings was already going down. There was no reason to shoot him a second time.
-D.A. Sam Gentry: I've got to say, I'm impressed. You two just put on quite a show. Think you can do it again at trial?
-Warrick: That's our job.
-Catherine: We'll see you in court, Sam.
-
-Warrick: Hey, how's Linds?
-Catherine: Um, well, uh, she's with my sister. Hey, thanks for helping me out there. 
-Warrick: Right.
-Catherine: I appreciate it. I ...
-Warrick: Catherine, you've got to get that divorce finalized, huh?
-
-
-
-
- 
-Sara: We caught him. If you hadn't pulled that belt loop we might never have found him, but ... you did good.
-
-Thomas Adler: You must be Sara. 
-
-Thomas Adler: The CSI who called me?
-
-Sara: Hi.
-Thomas Adler: I'm Tom. Uh ... Pam's husband. Thanks, uh, for all you've done.
-Sara: Sure. Oh, I wanted to give you this. I've been keeping it ... for Jane -- Pam, uh, until I found her family.
-
-Thomas Adler: Thanks.
-
-Sara: How are you doing?
-Thomas Adler: Okay, uh ... good. The doctor says Pammie's condition is stabilized. He was in an hour ago. He expects her to live.  Says she's not going to die.
-Sara:  That's great. That's-that's great. She's a real fighter, huh?
-Thomas Adler: Well, we're moving her to Haven View Center later this week. Do-do you know that facility?
-Sara: Yeah, I do ... know people who've gone there. They'll take real good care of her.
-Thomas Adler: Yeah. That's what the doctor said.
-
-Sara: I got to go.
-
-Thomas Adler: Well, um, uh ... come see us sometime.
-Sara: Definitely. Haven View. I'll be there.  Good luck.
-
-Thomas Adler: Good luck to you.
-
-
-
-
-
-
-
-
- 
-Sara: The husband doesn't get it. 
-
-Sara: He's so happy she's going to live. He doesn't realize she's going to be in a vegetative state for the rest of her life.  It's not fair.
-
-
-Grissom: It's the system.
-Sara: What kind of system rewards the suspect when the victim is too tough to die?
-
-Grissom: Sara ... you got to learn to let this go or you're going to spend all your time in hospitals trying to help the people you couldn't save.
-Sara: I wish I was like you, Grissom. I wish I didn't feel anything.
-
-
-Grissom:  Oh.
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=01x16+-+Too+Tough+to+Die&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127292%23p127292" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=01x16+-+Too+Tough+to+Die&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127292%23p127292" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127292%23p127292&amp;name=01x16+-+Too+Tough+to+Die" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127292%23p127292" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=705e63cc2a735fc525435360abc78591">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=705e63cc2a735fc525435360abc78591">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=705e63cc2a735fc525435360abc78591">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=705e63cc2a735fc525435360abc78591">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

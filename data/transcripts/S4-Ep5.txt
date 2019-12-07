@@ -1,695 +1,927 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]
+[EXT. LAS VEGAS ROADWAY (STOCK) - NIGHT]
+[INT. CAR (MOVING) - NIGHT]
+(LINDA JONES is driving her car." />
+<meta property="og:title" content="04x05 - Fur and Loathing - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]
+[EXT. LAS VEGAS ROADWAY (STOCK) - NIGHT]
+[INT. CAR (MOVING) - NIGHT]
+(LINDA JONES is driving her car." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13263" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>04x05 - Fur and Loathing - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13263" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13263">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=0fb13b090889a735c135e93c2d391c4c"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=0fb13b090889a735c135e93c2d391c4c">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=0fb13b090889a735c135e93c2d391c4c">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=0fb13b090889a735c135e93c2d391c4c">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=0fb13b090889a735c135e93c2d391c4c">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13263&amp;sid=0fb13b090889a735c135e93c2d391c4c&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>04x05 - Fur and Loathing</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127357">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127357">04x05 - Fur and Loathing</a></div>
+							<div class="pull-right text-right"><time datetime="2003-11-13T19:38:43Z">11/13/03 19:38</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[EXT. LAS VEGAS ROADWAY (STOCK) - NIGHT]</p>
+<p>[INT. CAR (MOVING) - NIGHT]</p>
+<p>(LINDA JONES is driving her car. As she drives, she glances left and right as if looking for something. Her car hits something with a thud. She slams on the breaks and slows the car down a little. Rather than stopping to check it out, LINDA continues to drive as she tries to look behind at what she might have hit.)</p>
+<p>(When she turns back to the road, she finds that she's headed straight for a truck. The trunk honks his horn at her.)</p>
+<p>(She screams.)</p>
+<p>WHITE FLASH TO:</p>
+<p>[EXT. ROADWAY - NIGHT - LATER]</p>
+<p>(The TRUCK DRIVER talks with the OFFICER.)</p>
+<p><strong>Truck Driver</strong>: You can breathalize me all you want, but the broad came right at me. I swear, it wasn't my fault.</p>
+<p><strong>Officer</strong>: (o.s.) Sir, I understand.</p>
+<p>(GRISSOM and CATHERINE approach the mangled car.)</p>
+<p><strong>Catherine</strong>: Ooh, that's what happens when 6,000 pounds of thrust meets three feet of hood.</p>
+<p><strong>Grissom</strong>: This was not a fair fight.</p>
+<p>(They look into the car at the body behind the wheel. CATHERINE looks at the road.)</p>
+<p><strong>Catherine</strong>: Well, now, how did she end up way over here? </p>
+<p>(She sees the skid marks on the road.)</p>
+<p><strong>Catherine</strong>: There must be 20 feet of rubber burned into this asphalt. She was braking hard.</p>
+<p><strong>Grissom</strong>: She definitely swerved out of her lane. I think I may know why.</p>
+<p>(GRISSOM finds the paw prints on the road. CATHERINE looks at the paw prints.)</p>
+<p><strong>Catherine</strong>: Oh. What kind of animal are we talking about here?</p>
+<p><strong>Grissom</strong>: A big one.</p>
+<p><strong>Catherine</strong>: The victim could have clipped the animal when it ran in front of her. </p>
+<p>(They continue to look down the road.)</p>
+<p><strong>Catherine</strong>: Well, it can't have gone far.</p>
+<p>(They both follow the paw prints to the side of the road. Just at the bottom of the hill, they find the body of a man in a Raccoon suit. GRISSOM stares at the suit.)</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. ROADSIDE -- DAY] </p>
+<p>(CATHERINE reaches out and removes the mask from the body. Inside the suit is a man. CATHERINE looks inside the mask.) </p>
+<p><strong>Catherine</strong>: Hmm. Ooh. Not much padding.</p>
+<p>(GRISSOM looks at the mask.)</p>
+<p><strong>Grissom</strong>: Whoa. This is incredibly detailed. Eyelashes, nostrils ...</p>
+<p><strong>Catherine</strong>: Oh, yeah. That's what you see out of. I once dated the Detroit Lions Mascot. Off-season. Dutch was his name.</p>
+<p><strong>Grissom</strong>: The breadth of your social experience never ceases to impress me.</p>
+<p>(CATHERINE smiles. GRISSOM takes photos of the body.)</p>
+<p>(CATHERINE takes something out of the mouth of the mask. It's a piece of blue-colored yarn.)</p>
+<p><strong>Catherine</strong>: Dutch never had furballs, though.</p>
+<p>(She puts it in a bag.)</p>
+<p>(DAVID PHILLIPS grabs his clipboard and walks over to the body. He stares down at it.)</p>
+<p><strong>Grissom</strong>: Are you all right, David?</p>
+<p><strong>David Phillips</strong>: It's just ... disturbing. There was a big raccoon who hosted an after-school kids show when I was little. (smiles fondly at the memory)<br />
+Stripey. Everybody loved him. I loved him. </p>
+<p><strong>Grissom</strong>: &quot;Stripey's&quot; brother suffered blunt force trauma caused by a violent collision with a moving vehicle.</p>
+<p>(Quick flashback to: [ROAD-NIGHT] The man in the raccoon suit is standing on the road waving a car down. The car heads straight for the man and hits him. He flies to the side of the road on impact. End of flashback. Resume to present.)</p>
+<p>(DAVID PHILLIPS gets to work.)</p>
+<p>(Cut to: DAVID pushes the body up the hillside on a gurney toward the coroner's van.</p>
+<p><strong>Catherine</strong>: The eternal question: Why did the man in the raccoon suit cross the road?</p>
+<p>(GRISSOM glances sideways at CATHERINE.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - EVENING]</p>
+<p>[INT. BIG &amp; BEST WAREHOUSE -- FREEZER -- NIGHT] </p>
+<p>(There's a man dead on the floor of a freezer. NICK and SARA stand over the body looking down at him.) </p>
+<p><strong>Nick</strong>: Frozen stiff.</p>
+<p><strong>Sara</strong>: Looks like he died trying to get out. Trying to get to the door, maybe.</p>
+<p><strong>Nick</strong>: It got messy. Check out the shotgun spatter.</p>
+<p><strong>Sara</strong>: Single blast. Went in, went out. Ooh. This has got to be the coldest place in Vegas.</p>
+<p><strong>Nick</strong>: Let's go. Vega's got the security guard.</p>
+<p><strong>Sara</strong>: Yeah, he's not going anywhere.</p>
+<p>(SARA and NICK stand up and leave the freezer.)</p>
+<p>CUT TO:<br />
+[INT. BIG &amp; BEST WAREHOUSE -- NIGHT] </p>
+<p>(NICK and SARA step outside to join DET. SAM VEGA interviewing the Security Guard PETEY.) </p>
+<p><strong>Sam Vega</strong>: So, Peter, when you checked in at eight ...</p>
+<p><strong>Security Guard Petey</strong>: (protests) Not Peter. Petey. P-E-T-E-Y.</p>
+<p><strong>Nick</strong>: Hey, how you doing?</p>
+<p><strong>Security Guard Petey</strong>: Good.</p>
+<p>(NICK walks over to the vending machine.)</p>
+<p><strong>Sam Vega</strong>: The shooter may have cleaned out the machines.</p>
+<p><strong>Security Guard Petey</strong>: Those things hold a lot of dough.</p>
+<p><strong>Sam Vega</strong>: Take was maybe, uh, $600.</p>
+<p><strong>Nick</strong>: They shot a guy over a vending machine?</p>
+<p><strong>Sara</strong>: So, uh, Petey, where were you when all this went down?</p>
+<p><strong>Security Guard Petey</strong>: I was in the guard shack. Where else would I be?</p>
+<p><strong>Sam Vega</strong>: You tell us.</p>
+<p><strong>Sara</strong>: If a guy walks into a freezer, shoots a guy and smashes six vending machines, I think I'd hear that.</p>
+<p><strong>Security Guard Petey</strong>: The shack's out there.</p>
+<p><strong>Nick</strong>: You don't make rounds?</p>
+<p><strong>Security Guard Petey</strong>: Look, I'm not supposed to leave the premises, okay?</p>
+<p><strong>Nick</strong>: Okay, but if you were here, you're a suspect. Come on, man. Middle of the shift, you're getting hungry. You figure, hey, I'll deck out and grab a bite to eat. Who's going to know, right?</p>
+<p><strong>Security Guard Petey</strong>: I was gone five minutes, tops.</p>
+<p><strong>Nick</strong>: When?</p>
+<p><strong>Security Guard Petey</strong>: A little after 11:00. Grabbed a burger and came back.</p>
+<p><strong>Nick</strong>: What kind of burger?</p>
+<p><strong>Security Guard Petey</strong>: In 'n' Out -- three blocks from here.</p>
+<p><strong>Nick</strong>: I love In 'n' Out. I always get the In 'n' Out double, animal style.</p>
+<p><strong>Security Guard Petey</strong>: That's what I get.</p>
+<p><strong>Nick</strong>: You grill the onions?</p>
+<p><strong>Security Guard Petey</strong>: Hell, yeah.</p>
+<p><strong>Nick</strong>: Now, that is crazy, Petey, 'cause you know, being an In 'n' Out kind of guy, I know it takes at least five minutes to grill the onions alone.</p>
+<p><strong>Security Guard Petey</strong>: Come on, man.</p>
+<p><strong>Nick</strong>: That time of night, you're lucky if you don't wait 20 minutes just to get to the window.</p>
+<p><strong>Security Guard Petey</strong>: Look, my boss finds out I'm leaving the site every night to get my burger on, I'm toast.</p>
+<p><strong>Sam Vega</strong>: You keep lying to us, you're going to be toast in a jumpsuit.</p>
+<p><strong>Security Guard Petey</strong>: Around 11:00, this cat George -- he usually works days -- drives up and asks me where Al is.</p>
+<p><strong>Sara</strong>: Al Sesto? The guy in the freezer?</p>
+<p><strong>Security Guard Petey</strong>: I told him he was back here. I came back. Everything was quiet. So I ate my dinner in my shack.</p>
+<p><strong>Sam Vega</strong>: Where'd George go?</p>
+<p><strong>Security Guard Petey</strong>: Beats me. His car's still in the parking lot.</p>
+<p><strong>Sam Vega</strong>: You want to show me which one?</p>
+<p><strong>Security Guard Petey</strong>: Sure.</p>
+<p>(DET. VEGA and SECURITY GUARD PETEY leave. SARA takes a step toward NICK.)</p>
+<p><strong>Sara</strong>: Unless he was slick, the guy that did this definitely left behind a print, and, frankly, nothing about this looks slick.</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY TO FORENSIC AUTOPSY -- NIGHT] </p>
+<p>(DAVID PHILLIPS escorts CATHERINE and GRISSOM to forensic autopsy.) </p>
+<p><strong>David Phillips</strong>: Linda Jones, 35, single. We're trying to track down the next-of-kin. No mystery in cause of death, though.</p>
+<p>(DAVID opens the door.)</p>
+<p><strong>Catherine</strong>: Your basic massive internal trauma.</p>
+<p><strong>David Phillips</strong>: And then some.</p>
+<p>(They walk into the room.)</p>
+<p><strong>Catherine</strong>: Anything unusual about our furry friend?</p>
+<p><strong>David Phillips</strong>: We're about to find out.</p>
+<p>(They walk into forensic autopsy. GRISSOM grabs a pair of gloves and puts them on.)</p>
+<p><strong>Grissom</strong>: Did you know that raccoons have opposable thumbs?</p>
+<p><strong>Catherine</strong>: Well, this one liked to wrap his around a bottle. &quot;30 days: One day at a time.&quot; He was a friend of Bill W.'S. </p>
+<p>(She shows them the 30 days tag.) </p>
+<p><strong>David Phillips</strong>: I'll send the blood work down to tox.</p>
+<p>(CATHERINE looks at the stitching in the suit.)</p>
+<p><strong>Catherine</strong>: (admiring) Oh, my -- hand stitching.</p>
+<p><strong>David Phillips</strong>: Lining looks like some kind of latex.</p>
+<p>(DAVID starts to cut through the suit. He hits the bottom and blood spills out onto the table.)</p>
+<p><strong>Grissom</strong>: Whoa. That's a lot of blood for blunt force trauma.</p>
+<p><strong>Catherine</strong>: This isn't a costume. It's a six-foot condom. Explains why there was no blood on the road.</p>
+<p><strong>Grissom</strong>: Yeah, his tailor didn't think of everything. His suit's not bulletproof.</p>
+<p>(CATHERINE thinks about that one.)</p>
+<p><strong>Grissom</strong>: Shall we?</p>
+<p>(They all help to flip the Raccoon over. CATHERINE opens the velcro and they find the bullet wound on his back.)</p>
+<p><strong>Catherine</strong>: Through and through.</p>
+<p><strong>David Phillips</strong>: It's a high-velocity round. Gives the bullet a smooth entry in and out.</p>
+<p><strong>Catherine</strong>: So, he was shot and hit by a car.</p>
+<p><strong>David Phillips</strong>: Bad night.</p>
+<p><strong>Grissom</strong>: Even for a raccoon.</p>
+<p>CUT TO:<br />
+[INT. BIG &amp; BEST WAREHOUSE -- FREEZER -- NIGHT] </p>
+<p>(ROBBINS is standing over the body) </p>
+<p><strong>Robbins</strong>: The last time this happened they tried to chop the guy out. 1989-- year The Mirage opened.</p>
+<p><strong>Nick</strong>: How'd it go?</p>
+<p><strong>Robbins</strong>: Lost an arm and a leg. I miss the cold weather.</p>
+<p><strong>Nick</strong>: So, what are we going to use, hot water?</p>
+<p><strong>Robbins</strong>: Boiling works best. Just, uh, spread it around the perimeter. Melt the ice.</p>
+<p><strong>Coroner's Assistant</strong>: Guys, let's do it here.</p>
+<p><strong>Nick</strong>: To preserve the body?</p>
+<p><strong>Robbins</strong>: That's right. Close as you can.</p>
+<p>(They pour the hot water over the frozen blood.)</p>
+<p>(Quick CGI POV of the heat working on melting the blood. White flash to end of CGI POV. Resume to present.)</p>
+<p><strong>Voice</strong>: And up.</p>
+<p>(They lift the body onto the gurney and wrap the blanket around it.)</p>
+<p><strong>Robbins</strong>: All right, guys, let's go.</p>
+<p>(The CORONERS' ASSISTANTS wheel the body out of the freezer.)</p>
+<p>(Once they're gone, NICK looks at the blood spatter on the boxes and takes a sample of the pellet.)</p>
+<p>(He extracts more pellets from the freezer.)</p>
+<p>(Cut to: SARA dusts for prints on the vending machine glass.)</p>
+<p>(Cut to: NICK looks at the blood on the ground. He moves over to the side and picks up a piece of something black and puts it in a bindle.)</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB] </p>
+<p>(CATHERINE enters the lab. WARRICK is looking through a scope.) </p>
+<p><strong>Catherine</strong>: Hi, Warrick.</p>
+<p><strong>Warrick</strong>: Hey.</p>
+<p><strong>Catherine</strong>: Anything on Mr. Raccoon?</p>
+<p><strong>Warrick</strong>: Yeah. I got an AFIS hit. Robert Pitt. Court-ordered to AA after a DUI.</p>
+<p>(He points to the print out on the counter next to him. CATHERINE picks it up. WARRICK goes back to the scope.)</p>
+<p><strong>Catherine</strong>: Oh, that's where he got the 30-day chip. Maybe he fell off the wagon after he hit 31.</p>
+<p><strong>Warrick</strong>: If I had to walk around dressed like Rocky Raccoon, I'd be drinking, too. I don't get this whole thing.</p>
+<p><strong>Catherine</strong>: Oh, hey, Warrick, it's Vegas. People come here to be animals.</p>
+<p><strong>Warrick</strong>: I hear you. Take a look at this.</p>
+<p>(He steps aside and lets her look through the scope.)</p>
+<p>[SCOPE VIEW of the blue fur.]</p>
+<p><strong>Catherine</strong>: Oh, yes, the blue fur ball.</p>
+<p><strong>Warrick</strong>: Yeah, it's synthetic, not natural.</p>
+<p>(GREG enters the lab.)</p>
+<p><strong>Greg</strong>: Your manimal died sober. No alcohol.</p>
+<p><strong>Catherine</strong>: Really?</p>
+<p><strong>Greg</strong>: All this schmohawk had in his system was trace amounts of ipecac and civet oil, which, if you ask me, is even weirder than the raccoon suit he was wearing.</p>
+<p><strong>Catherine</strong>: Well, ipecac's an emetic. I once gave it to Lindsey when she swallowed mothballs, but civet oil?</p>
+<p>(CATHERINE shakes her head.)</p>
+<p><strong>Greg</strong>: Yeah. Civet's a wild cat. Its scent has been prized since the pharaohs for being an aphrodisiac.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<p>[INT. ROBERT PITT'S RESIDENCE -- DAY] </p>
+<p>(The door opens; BRASS walks into the room. CATHERINE and an OFFICER follow.) </p>
+<p><strong>Brass</strong>: Pitt was a computer programmer. No next-of-kin.</p>
+<p><strong>Catherine</strong>: Ooh.</p>
+<p>(They look around the place.)</p>
+<p><strong>Catherine</strong>: Not an architectural digest reader.</p>
+<p>(CATHERINE looks in the bedroom.)</p>
+<p>[BEDROOM]</p>
+<p><strong>Catherine</strong>: If you want to know what the man really is all about, check out his bedroom.</p>
+<p>(On ROBERT PITT'S bed is a stack of stuffed animals.)</p>
+<p><strong>Brass</strong>: Now, this scares me.</p>
+<p><strong>Catherine</strong>: A man lives alone. Has no relatives. No attachments. So, he forms his own furry little family.</p>
+<p>(BRASS looks at the calendar on the wall and notes the red circled dates from October 29, 2003 through November 1, 2003 for the &quot;PAF CON&quot; at the &quot;KINGS RIVER HOTEL&quot;.)</p>
+<p><strong>Brass</strong>: &quot;PAF con meeting.&quot;</p>
+<p><strong>Catherine</strong>: What's PAF con?</p>
+<p><strong>Brass</strong>: I don't know, but whatever it is, it's still going on.</p>
+<p>(CATHERINE looks at BRASS.)</p>
+<p><strong>Catherine</strong>: Minus one raccoon.</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. KING'S RIVER HOTEL -- LOBBY] </p>
+<p>(It's the Plushies &amp; Furries PAF CON going on in the lobby. CATHERINE and GRISSOM walk into the lobby.) </p>
+<p><strong>Catherine</strong>: PAF con?</p>
+<p><strong>Grissom</strong>: The Plushies and Furries convention. And we're looking for a bright blue Plushie ... I think.</p>
+<p>(GRISSOM and CATHERINE stare at the group of people dressed in costume. GRISSOM look fascinated by the sight; CATHERINE looks perplexed.)</p>
+<p><strong>Grissom</strong>: This is fascinating. A whole tribe of people who prefer to interact as furry animals rather than human beings.</p>
+<p><strong>Catherine</strong>: I think I'm having Hunter Thompson's flashbacks. This is weirding me out.</p>
+<p><strong>Grissom</strong>: It's not that weird. It's instinctual. Many native American tribes wore entire bearskins, including the bead, when they performed their war dances. They thought it made them brave.</p>
+<p><strong>Catherine</strong>: I'm not getting the brave thing.</p>
+<p><strong>Grissom</strong>: Well, think of stuffed animals as a Jungian archetype. What's the one quality they possess that a man like Bob Pitt might want?</p>
+<p><strong>Catherine</strong>: A full head of hair?</p>
+<p><strong>Grissom</strong>: They're lovable. We better divide and mingle.</p>
+<p>(GRISSOM glances down at the schedule on the board:<br />
+9:00 A.M. Breakfast &amp; Orientation<br />
+10:30 A.M. LECTURE #1 (Doe Eyes: Innovative Techniques in Looking for<br />
+Love.)<br />
+11:45 A.M. FURRY RAFFLE (MAIN LOBBY)<br />
+12:00 P.M. LECTURE #2 (Fur-Ever Young)<br />
+1:00 P.M. BANQUET LUNCH (BANQUET HALL)<br />
+3:30 P.M. LECTURE #3 (Claws and Effect: A Look at the Legal Issues<br />
+Regarding Fur in the Workplace.)<br />
+4:45 P.M. VINEYARDS &amp; VENDORS<br />
+7:30 P.M. BANQUET DINNER (BANQUET HALL)<br />
+9:30 P.M. PILE-ON-PARTY (MAIN LOUNGE) </p>
+<p>(He turns to CATHERINE.)</p>
+<p><strong>Grissom</strong>: I'm going to take in a lecture.</p>
+<p>(GRISSOM steps away.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -- DAY] </p>
+<p>(RICH leads SARA and NICK back to the BALLISTICS LAB.) </p>
+<p><strong>Sara</strong>: Uh, why did you page us?</p>
+<p><strong>Rich</strong>: Your wood sample from the freezer.</p>
+<p><strong>Nick</strong>: The one we gave Hodges?</p>
+<p><strong>Rich</strong>: Yeah. He bounced it back to me.</p>
+<p><strong>Sara</strong>: I'm lost.</p>
+<p><strong>Rich</strong>: It's from a shotgun stock. Probably a momossberg 500. </p>
+<p><strong>Sara</strong>: Probably our murder weapon.</p>
+<p>[BALLISTICS LAB - CONTINUOUS]</p>
+<p>(RICH stops walking and turns around to look at them.)</p>
+<p><strong>Rich</strong>: Well, if you find it, I can match it.</p>
+<p><strong>Nick</strong>: Till we do, anything else?</p>
+<p><strong>Rich</strong>: That's up to Hodges.</p>
+<p>CUT TO:<br />
+[INT. CSI - TRACE LAB -- DAY] </p>
+<p>(SARA and NICK are in TRACE with HODGES.) </p>
+<p>[SCOPE VIEW of the &quot;gray stuff&quot;]</p>
+<p><strong>David David Hodges</strong>: The gray stuff -- it's adhesive.</p>
+<p>(SARA looks up from the scope.</p>
+<p><strong>Sara</strong>: On the gun stock? </p>
+<p><strong>David David Hodges</strong>: (shrugs) Cheap repair.</p>
+<p><strong>Nick</strong>: So, some budget-minded garage gunsmith glues his gun stock together ...</p>
+<p><strong>Sara</strong>: And then kills Al Sesto for $600 in change.</p>
+<p><strong>Nick</strong>: Even Petey can do better than that.</p>
+<p><strong>Sara</strong>: There's always the elusive &quot;George.&quot;</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT -- DAY] </p>
+<p>(A tall, husky man walks into the police department. He looks around, then heads for the reception desk.) </p>
+<p><strong>Officer</strong>: Can I help you, sir?</p>
+<p><strong>George Bartell</strong>: Yeah, I want to report a crime.</p>
+<p>(He holds out his hands to show the OFFICER behind reception the backs of his blood-stained hands.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - WAITING ROOM -- DAY] </p>
+<p>(SAM VEGA, SARA and NICK interview GEORGE.) </p>
+<p><strong>Sam Vega</strong>: Let's start with what you were doing at Big &amp; Best Warehouse, George. You're the day guy. It was the night shift there.</p>
+<p><strong>George Bartell</strong>: Expired ice cream. Trash for cash.</p>
+<p><strong>Sara</strong>: You're selling expired ice cream?</p>
+<p><strong>George Bartell</strong>: It's still good.</p>
+<p><strong>Sara</strong>: Oh.</p>
+<p><strong>Nick</strong>: Go on, please.</p>
+<p><strong>George Bartell</strong>: I wanted to give Al his piece of the action, 88 bucks. We, uh, walked into the break room, and someone was smashing up the candy machine.</p>
+<p>(Quick flashback to: Someone in a ski mask with a gun smashing the vending machines. He looks up and sees GEORGE. End of flashback. Resume to present.)</p>
+<p><strong>Sam Vega</strong>: Ski mask?</p>
+<p><strong>George Bartell</strong>: Yeah. And he had a gun.</p>
+<p>(Quick flashback to: The man with the gun leads AL SESTO and GEORGE into the freezer.)</p>
+<p><strong>Al Sesto</strong>: Better chill, bro.</p>
+<p><strong>Gunman</strong>: Okay. Get back.</p>
+<p><strong>Al Sesto</strong>: Don't shoot!</p>
+<p><strong>Gunman</strong>: Shut up!</p>
+<p>(The GUNMAN cocks the rifle.)</p>
+<p><strong>Al Sesto</strong>: Don't shoot.</p>
+<p>(The gunman fires.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>George Bartell</strong>: He shot Al. Then the guy hauls off and brains me. And after that, everything went black.</p>
+<p>(SARA checks the back of GEORGE'S head and finds the bruise.)</p>
+<p><strong>Nick</strong>: Everything went black?</p>
+<p><strong>Sara</strong>: That's a pretty nasty bruise.</p>
+<p><strong>George Bartell</strong>: Yeah, I told you.</p>
+<p><strong>Sam Vega</strong>: So, you blacked out. Then what happened?</p>
+<p><strong>George Bartell</strong>: I was blindfolded, shoved into the trunk of some car and, uh, drove around for almost an hour.</p>
+<p>(GEORGE proudly shows them his watch.)</p>
+<p><strong>George Bartell</strong>: It, uh, glows in the dark.</p>
+<p><strong>Nick</strong>: Oh, yeah.</p>
+<p><strong>Sara</strong>: (nods) Hmm.</p>
+<p><strong>Nick</strong>: So, uh, now, how did you get out?</p>
+<p><strong>George Bartell</strong>: Tire iron. I felt around in the dark, and, uh, there it was.</p>
+<p><strong>Nick</strong>: Where?</p>
+<p>(As they talk, SARA puts on her gloves.)</p>
+<p><strong>George Bartell</strong>: Under the, uh, the trunk liner. I had to really twist to get at it.</p>
+<p><strong>Sara</strong>: Which hand did you use?</p>
+<p><strong>George Bartell</strong>: Right.</p>
+<p><strong>Sam Vega</strong>: And then what?</p>
+<p><strong>George Bartell</strong>: I popped the trunk. </p>
+<p>(Quick flashback of GEORGE using the tire iron and popping the trunk. He falls out of the trunk. End of flashback. Resume to present.)</p>
+<p><strong>George Bartell</strong>: I-I was in Pahrump. I got family out there, but nobody was home.</p>
+<p><strong>Sara</strong>: All right, MacGyver, could you do me a favor? Could you stand up and hold your arms out? I'm just going to check you out here.</p>
+<p>(SARA checks his clothes and takes a tape lift sample. As she presses the tape into GEORGE'S chest, he chuckles. SARA looks up at GEORGE.)</p>
+<p><strong>George Bartell</strong>: I'm ticklish.</p>
+<p><strong>Sara</strong>: Oh.</p>
+<p>(SARA checks the rest of his shirt and his pants. She finds dried blood in the cuff of his pants.)</p>
+<p><strong>Sara</strong>: George ... I'm afraid you and your pants are going to be here for a while.</p>
+<p>CUT TO:<br />
+[INT. KING'S RIVER HOTEL - LECTURE ROOM] </p>
+<p>(The SPEAKER, dressed in a costume, gives a lecture to a room full of people.) </p>
+<p><strong>Speaker</strong>: In the eight ages of man, Erikson states that the child often indulges in fantasies of being a tiger, but in his dream, runs in terror for dear life, thus leaving the child forever divided in himself, as his true potential is squashed by the observing superego of society. </p>
+<p>(In his seat, GRISSOM listens, captivated by the topic.)</p>
+<p><strong>Speaker</strong>: Birth is-is not destiny. And a human form doesn't always come with a human spirit. We gather here to embrace our inner animal, and to bring our true nature to bear. So to speak. Five-minute break.</p>
+<p>(The stage lights turn of and there's a light smattering of applause in the room. GRISSOM turns to the animal next to him as asks.)</p>
+<p><strong>Grissom</strong>: Excuse me. Do you recognize this man, Robert Pitt?</p>
+<p>(GRISSOM shows him the photo of ROBERT PITT. The animal shakes his head.)</p>
+<p>CUT TO:<br />
+[LOBBY - DAY -- CONTINUOUS] </p>
+<p>(CATHERINE walks up to a group of normally dressed people holding stuffed animals.) </p>
+<p><strong>Catherine</strong>: Hello, guys. Pardon me. Uh, can you help me out here? Do you recognize this guy?</p>
+<p>(The MAN shakes his head.)</p>
+<p><strong>Catherine</strong>: Look-look again.</p>
+<p><strong>The Man</strong>: (shakes head again) Uh-uh.</p>
+<p><strong>Catherine</strong>: Hmm. Nice dog.</p>
+<p>(The MAN possessively yanks the stuffed dog away from CATHERINE not wanting her to touch it. CATHERINE walks away.)</p>
+<p>CUT TO:<br />
+[LOBBY - DAY -- CONTINUOUS] </p>
+<p>(GRISSOM is looking at the different wares at the vendor tables. On the table in front of him, GRISSOM looks through some photographs of the animals at the PAF-CON.) </p>
+<p><strong>Voice</strong>: (over speaker) (b.g.) May I have your attention, please? Stop by the fur-bidden treasures in the next half-hour and get an added twenty percent off on all collars ... </p>
+<p>(He picks up a photo of Rocky Raccoon with another animal. GRISSOM pays for the photo.)</p>
+<p><strong>Grissom</strong>: (to the vendor) There you go.</p>
+<p>(He takes his photo. Behind him, he hears a cat purr. GRISSOM turns to look and finds himself looking at a person in a blue cat costume.)</p>
+<p>CUT TO:<br />
+[FASHION SHOW - DAY -- CONTINUOUS] </p>
+<p>(The WOLF in sunglasses on stage does the cat walk. CATHERINE watches from the side. In the back of the stage, a person in blue cat costume dances forward across the stage.) </p>
+<p>(CATHERINE walks up to the stage.)</p>
+<p><strong>Catherine</strong>: I'm Catherine Willows. I'm with the crime lab.</p>
+<p>(CATHERINE holds up her I.D. The cat hisses, then turns around and walks to the back of the stage leaving CATHERINE standing there.)</p>
+<p>CUT TO:<br />
+[LOBBY - DAY -- CONTINUOUS] </p>
+<p>(GRISSOM walks back to the center of the lobby with two blue cats following him. CATHERINE escorts the blue cat toward GRISSOM.) </p>
+<p><strong>Grissom</strong>: I guess we're lucky that blue's not a more popular color.</p>
+<p><strong>Sexy (Bud Simmons)</strong>: Hello. This is racial profiling.</p>
+<p><strong>Catherine</strong>: Um, we're going to need samples of your fur.</p>
+<p><strong>Grissom</strong>: We're also going to need to talk to you without the masks on.</p>
+<p>(The two blue Cats who walked in with GRISSOM remove their masks. They turn to look at the blue cat with CATHERINE and she shakes her head.)</p>
+<p><strong>Sexy (Bud Simmons)</strong>: Uh-uh.</p>
+<p><strong>Catherine</strong>: You have a problem with that?</p>
+<p><strong>Sexy (Bud Simmons)</strong>: You wouldn't ask a human lady to take her makeup off. If you want to talk to me, this is the me you're going to talk to.</p>
+<p>(CATHERINE and GRISSOM look at each other.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY / INTERVIEW ROOM -- DAY]</p>
+<p>(BRASS opens the door and escorts SEXY down the hallway. OFFICERS turn to watch BRASS with the BLUE CAT.)</p>
+<p>(They turn into the interview room where GRISSOM and CATHERINE wait for them.)</p>
+<p><strong>Brass</strong>: Take this chair right here. </p>
+<p>(SEXY takes a seat at the table. They close the door behind them.)</p>
+<p><strong>Brass</strong>: Do you a have a name, miss, uh ... ?</p>
+<p><strong>Sexy (Bud Simmons)</strong>: My friends call me Sexy.</p>
+<p><strong>Brass</strong>: Oh, lucky you. Now, do you want some help with the ... your helmet?</p>
+<p><strong>Sexy (Bud Simmons)</strong>: I'm a lawyer. I know my rights. You can't sequester a domestic animal without due cause.</p>
+<p><strong>Brass</strong>: Well, it's coming off one way or the other, so ...</p>
+<p><strong>Sexy (Bud Simmons)</strong>: Fine, fine.</p>
+<p>(SEXY takes off his gloves and then removes his head.)</p>
+<p><strong>Catherine</strong>: Hello, Sexy.</p>
+<p><strong>Bud Simmons </strong>: Okay. Happy now?</p>
+<p><strong>Grissom</strong>: Thrilled. Let's start at the top.</p>
+<p><strong>Brass</strong>: What's your human name, sir?</p>
+<p><strong>Bud Simmons</strong>: Bud. Bud Simmons. But I'm no criminal, and I don't have to talk to you people.</p>
+<p>(GRISSOM leans in close and sniff's BUD'S costume.)</p>
+<p><strong>Grissom</strong>: You have a very musky odor, bud. Quite stimulating, I imagine. Look, we found blue fibers similar to the ones on your costume in the stomach of a dead man. Bob Pitt?</p>
+<p><strong>Bud Simmons</strong>: Huh?</p>
+<p><strong>Grissom</strong>: You may know him as Rocky Raccoon?</p>
+<p><strong>Bud Simmons</strong>: You think my costume killed rocky?</p>
+<p><strong>Grissom</strong>: We think it may have incapacitated him.</p>
+<p><strong>Bud Simmons</strong>: Rocky was... skritching me.</p>
+<p><strong>Catherine</strong>: That's one I haven't heard.</p>
+<p><strong>Bud Simmons</strong>: Skritching is like grooming. It's friendly scratching. People who don't know each other can't just nuzzle and trade tummy-rubs, but for animals, skritching is perfectly normal.</p>
+<p><strong>Catherine</strong>: Well, killing is perfectly normal for them, too. It doesn't make it legal for you.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. CSI - LAB - NIGHT]</p>
+<p>(CATHERINE and GRISSOM examine BUD SIMMONS' blue Cat Costume.)</p>
+<p><strong>Grissom</strong>: Well, clearly, this kitty costume is where bud felt safe enough to skritch. I wonder if he felt safe enough to explore some of the more aggressive aspects of his animus.</p>
+<p><strong>Catherine</strong>: So, if we follow the ipecac and civet oil, maybe it'll lead us to the shooter. I don't see a compartment for a concealed rifle.</p>
+<p>(They put on their goggles as CATHERINE ALS' the costume. They find body fluids.)</p>
+<p><strong>Catherine</strong>: Okay, well ... I've heard of some guys getting off in some weird ways, but humping an animal suit? Well, whatever happened to normal s*x?</p>
+<p><strong>Grissom</strong>: What is normal s*x?</p>
+<p><strong>Catherine</strong>: Uh, you think it's natural for a grown human to only be intimate with a talking animal?</p>
+<p><strong>Grissom</strong>: Well, Freud said that the only unnatural sexual behavior was to have none at all. And after that, it's just a question of opportunity and preference. And evidently, many prefer the feel of fur to the texture of human skin.</p>
+<p><strong>Catherine</strong>: Well, I like hairy chests, but I'm not about to bop a six-foot weasel.</p>
+<p>(GREG walks into the lab.)</p>
+<p><strong>Grissom</strong>: Bud is starting to look like a pretty bad cat. Trace from his costume.</p>
+<p>(GRISSOM looks at the print results.)</p>
+<p><strong>Grissom</strong>: Well, identical to the trace we found in Rocky Raccoon's vomit. Ipecac and civet oil.</p>
+<p><strong>Greg</strong>: Well, that's what you get for eating ...</p>
+<p>(Camera holds on GREG.)</p>
+<p>FADE OUT</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - LAB -- DAY] </p>
+<p>(NICK and SARA check out GEORGE'S pants.) </p>
+<p><strong>Nick</strong>: What kind of a knucklehead rolls into pd wearing pants with blood on them?</p>
+<p><strong>Sara</strong>: The kind that knows eventually, re going to want to talk to him.</p>
+<p><strong>Nick</strong>: Yeah. Preemptive strike, huh?</p>
+<p><strong>Sara</strong>: There's only one drop here, and it originated on the inside of the cuff. I don't think George knew he had blood on him. We need to get this to Greg.</p>
+<p><strong>Nick</strong>: I was in that freezer. Man, there was spatter everywhere. Now, assuming that is al's blood, how does George not get it on the outside of his pants? Do you think George is telling the truth?</p>
+<p>(SARA turns and looks at NICK. Experiment time.)</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB]</p>
+<p><strong>Sara</strong>: Room temperature: 72 degrees.</p>
+<p>(NICK takes a syringe and fills it with blood.)</p>
+<p><strong>Nick</strong>: Okay ... ...fire in the hole.</p>
+<p>(He squirts the syringe at the wall through a hole.)</p>
+<p><strong>Sara</strong>: That's what blood spatter looks like at room temperature.</p>
+<p><strong>Nick</strong>: Now for the good stuff. Changing one variable. Dropping temperature to<br />
+22 degrees.</p>
+<p>(NICK changes the temperature of the test tank, then re-squirts the syringe with blood at the wall. The blood freezes before it hits the wall, spattering all over the place.)</p>
+<p><strong>Sara</strong>: That explains how only one drop of blood got on the inside of George's pants.</p>
+<p>(Quick CGI POV of: Al gets shot in the freezer and the blood freezes, spattering all over the place. A single drop of blood spatter falls into GEORGE'S pants cuff.)</p>
+<p>(End of CGI POV. Resume to present.)</p>
+<p><strong>Sara</strong>: When he left the freezer, the drop melted.</p>
+<p><strong>Nick</strong>: Shooter was standing in front of Al. A spatter went back and to the sides.</p>
+<p><strong>Sara</strong>: George is not the shooter.</p>
+<p>CUT TO:<br />
+[INT. CSI - TRACE LAB -- DAY] </p>
+<p>(SARA and NICK walk through the hallway discussing the case as they head to the Trace lab.) </p>
+<p><strong>Sara</strong>: So, who is the masked man?</p>
+<p><strong>Nick</strong>: Well, Lone Ranger had Tonto. Some Doofus has George.</p>
+<p><strong>David Hodges</strong>: Tape lifts from your suspect's clothing, loaded with paint chips.</p>
+<p><strong>Sara</strong>: What kind?</p>
+<p><strong>David Hodges</strong>: Dual layers. The bottom one's burgundy vehicle paint.</p>
+<p>[SCOPE VIEW OF THE PAINT CHIPS]</p>
+<p><strong>David Hodges</strong>: Factory pigment used on 1984 Monte Carlo.</p>
+<p><strong>Nick</strong>: What's the top layer?</p>
+<p><strong>David Hodges</strong>: In an unprecedented move, whoever it was painted over the burgundy with ... want to venture a guess?</p>
+<p>(NICK shakes his head.)</p>
+<p><strong>David Hodges</strong>: Bright blue house paint.</p>
+<p><strong>Nick</strong>: Doofus.</p>
+<p><strong>Sara</strong>: Why would somebody use house paint on a car?</p>
+<p><strong>David Hodges</strong>: Maybe he remodeled the breakfast nook and had some left over. Who knows? I don't try to figure out what people do anymore.</p>
+<p><strong>Sara</strong>: That's smart.</p>
+<p><strong>David Hodges</strong>: Yeah, I know.</p>
+<p>(HODGES steps away from them.)</p>
+<p><strong>Nick</strong>: Oil and water. Love to be there when his hood starts to peel.</p>
+<p><strong>Sara</strong>: Okay, first things first. Let's go find a car.</p>
+<p><strong>Nick</strong>: Mm-hmm.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(CATHEIRNE and BRASS reinterview BUD SIMMONS.) </p>
+<p><strong>Brass</strong>: Okay, bud, I'm going to get right to it. Bob Pitt's semen was found all over your kitty costume.</p>
+<p><strong>Catherine</strong>: You lied to us. You were doing a little more than grooming.</p>
+<p><strong>Bud Simmons</strong>: It started as a skritch, then everyone got in a furpile and pretty soon, we were all yiffing.</p>
+<p>(Quick flashback to: The Furpile, whipping sounds and animal whimperings in the background. You want more description, go watch the episode. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: I get &quot;furpile.&quot; Define &quot;yiffing.&quot;</p>
+<p><strong>Bud Simmons</strong>: In a furpile, when all the animals start rubbing and wiggling, some of them start to do things.</p>
+<p>(Quick flashback to: The furpile and obscene animal groaning noises. You want more description, then you really need to watch the episode. End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: The kind of things that leave semen on your fur?</p>
+<p><strong>Bud Simmons</strong>: That never happened before.</p>
+<p>(CATHERINE chuckles wryly.)</p>
+<p><strong>Bud Simmons</strong>: Okay. That happened before. I know what you're thinking.</p>
+<p><strong>Catherine</strong>: You couldn't possibly.</p>
+<p><strong>Bud Simmons</strong>: I didn't kill Rocky Raccoon.</p>
+<p><strong>Catherine</strong>: Did you smear ipecac and civet oil on the back of your costume?</p>
+<p><strong>Bud Simmons</strong>: That's crazy. I was there for the yiffing, and that's all. Look, if I don't have my costume on, I pretty much can't get yiffed.</p>
+<p><strong>Brass</strong>: Okay, Bud. We're going to leave you some time to think about it. Enjoy your new costume.</p>
+<p>(BRASS and CATHERINE stand up to leave the room.)</p>
+<p>(BRASS sighs as he walks out the door.)</p>
+<p><strong>Brass</strong>: (quietly) Wow.</p>
+<p>(He and CATHERINE stop outside the interview room.)</p>
+<p><strong>Brass</strong>: Are you buying this guy?</p>
+<p><strong>Catherine</strong>: Oh, who the hell knows what goes on in a furpile? But if somebody doused their special scent on kitty's back, I'm sure he's going to want to know who did it.</p>
+<p><strong>Brass</strong>: Well, he gives us all the furnames of people in the pile. What are we going to do -- put out an APB on Tom and Jerry?</p>
+<p><strong>Catherine</strong>: (scoffs) Maybe we just ask him where the hip, young plushy-on-the-go likes to hang out?</p>
+<p>CUT TO:<br />
+[INT. PLUSHIE BAR -- DAY] </p>
+<p>(The white plushie walks out of the bar and through the back door and into the next room with loud pulsating music.) </p>
+<p>(CATHERINE, GRISSOM and an OFFICER walk through the back door.)</p>
+<p>(CATHERINE knocks. The WOLF at the door answers.)</p>
+<p><strong>Wolf</strong>: Password, please?</p>
+<p><strong>Catherine</strong>: E-I-E-I-O?</p>
+<p><strong>Wolf</strong>: This is a private party.</p>
+<p><strong>Grissom</strong>: Uh, we have an invitation from the Las Vegas police department.</p>
+<p>(GRISSOM shows the WOLF their warrant.)</p>
+<p><strong>Wolf</strong>: Uh, okay.</p>
+<p>(The WOLF glances at the warrant and lets them inside.)</p>
+<p>(They walk into the room where the plushies and furries are furpiling on the white cat who's on the floor groaning and moaning. Some other fur animals are standing on the side shedding their fur.)</p>
+<p><strong>Catherine</strong>: (loudly) Whoa, Nellie!</p>
+<p>PLUSHIE: Is this a raid?</p>
+<p><strong>Catherine</strong>: It's a homicide investigation.</p>
+<p><strong>Grissom</strong>: Look, we need you to stop skritching or yiffing or whatever, take off your costumes, and tell us your names.</p>
+<p>(Some of the people take off their masks. Soon, the music stops.)</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(GRISSOM and CATHERINE go through the different animal costumes hanging on racks, smelling them one by one.) </p>
+<p><strong>Catherine</strong>: Ooh! These costumes are pretty marinated. Smokey could've used some deodorant.</p>
+<p><strong>Grissom</strong>: Well, you know, pheromones are the basis for mammalian reproduction. When the female is in estrus, the male picks up on her come-get-me scent. But most mammals only copulate seasonally.</p>
+<p><strong>Catherine</strong>: How boring.</p>
+<p><strong>Grissom</strong>: For some. No one else in that furpile threw up, right?</p>
+<p><strong>Catherine</strong>: Uh, Rocky was a target.</p>
+<p>(GRISSOM smells a costume and finds it. He holds out the costume paw for CATHERINE.)</p>
+<p><strong>Grissom</strong>: Smell this.</p>
+<p>(CATHERINE smells the paw.)</p>
+<p><strong>Catherine</strong>: Civet oil and ipecac.</p>
+<p><strong>Grissom</strong>: So I guess we're looking for a wolf ... in wolf's clothing.</p>
+<p>CUT TO:<br />
+[INT. POLICE EPARTMENT - INTERVIEW ROOM] </p>
+<p>(GRISSOM interviews MR. LEE.) </p>
+<p><strong>Grissom</strong>: Mr. Lee, the concentration of ipecac and civet oil on your paws speaks to application, rather than accidental transfer.</p>
+<p>Okay. Fine. I ... I mixed up some ipecac and some civet oil and I-I ... I rubbed it on Sexy ... Sexy kitty.</p>
+<p>(Quick flashback to: During a fur piling, the wolf puts the smell on Sexy. Sounds of moaning, groaning along with whip noises in the background. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Why sexy kitty?</p>
+<p><strong>Mr. Lee</strong>: 'Cause rocky couldn't get enough of her.</p>
+<p><strong>Grissom</strong>: What did Rocky do to you?</p>
+<p><strong>Mr. Lee</strong>: He's a raccoon. They're all lowlifes. I mean, honestly, what do they do? Screw ... eat garbage ... screw some more. </p>
+<p><strong>Grissom</strong>: Is this a, uh, general observation, or possibly a personal grievance?</p>
+<p><strong>Mr. Lee</strong>: At last year's convention, Rocky stole my girlfriend. </p>
+<p><strong>Grissom</strong>: And in the wild, wolves are monogamous, but raccoons are promiscuous.</p>
+<p><strong>Mr. Lee</strong>: That's right. And I just, I knew, I knew since Sexy Kitty was Rocky's fave, he'd have his filthy raccoon mouth all over her again this year. All I wanted to do was make him sick enough so that he'd have to go home and stop cheating on my mate.</p>
+<p><strong>Grissom</strong>: Your ex-mate?</p>
+<p><strong>Mr. Lee</strong>: Yes. I couldn't take seeing what that wanna-be marsupial put her through. My Linda Lamb deserved better.</p>
+<p><strong>Grissom</strong>: Mr. Lee, you're a wolf. How'd you end up with a lamb?</p>
+<p><strong>Mr. Lee</strong>: I used to work with Linda. And one day, I found out about what she did on the weekends. And she helped me ... become who I am. I always knew that I was a ... something else. And ... Linda made it real. She was one of a kind.</p>
+<p><strong>Grissom</strong>: Does, uh, Linda Lamb have a human last name?</p>
+<p><strong>Mr. Lee</strong>: Jones. Why?</p>
+<p>CUT TO:<br />
+[INT. CSI - GARAGE] </p>
+<p>(They're back to the car. GRISSOM pries open the trunk. He and CATHERINE see the animal costume in the back.) </p>
+<p><strong>Grissom</strong>: Linda Jones is Linda Lamb.</p>
+<p><strong>Catherine</strong>: Damn it. This was here the whole time.</p>
+<p><strong>Grissom</strong>: Yeah, but evidence without context is not evidence. We had no reason to search the trunk.</p>
+<p><strong>Catherine</strong>: So she didn't just hit rocky, she knew him.</p>
+<p><strong>Grissom</strong>: For the philandering raccoon that he was.</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI -- GARAGE] </p>
+<p>(GRISSOM is at the map looking at the marked CRASH SITE to LINDA and BOB'S homes.) </p>
+<p><strong>Grissom</strong>: Okay, assuming that Linda and Bob were heading home after Bob got sick at the hotel, how did he end up on the side of the road?</p>
+<p><strong>Catherine</strong>: You ever have a car fight?</p>
+<p>(GRISSOM turns around to look at CATHERINE.)</p>
+<p><strong>Catherine</strong>: You know, if a couple has any kind of history together, they know how to press each other's buttons. And you lock 'em up in a metal box with wheels on a bad night, they're going to start pressing 'em. You follow?</p>
+<p>(CATHERINE opens the car door.)</p>
+<p><strong>Grissom</strong>: So, uh, either Bob told Linda to stop the car and let him out, or she told him to start walking?</p>
+<p><strong>Catherine</strong>: Yes. That one. I mean, it's bad enough that raccoon-boy blows his girlfriend off to go fur-piling -- he gets sick licking some nasty kitty and makes lambchop drive him home.</p>
+<p>(CATHERINE starts looking for something in the back car seat.)</p>
+<p><strong>Grissom</strong>: Which begs the question: Why did she turn the car around and head back toward the hotel?</p>
+<p><strong>Catherine</strong>: Well, she wasn't heading back to the hotel. She was heading back for him. 'Cause that's how car-fights always end. After about a mile or two, you start to feel guilty that you've abandoned the person, and you turn around. Except she didn't plan on an 18-wheeler finishing her off.</p>
+<p><strong>Grissom</strong>: Mack truck ex machina.</p>
+<p>(CATHERINE finds a match book.)</p>
+<p><strong>Grissom</strong>: But it still doesn't explain how bob got shot in the back.</p>
+<p><strong>Catherine</strong>: No ... but I think I may know the last person who saw them alive. Why don't we ask the valet if he saw some ... furriest conventioneers?</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY] </p>
+<p>(NICK finds SARA and they take a lovely walk through the hallway as they talk about the case.) </p>
+<p><strong>Nick</strong>: Hey, Sara, no luck on the car, but Hodges ran the gunstock adhesive. It's primarily an epoxy posisin with traces of styrene and benzyl peroxide and ground terra-cotta.</p>
+<p><strong>Sara</strong>: Is that supposed to mean something to me?</p>
+<p><strong>Nick</strong>: Terra-cotta's the giveaway. It's a granite glue.</p>
+<p><strong>Sara</strong>: Granite glue?</p>
+<p><strong>Nick</strong>: Yeah. It's used for adhering joints on big pieces of stone. </p>
+<p><strong>Sara</strong>: House paint on his car; granite glue on his gun...</p>
+<p><strong>Nick</strong>: Well, he used what was available. That's what people do.</p>
+<p><strong>Sara</strong>: Well, I understand the house paint, but where do you get granite glue?</p>
+<p><strong>Nick</strong>: I already checked. There's not too many places in clark county that specialize in granite installation, so...</p>
+<p><strong>Sara</strong>: Okay, I will bet you a double-double animal style that one of them employs a guy with a blue 1984 monte carlo.</p>
+<p><strong>Nick</strong>: That's a bet.</p>
+<p><strong>Sara</strong>: Excellent.</p>
+<p>(NICK laughs, then follows SARA off camera frame.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[EXT. HOTEL FRONT -- DAY] </p>
+<p>(GRISSOM and CATHERINE talk with the VALET. The VALET looks at the photo.) </p>
+<p><strong>Valet</strong>: Damn straight I remember them. How often do you see a six-foot raccoon heaving out a car window? Dude was hammered, man. His girl... she was pissed.</p>
+<p><strong>Grissom</strong>: Thank you. You've been very helpful.</p>
+<p><strong>Valet</strong>: All right, no problem. Hey, I got that.</p>
+<p>(The VALET returns to work.)</p>
+<p><strong>Catherine</strong>: So, there's your car-fight. Now she thinks that he's back on the booze, which he denies, but the sicker he gets, the more she this he's lying.</p>
+<p>(Quick flashback to: ROBERT PITT is getting sick. LINDA JONES is just plain angry. The two get into the car.)</p>
+<p><strong>Linda Jones</strong>: I can't believe you're drinking again. You promised.</p>
+<p><strong>Robert Pitt</strong>: I was not drinking. </p>
+<p>(He closes the car door.)</p>
+<p><strong>Robert Pitt</strong>: Must be food poisoning.</p>
+<p><strong>Linda Jones</strong>: (scoffs) Oh? Didn't know they served food in a furpile.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: The righteously angry versus the wrongly accused.</p>
+<p><strong>Catherine</strong>: And the battle's just beginning.</p>
+<p>(Quick flashback to: [INT. CAR (MOVING) - NIGHT] They continue to argue. ROBERT PITT continues to get sick.)</p>
+<p><strong>Linda Jones</strong>: Would you just take off the mask and talk to me?!</p>
+<p><strong>Robert Pitt</strong>: No, just pull over and let me out of the car!</p>
+<p><strong>Linda Jones</strong>: You want out?</p>
+<p><strong>Robert Pitt</strong>: Ah ...</p>
+<p>(She stops the car.)</p>
+<p><strong>Linda Jones</strong>: Get out! Just get out!</p>
+<p>(ROBERT PITT stumbles out of the car.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: Okay, so it makes sense up to that point, but then what? He gets out and ... she shoots him?</p>
+<p><strong>Grissom</strong>: I'm not so sure that people who dress up like cuddly forest creatures carry guns.</p>
+<p><strong>Catherine</strong>: You don't think they allow plushies in the NRA? All right, then who shot him?</p>
+<p><strong>Grissom</strong>: Well, we have a grassy knoll ... but no Lee Harvey Oswald.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(SARA, NICK and SAM VEGA interview VIRGIL.) </p>
+<p><strong>Sam Vega</strong>: You're a triple threat -- robbery, kidnapping, murder. Big &amp; best foods, Al Sesto, George Bartell. Any of this resonate?</p>
+<p><strong>Virgil</strong>: I don't know no al sesto.</p>
+<p>(NICK puts photos of the shotgun on the table in front of VIRGIL.)</p>
+<p><strong>Sara</strong>: Virgil, is that UR shotgun? We found it in your garage. If, uh, you look, you'll see a chip in the stock. We found that in the freezer at the Big &amp;<br />
+Best foods.</p>
+<p>(VIRGIL chuckles.)</p>
+<p>(NICK puts a photo of the car on the table.)</p>
+<p><strong>Nick</strong>: Is this your car? It was also in your garage. It has dual-layered paint, identical to the dual-layered paint chips we found on your kidnap victim.</p>
+<p><strong>Sam Vega</strong>: Anything to say, tough guy?</p>
+<p><strong>Virgil</strong>: Yeah. I want a lawyer.</p>
+<p>CUT TO:<br />
+[INT. ROADSIDE -- DAY] </p>
+<p>(Various cuts of CATHERINE and GRISSOM looking for the bullet that killed ROBERT PITT.) </p>
+<p>(CATHERINE'S metal detector beeps. She kneels down and finds the bullet.)</p>
+<p><strong>Catherine</strong>: Hey, Grissom. Over here. I found the bullet.</p>
+<p>(GRISSOM walks across the street and kneels down to look at the bullet.)</p>
+<p><strong>Grissom</strong>: Well done. So, we got a sick raccoon with an abdominal through-and-through who was shot from what appears to be a fairly steep trajectory.</p>
+<p><strong>Catherine</strong>: So, either he was shot by a giant ... or he was, uh, on all fours.</p>
+<p>(Quick flashback to: [SITE VIEW] of Rocky Raccoon on his hands and knees. A gunshot rings out and hits the dirt. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Or both. I mean, imagine looked like out here at night and from a distance.</p>
+<p>(They stand up.)</p>
+<p><strong>Grissom</strong>: We've been looking for ... a person who shot a person, but ... maybe we should be looking for a person who shot an animal.</p>
+<p>(As they look up the road, they see a red truck drive by.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY -- DAY] </p>
+<p>(As they walk VIRGIL out into the hallway, GEORGE BARTELL walks into the police department.) </p>
+<p><strong>George</strong>: Hey, Virgil. What are you doing here?</p>
+<p><strong>Virgil</strong>: What am i doing here?</p>
+<p><strong>George</strong>: Yeah.</p>
+<p><strong>Sam Vega</strong>: Why, you guys know each other?</p>
+<p><strong>George</strong>: Yeah, that's my cousin.</p>
+<p><strong>Sam Vega</strong>: Pahrump?</p>
+<p><strong>Virgil</strong>: My own blood, and you set me up. After I saved your ass. I should have shot you in that freezer. You son of a bitch!</p>
+<p>(He lunges for GEORGE. SAM VEGA holds him back.</p>
+<p><strong>Sam Vega</strong>: Hey, hey! You looking for more time? Now come on.</p>
+<p>(They leave.)</p>
+<p>(NICK sighs.)</p>
+<p><strong>George Bartell</strong>: (shakes his head) Oh, man. I'm so stupid.</p>
+<p><strong>Nick</strong>: Ah, you're not stupid. Man, your cousin just set you up.</p>
+<p><strong>George Bartell</strong>: Bowling night.</p>
+<p><strong>Nick</strong>: Is that where you told him about the vending machines?</p>
+<p>(GEORGE nods.) </p>
+<p><strong>Sara</strong>: And Petey's burger runs?</p>
+<p><strong>George Bartell</strong>: My own cousin.</p>
+<p><strong>Nick</strong>: Well ... George, sometimes people, they, uh, disappoint us.</p>
+<p><strong>George Bartell</strong>: Why?</p>
+<p>(NICK stares at GEORGE. SARA, at a loss of even trying to answer that question, shakes her head and looks expectantly at NICK.)</p>
+<p>CUT TO:<br />
+[INT. -- DAY] </p>
+<p>(Dogs bark in the distance. GRISSOM and CATHERINE are at the home of the man with the red truck.) </p>
+<p><strong>Ranger</strong>: How you doing? Can I help you?</p>
+<p><strong>Grissom</strong>: We're with the Las Vegas crime lab. This your place?</p>
+<p><strong>Ranger</strong>: Yeah. Must be here about that accident. Terrible thing. Like I said to the wife, the way these 18-wheelers fly down here ballin' the Jack, I ain't surprised. I'm surprised there ain't more accidents.</p>
+<p><strong>Grissom</strong>: Why don't you give us a brief history of your evening?</p>
+<p><strong>Ranger</strong>: Ah, well, I had dinner with the missus. Uh, fed the scraps to the dogs. Watched Jeopardy. Could hardly hear it, the dogs were, uh, so stirred up. Went outside to take a look, spotted a coyote. This is my business. Purebreds. Wouldn't want to lose one. So, I, uh, took care of it. Came back inside in time for Final Jeopardy.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - OFFICE -- DAY] </p>
+<p>(GRISSOM and CATHERINE fill BRASS in.) </p>
+<p><strong>Brass</strong>: So the raccoon was mistaken for a coyote. You gotta be kidding me.</p>
+<p><strong>Catherine</strong>: He was dosed intentionally but killed accidentally.</p>
+<p><strong>Grissom</strong>: We got the Ranger's rifle, we collected a bullet at the scene, and ballistics made a match.</p>
+<p><strong>Catherine</strong>: Bob Pitt was sick when he got out of the car, wounded when he got onto the road, and dead when he hit the dirt.</p>
+<p>(Quick flashback to: ROBERT PITT gets out of the car and slams the door shut.)</p>
+<p><strong>Linda Jones</strong>: Get out! Just get out!</p>
+<p>(Cut to: Still in his costume, he throws up on the side of the road.)</p>
+<p>(High above, the Ranger takes aim and shoots at the &quot;coyote&quot;. He fires.)</p>
+<p>(Cut to: LINDA JONES turns the car around to pick ROBERT PITT up.)</p>
+<p>(Cut to: ROBERT PITT crawls up onto the road.)</p>
+<p>(He's in the middle of the road as the car approaches.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: Well, the rancher's going to get off, Linda's dead, and Wolfie ... skates with a misdemeanor.</p>
+<p><strong>Catherine</strong>: We took one look at those furry suits and thought &quot;foul play,&quot; but this was really just a domestic dispute gone mad.</p>
+<p><strong>Grissom</strong>: Hmm. Fur and loathing in Las Vegas.</p>
+<p>(Camera pulls down and refocuses on the raccoon figure on the desk next to the badge.)</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-
-
-
-
-
-Truck Driver: You can breathalize me all you want, but the broad came right at me. I swear, it wasn't my fault.
-Officer:  Sir, I understand.
-
-Catherine: Ooh, that's what happens when 6,000 pounds of thrust meets three feet of hood.
-Grissom: This was not a fair fight.
-
-Catherine: Well, now, how did she end up way over here? 
-
-Catherine: There must be 20 feet of rubber burned into this asphalt. She was braking hard.
-Grissom: She definitely swerved out of her lane. I think I may know why.
-
-Catherine: Oh. What kind of animal are we talking about here?
-Grissom: A big one.
-Catherine: The victim could have clipped the animal when it ran in front of her. 
-
-Catherine: Well, it can't have gone far.
-
-HARD CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Catherine: Hmm. Ooh. Not much padding.
-
-Grissom: Whoa. This is incredibly detailed. Eyelashes, nostrils ...
-Catherine: Oh, yeah. That's what you see out of. I once dated the Detroit Lions Mascot. Off-season. Dutch was his name.
-Grissom: The breadth of your social experience never ceases to impress me.
-
-
-Catherine: Dutch never had furballs, though.
-
-
-Grissom: Are you all right, David?
-David Phillips: It's just ... disturbing. There was a big raccoon who hosted an after-school kids show when I was little. 
-Stripey. Everybody loved him. I loved him. 
-Grissom: &quot;Stripey's&quot; brother suffered blunt force trauma caused by a violent collision with a moving vehicle.
-
-
-(Cut to: DAVID pushes the body up the hillside on a gurney toward the coroner's van.
-Catherine: The eternal question: Why did the man in the raccoon suit cross the road?
-
-
-
- 
- 
-Nick: Frozen stiff.
-Sara: Looks like he died trying to get out. Trying to get to the door, maybe.
-Nick: It got messy. Check out the shotgun spatter.
-Sara: Single blast. Went in, went out. Ooh. This has got to be the coldest place in Vegas.
-Nick: Let's go. Vega's got the security guard.
-Sara: Yeah, he's not going anywhere.
-
-
- 
- 
-Sam Vega: So, Peter, when you checked in at eight ...
-Security Guard Petey:  Not Peter. Petey. P-E-T-E-Y.
-Nick: Hey, how you doing?
-Security Guard Petey: Good.
-
-Sam Vega: The shooter may have cleaned out the machines.
-Security Guard Petey: Those things hold a lot of dough.
-Sam Vega: Take was maybe, uh, $600.
-Nick: They shot a guy over a vending machine?
-Sara: So, uh, Petey, where were you when all this went down?
-Security Guard Petey: I was in the guard shack. Where else would I be?
-Sam Vega: You tell us.
-Sara: If a guy walks into a freezer, shoots a guy and smashes six vending machines, I think I'd hear that.
-Security Guard Petey: The shack's out there.
-Nick: You don't make rounds?
-Security Guard Petey: Look, I'm not supposed to leave the premises, okay?
-Nick: Okay, but if you were here, you're a suspect. Come on, man. Middle of the shift, you're getting hungry. You figure, hey, I'll deck out and grab a bite to eat. Who's going to know, right?
-Security Guard Petey: I was gone five minutes, tops.
-Nick: When?
-Security Guard Petey: A little after 11:00. Grabbed a burger and came back.
-Nick: What kind of burger?
-Security Guard Petey: In 'n' Out -- three blocks from here.
-Nick: I love In 'n' Out. I always get the In 'n' Out double, animal style.
-Security Guard Petey: That's what I get.
-Nick: You grill the onions?
-Security Guard Petey: Hell, yeah.
-Nick: Now, that is crazy, Petey, 'cause you know, being an In 'n' Out kind of guy, I know it takes at least five minutes to grill the onions alone.
-Security Guard Petey: Come on, man.
-Nick: That time of night, you're lucky if you don't wait 20 minutes just to get to the window.
-Security Guard Petey: Look, my boss finds out I'm leaving the site every night to get my burger on, I'm toast.
-Sam Vega: You keep lying to us, you're going to be toast in a jumpsuit.
-Security Guard Petey: Around 11:00, this cat George -- he usually works days -- drives up and asks me where Al is.
-Sara: Al Sesto? The guy in the freezer?
-Security Guard Petey: I told him he was back here. I came back. Everything was quiet. So I ate my dinner in my shack.
-Sam Vega: Where'd George go?
-Security Guard Petey: Beats me. His car's still in the parking lot.
-Sam Vega: You want to show me which one?
-Security Guard Petey: Sure.
-
-Sara: Unless he was slick, the guy that did this definitely left behind a print, and, frankly, nothing about this looks slick.
-
- 
- 
-David Phillips: Linda Jones, 35, single. We're trying to track down the next-of-kin. No mystery in cause of death, though.
-
-Catherine: Your basic massive internal trauma.
-David Phillips: And then some.
-
-Catherine: Anything unusual about our furry friend?
-David Phillips: We're about to find out.
-
-Grissom: Did you know that raccoons have opposable thumbs?
-Catherine: Well, this one liked to wrap his around a bottle. &quot;30 days: One day at a time.&quot; He was a friend of Bill W.'S. 
- 
-David Phillips: I'll send the blood work down to tox.
-
-Catherine:  Oh, my -- hand stitching.
-David Phillips: Lining looks like some kind of latex.
-
-Grissom: Whoa. That's a lot of blood for blunt force trauma.
-Catherine: This isn't a costume. It's a six-foot condom. Explains why there was no blood on the road.
-Grissom: Yeah, his tailor didn't think of everything. His suit's not bulletproof.
-
-Grissom: Shall we?
-
-Catherine: Through and through.
-David Phillips: It's a high-velocity round. Gives the bullet a smooth entry in and out.
-Catherine: So, he was shot and hit by a car.
-David Phillips: Bad night.
-Grissom: Even for a raccoon.
-
- 
- 
-Robbins: The last time this happened they tried to chop the guy out. 1989-- year The Mirage opened.
-Nick: How'd it go?
-Robbins: Lost an arm and a leg. I miss the cold weather.
-Nick: So, what are we going to use, hot water?
-Robbins: Boiling works best. Just, uh, spread it around the perimeter. Melt the ice.
-Coroner's Assistant: Guys, let's do it here.
-Nick: To preserve the body?
-Robbins: That's right. Close as you can.
-
-
-Voice: And up.
-
-Robbins: All right, guys, let's go.
-
-
-
-
-
-
- 
- 
-Catherine: Hi, Warrick.
-Warrick: Hey.
-Catherine: Anything on Mr. Raccoon?
-Warrick: Yeah. I got an AFIS hit. Robert Pitt. Court-ordered to AA after a DUI.
-
-Catherine: Oh, that's where he got the 30-day chip. Maybe he fell off the wagon after he hit 31.
-Warrick: If I had to walk around dressed like Rocky Raccoon, I'd be drinking, too. I don't get this whole thing.
-Catherine: Oh, hey, Warrick, it's Vegas. People come here to be animals.
-Warrick: I hear you. Take a look at this.
-
-
-Catherine: Oh, yes, the blue fur ball.
-Warrick: Yeah, it's synthetic, not natural.
-
-Greg: Your manimal died sober. No alcohol.
-Catherine: Really?
-Greg: All this schmohawk had in his system was trace amounts of ipecac and civet oil, which, if you ask me, is even weirder than the raccoon suit he was wearing.
-Catherine: Well, ipecac's an emetic. I once gave it to Lindsey when she swallowed mothballs, but civet oil?
-
-Greg: Yeah. Civet's a wild cat. Its scent has been prized since the pharaohs for being an aphrodisiac.
-
-
- 
- 
-Brass: Pitt was a computer programmer. No next-of-kin.
-Catherine: Ooh.
-
-Catherine: Not an architectural digest reader.
-
-
-Catherine: If you want to know what the man really is all about, check out his bedroom.
-
-Brass: Now, this scares me.
-Catherine: A man lives alone. Has no relatives. No attachments. So, he forms his own furry little family.
-
-Brass: &quot;PAF con meeting.&quot;
-Catherine: What's PAF con?
-Brass: I don't know, but whatever it is, it's still going on.
-
-Catherine: Minus one raccoon.
-FADE OUT
-
-
-
- 
- 
-Catherine: PAF con?
-Grissom: The Plushies and Furries convention. And we're looking for a bright blue Plushie ... I think.
-
-Grissom: This is fascinating. A whole tribe of people who prefer to interact as furry animals rather than human beings.
-Catherine: I think I'm having Hunter Thompson's flashbacks. This is weirding me out.
-Grissom: It's not that weird. It's instinctual. Many native American tribes wore entire bearskins, including the bead, when they performed their war dances. They thought it made them brave.
-Catherine: I'm not getting the brave thing.
-Grissom: Well, think of stuffed animals as a Jungian archetype. What's the one quality they possess that a man like Bob Pitt might want?
-Catherine: A full head of hair?
-Grissom: They're lovable. We better divide and mingle.
-(GRISSOM glances down at the schedule on the board:
-9:00 A.M. Breakfast &amp; Orientation
-10:30 A.M. LECTURE #1 (Doe Eyes: Innovative Techniques in Looking for
-Love.)
-11:45 A.M. FURRY RAFFLE 
-12:00 P.M. LECTURE #2 
-1:00 P.M. BANQUET LUNCH 
-3:30 P.M. LECTURE #3 (Claws and Effect: A Look at the Legal Issues
-Regarding Fur in the Workplace.)
-4:45 P.M. VINEYARDS &amp; VENDORS
-7:30 P.M. BANQUET DINNER 
-9:30 P.M. PILE-ON-PARTY  
-
-Grissom: I'm going to take in a lecture.
-
-
- 
- 
-Sara: Uh, why did you page us?
-Rich: Your wood sample from the freezer.
-Nick: The one we gave Hodges?
-Rich: Yeah. He bounced it back to me.
-Sara: I'm lost.
-Rich: It's from a shotgun stock. Probably a momossberg 500. 
-Sara: Probably our murder weapon.
-
-
-Rich: Well, if you find it, I can match it.
-Nick: Till we do, anything else?
-Rich: That's up to Hodges.
-
- 
- 
-
-David David Hodges: The gray stuff -- it's adhesive.
-(SARA looks up from the scope.
-Sara: On the gun stock? 
-David David Hodges:  Cheap repair.
-Nick: So, some budget-minded garage gunsmith glues his gun stock together ...
-Sara: And then kills Al Sesto for $600 in change.
-Nick: Even Petey can do better than that.
-Sara: There's always the elusive &quot;George.&quot;
-
- 
- 
-Officer: Can I help you, sir?
-George Bartell: Yeah, I want to report a crime.
-
-
- 
- 
-Sam Vega: Let's start with what you were doing at Big &amp; Best Warehouse, George. You're the day guy. It was the night shift there.
-George Bartell: Expired ice cream. Trash for cash.
-Sara: You're selling expired ice cream?
-George Bartell: It's still good.
-Sara: Oh.
-Nick: Go on, please.
-George Bartell: I wanted to give Al his piece of the action, 88 bucks. We, uh, walked into the break room, and someone was smashing up the candy machine.
-
-Sam Vega: Ski mask?
-George Bartell: Yeah. And he had a gun.
-
-Al Sesto: Better chill, bro.
-Gunman: Okay. Get back.
-Al Sesto: Don't shoot!
-Gunman: Shut up!
-
-Al Sesto: Don't shoot.
-
-
-George Bartell: He shot Al. Then the guy hauls off and brains me. And after that, everything went black.
-
-Nick: Everything went black?
-Sara: That's a pretty nasty bruise.
-George Bartell: Yeah, I told you.
-Sam Vega: So, you blacked out. Then what happened?
-George Bartell: I was blindfolded, shoved into the trunk of some car and, uh, drove around for almost an hour.
-
-George Bartell: It, uh, glows in the dark.
-Nick: Oh, yeah.
-Sara:  Hmm.
-Nick: So, uh, now, how did you get out?
-George Bartell: Tire iron. I felt around in the dark, and, uh, there it was.
-Nick: Where?
-
-George Bartell: Under the, uh, the trunk liner. I had to really twist to get at it.
-Sara: Which hand did you use?
-George Bartell: Right.
-Sam Vega: And then what?
-George Bartell: I popped the trunk. 
-
-George Bartell: I-I was in Pahrump. I got family out there, but nobody was home.
-Sara: All right, MacGyver, could you do me a favor? Could you stand up and hold your arms out? I'm just going to check you out here.
-
-George Bartell: I'm ticklish.
-Sara: Oh.
-
-Sara: George ... I'm afraid you and your pants are going to be here for a while.
-
- 
- 
-Speaker: In the eight ages of man, Erikson states that the child often indulges in fantasies of being a tiger, but in his dream, runs in terror for dear life, thus leaving the child forever divided in himself, as his true potential is squashed by the observing superego of society. 
-
-Speaker: Birth is-is not destiny. And a human form doesn't always come with a human spirit. We gather here to embrace our inner animal, and to bring our true nature to bear. So to speak. Five-minute break.
-
-Grissom: Excuse me. Do you recognize this man, Robert Pitt?
-
-
- 
- 
-Catherine: Hello, guys. Pardon me. Uh, can you help me out here? Do you recognize this guy?
-
-Catherine: Look-look again.
-The Man:  Uh-uh.
-Catherine: Hmm. Nice dog.
-
-
- 
- 
-Voice:  May I have your attention, please? Stop by the fur-bidden treasures in the next half-hour and get an added twenty percent off on all collars ... 
-
-Grissom:  There you go.
-
-
- 
- 
-
-Catherine: I'm Catherine Willows. I'm with the crime lab.
-
-
- 
- 
-Grissom: I guess we're lucky that blue's not a more popular color.
-Sexy : Hello. This is racial profiling.
-Catherine: Um, we're going to need samples of your fur.
-Grissom: We're also going to need to talk to you without the masks on.
-
-Sexy : Uh-uh.
-Catherine: You have a problem with that?
-Sexy : You wouldn't ask a human lady to take her makeup off. If you want to talk to me, this is the me you're going to talk to.
-
-
-
-
-
-Brass: Take this chair right here. 
-
-Brass: Do you a have a name, miss, uh ... ?
-Sexy : My friends call me Sexy.
-Brass: Oh, lucky you. Now, do you want some help with the ... your helmet?
-Sexy : I'm a lawyer. I know my rights. You can't sequester a domestic animal without due cause.
-Brass: Well, it's coming off one way or the other, so ...
-Sexy : Fine, fine.
-
-Catherine: Hello, Sexy.
-Bud Simmons : Okay. Happy now?
-Grissom: Thrilled. Let's start at the top.
-Brass: What's your human name, sir?
-Bud Simmons: Bud. Bud Simmons. But I'm no criminal, and I don't have to talk to you people.
-
-Grissom: You have a very musky odor, bud. Quite stimulating, I imagine. Look, we found blue fibers similar to the ones on your costume in the stomach of a dead man. Bob Pitt?
-Bud Simmons: Huh?
-Grissom: You may know him as Rocky Raccoon?
-Bud Simmons: You think my costume killed rocky?
-Grissom: We think it may have incapacitated him.
-Bud Simmons: Rocky was... skritching me.
-Catherine: That's one I haven't heard.
-Bud Simmons: Skritching is like grooming. It's friendly scratching. People who don't know each other can't just nuzzle and trade tummy-rubs, but for animals, skritching is perfectly normal.
-Catherine: Well, killing is perfectly normal for them, too. It doesn't make it legal for you.
-
-
-
-
-Grissom: Well, clearly, this kitty costume is where bud felt safe enough to skritch. I wonder if he felt safe enough to explore some of the more aggressive aspects of his animus.
-Catherine: So, if we follow the ipecac and civet oil, maybe it'll lead us to the shooter. I don't see a compartment for a concealed rifle.
-
-Catherine: Okay, well ... I've heard of some guys getting off in some weird ways, but humping an animal suit? Well, whatever happened to normal s*x?
-Grissom: What is normal s*x?
-Catherine: Uh, you think it's natural for a grown human to only be intimate with a talking animal?
-Grissom: Well, Freud said that the only unnatural sexual behavior was to have none at all. And after that, it's just a question of opportunity and preference. And evidently, many prefer the feel of fur to the texture of human skin.
-Catherine: Well, I like hairy chests, but I'm not about to bop a six-foot weasel.
-
-Grissom: Bud is starting to look like a pretty bad cat. Trace from his costume.
-
-Grissom: Well, identical to the trace we found in Rocky Raccoon's vomit. Ipecac and civet oil.
-Greg: Well, that's what you get for eating ...
-
-FADE OUT
-
-
-;
-
-
-
- 
- 
-Nick: What kind of a knucklehead rolls into pd wearing pants with blood on them?
-Sara: The kind that knows eventually, re going to want to talk to him.
-Nick: Yeah. Preemptive strike, huh?
-Sara: There's only one drop here, and it originated on the inside of the cuff. I don't think George knew he had blood on him. We need to get this to Greg.
-Nick: I was in that freezer. Man, there was spatter everywhere. Now, assuming that is al's blood, how does George not get it on the outside of his pants? Do you think George is telling the truth?
-
-
-
-Sara: Room temperature: 72 degrees.
-
-Nick: Okay ... ...fire in the hole.
-
-Sara: That's what blood spatter looks like at room temperature.
-Nick: Now for the good stuff. Changing one variable. Dropping temperature to
-22 degrees.
-
-Sara: That explains how only one drop of blood got on the inside of George's pants.
-
-
-Sara: When he left the freezer, the drop melted.
-Nick: Shooter was standing in front of Al. A spatter went back and to the sides.
-Sara: George is not the shooter.
-
- 
- 
-Sara: So, who is the masked man?
-Nick: Well, Lone Ranger had Tonto. Some Doofus has George.
-David Hodges: Tape lifts from your suspect's clothing, loaded with paint chips.
-Sara: What kind?
-David Hodges: Dual layers. The bottom one's burgundy vehicle paint.
-
-David Hodges: Factory pigment used on 1984 Monte Carlo.
-Nick: What's the top layer?
-David Hodges: In an unprecedented move, whoever it was painted over the burgundy with ... want to venture a guess?
-
-David Hodges: Bright blue house paint.
-Nick: Doofus.
-Sara: Why would somebody use house paint on a car?
-David Hodges: Maybe he remodeled the breakfast nook and had some left over. Who knows? I don't try to figure out what people do anymore.
-Sara: That's smart.
-David Hodges: Yeah, I know.
-
-Nick: Oil and water. Love to be there when his hood starts to peel.
-Sara: Okay, first things first. Let's go find a car.
-Nick: Mm-hmm.
-
- 
- 
-Brass: Okay, bud, I'm going to get right to it. Bob Pitt's semen was found all over your kitty costume.
-Catherine: You lied to us. You were doing a little more than grooming.
-Bud Simmons: It started as a skritch, then everyone got in a furpile and pretty soon, we were all yiffing.
-
-Catherine: I get &quot;furpile.&quot; Define &quot;yiffing.&quot;
-Bud Simmons: In a furpile, when all the animals start rubbing and wiggling, some of them start to do things.
-
-Brass: The kind of things that leave semen on your fur?
-Bud Simmons: That never happened before.
-
-Bud Simmons: Okay. That happened before. I know what you're thinking.
-Catherine: You couldn't possibly.
-Bud Simmons: I didn't kill Rocky Raccoon.
-Catherine: Did you smear ipecac and civet oil on the back of your costume?
-Bud Simmons: That's crazy. I was there for the yiffing, and that's all. Look, if I don't have my costume on, I pretty much can't get yiffed.
-Brass: Okay, Bud. We're going to leave you some time to think about it. Enjoy your new costume.
-
-
-Brass:  Wow.
-
-Brass: Are you buying this guy?
-Catherine: Oh, who the hell knows what goes on in a furpile? But if somebody doused their special scent on kitty's back, I'm sure he's going to want to know who did it.
-Brass: Well, he gives us all the furnames of people in the pile. What are we going to do -- put out an APB on Tom and Jerry?
-Catherine:  Maybe we just ask him where the hip, young plushy-on-the-go likes to hang out?
-
- 
- 
-
-
-Wolf: Password, please?
-Catherine: E-I-E-I-O?
-Wolf: This is a private party.
-Grissom: Uh, we have an invitation from the Las Vegas police department.
-
-Wolf: Uh, okay.
-
-
-Catherine:  Whoa, Nellie!
-PLUSHIE: Is this a raid?
-Catherine: It's a homicide investigation.
-Grissom: Look, we need you to stop skritching or yiffing or whatever, take off your costumes, and tell us your names.
-
-
- 
- 
-Catherine: Ooh! These costumes are pretty marinated. Smokey could've used some deodorant.
-Grissom: Well, you know, pheromones are the basis for mammalian reproduction. When the female is in estrus, the male picks up on her come-get-me scent. But most mammals only copulate seasonally.
-Catherine: How boring.
-Grissom: For some. No one else in that furpile threw up, right?
-Catherine: Uh, Rocky was a target.
-
-Grissom: Smell this.
-
-Catherine: Civet oil and ipecac.
-Grissom: So I guess we're looking for a wolf ... in wolf's clothing.
-
- 
- 
-Grissom: Mr. Lee, the concentration of ipecac and civet oil on your paws speaks to application, rather than accidental transfer.
-Okay. Fine. I ... I mixed up some ipecac and some civet oil and I-I ... I rubbed it on Sexy ... Sexy kitty.
-
-Grissom: Why sexy kitty?
-Mr. Lee: 'Cause rocky couldn't get enough of her.
-Grissom: What did Rocky do to you?
-Mr. Lee: He's a raccoon. They're all lowlifes. I mean, honestly, what do they do? Screw ... eat garbage ... screw some more. 
-Grissom: Is this a, uh, general observation, or possibly a personal grievance?
-Mr. Lee: At last year's convention, Rocky stole my girlfriend. 
-Grissom: And in the wild, wolves are monogamous, but raccoons are promiscuous.
-Mr. Lee: That's right. And I just, I knew, I knew since Sexy Kitty was Rocky's fave, he'd have his filthy raccoon mouth all over her again this year. All I wanted to do was make him sick enough so that he'd have to go home and stop cheating on my mate.
-Grissom: Your ex-mate?
-Mr. Lee: Yes. I couldn't take seeing what that wanna-be marsupial put her through. My Linda Lamb deserved better.
-Grissom: Mr. Lee, you're a wolf. How'd you end up with a lamb?
-Mr. Lee: I used to work with Linda. And one day, I found out about what she did on the weekends. And she helped me ... become who I am. I always knew that I was a ... something else. And ... Linda made it real. She was one of a kind.
-Grissom: Does, uh, Linda Lamb have a human last name?
-Mr. Lee: Jones. Why?
-
- 
- 
-Grissom: Linda Jones is Linda Lamb.
-Catherine: Damn it. This was here the whole time.
-Grissom: Yeah, but evidence without context is not evidence. We had no reason to search the trunk.
-Catherine: So she didn't just hit rocky, she knew him.
-Grissom: For the philandering raccoon that he was.
-FADE OUT
-
-
-
- 
- 
-Grissom: Okay, assuming that Linda and Bob were heading home after Bob got sick at the hotel, how did he end up on the side of the road?
-Catherine: You ever have a car fight?
-
-Catherine: You know, if a couple has any kind of history together, they know how to press each other's buttons. And you lock 'em up in a metal box with wheels on a bad night, they're going to start pressing 'em. You follow?
-
-Grissom: So, uh, either Bob told Linda to stop the car and let him out, or she told him to start walking?
-Catherine: Yes. That one. I mean, it's bad enough that raccoon-boy blows his girlfriend off to go fur-piling -- he gets sick licking some nasty kitty and makes lambchop drive him home.
-
-Grissom: Which begs the question: Why did she turn the car around and head back toward the hotel?
-Catherine: Well, she wasn't heading back to the hotel. She was heading back for him. 'Cause that's how car-fights always end. After about a mile or two, you start to feel guilty that you've abandoned the person, and you turn around. Except she didn't plan on an 18-wheeler finishing her off.
-Grissom: Mack truck ex machina.
-
-Grissom: But it still doesn't explain how bob got shot in the back.
-Catherine: No ... but I think I may know the last person who saw them alive. Why don't we ask the valet if he saw some ... furriest conventioneers?
-
- 
- 
-Nick: Hey, Sara, no luck on the car, but Hodges ran the gunstock adhesive. It's primarily an epoxy posisin with traces of styrene and benzyl peroxide and ground terra-cotta.
-Sara: Is that supposed to mean something to me?
-Nick: Terra-cotta's the giveaway. It's a granite glue.
-Sara: Granite glue?
-Nick: Yeah. It's used for adhering joints on big pieces of stone. 
-Sara: House paint on his car; granite glue on his gun...
-Nick: Well, he used what was available. That's what people do.
-Sara: Well, I understand the house paint, but where do you get granite glue?
-Nick: I already checked. There's not too many places in clark county that specialize in granite installation, so...
-Sara: Okay, I will bet you a double-double animal style that one of them employs a guy with a blue 1984 monte carlo.
-Nick: That's a bet.
-Sara: Excellent.
-
-
-
- 
- 
-Valet: Damn straight I remember them. How often do you see a six-foot raccoon heaving out a car window? Dude was hammered, man. His girl... she was pissed.
-Grissom: Thank you. You've been very helpful.
-Valet: All right, no problem. Hey, I got that.
-
-Catherine: So, there's your car-fight. Now she thinks that he's back on the booze, which he denies, but the sicker he gets, the more she this he's lying.
-
-Linda Jones: I can't believe you're drinking again. You promised.
-Robert Pitt: I was not drinking. 
-
-Robert Pitt: Must be food poisoning.
-Linda Jones:  Oh? Didn't know they served food in a furpile.
-
-Grissom: The righteously angry versus the wrongly accused.
-Catherine: And the battle's just beginning.
-
-Linda Jones: Would you just take off the mask and talk to me?!
-Robert Pitt: No, just pull over and let me out of the car!
-Linda Jones: You want out?
-Robert Pitt: Ah ...
-
-Linda Jones: Get out! Just get out!
-
-
-Catherine: Okay, so it makes sense up to that point, but then what? He gets out and ... she shoots him?
-Grissom: I'm not so sure that people who dress up like cuddly forest creatures carry guns.
-Catherine: You don't think they allow plushies in the NRA? All right, then who shot him?
-Grissom: Well, we have a grassy knoll ... but no Lee Harvey Oswald.
-
- 
- 
-Sam Vega: You're a triple threat -- robbery, kidnapping, murder. Big &amp; best foods, Al Sesto, George Bartell. Any of this resonate?
-Virgil: I don't know no al sesto.
-
-Sara: Virgil, is that UR shotgun? We found it in your garage. If, uh, you look, you'll see a chip in the stock. We found that in the freezer at the Big &amp;
-Best foods.
-
-
-Nick: Is this your car? It was also in your garage. It has dual-layered paint, identical to the dual-layered paint chips we found on your kidnap victim.
-Sam Vega: Anything to say, tough guy?
-Virgil: Yeah. I want a lawyer.
-
- 
- 
-
-Catherine: Hey, Grissom. Over here. I found the bullet.
-
-Grissom: Well done. So, we got a sick raccoon with an abdominal through-and-through who was shot from what appears to be a fairly steep trajectory.
-Catherine: So, either he was shot by a giant ... or he was, uh, on all fours.
-
-Grissom: Or both. I mean, imagine looked like out here at night and from a distance.
-
-Grissom: We've been looking for ... a person who shot a person, but ... maybe we should be looking for a person who shot an animal.
-
-
- 
- 
-George: Hey, Virgil. What are you doing here?
-Virgil: What am i doing here?
-George: Yeah.
-Sam Vega: Why, you guys know each other?
-George: Yeah, that's my cousin.
-Sam Vega: Pahrump?
-Virgil: My own blood, and you set me up. After I saved your ass. I should have shot you in that freezer. You son of a bitch!
-(He lunges for GEORGE. SAM VEGA holds him back.
-Sam Vega: Hey, hey! You looking for more time? Now come on.
-
-
-George Bartell:  Oh, man. I'm so stupid.
-Nick: Ah, you're not stupid. Man, your cousin just set you up.
-George Bartell: Bowling night.
-Nick: Is that where you told him about the vending machines?
- 
-Sara: And Petey's burger runs?
-George Bartell: My own cousin.
-Nick: Well ... George, sometimes people, they, uh, disappoint us.
-George Bartell: Why?
-
-
- 
- 
-Ranger: How you doing? Can I help you?
-Grissom: We're with the Las Vegas crime lab. This your place?
-Ranger: Yeah. Must be here about that accident. Terrible thing. Like I said to the wife, the way these 18-wheelers fly down here ballin' the Jack, I ain't surprised. I'm surprised there ain't more accidents.
-Grissom: Why don't you give us a brief history of your evening?
-Ranger: Ah, well, I had dinner with the missus. Uh, fed the scraps to the dogs. Watched Jeopardy. Could hardly hear it, the dogs were, uh, so stirred up. Went outside to take a look, spotted a coyote. This is my business. Purebreds. Wouldn't want to lose one. So, I, uh, took care of it. Came back inside in time for Final Jeopardy.
-
- 
- 
-Brass: So the raccoon was mistaken for a coyote. You gotta be kidding me.
-Catherine: He was dosed intentionally but killed accidentally.
-Grissom: We got the Ranger's rifle, we collected a bullet at the scene, and ballistics made a match.
-Catherine: Bob Pitt was sick when he got out of the car, wounded when he got onto the road, and dead when he hit the dirt.
-
-Linda Jones: Get out! Just get out!
-
-
-
-
-
-
-Brass: Well, the rancher's going to get off, Linda's dead, and Wolfie ... skates with a misdemeanor.
-Catherine: We took one look at those furry suits and thought &quot;foul play,&quot; but this was really just a domestic dispute gone mad.
-Grissom: Hmm. Fur and loathing in Las Vegas.
-
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=04x05+-+Fur+and+Loathing&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127357%23p127357" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=04x05+-+Fur+and+Loathing&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127357%23p127357" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127357%23p127357&amp;name=04x05+-+Fur+and+Loathing" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127357%23p127357" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=0fb13b090889a735c135e93c2d391c4c">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=0fb13b090889a735c135e93c2d391c4c">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=0fb13b090889a735c135e93c2d391c4c">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=0fb13b090889a735c135e93c2d391c4c">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

@@ -1,786 +1,1016 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] 
+[INT. HOTEL/CASINO - MAIN FLOOR - NIGHT]
+(The camera moves through the casino main floor fi" />
+<meta property="og:title" content="04x23 - Bloodlines - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] 
+[INT. HOTEL/CASINO - MAIN FLOOR - NIGHT]
+(The camera moves through the casino main floor fi" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13282" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>04x23 - Bloodlines - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13282" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13282">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=4c4962f0f3846ef6110129f966a97211"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=4c4962f0f3846ef6110129f966a97211">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=4c4962f0f3846ef6110129f966a97211">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=4c4962f0f3846ef6110129f966a97211">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=4c4962f0f3846ef6110129f966a97211">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13282&amp;sid=4c4962f0f3846ef6110129f966a97211&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>04x23 - Bloodlines</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127376">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127376">04x23 - Bloodlines</a></div>
+							<div class="pull-right text-right"><time datetime="2004-06-03T06:08:17Z">06/03/04 06:08</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) -- NIGHT] </p>
+<p>[INT. HOTEL/CASINO - MAIN FLOOR - NIGHT]</p>
+<p>(The camera moves through the casino main floor finding and lingering on various blonde-haired women sitting at various slot machines or sitting at the gaming tables. The camera finds the dark-haired card dealer, then finally settles on blonde-haired, pit boss, LINLEY PARKER.) </p>
+<p>(The camera lingers on her as she delicately pushes the hair away from her face.)</p>
+<p>(Slow motion, close-up. She delicately pushes the hair away from her face.)</p>
+<p>CUT TO:<br />
+[EXT. PARKING LOT - NIGHT]</p>
+<p>(LINLEY PARKER walks out across the parking lot.)</p>
+<p>FADE TO:</p>
+<p>(LINLEY PARKER stands in front of her open car door and sees something on her leg.)</p>
+<p>FADE TO:</p>
+<p>(She starts the car and drives away.)</p>
+<p>(The man watching her is sitting in a second car. He starts the car and follows her.)</p>
+<p>FADE OUT.</p>
+<p>(A woman screams.)</p>
+<p>[EXT. WOODS - NIGHT]</p>
+<p>(LINLEY PARKER, shirt torn open and in her underwear, desperately runs through the woods in her bare feet.)</p>
+<p>(She turns and heads for the residential area.)</p>
+<p>(She runs through the backyard fence and up to the house. She pounds on the glass door with her hand, breaking the glass.)</p>
+<p>(She screams.)</p>
+<p><strong>Linley Parker</strong>: Help!</p>
+<p>(The dog inside the house barks at her. She turns and runs out of the backyard.)</p>
+<p>(LINLEY PARKER continues to run down the middle of the street.)</p>
+<p><strong>Linley Parker</strong>: (screams) Help me! Please somebody help me!</p>
+<p>(She takes several more steps, then crumples to the road.)</p>
+<p><strong>Linley Parker</strong>: (crying) Somebody help me!</p>
+<p>CUT TO:<br />
+[EXT. SOUTHERN HIGHLANDS RESIDENTIAL AREA -- NIGHT] </p>
+<p>(Open on LINLEY PARKER'S mangled and bloodied feet. Camera flashes as someone snaps photos of her feet.) </p>
+<p>Voice Of <strong>EMT</strong>: (o.s.) Victim's stable. We're transporting her to Desert Palms. Over.</p>
+<p>(LINELY is lying on a gurney. The camera flashes and we see her eyes are open. More photos are taken of her hands as well.)</p>
+<p>(GRISSOM finishes taking pictures and puts the camera down as BRASS makes his way toward him.)</p>
+<p><strong>Brass</strong>: Nobody knows who she is. The Andersons, they called the Security Company. (He indicates the couple talking with the officer.) They thought somebody was trying to break in their back door. Southern Highlands is a new development. There's really not much around here. Some of my guys are talking to everybody, trying to find out what's going on.</p>
+<p><strong>Grissom</strong>: She has severe lacerations on her feet. She was running hard from somewhere.</p>
+<p>(GRISSOM turns and walks toward the ANDERSONS who are taking with an OFFICER. BRASS watches as the EMTs lift the gurney onto the back of the Ambulance.)</p>
+<p>CUT TO:<br />
+(Open on the cracked glass door. GRISSOM shines his flashlight on the blood and cracked glass. He puts the flashlight down and snaps a photo of it.)</p>
+<p>(He turns and notices the bloodied foot print on the concrete. He snaps a photo of it.)</p>
+<p>(He turns and sees more blood on the edge of the white shirt hanging on the clothes line. He snaps a photo of it.)</p>
+<p>(He finds a bloody hand print on the wooden back gate. He snaps photos of it, then walks through the gate and out into the woods.)</p>
+<p>(He takes a couple of steps looking for more evidence. He finds a foot print in the dirt with some pieces of glass left behind. He looks up and continues looking for more evidence.)</p>
+<p>(GRISSOM looks up and finds a car parked on the side of the road, the driver's door still open, car lights still on. He heads for the car.)</p>
+<p>(The car beeps - the keys are still in the ignition; lights are on; door is open.)</p>
+<p>(GRISSOM looks inside the front seat and finds an open wallet, driver's license and a couple of twenty dollar bills hanging out of the pocket. He notes the license for :<br />
+PARKER, LINLEY<br />
+288 TYLER -<br />
+EXPIRES 08-22-2005 )</p>
+<p>(He looks around the rest of the car, then stands up and looks around the area.)</p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. WOODS -- NIGHT] </p>
+<p>(Top view shot of a lot of OFFICERS carrying flashlights and searching for evidence around the surrounding area. Near the car, GRISSOM snaps more photos.) </p>
+<p><strong>Nick</strong>: (looks around the road) No skid marks, no signs of another vehicle.</p>
+<p><strong>Grissom</strong>: The engine's running, no flat tires. Why'd she stop?</p>
+<p>CUT TO:<br />
+[INT. DESERT PALMS HOSPITAL - EMERGENCY ROOM -- NIGHT] </p>
+<p>(LINLEY PARKER is lying on the exam table. The NURSE leans in and snaps photos of LINLEY'S injuries - on her face, on her hands and on her feet. She puts a sheet of paper under her hair and combs out some particles.) </p>
+<p>(She takes samples from under her nails.)</p>
+<p>(The NURSE starts the exam.)</p>
+<p>(Later. After the exam is completed, she removes her latex gloves.)</p>
+<p>(Standing outside waiting for the exam to finish, SARA turns to CATHERINE.)</p>
+<p><strong>Sara</strong>: I'm going to take the SAE kit to Greg.</p>
+<p><strong>Catherine</strong>: You don't want to take the statement?</p>
+<p><strong>Sara</strong>: Do you mind?</p>
+<p><strong>Catherine</strong>: No.</p>
+<p>(The NURSE steps out from behind the curtain and gives the box to SARA.)</p>
+<p><strong>Nurse</strong>: She's ready.</p>
+<p><strong>Sara</strong>: Thanks. </p>
+<p>(SARA takes the box and leaves. CATHERINE follows the NURSE back to LINLEY who is sitting on the table.)</p>
+<p><strong>Catherine</strong>: Linley Parker, I'm Catherine Willows. I'm with the Las Vegas Crime Lab. I know that you've been through a horrific ordeal.</p>
+<p><strong>Linley Parker</strong>: 4-4-6. That's all I got. Nevada plates. Some kind of SUV. Black, I think.</p>
+<p><strong>Catherine</strong>: Can you start from the beginning?</p>
+<p><strong>Linley Parker</strong>: I was, um, driving home from work.</p>
+<p>INTERCUT WITH:</p>
+<p>[CRIME SCENE]</p>
+<p>(GRISSOM and NICK crouch down to examine the back of the car.)</p>
+<p><strong>Linley Parker</strong>: (V.O.) There's hardly any traffic once you cross horizon ranch. He was tailgating.</p>
+<p>(They find the marks on her rear bumper.)</p>
+<p><strong>Linley Parker</strong>: (V.O.) I slowed down to let him pass ...</p>
+<p>[DESERT PALMS HOSPITAL]</p>
+<p><strong>Linley Parker</strong>: ... and he hit me.</p>
+<p>[CRIME SCENE]</p>
+<p>(NICK and GRISSOM look around the car in the bushes.)</p>
+<p><strong>Linley Parker</strong>: (V.O.) I wasn't going to stop, but he did, so I ... </p>
+<p>[DESERT PALMS HOSPITAL]</p>
+<p><strong>Linley Parker</strong>: ... pulled over. You're not supposed to leave the scene of an accident. He looked like a normal guy. He asked if I was okay. Apologized. He went to his car to get his insurance information. I was looking at my bumper.</p>
+<p>[CRIME SCENE]</p>
+<p>(GRISSOM and NICK look in the bushes.)</p>
+<p><strong>Linley Parker</strong>: (V.O.) He punched me in the face, threw me over his shoulder.</p>
+<p>(GRISSOM sees LINLEY'S black pump in the bushes.)</p>
+<p><strong>Linley Parker</strong>: (V.O.) I lost my shoes.</p>
+<p>(NICK finds a couple of buttons in the dirt.)</p>
+<p><strong>Linley Parker</strong>: (V.O.) He threw me on the ground, took off my jacket, ripped open my shirt.</p>
+<p>[DESERT PALMS HOSPITAL]</p>
+<p><strong>Linley Parker</strong>: He kept trying to kiss me on the mouth, and I kept turning away. So he bit my ear.</p>
+<p>[CRIME SCENE]</p>
+<p>(GRISSOM finds a gold earring in the dirt.)</p>
+<p>[DESERT PALMS HOSPITAL]</p>
+<p><strong>Linley Parker</strong>: He wanted me to look at him. He was going to kill me.</p>
+<p>[CRIME SCENE]</p>
+<p>(NICK finds the skirt on the ground. He snaps a photo of it.)</p>
+<p><strong>Linley Parker</strong>: (V.O.) He ripped off my skirt. He raped me.</p>
+<p>[DESERT PALMS HOSPITAL]</p>
+<p><strong>Linley Parker</strong>: He didn't use a condom. He got up to zip, and I kicked him in the groin and I ran. And the rest, I guess you know.</p>
+<p><strong>Catherine</strong>: Thank you. That was very specific. You said that you looked at him. Could you describe him to a forensic artist?</p>
+<p><strong>Linley Parker</strong>: Yes.</p>
+<p>CUT TO:<br />
+[CRIME SCENE]</p>
+<p>(NICK snaps photos of the print on the skirt.)</p>
+<p>[INT. CSI - OFFICE -- NIGHT] </p>
+<p>(LINLEY PARKER sits in the room with the FORENSIC ARTIST.) </p>
+<p><strong>Forensic Artist (woman)</strong>: What do you remember most about the face?</p>
+<p><strong>Linley Parker</strong>: He had bright eyes.</p>
+<p><strong>Forensic Artist (woman)</strong>: What about the shape of the eyes?</p>
+<p><strong>Linley Parker</strong>: Almond. Tiny pupils.</p>
+<p><strong>Forensic Artist (woman)</strong>: What about the rest of the face?</p>
+<p><strong>Linley Parker</strong>: He had a baby face. High forehead, thin lips, clean-shaven.</p>
+<p>(The FORENSIC ARTIST starts to draw as LINLEY describes her assailant.)</p>
+<p>(cc) <strong>Forensic Artist (woman)</strong>: Like a crewcut?</p>
+<p>(cc) LINLEY PARKER: No, like he had a regular haircut.</p>
+<p>[HALLWAY - CONTINUOUS]</p>
+<p>(SARA stands in the hallway watching LINLEY with the FORENSIC ARTIST. GRISSOM walks down the hallway and sees SARA. He walks over and stops next to her. Though she doesn't turn, she knows he's there.)</p>
+<p><strong>Sara</strong>: What?</p>
+<p><strong>Grissom</strong>: How many vacation days do you have on the books?</p>
+<p><strong>Sara</strong>: About ... (She turns to look at him.) ... ten weeks, I guess. Why?</p>
+<p><strong>Grissom</strong>: I think you should take a week or two.</p>
+<p><strong>Sara</strong>: I-I'm still on the case. I just didn't do the interview for once in my life.</p>
+<p>(GRISSOM nods and glances inside the room. He turns back to look at SARA.)</p>
+<p><strong>Sara</strong>: When was the last time you took vacation? (beat) Never, right?</p>
+<p><strong>Grissom</strong>: Okay.</p>
+<p>(GRISSOM turns and leaves.)</p>
+<p>CUT TO:<br />
+[INT. LAB] </p>
+<p>(CATHERINE runs a plate search for the numbers 4-4-6 in the Nevada Department of Motor Vehicles Database. She finds 5018 plates.) </p>
+<p>(She narrows it down only to the SUVs that are ALL COLORS. She finds 312 results.)</p>
+<p>(She pulls up the DMV photos of the owners.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY]</p>
+<p>(GRISSOM walks down the hallway when GREG rushes up to him, test results in his hand.)</p>
+<p><strong>Greg</strong>: Grissom, I have some information that will be of use to you. But, before you get it, I need a decision.</p>
+<p><strong>Grissom</strong>: What?</p>
+<p><strong>Greg</strong>: I'm tired of being on the fence here. Either I'm in the lab or I'm in the field. Which is it?</p>
+<p><strong>Grissom</strong>: Well, as soon as you can find and train a replacement, you can be in the field. Until then, I need you in the lab. Now give.</p>
+<p><strong>Greg</strong>: I got a CODIS hit off the semen from your victim. DNA matches a rape-murder case from a year ago.</p>
+<p><strong>Grissom</strong>: Still open?</p>
+<p><strong>Greg</strong>: Warrick's pulling the file.</p>
+<p>(GRISSOM winks, turns and walks away.)</p>
+<p><strong>Grissom</strong>: Thanks.</p>
+<p><strong>Greg</strong>: No, thank you.</p>
+<p>(Yes!)</p>
+<p>(GREG turns and heads back to his lab.)</p>
+<p>CUT TO:<br />
+[INT. LAB] </p>
+<p>(WARRICK fills GRISSOM in on the old case. The file folder contents are spread out on the table.) </p>
+<p><strong>Warrick</strong>: Victim was a 32-year-old Caucasian female, Emma Dobbins. Sexually assaulted. (He hands GRISSOM a photo.) Cause of death, strangulation. They used her pantyhose.</p>
+<p><strong>Grissom</strong>: Where'd they find the body?</p>
+<p><strong>Warrick</strong>: Off of Blue Diamond Road, Southern Highlands. </p>
+<p><strong>Grissom</strong>: That's not far from where Linley Parker was assaulted.</p>
+<p><strong>Warrick</strong>: Other than the semen, the only evidence at the scene was a shoe print-- man's size nine. I talked to Nick. They also found a print-- size nine.</p>
+<p><strong>Grissom</strong>: Did she have a car?</p>
+<p><strong>Warrick</strong>: A Vintage Pontiac. Registered in her name, never recovered.</p>
+<p><strong>Grissom</strong>: So apart from geography and age, what else did they have in common?</p>
+<p><strong>Warrick</strong>: Emma Dobbins ran a movie memorabilia place downtown.</p>
+<p><strong>Grissom</strong>: My vic was a pit boss at the Palms.</p>
+<p><strong>Warrick</strong>: (shakes his head) Emma was married.</p>
+<p><strong>Grissom</strong>: Linley Parker was single. Blonde.</p>
+<p><strong>Warrick</strong>: She was brunette. The only thing in common: the guy who raped them.</p>
+<p>CUT TO:<br />
+[INT. CSI - OFFICE] </p>
+<p>(The FORENSIC ARTIST finishes the composite based on LINLEY'S description.) </p>
+<p><strong>Linley Parker</strong>: There's something wrong with the nose.</p>
+<p>(The FORENSIC ARTIST picks up a sheet with various pictures of the noses circled for her to choose from.)</p>
+<p><strong>Forensic Artist (woman)</strong>: Which one looks right.</p>
+<p>(She points to D8-4.)</p>
+<p><strong>Linley Parker</strong>: That one.</p>
+<p><strong>Forensic Artist (woman)</strong>: (points) This one?</p>
+<p><strong>Linley Parker</strong>: Yeah.</p>
+<p>(CATHERINE walks into the room.)</p>
+<p><strong>Forensic Artist (woman)</strong>: Now, close your eyes, and tell me everything up until the time he raped you.</p>
+<p>(LINLEY closes her eyes.)</p>
+<p>FLASH TO:<br />
+(Shadows of LINLEY with the ATTACKER standing outside the two cars.)</p>
+<p><strong>Voice</strong>: I'm so sorry</p>
+<p>(Resume to LINLEY.)</p>
+<p>(The ATTACKER pushes LINELY back to the ground.)</p>
+<p><strong>Attacker</strong>: (rasps) Look at me. (He grabs her face and forces her to look at him.) Look at me.</p>
+<p>(LINLEY screams.)</p>
+<p><strong>Attacker</strong>: Yeah, look at me.</p>
+<p>[INT. CSI]</p>
+<p>(LINLEY'S eyes are closed as she remembers. The FORENSIC ARTIST holds up the composite in front of her.)</p>
+<p><strong>Forensic Artist (woman)</strong>: Open your eyes.</p>
+<p>(LINLEY opens her eyes, looks at the composite drawing, turns and throws up on the floor. CATHERINE watches from the side. LINLEY covers her mouth and shakes her head.)</p>
+<p>(Camera holds on the drawing.)</p>
+<p>FADE INTO:</p>
+<p>[INT. TODD COOMBS' OFFICE -- DAY] </p>
+<p>(The drawing overlays onto DR. TODD COOMBS. He's in his office listening to a patient.) </p>
+<p><strong>Woman (patient)</strong>: (o.s.) My husband keeps dropping hints about my anniversary present. Says he hopes I like calypso music. I think it's a cruise.</p>
+<p><strong>Todd Coombs</strong>: You don't like cruises?</p>
+<p><strong>Woman (patient)</strong>: I feel guilty.</p>
+<p><strong>Todd Coombs</strong>: Because you don't love him anymore, or because you think he can't handle knowing?</p>
+<p><strong>Crystal Coombs</strong>: (o.s.) Sir!</p>
+<p>(The office door opens; BRASS walks in. CRYSTAL follows him.)</p>
+<p><strong>Brass</strong>: Dr. Todd Coombs.</p>
+<p><strong>Todd Coombs</strong>: Excuse me, I'm with a patient.</p>
+<p><strong>Crystal Coombs</strong>: Honey, I told him to wait ... </p>
+<p><strong>Todd Coombs</strong>: Crystal, what's going on here?</p>
+<p>(BRASS holds up his badge.)</p>
+<p><strong>Brass</strong>: Las Vegas police. Sir, we need to talk.</p>
+<p>[EXT. TODD COOMBS' OFFICE -- DAY] </p>
+<p>(Through the camera shutter, CATHERINE sees that the vehicle's NEVADA plates are<br />
+446-RMV.)</p>
+<p>(BRASS and an OFFICER escorts TODD COOMBS out of the building. CRYSTAL follows behind them.)</p>
+<p><strong>Todd Coombs</strong>: This is insane -- you've got the wrong guy.</p>
+<p><strong>Brass</strong>: Well, if that's true, you got nothing to worry about.</p>
+<p><strong>Crystal Coombs</strong>: I-I'm going with him.</p>
+<p><strong>Brass</strong>: No, you're not. This is where he'll be.</p>
+<p>(He takes out a business card and hands it to her. The OFFICER puts TODD COOMBS in the back seat of the car.)</p>
+<p><strong>Todd Coombs</strong>: I'm gonna need a lawyer.</p>
+<p><strong>Crystal Coombs</strong>: Who do I call?</p>
+<p><strong>Todd Coombs</strong>: I don't know, call Roger -- he'll know what to do.</p>
+<p><strong>Crystal Coombs</strong>: Roger?</p>
+<p>(BRASS stands next to CATHERINE at the back of the SUV.)</p>
+<p><strong>Brass</strong>: The victim said the car was black.</p>
+<p><strong>Catherine</strong>: Well, blue looks black at night.</p>
+<p>(The OFFICER car drives away.)</p>
+<p>(CATHERINE walks to the front of the car and notices the scrapes on the front fender.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - OBSERVATION ROOM -- DAY] </p>
+<p>(The men for the line-up file into the room.) </p>
+<p><strong>Man</strong>: (V.O.) Single file, stop at your number on the floor. When I tell you to turn, you're gonna face the mirror. When you hear your number called, step forward.</p>
+<p>(LINLEY PARKER stands in front of the looking glass. BRASS and CATHERINE wait in the back.)</p>
+<p><strong>Man</strong>: (V.O.) Number one, step forward.</p>
+<p>(The first man steps forward.)</p>
+<p><strong>Man</strong>: (V.O.) Step back.</p>
+<p>(After a beat, he steps back.)</p>
+<p><strong>Man</strong>: (V.O.) Number two, step forward.</p>
+<p>(The second man steps forward.)</p>
+<p><strong>Man</strong>: (V.O.) Step back.</p>
+<p>(He steps back.)</p>
+<p><strong>Man</strong>: (V.O.) Number three, step forward.</p>
+<p>(TODD COOMBS steps forward. She recognizes him immediately.)</p>
+<p><strong>Linley Parker</strong>: It's number three. </p>
+<p>(TODD COOMBS swallows hard.)</p>
+<p><strong>Linley Parker</strong>: That's the guy who raped me.</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. POLICE DEPARTMENT - HALLWAY TO HOLDING CELL -- DAY] </p>
+<p>(GRISSOM and the OFFICER head toward the holding cell. They peer in through the glass window in the door where they find TODD COOMBS up and pacing the floor.) </p>
+<p><strong>Officer</strong>: He's been like that since the lineup. You know, the guilty ones always fall asleep.</p>
+<p>(The OFFICER opens the door. GRISSOM walks in.)</p>
+<p><strong>Grissom</strong>: Dr. Coombs, my name's Gil Grissom. I'm with the crime lab. I'm here to collect a DNA sample, so if you'd open your mouth?</p>
+<p><strong>Todd Coombs</strong>: DNA? I-I think I should talk to my lawyer.</p>
+<p><strong>Grissom</strong>: Well, we have a warrant, so we can compel a sample. Either way I'm gonna get it.</p>
+<p><strong>Todd Coombs</strong>: I haven't done anything.</p>
+<p><strong>Grissom</strong>: The good news: If you're innocent, this'll prove it. </p>
+<p>(TODD COOMBS opens his mouth allowing GRISSOM to take the swab sample. He caps the swab.)</p>
+<p><strong>Grissom</strong>: Thank you.</p>
+<p>(GRISSOM turns and leaves.)</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(On the table, the photos of the shoe prints are spread out along with various tagged shoes. NICK goes through them and compares the shoes to the photos of the prints. He prints to bottom of a shoe.) </p>
+<p>[INT. CSI - DNA LAB]</p>
+<p>(GREG tests the swab sample.)</p>
+<p>[INT. CSI - LAB]</p>
+<p>(NICK takes the shoe print and makes a copy of it on clear plastic.)</p>
+<p>[INT. CSI - DNA LAB]</p>
+<p>(GREG continues to process the DNA sample.)</p>
+<p>[INT. CSI - LAB]</p>
+<p>(NICK takes the clear plastic print and puts it over the photo shoe print.)</p>
+<p>[INT. CSI - HALLWAY / DNA LAB]</p>
+<p>(While walking through the hallway, NICK reports to CATHERINE and GRISSOM.)</p>
+<p><strong>Nick</strong>: I compared the eight pairs of shoes we collected at Todd Coombs' house to the shoe print at the crime scene.</p>
+<p><strong>Catherine</strong>: Mm-hmm.</p>
+<p><strong>Nick</strong>: No matches.</p>
+<p><strong>Catherine</strong>: Well, he could've ditched the shoes anywhere.</p>
+<p><strong>Nick</strong>: Yeah, true. </p>
+<p>(They walk into the DNA LAB.)</p>
+<p><strong>Catherine</strong>: So, uh, what do you got, Greg?</p>
+<p><strong>Greg</strong>: Well, according to the DNA results, Todd Coombs is not your rapist.</p>
+<p><strong>Catherine</strong>: You're kidding.</p>
+<p><strong>Greg</strong>: There's only seven out of thirteen, which means we're looking for a sibling. </p>
+<p><strong>Grissom</strong>: I believe the semen would indicate a brother.</p>
+<p><strong>Nick</strong>: Could explain why she picked Todd out of a lineup -- strong family resemblance.</p>
+<p><strong>Catherine</strong>: She was so sure.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HOLDING CELL] </p>
+<p>(BRASS walks up to TODD and CRYSTAL COOMBS.) </p>
+<p><strong>Brass</strong>: Dr. Coombs. You're free to go.</p>
+<p><strong>Todd Coombs</strong>: So that's it?</p>
+<p><strong>Brass</strong>: Yeah.</p>
+<p><strong>Crystal Coombs</strong>: You people think you can do whatever you want -- come into our homes, turn our lives upside down. Who's gonna explain this to our neighbors, our friends?</p>
+<p>(TODD COOMBS puts his arm around his wife's shoulders and turns her, urging her to leave.)</p>
+<p><strong>Todd Coombs</strong>: Come on, honey, let's get out of here.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - PALMS CASINO - LATE AFTERNOON]</p>
+<p>[INT. PALMS CASINO - LATE AFTERNOON]</p>
+<p>(CATHERINE explains it to LINLEY PARKER.)</p>
+<p><strong>Linley Parker</strong>: You're letting him go? Why?</p>
+<p><strong>Catherine</strong>: He's not the man that assaulted you.</p>
+<p><strong>Linley Parker</strong>: Yes, he is. I identified him.</p>
+<p><strong>Catherine</strong>: DNA ruled him out.</p>
+<p><strong>Linley Parker</strong>: Then you made a mistake. That man raped me.</p>
+<p><strong>Catherine</strong>: We have some additional leads, and we're working on them. I promise to keep you informed.</p>
+<p><strong>Linley Parker</strong>: I saw him. He wanted me to see his face.</p>
+<p><strong>Catherine</strong>: Linley, it was dark. You were under attack. Under those conditions ...</p>
+<p>(Quick flashback to: LINLEY is lying on the ground. Camera moves in for a close up of her eyes, pupils dilated.)</p>
+<p><strong>Catherine</strong>: (V.O.) ... pupils dilate, it's hard to focus.</p>
+<p><strong>Voice</strong>: Look at me --</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: You can't always trust your eyes. </p>
+<p><strong>Linley Parker</strong>: He wanted me to see his face because he was going to kill me, and now you're letting him go?</p>
+<p><strong>Catherine</strong>: This is my cell phone number. Call me if you need anything.</p>
+<p><strong>Linley Parker</strong>: This isn't gonna keep him away from me. What I need is protection. I need a gun.</p>
+<p><strong>Catherine</strong>: If you don't feel safe in your home, stay with a friend.</p>
+<p>(LINLEY glances at CATHERINE, shakes her head, turns and walks away.)</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(SARA walks into the office and finds GRISSOM looking at some photos.) </p>
+<p><strong>Sara</strong>: I hear you're looking for Todd Coombs' brother.</p>
+<p><strong>Grissom</strong>: Or brothers.</p>
+<p><strong>Sara</strong>: I'll work out the family tree.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB]</p>
+<p>(SARA does her research.)</p>
+<p>(First screen is of: TODD COOMBS.)</p>
+<p>(Second screen shows DOB: December 18, 1967.)</p>
+<p>(She does a search at the GENEALOGY SEARCH PAGE for TODD COOMBS and comes up with the following:</p>
+<p>ETHEL HENDERSON<br />
+{marriage} 10/22/1965<br />
+HOLLIS COOMBS</p>
+<p><strong>Sons</strong>:</p>
+<p>ROGER COOMBS = LARRY COOMBS<br />
+Age: 39 b. 12/6/65 Age: 39 b. 12/6/65</p>
+<p>KEVIN COOMBS<br />
+Age: 37 b. 10/9/67</p>
+<p>TODD COOMBS<br />
+Age: 35 b. 2/26/69</p>
+<p>BAILEY COOMBS<br />
+Age: 34 b. 7/19/70</p>
+<p>SANDRA COOMBS (THOMASON)<br />
+Age: 30 b. 2/26/74</p>
+<p>GEORGIA COOMBS<br />
+Age: 28 b. 11/29/76</p>
+<p>JOSS COOMBS<br />
+b. 8/4/85 d. 3/11/01 - (Deceased)</p>
+<p>{GENEAOLOGY TREE FOR HENDERSON-COOMBS}</p>
+<p>(SARA continues to run her search in the FIND PEOPLE-The complete ICQ People Search. Where she types in ROGER COOMBS. She finds the following:</p>
+<p>Full Name: ROGER COOMBS<br />
+Age: 39<br />
+Birth Date: 12-06-1965</p>
+<p>Address History:<br />
+Residential (1972 - 1989):<br />
+78566 Ambers Ave., LV, NV 89108</p>
+<p>Residential (1990 - Current):<br />
+7543 Castle Banks Rd., LV, NV 89123</p>
+<p>Business - COOMBS BROTHERS CARS<br />
+2672 W. 6th St., LV, NV 89109</p>
+<p>(She types in LARRY COOMBS next. And compares the two.)</p>
+<p>Address History:<br />
+Residential (1972 - 1990)<br />
+143 Shady Oak St., LV, NV</p>
+<p>Residential (1992 - Current)<br />
+5311 Sephill Rd., LV, NV<br />
+e-mail: CoombsL@myvc--</p>
+<p>Business - COOMBS BROTHERS CARS<br />
+2672 W. 6th St., LV, NV 89109</p>
+<p>(She notices that they're working at the same place.)</p>
+<p>CUT TO:<br />
+[EXT./ INT. COOMBS BROTHERS CARS - DAY]</p>
+<p>(BRASS and WARRICK interview LARRY COOMBS.)</p>
+<p><strong>Larry Coombs</strong>: Yeah, I read all about it in the paper. I'm just sorry our parents weren't alive to see it.</p>
+<p><strong>Brass</strong>: Hey, your brother's being hauled in on a rape charge. Does that seem funny to you?</p>
+<p><strong>Larry Coombs</strong>: A little. Todd was due.</p>
+<p><strong>Warrick</strong>: Due for what?</p>
+<p><strong>Larry Coombs</strong>: A reality check. Most people go through life, suffer the ups and downs. Todd only got the ups till now.</p>
+<p>(ROGER COOMBS walks over to them.)</p>
+<p><strong>Roger Coombs</strong>: I'm Roger Coombs. What's going on here?</p>
+<p><strong>Larry Coombs</strong>: They're cops -- they want our DNA. (He hands him the warrant.)<br />
+I'm gonna need the May Hustler and a cup.</p>
+<p><strong>Warrick</strong>: That won't be necessary.</p>
+<p>(WARRICK holds up the swab.)</p>
+<p><strong>Roger Coombs</strong>: We're not giving you anything until our lawyer looks this over.</p>
+<p><strong>Brass</strong>: Let me tell you how this works. First things first. We do the test, and then the lawyers come in.</p>
+<p>(WARRICK notices the missing grill plate from the car behind them. He looks to the side and sees it on the floor.)</p>
+<p>(Quick flashback to: The grill smashes into LINLEY'S rear bumper. Cut to: Someone removes the grill. End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: So you two are fraternal twins, huh?</p>
+<p><strong>Roger Coombs</strong>: Accident of birth.</p>
+<p>CUT TO:<br />
+[COMPUTER SCREEN] </p>
+<p>(Computer close up on:<br />
+BAILEY COOMBS<br />
+Age: 34 b. 7/19/70) </p>
+<p>(The Search Results for BAILEY COOMBS screen appears.)<br />
+Full Name: BAILEY COOMBS<br />
+Age: 34<br />
+Birth Date: 07-19-1970</p>
+<p>Address History:<br />
+Residential (1990 - 1994):<br />
+217 Wolf Court, LV. NV</p>
+<p>Residential (1994 - Current):<br />
+17943 Desert Way, Apt #12, Henderson, NV 89108<br />
+e-mail: BaileyC(a)myvcc.net</p>
+<p>Business - HOME SURE SECURITY<br />
+288 Tyler Rd. Henderson, NV</p>
+<p>CUT TO:<br />
+[EXT. GATED COMMUNITY -- DAY] </p>
+<p>(SARA and DET. VARTANN interview BAILEY COOMBS.) </p>
+<p><strong>Bailey Coombs</strong>: You want a sample of my DNA? What for?</p>
+<p><strong>Det. Vartann</strong>: It's an ongoing investigation, sir -- a rape. Can't discuss it any further than that.</p>
+<p><strong>Sara</strong>: Does your route include the southern highlands?</p>
+<p><strong>Bailey Coombs</strong>: No, I work this side of the 15, seven hills.</p>
+<p><strong>Det. Vartann</strong>: Were you working two nights ago? You talked to my supervisor --<br />
+you know I was. Look, I heard about what happened to that lady, and I know what you guys put Todd and Crystal through. You got something against my family?</p>
+<p><strong>Sara</strong>: You got something against cooperating?</p>
+<p>(SARA takes a swab sample from him.)</p>
+<p>CUT TO:<br />
+[COMPUTER SCREEN] </p>
+<p>(Computer close up on:<br />
+KEVIN COOMBS<br />
+Age: 37 b. 10/9/67</p>
+<p>(The Search Results for KEVIN COOMBS screen appears.)<br />
+Full Name: KEVIN COOMBS<br />
+Age: 37<br />
+Birth Date: 10/09/1967</p>
+<p>Address History:<br />
+Residential (1987 - 1991):<br />
+217 Wolf Court, LV. NV</p>
+<p>Residential (1991 - Current):<br />
+826 Herrick Ln, Las Vegs, NV 89109<br />
+e-mail: BaileyC(a)myvcc.net</p>
+<p>Business - Address<br />
+Unknown</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY] </p>
+<p>(NICK steps into the hallway. SARA catches up with him.) </p>
+<p><strong>Sara</strong>: Hey, how'd it go with brother number four?</p>
+<p><strong>Nick</strong>: Nowhere. No Kevin Coombs at the address you gave me; no forwarding address. PD's following up.</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(CATHERINE sprays and wipes some instruments. Her cell phone rings; she answers it.) </p>
+<p><strong>Catherine</strong>: Willows.</p>
+<p><strong>Linley Parker</strong>: (from phone) I can't wait 72 hours for a gun. I need it today! I need it now!</p>
+<p><strong>Catherine</strong>: Linley? </p>
+<p><strong>Linley Parker</strong>: (from phone) Hold on.</p>
+<p>(In the background, we hear the beeps of the car alarm being turned on or off. Also, we hear loud music in the back.)</p>
+<p><strong>Catherine</strong>: Linley, I can barely hear you. Where are you?</p>
+<p><strong>Linley Parker</strong>: (from phone) Fremont Street. I-I know you can help me. Just-<br />
+just give me a name. Tell me where to go.</p>
+<p>(Over the phone, CATHERINE hears glass breaking. LINLEY screams.)</p>
+<p><strong>Catherine</strong>: Linley?</p>
+<p><strong>Linley Parker</strong>: (from phone) Stop!</p>
+<p>(The connection dies.)</p>
+<p><strong>Catherine</strong>: (shouts into phone) Linley?!</p>
+<p>CUT TO:<br />
+[EXT. FREMONT STREET -- NIGHT]</p>
+<p>(CATHERINE pushes her way through the crowd and heads over to the casino. OFFICERS are already there looking at the car. She looks into the empty front seat.)</p>
+<p><strong>Catherine</strong>: Where is she?</p>
+<p><strong>Officer</strong>: (o.s.) I don't know. We just rolled up.</p>
+<p>(CATHERINE closes her eyes.)</p>
+<p>FADE OUT</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. FREMONT STREET -- NIGHT] </p>
+<p>(CATHERINE is going over the front car seat taking photos when GRISSOM arrives. He puts his kit down on the ground.) </p>
+<p><strong>Grissom</strong>: Hey.</p>
+<p><strong>Catherine</strong>: There's no new damage except for the window.</p>
+<p>(Camera zooms in for a close-up of the blood on the cracked window glass.)</p>
+<p><strong>Catherine</strong>: Blood is probably from whoever broke the glass, not the victim.</p>
+<p>(Quick flashback to: [LINLEY'S CAR] LINLEY screams as the ATTACKER smashes the car glass in with his hand. Close-up of his hand and the cut. End of flashback. Resume to present.)</p>
+<p><strong>Brass</strong>: Okay, the pawn shop owner ID'd her, she was looking to buy a gun, and she wasn't in the mood to wait.</p>
+<p><strong>Catherine</strong>: Anybody see what happened here?</p>
+<p><strong>Brass</strong>: Well, the problem is that when the light show starts, everyone's looking up. I mean, what's the chance that this crime is unrelated to the first attack?</p>
+<p><strong>Catherine</strong>: It's the same guy. He's getting rid of the witness.</p>
+<p><strong>Brass</strong>: Who identified the wrong man.</p>
+<p><strong>Grissom</strong>: Soon as the DNA comes back, we'll know which brother it is.</p>
+<p><strong>Catherine</strong>: And until then we wait?</p>
+<p><strong>Brass</strong>: Well, I got every police officer downtown looking for her.</p>
+<p><strong>Catherine</strong>: Yeah, you should have had eyes on the brothers.</p>
+<p><strong>Brass</strong>: Yeah, in a perfect world, yeah.</p>
+<p><strong>Grissom</strong>: Didn't you say that you were on the phone with her and you heard the window break?</p>
+<p><strong>Catherine</strong>: Yes.</p>
+<p><strong>Grissom</strong>: Did you find her phone?</p>
+<p><strong>Catherine</strong>: I looked everywhere.</p>
+<p>(CATHERINE turns to look back in the front car seat.)</p>
+<p><strong>Catherine</strong>: So where's her phone?</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[INT. MONACO CASINO - MAIN FLOOR - NIGHT]</p>
+<p>(ROGER COOMBS sits in front of the slot machines and takes a drink from the waitress.)</p>
+<p><strong>Dispatch</strong>: (V.O.) The is dispatch. We have 20's confirmed on Roger Coombs. Monaco Casino, last four hours.</p>
+<p>[INT. COOMBS BROTHERS CARS -- NIGHT</p>
+<p>(LARRY COOMBS is at work. Working.)</p>
+<p><strong>Dispatch</strong>: (V.O.) Suspect Larry Coombs at his place of employment.</p>
+<p>[EXT. SEVEN HILLS -- STREET -- NIGHT</p>
+<p>(BAILEY COOMBS is pulled over.)</p>
+<p><strong>Dispatch</strong>: (V.O.) And Bailey Coombs, on shift, seven hills.</p>
+<p>[INT. TODD COOMBS RESIDENCE - NIGHT]</p>
+<p>(BRASS walks into the house.)</p>
+<p><strong>Crystal Coombs</strong>: All right, fine, fine. Search the whole house if you want to. I'm telling you, Todd's not here.</p>
+<p><strong>Brass</strong>: His car was in the driveway.</p>
+<p><strong>Crystal Coombs</strong>: That's because he took my car to the house company. You going to arrest him for that, too?</p>
+<p><strong>Brass</strong>: I'm going to need your license number and a full description of your vehicle.</p>
+<p>[EXT. FREMONT STREET - NIGHT]</p>
+<p>(CATHERINE is on the phone with NICK.)</p>
+<p><strong>Nick</strong>: (from phone) How'd you guys know Linley Parker's cell was e-911 capable?</p>
+<p><strong>Catherine</strong>: We just took a shot. She's got a lot of new gadgets in her car, most new cell phones are imbedded with a GPS chip.</p>
+<p>INTERCUT WITH:</p>
+<p>[INT. CSI - LAB]</p>
+<p>(NICK is on the computer searching for LINLEY'S cell phone signal.)</p>
+<p><strong>Nick</strong>: Her carrier accepted the Attorney General waiver. I'm accessing her site now. If her phone's on, it should show up.</p>
+<p><strong>Catherine</strong>: Okay.</p>
+<p>(The computer beeps.)</p>
+<p><strong>Nick</strong>: Okay, got it. Nearest cross streets, uh, Warm Springs and Durango.</p>
+<p><strong>Catherine</strong>: That's the middle of nowhere. </p>
+<p><strong>Nick</strong>: Hey, Catherine. She's moving.</p>
+<p>(CATHERINE hangs up and shouts.)</p>
+<p><strong>Catherine</strong>: We got a location!</p>
+<p>[EXT. CAR (MOVING) - NIGHT]</p>
+<p>(BRASS is on the radio.)</p>
+<p><strong>Brass</strong>: Put out a BOLO on a beige, 2004 Ford Taurus. Registration, Nevada, 3-9-<br />
+6-R-G-F. The driver's name is Todd Coombs. He's a white male, 38 years old. I'm on my way to the house company in Green Valley.</p>
+<p>(On his way there, BRASS finds TODD COOMBS vacuuming out the trunk of his car.)</p>
+<p>(BRASS turns into the GAS EXPRESS just as the dispatch is made on the radio.)</p>
+<p>(BRASS stops the car and gets out.)</p>
+<p>[EXT. GAS EXPRESS-- NIGHT] </p>
+<p>(TODD COOMBS is vacuuming the trunk of his car when BRASS approaches him.) </p>
+<p><strong>Brass</strong>: You make a mess?</p>
+<p><strong>Todd Coombs</strong>: That's your job. Unless you've got a warrant, you can't even touch this car.</p>
+<p><strong>Brass</strong>: I'm just looking.</p>
+<p><strong>Todd Coombs</strong>: For what?</p>
+<p>(BRASS peers into the back seat of the car and sees the plants.)</p>
+<p><strong>Brass</strong>: So how was Wal-Mart?</p>
+<p><strong>Todd Coombs</strong>: I was at the house company buying some plants for my wife, to cheer her up.</p>
+<p><strong>Brass</strong>: Oh, you think that's going to work?</p>
+<p><strong>Todd Coombs</strong>: A gesture goes a long way.</p>
+<p><strong>Brass</strong>: Never worked for me. Hey, do you mind turning that thing off?</p>
+<p><strong>Todd Coombs</strong>: When the quarters run out.</p>
+<p><strong>Brass</strong>: So when were you at the store?</p>
+<p><strong>Todd Coombs</strong>: Why don't you ask my brothers? I've got a cousin in Phoenix, maybe he knows.</p>
+<p>(The vacuum stops.)</p>
+<p><strong>Todd Coombs</strong>: Last time I cooperated with you guys, you put me in a lineup and I spent the night in jail.</p>
+<p>(He shuts the trunk.)</p>
+<p><strong>Brass</strong>: That's right, that's right. Hey, let me tell you something. Twelve hours after Linley Parker ID'd you as her rapist, she gets dragged out of her car on Fremont Street. Now she's missing.</p>
+<p><strong>Todd Coombs</strong>: Then why are you wasting time talking to me?</p>
+<p>(TODD COOMBS gets in his car and drives off.</p>
+<p><strong>Brass</strong>: Drive safely.</p>
+<p>(BRASS stays at the GAS EXPRESS. He picks up the vacuum nozzle, takes out his cell phone and dials.)</p>
+<p><strong>Voice</strong>: Crime lab.</p>
+<p><strong>Brass</strong>: Yeah, this is Jim Brass. Can you send a CSI to my location for evidence recovery.</p>
+<p>CUT TO:<br />
+[EXT. SITE -- NIGHT] </p>
+<p>(NICK tracks LINLEY'S cell phone on the hand-held map. He along with GRISSOM, CATHERINE and OFFICERS are out looking for LINELY PARKER.) </p>
+<p><strong>Nick</strong>: Two hundred fifty feet. Two hundred, still moving.</p>
+<p><strong>Grissom</strong>: Linley!</p>
+<p><strong>Nick</strong>: One hundred fifty feet.</p>
+<p><strong>Grissom</strong>: Linley!</p>
+<p><strong>Nick</strong>: Eighty. NICK: Seventy, sixty, still moving! NICK: Fifty. Okay, okay, she stopped. NICK: Thirty feet, she's right here. </p>
+<p>(GRISSOM leans forward and finds a dog wrestling with LINLEY'S jacket. As they approach the dog, the dog runs off. CATHERINE picks up the jacket and checks the pockets. She finds the cell phone.)</p>
+<p><strong>Officer</strong>: (o.s.) Over here!</p>
+<p>(CATHERINE leaves the jacket, picks up her flashlight and heads over. She sees the body first. GRISSOM sighs heavily. NICK sighs also.)</p>
+<p>(Camera pulls up slowly from LINLEY PARKER'S dead body Her close are torn from her indicating possibly another assault. The CSIs stand around her body.)</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - FORENSIC AUTOPSY -- NIGHT] </p>
+<p>(Open on LINLEY'S feet. A camera flashes. CATHERINE is snapping post-mortem photos of the dead body. She takes pictures of the bruises on LINLEY'S knees, her bloodied knuckles, the bruises on her thighs.)</p>
+<p>(She puts the camera down for a moment. She reaches over and removes the cloth tied around LINLEY'S throat. She picks up a ruler and places it against the gash in her throat, picks up her camera and snaps another photo.) </p>
+<p>(She wraps a tape around a petrie dish, sticky side out, and begins collecting the dirt and other stuff from her arms ... and navel. She finds a strand of hair.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS DESERT (STOCK) - DAY]</p>
+<p>[EXT. COOMBS PROPERTY - DAY]</p>
+<p>(SARA and DET. VARTANN walk toward the camper-trailer.)</p>
+<p><strong>Sara</strong>: Checked with county records. Crime scenes on a 20-acre plot. Guess who owns the property.</p>
+<p><strong>Det. Vartann</strong>: One of the Coombs Brothers.</p>
+<p><strong>Sara</strong>: Coombs Brother's company. Guy's an artist.</p>
+<p><strong>Det. Vartann</strong>: You call that art?</p>
+<p><strong>Sara</strong>: Black SUV.</p>
+<p>(The trailer door bursts open. KEVIN COOMBS climbs out of the trailer carrying a shot gun.)</p>
+<p><strong>Kevin Coombs</strong>: You're on my property!</p>
+<p>(DET. VARTANN and SARA both pull out their weapons.)</p>
+<p><strong>Det. Vartann</strong>: Put the weapon down.</p>
+<p><strong>Kevin Coombs</strong>: You're on my property!</p>
+<p><strong>Det. Vartann</strong>: Las Vegas Police, drop it or we shoot.</p>
+<p>(KEVIN COOMBS drops the gun. DET. VARTANN pushes him up against the side of the trailer and cuffs his hands behind him.)</p>
+<p><strong>Det. Vartann</strong>: Turn around.</p>
+<p><strong>Sara</strong>: Are you Kevin Coombs?</p>
+<p><strong>Det. Vartann</strong>: I can see the family resemblance. Come on.</p>
+<p>(DET. VARTANN pulls KEVIN COOMBS and heads for the car. SARA takes a moment and sighs.)</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(ROBBINS goes over the body with GRISSOM.) </p>
+<p><strong>Robbins</strong>: 'Cause of death, asphyxia due to strangulation. Victim has a hairline fracture of the right third metacarpal with some soft tissue swelling.</p>
+<p>(He points to the wounds on the knuckles. GRISSOM takes a look.)</p>
+<p><strong>Grissom</strong>: Defensive wounds.</p>
+<p><strong>Robbins</strong>: She was a fighter. There's also fresh contusions of the right labia.</p>
+<p><strong>Grissom</strong>: (surprised) She was raped again?</p>
+<p><strong>Robbins</strong>: I did a wet mount of the vaginal secretion with a Christmas Tree stain. Slide's under the scope.</p>
+<p>(GRISSOM looks at the scope.)</p>
+<p>[SCOPE VIEW]</p>
+<p>(He sees sperm with tails. Regular view.)</p>
+<p><strong>Grissom</strong>: Sperm.</p>
+<p><strong>Robbins</strong>: If he was trying to silence a witness, why not just kill her, why rape her again?</p>
+<p><strong>Grissom</strong>: Maybe rape was just foreplay for this guy. Maybe what he really gets off on is killing.</p>
+<p>CUT TO:<br />
+[EXT. KEVIN COOMBS' RESIDENCE -- DAY] </p>
+<p>(With KEVIN COOMBS tucked in the back seat of the car, the car drives off. DET. VARTANN turns back to join SARA who is snapping photos of a car.) </p>
+<p><strong>Det. Vartann</strong>: What do you got?</p>
+<p><strong>Sara</strong>: Maybe a missing Pontiac Tempest.</p>
+<p>(She snaps a photo of the VIN number.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY]</p>
+<p>(DET. VARTANN interviews KEVIN COOMBS.)</p>
+<p><strong>Det. Vartann</strong>: So, you were home last night? </p>
+<p>(KEVIN remains silent.)</p>
+<p><strong>Det. Vartann</strong>: Okay, well, doesn't really matter. Your DNA will do the talking.</p>
+<p><strong>Kevin Coombs</strong>: You know what happens when the government gets your DNA?</p>
+<p><strong>Det. Vartann</strong>: Enlighten me.</p>
+<p><strong>Kevin Coombs</strong>: (neurotic) They put it in the database. Then they look at your driver's license picture and then all those cameras -- traffic lights, parking lots, grocery stores ... they can find you. Whenever they want.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY -- DAY] </p>
+<p>(GRISSOM steps out and finds TODD COOMBS sitting the hallway. He stops to talk with him.) </p>
+<p><strong>Grissom</strong>: Dr. Coombs.</p>
+<p><strong>Todd Coombs</strong>: Mr. Grissom. I suppose you're compelling a DNA sample from my brother now.</p>
+<p><strong>Grissom</strong>: We are. Why are you here?</p>
+<p><strong>Todd Coombs</strong>: Are you an only child?</p>
+<p><strong>Grissom</strong>: I am. Why?</p>
+<p><strong>Todd Coombs</strong>: You've got my brother in that room, he's family. I didn't want him to be alone.</p>
+<p><strong>Grissom</strong>: Well, what about your other brothers?</p>
+<p><strong>Todd Coombs</strong>: Bailey only looks out for number one. Roger and Larry, they do their best to avoid Kevin. They don't understand him.</p>
+<p><strong>Grissom</strong>: And you do?</p>
+<p><strong>Todd Coombs</strong>: He's harmless. He chooses to live alone. He lives off the grid. He spends all his time turning junk into art.</p>
+<p><strong>Grissom</strong>: Where does he get his &quot;junk&quot;?</p>
+<p><strong>Todd Coombs</strong>: Mostly from my brother's garage. Every once in a while, Roger lets Kevin take his pick of the wrecks. Beats inviting him over for Thanksgiving, you know?</p>
+<p><strong>Grissom</strong>: Dr. Coombs, we found a 1968 Pontiac outside your brother's house. The VIN matched a car belonging to a victim who was raped and murdered by the same person who raped Linley Parker. And we found Linley Parker's dead body on your Brother's property.</p>
+<p><strong>Todd Coombs</strong>: (scoffs) You guys have been wrong before.</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(Maskless NICK goes through the contents of the vacuum bin. He separates them by HAIRS, METAL, ORGANICS, and PAPER.) </p>
+<p>(Abandoning that for a moment, NICK looks around and sees the tubing. He pulls off the nozzle and looks into the long tube. He sees something stuck. He reaches in and pulls it out.)</p>
+<p>(WARRICK walks into the lab.)</p>
+<p><strong>Warrick</strong>: Whew, man. Guys like Brass have it easy. All they got to do is call it in.</p>
+<p><strong>Nick</strong>: Hey, check this out. I just found it in the hose. It's from a potted plant purchased at the house company. Confirms Todd Coombs' alibi.</p>
+<p>(WARRICK nods, turns and immediately pulls out a pin from the METAL tray.)</p>
+<p><strong>Warrick</strong>: You saw this? A pin from the Palms. Linley Parker worked at the Palms.</p>
+<p>(Quick flashback to: [TRUNK] LINLEY'S body is put into the trunk; her pin falls off. End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: A lot of people work at the Palms. And it doesn't nail Todd Coombs.</p>
+<p>CUT TO:<br />
+[INT. CSI -- LAB] </p>
+<p>(CATHERINE stares a the wall covered with LINLEY PARKER'S crime scene photos. GRISSOM stands next to her and reads her the DNA report.) </p>
+<p><strong>Grissom</strong>: According to the DNA, the blood from Linley Parker's smashed window matches the semen from all the rapes.</p>
+<p><strong>Catherine</strong>: Which means it doesn't match Todd Coombs.</p>
+<p><strong>Grissom</strong>: Or Kevin Coombs. Or any of the rest of the brothers Grimm.</p>
+<p>(They turn to the BOARD with the photos of all the suspects on it.)</p>
+<p><strong>Catherine</strong>: Linley was absolutely certain that Todd Coombs raped her.</p>
+<p><strong>Grissom</strong>: That's not what the evidence says.</p>
+<p><strong>Catherine</strong>: Well, maybe the evidence is wrong.</p>
+<p><strong>Grissom</strong>: You can be wrong, I can be wrong, the evidence is just the evidence.</p>
+<p><strong>Catherine</strong>: Deep down, tell me you don't think this guy is good for this.</p>
+<p>(GREG opens the sliding door and gives his report.)</p>
+<p><strong>Greg</strong>: I got the DNA on the hair you lifted off Linley Parker's body. Get this. It's Todd Coombs.</p>
+<p><strong>Catherine</strong>: Puts him with the body.</p>
+<p><strong>Grissom</strong>: It doesn't prove rape.</p>
+<p><strong>Catherine</strong>: I'll have Brass bring him in.</p>
+<p>(CATHERINE leaves.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM] </p>
+<p>(TODD COOMBS is standing in the waiting room when GRISSOM walks in. He puts his kit down on the table along with the other things he's carrying.) </p>
+<p><strong>Grissom</strong>: Would you strip down to your shorts, please, doctor?</p>
+<p><strong>Todd Coombs</strong>: Why?</p>
+<p><strong>Grissom</strong>: I'm going to examine your clothing for any trace evidence, and we're going to document your body for any injuries that may have been sustained during a recent struggle.</p>
+<p><strong>Todd Coombs</strong>: I don't have any injuries.</p>
+<p><strong>Grissom</strong>: If you'd like, this officer will assist you.</p>
+<p>(He turns and removes his shirt.)</p>
+<p><strong>Todd Coombs</strong>: I did not rape that woman. I did not kill her. You guys proved that and you let me go.</p>
+<p>(GRISSOM opens a package to take the shirt. He puts the shirt in the package. TODD COOMBS removes his pants and hands that to GRISSOM also. GRISSOM puts it in a second bag.)</p>
+<p>(GRISSOM sees the bruises on TODD'S wrists. He takes a photo of the bruises.)</p>
+<p><strong>Todd Coombs</strong>: That's from moving boxes.</p>
+<p><strong>Grissom</strong>: Thank you. Turn around, please.</p>
+<p>(GRISSOM finds a scar at the base of his spine.)</p>
+<p><strong>Todd Coombs</strong>: That's an old scar. I was a bone marrow donor. My youngest brother Joss had leukemia.</p>
+<p><strong>Grissom</strong>: Hold still please.</p>
+<p>(GRISSOM takes a photo of the scar. The flash from the photo reveals a pattern on TODD'S back. GRISSOM looks up, unsure that he even saw what he thought he saw. He raises the camera and snaps another photo. Sure enough, the branching pattern is there.)</p>
+<p>(Thinking about it, GRISSOM goes to his kit to get the ALS.)</p>
+<p><strong>Grissom</strong>: Turn off the lights, would you, please, officer?</p>
+<p>(The OFFICER shuts the lights off. GRISSOM puts on the goggles and turns the ALS on. On his back there is V-pattern markings.)</p>
+<p><strong>Todd Coombs</strong>: What are you looking at? </p>
+<p>(Stunned, GRISSOM removes his goggles.)</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE] </p>
+<p>(GRISSOM does some research into TODD COOMBS' condition. He turns the page and finds a photo of the pattern nearly like those on TODD'S back.) </p>
+<p>(It reads:<br />
+Mosaicism causes Blaschko's lines ...<br />
+Patterns are caused by Chimericism ... </p>
+<p>(He continues to read:<br />
+Fraternal twins (two separately fertilized eggs) collapsing ... </p>
+<p>(There's a photo of the collapsed egg.)<br />
+Tissues from two different embryos can fuse into one.</p>
+<p>(He reads something else)<br />
+Chimera<br />
+Human Genetics: Dual Identities</p>
+<p>(Camera lingers on a picture of the mythical Chimera.)</p>
+<p>(GRISSOM thinks about it for a moment, then pulls out the case file. He goes through the photos and finds a photo of a Chimera on TODD COOMBS' desk.)</p>
+<p>(Grissom takes off his glasses and pulls out a magnifying glass just to be absolutely certain that it is a Chimera.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM] </p>
+<p>(GRISSOM ties a tube around TODD COOMBS' arm to draw blood. TODD'S wearing the orange clothes that GRISSOM left for him.) </p>
+<p><strong>Todd Coombs</strong>: This is harassment. I've already given you guys a DNA sample.</p>
+<p><strong>Grissom</strong>: You know that bone marrow donation you gave your brother? (GRISSOM draws the blood.) I checked your medical records. His body rejected it and he died. My guess is that's when you first found out about your unique condition.</p>
+<p>(Busted, TODD COOMBS gives it up. He turns and glares, almost smirks at GRISSOM.)</p>
+<p><strong>Todd Coombs</strong>: The doctors explained it. I'm a creature of myth. </p>
+<p><strong>Grissom</strong>: A chimera. Head of a lion, body of a goat, tail of a dragon. You're a genetic anomaly. One person, two completely different sets of DNA.</p>
+<p>(GRISSOM takes the blood-filled tube and holds it up.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM] </p>
+<p>(BRASS interviews TODD COOMBS. A camera records the session.) </p>
+<p><strong>Brass</strong>: State your name for the record.</p>
+<p><strong>Todd Coombs</strong>: My name is Todd Coombs. I raped and murdered Emma Dobbins and Linley Parker. There are more, but we'll talk about those later.</p>
+<p><strong>Brass</strong>: How'd you pick your victims?</p>
+<p><strong>Todd Coombs</strong>: They picked me.</p>
+<p>(CATHERINE watches the interview from the observation room. GRISSOM explains.)</p>
+<p><strong>Grissom</strong>: Sometimes fraternal twins, two separately fertilized eggs, develop into only one person.</p>
+<p>(Quick Scope View of one embryo incorporates into the other.)</p>
+<p><strong>Grissom</strong>: (V.O.) In effect, one twin dies in embryo, but its DNA survives in the other.</p>
+<p>(End of Scope view. Resume to present.)</p>
+<p><strong>Grissom</strong>: That's why the DNA from his buccal swab matched his hair but not his semen.</p>
+<p><strong>Catherine</strong>: So he had two strains of DNA in his body.</p>
+<p><strong>Grissom</strong>: Yeah, and the DNA in his semen, was evidently from his dead twin brother.</p>
+<p><strong>Brass</strong>: You never met Emma Dobbins or Linley Parker. </p>
+<p><strong>Todd Coombs</strong>: I didn't have to meet 'em. You go to a bar, you see an attractive woman, make your move, she shoots you down. You go home, you m*st*rb*t*. You get on with it. But when I see a woman who arouses me ... the whole world disappears ... except for her. She can't say no.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) -- NIGHT] </p>
+<p><strong>Warrick</strong>: (V.O.) What a night. You guys hungry? Want to get something to eat?</p>
+<p>[EXT. LAS VEGAS STRIP - SIDEWALK - NIGHT]</p>
+<p>(WARRICK, NICK and SARA walk along the sidewalk.) </p>
+<p><strong>Sara</strong>: No, I think I'm going to call it a night.</p>
+<p><strong>Nick</strong>: Yeah, me, too.</p>
+<p><strong>Warrick</strong>: I feel ya. Get some rest.</p>
+<p>(WARRICK leaves.)</p>
+<p><strong>Nick</strong>: All right, I'll see you.</p>
+<p>(SARA grabs NICK'S arm as they continue walking down the sidewalk.)</p>
+<p><strong>Sara</strong>: Hey, hey, Nick, congratulations on your almost promotion. Seriously, you deserve it.</p>
+<p><strong>Nick</strong>: (teasing) Wow. That's really hard for you, isn't it?</p>
+<p>(She pushes him away and smiles.)</p>
+<p><strong>Sara</strong>: Yeah, it is.</p>
+<p>(NICK smiles. SARA continues walking.)</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE -- NIGHT] </p>
+<p>(GRISSOM is at his desk when the phone rings. He answers it.) </p>
+<p><strong>Grissom</strong>: (to phone) Grissom. (pause) Yes. (pause) </p>
+<p>(He takes off his glasses as he listens.)</p>
+<p><strong>Grissom</strong>: Is she all right?</p>
+<p>[FLASHBACK] </p>
+<p>(SARA is driving on the road. The police officer turns the corner and sounds his siren.)</p>
+<p><strong>Officer</strong>: (V.O.) she was lucky she wasn't on the strip. That's highway patrol's jurisdiction. </p>
+<p>(Cut to: SARA takes a breathalyzer test.)</p>
+<p><strong>Officer</strong>: (V.O.) She blew .09.</p>
+<p>(SARA looks around.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY / WAITING ROOM -- NIGHT] </p>
+<p>(The OFFICER escorts GRISSOM through the hallway.) </p>
+<p><strong>Officer</strong>: Technically, she's over, but they just lowered the limit, so we cut her a break and didn't book her. But we did have to call the supervisor.</p>
+<p>(They turn into the WAITING ROOM. The OFFICER points to SARA.)</p>
+<p><strong>Grissom</strong>: Well, thank you. I appreciate the courtesy.</p>
+<p><strong>Officer</strong>: No problem.</p>
+<p>(The OFFICER leaves. GRISSOM walks over to SARA and sits down next to her. She stares out straight in front of her.)</p>
+<p>(He looks at her and sighs. He reaches over and takes her hand.)</p>
+<p><strong>Grissom</strong>: Come on. I'll take you home.</p>
+<p>(SARA lowers her head.)</p>
+<p>FADE TO BLACK</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
- 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Linley Parker: Help!
-
-
-Linley Parker:  Help me! Please somebody help me!
-
-Linley Parker:  Somebody help me!
-
- 
- 
-Voice Of EMT:  Victim's stable. We're transporting her to Desert Palms. Over.
-
-
-Brass: Nobody knows who she is. The Andersons, they called the Security Company.  They thought somebody was trying to break in their back door. Southern Highlands is a new development. There's really not much around here. Some of my guys are talking to everybody, trying to find out what's going on.
-Grissom: She has severe lacerations on her feet. She was running hard from somewhere.
-
-
-
-
-
-
-
-
-
-(GRISSOM looks inside the front seat and finds an open wallet, driver's license and a couple of twenty dollar bills hanging out of the pocket. He notes the license for :
-PARKER, LINLEY
-288 TYLER -
-EXPIRES 08-22-2005 )
-
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Nick:  No skid marks, no signs of another vehicle.
-Grissom: The engine's running, no flat tires. Why'd she stop?
-
- 
- 
-
-
-
-
-Sara: I'm going to take the SAE kit to Greg.
-Catherine: You don't want to take the statement?
-Sara: Do you mind?
-Catherine: No.
-
-Nurse: She's ready.
-Sara: Thanks. 
-
-Catherine: Linley Parker, I'm Catherine Willows. I'm with the Las Vegas Crime Lab. I know that you've been through a horrific ordeal.
-Linley Parker: 4-4-6. That's all I got. Nevada plates. Some kind of SUV. Black, I think.
-Catherine: Can you start from the beginning?
-Linley Parker: I was, um, driving home from work.
-
-
-
-Linley Parker:  There's hardly any traffic once you cross horizon ranch. He was tailgating.
-
-Linley Parker:  I slowed down to let him pass ...
-
-Linley Parker: ... and he hit me.
-
-
-Linley Parker:  I wasn't going to stop, but he did, so I ... 
-
-Linley Parker: ... pulled over. You're not supposed to leave the scene of an accident. He looked like a normal guy. He asked if I was okay. Apologized. He went to his car to get his insurance information. I was looking at my bumper.
-
-
-Linley Parker:  He punched me in the face, threw me over his shoulder.
-
-Linley Parker:  I lost my shoes.
-
-Linley Parker:  He threw me on the ground, took off my jacket, ripped open my shirt.
-
-Linley Parker: He kept trying to kiss me on the mouth, and I kept turning away. So he bit my ear.
-
-
-
-Linley Parker: He wanted me to look at him. He was going to kill me.
-
-
-Linley Parker:  He ripped off my skirt. He raped me.
-
-Linley Parker: He didn't use a condom. He got up to zip, and I kicked him in the groin and I ran. And the rest, I guess you know.
-Catherine: Thank you. That was very specific. You said that you looked at him. Could you describe him to a forensic artist?
-Linley Parker: Yes.
-
-
-
- 
- 
-Forensic Artist : What do you remember most about the face?
-Linley Parker: He had bright eyes.
-Forensic Artist : What about the shape of the eyes?
-Linley Parker: Almond. Tiny pupils.
-Forensic Artist : What about the rest of the face?
-Linley Parker: He had a baby face. High forehead, thin lips, clean-shaven.
-
-: Like a crewcut?
- LINLEY PARKER: No, like he had a regular haircut.
-
-
-Sara: What?
-Grissom: How many vacation days do you have on the books?
-Sara: About ...  ... ten weeks, I guess. Why?
-Grissom: I think you should take a week or two.
-Sara: I-I'm still on the case. I just didn't do the interview for once in my life.
-
-Sara: When was the last time you took vacation?  Never, right?
-Grissom: Okay.
-
-
- 
- 
-
-
-
-
-
-Greg: Grissom, I have some information that will be of use to you. But, before you get it, I need a decision.
-Grissom: What?
-Greg: I'm tired of being on the fence here. Either I'm in the lab or I'm in the field. Which is it?
-Grissom: Well, as soon as you can find and train a replacement, you can be in the field. Until then, I need you in the lab. Now give.
-Greg: I got a CODIS hit off the semen from your victim. DNA matches a rape-murder case from a year ago.
-Grissom: Still open?
-Greg: Warrick's pulling the file.
-
-Grissom: Thanks.
-Greg: No, thank you.
-
-
-
- 
- 
-Warrick: Victim was a 32-year-old Caucasian female, Emma Dobbins. Sexually assaulted.  Cause of death, strangulation. They used her pantyhose.
-Grissom: Where'd they find the body?
-Warrick: Off of Blue Diamond Road, Southern Highlands. 
-Grissom: That's not far from where Linley Parker was assaulted.
-Warrick: Other than the semen, the only evidence at the scene was a shoe print-- man's size nine. I talked to Nick. They also found a print-- size nine.
-Grissom: Did she have a car?
-Warrick: A Vintage Pontiac. Registered in her name, never recovered.
-Grissom: So apart from geography and age, what else did they have in common?
-Warrick: Emma Dobbins ran a movie memorabilia place downtown.
-Grissom: My vic was a pit boss at the Palms.
-Warrick:  Emma was married.
-Grissom: Linley Parker was single. Blonde.
-Warrick: She was brunette. The only thing in common: the guy who raped them.
-
- 
- 
-Linley Parker: There's something wrong with the nose.
-
-Forensic Artist : Which one looks right.
-
-Linley Parker: That one.
-Forensic Artist :  This one?
-Linley Parker: Yeah.
-
-Forensic Artist : Now, close your eyes, and tell me everything up until the time he raped you.
-
-
-
-Voice: I'm so sorry
-
-
-Attacker:  Look at me.
-
-Attacker: Yeah, look at me.
-
-
-Forensic Artist : Open your eyes.
-
-
-
- 
- 
-Woman :  My husband keeps dropping hints about my anniversary present. Says he hopes I like calypso music. I think it's a cruise.
-Todd Coombs: You don't like cruises?
-Woman : I feel guilty.
-Todd Coombs: Because you don't love him anymore, or because you think he can't handle knowing?
-Crystal Coombs:  Sir!
-
-Brass: Dr. Todd Coombs.
-Todd Coombs: Excuse me, I'm with a patient.
-Crystal Coombs: Honey, I told him to wait ... 
-Todd Coombs: Crystal, what's going on here?
-
-Brass: Las Vegas police. Sir, we need to talk.
- 
-(Through the camera shutter, CATHERINE sees that the vehicle's NEVADA plates are
-446-RMV.)
-
-Todd Coombs: This is insane -- you've got the wrong guy.
-Brass: Well, if that's true, you got nothing to worry about.
-Crystal Coombs: I-I'm going with him.
-Brass: No, you're not. This is where he'll be.
-
-Todd Coombs: I'm gonna need a lawyer.
-Crystal Coombs: Who do I call?
-Todd Coombs: I don't know, call Roger -- he'll know what to do.
-Crystal Coombs: Roger?
-
-Brass: The victim said the car was black.
-Catherine: Well, blue looks black at night.
-
-
-
- 
- 
-Man:  Single file, stop at your number on the floor. When I tell you to turn, you're gonna face the mirror. When you hear your number called, step forward.
-
-Man:  Number one, step forward.
-
-Man:  Step back.
-
-Man:  Number two, step forward.
-
-Man:  Step back.
-
-Man:  Number three, step forward.
-
-Linley Parker: It's number three. 
-
-Linley Parker: That's the guy who raped me.
-FADE OUT
-
-
-
- 
- 
-Officer: He's been like that since the lineup. You know, the guilty ones always fall asleep.
-
-Grissom: Dr. Coombs, my name's Gil Grissom. I'm with the crime lab. I'm here to collect a DNA sample, so if you'd open your mouth?
-Todd Coombs: DNA? I-I think I should talk to my lawyer.
-Grissom: Well, we have a warrant, so we can compel a sample. Either way I'm gonna get it.
-Todd Coombs: I haven't done anything.
-Grissom: The good news: If you're innocent, this'll prove it. 
-
-Grissom: Thank you.
-
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-Nick: I compared the eight pairs of shoes we collected at Todd Coombs' house to the shoe print at the crime scene.
-Catherine: Mm-hmm.
-Nick: No matches.
-Catherine: Well, he could've ditched the shoes anywhere.
-Nick: Yeah, true. 
-
-Catherine: So, uh, what do you got, Greg?
-Greg: Well, according to the DNA results, Todd Coombs is not your rapist.
-Catherine: You're kidding.
-Greg: There's only seven out of thirteen, which means we're looking for a sibling. 
-Grissom: I believe the semen would indicate a brother.
-Nick: Could explain why she picked Todd out of a lineup -- strong family resemblance.
-Catherine: She was so sure.
-
- 
- 
-Brass: Dr. Coombs. You're free to go.
-Todd Coombs: So that's it?
-Brass: Yeah.
-Crystal Coombs: You people think you can do whatever you want -- come into our homes, turn our lives upside down. Who's gonna explain this to our neighbors, our friends?
-
-Todd Coombs: Come on, honey, let's get out of here.
-
-
-
-
-Linley Parker: You're letting him go? Why?
-Catherine: He's not the man that assaulted you.
-Linley Parker: Yes, he is. I identified him.
-Catherine: DNA ruled him out.
-Linley Parker: Then you made a mistake. That man raped me.
-Catherine: We have some additional leads, and we're working on them. I promise to keep you informed.
-Linley Parker: I saw him. He wanted me to see his face.
-Catherine: Linley, it was dark. You were under attack. Under those conditions ...
-
-Catherine:  ... pupils dilate, it's hard to focus.
-Voice: Look at me --
-
-Catherine: You can't always trust your eyes. 
-Linley Parker: He wanted me to see his face because he was going to kill me, and now you're letting him go?
-Catherine: This is my cell phone number. Call me if you need anything.
-Linley Parker: This isn't gonna keep him away from me. What I need is protection. I need a gun.
-Catherine: If you don't feel safe in your home, stay with a friend.
-
-
- 
- 
-Sara: I hear you're looking for Todd Coombs' brother.
-Grissom: Or brothers.
-Sara: I'll work out the family tree.
-
-
-
-
-
-(She does a search at the GENEALOGY SEARCH PAGE for TODD COOMBS and comes up with the following:
-ETHEL HENDERSON
-{marriage} 10/22/1965
-HOLLIS COOMBS
-Sons:
-ROGER COOMBS = LARRY COOMBS
-Age: 39 b. 12/6/65 Age: 39 b. 12/6/65
-KEVIN COOMBS
-Age: 37 b. 10/9/67
-TODD COOMBS
-Age: 35 b. 2/26/69
-BAILEY COOMBS
-Age: 34 b. 7/19/70
-SANDRA COOMBS 
-Age: 30 b. 2/26/74
-GEORGIA COOMBS
-Age: 28 b. 11/29/76
-JOSS COOMBS
-b. 8/4/85 d. 3/11/01 - 
-{GENEAOLOGY TREE FOR HENDERSON-COOMBS}
-(SARA continues to run her search in the FIND PEOPLE-The complete ICQ People Search. Where she types in ROGER COOMBS. She finds the following:
-Full Name: ROGER COOMBS
-Age: 39
-Birth Date: 12-06-1965
-Address History:
-Residential :
-78566 Ambers Ave., LV, NV 89108
-Residential :
-7543 Castle Banks Rd., LV, NV 89123
-Business - COOMBS BROTHERS CARS
-2672 W. 6th St., LV, NV 89109
-
-Address History:
-Residential 
-143 Shady Oak St., LV, NV
-Residential 
-5311 Sephill Rd., LV, NV
-e-mail: CoombsL@myvc--
-Business - COOMBS BROTHERS CARS
-2672 W. 6th St., LV, NV 89109
-
-
-
-
-Larry Coombs: Yeah, I read all about it in the paper. I'm just sorry our parents weren't alive to see it.
-Brass: Hey, your brother's being hauled in on a rape charge. Does that seem funny to you?
-Larry Coombs: A little. Todd was due.
-Warrick: Due for what?
-Larry Coombs: A reality check. Most people go through life, suffer the ups and downs. Todd only got the ups till now.
-
-Roger Coombs: I'm Roger Coombs. What's going on here?
-Larry Coombs: They're cops -- they want our DNA. 
-I'm gonna need the May Hustler and a cup.
-Warrick: That won't be necessary.
-
-Roger Coombs: We're not giving you anything until our lawyer looks this over.
-Brass: Let me tell you how this works. First things first. We do the test, and then the lawyers come in.
-
-
-Brass: So you two are fraternal twins, huh?
-Roger Coombs: Accident of birth.
-
- 
-(Computer close up on:
-BAILEY COOMBS
-Age: 34 b. 7/19/70) 
-
-Full Name: BAILEY COOMBS
-Age: 34
-Birth Date: 07-19-1970
-Address History:
-Residential :
-217 Wolf Court, LV. NV
-Residential :
-17943 Desert Way, Apt #12, Henderson, NV 89108
-e-mail: BaileyCmyvcc.net
-Business - HOME SURE SECURITY
-288 Tyler Rd. Henderson, NV
-
- 
- 
-Bailey Coombs: You want a sample of my DNA? What for?
-Det. Vartann: It's an ongoing investigation, sir -- a rape. Can't discuss it any further than that.
-Sara: Does your route include the southern highlands?
-Bailey Coombs: No, I work this side of the 15, seven hills.
-Det. Vartann: Were you working two nights ago? You talked to my supervisor --
-you know I was. Look, I heard about what happened to that lady, and I know what you guys put Todd and Crystal through. You got something against my family?
-Sara: You got something against cooperating?
-
-
- 
-(Computer close up on:
-KEVIN COOMBS
-Age: 37 b. 10/9/67
-
-Full Name: KEVIN COOMBS
-Age: 37
-Birth Date: 10/09/1967
-Address History:
-Residential :
-217 Wolf Court, LV. NV
-Residential :
-826 Herrick Ln, Las Vegs, NV 89109
-e-mail: BaileyCmyvcc.net
-Business - Address
-Unknown
-
- 
- 
-Sara: Hey, how'd it go with brother number four?
-Nick: Nowhere. No Kevin Coombs at the address you gave me; no forwarding address. PD's following up.
-
- 
- 
-Catherine: Willows.
-Linley Parker:  I can't wait 72 hours for a gun. I need it today! I need it now!
-Catherine: Linley? 
-Linley Parker:  Hold on.
-
-Catherine: Linley, I can barely hear you. Where are you?
-Linley Parker:  Fremont Street. I-I know you can help me. Just-
-just give me a name. Tell me where to go.
-
-Catherine: Linley?
-Linley Parker:  Stop!
-
-Catherine:  Linley?!
-
-
-
-Catherine: Where is she?
-Officer:  I don't know. We just rolled up.
-
-FADE OUT
-
-
-;
-
-
-
- 
- 
-Grissom: Hey.
-Catherine: There's no new damage except for the window.
-
-Catherine: Blood is probably from whoever broke the glass, not the victim.
-
-Brass: Okay, the pawn shop owner ID'd her, she was looking to buy a gun, and she wasn't in the mood to wait.
-Catherine: Anybody see what happened here?
-Brass: Well, the problem is that when the light show starts, everyone's looking up. I mean, what's the chance that this crime is unrelated to the first attack?
-Catherine: It's the same guy. He's getting rid of the witness.
-Brass: Who identified the wrong man.
-Grissom: Soon as the DNA comes back, we'll know which brother it is.
-Catherine: And until then we wait?
-Brass: Well, I got every police officer downtown looking for her.
-Catherine: Yeah, you should have had eyes on the brothers.
-Brass: Yeah, in a perfect world, yeah.
-Grissom: Didn't you say that you were on the phone with her and you heard the window break?
-Catherine: Yes.
-Grissom: Did you find her phone?
-Catherine: I looked everywhere.
-
-Catherine: So where's her phone?
-
-
-
-
-Dispatch:  The is dispatch. We have 20's confirmed on Roger Coombs. Monaco Casino, last four hours.
-[INT. COOMBS BROTHERS CARS -- NIGHT
-
-Dispatch:  Suspect Larry Coombs at his place of employment.
-[EXT. SEVEN HILLS -- STREET -- NIGHT
-
-Dispatch:  And Bailey Coombs, on shift, seven hills.
-
-
-Crystal Coombs: All right, fine, fine. Search the whole house if you want to. I'm telling you, Todd's not here.
-Brass: His car was in the driveway.
-Crystal Coombs: That's because he took my car to the house company. You going to arrest him for that, too?
-Brass: I'm going to need your license number and a full description of your vehicle.
-
-
-Nick:  How'd you guys know Linley Parker's cell was e-911 capable?
-Catherine: We just took a shot. She's got a lot of new gadgets in her car, most new cell phones are imbedded with a GPS chip.
-
-
-
-Nick: Her carrier accepted the Attorney General waiver. I'm accessing her site now. If her phone's on, it should show up.
-Catherine: Okay.
-
-Nick: Okay, got it. Nearest cross streets, uh, Warm Springs and Durango.
-Catherine: That's the middle of nowhere. 
-Nick: Hey, Catherine. She's moving.
-
-Catherine: We got a location!
-
-
-Brass: Put out a BOLO on a beige, 2004 Ford Taurus. Registration, Nevada, 3-9-
-6-R-G-F. The driver's name is Todd Coombs. He's a white male, 38 years old. I'm on my way to the house company in Green Valley.
-
-
-
- 
- 
-Brass: You make a mess?
-Todd Coombs: That's your job. Unless you've got a warrant, you can't even touch this car.
-Brass: I'm just looking.
-Todd Coombs: For what?
-
-Brass: So how was Wal-Mart?
-Todd Coombs: I was at the house company buying some plants for my wife, to cheer her up.
-Brass: Oh, you think that's going to work?
-Todd Coombs: A gesture goes a long way.
-Brass: Never worked for me. Hey, do you mind turning that thing off?
-Todd Coombs: When the quarters run out.
-Brass: So when were you at the store?
-Todd Coombs: Why don't you ask my brothers? I've got a cousin in Phoenix, maybe he knows.
-
-Todd Coombs: Last time I cooperated with you guys, you put me in a lineup and I spent the night in jail.
-
-Brass: That's right, that's right. Hey, let me tell you something. Twelve hours after Linley Parker ID'd you as her rapist, she gets dragged out of her car on Fremont Street. Now she's missing.
-Todd Coombs: Then why are you wasting time talking to me?
-(TODD COOMBS gets in his car and drives off.
-Brass: Drive safely.
-
-Voice: Crime lab.
-Brass: Yeah, this is Jim Brass. Can you send a CSI to my location for evidence recovery.
-
- 
- 
-Nick: Two hundred fifty feet. Two hundred, still moving.
-Grissom: Linley!
-Nick: One hundred fifty feet.
-Grissom: Linley!
-Nick: Eighty. NICK: Seventy, sixty, still moving! NICK: Fifty. Okay, okay, she stopped. NICK: Thirty feet, she's right here. 
-
-Officer:  Over here!
-
-
-FADE OUT
-
-
-
- 
-
- 
-
-
-
-
-
-Sara: Checked with county records. Crime scenes on a 20-acre plot. Guess who owns the property.
-Det. Vartann: One of the Coombs Brothers.
-Sara: Coombs Brother's company. Guy's an artist.
-Det. Vartann: You call that art?
-Sara: Black SUV.
-
-Kevin Coombs: You're on my property!
-
-Det. Vartann: Put the weapon down.
-Kevin Coombs: You're on my property!
-Det. Vartann: Las Vegas Police, drop it or we shoot.
-
-Det. Vartann: Turn around.
-Sara: Are you Kevin Coombs?
-Det. Vartann: I can see the family resemblance. Come on.
-
-
- 
- 
-Robbins: 'Cause of death, asphyxia due to strangulation. Victim has a hairline fracture of the right third metacarpal with some soft tissue swelling.
-
-Grissom: Defensive wounds.
-Robbins: She was a fighter. There's also fresh contusions of the right labia.
-Grissom:  She was raped again?
-Robbins: I did a wet mount of the vaginal secretion with a Christmas Tree stain. Slide's under the scope.
-
-
-
-Grissom: Sperm.
-Robbins: If he was trying to silence a witness, why not just kill her, why rape her again?
-Grissom: Maybe rape was just foreplay for this guy. Maybe what he really gets off on is killing.
-
- 
- 
-Det. Vartann: What do you got?
-Sara: Maybe a missing Pontiac Tempest.
-
-
-
-
-Det. Vartann: So, you were home last night? 
-
-Det. Vartann: Okay, well, doesn't really matter. Your DNA will do the talking.
-Kevin Coombs: You know what happens when the government gets your DNA?
-Det. Vartann: Enlighten me.
-Kevin Coombs:  They put it in the database. Then they look at your driver's license picture and then all those cameras -- traffic lights, parking lots, grocery stores ... they can find you. Whenever they want.
-
- 
- 
-Grissom: Dr. Coombs.
-Todd Coombs: Mr. Grissom. I suppose you're compelling a DNA sample from my brother now.
-Grissom: We are. Why are you here?
-Todd Coombs: Are you an only child?
-Grissom: I am. Why?
-Todd Coombs: You've got my brother in that room, he's family. I didn't want him to be alone.
-Grissom: Well, what about your other brothers?
-Todd Coombs: Bailey only looks out for number one. Roger and Larry, they do their best to avoid Kevin. They don't understand him.
-Grissom: And you do?
-Todd Coombs: He's harmless. He chooses to live alone. He lives off the grid. He spends all his time turning junk into art.
-Grissom: Where does he get his &quot;junk&quot;?
-Todd Coombs: Mostly from my brother's garage. Every once in a while, Roger lets Kevin take his pick of the wrecks. Beats inviting him over for Thanksgiving, you know?
-Grissom: Dr. Coombs, we found a 1968 Pontiac outside your brother's house. The VIN matched a car belonging to a victim who was raped and murdered by the same person who raped Linley Parker. And we found Linley Parker's dead body on your Brother's property.
-Todd Coombs:  You guys have been wrong before.
-
- 
- 
-
-
-Warrick: Whew, man. Guys like Brass have it easy. All they got to do is call it in.
-Nick: Hey, check this out. I just found it in the hose. It's from a potted plant purchased at the house company. Confirms Todd Coombs' alibi.
-
-Warrick: You saw this? A pin from the Palms. Linley Parker worked at the Palms.
-
-Nick: A lot of people work at the Palms. And it doesn't nail Todd Coombs.
-
- 
- 
-Grissom: According to the DNA, the blood from Linley Parker's smashed window matches the semen from all the rapes.
-Catherine: Which means it doesn't match Todd Coombs.
-Grissom: Or Kevin Coombs. Or any of the rest of the brothers Grimm.
-
-Catherine: Linley was absolutely certain that Todd Coombs raped her.
-Grissom: That's not what the evidence says.
-Catherine: Well, maybe the evidence is wrong.
-Grissom: You can be wrong, I can be wrong, the evidence is just the evidence.
-Catherine: Deep down, tell me you don't think this guy is good for this.
-
-Greg: I got the DNA on the hair you lifted off Linley Parker's body. Get this. It's Todd Coombs.
-Catherine: Puts him with the body.
-Grissom: It doesn't prove rape.
-Catherine: I'll have Brass bring him in.
-
-
- 
- 
-Grissom: Would you strip down to your shorts, please, doctor?
-Todd Coombs: Why?
-Grissom: I'm going to examine your clothing for any trace evidence, and we're going to document your body for any injuries that may have been sustained during a recent struggle.
-Todd Coombs: I don't have any injuries.
-Grissom: If you'd like, this officer will assist you.
-
-Todd Coombs: I did not rape that woman. I did not kill her. You guys proved that and you let me go.
-
-
-Todd Coombs: That's from moving boxes.
-Grissom: Thank you. Turn around, please.
-
-Todd Coombs: That's an old scar. I was a bone marrow donor. My youngest brother Joss had leukemia.
-Grissom: Hold still please.
-
-
-Grissom: Turn off the lights, would you, please, officer?
-
-Todd Coombs: What are you looking at? 
-
-
- 
- 
-(It reads:
-Mosaicism causes Blaschko's lines ...
-Patterns are caused by Chimericism ... 
-(He continues to read:
-Fraternal twins  collapsing ... 
-
-Tissues from two different embryos can fuse into one.
-
-Chimera
-Human Genetics: Dual Identities
-
-
-
-
- 
- 
-Todd Coombs: This is harassment. I've already given you guys a DNA sample.
-Grissom: You know that bone marrow donation you gave your brother?  I checked your medical records. His body rejected it and he died. My guess is that's when you first found out about your unique condition.
-
-Todd Coombs: The doctors explained it. I'm a creature of myth. 
-Grissom: A chimera. Head of a lion, body of a goat, tail of a dragon. You're a genetic anomaly. One person, two completely different sets of DNA.
-
-
- 
- 
-Brass: State your name for the record.
-Todd Coombs: My name is Todd Coombs. I raped and murdered Emma Dobbins and Linley Parker. There are more, but we'll talk about those later.
-Brass: How'd you pick your victims?
-Todd Coombs: They picked me.
-
-Grissom: Sometimes fraternal twins, two separately fertilized eggs, develop into only one person.
-
-Grissom:  In effect, one twin dies in embryo, but its DNA survives in the other.
-
-Grissom: That's why the DNA from his buccal swab matched his hair but not his semen.
-Catherine: So he had two strains of DNA in his body.
-Grissom: Yeah, and the DNA in his semen, was evidently from his dead twin brother.
-Brass: You never met Emma Dobbins or Linley Parker. 
-Todd Coombs: I didn't have to meet 'em. You go to a bar, you see an attractive woman, make your move, she shoots you down. You go home, you m*st*rb*t*. You get on with it. But when I see a woman who arouses me ... the whole world disappears ... except for her. She can't say no.
-
- 
-Warrick:  What a night. You guys hungry? Want to get something to eat?
-
- 
-Sara: No, I think I'm going to call it a night.
-Nick: Yeah, me, too.
-Warrick: I feel ya. Get some rest.
-
-Nick: All right, I'll see you.
-
-Sara: Hey, hey, Nick, congratulations on your almost promotion. Seriously, you deserve it.
-Nick:  Wow. That's really hard for you, isn't it?
-
-Sara: Yeah, it is.
-
-
- 
- 
-Grissom:  
-
-Grissom: Is she all right?
- 
-
-Officer:  she was lucky she wasn't on the strip. That's highway patrol's jurisdiction. 
-
-Officer:  She blew .09.
-
-
- 
- 
-Officer: Technically, she's over, but they just lowered the limit, so we cut her a break and didn't book her. But we did have to call the supervisor.
-
-Grissom: Well, thank you. I appreciate the courtesy.
-Officer: No problem.
-
-
-Grissom: Come on. I'll take you home.
-
-FADE TO BLACK
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=04x23+-+Bloodlines&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127376%23p127376" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=04x23+-+Bloodlines&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127376%23p127376" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127376%23p127376&amp;name=04x23+-+Bloodlines" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127376%23p127376" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=4c4962f0f3846ef6110129f966a97211">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=4c4962f0f3846ef6110129f966a97211">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=4c4962f0f3846ef6110129f966a97211">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=4c4962f0f3846ef6110129f966a97211">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

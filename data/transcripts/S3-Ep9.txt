@@ -1,704 +1,940 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. (VARIOUS) LAS VEGAS CITY (STOCK) - NIGHT]
+CUT TO:
 
+[EXT. ROADWAY -- NIGHT]
+(A long taxi travels on the road.)
+(Quick flash of the MUL" />
+<meta property="og:title" content="03x09 - Blood Lust - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. (VARIOUS) LAS VEGAS CITY (STOCK) - NIGHT]
+CUT TO:
 
+[EXT. ROADWAY -- NIGHT]
+(A long taxi travels on the road.)
+(Quick flash of the MUL" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13244" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>03x09 - Blood Lust - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13244" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13244">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=76e8aff5584590c3a5054808d4b5b426"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=76e8aff5584590c3a5054808d4b5b426">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=76e8aff5584590c3a5054808d4b5b426">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=76e8aff5584590c3a5054808d4b5b426">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=76e8aff5584590c3a5054808d4b5b426">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13244&amp;sid=76e8aff5584590c3a5054808d4b5b426&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>03x09 - Blood Lust</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127338">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127338">03x09 - Blood Lust</a></div>
+							<div class="pull-right text-right"><time datetime="2002-12-19T19:44:01Z">12/19/02 19:44</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. (VARIOUS) LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. ROADWAY -- NIGHT]</p>
+<p>(A long taxi travels on the road.)</p>
+<p>(Quick flash of the MULLERS TAXICAB DRIVER'S PERMIT for Rajeeb Khandelwahl.)</p>
+<p>(There is a beautiful woman sitting in the back of the cab. The driver looks in the rear view mirror at the woman. He turns the radio off.)</p>
+<p><strong>Woman</strong>: The last time I was out here, this was all desert.</p>
+<p>(She looks out the window and sees at the approaching gas station, a group of men with their bikes.)</p>
+<p><strong>Rajeeb Khandelwahl (driver)</strong>: One day, I'm looking at cactus; the next day a mini mall. What brings you all the way out here?</p>
+<p><strong>Woman</strong>: Work. </p>
+<p>(She sees a young boy stagger out onto the street.)</p>
+<p><strong>Woman</strong>: Stop!</p>
+<p>(The taxi cab driver tries to stop, but runs into the boy. The tires squeal. The men at the gas station look up.)</p>
+<p><strong>Rajeeb Khandelwahl (driver)</strong>: Miss, you okay? Stay here.</p>
+<p>(RAJEEB KHANDELWAHL gets out of his cab to see what happened. The young boy is under his tires, his insides spilled out into the road. The men at the gas station watch as RAJEEB KHANDELWAHL gets back into his cab.)</p>
+<p><strong>Graham Cooper</strong>: Hey!</p>
+<p>(The group of bike riders rush over to the cab, open the driver's door and pull the driver out. The woman in the back seat is stunned by what she's seeing.)</p>
+<p>(The men continue to shout as they beat the driver up.)</p>
+<p><strong>Bike Rider</strong>: Where do you think you're going? <strong>Bike Rider</strong>: Get out of there!</p>
+<p>(They push him to the ground and continue to beat him up until he falls back onto the road, unconscious.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. ROADWAY -- NIGHT]</p>
+<p>(GRISSOM walks up toward the scene. BRASS meets him halfway.)</p>
+<p><strong>Brass</strong>: Where's your posse?</p>
+<p><strong>Grissom</strong>: I have no idea. I was actually on a date.</p>
+<p><strong>Brass</strong>: Hmm?</p>
+<p>(DAVID PHILLIPS is kneeling next to the body with a clipboard.)</p>
+<p><strong>Grissom</strong>: My god, what am I looking at?</p>
+<p><strong>Brass</strong>: Taxi hit a kid crossing the boulevard. The crowd over there saw the driver Rajeeb Khandelwahl, trying to get away. So, they pull him out of the front seat of the cab and they beat him up. I mean, they ... they beat him up bad. He's on his way to Desert Palm.</p>
+<p><strong>Grissom</strong>: His insides are on the outside. Did you move this body, David?</p>
+<p><strong>David Phillips</strong>: No, sir. </p>
+<p><strong>Brass</strong>: Auto detail hoisted the cab off the kid.</p>
+<p><strong>David Phillips</strong>: Yeah, but supervised. No one's touched him.</p>
+<p><strong>Grissom</strong>: Have you ever seen anything like this?</p>
+<p><strong>Brass</strong>: What do you mean?</p>
+<p><strong>Grissom</strong>: Well, how many hit-and-runs have you pulled?</p>
+<p><strong>Brass</strong>: Too many to count.</p>
+<p><strong>Grissom</strong>: How many times have you seen the victim's viscera exposed?</p>
+<p><strong>Brass</strong>: (thinks about it) First time.</p>
+<p><strong>Grissom</strong>: There's a first time for everything.</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[EXT. CRIME SCENE -- ROADWAY]</p>
+<p>(DAVID PHILLIPS kneels over the body. GRISSOM sits on his kit and takes picture of the little boy. BRASS walks over to them.)</p>
+<p><strong>David Phillips</strong>: My high school science teacher used to say that your small and large intestines could stretch across the Brooklyn Bridge. </p>
+<p><strong>Grissom</strong>: But in reality? </p>
+<p><strong>David Phillips</strong>: Only 25 feet combined.</p>
+<p><strong>Grissom</strong>: Fiction is often more compelling.BRASS: We got the eyewitnesses lined up, ready to go.</p>
+<p><strong>Grissom</strong>: Testimonials, Jim? I don't consider that evidence.</p>
+<p><strong>Brass</strong>: But easier to clean up.</p>
+<p>(GRISSOM hands DAVID a bag. He stands up and joins BRASS. They make their way to the WOMAN who was riding in the taxi cab.)</p>
+<p><strong>Grissom</strong>: Keep them all together, David.</p>
+<p><strong>David Phillips</strong>: I'll tuck the viscera in the bio-hazard bag.</p>
+<p><strong>Brass</strong>: Good plan.</p>
+<p>(DAVID starts to pick up the insides and put them in the bag.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. ROADWAY - NIGHT -- CONTINUOUS]</p>
+<p>(GRISSOM and BRASS question the WOMAN.)</p>
+<p><strong>Woman</strong>: I picked up the taxi at McCarran. I'm in town on business staying with my cousin who's a few blocks away.</p>
+<p><strong>Brass</strong>: Did you see the pedestrian?WOMAN: Crossing the street. I don't think he saw the cab.</p>
+<p><strong>Brass</strong>: Did the cabbie see him?</p>
+<p><strong>Woman</strong>: No, he was looking at me.</p>
+<p>(Quick flashback to: RAJEEB KHANDELWAHL looking in the rear view mirror at the WOMAN in the back seat.)</p>
+<p><strong>Rajeeb Khandelwahl (driver)</strong>: What brings you all the way out here?</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Woman</strong>: I think I yelled, &quot;stop,&quot; but it was too late.</p>
+<p><strong>Brass</strong>: And that's when Rajeeb, the taxi driver tried to leave, to drive away?</p>
+<p><strong>Woman</strong>: No, no, no, no. He got out of the cab to see what happened and ... then he freaked and he got back in and he reached for his radio. That's when the guys attacked him.</p>
+<p><strong>Brass</strong>: His radio? He wasn't fleeing the scene?</p>
+<p><strong>Woman</strong>: No, he was calling for help.</p>
+<p>(GRISSOM looks into the front seat of the cab and sees the handheld radio out on the passenger seat.)</p>
+<p><strong>Brass</strong>: Oh. Okay, what can you tell me about the men who attacked him?</p>
+<p><strong>Woman</strong>: You always think you'll be a great witness but ...</p>
+<p>(Quick flashback to: The group of men converging on the taxi cab. All yelling and shouting. End of flashback. Resume to present.)</p>
+<p><strong>Woman</strong>: There were so many of them and it happened so fast.<br />
+(She shakes her head.)</p>
+<p><strong>Woman</strong>: He was just begging for his life. </p>
+<p>(GRISSOM looks over at the bike riders laughing at the gas station.) </p>
+<p><strong>Woman</strong>: I couldn't see their faces but I know it was them; all of them. They were the only ones around.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. ROADSIDE GAS STATION - NIGHT -- CONTINUOUS]</p>
+<p>(BRASS questions the MOB MEMBERS at the gas station near the accident site.)</p>
+<p><strong>Joey Gillman</strong>: We're heroes, man.</p>
+<p><strong>Barry Lawrence</strong>: They have no respect for our laws.</p>
+<p><strong>Brass</strong>: Who?</p>
+<p><strong>Graham Cooper</strong>: The damn cabbie!</p>
+<p><strong>Brass</strong>: Why, because he's not from Vegas?</p>
+<p><strong>Claude Allen</strong>: No, because he's not from here, this country.</p>
+<p><strong>Brass</strong>: Oh, and you know that because you saw his birth certificate?</p>
+<p><strong>Graham Cooper</strong>: We didn't exactly need to see it.</p>
+<p><strong>Brass</strong>: Tell me what you did see.</p>
+<p><strong>Graham Cooper</strong>: He hit the boy. </p>
+<p>(Quick flashback to: The taxi cab hitting the boy. The boy hits the taxi cab hood, then falls off in front of the cab and onto the road. End of flashback. Resume to present.)</p>
+<p><strong>Joey Gillman</strong>: Then he hits his brakes, and I figured he's going to stop and do the right thing. </p>
+<p><strong>Claude Allen</strong>: Instead, he jumps back into his cab.</p>
+<p><strong>Barry Lawrence</strong>: Hey! If it weren't for us, he'd have gotten away.</p>
+<p><strong>Graham Cooper</strong>: Citizen's arrest, yo!</p>
+<p><strong>Bill Kendal</strong>: People are going to want our autograph.</p>
+<p><strong>Grissom</strong>: I don't want your autograph, but I would like a photo and a bit of your DNA.</p>
+<p><strong>Brass</strong>: So line up.</p>
+<p><strong>Bike Rider (unknown)</strong>: What?!</p>
+<p><strong>Brass</strong>: Look, the guy that you &quot;arrested&quot; is in critical condition. That makes you all suspects in a battery ...</p>
+<p><strong>Graham Cooper</strong>: Figures. We do something good, you guys try to turn around and pin it on us.</p>
+<p><strong>Joey Gillman</strong>: Yeah, if we were wearing badges you'd be throwing us a ticker tape parade.</p>
+<p><strong>Brass</strong>: If you're wearing badges, I'm playing left-wing in the NHL.</p>
+<p><strong>Claude Allen</strong>: I know my rights. I don't have to give you squat.BRASS: Oh yeah, you're the lawyer. Let me tell you how this goes down if you don't cooperate. You all get a free ride in the cruiser down to the station where I hold you there until the warrants clear. So what's it going to be? It's your choice. Line up ... single file.</p>
+<p>(GRISSOM steps up and looks at CLAUDE ALLEN.)</p>
+<p><strong>Grissom</strong>: Say, &quot;cheese.&quot;</p>
+<p>(He takes the picture. JOEY GILLMAN sighs. GRISSOM shows CLAUDE ALLEN the swab and takes a sample.)</p>
+<p><strong>Grissom</strong>: Open up, please. Thank you.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[INT. HOSPITAL - RAJEEB'S ROOM -- NIGHT]</p>
+<p>(GRISSOM is at the hospital talking with the NURSE.)</p>
+<p><strong>Nurse</strong>: He's critical. Ruptured spleen, collapsed lung, fractured ulna, possible intercranial bleeding. Doctors are still waiting on the labs.</p>
+<p><strong>Grissom</strong>: Do you have his clothes?</p>
+<p><strong>Nurse</strong>: His personals are bagged -- top shelf. They're ripped up pretty bad.</p>
+<p><strong>Grissom</strong>: That's good. That'll help.</p>
+<p><strong>Nurse</strong>: He said he killed a boy -- ran over him?</p>
+<p><strong>Grissom</strong>: Did he say anything else?</p>
+<p><strong>Nurse</strong>: No, that was it.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - DNA LAB]</p>
+<p>(GREG puts his stuff on the table. GRISSOM is standing in the lab holding a bag of evidence.)</p>
+<p><strong>Grissom</strong>: Gene Rayburn.</p>
+<p><strong>Greg</strong>: What?</p>
+<p><strong>Grissom</strong>: Point of reference.</p>
+<p><strong>Greg</strong>: Uh ... Match Game ... Nipsey Russell, Fannie Flagg game show network. Look, I don't have time for your humor. Ecklie's got a multiple, Warrick tells me his home invasion is my top priority and I'm still backed up on Catherine's no-suspect rape. One servant, many masters. You know what I'm saying?</p>
+<p><strong>Grissom</strong>: Greg, this is your DNA lab. You are the master. We serve you.</p>
+<p><strong>Greg</strong>: Well, your stuff just moved to the top of the pile.</p>
+<p>(GRISSOM smiles.)</p>
+<p><strong>Greg</strong>: What do you got?</p>
+<p><strong>Grissom</strong>: Individual DNA from a mob attack on a cabbie ... and the cabbie's clothes.</p>
+<p>(GRISSOM puts the evidence package on the table.)</p>
+<p><strong>Greg</strong>: &quot;Get ready to match the stars.&quot;</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY -- NIGHT]</p>
+<p>(GRISSOM walks into the room.)</p>
+<p><strong>Grissom</strong>: Okay, Doc, tell me something I don't know.</p>
+<p><strong>Robbins</strong>: Okay. In fourth grade, I dropped out of karate class because a kid half my size made me cry.</p>
+<p>(ROBBINS smiles.)</p>
+<p><strong>Grissom</strong>: About the body.</p>
+<p><strong>Robbins</strong>: No pedestrian fracture. Almost without exception, when a pedestrian's hit by a car, there's certain expected wounds in his lower extremities most significantly the pedestrian fracture.</p>
+<p>(Quick CGI POV to: The side view of a car hitting a person and the x-ray view of the impact where the bone breaks. End of CGI POV. Resume to present.)</p>
+<p><strong>Robbins</strong>: Tip of the triangle always points in the direction the car was moving. His tibia's intact.</p>
+<p>(Quick CGI POV to: The camera moves down to the body's leg, through the skin, down to the bone and across the length of the bone to show that it's in tact.)</p>
+<p><strong>Robbins</strong>: (V.O.) In fact, there's no bruising to the lower extremities. </p>
+<p>(End of CGI POV. Resume to present.)</p>
+<p><strong>Grissom</strong>: So, no fractures, no bruising. Cause of death?</p>
+<p>(Quick camera close up of the boy's chest to show bruising.)</p>
+<p><strong>Robbins</strong>: Chest was crushed. Multiple rib fractures and hence the white bucket you and David filled with his intestines. They literally popped out.</p>
+<p><strong>Grissom</strong>: So he wasn't hit by the taxi; he was run over?</p>
+<p>(Quick flashback to: The taxi cab literally runs over the boy. The body goes under the car's wheels. The taxi's tires screech. End of flashback. Resume to present.)</p>
+<p><strong>Robbins</strong>: Well, he would've died anyway. (He pulls the sheet aside to show an abdomen wound.) He was stabbed. Clean incised wound to the abdomen. Five inches deep.</p>
+<p>(Quick CGI POV to: ROBBINS mimics plunging a knife into the wound. The camera shows a black gloved hand plunging a knife into the skin. End of CGI POV. Resume to present.)</p>
+<p><strong>Grissom</strong>: So how much time elapsed between when he was stabbed and when he encountered the taxi?</p>
+<p><strong>Robbins</strong>: I can't give you an exact time frame except to say it wasn't immediate ... and before you ask, we don't have an ID, but missing persons called. A woman called and said her son didn't come home last night. She's on her way in.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<hr />
+[EXT. CRIME SCENE -- DAY]</p>
+<p>(At the cordoned off crime scene, a Yukon drives up. SARA gets out of the car.)</p>
+<p><strong>Sara</strong>: You know you pulled me away from a forensic anthropology seminar, right? It's required. It's part of the continuing education program.</p>
+<p><strong>Grissom</strong>: Well, I'm sorry, but everyone seems to have something to do today. I have a teenager who was run over by a taxi. He wasn't hit by it; that's not what killed him. He was stabbed, fatally. For now, I have no ID, no suspects and no primary crime scene. I need you.</p>
+<p>(SARA smiles.)</p>
+<p><strong>Sara</strong>: How can I help?</p>
+<p>(GRISSOM lifts the crime scene tape and holds out a stack of evidence markers. SARA takes the markers and enters the crime scene.)</p>
+<p>(They each go off in a direction and start looking for evidence. SARA finds a blood stain on the ground and places evidence marker #1 next to it.)</p>
+<p>(GRISSOM kneels down next to his kit.)</p>
+<p>(She walks several steps away in the direction of the spatter and finds another blood stain on the sidewalk and outside the crime scene taped off area. She places evidence marker #2 next to it.)</p>
+<p><strong>Sara</strong>: Hey, Grissom?</p>
+<p>(GRISSOM looks up at SARA. He stands up and walks over toward her.)</p>
+<p><strong>Sara</strong>: The directionality of this drop is facing the boulevard. I think the primary crime scene is ... this way.</p>
+<p>(GRISSOM takes a picture of the blood drop.)</p>
+<p>(Camera POV of: Blood Drop #2; Marker Note reads: S.S. #2 / 12-02-02. With<br />
+&quot;N&quot; and an up arrow. Camera info reads: 125 f15p [2].)</p>
+<p>(GRISSOM looks back at the scene. SARA takes a couple of steps onto the sidewalk and finds another blood drop. She places evidence marker #3 next to it.)</p>
+<p>(SARA stands up and looks at GRISSOM.)</p>
+<p><strong>Sara</strong>: Blood trail.</p>
+<p><strong>Grissom</strong>: Want to go for a walk?</p>
+<p>(SARA smiles.)</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS COMMUNITY (STOCK) - DAY]</p>
+<hr />
+[EXT. CRIME SCENE -- SIDEWALK -- DAY]</p>
+<p>(Scene opens on a close up of evidence marker #3. Camera moves up and shows evidence markers #4, #5, #6, #7 and #8 already on the ground. Some distance away, SARA puts evidence marker #9 down on the sidewalk. GRISSOM hands her the note card and takes a picture of the blood drop.)</p>
+<p>(Camera POV of: Blood Drop #9; Marker Note reads: S.S. #9 / 12-02-02. With<br />
+&quot;N&quot; and an up arrow. Camera info reads: 125 f16p [6].)</p>
+<p>(SARA removes the card and they continue down the sidewalk.)</p>
+<p>FAST FOWARD TO:</p>
+<hr />
+[EXT. CRIME SCENE -- SIDEWALK - DAY -- CONTINUOUS]</p>
+<p>(They find another blood drop and place evidence marker #18 next to it.)</p>
+<p>(GRISSOM takes a picture of it.)</p>
+<p>FAST FORWARD TO: </p>
+<hr />
+[EXT. CRIME SCENE -- SIDEWALK - DAY -- CONTINUOUS]</p>
+<p>(They find another blood drop and place evidence marker #31 next to it.)</p>
+<p>(SARA marks the note card and places it next to the blood drop. GRISSOM snaps a picture of it.)</p>
+<p>(It's getting later in the day. Thunder rolls overhead. They pick up their things and continue down the sidewalk.)</p>
+<p>FAST FORWARD TO:</p>
+<hr />
+[EXT. CRIME SCENE -- SIDEWALK -- DAY]</p>
+<p>(GRISSOM snaps a picture.)</p>
+<p>(Cut to: SARA puts down evidence marker #49 next to the blood drop. GRISSOM snaps a picture. SARA picks up her things and they continue down the sidewalk.)</p>
+<p>FAST FORWARD TO:</p>
+<hr />
+[EXT. CRIME SCENE -- SIDEWALK -- DAY]</p>
+<p>(SARA puts down evidence marker #54 next to the blood drop near the edge of the sidewalk. GRISSOM snaps a picture.)</p>
+<p>(SARA puts down evidence marker #55 next to the blood drop at the edge of the sidewalk.)</p>
+<p><strong>Sara</strong>: Blood leads into the grass. Trail's obscured.</p>
+<p>(GRISSOM looks around.)</p>
+<p><strong>Grissom</strong>: Okay. So, where do we pick up the trail?</p>
+<p>(SARA looks around at the playground equipment.)</p>
+<p><strong>Sara</strong>: Well, vic's in his teens ... probably wasn't on the playground. My money's on the basketball court.</p>
+<p>(GRISSOM looks at SARA and approves. They head for the basketball court.)</p>
+<p>(They reach the basketball court and start looking on the ground for evidence. GRISSOM looks around the court.)</p>
+<p><strong>Grissom</strong>: He crossed Lake Mead Boulevard at 8:15 and it gets dark at 5:00. </p>
+<p><strong>Sara</strong>: He was here after dark. </p>
+<p><strong>Grissom</strong>: And I don't see any lights.</p>
+<p>(SARA sees something.) </p>
+<p><strong>Sara</strong>: Droplets and castoff. This is our primary crime scene.</p>
+<p>(GRISSOM looks around.)</p>
+<p><strong>Grissom</strong>: So, maybe the killer tossed the knife. It's a big dump site.</p>
+<p><strong>Sara</strong>: Yeah. I'll, uh, order up some scent dogs ... get some uniforms.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY -- DAY]</p>
+<p>(ROBBINS opens the cabinet and pulls out the table with the body on it. He lifts up the sheet. JAN BRANSON looks down at her son and gasps.)</p>
+<p><strong>Jan Branson</strong>: That's him. That's my boy.</p>
+<p><strong>Robbins</strong>: I'm so sorry.</p>
+<p>(ROBBINS puts the sheet back.)</p>
+<p><strong>Jan Branson</strong>: How did something like this happen? He's only 14 years old.</p>
+<p><strong>Robbins</strong>: Mrs. Branson, I'm afraid you'll have to talk with the detectives.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(SARA is sitting at the table with an evidence bag open in front of her. WARRICK walks out of the cage.)</p>
+<p><strong>Warrick</strong>: Hey, Sara.</p>
+<p><strong>Sara</strong>: Hey.</p>
+<p><strong>Warrick</strong>: You working that case where some mob beat up an Indian cab driver for hitting a kid?</p>
+<p><strong>Sara</strong>: Cabbie didn't actually hit the kid. He was in the wrong place at the wrong time.</p>
+<p><strong>Warrick</strong>: You think it was racially motivated?</p>
+<p><strong>Sara</strong>: Yeah, I do. White mob, white kid, dark-skinned cabbie -- I don't like the math.</p>
+<p><strong>Warrick</strong>: Yeah. We got to wait for the science, don't we?</p>
+<p><strong>Sara</strong>: I'm trying.</p>
+<p><strong>Warrick</strong>: That's the job. Good luck.</p>
+<p>(WARRICK leaves.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - BRASS' OFFICE]</p>
+<p>(An OFFICER walks by BRASS' door.)</p>
+<p><strong>Joe</strong>: Captain, there's a Mrs. Branson here to see you.</p>
+<p><strong>Brass</strong>: Oh good. Send her in, Joe. Thanks.</p>
+<p>(BRASS stands up as JAN BRANSON walks into the office.)</p>
+<p><strong>Brass</strong>: Mrs. Branson, thank you for coming in ...</p>
+<p>(They shake hands.)</p>
+<p><strong>Jan Branson</strong>: Have you arrested that taxi driver?</p>
+<p><strong>Brass</strong>: He's in intensive care.</p>
+<p><strong>Jan Branson</strong>: (yelling) How did he not see my son? That's a well-lit intersection. My son is five foot six!</p>
+<p><strong>Brass</strong>: Please, Mrs. Branson ... please, sit down.</p>
+<p>(JAN BRANSON sits down.)</p>
+<p><strong>Brass</strong>: Um ...</p>
+<p>(He clears his throat.)</p>
+<p><strong>Brass</strong>: Your son was stabbed in Haskell Park and you live on Loring Avenue. My best guess is that he was on his way home when the accident occurred.</p>
+<p><strong>Jan Branson</strong>: No, I don't understand.</p>
+<p><strong>Brass</strong>: The taxi didn't kill your son, but someone did. </p>
+<p>(JAN BRANSON is shocked at this information.)</p>
+<p><strong>Brass</strong>: Did Todd have any problems that you're aware of? Did he have any problems at school?</p>
+<p><strong>Jan Branson</strong>: No, no, nothing like that. He's a ... he's a great kid. He's-he's athletic. He's popular. He's, uh, he's a good student. We-we moved here from Portland nine months ago. He fit right in.</p>
+<p><strong>Brass</strong>: Did you know he was in the park after sundown?</p>
+<p><strong>Jan Branson</strong>: No. I thought he was at a friend's for dinner. He was supposed to call me, but you know teenagers.</p>
+<p><strong>Brass</strong>: (nods) Yeah, I do ... and they don't often confide in their parents, I know.</p>
+<p><strong>Jan Branson</strong>: Uh, I've been on the run from my ex-husband. He's threatened to kill me and my boys. I just try and stay one step ahead of him.</p>
+<p><strong>Brass</strong>: When was the last time you saw him?</p>
+<p><strong>Jan Branson</strong>: In Portland. He showed up outside of Todd's school. The boys and I were on a bus that evening. You know, a couple days ago, the phone rang. I answered it. It was him. I don't know how he found us here ... but this weekend, the boys and I were going to disappear.</p>
+<p><strong>Brass</strong>: Why didn't you call the police?</p>
+<p>(She looks at BRASS and doesn't say anything.)</p>
+<p><strong>Brass</strong>: Because you knew we couldn't protect you.</p>
+<p>(She swallows and nods ever so slightly.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. PARK -- DAY]</p>
+<p>(SARA takes out the boy's clothes and lets the dogs smell them. GRISSOM checks the area with a metal detector. The metal detector beeps and hums as GRISSOM finds something next to the tree.)</p>
+<p>(SARA looks up. She approaches GRISSOM.)</p>
+<p><strong>Sara</strong>: What have you got?</p>
+<p><strong>Grissom</strong>: You got the gloves on.</p>
+<p>(SARA pushes the leaves aside and finds the weapon.)</p>
+<p><strong>Sara</strong>: Looking for a knife; uncover a gun.</p>
+<p><strong>Grissom</strong>: What is happening to our parks?</p>
+<p>(SARA looks at GRISSOM.)</p>
+<p>(Off in the distance, the dogs start barking at something in the bushes. SARA puts the gun down and goes to check on the dogs. GRISSOM calls an officer to aid him.)</p>
+<p><strong>Grissom</strong>: Officer ... </p>
+<p>(The dogs definitely found something in the bushes. SARA and GRISSOM go to check it out.)</p>
+<p><strong>Sara</strong>: Back the dogs off, please. (SARA kneels down.) Dead body found twenty yards from where our vic was knifed. You think they're related?</p>
+<p><strong>Grissom</strong>: Well they're related by geography ... but for now it's just a dead guy in the park.</p>
+<p>(GRISSOM looks a the body, SARA turns to look at GRISSOM.)</p>
+<p>FADE TO BLACK.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(SARA empties the evidence bag on the table. Inside is the victim's jacket. She tests the jacket for GSR.)</p>
+<p><strong>Sara</strong>: Hey.</p>
+<p><strong>Catherine</strong>: Hey.</p>
+<p><strong>Sara</strong>: I thought you had a couple days off?</p>
+<p><strong>Catherine</strong>: I do, but I left these on my desk. (shows SARA the tubes of wrapping paper) I'm on my way to Circus Circus with five nine-year-olds. It's Lindsey's birthday. Got to wrap a Bridal Barbie.</p>
+<p><strong>Sara</strong>: What's a Bridal Barbie?</p>
+<p><strong>Catherine</strong>: Funny. Oh, blue ... gun shot residue.</p>
+<p><strong>Sara</strong>: On our stabbing victim's jacket.</p>
+<p><strong>Catherine</strong>: So it means that he may have fired the revolver that you and Grissom found in the park?</p>
+<p>(Quick CGI POV to: A revolver being shot and the residue flying backward and adhering to the jacket. End of CGI POV. Resume to present.)</p>
+<p><strong>Sara</strong>: Yeah. Too bad GSR testing can't tie the vic to a particular gun.</p>
+<p><strong>Catherine</strong>: Right. Hmm ... but maybe Grissom can.</p>
+<p><strong>Sara</strong>: Grissom?</p>
+<p><strong>Catherine</strong>: Yeah, I just passed him in ballistics. He was meditating on your revolver. Didn't even look up.</p>
+<p><strong>Sara</strong>: (smiles) Excuse me.</p>
+<p>(SARA stands up and leaves the lab.)</p>
+<p><strong>Catherine</strong>: Mm-hmm. </p>
+<p><strong>Sara</strong>: Have fun.</p>
+<p><strong>Catherine</strong>: Thanks.</p>
+<p>(CATHERINE smiles.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - BALLISTICS LAB -- CONTINUOUS]</p>
+<p>(GRISSOM is looking through the scope when SARA walks in.) </p>
+<p><strong>Sara</strong>: You know, you could've waited for me.</p>
+<p>(GRISSOM lifts his head and pushes away from the scope.)</p>
+<p><strong>Grissom</strong>: Take a look at this.</p>
+<p>(SCOPE VIEW)</p>
+<p><strong>Sara</strong>: Looks like burnt skin.</p>
+<p><strong>Grissom</strong>: I think maybe someone palmed the cylinder gap.</p>
+<p>(Quick CGI POV of: A hand over the barrel of the revolver as its being fired. End of CGI POV. Resume to present.)</p>
+<p><strong>Sara</strong>: Todd Branson had GSR on his jacket. If we could get his DNA off this revolver we could tie him to this.</p>
+<p><strong>Grissom</strong>: Burnt skin is useless for DNA.</p>
+<p><strong>Sara</strong>: Yeah, but, what about sweat? There's a 17% chance of DNA recovery from the shooter's perspiration.</p>
+<p><strong>Grissom</strong>: 17%?</p>
+<p><strong>Sara</strong>: Yeah. New paper out of Australia. You haven't seen it? (reciting) 17% chance of DNA recovery from the grip of a gun, 67% chance from a cigarette, 32% chance from the brim of a hat. Would you like a copy?</p>
+<p><strong>Grissom</strong>: I don't need one. I have you. (beat) Swab the pistol grip; get it to DNA.</p>
+<p>(GRISSOM stands up and walks away. SARA sits there staring in the direction GRISSOM just left. She shakes her head.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY]</p>
+<p>(GRISSOM walks into the room. ROBBINS is working on the body found in the park.)</p>
+<p><strong>Grissom</strong>: Albert, did you notice if Todd Branson had any burn marks on his palms?</p>
+<p><strong>Robbins</strong>: No.</p>
+<p><strong>Grissom</strong>: What about this guy?</p>
+<p><strong>Robbins</strong>: Negative. What are you looking for?</p>
+<p><strong>Grissom</strong>: A specific injury.</p>
+<p><strong>Robbins</strong>: Well, I can't help you with burns but you'll want to check out this guy's right palm.</p>
+<p>(GRISSOM lifts up the palm and finds a knife wound.)</p>
+<p><strong>Grissom</strong>: An incised wound. Well, that's a common injury sustained by knife-wielding killers. </p>
+<p>(Quick flashback to: The hand carrying the knife stabs a person. The hand opens to show the wound. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: So assuming that this is the man who stabbed Todd Branson, what killed this guy?</p>
+<p><strong>Robbins</strong>: A bullet. It's lodged in the left ventricle. </p>
+<p>(ROBBINS peels back the outer skin to show the bullet inside.) </p>
+<p><strong>Robbins</strong>: I was contemplating my method of extraction when you arrived.</p>
+<p><strong>Grissom</strong>: You reach in and pull it out.</p>
+<p><strong>Robbins</strong>: Not if it's only a jacket fragment.</p>
+<p><strong>Grissom</strong>: Maybe a frangible bullet designed to fragment on impact?</p>
+<p><strong>Robbins</strong>: That would explain the mystery of the shattered femur. It's covered in copper dust. </p>
+<p>(GRISSOM leans over and checks out the body's leg.)</p>
+<p>(Quick CGI POV of: A bullet approaches the femur and pierces through the clothes and the skin. The bullet shatters when it hits the bone. End of CGI POV. Resume to present.)</p>
+<p><strong>Robbins</strong>: I'll remove the heart, peel back the myocardium and get you what's left of that bullet.</p>
+<p>(GRISSOM walks up to the x-rays.)</p>
+<p><strong>Grissom</strong>: Did he have a dislocated shoulder?</p>
+<p><strong>Robbins</strong>: Yeah, torn musculature, but no inflammatory response.</p>
+<p><strong>Grissom</strong>: It happened postmortem?</p>
+<p>(The door opens and DAVID PHILLIPS sticks his head inside to report to ROBBINS.)</p>
+<p><strong>David Phillips</strong>: Excuse me, I'm headed over to the hospital. Taxi driver didn't make it.</p>
+<p>(He leaves and the door closes behind him.)</p>
+<p><strong>Robbins</strong>: (sighs) Another one for my table.</p>
+<p><strong>Grissom</strong>: Emerson once said &quot;The mob is man voluntarily descending to the nature of the beast.&quot; The beast is up for murder.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. BRANSON RESIDENCE - DRIVEWAY -- DAY]</p>
+<p>(ERIC BRANSON plays basketball in his driveway. BRASS walks up to him.)</p>
+<p><strong>Brass</strong>: Hey, buddy, how's it going? </p>
+<p>(BRASS holds out his hands for the basketball. ERIC tosses it to him. BRASS catches it and holds it.)</p>
+<p><strong>Brass</strong>: I'm Detective Jim Brass from Las Vegas Police. Is your mother home?</p>
+<p><strong>Eric Branson</strong>: (shakes his head) No.</p>
+<p><strong>Brass</strong>: What's your name?</p>
+<p><strong>Eric Branson</strong>: Eric.</p>
+<p><strong>Brass</strong>: Sorry about your brother, Eric.</p>
+<p><strong>Eric Branson</strong>: Mom's out getting more boxes.</p>
+<p><strong>Brass</strong>: Yeah, she said that you were moving. Where are you going to? (he shrugs) You know, when I was a kid we moved around a lot. It's not easy. So you're going to be seeing your dad?</p>
+<p><strong>Eric Branson</strong>: My dad's dead. Died when I was two.</p>
+<p><strong>Brass</strong>: Hey, Eric, will you do me a favor? (BRASS hands the basketball back to ERIC.) When you see your mom ask her to give me a call, okay?</p>
+<p>(BRASS gives ERIC his business card.)</p>
+<p><strong>Eric Branson</strong>: Okay.</p>
+<p><strong>Brass</strong>: Take care.</p>
+<p>(BRASS leaves.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - BALLISTICS LAB -- DAY]</p>
+<p>(GRISSOM walks into the lab. BOBBY DAWSON looks through the scope.)</p>
+<p><strong>Grissom</strong>: Is that the frangible?</p>
+<p><strong>Bobby Dawson</strong>: Yep. These were originally used in indoor shooting ranges where lead buildup's a problem. Copper's less toxic than lead. Take a look.</p>
+<p>(BOBBY steps aside to let GRISSOM look.)</p>
+<p><strong>Bobby Dawson</strong>: On the left, bullet from the vic's heart. On the right, bullet test-fired from the revolver recovered at the scene.</p>
+<p><strong>Grissom</strong>: Oh, serendipity.</p>
+<p><strong>Bobby Dawson</strong>: Yep.</p>
+<p>(SARA walks in.)</p>
+<p><strong>Sara</strong>: Hey.</p>
+<p><strong>Bobby Dawson</strong>: Hey. Just made a match to your revolver.</p>
+<p><strong>Sara</strong>: Nice. I ran the serial number through NCIC. It's registered to a Jonathan Raurk of San Jose, California.</p>
+<p>(GRISSOM looks up from the scope.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - WAITING ROOM -- DAY]</p>
+<p>(BRASS and GRISSOM question JAN BRANSON.)</p>
+<p><strong>Jan Branson</strong>: John's my ex. Is he in Las Vegas?</p>
+<p><strong>Brass</strong>: Well, we, uh ... we found a gun registered to him in the park where your son was murdered but when I spoke to your son Eric he told me that his father died years ago.</p>
+<p><strong>Jan Branson</strong>: That's what I told both my boys. I told them that John was killed in a car accident. It's not easy to lie to them like that but every time I move I have to make up some crazy story. I just want them to be able to sleep at night.</p>
+<p><strong>Grissom</strong>: Ms. Branson we also found a dead body in the park -- a white male in his mid-30s.</p>
+<p><strong>Jan Branson</strong>: You think it's John?</p>
+<p><strong>Grissom</strong>: We have no ID, but we have a photograph.</p>
+<p>(GRISSOM hands the photograph to JAN BRANSON. She looks at it and recognizes it instantly.)</p>
+<p><strong>Jan Branson</strong>: No ... no, this ... this isn't John. This isn't my ex. This is Stewart. It's Stewart Bradley. He's my boyfriend.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. PARK -- EVENING]</p>
+<p>(SARA walks around the park looking for evidence. She kneels down and finds some groves in the dirt. She follows the groves to the bushes.)</p>
+<p>(She puts her flashlight down and takes some pictures. She follows the groves and takes more pictures. She looks at the bushes.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(Back at the lab, SARA pours over a large topview map of the park and surrounding site spread out on the table.)</p>
+<p>(GRISSOM walks in carrying a file. He leans over the map next to SARA.)</p>
+<p><strong>Grissom</strong>: Where have you been?</p>
+<p><strong>Sara</strong>: I went back to the park. I kept thinking there must be some physical evidence connecting the stabbing to the shooting.</p>
+<p>(Camera close up of the park map that shows the places where they found the Cast Off, The Body, The Gun and The Drag Marks.)</p>
+<p><strong>Grissom</strong>: Drag marks?</p>
+<p><strong>Sara</strong>: Leading from the basketball court to Stewart Bradley's body. We know Todd was bleeding but there were no blood drops around the drag marks.</p>
+<p><strong>Grissom</strong>: So you're thinking someone else was there? Now, the revolver was registered to the boy's biological father but they haven't seen each other in ten years.</p>
+<p><strong>Sara</strong>: Assuming Todd fired the gun, how did he get ahold of it?</p>
+<p><strong>Grissom</strong>: Well, maybe dad gave it to him behind mom's back.</p>
+<p><strong>Sara</strong>: Or ... maybe Todd wasn't the shooter.</p>
+<p><strong>Grissom</strong>: True. Presence of GSR only places Todd in the vicinity of the gunfire.</p>
+<p><strong>Sara</strong>: And since there were no burn marks on Todd's palms, evidence is suggesting someone else fired that gun.</p>
+<p><strong>Grissom</strong>: Which brings us back to dad.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM]</p>
+<p>(BRASS questions the Ex, JONATHAN RAURK.)</p>
+<p><strong>Brass</strong>: You know something, John, you don't scare me. According to your ex-wife, you're some kind of monster -- threatening her life, setting her car on fire in Boston breaking and entering in Chicago, showing up at your kid's school in Portland ... I don't know, I mean, I thought maybe you'd be like the guy in &quot;Sleeping with the Enemy&quot;. You're more like Gumby, aren't you?</p>
+<p><strong>Jonathon Raurk</strong>: Look, if this is about my ex ... cop pulled me over outside Moapa. Jane lives in Vegas. I didn't violate any damn court order, all right?</p>
+<p><strong>Brass</strong>: You know where she lives.</p>
+<p><strong>Jonathon Raurk</strong>: Is that a crime?</p>
+<p><strong>Brass</strong>: Yesterday, your son Todd was murdered and that is a crime.</p>
+<p>(JOHN stops at the news. He's dazed for a moment.)</p>
+<p><strong>Brass</strong>: Hey! John, baby I'm not talking about the weather here, man. I'm talking about your son.</p>
+<p><strong>Jonathon Raurk</strong>: I haven't seen that kid since he was in his diapers. </p>
+<p>[OBSERVATION ROOM] </p>
+<p><strong>Jonathon Raurk</strong>: Geez, I didn't kill him, if that's where you're going to.</p>
+<p><strong>Brass</strong>: Hey, what about Stewart Bradley? You know? Yesterday, he was murdered, too. He was shot with your gun.</p>
+<p>[INTERVIEW ROOM]</p>
+<p><strong>Jonathon Raurk</strong>: Which one?</p>
+<p><strong>Brass</strong>: Revolver. Smith &amp; Wesson.</p>
+<p><strong>Jonathon Raurk</strong>: No, I don't have a Smith &amp; Wesson.</p>
+<p><strong>Brass</strong>: It's registered to you, John. Has your name on it.</p>
+<p><strong>Jonathon Raurk</strong>: That got stolen.</p>
+<p><strong>Brass</strong>: Oh, you file a police report? But I know, you're busy. You forgot. That's okay. You know what I think happened? Here's what I think. You called up Todd, you said, &quot;Hey, Todd. Why don't you meet me down at Haskell Park? You know what? Why don't you bring mom's new boyfriend along?&quot;</p>
+<p><strong>Jonathon Raurk</strong>: No, no. Come on, man, whoa, whoa, hey. You know what? Last night, I was at Taos, New Mexico, okay? I didn't cross over until ... it was the afternoon in Nevada. Check it out. Adobe Inn. Watched pay-per-view and I had a pizza, okay?</p>
+<p>(JOHN tosses the receipt at BRASS. BRASS looks at it and sighs.)</p>
+<p>(GRISSOM knocks on the interview room door and walks inside.)</p>
+<p><strong>Grissom</strong>: May I see your hands, please?</p>
+<p><strong>Brass</strong>: You better do what he says. He's in crime lab.</p>
+<p>(JOHN holds out his hands. GRISSOM looks at them. He turns to BRASS.)</p>
+<p><strong>Grissom</strong>: Can you hold him?</p>
+<p><strong>Brass</strong>: He's got some unpaid speeding tickets. There's warrants that have been issued. Is three days good enough?</p>
+<p><strong>Grissom</strong>: For now.</p>
+<p>(GRISSOM turns to leave the room.)</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<hr />
+[INT. CSI - HALLWAY/LOUNGE]</p>
+<p>(GRISSOM walks through the hallway. He walks straight into the lounge where WARRICK and SARA sit.)</p>
+<p><strong>Grissom</strong>: (to WARRICK) What do you weigh?</p>
+<p><strong>Warrick</strong>: Uh, that's between me and my trainer.</p>
+<p><strong>Grissom</strong>: Do I have to get a scale?</p>
+<p><strong>Warrick</strong>: A buck 95, give or take a doughnut.</p>
+<p>(GRISSOM turns and looks at SARA. SARA responds without lifting her head from her file.)</p>
+<p><strong>Sara</strong>: Don't even ask. I'm not telling you.</p>
+<p><strong>Grissom</strong>: Warrick, would you lie down on the floor?</p>
+<p><strong>Warrick</strong>: I don't get paid enough to play dead.</p>
+<p><strong>Grissom</strong>: Please?</p>
+<p>(WARRICK sighs. He gets off his chair and lies down on the floor.)</p>
+<p><strong>Grissom</strong>: Sara, grab Warrick's right arm. See if you can drag him across the room.</p>
+<p><strong>Sara</strong>: This does have something to do with the case, right?</p>
+<p><strong>Grissom</strong>: You don't trust me?</p>
+<p>(SARA looks up at GRISSOM and sighs. She puts her file aside, stands and takes ahold of WARRICK'S arm. She starts dragging him across the lounge floor. GRISSOM watches, dissatisfied with the results.)</p>
+<p><strong>Warrick</strong>: (murmurs) You're such a drag.</p>
+<p>(SARA laughs.)</p>
+<p>(GRISSOM looks around and notices a couple of young women standing out in the hallway.)</p>
+<p><strong>Grissom</strong>: (to WARRICK) Stay there a minute.</p>
+<p>(GRISSOM walks outside to the women. He approaches the smaller woman.)</p>
+<p><strong>Grissom</strong>: Excuse me. Hi. (she turns around) Judy, right? (she nods) Judy, would you like to be part of a little experiment?</p>
+<p><strong>Judy</strong>: (warily) I-I'm a secretary. Besides, I heard what you did to Greg's feet.</p>
+<p><strong>Grissom</strong>: You'll keep your shoes on, I promise.</p>
+<p>(He takes her hand and leads her back into the Lounge.)</p>
+<p><strong>Warrick</strong>: Can I get up?</p>
+<p><strong>Grissom</strong>: No. Spin around. Judy, would you take Warrick by the right arm and try and drag him across the room?</p>
+<p><strong>Warrick</strong>: Hi, Judy.</p>
+<p><strong>Judy</strong>: Hi.</p>
+<p>(JUDY takes WARRICK'S arm and tries to move him. She jerks hard on his arm to get the leverage to pull him a few inches. WARRICK grunts at the treatment.)<br />
+<strong>Warrick</strong>: Hey, I like it gentle, okay?</p>
+<p>(JULY continues to try to move WARRICK. He grunts some more with her effort.)</p>
+<p><strong>Grissom</strong>: Thank you, Judy. You've been a big help.</p>
+<p><strong>Warrick</strong>: Thanks.</p>
+<p><strong>Grissom</strong>: (to JUDY) You can go back to the water cooler.</p>
+<p>(JUDY leaves the lounge. WARRICK stands up.)</p>
+<p><strong>Warrick</strong>: You want to tell me what's going on here?</p>
+<p><strong>Grissom</strong>: Stewart Bradley had a dislocated shoulder postmortem. He's about the same weight as you. How does your shoulder feel?</p>
+<p><strong>Warrick</strong>: You saw her dragging me around. You know, I'm glad I can help. I, uh, I'm late for the chiropractor's. I'll send you the bill.</p>
+<p>(WARRICK rushes out of the room.)</p>
+<p><strong>Sara</strong>: I get it. I'm bigger than Judy. In order to get momentum, she had to start and stop. Which could explain Stewart Bradley's postmortem dislocated shoulder.</p>
+<p><strong>Grissom</strong>: Especially if he was dragged by somebody with limited upper body strength.</p>
+<p><strong>Sara</strong>: Where does that get us?</p>
+<p><strong>Grissom</strong>: Well, maybe Jan Branson. She's about Judy's size.</p>
+<p><strong>Sara</strong>: Why would Jan Branson shoot her boyfriend?</p>
+<p><strong>Grissom</strong>: He stabbed her son.</p>
+<p><strong>Sara</strong>: Motive?</p>
+<p><strong>Grissom</strong>: (thinks) I don't know. But mothers protect their children, don't they?</p>
+<p><strong>Sara</strong>: Okay ... okay, so ... she sends Todd home, not knowing the severity of his wound. She buries her boyfriend's body. She ditches the knife, which we still haven't found. She hides the revolver ...</p>
+<p><strong>Grissom</strong>: ... so perhaps the evidence is in Mrs. Branson's hands.</p>
+<p>(SARA shrugs.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. BRANSON RESIDENCE - DRIVEWAY -- DAY]</p>
+<p>(JAN BRANSON carries a bag to her already filled car. BRASS and GRISSOM walk up the sidewalk to her driveway.)</p>
+<p><strong>Brass</strong>: Mrs. Branson, you got a minute?</p>
+<p><strong>Jan Branson</strong>: Uh, Eric and I are leaving town.</p>
+<p><strong>Brass</strong>: Well, your Ex has been picked up on an unrelated matter. Even if he makes bail, you still got a day or two head start.</p>
+<p><strong>Jan Branson</strong>: Good.</p>
+<p><strong>Grissom</strong>: Ms. Branson, may I see your hands?</p>
+<p><strong>Jan Branson</strong>: Excuse me?</p>
+<p><strong>Grissom</strong>: Could be important. Palms up, please.</p>
+<p>(JAN BRANSON holds out her palms. GRISSOM looks at her palms and doesn't see anything. GRISSOM looks over at BRASS. In the sideview mirror, BRASS sees ERIC BRANSON watching them. BRASS looks back at GRISSOM.) </p>
+<p>(GRISSOM turns to talk with ERIC BRANSON.</p>
+<p><strong>Grissom</strong>: Hi, pal.</p>
+<p><strong>Eric Branson</strong>: Hi.</p>
+<p><strong>Brass</strong>: Hey, Eric. This is Mr. Grissom. We work together.</p>
+<p><strong>Grissom</strong>: May I see your hands, please?</p>
+<p>(ERIC looks at his mom.)</p>
+<p><strong>Jan Branson</strong>: We have to get going.</p>
+<p><strong>Brass</strong>: As soon as Eric shows Mr. Grissom his hands you're on your way.</p>
+<p><strong>Grissom</strong>: Palms up.</p>
+<p>(ERIC holds out his palms. On his left hand there's a burn mark.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY]</p>
+<p>(BRASS and GRISSOM question ERIC. The Child Advocate, MS. KARPELL as well as JAN BRANSON is also there.)</p>
+<p><strong>Grissom</strong>: Eric ... I need to know how you burned your hand. </p>
+<p><strong>Brass</strong>: Look at Mr. Grissom, Eric. Not your mother, okay? Ms. Karpell.</p>
+<p><strong>Ms. Karpell</strong>: Eric, it's okay to answer the question.</p>
+<p><strong>Eric Branson</strong>: I burned it on an iron.</p>
+<p><strong>Brass</strong>: I think something a lot more dangerous than that burned your hand.</p>
+<p>(GRISSOM takes out a photograph from the file in front of him. He shows it to ERIC.)</p>
+<p><strong>Grissom</strong>: We recovered a gun ... in the park. Your burn indicates that your hand was over this gap when the gun was fired.</p>
+<p>(SARA enters the room.)</p>
+<p>(Quick CGI POV of: The revolver being fired and a hand covering the barrel of the gun. A person gasps in pain. End of CGI POV. Resume to present.)</p>
+<p><strong>Eric Branson</strong>: (swallows) I followed Todd to the park.</p>
+<p>(Quick flashback to: TODD BRANSON meeting with STEWART BRADLEY in the park.)</p>
+<p><strong>Stewart Bradley</strong>: Todd, I got your e-mail. What's up?</p>
+<p><strong>Todd Branson</strong>: We're not moving again. I want you to tell mom you're passing on that promotion.</p>
+<p><strong>Stewart Bradley</strong>: You should discuss this with your mother. </p>
+<p><strong>Todd Branson</strong>: She'll do whatever you say.</p>
+<p><strong>Stewart Bradley</strong>: You don't understand.</p>
+<p><strong>Todd Branson</strong>: I am not leaving my friends 'cause of you!</p>
+<p><strong>Stewart Bradley</strong>: Todd, this has nothing to do with me.</p>
+<p>(TODD pulls out a gun and points it at STEWART BRADLEY. ERIC runs out and pushes the gun away. His hand covers the gun when it fires.)</p>
+<p><strong>Eric Branson</strong>: Todd, no!</p>
+<p>(The gun fires and hits STEWART BRADLEY in the knee. STEWART goes down on one knee and takes out his knife. He stabs TODD in the abdomen and the gun fires a second time.)</p>
+<p>(STEWART BRADLEY falls to the ground dead. TODD gets up to his feet, clutching his injury.)</p>
+<p><strong>Todd Branson</strong>: Gotta get home.</p>
+<p>(He drops the gun and turns to leave.)</p>
+<p><strong>Todd Branson</strong>: You gotta hide the body.</p>
+<p>(ERIC looks down at the body and starts to drag the body into the bushes.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Eric Branson</strong>: I was just looking out for my brother.</p>
+<p><strong>Sara</strong>: I swabbed the pistol grip of the revolver. The DNA from the suspect's perspiration isn't a match to Todd's. But it is male. With eight markers in common and familial relationship.</p>
+<p><strong>Grissom</strong>: We found gunshot residue on Todd's jacket. We assumed that Todd fired the gun. But I think maybe he was standing next to you when you fired the gun. You didn't go to the park to stop Todd, did you? He went to the park to stop you.</p>
+<p>(Quick flashback to: STEWART BRADLEY walks up to ERIC in the park.)</p>
+<p><strong>Stewart Bradley</strong>: Eric, what's up?</p>
+<p>(ERIC takes out the gun and points it at STEWART. TODD shows up and tries to stop ERIC.)</p>
+<p><strong>Todd Branson</strong>: Whoa! Eric, Eric! Eric, don't be stupid.</p>
+<p><strong>Eric Branson</strong>: I'm not moving again! Not 'cause of him!</p>
+<p>(TODD tries to take the gun away from ERIC.)</p>
+<p><strong>Eric Branson</strong>: Todd! Let go!</p>
+<p>(The gun fires and hits STEWART BRADLEY in the knee. STEWART takes out a knife and stabs TODD.)</p>
+<p>(ERIC points the gun at STEWART and fires a second time. This time, he burns his hand.)</p>
+<p><strong>Eric Branson</strong>: Go home!<br />
+(End of flashback. Return to present.)</p>
+<p><strong>Brass</strong>: Where'd you get the revolver, Eric?</p>
+<p><strong>Jan Branson</strong>: From me.</p>
+<p>(ERIC looks at his mom.)</p>
+<p><strong>Brass</strong>: Ms. Karpell ...</p>
+<p><strong>Ms. Karpell</strong>: Eric, why don't we step out in the hall for a few minutes.</p>
+<p>(MS. KARPELL and ERIC leave the room.)</p>
+<p><strong>Brass</strong>: So, the gun was in your possession and you didn't say anything.</p>
+<p><strong>Jan Branson</strong>: I, um ... I hid it in a lock box. And, uh, when I got that call from John a couple of days ago I took it out and I put in my nightstand. I didn't even know it was missing until this morning. And then, I thought that John must've gotten in the house and taken it. I was so sure that he was the one who killed Stewart. I've spent the last ten years looking over my shoulder every day.</p>
+<p><strong>Brass</strong>: Your boyfriend was found carrying a knife the night he died. I spoke to some of his friends and associates, and no one ever remembers him carrying a knife.</p>
+<p><strong>Sara</strong>: Ms. Branson? You warned your boyfriend about your ex-husband, didn't you?</p>
+<p><strong>Jan Branson</strong>: He asked me what was wrong and I shouldn't have said anything. He panicked. He overreacted. He started carrying a knife. What's going to happen to Eric?</p>
+<p><strong>Brass</strong>: He'll be remanded to a juvenile detention center, awaiting trial.</p>
+<p><strong>Jan Branson</strong>: And then?</p>
+<p>(In the hallway, ERIC is being escorted away by an OFFICER and MS. KARPELL.)</p>
+<p><strong>Brass</strong>: (V.O.) If he's convicted of a homicide he'll be sent to a state custodial facility until he's 21.</p>
+<p>(Camera holds on JAN BRANSON. She puts her head down in her hands in the empty interview room.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - DNA LAB -- DAY]</p>
+<p>(GRISSOM walks into the DNA lab where GREG waits.)</p>
+<p><strong>Grissom</strong>: Where we at, Greg?</p>
+<p><strong>Greg</strong>: I paged you, like, ten times.</p>
+<p><strong>Grissom</strong>: I was busy.</p>
+<p><strong>Greg</strong>: Well, so was I. First, I processed Mr. Khandelwahl's clothing. Then I compared the DNA I lifted from said clothing to the DNA from the dirty dozen.</p>
+<p>(GREG indicates the board covered with a sheet.)</p>
+<p><strong>Grissom</strong>: All I see is a sheet.</p>
+<p><strong>Greg</strong>: But what I do is art. And now, I'm ready to unveil it. Welcome to the new and improved match game.</p>
+<p>(GREG removes the sheet to show GRISSOM a board with the photos of the mob members and RAJEEB'S clothes. GREG matched the DNA found on the clothes to the mob members they match.)</p>
+<p><strong>Greg</strong>: Now, Graham Cooper grabbed Rajeeb's collar...</p>
+<p>(Quick flashback to: RAJEEB is sitting in the cab when GRAHAM COOPER grabs him by the collar and drags him out of the cab. End of flashback. Resume to present.)</p>
+<p><strong>Greg</strong>: Claude Allen and Barry Lawrence used their fists ...</p>
+<p>(Quick flashback to: The men punching RAJEEB out on the street outside the taxi. End of flashback. Resume to present.)</p>
+<p><strong>Greg</strong>: Joey Gillman, Bill Kendal and Rick Midgen got into it, too.</p>
+<p><strong>Grissom</strong>: Very nice presentation, Greg. What about the others? They all participated. They even bragged about it.</p>
+<p><strong>Greg</strong>: Well, only six of the twelve left behind their epithelials when their skin made contact with the vic's clothing. I've got no physical evidence to tie the others to the crime.</p>
+<p>(GRISSOM looks at the board and shakes his head.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[EXT. GAS STATION -- NIGHT]</p>
+<p>(GRISSOM stands alone at the gas station and looks over at the corner where everything happened.)</p>
+<p>(In a haze, he visualizes as TODD BRANSON stumbles across the sidewalk, clutching his injury.)</p>
+<p>(GRISSOM turns his head and visualizes the taxi cab as it travels down the road.)</p>
+<p>(GRISSOM turns around and visualizes the gang of bike riders gathered and talking.)</p>
+<p>(GRISSOM turns back to the corner and visualizes as TODD BRANSON stumbles and falls into the roadway.)</p>
+<p><strong>Woman</strong>: Stop!<br />
+(The taxi cab's tires screech as it runs over the boy.)</p>
+<p>(GRISSOM turns around and visualizes the gang of bike riders lift their heads when they hear the accident.)</p>
+<p>(RAJEEB stops the car and gets out to look at the damage.)</p>
+<p>(The BIKE RIDERS perk up and take note of RAJEEB'S behavior. They watch as he rushes back into the cab and close the door. Thinking that he's fleeing, they rush to stop him.)</p>
+<p><strong>Graham Cooper</strong>: Hey!</p>
+<p>(GRISSOM turns and visualizes the mob as they drag RAJEEB out of the cab and proceed to beat him up there on the street.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - BRASS' OFFICE -- NIGHT]</p>
+<p><strong>Grissom</strong>: The mob mentality ... relieves individuals from having to distinguish between right and wrong. </p>
+<p><strong>Brass</strong>: Anonymity shields them from prosecution, though.</p>
+<p><strong>Grissom</strong>: Yeah, six of them, to be exact. </p>
+<p><strong>Brass</strong>: Hmmm ...</p>
+<p><strong>Grissom</strong>: Unfortunately, physical evidence is limited by human action.</p>
+<p><strong>Brass</strong>: Well, nothing's absolute, Gil ... even forensics.</p>
+<p><strong>Grissom</strong>: Yeah, well ... this is as far as we can take it. It's up to you guys.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERROGATION ROOM - DAY]</p>
+<p>(BRASS questions GRAHAM COOPER with his LAWYER next to him. On the table are pictures of the twelve people who were there the night of the beating.)</p>
+<p><strong>Brass</strong>: The physical evidence confirms that you're the &quot;hero&quot; who pulled the driver out of the cab.</p>
+<p><strong>Graham Cooper</strong>: I'd do it again, too.</p>
+<p><strong>Cooper's Lawyer</strong>: Mr. Cooper, why don't we just hear what Captain Brass has to say. </p>
+<p><strong>Brass</strong>: You're looking at first degree murder.</p>
+<p><strong>Graham Cooper</strong>: What?!</p>
+<p><strong>Brass</strong>: Mr. Khandelwhal didn't make it.</p>
+<p>(BRASS sighs. GRAHAM COOPER is stunned silent.)</p>
+<p><strong>Brass</strong>: ... and, for the record, he didn't hit that boy. He wasn't trying to flee the scene. He was reaching for his radio trying to call for help. You know who the real hero of this is? Rajeeb Khandelwhal. The taxi driver. So ... what does that make you?</p>
+<p><strong>Cooper's Lawyer</strong>: D.A. willing to deal?</p>
+<p>(BRASS sighs heavily and takes a seat.)</p>
+<p>[OBSERVATION ROOM]</p>
+<p><strong>Brass</strong>: (over speaker): We want your buddies. I mean, either you talk or they'll talk. I mean, it doesn't matter. And the clock is ticking, so ...</p>
+<p>(GRISSOM watches and nods his head.)</p>
+<p><strong>Lyric</strong>: everything ... everything in its right place... </p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-
-
-
-Woman: The last time I was out here, this was all desert.
-
-Rajeeb Khandelwahl : One day, I'm looking at cactus; the next day a mini mall. What brings you all the way out here?
-Woman: Work. 
-
-Woman: Stop!
-
-Rajeeb Khandelwahl : Miss, you okay? Stay here.
-
-Graham Cooper: Hey!
-
-
-Bike Rider: Where do you think you're going? Bike Rider: Get out of there!
-
-
-
-
-
-Brass: Where's your posse?
-Grissom: I have no idea. I was actually on a date.
-Brass: Hmm?
-
-Grissom: My god, what am I looking at?
-Brass: Taxi hit a kid crossing the boulevard. The crowd over there saw the driver Rajeeb Khandelwahl, trying to get away. So, they pull him out of the front seat of the cab and they beat him up. I mean, they ... they beat him up bad. He's on his way to Desert Palm.
-Grissom: His insides are on the outside. Did you move this body, David?
-David Phillips: No, sir. 
-Brass: Auto detail hoisted the cab off the kid.
-David Phillips: Yeah, but supervised. No one's touched him.
-Grissom: Have you ever seen anything like this?
-Brass: What do you mean?
-Grissom: Well, how many hit-and-runs have you pulled?
-Brass: Too many to count.
-Grissom: How many times have you seen the victim's viscera exposed?
-Brass:  First time.
-Grissom: There's a first time for everything.
-
-
-
-
-
-
-
-
-David Phillips: My high school science teacher used to say that your small and large intestines could stretch across the Brooklyn Bridge. 
-Grissom: But in reality? 
-David Phillips: Only 25 feet combined.
-Grissom: Fiction is often more compelling.BRASS: We got the eyewitnesses lined up, ready to go.
-Grissom: Testimonials, Jim? I don't consider that evidence.
-Brass: But easier to clean up.
-
-Grissom: Keep them all together, David.
-David Phillips: I'll tuck the viscera in the bio-hazard bag.
-Brass: Good plan.
-
-
-
-
-
-Woman: I picked up the taxi at McCarran. I'm in town on business staying with my cousin who's a few blocks away.
-Brass: Did you see the pedestrian?WOMAN: Crossing the street. I don't think he saw the cab.
-Brass: Did the cabbie see him?
-Woman: No, he was looking at me.
-
-Rajeeb Khandelwahl : What brings you all the way out here?
-
-Woman: I think I yelled, &quot;stop,&quot; but it was too late.
-Brass: And that's when Rajeeb, the taxi driver tried to leave, to drive away?
-Woman: No, no, no, no. He got out of the cab to see what happened and ... then he freaked and he got back in and he reached for his radio. That's when the guys attacked him.
-Brass: His radio? He wasn't fleeing the scene?
-Woman: No, he was calling for help.
-
-Brass: Oh. Okay, what can you tell me about the men who attacked him?
-Woman: You always think you'll be a great witness but ...
-
-Woman: There were so many of them and it happened so fast.
-
-Woman: He was just begging for his life. 
- 
-Woman: I couldn't see their faces but I know it was them; all of them. They were the only ones around.
-
-
-
-
-Joey Gillman: We're heroes, man.
-Barry Lawrence: They have no respect for our laws.
-Brass: Who?
-Graham Cooper: The damn cabbie!
-Brass: Why, because he's not from Vegas?
-Claude Allen: No, because he's not from here, this country.
-Brass: Oh, and you know that because you saw his birth certificate?
-Graham Cooper: We didn't exactly need to see it.
-Brass: Tell me what you did see.
-Graham Cooper: He hit the boy. 
-
-Joey Gillman: Then he hits his brakes, and I figured he's going to stop and do the right thing. 
-Claude Allen: Instead, he jumps back into his cab.
-Barry Lawrence: Hey! If it weren't for us, he'd have gotten away.
-Graham Cooper: Citizen's arrest, yo!
-Bill Kendal: People are going to want our autograph.
-Grissom: I don't want your autograph, but I would like a photo and a bit of your DNA.
-Brass: So line up.
-Bike Rider : What?!
-Brass: Look, the guy that you &quot;arrested&quot; is in critical condition. That makes you all suspects in a battery ...
-Graham Cooper: Figures. We do something good, you guys try to turn around and pin it on us.
-Joey Gillman: Yeah, if we were wearing badges you'd be throwing us a ticker tape parade.
-Brass: If you're wearing badges, I'm playing left-wing in the NHL.
-Claude Allen: I know my rights. I don't have to give you squat.BRASS: Oh yeah, you're the lawyer. Let me tell you how this goes down if you don't cooperate. You all get a free ride in the cruiser down to the station where I hold you there until the warrants clear. So what's it going to be? It's your choice. Line up ... single file.
-
-Grissom: Say, &quot;cheese.&quot;
-
-Grissom: Open up, please. Thank you.
-
-
-
-
-
-Nurse: He's critical. Ruptured spleen, collapsed lung, fractured ulna, possible intercranial bleeding. Doctors are still waiting on the labs.
-Grissom: Do you have his clothes?
-Nurse: His personals are bagged -- top shelf. They're ripped up pretty bad.
-Grissom: That's good. That'll help.
-Nurse: He said he killed a boy -- ran over him?
-Grissom: Did he say anything else?
-Nurse: No, that was it.
-
-
-
-
-Grissom: Gene Rayburn.
-Greg: What?
-Grissom: Point of reference.
-Greg: Uh ... Match Game ... Nipsey Russell, Fannie Flagg game show network. Look, I don't have time for your humor. Ecklie's got a multiple, Warrick tells me his home invasion is my top priority and I'm still backed up on Catherine's no-suspect rape. One servant, many masters. You know what I'm saying?
-Grissom: Greg, this is your DNA lab. You are the master. We serve you.
-Greg: Well, your stuff just moved to the top of the pile.
-
-Greg: What do you got?
-Grissom: Individual DNA from a mob attack on a cabbie ... and the cabbie's clothes.
-
-Greg: &quot;Get ready to match the stars.&quot;
-
-
-
-
-Grissom: Okay, Doc, tell me something I don't know.
-Robbins: Okay. In fourth grade, I dropped out of karate class because a kid half my size made me cry.
-
-Grissom: About the body.
-Robbins: No pedestrian fracture. Almost without exception, when a pedestrian's hit by a car, there's certain expected wounds in his lower extremities most significantly the pedestrian fracture.
-
-Robbins: Tip of the triangle always points in the direction the car was moving. His tibia's intact.
-
-Robbins:  In fact, there's no bruising to the lower extremities. 
-
-Grissom: So, no fractures, no bruising. Cause of death?
-
-Robbins: Chest was crushed. Multiple rib fractures and hence the white bucket you and David filled with his intestines. They literally popped out.
-Grissom: So he wasn't hit by the taxi; he was run over?
-
-Robbins: Well, he would've died anyway.  He was stabbed. Clean incised wound to the abdomen. Five inches deep.
-
-Grissom: So how much time elapsed between when he was stabbed and when he encountered the taxi?
-Robbins: I can't give you an exact time frame except to say it wasn't immediate ... and before you ask, we don't have an ID, but missing persons called. A woman called and said her son didn't come home last night. She's on her way in.
-
-
-
-
-
-Sara: You know you pulled me away from a forensic anthropology seminar, right? It's required. It's part of the continuing education program.
-Grissom: Well, I'm sorry, but everyone seems to have something to do today. I have a teenager who was run over by a taxi. He wasn't hit by it; that's not what killed him. He was stabbed, fatally. For now, I have no ID, no suspects and no primary crime scene. I need you.
-
-Sara: How can I help?
-
-
-
-
-Sara: Hey, Grissom?
-
-Sara: The directionality of this drop is facing the boulevard. I think the primary crime scene is ... this way.
-
-(Camera POV of: Blood Drop #2; Marker Note reads: S.S. #2 / 12-02-02. With
-&quot;N&quot; and an up arrow. Camera info reads: 125 f15p .)
-
-
-Sara: Blood trail.
-Grissom: Want to go for a walk?
-
-
-
-
-
-
-
-
-
-(Camera POV of: Blood Drop #9; Marker Note reads: S.S. #9 / 12-02-02. With
-&quot;N&quot; and an up arrow. Camera info reads: 125 f16p .)
-
-FAST FOWARD TO:
-
-
-
-
-FAST FORWARD TO: 
-
-
-
-
-
-FAST FORWARD TO:
-
-
-
-
-FAST FORWARD TO:
-
-
-
-
-Sara: Blood leads into the grass. Trail's obscured.
-
-Grissom: Okay. So, where do we pick up the trail?
-
-Sara: Well, vic's in his teens ... probably wasn't on the playground. My money's on the basketball court.
-
-
-Grissom: He crossed Lake Mead Boulevard at 8:15 and it gets dark at 5:00. 
-Sara: He was here after dark. 
-Grissom: And I don't see any lights.
- 
-Sara: Droplets and castoff. This is our primary crime scene.
-
-Grissom: So, maybe the killer tossed the knife. It's a big dump site.
-Sara: Yeah. I'll, uh, order up some scent dogs ... get some uniforms.
-
-
-
-
-Jan Branson: That's him. That's my boy.
-Robbins: I'm so sorry.
-
-Jan Branson: How did something like this happen? He's only 14 years old.
-Robbins: Mrs. Branson, I'm afraid you'll have to talk with the detectives.
-
-
-
-
-Warrick: Hey, Sara.
-Sara: Hey.
-Warrick: You working that case where some mob beat up an Indian cab driver for hitting a kid?
-Sara: Cabbie didn't actually hit the kid. He was in the wrong place at the wrong time.
-Warrick: You think it was racially motivated?
-Sara: Yeah, I do. White mob, white kid, dark-skinned cabbie -- I don't like the math.
-Warrick: Yeah. We got to wait for the science, don't we?
-Sara: I'm trying.
-Warrick: That's the job. Good luck.
-
-
-
-
-
-Joe: Captain, there's a Mrs. Branson here to see you.
-Brass: Oh good. Send her in, Joe. Thanks.
-
-Brass: Mrs. Branson, thank you for coming in ...
-
-Jan Branson: Have you arrested that taxi driver?
-Brass: He's in intensive care.
-Jan Branson:  How did he not see my son? That's a well-lit intersection. My son is five foot six!
-Brass: Please, Mrs. Branson ... please, sit down.
-
-Brass: Um ...
-
-Brass: Your son was stabbed in Haskell Park and you live on Loring Avenue. My best guess is that he was on his way home when the accident occurred.
-Jan Branson: No, I don't understand.
-Brass: The taxi didn't kill your son, but someone did. 
-
-Brass: Did Todd have any problems that you're aware of? Did he have any problems at school?
-Jan Branson: No, no, nothing like that. He's a ... he's a great kid. He's-he's athletic. He's popular. He's, uh, he's a good student. We-we moved here from Portland nine months ago. He fit right in.
-Brass: Did you know he was in the park after sundown?
-Jan Branson: No. I thought he was at a friend's for dinner. He was supposed to call me, but you know teenagers.
-Brass:  Yeah, I do ... and they don't often confide in their parents, I know.
-Jan Branson: Uh, I've been on the run from my ex-husband. He's threatened to kill me and my boys. I just try and stay one step ahead of him.
-Brass: When was the last time you saw him?
-Jan Branson: In Portland. He showed up outside of Todd's school. The boys and I were on a bus that evening. You know, a couple days ago, the phone rang. I answered it. It was him. I don't know how he found us here ... but this weekend, the boys and I were going to disappear.
-Brass: Why didn't you call the police?
-
-Brass: Because you knew we couldn't protect you.
-
-
-
-
-
-
-Sara: What have you got?
-Grissom: You got the gloves on.
-
-Sara: Looking for a knife; uncover a gun.
-Grissom: What is happening to our parks?
-
-
-Grissom: Officer ... 
-
-Sara: Back the dogs off, please.  Dead body found twenty yards from where our vic was knifed. You think they're related?
-Grissom: Well they're related by geography ... but for now it's just a dead guy in the park.
-
-
-
-
-;
-
-
-
-
-
-
-Sara: Hey.
-Catherine: Hey.
-Sara: I thought you had a couple days off?
-Catherine: I do, but I left these on my desk.  I'm on my way to Circus Circus with five nine-year-olds. It's Lindsey's birthday. Got to wrap a Bridal Barbie.
-Sara: What's a Bridal Barbie?
-Catherine: Funny. Oh, blue ... gun shot residue.
-Sara: On our stabbing victim's jacket.
-Catherine: So it means that he may have fired the revolver that you and Grissom found in the park?
-
-Sara: Yeah. Too bad GSR testing can't tie the vic to a particular gun.
-Catherine: Right. Hmm ... but maybe Grissom can.
-Sara: Grissom?
-Catherine: Yeah, I just passed him in ballistics. He was meditating on your revolver. Didn't even look up.
-Sara:  Excuse me.
-
-Catherine: Mm-hmm. 
-Sara: Have fun.
-Catherine: Thanks.
-
-
-
-
- 
-Sara: You know, you could've waited for me.
-
-Grissom: Take a look at this.
-
-Sara: Looks like burnt skin.
-Grissom: I think maybe someone palmed the cylinder gap.
-
-Sara: Todd Branson had GSR on his jacket. If we could get his DNA off this revolver we could tie him to this.
-Grissom: Burnt skin is useless for DNA.
-Sara: Yeah, but, what about sweat? There's a 17% chance of DNA recovery from the shooter's perspiration.
-Grissom: 17%?
-Sara: Yeah. New paper out of Australia. You haven't seen it?  17% chance of DNA recovery from the grip of a gun, 67% chance from a cigarette, 32% chance from the brim of a hat. Would you like a copy?
-Grissom: I don't need one. I have you.  Swab the pistol grip; get it to DNA.
-
-
-
-
-
-Grissom: Albert, did you notice if Todd Branson had any burn marks on his palms?
-Robbins: No.
-Grissom: What about this guy?
-Robbins: Negative. What are you looking for?
-Grissom: A specific injury.
-Robbins: Well, I can't help you with burns but you'll want to check out this guy's right palm.
-
-Grissom: An incised wound. Well, that's a common injury sustained by knife-wielding killers. 
-
-Grissom: So assuming that this is the man who stabbed Todd Branson, what killed this guy?
-Robbins: A bullet. It's lodged in the left ventricle. 
- 
-Robbins: I was contemplating my method of extraction when you arrived.
-Grissom: You reach in and pull it out.
-Robbins: Not if it's only a jacket fragment.
-Grissom: Maybe a frangible bullet designed to fragment on impact?
-Robbins: That would explain the mystery of the shattered femur. It's covered in copper dust. 
-
-
-Robbins: I'll remove the heart, peel back the myocardium and get you what's left of that bullet.
-
-Grissom: Did he have a dislocated shoulder?
-Robbins: Yeah, torn musculature, but no inflammatory response.
-Grissom: It happened postmortem?
-
-David Phillips: Excuse me, I'm headed over to the hospital. Taxi driver didn't make it.
-
-Robbins:  Another one for my table.
-Grissom: Emerson once said &quot;The mob is man voluntarily descending to the nature of the beast.&quot; The beast is up for murder.
-
-
-
-
-Brass: Hey, buddy, how's it going? 
-
-Brass: I'm Detective Jim Brass from Las Vegas Police. Is your mother home?
-Eric Branson:  No.
-Brass: What's your name?
-Eric Branson: Eric.
-Brass: Sorry about your brother, Eric.
-Eric Branson: Mom's out getting more boxes.
-Brass: Yeah, she said that you were moving. Where are you going to?  You know, when I was a kid we moved around a lot. It's not easy. So you're going to be seeing your dad?
-Eric Branson: My dad's dead. Died when I was two.
-Brass: Hey, Eric, will you do me a favor?  When you see your mom ask her to give me a call, okay?
-
-Eric Branson: Okay.
-Brass: Take care.
-
-
-
-
-
-Grissom: Is that the frangible?
-Bobby Dawson: Yep. These were originally used in indoor shooting ranges where lead buildup's a problem. Copper's less toxic than lead. Take a look.
-
-Bobby Dawson: On the left, bullet from the vic's heart. On the right, bullet test-fired from the revolver recovered at the scene.
-Grissom: Oh, serendipity.
-Bobby Dawson: Yep.
-
-Sara: Hey.
-Bobby Dawson: Hey. Just made a match to your revolver.
-Sara: Nice. I ran the serial number through NCIC. It's registered to a Jonathan Raurk of San Jose, California.
-
-
-
-
-
-Jan Branson: John's my ex. Is he in Las Vegas?
-Brass: Well, we, uh ... we found a gun registered to him in the park where your son was murdered but when I spoke to your son Eric he told me that his father died years ago.
-Jan Branson: That's what I told both my boys. I told them that John was killed in a car accident. It's not easy to lie to them like that but every time I move I have to make up some crazy story. I just want them to be able to sleep at night.
-Grissom: Ms. Branson we also found a dead body in the park -- a white male in his mid-30s.
-Jan Branson: You think it's John?
-Grissom: We have no ID, but we have a photograph.
-
-Jan Branson: No ... no, this ... this isn't John. This isn't my ex. This is Stewart. It's Stewart Bradley. He's my boyfriend.
-
-
-
-
-
-
-
-
-
-
-Grissom: Where have you been?
-Sara: I went back to the park. I kept thinking there must be some physical evidence connecting the stabbing to the shooting.
-
-Grissom: Drag marks?
-Sara: Leading from the basketball court to Stewart Bradley's body. We know Todd was bleeding but there were no blood drops around the drag marks.
-Grissom: So you're thinking someone else was there? Now, the revolver was registered to the boy's biological father but they haven't seen each other in ten years.
-Sara: Assuming Todd fired the gun, how did he get ahold of it?
-Grissom: Well, maybe dad gave it to him behind mom's back.
-Sara: Or ... maybe Todd wasn't the shooter.
-Grissom: True. Presence of GSR only places Todd in the vicinity of the gunfire.
-Sara: And since there were no burn marks on Todd's palms, evidence is suggesting someone else fired that gun.
-Grissom: Which brings us back to dad.
-
-
-
-
-Brass: You know something, John, you don't scare me. According to your ex-wife, you're some kind of monster -- threatening her life, setting her car on fire in Boston breaking and entering in Chicago, showing up at your kid's school in Portland ... I don't know, I mean, I thought maybe you'd be like the guy in &quot;Sleeping with the Enemy&quot;. You're more like Gumby, aren't you?
-Jonathon Raurk: Look, if this is about my ex ... cop pulled me over outside Moapa. Jane lives in Vegas. I didn't violate any damn court order, all right?
-Brass: You know where she lives.
-Jonathon Raurk: Is that a crime?
-Brass: Yesterday, your son Todd was murdered and that is a crime.
-
-Brass: Hey! John, baby I'm not talking about the weather here, man. I'm talking about your son.
-Jonathon Raurk: I haven't seen that kid since he was in his diapers. 
- 
-Jonathon Raurk: Geez, I didn't kill him, if that's where you're going to.
-Brass: Hey, what about Stewart Bradley? You know? Yesterday, he was murdered, too. He was shot with your gun.
-
-Jonathon Raurk: Which one?
-Brass: Revolver. Smith &amp; Wesson.
-Jonathon Raurk: No, I don't have a Smith &amp; Wesson.
-Brass: It's registered to you, John. Has your name on it.
-Jonathon Raurk: That got stolen.
-Brass: Oh, you file a police report? But I know, you're busy. You forgot. That's okay. You know what I think happened? Here's what I think. You called up Todd, you said, &quot;Hey, Todd. Why don't you meet me down at Haskell Park? You know what? Why don't you bring mom's new boyfriend along?&quot;
-Jonathon Raurk: No, no. Come on, man, whoa, whoa, hey. You know what? Last night, I was at Taos, New Mexico, okay? I didn't cross over until ... it was the afternoon in Nevada. Check it out. Adobe Inn. Watched pay-per-view and I had a pizza, okay?
-
-
-Grissom: May I see your hands, please?
-Brass: You better do what he says. He's in crime lab.
-
-Grissom: Can you hold him?
-Brass: He's got some unpaid speeding tickets. There's warrants that have been issued. Is three days good enough?
-Grissom: For now.
-
-
-
-
-
-
-
-
-
-Grissom:  What do you weigh?
-Warrick: Uh, that's between me and my trainer.
-Grissom: Do I have to get a scale?
-Warrick: A buck 95, give or take a doughnut.
-
-Sara: Don't even ask. I'm not telling you.
-Grissom: Warrick, would you lie down on the floor?
-Warrick: I don't get paid enough to play dead.
-Grissom: Please?
-
-Grissom: Sara, grab Warrick's right arm. See if you can drag him across the room.
-Sara: This does have something to do with the case, right?
-Grissom: You don't trust me?
-
-Warrick:  You're such a drag.
-
-
-Grissom:  Stay there a minute.
-
-Grissom: Excuse me. Hi.  Judy, would you like to be part of a little experiment?
-Judy:  I-I'm a secretary. Besides, I heard what you did to Greg's feet.
-Grissom: You'll keep your shoes on, I promise.
-
-Warrick: Can I get up?
-Grissom: No. Spin around. Judy, would you take Warrick by the right arm and try and drag him across the room?
-Warrick: Hi, Judy.
-Judy: Hi.
-
-Warrick: Hey, I like it gentle, okay?
-
-Grissom: Thank you, Judy. You've been a big help.
-Warrick: Thanks.
-Grissom:  You can go back to the water cooler.
-
-Warrick: You want to tell me what's going on here?
-Grissom: Stewart Bradley had a dislocated shoulder postmortem. He's about the same weight as you. How does your shoulder feel?
-Warrick: You saw her dragging me around. You know, I'm glad I can help. I, uh, I'm late for the chiropractor's. I'll send you the bill.
-
-Sara: I get it. I'm bigger than Judy. In order to get momentum, she had to start and stop. Which could explain Stewart Bradley's postmortem dislocated shoulder.
-Grissom: Especially if he was dragged by somebody with limited upper body strength.
-Sara: Where does that get us?
-Grissom: Well, maybe Jan Branson. She's about Judy's size.
-Sara: Why would Jan Branson shoot her boyfriend?
-Grissom: He stabbed her son.
-Sara: Motive?
-Grissom:  I don't know. But mothers protect their children, don't they?
-Sara: Okay ... okay, so ... she sends Todd home, not knowing the severity of his wound. She buries her boyfriend's body. She ditches the knife, which we still haven't found. She hides the revolver ...
-Grissom: ... so perhaps the evidence is in Mrs. Branson's hands.
-
-
-
-
-
-Brass: Mrs. Branson, you got a minute?
-Jan Branson: Uh, Eric and I are leaving town.
-Brass: Well, your Ex has been picked up on an unrelated matter. Even if he makes bail, you still got a day or two head start.
-Jan Branson: Good.
-Grissom: Ms. Branson, may I see your hands?
-Jan Branson: Excuse me?
-Grissom: Could be important. Palms up, please.
- 
-(GRISSOM turns to talk with ERIC BRANSON.
-Grissom: Hi, pal.
-Eric Branson: Hi.
-Brass: Hey, Eric. This is Mr. Grissom. We work together.
-Grissom: May I see your hands, please?
-
-Jan Branson: We have to get going.
-Brass: As soon as Eric shows Mr. Grissom his hands you're on your way.
-Grissom: Palms up.
-
-
-
-
-
-Grissom: Eric ... I need to know how you burned your hand. 
-Brass: Look at Mr. Grissom, Eric. Not your mother, okay? Ms. Karpell.
-Ms. Karpell: Eric, it's okay to answer the question.
-Eric Branson: I burned it on an iron.
-Brass: I think something a lot more dangerous than that burned your hand.
-
-Grissom: We recovered a gun ... in the park. Your burn indicates that your hand was over this gap when the gun was fired.
-
-
-Eric Branson:  I followed Todd to the park.
-
-Stewart Bradley: Todd, I got your e-mail. What's up?
-Todd Branson: We're not moving again. I want you to tell mom you're passing on that promotion.
-Stewart Bradley: You should discuss this with your mother. 
-Todd Branson: She'll do whatever you say.
-Stewart Bradley: You don't understand.
-Todd Branson: I am not leaving my friends 'cause of you!
-Stewart Bradley: Todd, this has nothing to do with me.
-
-Eric Branson: Todd, no!
-
-
-Todd Branson: Gotta get home.
-
-Todd Branson: You gotta hide the body.
-
-
-Eric Branson: I was just looking out for my brother.
-Sara: I swabbed the pistol grip of the revolver. The DNA from the suspect's perspiration isn't a match to Todd's. But it is male. With eight markers in common and familial relationship.
-Grissom: We found gunshot residue on Todd's jacket. We assumed that Todd fired the gun. But I think maybe he was standing next to you when you fired the gun. You didn't go to the park to stop Todd, did you? He went to the park to stop you.
-
-Stewart Bradley: Eric, what's up?
-
-Todd Branson: Whoa! Eric, Eric! Eric, don't be stupid.
-Eric Branson: I'm not moving again! Not 'cause of him!
-
-Eric Branson: Todd! Let go!
-
-
-Eric Branson: Go home!
-
-Brass: Where'd you get the revolver, Eric?
-Jan Branson: From me.
-
-Brass: Ms. Karpell ...
-Ms. Karpell: Eric, why don't we step out in the hall for a few minutes.
-
-Brass: So, the gun was in your possession and you didn't say anything.
-Jan Branson: I, um ... I hid it in a lock box. And, uh, when I got that call from John a couple of days ago I took it out and I put in my nightstand. I didn't even know it was missing until this morning. And then, I thought that John must've gotten in the house and taken it. I was so sure that he was the one who killed Stewart. I've spent the last ten years looking over my shoulder every day.
-Brass: Your boyfriend was found carrying a knife the night he died. I spoke to some of his friends and associates, and no one ever remembers him carrying a knife.
-Sara: Ms. Branson? You warned your boyfriend about your ex-husband, didn't you?
-Jan Branson: He asked me what was wrong and I shouldn't have said anything. He panicked. He overreacted. He started carrying a knife. What's going to happen to Eric?
-Brass: He'll be remanded to a juvenile detention center, awaiting trial.
-Jan Branson: And then?
-
-Brass:  If he's convicted of a homicide he'll be sent to a state custodial facility until he's 21.
-
-
-
-
-
-Grissom: Where we at, Greg?
-Greg: I paged you, like, ten times.
-Grissom: I was busy.
-Greg: Well, so was I. First, I processed Mr. Khandelwahl's clothing. Then I compared the DNA I lifted from said clothing to the DNA from the dirty dozen.
-
-Grissom: All I see is a sheet.
-Greg: But what I do is art. And now, I'm ready to unveil it. Welcome to the new and improved match game.
-
-Greg: Now, Graham Cooper grabbed Rajeeb's collar...
-
-Greg: Claude Allen and Barry Lawrence used their fists ...
-
-Greg: Joey Gillman, Bill Kendal and Rick Midgen got into it, too.
-Grissom: Very nice presentation, Greg. What about the others? They all participated. They even bragged about it.
-Greg: Well, only six of the twelve left behind their epithelials when their skin made contact with the vic's clothing. I've got no physical evidence to tie the others to the crime.
-
-
-
-
-
-
-
-
-
-
-Woman: Stop!
-
-
-
-
-Graham Cooper: Hey!
-
-
-
-
-Grissom: The mob mentality ... relieves individuals from having to distinguish between right and wrong. 
-Brass: Anonymity shields them from prosecution, though.
-Grissom: Yeah, six of them, to be exact. 
-Brass: Hmmm ...
-Grissom: Unfortunately, physical evidence is limited by human action.
-Brass: Well, nothing's absolute, Gil ... even forensics.
-Grissom: Yeah, well ... this is as far as we can take it. It's up to you guys.
-
-
-
-
-Brass: The physical evidence confirms that you're the &quot;hero&quot; who pulled the driver out of the cab.
-Graham Cooper: I'd do it again, too.
-Cooper's Lawyer: Mr. Cooper, why don't we just hear what Captain Brass has to say. 
-Brass: You're looking at first degree murder.
-Graham Cooper: What?!
-Brass: Mr. Khandelwhal didn't make it.
-
-Brass: ... and, for the record, he didn't hit that boy. He wasn't trying to flee the scene. He was reaching for his radio trying to call for help. You know who the real hero of this is? Rajeeb Khandelwhal. The taxi driver. So ... what does that make you?
-Cooper's Lawyer: D.A. willing to deal?
-
-
-Brass: : We want your buddies. I mean, either you talk or they'll talk. I mean, it doesn't matter. And the clock is ticking, so ...
-
-Lyric: everything ... everything in its right place... 
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=03x09+-+Blood+Lust&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127338%23p127338" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=03x09+-+Blood+Lust&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127338%23p127338" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127338%23p127338&amp;name=03x09+-+Blood+Lust" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127338%23p127338" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=76e8aff5584590c3a5054808d4b5b426">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=76e8aff5584590c3a5054808d4b5b426">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=76e8aff5584590c3a5054808d4b5b426">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=76e8aff5584590c3a5054808d4b5b426">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

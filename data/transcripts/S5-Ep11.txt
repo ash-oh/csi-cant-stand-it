@@ -1,746 +1,976 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]
+[EXT. LAS VEGAS COMMUNITY (STOCK) - NIGHT]
+[EXT. KINGSLEY RESIDENCE - FRONT DRIVE -- N" />
+<meta property="og:title" content="05x11 - Who Shot Sherlock? - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]
+[EXT. LAS VEGAS COMMUNITY (STOCK) - NIGHT]
+[EXT. KINGSLEY RESIDENCE - FRONT DRIVE -- N" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13293" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>05x11 - Who Shot Sherlock? - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13293" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13293">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=e5a2145630bf9aa794291262a59a02f3"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=e5a2145630bf9aa794291262a59a02f3">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=e5a2145630bf9aa794291262a59a02f3">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=e5a2145630bf9aa794291262a59a02f3">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=e5a2145630bf9aa794291262a59a02f3">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13293&amp;sid=e5a2145630bf9aa794291262a59a02f3&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>05x11 - Who Shot Sherlock?</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127387">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127387">05x11 - Who Shot Sherlock?</a></div>
+							<div class="pull-right text-right"><time datetime="2005-01-20T05:00:06Z">01/20/05 05:00</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY LIGHTS (STOCK) - NIGHT]</p>
+<p>[EXT. LAS VEGAS COMMUNITY (STOCK) - NIGHT]</p>
+<p>[EXT. KINGSLEY RESIDENCE - FRONT DRIVE -- NIGHT] </p>
+<p>(The Biker parks his motorcycle.)</p>
+<p>(Cut to: A car pulls up a second driveway and parks. Dennis Kingsley steps out of the car and shuts the door.)</p>
+<p>(The Biker on the motorcycle removes his helmet and stands next to his bike.) </p>
+<p>(He takes his briefcase and walks into the house.)</p>
+<p>(Dennis Kingsley heads into his own house.) </p>
+<p>[INT. KITCHEN - NIGHT -- CONTINUOUS]</p>
+<p>(The door opens. Dennis Kingsley steps into the house and puts his plastic bag on the counter. He takes out a bag of English muffins, a box of Tetley British tea and a jar of something and lines it up perfectly on the counter.) </p>
+<p>(He takes the empty bag and heads out of the room.) </p>
+<p>[INT. HALLWAY - NIGHT - CONTINUOUS]</p>
+<p>(Dennis Kingsley puts on his dressing gown and shuts the door. He opens the door to the far room at the end of the hall and slips inside.) </p>
+<p>(The door closes behind him.) </p>
+<p>[INT. BASEMENT STAIRS - NIGHT - CONTINUOUS]</p>
+<p>(Dennis Kingsley makes his way down the basement stairs. He comes to two double doors.) </p>
+<p>(He opens the doors and enters into what appears to be a British-decorated study.) </p>
+<p>[INT. BASEMENT - STUDY - NIGHT - CONTINUOUS]</p>
+<p>(Dennis Kingsley flicks on a switch on the table and violin music starts playing. He walks over to the window and pushes the curtain aside to reveal a fake scene just out of the basement window of a horse-drawn carriage pass by.) </p>
+<p>DISSOLVE TO:</p>
+<p>(Dennis Kingsley is playing his violin in front of the fake fire in the fireplace.) </p>
+<p>WHITE FLASH TO: </p>
+<p>[INT. BASEMENT - STUDY - NIGHT]</p>
+<p>(Dennis Kingsley is dead with a gunshot wound to his temple. Someone snaps a photo.) </p>
+<p>(Grissom is kneeling in front of the victim as he looks around.) </p>
+<p><strong>Grissom</strong>: Deerstalker cap ... violin ... meerschaum pipe ... even a Persian slipper with tobacco stuffed in the toe, I imagine.</p>
+<p>(Greg snaps more photos of the scene.) </p>
+<p><strong>Grissom</strong>: All in all, a meticulous recreation of 221-B Baker Street: Residence of the world's greatest detective, Sherlock Holmes.</p>
+<p><strong>Brass</strong>: Also known as Dennis Kingsley, delivery guy. What do you think?</p>
+<p><strong>Grissom</strong>: Ask Greg. It's his case. It's his final proficiency -- emphasis on the &quot;final&quot;.</p>
+<p><strong>Brass</strong>: Okay, Dr. Watson, run it.</p>
+<p><strong>Greg</strong>: Victim's in a relaxed position in front of a fake fire. Alcohol. Solitude.</p>
+<p>(He leans forward to look at the wound.) </p>
+<p><strong>Greg</strong>: Powder burns around the entrance wound. Close to contact shot.</p>
+<p>(Greg straightens.) </p>
+<p><strong>Greg</strong>: It all suggests suicide.</p>
+<p><strong>Brass</strong>: Well, if he killed himself, where's the weapon?</p>
+<p>(Greg swallows. He sighs.) </p>
+<p><strong>Greg</strong>: Huh ... family and friends who discover a body sometimes remove the weapon to make it look like murder. No suicide stigma and better chances of collecting any life insurance.</p>
+<p><strong>Brass</strong>: From the look of the place upstairs, this guy lived alone, and the neighbors heard the shot, so ... pretty good. I guess I'll, uh, go interview the neighbors.</p>
+<p>(Brass turns and leaves.) </p>
+<p><strong>Greg</strong>: So, are you going to say, &quot;the game's afoot&quot;?</p>
+<p><strong>Grissom</strong>: I didn't know you were a Conan Doyle fan, Greg.</p>
+<p><strong>Greg</strong>: I'm not. I saw a Sherlock Holmes movie once by mistake.</p>
+<p><strong>Grissom</strong>: Well, just so you know ... those movies never ended like this.</p>
+<p>(Grissom flashes his flashlight at the dead body.) </p>
+<p>FADE TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. KINGSLEY RESIDENCE - FRONT DRIVE -- NIGHT] </p>
+<p>(Brass is standing in the neighbor's driveway talking with the Biker. He finishes up and turns to leave.) </p>
+<p><strong>Biker</strong>: I'll see if I can hook you up. Give me a call.</p>
+<p><strong>Brass</strong>: All right. Yeah, okay.</p>
+<p>(He heads back to Grissom.) </p>
+<p><strong>Grissom</strong>: Anything useful?</p>
+<p><strong>Brass</strong>: Well, I found out if I ever need a home loan, as a public servant, I'm pre-approved. You know, the guy looks like a, uh, drug dealer. Turns out he's a mortgage broker.</p>
+<p><strong>Grissom</strong>: Well, we all have our costumes, Jim.</p>
+<p><strong>Brass</strong>: Yeah.</p>
+<p>(Brass and Grissom watch as two men and a woman in costume appear out of the fog walking down the street toward them.) </p>
+<p><strong>Brass</strong>: Yeah, apparently some more than others.</p>
+<p>(The three costumed individuals stop in front of Brass and Grissom.) </p>
+<p><strong>Grissom</strong>: I assume you're friends of Mr. Kingsley?</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: We are friends of Mr. Holmes.</p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: Invited guests, in point of fact.</p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: This is all so contemporary.</p>
+<p><strong>Grissom</strong>: Well, I'm with the Las Vegas crime lab.</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: Ah, a colleague. Perhaps we can be of some assistance.</p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: (eagerly) Yes. Have you discovered any shoe impressions in the soil?</p>
+<p>(She moves forward as if to look for herself, but Grissom stops her.) </p>
+<p><strong>Grissom</strong>: Not yet. This is a crime scene.</p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: Oh, a scenario created for our own entertainment, yes?</p>
+<p>(Grissom turns around to show them Dennis Kingsley's dead body being wheeled out on the gurney. A sobering sight. They put the body in the back of the coroner's van.) </p>
+<p><strong>Grissom</strong>: I guess it depends on what you find entertaining.</p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: Oh, God.</p>
+<p>(The coroner shuts the door on the body.) </p>
+<p>CUT TO:<br />
+[INT. KINGSLEY RESIDENCE - BASEMENT - STUDY - NIGHT]</p>
+<p>(Greg is going through the blood on the floor when Sara walks up to him.) </p>
+<p><strong>Sara</strong>: Anyone for pizza?</p>
+<p><strong>Greg</strong>: Very funny.</p>
+<p>(Greg finds and picks up the bullet amidst the puddle of blood and pieces of brain.) </p>
+<p><strong>Greg</strong>: Got it.</p>
+<p>(Sara kneels down next to Greg to look at the bullet.) </p>
+<p><strong>Sara</strong>: Ooh. BFB. Big freakin' bullet.</p>
+<p>(Greg looks at the bullet under the magnifying glass.) </p>
+<p><strong>Greg</strong>: Nose is mushroomed. Looks like pure lead. Two cannelures consistent with a revolver. One, two, three, four, five, six lands and grooves. Left hand twist.</p>
+<p><strong>Sara</strong>: Which usually means ... ?</p>
+<p><strong>Greg</strong>: Colt .45?</p>
+<p>(Sara nods.) </p>
+<p><strong>Greg</strong>: Are you checking up on me?</p>
+<p><strong>Sara</strong>: No, no, no, no. Grissom said he was just evaluating you on processing this one room, so ... I figured maybe you could use some help with the rest of the house.</p>
+<p><strong>Greg</strong>: Thanks.</p>
+<p>(Sara stands up and starts looking around. Greg tucks the bullet into a bindle.) </p>
+<p>(Sara picks up the empty old-fashioned glass syringe and looks at it.) </p>
+<p>(Camera zooms in to show the residue of something in the glass syringe.) </p>
+<p><strong>Sara</strong>: Guess everyone needs a hobby.</p>
+<p>CUT TO:<br />
+[EXT. KINGSLEY RESIDENCE - FRONT DRIVE -- NIGHT] </p>
+<p>(Brass and Grissom speak with the other members of the mystery club.) </p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: We would study the Holmes text in cases and important 19th century events.</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: We met every Thursday night.</p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: You make it sound like a bowling league. This is a serious literary association.</p>
+<p>(Quick flashback to: Open on an old photo slide of a dead woman. [STUDY] The group sit around the table discussing the photo slide.) </p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: As usual, Dr. Watson, subtlety is lost upon you. You see a stab wound above her breast and overlook the absence of blood on the chair as well as the fact that her skirt is raised. This body was posed, and quite beautifully, I might add.</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: Moriarty, if evil for evil's sake were a pathological condition, it would be your diagnosis.</p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: Gentlemen, your disdain for one another distracts you from the truth. The wedding picture on the wall? The victims were husband and wife.</p>
+<p><strong>Dennis Kingsley</strong>: As usual, Miss Adler, your deduction is correct. It was indeed a crime of passion.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Brass</strong>: Sounds fun. When was the last time you saw Dennis Kingsley?</p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: Last Thursday.</p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: He said that he was going to make this meeting really special.</p>
+<p>(Quick flashback to: [STUDY] The group sits at the table.) </p>
+<p><strong>Dennis Kingsley</strong>: It seems our time here tonight has ended, and that, I fear, is the gist of the announcement I must share with you now. Next week will be the final meeting of our society, but I give you my word: It shall be an evening none of you will ever forget.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: I didn't think that he meant this.</p>
+<p><strong>Brass</strong>: We're going to need names and contact information.</p>
+<p><strong>Grissom</strong>: It would also be helpful if you'd let us take your fingerprints.</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: Why?</p>
+<p><strong>Grissom</strong>: Elementary. So we can rule you out. You've all obviously been in the study on numerous occasions. We need to find out if the prints we find are relevant.</p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: So you actually think this is something other than suicide?</p>
+<p><strong>Brass</strong>: You know, I think you ought to drop the accent.</p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: I can't. I'm English.</p>
+<p><strong>Brass</strong>: Oh.</p>
+<p>CUT TO:<br />
+[INT. KINGSLEY RESIDENCE - BASEMENT - STUDY - NIGHT]</p>
+<p>(Greg looks at the floor. He finds something on the floor and snaps a photo of it.) </p>
+<p>INTERCUT WITH: </p>
+<p>[SARA]</p>
+<p>(Close-up of the door leading to the basement. Sara examines it focusing on the scratches on the wood near the doorknob and plate.) </p>
+<p>(Greg finds something on the floor near the table leg. He picks it up and looks at it.) </p>
+<p>(Sara sits down at the table in front of the laptop. He presses the spacebar and the screensaver with the meerschaum pipe on it stops. She looks at the screen for a moment.)</p>
+<p>(She turns and picks up the framed photo of Dennis Kingsley sitting on the couch with his wife and daughter.) </p>
+<p>CUT TO:<br />
+(Greg looks up from his camera as Sara walks into the room to share her findings.) </p>
+<p><strong>Sara</strong>: There's possible signs of forced entry at the back door. It could be recent. Also, I think the vic had a family at some point. Brass is on it.</p>
+<p>(Greg snaps a photo of a red book with blood on its cover, &quot;The Hound of the Baskervilles&quot;.) </p>
+<p><strong>Greg</strong>: Check this out.</p>
+<p>(He shows her the book, evidence marker #6. Sara kneels down next to Greg.) </p>
+<p><strong>Sara</strong>: The Hound of the Baskervilles. I read that in tenth grade.</p>
+<p><strong>Greg</strong>: Oh, yeah - I was supposed to.</p>
+<p>(Sara chuckles. He shows her the stain on the book page edges.) </p>
+<p><strong>Greg</strong>: There's a blood stain on the page ends.</p>
+<p><strong>Sara</strong>: Huh.</p>
+<p>(Greg puts the book back on the table in the position he found it in.) </p>
+<p><strong>Sara</strong>: The spatter goes across and over. That stain did not come from this event.</p>
+<p>(Quick flash of: [THE BOOK ON THE TABLE] A gun fires, blood spatters on the book cover. End of flash. Resume to present.) </p>
+<p><strong>Sara</strong>: It could be the vic's, or it could be stage blood, for that matter.</p>
+<p><strong>Greg</strong>: Do you think an obsessive neat freak like our vic would leave something like that on one of his most prized possessions?</p>
+<p><strong>Sara</strong>: I think ... there's only one way to find out.</p>
+<p>CUT TO:<br />
+[EXT. LAKE (STOCK) - DAY]</p>
+<p>[EXT. ROADSIDE -- DAY] </p>
+<p>(An officer's car is parked on the side of the road. Warrick walks alongside the roadway. He turns and visualizes the accident.) </p>
+<p>(Quick visualization of: The jeep swerves on the road. It passes right through Warrick and off screen. Warrick turns and continues to visualize the jeep traveling down the road where it smashes into the tree.)</p>
+<p>(End of visualization. Resume to present.) </p>
+<p>(Warrick makes his way across the road.)</p>
+<p>[EXT. ROADSIDE - CRASH SITE - DAY - CONTINUOUS]</p>
+<p>(Nick approaches the van with the body in it. David Phillips and Det. Chris Cavaliere are there.) </p>
+<p><strong>Det. Chris Cavaliere</strong>: Hey, Nick.</p>
+<p><strong>Nick</strong>: Hey, Chris.</p>
+<p><strong>Det. Chris Cavaliere</strong>: Nevada power guys -- they saw the jeep, called it in. I ran the plates. R.O. is, uh, Cory Demayo, 25. Lives on Florentine. (Nick snaps a couple of photos of the body as he listens.) Spoke to the roommate. Driver fits the description.</p>
+<p><strong>David Phillips</strong>: Vic's got a contusion on his forehead. Probably from the impact.</p>
+<p><strong>Nick</strong>: Yeah, I can see that. It's just hard to believe that's what killed him.</p>
+<p>(Warrick walks up to the group.) </p>
+<p><strong>Warrick</strong>: I didn't see any skid marks on the road up there. There's no signs he tried to brake.</p>
+<p><strong>David Phillips</strong>: Well, maybe he fell asleep at the wheel.</p>
+<p><strong>Nick</strong>: Uh, coming over that embankment? That would've woke him up. Key's still in the ignition. Car's in drive. Engine's not running.</p>
+<p><strong>Warrick</strong>: Did the paramedics open this door?</p>
+<p><strong>Det. Chris Cavaliere</strong>: Vitals were taken through the open window. Door was ajar when we arrived on the scene.</p>
+<p>(Warrick finds a joint in the car. He picks it up and shows it to Nick.) </p>
+<p><strong>Warrick</strong>: Hey, Nick, check this out.</p>
+<p><strong>Nick</strong>: Oh.</p>
+<p><strong>Warrick</strong>: Guy was getting high. Think that's the reason he missed the curve up there?</p>
+<p><strong>Nick</strong>: You think?</p>
+<p>(Warrick finds something else.) </p>
+<p><strong>Warrick</strong>: Ah. We got a wallet.</p>
+<p>(He hands the wallet over the body to Nick who hands it to Det. Cavaliere.) </p>
+<p><strong>Nick</strong>: Yeah, yeah.</p>
+<p>(Det. Cavaliere checks the Nevada Driver's License. It reads:<br />
+DEMAYO, CORY<br />
+6878 FLORENTINE RD.<br />
+LAS VEGAS</p>
+<p><strong>Det. Chris Cavaliere</strong>: Cory Demayo. Fits the description. No cash, no plastic.</p>
+<p><strong>Nick</strong>: This is a pretty remote place for an accident. But you think someone saw it, took advantage of the situation?</p>
+<p><strong>Warrick</strong>: Maybe he wasn't alone. Maybe the passenger survived, then emptied out his wallet, took off.</p>
+<p><strong>Nick</strong>: (nods) Maybe.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY - DAY]</p>
+<p>(Greg snaps photos of the body.)</p>
+<p>(He removes the evidence bag from around the victim's right hand. He snaps photos of the hand and takes samples from it.) </p>
+<p>(Greg continues to process the body.) </p>
+<p>(He snaps photos. He flips the victim's arm over and we see the needle marks on his inner arm.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAYOUT ROOM - DAY]</p>
+<p>(Sara and Robbins talk while looking at the photos spread out on the table in front of them.) </p>
+<p><strong>Robbins</strong>: This guy really dress up like Sherlock Holmes?</p>
+<p><strong>Sara</strong>: At least once a week, evidently, like those civil war re-enactors. I, uh, never understood that.</p>
+<p><strong>Robbins</strong>: Yeah. In any event, C.O.D. was no surprise. Perforating contact range, gunshot to the right temple.</p>
+<p>(Greg appears the doorway with the tox report.) </p>
+<p><strong>Greg</strong>: Got the tox. Cocaine metabolites in the vic's urine. 500 nanograms per M.O.</p>
+<p><strong>Robbins</strong>: You only see levels that high in chronic users.</p>
+<p><strong>Sara</strong>: Those are the track marks.</p>
+<p><strong>Greg</strong>: Yeah, but there was also morphine in his blood and in the syringe. (He hands the report to Robbins.) Seven percent solution, morphine sulfate and water. Sherlock went from crack to smack.</p>
+<p><strong>Sara</strong>: Morphine metabolites in his system but no heroin metabolites? He wasn't on street junk. This is pharmaceutical-grade stuff.</p>
+<p><strong>Greg</strong>: And at a pretty hefty dose, too. How fast for the injection to take effect?</p>
+<p><strong>Robbins</strong>: Given his size, he would've been incapacitated in a matter of seconds.</p>
+<p><strong>Greg</strong>: Not much time to undo the works, put away his antique syringe, pick up a gun and blow his brains out.</p>
+<p><strong>Sara</strong>: Wait a minute. The GSR test on his hand was positive. What are you getting at?</p>
+<p>(Quick flash to: [STUDY] Someone else pulls the trigger. End of flash. Resume to present.) </p>
+<p><strong>Greg</strong>: Well, maybe Sherlock had some help.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - INTERVIEW ROOM -- DAY] </p>
+<p>(Det. Chris Cavaliere and Warrick interview Lyle Davis, Cory Demayo's roommate.) </p>
+<p><strong>Det. Chris Cavaliere</strong>: Hey, when was the last time you saw Cory?</p>
+<p><strong>Lyle Davis</strong>: Yesterday. Just kicking it, like me.</p>
+<p><strong>Warrick</strong>: How'd you get that bruise on your dome, man?</p>
+<p><strong>Lyle Davis</strong>: Oh, uh, windsurfing.</p>
+<p><strong>Det. Chris Cavaliere</strong>: Hey, you guys go out there together?</p>
+<p><strong>Lyle Davis</strong>: Yeah. Well, he's got the wheels, so ... </p>
+<p><strong>Warrick</strong>: So you drove back together?</p>
+<p><strong>Lyle Davis</strong>: No. I sort of hooked up with this chick, so I bounced.</p>
+<p><strong>Warrick</strong>: Nice. You know the chick's name?</p>
+<p><strong>Lyle Davis</strong>: Uh, Jennifer.</p>
+<p><strong>Det. Chris Cavaliere</strong>: Jennifer who?</p>
+<p><strong>Lyle Davis</strong>: Jennifer, uh ... (he smiles, clearly, he can't remember) ... nipple ring.</p>
+<p>(Warrick and Lyle chuckle.) </p>
+<p><strong>Warrick</strong>: &quot;Jennifer nipple ring&quot;. Lyle, were you guys, uh, getting high yesterday? You smoke some weed? </p>
+<p><strong>Lyle Davis</strong>: Nope.</p>
+<p><strong>Warrick</strong>: No? All right, let me tell you what I think happened. You and Cory got stoned, and you drove away. Cory lost control of the jeep ...</p>
+<p>(Quick flashback to: [JEEP] The jeep runs off the road and Cory hits his head against the wheel.) </p>
+<p><strong>Warrick</strong>: (V.O.) ...at which point, you couldn't wake him up,<br />
+(Lyle goes through Cory's wallet and takes the money inside.) </p>
+<p><strong>Warrick</strong>: (V.O.) so you decided to take advantage of the situation, and you rifle through his wallet and leave.</p>
+<p>(Lyle stumbles out of the jeep and runs.)</p>
+<p>(End of flash. Resume to present.) </p>
+<p><strong>Lyle Davis</strong>: Man, that is not what went down.</p>
+<p><strong>Det. Chris Cavaliere</strong>: You're looking at robbery, leaving the scene, failure to report an accident. That's a lot of years, man.</p>
+<p><strong>Lyle Davis</strong>: I didn't get back in the car with Cory, and if I had, I wouldn't have left him!</p>
+<p><strong>Warrick</strong>: Lyle, we're going to need a DNA sample from you.</p>
+<p><strong>Lyle Davis</strong>: (alarmed) What? Why?</p>
+<p><strong>Warrick</strong>: Just to prove that, uh, your lips weren't on that joint that we found in the jeep.</p>
+<p><strong>Lyle Davis</strong>: All right, man. Let me just be straight with you guys for a second here. I admit Cory and I sparked up at the lake, okay? But then he took off. Three weeks ago, I was busted for pot, okay? The judge gave me diversion. You guys file charges, I'm screwed. I will never get into dental school.</p>
+<p>(Warrick and Det. Cavaliere both look away.) </p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY TO TRACE LAB -- DAY] </p>
+<p>(Greg follows Hodges from the hallway into the Trace Lab.) </p>
+<p><strong>Hodges</strong>: The fragment you found at the scene? It's a mother of pearl. It could be from an ornament or a piece of jewelry.</p>
+<p><strong>Greg</strong>: It could be from a lot of things.</p>
+<p><strong>Hodges</strong>: Yeah, that it could, Mr. Proficiency. </p>
+<p>(Greg looks through the scope. Grissom is there in the lab.) </p>
+<p><strong>Hodges</strong>: I also I.D.'d the ash on the floor. Perique tobacco, grown in only one spot on earth: St. James Parish, Louisiana.</p>
+<p><strong>Greg</strong>: The same as the umber of tobacco in the victim's slipper?</p>
+<p><strong>Hodges</strong>: No, completely different make. Cheap, strong, low-grade stuff.</p>
+<p><strong>Grissom</strong>: Shag tobacco.</p>
+<p><strong>Hodges</strong>: Yeah. How'd you know?</p>
+<p><strong>Grissom</strong>: That's what Holmes smoked.</p>
+<p><strong>Hodges</strong>: Bad habit, even for a fictional character.</p>
+<p><strong>Grissom</strong>: You do have two suspects with pipes.</p>
+<p><strong>Greg</strong>: Yeah ... and, uh, smoking kills.</p>
+<p>CUT TO:<br />
+[INT. POOL HALL &amp; BAR -- DAY] </p>
+<p>(Brass looks around. He watches as a man tags along behind one of the waitresses.) </p>
+<p><strong>Bar Customer (man)</strong>: We got to stop meeting like this, baby.</p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: How was your game?</p>
+<p><strong>Bar Customer (man)</strong>: I'm swinging a hot stick tonight, babe.</p>
+<p>(She passes Brass and puts her tray on the bar counter.) </p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: (to Brass) Can I get you something?</p>
+<p><strong>Brass</strong>: No, I'm just looking for someone.</p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: You're staring at me.</p>
+<p><strong>Brass</strong>: Oh. Uh ... I'm sorry. I didn't recognize you from last night. Is that a friend of yours?</p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: Give me a break. Did that guy look like a friend of mine? Every time he touches me, I want to kick him in the scrotum, but he's a big tipper. I've got a sick mother and rent to pay.</p>
+<p><strong>Brass</strong>: Well, I just have a couple of questions. At Denny Kingsley's, you were smoking a pipe.</p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: Yeah ... a meerschaum.</p>
+<p><strong>Brass</strong>: I'm going to need it.</p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: Why?</p>
+<p><strong>Brass</strong>: Let me worry about that, okay?</p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: Uh, J.J., can you hand me my purse, please?</p>
+<p><strong>J.J. (bartender)</strong>: Okay.</p>
+<p>(He hands her the bag. She takes the pipe out of her bag and puts it in the evidence bag Brass is holding.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) -- DAY] </p>
+<p>[INT. - HALLWAY -- DAY] </p>
+<p>(Sara walks up to a security guard.) </p>
+<p><strong>Sara</strong>: Dr. Watson? I'm Sara Sidle with the Crime Lab.</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: Hello.</p>
+<p><strong>Sara</strong>: Do you have a minute? I'm here to collect your meerschaum pipe as well as any other tobacco products you might have in your possession.</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: I don't smoke anything illegal.</p>
+<p>(Sara puts her kit down.) </p>
+<p><strong>Sara</strong>: You haven't been accused of that.</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: Anyway, my pipe is at home.</p>
+<p><strong>Sara</strong>: No problem. Let's go.</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: Look, I'm working.</p>
+<p><strong>Sara</strong>: We've already talked to your boss, and I have a warrant. Let me get that for you. </p>
+<p>(Sara kneels down to open her kit to get the warrant out of her kit. She notices some blood on his shoes.) </p>
+<p><strong>Sara</strong>: Were you wearing those shoes at your last club meeting?</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: Yeah. They're not technically right for the period, but black leather shoes are black leather shoes. I'm not the same stickler for detail that Denny was.</p>
+<p><strong>Sara</strong>: Apparently not.</p>
+<p>(Sara hands him the warrant.)</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY] </p>
+<p>(Robbins goes over the body with Nick and Warrick.) </p>
+<p><strong>Robbins</strong>: Vic was physically fit. Scratches and abrasions are ante-mortem, unrelated to the accident.</p>
+<p><strong>Nick</strong>: The contusion on the forehead was, uh, superficial, right?</p>
+<p><strong>Robbins</strong>: You are right.</p>
+<p><strong>Warrick</strong>: Okay, so what's the cause of death, Doc?</p>
+<p><strong>Robbins</strong>: Undetermined.</p>
+<p><strong>Nick</strong>: But you're still working on it, right?</p>
+<p><strong>Robbins</strong>: Unless some other evidence comes to light, I'm done. Sometimes I can't tell you why they die.</p>
+<p>(Nick and Warrick look at each other.) </p>
+<p>CUT TO:<br />
+[INT. CSI - GARAGE - DAY]</p>
+<p>(Nick is trying to close the jeep's passenger door. Warrick walks into the garage carrying a file.) </p>
+<p><strong>Warrick</strong>: What you got?</p>
+<p><strong>Nick</strong>: Passenger door latch is busted. It could've happened during the accident.</p>
+<p><strong>Warrick</strong>: Well, that is consistent with the roommate's story. Says he wasn't in the passenger seat during the time of the crash.</p>
+<p><strong>Nick</strong>: What'd you get back from tox?</p>
+<p><strong>Warrick</strong>: Tox came back positive for low levels of cannabis.</p>
+<p><strong>Nick</strong>: I know marijuana slows your reaction time, but based on the lack of skid marks at the scene, the position of the vehicle, I don't think this guy ever hit the brakes.</p>
+<p><strong>Warrick</strong>: Well, maybe he did hit the brakes. Did you check 'em?</p>
+<p><strong>Nick</strong>: Come on, you're a bigger boy than me.</p>
+<p><strong>Warrick</strong>: Yeah, you can't do anything yourself, can you?</p>
+<p>(Nick climbs into the jeep behind the driver's seat.) </p>
+<p><strong>Warrick</strong>: You ready?</p>
+<p><strong>Nick</strong>: Yeah, yeah, put your back into it.</p>
+<p>(Warrick pushes the jeep forward. Nick presses the brakes and they hold.) </p>
+<p><strong>Warrick</strong>: Brakes work. Brake lights are working, so that means the battery's okay.</p>
+<p><strong>Nick</strong>: Yeah, but the gauges are all off. The panel's not even working. Okay, ignition was on, but the engine wasn't running, so ... what? No gas?</p>
+<p>(Warrick jumps on the jeep. We hear the tank sloshing.) </p>
+<p><strong>Warrick</strong>: That tank is full of fuel, man.</p>
+<p><strong>Nick</strong>: Cory was in good shape. The jeep seems to be in decent condition, so ...<br />
+(sighs) What happened out there?</p>
+<p>CUT TO:<br />
+[INT. CSI - CATHERINE'S OFFICE -- DAY] </p>
+<p>(Catherine meets with Conrad Ecklie.) </p>
+<p><strong>Conrad Ecklie</strong>: Swing shift's short a couple of bodies.</p>
+<p><strong>Catherine</strong>: Yes, and when is that going to change?</p>
+<p><strong>Conrad Ecklie</strong>: Not anytime soon -- Catherine, there are budget constraints. You'll have to prioritize.</p>
+<p>(Nick and Warrick walk into the office.) </p>
+<p><strong>Warrick</strong>: Should we come back?</p>
+<p><strong>Conrad Ecklie</strong>: No, no, no, come on in. So, how's your, uh, your surfer dude case?</p>
+<p><strong>Warrick</strong>: Uh, the victim's roommate admits they got high together, but denies being in the jeep at the time of the accident. At this point, we can't place him there.</p>
+<p><strong>Nick</strong>: Brakes on the jeep were functioning. The driver should've been able to stop.</p>
+<p><strong>Catherine</strong>: Any signs of foul play?</p>
+<p><strong>Nick</strong>: No. Something's not right.</p>
+<p><strong>Conrad Ecklie</strong>: All right, nothing suspicious and no crime's committed? Put the case to bed. I'm sure your supervisor can keep you busy. Close it.</p>
+<p>(Ecklie leaves.) </p>
+<p><strong>Warrick</strong>: Sounds like he's more concerned with getting it done than getting it right.</p>
+<p><strong>Catherine</strong>: Are you guys satisfied?</p>
+<p><strong>Nick</strong>: We don't have an answer.</p>
+<p><strong>Catherine</strong>: Then get one.</p>
+<p><strong>Warrick</strong>: What about Ecklie?</p>
+<p><strong>Catherine</strong>: (sighs) My problem, not yours.</p>
+<p>(Nick and Warrick turn to leave.)</p>
+<p>CUT TO:<br />
+[INT CSI - LAB -- DAY] </p>
+<p>(Greg swabs the side of the shoe. He tests and finds blood.)</p>
+<p>INTERCUT WITH: </p>
+<p>[INT. CSI - TRACE LAB - DAY]</p>
+<p>(Hodges tests the tobacco in the pipe and places the pipe in the fumer. He closes the lid.) </p>
+<p>(Greg swabs another part of the shoe.)</p>
+<p>(Hodges removes the pipe and empties the bottom of the pipe. He takes a sample of the tobacco. He tests it.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY]</p>
+<p>(Brass sits across the table from Nelson Oakes, Dr. Watson. Nelson Oakes opens the small packet of sugar to put in his coffee and rips it open, spilling the sugar on the table.)</p>
+<p><strong>Brass</strong>: You nervous?</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: A little.</p>
+<p>(He stirs his coffee.) </p>
+<p><strong>Brass</strong>: Relax. Relax. Just two law enforcement professionals talking to one another, that's all.</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: I'm a security guard. Don't patronize me.</p>
+<p><strong>Brass</strong>: I bet you always wanted to be a cop, am I right? So what happened? Flunk the physical? Huh? That's okay; lot of guys do. No? What was it then, psych?</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: I was on medication. You can't be a cop if you're on this medication.</p>
+<p><strong>Brass</strong>: But you can be Sherlock Holmes.</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: I was Dr. Watson ... </p>
+<p><strong>Brass</strong>: Right.</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: ... in our club. Denny was Sherlock Holmes.<br />
+(Imitates Denny Kingsley.) &quot;There can only be one.&quot;</p>
+<p><strong>Brass</strong>: So, when Denny wasn't there, you could be Sherlock.</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: I suppose.</p>
+<p><strong>Brass</strong>: That why you killed him?</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: I didn't kill him. Denny was a friend, and if I wanted to be Sherlock, all I had to do was wait. Denny was quitting. We talked about it a lot. He said he was going back to his wife.</p>
+<p><strong>Brass</strong>: So you went to his house, you shot him, and then you left, and you came back later with your pals and acted like nothing happened.</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: I went straight home after work.</p>
+<p><strong>Brass</strong>: His blood on your shoe, tobacco ash from your pipe on the carpet next to his body -- that puts you where he was killed.</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: No way.</p>
+<p><strong>Brass</strong>: Look, there are two kinds of stories: Fact and fiction.</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: I know that. </p>
+<p><strong>Brass</strong>: Sherlock Holmes: Fiction. Dennis Kingsley's murder: Fact. Your story: Fiction.</p>
+<p><strong>Nelson Oakes (Dr. Watson)</strong>: No, I swear. God help me, I'm telling the truth. I-<br />
+I wasn't there. I didn't kill Denny.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Sara walks into the room with a file folder.) </p>
+<p><strong>Sara</strong>: DNA confirms that the blood on Watson's shoe is a match to your vic. We got him. </p>
+<p>(Greg doesn't look up from under the magnifying glass. He sees something.) </p>
+<p><strong>Sara</strong>: Feel like celebrating after shift? I'm buying.</p>
+<p><strong>Greg</strong>: These blood drops aren't uniform. Some of them are clotted red cells, but others are pure serum.</p>
+<p>(Sara looks under the magnifying glass at the blood drops.) </p>
+<p><strong>Greg</strong>: It takes at least twenty minutes for blood to clot and separate. If Watson killed Sherlock, the blood drops on his shoe would all be the same.</p>
+<p><strong>Sara</strong>: The killer takes some of the victim's blood at the scene ...</p>
+<p>(Quick flash to: Someone takes a syringe and sucks up some blood from the scene. Camera zooms in to the red blood cells.) </p>
+<p><strong>Sara</strong>: (V.O.) ...the red blood cells in the serum separate and get sprayed on the shoe later.</p>
+<p>(Cut to: Blood drops on the black leather shoe. End of flash. Resume to present.)</p>
+<p><strong>Sara</strong>: Somebody's trying to frame Watson.</p>
+<p>(Camera holds on Greg.) </p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - A/V LAB -- DAY] </p>
+<p>(Greg and Sara meet with Archie Johnson in the Audio/Visual Lab. Archie is looking at a site on the internet, epackrat.com, and is scrolling through the various items up for bid.) </p>
+<p><strong>Greg</strong>: Jeez, all his stuff is up for auction. This is Dennis Kingsley's entire collection. He's getting rid of everything.</p>
+<p><strong>Archie</strong>: Might have needed the cash?</p>
+<p><strong>Sara</strong>: I don't know. Maybe he was just trying to get back to reality.</p>
+<p><strong>Greg</strong>: Hold it. </p>
+<p>(The scrolling stops on a mother of pearl handled Colt .45.) </p>
+<p><strong>Greg</strong>: Murder weapon was a Colt .45 revolver, current whereabouts unknown.</p>
+<p><strong>Archie</strong>: Huh, I thought you were looking for a book.</p>
+<p><strong>Sara</strong>: We are. (She shows him the photo of the book.) We ran DNA on this blood stain. It's not the victim's, and there's no hits through CODIS.</p>
+<p><strong>Archie</strong>: You think it's the killer's?</p>
+<p><strong>Sara</strong>: Maybe.</p>
+<p><strong>Greg</strong>: Come on, let's keep going.</p>
+<p>(They see the book listed on the site.) </p>
+<p><strong>Greg</strong>: There it is - &quot;The Hound of the Baskervilles&quot;.</p>
+<p>(The photo of the book shows no blood on it.) </p>
+<p><strong>Sara</strong>: When he photographed it, there was no blood on the pages.</p>
+<p><strong>Greg</strong>: Can you pull up the bidding history?</p>
+<p><strong>Archie</strong>: Yes, I can.</p>
+<p><strong>Greg</strong>: Let's see who's interested.</p>
+<p>(The list reads:<br />
+BIDDING HISTORY ITEM # 0578154<br />
+THE HOUND OF THE BASKERVILLES<br />
+# OF BIDS: / TIMES / BIDDER HANDLES:<br />
+1 / 10:50 pm / Nikig0017 - Los Angeles, CA<br />
+1 / 11:20 am / Reichenbach - Henderson, NV<br />
+1 / 1:22 pm / Filia_30 - New York, NY<br />
+1 / 5:25 pm / Reichenbach - Henderson, NV<br />
+1 / 6:30 pm / Reichenbach - Henderson, NV<br />
+1 / 10:05 am / Nikig0017 - Los Angeles, CA</p>
+<p>(Archie highlights the &quot;Reichenbach&quot; buyer.) </p>
+<p><strong>Archie</strong>: Huh. Reichenbach.</p>
+<p><strong>Greg</strong>: What's the big deal about that?</p>
+<p><strong>Archie</strong>: Reichenbach Falls? </p>
+<p>(He looks at Greg. Greg shakes his head. Archie turns and looks at Sara. She doesn't know either.) </p>
+<p><strong>Archie</strong>: It's where Professor Moriarty killed Sherlock Holmes.</p>
+<p>CUT TO:<br />
+[INT. DINER - BACK KITCHEN -- DAY] </p>
+<p>(The order-up bell rings.) </p>
+<p>(In the back, Greg and Sara interview Josh Frost, Prof. Moriarty.)</p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: The 1902 first British Edition of the Hound? Of course I wanted it. I'm a doctoral candidate in English history. I helped Denny create that astonishing verisimilitude of Sir Arthur Conan Doyle's Britain. </p>
+<p><strong>Sara</strong>: Oh.</p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: Order!</p>
+<p>(He puts the plate up.) </p>
+<p><strong>Sara</strong>: He was selling the collection off in pieces. It must have pissed you off.</p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: He was a self-destructive narcissist. If he had to give it up, we all had to give it up.</p>
+<p><strong>Sara</strong>: And you weren't willing to do that?</p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: As you can see, the modest stipend I get from my graduate studies doesn't go far. What I offered for the Hound is every penny I had. Order!</p>
+<p>(He rings the bell again.) </p>
+<p><strong>Greg</strong>: But then he put it up for auction, and made you bid for it. When the price got too high, you confronted him.</p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: That is empty speculation, my friend.</p>
+<p><strong>Sara</strong>: Hold out your hands for me, please?</p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: My hands?</p>
+<p><strong>Sara</strong>: Yeah. Your hands.</p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: Fine.</p>
+<p>(He puts his spatula aside and shows them his hands. His index finger on his right hand has a bloodied band-aid on it.) </p>
+<p><strong>Greg</strong>: Ooh, that looks like a paper cut to me. Are we gonna find your blood on that book?</p>
+<p>(Quick flash to: [STUDY] Josh Frost and Dennis Kingsley are arguing. Josh Frost is holding the book.)</p>
+<p><strong>Dennis Kingsley</strong>: If you can't pay me what it's worth ...</p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: Oh, come on, you owe me as much. Come on. Come ...</p>
+<p>(The two wrestle for the book.) </p>
+<p><strong>Dennis Kingsley</strong>: Give it!</p>
+<p>(Dennis Kingsley pulls the book out from Josh's grip leaving him with a bleeding finger.) </p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: Ow! Bloody hell, Dennis.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Josh Frost (Prof. Moriarty)</strong>: Fine, fine, fine. Yes, I stopped by Dennis's house earlier that evening to make my case, but I didn't kill him. If I had, believe me, I would have taken that book.</p>
+<p>(Greg and Sara share a look.)</p>
+<p>CUT TO:<br />
+[INT. CSI - GARAGE - DAY]</p>
+<p>(Warrick and Nick enter the garage.) </p>
+<p><strong>Warrick</strong>: Tow truck will be here in about an hour.</p>
+<p><strong>Nick</strong>: All right, we're on the clock. Let's take this thing apart.</p>
+<p>(Nick opens the front door and climbs into the driver's seat. He sits down and reaches for the ignition keys.) </p>
+<p>(Warrick climbs into the back of the jeep. He looks around and sees something on the bars.) </p>
+<p>(Nick looks under the driver's wheel panel. He pulls out a piece of melted plastic.) </p>
+<p>(Warrick lies back on a dolly and slides under the jeep. He sees something.) </p>
+<p>(Nick pulls out the wires from under the panel and checks it. They look burned.) </p>
+<p><strong>Nick</strong>: Hey, I've got some blown fuses and some fried wiring up here.</p>
+<p><strong>Warrick</strong>: Yeah?</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p><strong>Warrick</strong>: I've got some burn marks on the undercarriage. And I found something similar on the roll bar, as well.</p>
+<p><strong>Nick</strong>: Well, that would indicate some sort of electrical shock.</p>
+<p><strong>Warrick</strong>: Well, if an electrical charge traveled through the jeep, and shorted out the wiring, it would have shocked Cory, as well.</p>
+<p><strong>Nick</strong>: Like what, lightning?</p>
+<p><strong>Warrick</strong>: Yeah, but it was clear yesterday. Whatever it was, it zapped the hell out of his jeep.</p>
+<p><strong>Nick</strong>: Let's go back out there and check it out.</p>
+<p>CUT TO:<br />
+[EXT. CRASH SITE OF ROAD -- DAY] </p>
+<p>(Nick and Warrick are back at the crash site.) </p>
+<p><strong>Nick</strong>: Cory was coming from Lake Mead, which is that way.</p>
+<p><strong>Warrick</strong>: Let's walk.</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p>(Nick and Warrick walk up the road and look around.)</p>
+<p>(Dissolve to: Nick is on the left side of the road while Warrick looks on the right side of the road. Nick continues up the road.) </p>
+<p>(Dissolve to: Nick looks around and kneels down on the road. He finds something.) </p>
+<p><strong>Nick</strong>: Wire trimmings. They look fresh.</p>
+<p>(He snaps a photo of it. Warrick picks it up. He looks up at the wires above them.) </p>
+<p><strong>Nick</strong>: Looks like a new splice on those wires.</p>
+<p><strong>Warrick</strong>: Well, the power company originally called that jeep in. They must have been out here fixing the lines. Maybe it was a down line. That would give us the high voltage power source right there.</p>
+<p><strong>Nick</strong>: Yeah, but even if a live wire struck the roll bar, the tires would have insulated the vehicle.</p>
+<p><strong>Warrick</strong>: Right. Without a path to ground, electricity is harmless.</p>
+<p>(They look around and see the wire road marker bent and embedded in the ground.) </p>
+<p><strong>Warrick</strong>: What about that road marker?</p>
+<p>(They walk over to it to look at it. They kneel down.) </p>
+<p><strong>Warrick</strong>: It's bent in the direction Cory was driving.</p>
+<p><strong>Nick</strong>: Black transfer. Wasn't the undercarriage of Cory's jeep black?</p>
+<p>(Quick flash to: [ROAD] Cory's jeep runs over the marker on its way down the road. End of flash. Resume to present.) </p>
+<p><strong>Warrick</strong>: This marker would have grounded the jeep.</p>
+<p><strong>Nick</strong>: Completing the circuit, and theoretically, electrocuting the vehicle.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(The monitor reads:<br />
+Mother of Pearl Chip<br />
+Evidence # GS-17</p>
+<p>(Greg is back in the lab looking at the evidence. He scrapes the dust off of the chip and looks at it under the microscope.)</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE - DAY]</p>
+<p>(Greg walks into Grissom's office.) </p>
+<p><strong>Greg</strong>: I want to go back to the crime scene.</p>
+<p>(Grissom looks up and removes his glasses.) </p>
+<p>CUT TO:<br />
+[INT. KINGSLEY RESIDENCE - BASEMENT - STUDY - NIGHT]</p>
+<p>(The doors to the study open. Greg and Grissom enter the room.) </p>
+<p><strong>Greg</strong>: The grips of Dennis Kingsley's antique Colt .45 were mother of pearl, consistent with the chip collected here. I identified trace on the edge of that chip, and it's red clay dust.</p>
+<p>(He walks over to the fireplace and kneels down, looking inside.) </p>
+<p><strong>Greg</strong>: (sighs) The fire's fake, but these red clay bricks are real.</p>
+<p><strong>Grissom</strong>: So, what are you looking for?</p>
+<p><strong>Greg</strong>: Well, the killer obviously left with the gun. And if there was some kind of struggle, maybe the killer left behind some skin fragments or a strand of hair.</p>
+<p>(Greg looks around the fireplace.)</p>
+<p>(Quick flash to: [STUDY] Dennis Kingsley and the killer struggle for the gun. The gun flies out and a piece of the mother of pearl handle chips onto the floor.)</p>
+<p>(End of flash. Resume to present.) </p>
+<p><strong>Grissom</strong>: Was there any evidence of a struggle in this room?</p>
+<p><strong>Greg</strong>: Not really.</p>
+<p>(Greg continues to look completely into the fireplace. He flips the light switch on and finds something completely unexpected.) </p>
+<p><strong>Grissom</strong>: Well, so much for the obvious.</p>
+<p>(Hanging from a rubber tube tied to the top of the chimney is the missing gun.) </p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>WHITE FLASH IN.</p>
+<p>[INT. KINGSLEY RESIDENCE - BASEMENT - STUDY - NIGHT -- FLASHBACK]</p>
+<p>(Dennis Kingsley kneels in front of the fireplace and stretches the tubing tied around the gun handle. He sits down and cocks the gun as he places it at his temple.) </p>
+<p>(End of flash. Resume to present.) </p>
+<p>[INT. CSI - LAB - NIGHT]</p>
+<p>(Greg shares his findings with Sara.) </p>
+<p><strong>Sara</strong>: He committed suicide?</p>
+<p><strong>Greg</strong>: The man was a credit to his genre. He runs a loop of surgical tubing through the weapon secured inside the chimney.</p>
+<p>(Greg shows the photo of the gun hanging in the chimney.) </p>
+<p><strong>Greg</strong>: A shot of morphine a few minutes earlier takes the edge off.</p>
+<p><strong>Sara</strong>: And it provides extra insurance in case the gun doesn't finish the job.</p>
+<p>(Quick flash to: [STUDY] Kingsley shoots himself. He drops the gun and it recoils back up the chimney. End of flash. Resume to present.) </p>
+<p><strong>Greg</strong>: It would have been easy for him to plant Watson's brand of tobacco ash on his floor. I figure, Sherlock drew his own blood in advance and then sprayed it on Watson's shoe at their last meeting.</p>
+<p><strong>Sara</strong>: The world's greatest detective makes suicide look like murder?</p>
+<p>(Greg nods.) </p>
+<p><strong>Sara</strong>: Why would he try and frame his best friend in the process?</p>
+<p><strong>Greg</strong>: Well, Watson said they were friends, but who knows what kind of relationship they really had. Maybe they hated each other. Maybe Dennis couldn't stand the thought of anyone else being Sherlock. Besides, I thought motive wasn't our business.</p>
+<p><strong>Sara</strong>: It's not. Write it up, give the report to Grissom. Way to go.</p>
+<p><strong>Greg</strong>: All right.</p>
+<p>CUT TO:<br />
+[INT. CSI - GARAGE] </p>
+<p>(Nick and Warrick are busy prepping the dummy for their experiment. They wrap the dummy completely in plastic wrap.)</p>
+<p>(Through several time cuts, they proceed to make a gel mold of the dummy.) </p>
+<p>(They take the mold off of the dummy.)</p>
+<p>(Nick slaps the flat of his hand on the gel dummy's head.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY TO GARAGE] </p>
+<p>(Catherine walks into the garage. She finds Nick standing on the jeep setting the experiment up. The gel dummy is behind the driver's seat.) </p>
+<p><strong>Catherine</strong>: What ... what is going on?</p>
+<p><strong>Nick</strong>: We're finishing up the case.</p>
+<p><strong>Catherine</strong>: Do you know how much ballistic joe costs?</p>
+<p><strong>Warrick</strong>: I didn't know you did.</p>
+<p><strong>Catherine</strong>: I just thought you guys were gonna go over your notes, look over the case file.</p>
+<p><strong>Warrick</strong>: Well, hold on now. We found electrical burn marks on the roll bar and the jeep's undercarriage. And we found blown out fuses on the instrument panel and the starter. That would explain why the jeep wasn't running.</p>
+<p><strong>Nick</strong>: Yeah, we called Nevada Power, and they confirmed there was a downed power line the day of the accident.</p>
+<p><strong>Catherine</strong>: So, you're saying the victim was electrocuted?</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p><strong>Warrick</strong>: So we replaced the fuses, we connected the jeep to a power source, and we hooked up gelatin man here to a meter.</p>
+<p>(Nick bounces on the jeep.) </p>
+<p><strong>Catherine</strong>: Watch it wiggle, see it jiggle, I get it. Well, you're gonna need at least six milliamps to prove your theory.</p>
+<p><strong>Nick</strong>: I'm on it.</p>
+<p>CUT TO:<br />
+(They start the car engine.)</p>
+<p>(Warrick puts his goggles on.) </p>
+<p>(He flips the switch.) </p>
+<p>(The latch holding the pipe releases and swings down, connecting with the jeep.)</p>
+<p>(From their safe distance away, they see the jeep spark at the connection.) </p>
+<p>(The milliamps meter remains at zero.) </p>
+<p>(Catherine, Nick and Warrick watch the jeep sparks burn out.) </p>
+<p><strong>Catherine</strong>: Congratulations. You killed the jeep, but the victim's still alive. The current never even made it past zero. So, either your theory is wrong, or you've got a problem with your experiment. Are there any variables in the case that haven't been duplicated here?</p>
+<p><strong>Nick</strong>: Same vehicle, power's good. So, why isn't Mr. Wiggles connecting?</p>
+<p><strong>Warrick</strong>: He's naked.</p>
+<p><strong>Catherine</strong>: Well, let's dress him up.</p>
+<p>CUT TO:<br />
+(They finish putting clothes on the gel dummy.)</p>
+<p>(They start the car engine. Warrick, Nick and Catherine put their goggles on. Warrick flips the switch.) </p>
+<p>(The powerline hits the jeep bar.)</p>
+<p>(Quick CGI POV to: The surge of electricity sparks through the jeep bar and down to the side of the jeep frame. It makes contact with the victim's wrist watch, through the victim and out through the metal rivets in the victim's shorts. End of CGI POV.)</p>
+<p>(The milliamps meter is at seven.) </p>
+<p>WHITE FLASH TO: </p>
+<p>(Warrick, Nick and Catherine meet at the jeep.)</p>
+<p><strong>Warrick</strong>: So, the current came into the vehicle from the roll bar, and it went out through the undercarriage.</p>
+<p><strong>Catherine</strong>: It needed an entry point and exit point.</p>
+<p><strong>Nick</strong>: Entry through the, uh, the watch on his wrist and then exit through the rivets in his shorts.</p>
+<p><strong>Catherine</strong>: Right across his heart, stopping it cold.</p>
+<p>(Quick flash to: [ROADSIDE-DAY] The jeep is traveling down the road. It hits the downed power line and runs over the metal mile marker just as the power line hits the jeep bar.) </p>
+<p>(Cut to: The jeep rolls down the side of the hill and stops at the bottom in front of the tree.)</p>
+<p>(End of flash. Resume to present.) </p>
+<p><strong>Catherine</strong>: So I know that I've never said this to you guys before, but ... hide the evidence.</p>
+<p><strong>Nick</strong>: (chuckles) Thanks for getting our back.</p>
+<p><strong>Catherine</strong>: We're a team, guys.</p>
+<p><strong>Warrick</strong>: Oh, since we're a team, you gonna help us clean up?</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p>(Catherine laughs.) </p>
+<p><strong>Catherine</strong>: No. I'm the boss.</p>
+<p>(She turns and leaves. Warrick and Nick chuckle.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY - NIGHT - CONTINUOUS]</p>
+<p>(Catherine meets Ecklie in the hallway.) </p>
+<p><strong>Conrad Ecklie</strong>: I thought you told me you closed the Cory Demayo case. Catherine, nothing happens in this lab that I don't know about.</p>
+<p><strong>Catherine</strong>: Then I'm sure you know the case is now closed.</p>
+<p><strong>Conrad Ecklie</strong>: Did I make a mistake promoting you?</p>
+<p><strong>Catherine</strong>: Yeah, you should have given me the day shift. But I'm making it work.</p>
+<p>(Catherine walks away.)</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE - NIGHT]</p>
+<p>(Grissom reads through Greg's final report.) </p>
+<p>(He thinks about it and flips back to the report:<br />
+MORPHINE .07</p>
+<p>(Grissom picks up the police autopsy report. He reads through it:<br />
+ADDITIONAL TESTING PERFORMED<br />
+COCAINE Elevated</p>
+<p>(He picks up the first report with the syringe contents: MORPHINE.)</p>
+<p>(He again looks at the autopsy report: COCAINE.) </p>
+<p>(Something's not adding up. Camera holds on Grissom.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LOCKER ROOM -- DAY] </p>
+<p>(Greg is putting on his shoes while listening to rock music on his earphones.) </p>
+<p>(Grissom appears in the doorway holding the open file folder.) </p>
+<p><strong>Grissom</strong>: Greg.</p>
+<p>(Greg doesn't hear him.) </p>
+<p><strong>Grissom</strong>: (louder) Hey, MTV boy. (Greg removes the earphones and turns the music off.) I have a question about your report.</p>
+<p><strong>Greg</strong>: Okay.</p>
+<p><strong>Grissom</strong>: According to autopsy, the victim showed long-term effects of cocaine abuse.</p>
+<p><strong>Greg</strong>: That's right.</p>
+<p><strong>Grissom</strong>: But according to tox, the substance in the victim's syringe was a seven percent solution of morphine.</p>
+<p><strong>Greg</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: The victim was an obsessive compulsive. In the stories, Holmes' preferred stimulant was a seven percent solution of cocaine, not morphine.</p>
+<p><strong>Greg</strong>: Evidence out of context.</p>
+<p><strong>Grissom</strong>: Did you ever consider the possibility that the victim didn't realize what he was injecting himself with?</p>
+<p><strong>Greg</strong>: No. You think someone switched his coke with morphine?</p>
+<p><strong>Grissom</strong>: You found the victim's fingerprints on the gun, but you found no prints on the surgical tubing, no epithelials either. Does that make sense if it was a suicide?</p>
+<p><strong>Greg</strong>: I guess not.</p>
+<p><strong>Grissom</strong>: Do you have any other suspects who have access to morphine or surgical tubing?</p>
+<p><strong>Greg</strong>: I can find out.</p>
+<p><strong>Grissom</strong>: I would do that.</p>
+<p>(Grissom turns and leaves. Greg sighs heavily as he buttons his jacket and kicks his locker door closed.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- NIGHT] </p>
+<p>(Grissom is examining the tubing under the magnifying glass. Greg walks into the lab.) </p>
+<p><strong>Greg</strong>: I went through the medical records for all of our suspects. As far as I can tell, none of them have ever been prescribed morphine. I think Watson's our best bet. The guy is a security guard at Desert Palms; he was certainly around morphine.</p>
+<p>(Greg looks over Grissom's shoulder as Grissom cuts open the tubing.) </p>
+<p><strong>Grissom</strong>: Tobacco leaves. Run a quick comparison. This has to belong to one of our suspects.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) -- NIGHT] </p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- NIGHT] </p>
+<p>(Brass interviews Kay Marquette, Irene Adler. Greg watches from the observation room.)</p>
+<p><strong>Brass</strong>: Do you like your life?</p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: What kind of question is that?</p>
+<p><strong>Brass</strong>: Well, I mean, I've seen how happy you are at work. And then I know you come home to Mom and I guess she has terminal cancer. That's got to be tough.</p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: Yeah, well, you try giving enough attention to someone who never gave you any. </p>
+<p><strong>Brass</strong>: But the Sherlock Holmes Club, that's got to be one bright spot, hmm?</p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: The one place I could go every week where no one was grabbing my butt or staring at my breasts. The one place I could talk, think.</p>
+<p><strong>Brass</strong>: You must have been pretty devastated when Dennis Kingsley decided to break up the club, huh?</p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: (shrugs) It was a disappointment.</p>
+<p>(Quick flashback to: [STUDY - NIGHT] Dennis Kingsley talks with his group.) </p>
+<p><strong>Dennis Kingsley</strong>: Next week will be the final meeting of our society. But I give you my word, it shall be an evening none of you will ever forget.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Brass</strong>: I think it's a lot more than that. </p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: I don't know what you mean.</p>
+<p>(Brass slides the report across the table toward Kay.) </p>
+<p><strong>Brass</strong>: Well ... the tobacco -- your blend is Cavendish.</p>
+<p>(Quick flash to: The contents of Kay's purse are a pipe and some surgical tubing.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Brass</strong>: Okay, why don't I tell this like a story, you know, like the end of a story, all right? Because I like the part where the detectives solve the crime. So here goes. On the day of the murder, you broke into Denny Kingsley's house. That's easy enough, the lock's crummy. You snuck downstairs. You replaced his cocaine with morphine, because you knew he was a creature of habit. So now all you had to do is wait.</p>
+<p>(Quick flashback to: [STUDY - NIGHT] Kay sets up the suicide and pulls the trigger.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Brass</strong>: So you sprinkle some of Dr. Watson's pipe tobacco in the carpet. You scoop up some of Denny's blood, to splash on Watson's shoes later. Why the elaborate frame-up of Watson? He had as much to lose as you.</p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: Because he's the one that told Denny to give it all up and go back to his family. Because he's the one that wanted to be Sherlock Holmes, because he didn't care what it was doing to me.</p>
+<p>(She sniffles and leans forward.) </p>
+<p><strong>Kay Marquette (Irene Adler)</strong>: You see, Detective ... (British accent) Denny would have wanted his murder to be the perfect puzzle. A mystery worthy of the master.</p>
+<p>(She starts laughing.)</p>
+<p>(Camera refocuses on Greg in the observation room.) </p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY - NIGHT - CONTINUOUS]</p>
+<p>(Greg walks dejectedly through the hallway. At the end of the hallway, Warrick and Nick are talking.) </p>
+<p><strong>Nick</strong>: Hey, Greg, Grissom wants to see you.</p>
+<p><strong>Warrick</strong>: Like now, in his office.</p>
+<p>(Greg turns around and sighs heavily. Might as well get this over with.) </p>
+<p>(He heads for Grissom's office.) </p>
+<p>[INT. CSI - GRISSOM'S OFFICE - NIGHT - CONTINUOUS]</p>
+<p>(Greg walks into the office. He sees a dark figure behind Grissom's desk in his chair.) </p>
+<p><strong>Greg</strong>: Grissom. You wanted to see me.</p>
+<p>(The chair swings around and we see that it's Mr. Gel Dummy dressed up as Grissom, a large sign stuck on his chest:<br />
+YOU PASSED!</p>
+<p>(Everyone steps out into the room - Nick, Warrick, Sara, Catherine and Grissom. Ecklie is with them. They cheer and applaud him. Sara gives Greg a hug. Catherine kisses Greg's cheek and gives him a hug.) </p>
+<p><strong>Catherine</strong>: Well done.</p>
+<p>(Everyone shakes his hand. Grissom smiles proudly at Greg.) </p>
+<p><strong>Conrad Ecklie</strong>: Congratulations, Sanders. Good work.</p>
+<p><strong>Greg</strong>: Thank you.</p>
+<p><strong>Conrad Ecklie</strong>: Okay, gang, there's people to put in jail. Let's get back to it, shall we? Come on, come on, now. Party's over. Let's go.</p>
+<p>(Everyone leaves.) </p>
+<p><strong>Nick</strong>: Good job.</p>
+<p>(Greg looks at Grissom.) </p>
+<p><strong>Greg</strong>: I don't get it. I got the wrong guy, the wrong manner of death.</p>
+<p><strong>Grissom</strong>: I don't expect you to be correct in all your interpretations all the time. You collected the evidence. You thought there was something missing, you went back and found it. Hey, that's the job. Congratulations, Greg.</p>
+<p>(They shake hands.) </p>
+<p><strong>Greg</strong>: Thank you.</p>
+<p>(In the doorway, Catherine holds up a bottle of champagne while the others hold their glasses. They're waiting for Greg.) </p>
+<p>(Greg goes to join them. He rushes over and they hand him his glass.) </p>
+<p><strong>Voice</strong>: Cheers. To you.</p>
+<p>(Camera holds on Grissom as he watches them celebrate.) </p>
+<p>FADE TO BLACK</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
- 
-
-
- 
-
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- 
-DISSOLVE TO:
- 
-
-
- 
- 
-Grissom: Deerstalker cap ... violin ... meerschaum pipe ... even a Persian slipper with tobacco stuffed in the toe, I imagine.
- 
-Grissom: All in all, a meticulous recreation of 221-B Baker Street: Residence of the world's greatest detective, Sherlock Holmes.
-Brass: Also known as Dennis Kingsley, delivery guy. What do you think?
-Grissom: Ask Greg. It's his case. It's his final proficiency -- emphasis on the &quot;final&quot;.
-Brass: Okay, Dr. Watson, run it.
-Greg: Victim's in a relaxed position in front of a fake fire. Alcohol. Solitude.
- 
-Greg: Powder burns around the entrance wound. Close to contact shot.
- 
-Greg: It all suggests suicide.
-Brass: Well, if he killed himself, where's the weapon?
- 
-Greg: Huh ... family and friends who discover a body sometimes remove the weapon to make it look like murder. No suicide stigma and better chances of collecting any life insurance.
-Brass: From the look of the place upstairs, this guy lived alone, and the neighbors heard the shot, so ... pretty good. I guess I'll, uh, go interview the neighbors.
- 
-Greg: So, are you going to say, &quot;the game's afoot&quot;?
-Grissom: I didn't know you were a Conan Doyle fan, Greg.
-Greg: I'm not. I saw a Sherlock Holmes movie once by mistake.
-Grissom: Well, just so you know ... those movies never ended like this.
- 
-FADE TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Biker: I'll see if I can hook you up. Give me a call.
-Brass: All right. Yeah, okay.
- 
-Grissom: Anything useful?
-Brass: Well, I found out if I ever need a home loan, as a public servant, I'm pre-approved. You know, the guy looks like a, uh, drug dealer. Turns out he's a mortgage broker.
-Grissom: Well, we all have our costumes, Jim.
-Brass: Yeah.
- 
-Brass: Yeah, apparently some more than others.
- 
-Grissom: I assume you're friends of Mr. Kingsley?
-Nelson Oakes : We are friends of Mr. Holmes.
-Kay Marquette : Invited guests, in point of fact.
-Josh Frost : This is all so contemporary.
-Grissom: Well, I'm with the Las Vegas crime lab.
-Nelson Oakes : Ah, a colleague. Perhaps we can be of some assistance.
-Kay Marquette :  Yes. Have you discovered any shoe impressions in the soil?
- 
-Grissom: Not yet. This is a crime scene.
-Josh Frost : Oh, a scenario created for our own entertainment, yes?
- 
-Grissom: I guess it depends on what you find entertaining.
-Josh Frost : Oh, God.
- 
-
-
- 
-Sara: Anyone for pizza?
-Greg: Very funny.
- 
-Greg: Got it.
- 
-Sara: Ooh. BFB. Big freakin' bullet.
- 
-Greg: Nose is mushroomed. Looks like pure lead. Two cannelures consistent with a revolver. One, two, three, four, five, six lands and grooves. Left hand twist.
-Sara: Which usually means ... ?
-Greg: Colt .45?
- 
-Greg: Are you checking up on me?
-Sara: No, no, no, no. Grissom said he was just evaluating you on processing this one room, so ... I figured maybe you could use some help with the rest of the house.
-Greg: Thanks.
- 
- 
- 
-Sara: Guess everyone needs a hobby.
-
- 
- 
-Kay Marquette : We would study the Holmes text in cases and important 19th century events.
-Nelson Oakes : We met every Thursday night.
-Josh Frost : You make it sound like a bowling league. This is a serious literary association.
- 
-Josh Frost : As usual, Dr. Watson, subtlety is lost upon you. You see a stab wound above her breast and overlook the absence of blood on the chair as well as the fact that her skirt is raised. This body was posed, and quite beautifully, I might add.
-Nelson Oakes : Moriarty, if evil for evil's sake were a pathological condition, it would be your diagnosis.
-Kay Marquette : Gentlemen, your disdain for one another distracts you from the truth. The wedding picture on the wall? The victims were husband and wife.
-Dennis Kingsley: As usual, Miss Adler, your deduction is correct. It was indeed a crime of passion.
- 
-Brass: Sounds fun. When was the last time you saw Dennis Kingsley?
-Josh Frost : Last Thursday.
-Kay Marquette : He said that he was going to make this meeting really special.
- 
-Dennis Kingsley: It seems our time here tonight has ended, and that, I fear, is the gist of the announcement I must share with you now. Next week will be the final meeting of our society, but I give you my word: It shall be an evening none of you will ever forget.
- 
-Kay Marquette : I didn't think that he meant this.
-Brass: We're going to need names and contact information.
-Grissom: It would also be helpful if you'd let us take your fingerprints.
-Nelson Oakes : Why?
-Grissom: Elementary. So we can rule you out. You've all obviously been in the study on numerous occasions. We need to find out if the prints we find are relevant.
-Josh Frost : So you actually think this is something other than suicide?
-Brass: You know, I think you ought to drop the accent.
-Josh Frost : I can't. I'm English.
-Brass: Oh.
-
-
- 
-
-
- 
- 
-
- 
-
- 
-Sara: There's possible signs of forced entry at the back door. It could be recent. Also, I think the vic had a family at some point. Brass is on it.
- 
-Greg: Check this out.
- 
-Sara: The Hound of the Baskervilles. I read that in tenth grade.
-Greg: Oh, yeah - I was supposed to.
- 
-Greg: There's a blood stain on the page ends.
-Sara: Huh.
- 
-Sara: The spatter goes across and over. That stain did not come from this event.
- 
-Sara: It could be the vic's, or it could be stage blood, for that matter.
-Greg: Do you think an obsessive neat freak like our vic would leave something like that on one of his most prized possessions?
-Sara: I think ... there's only one way to find out.
-
-
- 
- 
-
- 
-
-
- 
-Det. Chris Cavaliere: Hey, Nick.
-Nick: Hey, Chris.
-Det. Chris Cavaliere: Nevada power guys -- they saw the jeep, called it in. I ran the plates. R.O. is, uh, Cory Demayo, 25. Lives on Florentine.  Spoke to the roommate. Driver fits the description.
-David Phillips: Vic's got a contusion on his forehead. Probably from the impact.
-Nick: Yeah, I can see that. It's just hard to believe that's what killed him.
- 
-Warrick: I didn't see any skid marks on the road up there. There's no signs he tried to brake.
-David Phillips: Well, maybe he fell asleep at the wheel.
-Nick: Uh, coming over that embankment? That would've woke him up. Key's still in the ignition. Car's in drive. Engine's not running.
-Warrick: Did the paramedics open this door?
-Det. Chris Cavaliere: Vitals were taken through the open window. Door was ajar when we arrived on the scene.
- 
-Warrick: Hey, Nick, check this out.
-Nick: Oh.
-Warrick: Guy was getting high. Think that's the reason he missed the curve up there?
-Nick: You think?
- 
-Warrick: Ah. We got a wallet.
- 
-Nick: Yeah, yeah.
-(Det. Cavaliere checks the Nevada Driver's License. It reads:
-DEMAYO, CORY
-6878 FLORENTINE RD.
-LAS VEGAS
-Det. Chris Cavaliere: Cory Demayo. Fits the description. No cash, no plastic.
-Nick: This is a pretty remote place for an accident. But you think someone saw it, took advantage of the situation?
-Warrick: Maybe he wasn't alone. Maybe the passenger survived, then emptied out his wallet, took off.
-Nick:  Maybe.
-
-
-
- 
- 
- 
-
-
- 
-Robbins: This guy really dress up like Sherlock Holmes?
-Sara: At least once a week, evidently, like those civil war re-enactors. I, uh, never understood that.
-Robbins: Yeah. In any event, C.O.D. was no surprise. Perforating contact range, gunshot to the right temple.
- 
-Greg: Got the tox. Cocaine metabolites in the vic's urine. 500 nanograms per M.O.
-Robbins: You only see levels that high in chronic users.
-Sara: Those are the track marks.
-Greg: Yeah, but there was also morphine in his blood and in the syringe.  Seven percent solution, morphine sulfate and water. Sherlock went from crack to smack.
-Sara: Morphine metabolites in his system but no heroin metabolites? He wasn't on street junk. This is pharmaceutical-grade stuff.
-Greg: And at a pretty hefty dose, too. How fast for the injection to take effect?
-Robbins: Given his size, he would've been incapacitated in a matter of seconds.
-Greg: Not much time to undo the works, put away his antique syringe, pick up a gun and blow his brains out.
-Sara: Wait a minute. The GSR test on his hand was positive. What are you getting at?
- 
-Greg: Well, maybe Sherlock had some help.
-
-
-
-
-
- 
- 
-Det. Chris Cavaliere: Hey, when was the last time you saw Cory?
-Lyle Davis: Yesterday. Just kicking it, like me.
-Warrick: How'd you get that bruise on your dome, man?
-Lyle Davis: Oh, uh, windsurfing.
-Det. Chris Cavaliere: Hey, you guys go out there together?
-Lyle Davis: Yeah. Well, he's got the wheels, so ... 
-Warrick: So you drove back together?
-Lyle Davis: No. I sort of hooked up with this chick, so I bounced.
-Warrick: Nice. You know the chick's name?
-Lyle Davis: Uh, Jennifer.
-Det. Chris Cavaliere: Jennifer who?
-Lyle Davis: Jennifer, uh ...  ... nipple ring.
- 
-Warrick: &quot;Jennifer nipple ring&quot;. Lyle, were you guys, uh, getting high yesterday? You smoke some weed? 
-Lyle Davis: Nope.
-Warrick: No? All right, let me tell you what I think happened. You and Cory got stoned, and you drove away. Cory lost control of the jeep ...
- 
-Warrick:  ...at which point, you couldn't wake him up,
- 
-Warrick:  so you decided to take advantage of the situation, and you rifle through his wallet and leave.
-
- 
-Lyle Davis: Man, that is not what went down.
-Det. Chris Cavaliere: You're looking at robbery, leaving the scene, failure to report an accident. That's a lot of years, man.
-Lyle Davis: I didn't get back in the car with Cory, and if I had, I wouldn't have left him!
-Warrick: Lyle, we're going to need a DNA sample from you.
-Lyle Davis:  What? Why?
-Warrick: Just to prove that, uh, your lips weren't on that joint that we found in the jeep.
-Lyle Davis: All right, man. Let me just be straight with you guys for a second here. I admit Cory and I sparked up at the lake, okay? But then he took off. Three weeks ago, I was busted for pot, okay? The judge gave me diversion. You guys file charges, I'm screwed. I will never get into dental school.
- 
-
- 
- 
-Hodges: The fragment you found at the scene? It's a mother of pearl. It could be from an ornament or a piece of jewelry.
-Greg: It could be from a lot of things.
-Hodges: Yeah, that it could, Mr. Proficiency. 
- 
-Hodges: I also I.D.'d the ash on the floor. Perique tobacco, grown in only one spot on earth: St. James Parish, Louisiana.
-Greg: The same as the umber of tobacco in the victim's slipper?
-Hodges: No, completely different make. Cheap, strong, low-grade stuff.
-Grissom: Shag tobacco.
-Hodges: Yeah. How'd you know?
-Grissom: That's what Holmes smoked.
-Hodges: Bad habit, even for a fictional character.
-Grissom: You do have two suspects with pipes.
-Greg: Yeah ... and, uh, smoking kills.
-
- 
- 
-Bar Customer : We got to stop meeting like this, baby.
-Kay Marquette : How was your game?
-Bar Customer : I'm swinging a hot stick tonight, babe.
- 
-Kay Marquette :  Can I get you something?
-Brass: No, I'm just looking for someone.
-Kay Marquette : You're staring at me.
-Brass: Oh. Uh ... I'm sorry. I didn't recognize you from last night. Is that a friend of yours?
-Kay Marquette : Give me a break. Did that guy look like a friend of mine? Every time he touches me, I want to kick him in the scrotum, but he's a big tipper. I've got a sick mother and rent to pay.
-Brass: Well, I just have a couple of questions. At Denny Kingsley's, you were smoking a pipe.
-Kay Marquette : Yeah ... a meerschaum.
-Brass: I'm going to need it.
-Kay Marquette : Why?
-Brass: Let me worry about that, okay?
-Kay Marquette : Uh, J.J., can you hand me my purse, please?
-J.J. : Okay.
- 
-
- 
- 
- 
-Sara: Dr. Watson? I'm Sara Sidle with the Crime Lab.
-Nelson Oakes : Hello.
-Sara: Do you have a minute? I'm here to collect your meerschaum pipe as well as any other tobacco products you might have in your possession.
-Nelson Oakes : I don't smoke anything illegal.
- 
-Sara: You haven't been accused of that.
-Nelson Oakes : Anyway, my pipe is at home.
-Sara: No problem. Let's go.
-Nelson Oakes : Look, I'm working.
-Sara: We've already talked to your boss, and I have a warrant. Let me get that for you. 
- 
-Sara: Were you wearing those shoes at your last club meeting?
-Nelson Oakes : Yeah. They're not technically right for the period, but black leather shoes are black leather shoes. I'm not the same stickler for detail that Denny was.
-Sara: Apparently not.
-
-
- 
- 
-Robbins: Vic was physically fit. Scratches and abrasions are ante-mortem, unrelated to the accident.
-Nick: The contusion on the forehead was, uh, superficial, right?
-Robbins: You are right.
-Warrick: Okay, so what's the cause of death, Doc?
-Robbins: Undetermined.
-Nick: But you're still working on it, right?
-Robbins: Unless some other evidence comes to light, I'm done. Sometimes I can't tell you why they die.
- 
-
-
- 
-Warrick: What you got?
-Nick: Passenger door latch is busted. It could've happened during the accident.
-Warrick: Well, that is consistent with the roommate's story. Says he wasn't in the passenger seat during the time of the crash.
-Nick: What'd you get back from tox?
-Warrick: Tox came back positive for low levels of cannabis.
-Nick: I know marijuana slows your reaction time, but based on the lack of skid marks at the scene, the position of the vehicle, I don't think this guy ever hit the brakes.
-Warrick: Well, maybe he did hit the brakes. Did you check 'em?
-Nick: Come on, you're a bigger boy than me.
-Warrick: Yeah, you can't do anything yourself, can you?
- 
-Warrick: You ready?
-Nick: Yeah, yeah, put your back into it.
- 
-Warrick: Brakes work. Brake lights are working, so that means the battery's okay.
-Nick: Yeah, but the gauges are all off. The panel's not even working. Okay, ignition was on, but the engine wasn't running, so ... what? No gas?
- 
-Warrick: That tank is full of fuel, man.
-Nick: Cory was in good shape. The jeep seems to be in decent condition, so ...
- What happened out there?
-
- 
- 
-Conrad Ecklie: Swing shift's short a couple of bodies.
-Catherine: Yes, and when is that going to change?
-Conrad Ecklie: Not anytime soon -- Catherine, there are budget constraints. You'll have to prioritize.
- 
-Warrick: Should we come back?
-Conrad Ecklie: No, no, no, come on in. So, how's your, uh, your surfer dude case?
-Warrick: Uh, the victim's roommate admits they got high together, but denies being in the jeep at the time of the accident. At this point, we can't place him there.
-Nick: Brakes on the jeep were functioning. The driver should've been able to stop.
-Catherine: Any signs of foul play?
-Nick: No. Something's not right.
-Conrad Ecklie: All right, nothing suspicious and no crime's committed? Put the case to bed. I'm sure your supervisor can keep you busy. Close it.
- 
-Warrick: Sounds like he's more concerned with getting it done than getting it right.
-Catherine: Are you guys satisfied?
-Nick: We don't have an answer.
-Catherine: Then get one.
-Warrick: What about Ecklie?
-Catherine:  My problem, not yours.
-
-
- 
-
-
-
- 
-
- 
-
-
-
-Brass: You nervous?
-Nelson Oakes : A little.
- 
-Brass: Relax. Relax. Just two law enforcement professionals talking to one another, that's all.
-Nelson Oakes : I'm a security guard. Don't patronize me.
-Brass: I bet you always wanted to be a cop, am I right? So what happened? Flunk the physical? Huh? That's okay; lot of guys do. No? What was it then, psych?
-Nelson Oakes : I was on medication. You can't be a cop if you're on this medication.
-Brass: But you can be Sherlock Holmes.
-Nelson Oakes : I was Dr. Watson ... 
-Brass: Right.
-Nelson Oakes : ... in our club. Denny was Sherlock Holmes.
- &quot;There can only be one.&quot;
-Brass: So, when Denny wasn't there, you could be Sherlock.
-Nelson Oakes : I suppose.
-Brass: That why you killed him?
-Nelson Oakes : I didn't kill him. Denny was a friend, and if I wanted to be Sherlock, all I had to do was wait. Denny was quitting. We talked about it a lot. He said he was going back to his wife.
-Brass: So you went to his house, you shot him, and then you left, and you came back later with your pals and acted like nothing happened.
-Nelson Oakes : I went straight home after work.
-Brass: His blood on your shoe, tobacco ash from your pipe on the carpet next to his body -- that puts you where he was killed.
-Nelson Oakes : No way.
-Brass: Look, there are two kinds of stories: Fact and fiction.
-Nelson Oakes : I know that. 
-Brass: Sherlock Holmes: Fiction. Dennis Kingsley's murder: Fact. Your story: Fiction.
-Nelson Oakes : No, I swear. God help me, I'm telling the truth. I-
-I wasn't there. I didn't kill Denny.
-
- 
- 
-Sara: DNA confirms that the blood on Watson's shoe is a match to your vic. We got him. 
- 
-Sara: Feel like celebrating after shift? I'm buying.
-Greg: These blood drops aren't uniform. Some of them are clotted red cells, but others are pure serum.
- 
-Greg: It takes at least twenty minutes for blood to clot and separate. If Watson killed Sherlock, the blood drops on his shoe would all be the same.
-Sara: The killer takes some of the victim's blood at the scene ...
- 
-Sara:  ...the red blood cells in the serum separate and get sprayed on the shoe later.
-
-Sara: Somebody's trying to frame Watson.
- 
-
-
-
-;
-
-
-
- 
- 
-Greg: Jeez, all his stuff is up for auction. This is Dennis Kingsley's entire collection. He's getting rid of everything.
-Archie: Might have needed the cash?
-Sara: I don't know. Maybe he was just trying to get back to reality.
-Greg: Hold it. 
- 
-Greg: Murder weapon was a Colt .45 revolver, current whereabouts unknown.
-Archie: Huh, I thought you were looking for a book.
-Sara: We are.  We ran DNA on this blood stain. It's not the victim's, and there's no hits through CODIS.
-Archie: You think it's the killer's?
-Sara: Maybe.
-Greg: Come on, let's keep going.
- 
-Greg: There it is - &quot;The Hound of the Baskervilles&quot;.
- 
-Sara: When he photographed it, there was no blood on the pages.
-Greg: Can you pull up the bidding history?
-Archie: Yes, I can.
-Greg: Let's see who's interested.
-(The list reads:
-BIDDING HISTORY ITEM # 0578154
-THE HOUND OF THE BASKERVILLES
-# OF BIDS: / TIMES / BIDDER HANDLES:
-1 / 10:50 pm / Nikig0017 - Los Angeles, CA
-1 / 11:20 am / Reichenbach - Henderson, NV
-1 / 1:22 pm / Filia_30 - New York, NY
-1 / 5:25 pm / Reichenbach - Henderson, NV
-1 / 6:30 pm / Reichenbach - Henderson, NV
-1 / 10:05 am / Nikig0017 - Los Angeles, CA
- 
-Archie: Huh. Reichenbach.
-Greg: What's the big deal about that?
-Archie: Reichenbach Falls? 
- 
-Archie: It's where Professor Moriarty killed Sherlock Holmes.
-
- 
- 
-
-Josh Frost : The 1902 first British Edition of the Hound? Of course I wanted it. I'm a doctoral candidate in English history. I helped Denny create that astonishing verisimilitude of Sir Arthur Conan Doyle's Britain. 
-Sara: Oh.
-Josh Frost : Order!
- 
-Sara: He was selling the collection off in pieces. It must have pissed you off.
-Josh Frost : He was a self-destructive narcissist. If he had to give it up, we all had to give it up.
-Sara: And you weren't willing to do that?
-Josh Frost : As you can see, the modest stipend I get from my graduate studies doesn't go far. What I offered for the Hound is every penny I had. Order!
- 
-Greg: But then he put it up for auction, and made you bid for it. When the price got too high, you confronted him.
-Josh Frost : That is empty speculation, my friend.
-Sara: Hold out your hands for me, please?
-Josh Frost : My hands?
-Sara: Yeah. Your hands.
-Josh Frost : Fine.
- 
-Greg: Ooh, that looks like a paper cut to me. Are we gonna find your blood on that book?
-
-Dennis Kingsley: If you can't pay me what it's worth ...
-Josh Frost : Oh, come on, you owe me as much. Come on. Come ...
- 
-Dennis Kingsley: Give it!
- 
-Josh Frost : Ow! Bloody hell, Dennis.
- 
-Josh Frost : Fine, fine, fine. Yes, I stopped by Dennis's house earlier that evening to make my case, but I didn't kill him. If I had, believe me, I would have taken that book.
-
-
-
- 
-Warrick: Tow truck will be here in about an hour.
-Nick: All right, we're on the clock. Let's take this thing apart.
- 
- 
- 
- 
- 
-Nick: Hey, I've got some blown fuses and some fried wiring up here.
-Warrick: Yeah?
-Nick: Yeah.
-Warrick: I've got some burn marks on the undercarriage. And I found something similar on the roll bar, as well.
-Nick: Well, that would indicate some sort of electrical shock.
-Warrick: Well, if an electrical charge traveled through the jeep, and shorted out the wiring, it would have shocked Cory, as well.
-Nick: Like what, lightning?
-Warrick: Yeah, but it was clear yesterday. Whatever it was, it zapped the hell out of his jeep.
-Nick: Let's go back out there and check it out.
-
- 
- 
-Nick: Cory was coming from Lake Mead, which is that way.
-Warrick: Let's walk.
-Nick: Yeah.
-
- 
- 
-Nick: Wire trimmings. They look fresh.
- 
-Nick: Looks like a new splice on those wires.
-Warrick: Well, the power company originally called that jeep in. They must have been out here fixing the lines. Maybe it was a down line. That would give us the high voltage power source right there.
-Nick: Yeah, but even if a live wire struck the roll bar, the tires would have insulated the vehicle.
-Warrick: Right. Without a path to ground, electricity is harmless.
- 
-Warrick: What about that road marker?
- 
-Warrick: It's bent in the direction Cory was driving.
-Nick: Black transfer. Wasn't the undercarriage of Cory's jeep black?
- 
-Warrick: This marker would have grounded the jeep.
-Nick: Completing the circuit, and theoretically, electrocuting the vehicle.
-
- 
-(The monitor reads:
-Mother of Pearl Chip
-Evidence # GS-17
-
-
-
- 
-Greg: I want to go back to the crime scene.
- 
-
-
- 
-Greg: The grips of Dennis Kingsley's antique Colt .45 were mother of pearl, consistent with the chip collected here. I identified trace on the edge of that chip, and it's red clay dust.
- 
-Greg:  The fire's fake, but these red clay bricks are real.
-Grissom: So, what are you looking for?
-Greg: Well, the killer obviously left with the gun. And if there was some kind of struggle, maybe the killer left behind some skin fragments or a strand of hair.
-
-
- 
-Grissom: Was there any evidence of a struggle in this room?
-Greg: Not really.
- 
-Grissom: Well, so much for the obvious.
- 
-
-
-
-
-
- 
- 
-
- 
-Sara: He committed suicide?
-Greg: The man was a credit to his genre. He runs a loop of surgical tubing through the weapon secured inside the chimney.
- 
-Greg: A shot of morphine a few minutes earlier takes the edge off.
-Sara: And it provides extra insurance in case the gun doesn't finish the job.
- 
-Greg: It would have been easy for him to plant Watson's brand of tobacco ash on his floor. I figure, Sherlock drew his own blood in advance and then sprayed it on Watson's shoe at their last meeting.
-Sara: The world's greatest detective makes suicide look like murder?
- 
-Sara: Why would he try and frame his best friend in the process?
-Greg: Well, Watson said they were friends, but who knows what kind of relationship they really had. Maybe they hated each other. Maybe Dennis couldn't stand the thought of anyone else being Sherlock. Besides, I thought motive wasn't our business.
-Sara: It's not. Write it up, give the report to Grissom. Way to go.
-Greg: All right.
-
- 
-
- 
-
-
-
- 
- 
-Catherine: What ... what is going on?
-Nick: We're finishing up the case.
-Catherine: Do you know how much ballistic joe costs?
-Warrick: I didn't know you did.
-Catherine: I just thought you guys were gonna go over your notes, look over the case file.
-Warrick: Well, hold on now. We found electrical burn marks on the roll bar and the jeep's undercarriage. And we found blown out fuses on the instrument panel and the starter. That would explain why the jeep wasn't running.
-Nick: Yeah, we called Nevada Power, and they confirmed there was a downed power line the day of the accident.
-Catherine: So, you're saying the victim was electrocuted?
-Nick: Yeah.
-Warrick: So we replaced the fuses, we connected the jeep to a power source, and we hooked up gelatin man here to a meter.
- 
-Catherine: Watch it wiggle, see it jiggle, I get it. Well, you're gonna need at least six milliamps to prove your theory.
-Nick: I'm on it.
-
-
- 
- 
-
- 
- 
- 
-Catherine: Congratulations. You killed the jeep, but the victim's still alive. The current never even made it past zero. So, either your theory is wrong, or you've got a problem with your experiment. Are there any variables in the case that haven't been duplicated here?
-Nick: Same vehicle, power's good. So, why isn't Mr. Wiggles connecting?
-Warrick: He's naked.
-Catherine: Well, let's dress him up.
-
-
- 
-
-
- 
-
-
-Warrick: So, the current came into the vehicle from the roll bar, and it went out through the undercarriage.
-Catherine: It needed an entry point and exit point.
-Nick: Entry through the, uh, the watch on his wrist and then exit through the rivets in his shorts.
-Catherine: Right across his heart, stopping it cold.
- 
-
- 
-Catherine: So I know that I've never said this to you guys before, but ... hide the evidence.
-Nick:  Thanks for getting our back.
-Catherine: We're a team, guys.
-Warrick: Oh, since we're a team, you gonna help us clean up?
-Nick: Yeah.
- 
-Catherine: No. I'm the boss.
-
-
-
- 
-Conrad Ecklie: I thought you told me you closed the Cory Demayo case. Catherine, nothing happens in this lab that I don't know about.
-Catherine: Then I'm sure you know the case is now closed.
-Conrad Ecklie: Did I make a mistake promoting you?
-Catherine: Yeah, you should have given me the day shift. But I'm making it work.
-
-
-
- 
-(He thinks about it and flips back to the report:
-MORPHINE .07
-(Grissom picks up the police autopsy report. He reads through it:
-ADDITIONAL TESTING PERFORMED
-COCAINE Elevated
-
- 
- 
-
- 
- 
- 
-Grissom: Greg.
- 
-Grissom:  I have a question about your report.
-Greg: Okay.
-Grissom: According to autopsy, the victim showed long-term effects of cocaine abuse.
-Greg: That's right.
-Grissom: But according to tox, the substance in the victim's syringe was a seven percent solution of morphine.
-Greg: Yeah.
-Grissom: The victim was an obsessive compulsive. In the stories, Holmes' preferred stimulant was a seven percent solution of cocaine, not morphine.
-Greg: Evidence out of context.
-Grissom: Did you ever consider the possibility that the victim didn't realize what he was injecting himself with?
-Greg: No. You think someone switched his coke with morphine?
-Grissom: You found the victim's fingerprints on the gun, but you found no prints on the surgical tubing, no epithelials either. Does that make sense if it was a suicide?
-Greg: I guess not.
-Grissom: Do you have any other suspects who have access to morphine or surgical tubing?
-Greg: I can find out.
-Grissom: I would do that.
- 
-
- 
- 
-Greg: I went through the medical records for all of our suspects. As far as I can tell, none of them have ever been prescribed morphine. I think Watson's our best bet. The guy is a security guard at Desert Palms; he was certainly around morphine.
- 
-Grissom: Tobacco leaves. Run a quick comparison. This has to belong to one of our suspects.
-
- 
- 
-
-Brass: Do you like your life?
-Kay Marquette : What kind of question is that?
-Brass: Well, I mean, I've seen how happy you are at work. And then I know you come home to Mom and I guess she has terminal cancer. That's got to be tough.
-Kay Marquette : Yeah, well, you try giving enough attention to someone who never gave you any. 
-Brass: But the Sherlock Holmes Club, that's got to be one bright spot, hmm?
-Kay Marquette : The one place I could go every week where no one was grabbing my butt or staring at my breasts. The one place I could talk, think.
-Brass: You must have been pretty devastated when Dennis Kingsley decided to break up the club, huh?
-Kay Marquette :  It was a disappointment.
- 
-Dennis Kingsley: Next week will be the final meeting of our society. But I give you my word, it shall be an evening none of you will ever forget.
- 
-Brass: I think it's a lot more than that. 
-Kay Marquette : I don't know what you mean.
- 
-Brass: Well ... the tobacco -- your blend is Cavendish.
- 
- 
-Brass: Okay, why don't I tell this like a story, you know, like the end of a story, all right? Because I like the part where the detectives solve the crime. So here goes. On the day of the murder, you broke into Denny Kingsley's house. That's easy enough, the lock's crummy. You snuck downstairs. You replaced his cocaine with morphine, because you knew he was a creature of habit. So now all you had to do is wait.
- 
- 
-Brass: So you sprinkle some of Dr. Watson's pipe tobacco in the carpet. You scoop up some of Denny's blood, to splash on Watson's shoes later. Why the elaborate frame-up of Watson? He had as much to lose as you.
-Kay Marquette : Because he's the one that told Denny to give it all up and go back to his family. Because he's the one that wanted to be Sherlock Holmes, because he didn't care what it was doing to me.
- 
-Kay Marquette : You see, Detective ...  Denny would have wanted his murder to be the perfect puzzle. A mystery worthy of the master.
-
- 
-
-
- 
-Nick: Hey, Greg, Grissom wants to see you.
-Warrick: Like now, in his office.
- 
- 
-
- 
-Greg: Grissom. You wanted to see me.
-(The chair swings around and we see that it's Mr. Gel Dummy dressed up as Grissom, a large sign stuck on his chest:
-YOU PASSED!
- 
-Catherine: Well done.
- 
-Conrad Ecklie: Congratulations, Sanders. Good work.
-Greg: Thank you.
-Conrad Ecklie: Okay, gang, there's people to put in jail. Let's get back to it, shall we? Come on, come on, now. Party's over. Let's go.
- 
-Nick: Good job.
- 
-Greg: I don't get it. I got the wrong guy, the wrong manner of death.
-Grissom: I don't expect you to be correct in all your interpretations all the time. You collected the evidence. You thought there was something missing, you went back and found it. Hey, that's the job. Congratulations, Greg.
- 
-Greg: Thank you.
- 
- 
-Voice: Cheers. To you.
- 
-FADE TO BLACK
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=05x11+-+Who+Shot+Sherlock%3F&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127387%23p127387" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=05x11+-+Who+Shot+Sherlock%3F&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127387%23p127387" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127387%23p127387&amp;name=05x11+-+Who+Shot+Sherlock%3F" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127387%23p127387" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=e5a2145630bf9aa794291262a59a02f3">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=e5a2145630bf9aa794291262a59a02f3">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=e5a2145630bf9aa794291262a59a02f3">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=e5a2145630bf9aa794291262a59a02f3">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

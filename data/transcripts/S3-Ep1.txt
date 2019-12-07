@@ -1,807 +1,1039 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY RIO HOTEL (STOCK) - NIGHT]
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]
+FLASH TO WHITE:" />
+<meta property="og:title" content="03x01 - Revenge Is Best Served Cold - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY RIO HOTEL (STOCK) - NIGHT]
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]
+FLASH TO WHITE:" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13236" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>03x01 - Revenge Is Best Served Cold - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13236" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13236">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=6837f15239965913f3f81f624781121e"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=6837f15239965913f3f81f624781121e">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=6837f15239965913f3f81f624781121e">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=6837f15239965913f3f81f624781121e">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=6837f15239965913f3f81f624781121e">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13236&amp;sid=6837f15239965913f3f81f624781121e&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>03x01 - Revenge Is Best Served Cold</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127330">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127330">03x01 - Revenge Is Best Served Cold</a></div>
+							<div class="pull-right text-right"><time datetime="2002-10-11T02:50:47Z">10/11/02 02:50</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. LAS VEGAS CITY RIO HOTEL (STOCK) - NIGHT]</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>FLASH TO WHITE:</p>
+<hr />
+[INT. RIO HOTEL - BACK ROOM - NIGHT]</p>
+<p>(Camera view looking in on a group of poker players in a quiet room. It's a high-stakes game.</p>
+<p><strong>Dealer</strong>: Start with you, sir?</p>
+<p>(GRINDER knocks his fist on the table three times.)</p>
+<p><strong>Grinder</strong>: Check.</p>
+<p><strong>Matt</strong>: He doesn't bet, but he keeps a beat. You check. Someone's on a flush draw. Mm, I'll take the free card. Check.</p>
+<p><strong>Lita Gibbons</strong>: I'll check.</p>
+<p>(LITA puts some eye drops in her eyes.)</p>
+<p><strong>Matt</strong>: What do you got, Candyman?</p>
+<p>(DOYLE PFEIFFER, the Candyman, puts some candy in his mouth. The waitress approaches the table to refresh the drinks. She stops by MATT first. He puts a chip on her tray as she serves the drinks.)</p>
+<p><strong>Doyle Pfeiffer</strong>: Check.</p>
+<p><strong>Waitress</strong>: (to Matt) Thank you very much.</p>
+<p>(The waitress moves to serve DOYLE PFEIFFER. She puts a drink in front of him and he gives her his empty glass. MATT notices the slight.)</p>
+<p><strong>Matt</strong>: (mutters) &quot;Stiff&quot; ... typical.</p>
+<p>(The Grinder looks at his cards.)</p>
+<p><strong>Grinder</strong>: I can bet. Make it ... $2,000.</p>
+<p>(The Grinder puts a short stack of blue chips in the middle of the table.)</p>
+<p><strong>Matt</strong>: The Grinder speaks.</p>
+<p>(Matt puts his chips in. DOYLE PFEIFFER doesn't hesitate.)</p>
+<p><strong>Doyle Pfeiffer</strong>: We raise $4,000.</p>
+<p><strong>Matt</strong>: Call the bet.</p>
+<p><strong>Dealer</strong>: $2,000. Raise you $2,000.</p>
+<p><strong>Matt</strong>: It's all about you, Grinder.</p>
+<p><strong>Grinder</strong>: I'm going to go get a $2,000 slice of pizza.</p>
+<p>(The Grinder folds. LITA GIBBONS smiles.)</p>
+<p><strong>Matt</strong>: Well ... might as well make It a poker game. I'm all in. What do you got, Southern Iowa?</p>
+<p><strong>Lita Gibbons</strong>: A pain in the ass to my right side.</p>
+<p>(LITA GIBBONS folds. There are only two players left in the game.)</p>
+<p><strong>Doyle Pfeiffer</strong>: Um... yeah, you might have a winning hand. You might be just trying to buy it. Johnny Chan thought I was too old, too back in the '86 series.</p>
+<p><strong>Matt</strong>: You mean, the series where the ball went through Buckner's legs?</p>
+<p><strong>Doyle Pfeiffer</strong>: Save the story, kid. Here's what's what. I got aces. What do you got? Maybe you got trips, maybe king, queen. Maybe you got two pair. Ace hits the board ... I win. Club hits the board ... I win. </p>
+<p>(He pops in a piece of candy.) </p>
+<p><strong>Doyle Pfeiffer</strong>: Eight, nine hits the board ... </p>
+<p>(He pops in another piece of candy.) </p>
+<p><strong>Doyle Pfeiffer</strong>: I win.</p>
+<p><strong>Matt</strong>: Here's the matter old man. Thirteen of every suit in the deck. I see three clubs. That means you've got ten coming 37 cards left in the deck. You like those odds?</p>
+<p><strong>Doyle Pfeiffer</strong>: I like 'em a lot better than I like you.</p>
+<p>(DOYLE PFEIFFER moves to gather his chips. His hands freeze and he starts to convulse. His entire body starts to spasm uncontrollably. The players around the table stare aghast at the man.)</p>
+<p>(DOYLE PFEIFFER lands face forward on the table. Dead.)</p>
+<p>FLASH TO WHITE:</p>
+<hr />
+[INT. RIO HOTEL -- CASINO MAIN FLOOR -- NIGHT]</p>
+<p>(GRISSOM is standing next to a machine in the middle of the main floor. WARRICK approaches him.)</p>
+<p><strong>Warrick</strong>: You lost?</p>
+<p><strong>Grissom</strong>: I'm listening.</p>
+<p><strong>Warrick</strong>: For what?</p>
+<p><strong>Grissom</strong>: E-C-G ... C major chord. All the slots play the same notes -- perfect harmony. Makes people happy.</p>
+<p><strong>Warrick</strong>: Yeah, except when you're losing. Then you don't hear anything.</p>
+<p>(WARRICK leaves. After a moment, GRISSOM follows. WARRICK and GRISSOM walk along the casino floor to the yellow taped off area. EMT HANK PEDDIGREW passes them on his way out.)</p>
+<p><strong>Hank</strong>: Hey, guys.</p>
+<p><strong>Warrick</strong>: Hey, Hank.</p>
+<p><strong>Hank</strong>: Sara with you?</p>
+<p><strong>Warrick</strong>: She's over there.</p>
+<p>(WARRICK indicates somewhere in front.)</p>
+<p><strong>Hank</strong>: Tell her I said hi.</p>
+<p>(GRISSOM glances back at HANK PEDDIGREW as WARRICK answers.)</p>
+<p><strong>Warrick</strong>: Will do.</p>
+<p><strong>Hank</strong>: Thank you.</p>
+<p>(HANK continues on his way. WARRICK and GRISSOM reach the crime scene. They duck under the crime tape and head into the private gaming room.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. RIO HOTEL - BACK ROOM - NIGHT -- CONTINUOUS]</p>
+<p>(Camera close up of the body bag being zipped closed. BRASS watches. He turns around just as WARRICK and GRISSOM enter the room.)</p>
+<p><strong>Brass</strong>: Doyle Pfeiffer, best poker player in the world. Eighteen hours ago he sits down at the table a healthy man. A half an hour ago, he drops dead in his chair.</p>
+<p><strong>Warrick</strong>: That's a big pot. Casino's not satisfied with a heart attack?</p>
+<p><strong>Brass</strong>: We're not satisfied. This is high stakes. We're treating it like a murder.</p>
+<p><strong>Warrick</strong>: Suspicious circs.</p>
+<p><strong>Brass</strong>: Mmm.</p>
+<p><strong>Grissom</strong>: You ever played poker, Warrick?</p>
+<p>(WARRICK ducks his head.)</p>
+<p><strong>Warrick</strong>: Nah. Poker's not gambling. It's playing against percentages. It's a skill. I like to play for the thrill.</p>
+<p>(GRISSOM reaches for the hand nearest him and flips the two cards over. It's a King of Hearts and a King of Spades.)</p>
+<p><strong>Grissom</strong>: Whose hand was this?</p>
+<p>(From beyond the doorway, MATT yells into the room.)</p>
+<p><strong>Matt</strong>: Mine! That pot's mine. He dropped dead before he went all in!</p>
+<p>(OFFICERS lead MATT away from the doorway.)</p>
+<p><strong>Brass</strong>: Some young, loud-mouthed player thinks it's his pot.</p>
+<p><strong>Grissom</strong>: Mmm.</p>
+<p><strong>Brass</strong>: Excuse me.</p>
+<p>(GRISSOM reaches for the hand nearest him and flips the card over.)</p>
+<p><strong>Grissom</strong>: Two cowboys -- one in the flop, trips. </p>
+<p>(The camera pans slowly across the table to a hand that's flipped over showing a King of Clubs, a Queen of Clubs, an Eight of clubs and an unknown card of diamonds. GRISSOM reaches for another hand.)</p>
+<p><strong>Grissom</strong>: Pair of aces.</p>
+<p>(It's an Ace of clubs and an Ace of diamonds.)</p>
+<p><strong>Grissom</strong>: No river card, though. Burn one, turn one.</p>
+<p>(WARRICK puts the top card aside and flips over the second card.)</p>
+<p><strong>Warrick</strong>: Ace of spades.</p>
+<p><strong>Grissom</strong>: The Death Card.</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>FADE IN:</p>
+<p>[EXT. LAS VEGAS DESERT (STOCK) - DAY]</p>
+<hr />
+[EXT. FRENCHMAN AIR FIELD -- DAY]</p>
+<p>(Camera low on the ground as CATHERINE exits the Tahoe. She joins NICK and they both walk to the body.)</p>
+<p><strong>Nick</strong>: Who called it in?</p>
+<p><strong>Lockwood</strong>: Western LVU ornithology student. Saw turkey vultures. Got curious.</p>
+<p>(CATHERINE puts her kit down and crouches low to examine the body.)</p>
+<p><strong>Catherine</strong>: Birds of prey beat maggots to a body-- impressive. Gunshot. Entry just below the cheek. Not much blood, no blood pools.</p>
+<p><strong>Nick</strong>: Means he wasn't shot here.</p>
+<p><strong>Catherine</strong>: Where exactly is &quot;here?&quot;</p>
+<p><strong>Lockwood</strong>: Frenchman airfield -- it's an old landing strip hasn't been used since the '60s.</p>
+<p><strong>Nick</strong>: Well, it's flat. You could still land a plane here.</p>
+<p><strong>Lockwood</strong>: Yeah, but in the middle of nowhere?</p>
+<p><strong>Catherine</strong>: Perfect place to dump a body.</p>
+<p>(Camera holds on turkey vultures.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. RIO HOTEL - BACK ROOM - NIGHT]</p>
+<p>(WARRICK, GRISSOM and SARA examine the room. From outside the room, the camera moves in slow. SARA finds a single abandoned piece of &quot;Choco-Bees&quot; on the floor. She picks it up and stands. She holds it out in front of her.)</p>
+<p><strong>Sara</strong>: I got chocolate.</p>
+<p><strong>Warrick</strong>: What color is it?</p>
+<p><strong>Sara</strong>: Green ... You know what they say about the green ones.</p>
+<p>(GRISSOM doesn't look up.)</p>
+<p><strong>Grissom</strong>: Bag it separately.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. RIO HOTEL &amp; CASINO - OUTSIDE BACK ROOM -- CONTINUOUS]</p>
+<p>(MATT, the person, who played poker against the deceased stands outside the crime scene area with BRASS. He's rather upset that the ownership of the pot is in question.)</p>
+<p><strong>Matt</strong>: But you agree with me, right? It's a forfeit. Doyle never went all in. He can wipe his ass with those aces river card or no river card. I beat him. It's a forfeit. </p>
+<p>(BRASS holds up a finger to get MATT'S attention.)</p>
+<p><strong>Brass</strong>: Look ... look. Shh ... see this badge? I'm not with the gaming commission. You got a problem with gaming, see the guy in the bad suit. </p>
+<p>(Camera cuts to an older man standing off to the side speaking with an officer.)</p>
+<p><strong>Brass</strong>: Here's the deal: Pending an investigation, it's our pot.</p>
+<p>(MATT doesn't like it one bit.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. RIO HOTEL &amp; CASINO - BACK GAMING ROOM -- CONTINUOUS]</p>
+<p>(WARRICK holds an ALS to the seat of a chair. It glows.)</p>
+<p><strong>Warrick</strong>: Is that what I think it is?</p>
+<p><strong>Grissom</strong>: Urine, maybe. Game like this, leaving the table early could be perceived as a sign of weakness.</p>
+<p><strong>Sara</strong>: Tell me they Scotchguard these things.</p>
+<p><strong>Grissom</strong>: Why don't you tell me when you take it back to the lab and process it?</p>
+<p><strong>Sara</strong>: Yay. </p>
+<p>(SARA picks up the chair and walks toward the exit.)</p>
+<p><strong>Warrick</strong>: How is it that you know so much about poker?</p>
+<p>(GRISSOM writes on the plastic bag.)</p>
+<p><strong>Grissom</strong>: It's how I financed my first body farm in college.</p>
+<p><strong>Warrick</strong>: You're kidding. Wow. I'm impressed. I mean, the fact that you sat at a table with actual living beings.</p>
+<p><strong>Grissom</strong>: Well ... poker's not a game of interaction. It's a game of observation. I used to study people. And then I guess I, uh ... got bored. Now I study evidence.</p>
+<p><strong>Warrick</strong>: What I don't get is it's not like we've never talked about gambling before. How come you never mention it?</p>
+<p><strong>Grissom</strong>: Same reason a good player hides his &quot;tells.&quot; </p>
+<p>(WARRICK nods his head.)</p>
+<p><strong>Warrick</strong>: He doesn't want to be exposed.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - FAST-MOTION - NIGHT]</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY -- NIGHT]</p>
+<p><strong>Robbins</strong>: You know why Steve Wynn hired Bobby Baldwin to run The Nugget, then The Mirage, The Bellagio? He was a great poker player, Great Thinker.</p>
+<p><strong>Grissom</strong>: I did not know that.</p>
+<p><strong>Robbins</strong>: Stop the world. No violaceous lividity prominent above the level of the shoulders.</p>
+<p><strong>Grissom</strong>: So no heart attack?</p>
+<p><strong>Robbins</strong>: Not ruling out stroke, but check out the mees lines in his fingernails. </p>
+<p>(ROBBINS lifts up the deceased's hands to show the fingernails. Camera close-up to the fingernails. Resume to present.)</p>
+<p><strong>Robbins</strong>: Milky, vomit-like fluid in the corners of his mouth ...</p>
+<p>(Camera close-up to DOYLE PFEIFFER'S face and the white fluid in the corner of his mouth. Resume to present.)</p>
+<p><strong>Robbins</strong>: ... single blue line running across his gums ... </p>
+<p>(ROBBINS opens the deceased's mouth. Camera moves in close-up to focus on the blue line above the teeth. Resume to present.)</p>
+<p><strong>Robbins</strong>: ... all the earmarks of lead poisoning.</p>
+<p><strong>Grissom</strong>: I haven't seen a case of lead poisoning in years.</p>
+<p><strong>Robbins</strong>: What's that look like to you?</p>
+<p>(GRISSOM and ROBBINS move to the viewbox. ROBBINS points to a specific film.)</p>
+<p><strong>Grissom</strong>: It looks like he's got a bullet in his thigh.</p>
+<p><strong>Robbins</strong>: It's probably been there quite a while leeching lead into his system.</p>
+<p><strong>Grissom</strong>: Enough to kill him?</p>
+<p><strong>Robbins</strong>: I'll know better when I get the tox screen back and examine the brain.</p>
+<p>(ROBBINS smiles.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - AUDIO/VISUAL LAB]</p>
+<p>(GRISSOM sits alone in the Audio/Visual room viewing the security camera tape of the poker table. He fast-fowards and stops. The VCR whirring is the only sound in the room. GRISSOM doesn't take his eyes off of the screen.)</p>
+<p>(From XX:XX:42 to XX:XX:48, the camera shows the poker game with the Candyman every now and then eating chocolate candies during the game.)</p>
+<p>(From 1:01:XX the game continues.)</p>
+<p>(From 1:03:21 to 1:03:32, camera angles change from directly above the game to a close up of The Grinder.)</p>
+<p>(Fast forward to 1:04 to 1:05, the camera angle changes to show LITA GIBBONS using eye drops.)</p>
+<p>(Something occurs to GRISSOM.)</p>
+<p><strong>Grissom</strong>: Everyone has a tell, don't they, Lita?</p>
+<p>(Camera holds on LITA GIBBONS using eye drops.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p><strong>Greg</strong>: A whiskey sour, huh? Yeah, I'm a &quot;thug passion&quot; man, myself. It's a Tupack thing. (GREG mispronounces Tupac.)</p>
+<p><strong>Sara</strong>: Tupac?</p>
+<p><strong>Greg</strong>: So, what does your paramedic like to drink? I bet with a name like &quot;Hank,&quot; he's probably got some ho's sipping on 'yac.</p>
+<p><strong>Sara</strong>: &quot;Yac&quot;? Cognac? No. &quot;Ho's?&quot; I'm not going there and, um, that's none of your business. It's nobody's business, as a matter of fact.</p>
+<p><strong>Greg</strong>: All right, well, I won't tell Warrick and Nick about Hank on one condition ... you tell me what he's got that I don't got?</p>
+<p>(SARA smiles at GREG just as the printer prints out the test results. SARA picks up the paper and reads it.)</p>
+<p><strong>Sara</strong>: There was tetrahydrozoline in the victim's drink.</p>
+<p>(Taking the sheet of paper with her, SARA moves to leave the room. GREG stops her.)</p>
+<p><strong>Greg</strong>: Uh, I never got my answer.</p>
+<p><strong>Sara</strong>: I got mine. You don't even like Tupac, Greg.</p>
+<p>(Camera holds on GREG.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - AUDIO/VISUAL LAB]</p>
+<p>(Security camera close up of LITA GIBBONS' eye drop label: Tetrahydrozoline Eye Redness re-liever Non-Staining)</p>
+<p>(The VCR whirrs. The camera pulls back to show that LIGA GIBBONS is holding the eye drop container.)</p>
+<p><strong>Warrick</strong>: She killed him with eyedrops?</p>
+<p><strong>Sara</strong>: Well, it's not that far-fetched. Tetrahydrozoline is the active ingredient in eye drops. It's a vasoconstrictor. Obviously, it's great for bloodshot eyes.</p>
+<p>(Quick CGI POV close up of a right eye with redness. Eye drop liquid is dropped into the eye and the redness disappears. Flash to white. Resume to present.)</p>
+<p><strong>Warrick</strong>: I can buy that: You ingest eyedrops it constricts the blood vessels throughout your body maybe even spike your blood pressure perhaps even cause a stroke.</p>
+<p><strong>Sara</strong>: It's a perfect poison. It's odorless, colorless, tasteless. Doyle would have never known it was in his drink.</p>
+<p><strong>Grissom</strong>: Only one thing.</p>
+<p><strong>Warrick</strong>: What's that?</p>
+<p><strong>Grissom</strong>: Lita Gibbons was the last one to sit down at the table and she never left her chair. So ... how'd the eye drops get into his drink?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY -- DAY]</p>
+<p>(CATHERINE enters the room. She's carrying a file.)</p>
+<p><strong>Robbins</strong>: Hey, Catherine. Nice timing. I just finished my prelim on your John Doe.</p>
+<p>(CATHERINE walks to the other side of the examining table. She opens the file and reads the information.)</p>
+<p><strong>Catherine</strong>: No longer a John Doe. Got a name and a rap sheet. Jace Felder, busted for selling meth in '98. His prints are in AFIS. (She closes the file.) Your turn.</p>
+<p><strong>Robbins</strong>: Cause of death: Perforating gunshot wound through and through. Wound penetrated the zygomatic arch exited the right temple. </p>
+<p>(Quick CGI POV of a bullet piercing through the deceased's left cheek and blood spattering out from the unseen right side. End of CGI POV. White flash to present.)</p>
+<p><strong>Robbins</strong>: Check out his right eardrum.</p>
+<p>(ROBBINS hands the otoscope to CATHERINE. CATHERINE leans in and examines the deceased's ear.)</p>
+<p>(Quick CGI POV from the outer ear camera moves in through the ear and through the bone. End of CGI POV. Resume to present.)</p>
+<p><strong>Catherine</strong>: His eardrum's gone.</p>
+<p><strong>Robbins</strong>: Presence of blood indicates the tympanic membrane was blown out shortly before death.</p>
+<p>(CATHERINE hands the otoscope back to ROBBINS.)</p>
+<p><strong>Catherine</strong>: We found him on an airstrip. Maybe he was too close to a jet engine.</p>
+<p><strong>Robbins</strong>: Jet engine? Well, that would explain his clothing. A gasoline smell. Sent if off to trace. Here's something you don't see every day, though: Perimortem bruising on his torso. Two symmetrical lines.</p>
+<p>(ROBBINS indicates the deceased's chest.)</p>
+<p><strong>Catherine</strong>: Looks like it could be from a harness or a seat belt.</p>
+<p><strong>Robbins</strong>: (nods) Maybe. </p>
+<p><strong>Catherine</strong>: What was this guy? A Top Gun?</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. FRENCHMAN AIR FIELD-- DAY]</p>
+<p>(Camera long shot of NICK walking down the center of the air strip. He's carrying his CSI kit.)</p>
+<p>(Dissolve to NICK on the right side of the air strip taking pictures. His CSI kit on the opposite side of the roadway. He's a little closer to the camera.)</p>
+<p>(Dissolve to NICK on the left side of the roadway, camera still in his hands. His CSI kit on the ground on the right side of the roadway. He's working the road.)</p>
+<p>(Dissolve to NICK standing even closer to the camera. He's on the right, his CSI kit on the left.)</p>
+<p>(Dissolve to NICK on the right side of the roadway still closer to the camera. He takes his camera off and crouches low to the ground.)</p>
+<p>(Dissolve to NICK placing his CSI kit down on the road directly in front of the camera. He crouches low to the ground.)</p>
+<p>(Cut to NICK brushing the tire tread marks in the road. The treadmarks are long and pronounced. There appears to be two sets of treads.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. FRENCHMAN AIR FIELD-- DAY]</p>
+<p>(CATHERINE picks up a smashed passenger side view mirror on the air strip.)</p>
+<p><strong>Catherine</strong>: Well, this was no plane. Marks are too narrow. No center wheel, and ... when was the last time a plane lost a rearview mirror?</p>
+<p>(NICK walks closer to CATHERINE.)</p>
+<p><strong>Nick</strong>: Actually, we're looking at two.</p>
+<p><strong>Catherine</strong>: Two?</p>
+<p><strong>Nick</strong>: Yeah, I've got fresh marks at the head of the runway two sets, both parallel, so ... my guess is one car spun out here ...</p>
+<p><strong>Catherine</strong>: Man, you are way ahead of me.</p>
+<p><strong>Nick</strong>: Yeah, well, I been here a while. Over there another set of treads going straight ahead, so ...</p>
+<p><strong>Catherine</strong>: Right. And you only lay down treads when your wheels aren't rolling smoothly. Panic braking? Sudden boost of acceleration? Race?</p>
+<p>(NICK nods his head.)</p>
+<p><strong>Nick</strong>: I think so, yeah.</p>
+<p><strong>Catherine</strong>: Drag racing? </p>
+<p><strong>Nick</strong>: Or street racing.</p>
+<p><strong>Catherine</strong>: Ah ... </p>
+<p><strong>Nick</strong>: There's a reason it's illegal.</p>
+<p><strong>Catherine</strong>: Yeah. Kids end up dead.</p>
+<p>HARD CUT TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[EXT. LAS VEGAS CITY STREET -- NIGHT]</p>
+<p>(NICK and CATHERINE walk through the street. They're carrying their CSI kits. In the background, kids hang and car stereo music blares.)</p>
+<p><strong>Nick</strong>: Midnight drags. My brother was a gearhead. Rebuilt a '65 GTO with three carbs. Ran the thing flat out. Zero to a buck-13 in a quarter mile.</p>
+<p><strong>Catherine</strong>: So your brother's cooler than you.</p>
+<p>(NICK Laughs )</p>
+<p><strong>Nick</strong>: No. No, not really.</p>
+<p>(They meet up with DET. LOCKWOOD.)</p>
+<p><strong>Lockwood</strong>: Welcome to pre-game. Every gear-banger in Clark County all with the same question -- &quot;What are you running under there?&quot;</p>
+<p><strong>Catherine</strong>: Foreplay is foreplay. So, when do they race?</p>
+<p><strong>Lockwood</strong>: It's not so much when it's where; racing locations are always in play. Once the call comes in the street will empty out in seconds.</p>
+<p><strong>Catherine</strong>: They go all the way out to Frenchman airfield from here?</p>
+<p><strong>Lockwood</strong>: Only when it rains.</p>
+<p><strong>Catherine</strong>: It rained last night. Rain brings up the oil from the streets. They got to go somewhere to get some traction.</p>
+<p>(CATHERINE looks at NICK. NICK nods.)</p>
+<p><strong>Nick</strong>: The desert.</p>
+<p>(NICK moves forward toward the yellow car parked behind DET. LOCKWOOD.)</p>
+<p><strong>Nick</strong>: Centrifugal supercharger. Nice. </p>
+<p>(NICK puts his CSI kit down. The owner of the car who was standing on the side with two women, moves toward NICK when he hears NICK'S admiring comment.)</p>
+<p><strong>Turbo Owner</strong>: Yeah, it's like the compressor side of a turbo but instead of spinning on the exhaust it goes through a gearset to the crank.</p>
+<p>(The young man's voice fades as he notices CATHERINE standing there.)</p>
+<p><strong>Catherine</strong>: More power, no extra weight. Every girl's dream.</p>
+<p>(The young man laughs. He takes a couple of steps forward and points to his car hood. NICK leans in to look at it.)</p>
+<p><strong>Turbo Owner</strong>: Ooh. I like that. Yeah, check the nitrous speed.</p>
+<p><strong>Nick</strong>: Nos. Nitrous oxide system.</p>
+<p><strong>Catherine</strong>: Nitrous oxide as in speed?</p>
+<p><strong>Turbo Owner</strong>: Well, speed is ultimately limited by how fast you can mix oxygen with fuel and ignite it.</p>
+<p><strong>Nick</strong>: Regular air is about 20% oxygen. Nitrous is 40. Double the burn, double the power.</p>
+<p>(Quick CGI POV white flash to the meter under the hood as the indicator quickly moves from 0 to the red zone. Camera moves in double time through the coils where it ignites and causes the engine to power up. The engine revs. Camera moves out from the car to side close up of the tires moving along the road. Flash to white.)</p>
+<p><strong>Catherine</strong>: So the sudden boost of acceleration could account for the treads back at the airstrip.</p>
+<p>(From behind them, another yellow car drives slowly up past them. NICK sees something.)</p>
+<p><strong>Nick</strong>: Check out that racing harness. Same as the bruises found on the victim.</p>
+<p>(The yellow car passes them by. From another direction, another dark car drives up with its stereo noticeably louder than everything. There are two men in the car.)</p>
+<p><strong>Lyric</strong>: (stereo blasting):<br />
+[&quot;Lapdance&quot; by N.E.R.D.]<br />
+It's so real / how I feel / 'cause this society / that makes A... wanna kill / I'm just straight ill / ridin' my motorcycle down the streets / while politicians is soundin' like strippers to me / they sayin'... </p>
+<p>(NICK and CATHERINE turn around to see where the loud music is coming from. The man in the passenger seat gets out of the vehicle. CATHERINE opens her kit and takes out an AMPROBE(tm) Sound Meter. It reads 131.1dB.)</p>
+<p>(CATHERINE holds up the meter and approaches the passenger who just exited the vehicle.)</p>
+<p><strong>Catherine</strong>: Hey! You deaf?</p>
+<p><strong>Thumpy G</strong>: Oh, thanks a lot. What's up? I'm Thumpy G.</p>
+<p><strong>Catherine</strong>: A jackhammer is about 50 decibels quieter.</p>
+<p><strong>Thumpy G</strong>: You know the only way to beat a jackhammer is to bust 15,000 watts of Run DMC's &quot;dumb girl&quot; or-or L. L. Cool J's &quot;Goin' back to Cali.&quot; You know?</p>
+<p>(Off screen a car horn blares and a voice yells out.)</p>
+<p><strong>Man</strong>: (o.s.) Hey, G, what's up?</p>
+<p><strong>Thumpy G</strong>: (to the man) Yo, Dog.</p>
+<p><strong>Catherine</strong>: So, Thumpy ... you blow out a lot of eardrums?</p>
+<p><strong>Thumpy G</strong>: I try to.</p>
+<p>(LOCKWOOD holds out a photo. THUMPY G barely looks at it.)</p>
+<p><strong>Lockwood</strong>: You know this cat? Jace Felder.</p>
+<p><strong>Thumpy G</strong>: (to LOCKWOOD) Negative. </p>
+<p>(THUMPY G calls out to some women behind and off screen from the group.) </p>
+<p><strong>Thumpy G</strong>: What's up, baby?</p>
+<p><strong>Woman</strong>: Hi.</p>
+<p><strong>Thumpy G</strong>: (to the woman) Hey!</p>
+<p><strong>Catherine</strong>: Hey, Thumper! How about we impound your car, seize your stereo system and charge you with disturbing the peace?</p>
+<p><strong>Thumpy G</strong>: Oh, she is hot, but now it's real hot. All right. Yo, do. It's coming back to me. </p>
+<p><strong>Nick</strong>: We're all ears.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY]</p>
+<p>(Camera close up of a whirring bone-cutting hand saw turned on, then off. DAVID PHILLIPS is admiring ROBBINS' hand saw.)</p>
+<p><strong>David Phillips</strong>: Wow, is this new?</p>
+<p><strong>Robbins</strong>: Yup. Turbo.</p>
+<p>(With a scalpel, ROBBINS cuts into the deceased's forehead skin.) </p>
+<p><strong>David Phillips</strong>: I like it. </p>
+<p>(DAVID PHILLIPS turns to look at the table.)</p>
+<p><strong>David Phillips</strong>: You need any help?</p>
+<p><strong>Robbins</strong>: Nope.</p>
+<p>(ROBBINS finishes the cut and peels back the facial skin. It comes off in one beautiful piece. DAVID watches closely. He smiles and nods his head.)</p>
+<p><strong>David Phillips</strong>: Cool.</p>
+<p>(ROBBINS glances up at DAVID and puts down his head gear's protective shielding. He holds out his hand for the hand saw. DAVID, still leaning in close, looks up and gives the hand saw to ROBBINS. ROBBINS turns it on and starts to saw into the skull. Blood spatters onto DAVID'S clothes and skin as he neglected to put down his head gear's protective shield. DAVID looks up at ROBBINS. ROBBINS turns off the saw and looks at DAVID.)</p>
+<p><strong>Robbins</strong>: Want to step back a little?</p>
+<p>(DAVID puts the head shield down and takes a couple of steps backward.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY -- PALMS HOTEL &amp; CASINO (STOCK) - NIGHT]</p>
+<hr />
+[INT. PALMS CASINO -- POKER TABLE -- NIGHT]</p>
+<p>(The man at the poker table throws his hand onto the table. LITA GIBBONS smiles as she collects the pot.)</p>
+<p><strong>Lita Gibbons</strong>: Hey, Al.</p>
+<p>(Standing off to the side near the door are BRASS and GRISSOM.)</p>
+<p><strong>Brass</strong>: So, how many pots is that?</p>
+<p><strong>Grissom</strong>: Too many. </p>
+<p><strong>Brass</strong>: Yeah.</p>
+<p>(BRASS approaches the poker table.</p>
+<p><strong>Brass</strong>: Lita Gibbons? </p>
+<p>(LITA GIBBONS looks up, her smile freezing on her face. Off on the side still near the door, GRISSOM stands there holding his CSI kit.)</p>
+<p><strong>Brass</strong>: Why don't you sit this one out? Come with me.</p>
+<p>(LITA GIBBONS looks at GRISSOM.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. PALMS CASINO - EMPTY BALLROOM]</p>
+<p>(LITA GIBBONS is sitting in a chair in an auditorium like setting in the ballroom. BRASS and GRISSOM stand next to her.)</p>
+<p><strong>Lita Gibbons</strong>: Yeah. I live here. Tangiers is a damn smokehouse. Bothers my eyes.</p>
+<p><strong>Brass</strong>: You use eyedrops?</p>
+<p><strong>Lita Gibbons</strong>: Bottles and bottles.</p>
+<p><strong>Brass</strong>: Can we see them?</p>
+<p><strong>Lita Gibbons</strong>: Pick a pocket.</p>
+<p>(GRISSOM kneels in front of LITA GIBBONS as she takes out an eye drops bottle from her pocket. She looks up at GRISSOM.)</p>
+<p><strong>Grissom</strong>: Miss Gibbons, what color are your eyes?</p>
+<p><strong>Lita Gibbons</strong>: Brown.</p>
+<p><strong>Grissom</strong>: Well, why are you wearing just one contact lens? </p>
+<p><strong>Lita Gibbons</strong>: I have 10/30 vision in my right eye.</p>
+<p>(GRISSOM shines his flashlight at LITA GIBBONS' right eye.)</p>
+<p><strong>Grissom</strong>: Why is it tinted? We're going to need to take that contact lens. And your eyedrops.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- FORENSIC AUTOPSY]</p>
+<p>(Camera close up of ROBBINS holding a bloodied brain. DAVID PHILLIPS is standing next to him. WARRICK enters the room.)</p>
+<p><strong>Robbins</strong>: You ever held a legend's brain? </p>
+<p><strong>David Phillips</strong>: Brain cried uncle.</p>
+<p><strong>Robbins</strong>: Correct spelling: U-N-C-A-L. Uncal herniation-- a swelling at the base of the temporal lobe which compresses the posterior cerebral artery resulting in a stroke.</p>
+<p>(ROBBINS indicates the part of the brain that he's talking about.)</p>
+<p><strong>Warrick</strong>: Let's back up here. Victim had chronic lead poisoning from a bullet that was left in his leg.</p>
+<p><strong>Robbins</strong>: Tox is pending.</p>
+<p><strong>Warrick</strong>: But what you're thinking is the lead from the bullet made his brain swell up with ... uncal herniation?</p>
+<p><strong>Robbins</strong>: Wild card was blood pressure. If he kept that under control he might have had another twenty years.</p>
+<p><strong>Warrick</strong>: Except that someone put tetrahydrozoline in his drink which made his blood pressure spike and now we got his brain in a bowl.</p>
+<p><strong>Robbins</strong>: Yup.</p>
+<p>(WARRICK turns around to look at the examining table.)</p>
+<p><strong>Warrick</strong>: Nasty.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. GARAGE -- DAY]</p>
+<p>(NICK and CATHERINE enter the garage.)</p>
+<p><strong>Nick</strong>: Michelangelo?</p>
+<p><strong>Catherine</strong>: Yup.</p>
+<p><strong>Nick</strong>: It's an odd name for a mechanic.</p>
+<p><strong>Catherine</strong>: Well, Thumpy G said he was an artist. </p>
+<p>(They approach the two men standing next to the open hooded car.)</p>
+<p><strong>Nick</strong>: Michael ... angelo. Nick Stokes, Catherine Willows. Vegas crime lab.</p>
+<p>(One man looks up when he hears his name called. The other man leaves. NICK looks at the car with the open hood.)</p>
+<p><strong>Nick</strong>: Wow.</p>
+<p><strong>Catherine</strong>: Yeah. So how long you been racing cars?</p>
+<p><strong>Michelangelo</strong>: I don't race 'em. I soup 'em. And at six-fifty an hour, you're costing me money.</p>
+<p><strong>Catherine</strong>: And you're costing us time. We're investigating a murder. </p>
+<p><strong>Michelangelo</strong>: Jace Felder, right?</p>
+<p><strong>Catherine</strong>: That's right. </p>
+<p><strong>Nick</strong>: How do you know?</p>
+<p><strong>Michelangelo</strong>: Small world. Shame about what happened. He was the Steve McQueen of Southern Nevada.</p>
+<p><strong>Nick</strong>: We're looking for the kid he raced the night he was shot.</p>
+<p><strong>Michelangelo</strong>: Why come to me?</p>
+<p><strong>Nick</strong>: Thumpy G dropped your name, man. Said he was driving a &quot;Michelangelo.&quot;</p>
+<p><strong>Michelangelo</strong>: I have many works of art. Which one?</p>
+<p><strong>Nick</strong>: A blue honda, blue rims, tinted windows. </p>
+<p>(MICHELANGELO recognizes it immediately. He turns around and close the car hood. He walks away. CATHERINE smiles at NICK.)</p>
+<p><strong>Catherine</strong>: &quot;Works of art&quot;.</p>
+<p>(MICHELANGELO returns carrying a photograph. He hands it to CATHERINE. As MICHELANGELO speaks, she looks at it then hands it to NICK.)</p>
+<p><strong>Michelangelo</strong>: Billie Holiday. Built this baby for myself. Sold it to some punk kid. Never should have done that. Sold out. Kid walks in one day $100,000 price tag in his head. Wants a racer off the showroom floor. No custom, no waiting, right now. Paid by check.</p>
+<p><strong>Catherine</strong>: Silver spoon kid. You got a copy of the check?</p>
+<p><strong>Michelangelo</strong>: Tossed it.</p>
+<p><strong>Catherine</strong>: Tossed it?</p>
+<p><strong>Michelangelo</strong>: Never should have done that, either.</p>
+<p><strong>Catherine</strong>: No.</p>
+<p><strong>Michelangelo</strong>: All I know was, it was an insurance company check. Third party. Sat on it till it cleared.</p>
+<p>(CATHERINE'S cell phone rings. She answers it.)</p>
+<p><strong>Catherine</strong>: (to phone) Yeah?</p>
+<p><strong>Lockwood</strong>: (from phone) Found Jace Felder's car.</p>
+<p><strong>Catherine</strong>: (to phone) Where?</p>
+<p>INTERCUT WITH:</p>
+<p>[EXT. HIGHWAY UNDERPASS - DAY]</p>
+<p><strong>Lockwood</strong>: Yeah, we were lucky. It was right under our noses. Uniform found it out on Gibson road. Tent sale. The, uh, VIN number was scratched off but I ran the firewall. Came back Jace Felder.</p>
+<p><strong>Catherine</strong>: Who's the seller?</p>
+<p><strong>Lockwood</strong>: Uh, some guy named Steven Masters. Well, make him an offer.</p>
+<p><strong>Catherine</strong>: We'll take the car.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(GREG holds up a bottle of eye drops. He looks up.)</p>
+<p><strong>Greg</strong>: So, we meet again. Lita Gibbons wasn't putting this on her nipples, was she?</p>
+<p>(SARA stands in front of his lab table.)</p>
+<p><strong>Sara</strong>: You have been drinking too many Thug Passions. The woman is twice your age. She may be three times your age, Greg.</p>
+<p>(GREG chuckles and waves his hand.)</p>
+<p><strong>Greg</strong>: Old case. Sorry.</p>
+<p>(The printer whirls out the test results. GREG stands and takes the read-out. He looks at it and compares it to the prior read out from the other test. He doesn't say anything.)</p>
+<p><strong>Sara</strong>: Well?</p>
+<p>(GREG turns around to glance at SARA over his shoulder.)</p>
+<p><strong>Greg</strong>: Well, uh, you'll get your answer when I get mine.</p>
+<p>(SARA doesn't say anything.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(RONNIE LITRE enters the room. He's carrying a small cloth bag and hands it to GRISSOM who is leaning over the table of cards.)</p>
+<p><strong>Ronnie Litre</strong>: Hey, Grissom. Hooked you up.</p>
+<p>(GRISSOM opens the bag and pulls out a large blue-tinted eye glass.)</p>
+<p><strong>Grissom</strong>: Is this the same color as the contact lens? </p>
+<p><strong>Ronnie Litre</strong>: Only bigger. Glass is my life.</p>
+<p>(RONNIE LITRE smiles.)</p>
+<p><strong>Grissom</strong>: All right, stick around. I need your eyes.</p>
+<p><strong>Ronnie Litre</strong>: As long as they stay in my head.</p>
+<p>(GRISSOM uses the eye glass and looks at the cards spread out back side up on the table in rows. RONNIE stands on the side and watches. He hands the large eye glass to RONNIE.)</p>
+<p><strong>Grissom</strong>: Find the aces.</p>
+<p><strong>Ronnie Litre</strong>: How many are there?</p>
+<p>(RONNIE takes the eye glass from GRISSOM. He waits for a response and finally looks up at GRISSOM when he doesn't get any.)</p>
+<p><strong>Grissom</strong>: Four.</p>
+<p>(RONNIE scans the row nearest him. He notices the slight discoloration of a card's top left hand corner.)</p>
+<p><strong>Ronnie Litre</strong>: First row, third card.</p>
+<p>(GRISSOM flips the card over. It's the Ace of Clubs.) </p>
+<p><strong>Ronnie Litre</strong>: Second row, fourth card.</p>
+<p>(RONNIE finds the next card with a discoloration on the bottom right corner. It's the Ace of Hearts.)</p>
+<p><strong>Ronnie Litre</strong>: Third row, eighth card.</p>
+<p>(The next card has discoloration on the top left corner. GRISSOM flips the card over.)</p>
+<p><strong>Ronnie Litre</strong>: And, fourth row, third card.</p>
+<p>(GRISSOM flips that card over.)</p>
+<p><strong>Ronnie Litre</strong>: Anaglyphics. Color contrast to see hidden marks.</p>
+<p>(In the background, we see SARA approach and enter the room.)</p>
+<p><strong>Grissom</strong>: Lita Gibbons was playing the daub. She was cheating. She marked the corners of the cards with lip balm.</p>
+<p><strong>Sara</strong>: And that's all she was doing. The victim's drink contained point-zero-five (.05%) tetrahydrozoline hydrachloride and point-two-five percent (.25%) zinc sulfate. There was no zinc sulfate in any of Lita Gibbons' eyedrops. It's a different formulation.</p>
+<p><strong>Grissom</strong>: So she didn't kill Doyle Pfeiffer.</p>
+<p><strong>Sara</strong>: No. But someone's eyedrops did.</p>
+<p>FADE TO BLACK.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[INT. CASINO -- NIGHT]</p>
+<p>(WARRICK is interviewing NADINE, the waitress at the poker game the night DOYLE PFEIFFER died. GRISSOM stands on the side observing.)</p>
+<p><strong>Nadine</strong>: You're costing me money, here. I've got a second shift at the Monaco.</p>
+<p><strong>Warrick</strong>: Well, you didn't seem too worried about money the other night. We watched the surveillance tape. Doyle Pfeiffer didn't even pass you a nickel yet you were all over him.</p>
+<p><strong>Bartender</strong>: (in background and o.s.) Order's up.</p>
+<p>(GRISSOM turns around and looks at the bar and the bartender. A dark-haired waitress walks over toward the bar. GRISSOM leaves the interview in progress and goes to the bar.)</p>
+<p><strong>Nadine</strong>: I can tell you've never served drinks. Catch him in the right mood with the right pot, he can make your month.</p>
+<p><strong>Warrick</strong>: Is that why you were giving eyes to the California kid?</p>
+<p><strong>Nadine</strong>: I wasn't making eyes with him.</p>
+<p>CUT TO:<br />
+[INT. THE BAR - NIGHT]</p>
+<p>(BRASS is interviewing MATT at the bar. MATT was the player in the blue beret.)</p>
+<p><strong>Brass</strong>: You tipped some waitress $1,500 the other night? You in business, or you in love? </p>
+<p>(MATT shakes his head.)</p>
+<p><strong>Matt</strong>: I was running a hot streak, three kill pots in a row. Sixty grand in forty minutes - I threw her a bone.</p>
+<p><strong>Brass</strong>: That all you threw her? Put a shot in her? Anything else I should know? I mean, we're just talking here.</p>
+<p><strong>Matt</strong>: All I can say is for fifteen hundred bucks you get great service.</p>
+<p>(MATT bites down on the end of his stirring straw.)</p>
+<p>CUT BACK TO:</p>
+<p><strong>Nadine</strong>: I'm a waitress, not a call girl. I was playing one guy against the other. You want to make money? You bait. Besides ... I thought Doyle had a heart attack.</p>
+<p><strong>Warrick</strong>: He did, but he had help. Someone put something in his drink.</p>
+<p>CUT TO:<br />
+[INT. THE BAR - NIGHT]</p>
+<p>(Camera close up of the drink the bartender is filling. GRISSOM walks over to the bar and stands off to the side waiting. The waitress waiting for her tray looks at him and smiles. The bartender notices GRISSOM. The waitress leaves. GRISSOM walks up to the bartender.)</p>
+<p><strong>Bartender</strong>: What can I get you?</p>
+<p><strong>Grissom</strong>: I'd like some information.</p>
+<p>CUT BACK TO:</p>
+<p><strong>Matt</strong>: Do you know what happens when you beat a legend? People see you different. They-they play you different. I wanted that edge.</p>
+<p><strong>Brass</strong>: All right, let's go with that-- an edge.</p>
+<p><strong>Matt</strong>: It does not play into my hand to have the guy dead.</p>
+<p>CUT BACK TO:</p>
+<p><strong>Bartender</strong>: The days of comping drinks ... sticking the hotel with the bill, those are done. Everything's computerized down to the last drop. Standard protocol. Down to the way the girls order their drinks: Sodas first, mixers second, beers last. No exceptions.</p>
+<p>(GRISSOM looks around the bar.)</p>
+<p><strong>Grissom</strong>: Where's your alcohol? I don't see any bottles.</p>
+<p>(BARTENDER smiles and throws a thumb over his shoulder.)</p>
+<p><strong>Bartender</strong>: Back of the house.</p>
+<p><strong>Grissom</strong>: Really? May I order a double bourbon on the rocks?</p>
+<p><strong>Bartender</strong>: Coming up.</p>
+<p>(The BARTENDER puts a glass filled with ice on the counter. He pulls out the nozzle and begins to fill the glass.)</p>
+<p>(Quick CGI POV as the camera focuses in on the bartender's thumb pressing the button. Camera moves in high speed through the back of the spray, through the pipes, through the various twists and turns to the back of the house where the alcohol is stored. The glass bubbles as liquor is released. The camera zooms back the path, up through the pipes to the front of the house where the bourbon fills the glass. End of CGI POV. Resume to present.)</p>
+<p>(The BARTENDER places in a small stirring straw into the drink.)</p>
+<p><strong>Bartender</strong>: Eight dollars.</p>
+<p>(GRISSOM pulls out a bill from his wallet.)</p>
+<p><strong>Grissom</strong>: You keep the drink and the change.</p>
+<p>(The BARTENDER takes the bill.)</p>
+<p><strong>Bartender</strong>: Thank you.</p>
+<p>CUT BACK TO:</p>
+<p><strong>Warrick</strong>: You mind if I take a look in your purse?</p>
+<p><strong>Nadine</strong>: Yes, I do mind.</p>
+<p>(She sighs as WARRICK doesn't respond. She reluctantly opens her purse and pulls out a small bottle of &quot;Original Fast Acting&quot; eye drops with a red label.)</p>
+<p><strong>Nadine</strong>: I'll tell you this. You bust me, you better bust all of us.</p>
+<p>(WARRICK takes the bottle.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<hr />
+[EXT. HIGHWAY UNDERPASS -- DAY]</p>
+<p>(NICK walks toward the red car. He opens the passenger car door and crouches low. CATHERINE is already examining the driver's side with the car door open.)</p>
+<p><strong>Catherine</strong>: No glass no paint flecks, no personal effects. It's been cleaned.</p>
+<p>(NICK sees something. He pulls out a Leatherman pliers from his pocket.)</p>
+<p><strong>Nick</strong>: Hold the phone. I've got what looks like ... ah. ...A nine-millimeter round. No visible body fluid. What do you think? Maybe a miss?</p>
+<p><strong>Catherine</strong>: Well, if he was shot in the car there's got to be some blood.</p>
+<p><strong>Nick</strong>: Spray it up.</p>
+<p>(NICK stands and closes the passenger door. He puts the bullet in an evidence envelope. CATHERINE begins spraying the driver's side. As she sprays, the blood begins to appear.)</p>
+<p><strong>Catherine</strong>: Well, the only void is in the driver's seat. Means it was occupied by our victim, Jace Felder. So he was shot in the head, left to right. Spatter on the passenger door is from the exit wound.</p>
+<p><strong>Nick</strong>: Well, what about the rest of this blood? It's everywhere. </p>
+<p><strong>Catherine</strong>: He was shot while the car was in motion? Bled out while the car was rolling?</p>
+<p>(Quick flashback to an ext. shot of the car flying and flipping over at high speed. The car hits the ground, parts flying everywhere. End of flashback. Resume to present.)</p>
+<p><strong>Catherine</strong>: I want to meet this killer.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERROGATION ROOM]</p>
+<p><strong>Steven Masters</strong>: Opportunity knocked. (he laughs) I answered.</p>
+<p><strong>Nick</strong>: Okay. Uh, let's back up and start over shall we, Mr. Masters? You and your brother were off-roading.</p>
+<p><strong>Steven Masters</strong>: Yes, sir.</p>
+<p><strong>Nick</strong>: And you stumbled upon a wrecked racer out near Mercury.</p>
+<p><strong>Steven Masters</strong>: Yes, sir.</p>
+<p><strong>Nick</strong>: Why didn't you just ... ?</p>
+<p><strong>Catherine</strong>: (interrupts) Wait a minute. Let me, uh, let me get in on this.</p>
+<p><strong>Nick</strong>: Please.</p>
+<p><strong>Catherine</strong>: What were you thinking? You-you took the car?</p>
+<p><strong>Steven Masters</strong>: Damn right. Engine alone's worth fifteen grand. </p>
+<p>(Quick flashback to STEVEN MASTERS and ADAM MASTERS out on the air strip approaching the car.)</p>
+<p><strong>Steven Masters</strong>: The keys are still in the ignition. See if it runs.</p>
+<p><strong>Adam Masters</strong>: What about him?</p>
+<p><strong>Steven Masters</strong>: L-leave him here.</p>
+<p>(End of flashback. Resume to CATHERINE.)</p>
+<p><strong>Catherine</strong>: And what does a person's life go for?</p>
+<p><strong>Steven Masters</strong>: Ma'am, he was already dead. (smiling) I drove the car home, washed it out.</p>
+<p><strong>Catherine</strong>: And you didn't think to call 911 or anything like that?</p>
+<p><strong>Steven Masters</strong>: No. You guys would have impounded the car.</p>
+<p>CATHERINE Okay, Mr. Masters. You've just confessed to grand larceny. Tampering with a crime scene. Detective Lockwood will get back to you on the murder charge. </p>
+<p>(CATHERINE opens the door and leaves the room. STEVEN MASTERS is not smiling anymore.)</p>
+<p><strong>Nick</strong>: Make yourself at home, boss.</p>
+<p>(NICK leaves the room.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT -- HALLWAY OUTSIDE INTERROGATION ROOM - CONTINUOUS]</p>
+<p><strong>Catherine</strong>: Jackass.</p>
+<p><strong>Nick</strong>: Dumbass.</p>
+<p><strong>Catherine</strong>: &quot;Opportunity knocked.&quot;</p>
+<p>(From behind them, DET. LOCKWOOD calls out to catch their attention.)</p>
+<p><strong>Lockwood</strong>: Hey, guys. I got a name on that third-party check signed over to Michelangelo. Tony Del Nagro. 8824 Sandy Creek Road.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. DEL NAGRO RESIDENCE - LIVING ROOM -- DAY]</p>
+<p><strong>Tony Del Nagro</strong>: Yeah. I race.</p>
+<p><strong>Catherine</strong>: You race Jace Felder the other night?</p>
+<p><strong>Tony Del Nagro</strong>: I race a lot of people.</p>
+<p><strong>Mr. Del Nagro</strong>: Look, if you're looking to bust my son for street-racing you can get your partner out of my backyard. I mean ... </p>
+<p><strong>Catherine</strong>: Sir, we're investigating a murder. Jace Felder was shot and killed.</p>
+<p><strong>Mr. Del Nagro</strong>: He doesn't know anything about that.</p>
+<p><strong>Catherine</strong>: Tony ... tell me about the race.</p>
+<p><strong>Tony Del Nagro</strong>: We went head up. </p>
+<p>(Quick flashback to the race out on the air strip. Two cars side-by-side racing at high speed. End of flashback. Resume to present.)</p>
+<p><strong>Tony Del Nagro</strong>: Put my pink slip up against his five grand. Guess you could say I won.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. DEL NAGRO RESIDENCE - BACKYARD - CONTINUOUS]</p>
+<p>(NICK uncovers the car. He holds up a hand at the passenger-side window and immediately notices the difference.)</p>
+<p><strong>Nick</strong>: New glass - less tint.</p>
+<p>(Cut to NICK spraying the passenger side seat looking for evidence.)</p>
+<p>(Cut to NICK rubbing the passenger side door just under the window. He looks at the pad in his hand. It's covered in black.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. DEL NAGRO RESIDENCE - LIVING ROOM - CONTINUOUS]</p>
+<p><strong>Catherine</strong>: From what I hear, Jace Felder was ... Mario Andretti. Why would you...?</p>
+<p>(The door opens and NICK enters the house.)</p>
+<p><strong>Catherine</strong>: Why would you risk your &quot;Michelangelo&quot; against the best?</p>
+<p><strong>Tony Del Nagro</strong>: The best? Yeah, right. Jace was nothing but a lip-flapper. Told me I was all flash and no dash. He wanted to nut up a title. I took it.</p>
+<p>(Quick flashback to the race in progress. Two cars peeling it down the air strip. One car flips over and hits the ground, parts flying everywhere. Flash to white. Resume to TONY DEL NAGRO.)</p>
+<p><strong>Tony Del Nagro</strong>: Everybody scattered. No one wants to be there when the cops show up.</p>
+<p><strong>Nick</strong>: Did you replace one of your car windows recently?</p>
+<p><strong>Tony Del Nagro</strong>: Yeah. Last week. Some tweeker blew it out doing donuts.</p>
+<p><strong>Nick</strong>: Before or after you fired the gun in your car?</p>
+<p><strong>Mr. Del Nagro</strong>: All right what is this all about? I mean, look, my son doesn't have to answer any more of your questions.</p>
+<p><strong>Tony Del Nagro</strong>: Dad, it's okay. It's fine. Yeah, I popped off a few rounds through the sunroof.</p>
+<p><strong>Nick</strong>: The sunroof?</p>
+<p><strong>Tony Del Nagro</strong>: Yeah, everybody does it. Music's bumping and everybody's showing off their wheels. You get hyped for a race. Everybody does it.</p>
+<p><strong>Catherine</strong>: Where's the gun, Tony?</p>
+<p><strong>Mr. Del Nagro</strong>: It's not his; it's mine. It doesn't belong to him. It's registered to me.</p>
+<p><strong>Nick</strong>: Well, sir, we have reason to believe this gun was used in a homicide. </p>
+<p><strong>Mr. Del Nagro</strong>: Well, sir ... My wife was murdered two years ago and I couldn't even get a cop to return my phone calls and now here you are in my home harassing my son. Get out. Now. Take a walk.</p>
+<p><strong>Catherine</strong>: We'll be back with a warrant.</p>
+<p>(MR. DEL NAGRO nods his head. He still wants them to leave. CATHERINE stands and they both leave. Camera holds on TONY DEL NAGRO.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p><strong>Greg</strong>: What do cowboys drink?</p>
+<p><strong>Warrick</strong>: Whiskey.</p>
+<p><strong>Greg</strong>: And when I chew on a lemon wedge boy, is it ...</p>
+<p><strong>Warrick</strong>: Sour.</p>
+<p><strong>Greg</strong>: And vacuums are great because they ... </p>
+<p>(GREG puts the test results in front of GRISSOM and WARRICK to look at.)</p>
+<p><strong>Warrick</strong>: Suck. </p>
+<p><strong>Grissom</strong>: Reverse suction.</p>
+<p>(GREG nods.)</p>
+<p>(Quick CGI POV to the drink in the glass. The eye drop bottle is squeezed to put liquid into the drink, the tip makes contact with the liquid and part of that liquid goes back into the eye drop bottle. Camera close up of the eye bottle tip. End of CGI POV. Resume to present.)</p>
+<p><strong>Warrick</strong>: His drink in her eyedrops; her eyedrops in his drinks. </p>
+<p><strong>Greg</strong>: Dr. Edmund Locard would be proud.</p>
+<p><strong>Warrick</strong>: Well, we got a bonded bartender, eye in the sky, other waitresses. How the hell did she get that into his drink without anyone seeing?</p>
+<p><strong>Grissom</strong>: Aye. There's the rub.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GRISSOM'S OFFICE]</p>
+<p>(GRISSOM is looking at the list of the Product Drink by Server List. A Mozart Aria playing in the background.)</p>
+<p>(SARA walks in and turns the stereo-player off. GRISSOM looks up.)</p>
+<p><strong>Sara</strong>: What do you got?</p>
+<p><strong>Grissom</strong>: Suspicious waitress. Standard protocol for ordering drinks -- the sodas, then mixed drinks, then beers. First five rounds, she ordered correctly. The last round, however she ordered Doyle's whiskey sour first.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERROGATION ROOM]</p>
+<p><strong>Nadine</strong>: You can't pin this on me.</p>
+<p><strong>Brass</strong>: Sure, we can. You put your eyedrops in Doyle Pfeiffer's drink. That's what killed him.</p>
+<p><strong>Nadine</strong>: (chuckling): My eyedrops. Look, you saw the way it works. I didn't have time.</p>
+<p><strong>Grissom</strong>: You made the time. </p>
+<p>(Quick flashback to the night Nadine ordered the drinks at the bar.)</p>
+<p><strong>Nadine</strong>: Whiskey sour, decaf, bottled water, beer.</p>
+<p><strong>Bartender</strong>: Come on, Nadine. Order your drinks in the right order, okay? I'm swamped.</p>
+<p><strong>Nadine</strong>: Just give them to me. I am, too.</p>
+<p>(The BARTENDER hands NADINE the Whiskey Sour and she takes it off the bar where she adds the eyedrops to it.)</p>
+<p>(White flash to End of flashback. Resume to GRISSOM.)</p>
+<p><strong>Grissom</strong>: You changed the order of your drinks and the switch-up gave you ... opportunity. </p>
+<p><strong>Brass</strong>: So, let's talk motive.</p>
+<p><strong>Nadine</strong>: You want motive?</p>
+<p><strong>Warrick</strong>: Yes.</p>
+<p><strong>Nadine</strong>: He was a &quot;Stiff&quot;. I gave him a standard eyedrop shooter. I was trying to give the guy diarrhea, not kill him. Doyle sat at my table night after night and never even so much as tosses me one of those piddly-ass candies of his my way. In my line of work, there are two kinds of tippers: The &quot;Georges&quot; and the &quot;Stiffs.&quot; Matt was a &quot;George&quot;; Doyle was a &quot;Stiff&quot;. Now, if you want to charge me with conspiracy of trying to make a guy crap his pants then fine, go ahead. I'm guilty. But I didn't kill him.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY TO LAB]</p>
+<p>(GRISSOM and SARA walk to the lab.)</p>
+<p><strong>Grissom</strong>: So, the kid gets the pot but he doesn't get the reputation.</p>
+<p><strong>Sara</strong>: Server's revenge.</p>
+<p><strong>Grissom</strong>: Yeah, that's what she said.</p>
+<p><strong>Sara</strong>: A pissed-off waitress and a rounder with a bullet in him it could be a lethal combination.</p>
+<p><strong>Warrick</strong>: Got that tox report back.</p>
+<p>(WARRICK hands the test results to GRISSOM.)</p>
+<p><strong>Grissom</strong>: Basophillic stippling?</p>
+<p>(GRISSOM leans in to look at the microscope. Quick POV to the microscope shows red blood cells with white splotches on them. Cut back to present.)</p>
+<p><strong>Sara</strong>: Well, that can't be. Coarse basophillic stippling only occurs from massive infusions of lead.</p>
+<p>(GRISSOM looks up from the microscope.)</p>
+<p><strong>Warrick</strong>: Yeah, and according to the tox report the bullet in his leg wasn't degraded enough to account for the amount of lead in his body.</p>
+<p><strong>Grissom</strong>: So where'd the rest of the lead come from?</p>
+<p>HARD CUT TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<hr />
+[INT. CSI - BALLISTICS LAB]</p>
+<p>(NICK enters the lab. BOBBY DAWSON is working on the bullet NICK brought in.)</p>
+<p><strong>Nick</strong>: What do you got, Bobby?</p>
+<p><strong>Bobby Dawson</strong>: Yo, got your bullet. You pulled this out of a CRX, huh?</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p><strong>Bobby Dawson</strong>: Well, it's a lead core of a bullet. Looks like a ... medium caliber, just mangled upon impact. Can't get any stria, so, uh ... ... test firing the suspect's weapon's a waste of time. </p>
+<p><strong>Nick</strong>: Great, so it's useless.</p>
+<p><strong>Bobby Dawson</strong>: Well, I don't know. Take a look at the tip there. </p>
+<p>(NICK looks at the bullet through the lighted magnifying glass. The bullet tip is blunted and there are visible glass particles stuck to the tip.)</p>
+<p><strong>Nick</strong>: Bullet's got splinters. Light glass, tinted glass. Thanks, Bobby.</p>
+<p>(NICK slaps BOBBY DAWSON on the shoulder and leaves.)</p>
+<p><strong>Bobby Dawson</strong>: Yeah, sure thing.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GRISSOM'S OFFICE]</p>
+<p>(GRISSOM, WARRICK, SARA and GREG sit around the table. Each has some playing cards either in front of them or in their hand. Across the room in the deceased's set, the television set plays the security camera tape of the poker game. They're reconstructing the events of the game that night.)</p>
+<p><strong>Grissom</strong>: Okay, the last hand. I'm Doyle, I've been sitting in the same chair for thirteen hours. Here comes the cocktail waitress. She serves me my drink.</p>
+<p>(GRISSOM pauses the tape at 03:02:14:00.)</p>
+<p><strong>Grissom</strong>: Flashes me then she looks at Matt.</p>
+<p><strong>Sara</strong>: Question is, why?</p>
+<p>(The tape resumes.)</p>
+<p><strong>Warrick</strong>: Let's not forget the eyedrops are already in the drink; maybe she's giving him a signal.</p>
+<p><strong>Greg</strong>: Yeah, maybe they're working together.</p>
+<p><strong>Grissom</strong>: It's irrelevant. We've been chasing eyedrops to death. We're looking for lead.</p>
+<p><strong>Greg</strong>: Well, maybe the lead came from the glasses. Lead crystal.</p>
+<p><strong>Warrick</strong>: Yeah, in a casino? Picture that. </p>
+<p><strong>Sara</strong>: Already tested them. Negative.</p>
+<p>(GRISSOM puts a piece of choco-bee into his mouth and takes a bite. On video tape, DOYLE PFEIFFER does the same. GRISSOM makes a connection.)</p>
+<p>(Without a word, he stands and leaves the table.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY TO THE BALLISTICS LAB]</p>
+<p><strong>Catherine</strong>: So, I looked into Rita Del Nagro's death. The accident report says hit-and-run. It was a two-car collision. It's still open. An arrest was made, but the suspect was released due to insufficient evidence. Now, guess his name.</p>
+<p><strong>Nick</strong>: Jace Felder?</p>
+<p><strong>Catherine</strong>: Gives Tony Del Nagro plenty of motive. He lost his mother. Wanted revenge.</p>
+<p>(NICK and CATHERINE reach the Ballistics lab and start to put their head gear on.)</p>
+<p><strong>Nick</strong>: Maybe, but why try to gun down Felder he in the middle of a street race?</p>
+<p><strong>Catherine</strong>: Well, if it looks like an accident the investigation would be abbreviated..</p>
+<p><strong>Bobby Dawson</strong>: All right, stand back, y'all.</p>
+<p><strong>Catherine</strong>: No full-on autopsy the bullet could go undetected.</p>
+<p>(BOBBY DAWSON aims the gun and yells.)</p>
+<p><strong>Bobby Dawson</strong>: Firing!</p>
+<p>(He fires the gun at a partial simulation of the driver in a car between two sheets of car glass, both of a different tint. He extracts the bullet and examines it.)</p>
+<p><strong>Bobby Dawson</strong>: Bullet's nose picked up trace of both windows. Just like the one recovered from Jace Felder's car.</p>
+<p><strong>Catherine</strong>: You guys rock.</p>
+<p>(BOBBY DAWSON laughs.)</p>
+<p><strong>Catherine</strong>: So, we know the bullet can make the shot ... let's go see if the driver can.</p>
+<p>(CATHERINE looks over at NICK and smiles.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS DESERT (STOCK) - DAY]</p>
+<hr />
+[EXT. FRENCHMAN AIR FIELD -- DAY]</p>
+<p>(CATHERINE and NICK walk away from the Tahoe to the two racing cars waiting for them. They're both dressed in jumpsuits, CATHERINE in a red jumpsuit and NICK in a black jumpsuit. CATHERINE checks her pistol. NICK watches.)</p>
+<p><strong>Technician</strong>: You're all set.</p>
+<p><strong>Catherine</strong>: Hey, thanks, we'll take care of them for you.</p>
+<p>(NICK puts on his helmet.)</p>
+<p><strong>Nick</strong>: Hey, wait, hang on Cath, give me a test fire, will you?</p>
+<p><strong>Catherine</strong>: Love to.</p>
+<p>(CATHERINE aims her pistol at NICK'S helmet. NICK stands still as CATHERINE fires. NICK'S car alarm blares. NICK smiles. CATHERINE smiles. NICK reaches into the car and turns the alarm off.)</p>
+<p><strong>Nick</strong>: I wired the target to the car's alarm system. Gotta make sure we hear it.</p>
+<p><strong>Catherine</strong>: Always thinking there, Nicky, aren't ya?</p>
+<p>(They get into their respective cars and buckle up. CATHERINE puts on her helmet.)</p>
+<p><strong>Nick</strong>: Okay, remember full out the fifth then hit the nitrous and hang on.</p>
+<p><strong>Catherine</strong>: You just try to keep up.</p>
+<p>(Both drivers rev their engines and start their way down the air strip. As they gain speed, CATHERINE paces NICK'S car. She raises her pistol and takes aim. She paces NICK and fires. NICK'S car alarm blares. NICK slows down and turns off the car alarm. CATHERINE peels past him.)</p>
+<p>(NICK stops and gets out of his car. CATHERINE stops her car some distance away and gets out of her car. She takes out her helmet and raises her arms in mock victory. NICK smiles.)</p>
+<p><strong>Catherine</strong>: Thank you. Good night!</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(GRISSOM conducts an experiment to test his theory. He takes a single piece of Choco-Bees chocolate. The exact same chocolate brand that DOYLE PFEIFFER was eating that night. He cuts it in half. He puts the pieces in a test tube and adds clear liquid to it. The chocolate begins to bubble.)</p>
+<p>(GRISSOM appears pleased. He takes a sample of the liquid which is now fizzing and puts it in a small glass bottle. He holds the glass bottle up.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - INTERROGATION ROOM -- DAY]</p>
+<p><strong>Tony Del Nagro</strong>: Jace killed my mom. Everybody knew it. Everybody knew it, and nobody came forward. It was a street race. Jace's car just slammed right into us.</p>
+<p>(Quick flashback to RITA DEL NAGRO and TONY DEL NAGRO in the car. Headlights beam at them, the sound of a car speeding fast approaching them. RITA DEL NAGRO ducks and screams. White flash to end of flashback. Resume to TONY DEL NAGRO.)</p>
+<p><strong>Tony Del Nagro</strong>: Killed my mom instantly. He just plowed right into us. Kept going.</p>
+<p><strong>Catherine</strong>: You were in the car. Why didn't you just tell the police?</p>
+<p><strong>Tony Del Nagro</strong>: Because I didn't know it was Jace. I found out later on that it was a street racer.</p>
+<p><strong>Nick</strong>: And you weren't?</p>
+<p><strong>Tony Del Nagro</strong>: Not at the time, no. So I went to a couple of events and hooked into the world. I found out within one hour who killed her.</p>
+<p><strong>Nick</strong>: So, let me get this strait. You decide to become one of them. You buy a car with your mother's death benefit toss your hat in the ring and wait for your shot.</p>
+<p>(TONY DEL NAGRO doesn't say anything. He looks at NICK. CATHERINE shakes her head.)</p>
+<p><strong>Catherine</strong>: Revenge is best served cold.</p>
+<p>(Quick flashback to the night of the race. TONY DEL NAGRO is driving the car and just as CATHERINE had done, he raises his gun while pacing himself with JACE FELDER. He fires. The glass between the two cars shatters. JACE FELDER'S car goes out of control, hits the ramp and hits the ground scattering pieces everywhere. TONY DEL NAGRO doesn't stop. He keeps on going. End of flashback. Resume to present.)</p>
+<p><strong>Tony Del Nagro</strong>: I never stopped. I just kept going. Never looked back. </p>
+<p><strong>Nick</strong>: (o.s.) Took his title and then took him down. </p>
+<p>(TONY DEL NAGRO looks at NICK.)</p>
+<p><strong>Tony Del Nagro</strong>: He took my mother's life so I took his.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GRISSOM'S OFFICE]</p>
+<p>(GRISSOM puts a potted plant in the center of the table. He's wearing an apron over his clothes and is holding a spray bottle. WARRICK and SARA walk into GRISSOM'S office.)</p>
+<p><strong>Warrick</strong>: What's up, Griss?</p>
+<p><strong>Grissom</strong>: Did you guys know that seventy percent of the world's chocolate is produced in West Africa?</p>
+<p><strong>Warrick</strong>: Really?</p>
+<p><strong>Grissom</strong>: Yeah. The Ivory Coast, Ghana, Nigeria, and Cameroon.</p>
+<p><strong>Sara</strong>: No, I, uh, didn't know that.</p>
+<p><strong>Grissom</strong>: Doyle Pfeiffer didn't know either. Chocolate comes from cocoa plants, but in West Africa, the cars still use leaded gas. So when the exhaust fumes disperse into the atmosphere ... and it rains ... It pours lead. </p>
+<p>(For visual effect, GRISSOM sprays the plant with the water. And like a light spray of rain, it falls onto the plant. SARA takes a seat.)</p>
+<p><strong>Sara</strong>: Like acid rain.</p>
+<p><strong>Warrick</strong>: Whatever's in the atmosphere gets into the soil, gets into the cocoa plants. Capillary action. </p>
+<p>(WARRICK sits down.)</p>
+<p><strong>Grissom</strong>: Then the cocoa's harvested, processed, refined, sold into bulk, and eventually ...</p>
+<p><strong>Sara</strong>: Choco-bees.</p>
+<p>(Quick flashback to the video tape of DOYLE PFEIFFER popping in a piece of chocolate on a couple of different flashes. End of flashback. Resume to GRISSOM.)</p>
+<p><strong>Grissom</strong>: Doyle Pfeiffer's nickname was the &quot;Candyman.&quot; He got that name the night he won the World Championship in '86.</p>
+<p><strong>Warrick</strong>: Well, if he had those chocolates with him in '86 he's had them every night since. His lucky charm.</p>
+<p><strong>Grissom</strong>: By my calculations he might have consumed up to a pound of chocolate a night for sixteen years.</p>
+<p><strong>Warrick</strong>: Wow. That would explain all the lead in him.</p>
+<p><strong>Grissom</strong>: Ultimately the tetrahydrozoline in the eyedrops triggered it, but essentially, it was ... death by chocolate.</p>
+<p>(Camera holds on GRISSOM.)</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-
-
-(Camera view looking in on a group of poker players in a quiet room. It's a high-stakes game.
-Dealer: Start with you, sir?
-
-Grinder: Check.
-Matt: He doesn't bet, but he keeps a beat. You check. Someone's on a flush draw. Mm, I'll take the free card. Check.
-Lita Gibbons: I'll check.
-
-Matt: What do you got, Candyman?
-
-Doyle Pfeiffer: Check.
-Waitress:  Thank you very much.
-
-Matt:  &quot;Stiff&quot; ... typical.
-
-Grinder: I can bet. Make it ... $2,000.
-
-Matt: The Grinder speaks.
-
-Doyle Pfeiffer: We raise $4,000.
-Matt: Call the bet.
-Dealer: $2,000. Raise you $2,000.
-Matt: It's all about you, Grinder.
-Grinder: I'm going to go get a $2,000 slice of pizza.
-
-Matt: Well ... might as well make It a poker game. I'm all in. What do you got, Southern Iowa?
-Lita Gibbons: A pain in the ass to my right side.
-
-Doyle Pfeiffer: Um... yeah, you might have a winning hand. You might be just trying to buy it. Johnny Chan thought I was too old, too back in the '86 series.
-Matt: You mean, the series where the ball went through Buckner's legs?
-Doyle Pfeiffer: Save the story, kid. Here's what's what. I got aces. What do you got? Maybe you got trips, maybe king, queen. Maybe you got two pair. Ace hits the board ... I win. Club hits the board ... I win. 
- 
-Doyle Pfeiffer: Eight, nine hits the board ... 
- 
-Doyle Pfeiffer: I win.
-Matt: Here's the matter old man. Thirteen of every suit in the deck. I see three clubs. That means you've got ten coming 37 cards left in the deck. You like those odds?
-Doyle Pfeiffer: I like 'em a lot better than I like you.
-
-
-
-
-
-
-Warrick: You lost?
-Grissom: I'm listening.
-Warrick: For what?
-Grissom: E-C-G ... C major chord. All the slots play the same notes -- perfect harmony. Makes people happy.
-Warrick: Yeah, except when you're losing. Then you don't hear anything.
-
-Hank: Hey, guys.
-Warrick: Hey, Hank.
-Hank: Sara with you?
-Warrick: She's over there.
-
-Hank: Tell her I said hi.
-
-Warrick: Will do.
-Hank: Thank you.
-
-
-
-
-
-Brass: Doyle Pfeiffer, best poker player in the world. Eighteen hours ago he sits down at the table a healthy man. A half an hour ago, he drops dead in his chair.
-Warrick: That's a big pot. Casino's not satisfied with a heart attack?
-Brass: We're not satisfied. This is high stakes. We're treating it like a murder.
-Warrick: Suspicious circs.
-Brass: Mmm.
-Grissom: You ever played poker, Warrick?
-
-Warrick: Nah. Poker's not gambling. It's playing against percentages. It's a skill. I like to play for the thrill.
-
-Grissom: Whose hand was this?
-
-Matt: Mine! That pot's mine. He dropped dead before he went all in!
-
-Brass: Some young, loud-mouthed player thinks it's his pot.
-Grissom: Mmm.
-Brass: Excuse me.
-
-Grissom: Two cowboys -- one in the flop, trips. 
-
-Grissom: Pair of aces.
-
-Grissom: No river card, though. Burn one, turn one.
-
-Warrick: Ace of spades.
-Grissom: The Death Card.
-HARD CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
-
-Nick: Who called it in?
-Lockwood: Western LVU ornithology student. Saw turkey vultures. Got curious.
-
-Catherine: Birds of prey beat maggots to a body-- impressive. Gunshot. Entry just below the cheek. Not much blood, no blood pools.
-Nick: Means he wasn't shot here.
-Catherine: Where exactly is &quot;here?&quot;
-Lockwood: Frenchman airfield -- it's an old landing strip hasn't been used since the '60s.
-Nick: Well, it's flat. You could still land a plane here.
-Lockwood: Yeah, but in the middle of nowhere?
-Catherine: Perfect place to dump a body.
-
-
-
-
-
-Sara: I got chocolate.
-Warrick: What color is it?
-Sara: Green ... You know what they say about the green ones.
-
-Grissom: Bag it separately.
-
-
-
-
-Matt: But you agree with me, right? It's a forfeit. Doyle never went all in. He can wipe his ass with those aces river card or no river card. I beat him. It's a forfeit. 
-
-Brass: Look ... look. Shh ... see this badge? I'm not with the gaming commission. You got a problem with gaming, see the guy in the bad suit. 
-
-Brass: Here's the deal: Pending an investigation, it's our pot.
-
-
-
-
-
-Warrick: Is that what I think it is?
-Grissom: Urine, maybe. Game like this, leaving the table early could be perceived as a sign of weakness.
-Sara: Tell me they Scotchguard these things.
-Grissom: Why don't you tell me when you take it back to the lab and process it?
-Sara: Yay. 
-
-Warrick: How is it that you know so much about poker?
-
-Grissom: It's how I financed my first body farm in college.
-Warrick: You're kidding. Wow. I'm impressed. I mean, the fact that you sat at a table with actual living beings.
-Grissom: Well ... poker's not a game of interaction. It's a game of observation. I used to study people. And then I guess I, uh ... got bored. Now I study evidence.
-Warrick: What I don't get is it's not like we've never talked about gambling before. How come you never mention it?
-Grissom: Same reason a good player hides his &quot;tells.&quot; 
-
-Warrick: He doesn't want to be exposed.
-
-
-
-
-Robbins: You know why Steve Wynn hired Bobby Baldwin to run The Nugget, then The Mirage, The Bellagio? He was a great poker player, Great Thinker.
-Grissom: I did not know that.
-Robbins: Stop the world. No violaceous lividity prominent above the level of the shoulders.
-Grissom: So no heart attack?
-Robbins: Not ruling out stroke, but check out the mees lines in his fingernails. 
-
-Robbins: Milky, vomit-like fluid in the corners of his mouth ...
-
-Robbins: ... single blue line running across his gums ... 
-
-Robbins: ... all the earmarks of lead poisoning.
-Grissom: I haven't seen a case of lead poisoning in years.
-Robbins: What's that look like to you?
-
-Grissom: It looks like he's got a bullet in his thigh.
-Robbins: It's probably been there quite a while leeching lead into his system.
-Grissom: Enough to kill him?
-Robbins: I'll know better when I get the tox screen back and examine the brain.
-
-
-
-
-
-
-
-
-
-
-Grissom: Everyone has a tell, don't they, Lita?
-
-
-
-
-Greg: A whiskey sour, huh? Yeah, I'm a &quot;thug passion&quot; man, myself. It's a Tupack thing. 
-Sara: Tupac?
-Greg: So, what does your paramedic like to drink? I bet with a name like &quot;Hank,&quot; he's probably got some ho's sipping on 'yac.
-Sara: &quot;Yac&quot;? Cognac? No. &quot;Ho's?&quot; I'm not going there and, um, that's none of your business. It's nobody's business, as a matter of fact.
-Greg: All right, well, I won't tell Warrick and Nick about Hank on one condition ... you tell me what he's got that I don't got?
-
-Sara: There was tetrahydrozoline in the victim's drink.
-
-Greg: Uh, I never got my answer.
-Sara: I got mine. You don't even like Tupac, Greg.
-
-
-
-
-
-
-Warrick: She killed him with eyedrops?
-Sara: Well, it's not that far-fetched. Tetrahydrozoline is the active ingredient in eye drops. It's a vasoconstrictor. Obviously, it's great for bloodshot eyes.
-
-Warrick: I can buy that: You ingest eyedrops it constricts the blood vessels throughout your body maybe even spike your blood pressure perhaps even cause a stroke.
-Sara: It's a perfect poison. It's odorless, colorless, tasteless. Doyle would have never known it was in his drink.
-Grissom: Only one thing.
-Warrick: What's that?
-Grissom: Lita Gibbons was the last one to sit down at the table and she never left her chair. So ... how'd the eye drops get into his drink?
-
-
-
-
-Robbins: Hey, Catherine. Nice timing. I just finished my prelim on your John Doe.
-
-Catherine: No longer a John Doe. Got a name and a rap sheet. Jace Felder, busted for selling meth in '98. His prints are in AFIS.  Your turn.
-Robbins: Cause of death: Perforating gunshot wound through and through. Wound penetrated the zygomatic arch exited the right temple. 
-
-Robbins: Check out his right eardrum.
-
-
-Catherine: His eardrum's gone.
-Robbins: Presence of blood indicates the tympanic membrane was blown out shortly before death.
-
-Catherine: We found him on an airstrip. Maybe he was too close to a jet engine.
-Robbins: Jet engine? Well, that would explain his clothing. A gasoline smell. Sent if off to trace. Here's something you don't see every day, though: Perimortem bruising on his torso. Two symmetrical lines.
-
-Catherine: Looks like it could be from a harness or a seat belt.
-Robbins:  Maybe. 
-Catherine: What was this guy? A Top Gun?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Catherine: Well, this was no plane. Marks are too narrow. No center wheel, and ... when was the last time a plane lost a rearview mirror?
-
-Nick: Actually, we're looking at two.
-Catherine: Two?
-Nick: Yeah, I've got fresh marks at the head of the runway two sets, both parallel, so ... my guess is one car spun out here ...
-Catherine: Man, you are way ahead of me.
-Nick: Yeah, well, I been here a while. Over there another set of treads going straight ahead, so ...
-Catherine: Right. And you only lay down treads when your wheels aren't rolling smoothly. Panic braking? Sudden boost of acceleration? Race?
-
-Nick: I think so, yeah.
-Catherine: Drag racing? 
-Nick: Or street racing.
-Catherine: Ah ... 
-Nick: There's a reason it's illegal.
-Catherine: Yeah. Kids end up dead.
-
-
-
-
-
-
-
-Nick: Midnight drags. My brother was a gearhead. Rebuilt a '65 GTO with three carbs. Ran the thing flat out. Zero to a buck-13 in a quarter mile.
-Catherine: So your brother's cooler than you.
-
-Nick: No. No, not really.
-
-Lockwood: Welcome to pre-game. Every gear-banger in Clark County all with the same question -- &quot;What are you running under there?&quot;
-Catherine: Foreplay is foreplay. So, when do they race?
-Lockwood: It's not so much when it's where; racing locations are always in play. Once the call comes in the street will empty out in seconds.
-Catherine: They go all the way out to Frenchman airfield from here?
-Lockwood: Only when it rains.
-Catherine: It rained last night. Rain brings up the oil from the streets. They got to go somewhere to get some traction.
-
-Nick: The desert.
-
-Nick: Centrifugal supercharger. Nice. 
-
-Turbo Owner: Yeah, it's like the compressor side of a turbo but instead of spinning on the exhaust it goes through a gearset to the crank.
-
-Catherine: More power, no extra weight. Every girl's dream.
-
-Turbo Owner: Ooh. I like that. Yeah, check the nitrous speed.
-Nick: Nos. Nitrous oxide system.
-Catherine: Nitrous oxide as in speed?
-Turbo Owner: Well, speed is ultimately limited by how fast you can mix oxygen with fuel and ignite it.
-Nick: Regular air is about 20% oxygen. Nitrous is 40. Double the burn, double the power.
-
-Catherine: So the sudden boost of acceleration could account for the treads back at the airstrip.
-
-Nick: Check out that racing harness. Same as the bruises found on the victim.
-
-Lyric: :
-
-It's so real / how I feel / 'cause this society / that makes A... wanna kill / I'm just straight ill / ridin' my motorcycle down the streets / while politicians is soundin' like strippers to me / they sayin'... 
-
-
-Catherine: Hey! You deaf?
-Thumpy G: Oh, thanks a lot. What's up? I'm Thumpy G.
-Catherine: A jackhammer is about 50 decibels quieter.
-Thumpy G: You know the only way to beat a jackhammer is to bust 15,000 watts of Run DMC's &quot;dumb girl&quot; or-or L. L. Cool J's &quot;Goin' back to Cali.&quot; You know?
-
-Man:  Hey, G, what's up?
-Thumpy G:  Yo, Dog.
-Catherine: So, Thumpy ... you blow out a lot of eardrums?
-Thumpy G: I try to.
-
-Lockwood: You know this cat? Jace Felder.
-Thumpy G:  Negative. 
- 
-Thumpy G: What's up, baby?
-Woman: Hi.
-Thumpy G:  Hey!
-Catherine: Hey, Thumper! How about we impound your car, seize your stereo system and charge you with disturbing the peace?
-Thumpy G: Oh, she is hot, but now it's real hot. All right. Yo, do. It's coming back to me. 
-Nick: We're all ears.
-
-
-
-
-David Phillips: Wow, is this new?
-Robbins: Yup. Turbo.
- 
-David Phillips: I like it. 
-
-David Phillips: You need any help?
-Robbins: Nope.
-
-David Phillips: Cool.
-
-Robbins: Want to step back a little?
-
-
-
-
-
-
-Lita Gibbons: Hey, Al.
-
-Brass: So, how many pots is that?
-Grissom: Too many. 
-Brass: Yeah.
-(BRASS approaches the poker table.
-Brass: Lita Gibbons? 
-
-Brass: Why don't you sit this one out? Come with me.
-
-
-
-
-
-Lita Gibbons: Yeah. I live here. Tangiers is a damn smokehouse. Bothers my eyes.
-Brass: You use eyedrops?
-Lita Gibbons: Bottles and bottles.
-Brass: Can we see them?
-Lita Gibbons: Pick a pocket.
-
-Grissom: Miss Gibbons, what color are your eyes?
-Lita Gibbons: Brown.
-Grissom: Well, why are you wearing just one contact lens? 
-Lita Gibbons: I have 10/30 vision in my right eye.
-
-Grissom: Why is it tinted? We're going to need to take that contact lens. And your eyedrops.
-
-
-
-
-Robbins: You ever held a legend's brain? 
-David Phillips: Brain cried uncle.
-Robbins: Correct spelling: U-N-C-A-L. Uncal herniation-- a swelling at the base of the temporal lobe which compresses the posterior cerebral artery resulting in a stroke.
-
-Warrick: Let's back up here. Victim had chronic lead poisoning from a bullet that was left in his leg.
-Robbins: Tox is pending.
-Warrick: But what you're thinking is the lead from the bullet made his brain swell up with ... uncal herniation?
-Robbins: Wild card was blood pressure. If he kept that under control he might have had another twenty years.
-Warrick: Except that someone put tetrahydrozoline in his drink which made his blood pressure spike and now we got his brain in a bowl.
-Robbins: Yup.
-
-Warrick: Nasty.
-
-
-
-
-Nick: Michelangelo?
-Catherine: Yup.
-Nick: It's an odd name for a mechanic.
-Catherine: Well, Thumpy G said he was an artist. 
-
-Nick: Michael ... angelo. Nick Stokes, Catherine Willows. Vegas crime lab.
-
-Nick: Wow.
-Catherine: Yeah. So how long you been racing cars?
-Michelangelo: I don't race 'em. I soup 'em. And at six-fifty an hour, you're costing me money.
-Catherine: And you're costing us time. We're investigating a murder. 
-Michelangelo: Jace Felder, right?
-Catherine: That's right. 
-Nick: How do you know?
-Michelangelo: Small world. Shame about what happened. He was the Steve McQueen of Southern Nevada.
-Nick: We're looking for the kid he raced the night he was shot.
-Michelangelo: Why come to me?
-Nick: Thumpy G dropped your name, man. Said he was driving a &quot;Michelangelo.&quot;
-Michelangelo: I have many works of art. Which one?
-Nick: A blue honda, blue rims, tinted windows. 
-
-Catherine: &quot;Works of art&quot;.
-
-Michelangelo: Billie Holiday. Built this baby for myself. Sold it to some punk kid. Never should have done that. Sold out. Kid walks in one day $100,000 price tag in his head. Wants a racer off the showroom floor. No custom, no waiting, right now. Paid by check.
-Catherine: Silver spoon kid. You got a copy of the check?
-Michelangelo: Tossed it.
-Catherine: Tossed it?
-Michelangelo: Never should have done that, either.
-Catherine: No.
-Michelangelo: All I know was, it was an insurance company check. Third party. Sat on it till it cleared.
-
-Catherine:  Yeah?
-Lockwood:  Found Jace Felder's car.
-Catherine:  Where?
-
-
-Lockwood: Yeah, we were lucky. It was right under our noses. Uniform found it out on Gibson road. Tent sale. The, uh, VIN number was scratched off but I ran the firewall. Came back Jace Felder.
-Catherine: Who's the seller?
-Lockwood: Uh, some guy named Steven Masters. Well, make him an offer.
-Catherine: We'll take the car.
-
-
-
-
-Greg: So, we meet again. Lita Gibbons wasn't putting this on her nipples, was she?
-
-Sara: You have been drinking too many Thug Passions. The woman is twice your age. She may be three times your age, Greg.
-
-Greg: Old case. Sorry.
-
-Sara: Well?
-
-Greg: Well, uh, you'll get your answer when I get mine.
-
-
-
-
-
-Ronnie Litre: Hey, Grissom. Hooked you up.
-
-Grissom: Is this the same color as the contact lens? 
-Ronnie Litre: Only bigger. Glass is my life.
-
-Grissom: All right, stick around. I need your eyes.
-Ronnie Litre: As long as they stay in my head.
-
-Grissom: Find the aces.
-Ronnie Litre: How many are there?
-
-Grissom: Four.
-
-Ronnie Litre: First row, third card.
- 
-Ronnie Litre: Second row, fourth card.
-
-Ronnie Litre: Third row, eighth card.
-
-Ronnie Litre: And, fourth row, third card.
-
-Ronnie Litre: Anaglyphics. Color contrast to see hidden marks.
-
-Grissom: Lita Gibbons was playing the daub. She was cheating. She marked the corners of the cards with lip balm.
-Sara: And that's all she was doing. The victim's drink contained point-zero-five  zinc sulfate. There was no zinc sulfate in any of Lita Gibbons' eyedrops. It's a different formulation.
-Grissom: So she didn't kill Doyle Pfeiffer.
-Sara: No. But someone's eyedrops did.
-
-
-
-;
-
-
-
-
-
-
-Nadine: You're costing me money, here. I've got a second shift at the Monaco.
-Warrick: Well, you didn't seem too worried about money the other night. We watched the surveillance tape. Doyle Pfeiffer didn't even pass you a nickel yet you were all over him.
-Bartender:  Order's up.
-
-Nadine: I can tell you've never served drinks. Catch him in the right mood with the right pot, he can make your month.
-Warrick: Is that why you were giving eyes to the California kid?
-Nadine: I wasn't making eyes with him.
-
-
-
-Brass: You tipped some waitress $1,500 the other night? You in business, or you in love? 
-
-Matt: I was running a hot streak, three kill pots in a row. Sixty grand in forty minutes - I threw her a bone.
-Brass: That all you threw her? Put a shot in her? Anything else I should know? I mean, we're just talking here.
-Matt: All I can say is for fifteen hundred bucks you get great service.
-
-
-Nadine: I'm a waitress, not a call girl. I was playing one guy against the other. You want to make money? You bait. Besides ... I thought Doyle had a heart attack.
-Warrick: He did, but he had help. Someone put something in his drink.
-
-
-
-Bartender: What can I get you?
-Grissom: I'd like some information.
-
-Matt: Do you know what happens when you beat a legend? People see you different. They-they play you different. I wanted that edge.
-Brass: All right, let's go with that-- an edge.
-Matt: It does not play into my hand to have the guy dead.
-
-Bartender: The days of comping drinks ... sticking the hotel with the bill, those are done. Everything's computerized down to the last drop. Standard protocol. Down to the way the girls order their drinks: Sodas first, mixers second, beers last. No exceptions.
-
-Grissom: Where's your alcohol? I don't see any bottles.
-
-Bartender: Back of the house.
-Grissom: Really? May I order a double bourbon on the rocks?
-Bartender: Coming up.
-
-
-
-Bartender: Eight dollars.
-
-Grissom: You keep the drink and the change.
-
-Bartender: Thank you.
-
-Warrick: You mind if I take a look in your purse?
-Nadine: Yes, I do mind.
-
-Nadine: I'll tell you this. You bust me, you better bust all of us.
-
-
-
-
-
-
-Catherine: No glass no paint flecks, no personal effects. It's been cleaned.
-
-Nick: Hold the phone. I've got what looks like ... ah. ...A nine-millimeter round. No visible body fluid. What do you think? Maybe a miss?
-Catherine: Well, if he was shot in the car there's got to be some blood.
-Nick: Spray it up.
-
-Catherine: Well, the only void is in the driver's seat. Means it was occupied by our victim, Jace Felder. So he was shot in the head, left to right. Spatter on the passenger door is from the exit wound.
-Nick: Well, what about the rest of this blood? It's everywhere. 
-Catherine: He was shot while the car was in motion? Bled out while the car was rolling?
-
-Catherine: I want to meet this killer.
-
-
-
-Steven Masters: Opportunity knocked.  I answered.
-Nick: Okay. Uh, let's back up and start over shall we, Mr. Masters? You and your brother were off-roading.
-Steven Masters: Yes, sir.
-Nick: And you stumbled upon a wrecked racer out near Mercury.
-Steven Masters: Yes, sir.
-Nick: Why didn't you just ... ?
-Catherine:  Wait a minute. Let me, uh, let me get in on this.
-Nick: Please.
-Catherine: What were you thinking? You-you took the car?
-Steven Masters: Damn right. Engine alone's worth fifteen grand. 
-
-Steven Masters: The keys are still in the ignition. See if it runs.
-Adam Masters: What about him?
-Steven Masters: L-leave him here.
-
-Catherine: And what does a person's life go for?
-Steven Masters: Ma'am, he was already dead.  I drove the car home, washed it out.
-Catherine: And you didn't think to call 911 or anything like that?
-Steven Masters: No. You guys would have impounded the car.
-CATHERINE Okay, Mr. Masters. You've just confessed to grand larceny. Tampering with a crime scene. Detective Lockwood will get back to you on the murder charge. 
-
-Nick: Make yourself at home, boss.
-
-
-
-Catherine: Jackass.
-Nick: Dumbass.
-Catherine: &quot;Opportunity knocked.&quot;
-
-Lockwood: Hey, guys. I got a name on that third-party check signed over to Michelangelo. Tony Del Nagro. 8824 Sandy Creek Road.
-
-
-
-Tony Del Nagro: Yeah. I race.
-Catherine: You race Jace Felder the other night?
-Tony Del Nagro: I race a lot of people.
-Mr. Del Nagro: Look, if you're looking to bust my son for street-racing you can get your partner out of my backyard. I mean ... 
-Catherine: Sir, we're investigating a murder. Jace Felder was shot and killed.
-Mr. Del Nagro: He doesn't know anything about that.
-Catherine: Tony ... tell me about the race.
-Tony Del Nagro: We went head up. 
-
-Tony Del Nagro: Put my pink slip up against his five grand. Guess you could say I won.
-
-
-
-
-Nick: New glass - less tint.
-
-
-
-
-
-Catherine: From what I hear, Jace Felder was ... Mario Andretti. Why would you...?
-
-Catherine: Why would you risk your &quot;Michelangelo&quot; against the best?
-Tony Del Nagro: The best? Yeah, right. Jace was nothing but a lip-flapper. Told me I was all flash and no dash. He wanted to nut up a title. I took it.
-
-Tony Del Nagro: Everybody scattered. No one wants to be there when the cops show up.
-Nick: Did you replace one of your car windows recently?
-Tony Del Nagro: Yeah. Last week. Some tweeker blew it out doing donuts.
-Nick: Before or after you fired the gun in your car?
-Mr. Del Nagro: All right what is this all about? I mean, look, my son doesn't have to answer any more of your questions.
-Tony Del Nagro: Dad, it's okay. It's fine. Yeah, I popped off a few rounds through the sunroof.
-Nick: The sunroof?
-Tony Del Nagro: Yeah, everybody does it. Music's bumping and everybody's showing off their wheels. You get hyped for a race. Everybody does it.
-Catherine: Where's the gun, Tony?
-Mr. Del Nagro: It's not his; it's mine. It doesn't belong to him. It's registered to me.
-Nick: Well, sir, we have reason to believe this gun was used in a homicide. 
-Mr. Del Nagro: Well, sir ... My wife was murdered two years ago and I couldn't even get a cop to return my phone calls and now here you are in my home harassing my son. Get out. Now. Take a walk.
-Catherine: We'll be back with a warrant.
-
-
-
-
-Greg: What do cowboys drink?
-Warrick: Whiskey.
-Greg: And when I chew on a lemon wedge boy, is it ...
-Warrick: Sour.
-Greg: And vacuums are great because they ... 
-
-Warrick: Suck. 
-Grissom: Reverse suction.
-
-
-Warrick: His drink in her eyedrops; her eyedrops in his drinks. 
-Greg: Dr. Edmund Locard would be proud.
-Warrick: Well, we got a bonded bartender, eye in the sky, other waitresses. How the hell did she get that into his drink without anyone seeing?
-Grissom: Aye. There's the rub.
-
-
-
-
-
-Sara: What do you got?
-Grissom: Suspicious waitress. Standard protocol for ordering drinks -- the sodas, then mixed drinks, then beers. First five rounds, she ordered correctly. The last round, however she ordered Doyle's whiskey sour first.
-
-
-
-Nadine: You can't pin this on me.
-Brass: Sure, we can. You put your eyedrops in Doyle Pfeiffer's drink. That's what killed him.
-Nadine: : My eyedrops. Look, you saw the way it works. I didn't have time.
-Grissom: You made the time. 
-
-Nadine: Whiskey sour, decaf, bottled water, beer.
-Bartender: Come on, Nadine. Order your drinks in the right order, okay? I'm swamped.
-Nadine: Just give them to me. I am, too.
-
-
-Grissom: You changed the order of your drinks and the switch-up gave you ... opportunity. 
-Brass: So, let's talk motive.
-Nadine: You want motive?
-Warrick: Yes.
-Nadine: He was a &quot;Stiff&quot;. I gave him a standard eyedrop shooter. I was trying to give the guy diarrhea, not kill him. Doyle sat at my table night after night and never even so much as tosses me one of those piddly-ass candies of his my way. In my line of work, there are two kinds of tippers: The &quot;Georges&quot; and the &quot;Stiffs.&quot; Matt was a &quot;George&quot;; Doyle was a &quot;Stiff&quot;. Now, if you want to charge me with conspiracy of trying to make a guy crap his pants then fine, go ahead. I'm guilty. But I didn't kill him.
-
-
-
-
-Grissom: So, the kid gets the pot but he doesn't get the reputation.
-Sara: Server's revenge.
-Grissom: Yeah, that's what she said.
-Sara: A pissed-off waitress and a rounder with a bullet in him it could be a lethal combination.
-Warrick: Got that tox report back.
-
-Grissom: Basophillic stippling?
-
-Sara: Well, that can't be. Coarse basophillic stippling only occurs from massive infusions of lead.
-
-Warrick: Yeah, and according to the tox report the bullet in his leg wasn't degraded enough to account for the amount of lead in his body.
-Grissom: So where'd the rest of the lead come from?
-
-
-
-
-
-
-Nick: What do you got, Bobby?
-Bobby Dawson: Yo, got your bullet. You pulled this out of a CRX, huh?
-Nick: Yeah.
-Bobby Dawson: Well, it's a lead core of a bullet. Looks like a ... medium caliber, just mangled upon impact. Can't get any stria, so, uh ... ... test firing the suspect's weapon's a waste of time. 
-Nick: Great, so it's useless.
-Bobby Dawson: Well, I don't know. Take a look at the tip there. 
-
-Nick: Bullet's got splinters. Light glass, tinted glass. Thanks, Bobby.
-
-Bobby Dawson: Yeah, sure thing.
-
-
-
-
-Grissom: Okay, the last hand. I'm Doyle, I've been sitting in the same chair for thirteen hours. Here comes the cocktail waitress. She serves me my drink.
-
-Grissom: Flashes me then she looks at Matt.
-Sara: Question is, why?
-
-Warrick: Let's not forget the eyedrops are already in the drink; maybe she's giving him a signal.
-Greg: Yeah, maybe they're working together.
-Grissom: It's irrelevant. We've been chasing eyedrops to death. We're looking for lead.
-Greg: Well, maybe the lead came from the glasses. Lead crystal.
-Warrick: Yeah, in a casino? Picture that. 
-Sara: Already tested them. Negative.
-
-
-
-
-
-Catherine: So, I looked into Rita Del Nagro's death. The accident report says hit-and-run. It was a two-car collision. It's still open. An arrest was made, but the suspect was released due to insufficient evidence. Now, guess his name.
-Nick: Jace Felder?
-Catherine: Gives Tony Del Nagro plenty of motive. He lost his mother. Wanted revenge.
-
-Nick: Maybe, but why try to gun down Felder he in the middle of a street race?
-Catherine: Well, if it looks like an accident the investigation would be abbreviated..
-Bobby Dawson: All right, stand back, y'all.
-Catherine: No full-on autopsy the bullet could go undetected.
-
-Bobby Dawson: Firing!
-
-Bobby Dawson: Bullet's nose picked up trace of both windows. Just like the one recovered from Jace Felder's car.
-Catherine: You guys rock.
-
-Catherine: So, we know the bullet can make the shot ... let's go see if the driver can.
-
-
-
-
-
-
-Technician: You're all set.
-Catherine: Hey, thanks, we'll take care of them for you.
-
-Nick: Hey, wait, hang on Cath, give me a test fire, will you?
-Catherine: Love to.
-
-Nick: I wired the target to the car's alarm system. Gotta make sure we hear it.
-Catherine: Always thinking there, Nicky, aren't ya?
-
-Nick: Okay, remember full out the fifth then hit the nitrous and hang on.
-Catherine: You just try to keep up.
-
-
-Catherine: Thank you. Good night!
-
-
-
-
-
-
-
-
-Tony Del Nagro: Jace killed my mom. Everybody knew it. Everybody knew it, and nobody came forward. It was a street race. Jace's car just slammed right into us.
-
-Tony Del Nagro: Killed my mom instantly. He just plowed right into us. Kept going.
-Catherine: You were in the car. Why didn't you just tell the police?
-Tony Del Nagro: Because I didn't know it was Jace. I found out later on that it was a street racer.
-Nick: And you weren't?
-Tony Del Nagro: Not at the time, no. So I went to a couple of events and hooked into the world. I found out within one hour who killed her.
-Nick: So, let me get this strait. You decide to become one of them. You buy a car with your mother's death benefit toss your hat in the ring and wait for your shot.
-
-Catherine: Revenge is best served cold.
-
-Tony Del Nagro: I never stopped. I just kept going. Never looked back. 
-Nick:  Took his title and then took him down. 
-
-Tony Del Nagro: He took my mother's life so I took his.
-
-
-
-
-Warrick: What's up, Griss?
-Grissom: Did you guys know that seventy percent of the world's chocolate is produced in West Africa?
-Warrick: Really?
-Grissom: Yeah. The Ivory Coast, Ghana, Nigeria, and Cameroon.
-Sara: No, I, uh, didn't know that.
-Grissom: Doyle Pfeiffer didn't know either. Chocolate comes from cocoa plants, but in West Africa, the cars still use leaded gas. So when the exhaust fumes disperse into the atmosphere ... and it rains ... It pours lead. 
-
-Sara: Like acid rain.
-Warrick: Whatever's in the atmosphere gets into the soil, gets into the cocoa plants. Capillary action. 
-
-Grissom: Then the cocoa's harvested, processed, refined, sold into bulk, and eventually ...
-Sara: Choco-bees.
-
-Grissom: Doyle Pfeiffer's nickname was the &quot;Candyman.&quot; He got that name the night he won the World Championship in '86.
-Warrick: Well, if he had those chocolates with him in '86 he's had them every night since. His lucky charm.
-Grissom: By my calculations he might have consumed up to a pound of chocolate a night for sixteen years.
-Warrick: Wow. That would explain all the lead in him.
-Grissom: Ultimately the tetrahydrozoline in the eyedrops triggered it, but essentially, it was ... death by chocolate.
-
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=03x01+-+Revenge+Is+Best+Served+Cold&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127330%23p127330" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=03x01+-+Revenge+Is+Best+Served+Cold&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127330%23p127330" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127330%23p127330&amp;name=03x01+-+Revenge+Is+Best+Served+Cold" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127330%23p127330" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=6837f15239965913f3f81f624781121e">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=6837f15239965913f3f81f624781121e">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=6837f15239965913f3f81f624781121e">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=6837f15239965913f3f81f624781121e">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

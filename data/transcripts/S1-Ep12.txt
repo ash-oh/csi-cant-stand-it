@@ -1,818 +1,1052 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS DESERT (STOCK) - DAY]
+WHITE FLASH TO:
 
+[EXT. WESTERN LAS VEGAS CORRECTIONAL FACILITY --DAY]
+(The inmates, dressed i" />
+<meta property="og:title" content="01x12 - Fahrenheit 932 - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS DESERT (STOCK) - DAY]
+WHITE FLASH TO:
 
+[EXT. WESTERN LAS VEGAS CORRECTIONAL FACILITY --DAY]
+(The inmates, dressed i" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13194" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>01x12 - Fahrenheit 932 - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13194" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13194">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=29fc152ed1302e834e764bb88fe8f420"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=29fc152ed1302e834e764bb88fe8f420">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=29fc152ed1302e834e764bb88fe8f420">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=29fc152ed1302e834e764bb88fe8f420">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=29fc152ed1302e834e764bb88fe8f420">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13194&amp;sid=29fc152ed1302e834e764bb88fe8f420&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>01x12 - Fahrenheit 932</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127288">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127288">01x12 - Fahrenheit 932</a></div>
+							<div class="pull-right text-right"><time datetime="2001-02-15T19:28:36Z">02/15/01 19:28</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS DESERT (STOCK) - DAY]</p>
+<p>WHITE FLASH TO:</p>
+<hr />
+[EXT. WESTERN LAS VEGAS CORRECTIONAL FACILITY --DAY]</p>
+<p>(The inmates, dressed in bright red exercise outside. They play basketball, lift weights, etc.)</p>
+<p>(Cut to: One inmate in his cell addresses a package to:<br />
+GIL GRISSOM<br />
+c/o CSI<br />
+2974 WESTFALL<br />
+LAS VEGAS, NV89109 )</p>
+<p>(The inmate carries the package and walks out with the other inmates who also have letters and things to mail.)</p>
+<p><strong>Officer</strong>: Into the bag, follow me.</p>
+<p>(One by one, the inmates put their letters into the open mailbag set up to the side of the hallway.)</p>
+<p>(The inmate carrying the box addressed to GRISSOM, puts it into the mailbag and keeps walking.)</p>
+<p>(Cut to: The package is placed on a conveyor belt and scanned through the X-ray. The camera rises to the monitor and shows that inside the package is a video tape.)</p>
+<p>(The package exits the scanner and is picked up on the other side.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY /BREAK ROOM-- DAY]</p>
+<p>(The delivery person carries the stamped package down the hallway. He turns the corner and walks into the Break Room where GRISSOM is leafing through a magazine.)</p>
+<p><strong>Delivery Boy</strong>: This came for you, Mr. Grissom.</p>
+<p>(He hands the package to GRISSOM who takes it and puts it on the table between him and BRASS. GRISSOM leans over to look at it as does BRASS.)</p>
+<p><strong>Brass</strong>: What's this? An anonymous package from county lockup?</p>
+<p>(GRISSOM takes out something to open the package. BRASS immediately protests.)</p>
+<p><strong>Brass</strong>: Yeah, well, hey, just a second. Wait a minute. Give an innocent bystander a chance to clear out, will you?</p>
+<p><strong>Grissom</strong>: What are you worried about?</p>
+<p>BRASS One minute, I'm eating tomato salad. The next ... I'm gazpacho.</p>
+<p>(GRISSOM takes off the wrapping and opens the box. Inside is the video tape.)</p>
+<p><strong>Brass</strong>: With any luck it'll be the next episode of G-String Divas.</p>
+<p>(GRISSOM puts it in the video tape machine and turns it on. He settles back in the chair to watch.)</p>
+<p>(On videotape, FRANK DAMON sits in front of the camera and blows lightly into the clip-on microphone then rather than put it on, he holds onto it as he speaks.)</p>
+<p><strong>Frank Damon</strong>: (on videotape) My name is Frank Damon ... and I'm awaiting trial for the murder of ... my wife and son.</p>
+<p><strong>Brass</strong>: (nods) That's an arson case -- a few months ago. The DA is asking for the death penalty.</p>
+<p><strong>Frank Damon</strong>: (on videotape) I didn't kill my family ... but my lawyer says the evidence is against me.</p>
+<p>(Something about the videotape captures GRISSOM'S attention. He stares at the monitor intently.)</p>
+<p><strong>Frank Damon</strong>: (on videotape) I was a good father. I loved him. I would have given my life for Toby and Jeannie. They were my world. Mr. Grissom, you are my last hope. Please ... help me.</p>
+<p><strong>Brass</strong>: An innocent man. Jail's full of them.</p>
+<p><strong>Grissom</strong>: It only takes one.</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI - BREAK ROOM -- NIGHT]</p>
+<p>(GRISSOM is sitting at the table reviewing the files. In the background through the glass, we see CATHERINE walk toward the room; NICK and SARA follow her.)</p>
+<p>(GRISSOM continues to read the file. Suddenly CATHERINE leans over and stares at the file over his shoulder.)</p>
+<p>(GRISSOM turns to look at her.)</p>
+<p><strong>Catherine</strong>: Am I disturbing you?</p>
+<p><strong>Grissom</strong>: Yeah.</p>
+<p><strong>Catherine</strong>: Good.</p>
+<p>(GRISSOM realizes that everyone's there for their assignments.)</p>
+<p><strong>Grissom</strong>: Oh. Great. Sorry.</p>
+<p>(Everyone starts to take their seats around the table. GRISSOM puts the file down and looks around the stacks of paper on the table. He sighs.)</p>
+<p><strong>Grissom</strong>: Uh, I was supposed to pass out some supervisor evaluation forms. Where are they?</p>
+<p>(CATHERINE grabs the papers on the table and starts handing them out.)</p>
+<p><strong>Catherine</strong>: Here they are.</p>
+<p><strong>Nick</strong>: (sits down &amp; smiles) Mmm. Get to rate the boss. I dig this.</p>
+<p>(CATHERINE gives NICK the evaluation form.)</p>
+<p><strong>Catherine</strong>: Give him a perfect ten or your ass is out of here.</p>
+<p><strong>Grissom</strong>: (exasperated) No, it's not.</p>
+<p>(SARA laughs. CATHERINE hands her an evaluation form and heads around the table toward WARRICK.)</p>
+<p><strong>Grissom</strong>: All right. Assignment: Parking lot of the sportsbook at the Monaco. Caucasian male found dead in the front seat of his car.</p>
+<p>(CATHERINE sits down.)</p>
+<p><strong>Nick</strong>: Two days before the Super Bowl.</p>
+<p>(Sounds promising to WARRICK as he leans forward.)</p>
+<p><strong>Warrick</strong>: I'll take a piece of that.</p>
+<p><strong>Grissom</strong>: No. Uh, Nick and Catherine.</p>
+<p>(WARRICK sniffs and settles back in his seat. SARA pipes up.)</p>
+<p><strong>Sara</strong>: What else you got?</p>
+<p><strong>Grissom</strong>: You and Warrick are working with me.</p>
+<p><strong>Catherine</strong>: The prisoner plea. Brass told me about the video.</p>
+<p><strong>Grissom</strong>: Yeah. If we take the case we have very little time to work it. The trial starts in three days.</p>
+<p><strong>Sara</strong>: How did he find you? 1-800-GRISSOM ... ?</p>
+<p>(NICK laughs.)</p>
+<p><strong>Catherine</strong>: Wait a minute. Ecklie was the CSI on that arson. I see a bad moon rising.</p>
+<p><strong>Warrick</strong>: Can a CSI take over another CSIi's case?</p>
+<p><strong>Catherine</strong>: Only if they're of equal rank and they're looking for trouble.</p>
+<p><strong>Grissom</strong>: No trouble. We're both colleagues searching for the truth. Okay, that's it. Look ... onward. You have to start by looking at this.</p>
+<p>(GRISSOM holds out the video tape. SARA reaches out and takes it.)</p>
+<p><strong>Warrick</strong>: Hey, what happened to that, uh, meeting the other day?</p>
+<p><strong>Grissom</strong>: Meeting?</p>
+<p><strong>Warrick</strong>: Yeah, the department heads were voting on an extra vacation day or something?</p>
+<p>(NICK, who had already stood up to leave for his assignment, stops and turns to listen to WARRICK.)</p>
+<p><strong>Catherine</strong>: Yeah.</p>
+<p>(GRISSOM stares at them ... clueless. He doesn't say anything and it's obvious that he didn't go to the meeting. CATHERINE shrugs.)</p>
+<p><strong>Nick</strong>: (looks at evaluation) Hmm. &quot;Organization&quot; ... minus one.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. CSI - PARKING LOT -- NIGHT] </p>
+<p>(GRISSOM is in his car about to leave, when BRASS calls out to him as he approaches the car from the passenger side.)</p>
+<p><strong>Brass</strong>: Yo, cousin. </p>
+<p>(GRISSOM turns to look at BRASS.)</p>
+<p><strong>Brass</strong>: I'm going to save you some gas here. I did some checking on your pal Damon.</p>
+<p><strong>Grissom</strong>: I don't remember asking you to.</p>
+<p><strong>Brass</strong>: Eyewitness saw him running from his burning house. Inside was his wife and kid. Now, wife's a big spender. Maxed out on the credit cards. They just bought the place and already he's late on the payments. Couple's always arguing about money. No surprise.</p>
+<p><strong>Grissom</strong>: Well, how does killing his family solve his money problems?</p>
+<p><strong>Brass</strong>: Maybe he didn't mean to. Maybe he needed the insurance dough and things got out of hand.</p>
+<p><strong>Grissom</strong>: Too many maybes. I think we should go with the evidence.</p>
+<p><strong>Brass</strong>: Well, I got something for you on that, too. Gasoline found in the master bedroom closet.</p>
+<p><strong>Grissom</strong>: Yeah, a hydrocarbon. I read Ecklie's report. </p>
+<p><strong>Brass</strong>: Did you skip the page with Damon's credit card receipts? Guy bought a gallon of gas a week before the fire.</p>
+<p><strong>Grissom</strong>: Do I seem like the kind of guy who skips stuff?</p>
+<p><strong>Brass</strong>: Read my lips. There is no compelling evidence to suggest Damon was wrongfully charged.</p>
+<p><strong>Grissom</strong>: Well, then, it'll be a short interview, won't it?</p>
+<p>(GRISSOM starts the car engine.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[EXT. MONACO CASINO - PARKING LOT - NIGHT]</p>
+<p>(CATHERINE and NICK walk up to the crime scene.)</p>
+<p><strong>Nick</strong>: Whew! Two days before the super bowl and they're already killing each other.</p>
+<p>(CATHERINE looks into the car window. SGT. O'RILEY peers in through the open driver-side door at CATHERINE.)</p>
+<p><strong>Catherine</strong>: Hey, O'Riley, anyone put their meat hooks on this vehicle?</p>
+<p><strong>Sgt. O'Riley</strong>: How long have we worked together?</p>
+<p><strong>Catherine</strong>: Still got to ask.</p>
+<p><strong>Nick</strong>: Sergeant.</p>
+<p>(SGT. O'RILEY sees that NICK wants to get to the body. He steps aside and NICK steps forward to look at the body leaning against the steering wheel.)</p>
+<p><strong>Sgt. O'Riley</strong>: What's up?</p>
+<p><strong>Nick</strong>: Oh ... gunshot wound to the head, point-blank range.</p>
+<p><strong>Catherine</strong>: Just a baby. </p>
+<p>(CATHERINE snaps a photo of the body. She opens the back door and picks up the wallet to check it.)</p>
+<p><strong>Catherine</strong>: Tap city. Empty.</p>
+<p>(Quick flashback to: The DRIVER gets into the car. As soon as the car door closes, the KILLER sits up and puts the gun to the back of his head.)</p>
+<p><strong>Catherine</strong>: (V.O.) Killer was probably in the back seat waiting for him. </p>
+<p>(The KILLER shoots; blood spurts onto the windshield.)</p>
+<p><strong>Catherine</strong>: (V.O.) Kid never stood a chance.</p>
+<p>(The KILLER reaches over for the wallet. Once he gets it, he pushes the dead body toward the steering wheel. White flash to: The KILLER removes the money from the wallet)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(NICK examines the dead body and notices something stuck in his ear.)</p>
+<p><strong>Nick</strong>: Check this out. Hearing aid?</p>
+<p><strong>Catherine</strong>: Maybe he was deaf.</p>
+<p><strong>Nick</strong>: Possibly. </p>
+<p>(NICK puts his flashlight down, then moves to the back seat behind the driver. He opens the door and notices the window.)</p>
+<p><strong>Nick</strong>: Got some condensation on the window. You should get a shot of this.</p>
+<p>(CATHERINE pulls out a plastic bag under the back seat passenger side chair. She opens it and checks inside, then chuckles.)</p>
+<p><strong>Catherine</strong>: You hungry, Nick? Got a burger. Extra lettuce.</p>
+<p>(CATHERINE takes out a stack of hundred dollar bills. It's wrapped with two rubber bands with a paper that reads: </p>
+<p>MONACO CASINO<br />
+4D207-D5DF-304...<br />
+550 000 STRAIGHT BET<br />
+LAKER - 11<br />
+TO WIN 550 000<br />
+TOTAL 510 000<br />
+576 TELLER #?<br />
+26JAN01 **:25:42<br />
+4D207-D5DF-3...</p>
+<p><strong>Nick</strong>: A rule of thumb: $2,500 an inch. There's got to be ... fifteen thousand there?</p>
+<p>(CATHERINE looks at the paper label and reads.)</p>
+<p><strong>Catherine</strong>: &quot;Giants ... negative nine.&quot;</p>
+<p>(Something sounds recognizable to NICK. He looks at CATHERINE and she hands over the money to NICK.)</p>
+<p><strong>Nick</strong>: &quot;Giants minus nine.&quot;</p>
+<p>(NICK shows CATHERINE the ticket attached to the stack of bills.)</p>
+<p><strong>Nick</strong>: It's a super bowl ticket. Straight bet-- $30,000.</p>
+<p><strong>Catherine</strong>: What does a kid doing walking around with a wad like that betting thirty grand on a football game? Who wrote the ticket?</p>
+<p>(NICK pulls out the ticket and shows it to CATHERINE.)</p>
+<p><strong>Nick</strong>: Teller 12.</p>
+<p>CUT TO:</p>
+<hr />
+[INT MONACO CASINO - NIGHT] </p>
+<p>(CATHERINE and NICK question TONY, TELLER 12.)</p>
+<p><strong>Tony (teller 12)</strong>: Yeah, I wrote the ticket. So what?</p>
+<p><strong>Catherine</strong>: So, it was found with the kid killed in your parking lot.</p>
+<p><strong>Tony (teller 12)</strong>: Yeah. 30 dimes. It was 517's.</p>
+<p><strong>Nick</strong>: 517? What's that?</p>
+<p><strong>Tony (teller 12)</strong>: That's his number. He was a runner.</p>
+<p><strong>Catherine</strong>: A runner?</p>
+<p><strong>Tony (teller 12)</strong>: Yeah, a gofer -- runs from book to book places bets with other people's money.</p>
+<p><strong>Catherine</strong>: Kid wasn't a day over sixteen. Isn't that illegal?</p>
+<p><strong>Tony (teller 12)</strong>: Lady, he's not buying a pack of cigarettes. He's betting<br />
+$30,000. Vig for the house is three grand. We look the other way.</p>
+<p><strong>Nick</strong>: I'd be willing to bet there's a mother out there that wishes you hadn't.</p>
+<p><strong>Tony (teller 12)</strong>: Hey, what do I care? I'm out of this job by the end of the week. Tired of looking at scumbags.</p>
+<p><strong>Catherine</strong>: Well, does 517 have a name?</p>
+<p><strong>Tony (teller 12)</strong>: I only know them by their numbers.</p>
+<p>(NICK turns and walks away.)</p>
+<p><strong>Catherine</strong>: (to TONY) Well, you've been very helpful. Thank you.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. WESTERN LAS VEGAS CORRECTIONAL FACILITY - NIGHT]</p>
+<p>(GRISSOM walks up to the gate.) </p>
+<p><strong>Grissom</strong>: Evening.</p>
+<p><strong>Officer</strong>: Here you go.</p>
+<p>(The GUARD opens the gate for him.)</p>
+<p><strong>Grissom</strong>: Thanks.</p>
+<p><strong>Inmate</strong>: Yo, Grissom! </p>
+<p>(GRISSOM turns and sees a guard leading a line of inmates for a walk in the fresh night air.)</p>
+<p><strong>Inmate</strong>: (to other inmate) This guy's the reason I'm in here. Shoe print.<br />
+(yells) Yo, man, next time I'll go barefoot!</p>
+<p><strong>Grissom</strong>: (yells back, amused) Even better. Footprints.</p>
+<p>(GRISSOM turns to walk into the facility.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. PRISON - CONFERENCE ROOM -- NIGHT]</p>
+<p>(The guard leads FRANK DAMON to the cubicle where GRISSOM sits waiting for him. He picks up the telephone.)</p>
+<p><strong>Frank Damon</strong>: So, you're the Grissom they wrote about in the newspaper? I thought you'd be older.</p>
+<p><strong>Grissom</strong>: Why did you contact me, Mr. Damon?</p>
+<p><strong>Frank Damon</strong>: Arson specialist gave me your name. Well, six of them, actually. They all turned my case down. Will you help me?</p>
+<p><strong>Grissom</strong>: Fires are very complicated. </p>
+<p><strong>Frank Damon</strong>: It wasn't too complicated for the guy who put me in here. </p>
+<p>(GRISSOM doesn't answer him right away. He looks at FRANK DAMON for a long moment.)</p>
+<p><strong>Frank Damon</strong>: You think if you stare at me long enough, you can tell if I'm innocent?</p>
+<p><strong>Grissom</strong>: I don't mean to stare ... but, yes, I can learn some things. For instance, the back of your hands are smooth. You read a lot. You have indentation marks on your nose from reading glasses. Your speech tells me that you're well-educated. Your occupation's not listed in the file, but I think that you had a white-collar job.</p>
+<p><strong>Frank Damon</strong>: (nods) Paper-pusher for the phone company.</p>
+<p><strong>Grissom</strong>: I don't know yet whether you're left- or right-handed, though. </p>
+<p>(FRANK instinctively pulls his right hand toward him. GRISSOM notices the movement.)</p>
+<p><strong>Grissom</strong>: Now, you want to tell me what happened?</p>
+<p><strong>Frank Damon</strong>: It was about midnight.</p>
+<p>(Quick flashback to: The night of the fire, FRANK leans in to kiss JEANNIE as she tucks the blanket around TOBY. FRANK straightens up.</p>
+<p><strong>Frank Damon</strong>: Okay, baby.</p>
+<p><strong>Frank Damon</strong>: (V.O.) My wife, Jeannie -- she was hungry. She had a food craving.</p>
+<p>(End of flashback. Resume to present.</p>
+<p><strong>Frank Damon</strong>: She sent me out to the store to get her some ice cream.</p>
+<p>(Quick flashback to: The night of the fire, JEANNIE turns and lightly touches TOBY'S head as he lies in bed.)</p>
+<p><strong>Frank Damon</strong>: (V.O.) My son, Toby, he was in the bed with us.</p>
+<p>(FRANK puts his coat on to leave.)</p>
+<p><strong>Frank Damon</strong>: (V.O.) He couldn't sleep. I was going to take him camping the next day.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Frank Damon</strong>: Toby was eight.</p>
+<p><strong>Grissom</strong>: Why don't you tell me about the fire.</p>
+<p>(Quick flashback to: The night of the fire, the SUV pulls up into the driveway.)</p>
+<p><strong>Frank Damon</strong>: (V.O.) I got back from the store in under 20 minutes.</p>
+<p>(He parks the car and sees the smoke rising from the house.)</p>
+<p><strong>Frank Damon</strong>: (V.O.) I saw smoke coming out of the back of the house. I could hear the alarm.</p>
+<p>(He rushes into the house and runs to the bedroom.)</p>
+<p><strong>Frank Damon</strong>: Jeannie!</p>
+<p><strong>Frank Damon</strong>: (V.O.) The house was filled with smoke.</p>
+<p><strong>Frank Damon</strong>: Jeannie!</p>
+<p>(FRANK reaches the bedroom door and sees the smoke coming out from under the opening.)</p>
+<p><strong>Frank Damon</strong>: (V.O.) I checked the door for heat. I knew not to open it.</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Why?</p>
+<p><strong>Frank Damon</strong>: Flashover.</p>
+<p>(Surprised that FRANK even knows about &quot;flashovers&quot;.)</p>
+<p><strong>Grissom</strong>: Flashover?</p>
+<p><strong>Frank Damon</strong>: That's right. When the fire reaches about 932 degrees Fahrenheit you add oxygen and the smoke will burst into flame. I know how fire behaves, Mr. Grissom, because I'm a volunteer fireman. I was hoping to make the department this Spring. So I couldn't open the door. I ran outside to my car to call a rig.</p>
+<p><strong>Grissom</strong>: Well, if you're a volunteer fireman then you must be familiar with the use of accelerants.</p>
+<p><strong>Frank Damon</strong>: Yes.</p>
+<p><strong>Grissom</strong>: According to the report there were traces of gasoline found on the floor of your bedroom closet.</p>
+<p><strong>Frank Damon</strong>: That's right, and I don't know how it got there. We didn't keep anything like that in the house.</p>
+<p><strong>Grissom</strong>: Our homicide department has a credit card receipt for gasoline -- your receipt -- and there's no other suspects.</p>
+<p>(FRANK'S getting upset.)</p>
+<p><strong>Frank Damon</strong>: I didn't burn down my house, Mr. Grissom. I bought the gasoline for the lawnmower and kept it in the garage. Now, if there was gasoline in our closet someone else put it there. Find them.</p>
+<p><strong>Grissom</strong>: I don't chase criminals, Mr. Damon. I just evaluate evidence.</p>
+<p>(FRANK puts his hand up against the glass. GRISSOM glances at it and notices something.)</p>
+<p><strong>Frank Damon</strong>: I need someone to believe me -- to figure this out.</p>
+<p><strong>Grissom</strong>: How did you burn your hand, Mr. Damon?</p>
+<p>(FRANK puts his hand down.)</p>
+<p><strong>Frank Damon</strong>: I don't remember.</p>
+<p><strong>Grissom</strong>: People with third-degree burns don't forget how they got them.</p>
+<p>(FRANK takes a breath.)</p>
+<p><strong>Frank Damon</strong>: You're not going to help me?</p>
+<p><strong>Grissom</strong>: I'll take your case. I don't know whether I'll help you or not.</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[EXT. DAMON RESIDENCE -- DAY] </p>
+<p>(The Tahoe pulls up to the drive. GRISSOM, SARA and WARRICK exit the vehicle and walk toward the house. They duck under the crime scene tape and look around.)</p>
+<p>CUT TO:<br />
+[INT. DAMON RESIDENCE - LIVING ROOM -- DAY -- CONTINUOUS] </p>
+<p>(The door opens and they walk inside. GRISSOM takes out his flashlight and looks at they damage. WARRICK starts snapping some photos.) </p>
+<p><strong>Grissom</strong>: Nothing harder to investigate than arson. If the fire hasn't ruined your crime scene...</p>
+<p><strong>Sara</strong>: ... The firemen have.</p>
+<p><strong>Grissom</strong>: Yeah.</p>
+<p><strong>Sara</strong>: Funny place for a mattress.</p>
+<p><strong>Grissom</strong>: Overhaul. Post-blaze, firemen remove charred items to neutralize the hot spots. Prevents flare-ups.</p>
+<p>(WARRICK continues snapping photos. GRISSOM turns and heads down the hallway. He looks around. He and SARA pause in front of the little boy's bedroom.)</p>
+<p>[TOBY'S BEDROOM] </p>
+<p>(SARA steps inside and kneels in front of some packed gear on the floor.) </p>
+<p><strong>Sara</strong>: Looks like the kid was going camping.</p>
+<p>(She puts her kit down and takes out some tweezers which she uses to reach into the backpack. She picks up a container of matches.)</p>
+<p><strong>Sara</strong>: Waterproof matches.</p>
+<p><strong>Grissom</strong>: Bag those.</p>
+<p><strong>Warrick</strong>: What do you think? The kid might have started it?</p>
+<p>(GRISSOM doesn't say anything. He simply looks at WARRICK, who gets it instantly.)</p>
+<p><strong>Warrick</strong>: (nods &amp; sighs) We don't rule anything out.</p>
+<p><strong>Grissom</strong>: Yeah.</p>
+<p>(SARA bags the matches.)</p>
+<p>[HALLWAY] </p>
+<p>(GRISSOM continues down the hallway and heads toward the end where the master bedroom is. WARRICK and SARA follow him. He looks around at the damaged room.)</p>
+<p><strong>Grissom</strong>: The fire was contained inside this room ... but the outside door frame is severely charred.</p>
+<p><strong>Warrick</strong>: Well, fires take the path of least resistance. I mean, they feed off of oxygen and combustibles.</p>
+<p><strong>Grissom</strong>: We're going to take a piece of this back to the lab.</p>
+<p><strong>Sara</strong>: It's a weird place for such a thorough burn especially since the door isn't scorched.</p>
+<p><strong>Grissom</strong>: Huh.</p>
+<p><strong>Sara</strong>: Look at this. Rubber?</p>
+<p>(GRISSOM kneels down to look at what's burned into the door knob. They all look at it.)</p>
+<p><strong>Warrick</strong>: Firemen wear rubber gloves.</p>
+<p>(WARRICK snaps a photo.)</p>
+<p>(They walk into the bedroom.)</p>
+<p>[MASTER BEDROOM]</p>
+<p><strong>Warrick</strong>: According to Ecklie's report, which was filed in record time, the point of origin for the fire was the closet. Gris, there's nothing left here.</p>
+<p>(GRISSOM looks at the closet.)</p>
+<p><strong>Grissom</strong>: More than you think. &quot;V&quot; pattern on the outside wall. Fires like to go up and out.</p>
+<p><strong>Sara</strong>: That's why you can always count on seeing a pattern.</p>
+<p><strong>Grissom</strong>: This one's narrow. This was a very intense, rapidly moving fire.</p>
+<p><strong>Warrick</strong>: Well, that confirms Ecklie's findings about the use of an accelerant.</p>
+<p>(WARRICK snaps a photo.)</p>
+<p><strong>Grissom</strong>: The apex of the &quot;V&quot; usually indicates the point of origin. You want to call it, Warrick?</p>
+<p><strong>Warrick</strong>: Damon doused the closet floor with gasoline, lit it and got the hell out of dodge.</p>
+<p>(GRISSOM sees something on the floor.)</p>
+<p><strong>Grissom</strong>: Shards of glass.</p>
+<p><strong>Sara</strong>: Bag a sample. I'll put it through the lab.</p>
+<p>(GRISSOM fingers the glass and can't move it. He looks up at SARA.)</p>
+<p><strong>Grissom</strong>: Can't. It's melted into the concrete.</p>
+<p>(Quick CGI close up of the glass melted into the concrete.) </p>
+<p><strong>Sara</strong>: So that's why the concrete's discolored? From the heat?</p>
+<p><strong>Grissom</strong>: It's called &quot;spalling.&quot; It confirms the presence of an accelerant.</p>
+<p><strong>Sara</strong>: Why would there be glass in the middle of the hot spot?</p>
+<p><strong>Grissom</strong>: Good question.</p>
+<p><strong>Warrick</strong>: Who cares? The guy torched his wife and kid.</p>
+<p>(GRISSOM turns to look at WARRICK.)</p>
+<p><strong>Grissom</strong>: Really? Where's the trailing? An arsonist would spread the gasoline around to maximize the burn area.</p>
+<p>(After a moment, SARA concurs.)</p>
+<p><strong>Sara</strong>: He still did the job.</p>
+<p>(GRISSOM stands up.)</p>
+<p><strong>Grissom</strong>: Listen, you guys. You're like Dodger fans. The ball game's only in the seventh inning and you're already out of your seats.</p>
+<p>(GRISSOM walks past them.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY -- DAY]</p>
+<p>(CATHERINE leads SANDRA HILLMAN into the room to identify the body. They walk up to the body. CATHERINE lowers the sheet.)</p>
+<p><strong>Catherine</strong>: Mrs. Hillman? Is this your son?</p>
+<p>(SANDRA HILLMAN looks down at the body and inhales. She starts to cry silently.)</p>
+<p>(She nods.)</p>
+<p>(Watching her, CATHERINE isn't unaffected and starts crying also.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY OUTSIDE AUTOPSY ROOM - DAY -- CONTINUOUS]</p>
+<p>(MRS. HILLMAN leans against the wall trying to compose herself. CATHERINE stands next to her.)</p>
+<p><strong>Catherine</strong>: Mrs. Hillman? Was your son hearing-impaired? Joey was wearing a hearing aid.</p>
+<p><strong>Sandra Hillman</strong>: (shakes her head) No. No, Joey's hearing was fine. Why would he have that?</p>
+<p><strong>Catherine</strong>: (softly) I don't know.</p>
+<p>(She thinks about it for a moment, then something occurs to her.)</p>
+<p><strong>Sandra Hillman</strong>: Wait a minute. (sighs) Danny ... swore to me he'd keep Joey out of that racket.</p>
+<p><strong>Catherine</strong>: Danny?</p>
+<p><strong>Sandra Hillman</strong>: My older son. He's a runner, too. They wear remote earpieces. That's how they talk to the guy they worked for. We've had full-scale wars about him doing that -- carrying around that kind of money-- but does he stop? No. He gets Joey involved.</p>
+<p><strong>Catherine</strong>: Well, the police will want to talk to your son Danny.</p>
+<p><strong>Sandra Hillman</strong>: I haven't seen him in a week. And he hasn't returned my calls. </p>
+<p>(She turns to CATHERINE.)</p>
+<p><strong>Sandra Hillman</strong>: Do you think something's happened to him, too?</p>
+<p>(CATHERINE doesn't say anything.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- HALLWAY]</p>
+<p>(GRISSOM, SARA and WARRICK walk through the hallway just returned from their visit to the house and carrying bags of evidence. They bump into CONRAD ECKLIE. GRISSOM sighs.)</p>
+<p><strong>Conrad Ecklie</strong>: Grissom.</p>
+<p><strong>Grissom</strong>: I'll see you guys in the evidence lab.</p>
+<p><strong>Conrad Ecklie</strong>: Night shift so slow you've got to pick over my cases?</p>
+<p>GRISSOM I'm just making sure that we've answered all the questions.</p>
+<p>CONRAD ECKLIE Was it arson? Yes. No doubt about it. What accelerant was used? Let's see -- hydrocarbon residue, and a credit card receipt. Got to be gasoline.</p>
+<p><strong>Grissom</strong>: Yeah? Why was there no trailing? And why no evidence of an incendiary device anywhere in the bedroom?</p>
+<p><strong>Conrad Ecklie</strong>: He's a volunteer fireman, Gil. He knows how to start a fire and hide the evidence. Don't you think, if this guy was remotely innocent his attorney would be involved in your little investigation?</p>
+<p><strong>Grissom</strong>: What are you so afraid of, Conrad? We're just a couple of science geeks. Why can't we work together?</p>
+<p><strong>Conrad Ecklie</strong>: No, we are public servants. We investigate cases as efficiently as we can and then we move on. We're not a clearinghouse for defendants on the eve of trial who don't like what we've turned up.</p>
+<p><strong>Grissom</strong>: Yes, we are -- if it's our mistake that put them there.</p>
+<p>(GRISSOM starts to walk past ECKLIE.)</p>
+<p><strong>Conrad Ecklie</strong>: Fine. Spin your wheels.</p>
+<p>(He turns around and stops him.)</p>
+<p><strong>Grissom</strong>: Hey, Eck? (smiles) What is the new policy on vacation days?</p>
+<p>(ECKLIE doesn't answer. He shakes his head and they walk on.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LOCKER ROOM -- DAY]</p>
+<p>(CATHERINE and NICK talk with WARRICK about &quot;runners&quot;. WARRICK takes off his jacket.)</p>
+<p><strong>Warrick</strong>: Runners, huh? I know a little something about that world.</p>
+<p><strong>Nick</strong>: Yeah, we thought you might. So?</p>
+<p><strong>Warrick</strong>: It breaks down like this. There's about a half a dozen runners in town -- they're mostly kids -- and they make about two &quot;g's&quot; a week. And they all work for the same guy.</p>
+<p><strong>Catherine</strong>: Well, that's more than a little something.</p>
+<p>(WARRICK puts his shirt in his locker.)</p>
+<p><strong>Warrick</strong>: I used to be a runner in college. It paid the bills. I had route five. Worked Boulder, Sunset, Vacation, and the bay -- all of that.</p>
+<p><strong>Catherine</strong>: So, who was your boss then?</p>
+<p><strong>Warrick</strong>: The Voice.</p>
+<p>(WARRICK takes out a shirt and puts it on.)</p>
+<p><strong>Nick</strong>: He didn't have a name?</p>
+<p>WARRICK; Runners go from bet to bet, they jot down their orders and they call them in to &quot;The Voice.&quot; Guy runs the entire operation underground. I mean, he takes orders from Back East and lays them off in Vegas. Pockets his vig, his commission. He's like a trader on the stock exchange.</p>
+<p>(WARRICK'S pager beeps. He checks it.)</p>
+<p><strong>Warrick</strong>: I knew it. That's Grissom. I got to bail.</p>
+<p>(WARRICK closes his locker, then heads for the door.)</p>
+<p><strong>Nick</strong>: So ... how do we find this, uh ... &quot;Voice&quot;?</p>
+<p><strong>Warrick</strong>: You don't. He's not who you're looking for anyway. If you want to know who capped this kid? Then you should talk to another runner. I mean, they'll kill each other for a good route.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(GRISSOM is in the lab conducting an experiment. SARA walks in and leans over to see what GRISSOM has under the hood.)</p>
+<p><strong>Grissom</strong>: Uh... you might want to take three giant steps backward.</p>
+<p>(SARA straightens and backs away.)</p>
+<p><strong>Warrick</strong>: What's going on?</p>
+<p><strong>Sara</strong>: Danger, Will Robinson.</p>
+<p><strong>Grissom</strong>: Three drops of gasoline, limited oxygen supply heat to ignition temperature of 932 degrees Fahrenheit.</p>
+<p><strong>Warrick</strong>: Same conditions in Damon's bedroom, night of the fire.</p>
+<p>(The mouth of the flask flashes and a small explosion sounds.)</p>
+<p><strong>Grissom</strong>: Smoke to fire.</p>
+<p>(WARRICK takes a seat.)</p>
+<p><strong>Warrick</strong>: Flashover. So, that confirms the first part of Damon's story.</p>
+<p><strong>Grissom</strong>: Tell me you're here to confirm part two.</p>
+<p><strong>Sara</strong>: As a matter of fact, here is your doorframe. I had Collins analyze the burn depth. You see these rolling blisters?</p>
+<p><strong>Grissom</strong>: It's called alligatoring. See the way the wood's cracked? It looks like the skin of an alligator.</p>
+<p><strong>Sara</strong>: Based on the depth of the allir... allo...</p>
+<p><strong>Warrick</strong>: &quot;Alligatoring&quot;.</p>
+<p>(SARA nods to WARRICK.)</p>
+<p><strong>Sara</strong>: This wood burned very hot and very fast.</p>
+<p><strong>Grissom</strong>: Use of accelerant?</p>
+<p><strong>Sara</strong>: Negative.</p>
+<p><strong>Warrick</strong>: But that piece was a doorframe outside of the bedroom -- which was a contained site.</p>
+<p><strong>Grissom</strong>: So, the only way this could've happened was ... O2.</p>
+<p>(Quick flashback to: The night of the fire, camera close up of the smoke escaping from under the door opening. It's rolling out, then rolls back under. The house alarm is beeping.)</p>
+<p>(DAMON is standing in front of the door and opens it automatically. The flashover causes him to fall back into the hallway.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Damon opened the door. (beat) He lied.</p>
+<p>(GRISSOM takes off his glasses.)</p>
+<p><strong>Warrick</strong>: So what happens now?</p>
+<p><strong>Grissom</strong>: We chase the lie ... 'til it leads to the truth.</p>
+<p>FADE TO BLACK.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. PRISON - HALLWAY -- DAY]</p>
+<p>(GRISSOM makes his way down the hallway. At the end of the hallway, FRANK DAMON is sitting on a bench, talking with RACHEL. FRANK sees GRISSOM walking up to them and stands up. He gives RACHEL a hug and she leaves.)</p>
+<p>(GRISSOM notices her as they pass each other. He looks up at FRANK.)</p>
+<p>(They both sit down.)</p>
+<p><strong>Frank Damon</strong>: That's my sister. She's the only one who stood by me in all this.</p>
+<p><strong>Grissom</strong>: Anything else you want to tell me?</p>
+<p><strong>Frank Damon</strong>: What, about my sister?</p>
+<p><strong>Grissom</strong>: About the fire.</p>
+<p><strong>Frank Damon</strong>: I ... told you everything.</p>
+<p><strong>Grissom</strong>: Your bedroom doorframe disagrees. If no one opened the door ... the outside frame would not have burned. As a firefighter you know that.</p>
+<p>(He looks down and doesn't say anything.)</p>
+<p><strong>Grissom</strong>: May I see your hand, please? Palm up. </p>
+<p>(FRANK opens his palm to show GRISSOM the burns. GRISSOM takes out a door knob.)</p>
+<p><strong>Grissom</strong>: This is the same type of doorknob that you have on your bedroom door.</p>
+<p>(GRISSOM puts the door knob in FRANK'S palm. FRANK grabs the doorknob and starts crying.)</p>
+<p><strong>Grissom</strong>: Mr. Damon ...</p>
+<p><strong>Frank Damon</strong>: Please ... I don't want anyone to know.</p>
+<p><strong>Grissom</strong>: Why? This places you outside of the fire. You're facing the death penalty. Why are you lying?</p>
+<p><strong>Frank Damon</strong>: (ashamed) I'm a firefighter. And when my wife and my son needed me ... I forgot everything.</p>
+<p>(Quick flashback to: The night of the fire, FRANK rushes in to the hallway heading straight for the master bedroom all the while calling for JEANNIE.)</p>
+<p><strong>Frank Damon</strong>: (V.O.) I didn't check for heat.</p>
+<p><strong>Frank Damon</strong>: Jeannie!</p>
+<p><strong>Frank Damon</strong>: (V.O.) I didn't look for smoke.</p>
+<p>(FRANK bumps into the door, then turns down the hallway to the end of the hall and reaches for the doorknob.)</p>
+<p><strong>Frank Damon</strong>: (V.O.) All I could think about was getting them out. So I opened the door. I let a monster out.</p>
+<p>(As soon as he opens the door, the smoke explodes into fire. It pushes him back through the hallway.)</p>
+<p><strong>Frank Damon</strong>: (V.O.) I could just about make them out through the flame.</p>
+<p><strong>Frank Damon</strong>: Jeannie! Jeannie!</p>
+<p><strong>Frank Damon</strong>: (V.O.) But I... I couldn't get to them!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: What else?</p>
+<p><strong>Frank Damon</strong>: I had to close the door. The whole house would've gone up and the firemen would have never reached them. (He starts crying.) I killed my family.</p>
+<p><strong>Grissom</strong>: Carbon monoxide killed them long before the fire got to them. You know that.</p>
+<p>(He shakes his head.)</p>
+<p><strong>Frank Damon</strong>: It doesn't matter what I know. My family died because I wasn't there to protect them.</p>
+<p><strong>Grissom</strong>: You tried to save your family, but that doesn't mean that you didn't start the fire. Are you lying about that, too?</p>
+<p><strong>Frank Damon</strong>: (he stops crying) You tell me.</p>
+<p><strong>Grissom</strong>: I will.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. MONACO CASINO - MAIN FLOOR]</p>
+<p>(NICK and CATHERINE are back interviewing TONY.)</p>
+<p><strong>Tony (teller 12)</strong>: Hey, you didn't hear this from me, all right? But, um ... see the guy over there -- blue sweatshirt with the orange hood?</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p>(They turn and see the kid sitting down at the table talking to no one ... and laughing.)</p>
+<p><strong>Tony (teller 12)</strong>: 702. He's a runner. He used to hang with 517-- the kid who was killed.</p>
+<p><strong>Nick</strong>: He's not talking to himself, is he?</p>
+<p><strong>Tony (teller 12)</strong>: Talking to his boss on a wire.</p>
+<p><strong>Catherine</strong>: It's illegal to use two-way communication in the sportsbook.</p>
+<p><strong>Tony (teller 12)</strong>: As long as you don't get caught. I got to get back to work.</p>
+<p>(TONY leaves. NICK and CATHERINE head over toward 702.)</p>
+<p><strong>702</strong>: (to mic) Lakers are minus 11. Total is 189. Yeah. Bulls pick. Kings are down to nine from 11. (pauses and listens to the instructions over the earpiece) Done.</p>
+<p>(702 stands up and heads for the cage. He puts a betting piece down.)</p>
+<p><strong>702</strong>: Lakers. $50,000. Gimme as much at eleven as you can.</p>
+<p>(CATHERINE and NICK walk up to 702.)</p>
+<p><strong>Catherine</strong>: You like the Lakers today?</p>
+<p><strong>Cage</strong>: Here you go.</p>
+<p>(The CAGE hands 702 his ticket. 702 picks it up and turns to look at CATHERINE.)</p>
+<p><strong>Catherine</strong>: So do I.</p>
+<p><strong>702</strong>: Yeah, Joey Hillman, 517. Yeah, he was a good kid. It's too bad about him getting shot.</p>
+<p><strong>Nick</strong>: Yeah, I guess all the runners heard about it by now, huh?</p>
+<p><strong>702</strong>: I guess.</p>
+<p>CATHERINE; So, who got Joey's route?</p>
+<p><strong>702</strong>: I don't know. The only thing I know is my own route.</p>
+<p><strong>Nick</strong>: What was Joey's route, exactly?</p>
+<p><strong>702</strong>: You guys are asking a lot questions here for not being cops, huh?</p>
+<p><strong>Nick</strong>: Are you interested in helping us better understand Joey's crime scene, or ... not?</p>
+<p><strong>702</strong>: I only know what I see on the news. (chuckles, then stands) Later.</p>
+<p>(702 leaves.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. DAMON RESIDENCE - LIVING ROOM -- DAY]</p>
+<p>(Wearing a face mask, WARRICK kneels down to look at the damage inside the bedroom.)</p>
+<p>(Someone approaches him from behind. WARRICK is too engrossed in the scene in front of him to notice. The person walks up closer, then makes a sound. WARRICK gasps, jumps, turns and holds up his flashlight.)</p>
+<p>(GRISSOM also holds up his flashlight on WARRICK.)</p>
+<p><strong>Warrick</strong>: You got me.</p>
+<p><strong>Grissom</strong>: Sorry. What are you doing here?</p>
+<p><strong>Warrick</strong>: Sifting through this debris.</p>
+<p>(GRISSOM still holds the flashlight on WARRICK.)</p>
+<p><strong>Warrick</strong>: You mind?</p>
+<p>(He moves his flashlight from WARRICK'S face.)</p>
+<p><strong>Grissom</strong>: No.</p>
+<p><strong>Warrick</strong>: Give me a hand with this mattress.</p>
+<p>(GRISSOM and WARRICK move the mattress. Underneath, they find something.)</p>
+<p>GRISSOM Space heater. Janko electric, model ... ... 220.</p>
+<p><strong>Warrick</strong>: Or it was. I figure it must have burned up in the bedroom and the firemen threw it out here with the rest of this overhaul.</p>
+<p><strong>Grissom</strong>: This is heavy-duty, high voltage. This thing could heat our whole lab.</p>
+<p><strong>Warrick</strong>: Or overload a house. </p>
+<p>(At that suggestion, GRISSOM realizes.)</p>
+<p><strong>Warrick</strong>: (nods) Breaker box. </p>
+<p>CUT TO:</p>
+<hr />
+[INT. DAMON RESIDENCE - BASEMENT - DAY -- CONTINUOUS]</p>
+<p>(They open the breaker box and look inside.)</p>
+<p><strong>Warrick</strong>: Circuit overload. Master bedroom.</p>
+<p><strong>Grissom</strong>: You know what to do next?</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. DAMON RESIDENCE - MASTER BEDROOM - DAY -- CONTINUOUS]</p>
+<p>(WARRICK uses a power drill and cuts out the remains of the overloaded plug in the bedroom.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - DNA LAB -- DAY]</p>
+<p>(CATHERINE speaks with the LAB TECH, L. COLLINS.)</p>
+<p><strong>Collins</strong>: The condensation inside Joey's back seat window is nasal mucus.</p>
+<p><strong>Catherine</strong>: From a sneeze.</p>
+<p><strong>Collins</strong>: Most likely. You're thinking ... the shooter was in the back seat?</p>
+<p><strong>Catherine</strong>: Mm-hmm, with the sniffles.</p>
+<p><strong>Collins</strong>: Mm-hmm.</p>
+<p><strong>Catherine</strong>: So what is the DNA like in mucus these days?</p>
+<p><strong>Collins</strong>: It's pretty good. I'll start a DNA profile.</p>
+<p><strong>Catherine</strong>: Thanks.</p>
+<p>(Behind her, DAVID PHILLIPS calls out to CATHERINE.)</p>
+<p><strong>David Phillips</strong>: Catherine?</p>
+<p>(She turns around.)</p>
+<p><strong>Catherine</strong>: Oh, hi, David. What's up?</p>
+<p><strong>David Phillips</strong>: There's someone waiting for you in reception.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - RECEPTION - DAY -- CONTINUOUS]</p>
+<p>(CATHERINE walks over to find SGT. O'RILEY with SANDRA HILLMAN and her son, DANNY.)</p>
+<p><strong>Catherine</strong>: Detective?</p>
+<p><strong>Sgt. O'Riley</strong>: She came in with her son. Thought you'd like a conversation before we sat down with him.</p>
+<p><strong>Catherine</strong>: Yeah, thanks. Did you call Nick?</p>
+<p><strong>Sgt. O'Riley</strong>: Yeah.</p>
+<p>(She steps forward.)</p>
+<p><strong>Sandra Hillman</strong>: Uh ... (to DANNY) Come on. (to CATHERINE) This is my son Danny. He heard about Joey and came home.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - INTERVIEW ROOM -- DAY]</p>
+<p>(CATHERINE, NICK along with SGT. O'RILEY questionsDANNY HILLMAN.)</p>
+<p><strong>Danny Hillman</strong>: So I took some of my runner money and I hit the blackjack tables. I lost ... so I doubled up. I ended up losing thirty grand in eight minutes.</p>
+<p><strong>Catherine</strong>: Well, I can see why you ran.</p>
+<p><strong>Danny Hillman</strong>: I was scared. You know, it wasn't my money.</p>
+<p><strong>Nick</strong>: Did you think to get back to your boss? Try to make amends?</p>
+<p><strong>Catherine</strong>: You guys don't even know who your boss is, do you?</p>
+<p><strong>Nick</strong>: Did you tell Joey to get out of town-that someone might try to harm him on behalf of your boss?</p>
+<p><strong>Danny Hillman</strong>: I should have. But, no ... I only worried about my butt. They killed Joey to send a message to me. Mom, I'm sorry. I didn't know.</p>
+<p><strong>Catherine</strong>: Danny ... do you have any idea who shot your brother?</p>
+<p><strong>Danny Hillman</strong>: One of the runners. Probably a guy ...</p>
+<p><strong>Sandra Hillman</strong>: No! No. No names.</p>
+<p><strong>Danny Hillman</strong>: One of them killed Joey. You know, they'll do anything for money. It's like a-a disease.</p>
+<p><strong>Sandra Hillman</strong>: And if you talk, they'll come after you. (to CATHERINE) No. No, I'm not losing another child.</p>
+<p><strong>Danny Hillman</strong>: Joey died because of me. Either they find his shooter, or I do.</p>
+<p><strong>Nick</strong>: Whoa, whoa! Hold on, now. Nobody's going after anybody. Okay, he doesn't have to give us a name, Mrs. Hillman. Alright. Danny, you wear an earpiece, right? Just give us the frequency your runners operate on.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p>(GRISSOM works on the wiring from the wall socket. CONRAD ECKLIE passes by in the hallway, turns and sees GRISSOM. He lingers in the doorway.)</p>
+<p><strong>Conrad Ecklie</strong>: What the hell are you doing?</p>
+<p><strong>Grissom</strong>: Something you probably should have done.</p>
+<p><strong>Conrad Ecklie</strong>: (scoffs) You're checking for faulty wiring? Waste of time, Gil. Fire started on the floor in the closet not in the wires in the wall.</p>
+<p><strong>Grissom</strong>: Yeah, that was your report. This is an electrical socket from the closet where a space heater was plugged in.</p>
+<p><strong>Conrad Ecklie</strong>: A heater? There was no heater there.</p>
+<p><strong>Grissom</strong>: I found it in the living room, melted.</p>
+<p><strong>Conrad Ecklie</strong>: And I suppose you happen to know which outlet it was plugged into?</p>
+<p><strong>Grissom</strong>: It was a cold night. The outlet in the closet was closest to her bed. </p>
+<p><strong>Conrad Ecklie</strong>: That's a little far-fetched, don't you think?</p>
+<p><strong>Grissom</strong>: Look ... if this wire burned from the inside out then the fire started in the wall not on the closet floor.</p>
+<p><strong>Grissom</strong>: Discoloration throughout the conductor. It burned from the inside out. The cause of this fire was an electrical overload in the wall.</p>
+<p><strong>Conrad Ecklie</strong>: All right, you say wall, I say floor. We differ on points of origin. The jury's only going to hear one word: Gasoline.</p>
+<p><strong>Grissom</strong>: Speaking of which ... where's your accelerant analysis work?</p>
+<p><strong>Conrad Ecklie</strong>: I personally swabbed the closet floor. Found traces of hydrocarbon chains confirming gasoline. Leave it alone, Gil. The DA agrees with me on this.</p>
+<p><strong>Grissom</strong>: Too many unanswered questions, Conrad. This case should not be going to trial yet.</p>
+<p><strong>Conrad Ecklie</strong>: No, there's only one unanswered question. Why was there accelerant in the closet? Only one person knows. And that's why he's looking at the death penalty.</p>
+<p>(ECKLIE leaves the lab.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. PRISON - INTERVIEW ROOM -- DAY]</p>
+<p>(GRISSOM questions FRANK DAMON again.)</p>
+<p><strong>Frank Damon</strong>: Look, I told you ... I don't know why it was there.</p>
+<p><strong>Grissom</strong>: You've got to do better than that.</p>
+<p>(Frustrated, FRANK gets to his feet.)</p>
+<p><strong>Frank Damon</strong>: (frustrated) I can't!</p>
+<p><strong>Grissom</strong>: It doesn't prove you didn't start it. Until we can explain why there was gasoline in the bedroom closet the charges stand.</p>
+<p>(FRANK turns to look at GRISSOM.)</p>
+<p><strong>Frank Damon</strong>: Then I guess I'm a dead man.</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI - HALLWAY -- DAY]</p>
+<p>(SGT. O'RILEY lines up a group of young men in a row out in the hallway.)</p>
+<p><strong>702</strong>: Hey, this is bull. I thought I was showing up to win a trip.</p>
+<p><strong>Catherine</strong>: Oh, one of you is going to win a trip, all right. Everybody clear this is voluntary?</p>
+<p><strong>702</strong>: Yeah, sure. Then she just calls the cops to come and arrest us.</p>
+<p><strong>Catherine</strong>: So everyone is clear.</p>
+<p>(CATHERINE looks at the men in the line-up. No one says anything. CATHERINE turns around to look at NICK, who immediately agrees with her.)</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p><strong>Catherine</strong>: Yeah.</p>
+<p><strong>Nick</strong>: Okay ... here's what we're going to do. Open your nostrils.</p>
+<p><strong>702</strong>: (laughs) You know, look, I got a hundred bucks that says none of us are the shooter.</p>
+<p><strong>Catherine</strong>: Well, if you're that confident it's not one of your guys you must know who it is.</p>
+<p><strong>702</strong>: Even if I did, you think I would tell you?</p>
+<p><strong>Nick</strong>: You're on cool breeze. A hundred bucks.</p>
+<p>702 (smiles) Okay.</p>
+<p>(NICK takes the sample. CATHERINE walks to the other end of the line and stares up at the young man.)</p>
+<p><strong>Catherine</strong>: Head back. </p>
+<p>(Cut to: Close up of a scissors snipping off the end of the swab. The swab is put into sample with a sicker label &quot;702&quot; next to it are glass containers for<br />
+318, 526, and 431.)</p>
+<p>(The swab is processed and tested.)</p>
+<p>(The results are printed.)</p>
+<p>(NICK reads the results and sighs. He hands the results back to the LAB TECH.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. HALLWAY - DAY -- CONTINUOUS]</p>
+<p>(NICK walks out into the hallway.)</p>
+<p><strong>Catherine</strong>: Okay. You're all free to go.</p>
+<p><strong>Nick</strong>: This way, gents.</p>
+<p>(The runners turn to leave the hallway. 702 turns to look at NICK.)</p>
+<p><strong>702</strong>: You owe me a c-note, baby.</p>
+<p><strong>Nick</strong>: Yeah. I don't have it on me. I'll have to bring it to you.</p>
+<p><strong>702</strong>: Okay. I'll be holding my breath.</p>
+<p><strong>Nick</strong>: Mm-hmm.</p>
+<p>(NICK takes off his gloves, turns to look at CATHERINE, then holds out his hands in front of him fingers wide and growls.)</p>
+<p>(He walks away. CATHERINE remains in the hallway looking at the runners.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GRISSOM'S OFFICE]</p>
+<p>(GRISSOM sits and desolately counts the waterproof matches found in TOBY'S backpack.) </p>
+<p><strong>Sara</strong>: (o.s.) Counting matches?</p>
+<p>(GRISSOM looks up to see SARA lingering in the doorway.</p>
+<p><strong>Grissom</strong>: Yeah.</p>
+<p>(SARA walks into the office and stands in front of his desk.)</p>
+<p><strong>Grissom</strong>: From the kid's room. I counted them yesterday. And I counted them this morning. Twenty. They're all there. I really don't know what I'm doing anymore.</p>
+<p><strong>Sara</strong>: I got a theory. You want to hear it?</p>
+<p>(GRISSOM looks up at SARA.)</p>
+<p><strong>Grissom</strong>: Sure.</p>
+<p>(She sits down.)</p>
+<p><strong>Sara</strong>: You know the melted shards of glass we found on the closet floor? They prove that the fire burned at over a thousand degrees, right? But that temp, combined with the water used to douse the flames would have destroyed most of the accelerant.</p>
+<p><strong>Grissom</strong>: That's what happens.</p>
+<p>(WARRICK walks into the office.)</p>
+<p><strong>Sara</strong>: So, Ecklie's conclusion of gasoline wasn't based on any physical evidence. It was based on Damon's credit card receipts.</p>
+<p><strong>Grissom</strong>: (shakes his head) I can't fault him for that. The burn pattern is consistent with a gasoline accelerant.</p>
+<p><strong>Sara</strong>: But, hydrocarbons are found in all kinds of things: Oils ... kerosene, polyethylene-based compounds like laxatives-- even the foam used in push-up bras.</p>
+<p><strong>Warrick</strong>: Yeah. Under the right conditions, any hydrocarbon can be an accelerant.</p>
+<p>(This perks GRISSOM up as he now has something to go on. He looks at SARA.)</p>
+<p><strong>Grissom</strong>: Thank you. (to WARRICK) Warrick, you're driving.</p>
+<p>(SARA smiles back at GRISSOM. They both stand up.)</p>
+<p><strong>Warrick</strong>: You ever worry about professional suicide?</p>
+<p>(He looks at WARRICK and answers brightly while shaking his head.)</p>
+<p><strong>Grissom</strong>: Not while I'm committing it, no.</p>
+<p>(They turn to leave the room.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. DAMON'S RESIDENCE - STREET -- DAY] </p>
+<p>(The Tahoe pulls up the side of the street and stops. They notice the large white van parked in the driveway and the clean-up crew taking out the items from the house. They watch as they move the burned mattress.)</p>
+<p><strong>Sara</strong>: Crime scene cleanup.</p>
+<p>(GRISSOM whacks WARRICK'S arm to get his attention.)</p>
+<p><strong>Grissom</strong>: (angry) Let's go.</p>
+<p>(They drive off.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - BREAK ROOM -- DAY] </p>
+<p>(GRISSOM charges in through the hallway looking for ECKLIE. He walks into the break room. WARRICK follows behind him.)</p>
+<p><strong>Grissom</strong>: You son of a bitch. You swept my crime scene. You sent cleanup!</p>
+<p><strong>Conrad Ecklie</strong>: I didn't send anyone. It's been on the books for months.</p>
+<p><strong>Grissom</strong>: So you knew, and did nothing about it even with a man's life on the line?</p>
+<p><strong>Conrad Ecklie</strong>: If you'd have checked the docket like everybody else you would've known what was happening. Coffee?</p>
+<p>(ECKLIE holds out the coffee pot and GRISSOM, being angry as he is, knocks the pot clear across the room where the carafe flies across the way, crashes and shatters into the wall. Broken glass mixed with hot coffee drips along the sides.)</p>
+<p><strong>Conrad Ecklie</strong>: Guess you don't want cream with that.</p>
+<p>(ECKLIE leaves the break room. WARRICK turns and watches him leave. GRISSOM stands there and stares at the broken carafe, something stirring at the back of his mind.)</p>
+<p>(GRISSOM takes a step forward toward the broken glass and liquid, this appears to be very familiar to him.)</p>
+<p>(Quick flashback to: Extreme close up of the melted glass in the closet floor. End of flashback. Resume to present.)</p>
+<p>(Camera close up of the broken glass and the hot coffee on the floor. GRISSOM makes the connection.)</p>
+<p><strong>Grissom</strong>: Thanks, Ecklie.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. PRISON - HALLWAY -- DAY] </p>
+<p>(RACHEL walks down the hallway after visiting with FRANK. GRISSOM makes his way through the hallway on his way toward FRANK. He looks up and sees her.)</p>
+<p><strong>Grissom</strong>: Hi.</p>
+<p><strong>Rachel</strong>: Hi.</p>
+<p>(GRISSOM turns around and stops her.)</p>
+<p><strong>Grissom</strong>: Excuse me. My name's Gil Grissom. </p>
+<p><strong>Rachel</strong>: I know. You're helping Frank. Thank you.</p>
+<p>(She turns to leave; GRISSOM stops her again.)</p>
+<p><strong>Grissom</strong>: May I ask you a question?</p>
+<p><strong>Rachel</strong>: Sure. Anything to help Frank.</p>
+<p><strong>Grissom</strong>: You're his family. What was his relationship like with his wife and son?</p>
+<p>(She smiles.)</p>
+<p><strong>Rachel</strong>: Frank was a wonderful father. Toby adored him. (She stops and excuses herself.) Uh, I'm sorry. I, um ... I have to get back to work. But thank you.</p>
+<p>(She leaves. GRISSOM watches her go for a moment before heading back to see FRANK.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. PRISON - INTERVIEW ROOM - DAY -- CONTINUOUS] </p>
+<p>(GRISSOM speaks with FRANK through the pexiglass.) </p>
+<p><strong>Grissom</strong>: I broke a coffee pot today. Lost my temper. Anything like that ever happen to you?</p>
+<p>(FRANK doesn't say anything.)</p>
+<p><strong>Grissom</strong>: We found shards of melted glass on the floor of your closet. You want to tell me about it?</p>
+<p>(FRANK still doesn't say anything.)</p>
+<p><strong>Grissom</strong>: Okay, you can explain it in court. It's all part of the report now.</p>
+<p>(GRISSOM hangs up. FRANK looks startled and taps on the glass. He motions for GRISSOM to pick up the phone.)</p>
+<p>(GRISSOM picks it up.)</p>
+<p><strong>Frank Damon</strong>: I didn't leave that night to buy ice cream. I was leaving Jeannie.</p>
+<p>(Quick flashback to: The night of the fire, FRANK stands in front of the closet, yelling at JEANNIE as he throws his clothes into a bag.)</p>
+<p><strong>Frank Damon</strong>: I warned you. </p>
+<p><strong>Jeannie Damon</strong>: Just a few things.</p>
+<p><strong>Frank Damon</strong>: You can have the damn stuff! I told you this was the last time.</p>
+<p><strong>Jeannie Damon</strong>: You going to leave us now?</p>
+<p>(He grabs more clothes out of the closet.)</p>
+<p><strong>Frank Damon</strong>: I'm leaving. I'm leaving. I'm leaving. You can be broke by yourself!</p>
+<p>(JEANNIE turns and grabs some stuff of the bed side table.)</p>
+<p><strong>Jeannie Damon</strong>: You want to leave? Fine! </p>
+<p>(She throws the things at FRANK. He ducks, but they hit him.)</p>
+<p><strong>Jeannie Damon</strong>: Okay! Get out!</p>
+<p><strong>Frank Damon</strong>: What the hell are you doing?</p>
+<p><strong>Jeannie Damon</strong>: Get out!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Frank Damon</strong>: So I just got the hell out of there. Drove for about twenty minutes and then thought, how could I end ten years of our life like that? I mean, we had a son, so I turned around.</p>
+<p><strong>Grissom</strong>: Wait a minute. Go back. What did she throw at you? Be specific.</p>
+<p><strong>Frank Damon</strong>: (chuckles) Man, I just ducked and covered. I don't remember.</p>
+<p><strong>Grissom</strong>: Think.</p>
+<p><strong>Frank Damon</strong>: Uh ... a-a phone. A-a bag. Uh, a vase maybe?</p>
+<p><strong>Grissom</strong>: What kind of a vase?</p>
+<p><strong>Frank Damon</strong>: A flower vase? I don't remember any flowers.</p>
+<p><strong>Grissom</strong>: Was it even a vase?</p>
+<p><strong>Frank Damon</strong>: Look, I don't know. I can't remember.</p>
+<p><strong>Grissom</strong>: (persistent) Was it glass? Could it have been glass?</p>
+<p><strong>Frank Damon</strong>: Yes. It was glass. It was a glass lamp, because it had a wick.</p>
+<p>(Quick flashback to: The night of the fire, FRANK and JEANNIE argue. She throws things at him.)</p>
+<p><strong>Jeannie Damon</strong>: Get out!</p>
+<p><strong>Frank Damon</strong>: What the hell are you doing?</p>
+<p><strong>Jeannie Damon</strong>: Get out!</p>
+<p>(She turns and grabs the glass lamp off of the night table.)</p>
+<p><strong>Frank Damon</strong>: I'm leaving!</p>
+<p><strong>Jeannie Damon</strong>: Just get out!</p>
+<p>(With both hands, she throws the lamp at FRANK. It misses him and shatters against the wall near the plug.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Like a kerosene lamp?</p>
+<p><strong>Frank Damon</strong>: Yeah. She bought a lamp like that.</p>
+<p><strong>Grissom</strong>: I found kerosene on the floor of your closet.</p>
+<p>(Quick flashback to: Camera close up of the shattered kerosene lamp on the floor in the liquid. Camera moves slowly up toward the plug.)</p>
+<p><strong>Grissom</strong>: (V.O.) The space heater overloaded the circuit causing a spark to ignite the kerosene.</p>
+<p>(The plug sparks and shorts out leaving a black scorch mark on the plastic.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Frank Damon</strong>: Can you prove it? In court?</p>
+<p><strong>Grissom</strong>: (nods confidently) The evidence can.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. MONACO CASINO - MAIN FLOOR -- DAY] </p>
+<p>(NICK crosses the main floor looking for runner 702. He walks up to the teller.)</p>
+<p><strong>Nick</strong>: Hey, how you doing?</p>
+<p><strong>Tony (teller 12)</strong>: Hey. Who do you want?</p>
+<p><strong>Nick</strong>: The runner ... um, 702. </p>
+<p>(NICK holds up the bill.)</p>
+<p><strong>Nick</strong>: (smiles) I owe him a little cash.</p>
+<p><strong>Tony (teller 12)</strong>: This isn't the only place he hangs out but if you want me to give it to him ...</p>
+<p><strong>Nick</strong>: Um ... you have an envelope I could use?</p>
+<p><strong>Tony (teller 12)</strong>: Yeah.</p>
+<p>(TONY reaches behind the counter to get the envelope. As he reaches over, NICK notices the watch on his left hand.)</p>
+<p>(TONY sniffles, then puts the envelope on the counter for NICK.)</p>
+<p><strong>Nick</strong>: Nice watch.</p>
+<p><strong>Tony (teller 12)</strong>: Thanks.</p>
+<p><strong>Nick</strong>: (curious) Thought you were getting out of this business.</p>
+<p><strong>Tony (teller 12)</strong>: Yeah, uh ... </p>
+<p>(TONY rubs his nose and sniffles again.)</p>
+<p><strong>Tony (teller 12)</strong>: it's my last day. Got a new job.</p>
+<p><strong>Nick</strong>: (nods) Later.</p>
+<p><strong>Tony (teller 12)</strong>: Yeah.</p>
+<p>(NICK turns around to leave just as TONY sneezes. NICK stops and slowly turns around to look at TONY.)</p>
+<p>(TONY raises his eyes and looks at NICK.)</p>
+<p>(Quick flashback to: The night of the murder, JOEY HILLMAN gets into his car. He shuts the door. White flash to: TONY sits up in the seat behind JOEY, raises the gun at the back of his head and fires. Blood spurts on the front glass.)</p>
+<p>(TONY pushes JOEY forward against the steering wheel and takes the money.)</p>
+<p><strong>Tony (teller 12)</strong>: You're out of business, Joey.</p>
+<p>(TONY opens the door and steps out of the car. He sneezes onto the glass.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Nick</strong>: New job, huh? Joey's old route? (steps toward TONY) Did you get so scared when you shot him that you forgot the money?</p>
+<p><strong>Tony (teller 12)</strong>: I want a lawyer.</p>
+<p><strong>Nick</strong>: Well, you better get one that knows forensics ... (NICK runs his finger against the glass.) ... 'cause we got you. (to radio) Dispatch, victor 19. Code 462 on the 4-20 suspect Monaco.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. PRISON -- DAY]</p>
+<p>(The GUARD opens the exterior wire gate just as FRANK DAMON walks through the interior wire gate. FRANK walks outside.)</p>
+<p>(Leaning against the Tahoe parked in front of the gate is GRISSOM. FRANK walks up to GRISSOM.)</p>
+<p><strong>Grissom</strong>: Thought you might need a ride.</p>
+<p><strong>Frank Damon</strong>: (smiles) Thanks. (then points to the side where RACHEL gets out of the parked car - license #EPI-523) ... I'm okay.</p>
+<p>(GRISSOM turns to look at FRANK.)</p>
+<p><strong>Grissom</strong>: Your sister. Who is she?</p>
+<p><strong>Frank Damon</strong>: Would you have helped me if I told you that my wife and I fought that night that I was leaving her for another woman? For Rachel?</p>
+<p><strong>Grissom</strong>: I don't judge people. </p>
+<p><strong>Frank Damon</strong>: It's funny. When I got out, I thought I'd feel ... (sighs) ... free.</p>
+<p><strong>Grissom</strong>: And ... ? </p>
+<p><strong>Frank Damon</strong>: I feel ...</p>
+<p><strong>Grissom</strong>: ... responsible?</p>
+<p>(FRANK doesn't say anything and nods. He turns and heads for RACHEL. GRISSOM stands on the side as he watches them hug each other. FRANK picks RACHEL up in his arms and slowly swings her around.)</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-
-(Cut to: One inmate in his cell addresses a package to:
-GIL GRISSOM
-c/o CSI
-2974 WESTFALL
-LAS VEGAS, NV89109 )
-
-Officer: Into the bag, follow me.
-
-
-
-
-
-
-
-
-Delivery Boy: This came for you, Mr. Grissom.
-
-Brass: What's this? An anonymous package from county lockup?
-
-Brass: Yeah, well, hey, just a second. Wait a minute. Give an innocent bystander a chance to clear out, will you?
-Grissom: What are you worried about?
-BRASS One minute, I'm eating tomato salad. The next ... I'm gazpacho.
-
-Brass: With any luck it'll be the next episode of G-String Divas.
-
-
-Frank Damon:  My name is Frank Damon ... and I'm awaiting trial for the murder of ... my wife and son.
-Brass:  That's an arson case -- a few months ago. The DA is asking for the death penalty.
-Frank Damon:  I didn't kill my family ... but my lawyer says the evidence is against me.
-
-Frank Damon:  I was a good father. I loved him. I would have given my life for Toby and Jeannie. They were my world. Mr. Grissom, you are my last hope. Please ... help me.
-Brass: An innocent man. Jail's full of them.
-Grissom: It only takes one.
-HARD CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
-
-
-
-
-
-Catherine: Am I disturbing you?
-Grissom: Yeah.
-Catherine: Good.
-
-Grissom: Oh. Great. Sorry.
-
-Grissom: Uh, I was supposed to pass out some supervisor evaluation forms. Where are they?
-
-Catherine: Here they are.
-Nick:  Mmm. Get to rate the boss. I dig this.
-
-Catherine: Give him a perfect ten or your ass is out of here.
-Grissom:  No, it's not.
-
-Grissom: All right. Assignment: Parking lot of the sportsbook at the Monaco. Caucasian male found dead in the front seat of his car.
-
-Nick: Two days before the Super Bowl.
-
-Warrick: I'll take a piece of that.
-Grissom: No. Uh, Nick and Catherine.
-
-Sara: What else you got?
-Grissom: You and Warrick are working with me.
-Catherine: The prisoner plea. Brass told me about the video.
-Grissom: Yeah. If we take the case we have very little time to work it. The trial starts in three days.
-Sara: How did he find you? 1-800-GRISSOM ... ?
-
-Catherine: Wait a minute. Ecklie was the CSI on that arson. I see a bad moon rising.
-Warrick: Can a CSI take over another CSIi's case?
-Catherine: Only if they're of equal rank and they're looking for trouble.
-Grissom: No trouble. We're both colleagues searching for the truth. Okay, that's it. Look ... onward. You have to start by looking at this.
-
-Warrick: Hey, what happened to that, uh, meeting the other day?
-Grissom: Meeting?
-Warrick: Yeah, the department heads were voting on an extra vacation day or something?
-
-Catherine: Yeah.
-
-Nick:  Hmm. &quot;Organization&quot; ... minus one.
-
-
- 
-
-Brass: Yo, cousin. 
-
-Brass: I'm going to save you some gas here. I did some checking on your pal Damon.
-Grissom: I don't remember asking you to.
-Brass: Eyewitness saw him running from his burning house. Inside was his wife and kid. Now, wife's a big spender. Maxed out on the credit cards. They just bought the place and already he's late on the payments. Couple's always arguing about money. No surprise.
-Grissom: Well, how does killing his family solve his money problems?
-Brass: Maybe he didn't mean to. Maybe he needed the insurance dough and things got out of hand.
-Grissom: Too many maybes. I think we should go with the evidence.
-Brass: Well, I got something for you on that, too. Gasoline found in the master bedroom closet.
-Grissom: Yeah, a hydrocarbon. I read Ecklie's report. 
-Brass: Did you skip the page with Damon's credit card receipts? Guy bought a gallon of gas a week before the fire.
-Grissom: Do I seem like the kind of guy who skips stuff?
-Brass: Read my lips. There is no compelling evidence to suggest Damon was wrongfully charged.
-Grissom: Well, then, it'll be a short interview, won't it?
-
-
-
-
-
-
-Nick: Whew! Two days before the super bowl and they're already killing each other.
-
-Catherine: Hey, O'Riley, anyone put their meat hooks on this vehicle?
-Sgt. O'Riley: How long have we worked together?
-Catherine: Still got to ask.
-Nick: Sergeant.
-
-Sgt. O'Riley: What's up?
-Nick: Oh ... gunshot wound to the head, point-blank range.
-Catherine: Just a baby. 
-
-Catherine: Tap city. Empty.
-
-Catherine:  Killer was probably in the back seat waiting for him. 
-
-Catherine:  Kid never stood a chance.
-
-
-
-Nick: Check this out. Hearing aid?
-Catherine: Maybe he was deaf.
-Nick: Possibly. 
-
-Nick: Got some condensation on the window. You should get a shot of this.
-
-Catherine: You hungry, Nick? Got a burger. Extra lettuce.
-(CATHERINE takes out a stack of hundred dollar bills. It's wrapped with two rubber bands with a paper that reads: 
-MONACO CASINO
-4D207-D5DF-304...
-550 000 STRAIGHT BET
-LAKER - 11
-TO WIN 550 000
-TOTAL 510 000
-576 TELLER #?
-26JAN01 **:25:42
-4D207-D5DF-3...
-Nick: A rule of thumb: $2,500 an inch. There's got to be ... fifteen thousand there?
-
-Catherine: &quot;Giants ... negative nine.&quot;
-
-Nick: &quot;Giants minus nine.&quot;
-
-Nick: It's a super bowl ticket. Straight bet-- $30,000.
-Catherine: What does a kid doing walking around with a wad like that betting thirty grand on a football game? Who wrote the ticket?
-
-Nick: Teller 12.
-
-
- 
-
-Tony : Yeah, I wrote the ticket. So what?
-Catherine: So, it was found with the kid killed in your parking lot.
-Tony : Yeah. 30 dimes. It was 517's.
-Nick: 517? What's that?
-Tony : That's his number. He was a runner.
-Catherine: A runner?
-Tony : Yeah, a gofer -- runs from book to book places bets with other people's money.
-Catherine: Kid wasn't a day over sixteen. Isn't that illegal?
-Tony : Lady, he's not buying a pack of cigarettes. He's betting
-$30,000. Vig for the house is three grand. We look the other way.
-Nick: I'd be willing to bet there's a mother out there that wishes you hadn't.
-Tony : Hey, what do I care? I'm out of this job by the end of the week. Tired of looking at scumbags.
-Catherine: Well, does 517 have a name?
-Tony : I only know them by their numbers.
-
-Catherine:  Well, you've been very helpful. Thank you.
-
-
-
- 
-Grissom: Evening.
-Officer: Here you go.
-
-Grissom: Thanks.
-Inmate: Yo, Grissom! 
-
-Inmate:  This guy's the reason I'm in here. Shoe print.
- Yo, man, next time I'll go barefoot!
-Grissom:  Even better. Footprints.
-
-
-
-
-
-Frank Damon: So, you're the Grissom they wrote about in the newspaper? I thought you'd be older.
-Grissom: Why did you contact me, Mr. Damon?
-Frank Damon: Arson specialist gave me your name. Well, six of them, actually. They all turned my case down. Will you help me?
-Grissom: Fires are very complicated. 
-Frank Damon: It wasn't too complicated for the guy who put me in here. 
-
-Frank Damon: You think if you stare at me long enough, you can tell if I'm innocent?
-Grissom: I don't mean to stare ... but, yes, I can learn some things. For instance, the back of your hands are smooth. You read a lot. You have indentation marks on your nose from reading glasses. Your speech tells me that you're well-educated. Your occupation's not listed in the file, but I think that you had a white-collar job.
-Frank Damon:  Paper-pusher for the phone company.
-Grissom: I don't know yet whether you're left- or right-handed, though. 
-
-Grissom: Now, you want to tell me what happened?
-Frank Damon: It was about midnight.
-(Quick flashback to: The night of the fire, FRANK leans in to kiss JEANNIE as she tucks the blanket around TOBY. FRANK straightens up.
-Frank Damon: Okay, baby.
-Frank Damon:  My wife, Jeannie -- she was hungry. She had a food craving.
-(End of flashback. Resume to present.
-Frank Damon: She sent me out to the store to get her some ice cream.
-
-Frank Damon:  My son, Toby, he was in the bed with us.
-
-Frank Damon:  He couldn't sleep. I was going to take him camping the next day.
- 
-Frank Damon: Toby was eight.
-Grissom: Why don't you tell me about the fire.
-
-Frank Damon:  I got back from the store in under 20 minutes.
-
-Frank Damon:  I saw smoke coming out of the back of the house. I could hear the alarm.
-
-Frank Damon: Jeannie!
-Frank Damon:  The house was filled with smoke.
-Frank Damon: Jeannie!
-
-Frank Damon:  I checked the door for heat. I knew not to open it.
-
-Grissom: Why?
-Frank Damon: Flashover.
-
-Grissom: Flashover?
-Frank Damon: That's right. When the fire reaches about 932 degrees Fahrenheit you add oxygen and the smoke will burst into flame. I know how fire behaves, Mr. Grissom, because I'm a volunteer fireman. I was hoping to make the department this Spring. So I couldn't open the door. I ran outside to my car to call a rig.
-Grissom: Well, if you're a volunteer fireman then you must be familiar with the use of accelerants.
-Frank Damon: Yes.
-Grissom: According to the report there were traces of gasoline found on the floor of your bedroom closet.
-Frank Damon: That's right, and I don't know how it got there. We didn't keep anything like that in the house.
-Grissom: Our homicide department has a credit card receipt for gasoline -- your receipt -- and there's no other suspects.
-
-Frank Damon: I didn't burn down my house, Mr. Grissom. I bought the gasoline for the lawnmower and kept it in the garage. Now, if there was gasoline in our closet someone else put it there. Find them.
-Grissom: I don't chase criminals, Mr. Damon. I just evaluate evidence.
-
-Frank Damon: I need someone to believe me -- to figure this out.
-Grissom: How did you burn your hand, Mr. Damon?
-
-Frank Damon: I don't remember.
-Grissom: People with third-degree burns don't forget how they got them.
-
-Frank Damon: You're not going to help me?
-Grissom: I'll take your case. I don't know whether I'll help you or not.
-
-
-
-
-
- 
-
-
- 
- 
-Grissom: Nothing harder to investigate than arson. If the fire hasn't ruined your crime scene...
-Sara: ... The firemen have.
-Grissom: Yeah.
-Sara: Funny place for a mattress.
-Grissom: Overhaul. Post-blaze, firemen remove charred items to neutralize the hot spots. Prevents flare-ups.
-
- 
- 
-Sara: Looks like the kid was going camping.
-
-Sara: Waterproof matches.
-Grissom: Bag those.
-Warrick: What do you think? The kid might have started it?
-
-Warrick:  We don't rule anything out.
-Grissom: Yeah.
-
- 
-
-Grissom: The fire was contained inside this room ... but the outside door frame is severely charred.
-Warrick: Well, fires take the path of least resistance. I mean, they feed off of oxygen and combustibles.
-Grissom: We're going to take a piece of this back to the lab.
-Sara: It's a weird place for such a thorough burn especially since the door isn't scorched.
-Grissom: Huh.
-Sara: Look at this. Rubber?
-
-Warrick: Firemen wear rubber gloves.
-
-
-
-Warrick: According to Ecklie's report, which was filed in record time, the point of origin for the fire was the closet. Gris, there's nothing left here.
-
-Grissom: More than you think. &quot;V&quot; pattern on the outside wall. Fires like to go up and out.
-Sara: That's why you can always count on seeing a pattern.
-Grissom: This one's narrow. This was a very intense, rapidly moving fire.
-Warrick: Well, that confirms Ecklie's findings about the use of an accelerant.
-
-Grissom: The apex of the &quot;V&quot; usually indicates the point of origin. You want to call it, Warrick?
-Warrick: Damon doused the closet floor with gasoline, lit it and got the hell out of dodge.
-
-Grissom: Shards of glass.
-Sara: Bag a sample. I'll put it through the lab.
-
-Grissom: Can't. It's melted into the concrete.
- 
-Sara: So that's why the concrete's discolored? From the heat?
-Grissom: It's called &quot;spalling.&quot; It confirms the presence of an accelerant.
-Sara: Why would there be glass in the middle of the hot spot?
-Grissom: Good question.
-Warrick: Who cares? The guy torched his wife and kid.
-
-Grissom: Really? Where's the trailing? An arsonist would spread the gasoline around to maximize the burn area.
-
-Sara: He still did the job.
-
-Grissom: Listen, you guys. You're like Dodger fans. The ball game's only in the seventh inning and you're already out of your seats.
-
-
-
-
-
-Catherine: Mrs. Hillman? Is this your son?
-
-
-
-
-
-
-
-Catherine: Mrs. Hillman? Was your son hearing-impaired? Joey was wearing a hearing aid.
-Sandra Hillman:  No. No, Joey's hearing was fine. Why would he have that?
-Catherine:  I don't know.
-
-Sandra Hillman: Wait a minute.  Danny ... swore to me he'd keep Joey out of that racket.
-Catherine: Danny?
-Sandra Hillman: My older son. He's a runner, too. They wear remote earpieces. That's how they talk to the guy they worked for. We've had full-scale wars about him doing that -- carrying around that kind of money-- but does he stop? No. He gets Joey involved.
-Catherine: Well, the police will want to talk to your son Danny.
-Sandra Hillman: I haven't seen him in a week. And he hasn't returned my calls. 
-
-Sandra Hillman: Do you think something's happened to him, too?
-
-
-
-
-
-Conrad Ecklie: Grissom.
-Grissom: I'll see you guys in the evidence lab.
-Conrad Ecklie: Night shift so slow you've got to pick over my cases?
-GRISSOM I'm just making sure that we've answered all the questions.
-CONRAD ECKLIE Was it arson? Yes. No doubt about it. What accelerant was used? Let's see -- hydrocarbon residue, and a credit card receipt. Got to be gasoline.
-Grissom: Yeah? Why was there no trailing? And why no evidence of an incendiary device anywhere in the bedroom?
-Conrad Ecklie: He's a volunteer fireman, Gil. He knows how to start a fire and hide the evidence. Don't you think, if this guy was remotely innocent his attorney would be involved in your little investigation?
-Grissom: What are you so afraid of, Conrad? We're just a couple of science geeks. Why can't we work together?
-Conrad Ecklie: No, we are public servants. We investigate cases as efficiently as we can and then we move on. We're not a clearinghouse for defendants on the eve of trial who don't like what we've turned up.
-Grissom: Yes, we are -- if it's our mistake that put them there.
-
-Conrad Ecklie: Fine. Spin your wheels.
-
-Grissom: Hey, Eck?  What is the new policy on vacation days?
-
-
-
-
-
-Warrick: Runners, huh? I know a little something about that world.
-Nick: Yeah, we thought you might. So?
-Warrick: It breaks down like this. There's about a half a dozen runners in town -- they're mostly kids -- and they make about two &quot;g's&quot; a week. And they all work for the same guy.
-Catherine: Well, that's more than a little something.
-
-Warrick: I used to be a runner in college. It paid the bills. I had route five. Worked Boulder, Sunset, Vacation, and the bay -- all of that.
-Catherine: So, who was your boss then?
-Warrick: The Voice.
-
-Nick: He didn't have a name?
-WARRICK; Runners go from bet to bet, they jot down their orders and they call them in to &quot;The Voice.&quot; Guy runs the entire operation underground. I mean, he takes orders from Back East and lays them off in Vegas. Pockets his vig, his commission. He's like a trader on the stock exchange.
-
-Warrick: I knew it. That's Grissom. I got to bail.
-
-Nick: So ... how do we find this, uh ... &quot;Voice&quot;?
-Warrick: You don't. He's not who you're looking for anyway. If you want to know who capped this kid? Then you should talk to another runner. I mean, they'll kill each other for a good route.
-
-
-
-
-Grissom: Uh... you might want to take three giant steps backward.
-
-Warrick: What's going on?
-Sara: Danger, Will Robinson.
-Grissom: Three drops of gasoline, limited oxygen supply heat to ignition temperature of 932 degrees Fahrenheit.
-Warrick: Same conditions in Damon's bedroom, night of the fire.
-
-Grissom: Smoke to fire.
-
-Warrick: Flashover. So, that confirms the first part of Damon's story.
-Grissom: Tell me you're here to confirm part two.
-Sara: As a matter of fact, here is your doorframe. I had Collins analyze the burn depth. You see these rolling blisters?
-Grissom: It's called alligatoring. See the way the wood's cracked? It looks like the skin of an alligator.
-Sara: Based on the depth of the allir... allo...
-Warrick: &quot;Alligatoring&quot;.
-
-Sara: This wood burned very hot and very fast.
-Grissom: Use of accelerant?
-Sara: Negative.
-Warrick: But that piece was a doorframe outside of the bedroom -- which was a contained site.
-Grissom: So, the only way this could've happened was ... O2.
-
-
-
-Grissom: Damon opened the door.  He lied.
-
-Warrick: So what happens now?
-Grissom: We chase the lie ... 'til it leads to the truth.
-
-
-
-;
-
-
-
-
-
-
-
-
-Frank Damon: That's my sister. She's the only one who stood by me in all this.
-Grissom: Anything else you want to tell me?
-Frank Damon: What, about my sister?
-Grissom: About the fire.
-Frank Damon: I ... told you everything.
-Grissom: Your bedroom doorframe disagrees. If no one opened the door ... the outside frame would not have burned. As a firefighter you know that.
-
-Grissom: May I see your hand, please? Palm up. 
-
-Grissom: This is the same type of doorknob that you have on your bedroom door.
-
-Grissom: Mr. Damon ...
-Frank Damon: Please ... I don't want anyone to know.
-Grissom: Why? This places you outside of the fire. You're facing the death penalty. Why are you lying?
-Frank Damon:  I'm a firefighter. And when my wife and my son needed me ... I forgot everything.
-
-Frank Damon:  I didn't check for heat.
-Frank Damon: Jeannie!
-Frank Damon:  I didn't look for smoke.
-
-Frank Damon:  All I could think about was getting them out. So I opened the door. I let a monster out.
-
-Frank Damon:  I could just about make them out through the flame.
-Frank Damon: Jeannie! Jeannie!
-Frank Damon:  But I... I couldn't get to them!
-
-Grissom: What else?
-Frank Damon: I had to close the door. The whole house would've gone up and the firemen would have never reached them.  I killed my family.
-Grissom: Carbon monoxide killed them long before the fire got to them. You know that.
-
-Frank Damon: It doesn't matter what I know. My family died because I wasn't there to protect them.
-Grissom: You tried to save your family, but that doesn't mean that you didn't start the fire. Are you lying about that, too?
-Frank Damon:  You tell me.
-Grissom: I will.
-
-
-
-
-Tony : Hey, you didn't hear this from me, all right? But, um ... see the guy over there -- blue sweatshirt with the orange hood?
-Nick: Yeah.
-
-Tony : 702. He's a runner. He used to hang with 517-- the kid who was killed.
-Nick: He's not talking to himself, is he?
-Tony : Talking to his boss on a wire.
-Catherine: It's illegal to use two-way communication in the sportsbook.
-Tony : As long as you don't get caught. I got to get back to work.
-
-702:  Done.
-
-702: Lakers. $50,000. Gimme as much at eleven as you can.
-
-Catherine: You like the Lakers today?
-Cage: Here you go.
-
-Catherine: So do I.
-702: Yeah, Joey Hillman, 517. Yeah, he was a good kid. It's too bad about him getting shot.
-Nick: Yeah, I guess all the runners heard about it by now, huh?
-702: I guess.
-CATHERINE; So, who got Joey's route?
-702: I don't know. The only thing I know is my own route.
-Nick: What was Joey's route, exactly?
-702: You guys are asking a lot questions here for not being cops, huh?
-Nick: Are you interested in helping us better understand Joey's crime scene, or ... not?
-702: I only know what I see on the news.  Later.
-
-
-
-
-
-
-
-Warrick: You got me.
-Grissom: Sorry. What are you doing here?
-Warrick: Sifting through this debris.
-
-Warrick: You mind?
-
-Grissom: No.
-Warrick: Give me a hand with this mattress.
-
-GRISSOM Space heater. Janko electric, model ... ... 220.
-Warrick: Or it was. I figure it must have burned up in the bedroom and the firemen threw it out here with the rest of this overhaul.
-Grissom: This is heavy-duty, high voltage. This thing could heat our whole lab.
-Warrick: Or overload a house. 
-
-Warrick:  Breaker box. 
-
-
-
-
-Warrick: Circuit overload. Master bedroom.
-Grissom: You know what to do next?
-Warrick: Yeah.
-
-
-
-
-
-
-
-
-Collins: The condensation inside Joey's back seat window is nasal mucus.
-Catherine: From a sneeze.
-Collins: Most likely. You're thinking ... the shooter was in the back seat?
-Catherine: Mm-hmm, with the sniffles.
-Collins: Mm-hmm.
-Catherine: So what is the DNA like in mucus these days?
-Collins: It's pretty good. I'll start a DNA profile.
-Catherine: Thanks.
-
-David Phillips: Catherine?
-
-Catherine: Oh, hi, David. What's up?
-David Phillips: There's someone waiting for you in reception.
-
-
-
-
-Catherine: Detective?
-Sgt. O'Riley: She came in with her son. Thought you'd like a conversation before we sat down with him.
-Catherine: Yeah, thanks. Did you call Nick?
-Sgt. O'Riley: Yeah.
-
-Sandra Hillman: Uh ...  This is my son Danny. He heard about Joey and came home.
-
-
-
-
-Danny Hillman: So I took some of my runner money and I hit the blackjack tables. I lost ... so I doubled up. I ended up losing thirty grand in eight minutes.
-Catherine: Well, I can see why you ran.
-Danny Hillman: I was scared. You know, it wasn't my money.
-Nick: Did you think to get back to your boss? Try to make amends?
-Catherine: You guys don't even know who your boss is, do you?
-Nick: Did you tell Joey to get out of town-that someone might try to harm him on behalf of your boss?
-Danny Hillman: I should have. But, no ... I only worried about my butt. They killed Joey to send a message to me. Mom, I'm sorry. I didn't know.
-Catherine: Danny ... do you have any idea who shot your brother?
-Danny Hillman: One of the runners. Probably a guy ...
-Sandra Hillman: No! No. No names.
-Danny Hillman: One of them killed Joey. You know, they'll do anything for money. It's like a-a disease.
-Sandra Hillman: And if you talk, they'll come after you.  No. No, I'm not losing another child.
-Danny Hillman: Joey died because of me. Either they find his shooter, or I do.
-Nick: Whoa, whoa! Hold on, now. Nobody's going after anybody. Okay, he doesn't have to give us a name, Mrs. Hillman. Alright. Danny, you wear an earpiece, right? Just give us the frequency your runners operate on.
-
-
-
-
-Conrad Ecklie: What the hell are you doing?
-Grissom: Something you probably should have done.
-Conrad Ecklie:  You're checking for faulty wiring? Waste of time, Gil. Fire started on the floor in the closet not in the wires in the wall.
-Grissom: Yeah, that was your report. This is an electrical socket from the closet where a space heater was plugged in.
-Conrad Ecklie: A heater? There was no heater there.
-Grissom: I found it in the living room, melted.
-Conrad Ecklie: And I suppose you happen to know which outlet it was plugged into?
-Grissom: It was a cold night. The outlet in the closet was closest to her bed. 
-Conrad Ecklie: That's a little far-fetched, don't you think?
-Grissom: Look ... if this wire burned from the inside out then the fire started in the wall not on the closet floor.
-Grissom: Discoloration throughout the conductor. It burned from the inside out. The cause of this fire was an electrical overload in the wall.
-Conrad Ecklie: All right, you say wall, I say floor. We differ on points of origin. The jury's only going to hear one word: Gasoline.
-Grissom: Speaking of which ... where's your accelerant analysis work?
-Conrad Ecklie: I personally swabbed the closet floor. Found traces of hydrocarbon chains confirming gasoline. Leave it alone, Gil. The DA agrees with me on this.
-Grissom: Too many unanswered questions, Conrad. This case should not be going to trial yet.
-Conrad Ecklie: No, there's only one unanswered question. Why was there accelerant in the closet? Only one person knows. And that's why he's looking at the death penalty.
-
-
-
-
-
-Frank Damon: Look, I told you ... I don't know why it was there.
-Grissom: You've got to do better than that.
-
-Frank Damon:  I can't!
-Grissom: It doesn't prove you didn't start it. Until we can explain why there was gasoline in the bedroom closet the charges stand.
-
-Frank Damon: Then I guess I'm a dead man.
-
-
-
-
-
-
-
-702: Hey, this is bull. I thought I was showing up to win a trip.
-Catherine: Oh, one of you is going to win a trip, all right. Everybody clear this is voluntary?
-702: Yeah, sure. Then she just calls the cops to come and arrest us.
-Catherine: So everyone is clear.
-
-Nick: Yeah.
-Catherine: Yeah.
-Nick: Okay ... here's what we're going to do. Open your nostrils.
-702:  You know, look, I got a hundred bucks that says none of us are the shooter.
-Catherine: Well, if you're that confident it's not one of your guys you must know who it is.
-702: Even if I did, you think I would tell you?
-Nick: You're on cool breeze. A hundred bucks.
-702  Okay.
-
-Catherine: Head back. 
-(Cut to: Close up of a scissors snipping off the end of the swab. The swab is put into sample with a sicker label &quot;702&quot; next to it are glass containers for
-318, 526, and 431.)
-
-
-
-
-
-
-
-Catherine: Okay. You're all free to go.
-Nick: This way, gents.
-
-702: You owe me a c-note, baby.
-Nick: Yeah. I don't have it on me. I'll have to bring it to you.
-702: Okay. I'll be holding my breath.
-Nick: Mm-hmm.
-
-
-
-
-
- 
-Sara:  Counting matches?
-(GRISSOM looks up to see SARA lingering in the doorway.
-Grissom: Yeah.
-
-Grissom: From the kid's room. I counted them yesterday. And I counted them this morning. Twenty. They're all there. I really don't know what I'm doing anymore.
-Sara: I got a theory. You want to hear it?
-
-Grissom: Sure.
-
-Sara: You know the melted shards of glass we found on the closet floor? They prove that the fire burned at over a thousand degrees, right? But that temp, combined with the water used to douse the flames would have destroyed most of the accelerant.
-Grissom: That's what happens.
-
-Sara: So, Ecklie's conclusion of gasoline wasn't based on any physical evidence. It was based on Damon's credit card receipts.
-Grissom:  I can't fault him for that. The burn pattern is consistent with a gasoline accelerant.
-Sara: But, hydrocarbons are found in all kinds of things: Oils ... kerosene, polyethylene-based compounds like laxatives-- even the foam used in push-up bras.
-Warrick: Yeah. Under the right conditions, any hydrocarbon can be an accelerant.
-
-Grissom: Thank you.  Warrick, you're driving.
-
-Warrick: You ever worry about professional suicide?
-
-Grissom: Not while I'm committing it, no.
-
-
-
- 
-
-Sara: Crime scene cleanup.
-
-Grissom:  Let's go.
-
-
-
- 
-
-Grissom: You son of a bitch. You swept my crime scene. You sent cleanup!
-Conrad Ecklie: I didn't send anyone. It's been on the books for months.
-Grissom: So you knew, and did nothing about it even with a man's life on the line?
-Conrad Ecklie: If you'd have checked the docket like everybody else you would've known what was happening. Coffee?
-
-Conrad Ecklie: Guess you don't want cream with that.
-
-
-
-
-Grissom: Thanks, Ecklie.
-
-
- 
-
-Grissom: Hi.
-Rachel: Hi.
-
-Grissom: Excuse me. My name's Gil Grissom. 
-Rachel: I know. You're helping Frank. Thank you.
-
-Grissom: May I ask you a question?
-Rachel: Sure. Anything to help Frank.
-Grissom: You're his family. What was his relationship like with his wife and son?
-
-Rachel: Frank was a wonderful father. Toby adored him.  Uh, I'm sorry. I, um ... I have to get back to work. But thank you.
-
-
-
- 
- 
-Grissom: I broke a coffee pot today. Lost my temper. Anything like that ever happen to you?
-
-Grissom: We found shards of melted glass on the floor of your closet. You want to tell me about it?
-
-Grissom: Okay, you can explain it in court. It's all part of the report now.
-
-
-Frank Damon: I didn't leave that night to buy ice cream. I was leaving Jeannie.
-
-Frank Damon: I warned you. 
-Jeannie Damon: Just a few things.
-Frank Damon: You can have the damn stuff! I told you this was the last time.
-Jeannie Damon: You going to leave us now?
-
-Frank Damon: I'm leaving. I'm leaving. I'm leaving. You can be broke by yourself!
-
-Jeannie Damon: You want to leave? Fine! 
-
-Jeannie Damon: Okay! Get out!
-Frank Damon: What the hell are you doing?
-Jeannie Damon: Get out!
-
-Frank Damon: So I just got the hell out of there. Drove for about twenty minutes and then thought, how could I end ten years of our life like that? I mean, we had a son, so I turned around.
-Grissom: Wait a minute. Go back. What did she throw at you? Be specific.
-Frank Damon:  Man, I just ducked and covered. I don't remember.
-Grissom: Think.
-Frank Damon: Uh ... a-a phone. A-a bag. Uh, a vase maybe?
-Grissom: What kind of a vase?
-Frank Damon: A flower vase? I don't remember any flowers.
-Grissom: Was it even a vase?
-Frank Damon: Look, I don't know. I can't remember.
-Grissom:  Was it glass? Could it have been glass?
-Frank Damon: Yes. It was glass. It was a glass lamp, because it had a wick.
-
-Jeannie Damon: Get out!
-Frank Damon: What the hell are you doing?
-Jeannie Damon: Get out!
-
-Frank Damon: I'm leaving!
-Jeannie Damon: Just get out!
-
-
-Grissom: Like a kerosene lamp?
-Frank Damon: Yeah. She bought a lamp like that.
-Grissom: I found kerosene on the floor of your closet.
-
-Grissom:  The space heater overloaded the circuit causing a spark to ignite the kerosene.
-
-
-Frank Damon: Can you prove it? In court?
-Grissom:  The evidence can.
-
-
- 
-
-Nick: Hey, how you doing?
-Tony : Hey. Who do you want?
-Nick: The runner ... um, 702. 
-
-Nick:  I owe him a little cash.
-Tony : This isn't the only place he hangs out but if you want me to give it to him ...
-Nick: Um ... you have an envelope I could use?
-Tony : Yeah.
-
-
-Nick: Nice watch.
-Tony : Thanks.
-Nick:  Thought you were getting out of this business.
-Tony : Yeah, uh ... 
-
-Tony : it's my last day. Got a new job.
-Nick:  Later.
-Tony : Yeah.
-
-
-
-
-Tony : You're out of business, Joey.
-
-
-Nick: New job, huh? Joey's old route?  Did you get so scared when you shot him that you forgot the money?
-Tony : I want a lawyer.
-Nick: Well, you better get one that knows forensics ...  Dispatch, victor 19. Code 462 on the 4-20 suspect Monaco.
-
-
-
-
-
-Grissom: Thought you might need a ride.
-Frank Damon:  ... I'm okay.
-
-Grissom: Your sister. Who is she?
-Frank Damon: Would you have helped me if I told you that my wife and I fought that night that I was leaving her for another woman? For Rachel?
-Grissom: I don't judge people. 
-Frank Damon: It's funny. When I got out, I thought I'd feel ...  ... free.
-Grissom: And ... ? 
-Frank Damon: I feel ...
-Grissom: ... responsible?
-
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=01x12+-+Fahrenheit+932&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127288%23p127288" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=01x12+-+Fahrenheit+932&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127288%23p127288" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127288%23p127288&amp;name=01x12+-+Fahrenheit+932" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127288%23p127288" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=29fc152ed1302e834e764bb88fe8f420">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=29fc152ed1302e834e764bb88fe8f420">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=29fc152ed1302e834e764bb88fe8f420">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=29fc152ed1302e834e764bb88fe8f420">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

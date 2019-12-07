@@ -1,725 +1,955 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="FADE IN.
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]
+[EXT. ALLEYWAY -- NIGHT] 
+(A man walks through the alleyway. He stops midway and drops the ciga" />
+<meta property="og:title" content="06x14 - Killer - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="FADE IN.
+[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]
+[EXT. ALLEYWAY -- NIGHT] 
+(A man walks through the alleyway. He stops midway and drops the ciga" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13323" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>06x14 - Killer - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13323" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13323">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=a5cf01d98a5e8361af0a54196e1bc556"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=a5cf01d98a5e8361af0a54196e1bc556">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=a5cf01d98a5e8361af0a54196e1bc556">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=a5cf01d98a5e8361af0a54196e1bc556">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=a5cf01d98a5e8361af0a54196e1bc556">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13323&amp;sid=a5cf01d98a5e8361af0a54196e1bc556&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>06x14 - Killer</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127417">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127417">06x14 - Killer</a></div>
+							<div class="pull-right text-right"><time datetime="2006-02-16T06:55:44Z">02/16/06 06:55</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>FADE IN.</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[EXT. ALLEYWAY -- NIGHT] </p>
+<p>(A man walks through the alleyway. He stops midway and drops the cigarette he's smoking down on the concrete pavement. He smashes the butt out with the toe of his right foot.) </p>
+<p>(He takes a couple of steps, turns, then reaches down to pick up the cigarette butt. He pockets the butt, then continues walking quickly through the alleyway.) </p>
+<p>CUT TO:<br />
+[EXT. BUILDING -- NIGHT]</p>
+<p>(The man in the jacket climbs up the fire escape stairs to a building behind a large screen billboard.)</p>
+<p>(He reaches the room he's looking for and stops. He slips a thin, long piece of metal through the crack in the window and pushes the latch open.)</p>
+<p>[EXT. APARTMENT BUILDING - NASH'S ROOM - NIGHT - CONTINUOUS]</p>
+<p>(The man climbs through the open window and into the bedroom where a man is sleeping. The lamp on the bedside table is on.) </p>
+<p>(Karl Cooper shuts the window closed, picks up a chair and puts it down near the bed. He sits down, places his foot on the bed and unmercifully shakes it, waking the sleeping man.) </p>
+<p><strong>Clayton Nash</strong>: Red. Hey. (He chuckles nervously.) You look good, man. It's been a while, hasn't it? Haven't seen you forever. Of course, you know that better than anybody.</p>
+<p>(&quot;Red&quot; doesn't say anything.) </p>
+<p><strong>Clayton Nash</strong>: I'm ... surprised to see you here. Actually, you know what, I'm not that surprised. Listen, I'm glad you dropped by, 'cause there's something I've been meaning to talk to you about. </p>
+<p>(&quot;Red&quot; raises his gun and points it at Nash.) </p>
+<p><strong>Clayton Nash</strong>: You know, I-I just wanted to say ...</p>
+<p>(He fires twice and hits Nash in the chest.) </p>
+<p>(&quot;Red&quot; gets up and walks close to Nash. He fires again.) </p>
+<p>CUT TO:<br />
+[EXT. ALLEY - NIGHT - 2:36 A.M.]</p>
+<p>(&quot;Red&quot; heads for his parked car. He gets inside and fastens his seat belt. He adjusts the rearview mirror. It's 2:36 A.M. He flips the radio on to FM1 station 87.9.)</p>
+<p>(He starts the car engine and drives out of the alleyway.) </p>
+<p>[INT. CAR (MOVING) - LATE NIGHT]</p>
+<p>(The light a the end of the alley is red. &quot;Red&quot; stops. The light turns green. As he drives across the intersection, a second car zooms out of nowhere and hits him on the side.)</p>
+<p>(The two cars stop.)</p>
+<p>(Ally Sullivan gasps as her airbag inflates upon impact.) </p>
+<p><strong>Ally Sullivan</strong>: Oh, my God! Oh, my God!</p>
+<p>(She gets out of the car to check on the other driver. She stumbles out of her car, obviously a little drunk.) </p>
+<p><strong>Ally Sullivan</strong>: Oh, my God. Oh, my God.</p>
+<p>(&quot;Red&quot; groans.) </p>
+<p><strong>Ally Sullivan</strong>: Are you ... are you okay?</p>
+<p><strong>Karl Cooper</strong>: Huh? (He looks at her.) Yeah, yeah, I'm ... I'm okay. I'm okay.</p>
+<p>(He opens the car door and groans as he gets out.) </p>
+<p><strong>Ally Sullivan</strong>: I-I am so sorry. I was on the phone, and I was going too fast, and I just ... </p>
+<p>(&quot;Red&quot; stands up and doesn't look too good.) </p>
+<p><strong>Ally Sullivan</strong>: Oh, God, um ... I'm going to call 911, and I'm going get you an ambulance.</p>
+<p><strong>Karl Cooper</strong>: I'm fine, honest, I am.</p>
+<p><strong>Ally Sullivan</strong>: Okay.</p>
+<p><strong>Karl Cooper</strong>: Really, it's nothing.</p>
+<p><strong>Ally Sullivan</strong>: At least, can I just ... I'm going to call the police and make a police report.</p>
+<p><strong>Karl Cooper</strong>: I'd really rather you not do that. I'll tell you why. I don't, uh, I don't have any insurance.</p>
+<p><strong>Ally Sullivan</strong>: No, no, no. That's okay. I do. Look, it was my fault; I know that. And that is exactly what I will tell them. My dad just said, if I ever got into an accident that I had to make a police report.</p>
+<p><strong>Karl Cooper</strong>: Can I tell you something, sweetheart? You're drunk right now, okay? And you hit me. Now, that's a DUI, and if you call the police, they're going to take your license away, and they're going to throw you in jail. Now, what I'd like you to do is get in your car, drive yourself home and forget that this ever happened. Can you do that?</p>
+<p>(She hesitates.) </p>
+<p><strong>Karl Cooper</strong>: I'm fine. Go on. I'm fine, honest, I promise. You go.</p>
+<p><strong>Ally Sullivan</strong>: Okay.</p>
+<p>(Ally Sullivan turns and heads back to her car. Karl Cooper turns, groans as he heads back to his car.)</p>
+<p>(Through the side view mirror, he sees Ally take out her cell phone and dial.)</p>
+<p>(He closes his eyes and shakes his head. He turns around as he makes a decision.) </p>
+<p>WHITE FLASH TO: </p>
+<p>[EXT. ROADWAY - NIGHT]</p>
+<p>(Cameras flash as photos are taken of Ally Sullivan's dead body.) </p>
+<p>(Grissom and Sara stand nearby as David Phillips kneels down next to the body, writing on a clipboard. Brass stands just behind David Phillips.) </p>
+<p><strong>Brass</strong>: Her name is Ally Sullivan. She's the registered owner. Patrol unit investigating the wreck found the body. So far, we have nothing on the other car.</p>
+<p>(Grissom turns and notes the deflated air bag.) </p>
+<p><strong>Sara</strong>: Where's the nearest traffic camera?</p>
+<p><strong>Brass</strong>: Four blocks north. We've been pulling bodies out of this neighborhood twice a month, it seems like.</p>
+<p><strong>Grissom</strong>: I think that's actually an improvement.</p>
+<p><strong>Brass</strong>: Yeah. Well, it's a cold night. I'm going to get you some coffee and donuts.</p>
+<p>(Brass leaves. Grissom and Sara both kneel down near the body. They note the open cell phone in her left hand.) </p>
+<p>(Grissom picks up the cell phone.) </p>
+<p><strong>Grissom</strong>: Nine-nine-nine ... five-five-two.</p>
+<p><strong>Sara</strong>: Most people would have called 911.</p>
+<p>(David pulls away Ally's collar and notes the bruising underneath.) </p>
+<p><strong>David Phillips</strong>: Well, there's a seat-belt contusion on her shoulder.</p>
+<p><strong>Sara</strong>: So ... She survives the crash. She gets out of the car, she dies on the street?</p>
+<p><strong>Grissom</strong>: Internal injuries maybe.</p>
+<p><strong>Sara</strong>: Maybe.</p>
+<p><strong>Grissom</strong>: How'd the car end up in this position? It looks like she caused the wreck.</p>
+<p>[INT. COOPER RESIDENCE - BATHROOM -- NIGHT] </p>
+<p>(Karl Cooper wipes the steam off the bathroom mirror with the palm of his hand and looks at his reflection in the mirror.) </p>
+<p><strong>Sara</strong>: (V.O.) Usually, the guy who hits is the guy who runs.</p>
+<p>(He leans over the sink and splashes water on his clean-shaven face.) </p>
+<p><strong>Grissom</strong>: (V.O.) Well, either way, they left the scene, so it's still a hit-and-run. And this girl's dead. So, we may have a murderer.</p>
+<p>(He turns the water off and dabs his face dry with a towel.) </p>
+<p>[INT. COOPER RESIDENCE - BEDROOM - NIGHT -- CONTINUOUS] </p>
+<p>(He puts the towel on the sink, turns and heads back into the bedroom. His wife, Janice is sleeping.)</p>
+<p>(He slips into bed behind her. She sighs.) </p>
+<p><strong>Janice Cooper</strong>: It's late. I was worried.</p>
+<p><strong>Karl Cooper</strong>: Sorry.</p>
+<p>(She grabs his hand and pulls his arm around her.) </p>
+<p><strong>Janice Cooper</strong>: Love you.</p>
+<p>(Camera rises up and we see that Karl Cooper is &quot;Red&quot; without the beard.) </p>
+<p><strong>Karl Cooper</strong>: I love you, too.</p>
+<p>SMASH CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. POLICE DEPARTMENT - BRASS' OFFICE -- NIGHT] </p>
+<p>(Brass speaks with Mr. Sullivan, Ally's father.) </p>
+<p><strong>Jack Sullivan</strong>: Ally was out late all the time. I never worried about her.</p>
+<p><strong>Brass</strong>: She liked nightclubs?</p>
+<p>(The conversation continues in voice over.) </p>
+<p>INTERCUT WITH: </p>
+<p>[INT. CSI - FORENSIC AUTOPSY - NIGHT]</p>
+<p>(Grissom examines Ally's hands while using an ALS.) </p>
+<p><strong>Jack Sullivan</strong>: (V.O.) She liked the club business. She wasn't a party girl. </p>
+<p>INTERCUT WITH: </p>
+<p>[INT. CSI - GARAGE - NIGHT]</p>
+<p>(Sara pus on a pair of latex gloves and heads over to the car.) </p>
+<p><strong>Jack Sullivan</strong>: (V.O.) She wanted to be a VIP hostess.</p>
+<p>(We hear a camera shutter snapping.) </p>
+<p>(Mr. Sullivan continues.) </p>
+<p><strong>Jack Sullivan</strong>: Way you do that in this town is you ... get your face out there, ... </p>
+<p>(In Forensic Autopsy, Grissom is using the ALS while examining Ally Sullivan's clothes.) </p>
+<p><strong>Jack Sullivan</strong>: (V.O.) ... meet the right people, ... </p>
+<p>(Grissom leans in close and examines her magnate necklace.) </p>
+<p><strong>Jack Sullivan</strong>: (V.O.) ... be seen. </p>
+<p>(He sees some fibers caught on her necklace.) </p>
+<p>(In the garage, Sara dusts the windshield. She takes a tape lift of the prints.) </p>
+<p><strong>Jack Sullivan</strong>: (V.O.) I taught her to be responsible. If there was an accident, call the police. Help anyone who needed it.</p>
+<p>(Sara looks at the print she just lifted.) </p>
+<p>(Mr. Sullivan continues.) </p>
+<p><strong>Jack Sullivan</strong>: I'd say to her all the time, no matter how pretty you are today, someday, all that will be gone. She knew that. </p>
+<p>(In the garage, Sara scrapes samples and puts it in a bindle.) </p>
+<p><strong>Jack Sullivan</strong>: (V.O.) She knew she had to treat people with respect. </p>
+<p>(Sara takes a photo of the clear plastic cup in the front seat.) </p>
+<p><strong>Jack Sullivan</strong>: (V.O.) She always did the right thing; that's why I don't get it.</p>
+<p>(Sara puts the camera aside and dusts the side of the plastic cup for prints.) </p>
+<p>(Mr. Sullivan finishes.) </p>
+<p><strong>Jack Sullivan</strong>: Whoever was in the other car ... I don't care why they left. All they had to do was call an ambulance instead of leaving her there to die.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY - NIGHT]</p>
+<p>(Robbins goes over the findings with Grissom.) </p>
+<p><strong>Robbins</strong>: C.O.D. was hyper-extension of the neck with a rotational snap, resulting in a ruptured vertebral artery, mid-cervical.</p>
+<p><strong>Grissom</strong>: (surprised) Mid?</p>
+<p><strong>Robbins</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: Most MVA's break down low or up high, don't they?</p>
+<p><strong>Robbins</strong>: That's why I don't think the accident did it. The injury was more consistent with a stranglehold.</p>
+<p>(Quick flashback to: [NIGHT] Karl Cooper has his arm around Ally Sullivan's neck. She struggles against him.) </p>
+<p>(Camera zooms in through Ally's mouth for a CGI POV of: Her spinal column is twisted around and snaps.) </p>
+<p><strong>Robbins</strong>: (V.O.) The head was rapidly twisted relative to the spinal column.</p>
+<p>(End of CGI. Ally passes out.)</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Robbins</strong>: She would have been dead within a minute. Whoever killed this poor kid knew what they were doing.</p>
+<p>CUT TO:<br />
+[INT. COOPER RESIDENCE - KITCHEN -- DAY] </p>
+<p>(Kyle Cooper chops bell peppers on the cutting board. He glances at the article in the paper with the headline, &quot;Local Party Girl Slain&quot;, by Ruben Munoz, Review-Journal. He stops and stares at the photo of the covered body beside the smashed car.) </p>
+<p>(A portion of the article reads:<br />
+... survived by her father Jack ...<br />
+... anyone with information ...<br />
+... can call LVPD at 800 ...<br />
+... car dealers have ... </p>
+<p>(Karl's daughter,Maddy sits on the counter and is stirring the bowl of eggs with a whisk.) </p>
+<p><strong>Maddy Cooper</strong>: I don't like gruyere, daddy.</p>
+<p><strong>Karl Cooper</strong>: No gruyere in it, sweetie; I promise. All right, egg me.</p>
+<p>(Maddy laughs, picks up the egg and cracks it on the side of the bowl. Janice walks in.) </p>
+<p><strong>Maddy Cooper</strong>: Hello, Mommy. I'm cooking.</p>
+<p><strong>Janice Cooper</strong>: I see that. Good morning, honey.</p>
+<p>(She kisses Maddy, then walks over to the counter to fill her cup with coffee.) </p>
+<p><strong>Karl Cooper</strong>: Morning.</p>
+<p><strong>Janice Cooper</strong>: Yeah, well, the jury's still out on that as far you're concerned. You must have had quite a night.</p>
+<p><strong>Karl Cooper</strong>: Yeah. I guess I lost track of time.</p>
+<p>(Janice yawns.) </p>
+<p><strong>Janice Cooper</strong>: That Joey's a dog. If you don't watch out, he's going to get you into trouble.</p>
+<p><strong>Karl Cooper</strong>: I kind of doubt that. I wouldn't worry, though. It won't happen again. These days I'm all about you, baby.</p>
+<p><strong>Maddy Cooper</strong>: I'm the baby.</p>
+<p><strong>Karl Cooper</strong>: I know. I know, but daddies can have more than one baby.</p>
+<p><strong>Janice Cooper</strong>: Yeah, pretty talk, talk, talk.</p>
+<p>(Janice reaches to sample breakfast from the platter. Karl grabs a different plate and offers her the food on it.) </p>
+<p><strong>Karl Cooper</strong>: Here, wait, wait. Try this, try this. Maddy made them.</p>
+<p>(Janice samples a piece.) </p>
+<p><strong>Janice Cooper</strong>: Mm, it's delicious. Very good.</p>
+<p>(Maddy beams at the praise. She reaches over and touches Karl's cleanly shaved cheek.) </p>
+<p><strong>Janice Cooper</strong>: I'm glad you shaved. I barely recognized you under all that scruff. (Janice picks up part of the paper.) </p>
+<p><strong>Karl Cooper</strong>: Hadn't quite finished that.</p>
+<p>(Janice takes the paper and leaves the kitchen.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY]</p>
+<p>(Camera pans over a photo of the print on the plastic cup and of the ID from the print for HALL, TRENT.) </p>
+<p>(Brass interviews Trent Hall.) </p>
+<p><strong>Brass</strong>: Hello, rapist.</p>
+<p><strong>Trent Hall</strong>: Man, I'm not a rapist. I was a date rapist, which is not even the same thing. And besides, back then, roofies were in.</p>
+<p><strong>Brass</strong>: So you miss the action of the good old days, huh?</p>
+<p><strong>Trent Hall</strong>: It's not like that. It's not like that at all.</p>
+<p>(In the observation room, Grissom watches the interview.) </p>
+<p><strong>Brass</strong>: What's it like?</p>
+<p><strong>Trent Hall</strong>: What -- ?</p>
+<p>(Brass picks up the soda can and takes a sip from it. Trent Hall watches him, obviously wanting a drink. Brass deliberately puts the soda can down on the table in front of Trent.) </p>
+<p><strong>Trent Hall</strong>: Can I get a soda, too? I'm, like, parched.</p>
+<p><strong>Brass</strong>: You want to tell me what your fingerprints are doing on a cup in a dead girl's car?</p>
+<p><strong>Trent Hall</strong>: Uh, yeah, yeah. I was out at Jet ... I was kind of faded, I guess. Um, I bumped into Ally, and she offered me a ride home. I needed it.</p>
+<p><strong>Brass</strong>: So that's what you were doing on Harmon Road?</p>
+<p><strong>Trent Hall</strong>: Yeah, Ally don't care where I live; she's a cool girl.</p>
+<p><strong>Brass</strong>: You were close?</p>
+<p><strong>Trent Hall</strong>: Oh, yeah.</p>
+<p><strong>Brass</strong>: Were you banging her?</p>
+<p><strong>Trent Hall</strong>: Nah.</p>
+<p><strong>Brass</strong>: So, what, are you like, pen pals? Girlfriends? What?</p>
+<p><strong>Trent Hall</strong>: No, look, we really didn't talk that much. But we would text all the time. That's, like, when you use your cell phone to send, like, you know, words.</p>
+<p>(He motions with his hands as if texting on the phone.) </p>
+<p><strong>Brass</strong>: Yeah. I know what text messaging is.</p>
+<p><strong>Trent Hall</strong>: Fine.</p>
+<p>(Brass picks up the can of soda and takes a sip from it. Trent watches him longingly.) </p>
+<p><strong>Trent Hall</strong>: Sorry. Look, I'm telling you the truth, you really couldn't get Ally on the phone, it's all texting with her. Well, what do you want my DNA? You want me to pee into a cup? You want my underwear? </p>
+<p>(Grissom listens, then flips open the file folder and looks at the notes. It reads:<br />
+CELL PHONE, OPEN WITH<br />
+NUMBER ENTERED 999552</p>
+<p><strong>Trent Hall</strong>: Whatever you want, you got it, cause I didn't kill Ally.</p>
+<p>(The voices fade into the background.) </p>
+<p>(Grissom takes out his cell phone.) </p>
+<p><strong>Brass</strong>: (over speaker) I'll tell you what I want. I want you to write down exactly where you were last night and when. Think you can handle that?</p>
+<p><strong>Trent Hall</strong>: Can I get a soda?</p>
+<p><strong>Brass</strong>: Shut up and write.</p>
+<p>(Grissom flips open the cell phone, selects TEXT MESSAGING. He types in<br />
+&quot;999552&quot; and comes out with: yka.)</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB -- DAY] </p>
+<p>(Hodges goes over his findings with Sara.) </p>
+<p><strong>Hodges</strong>: Paint scrapings from your vic's bumper are consistent with a '91 to '96 blue Ford.</p>
+<p><strong>Sara</strong>: So that narrows it down to a few thousand cars in the greater Las Vegas area.</p>
+<p><strong>Hodges</strong>: Yeah, but the car you're looking for is also a piece of crap.</p>
+<p><strong>Sara</strong>: Make and model I get, but unless you have a new test that quantifies<br />
+&quot;crappiness&quot; ...</p>
+<p><strong>Hodges</strong>: Actually, take a look.</p>
+<p>(Sara looks through the microscope.) </p>
+<p><strong>Sara</strong>: Firebird's on the left, blue Ford on the right. What's the gray-blue in the middle?</p>
+<p><strong>Hodges</strong>: A mixture of rustoleum and house paint. The killer's car had exposed primer. Swanky.</p>
+<p>(Grissom walks in and holds up his phone.) </p>
+<p><strong>Grissom</strong>: Might have found a few letters from the license plate. &quot;Y-K-A.&quot;</p>
+<p><strong>Sara</strong>: You found a witness?</p>
+<p><strong>Grissom</strong>: No. Just behavior. But according to Ally Sullivan's father, she was the type of girl that might have noticed the license plate of the car that hit her. And according to her good friend, she preferred text messaging to leaving voice messages. She was dying, right? Disoriented? I don't know, but maybe she thought she was texting when in fact she was just dialing her phone.</p>
+<p>(Quick flashback to: [NIGHT] Ally Sullivan has her phone out. She looks at the license plate of the car as it drives away and dials her phone.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Sara</strong>: That's a bit of a long shot.</p>
+<p><strong>Grissom</strong>: Yeah. It's still a shot.</p>
+<p>CUT TO:<br />
+[EXT. GOLDEN NUGGET (STOCK) - NIGHT]</p>
+<p>[INT. CASINO - BAR -- NIGHT] </p>
+<p>(Karl Cooper is having a drink. In the background, we hear the news report from the nearby tv.) </p>
+<p><strong>Paula Francis</strong>: (from tv) Good evening, I'm Paula Francis. A weekend of sordid crimes has Las Vegas police working double-time. At the same time, the police are doing all they can to protect residents from the ... </p>
+<p>(Sitting next to him is a man, Joey, who is hitting on the pretty, blonde cocktail waitress.) </p>
+<p><strong>Joey</strong>: Come on, admit it. Come on. That's a little smile. Come on ... Huh? You know you're crazy about me. I want you to come back. As soon as you're done, come back.</p>
+<p>(The waitress leaves as Karl tries to catch Joey's attention.) </p>
+<p><strong>Karl Cooper</strong>: Joey? Joey? Hey.</p>
+<p>(Joey turns and looks at Karl.) </p>
+<p><strong>Karl Cooper</strong>: You don't hit on a cocktail waitress at the bar. Go sit at a table, then she's got a reason to come over and serve you, and it's less obvious.</p>
+<p><strong>Joey</strong>: Hold on. Wait, wait. The house-husband's giving me tips on women?</p>
+<p><strong>Karl Cooper</strong>: I married a cocktail waitress.</p>
+<p><strong>Joey</strong>: (surprised) Janice -- cocktail?</p>
+<p>(Karl nods.) </p>
+<p><strong>Karl Cooper</strong>: This crappy little joint in Cleveland.</p>
+<p><strong>Joey</strong>: Really?</p>
+<p><strong>Karl Cooper</strong>: Mm-hmm.</p>
+<p><strong>Joey</strong>: I'm not looking to marry this broad. Although, she might think so. At least for tonight. </p>
+<p>(He laughs.) </p>
+<p><strong>Karl Cooper</strong>: Joe, you're, like, 40-something, right? Shouldn't you be toning it down a little?</p>
+<p><strong>Joey</strong>: Tone it down? Karl, I'm looking to take it up a notch. I got, like, ten more years of fun left and my wingman's got a curfew. No? Why'd you bail out so early last night?</p>
+<p>(Karl is quiet and not just a little surprised that Joey noticed his disappearance.) </p>
+<p><strong>Karl Cooper</strong>: I missed my family.</p>
+<p><strong>Joey</strong>: You're so sweet. You should work for Hallmark.</p>
+<p><strong>Karl Cooper</strong>: I'll send them my resume.</p>
+<p>CUT TO:<br />
+[INT. NASH'S APARTMENT -- NIGHT] </p>
+<p>(Clayton Nash is dead on his bed, shot in the chest, his eyes wide open. The manager talks with Sofia as she looks over the scene.) </p>
+<p><strong>Manager</strong>: It wasn't the smell that got my attention, you know? Usually when I find a body, it's, uh ... it's very, uhm ... raunchy. </p>
+<p><strong>Sofia Curtis</strong>: It's called &quot;decomp,&quot; in case you're interested.</p>
+<p>(On the floor, Sofia notices the discarded gun and bullet casing next to it. The gun isn't too far away from the victims bloodied hand.) </p>
+<p><strong>Manager</strong>: I'll remember that for next time.</p>
+<p><strong>Sofia Curtis</strong>: If it wasn't the smell, why did you check the room?</p>
+<p><strong>Manager</strong>: Rent is due every week.</p>
+<p><strong>Sofia Curtis</strong>: What's his name?</p>
+<p><strong>Manager</strong>: We ask for cash, not names. </p>
+<p>(Sofia turns and glances back at him.) </p>
+<p><strong>Manager</strong>: (sheepishly) We take who the casinos won't. Someone's got to do it.</p>
+<p><strong>Sofia Curtis</strong>: You touch or move anything?</p>
+<p><strong>Manager</strong>: First thing I did was call you guys. Got you on speed dial.</p>
+<p>CUT TO:<br />
+[INT. CASINO - BAR -- NIGHT] </p>
+<p>(The news report on the television set in the bar continues.) </p>
+<p><strong>Paula Francis (newscaster)</strong>: (from tv) And finally, in local crime, an update on yesterday's tragic death of Vegas party girl Ally Sullivan. Police are still examining all the evidence from the gruesome crime scene. </p>
+<p>(We see that Joey has turned his attention once again to the cocktail waitress. Karl is watching the news report.) </p>
+<p><strong>Paula Francis (newscaster)</strong>: (from tv) Detectives tell eyewitness news they have little to work with. And something that stumps them: What was the motive for the killer in this violent end to a young and beautiful life?</p>
+<p>(On the tv, footage changes to a small crowd of reporters gathered around Jack Sullivan's front porch. Jack Sullivan turns around to look at the cameras.) </p>
+<p><strong>Reporter</strong>: (from tv) (o.s.) Mr. Sullivan, when was the last time you saw her alive?</p>
+<p><strong>Jack Sullivan</strong>: (from tv) What are you people thinking? Think I'm going to say something magical, to bring Ally back to me? I'm not talking to you people.</p>
+<p>(Karl Cooper watches as Jack Sullivan turns and heads back inside. The reporters continue to shout question at his back.) </p>
+<p><strong>Reporter</strong>: (from tv) (o.s.) Mr. Sullivan, what was your daughter doing in that section of town? You think it was drug-related?</p>
+<p>(Karl looks down regretfully at his drink. Footage cuts back to the newsroom.) </p>
+<p><strong>Paula Francis (newscaster)</strong>: (from tv) Police are hoping that passersby or other eyewitnesses will come forward to help the investigation of this terrible murder.</p>
+<p>(A number appears on the bottom of the TV screen: 1-800-555-0199.) </p>
+<p><strong>Paula Francis (newscaster)</strong>: (from tv) If you have information that might help police, you are urged to call LVPD at the toll-free number on the screen.</p>
+<p>(Karl looks around the bar, then nervously drinks from his glass.) </p>
+<p>CUT TO:<br />
+[INT. NASH'S APARTMENT -- NIGHT] </p>
+<p>(Sofia puts on a pair of gloves and picks up the wallet on the bedside table. The NEVADA DRIVER LICENSE READS:<br />
+... 800592214 EXPIRES: 02-17-2007<br />
+NASH, CLAYTON<br />
+217 EAGLE DRIVE ... </p>
+<p>(She takes out her handset and makes the call.) </p>
+<p><strong>Sofia Curtis</strong>: (to radio) Control, this is Detective Curtis. I'm at 1773<br />
+Twain, Riviera Suites. I got a 4-19. I need CSI.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. NASH'S APARTMENT -- NIGHT] </p>
+<p>(Catherine snaps a couple of photos before she stops and looks around the apartment.) </p>
+<p><strong>Catherine</strong>: You know, I think I've been called out to this place before.</p>
+<p>(Warrick looks around the room.) </p>
+<p><strong>Warrick</strong>: I think I've processed this very room before.</p>
+<p>(David removes the thermometer from the body.) </p>
+<p><strong>David Phillips</strong>: Liver temp is close to ambient.</p>
+<p>(David turns the body over to check.) </p>
+<p><strong>David Phillips</strong>: But lividity is fixed. (He opens the victim's mouth.) And rigidity starting to pass.</p>
+<p><strong>Catherine</strong>: So he's been dead for at least twenty hours.</p>
+<p>(David circles the bullet hole on the body. Catherine continues to snap photos. Warrick looks around and sees the bullet casing on the floor. He picks it up and checks it.) </p>
+<p><strong>Warrick</strong>: &quot;.380 auto.&quot; That's federal ammo.</p>
+<p>(Catherine picks up the gun and checks it.) </p>
+<p><strong>Catherine</strong>: .380s make a lot of noise. It's odd that no one heard anything, even in a dump like this. &quot;Walther PPK.&quot; Two shots in the body, one to the head.</p>
+<p><strong>Warrick</strong>: Sounds like a professional hit to me.</p>
+<p>(Catherine notices the scratches on the gun's barrel.) </p>
+<p><strong>Catherine</strong>: Looks like the killer used Armorall. The gun is clean.</p>
+<p><strong>Warrick</strong>: Looks like the victim was doing a little cleaning of his own. He was a 12 stepper. Trying to make amends. He was on step number nine.</p>
+<p><strong>Catherine</strong>: Apparently not enough.</p>
+<p><strong>Warrick</strong>: Well, it's pretty obvious he came in through the window. </p>
+<p>(Warrick sees a large shoe stain on the carpet near the window.) </p>
+<p><strong>Warrick</strong>: Whew. One thing's for sure, this killer's lugging around some pretty big dogs.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS (STOCK) - DAY]</p>
+<p>[EXT. COMMUNITY - FRONT CURBSIDE -- DAY] </p>
+<p>(A man puts the package he's carrying on the car, license # 139-VGO. He turns and checks the mail for house #299. He goes through the mail, then sees a package in the mailbox. He opens the package and finds four stacks of bills. He turns and glances around the area.) </p>
+<p>(The scene goes out of focus and we see Karl Cooper's reflection through a side-view mirror from the nearby parked car as he watches the man.) </p>
+<p>(Karl takes a puff from his cigarette.)</p>
+<p>(The man turns, picks up his package and heads into the house.) </p>
+<p>(Camera holds on Karl Cooper.) </p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY/GARAGE -- DAY] </p>
+<p>(Hodges catches Grissom walking through the hallway.) </p>
+<p><strong>Hodges</strong>: Oh. Hey, Grissom, I just ID'd those fibers you found on Ally Sullivan's necklace. </p>
+<p>(He hands Grissom the report and they continue walking through the hallway.) </p>
+<p><strong>Hodges</strong>: They were not from her jacket or her dress. They're made of lambskin and rabbit fur. You know, just between you and me, I used to carry a rabbit's foot. I mean, I'm not superstitious. It's just, I figure why take the chance?</p>
+<p><strong>Grissom</strong>: You know, as a kid, my grandfather used to have a rabbit farm.</p>
+<p>(They enter the garage where Sara is receiving the crushed vehicle.) </p>
+<p><strong>Grissom</strong>: Is this our Ford Taurus?</p>
+<p><strong>Sara</strong>: Once upon a time.</p>
+<p><strong>Hodges</strong>: Told you it was a piece of crap. </p>
+<p>(Hodges leaves.) </p>
+<p><strong>Sara</strong>: The vehicle was abandoned near a junkyard off Boulder Highway. By the time they checked the plates, it was already in the crusher. </p>
+<p>(Sara pulls the license plate and shows it to Grissom, YKA 646.) </p>
+<p><strong>Sara</strong>: Plates and paint are a match to your BOLO.</p>
+<p><strong>Grissom</strong>: Did Brass run those tags?</p>
+<p><strong>Sara</strong>: Yeah, it was last registered to a Betty Grinly in Henderson. She passed away last month.</p>
+<p>(She leans forward and smells the car.) </p>
+<p><strong>Sara</strong>: Gasoline. They torched it.</p>
+<p>(Quick flashback of: Karl Cooper lights the fuse with his cigarette lighter. He stands aside as the car burns. He turns and walks away. End of flashback. Resume to present.) </p>
+<p><strong>Grissom</strong>: So he burns the evidence near a junkyard so that they'll find it and dispose of it. Clever.</p>
+<p><strong>Sara</strong>: Looks like we're dealing with a professional.</p>
+<p><strong>Grissom</strong>: Professional what, though? Ally Sullivan was killed over a fender bender.</p>
+<p><strong>Sara</strong>: You're right. He probably just loved his car and has a really bad temper.</p>
+<p>(Grissom shines his flashlight on a metal strip on the car. It has the image of a yellow pineapple and the letters A-L.)</p>
+<p><strong>Grissom</strong>: And he likes pineapples.</p>
+<p>CUT TO:<br />
+[EXT. ALOHA AUTO SALES - DAY]</p>
+<p>(Sara interviews the salesman of the used car lot. The salesman is wearing a mustard-colored jacket and thick black-rimmed glasses.) </p>
+<p><strong>Salesman</strong>: Ah, yeah, I remember that Taurus. Cheap and reliable. That combo always sells.</p>
+<p><strong>Sara</strong>: Could you give me a description of the person who bought it?</p>
+<p><strong>Salesman</strong>: Honey, I'm not even sure I can tell what you look like. All I remember is he came off the bus ...</p>
+<p>(Quick flashback to: [DAY] A man walks up to the salesman and holds out a thick stack of folded bills.) </p>
+<p><strong>Salesman</strong>: (V.O.) ... he walked right up with a big wad of cash.</p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Salesman</strong>: I put him in that Taurus, and fifteen minutes later, he drove off the lot.</p>
+<p><strong>Sara</strong>: Did you get a transaction record?</p>
+<p>LATER: </p>
+<p>[INT. ALOHA AUTO SALES --- OFFICE - DAY - CONTINUOUS]</p>
+<p>(The salesman shuffles through the folders on his desk as Sara patiently waits for him to find the folder.) </p>
+<p><strong>Salesman</strong>: Let's see. Taurus, Taurus, Taurus, Taurus ... ah, here you go.</p>
+<p>(He finds a folder and hands it to Sara. Sara opens the folder.) </p>
+<p><strong>Sara</strong>: This is for a '99 Jeep Cherokee .</p>
+<p>(She hands the folder back to the salesman. He puts the folder label up close to his eyes to read the label. Obviously the thick glasses aren't helping a bit.) </p>
+<p><strong>Salesman</strong>: It sure is.</p>
+<p>(He shuffles through the folders on the desk again and hands Sara another folder.) </p>
+<p><strong>Salesman</strong>: Um, hold it. It's over here.</p>
+<p>(Sara opens the folder to find a copy of the driver's license, the photo and information obscured and blurred.) </p>
+<p><strong>Salesman</strong>: How's that one look?</p>
+<p><strong>Sara</strong>: (shakes her head) Not so great.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(Robbins goes over Clayton Nash's body. He removes a bullet from the torso. He washes the bullet and puts it in a bindle.) </p>
+<p>[INT. CSI - BALLISTICS LAB - DAY]</p>
+<p>(Bobby takes the bullet out of the bindle and looks at its markings under the scope.)</p>
+<p>(Bobby picks up the gun found at the crime scene and examines the barrel with a scope.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAYOUT ROOM - DAY]</p>
+<p>(Catherine shares her findings with Warrick.) </p>
+<p><strong>Catherine</strong>: The coroner's bullets matched the Walther, but Bobby found an additional striated mark on the o-jive, so he went back to the gun. There was threading inside the muzzle.</p>
+<p>(Warrick picks up a photo and looks at it.) </p>
+<p><strong>Warrick</strong>: Killer used a silencer.</p>
+<p>(Quick flash of: The killer puts the cartridge in the gun. Camera zooms into the gun. The gun is fired; the bullet is fired. It passes through the gun and through the silencer. End of flash.) </p>
+<p>(Catherine and Warrick both stand in front of the layout table where all the photos of the weapon and bullet are spread out.) </p>
+<p><strong>Warrick</strong>: Slightest imperfection in the barrel of a silencer could explain these scratches on the bullet.</p>
+<p>(Warrick picks up a photo of the bullet and points to the scratches.) </p>
+<p><strong>Catherine</strong>: (nods) Oh. Also explains why no one heard anything. But leave the gun, take the silencer?</p>
+<p><strong>Warrick</strong>: Well, you can't legally buy a silencer, and those things are hard to make.</p>
+<p><strong>Catherine</strong>: If the silencer was homemade, we might have been able to match the killer's tool marks. Assuming we ever find this guy.</p>
+<p><strong>Warrick</strong>: I don't know who would go through this much trouble to kill a nobody like Nash.</p>
+<p>CUT TO:<br />
+[INT. COOPER RESIDENCE - GARAGE -- NIGHT] </p>
+<p>(Karl Cooper sits at his worktable.)</p>
+<p><strong>Catherine</strong>: (V.O.) Well, he was a somebody to the killer.</p>
+<p>(He's typing on the computer, a framed photo of Maddy on the countertop next to him. He's on GOOGLE and enters &quot;CLAYTON NASH&quot;) </p>
+<p>(He looks through the listing and finds:<br />
+Rocketboom.com<br />
+... the body of CLAYTON NASH was<br />
+... the site of Ally Sullivan's murder ... www.rocketboom.com - Cached</p>
+<p>(He clicks on the site and finds the page:<br />
+ROCKETBOOM<br />
+Daily with Amanda Congdon<br />
+&quot;... the body of Clayton Nash was found just two blocks away from the site of Ally Sullivan's murder ... &quot;</p>
+<p>(The streaming video starts playing.) </p>
+<p><strong>Amanda Congdon (reporter)</strong>: Hey, people, Amanda Congdon from rocketboom.com with this week's creep report. If you were planning on checking out that new club, Bubbles, down near Harmon and Twain, you might want to think twice, because the corpses are really piling up down there. The body of Clayton Nash was found just two blocks away from the site of Ally Sullivan's murder, and the killer's still at large. Is this just another crime spree, or the work of one deranged maniac? Don't ask the cops. They don't have a clue. Remember, Amanda warned you.</p>
+<p>(The garage door opens.) </p>
+<p><strong>Janice</strong>: Karl?</p>
+<p>(Karl immediately shuts the page down. A photo of Mandy appears on the screen.) </p>
+<p><strong>Karl Cooper</strong>: Mm.</p>
+<p>(Janice, who is carrying Maddy, walks into the garage. Karl gets to his feet.) </p>
+<p><strong>Janice Cooper</strong>: What are you doing?</p>
+<p><strong>Karl Cooper</strong>: Oh.</p>
+<p><strong>Janice Cooper</strong>: Not even ready for dinner.</p>
+<p><strong>Karl Cooper</strong>: I was checking our stocks.</p>
+<p><strong>Janice Cooper</strong>: Well, you're not wearing that to the Eiffel Tower.</p>
+<p><strong>Karl Cooper</strong>: I'll throw some clothes on.</p>
+<p><strong>Janice Cooper</strong>: Hurry up. My mom's waiting for Maddy. I don't want to lose that table.</p>
+<p><strong>Karl Cooper</strong>: Two seconds.</p>
+<p>(Karl leaves. Janice walks up to the computer and moves the mouse.) </p>
+<p><strong>Janice Cooper</strong>: Okay. Well, now, who's that beautiful girl, huh?</p>
+<p>(She chuckles as the login appears. She types in a password. The computer beeps and shows, &quot;INCORRECT PASSWORD&quot;. She tries again. Still, she gets<br />
+&quot;INCORRECT PASSWORD&quot;.)</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB] </p>
+<p>(Archie scans the blurry copy of the DMV license into the computer.) </p>
+<p>(He works on clearing up the license photo.)</p>
+<p>CUT TO:<br />
+[INT. CSI - LAYOUT ROOM]</p>
+<p>(Sara opens the MAY 2005 TRANSIT GUIDE to page 107 for Boulder Highway. She uses the guide to mark the large map on the table.) </p>
+<p>(She locates the times and marks the map with a red pen. She follows the route down the map.) </p>
+<p>(She looks at Invoice #459465, for Customer Order No. 08769542, dated 1-27-06, made out at 4:46 pm for<br />
+1 1995 Ford Taurus<br />
+VIN # 0155554UT598741.<br />
+AMOUNT: $1,500.00</p>
+<p>(She marks the area on the map and looks at it.) </p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY -- DAY] </p>
+<p>(Brass interviews the bus driver.) </p>
+<p><strong>Brass</strong>: So, you drive route 107 southbound during the week, is that right? </p>
+<p><strong>Bus Driver</strong>: 6:00 A.M. to 6:00 P.M. Yeah, I'm a morning person.</p>
+<p><strong>Brass</strong>: Now, is there any chance, any chance at all, that you remember this guy? I know it's not the best picture.</p>
+<p>(Brass shows the bus driver the blurry DMV photo.) </p>
+<p><strong>Bus Driver</strong>: Oh, yeah. I let him out on stop &quot;E&quot; around 4:30 day before yesterday.</p>
+<p><strong>Brass</strong>: Oh, you know, you get hundreds of people on and off your bus every day. We got to be sure -- are you sure you remember him?</p>
+<p><strong>Bus Driver</strong>: I look at every face that steps on my ride. I saw the movie<br />
+'Speed' -- I'm not gonna be hijacked.</p>
+<p><strong>Brass</strong>: Well, you know, actually 'Speed', it ... it wasn't hijacked, it was wired to explode.</p>
+<p><strong>Bus Driver</strong>: Whatever.</p>
+<p><strong>Brass</strong>: Well, all right. What exactly do you remember about him?</p>
+<p><strong>Bus Driver</strong>: He paid in cash, told me to keep the change -- everybody else uses a bus pass. He was a real gentleman -- tucked-in shirt, new shoes ... nice smell. Kind of stands out on my route.</p>
+<p><strong>Brass</strong>: So I guess you remember where you picked him up, then?</p>
+<p><strong>Bus Driver</strong>: He came walking out of the desert like Moses himself.</p>
+<p>CUT TO:<br />
+[EXT. DESERT (ROUTE SIGN 201) -- DAY] </p>
+<p>(Nick, Greg and Sara stand in front of CAT Busline's Route 201 stop sign.) </p>
+<p><strong>Greg</strong>: So the bus driver said the guy got on here? You sure this is a working stop?</p>
+<p><strong>Sara</strong>: You know, the CAT bus stops here 59 times a day.</p>
+<p><strong>Greg</strong>: For what?</p>
+<p>(They look around and sees ATV riders in the distance.) </p>
+<p><strong>Sara</strong>: Construction workers, hikers, migrants. The name on the driver's license was fake, but the picture's got to be real. I'm gonna go ... wave it around the neighborhood.</p>
+<p>(Sara turns and leaves.) </p>
+<p><strong>Nick</strong>: Okay.</p>
+<p>(Greg and Nick walk down the road where they pass more ATV riders.)</p>
+<p><strong>Greg</strong>: Assuming our guy's not from around here, how'd he get here?</p>
+<p><strong>Nick</strong>: (indicates the ATV vehicles) The same way they did.</p>
+<p>(Nick finds a set of motorcycle tire tracks.) </p>
+<p><strong>Greg</strong>: Every time I come to the desert, I see porno mags. Who brings spankables out here?</p>
+<p>(Nick sees discarded magazines.) </p>
+<p><strong>Nick</strong>: It's probably just trash blown in from off the street.</p>
+<p><strong>Greg</strong>: Nobody throws away p0rn. They're like heirlooms. Passed on down the family tree.</p>
+<p>(Nick follows the tire tracks as Greg's rambling becomes more and more distant.) </p>
+<p>(At the end of the tire tracks, Nick finds a large pile of black ash and burned items.) </p>
+<p><strong>Nick</strong>: Hey, Greg. Come here and check this out. </p>
+<p>(Greg joins Nick.) </p>
+<p><strong>Nick</strong>: A single set of ATV tracks goes off the trail back there into here -- killer could've dumped the ATV and then got on the bus.</p>
+<p>(Greg snaps photos of the pile. Greg and Nick sift through the items in the pile. He finds a shoe.) </p>
+<p><strong>Greg</strong>: Whoever was here had some big shoes.</p>
+<p>(He finds some socks.) </p>
+<p><strong>Greg</strong>: Not necessarily big feet. Multiple socks.</p>
+<p><strong>Nick</strong>: Another precaution to cover your tracks.</p>
+<p>(Quick flashback to: [NIGHT] The killer drops the items into the large fire. End of flashback.) </p>
+<p><strong>Greg</strong>: Assuming it's our guy.</p>
+<p>(Greg snaps another photo of the burned items.) </p>
+<p><strong>Nick</strong>: I'd say it's our guy. </p>
+<p>(Nick finds a burned rubber glove with its middle finger pointed high in the air. He shows the glove to Greg.) </p>
+<p><strong>Nick</strong>: And I think he just gave us the finger.</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - LAB] </p>
+<p>(Grissom goes through the items from the pile of ashes in the desert. Hodges walks in.) </p>
+<p><strong>Hodges</strong>: I have an update for you. The burned gloves that Nick submitted are lambskin lined with rabbit's fur. They're consistent with the fibers found in Ally Sullivan's necklace.</p>
+<p><strong>Grissom</strong>: Good.</p>
+<p>(Hodges turns and leaves.) </p>
+<p><strong>Grissom</strong>: Thanks.</p>
+<p><strong>Hodges</strong>: Mm-hmm.</p>
+<p>(Grissom continues to sift through the pile of ashes. He finds an item that looks like a silencer.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - SOFIA'S DESK] </p>
+<p>(Catherine talks with Sofia.) </p>
+<p><strong>Catherine</strong>: I'm guessing that Clayton Nash had a record.</p>
+<p><strong>Sofia Curtis</strong>: 1985, aiding and abetting, extortion in '87, armed robbery in<br />
+'92, assault in '95, uh, loan sharking the same year.</p>
+<p><strong>Catherine</strong>: I get the drift.</p>
+<p><strong>Sofia Curtis</strong>: But, uh, take a look at this -- it's FBI surveillance.</p>
+<p>(She hands Catherine a photo of a group of men in baseball caps and mitts sitting on the park tables under a pavilion. The figure of a man sitting on the table is highlighted.) </p>
+<p><strong>Catherine</strong>: What is this, summer camp?</p>
+<p><strong>Sofia Curtis</strong>: Well, not the kind you want to send your kid to -- they're bank robbers.</p>
+<p><strong>Catherine</strong>: All of them?</p>
+<p><strong>Sofia Curtis</strong>: Apparently, Nash and his buddies would get together every year, talk shop, hire hookers, play flag football. Nash did mostly grunt work -- driver, lookout. Never handled the cash. He got busted in an armored car heist in Ohio ten years ago. Testified against practically everyone he'd ever worked with.</p>
+<p><strong>Catherine</strong>: Well, that certainly explains why someone would want to kill him.</p>
+<p><strong>Sofia Curtis</strong>: Most of those people in the picture are either dead or in prison.</p>
+<p><strong>Catherine</strong>: Who isn't?</p>
+<p>CUT TO:<br />
+[INT. GOLDEN NUGGET - BAR]</p>
+<p>(Joey walks up to the Bar toward Karl Cooper, who is already there nursing his drink.) </p>
+<p><strong>Joey</strong>: (to bartender) Give me a Heine, please. (to Karl) What is that? Anybody should be drinking water, it's me, let me tell ya. Really blasted my quads. Let's do shooters. Wanna?</p>
+<p><strong>Karl Cooper</strong>: Let's pretend ... that you're wearing a suit, and let's pretend we're in your office, and let's pretend I just cut you a big check for your services because you are still my damn lawyer.</p>
+<p><strong>Joey</strong>: (suddenly serious) All right, man, all right, I'm listening.</p>
+<p><strong>Karl Cooper</strong>: There's some stuff I need. No particular order. </p>
+<p>(He gives Joey a list. Joey looks at it.) </p>
+<p><strong>Joey</strong>: Credit card blanks? DMV license blanks? What is this?</p>
+<p><strong>Karl Cooper</strong>: No questions.</p>
+<p><strong>Joey</strong>: Laminating machine, blank bar code labels. What are you doing? What makes you think I can even get this stuff?</p>
+<p><strong>Karl Cooper</strong>: I know the guys you represent. I'm one of 'em. I need the stuff fast. Don't let me down.</p>
+<p>CUT TO:<br />
+[INT. CSI - BALLISTICS LAB] </p>
+<p>(Bobby works on the silencer Grissom found in the pile of ashes.) </p>
+<p>(He attaches the silencer to the gun and tests it. He examines the bullet under a scope and finds the match.) </p>
+<p>CUT TO:<br />
+[INT. CSI - BREAK ROOM] </p>
+<p>(Grissom, Catherine, Warrick and Sara meet and discuss the case.) </p>
+<p><strong>Grissom</strong>: There was no reason to connect the two murders until ballistics matched the silencer we found in the desert with the gun you found at the Riviera Suites.</p>
+<p><strong>Catherine</strong>: Two murders, same killer.</p>
+<p><strong>Sara</strong>: Here's how we think things went down. The killer drove his ATV into the desert, concealed it in the brush, takes a bus to a used car lot and buys a blue Taurus.</p>
+<p><strong>Warrick</strong>: Then he drives to the apartment, puts a cap in Clayton Nash, gets into his car and drives away, free and clear.</p>
+<p><strong>Catherine</strong>: It's a good plan, well executed.</p>
+<p><strong>Grissom</strong>: Yeah, right up until the point that Ally Sullivan smashed into his car.</p>
+<p><strong>Sara</strong>: Collateral damage -- he killed her so she couldn't identify him.</p>
+<p><strong>Warrick</strong>: Okay, that all sounds great. How do we find the guy?</p>
+<p><strong>Catherine</strong>: We know his original target, Clayton Nash. Small-time hood who gave up a lot of his big-time cronies. He's got a list of enemies.</p>
+<p><strong>Grissom</strong>: How many guys got convicted off Nash's testimony?</p>
+<p><strong>Catherine</strong>: Seven. Three of them are still in prison. One is dead, one is out on parole, and two served their time and are now out.</p>
+<p><strong>Warrick</strong>: So we have three potential killers and nothing to tie them to either crime scene.</p>
+<p><strong>Sara</strong>: Not quite. I ruled out most of the prints from Ally Sullivan's car -- the vic, the father, her boyfriend -- but there were a few unidentified partials.</p>
+<p>(Sara hands the print cards to Grissom, who looks through it.) </p>
+<p><strong>Catherine</strong>: It's not enough detail to run through AFIS?</p>
+<p><strong>Grissom</strong>: Well, if this guy is a major case felon, then his prints are definitely in the system.</p>
+<p><strong>Warrick</strong>: I dusted every inch of that apartment window. He never took off his gloves.</p>
+<p>(Grissom again looks at the print cards.)</p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE] </p>
+<p>(Grissom looks at a print card for:<br />
+LVPD 06 02 01 - 1158B GG<br />
+1995 FIREBIRD DRIVER SIDE WINDOW</p>
+<p>(Quick flash of: The killer and Ally Sullivan struggle. The killer puts his hand on the car window to brace himself. The part of the base of his palm not covered by the glove hits the window. End of flash.) </p>
+<p>(Grissom looks through the print cards of the suspects:<br />
+LYLE, PETER<br />
+#6587-7438-73698F</p>
+<p>(He visually compares the prints.) </p>
+<p>(He looks at the second suspect's print card:<br />
+COOPER, KARL<br />
+#4569-8741-56998A</p>
+<p>(He finds a visual match.) </p>
+<p>CUT TO:<br />
+[INT. COOPER RESIDENCE - GARAGE]</p>
+<p>(Janice finds the card machine and a fake driver's license and several credit cards for a JORDAN DEAN. She finds more fake cards on Karl's worktable in the garage.)</p>
+<p>(Karl opens the garage door.) </p>
+<p><strong>Janice Cooper</strong>: You going somewhere?</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. COOPER RESIDENCE - GARAGE]</p>
+<p>(Janice and Karl talk.) </p>
+<p><strong>Janice Cooper</strong>: (upset) The fake ID cards?! The staying out all night, and then this mysterious ATV ride in the desert.</p>
+<p><strong>Karl Cooper</strong>: You gave me the ATV for my birthday. I ride it because I love you.</p>
+<p><strong>Janice Cooper</strong>: Yeah, at three o'clock in the morning?</p>
+<p><strong>Karl Cooper</strong>: Yeah.</p>
+<p><strong>Janice Cooper</strong>: Uh-uh. You're planning a job.</p>
+<p><strong>Karl Cooper</strong>: I'm not planning a job! You know I don't do that anymore.</p>
+<p><strong>Janice Cooper</strong>: You're a liar, Karl. You're lying!</p>
+<p><strong>Karl Cooper</strong>: Honey, listen -- honey! Janice, look ... I had to take care of something.</p>
+<p><strong>Janice Cooper</strong>: And what's that supposed to mean?</p>
+<p><strong>Karl Cooper</strong>: I killed Clayton Nash.</p>
+<p><strong>Janice Cooper</strong>: You even think about Maddy? Your daughter? You promised ... on her life, you promised! (She hits him.) No more robberies!</p>
+<p><strong>Karl Cooper</strong>: I don't do robberies anymore.</p>
+<p><strong>Janice Cooper</strong>: Now you just kill people.</p>
+<p><strong>Karl Cooper</strong>: He was a rat.</p>
+<p><strong>Janice Cooper</strong>: Oh, Karl. All the waiting. All the maneuvering, the lying. I did it. And I did it for us, for this family. I kept money in our wallets. I invested it, so all you had to do was watch football on TV.</p>
+<p><strong>Karl Cooper</strong>: And Nash was the reason. The reason that you had to hide the money and live on the run. I never got caught! And I never would've got caught, except for that ... that lousy junkie who gave me up. I only had one rule: You never talk! And he talked.</p>
+<p><strong>Janice Cooper</strong>: And you jeopardized everything we have for some scumbag that nobody gives a damn about.</p>
+<p><strong>Karl Cooper</strong>: Janice, he called me four weeks ago. He said, &quot;I'm in town for a while. Maybe we could we get together.&quot; He had something to tell me. Tell me what? &quot;I'm sorry? I'm sorry I stole seven years of your life.&quot; I-I couldn't let it go.</p>
+<p><strong>Janice Cooper</strong>: Oh, God, he had it coming. And you were careful, right? So what's with the fake IDs? Karl? You don't make mistakes.</p>
+<p><strong>Karl Cooper</strong>: I didn't. Somebody else did. A girl named Ally Sullivan.</p>
+<p><strong>Janice Cooper</strong>: The ... the girl on the tv? Oh, Karl! Oh, God, she was just a kid!</p>
+<p><strong>Karl Cooper</strong>: She crashed into my car right after I did Nash. She was gonna call the cops. I had to do it. I had to.</p>
+<p><strong>Janice Cooper</strong>: I want you to go up the stairs. I want you to kiss Maddy. I want you to tell her that you love her ... and I want you to get out of this house.</p>
+<p>(Janice turns and leaves.) </p>
+<p>CUT TO:<br />
+[INT. CSI - GRISSOM'S OFFICE] </p>
+<p>(Catherine is talking with Grissom.) </p>
+<p><strong>Catherine</strong>: Karl Cooper. At age 19, he was an Army Ranger. By 42, he was one of the most successful bank robbers in U.S. History. He pulled off dozens of heists, going back two decades, all without killing a single person, and he was known to his bank-robbing buddies as &quot;Red.&quot;</p>
+<p><strong>Grissom</strong>: He doesn't have red hair.</p>
+<p><strong>Catherine</strong>: Well, he got the nickname because he was always in debt ... &quot;in the red.&quot;</p>
+<p><strong>Grissom</strong>: Do we have 'In The Red's address?</p>
+<p><strong>Catherine</strong>: Last known was the U.S. Federal Penitentiary in Marion, Illinois. When Nash gave him up, Cooper plead guilty. He served the full seven years' term. He got out, dropped off the face of the earth.</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB] </p>
+<p>(Nick is on the computer working on the tire print from the desert. He runs it through the database and finds a match to a:<br />
+<strong>Brand</strong>: DUNLOP<br />
+<strong>Tyle</strong>: KT577A<br />
+PATTERN: BLOCK<br />
+DROOVE: 3<br />
+ATV MODELS CONSISTENT WITH DUNLOP KT577A<br />
+VEHICLE MODEL 1: KAWASAKI, ATV 04552F<br />
+VEHICLE MODEL 2: HONDA, ATV 0157FS<br />
+VEHICLE MODEL 3: YAMAHA, ATV 01254SE<br />
+VEHICLE MODEL 4: TOYOTA, ATV 01452SFS )</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY]</p>
+<p>(Nick reports his findings to Catherine and Grissom.) </p>
+<p><strong>Nick</strong>: The tire model is a Dunlop KT-345. I checked with the local dealers. The only ATV that uses that particular type of tire has only been on the market for about a year. It's called the Yamaha Raptor. So I got the list of the names of everybody in Las Vegas who's recently bought one. The only Cooper on the list is female -- Janice.</p>
+<p><strong>Catherine</strong>: Well, Karl Cooper had a girlfriend back in Ohio, a Janice Hanford. I mean, she could be Cooper now.</p>
+<p><strong>Grissom</strong>: Do we have her address?</p>
+<p><strong>Nick</strong>: Yeah. It's, uh, second page.</p>
+<p>(Nick hands the list to Grissom, who looks at it.) </p>
+<p><strong>Grissom</strong>: I think you broke the case, Nick.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS COMMUNITY ( STOCK) - DAY]</p>
+<p>[EXT. COMMUNITY - STREET -- DAY]</p>
+<p>(Sirens blaring, officer cars speed down the street toward the Cooper's house.) </p>
+<p>(The cars stop in front of the house, tires screeching.) </p>
+<p>[INT./EXT. COOPER RESIDENCE -- DAY] </p>
+<p>(Inside the house, Janice Cooper sits at the small wicker table with her daughter Maddy. Through the closed sheer curtains, she sees the cars outside.) </p>
+<p><strong>Janice Cooper</strong>: Maddy ... sweetie, come with me, okay?</p>
+<p>(She picks Maddy up.) </p>
+<p>(Officers rush toward the door. Someone pounds on the door.) </p>
+<p><strong>Officer</strong>: Las Vegas police. Open up!</p>
+<p>(Janice Cooper opens the door. The officers with their guns in hand enter the residence. Brass enters last.) </p>
+<p><strong>Brass</strong>: Janice Cooper?</p>
+<p><strong>Janice Cooper</strong>: Yeah.</p>
+<p><strong>Brass</strong>: We're looking for your husband.</p>
+<p><strong>Janice Cooper</strong>: He's not here.</p>
+<p>(He looks around.) </p>
+<p><strong>Brass</strong>: Don't take it personally, but I'm not going to take your word for that.</p>
+<p><strong>Janice Cooper</strong>: You guys never do. Look around all you like.</p>
+<p><strong>Brass</strong>: Please step outside with the child. It's for your own safety.</p>
+<p><strong>Janice Cooper</strong>: Like I said, he's not here.</p>
+<p>(Janice steps outside.) </p>
+<p>INTERCUT WITH: </p>
+<p>[EXT. BUS - SIDEWALK - DAY]</p>
+<p>(Karl Cooper reaches the bus station. He's carrying a heavy overnight bag. He puts the bag down as he puts a cigarette in his mouth.) </p>
+<p>(He lights his cigarette.) </p>
+<p>[INT. COOPER RESIDENCE - GARAGE - DAY]</p>
+<p>(Nick enters the garage and sees the ATV. He snaps a photo of the vehicle.) </p>
+<p>(He walks up to Karl's workstation and snaps a photo of the items on the counter, including a homemade silencer.) </p>
+<p>(He takes out a glove and uses it to pick up the silencer. He looks at it.) </p>
+<p>(Inside the house, Maddy looks at Brass.) </p>
+<p><strong>Maddy Cooper</strong>: Mommy doesn't like you.</p>
+<p><strong>Brass</strong>: Really? Well, that's too bad. She hardly even knows me.</p>
+<p><strong>Janice Cooper</strong>: Maddy, you be nice, baby, okay?</p>
+<p><strong>Brass</strong>: Definitely. Let's all be nice.</p>
+<p><strong>Nick</strong>: Jim ... ATV has the right tires and there are plenty of machine tools and parts back there to build a silencer.</p>
+<p><strong>Brass</strong>: (to Janice) Where's Karl?</p>
+<p><strong>Janice Cooper</strong>: Go to hell.</p>
+<p><strong>Brass</strong>: All right. Here's the way it is. You're going to jail, she's going to Child Services. End of story.</p>
+<p><strong>Janice Cooper</strong>: I've had cops in my face for half my life. You don't scare me.</p>
+<p>(The phone rings.)</p>
+<p><strong>Brass</strong>: Well, maybe that's your lawyer now.</p>
+<p>(Janice answers it.) </p>
+<p><strong>Janice Cooper</strong>: (to phone) Hello?</p>
+<p>INTERCUT WITH: </p>
+<p>[EXT. BUS STATION - SIDEWALK - DAY]</p>
+<p>(Karl is on the phone.) </p>
+<p><strong>Karl Cooper</strong>: (to phone) Just answer yes or no -- are the cops there?</p>
+<p><strong>Janice Cooper</strong>: (to phone) Yes.</p>
+<p><strong>Karl Cooper</strong>: (to phone) Are they threatening to take Maddy?</p>
+<p><strong>Janice Cooper</strong>: (to phone) Yes.</p>
+<p><strong>Karl Cooper</strong>: (to phone) That's what happens when you marry a crook.</p>
+<p><strong>Janice Cooper</strong>: (to phone) (whispers) I think they're tracing this call.</p>
+<p><strong>Brass</strong>: I'll take that phone.</p>
+<p>(Brass takes the phone from Janice.) </p>
+<p>(Karl hangs up. He looks in front of him and sees an officer near the bus.) </p>
+<p>(He takes a drag from his cigarette, exhales and drops it on the sidewalk. He smashes the butt with his shoe and leaves it there.) </p>
+<p>(Karl walks up to the officer, whose back it to him.)<br />
+<strong>Karl Cooper</strong>: Hey, officer.</p>
+<p>(The officer turns around as Karl puts his bag down.) </p>
+<p><strong>Officer</strong>: Yup?</p>
+<p><strong>Karl Cooper</strong>: I'm going to make your day.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - BULLPEN - DAY]</p>
+<p>(The officers in the bullpen congratulate the officer at the bus station.)</p>
+<p>(In the hallway, an officer escorts Karl Cooper into an interview room where Grissom is. Grissom puts on a pair of gloves.) </p>
+<p><strong>Grissom</strong>: Uncuff him, will you, Mitch?</p>
+<p>(Officer Mitchell removes the handcuffs.) </p>
+<p><strong>Officer Mitchell</strong>: Karl. Don't do anything stupid.</p>
+<p><strong>Grissom</strong>: Palms out, please.</p>
+<p>(Karl holds his hands out in front of him, palms up.) </p>
+<p><strong>Karl Cooper</strong>: I know the drill.</p>
+<p>(Grissom rolls some ink on his right hand. Karl puts his hand and palm print down on the card in front of him.) </p>
+<p>(Grissom inks Karl's left hand. Karl looks at Grissom.) </p>
+<p><strong>Karl Cooper</strong>: So, tell me ... where'd I go wrong?</p>
+<p>(Grissom looks at him.) </p>
+<p><strong>Grissom</strong>: You killed two people.</p>
+<p>(Karl puts his left palm print down on the card.) </p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
- 
- 
- 
-
-
-
-
-
- 
- 
-Clayton Nash: Red. Hey.  You look good, man. It's been a while, hasn't it? Haven't seen you forever. Of course, you know that better than anybody.
- 
-Clayton Nash: I'm ... surprised to see you here. Actually, you know what, I'm not that surprised. Listen, I'm glad you dropped by, 'cause there's something I've been meaning to talk to you about. 
- 
-Clayton Nash: You know, I-I just wanted to say ...
- 
- 
-
-
-
- 
-
-
-
- 
-Ally Sullivan: Oh, my God! Oh, my God!
- 
-Ally Sullivan: Oh, my God. Oh, my God.
- 
-Ally Sullivan: Are you ... are you okay?
-Karl Cooper: Huh?  Yeah, yeah, I'm ... I'm okay. I'm okay.
- 
-Ally Sullivan: I-I am so sorry. I was on the phone, and I was going too fast, and I just ... 
- 
-Ally Sullivan: Oh, God, um ... I'm going to call 911, and I'm going get you an ambulance.
-Karl Cooper: I'm fine, honest, I am.
-Ally Sullivan: Okay.
-Karl Cooper: Really, it's nothing.
-Ally Sullivan: At least, can I just ... I'm going to call the police and make a police report.
-Karl Cooper: I'd really rather you not do that. I'll tell you why. I don't, uh, I don't have any insurance.
-Ally Sullivan: No, no, no. That's okay. I do. Look, it was my fault; I know that. And that is exactly what I will tell them. My dad just said, if I ever got into an accident that I had to make a police report.
-Karl Cooper: Can I tell you something, sweetheart? You're drunk right now, okay? And you hit me. Now, that's a DUI, and if you call the police, they're going to take your license away, and they're going to throw you in jail. Now, what I'd like you to do is get in your car, drive yourself home and forget that this ever happened. Can you do that?
- 
-Karl Cooper: I'm fine. Go on. I'm fine, honest, I promise. You go.
-Ally Sullivan: Okay.
-
-
- 
-
-
- 
- 
-Brass: Her name is Ally Sullivan. She's the registered owner. Patrol unit investigating the wreck found the body. So far, we have nothing on the other car.
- 
-Sara: Where's the nearest traffic camera?
-Brass: Four blocks north. We've been pulling bodies out of this neighborhood twice a month, it seems like.
-Grissom: I think that's actually an improvement.
-Brass: Yeah. Well, it's a cold night. I'm going to get you some coffee and donuts.
- 
- 
-Grissom: Nine-nine-nine ... five-five-two.
-Sara: Most people would have called 911.
- 
-David Phillips: Well, there's a seat-belt contusion on her shoulder.
-Sara: So ... She survives the crash. She gets out of the car, she dies on the street?
-Grissom: Internal injuries maybe.
-Sara: Maybe.
-Grissom: How'd the car end up in this position? It looks like she caused the wreck.
- 
- 
-Sara:  Usually, the guy who hits is the guy who runs.
- 
-Grissom:  Well, either way, they left the scene, so it's still a hit-and-run. And this girl's dead. So, we may have a murderer.
- 
- 
-
- 
-Janice Cooper: It's late. I was worried.
-Karl Cooper: Sorry.
- 
-Janice Cooper: Love you.
- 
-Karl Cooper: I love you, too.
-SMASH CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Jack Sullivan: Ally was out late all the time. I never worried about her.
-Brass: She liked nightclubs?
- 
-
-
- 
-Jack Sullivan:  She liked the club business. She wasn't a party girl. 
-
-
- 
-Jack Sullivan:  She wanted to be a VIP hostess.
- 
- 
-Jack Sullivan: Way you do that in this town is you ... get your face out there, ... 
- 
-Jack Sullivan:  ... meet the right people, ... 
- 
-Jack Sullivan:  ... be seen. 
- 
- 
-Jack Sullivan:  I taught her to be responsible. If there was an accident, call the police. Help anyone who needed it.
- 
- 
-Jack Sullivan: I'd say to her all the time, no matter how pretty you are today, someday, all that will be gone. She knew that. 
- 
-Jack Sullivan:  She knew she had to treat people with respect. 
- 
-Jack Sullivan:  She always did the right thing; that's why I don't get it.
- 
- 
-Jack Sullivan: Whoever was in the other car ... I don't care why they left. All they had to do was call an ambulance instead of leaving her there to die.
-
-
- 
-Robbins: C.O.D. was hyper-extension of the neck with a rotational snap, resulting in a ruptured vertebral artery, mid-cervical.
-Grissom:  Mid?
-Robbins: Yeah.
-Grissom: Most MVA's break down low or up high, don't they?
-Robbins: That's why I don't think the accident did it. The injury was more consistent with a stranglehold.
- 
- 
-Robbins:  The head was rapidly twisted relative to the spinal column.
-
- 
-Robbins: She would have been dead within a minute. Whoever killed this poor kid knew what they were doing.
-
- 
- 
-(A portion of the article reads:
-... survived by her father Jack ...
-... anyone with information ...
-... can call LVPD at 800 ...
-... car dealers have ... 
- 
-Maddy Cooper: I don't like gruyere, daddy.
-Karl Cooper: No gruyere in it, sweetie; I promise. All right, egg me.
- 
-Maddy Cooper: Hello, Mommy. I'm cooking.
-Janice Cooper: I see that. Good morning, honey.
- 
-Karl Cooper: Morning.
-Janice Cooper: Yeah, well, the jury's still out on that as far you're concerned. You must have had quite a night.
-Karl Cooper: Yeah. I guess I lost track of time.
- 
-Janice Cooper: That Joey's a dog. If you don't watch out, he's going to get you into trouble.
-Karl Cooper: I kind of doubt that. I wouldn't worry, though. It won't happen again. These days I'm all about you, baby.
-Maddy Cooper: I'm the baby.
-Karl Cooper: I know. I know, but daddies can have more than one baby.
-Janice Cooper: Yeah, pretty talk, talk, talk.
- 
-Karl Cooper: Here, wait, wait. Try this, try this. Maddy made them.
- 
-Janice Cooper: Mm, it's delicious. Very good.
- 
-Janice Cooper: I'm glad you shaved. I barely recognized you under all that scruff.  
-Karl Cooper: Hadn't quite finished that.
- 
-
-
- 
- 
-Brass: Hello, rapist.
-Trent Hall: Man, I'm not a rapist. I was a date rapist, which is not even the same thing. And besides, back then, roofies were in.
-Brass: So you miss the action of the good old days, huh?
-Trent Hall: It's not like that. It's not like that at all.
- 
-Brass: What's it like?
-Trent Hall: What -- ?
- 
-Trent Hall: Can I get a soda, too? I'm, like, parched.
-Brass: You want to tell me what your fingerprints are doing on a cup in a dead girl's car?
-Trent Hall: Uh, yeah, yeah. I was out at Jet ... I was kind of faded, I guess. Um, I bumped into Ally, and she offered me a ride home. I needed it.
-Brass: So that's what you were doing on Harmon Road?
-Trent Hall: Yeah, Ally don't care where I live; she's a cool girl.
-Brass: You were close?
-Trent Hall: Oh, yeah.
-Brass: Were you banging her?
-Trent Hall: Nah.
-Brass: So, what, are you like, pen pals? Girlfriends? What?
-Trent Hall: No, look, we really didn't talk that much. But we would text all the time. That's, like, when you use your cell phone to send, like, you know, words.
- 
-Brass: Yeah. I know what text messaging is.
-Trent Hall: Fine.
- 
-Trent Hall: Sorry. Look, I'm telling you the truth, you really couldn't get Ally on the phone, it's all texting with her. Well, what do you want my DNA? You want me to pee into a cup? You want my underwear? 
-(Grissom listens, then flips open the file folder and looks at the notes. It reads:
-CELL PHONE, OPEN WITH
-NUMBER ENTERED 999552
-Trent Hall: Whatever you want, you got it, cause I didn't kill Ally.
- 
- 
-Brass:  I'll tell you what I want. I want you to write down exactly where you were last night and when. Think you can handle that?
-Trent Hall: Can I get a soda?
-Brass: Shut up and write.
-(Grissom flips open the cell phone, selects TEXT MESSAGING. He types in
-&quot;999552&quot; and comes out with: yka.)
-
- 
- 
-Hodges: Paint scrapings from your vic's bumper are consistent with a '91 to '96 blue Ford.
-Sara: So that narrows it down to a few thousand cars in the greater Las Vegas area.
-Hodges: Yeah, but the car you're looking for is also a piece of crap.
-Sara: Make and model I get, but unless you have a new test that quantifies
-&quot;crappiness&quot; ...
-Hodges: Actually, take a look.
- 
-Sara: Firebird's on the left, blue Ford on the right. What's the gray-blue in the middle?
-Hodges: A mixture of rustoleum and house paint. The killer's car had exposed primer. Swanky.
- 
-Grissom: Might have found a few letters from the license plate. &quot;Y-K-A.&quot;
-Sara: You found a witness?
-Grissom: No. Just behavior. But according to Ally Sullivan's father, she was the type of girl that might have noticed the license plate of the car that hit her. And according to her good friend, she preferred text messaging to leaving voice messages. She was dying, right? Disoriented? I don't know, but maybe she thought she was texting when in fact she was just dialing her phone.
- 
- 
-Sara: That's a bit of a long shot.
-Grissom: Yeah. It's still a shot.
-
-
- 
- 
-Paula Francis:  Good evening, I'm Paula Francis. A weekend of sordid crimes has Las Vegas police working double-time. At the same time, the police are doing all they can to protect residents from the ... 
- 
-Joey: Come on, admit it. Come on. That's a little smile. Come on ... Huh? You know you're crazy about me. I want you to come back. As soon as you're done, come back.
- 
-Karl Cooper: Joey? Joey? Hey.
- 
-Karl Cooper: You don't hit on a cocktail waitress at the bar. Go sit at a table, then she's got a reason to come over and serve you, and it's less obvious.
-Joey: Hold on. Wait, wait. The house-husband's giving me tips on women?
-Karl Cooper: I married a cocktail waitress.
-Joey:  Janice -- cocktail?
- 
-Karl Cooper: This crappy little joint in Cleveland.
-Joey: Really?
-Karl Cooper: Mm-hmm.
-Joey: I'm not looking to marry this broad. Although, she might think so. At least for tonight. 
- 
-Karl Cooper: Joe, you're, like, 40-something, right? Shouldn't you be toning it down a little?
-Joey: Tone it down? Karl, I'm looking to take it up a notch. I got, like, ten more years of fun left and my wingman's got a curfew. No? Why'd you bail out so early last night?
- 
-Karl Cooper: I missed my family.
-Joey: You're so sweet. You should work for Hallmark.
-Karl Cooper: I'll send them my resume.
-
- 
- 
-Manager: It wasn't the smell that got my attention, you know? Usually when I find a body, it's, uh ... it's very, uhm ... raunchy. 
-Sofia Curtis: It's called &quot;decomp,&quot; in case you're interested.
- 
-Manager: I'll remember that for next time.
-Sofia Curtis: If it wasn't the smell, why did you check the room?
-Manager: Rent is due every week.
-Sofia Curtis: What's his name?
-Manager: We ask for cash, not names. 
- 
-Manager:  We take who the casinos won't. Someone's got to do it.
-Sofia Curtis: You touch or move anything?
-Manager: First thing I did was call you guys. Got you on speed dial.
-
- 
- 
-Paula Francis :  And finally, in local crime, an update on yesterday's tragic death of Vegas party girl Ally Sullivan. Police are still examining all the evidence from the gruesome crime scene. 
- 
-Paula Francis :  Detectives tell eyewitness news they have little to work with. And something that stumps them: What was the motive for the killer in this violent end to a young and beautiful life?
- 
-Reporter:  Mr. Sullivan, when was the last time you saw her alive?
-Jack Sullivan:  What are you people thinking? Think I'm going to say something magical, to bring Ally back to me? I'm not talking to you people.
- 
-Reporter:  Mr. Sullivan, what was your daughter doing in that section of town? You think it was drug-related?
- 
-Paula Francis :  Police are hoping that passersby or other eyewitnesses will come forward to help the investigation of this terrible murder.
- 
-Paula Francis :  If you have information that might help police, you are urged to call LVPD at the toll-free number on the screen.
- 
-
- 
-(Sofia puts on a pair of gloves and picks up the wallet on the bedside table. The NEVADA DRIVER LICENSE READS:
-... 800592214 EXPIRES: 02-17-2007
-NASH, CLAYTON
-217 EAGLE DRIVE ... 
- 
-Sofia Curtis:  Control, this is Detective Curtis. I'm at 1773
-Twain, Riviera Suites. I got a 4-19. I need CSI.
-
-
-
-
- 
- 
-Catherine: You know, I think I've been called out to this place before.
- 
-Warrick: I think I've processed this very room before.
- 
-David Phillips: Liver temp is close to ambient.
- 
-David Phillips: But lividity is fixed.  And rigidity starting to pass.
-Catherine: So he's been dead for at least twenty hours.
- 
-Warrick: &quot;.380 auto.&quot; That's federal ammo.
- 
-Catherine: .380s make a lot of noise. It's odd that no one heard anything, even in a dump like this. &quot;Walther PPK.&quot; Two shots in the body, one to the head.
-Warrick: Sounds like a professional hit to me.
- 
-Catherine: Looks like the killer used Armorall. The gun is clean.
-Warrick: Looks like the victim was doing a little cleaning of his own. He was a 12 stepper. Trying to make amends. He was on step number nine.
-Catherine: Apparently not enough.
-Warrick: Well, it's pretty obvious he came in through the window. 
- 
-Warrick: Whew. One thing's for sure, this killer's lugging around some pretty big dogs.
-
-
- 
- 
- 
-
- 
- 
-
- 
- 
-Hodges: Oh. Hey, Grissom, I just ID'd those fibers you found on Ally Sullivan's necklace. 
- 
-Hodges: They were not from her jacket or her dress. They're made of lambskin and rabbit fur. You know, just between you and me, I used to carry a rabbit's foot. I mean, I'm not superstitious. It's just, I figure why take the chance?
-Grissom: You know, as a kid, my grandfather used to have a rabbit farm.
- 
-Grissom: Is this our Ford Taurus?
-Sara: Once upon a time.
-Hodges: Told you it was a piece of crap. 
- 
-Sara: The vehicle was abandoned near a junkyard off Boulder Highway. By the time they checked the plates, it was already in the crusher. 
- 
-Sara: Plates and paint are a match to your BOLO.
-Grissom: Did Brass run those tags?
-Sara: Yeah, it was last registered to a Betty Grinly in Henderson. She passed away last month.
- 
-Sara: Gasoline. They torched it.
- 
-Grissom: So he burns the evidence near a junkyard so that they'll find it and dispose of it. Clever.
-Sara: Looks like we're dealing with a professional.
-Grissom: Professional what, though? Ally Sullivan was killed over a fender bender.
-Sara: You're right. He probably just loved his car and has a really bad temper.
-
-Grissom: And he likes pineapples.
-
-
- 
-Salesman: Ah, yeah, I remember that Taurus. Cheap and reliable. That combo always sells.
-Sara: Could you give me a description of the person who bought it?
-Salesman: Honey, I'm not even sure I can tell what you look like. All I remember is he came off the bus ...
- 
-Salesman:  ... he walked right up with a big wad of cash.
- 
-Salesman: I put him in that Taurus, and fifteen minutes later, he drove off the lot.
-Sara: Did you get a transaction record?
-LATER: 
-
- 
-Salesman: Let's see. Taurus, Taurus, Taurus, Taurus ... ah, here you go.
- 
-Sara: This is for a '99 Jeep Cherokee .
- 
-Salesman: It sure is.
- 
-Salesman: Um, hold it. It's over here.
- 
-Salesman: How's that one look?
-Sara:  Not so great.
-
- 
- 
-
-
- 
-
-
- 
-Catherine: The coroner's bullets matched the Walther, but Bobby found an additional striated mark on the o-jive, so he went back to the gun. There was threading inside the muzzle.
- 
-Warrick: Killer used a silencer.
- 
- 
-Warrick: Slightest imperfection in the barrel of a silencer could explain these scratches on the bullet.
- 
-Catherine:  Oh. Also explains why no one heard anything. But leave the gun, take the silencer?
-Warrick: Well, you can't legally buy a silencer, and those things are hard to make.
-Catherine: If the silencer was homemade, we might have been able to match the killer's tool marks. Assuming we ever find this guy.
-Warrick: I don't know who would go through this much trouble to kill a nobody like Nash.
-
- 
-
-Catherine:  Well, he was a somebody to the killer.
- 
-(He looks through the listing and finds:
-Rocketboom.com
-... the body of CLAYTON NASH was
-... the site of Ally Sullivan's murder ... www.rocketboom.com - Cached
-(He clicks on the site and finds the page:
-ROCKETBOOM
-Daily with Amanda Congdon
-&quot;... the body of Clayton Nash was found just two blocks away from the site of Ally Sullivan's murder ... &quot;
- 
-Amanda Congdon : Hey, people, Amanda Congdon from rocketboom.com with this week's creep report. If you were planning on checking out that new club, Bubbles, down near Harmon and Twain, you might want to think twice, because the corpses are really piling up down there. The body of Clayton Nash was found just two blocks away from the site of Ally Sullivan's murder, and the killer's still at large. Is this just another crime spree, or the work of one deranged maniac? Don't ask the cops. They don't have a clue. Remember, Amanda warned you.
- 
-Janice: Karl?
- 
-Karl Cooper: Mm.
- 
-Janice Cooper: What are you doing?
-Karl Cooper: Oh.
-Janice Cooper: Not even ready for dinner.
-Karl Cooper: I was checking our stocks.
-Janice Cooper: Well, you're not wearing that to the Eiffel Tower.
-Karl Cooper: I'll throw some clothes on.
-Janice Cooper: Hurry up. My mom's waiting for Maddy. I don't want to lose that table.
-Karl Cooper: Two seconds.
- 
-Janice Cooper: Okay. Well, now, who's that beautiful girl, huh?
-(She chuckles as the login appears. She types in a password. The computer beeps and shows, &quot;INCORRECT PASSWORD&quot;. She tries again. Still, she gets
-&quot;INCORRECT PASSWORD&quot;.)
-
- 
- 
-
-
-
- 
- 
-(She looks at Invoice #459465, for Customer Order No. 08769542, dated 1-27-06, made out at 4:46 pm for
-1 1995 Ford Taurus
-VIN # 0155554UT598741.
-AMOUNT: $1,500.00
- 
-
- 
- 
-Brass: So, you drive route 107 southbound during the week, is that right? 
-Bus Driver: 6:00 A.M. to 6:00 P.M. Yeah, I'm a morning person.
-Brass: Now, is there any chance, any chance at all, that you remember this guy? I know it's not the best picture.
- 
-Bus Driver: Oh, yeah. I let him out on stop &quot;E&quot; around 4:30 day before yesterday.
-Brass: Oh, you know, you get hundreds of people on and off your bus every day. We got to be sure -- are you sure you remember him?
-Bus Driver: I look at every face that steps on my ride. I saw the movie
-'Speed' -- I'm not gonna be hijacked.
-Brass: Well, you know, actually 'Speed', it ... it wasn't hijacked, it was wired to explode.
-Bus Driver: Whatever.
-Brass: Well, all right. What exactly do you remember about him?
-Bus Driver: He paid in cash, told me to keep the change -- everybody else uses a bus pass. He was a real gentleman -- tucked-in shirt, new shoes ... nice smell. Kind of stands out on my route.
-Brass: So I guess you remember where you picked him up, then?
-Bus Driver: He came walking out of the desert like Moses himself.
-
- 
- 
-Greg: So the bus driver said the guy got on here? You sure this is a working stop?
-Sara: You know, the CAT bus stops here 59 times a day.
-Greg: For what?
- 
-Sara: Construction workers, hikers, migrants. The name on the driver's license was fake, but the picture's got to be real. I'm gonna go ... wave it around the neighborhood.
- 
-Nick: Okay.
-
-Greg: Assuming our guy's not from around here, how'd he get here?
-Nick:  The same way they did.
- 
-Greg: Every time I come to the desert, I see porno mags. Who brings spankables out here?
- 
-Nick: It's probably just trash blown in from off the street.
-Greg: Nobody throws away p0rn. They're like heirlooms. Passed on down the family tree.
- 
- 
-Nick: Hey, Greg. Come here and check this out. 
- 
-Nick: A single set of ATV tracks goes off the trail back there into here -- killer could've dumped the ATV and then got on the bus.
- 
-Greg: Whoever was here had some big shoes.
- 
-Greg: Not necessarily big feet. Multiple socks.
-Nick: Another precaution to cover your tracks.
- 
-Greg: Assuming it's our guy.
- 
-Nick: I'd say it's our guy. 
- 
-Nick: And I think he just gave us the finger.
-
-
-
-;
-
-
-
- 
- 
-Hodges: I have an update for you. The burned gloves that Nick submitted are lambskin lined with rabbit's fur. They're consistent with the fibers found in Ally Sullivan's necklace.
-Grissom: Good.
- 
-Grissom: Thanks.
-Hodges: Mm-hmm.
-
-
- 
- 
-Catherine: I'm guessing that Clayton Nash had a record.
-Sofia Curtis: 1985, aiding and abetting, extortion in '87, armed robbery in
-'92, assault in '95, uh, loan sharking the same year.
-Catherine: I get the drift.
-Sofia Curtis: But, uh, take a look at this -- it's FBI surveillance.
- 
-Catherine: What is this, summer camp?
-Sofia Curtis: Well, not the kind you want to send your kid to -- they're bank robbers.
-Catherine: All of them?
-Sofia Curtis: Apparently, Nash and his buddies would get together every year, talk shop, hire hookers, play flag football. Nash did mostly grunt work -- driver, lookout. Never handled the cash. He got busted in an armored car heist in Ohio ten years ago. Testified against practically everyone he'd ever worked with.
-Catherine: Well, that certainly explains why someone would want to kill him.
-Sofia Curtis: Most of those people in the picture are either dead or in prison.
-Catherine: Who isn't?
-
-
- 
-Joey:  What is that? Anybody should be drinking water, it's me, let me tell ya. Really blasted my quads. Let's do shooters. Wanna?
-Karl Cooper: Let's pretend ... that you're wearing a suit, and let's pretend we're in your office, and let's pretend I just cut you a big check for your services because you are still my damn lawyer.
-Joey:  All right, man, all right, I'm listening.
-Karl Cooper: There's some stuff I need. No particular order. 
- 
-Joey: Credit card blanks? DMV license blanks? What is this?
-Karl Cooper: No questions.
-Joey: Laminating machine, blank bar code labels. What are you doing? What makes you think I can even get this stuff?
-Karl Cooper: I know the guys you represent. I'm one of 'em. I need the stuff fast. Don't let me down.
-
- 
- 
- 
-
- 
- 
-Grissom: There was no reason to connect the two murders until ballistics matched the silencer we found in the desert with the gun you found at the Riviera Suites.
-Catherine: Two murders, same killer.
-Sara: Here's how we think things went down. The killer drove his ATV into the desert, concealed it in the brush, takes a bus to a used car lot and buys a blue Taurus.
-Warrick: Then he drives to the apartment, puts a cap in Clayton Nash, gets into his car and drives away, free and clear.
-Catherine: It's a good plan, well executed.
-Grissom: Yeah, right up until the point that Ally Sullivan smashed into his car.
-Sara: Collateral damage -- he killed her so she couldn't identify him.
-Warrick: Okay, that all sounds great. How do we find the guy?
-Catherine: We know his original target, Clayton Nash. Small-time hood who gave up a lot of his big-time cronies. He's got a list of enemies.
-Grissom: How many guys got convicted off Nash's testimony?
-Catherine: Seven. Three of them are still in prison. One is dead, one is out on parole, and two served their time and are now out.
-Warrick: So we have three potential killers and nothing to tie them to either crime scene.
-Sara: Not quite. I ruled out most of the prints from Ally Sullivan's car -- the vic, the father, her boyfriend -- but there were a few unidentified partials.
- 
-Catherine: It's not enough detail to run through AFIS?
-Grissom: Well, if this guy is a major case felon, then his prints are definitely in the system.
-Warrick: I dusted every inch of that apartment window. He never took off his gloves.
-
-
- 
-(Grissom looks at a print card for:
-LVPD 06 02 01 - 1158B GG
-1995 FIREBIRD DRIVER SIDE WINDOW
- 
-(Grissom looks through the print cards of the suspects:
-LYLE, PETER
-#6587-7438-73698F
- 
-(He looks at the second suspect's print card:
-COOPER, KARL
-#4569-8741-56998A
- 
-
-
-
- 
-Janice Cooper: You going somewhere?
-
-
-
-
-
- 
-Janice Cooper:  The fake ID cards?! The staying out all night, and then this mysterious ATV ride in the desert.
-Karl Cooper: You gave me the ATV for my birthday. I ride it because I love you.
-Janice Cooper: Yeah, at three o'clock in the morning?
-Karl Cooper: Yeah.
-Janice Cooper: Uh-uh. You're planning a job.
-Karl Cooper: I'm not planning a job! You know I don't do that anymore.
-Janice Cooper: You're a liar, Karl. You're lying!
-Karl Cooper: Honey, listen -- honey! Janice, look ... I had to take care of something.
-Janice Cooper: And what's that supposed to mean?
-Karl Cooper: I killed Clayton Nash.
-Janice Cooper: You even think about Maddy? Your daughter? You promised ... on her life, you promised!  No more robberies!
-Karl Cooper: I don't do robberies anymore.
-Janice Cooper: Now you just kill people.
-Karl Cooper: He was a rat.
-Janice Cooper: Oh, Karl. All the waiting. All the maneuvering, the lying. I did it. And I did it for us, for this family. I kept money in our wallets. I invested it, so all you had to do was watch football on TV.
-Karl Cooper: And Nash was the reason. The reason that you had to hide the money and live on the run. I never got caught! And I never would've got caught, except for that ... that lousy junkie who gave me up. I only had one rule: You never talk! And he talked.
-Janice Cooper: And you jeopardized everything we have for some scumbag that nobody gives a damn about.
-Karl Cooper: Janice, he called me four weeks ago. He said, &quot;I'm in town for a while. Maybe we could we get together.&quot; He had something to tell me. Tell me what? &quot;I'm sorry? I'm sorry I stole seven years of your life.&quot; I-I couldn't let it go.
-Janice Cooper: Oh, God, he had it coming. And you were careful, right? So what's with the fake IDs? Karl? You don't make mistakes.
-Karl Cooper: I didn't. Somebody else did. A girl named Ally Sullivan.
-Janice Cooper: The ... the girl on the tv? Oh, Karl! Oh, God, she was just a kid!
-Karl Cooper: She crashed into my car right after I did Nash. She was gonna call the cops. I had to do it. I had to.
-Janice Cooper: I want you to go up the stairs. I want you to kiss Maddy. I want you to tell her that you love her ... and I want you to get out of this house.
- 
-
- 
- 
-Catherine: Karl Cooper. At age 19, he was an Army Ranger. By 42, he was one of the most successful bank robbers in U.S. History. He pulled off dozens of heists, going back two decades, all without killing a single person, and he was known to his bank-robbing buddies as &quot;Red.&quot;
-Grissom: He doesn't have red hair.
-Catherine: Well, he got the nickname because he was always in debt ... &quot;in the red.&quot;
-Grissom: Do we have 'In The Red's address?
-Catherine: Last known was the U.S. Federal Penitentiary in Marion, Illinois. When Nash gave him up, Cooper plead guilty. He served the full seven years' term. He got out, dropped off the face of the earth.
-
- 
-(Nick is on the computer working on the tire print from the desert. He runs it through the database and finds a match to a:
-Brand: DUNLOP
-Tyle: KT577A
-PATTERN: BLOCK
-DROOVE: 3
-ATV MODELS CONSISTENT WITH DUNLOP KT577A
-VEHICLE MODEL 1: KAWASAKI, ATV 04552F
-VEHICLE MODEL 2: HONDA, ATV 0157FS
-VEHICLE MODEL 3: YAMAHA, ATV 01254SE
-VEHICLE MODEL 4: TOYOTA, ATV 01452SFS )
-
-
- 
-Nick: The tire model is a Dunlop KT-345. I checked with the local dealers. The only ATV that uses that particular type of tire has only been on the market for about a year. It's called the Yamaha Raptor. So I got the list of the names of everybody in Las Vegas who's recently bought one. The only Cooper on the list is female -- Janice.
-Catherine: Well, Karl Cooper had a girlfriend back in Ohio, a Janice Hanford. I mean, she could be Cooper now.
-Grissom: Do we have her address?
-Nick: Yeah. It's, uh, second page.
- 
-Grissom: I think you broke the case, Nick.
-
-
-
- 
- 
- 
- 
-Janice Cooper: Maddy ... sweetie, come with me, okay?
- 
- 
-Officer: Las Vegas police. Open up!
- 
-Brass: Janice Cooper?
-Janice Cooper: Yeah.
-Brass: We're looking for your husband.
-Janice Cooper: He's not here.
- 
-Brass: Don't take it personally, but I'm not going to take your word for that.
-Janice Cooper: You guys never do. Look around all you like.
-Brass: Please step outside with the child. It's for your own safety.
-Janice Cooper: Like I said, he's not here.
- 
-
-
- 
- 
-
- 
- 
- 
- 
-Maddy Cooper: Mommy doesn't like you.
-Brass: Really? Well, that's too bad. She hardly even knows me.
-Janice Cooper: Maddy, you be nice, baby, okay?
-Brass: Definitely. Let's all be nice.
-Nick: Jim ... ATV has the right tires and there are plenty of machine tools and parts back there to build a silencer.
-Brass:  Where's Karl?
-Janice Cooper: Go to hell.
-Brass: All right. Here's the way it is. You're going to jail, she's going to Child Services. End of story.
-Janice Cooper: I've had cops in my face for half my life. You don't scare me.
-
-Brass: Well, maybe that's your lawyer now.
- 
-Janice Cooper:  Hello?
-
-
- 
-Karl Cooper:  Just answer yes or no -- are the cops there?
-Janice Cooper:  Yes.
-Karl Cooper:  Are they threatening to take Maddy?
-Janice Cooper:  Yes.
-Karl Cooper:  That's what happens when you marry a crook.
-Janice Cooper:  I think they're tracing this call.
-Brass: I'll take that phone.
- 
- 
- 
-
-Karl Cooper: Hey, officer.
- 
-Officer: Yup?
-Karl Cooper: I'm going to make your day.
-
-
-
- 
-Grissom: Uncuff him, will you, Mitch?
- 
-Officer Mitchell: Karl. Don't do anything stupid.
-Grissom: Palms out, please.
- 
-Karl Cooper: I know the drill.
- 
- 
-Karl Cooper: So, tell me ... where'd I go wrong?
- 
-Grissom: You killed two people.
- 
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=06x14+-+Killer&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127417%23p127417" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=06x14+-+Killer&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127417%23p127417" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127417%23p127417&amp;name=06x14+-+Killer" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127417%23p127417" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=a5cf01d98a5e8361af0a54196e1bc556">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=a5cf01d98a5e8361af0a54196e1bc556">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=a5cf01d98a5e8361af0a54196e1bc556">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=a5cf01d98a5e8361af0a54196e1bc556">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

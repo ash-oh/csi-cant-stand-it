@@ -1,770 +1,1002 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]
+[EXT. LAS VEGAS PRISON (STOCK) - NIGHT]
+(The bright white guard" />
+<meta property="og:title" content="03x06 - The Execution of Catherine Willows - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]
+[EXT. LAS VEGAS PRISON (STOCK) - NIGHT]
+(The bright white guard" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13241" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>03x06 - The Execution of Catherine Willows - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13241" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13241">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=a1c606fb1f1455af6e94b4b62a47f4c1"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=a1c606fb1f1455af6e94b4b62a47f4c1">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=a1c606fb1f1455af6e94b4b62a47f4c1">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=a1c606fb1f1455af6e94b4b62a47f4c1">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=a1c606fb1f1455af6e94b4b62a47f4c1">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13241&amp;sid=a1c606fb1f1455af6e94b4b62a47f4c1&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>03x06 - The Execution of Catherine Willows</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127335">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127335">03x06 - The Execution of Catherine Willows</a></div>
+							<div class="pull-right text-right"><time datetime="2002-11-22T01:43:07Z">11/22/02 01:43</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>[EXT. LAS VEGAS PRISON (STOCK) - NIGHT]</p>
+<p>(The bright white guard light turns toward the camera.)</p>
+<p>FLASH TO WHITE:</p>
+<hr />
+[INT LAS VEGAS PRISON - NIGHT]</p>
+<p>(Guards strap the PRISONER in orange to his chair.)</p>
+<p>(Cut to: The wall clock reads: 11:58 p.m.)</p>
+<p>(Cut to: The guards strap The PRISONER'S legs to the table, uncuffs his hands and straps his arms down to the table. They cut his orange prison uniform and stick a needle in his arm. His cut shirt is pushed aside and electrodes are attached to his chest to monitor his hearbeat.) </p>
+<p>(The guards leave.)</p>
+<p>(The camera pans from the execution cell, through the observation mirror and down to the next room where six large syringes are laid out on the table in front of the warden and other officials.)</p>
+<p>(Cut to: The PRISONER is spread out on the table and strapped down so he can't move.)</p>
+<p>(The clock reads: 11:59:00.)</p>
+<p>(The PRISONER breathes rapidly. He looks to the side at the window where the curtain to the observation room is closed. The curtains open and behind the window are several rows of witnesses. The camera lingers on the man and woman sitting up front and center. The woman is startled at the sight in front of her and reaches for her husband's hand.)</p>
+<p>(The PRISONER sees them, then turns his head away. The woman clutches in her lap, a picture of a young woman, her daughter.)</p>
+<p>(The audience waits. The clock counts down with every passing second ...<br />
+11:59:54 ... 11:59:55 ... )</p>
+<p>(Camera cuts to focus on the man's neck where his pulse beats rapidly just beneath his skin.)</p>
+<p>(Quick CGI POV to the blood flowing rapidly through his veins. Through his veins, where it comes out to his heart. We watch the heart beat for a moment. End of CGI POV. Resume to present.)</p>
+<p>(The man picks up the first syringe (#1) filled with a clear liquid. He uncaps the needle and injects the liquid into the IV tube.)</p>
+<p>(Quick CGI POV to: The liquid flows through the IV tubes, then through the man's veins where we see red blood cells ... and we see more red blood cells. End of CGI POV. Resume to present.)</p>
+<p>(Cut to: Camera close up of the PRISONER'S left eye where we see the pupil dilating.)</p>
+<p>(Quick CGI POV cut to the heart beating slower than before. End of CGI POV. Resume to present.)</p>
+<p>(Cut to: Camera close up of the man's face as his eyes start to close. His eye lids close.)</p>
+<p>(For a moment, there is silence in the execution room. There is silence in the observation room. The solid tone of the heart monitor flatlining is heard.)</p>
+<p>(A telephone rings cuts through the silence.)</p>
+<p>(The medic answers it.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT LAS VEGAS PRISON - NIGHT -- CONTINUOUS]</p>
+<p>(The door to the Execution Room bursts open and life-resuscitating machines are wheeled into the room.)</p>
+<p><strong>Medic</strong>: Let's go. We have a stay of execution. We've got thirty seconds to revive him.</p>
+<p>(Two medics and a physician works on reviving the condemned prisoner. The medics perform CPR while the physician injects something into the IV.)</p>
+<p>FLASH TO WHITE:</p>
+<hr />
+[INT. CSI - HALLWAY - NIGHT -- CONTINUOUS]</p>
+<p>(GRISSOM is walking down the hallway while reading a file folder. CATHERINE catches up to him and fills him in. She hands him some papers.)</p>
+<p><strong>Catherine</strong>: Grissom ... a stay. New evidence appeal: Hair analysis. I already over-nighted the six pubic hairs found on the victim to norfolk -- Department of Criminal Justice -- for mitochondrial DNA analysis. </p>
+<p>FLASH TO WHITE:</p>
+<p>(Close up of Mailing label to &quot;MT DNA LAB / DEPARTMENT ... &quot;. White flash to man pushing cart with SENDEX box stamped RUSH on it. White flash to man tossing the SENDEX box in the back of a truck. White flash to SENDEX box (stamped RUSH) on the mailing conveyer belt and the box being picked up by a pair of hands. Flash to white.)</p>
+<p>RESUME TO PRESENT:</p>
+<p>(CATHERINE and GRISSOM continue to walk through the hallway.)</p>
+<p><strong>Catherine</strong>: Defense thinks DNA's a magic pill for exoneration. I doubt if it's going to change the outcome. </p>
+<p>(They turn and enter the office.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GRISSOM'S OFFICE - NIGHT - CONTINUOUS]</p>
+<p>(GRISSOM walks into his office and heads for his desk. He hasn't said a word back to CATHERINE. CATHERINE steps into the office.)</p>
+<p><strong>Catherine</strong>: (shakes her head) You don't know what I'm talking about.</p>
+<p><strong>Grissom</strong>: Not really.</p>
+<p>(GRISSOM sits down at his desk.)</p>
+<p><strong>Catherine</strong>: People v. John Mathers. Serial. Western LVU. I was a rookie ...</p>
+<p><strong>Grissom</strong>: Three dead co-eds?</p>
+<p><strong>Catherine</strong>: All sexually assaulted, but no semen was found. Suspected he wore a condom. </p>
+<p><strong>Grissom</strong>: Dumped in garbage bags. </p>
+<p><strong>Catherine</strong>: Case with the strongest evidence was victim number three: Charlene Roth. Mathers, a campus security guard got Murder One for that.</p>
+<p><strong>Grissom</strong>: When are you going to get the test back?</p>
+<p><strong>Catherine</strong>: I put a rush on it.</p>
+<p>(Flash to white. Camera view of the SENDEX box and label. A hand with a stamp stamps &quot;RUSH&quot; on it in red. Flash to white. Resume to present.)</p>
+<p><strong>Grissom</strong>: Is this your first one?</p>
+<p><strong>Catherine</strong>: First to exhaust all of his appeals and get an execution date. </p>
+<p>(CATHERINE sits down in the seat across GRISSOM'S desk.)</p>
+<p><strong>Catherine</strong>: How many have you had?</p>
+<p><strong>Grissom</strong>: Two. </p>
+<p>(GRISSOM goes back to the papers he's looking at and flips a page over.)</p>
+<p><strong>Grissom</strong>: So, how do you feel about it?</p>
+<p><strong>Catherine</strong>: Mathers was convicted and sent to death row by a jury of his peers. I played a small part. I presented my findings ... </p>
+<p><strong>Grissom</strong>: Non-responsive.</p>
+<p>(GRISSOM interrupts CATHERINE. CATHERINE looks at GRISSOM.)</p>
+<p><strong>Catherine</strong>: Okay. I haven't figured out how I feel yet. </p>
+<p><strong>Grissom</strong>: It's just about evidence. It's not up to you whether he lives or dies. </p>
+<p>(GRISSOM flips the papers back over.)</p>
+<p><strong>Grissom</strong>: Case has no face.</p>
+<p>HARD CUT TO END OF TEASER ROLL TITLE CREDITS.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>WHITE FLASH IN:</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<hr />
+[EXT. RESTON'S RESIDENCE -- NIGHT]</p>
+<p>(Camera close up of a man in a blood-stained shirt sitting on the side walk. He looks completely out of it. Police sirens are heard in the background.)</p>
+<p><strong>Brass</strong>: Cops did a welfare check on this residence. A girl, 17, didn't show up for work and they found dad passed out on the sofa in a blood-soaked t-shirt.</p>
+<p>(BRASS, GRISSOM and SARA approach the man.)</p>
+<p><strong>Grissom</strong>: Did he have anything to say about his daughter?</p>
+<p><strong>Brass</strong>: Mr. Reston, uh, can't remember what day it is. Claims he was in a bar fight.</p>
+<p><strong>Sara</strong>: &quot;Pass&quot; test?</p>
+<p><strong>Brass</strong>: His blood alcohol level is .37.</p>
+<p><strong>Grissom</strong>: Ooh ... alcoholic.</p>
+<p><strong>Brass</strong>: Yeah.</p>
+<p>(GRISSOM walks away to leave it to SARA.)</p>
+<p><strong>Sara</strong>: Lucky me.</p>
+<p><strong>Grissom</strong>: Yeah.</p>
+<p>(SARA kneels down in front of the man and puts her case down. BRASS also kneels down and speaks to the man.)</p>
+<p><strong>Brass</strong>: (loudly) Hey, buddy! This is Sara Sidle of the Las Vegas Crime Lab. She's going to ask you some questions.</p>
+<p><strong>Sara</strong>: Sir, I need your shirt and I need to see your hands.</p>
+<p><strong>Brass</strong>: Shirt and hands!</p>
+<p>CUT TO:</p>
+<hr />
+[INT. RESTON'S RESIDENCE -- NIGHT]</p>
+<p>(GRISSOM looks around the living room. There are open containers, food and trash all over the place. The television is on. NICK walks in.)</p>
+<p><strong>Grissom</strong>: Hey.</p>
+<p><strong>Nick</strong>: Hey.</p>
+<p>(NICK looks around at the messy place. GRISSOM moves to stand next to NICK.)</p>
+<p><strong>Nick</strong>: People are pigs.</p>
+<p><strong>Grissom</strong>: Don't insult the pigs, Nick. They're actually very clean.</p>
+<p>CUT TO:<br />
+[INT. RESTON'S RESIDENCE - DEBBIE'S BEDROOM - NIGHT - CONTINUOUS]</p>
+<p>(The door opens. GRISSOM and NICK walk into the daughter's bedroom. He turns on the light. The differences are immediately.)</p>
+<p><strong>Grissom</strong>: And this would be the girl's room.</p>
+<p><strong>Nick</strong>: Doesn't seem like the same house.</p>
+<p>(There are two dead bolt locks on the bedroom door.)</p>
+<p><strong>Grissom</strong>: Dead bolts on her bedroom door.</p>
+<p><strong>Nick</strong>: Trying to keep something out.</p>
+<p><strong>Grissom</strong>: Hmm.</p>
+<p>(NICK snaps a picture of the locks. GRISSOM turns to look at the bedroom.)</p>
+<p><strong>Grissom</strong>: A bedroom refrigerator?</p>
+<p>(He opens it to check out its contents.)</p>
+<p><strong>Grissom</strong>: There's milk, fruit ... a toaster?</p>
+<p><strong>Nick</strong>: Guess they weren't much on family dinners.</p>
+<p>(NICK snaps more pictures. GRISSOM checks out the closet.)</p>
+<p><strong>Grissom</strong>: Nick?</p>
+<p>(GRISSOM holds up a hanger.)</p>
+<p><strong>Nick</strong>: A gi and a black belt.</p>
+<p><strong>Grissom</strong>: Trained in the art of self-defense.</p>
+<p>(GRISSOM puts it back. He looks inside the hamper and notices blood on the towel. NICK snaps pictures of it.)</p>
+<p><strong>Nick</strong>: (takes the towel) I'll bag it.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LAB]</p>
+<p>(CATHERINE has photographs spread out all over the table. She holds a stack of photographs in her hands and looks through it.)</p>
+<p>(She flips the next photo over and looks at &quot;PHOTO 2A&quot;, a picture of a girl's hand stained with paint.)</p>
+<p>(Quick flashback to: A MAN tying a WOMAN'S hands together. End of flashback. Resume to present.)</p>
+<p>(CATHERINE looks at another photo, a picture of a woman gagged, eyes open, and hands tied.)</p>
+<p>(Quick flashback to: A MAN tying a WOMAN'S hands together. She's gagged and her eyes are open. End of flashback. Resume to present.)</p>
+<p>(CATHERINE looks at another photo, a dead woman found wrapped in a garbage bag.)</p>
+<p>(Quick flashback to: A MAN tying the ends of the garbage bag together. End of flashback. Resume to present.)</p>
+<p>(WARRICK walks into the lab.)</p>
+<p><strong>Brown</strong>: I heard Mathers had that I.V. In his arm and everything, when that call came in. Never had a death penalty case get that far. Just working it all out?</p>
+<p><strong>Catherine</strong>: Yeah. Old case, new eyes, new technology. </p>
+<p><strong>Warrick</strong>: This evidence was processed, what, fifteen years ago?</p>
+<p><strong>Catherine</strong>: That was before DNA. Now that the case has been reopened I can re-evaluate all three murders. We always thought Mathers was good for the other two, but if they overturn Charlene Roth with the new DNA, we can go back and try Mathers with the other two murders with the new evidence.</p>
+<p><strong>Warrick</strong>: Keep Mathers in prison. </p>
+<p>(WARRICK looks at the file. CATHERINE watches WARRICK for a moment ... wondering ... )</p>
+<p><strong>Catherine</strong>: You pro or con?</p>
+<p><strong>Warrick</strong>: Pro, if he did it. The applications sucks, though. There's a lot of brown skin on that row.</p>
+<p><strong>Catherine</strong>: Yeah.</p>
+<p><strong>Warrick</strong>: What about you?</p>
+<p><strong>Catherine</strong>: I try not to give it much thought. I stick to the work.</p>
+<p><strong>Warrick</strong>: Really?</p>
+<p><strong>Catherine</strong>: Campus police found the victim Charlene Roth in this trash bag.</p>
+<p><strong>Warrick</strong>: The trash bag, yeah. I was looking at that. Processed with superglue, rhodamine, laser. No prints found though.</p>
+<p>(WARRICK opens the file again and looks at the report and photo of CHARLENE ROTH found dead in the trash bag.)</p>
+<p><strong>Catherine</strong>: Who's working the print lab tonight?</p>
+<p><strong>Warrick</strong>: Franco. Just off of days.</p>
+<p>(CATHERINE walks out of the lab carrying an evidence bag.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - STAIRWAY/HALLWAY - NIGHT -- CONTINUOUS]</p>
+<p>(CATHERINE walks down the stairs to the print lab. She's carrying an evidence bag. GREG catches up to her. He walks with her.)</p>
+<p><strong>Greg</strong>: Hey, I hear you're cheating on me with an out-of-state DNA analyst.</p>
+<p><strong>Catherine</strong>: Apples and oranges, Greg. Fifteen-year-old hair samples no roots, room-temperature storage.</p>
+<p><strong>Greg</strong>: Room temp?</p>
+<p><strong>Catherine</strong>: Yeah, that's how we stored hair evidence back then. Microscopy was king.</p>
+<p><strong>Greg</strong>: Really? I thought Elvis was king.</p>
+<p><strong>Catherine</strong>: And you are how old?</p>
+<p><strong>Greg</strong>: Age is irrelevant in our relationship.</p>
+<p><strong>Catherine</strong>: Maybe so, but face it, Greg you just don't have the equipment.</p>
+<p><strong>Greg</strong>: The government results won't give you an individual profile and you can't put them through CODIS.</p>
+<p><strong>Catherine</strong>: Well, maternal lineage is good enough on this one. No one else on Mathers' mother's side is a suspect. So, if it's a match, the stay is lifted he's back in the chamber. If not, we're back in court.</p>
+<p>(CATHERINE walks away from GREG.)</p>
+<p>CUT TO:</p>
+<hr />
+LEGEND: DEPARTMENT OF CRIMINAL JUSTICE MITOCHONDRIAL DNA LAB NORFOLK, VIRGINIA</p>
+<p>(On the monitor, a technician pushes the lab door open and carries the SendEx package into the lab.)</p>
+<p>(Cut to: The technician puts the package on the desk.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - PRINT LAB - NIGHT]</p>
+<p>(CATHERINE walks into the lab. JACQUI FRANCO lifts her head and looks at CATHERINE.)</p>
+<p><strong>Catherine</strong>: Jacqui ... I'm so glad you're back on nights. Got a good one for you.</p>
+<p>(CATHERINE puts the evidence package on the table. JACQUI turns it and reads the label.)</p>
+<p><strong>Jacqui Franco</strong>: Trash bag? Yeah, love it. </p>
+<p>(She shakes her head and goes back to work.)</p>
+<p><strong>Catherine</strong>: Give it some vacuum metal deposition. </p>
+<p><strong>Jacqui Franco</strong>: Hottest thing going for plastic. If there's anything to be found, my machine'll find it.</p>
+<p><strong>Catherine</strong>: And, um, super-rush. You're in a race with the federal lab.</p>
+<p><strong>Jacqui Franco</strong>: Make my night; love to compete with the Feds. You and me need to catch up. How's Lindsey?</p>
+<p><strong>Catherine</strong>: Second grade, tons of homework.</p>
+<p><strong>Jacqui Franco</strong>: Lucky for her she got your smarts, not Eddie's.</p>
+<p><strong>Catherine</strong>: Hmmph. Now I know why I missed you so much. So, page me as soon as you're done.</p>
+<p><strong>Jacqui Franco</strong>: Mm-hmm. Putting you up first. You owe me a beer.</p>
+<p><strong>Catherine</strong>: Yep.</p>
+<p>(CATHERINE walks out of the lab.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. RESTON'S RESIDENCE - BACKYARD -- NIGHT]</p>
+<p>(GRISSOM and NICK examine the backyard. They pass a bar-b-que and a shovel leaning against a log.)</p>
+<p><strong>Grissom</strong>: Looks like somebody's been doing some digging.<br />
+(In the back of the yard there is a tool shed. They head for the tool shed.)</p>
+<p>[INT. RESTON'S RESIDENCE - TOOL SHED - NIGHT - CONTINUOUS]</p>
+<p>(GRISSOM and NICK look around inside. NICK finds a gun on the shelf. He picks it up and looks at it.)</p>
+<p><strong>Nick</strong>: Glock. Laser sight. Slide's missing. Mr. Reston was a bit of a garage tinkerer.</p>
+<p><strong>Grissom</strong>: Great. Drunks with guns.</p>
+<p>(SARA enters the tool shed. She lingers by the door. GRISSOM picks up a gun case and opens it.)</p>
+<p><strong>Sara</strong>: Hey.</p>
+<p><strong>Nick</strong>: Hey.</p>
+<p><strong>Grissom</strong>: M11-9. Empty box.</p>
+<p><strong>Sara</strong>: He didn't have any kind of weapon on him.</p>
+<p><strong>Nick</strong>: Okay, we're into it.</p>
+<p><strong>Sara</strong>: I'm going to take Reston's shirt back to Greg.</p>
+<p><strong>Nick</strong>: Mm-hm. Do me a favor?</p>
+<p><strong>Sara</strong>: Yeah?</p>
+<p><strong>Nick</strong>: Inside, bloody towel, bagged and tagged.</p>
+<p><strong>Sara</strong>: You got it.</p>
+<p><strong>Nick</strong>: Thanks.</p>
+<p><strong>Sara</strong>: Woo. After this place, I need a shower.</p>
+<p>(SARA leaves. GRISSOM looks around. He gets up and turns to leave. He steps on a creaky floorboard. It's obvious that there's something there. GRISSOM and NICK roll away the blanket on the floor and remove the floorboard.)</p>
+<p>(Underneath there are over a dozen guns.)</p>
+<p><strong>Nick</strong>: There's our M-11. 16-round magazine. Two remaining. One in the chamber. Modified to fully automatic.</p>
+<p><strong>Grissom</strong>: Up to 14 rounds expended and unaccounted for.</p>
+<p><strong>Nick</strong>: Missing girl's old man's got blood all over him. Blood in her room ...</p>
+<p><strong>Grissom</strong>: I think it's time for dear old dad to go to detox.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. COFFEE SHOP -- NIGHT]</p>
+<p>(CATHERINE is inside the shop ordering a latte.)</p>
+<p><strong>Catherine</strong>: (placing her order) I would like a vanilla ice soy blended latte, please.</p>
+<p>(A WOMAN approaches CATHERINE.)</p>
+<p><strong>Sally Roth</strong>: Ms. Willows.</p>
+<p><strong>Catherine</strong>: Yes?</p>
+<p><strong>Sally Roth</strong>: Sally Roth. My husband Tom heard from a friend that you came here.</p>
+<p><strong>Catherine</strong>: I'm sorry. Do I know you?</p>
+<p><strong>Sally Roth</strong>: We're Charlene Roth's parents.</p>
+<p><strong>Catherine</strong>: (sighs) Mr. and Mrs. Roth. I'm sorry. I didn't recognize you.</p>
+<p><strong>Sally Roth</strong>: We were just wondering if you had any news.</p>
+<p><strong>Catherine</strong>: You know any news has to go through the attorney general's office. I can't divulge any information on an open case.</p>
+<p><strong>Sally Roth</strong>: He-he was convicted. It is not an open case to us.</p>
+<p><strong>Catherine</strong>: I was confident at trial. I'm still confident. The evidence is solid.</p>
+<p><strong>Sally Roth</strong>: If the court overturns the convic ...</p>
+<p><strong>Tom Roth</strong>: We just can't go through another trial.</p>
+<p>(CATHERINE'S phone rings.)</p>
+<p><strong>Catherine</strong>: Uh, well, you will have an answer very soon. I'm sure of it. (CATHERINE looks at her phone.) Excuse me. I need to go.</p>
+<p>(CATHERINE walks away.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. UNIVERSITY - LIBRARY -- NIGHT]</p>
+<p>(CATHERINE walks up to SGT. O'RILEY. He meets her and they walk to the body.)</p>
+<p><strong>Catherine</strong>: What's going on? I'm not on call.</p>
+<p><strong>Sgt. O'Riley</strong>: I know. I called you because your name's on the memo.</p>
+<p><strong>Catherine</strong>: Which memo?</p>
+<p><strong>Sgt. O'Riley</strong>: Young female, bound, trash bag. Copycats come out of the woodwork every time there's an execution.</p>
+<p><strong>Catherine</strong>: Mather's attorney is going to have a field day.</p>
+<p><strong>O'Riley</strong>: Come on, Cath. Everybody liked Mathers for the Kent and Reese cases but the DA wouldn't file because he already had a slam dunk with Charlene Roth. How many times can you fry a guy?</p>
+<p>(CATHERINE looks at the garbage bag.)</p>
+<p><strong>Catherine</strong>: (softly) Right.</p>
+<p><strong>O'Riley</strong>: Maintenance guy thought it was trash. Picked it up, broke open.</p>
+<p><strong>Catherine</strong>: Body dump. Just like 15 years ago.</p>
+<p>(Quick flashback to: Photograph of the body in a garbage bag. End of flashback. Resume to present.)</p>
+<p>(CATHERINE leans in and looks at the girl in the garbage bag, her hands bound and stained.)</p>
+<p>(Quick flash to photograph of the old case in the garbage bag. Resume to present.)</p>
+<p>(Camera holds on CATHERINE.)</p>
+<p>HARD CUT TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. UNIVERSITY - LIBRARY -- NIGHT]</p>
+<p>(CATHERINE takes photographs of the body.)</p>
+<p>(Flash to: Photographs from the old case where the body is in the garbage bag.)</p>
+<p>CUT TO:</p>
+<hr />
+LEGEND: DEPARTMENT OF CRIMINAL JUSTICE MITOCHONDRIAL DNA LAB NORFOLK, VIRGINIA</p>
+<p>(A piece of hair is removed from the evidence envelope.)</p>
+<p>(The information on the Crime Scene Search Evidence Report is: )</p>
+<p>[Name of Subject: Mathers, John Date of Incident: 3-3-87<br />
+Time 23:47 PM <strong>Search Officer</strong>: C. Willows Evidence Description: Six Crime Scene Hairs ]</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. UNIVERSITY - LIBRARY -- NIGHT]</p>
+<p>(CATHERINE takes photos of the girl's tied hands.)</p>
+<p>(Flash to: Photographs of the old case where the girls' hands are tied.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. FEDERAL LAB - CONTINUOUS]</p>
+<p>(The hair is removed from the machine and put in a tube. The technician works in his lab.)</p>
+<p>(Camera zooms to a close up of the hair. Camera zooms even closer to the cells in the hair.)</p>
+<p>(Quick CGI POV to: Camera zooms closer to a single cell. Camera zooms to the DNA chain in the cell. End of CGI POV.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. UNIVERSITY - LIBRARY -- NIGHT - CONTINUOUS]</p>
+<p>(CATHERINE works on the body.)</p>
+<p><strong>David Phillips</strong>: (o.s.) You ready for me?</p>
+<p><strong>Catherine</strong>: Not yet.</p>
+<p>(CATHERINE takes a forceps out of her kit. She shows it to DAVID PHILLIPS and asks permission to remove something from the body.)</p>
+<p><strong>Catherine</strong>: May I?</p>
+<p><strong>David Phillips</strong>: Sure.</p>
+<p>(CATHERINE pulls something out of the girl's hair. She holds it up for DAVID to look at.)</p>
+<p><strong>Catherine</strong>: What do you think this is?</p>
+<p><strong>David Phillips</strong>: That's Grissom's bailiwick, not mine.</p>
+<p><strong>Catherine</strong>: That's what I was thinking -- bug.</p>
+<p>(Camera zooms in to show a bug.)</p>
+<p>(WARRICK approaches the body and puts his kit down. He leans in to look at what CATHERINE picked up.)</p>
+<p><strong>Warrick</strong>: What you got?</p>
+<p><strong>Catherine</strong>: Two-fer. Looks like some kind of a bug casing and black fibers.</p>
+<p>(Camera zooms in to the bug and shows the fiber on the bug's back.)</p>
+<p><strong>Catherine</strong>: She's all yours, David.</p>
+<p>(CATHERINE takes a bindle and puts the bug in it. DAVID stands up and starts to instruct his group.)</p>
+<p><strong>David Phillips</strong>: Ok guys, we're clear.</p>
+<p><strong>Catherine</strong>: (to WARRICK) How come I get you?</p>
+<p><strong>Warrick</strong>: Grissom says it's precautionary in case Mathers gets overturned and you get swamped.</p>
+<p><strong>Catherine</strong>: (nods) I'm glad to have the help.</p>
+<p>(WARRICK shines his flashlight on the body.)</p>
+<p><strong>Warrick</strong>: This looks familiar.</p>
+<p><strong>Catherine</strong>: A little too familiar. Let's figure out how she got here.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>(CATHERINE and WARRICK get to work as the Coroner's Office puts the body on a gurney.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<hr />
+[EXT. RESTON'S RESIDENCE - DAY]</p>
+<p>(GRISSOM is cataloging the firearms found on the property. NICK is with a machine running it over the ground, looking for a body.)</p>
+<p>(The machine beeps steadily. As he gets closer to something under the dirt, the beeping picks up.)</p>
+<p><strong>Nick</strong>: Hey, Griss ... found a density change. The screen's showing something.</p>
+<p>(GRISSOM stands up and approaches NICK.)</p>
+<p><strong>Grissom</strong>: What's your depth estimate?</p>
+<p><strong>Nick</strong>: Two and a half feet.</p>
+<p><strong>Grissom</strong>: Oh, dear. Shovels and screens, chutes and ladders.</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - FORENSIC AUTOPSY -- DAY]</p>
+<p>(DOC ROBBINS and DAVID PHILLIPS are going to work on the body in the garbage bag. ROBBINS cuts the garbage bag away from the body. DAVID PHILLIPS assists.)</p>
+<p>(They remove the bag.)</p>
+<p><strong>Robbins</strong>: A little more. There we go.</p>
+<p>(DAVID picks up a camera and starts taking pictures.)</p>
+<p><strong>Robbins</strong>: She's in rigor. At least 12 hours.</p>
+<p>(DAVID cuts the bindings on the body's wrists. ROBBINS removes the bindings.)</p>
+<p><strong>Robbins</strong>: Get out your ten card and print her. But look out for this blue paint. Catherine's going to need to see it.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. RESTON'S RESIDENCE - DAY]</p>
+<p>(After escavating the body buried in the backyard, GRISSOM and NICK kneel next to the site.)</p>
+<p><strong>Nick</strong>: Well, we got something else to hold Reston on: Illegal burial of a domestic animal.</p>
+<p><strong>Grissom</strong>: Weak.</p>
+<p><strong>Nick</strong>: I'll cover him back up.</p>
+<p><strong>Grissom</strong>: So Debbie Reston never showed up at work and she's not buried in the backyard. Where did Debbie go?</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT -- INTERROGATION ROOM - DAY]</p>
+<p>(BRASS questions MR. RESTON.)</p>
+<p><strong>Reston</strong>: I don't know her schedule. She works, goes to school. I hardly ever see her.</p>
+<p><strong>Brass</strong>: She's 17. She lives in your house. You're going to have to do better than that.</p>
+<p><strong>Reston</strong>: Stuck-up bitch is ashamed of me. Can't wait to graduate high school and move out. She's already got a job: Coffee shop. Got a car.</p>
+<p><strong>Brass</strong>: What kind of car?</p>
+<p><strong>Reston</strong>: VW convertible, blue.</p>
+<p><strong>Brass</strong>: And as a concerned parent, you're going to ask me to put out a broadcast, aren't you?</p>
+<p>[OBSERVATION ROOM]</p>
+<p>(GRISSOM watches the interview from the observation room.)</p>
+<p><strong>Reston</strong>: Whatever.</p>
+<p><strong>Brass</strong>: Is the car in her name or yours? I'm going to need the license plate number. You listening to me?</p>
+<p>(SARA walks in.)</p>
+<p><strong>Sara</strong>: I just left Greg in DNA. Blood on Reston's shirt is his own.</p>
+<p><strong>Grissom</strong>: Blood on the towel?</p>
+<p><strong>Sara</strong>: Eight markers match family member. There's only two people in the house. It's probably Debbie's but there isn't that much blood on the towel.</p>
+<p><strong>Grissom</strong>: So what? Innocuous injury?</p>
+<p><strong>Sara</strong>: That's what I'm thinking.</p>
+<p><strong>Reston</strong>: You got kids? They think it's all about them. Like I owe her.</p>
+<p>[INTERROGATION ROOM]</p>
+<p><strong>Brass</strong>: Well, you owe your daughter more than being a drunk. You know, I think that maybe jail might be the best thing for you right now.</p>
+<p><strong>Reston</strong>: I think she just took off ... like her mother.</p>
+<p>[OBSERVATION ROOM]</p>
+<p><strong>Sara</strong>: Can you believe this guy? I wouldn't blame his kid if she just took off.</p>
+<p>(GRISSOM doesn't say anything. He just nods his head slightly.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - HALLWAY - DAY -- CONTINUOUS]</p>
+<p>(GRISSOM and SARA walk through the hallway. SGT. O'RILEY catches up with them.)</p>
+<p><strong>Sgt. O'Riley</strong>: Hey. Catherine and I got a case at the university -- dead female. Prints just came back. Matches your missing girl, Debbie Reston.</p>
+<p><strong>Grissom</strong>: Brass just put a broadcast out on her car.</p>
+<p><strong>Sgt. O'Riley</strong>: Then my guys will find it. They're posting her now.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- FORENSIC AUTOPSY - DAY -- CONTINUOUS]</p>
+<p>(DEBBIE RESTON is on the table. GRISSOM walks into the autopsy room.)</p>
+<p><strong>Robbins</strong>: Crazy world out there.</p>
+<p><strong>Grissom</strong>: Sorry I'm late. So, where are we?</p>
+<p><strong>Catherine</strong>: Debbie Reston, 17. She was taking a night class at Western LVU. Pre-req for early admission.</p>
+<p><strong>Grissom</strong>: So technically she was a Western LVU student.</p>
+<p><strong>Catherine</strong>: Yep. Just like Mathers' other victims.</p>
+<p><strong>Robbins</strong>: Thought Mathers was on death row.</p>
+<p><strong>Catherine</strong>: Mm-hmm. Doc, you were here back then. Tell me why this one's different.</p>
+<p><strong>Robbins</strong>: Suspect must be intimately familiar with the minutiae of the prior cases. What's identical: Cause of Death-- strangulation. Bruising on her wrists plastic zip tie, navy-blue paint. There is one new element: Defensive wounds on the hands. Whatever she grabbed onto shattered and caused these lacerations.</p>
+<p><strong>Grissom</strong>: Is that before or after she got the paint on her hands?</p>
+<p><strong>Robbins</strong>: After. One of these cuts sliced right through the paint. </p>
+<p>(ROBBINS picks up a piece of glass from the cut on DEBBIE RESTON'S palm. He holds it up. Camera zooms in for a close up of the glass. The glass has blue paint on it. Resume to present.)</p>
+<p><strong>Robbins</strong>: The paint was there first.</p>
+<p>(GRISSOM reaches out and touches the paint on the palm of her hand.)</p>
+<p><strong>Grissom</strong>: It's still wet.</p>
+<p><strong>Catherine</strong>: So she's been dead at least 12 hours, right?</p>
+<p><strong>Robbins</strong>: Right.</p>
+<p><strong>Grissom</strong>: What kind of paint doesn't dry in 12 hours, I wonder.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. FEDERAL LAB]</p>
+<p>LEDGEND: DEPARTMENT OF CRIMINAL JUSTICE MITOCHONDRIAL DNA LAB NORFOLK, VIRGINIA</p>
+<p>(The technician continues to process the DNA sample.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - LOUNGE/HALLWAY - DAY]</p>
+<p>(The lawyer for the defense, MS. CAMPBELL, approaches CATHERINE in the lounge.)</p>
+<p><strong>Ms. Campbell</strong>: Ms. Willows. I heard you're investigating the murder at Western LVU. Female, young, bound dumped in a trash bag.</p>
+<p>(CATHERINE clears her throat and closes the file she's reading.)</p>
+<p><strong>Catherine</strong>: You know that I can't confirm or deny any information regarding an active investigation. Excuse me.</p>
+<p>(CATHERINE stands up and heads out of the lounge. MS. CAMPBELL follows CATHERINE down the hallway.)</p>
+<p><strong>Ms. Campbell</strong>: Ms. Willows, my client's life is on the line here. We've always maintained John Mathers' innocence.</p>
+<p><strong>Catherine</strong>: Ms. Campbell, I have no personal opinion about your client. I tested the evidence in his case and that evidence failed to exonerate him.</p>
+<p><strong>Ms. Campbell</strong>: Fifteen years ago. Before DNA. Before the real killer struck again. You are going to test the pubic hair sent to the federal lab against the new suspect ...</p>
+<p><strong>Catherine</strong>: What suspect? I can't help you.</p>
+<p><strong>Ms. Campbell</strong>: (accusing) You CSIs are biased for the prosecution. You decide ahead of time how you want the evidence to come out.</p>
+<p><strong>Catherine</strong>: Ms. Campbell, I am only an interpreter of the evidence. I know how to make the evidence speak to me. I don't care about the outcome.</p>
+<p><strong>Ms. Campbell</strong>: How about guilt or innocence? John was 15 seconds from execution. Sure you're not biased? I hear the same evidence speaking. You know what it's telling me? The killer's still out there.</p>
+<p>(MS. CAMPBELL leaves CATHERINE standing in the hallway.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. UNIVERSITY -- DAY]</p>
+<p>(SARA and WARRICK gather evidence from a blue VW convertible.)<br />
+<strong>Sara</strong>: It's Debbie Reston's car. Looks like you and I are officially running with the same case.</p>
+<p><strong>Warrick</strong>: Yeah? It's got to be the cleanest tape lift I've ever seen. There's no stains of any kind in this car.</p>
+<p>(DET. O'RILEY walks toward SARA. He's reading a piece of paper.)</p>
+<p><strong>Sara</strong>: Whatever happened to her happened after she left her car.</p>
+<p><strong>Sgt. O'Riley</strong>: Debbie Reston was taking economics 101. 6:00 to 8:00 P.M. Never missed a class before last night.</p>
+<p><strong>Warrick</strong>: Well, this is my alma mater. Econ 101-- that's Sabian Hall. It's a long walk from here but I know the way.</p>
+<p>(SGT. O'RILEY'S pager beeps.)</p>
+<p><strong>Sgt. O'Riley</strong>: I'll have to catch up with you.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. UNIVERSITY - BACK PASS - DAY -- CONTINUOUS]</p>
+<p>(WARRICK and SARA walk the back path to Sabian Hall. WARRICK trips and grabs the blue metal rail with his hand.)</p>
+<p><strong>Warrick</strong>: Damn. It's still wet.</p>
+<p>(WARRICK looks at the blue paint stain in the middle of his palm. He looks around and notices the water fountain off the path.)</p>
+<p><strong>Warrick</strong>: What's the first thing you'd do if you got paint on your hands?</p>
+<p>(Quick flashback to: DEBBIE RESTON trips on the path and grabs the blue metal rail. End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: Wash it off.</p>
+<p>(Quick flashback to: DEBBIE RESTON looking down at the paint on her hand. End of flashback. Resume to present.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. UNIVERSITY - BACK PASS -- DAY]</p>
+<p>(GRISSOM stands in front of the water fountain. He looks up and sees the lamp without a light bulb in it.)</p>
+<p><strong>Grissom</strong>: We found glass in the lacerations on her right hand.</p>
+<p>(WARRICK kneels down and finds something on the ground. He picks it up.)</p>
+<p><strong>Warrick</strong>: I'll see if I can get a match from this.</p>
+<p><strong>Sara</strong>: He painted the railing and just waited by the water fountain. Victim was like a fly in a spiderweb. </p>
+<p>(Quick flashback to: DEBBIE RESTON in front of the water fountain trying to wash the paint stain off of her hand. In the bushes, someone wearing glasses is watching her. DEBBIE RESTON turns her head and looks directly at the man in the bushes. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: We just learned something we didn't know about the prior murders.</p>
+<p><strong>Catherine</strong>: Yes, what the paint was all about.</p>
+<p><strong>Grissom</strong>: And if we just learned about it now, how did the copycat killer know?</p>
+<p>FADE TO BLACK.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[EXT. UNIVERSITY - BACK PASS -- DAY]</p>
+<p>(SARA examines the metal rail.)</p>
+<p><strong>Sara</strong>: Looks like Debbie isn't the only one who got paint on her hands.</p>
+<p>(Camera close up of the different prints on the rail.)</p>
+<p>(GRISSOM takes a swab sample of the paint.)</p>
+<p><strong>Grissom</strong>: Well, maybe he was waiting till he saw the girl he wanted.</p>
+<p>(He turns his head and looks at SARA. She looks up at him.)</p>
+<p><strong>Sara</strong>: That's creepy.</p>
+<p>(Quick flashback to: A blonde-haired student using the water fountain to wash her hands. Cut to: The blonde-haired student slinging her backpack over her shoulder and walking away. End of flashback. Resume to present.)</p>
+<p><strong>Sara</strong>: I'll call the fire department, get a circular saw. Take this back to the lab.</p>
+<p>[WATER FOUNTAIN]</p>
+<p>(In the bushes next to the water fountain, WARRICK finds something.)</p>
+<p><strong>Warrick</strong>: I've got a backpack. Wallet ... Debbie Reston. Credit cards ... money, keys.</p>
+<p>(Kneeling in front of the tree, CATHERINE is examining the bugs on the tree surface.)</p>
+<p><strong>Catherine</strong>: Not what he was looking for.</p>
+<p>(Camera zooms in to a particular bug on the bark of the tree. It's the same kind of bug that CATHERINE took off of DEBBIE RESTON'S hair the night she examined the body.)</p>
+<p><strong>Grissom</strong>: What are you doing? </p>
+<p><strong>Catherine</strong>: I found pieces of this in the victim's hair. What's it look like to you?</p>
+<p><strong>Grissom</strong>: Hmm, what does it sound like? (pause) With the exception of the termite queen, the cicada is the longest-living insect. Spends seventeen years dormant underground and then the cicada nymph emerges and sheds its skin. </p>
+<p>(Quick CGI POV of a cicada crawling out of a hole in the ground and up the tree. It sheds its skin and grows wings, hardens, then flies away. End of CGI POV. Resume to present.)</p>
+<p><strong>Grissom</strong>: As adults they flit around for about five weeks of activity in the hot sun and then they die. </p>
+<p><strong>Catherine</strong>: They spend their whole lives waiting for the end.</p>
+<p><strong>Grissom</strong>: Not unlike death row.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. FEDERAL LAB]</p>
+<p>LEGEND: DEPARTMENT OF CRIMINAL JUSTICE MITOCHONDRIAL DNA LAB NORFOLK, VIRGINIA</p>
+<p>(The machines comes to a whirring stop. The sample is removed.)</p>
+<p>(It's put into another machine that maps out the DNA chains.)</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. UNIVERSITY - BACK PASS - DAY]</p>
+<p><strong>Warrick</strong>: This is the spot. You can see the path and the rail.</p>
+<p>(WARRICK stands in the spot that the attacker positioned himself in.)</p>
+<p><strong>Grissom</strong>: Well, and if she was trying to clean off her right hand in this fountain she would have had to be in this position.</p>
+<p>(GRISSOM uses the fountain to wash his right hand, simulating the victim, with his back to WARRICK still in the bushes.)</p>
+<p><strong>Warrick</strong>: And he waited till her back was turned ... and came up behind her.</p>
+<p>(WARRICK steps out of the bushes and taps GRISSOM on the shoulder.)</p>
+<p><strong>Catherine</strong>: I found some more glass. (CATHERINE picks up a piece of glass. Camera zooms in.) Looks polarized.</p>
+<p>(GRISSOM looks up.)</p>
+<p><strong>Grissom</strong>: Well, lightbulb glass isn't polarized. Eyeglasses are.</p>
+<p><strong>Catherine</strong>: Yeah.</p>
+<p><strong>Grissom</strong>: You know, she was a black belt. Maybe she fought back.</p>
+<p><strong>Warrick</strong>: That would explain why she had defensive wounds and none of the other victims did.</p>
+<p>(Quick flashback to: DEBBIE RESTON washes her hands. The attacker comes up behind her. She fights back. She breaks his glasses. End of flashback. Resume to present.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p>SCENE #32</p>
+<p>[INT. CSI - PRINT LAB -- NIGHT]</p>
+<p><strong>Jacqui Franco</strong>: Sorry about the &quot;no print&quot; results on the Mathers' case.</p>
+<p><strong>Catherine</strong>: Make it up to me. I got a new case. New bag.</p>
+<p>(CATHERINE hands the evidence bag to JACQUI FRANCO. JACQUI opens it up and takes out the garbage bag. She opens the fume machine and puts the bag in it.)</p>
+<p>(She closes the door to the machine.)</p>
+<p>(Quick CGI POV: The camera moves through the window of the machine and shows the particles inside being disbursed onto the garbage bag and adhering to the prints on the bag. End of CGI POV. Resume to present.)</p>
+<p>(JACQUI opens the machine door. and removes the bag. She lays the bag out on the table. They definitely find something.)</p>
+<p><strong>Jacqui Franco</strong>: It's only partial but I've got a hit off less.</p>
+<p><strong>Catherine</strong>: Great.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LAB]</p>
+<p><strong>Sara</strong>: Hey, you know that black fiber that Catherine pulled from Debbie Reston's hair?</p>
+<p>(SARA looks at the fiber in her scope. NICK lifts his head from his scope to look at SARA.)</p>
+<p><strong>Nick</strong>: Yeah.</p>
+<p><strong>Sara</strong>: It's trilobal. </p>
+<p><strong>Nick</strong>: Vehicle upholstery.</p>
+<p><strong>Warrick</strong>: It's not from her car. Her upholstery is red.</p>
+<p><strong>Sara</strong>: That's good for us. She was killed at the water fountain but the body was dumped at the library.</p>
+<p><strong>Nick</strong>: You can't carry a body in plain sight on campus even in at night.</p>
+<p><strong>Sara</strong>: Odds are decent we're looking at a fiber from the killer's vehicle.</p>
+<p>(SARA runs the sample through the database and returns a list of possibles.)</p>
+<p><strong>Sara</strong>: Generic chevy.</p>
+<p><strong>Nick</strong>: (smiling) Well, that kind of narrows it down.</p>
+<p>(Camera view: Scope view of the glass sample WARRICK'S looking at.)</p>
+<p><strong>Warrick</strong>: The glass on the left is not polarized. There's not color change.</p>
+<p><strong>Nick</strong>: What, from the busted security light?</p>
+<p><strong>Warrick</strong>: Yeah, the one found in the path. Not the one found in her hand.</p>
+<p><strong>Nick</strong>: Okay, the guy broke the bulb on purpose.</p>
+<p><strong>Sara</strong>: Gives him an advantage -- cover of darkness.</p>
+<p><strong>Warrick</strong>: I'll buy that, but the glass on the right was the one extracted from the cuts on her hand. And it matches the glass that Catherine found near the water fountain.</p>
+<p><strong>Sara</strong>: Confirms that Debbie fought with her attacker.</p>
+<p><strong>Nick</strong>: Suspect's minus one point two five.</p>
+<p><strong>Warrick</strong>: What is that, 20/80? That's like half of mine. It's not much of a correction.</p>
+<p><strong>Sara</strong>: Great. We're looking for a guy with a 20/80 prescription who drives a Chevy with black interior.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - HALLWAY]</p>
+<p>(CATHERINE walks rapidly through the hallway. GREG runs out of his lab to catch her.)</p>
+<p><strong>Greg</strong>: Hey. Got your report from the Feds.</p>
+<p><strong>Catherine</strong>: Why did it come to you?</p>
+<p><strong>Greg</strong>: Because they returned the DNA evidence to me. I took a look at the results. Didn't think you'd mind.</p>
+<p><strong>Catherine</strong>: I do.</p>
+<p>(GREG hands the results to CATHERINE)</p>
+<p><strong>Catherine</strong>: All six hairs are a match to Mathers. </p>
+<p>FLASH TO:</p>
+<hr />
+[INT. FEDERAL LAB]</p>
+<p>LEGEND: DEPARTMENT OF CRIMINAL JUSTICE MITOCHONDRIAL DNA LAB NORFOLK, VIRGINIA</p>
+<p>(The machine matches the DNA samples to John Mathers.)</p>
+<p>WHITE FLASH TO:</p>
+<hr />
+[INT. CSI -- HALLWAY]</p>
+<p>(CATHERINE nods at the results.)</p>
+<p><strong>Catherine</strong>: He raped and murdered Charlene Roth. </p>
+<p><strong>Greg</strong>: Dead bang. Airtight. Good night, John.</p>
+<p><strong>Catherine</strong>: (slightly annoyed) How are you coming with that twist tie, Greg?</p>
+<p><strong>Greg</strong>: The new case?</p>
+<p><strong>Catherine</strong>: Yeah.</p>
+<p><strong>Greg</strong>: Working on it.</p>
+<p><strong>Catherine</strong>: Good. Keep working on it.</p>
+<p>(GREG returns back to his lab. CATHERINE turns and walks away.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - GARAGE -- CONTINUOUS]</p>
+<p>(CATHERINE walks into the garage. GRISSOM is examining the metal hand rail.)</p>
+<p><strong>Catherine</strong>: Slam dunk on Mathers.</p>
+<p><strong>Grissom</strong>: Good. The paint on Debbie Reston's hands ... </p>
+<p><strong>Catherine</strong>: Yeah?</p>
+<p><strong>Grissom</strong>: ...Oil-based blue.</p>
+<p><strong>Catherine</strong>: Oil-based? That's for canvases, not railings.</p>
+<p><strong>Grissom</strong>: Not only that, it was mixed with 30-weight motor oil. Which isn't a component of any commercial paint. As an additive however ... keeps paint from drying.</p>
+<p>(GRISSOM touches the paint on the metal rail. It's still wet. He shows the tip of his blue finger to CATHERINE.)</p>
+<p><strong>Catherine</strong>: Okay ... he knew what he was doing. Expanding his window of opportunity.</p>
+<p>(GRISSOM continues to examine the metal rail under his magnifying glass. He finds something.)</p>
+<p><strong>Grissom</strong>: Hello? Hairs. Hopefully from his paintbrush.</p>
+<p><strong>Catherine</strong>: And the paint matches Western LVU shade of blue. </p>
+<p><strong>Grissom</strong>: He knows a lot about paint.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) - NIGHT]</p>
+<p><strong>Willows</strong>: (V.O.) He knows a lot about that campus.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. UNIVERSITY - ART DEPARTMENT -- NIGHT]</p>
+<p>(CATHERINE and GRISSOM interview someone from the University's art department. He's painting as they question him.)</p>
+<p><strong>Man</strong>: I don't know what I can tell you. I've only been here since '95.</p>
+<p><strong>Catherine</strong>: Well, is there anyone in the art department who was here when the first murders took place?</p>
+<p><strong>Man</strong>: A couple of the guys predate me. I'll ask around.</p>
+<p>(GRISSOM examines the can of brushes.)</p>
+<p><strong>Grissom</strong>: Are any of these brushes made with badger hair?</p>
+<p><strong>Man</strong>: We artists covet our brushes. (The MAN puts his brush down and picks up his glasses. He puts them on.) That's Russian Blue Squirrel ... Japanese Synthetic ... Badger.</p>
+<p>(He takes his glasses off and resumes painting.)</p>
+<p><strong>Grissom</strong>: In the oil paint sample we collected we found both badger hair and nylon bristles.</p>
+<p><strong>Man</strong>: Anyone who's studied art would never use nylon with oils unless they were using the paint for something else. When brushes age ...</p>
+<p>(Camera close up of a blue paint can. A brush is dipped into the paint and when removed, leaves behind brush hairs.)</p>
+<p><strong>Man</strong>: (V.O.) ... they shed hairs. Then, if they used a nylon brush the next time ...</p>
+<p>(A second brush is dipped into the same paint. End of close up. Resume to present.)</p>
+<p><strong>Catherine</strong>: Say I wanted a badger hair paintbrush -- where would I buy one?</p>
+<p><strong>Man</strong>: Student union sells them. Most art stores. You can get them cheaper on the internet.</p>
+<p>(GRISSOM examines the MAN'S glass lens. The MAN stops and looks at GRISSOM.)</p>
+<p><strong>Grissom</strong>: Sorry. I was admiring your frames. Nice.</p>
+<p>(GRISSOM puts the glasses back down on the table.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - DNA LAB/HALLWAY]</p>
+<p>(GREG walks out into the hallway to catch GRISSOM and CATHERINE.)</p>
+<p><strong>Greg</strong>: The results are back on the zip tie you removed from Debbie Reston's wrists. No foreign epithelials, but I did find an errant hair DNA tag still attached. It's not Debbie Reston's. </p>
+<p>(GREG gives the results to CATHERINE.)</p>
+<p><strong>Greg</strong>: Catherine asked me to cross-check everything with the old cases. It actually belongs to Janet Kent.</p>
+<p><strong>Catherine</strong>: Janet Kent-- the first victim?</p>
+<p><strong>Greg</strong>: I know.</p>
+<p><strong>Grissom</strong>: So Janet Kent's killer saved some of her hair and planted it on Debbie Reston fifteen years later on the night that John Mathers was set to be executed.</p>
+<p><strong>Catherine</strong>: John Mathers is the copycat.</p>
+<p><strong>Grissom</strong>: Yeah. And the original killer's still out there playing a really twisted game.</p>
+<p>FADE TO BLACK.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<hr />
+[INT. CSI - LAB]</p>
+<p>(GRISSOM is in the lab testing the paint samples.)</p>
+<p>(He puts a bit on the card marked &quot;Paint Sample #3&quot;. He places the card in the machine, closes it and starts it.)</p>
+<p>(Quick CGI POV of the light beam reading the sample. End of CGI POV. Resume to present.)</p>
+<p>(GRISSOM waits for the results. On the monitor the results for &quot;Charlene Roth&quot; appear.)</p>
+<p>(The monitor clears then shows a paint comparison of the four paint samples for the four victims: DEBBIE RESTON, CHARLENE ROTH, JANET KENT and MARCIA REESE. The test comparison shows that the only different sample is the sample from CHARLENE ROTH.)</p>
+<p>(Camera holds on GRISSOM.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- LOCKER ROOM]</p>
+<p>(CATHERINE opens her locker and removes her bag. She closes the locker and heads out.)</p>
+<p>[HALLWAY]</p>
+<p>(She sees GRISSOM in the hallway. She walks down the hallway, GRISSOM follows her.)</p>
+<p><strong>Catherine</strong>: Oh. Hey. Mathers' execution's back on. The Roths asked me to sit with them.</p>
+<p><strong>Grissom</strong>: Is that a good idea?</p>
+<p><strong>Catherine</strong>: I just need to do it.</p>
+<p><strong>Grissom</strong>: Why?</p>
+<p><strong>Catherine</strong>: It's like your first autopsy ... your first murdered child. You can make it through that you can keep doing this work.</p>
+<p>(GRISSOM shows CATHERINE the results of the paint sample comparison.)</p>
+<p><strong>Grissom</strong>: All the paints match all the victims except for Charlene Roth. See, being capable of matching paint samples that are fifteen years apart that's why I keep doing this work.</p>
+<p><strong>Catherine</strong>: (smiles) Well, that's the difference between you and me.</p>
+<p>(CATHERINE leaves. She passes SARA on her way out walking in toward GRISSOM.)</p>
+<p><strong>Catherine</strong>: Hey.</p>
+<p><strong>Sara</strong>: (to CATHERINE) Hey. (to GRISSOM) Dean of the art school came up with a name. A Cody Lewis. He was a grad student at WLVU in the late '80s same time the three girls were murdered. He left just after the Roth case for a post-doc in Louisiana.</p>
+<p><strong>Grissom</strong>: Where is he now?</p>
+<p><strong>Sara</strong>: WLVU since September. He's an assistant professor there.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT -- INTERROGATION ROOM]</p>
+<p>(BRASS looks at a photo of CODY LEWIS' painting. It's of a woman with her hands tied.)</p>
+<p><strong>Brass</strong>: So you like to paint dead girls?</p>
+<p><strong>Cody Lewis</strong>: I paint what I feel.</p>
+<p>(BRASS turns around and looks at CODY LEWIS.)</p>
+<p><strong>Brass</strong>: Yeah, sure. You know, you're an artist. So back in '87 when you painted this girl what were you feeling? That you wanted her to die? (pause)<br />
+What's the subject matter this week? More dead girls?</p>
+<p><strong>Cody Lewis</strong>: I haven't been doing a lot of painting lately.</p>
+<p><strong>Brass</strong>: Uh-huh. So it's just a coincidence that another coed gets murdered right after you show up in Vegas, right?</p>
+<p><strong>Cody Lewis</strong>: Listen, I painted that fifteen years ago. Right after that second girl was murdered ... Marjorie something. Really affected me. Affected everyone.</p>
+<p><strong>Brass</strong>: Yeah, but it affected you more. Because you knew the first victim. Right? Janet Kent.</p>
+<p><strong>Cody Lewis</strong>: Yeah, I knew Janet.</p>
+<p><strong>Brass</strong>: Come on, Cody, man. You two had a thing. </p>
+<p><strong>Cody Lewis</strong>: We had a date. I took her to a Springsteen show. We had drinks afterwards and that was it.</p>
+<p><strong>Brass</strong>: So what, did she reject you? Did she give you the, uh ... &quot;Cody, we can still be friends&quot;? That speech?</p>
+<p><strong>Cody Lewis</strong>: No. Never got that far.</p>
+<p><strong>Brass</strong>: I was just wondering, because some guys can't take &quot;no&quot; for an answer. But that's not you, right?</p>
+<p>(Camera holds on CODY LEWIS.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI -- GARAGE]</p>
+<p>(NICK, SARA and WARRICK checks out CODY LEWIS' car.)</p>
+<p><strong>Nick</strong>: Okay, I'm getting this to trace. Hey, check out the vehicle's upholstery. It's black and it's a Chevy ... </p>
+<p><strong>Sara</strong>: We got nothing. Nobody cleans a car this good. There is no evidence that Debbie Reston was transported in this vehicle.</p>
+<p><strong>Warrick</strong>: Still doesn't rule out Cody Lewis as a suspect.</p>
+<p>CUT TO:</p>
+<hr />
+[INT. CSI - PRINT LAB -- NIGHT]</p>
+<p>(JACQUI checks out the print. NICK waits for the results.)</p>
+<p><strong>Jacqui Franco</strong>: You got to wonder when a guy gives it up this easily. Prints, DNA, his car ... </p>
+<p><strong>Nick</strong>: Yeah, well ... maybe he's thinks he's some kind of smart guy you know, covering all the bases.</p>
+<p><strong>Jacqui Franco</strong>: Or maybe he didn't do it.</p>
+<p><strong>Nick</strong>: What's that?</p>
+<p><strong>Jacqui Franco</strong>: His prints don't match the partial on the Debbie Reston trash bag.</p>
+<p><strong>Nick</strong>: Wonderful.</p>
+<p>(JACQUI nods her head.)</p>
+<p><strong>Nick</strong>: Thanks.</p>
+<p>(NICK turns to leave.)</p>
+<p>CUT TO:<br />
+[EXT. PRISON - NIGHT]</p>
+<hr />
+[INT. EXECUTION OBSERVATION ROOM]</p>
+<p>(The GUARD near the door puts a small packet of ammonia in CATHERINE'S palm.)</p>
+<p><strong>Catherine</strong>: Thanks.</p>
+<p><strong>Guard</strong>: Ammonia ... in case anyone starts to feel ... unsteady.</p>
+<p>(CATHERINE takes a seat next to SALLY ROTH in the front row. CATHERINE looks around a bit, then turns to face the front. The curtains to the window are closed.)</p>
+<p>(Cut to: In the next room, the GUARDS tie JOHN MATHERS' arms down to the table. They secure his ankles to the table. They strap on the belt at his waist. They remove his handcuffs to secure his right hand. They inject the needle into his arm and secure the heart monitor electrodes to his chest. Camera close up of his eyes as he's being prepared.)</p>
+<p>(The curtains to the observation room window open. JOHN MATHERS turns his head and sees CATHERINE up front and center.)</p>
+<p>(The last guard leaves the room.)</p>
+<p>CUT TO:<br />
+SCENE #46</p>
+<p>[INT. POLICE DEPARTMENT - BRASS' OFFICE -- NIGHT]</p>
+<p>(On his laptop, BRASS scrolls through the photographs of the murder cases.)</p>
+<p><strong>Brass</strong>: I keep racking my brain going over these unsolved murder cases and I keep coming back to the fact that they're fifteen years apart. That means he's either out of town or in the joint.</p>
+<p><strong>Grissom</strong>: Why wouldn't he take his business to some other college if it was only about young girls?</p>
+<p><strong>Brass</strong>: It's got to be personal. He wanted to kill those girls.</p>
+<p>CUT TO:<br />
+SCENE #47</p>
+<p>[INT. EXECUTION OBSERVATION ROOM]</p>
+<p>(The first syringe is injected into the I.V. tube.)</p>
+<p>(Quick CGI POV through the tube and fast forward with the liquid to the red blood cells. End of CGI POV.)</p>
+<p>(Cut to: A close up of JOHN MATHERS' left eye with pupil dilating.)</p>
+<p>(Cut to: CGI POV of the heart beating very slowly. Resume to present.)</p>
+<p>(Cut to: JOHN MATHERS on the table struggling to breathe and CATHERINE watching in the background.)</p>
+<p>(Cut to: TOM ROTH looks at SALLY ROTH. SALLY ROTH watches JOHN MATHERS, a picture of her daughter CHARLENE is clutched in her hands.)</p>
+<p>(Quick flashback to CHARLENE ROTH struggling against her attacker. End of flashback. Resume to present.)</p>
+<p>(Cut back to: TOM ROTH.)</p>
+<p>(Cut to: JOHN MATHERS on the table.)</p>
+<p>(Cut to: Close up of JOHN MATHERS chest and his breathing. Camera hold on his ear. Camera cut to his dilated eye.)</p>
+<p>(Cut to: CATHERINE watches through the window. SALLY ROTH reaches over and holds CATHERINE'S hand. She looks at CATHERINE.)</p>
+<p>(JOHN MATHERS' eyes flutter closed. The heart monitor flatlines.)</p>
+<p>(Camera holds on CATHERINE.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - BRASS' OFFICE -- NIGHT]</p>
+<p><strong>Brass</strong>: I mean, I don't know much about bugs, but most animals hunt in their own backyard.</p>
+<p><strong>Grissom</strong>: True of insects as well. You know why?</p>
+<p><strong>Brass</strong>: It's where they feel most comfortable.</p>
+<p><strong>Grissom</strong>: And where they can blend in the best.</p>
+<p>(Quick flash to: Students walk across the campus. Special note of the men wearing glasses. End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: This guy had ties to Western LVU. He paints a railing on a campus walkway. I tried it; took me about five minutes.</p>
+<p><strong>Brass</strong>: My guys were all over that school. Nobody remembers seeing anything.</p>
+<p><strong>Grissom</strong>: Probably because there wasn't much to see. </p>
+<p>(Quick flash to: Students walk across the campus. Nothing special there.)</p>
+<p><strong>Grissom</strong>: (V.O.) He must've looked as though he belonged. </p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Grissom</strong>: Like the insects, he blended in.</p>
+<p>(BRASS sighs heavily.)</p>
+<p><strong>Brass</strong>: Yeah. </p>
+<p>(BRASS opens his desk drawer and pulls out a bottle.)</p>
+<p><strong>Brass</strong>: You off the clock?</p>
+<p><strong>Grissom</strong>: I guess.</p>
+<p>CUT TO:</p>
+<hr />
+[EXT. PRISON -- NIGHT]</p>
+<p>(CATHERINE walks back to her car. On the other side of the wire fence are protesters with signs. The guard opens the wire gate, she walks through it and into the crowd.)</p>
+<p>CUT TO:</p>
+<hr />
+[INT. POLICE DEPARTMENT - BRASS' OFFICE -- NIGHT]</p>
+<p><strong>Brass</strong>: He's going to kill again.</p>
+<p><strong>Grissom</strong>: Yeah. And all we've got is a partial fingerprint and an M.O. that may lead us in the right direction.</p>
+<p><strong>Brass</strong>: You know sometimes in this job I'd rather be lucky than good. Maybe next time we'll get lucky.</p>
+<p><strong>Grissom</strong>: I don't believe in luck. My only real purpose is to be smarter than the bad guys to find the evidence that they didn't know they left behind and make sense of it all. Makes me very uncomfortable to realize that this guy may be smarter than me.</p>
+<p>FADE TO BLACK.</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1459527768921&ie=UTF8&benefitID=showtimeSub&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=E7D4OGT2GLOJ4XMR">Join SHOWTIME Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-(The audience waits. The clock counts down with every passing second ...
-11:59:54 ... 11:59:55 ... )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Medic: Let's go. We have a stay of execution. We've got thirty seconds to revive him.
-
-
-
-
-
-Catherine: Grissom ... a stay. New evidence appeal: Hair analysis. I already over-nighted the six pubic hairs found on the victim to norfolk -- Department of Criminal Justice -- for mitochondrial DNA analysis. 
-
-
-RESUME TO PRESENT:
-
-Catherine: Defense thinks DNA's a magic pill for exoneration. I doubt if it's going to change the outcome. 
-
-
-
-
-
-Catherine:  You don't know what I'm talking about.
-Grissom: Not really.
-
-Catherine: People v. John Mathers. Serial. Western LVU. I was a rookie ...
-Grissom: Three dead co-eds?
-Catherine: All sexually assaulted, but no semen was found. Suspected he wore a condom. 
-Grissom: Dumped in garbage bags. 
-Catherine: Case with the strongest evidence was victim number three: Charlene Roth. Mathers, a campus security guard got Murder One for that.
-Grissom: When are you going to get the test back?
-Catherine: I put a rush on it.
-
-Grissom: Is this your first one?
-Catherine: First to exhaust all of his appeals and get an execution date. 
-
-Catherine: How many have you had?
-Grissom: Two. 
-
-Grissom: So, how do you feel about it?
-Catherine: Mathers was convicted and sent to death row by a jury of his peers. I played a small part. I presented my findings ... 
-Grissom: Non-responsive.
-
-Catherine: Okay. I haven't figured out how I feel yet. 
-Grissom: It's just about evidence. It's not up to you whether he lives or dies. 
-
-Grissom: Case has no face.
-
-
-
-
-
-
-
-
-Brass: Cops did a welfare check on this residence. A girl, 17, didn't show up for work and they found dad passed out on the sofa in a blood-soaked t-shirt.
-
-Grissom: Did he have anything to say about his daughter?
-Brass: Mr. Reston, uh, can't remember what day it is. Claims he was in a bar fight.
-Sara: &quot;Pass&quot; test?
-Brass: His blood alcohol level is .37.
-Grissom: Ooh ... alcoholic.
-Brass: Yeah.
-
-Sara: Lucky me.
-Grissom: Yeah.
-
-Brass:  Hey, buddy! This is Sara Sidle of the Las Vegas Crime Lab. She's going to ask you some questions.
-Sara: Sir, I need your shirt and I need to see your hands.
-Brass: Shirt and hands!
-
-
-
-
-Grissom: Hey.
-Nick: Hey.
-
-Nick: People are pigs.
-Grissom: Don't insult the pigs, Nick. They're actually very clean.
-
-
-
-Grissom: And this would be the girl's room.
-Nick: Doesn't seem like the same house.
-
-Grissom: Dead bolts on her bedroom door.
-Nick: Trying to keep something out.
-Grissom: Hmm.
-
-Grissom: A bedroom refrigerator?
-
-Grissom: There's milk, fruit ... a toaster?
-Nick: Guess they weren't much on family dinners.
-
-Grissom: Nick?
-
-Nick: A gi and a black belt.
-Grissom: Trained in the art of self-defense.
-
-Nick:  I'll bag it.
-
-
-
-
-
-
-
-
-
-
-
-Brown: I heard Mathers had that I.V. In his arm and everything, when that call came in. Never had a death penalty case get that far. Just working it all out?
-Catherine: Yeah. Old case, new eyes, new technology. 
-Warrick: This evidence was processed, what, fifteen years ago?
-Catherine: That was before DNA. Now that the case has been reopened I can re-evaluate all three murders. We always thought Mathers was good for the other two, but if they overturn Charlene Roth with the new DNA, we can go back and try Mathers with the other two murders with the new evidence.
-Warrick: Keep Mathers in prison. 
-
-Catherine: You pro or con?
-Warrick: Pro, if he did it. The applications sucks, though. There's a lot of brown skin on that row.
-Catherine: Yeah.
-Warrick: What about you?
-Catherine: I try not to give it much thought. I stick to the work.
-Warrick: Really?
-Catherine: Campus police found the victim Charlene Roth in this trash bag.
-Warrick: The trash bag, yeah. I was looking at that. Processed with superglue, rhodamine, laser. No prints found though.
-
-Catherine: Who's working the print lab tonight?
-Warrick: Franco. Just off of days.
-
-
-
-
-
-Greg: Hey, I hear you're cheating on me with an out-of-state DNA analyst.
-Catherine: Apples and oranges, Greg. Fifteen-year-old hair samples no roots, room-temperature storage.
-Greg: Room temp?
-Catherine: Yeah, that's how we stored hair evidence back then. Microscopy was king.
-Greg: Really? I thought Elvis was king.
-Catherine: And you are how old?
-Greg: Age is irrelevant in our relationship.
-Catherine: Maybe so, but face it, Greg you just don't have the equipment.
-Greg: The government results won't give you an individual profile and you can't put them through CODIS.
-Catherine: Well, maternal lineage is good enough on this one. No one else on Mathers' mother's side is a suspect. So, if it's a match, the stay is lifted he's back in the chamber. If not, we're back in court.
-
-
-
-LEGEND: DEPARTMENT OF CRIMINAL JUSTICE MITOCHONDRIAL DNA LAB NORFOLK, VIRGINIA
-
-
-
-
-
-
-Catherine: Jacqui ... I'm so glad you're back on nights. Got a good one for you.
-
-Jacqui Franco: Trash bag? Yeah, love it. 
-
-Catherine: Give it some vacuum metal deposition. 
-Jacqui Franco: Hottest thing going for plastic. If there's anything to be found, my machine'll find it.
-Catherine: And, um, super-rush. You're in a race with the federal lab.
-Jacqui Franco: Make my night; love to compete with the Feds. You and me need to catch up. How's Lindsey?
-Catherine: Second grade, tons of homework.
-Jacqui Franco: Lucky for her she got your smarts, not Eddie's.
-Catherine: Hmmph. Now I know why I missed you so much. So, page me as soon as you're done.
-Jacqui Franco: Mm-hmm. Putting you up first. You owe me a beer.
-Catherine: Yep.
-
-
-
-
-
-Grissom: Looks like somebody's been doing some digging.
-
-
-
-Nick: Glock. Laser sight. Slide's missing. Mr. Reston was a bit of a garage tinkerer.
-Grissom: Great. Drunks with guns.
-
-Sara: Hey.
-Nick: Hey.
-Grissom: M11-9. Empty box.
-Sara: He didn't have any kind of weapon on him.
-Nick: Okay, we're into it.
-Sara: I'm going to take Reston's shirt back to Greg.
-Nick: Mm-hm. Do me a favor?
-Sara: Yeah?
-Nick: Inside, bloody towel, bagged and tagged.
-Sara: You got it.
-Nick: Thanks.
-Sara: Woo. After this place, I need a shower.
-
-
-Nick: There's our M-11. 16-round magazine. Two remaining. One in the chamber. Modified to fully automatic.
-Grissom: Up to 14 rounds expended and unaccounted for.
-Nick: Missing girl's old man's got blood all over him. Blood in her room ...
-Grissom: I think it's time for dear old dad to go to detox.
-
-
-
-
-Catherine:  I would like a vanilla ice soy blended latte, please.
-
-Sally Roth: Ms. Willows.
-Catherine: Yes?
-Sally Roth: Sally Roth. My husband Tom heard from a friend that you came here.
-Catherine: I'm sorry. Do I know you?
-Sally Roth: We're Charlene Roth's parents.
-Catherine:  Mr. and Mrs. Roth. I'm sorry. I didn't recognize you.
-Sally Roth: We were just wondering if you had any news.
-Catherine: You know any news has to go through the attorney general's office. I can't divulge any information on an open case.
-Sally Roth: He-he was convicted. It is not an open case to us.
-Catherine: I was confident at trial. I'm still confident. The evidence is solid.
-Sally Roth: If the court overturns the convic ...
-Tom Roth: We just can't go through another trial.
-
-Catherine: Uh, well, you will have an answer very soon. I'm sure of it.  Excuse me. I need to go.
-
-
-
-
-
-Catherine: What's going on? I'm not on call.
-Sgt. O'Riley: I know. I called you because your name's on the memo.
-Catherine: Which memo?
-Sgt. O'Riley: Young female, bound, trash bag. Copycats come out of the woodwork every time there's an execution.
-Catherine: Mather's attorney is going to have a field day.
-O'Riley: Come on, Cath. Everybody liked Mathers for the Kent and Reese cases but the DA wouldn't file because he already had a slam dunk with Charlene Roth. How many times can you fry a guy?
-
-Catherine:  Right.
-O'Riley: Maintenance guy thought it was trash. Picked it up, broke open.
-Catherine: Body dump. Just like 15 years ago.
-
-
-
-
-
-
-
-
-
-
-
-
-
-LEGEND: DEPARTMENT OF CRIMINAL JUSTICE MITOCHONDRIAL DNA LAB NORFOLK, VIRGINIA
-
-
-[Name of Subject: Mathers, John Date of Incident: 3-3-87
-Time 23:47 PM Search Officer: C. Willows Evidence Description: Six Crime Scene Hairs ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-David Phillips:  You ready for me?
-Catherine: Not yet.
-
-Catherine: May I?
-David Phillips: Sure.
-
-Catherine: What do you think this is?
-David Phillips: That's Grissom's bailiwick, not mine.
-Catherine: That's what I was thinking -- bug.
-
-
-Warrick: What you got?
-Catherine: Two-fer. Looks like some kind of a bug casing and black fibers.
-
-Catherine: She's all yours, David.
-
-David Phillips: Ok guys, we're clear.
-Catherine:  How come I get you?
-Warrick: Grissom says it's precautionary in case Mathers gets overturned and you get swamped.
-Catherine:  I'm glad to have the help.
-
-Warrick: This looks familiar.
-Catherine: A little too familiar. Let's figure out how she got here.
-Warrick: Yeah.
-
-
-
-
-
-
-
-Nick: Hey, Griss ... found a density change. The screen's showing something.
-
-Grissom: What's your depth estimate?
-Nick: Two and a half feet.
-Grissom: Oh, dear. Shovels and screens, chutes and ladders.
-Nick: Yeah.
-
-
-
-
-
-Robbins: A little more. There we go.
-
-Robbins: She's in rigor. At least 12 hours.
-
-Robbins: Get out your ten card and print her. But look out for this blue paint. Catherine's going to need to see it.
-
-
-
-
-Nick: Well, we got something else to hold Reston on: Illegal burial of a domestic animal.
-Grissom: Weak.
-Nick: I'll cover him back up.
-Grissom: So Debbie Reston never showed up at work and she's not buried in the backyard. Where did Debbie go?
-
-
-
-
-Reston: I don't know her schedule. She works, goes to school. I hardly ever see her.
-Brass: She's 17. She lives in your house. You're going to have to do better than that.
-Reston: Stuck-up bitch is ashamed of me. Can't wait to graduate high school and move out. She's already got a job: Coffee shop. Got a car.
-Brass: What kind of car?
-Reston: VW convertible, blue.
-Brass: And as a concerned parent, you're going to ask me to put out a broadcast, aren't you?
-
-
-Reston: Whatever.
-Brass: Is the car in her name or yours? I'm going to need the license plate number. You listening to me?
-
-Sara: I just left Greg in DNA. Blood on Reston's shirt is his own.
-Grissom: Blood on the towel?
-Sara: Eight markers match family member. There's only two people in the house. It's probably Debbie's but there isn't that much blood on the towel.
-Grissom: So what? Innocuous injury?
-Sara: That's what I'm thinking.
-Reston: You got kids? They think it's all about them. Like I owe her.
-
-Brass: Well, you owe your daughter more than being a drunk. You know, I think that maybe jail might be the best thing for you right now.
-Reston: I think she just took off ... like her mother.
-
-Sara: Can you believe this guy? I wouldn't blame his kid if she just took off.
-
-
-
-
-
-Sgt. O'Riley: Hey. Catherine and I got a case at the university -- dead female. Prints just came back. Matches your missing girl, Debbie Reston.
-Grissom: Brass just put a broadcast out on her car.
-Sgt. O'Riley: Then my guys will find it. They're posting her now.
-
-
-
-
-Robbins: Crazy world out there.
-Grissom: Sorry I'm late. So, where are we?
-Catherine: Debbie Reston, 17. She was taking a night class at Western LVU. Pre-req for early admission.
-Grissom: So technically she was a Western LVU student.
-Catherine: Yep. Just like Mathers' other victims.
-Robbins: Thought Mathers was on death row.
-Catherine: Mm-hmm. Doc, you were here back then. Tell me why this one's different.
-Robbins: Suspect must be intimately familiar with the minutiae of the prior cases. What's identical: Cause of Death-- strangulation. Bruising on her wrists plastic zip tie, navy-blue paint. There is one new element: Defensive wounds on the hands. Whatever she grabbed onto shattered and caused these lacerations.
-Grissom: Is that before or after she got the paint on her hands?
-Robbins: After. One of these cuts sliced right through the paint. 
-
-Robbins: The paint was there first.
-
-Grissom: It's still wet.
-Catherine: So she's been dead at least 12 hours, right?
-Robbins: Right.
-Grissom: What kind of paint doesn't dry in 12 hours, I wonder.
-
-
-
-LEDGEND: DEPARTMENT OF CRIMINAL JUSTICE MITOCHONDRIAL DNA LAB NORFOLK, VIRGINIA
-
-
-
-
-
-Ms. Campbell: Ms. Willows. I heard you're investigating the murder at Western LVU. Female, young, bound dumped in a trash bag.
-
-Catherine: You know that I can't confirm or deny any information regarding an active investigation. Excuse me.
-
-Ms. Campbell: Ms. Willows, my client's life is on the line here. We've always maintained John Mathers' innocence.
-Catherine: Ms. Campbell, I have no personal opinion about your client. I tested the evidence in his case and that evidence failed to exonerate him.
-Ms. Campbell: Fifteen years ago. Before DNA. Before the real killer struck again. You are going to test the pubic hair sent to the federal lab against the new suspect ...
-Catherine: What suspect? I can't help you.
-Ms. Campbell:  You CSIs are biased for the prosecution. You decide ahead of time how you want the evidence to come out.
-Catherine: Ms. Campbell, I am only an interpreter of the evidence. I know how to make the evidence speak to me. I don't care about the outcome.
-Ms. Campbell: How about guilt or innocence? John was 15 seconds from execution. Sure you're not biased? I hear the same evidence speaking. You know what it's telling me? The killer's still out there.
-
-
-
-
-
-Sara: It's Debbie Reston's car. Looks like you and I are officially running with the same case.
-Warrick: Yeah? It's got to be the cleanest tape lift I've ever seen. There's no stains of any kind in this car.
-
-Sara: Whatever happened to her happened after she left her car.
-Sgt. O'Riley: Debbie Reston was taking economics 101. 6:00 to 8:00 P.M. Never missed a class before last night.
-Warrick: Well, this is my alma mater. Econ 101-- that's Sabian Hall. It's a long walk from here but I know the way.
-
-Sgt. O'Riley: I'll have to catch up with you.
-
-
-
-
-Warrick: Damn. It's still wet.
-
-Warrick: What's the first thing you'd do if you got paint on your hands?
-
-Sara: Wash it off.
-
-
-
-
-
-Grissom: We found glass in the lacerations on her right hand.
-
-Warrick: I'll see if I can get a match from this.
-Sara: He painted the railing and just waited by the water fountain. Victim was like a fly in a spiderweb. 
-
-Grissom: We just learned something we didn't know about the prior murders.
-Catherine: Yes, what the paint was all about.
-Grissom: And if we just learned about it now, how did the copycat killer know?
-
-
-
-;
-
-
-
-
-
-
-Sara: Looks like Debbie isn't the only one who got paint on her hands.
-
-
-Grissom: Well, maybe he was waiting till he saw the girl he wanted.
-
-Sara: That's creepy.
-
-Sara: I'll call the fire department, get a circular saw. Take this back to the lab.
-
-
-Warrick: I've got a backpack. Wallet ... Debbie Reston. Credit cards ... money, keys.
-
-Catherine: Not what he was looking for.
-
-Grissom: What are you doing? 
-Catherine: I found pieces of this in the victim's hair. What's it look like to you?
-Grissom: Hmm, what does it sound like?  With the exception of the termite queen, the cicada is the longest-living insect. Spends seventeen years dormant underground and then the cicada nymph emerges and sheds its skin. 
-
-Grissom: As adults they flit around for about five weeks of activity in the hot sun and then they die. 
-Catherine: They spend their whole lives waiting for the end.
-Grissom: Not unlike death row.
-
-
-
-LEGEND: DEPARTMENT OF CRIMINAL JUSTICE MITOCHONDRIAL DNA LAB NORFOLK, VIRGINIA
-
-
-
-
-
-Warrick: This is the spot. You can see the path and the rail.
-
-Grissom: Well, and if she was trying to clean off her right hand in this fountain she would have had to be in this position.
-
-Warrick: And he waited till her back was turned ... and came up behind her.
-
-Catherine: I found some more glass.  Looks polarized.
-
-Grissom: Well, lightbulb glass isn't polarized. Eyeglasses are.
-Catherine: Yeah.
-Grissom: You know, she was a black belt. Maybe she fought back.
-Warrick: That would explain why she had defensive wounds and none of the other victims did.
-
-
-
-SCENE #32
-
-Jacqui Franco: Sorry about the &quot;no print&quot; results on the Mathers' case.
-Catherine: Make it up to me. I got a new case. New bag.
-
-
-
-
-Jacqui Franco: It's only partial but I've got a hit off less.
-Catherine: Great.
-
-
-
-Sara: Hey, you know that black fiber that Catherine pulled from Debbie Reston's hair?
-
-Nick: Yeah.
-Sara: It's trilobal. 
-Nick: Vehicle upholstery.
-Warrick: It's not from her car. Her upholstery is red.
-Sara: That's good for us. She was killed at the water fountain but the body was dumped at the library.
-Nick: You can't carry a body in plain sight on campus even in at night.
-Sara: Odds are decent we're looking at a fiber from the killer's vehicle.
-
-Sara: Generic chevy.
-Nick:  Well, that kind of narrows it down.
-
-Warrick: The glass on the left is not polarized. There's not color change.
-Nick: What, from the busted security light?
-Warrick: Yeah, the one found in the path. Not the one found in her hand.
-Nick: Okay, the guy broke the bulb on purpose.
-Sara: Gives him an advantage -- cover of darkness.
-Warrick: I'll buy that, but the glass on the right was the one extracted from the cuts on her hand. And it matches the glass that Catherine found near the water fountain.
-Sara: Confirms that Debbie fought with her attacker.
-Nick: Suspect's minus one point two five.
-Warrick: What is that, 20/80? That's like half of mine. It's not much of a correction.
-Sara: Great. We're looking for a guy with a 20/80 prescription who drives a Chevy with black interior.
-
-
-
-
-Greg: Hey. Got your report from the Feds.
-Catherine: Why did it come to you?
-Greg: Because they returned the DNA evidence to me. I took a look at the results. Didn't think you'd mind.
-Catherine: I do.
-
-Catherine: All six hairs are a match to Mathers. 
-
-
-
-LEGEND: DEPARTMENT OF CRIMINAL JUSTICE MITOCHONDRIAL DNA LAB NORFOLK, VIRGINIA
-
-
-
-
-
-Catherine: He raped and murdered Charlene Roth. 
-Greg: Dead bang. Airtight. Good night, John.
-Catherine:  How are you coming with that twist tie, Greg?
-Greg: The new case?
-Catherine: Yeah.
-Greg: Working on it.
-Catherine: Good. Keep working on it.
-
-
-
-
-
-Catherine: Slam dunk on Mathers.
-Grissom: Good. The paint on Debbie Reston's hands ... 
-Catherine: Yeah?
-Grissom: ...Oil-based blue.
-Catherine: Oil-based? That's for canvases, not railings.
-Grissom: Not only that, it was mixed with 30-weight motor oil. Which isn't a component of any commercial paint. As an additive however ... keeps paint from drying.
-
-Catherine: Okay ... he knew what he was doing. Expanding his window of opportunity.
-
-Grissom: Hello? Hairs. Hopefully from his paintbrush.
-Catherine: And the paint matches Western LVU shade of blue. 
-Grissom: He knows a lot about paint.
-
-Willows:  He knows a lot about that campus.
-
-
-
-
-Man: I don't know what I can tell you. I've only been here since '95.
-Catherine: Well, is there anyone in the art department who was here when the first murders took place?
-Man: A couple of the guys predate me. I'll ask around.
-
-Grissom: Are any of these brushes made with badger hair?
-Man: We artists covet our brushes.  That's Russian Blue Squirrel ... Japanese Synthetic ... Badger.
-
-Grissom: In the oil paint sample we collected we found both badger hair and nylon bristles.
-Man: Anyone who's studied art would never use nylon with oils unless they were using the paint for something else. When brushes age ...
-
-Man:  ... they shed hairs. Then, if they used a nylon brush the next time ...
-
-Catherine: Say I wanted a badger hair paintbrush -- where would I buy one?
-Man: Student union sells them. Most art stores. You can get them cheaper on the internet.
-
-Grissom: Sorry. I was admiring your frames. Nice.
-
-
-
-
-
-Greg: The results are back on the zip tie you removed from Debbie Reston's wrists. No foreign epithelials, but I did find an errant hair DNA tag still attached. It's not Debbie Reston's. 
-
-Greg: Catherine asked me to cross-check everything with the old cases. It actually belongs to Janet Kent.
-Catherine: Janet Kent-- the first victim?
-Greg: I know.
-Grissom: So Janet Kent's killer saved some of her hair and planted it on Debbie Reston fifteen years later on the night that John Mathers was set to be executed.
-Catherine: John Mathers is the copycat.
-Grissom: Yeah. And the original killer's still out there playing a really twisted game.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Catherine: Oh. Hey. Mathers' execution's back on. The Roths asked me to sit with them.
-Grissom: Is that a good idea?
-Catherine: I just need to do it.
-Grissom: Why?
-Catherine: It's like your first autopsy ... your first murdered child. You can make it through that you can keep doing this work.
-
-Grissom: All the paints match all the victims except for Charlene Roth. See, being capable of matching paint samples that are fifteen years apart that's why I keep doing this work.
-Catherine:  Well, that's the difference between you and me.
-
-Catherine: Hey.
-Sara:  Dean of the art school came up with a name. A Cody Lewis. He was a grad student at WLVU in the late '80s same time the three girls were murdered. He left just after the Roth case for a post-doc in Louisiana.
-Grissom: Where is he now?
-Sara: WLVU since September. He's an assistant professor there.
-
-
-
-
-Brass: So you like to paint dead girls?
-Cody Lewis: I paint what I feel.
-
-Brass: Yeah, sure. You know, you're an artist. So back in '87 when you painted this girl what were you feeling? That you wanted her to die? 
-What's the subject matter this week? More dead girls?
-Cody Lewis: I haven't been doing a lot of painting lately.
-Brass: Uh-huh. So it's just a coincidence that another coed gets murdered right after you show up in Vegas, right?
-Cody Lewis: Listen, I painted that fifteen years ago. Right after that second girl was murdered ... Marjorie something. Really affected me. Affected everyone.
-Brass: Yeah, but it affected you more. Because you knew the first victim. Right? Janet Kent.
-Cody Lewis: Yeah, I knew Janet.
-Brass: Come on, Cody, man. You two had a thing. 
-Cody Lewis: We had a date. I took her to a Springsteen show. We had drinks afterwards and that was it.
-Brass: So what, did she reject you? Did she give you the, uh ... &quot;Cody, we can still be friends&quot;? That speech?
-Cody Lewis: No. Never got that far.
-Brass: I was just wondering, because some guys can't take &quot;no&quot; for an answer. But that's not you, right?
-
-
-
-
-
-Nick: Okay, I'm getting this to trace. Hey, check out the vehicle's upholstery. It's black and it's a Chevy ... 
-Sara: We got nothing. Nobody cleans a car this good. There is no evidence that Debbie Reston was transported in this vehicle.
-Warrick: Still doesn't rule out Cody Lewis as a suspect.
-
-
-
-
-Jacqui Franco: You got to wonder when a guy gives it up this easily. Prints, DNA, his car ... 
-Nick: Yeah, well ... maybe he's thinks he's some kind of smart guy you know, covering all the bases.
-Jacqui Franco: Or maybe he didn't do it.
-Nick: What's that?
-Jacqui Franco: His prints don't match the partial on the Debbie Reston trash bag.
-Nick: Wonderful.
-
-Nick: Thanks.
-
-
-
-
-
-
-Catherine: Thanks.
-Guard: Ammonia ... in case anyone starts to feel ... unsteady.
-
-
-
-
-
-SCENE #46
-
-
-Brass: I keep racking my brain going over these unsolved murder cases and I keep coming back to the fact that they're fifteen years apart. That means he's either out of town or in the joint.
-Grissom: Why wouldn't he take his business to some other college if it was only about young girls?
-Brass: It's got to be personal. He wanted to kill those girls.
-
-SCENE #47
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Brass: I mean, I don't know much about bugs, but most animals hunt in their own backyard.
-Grissom: True of insects as well. You know why?
-Brass: It's where they feel most comfortable.
-Grissom: And where they can blend in the best.
-
-Grissom: This guy had ties to Western LVU. He paints a railing on a campus walkway. I tried it; took me about five minutes.
-Brass: My guys were all over that school. Nobody remembers seeing anything.
-Grissom: Probably because there wasn't much to see. 
-
-Grissom:  He must've looked as though he belonged. 
-
-Grissom: Like the insects, he blended in.
-
-Brass: Yeah. 
-
-Brass: You off the clock?
-Grissom: I guess.
-
-
-
-
-
-
-
-Brass: He's going to kill again.
-Grissom: Yeah. And all we've got is a partial fingerprint and an M.O. that may lead us in the right direction.
-Brass: You know sometimes in this job I'd rather be lucky than good. Maybe next time we'll get lucky.
-Grissom: I don't believe in luck. My only real purpose is to be smarter than the bad guys to find the evidence that they didn't know they left behind and make sense of it all. Makes me very uncomfortable to realize that this guy may be smarter than me.
-
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=03x06+-+The+Execution+of+Catherine+Willows&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127335%23p127335" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=03x06+-+The+Execution+of+Catherine+Willows&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127335%23p127335" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127335%23p127335&amp;name=03x06+-+The+Execution+of+Catherine+Willows" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127335%23p127335" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=a1c606fb1f1455af6e94b4b62a47f4c1">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=a1c606fb1f1455af6e94b4b62a47f4c1">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=a1c606fb1f1455af6e94b4b62a47f4c1">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=a1c606fb1f1455af6e94b4b62a47f4c1">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

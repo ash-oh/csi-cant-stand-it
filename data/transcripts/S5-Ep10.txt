@@ -1,750 +1,980 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY COMMUNITY (STOCK) - NIGHT]
+[EXT. EMPTY LOT - COMMUNITY -- NIGHT] 
+(Brass and Sofia stand around a dead body while Gris" />
+<meta property="og:title" content="05x10 - No Humans Involved - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. LAS VEGAS CITY COMMUNITY (STOCK) - NIGHT]
+[EXT. EMPTY LOT - COMMUNITY -- NIGHT] 
+(Brass and Sofia stand around a dead body while Gris" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13292" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>05x10 - No Humans Involved - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13292" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13292">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=7ad6bb2620179d6ceb88defb30bfd661"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=7ad6bb2620179d6ceb88defb30bfd661">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=7ad6bb2620179d6ceb88defb30bfd661">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=7ad6bb2620179d6ceb88defb30bfd661">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=7ad6bb2620179d6ceb88defb30bfd661">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13292&amp;sid=7ad6bb2620179d6ceb88defb30bfd661&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>05x10 - No Humans Involved</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127386">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127386">05x10 - No Humans Involved</a></div>
+							<div class="pull-right text-right"><time datetime="2004-12-23T22:14:25Z">12/23/04 22:14</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. LAS VEGAS CITY COMMUNITY (STOCK) - NIGHT]</p>
+<p>[EXT. EMPTY LOT - COMMUNITY -- NIGHT] </p>
+<p>(Brass and Sofia stand around a dead body while Grissom crouches down to examine it closer.) </p>
+<p><strong>Brass</strong>: So, the gang unit says our D.B. is a sixteen-year-old Tyson Plummer.</p>
+<p><strong>Sofia Curtis</strong>: How many holes in the victim?</p>
+<p><strong>Grissom</strong>: I count four.</p>
+<p><strong>Sofia Curtis</strong>: Eleven shell casings. Shooter emptied the gun -- so he was moving and shooting. Only hit the vic four times.</p>
+<p><strong>Grissom</strong>: She talks to herself.</p>
+<p><strong>Brass</strong>: Hey, it works for me.</p>
+<p><strong>Sofia Curtis</strong>: Bullets that missed hit the outside building wall.</p>
+<p>(She turns and looks back at the gun holes in the outside building wall.) </p>
+<p><strong>Kid 1</strong>: (o.s.) Hey, man, what ya doing in my back alley! </p>
+<p>(Greg is standing on the side mapping the area when the kid's shouts draw his attention. On the sidewalk, he sees two kids playing near the trash. One kid holds out his hand as if holding a gun at the other kid.) </p>
+<p>KIDN 1: Bang, bang, bang, bang.</p>
+<p><strong>Kid 2</strong>: Man, you know Andre didn't cap him like that.</p>
+<p>(Greg ducks under the crime scene tape and makes his way toward the two kids who continue arguing.) </p>
+<p><strong>Kid 1</strong>: Did too.</p>
+<p><strong>Kid 2</strong>: Did not!</p>
+<p><strong>Kid 1</strong>: Did too!</p>
+<p><strong>Kid 2</strong>: How you gonna tell me?</p>
+<p><strong>Kid 1</strong>: I saw him ...</p>
+<p><strong>Greg</strong>: Hey, guys, can I talk to you for a sec?</p>
+<p><strong>Kid 2</strong>: Run!</p>
+<p>(The two kids turn, see Greg and run. Greg continues to walk slowly toward them.) </p>
+<p><strong>Greg</strong>: I just want to ask you a few questions.</p>
+<p>(The older kid turns and bumps into the trash bin. He falls, scrambles to his feet and runs. Greg doesn't chase after them.) </p>
+<p><strong>Kid 2</strong>: Yo man! Wait up!</p>
+<p>(The kids disappear down the block. Greg turns and sees something disturbing. He kneels down to get a better look at a dead body in a trash bin.) </p>
+<p>(The dead child is rail thin and shoved into the trash bin.) </p>
+<p>(Greg dials his phone.) </p>
+<p><strong>Greg</strong>: (to phone) Grissom ...</p>
+<p><strong>Grissom</strong>: (from phone) Go ahead, Greg.</p>
+<p><strong>Greg</strong>: (to phone) We got a young male D.B. by the dumpster.</p>
+<p><strong>Grissom</strong>: (to phone) I'll be right there.</p>
+<p>(Grissom glances at Brass. He walks over to the dumpster where Greg is standing.) </p>
+<p>(At the crime scene tape surrounding the empty lot, a young man ducks under it. The officer guarding the tape tries to stop him.) </p>
+<p><strong>Officer</strong>: Hey, hey!</p>
+<p>(He knocks the officer's hands away.) </p>
+<p><strong>Leo Plummer</strong>: Get your damn hands off me!</p>
+<p>(Sofia turns around to look at the disturbance. Brass approaches the officer and Leo Plummer.) </p>
+<p><strong>Brass</strong>: Whoa, whoa. I can't let you touch him. What's your name?</p>
+<p>(The young man gets a look at the dead body on the ground and he gasps.) </p>
+<p><strong>Leo Plummer</strong>: I'm Plummer. Leo. That's my brother right there. They didn't have to do him like that, Dawg.</p>
+<p><strong>Brass</strong>: I know you know who did this, Leo.</p>
+<p><strong>Leo Plummer</strong>: Ain't your problem, man. Whoever did this is gonna get got.</p>
+<p><strong>Brass</strong>: Oh, no, don't say stuff like that. Because only two things can happen: You in shackles or you on a slab. So, let's break the odds this time. What do you say?</p>
+<p><strong>Leo Plummer</strong>: You done with me, Bacon? 'Cause I got family to go bury.</p>
+<p>(Leo turns and heads back to the crime scene tape. Brass turns and heads back to the body.)</p>
+<p><strong>Brass</strong>: Yeah.</p>
+<p>(Near the tape, there's a disturbance as voices rise.) </p>
+<p>(Camera whirls around and we see another young man running through the crowd toward Leo Plummer. He pulls out a gun and fires at Leo Plummer's back. Leo is shot point blank several times in the back.)</p>
+<p>(Grissom is examining the body and is startled by the gunshots. He looks up.)</p>
+<p>(Greg moves to take cover behind the dumpster.) </p>
+<p>(A woman screams as the gunshots end. The young man with the gun takes off running. The crowd disburses.) </p>
+<p><strong>Officer</strong>: This is Lincoln three. We've got a four-fifteen-A on scene.</p>
+<p>(Grissom watches as Sofia takes off running after the suspect alongside several other officers.) </p>
+<p>(Grissom looks at Greg.) </p>
+<p><strong>Grissom</strong>: You okay?</p>
+<p><strong>Greg</strong>: Hell no, I'm not okay. Who the hell's shooting at us?</p>
+<p><strong>Grissom</strong>: I don't know, but I think our single just turned into a triple.</p>
+<p>(Grissom stands up and heads for the newest body at the scene.) </p>
+<p>SMASH CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. COMMUNITY -- DAY] </p>
+<p>(Sara walks up to David Phillips and Greg around the body of the kid in the rubber trash bin. Greg snaps photos as David checks the kid out.) </p>
+<p>(In the background, we hear the indistinct police radio transmissions.) </p>
+<p>(Sara slows down and puts her kit on the sidewalk as she kneels in front of the body.) </p>
+<p><strong>Greg</strong>: Somebody tried to just throw him out with the trash.</p>
+<p><strong>Sara</strong>: If the dumpster wasn't full he would've ended up at the landfill.</p>
+<p><strong>David Phillips</strong>: He hasn't been dead long. He's just coming out of rigor, so I'd say less than twenty-four hours.</p>
+<p><strong>Sara</strong>: He wasn't in the box long enough to mummify, but the kid looks like an ad for hunger relief. Okay, let's, um, transport him in situ.</p>
+<p>(Sara turns and looks at Greg.) </p>
+<p><strong>Sara</strong>: Be very careful moving the body. You okay?</p>
+<p><strong>Greg</strong>: Yeah. Fine.</p>
+<p>(Off to the side, two officers struggle with a man in handcuffs.) </p>
+<p><strong>Officer</strong>: Come on, let's go.</p>
+<p><strong>Man</strong>: (o.s.) Rodney King, yo! Rodney King. Yo! Y'all see this? That's Rodney King, Dawg! Let me go, Dawg! Let me go, man!</p>
+<p>(The two officers lead the man in handcuffs to the car and put him in the backseat.) </p>
+<p>(Sofia walks back toward Grissom and Brass.) </p>
+<p><strong>Man</strong>: Get off me, man! That's Rodney King, Dawg! Let me ... Get off! Get off me! Get off! Get off me! Bitches! We call it brutality!</p>
+<p>(The car door slams shut.)</p>
+<p><strong>Brass</strong>: So, uh ... you think these concerned citizens are taping the capture of a vicious killer?</p>
+<p>(Brass points back to the observers behind the crime scene tape with their camcorders out. The coroners lift up the gurney with the wrapped body on it.) </p>
+<p><strong>Grissom</strong>: If they're taping now, maybe they caught that second shooting on video. Maybe you could collect the cameras.</p>
+<p>(Brass looks at Sofia and taps his own temple. He smiles and chuckles as he leaves. Grissom turns and looks at Sofia.)</p>
+<p><strong>Brass</strong>: I love this guy.</p>
+<p><strong>Grissom</strong>: It says &quot;forensics&quot; on our jacket.</p>
+<p><strong>Sofia Curtis</strong>: I'm aware of that.</p>
+<p><strong>Grissom</strong>: We had plenty of cops chasing the suspect.</p>
+<p><strong>Sofia Curtis</strong>: I wasn't chasing the suspect. I was chasing the evidence. I knew the idiot was likely to dump the gun. </p>
+<p>(She takes out the bagged gun and hands it to Grissom.) </p>
+<p><strong>Sofia Curtis</strong>: All we have to do is ballistics-match the weapon to both victims. Case closed.</p>
+<p>(Grissom takes the gun and looks at Sofia.) </p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. PRISON -- DAY] </p>
+<p>(The door buzzes and opens for Warrick and Nick.) </p>
+<p><strong>Warrick</strong>: Hey.</p>
+<p><strong>Nick</strong>: Hey, man.</p>
+<p><strong>Det. Vartann</strong>: (o.s.) What's up?</p>
+<p><strong>Nick</strong>: Thanks.</p>
+<p>(They walk through the door and meet with Det. Vartann.) </p>
+<p><strong>Det. Vartann</strong>: Suspects wait in central holding to be processed and transferred to jail. They assaulted the officers with feces and then the cops went in.</p>
+<p><strong>Nick</strong>: Great.</p>
+<p><strong>Warrick</strong>: To bust some heads.</p>
+<p>(The closer they get, the smellier it gets. On the floor are the brown feces stains.)</p>
+<p><strong>Nick</strong>: Hoo ... so, you've got a Samuel Mendez with a cracked skull listed as death imminent, right?</p>
+<p>(They stop in front of the cell with the crime scene taped around it.) </p>
+<p><strong>Det. Vartann</strong>: Yeah. It's why they kicked it up to homicide.</p>
+<p><strong>Warrick</strong>: You think the cops used excessive force here?</p>
+<p>(Nick puts his case down and walks over to the empty cell.) </p>
+<p><strong>Det. Vartann</strong>: Well, if they did it's mitigating circumstances.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>(The officer removes the tape to open the cell. Nick looks at the mess on the wall.) </p>
+<p><strong>Nick</strong>: Yeah, well, if they'd've thrown a bunch of feces at me, I would have cracked some skulls too.</p>
+<p>(On the middle of the bare floor, there's a gun.) </p>
+<p><strong>Nick</strong>: This is the last place I thought I'd see a gun.</p>
+<p><strong>Det. Vartann</strong>: It was found under the victim.</p>
+<p><strong>Nick</strong>: Could be his.</p>
+<p><strong>Warrick</strong>: Arresting officer must have done a lousy search.</p>
+<p>(Warrick puts a ruler down and snaps a photo of the gun.) </p>
+<p>(Nick stands up and looks around the small cell at the mess.) </p>
+<p><strong>Nick</strong>: Wow ... this is a lot of crap. What, did they squat on cue?</p>
+<p><strong>Warrick</strong>: Overflowing toilet. There's enough ammunition right there.</p>
+<p><strong>Nick</strong>: So, the cops bust in to get the prisoners under control when they start throwing raw sewage?</p>
+<p>(Quick flash of: The prison cell doors open and the guards enter. The fight between the guards and the prisoners starts.)</p>
+<p>(End of flash. Resume to present.) </p>
+<p><strong>Warrick</strong>: Well, there must have been some real bad asses in here. Looks like it got pretty heated.</p>
+<p>CUT TO:<br />
+[INT. PRISON -- HALLWAY - DAY - CONTINUOUS]</p>
+<p>(The prisoners are lined up in a row. They're all wearing towels and carrying their clothes.) </p>
+<p><strong>Overhead</strong>: (p.a.) ... Security Officers for lockdown debriefing.</p>
+<p>(An officer puts a package on the car next to the other packages.) </p>
+<p>(The next prisoner steps up to Nick.) </p>
+<p><strong>Nick</strong>: You want to tell me what happened here?</p>
+<p>(The prisoner has a large bruise around his left eye.) </p>
+<p><strong>Prisoner 1</strong>: Cops iced the kid. What else you want to know?</p>
+<p>(Nick takes a photo of the prisoner.) </p>
+<p><strong>Prisoner 1</strong>: Could tell he was a fish from the jump, though.</p>
+<p><strong>Nick</strong>: A fish?</p>
+<p>(Nick snaps another photo.) </p>
+<p><strong>Prisoner 1</strong>: New to the game.</p>
+<p>WHITE FLASH TO: </p>
+<p>(The officer takes his boots.) </p>
+<p><strong>Officer</strong>: (o.s.) You want to go to the hold, boy?</p>
+<p>(The next prisoner steps up and spits in front of Nick into something off screen.)</p>
+<p>(Nick stares up at the very tall Prisoner 2.) </p>
+<p><strong>Prisoner 2</strong>: What?</p>
+<p>(The prisoner hands the guard his shoes. Nick takes a couple of photos.) </p>
+<p><strong>Nick</strong>: You see what happened?</p>
+<p>(Prisoner 3 is sporting a large bruise on his left eye, which is shut from the swelling.) </p>
+<p><strong>Prisoner 3</strong>: The po-po gutted the fish. I saw the whole thing. Same thing they did to me. Two beatings in one day. Rodney King, yo.</p>
+<p>(Nick snaps a photo of Prisoner 3.) </p>
+<p>CUT TO:<br />
+[INT. PRISON HOSPITAL - DAY]</p>
+<p>(Catherine is standing next to the victim's bed. The victim is hooked up to a lot of machines - still alive, but barely. Next to the bed, she has a camera set up on a tripod. She holds the ruler against the injuries on the victim's head and snaps a couple of photos of it.) </p>
+<p><strong>Dr. Franks</strong>: I'm sorry, uh, who are you?</p>
+<p><strong>Catherine</strong>: I'm Catherine Willows. I'm with the Crime Lab.</p>
+<p><strong>Dr. Franks</strong>: Oh. I'm Dr. Franks, attending. Have you located his family yet?</p>
+<p><strong>Catherine</strong>: No.</p>
+<p><strong>Dr. Franks</strong>: I need to find someone to sign a release, take him off the ventilator.</p>
+<p><strong>Catherine</strong>: He's brain dead?</p>
+<p><strong>Dr. Franks</strong>: Oh, yeah. I'm hoping the family will donate his organs.</p>
+<p><strong>Catherine</strong>: Tell me about his injuries.</p>
+<p><strong>Dr. Franks</strong>: He's got blunt-force trauma to the frontal and sphenoid bones.</p>
+<p>(Quick flashback to: The victim is punched in the face. End of flashback.) </p>
+<p><strong>Dr. Franks</strong>: It fragmented his skull, damaged his temporal arteries and imbedded in his brain.</p>
+<p>(Quick CGI POV: The brain cuts and blood spills out. End of CGI POV. Quick flash to: The victim falls to the ground with blood running down his face. End of flash.)</p>
+<p><strong>Catherine</strong>: Well, those are shoe prints on his face, which suggests that he was attacked while he was down.</p>
+<p>(Quick flash of: The victim is already down on the ground. Someone stomps on him with the heel of his boot. End of flash.) </p>
+<p><strong>Dr. Franks</strong>: Well, he came from county lock-up. Must have been a hell of a fight.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[INT. CSI - FORENSIC AUTOPSY - DAY] </p>
+<p>(The lid is removed from the rubber bin. Sara holds the flashlight above and looks into the bin at the dead boy. She sees some blond-colored hair on the boy's jeans.) </p>
+<p>(David Phillips reaches into the bin to carry the boy's body out. Sara glances at Greg. David removes the body. Greg replaces the lid on the bin and removes the bin off the table.) </p>
+<p>(David puts the body on the table.) </p>
+<p>(Sara takes a tape lift of the blond-colored hair from the boy's jeans. Someone coughs. She puts the tape lift on the side.) </p>
+<p>(Greg examines the bin. Inside, he finds some yellow powder and nail scratchings. He takes a sample of the powder.)</p>
+<p>(Back on the body, Sara finds another blond-colored hair strand. She picks it off of the jeans and puts it in a plastic baggie.) </p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY - DAY]</p>
+<p>(Robbins goes over his findings with Sara. He shows her the x-rays.) </p>
+<p><strong>Robbins</strong>: The victim's about five years old. He was just losing his baby teeth. X-rays show metaphyseal fractures to the right humerus and acromion. They're called corner or bucket-handle fractures.</p>
+<p><strong>Sara</strong>: Shake the baby?</p>
+<p><strong>Robbins</strong>: It's more like snatch and shake. Violent shaking creates shearing forces, causing fragment fractures at the end of the growth plate. It's highly specific for abuse.</p>
+<p>(Quick flash of: A little boy is sitting on a swing.) </p>
+<p><strong>Voice (man)</strong>: (o.s.) I said, Get up!</p>
+<p>(A hand grabs the boy's arms and twists. Quick CGI POV to: The bones inside the boy's arms break.) </p>
+<p>(End of CGI POV. Resume to present.) </p>
+<p><strong>Sara</strong>: How old do you think these fractures are?</p>
+<p><strong>Robbins</strong>: Well, this kind of fracture doesn't usually heal with callus you can easily see. My guess, less than six months.</p>
+<p>(Robbins and Sara turn back to the body. Robbins pulls back the sheet.) </p>
+<p><strong>Sara</strong>: He is emaciated. He looks drawn. The only thing missing is a swollen belly.</p>
+<p><strong>Robbins</strong>: It's called cachexia. The soft tissue is diminished and drawn around the skull. The eyes are sunken, and there's prominent tenting where the skin should retract.</p>
+<p>(Sara touches the body's ribs.) </p>
+<p><strong>Sara</strong>: His ribs are poking through his skin. He starved to death, didn't he?</p>
+<p><strong>Robbins</strong>: C.O.D. is renal failure due to starvation. His intestinal tract was virtually empty, except for these brown flecks I found. </p>
+<p>(He hands Sara a glass container with some powder inside. She looks at it.) </p>
+<p><strong>Robbins</strong>: Hepatic steatosis, the liver goes yellow and greasy. Ketoacidosis, fat stores are used for energy, and then rhabdomyolysis - the muscles broken down for fuel. Think of the body as digesting itself.</p>
+<p>(Quick flash to: A little boy crying. The camera zooms in toward the boy's chest.)</p>
+<p>(Quick CGI POV to: The skin on the chest dries up and stretches over his ribs.)</p>
+<p>(Camera pulls back out past the ribs ... and the clothes ... to the dead little boy in the rubber trash bin.) </p>
+<p>(End of flash. Resume to present.) </p>
+<p><strong>Sara</strong>: This took weeks.</p>
+<p><strong>Robbins</strong>: I have to admit, this seems especially cruel and unusual.</p>
+<p><strong>Sara</strong>: When kids are involved, it usually is.</p>
+<p>FADE OUT.</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. LAS VEGAS CITY (STOCK) -- DAY] </p>
+<p>[INT. PRISON - OFFICE -- DAY] </p>
+<p>(Warrick and Det. Vartann talk with Lt. Kim.) </p>
+<p><strong>Lt. Arthur Chen</strong>: It's 10-by-18-foot cell built for 25 people. We've got thirty-five mutts and no place to put the extras. Between the yo's, the cholos and the rednecks, it was bound to happen.</p>
+<p><strong>Warrick</strong>: Thirty-five guys, that's a lot of men to fit in one room.</p>
+<p><strong>Lt. Arthur Chen</strong>: Cops round them up, we process them. It usually doesn't take long, but today we got jammed.</p>
+<p><strong>Det. Vartann</strong>: What was the problem?</p>
+<p><strong>Lt. Arthur Chen</strong>: Computer went down, plumbing backed up. You name it, we had it.</p>
+<p><strong>Det. Vartann</strong>: Any rival bangers in the same cell?</p>
+<p><strong>Lt. Arthur Chen</strong>: No. I rechecked the roster. We don't want the yo's killing each other in custody. Why we bother, I'll never know.</p>
+<p><strong>Warrick</strong>: You ever think an overcrowded cell mixed with bad plumbing was the reason they threw the contents?</p>
+<p><strong>Lt. Arthur Chen</strong>: They don't need a reason. Bad monkeys at the zoo.</p>
+<p>(Warrick and Det. Vartann both note the slur. There's an awkward pause.) </p>
+<p><strong>Det. Vartann</strong>: So, uh, how did the gun get past security?</p>
+<p><strong>Lt. Arthur Chen</strong>: Arresting officer did a bad search.</p>
+<p><strong>Warrick</strong>: Don't you search them again when they get to the holding cell?</p>
+<p><strong>Lt. Arthur Chen</strong>: What?</p>
+<p><strong>Warrick</strong>: Don't you search them again when they get here?</p>
+<p><strong>Lt. Arthur Chen</strong>: Is there something you want to get off your chest?</p>
+<p><strong>Warrick</strong>: (wry chuckle) A gun in a cell is sloppy police work, man.</p>
+<p>(Lt. Kim takes a step forward.) </p>
+<p><strong>Lt. Arthur Chen</strong>: I don't like what you're implying about me or my men.</p>
+<p>(Warrick stands up.) </p>
+<p><strong>Warrick</strong>: Then maybe you need to dial down your attitude. A man is brain dead here! I don't care what he was like when he was alive, and neither should you, don't you think?</p>
+<p><strong>Lt. Arthur Chen</strong>: All I know, there's one less b*st*rd I gotta watch my back for. There's five of us, so the odds are in their favor. You're a crime scene tech. I'm law enforcement, which means you don't get to tell me what to do in my jail.</p>
+<p><strong>Warrick</strong>: If I find out you used excessive force on an unarmed prisoner, you won't have a jail.</p>
+<p><strong>Lt. Arthur Chen</strong>: I think we're done here.</p>
+<p>(Lt. Kim heads for the door.) </p>
+<p><strong>Warrick</strong>: I don't think so. Not quite. I'm going to need your armor, your shields, your boots and your batons. (shouts) Right now!</p>
+<p>(Lt. Kim stops and turns around.) </p>
+<p>CUT TO:<br />
+[INT. CSI - BREAK ROOM - DAY]</p>
+<p>(Sara is going through stacks of files. Sofia walks into the room.) </p>
+<p><strong>Sofia Curtis</strong>: I'll, uh ... ran John Doe minor's DNA against the missing persons database. I'm sorry, no hits.</p>
+<p><strong>Sara</strong>: Yeah, I'm not surprised. They didn't care enough to feed him, why would they report him missing?</p>
+<p>(Sofia pours herself a cup of coffee. She turns around and sees the files on the table in front of Sara.) </p>
+<p><strong>Sofia Curtis</strong>: What's going on in here?</p>
+<p><strong>Sara</strong>: The victim had a prior abuse fracture.</p>
+<p><strong>Sofia Curtis</strong>: And you're hoping Child Protective Services investigated?</p>
+<p><strong>Sara</strong>: Well, based on the age of the victim, the age of the fracture and the break pattern, I found ten possible matches.</p>
+<p><strong>Sofia Curtis</strong>: Well, it's going to take you forever to go through these alone.</p>
+<p><strong>Sara</strong>: I'll get it done. </p>
+<p><strong>Sofia Curtis</strong>: It took me a long time to get where I was, Sara. Now I feel like I'm starting from scratch. I miss sleeping at night. I miss my colleagues. I miss ...</p>
+<p><strong>Sara</strong>: What?</p>
+<p><strong>Sofia Curtis</strong>: Being trusted.</p>
+<p>(Sofia turns and leaves the room.) </p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB -- DAY] </p>
+<p>(Warrick pushes the cart full of bagged evidence.) </p>
+<p><strong>Warrick</strong>: Okay.</p>
+<p>(He stops in front of Mia.) </p>
+<p><strong>Mia Dickerson</strong>: What's on the menu today, Warrick?</p>
+<p>(He holds up the baggies.) </p>
+<p><strong>Warrick</strong>: A gun ... face shields, vests ... batons ... please run the batons first.</p>
+<p><strong>Mia Dickerson</strong>: Why? You thinking bad cop?</p>
+<p><strong>Warrick</strong>: Well, the batons were the only weapons inside of the cell. Everything else was fixed ...</p>
+<p>(Warrick's cell phone rings. He doesn't answer it.)</p>
+<p><strong>Warrick</strong>: ... to the floor, to the walls.</p>
+<p>(Warrick's cell phone continues to ring.)</p>
+<p><strong>Mia Dickerson</strong>: You gonna get that?</p>
+<p>(He takes it out and checks the caller ID.) </p>
+<p><strong>Warrick</strong>: No.</p>
+<p><strong>Mia Dickerson</strong>: (mutters) Player.</p>
+<p><strong>Warrick</strong>: Oh, now I'm a 'player'. You make up your mind pretty quick.</p>
+<p><strong>Mia Dickerson</strong>: I'll, uh, page you when I get the results.</p>
+<p><strong>Warrick</strong>: Yeah?</p>
+<p>(Warrick holds out his phone to Mia, showing her the ID of the caller: G. Sanders.) </p>
+<p><strong>Warrick</strong>: He was a rough one last night, so I called to check on him. But since I'm here, I can do it in person. Anything else you want to say to me?</p>
+<p><strong>Mia Dickerson</strong>: (smiles) Have a nice day.</p>
+<p><strong>Warrick</strong>: (chuckles) Is that it?</p>
+<p><strong>Mia Dickerson</strong>: (smiles) That's it.</p>
+<p>(Sofia walks into the lab.)</p>
+<p><strong>Sofia Curtis</strong>: Am I interrupting?</p>
+<p>(They both turn and look at Sofia.) </p>
+<p><strong>Warrick</strong>: No.</p>
+<p><strong>Mia Dickerson</strong>: No.</p>
+<p>(Warrick heads out of the lab.) </p>
+<p><strong>Warrick</strong>: (to Sofia) Good day.</p>
+<p>(Sofia walks up to Mia.) </p>
+<p><strong>Sofia Curtis</strong>: He's pretty hot.</p>
+<p><strong>Mia Dickerson</strong>: Yeah, well, I think he knows it.</p>
+<p><strong>Sofia Curtis</strong>: Anything on the hairs from the plastic coffin?</p>
+<p><strong>Mia Dickerson</strong>: Ah, yeah, I actually did find one hair with a root tag still attached, and it's a priority run for me as soon as I get something to compare it to. Sara also collected a bunch of synthetic hairs. I'm thinking doll, wig, maybe fake fur. I sent them over to trace.</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(Sara and Robbins are scanning x-rays into the computer.) </p>
+<p><strong>Sara</strong>: I went through child abuse cases, looking for a match to the victim's age and fracture. I pulled the x rays of our most likely candidates.</p>
+<p><strong>Robbins</strong>: Sinus identification is as reliable as fingerprints. Sinuses are unique; they have distinct, scalloped edges.</p>
+<p>(He pulls up the head x-ray of the victim and outlines the sinus cavity. He compares it to the other x-rays.) </p>
+<p>(The computer beeps: NO MATCH.) </p>
+<p><strong>Sara</strong>: No match.</p>
+<p><strong>Robbins</strong>: It's harder to identify children this way because they, uh, develop so quickly.</p>
+<p>(The computer beeps: NO MATCH.) </p>
+<p>(The computer beeps: POSITIVE MATCH.) </p>
+<p><strong>Sara</strong>: This is it.</p>
+<p><strong>Robbins</strong>: Bingo. Yep. Frontal and ethmoid sinuses line up perfectly.</p>
+<p>(Sara gets the file folder to get the name of the victim.) </p>
+<p><strong>Sara</strong>: (reads) Devon Malton, age five, last known residence was a foster home run by a Lorna Tenney.</p>
+<p>CUT TO:<br />
+[EXT. TENNEY RESIDENCE -- DAY] </p>
+<p>(Sara and Brass interview Lorna Tenney.) </p>
+<p><strong>Lorna Tenney</strong>: So, which one of my kids is in trouble?</p>
+<p><strong>Brass</strong>: No, you are, Mrs. Tenney.</p>
+<p><strong>Lorna Tenney</strong>: Oh? Which one of my kids lodged a complaint?</p>
+<p><strong>Sara</strong>: That happen a lot?</p>
+<p><strong>Lorna Tenney</strong>: Well, it goes with the territory.</p>
+<p><strong>Brass</strong>: We're here about, uh, Devon Malton.</p>
+<p><strong>Lorna Tenney</strong>: Well, he hasn't lived here in six months.</p>
+<p><strong>Sara</strong>: Since he fractured his arm?</p>
+<p><strong>Lorna Tenney</strong>: CPS investigated. They cleared me.</p>
+<p><strong>Sara</strong>: Records show Devon resides here.</p>
+<p><strong>Lorna Tenney</strong>: Well, records are wrong.</p>
+<p><strong>Brass</strong>: Mind if we come in and take a look around?</p>
+<p><strong>Lorna Tenney</strong>: I do.</p>
+<p><strong>Sara</strong>: If you've got nothing to hide...</p>
+<p><strong>Lorna Tenney</strong>: (interrupts) Oh, save it. Those mind games don't work on me. I deal with the police often enough to know better than to talk to you without my attorney or to let you poke around my things. </p>
+<p><strong>Brass</strong>: Look, Family Services says you have this kid.</p>
+<p><strong>Lorna Tenney</strong>: Mm-hmm.</p>
+<p><strong>Brass</strong>: They've issued aid checks. Now, who do you expect me to believe?</p>
+<p><strong>Lorna Tenney</strong>: The checks come, I send them back. I've got the copies to prove it.</p>
+<p><strong>Brass</strong>: Look, it's either here or at the station. So, you choose.</p>
+<p><strong>Lorna Tenney</strong>: Then let's go, because you don't set foot in my house without a warrant.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Greg has the rubber trash bin suspended in a large glass container. He adds the small tray and puts a few drops into the tray. He fumes the trash bin.) </p>
+<p>(Greg's pager beeps. He checks it and leaves.)</p>
+<p>CUT TO:<br />
+[INT. CSI - TRACE LAB - DAY - CONTINUOUS]</p>
+<p>(Greg walks into the trace lab. Hodges is reading through a magazine waiting for him.) </p>
+<p><strong>David Hodges</strong>: Heard you had a real sphincter pucker last night. So what kind of gun are you getting?</p>
+<p><strong>Greg</strong>: Plenty of guns at crime scenes. Cops have them, some criminalists ...</p>
+<p><strong>David Hodges</strong>: Yeah, cops make great targets. Plus, CSIs get shot at all the time, or didn't they tell you?</p>
+<p>(Greg turns around, intending to leave the lab.) </p>
+<p><strong>Greg</strong>: If this is why you paged me then I ...</p>
+<p><strong>David Hodges</strong>: I got the results on the bin contents.</p>
+<p>(Greg turns back and steps up to the lab counter.) </p>
+<p><strong>Greg</strong>: Well?</p>
+<p><strong>David Hodges</strong>: Are you sure you're okay? You don't look so good. </p>
+<p>(Greg gives him a look and Hodges backs down. Hodges reaches for the test results and gives them to Greg.) </p>
+<p><strong>David Hodges</strong>: I detected mineral oil, titanium dioxide, stearic acid, isopropylpalpitate using polarized light microscopy, GCMS and FTIR.</p>
+<p><strong>Greg</strong>: Is that makeup?</p>
+<p><strong>David Hodges</strong>: Burnt sienna foundation. The cheap stuff.</p>
+<p><strong>Greg</strong>: What about the intestinal tract contents?</p>
+<p>(Hodges holds up the glass container.) </p>
+<p><strong>David Hodges</strong>: Lead-based paint chips ... last used in 1978.</p>
+<p><strong>Greg</strong>: That whole neighborhood looks like it was built in the 70s. Could've come from any one of the apartment buildings or the houses.</p>
+<p><strong>David Hodges</strong>: Which means that sooner or later, you're going to have to be going back out to the hood. Nervous?</p>
+<p><strong>Greg</strong>: Hmm ...</p>
+<p>CUT TO:<br />
+[INT. PRISON HOSPITAL -- DAY] </p>
+<p>(The victim is still on the ventilator. Dr. Franks talks with Mr. Mendez, the father of Samuel Mendez.) </p>
+<p>(Catherine walks up to the two men talking in the hallway.) </p>
+<p><strong>Mr. Mendez</strong>: I'm sorry, doctor. I can't donate his organs.</p>
+<p><strong>Dr. Franks</strong>: I assure you your son has no brain activity, Mr. Mendez. He's gone.</p>
+<p><strong>Mr. Mendez</strong>: No, no, you don't understand. I don't know who that is in there, but it's not my son.</p>
+<p><strong>Catherine</strong>: Mr. Mendez. I'm Catherine Willows, with the Las Vegas Crime Lab. Are you sure?</p>
+<p><strong>Mr. Mendez</strong>: Look, I've been waiting for this phone call a long time. My kid took a wrong turn somewhere -- maybe it's my fault, I don't know -- but somebody's boy is in that bed and he's not mine. </p>
+<p>(Mr. Mendez leaves. Dr. Franks turns and looks at Catherine.) </p>
+<p><strong>Dr. Franks</strong>: Either he can't accept reality or the county made a big mistake.</p>
+<p><strong>Catherine</strong>: Well, there's only one way to find out. I'll have to take his prints.</p>
+<p>CUT TO:<br />
+[INT. CSI - PRINT LAB -- DAY] </p>
+<p>(Catherine scans in a print into the computer for:<br />
+SAMUEL MENDEZ - VICTIM<br />
+IN CUSTODY Booking #275192139480</p>
+<p>(She compares it to a second print on File for:<br />
+SAMUEL MENDEZ - SUSPECT<br />
+WHEREABOUTS UNKNOWN</p>
+<p>(The computer beeps: NO MATCH.)</p>
+<p>(Catherine pulls up the photo and information on SAMUEL MENDEZ. Among the information, there is an<br />
+ACTIVE ARREST WARRANT FOR MURDER<br />
+CONSIDERED ARMED AND DANGEROUS</p>
+<p>(Catherine looks at the photos of the two men.) </p>
+<p>CUT TO:<br />
+[INT. CSI - WAITING ROOM - DAY]</p>
+<p>(Sara walks through the hallway. Brass meets up with her, but she lets Brass go. Sara stops and looks into the waiting room. Inside are Laura Tenney's kids.) </p>
+<p>(A couple of kids are giggling. The older blonde-haired girl sitting across the aisle admonishes them.) </p>
+<p><strong>Glynnis</strong>: Guys. Do your work.</p>
+<p>(Sara walks into the room.)</p>
+<p><strong>Sara</strong>: Hi.</p>
+<p>(She looks at Glynnis.) </p>
+<p><strong>Sara</strong>: You like chemistry?</p>
+<p><strong>Glynnis</strong>: No. I'm not smart enough.</p>
+<p><strong>Sara</strong>: Sure you are. Glynnis, right?</p>
+<p>(Glynnis nods. Sara looks at what Glynnis is reading. She sits down next to her.) </p>
+<p><strong>Sara</strong>: Quantum theory. That's compelling stuff actually.</p>
+<p><strong>Glynnis</strong>: Look, you can to question me, fine. You don't have to pretend to be interested in me.</p>
+<p><strong>Sara</strong>: I'm sorry that was lame. I guess I was just trying to put you at ease. I know what it's like.</p>
+<p><strong>Glynnis</strong>: What?</p>
+<p><strong>Sara</strong>: Living with strangers. Your fate being decided bysocial workers, advocates, judges...</p>
+<p><strong>Glynnis</strong>: You were in the system.</p>
+<p><strong>Sara</strong>: For a while.</p>
+<p><strong>Glynnis</strong>: I've been in foster care for ten years. I moved from one home to the next. Believe me, Mrs. Tenney is one of the good ones.</p>
+<p>(Sara looks over into the interview room. Through the glass, we see Brass with Laura Tenney and her lawyer.) </p>
+<p><strong>Sara</strong>: She's not very cooperative.</p>
+<p><strong>Glynnis</strong>: Well, she's been burned a lot. Look, I know she comes off as tough, but she really cares. Enough to tell us the truth, even if it hurts.</p>
+<p><strong>Sara</strong>: You remember a little boy named Devon?</p>
+<p><strong>Glynnis</strong>: Yeah. Cute kid. About five years old.</p>
+<p><strong>Sara</strong>: Your foster mom said that Devon left months ago. Is that true?</p>
+<p><strong>Glynnis</strong>: Yeah. Why all the questions? (Sara moves her head.) Did something happen?</p>
+<p><strong>Sara</strong>: Yeah.</p>
+<p><strong>Glynnis</strong>: (whispers) Is he dead?</p>
+<p><strong>Sara</strong>: Yeah.</p>
+<p><strong>Glynnis</strong>: I don't understand. His mom came and picked him up. That never happens. You could just see how much she loved those boys.</p>
+<p><strong>Sara</strong>: Glynnis ... Did Devon have brothers at the foster home?</p>
+<p><strong>Glynnis</strong>: Yeah. Two older brothers, Kevin and, and Raymond. What happened to them?</p>
+<p>FADE OUT.</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. POLICE DEPARTMENT - BRASS' OFFICE -- DAY] </p>
+<p>(Brass and Sara interview Delia Brooks with Social Services) </p>
+<p><strong>Delia Brooks</strong>: The boy's mother, Candice Malton, served forty-seven of the ninety-day sentence for smashing a brick into her abusive boyfriend's face.</p>
+<p><strong>Sara</strong>: Sounds like self-defense to me.</p>
+<p><strong>Delia Brooks</strong>: Yeah. If. She would've walked after the first hit.</p>
+<p><strong>Brass</strong>: So, how many times did she actually hit him?</p>
+<p><strong>Delia Brooks</strong>: Five. Takes battered women a while to see the light, but once they do, there's no going back.</p>
+<p><strong>Brass</strong>: Okay, so the Malton boys were placed in foster care while mom served her sentence.</p>
+<p><strong>Delia Brooks</strong>: A single mother, she reinstated her parental rights as soon as she got out of jail. After what happened to her son, she didn't want anything to do with Child Services.</p>
+<p><strong>Brass</strong>: Any idea where the mother is now? </p>
+<p><strong>Delia Brooks</strong>: No, I've already checked Welfare, Medicaid, HUD rolls -- she's in the wind.</p>
+<p><strong>Brass</strong>: I'll put out a Bulletin.</p>
+<p><strong>Sara</strong>: No offense, but why didn't you check into the kids after the mom was released from jail?</p>
+<p><strong>Delia Brooks</strong>: Eight thousand child abuse/neglect investigations a year. There's only so much we could do. Look, despite her taste in men, in my opinion, Candice Malton was a good mother.</p>
+<p>(She gets up.) </p>
+<p><strong>Sara</strong>: One of her sons is dead and the other two are missing.</p>
+<p>(She stops and turns around.) </p>
+<p><strong>Sara</strong>: What's good about that?</p>
+<p>(She turns and leaves.)</p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB - DAY]</p>
+<p>(Catherine walks into the lab.) </p>
+<p><strong>Catherine</strong>: Hey, Mia. Did you finish processing the batons?</p>
+<p><strong>Mia Dickerson</strong>: Oh, yeah. Just now. (She hands the test print out to Catherine.) I found blood, epithelials and hair on all of them. There are several DNA sources from everyone but the victim.</p>
+<p><strong>Catherine</strong>: Which means that a police baton never connected with Sam Mendez. He had to already be down when the cops entered the cell. Thanks.</p>
+<p>(Catherine turns and leaves the lab.)</p>
+<p>[INT. CSI - HALLWAY - DAY - CONTINUOUS]</p>
+<p>(Catherine walks through the hallway. Lt. Kim walks up to her.) </p>
+<p><strong>Lt. Arthur Chen</strong>: Catherine Willows?</p>
+<p><strong>Catherine</strong>: Yeah?</p>
+<p><strong>Lt. Arthur Chen</strong>: Lieutenant Arthur Chen, watch commander for Central Holding.</p>
+<p><strong>Catherine</strong>: We are almost finished with our investigation, but I can tell you that the victim's prints don't match the Sam Mendez that's wanted for murder.</p>
+<p><strong>Lt. Arthur Chen</strong>: Are you telling me we arrested the wrong guy?</p>
+<p><strong>Catherine</strong>: It was a routine traffic stop. The arresting officer ran the name and got an immediate warrant hit.</p>
+<p>(Quick flash to: A car is pulled over. The officer runs the name and gets a result on the computer. A second officer car pulls up.) </p>
+<p><strong>Catherine</strong>: (V.O.) An arrest warrant for murder and two guys with the same name.</p>
+<p>(Both officers hold their guns on Sam Mendez.) </p>
+<p><strong>Officer</strong>: Out of the car! Out of the car!</p>
+<p><strong>Samuel Mendez</strong>: What'd I do?</p>
+<p><strong>Officer</strong>: Hands up!</p>
+<p>(End of flashback. Resume to present.)</p>
+<p><strong>Lt. Arthur Chen</strong>: Arresting officer did his job; I did my job.</p>
+<p><strong>Catherine</strong>: No one's saying that you didn't.</p>
+<p><strong>Lt. Arthur Chen</strong>: Your subordinate Warrick Brown did.</p>
+<p><strong>Catherine</strong>: With all due respect, Lieutenant, that really doesn't sound like the Warrick Brown I know.</p>
+<p><strong>Lt. Arthur Chen</strong>: You're a civilian, but even you understand 'chain of command'. Now, I'm giving you an opportunity to adjust his attitude. Don't make me.</p>
+<p>(He turns and leaves.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Sofia walks into the lab where Greg is working on the rubber trash bin.) </p>
+<p><strong>Sofia Curtis</strong>: Heard you found a print on the bin.</p>
+<p><strong>Greg</strong>: I did. Under the lip curve.</p>
+<p>(Camera zooms in under the bin's lip to show the print.)</p>
+<p>(Greg looks at Sofia.) </p>
+<p><strong>Sofia Curtis</strong>: What?</p>
+<p><strong>Greg</strong>: Well, I'm not sure what's the best way to process the print.</p>
+<p><strong>Sofia Curtis</strong>: You take digital photos?</p>
+<p><strong>Greg</strong>: Yeah.</p>
+<p>(He hands her the memory card.) </p>
+<p><strong>Sofia Curtis</strong>: Well, hand them over. I'll load it into the computer and reconstruct the image while you finish processing.</p>
+<p><strong>Greg</strong>: What else is there left to do but run it through AFIS?</p>
+<p><strong>Sofia Curtis</strong>: You're going to need an actual print for court.</p>
+<p><strong>Greg</strong>: Are you saying that I'm going to have to cut it out in order to lift it?<br />
+(She nods.) Isn't that destroying the evidence?</p>
+<p><strong>Sofia Curtis</strong>: No. You're recovering it. As long as you document it, you're fine.</p>
+<p><strong>Greg</strong>: Oh.</p>
+<p>(Various cuts of: Sofia works on the print while Greg cuts the print out of the rubber trash bin.) </p>
+<p>(She transfers the digital camera image into the computer. Greg cuts the trash bin.) </p>
+<p>(Sofia cut and copies the print.)</p>
+<p>(Greg opens a tape lift. He takes the sample and removes the print.) </p>
+<p>(Sofia scans the print into the computer and runs it against the database.) </p>
+<p>(She clicks on FBI DATABASE 69,235 bytes email. She gets aresult.)</p>
+<p>(Greg looks at the print on the tape lift.) </p>
+<p><strong>Greg</strong>: Well, I appreciate your help.</p>
+<p><strong>Sofia Curtis</strong>: No big deal.</p>
+<p><strong>Greg</strong>: I don't know if I'd be quite as accommodating after just being ... </p>
+<p>(She turns around and looks at him. He shrugs.)</p>
+<p><strong>Greg</strong>: Well, you know.</p>
+<p><strong>Sofia Curtis</strong>: Demoted?</p>
+<p><strong>Greg</strong>: Yeah.</p>
+<p>(Sofia turns around back to the computer.) </p>
+<p><strong>Sofia Curtis</strong>: No hit in AFIS. I've widened the search. I've got an FBI database hit.</p>
+<p>(Greg stands up and walks over to her.) </p>
+<p><strong>Sofia Curtis</strong>: Your print belongs to an enlisted man. Private First Class Phillip Riley.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Brass interviews Phillip Riley while two MPs stand guard inside the room.) </p>
+<p><strong>Phillip Riley</strong>: I hope you can tell me what the hell is going on. MP's just dragged me off a transport to Tikrit. That makes me look bad. Not that I mind. Better here than over there. You know what I'm saying?</p>
+<p><strong>Brass</strong>: Oh, you're an Americanhero. And I mean that, you are. What the hell were you doing on D Street?</p>
+<p><strong>Phillip Riley</strong>: D Street?</p>
+<p><strong>Brass</strong>: Explain to me why your fingerprints ended up on a plastic bin container in an alley off DStreet?</p>
+<p><strong>Phillip Riley</strong>: Oh, Come on!</p>
+<p><strong>Brass</strong>: Oh, did I forget to mention there was a dead kid inside? </p>
+<p><strong>Phillip Riley</strong>: Well, well, I thought this was about paying for trimming inside county lines. All I did was take out the trash. That's all I did.</p>
+<p><strong>Brass</strong>: For who?</p>
+<p><strong>Phillip Riley</strong>: Some chicken head ghetto rat. I-I-I was shipping out and-and decided to party. You know, she was all I could afford.</p>
+<p><strong>Brass</strong>: Where'd you meet her?</p>
+<p><strong>Phillip Riley</strong>: Some dive. Seven sins.</p>
+<p><strong>Brass</strong>: What was her name?</p>
+<p><strong>Phillip Riley</strong>: Divine. I think. I-I don't remember if she told me her last name. Anyway, we had some fun and when I was done, she told me to take out the trash. End of story.</p>
+<p><strong>Brass</strong>: Not quite. Where does she live?</p>
+<p><strong>Phillip Riley</strong>: North Vegas somewhere. I was drunk as hell.</p>
+<p><strong>Brass</strong>: I want you to think real hard.</p>
+<p><strong>Phillip Riley</strong>: I swear to God. I don't know. I really don't.</p>
+<p><strong>Brass</strong>: How'd you get there? </p>
+<p><strong>Phillip Riley</strong>: In a taxi. And I left the same damn way.</p>
+<p>CUT TO:<br />
+[INT. CSI - CATHERINE'S OFFICE - DAY]</p>
+<p>(Catherine is putting some books and photos on the shelf when Warrick walks into the office.)</p>
+<p><strong>Warrick</strong>: Aw, it looks good on you.</p>
+<p><strong>Catherine</strong>: Thanks.</p>
+<p>(She smiles and turns around, looking at the office behind her.) </p>
+<p><strong>Catherine</strong>: Have a seat.</p>
+<p>(Warrick sits down.)</p>
+<p><strong>Warrick</strong>: So what's up?</p>
+<p><strong>Catherine</strong>: Lieutenant Chen dropped by.</p>
+<p>(She crosses her arms in front of her.) </p>
+<p><strong>Warrick</strong>: Really. I wonder what for.</p>
+<p><strong>Catherine</strong>: To complain about you. Wish you told me you had a beef with him.</p>
+<p><strong>Warrick</strong>: There was nothing to say. We had words, it got heated, then it was over.</p>
+<p><strong>Catherine</strong>: Well ... (clears throat) ... I'm the supervisor of the swing shift. I'm responsible for the whole team. It's my job to make sure that we remain objective and professional.</p>
+<p><strong>Warrick</strong>: Yeah, I really don't see what the big deal is. I mean, I remember talking to Grissom ...</p>
+<p><strong>Catherine</strong>: Well, I'm not Grissom. He let a lot of things slide that I won't.</p>
+<p><strong>Warrick</strong>: Okay. Is there anything else?</p>
+<p><strong>Catherine</strong>: The evidence cleared the extraction team. You owe Lieutenant Chen an apology.</p>
+<p><strong>Warrick</strong>: Written or verbal?</p>
+<p><strong>Catherine</strong>: From now on, anything that happens at a crime scene, I'm your first phone call.</p>
+<p><strong>Warrick</strong>: Sure.</p>
+<p>(Warrick stands up and leaves the office.) </p>
+<p>CUT TO:<br />
+[INT. CSI - DNA LAB -- DAY] </p>
+<p>(Mia takes out the gun from the evidence bag. She pulls the hammer back. The camera zooms in for a close-up of the skin and hair caught on the metal.) </p>
+<p>(Mia removes the strand of hair and takes a swab of the flesh.)</p>
+<p>INTERCUT WITH:</p>
+<p>[INT. CSI - EVIDENCE LAB - DAY]</p>
+<p>(Camera pans down the table of shoes from the inmates. Warrick inks the roller and takes shoe prints.)</p>
+<p>INTERCUT WITH:</p>
+<p>[INT. CSI - BALLISTICS LAB - DAY]</p>
+<p>(Nick puts bullets in the revolver. He puts the revolver together.) </p>
+<p><strong>Nick</strong>: (shouts) Fire in the hole! Shooting two!</p>
+<p>(He fires.)</p>
+<p>(Warrick scans the shoe prints onto clear sheets. He compares the shoe prints with the shoe prints on the victim's face.) </p>
+<p>(Nick scans the bullet and runs it through thedatabase.)</p>
+<p>CUT TO:<br />
+[INT. CSI - ROOM - DAY]</p>
+<p>(Catherine meets with Warrick and Nick.) </p>
+<p><strong>Catherine</strong>: We now know the cops were not responsible, so that leaves us with thirty-four suspects, all with rap sheets. Is there anything to narrow the focus?</p>
+<p><strong>Warrick</strong>: Well, I compared all thirty-four pairs -- I came up with one sole pattern ... (Warrick puts the pair of boots on the table in front of them.) ... and one suspect -- Vincent Mendoza ... booked for meth manufacture.</p>
+<p><strong>Catherine</strong>: Well, the official C.O.D. was blunt force trauma to the head, not stomping.</p>
+<p><strong>Warrick</strong>: Well, it's not unreasonable to think the same guy that caused the blunt force trauma can also stomp him.</p>
+<p><strong>Catherine</strong>: Well, that all sounds good, but why go to all that trouble?</p>
+<p><strong>Nick</strong>: Because the gun was hot. Ran it though IBIS. It was used in an execution-style murder.</p>
+<p><strong>Catherine</strong>: The last thing the guy wanted to do was to get caught with a gun that had a body on it.</p>
+<p><strong>Warrick</strong>: Yeah, well, this victim looks like the perfect patsy to drop a gun on.</p>
+<p>(Nick picks up the photo of the victim with the shoe print and looks at it.) </p>
+<p><strong>Nick</strong>: Yeah ... little fish in a tank full of sharks.</p>
+<p>FADE OUT (to sound of chomping).</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Det. Vartann and Warrick interview Vincent Mendoza with his lawyer, Margaret Finn, next to him.) </p>
+<p><strong>Margaret Finn</strong>: What's on the table, gentlemen?</p>
+<p><strong>Det. Vartann</strong>: Murder, two counts.</p>
+<p><strong>Warrick</strong>: Your client killed a man in a holding cell and tried to frame the cops for it.</p>
+<p><strong>Vincent Mendoza</strong>: That's bull and you know it.</p>
+<p><strong>Margaret Finn</strong>: Shh. Let's hear the corroborating evidence, and it'd better be good.</p>
+<p><strong>Det. Vartann</strong>: Mr. Mendoza was hooked in a raid on a meth lab. Problem was, he was carrying a concealed weapon and had no time to ditch it.</p>
+<p><strong>Warrick</strong>: He dropped the weapon down his pants, planned to get rid of it in Central Holding before the cavity search.</p>
+<p><strong>Margaret Finn</strong>: So far, I'm not hearing anything you can actually prove.</p>
+<p><strong>Warrick</strong>: Well, I'm sure Vincent here knew a lot of people inside since he is a repeat offender. But only one man didn't fit, huh? Fear must've been rolling off him in waves so strong you could probably smell it.</p>
+<p>(Quick flashback to: [CENTRAL HOLDING] Vincent Mendoza watches as the guard walks down the corridor toward them. He walks to the back of the cell and unzips his pants where he removes the revolver.)</p>
+<p>(On the bench, Sam Mendez turns and glances nervously at him.) </p>
+<p><strong>Vincent Mendoza</strong>: What you looking at, huh?</p>
+<p><strong>Sam Mendez</strong>: Nothing. Nothing.</p>
+<p><strong>Vincent Mendoza</strong>: I said, what're you looking at, Mark?</p>
+<p><strong>Sam Mendez</strong>: Nothing. Nothing.</p>
+<p>(Vincent Mendoza grabs Sam and slams him against the wall. He starts bashing his head against the toilet. He tosses him to the ground and drops the gun intentionally on the ground near the body.) </p>
+<p>(He stomps on Sam Mendez.)</p>
+<p><strong>Inmate</strong>: (shouts) 911! 911, man!\</p>
+<p>(A fight breaks out in the small cell.)</p>
+<p>(End of flashback. Resume to present.)</p>
+<p>(Vincent Mendoza looks at Warrick and chuckles.) </p>
+<p><strong>Vincent Mendoza</strong>: Typical. Knew you guys would try to pin this on me. I wasn't anywhere near the fish.</p>
+<p><strong>Det. Vartann</strong>: You sure about that?</p>
+<p><strong>Vincent Mendoza</strong>: That's what I said, isn't it?</p>
+<p><strong>Warrick</strong>: Well, it's good to know, since your boot prints were found on the victim's head.</p>
+<p><strong>Det. Vartann</strong>: See, you didn't want to get caught with a gun used in another homicide. A meth dealer, your partner, was found in the desert two weeks ago.</p>
+<p><strong>Margaret Finn</strong>: Any one of those guys could've carried a gun into the holding cell.</p>
+<p><strong>Warrick</strong>: It's not likely, unless you can explain how Vincent here got his pubic hair and feces caught in the gun's hammer.</p>
+<p><strong>Margaret Finn</strong>: Give us some time.</p>
+<p><strong>Warrick</strong>: How's twenty-five to life sound?</p>
+<p>CUT TO:<br />
+[INT. SEVEN SINS -- NIGHT] </p>
+<p>(Brass and Sara walk into the strip joint.) </p>
+<p><strong>Lyric</strong>: True respect and ghetto love / now raise it up / 'cause everything in life gonna come to an end / because it ... </p>
+<p>(They walk over to a woman in the back.) </p>
+<p><strong>Divine</strong>: Forty buys the lips, a hundy gets you south. Goes double for around the world.</p>
+<p>(The guy she's with nods.) </p>
+<p><strong>Divine</strong>: You got a car? (He nods again.) You sure about that?</p>
+<p><strong>Guy</strong>: Mm-hmm.</p>
+<p><strong>Divine</strong>: 'Cause you don't look like you got a car to me.</p>
+<p>(Brass walks up to them and points to his badge on his jacket pocket.) </p>
+<p><strong>Brass</strong>: Take a hike, John. I'm her next appointment.</p>
+<p>(The guy she's with leaves.) </p>
+<p><strong>Divine</strong>: I didn't do nothing but sit here, officer.</p>
+<p><strong>Brass</strong>: On your feet.</p>
+<p>(She gets to her feet.) </p>
+<p><strong>Divine</strong>: Can't believe you're gonna ruin my day for this. You don't have enough to charge me with solicitation. </p>
+<p>(Sara reaches out and touches Divine's blond hair. Divine pulls away.) </p>
+<p><strong>Divine</strong>: Hey! Watch it, bitch.</p>
+<p><strong>Sara</strong>: It's a wig, hair is consistent. Could you open your mouth for me, please?</p>
+<p><strong>Brass</strong>: Come on, you can do that in your sleep, honey. Open up or we'll have to stick you with a needle.</p>
+<p>(Divine rolls her eyes and opens her mouth.) </p>
+<p>CUT TO:<br />
+[INT. CSI - CATHERINE'S OFFICE -- NIGHT] </p>
+<p>(Grissom steps up, carrying his fetus pig in a bottle. He lingers in the doorway and knocks on the door.) </p>
+<p>(Catherine's sitting behind her desk. She looks up and sees him.)</p>
+<p><strong>Catherine</strong>: Taking your pet for a walk?</p>
+<p>(Grissom walks in and sits down.) </p>
+<p><strong>Grissom</strong>: Know how much you like my little fetal pig, so I'm giving him to you as an office-warming gift.</p>
+<p><strong>Catherine</strong>: That is so thoughtful. Now tell me why you really stopped by. You checking up on me?</p>
+<p><strong>Grissom</strong>: No.</p>
+<p><strong>Catherine</strong>: What've you heard? Who talked to you?</p>
+<p><strong>Grissom</strong>: See? You've been on the job for a week and you're already paranoid.</p>
+<p><strong>Catherine</strong>: (laughs) When I was your right-hand and your left, I always knew that if it hit the fan, that you'd be the one to get dirty.</p>
+<p><strong>Grissom</strong>: Hey, that's the job.</p>
+<p><strong>Catherine</strong>: Yeah, that's the job. (Grissom nods.) Did you ever play politics?</p>
+<p><strong>Grissom</strong>: I once ran for president of the science club in junior high. Mary Hardy beat me out by one vote.</p>
+<p><strong>Catherine</strong>: I'm going to guess that you didn't vote for yourself.</p>
+<p><strong>Grissom</strong>: I'm not any good at politics. And it's cost me. It's how I lost Nick and Warrick.</p>
+<p><strong>Catherine</strong>: Your loss was my gain.</p>
+<p><strong>Grissom</strong>: Yeah. And at least they're in good hands.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- NIGHT] </p>
+<p>(Brass and Divine sit across the table from each other.) </p>
+<p><strong>Divine</strong>: We been sitting here a long-ass time.</p>
+<p><strong>Brass</strong>: What can I say? I like your company.</p>
+<p><strong>Divine</strong>: What'd you bring me down here for? I was only trying to make a few bucks.</p>
+<p><strong>Brass</strong>: Yeah.</p>
+<p>(Sara knocks on the door and walks in carrying a file folder. She slides the folder across the table toward Divine.) </p>
+<p><strong>Sara</strong>: DNA's a match.</p>
+<p><strong>Divine</strong>: Match to what?</p>
+<p><strong>Sara</strong>: To one of your hairs that you left on the body of a little boy.</p>
+<p><strong>Divine</strong>: I don't know what you're talking about.</p>
+<p><strong>Brass</strong>: No? I wonder why anyone would leave one kid with you much less three.</p>
+<p><strong>Sara</strong>: You have seven alleles in common with the dead boy. Although that's not enough to say you're related, it's certainly enough to keep digging.</p>
+<p><strong>Brass</strong>: You know, I ran your wants and warrants. It kicked out some aliases. I mean, Devine's a street name. But you're also known as Darlene Lewis, married briefly to a grifter. And a.k.a. Darlene Malton. Hey, that's the same last name as the victim.</p>
+<p><strong>Sara</strong>: To starve anyone is beyond me, but to do it to a child ... a relative, is unforgivable.</p>
+<p>(Quick flash to: Divine empties out the rubber trash bin and puts Devon inside. She shoves the cover back on the bin.) </p>
+<p>(End of flash. Resume to present.) </p>
+<p><strong>Divine</strong>: Wasn't even like that. My cousin Candy left me with them bad-ass kids and no money. How am I supposed to feed them?</p>
+<p><strong>Sara</strong>: You don't look like you've missed any meals to me.</p>
+<p><strong>Divine</strong>: Know what, skinny bitch, go to hell. I just scrape by.</p>
+<p><strong>Brass</strong>: If you couldn't take care of them, why didn't you just turn them over to Social Services?</p>
+<p><strong>Divine</strong>: I promised I wouldn't. Little D got hurt last time. She would've killed me.</p>
+<p><strong>Sara</strong>: What's she going to do when she finds out her son is dead?</p>
+<p><strong>Divine</strong>: I did the best I could.</p>
+<p><strong>Brass</strong>: Okay, where are the boys now?</p>
+<p>(Divine glances over at Sara.) </p>
+<p><strong>Divine</strong>: Uh-uh, you're not gonna blame this on me. I want a lawyer.</p>
+<p><strong>Brass</strong>: You can have a lawyer after you give me the address. But let me tell you something -- if those boys die, I'm going to make it my business to see you get the death penalty.</p>
+<p>CUT TO:<br />
+[EXT. DIVINE'S RESIDENCE -- DAY] </p>
+<p>(A couple of neighborhood kids walk by and see Greg standing out in the front yard.) </p>
+<p><strong>Neighborhood Kid</strong>: What's up, white boy? What you looking at?</p>
+<p>(Brass walks out of the house.) </p>
+<p><strong>Brass</strong>: There's no one in the house.</p>
+<p><strong>Sara</strong>: Where are the kids?</p>
+<p><strong>Brass</strong>: I don't know, let's check around back.</p>
+<p>CUT TO:<br />
+(Brass, Sara and Greg move around the house to the back yard.) </p>
+<p><strong>Brass</strong>: (V.O.) So, turns out that mom was sending money after all. I found this letter inside mailed from Seattle with three hundred bucks in it for the kids' upkeep. And that skanky bitch used it to buy a new TV.</p>
+<p>(They look around the backyard and see the hut to the storage shed. It's bolted shut from the outside.) </p>
+<p>(Brass and Sara pull out their guns. Brass unlocks the door.) </p>
+<p>(He opens the door.)</p>
+<p>[INT. DIVINE'S RESIDENCE - STORAGE SHED - DAY -- CONTINUOUS]</p>
+<p>(Brass, Sara and Greg walk into the cellar. The stairs lead down beneath the ground. The paint is peeling from the walls.) </p>
+<p><strong>Sara</strong>: Paint chips.</p>
+<p><strong>Greg</strong>: Smells like a toilet.</p>
+<p>(They reach the bottom and start walking between the shelves.) </p>
+<p><strong>Brass</strong>: Yeah, she never let them upstairs. (calls out) Kevin, Raymond ...</p>
+<p>(He reaches the back of the storage shed and looks in between the last shelving and the wall. He sees a pair of legs on the floor.) </p>
+<p><strong>Brass</strong>: Oh, no. I'm going to call an ambulance.</p>
+<p>(He backs away to make the call. Sara steps forward to check on the little boy.) </p>
+<p><strong>Brass</strong>: (to radio) This is Detective Jim Brass. I need EMS.</p>
+<p><strong>Dispatch</strong>: (from radio) Copy that, EMS. Over.</p>
+<p>(Sara checks for a pulse and finds one.) </p>
+<p><strong>Sara</strong>: (shouts) He's alive! We need water and blankets.</p>
+<p><strong>Greg</strong>: (o.s.) I'll get them.</p>
+<p><strong>Sara</strong>: Oh, my gosh.</p>
+<p>(Behind Sara, a small hand reaches out and touches her shoulder. She turns around and sees another little boy crying.) </p>
+<p><strong>Sara</strong>: Hey. Are you Kevin or Raymond?</p>
+<p>(Sara holds the little boy as he cries.) </p>
+<p><strong>Sara</strong>: It's all right. It's all right, you're safe now. It's okay.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY -- DAY] </p>
+<p>(An officer escorts Divine through the hallway past Brass and Sara, who watch from the reception desk.) </p>
+<p><strong>Brass</strong>: So, Seattle P.D. has located Candace Malton. They're putting her on a plane tonight. They said she's pretty broken up.</p>
+<p><strong>Sara</strong>: She left her kids with her hooker cousin. She should've known better.</p>
+<p>(Brass nods.) </p>
+<p><strong>Sara</strong>: Where are you going to take her first, the hospital or the morgue?</p>
+<p><strong>Brass</strong>: Guess I might as well get it over with. I mean, once she sees the kids she's not going to want to leave them. (He shrugs.) What do you think?</p>
+<p><strong>Sara</strong>: Go with the living, Jim. The dead can wait.</p>
+<p>(Sara turns and leaves.) </p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- NIGHT] </p>
+<p>(Sara is at the laptop computer. She turns to her right and sees Grissom in his office looking at a book. Sofia sits on the edge of his desk and he closes the book to talk with her. She reaches out and touches the book in his hand.) </p>
+<p>(Sara turns to her left and sees Warrick, Nick and Greg in the break room relaxing.)</p>
+<p>(Catherine walks through the hallway and stops when she sees the guys in the break room. They're sharing a bag of popcorn between them.) </p>
+<p>(Catherine smiles wistfully and sighs. She glances at her wristwatch, turns and heads back the way she came.)</p>
+<p>(Cut back to: Sara also turns and glances sideways back to her right. She looks at her laptop and types in at the LEXISNEXIS TOTAL RESEARCH SYSTEM, search terms for the following:<br />
+THE PEOPLE VS. LAURA SIDLE W/2<br />
+MODESTO, CALIFORNIA, 1984.</p>
+<p>(Camera holds on Sara.) </p>
+<p>FADE TO BLACK</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
- 
- 
-Brass: So, the gang unit says our D.B. is a sixteen-year-old Tyson Plummer.
-Sofia Curtis: How many holes in the victim?
-Grissom: I count four.
-Sofia Curtis: Eleven shell casings. Shooter emptied the gun -- so he was moving and shooting. Only hit the vic four times.
-Grissom: She talks to herself.
-Brass: Hey, it works for me.
-Sofia Curtis: Bullets that missed hit the outside building wall.
- 
-Kid 1:  Hey, man, what ya doing in my back alley! 
- 
-KIDN 1: Bang, bang, bang, bang.
-Kid 2: Man, you know Andre didn't cap him like that.
- 
-Kid 1: Did too.
-Kid 2: Did not!
-Kid 1: Did too!
-Kid 2: How you gonna tell me?
-Kid 1: I saw him ...
-Greg: Hey, guys, can I talk to you for a sec?
-Kid 2: Run!
- 
-Greg: I just want to ask you a few questions.
- 
-Kid 2: Yo man! Wait up!
- 
- 
- 
-Greg:  Grissom ...
-Grissom:  Go ahead, Greg.
-Greg:  We got a young male D.B. by the dumpster.
-Grissom:  I'll be right there.
- 
- 
-Officer: Hey, hey!
- 
-Leo Plummer: Get your damn hands off me!
- 
-Brass: Whoa, whoa. I can't let you touch him. What's your name?
- 
-Leo Plummer: I'm Plummer. Leo. That's my brother right there. They didn't have to do him like that, Dawg.
-Brass: I know you know who did this, Leo.
-Leo Plummer: Ain't your problem, man. Whoever did this is gonna get got.
-Brass: Oh, no, don't say stuff like that. Because only two things can happen: You in shackles or you on a slab. So, let's break the odds this time. What do you say?
-Leo Plummer: You done with me, Bacon? 'Cause I got family to go bury.
-
-Brass: Yeah.
- 
-
-
- 
- 
-Officer: This is Lincoln three. We've got a four-fifteen-A on scene.
- 
- 
-Grissom: You okay?
-Greg: Hell no, I'm not okay. Who the hell's shooting at us?
-Grissom: I don't know, but I think our single just turned into a triple.
- 
-SMASH CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
- 
- 
-Greg: Somebody tried to just throw him out with the trash.
-Sara: If the dumpster wasn't full he would've ended up at the landfill.
-David Phillips: He hasn't been dead long. He's just coming out of rigor, so I'd say less than twenty-four hours.
-Sara: He wasn't in the box long enough to mummify, but the kid looks like an ad for hunger relief. Okay, let's, um, transport him in situ.
- 
-Sara: Be very careful moving the body. You okay?
-Greg: Yeah. Fine.
- 
-Officer: Come on, let's go.
-Man:  Rodney King, yo! Rodney King. Yo! Y'all see this? That's Rodney King, Dawg! Let me go, Dawg! Let me go, man!
- 
- 
-Man: Get off me, man! That's Rodney King, Dawg! Let me ... Get off! Get off me! Get off! Get off me! Bitches! We call it brutality!
-
-Brass: So, uh ... you think these concerned citizens are taping the capture of a vicious killer?
- 
-Grissom: If they're taping now, maybe they caught that second shooting on video. Maybe you could collect the cameras.
-
-Brass: I love this guy.
-Grissom: It says &quot;forensics&quot; on our jacket.
-Sofia Curtis: I'm aware of that.
-Grissom: We had plenty of cops chasing the suspect.
-Sofia Curtis: I wasn't chasing the suspect. I was chasing the evidence. I knew the idiot was likely to dump the gun. 
- 
-Sofia Curtis: All we have to do is ballistics-match the weapon to both victims. Case closed.
- 
-
-
- 
- 
-Warrick: Hey.
-Nick: Hey, man.
-Det. Vartann:  What's up?
-Nick: Thanks.
- 
-Det. Vartann: Suspects wait in central holding to be processed and transferred to jail. They assaulted the officers with feces and then the cops went in.
-Nick: Great.
-Warrick: To bust some heads.
-
-Nick: Hoo ... so, you've got a Samuel Mendez with a cracked skull listed as death imminent, right?
- 
-Det. Vartann: Yeah. It's why they kicked it up to homicide.
-Warrick: You think the cops used excessive force here?
- 
-Det. Vartann: Well, if they did it's mitigating circumstances.
-Warrick: Yeah.
- 
-Nick: Yeah, well, if they'd've thrown a bunch of feces at me, I would have cracked some skulls too.
- 
-Nick: This is the last place I thought I'd see a gun.
-Det. Vartann: It was found under the victim.
-Nick: Could be his.
-Warrick: Arresting officer must have done a lousy search.
- 
- 
-Nick: Wow ... this is a lot of crap. What, did they squat on cue?
-Warrick: Overflowing toilet. There's enough ammunition right there.
-Nick: So, the cops bust in to get the prisoners under control when they start throwing raw sewage?
-
- 
-Warrick: Well, there must have been some real bad asses in here. Looks like it got pretty heated.
-
-
- 
-Overhead:  ... Security Officers for lockdown debriefing.
- 
- 
-Nick: You want to tell me what happened here?
- 
-Prisoner 1: Cops iced the kid. What else you want to know?
- 
-Prisoner 1: Could tell he was a fish from the jump, though.
-Nick: A fish?
- 
-Prisoner 1: New to the game.
-
- 
-Officer:  You want to go to the hold, boy?
-
- 
-Prisoner 2: What?
- 
-Nick: You see what happened?
- 
-Prisoner 3: The po-po gutted the fish. I saw the whole thing. Same thing they did to me. Two beatings in one day. Rodney King, yo.
- 
-
-
- 
-Dr. Franks: I'm sorry, uh, who are you?
-Catherine: I'm Catherine Willows. I'm with the Crime Lab.
-Dr. Franks: Oh. I'm Dr. Franks, attending. Have you located his family yet?
-Catherine: No.
-Dr. Franks: I need to find someone to sign a release, take him off the ventilator.
-Catherine: He's brain dead?
-Dr. Franks: Oh, yeah. I'm hoping the family will donate his organs.
-Catherine: Tell me about his injuries.
-Dr. Franks: He's got blunt-force trauma to the frontal and sphenoid bones.
- 
-Dr. Franks: It fragmented his skull, damaged his temporal arteries and imbedded in his brain.
-
-Catherine: Well, those are shoe prints on his face, which suggests that he was attacked while he was down.
- 
-Dr. Franks: Well, he came from county lock-up. Must have been a hell of a fight.
-
-
- 
- 
- 
- 
- 
-
- 
-
-
- 
-Robbins: The victim's about five years old. He was just losing his baby teeth. X-rays show metaphyseal fractures to the right humerus and acromion. They're called corner or bucket-handle fractures.
-Sara: Shake the baby?
-Robbins: It's more like snatch and shake. Violent shaking creates shearing forces, causing fragment fractures at the end of the growth plate. It's highly specific for abuse.
- 
-Voice :  I said, Get up!
- 
- 
-Sara: How old do you think these fractures are?
-Robbins: Well, this kind of fracture doesn't usually heal with callus you can easily see. My guess, less than six months.
- 
-Sara: He is emaciated. He looks drawn. The only thing missing is a swollen belly.
-Robbins: It's called cachexia. The soft tissue is diminished and drawn around the skull. The eyes are sunken, and there's prominent tenting where the skin should retract.
- 
-Sara: His ribs are poking through his skin. He starved to death, didn't he?
-Robbins: C.O.D. is renal failure due to starvation. His intestinal tract was virtually empty, except for these brown flecks I found. 
- 
-Robbins: Hepatic steatosis, the liver goes yellow and greasy. Ketoacidosis, fat stores are used for energy, and then rhabdomyolysis - the muscles broken down for fuel. Think of the body as digesting itself.
-
-
- 
- 
-Sara: This took weeks.
-Robbins: I have to admit, this seems especially cruel and unusual.
-Sara: When kids are involved, it usually is.
-
-
-
-
- 
- 
- 
-Lt. Arthur Chen: It's 10-by-18-foot cell built for 25 people. We've got thirty-five mutts and no place to put the extras. Between the yo's, the cholos and the rednecks, it was bound to happen.
-Warrick: Thirty-five guys, that's a lot of men to fit in one room.
-Lt. Arthur Chen: Cops round them up, we process them. It usually doesn't take long, but today we got jammed.
-Det. Vartann: What was the problem?
-Lt. Arthur Chen: Computer went down, plumbing backed up. You name it, we had it.
-Det. Vartann: Any rival bangers in the same cell?
-Lt. Arthur Chen: No. I rechecked the roster. We don't want the yo's killing each other in custody. Why we bother, I'll never know.
-Warrick: You ever think an overcrowded cell mixed with bad plumbing was the reason they threw the contents?
-Lt. Arthur Chen: They don't need a reason. Bad monkeys at the zoo.
- 
-Det. Vartann: So, uh, how did the gun get past security?
-Lt. Arthur Chen: Arresting officer did a bad search.
-Warrick: Don't you search them again when they get to the holding cell?
-Lt. Arthur Chen: What?
-Warrick: Don't you search them again when they get here?
-Lt. Arthur Chen: Is there something you want to get off your chest?
-Warrick:  A gun in a cell is sloppy police work, man.
- 
-Lt. Arthur Chen: I don't like what you're implying about me or my men.
- 
-Warrick: Then maybe you need to dial down your attitude. A man is brain dead here! I don't care what he was like when he was alive, and neither should you, don't you think?
-Lt. Arthur Chen: All I know, there's one less b*st*rd I gotta watch my back for. There's five of us, so the odds are in their favor. You're a crime scene tech. I'm law enforcement, which means you don't get to tell me what to do in my jail.
-Warrick: If I find out you used excessive force on an unarmed prisoner, you won't have a jail.
-Lt. Arthur Chen: I think we're done here.
- 
-Warrick: I don't think so. Not quite. I'm going to need your armor, your shields, your boots and your batons.  Right now!
- 
-
-
- 
-Sofia Curtis: I'll, uh ... ran John Doe minor's DNA against the missing persons database. I'm sorry, no hits.
-Sara: Yeah, I'm not surprised. They didn't care enough to feed him, why would they report him missing?
- 
-Sofia Curtis: What's going on in here?
-Sara: The victim had a prior abuse fracture.
-Sofia Curtis: And you're hoping Child Protective Services investigated?
-Sara: Well, based on the age of the victim, the age of the fracture and the break pattern, I found ten possible matches.
-Sofia Curtis: Well, it's going to take you forever to go through these alone.
-Sara: I'll get it done. 
-Sofia Curtis: It took me a long time to get where I was, Sara. Now I feel like I'm starting from scratch. I miss sleeping at night. I miss my colleagues. I miss ...
-Sara: What?
-Sofia Curtis: Being trusted.
- 
-
- 
- 
-Warrick: Okay.
- 
-Mia Dickerson: What's on the menu today, Warrick?
- 
-Warrick: A gun ... face shields, vests ... batons ... please run the batons first.
-Mia Dickerson: Why? You thinking bad cop?
-Warrick: Well, the batons were the only weapons inside of the cell. Everything else was fixed ...
-
-Warrick: ... to the floor, to the walls.
-
-Mia Dickerson: You gonna get that?
- 
-Warrick: No.
-Mia Dickerson:  Player.
-Warrick: Oh, now I'm a 'player'. You make up your mind pretty quick.
-Mia Dickerson: I'll, uh, page you when I get the results.
-Warrick: Yeah?
- 
-Warrick: He was a rough one last night, so I called to check on him. But since I'm here, I can do it in person. Anything else you want to say to me?
-Mia Dickerson:  Have a nice day.
-Warrick:  Is that it?
-Mia Dickerson:  That's it.
-
-Sofia Curtis: Am I interrupting?
- 
-Warrick: No.
-Mia Dickerson: No.
- 
-Warrick:  Good day.
- 
-Sofia Curtis: He's pretty hot.
-Mia Dickerson: Yeah, well, I think he knows it.
-Sofia Curtis: Anything on the hairs from the plastic coffin?
-Mia Dickerson: Ah, yeah, I actually did find one hair with a root tag still attached, and it's a priority run for me as soon as I get something to compare it to. Sara also collected a bunch of synthetic hairs. I'm thinking doll, wig, maybe fake fur. I sent them over to trace.
-
- 
- 
-Sara: I went through child abuse cases, looking for a match to the victim's age and fracture. I pulled the x rays of our most likely candidates.
-Robbins: Sinus identification is as reliable as fingerprints. Sinuses are unique; they have distinct, scalloped edges.
- 
- 
-Sara: No match.
-Robbins: It's harder to identify children this way because they, uh, develop so quickly.
- 
- 
-Sara: This is it.
-Robbins: Bingo. Yep. Frontal and ethmoid sinuses line up perfectly.
- 
-Sara:  Devon Malton, age five, last known residence was a foster home run by a Lorna Tenney.
-
- 
- 
-Lorna Tenney: So, which one of my kids is in trouble?
-Brass: No, you are, Mrs. Tenney.
-Lorna Tenney: Oh? Which one of my kids lodged a complaint?
-Sara: That happen a lot?
-Lorna Tenney: Well, it goes with the territory.
-Brass: We're here about, uh, Devon Malton.
-Lorna Tenney: Well, he hasn't lived here in six months.
-Sara: Since he fractured his arm?
-Lorna Tenney: CPS investigated. They cleared me.
-Sara: Records show Devon resides here.
-Lorna Tenney: Well, records are wrong.
-Brass: Mind if we come in and take a look around?
-Lorna Tenney: I do.
-Sara: If you've got nothing to hide...
-Lorna Tenney:  Oh, save it. Those mind games don't work on me. I deal with the police often enough to know better than to talk to you without my attorney or to let you poke around my things. 
-Brass: Look, Family Services says you have this kid.
-Lorna Tenney: Mm-hmm.
-Brass: They've issued aid checks. Now, who do you expect me to believe?
-Lorna Tenney: The checks come, I send them back. I've got the copies to prove it.
-Brass: Look, it's either here or at the station. So, you choose.
-Lorna Tenney: Then let's go, because you don't set foot in my house without a warrant.
-
- 
- 
-
-
-
- 
-David Hodges: Heard you had a real sphincter pucker last night. So what kind of gun are you getting?
-Greg: Plenty of guns at crime scenes. Cops have them, some criminalists ...
-David Hodges: Yeah, cops make great targets. Plus, CSIs get shot at all the time, or didn't they tell you?
- 
-Greg: If this is why you paged me then I ...
-David Hodges: I got the results on the bin contents.
- 
-Greg: Well?
-David Hodges: Are you sure you're okay? You don't look so good. 
- 
-David Hodges: I detected mineral oil, titanium dioxide, stearic acid, isopropylpalpitate using polarized light microscopy, GCMS and FTIR.
-Greg: Is that makeup?
-David Hodges: Burnt sienna foundation. The cheap stuff.
-Greg: What about the intestinal tract contents?
- 
-David Hodges: Lead-based paint chips ... last used in 1978.
-Greg: That whole neighborhood looks like it was built in the 70s. Could've come from any one of the apartment buildings or the houses.
-David Hodges: Which means that sooner or later, you're going to have to be going back out to the hood. Nervous?
-Greg: Hmm ...
-
- 
- 
- 
-Mr. Mendez: I'm sorry, doctor. I can't donate his organs.
-Dr. Franks: I assure you your son has no brain activity, Mr. Mendez. He's gone.
-Mr. Mendez: No, no, you don't understand. I don't know who that is in there, but it's not my son.
-Catherine: Mr. Mendez. I'm Catherine Willows, with the Las Vegas Crime Lab. Are you sure?
-Mr. Mendez: Look, I've been waiting for this phone call a long time. My kid took a wrong turn somewhere -- maybe it's my fault, I don't know -- but somebody's boy is in that bed and he's not mine. 
- 
-Dr. Franks: Either he can't accept reality or the county made a big mistake.
-Catherine: Well, there's only one way to find out. I'll have to take his prints.
-
- 
-(Catherine scans in a print into the computer for:
-SAMUEL MENDEZ - VICTIM
-IN CUSTODY Booking #275192139480
-(She compares it to a second print on File for:
-SAMUEL MENDEZ - SUSPECT
-WHEREABOUTS UNKNOWN
-
-(Catherine pulls up the photo and information on SAMUEL MENDEZ. Among the information, there is an
-ACTIVE ARREST WARRANT FOR MURDER
-CONSIDERED ARMED AND DANGEROUS
- 
-
-
- 
- 
-Glynnis: Guys. Do your work.
-
-Sara: Hi.
- 
-Sara: You like chemistry?
-Glynnis: No. I'm not smart enough.
-Sara: Sure you are. Glynnis, right?
- 
-Sara: Quantum theory. That's compelling stuff actually.
-Glynnis: Look, you can to question me, fine. You don't have to pretend to be interested in me.
-Sara: I'm sorry that was lame. I guess I was just trying to put you at ease. I know what it's like.
-Glynnis: What?
-Sara: Living with strangers. Your fate being decided bysocial workers, advocates, judges...
-Glynnis: You were in the system.
-Sara: For a while.
-Glynnis: I've been in foster care for ten years. I moved from one home to the next. Believe me, Mrs. Tenney is one of the good ones.
- 
-Sara: She's not very cooperative.
-Glynnis: Well, she's been burned a lot. Look, I know she comes off as tough, but she really cares. Enough to tell us the truth, even if it hurts.
-Sara: You remember a little boy named Devon?
-Glynnis: Yeah. Cute kid. About five years old.
-Sara: Your foster mom said that Devon left months ago. Is that true?
-Glynnis: Yeah. Why all the questions?  Did something happen?
-Sara: Yeah.
-Glynnis:  Is he dead?
-Sara: Yeah.
-Glynnis: I don't understand. His mom came and picked him up. That never happens. You could just see how much she loved those boys.
-Sara: Glynnis ... Did Devon have brothers at the foster home?
-Glynnis: Yeah. Two older brothers, Kevin and, and Raymond. What happened to them?
-
-
-
-;
-
-
-
- 
- 
-Delia Brooks: The boy's mother, Candice Malton, served forty-seven of the ninety-day sentence for smashing a brick into her abusive boyfriend's face.
-Sara: Sounds like self-defense to me.
-Delia Brooks: Yeah. If. She would've walked after the first hit.
-Brass: So, how many times did she actually hit him?
-Delia Brooks: Five. Takes battered women a while to see the light, but once they do, there's no going back.
-Brass: Okay, so the Malton boys were placed in foster care while mom served her sentence.
-Delia Brooks: A single mother, she reinstated her parental rights as soon as she got out of jail. After what happened to her son, she didn't want anything to do with Child Services.
-Brass: Any idea where the mother is now? 
-Delia Brooks: No, I've already checked Welfare, Medicaid, HUD rolls -- she's in the wind.
-Brass: I'll put out a Bulletin.
-Sara: No offense, but why didn't you check into the kids after the mom was released from jail?
-Delia Brooks: Eight thousand child abuse/neglect investigations a year. There's only so much we could do. Look, despite her taste in men, in my opinion, Candice Malton was a good mother.
- 
-Sara: One of her sons is dead and the other two are missing.
- 
-Sara: What's good about that?
-
-
-
- 
-Catherine: Hey, Mia. Did you finish processing the batons?
-Mia Dickerson: Oh, yeah. Just now.  I found blood, epithelials and hair on all of them. There are several DNA sources from everyone but the victim.
-Catherine: Which means that a police baton never connected with Sam Mendez. He had to already be down when the cops entered the cell. Thanks.
-
-
- 
-Lt. Arthur Chen: Catherine Willows?
-Catherine: Yeah?
-Lt. Arthur Chen: Lieutenant Arthur Chen, watch commander for Central Holding.
-Catherine: We are almost finished with our investigation, but I can tell you that the victim's prints don't match the Sam Mendez that's wanted for murder.
-Lt. Arthur Chen: Are you telling me we arrested the wrong guy?
-Catherine: It was a routine traffic stop. The arresting officer ran the name and got an immediate warrant hit.
- 
-Catherine:  An arrest warrant for murder and two guys with the same name.
- 
-Officer: Out of the car! Out of the car!
-Samuel Mendez: What'd I do?
-Officer: Hands up!
-
-Lt. Arthur Chen: Arresting officer did his job; I did my job.
-Catherine: No one's saying that you didn't.
-Lt. Arthur Chen: Your subordinate Warrick Brown did.
-Catherine: With all due respect, Lieutenant, that really doesn't sound like the Warrick Brown I know.
-Lt. Arthur Chen: You're a civilian, but even you understand 'chain of command'. Now, I'm giving you an opportunity to adjust his attitude. Don't make me.
- 
-
- 
- 
-Sofia Curtis: Heard you found a print on the bin.
-Greg: I did. Under the lip curve.
-
- 
-Sofia Curtis: What?
-Greg: Well, I'm not sure what's the best way to process the print.
-Sofia Curtis: You take digital photos?
-Greg: Yeah.
- 
-Sofia Curtis: Well, hand them over. I'll load it into the computer and reconstruct the image while you finish processing.
-Greg: What else is there left to do but run it through AFIS?
-Sofia Curtis: You're going to need an actual print for court.
-Greg: Are you saying that I'm going to have to cut it out in order to lift it?
- Isn't that destroying the evidence?
-Sofia Curtis: No. You're recovering it. As long as you document it, you're fine.
-Greg: Oh.
- 
- 
-
- 
- 
-
- 
-Greg: Well, I appreciate your help.
-Sofia Curtis: No big deal.
-Greg: I don't know if I'd be quite as accommodating after just being ... 
-
-Greg: Well, you know.
-Sofia Curtis: Demoted?
-Greg: Yeah.
- 
-Sofia Curtis: No hit in AFIS. I've widened the search. I've got an FBI database hit.
- 
-Sofia Curtis: Your print belongs to an enlisted man. Private First Class Phillip Riley.
-
- 
- 
-Phillip Riley: I hope you can tell me what the hell is going on. MP's just dragged me off a transport to Tikrit. That makes me look bad. Not that I mind. Better here than over there. You know what I'm saying?
-Brass: Oh, you're an Americanhero. And I mean that, you are. What the hell were you doing on D Street?
-Phillip Riley: D Street?
-Brass: Explain to me why your fingerprints ended up on a plastic bin container in an alley off DStreet?
-Phillip Riley: Oh, Come on!
-Brass: Oh, did I forget to mention there was a dead kid inside? 
-Phillip Riley: Well, well, I thought this was about paying for trimming inside county lines. All I did was take out the trash. That's all I did.
-Brass: For who?
-Phillip Riley: Some chicken head ghetto rat. I-I-I was shipping out and-and decided to party. You know, she was all I could afford.
-Brass: Where'd you meet her?
-Phillip Riley: Some dive. Seven sins.
-Brass: What was her name?
-Phillip Riley: Divine. I think. I-I don't remember if she told me her last name. Anyway, we had some fun and when I was done, she told me to take out the trash. End of story.
-Brass: Not quite. Where does she live?
-Phillip Riley: North Vegas somewhere. I was drunk as hell.
-Brass: I want you to think real hard.
-Phillip Riley: I swear to God. I don't know. I really don't.
-Brass: How'd you get there? 
-Phillip Riley: In a taxi. And I left the same damn way.
-
-
-
-Warrick: Aw, it looks good on you.
-Catherine: Thanks.
- 
-Catherine: Have a seat.
-
-Warrick: So what's up?
-Catherine: Lieutenant Chen dropped by.
- 
-Warrick: Really. I wonder what for.
-Catherine: To complain about you. Wish you told me you had a beef with him.
-Warrick: There was nothing to say. We had words, it got heated, then it was over.
-Catherine: Well ...  ... I'm the supervisor of the swing shift. I'm responsible for the whole team. It's my job to make sure that we remain objective and professional.
-Warrick: Yeah, I really don't see what the big deal is. I mean, I remember talking to Grissom ...
-Catherine: Well, I'm not Grissom. He let a lot of things slide that I won't.
-Warrick: Okay. Is there anything else?
-Catherine: The evidence cleared the extraction team. You owe Lieutenant Chen an apology.
-Warrick: Written or verbal?
-Catherine: From now on, anything that happens at a crime scene, I'm your first phone call.
-Warrick: Sure.
- 
-
- 
- 
-
-
-
-
-
-
- 
-Nick:  Fire in the hole! Shooting two!
-
- 
-
-
-
- 
-Catherine: We now know the cops were not responsible, so that leaves us with thirty-four suspects, all with rap sheets. Is there anything to narrow the focus?
-Warrick: Well, I compared all thirty-four pairs -- I came up with one sole pattern ...  ... and one suspect -- Vincent Mendoza ... booked for meth manufacture.
-Catherine: Well, the official C.O.D. was blunt force trauma to the head, not stomping.
-Warrick: Well, it's not unreasonable to think the same guy that caused the blunt force trauma can also stomp him.
-Catherine: Well, that all sounds good, but why go to all that trouble?
-Nick: Because the gun was hot. Ran it though IBIS. It was used in an execution-style murder.
-Catherine: The last thing the guy wanted to do was to get caught with a gun that had a body on it.
-Warrick: Yeah, well, this victim looks like the perfect patsy to drop a gun on.
- 
-Nick: Yeah ... little fish in a tank full of sharks.
-
-
-
-
- 
- 
-Margaret Finn: What's on the table, gentlemen?
-Det. Vartann: Murder, two counts.
-Warrick: Your client killed a man in a holding cell and tried to frame the cops for it.
-Vincent Mendoza: That's bull and you know it.
-Margaret Finn: Shh. Let's hear the corroborating evidence, and it'd better be good.
-Det. Vartann: Mr. Mendoza was hooked in a raid on a meth lab. Problem was, he was carrying a concealed weapon and had no time to ditch it.
-Warrick: He dropped the weapon down his pants, planned to get rid of it in Central Holding before the cavity search.
-Margaret Finn: So far, I'm not hearing anything you can actually prove.
-Warrick: Well, I'm sure Vincent here knew a lot of people inside since he is a repeat offender. But only one man didn't fit, huh? Fear must've been rolling off him in waves so strong you could probably smell it.
-
- 
-Vincent Mendoza: What you looking at, huh?
-Sam Mendez: Nothing. Nothing.
-Vincent Mendoza: I said, what're you looking at, Mark?
-Sam Mendez: Nothing. Nothing.
- 
-
-Inmate:  911! 911, man!\
-
-
- 
-Vincent Mendoza: Typical. Knew you guys would try to pin this on me. I wasn't anywhere near the fish.
-Det. Vartann: You sure about that?
-Vincent Mendoza: That's what I said, isn't it?
-Warrick: Well, it's good to know, since your boot prints were found on the victim's head.
-Det. Vartann: See, you didn't want to get caught with a gun used in another homicide. A meth dealer, your partner, was found in the desert two weeks ago.
-Margaret Finn: Any one of those guys could've carried a gun into the holding cell.
-Warrick: It's not likely, unless you can explain how Vincent here got his pubic hair and feces caught in the gun's hammer.
-Margaret Finn: Give us some time.
-Warrick: How's twenty-five to life sound?
-
- 
- 
-Lyric: True respect and ghetto love / now raise it up / 'cause everything in life gonna come to an end / because it ... 
- 
-Divine: Forty buys the lips, a hundy gets you south. Goes double for around the world.
- 
-Divine: You got a car?  You sure about that?
-Guy: Mm-hmm.
-Divine: 'Cause you don't look like you got a car to me.
- 
-Brass: Take a hike, John. I'm her next appointment.
- 
-Divine: I didn't do nothing but sit here, officer.
-Brass: On your feet.
- 
-Divine: Can't believe you're gonna ruin my day for this. You don't have enough to charge me with solicitation. 
- 
-Divine: Hey! Watch it, bitch.
-Sara: It's a wig, hair is consistent. Could you open your mouth for me, please?
-Brass: Come on, you can do that in your sleep, honey. Open up or we'll have to stick you with a needle.
- 
-
- 
- 
-
-Catherine: Taking your pet for a walk?
- 
-Grissom: Know how much you like my little fetal pig, so I'm giving him to you as an office-warming gift.
-Catherine: That is so thoughtful. Now tell me why you really stopped by. You checking up on me?
-Grissom: No.
-Catherine: What've you heard? Who talked to you?
-Grissom: See? You've been on the job for a week and you're already paranoid.
-Catherine:  When I was your right-hand and your left, I always knew that if it hit the fan, that you'd be the one to get dirty.
-Grissom: Hey, that's the job.
-Catherine: Yeah, that's the job.  Did you ever play politics?
-Grissom: I once ran for president of the science club in junior high. Mary Hardy beat me out by one vote.
-Catherine: I'm going to guess that you didn't vote for yourself.
-Grissom: I'm not any good at politics. And it's cost me. It's how I lost Nick and Warrick.
-Catherine: Your loss was my gain.
-Grissom: Yeah. And at least they're in good hands.
-
- 
- 
-Divine: We been sitting here a long-ass time.
-Brass: What can I say? I like your company.
-Divine: What'd you bring me down here for? I was only trying to make a few bucks.
-Brass: Yeah.
- 
-Sara: DNA's a match.
-Divine: Match to what?
-Sara: To one of your hairs that you left on the body of a little boy.
-Divine: I don't know what you're talking about.
-Brass: No? I wonder why anyone would leave one kid with you much less three.
-Sara: You have seven alleles in common with the dead boy. Although that's not enough to say you're related, it's certainly enough to keep digging.
-Brass: You know, I ran your wants and warrants. It kicked out some aliases. I mean, Devine's a street name. But you're also known as Darlene Lewis, married briefly to a grifter. And a.k.a. Darlene Malton. Hey, that's the same last name as the victim.
-Sara: To starve anyone is beyond me, but to do it to a child ... a relative, is unforgivable.
- 
- 
-Divine: Wasn't even like that. My cousin Candy left me with them bad-ass kids and no money. How am I supposed to feed them?
-Sara: You don't look like you've missed any meals to me.
-Divine: Know what, skinny bitch, go to hell. I just scrape by.
-Brass: If you couldn't take care of them, why didn't you just turn them over to Social Services?
-Divine: I promised I wouldn't. Little D got hurt last time. She would've killed me.
-Sara: What's she going to do when she finds out her son is dead?
-Divine: I did the best I could.
-Brass: Okay, where are the boys now?
- 
-Divine: Uh-uh, you're not gonna blame this on me. I want a lawyer.
-Brass: You can have a lawyer after you give me the address. But let me tell you something -- if those boys die, I'm going to make it my business to see you get the death penalty.
-
- 
- 
-Neighborhood Kid: What's up, white boy? What you looking at?
- 
-Brass: There's no one in the house.
-Sara: Where are the kids?
-Brass: I don't know, let's check around back.
-
- 
-Brass:  So, turns out that mom was sending money after all. I found this letter inside mailed from Seattle with three hundred bucks in it for the kids' upkeep. And that skanky bitch used it to buy a new TV.
- 
- 
-
-
- 
-Sara: Paint chips.
-Greg: Smells like a toilet.
- 
-Brass: Yeah, she never let them upstairs.  Kevin, Raymond ...
- 
-Brass: Oh, no. I'm going to call an ambulance.
- 
-Brass:  This is Detective Jim Brass. I need EMS.
-Dispatch:  Copy that, EMS. Over.
- 
-Sara:  He's alive! We need water and blankets.
-Greg:  I'll get them.
-Sara: Oh, my gosh.
- 
-Sara: Hey. Are you Kevin or Raymond?
- 
-Sara: It's all right. It's all right, you're safe now. It's okay.
-
- 
- 
-Brass: So, Seattle P.D. has located Candace Malton. They're putting her on a plane tonight. They said she's pretty broken up.
-Sara: She left her kids with her hooker cousin. She should've known better.
- 
-Sara: Where are you going to take her first, the hospital or the morgue?
-Brass: Guess I might as well get it over with. I mean, once she sees the kids she's not going to want to leave them.  What do you think?
-Sara: Go with the living, Jim. The dead can wait.
- 
-
- 
- 
-
- 
-
-(Cut back to: Sara also turns and glances sideways back to her right. She looks at her laptop and types in at the LEXISNEXIS TOTAL RESEARCH SYSTEM, search terms for the following:
-THE PEOPLE VS. LAURA SIDLE W/2
-MODESTO, CALIFORNIA, 1984.
- 
-FADE TO BLACK
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=05x10+-+No+Humans+Involved&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127386%23p127386" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=05x10+-+No+Humans+Involved&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127386%23p127386" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127386%23p127386&amp;name=05x10+-+No+Humans+Involved" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127386%23p127386" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=7ad6bb2620179d6ceb88defb30bfd661">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=7ad6bb2620179d6ceb88defb30bfd661">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=7ad6bb2620179d6ceb88defb30bfd661">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=7ad6bb2620179d6ceb88defb30bfd661">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>

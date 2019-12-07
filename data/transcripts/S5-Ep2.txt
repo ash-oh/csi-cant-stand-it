@@ -1,848 +1,1080 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY SCENES (STOCK) - NIGHT]
+(It's raining. A lot.)
+[EXT. LAS VEGAS COMMUNITY (STOCK) -- NIGHT] 
+(Lightning flashes" />
+<meta property="og:title" content="05x02 - Down the Drain - CSI: Crime Scene Investigation Transcripts - Forever Dreaming" />
+<meta property="og:description" content="COLD OPEN:
+[EXT. VARIOUS LAS VEGAS CITY SCENES (STOCK) - NIGHT]
+(It's raining. A lot.)
+[EXT. LAS VEGAS COMMUNITY (STOCK) -- NIGHT] 
+(Lightning flashes" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13284" />
+<meta property="og:image" content="http://transcripts.foreverdreaming.org/images/logo250t.jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<title>05x02 - Down the Drain - CSI: Crime Scene Investigation Transcripts - Forever Dreaming</title>
+<link rel="canonical" href="http://transcripts.foreverdreaming.org/viewtopic.php?f=34&amp;t=13284" />
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+<link href="favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon" />
+<link href="favicon.ico" rel="icon" title="Site Icon" type="image/x-icon" />
+<link rel="alternate" type="application/atom+xml" title="Feed - Transcripts - Forever Dreaming" href="http://transcripts.foreverdreaming.org/feed.php" />
+<link rel="stylesheet" href="./styles/transcripts_default/theme/stylesheet.css?r1" type="text/css" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-3808023418243141",
+		enable_page_level_ads: true
+	});
+</script>
+</head>
+<body class="viewtopic f34 t13284">
+<i id="top"></i>
+<div id="wrapheader">
+	<div id="menubar" class="clearfix">
+		<div class="pull-left">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" onClick="javascript:doToggle('togglenav');"><span style="display:none">Toggle navigation</span><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="navbar-collapse collapse" id="togglenav" style="display:none">
+				<ul class="nav navbar-nav">
+					<li><a href="./"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="./index.php" title="A-Z List of episode transcripts"><i class="fa fa-list"></i> A-Z List</a></li>
+					<li><a href="search/" title="Search Forever Dreaming Transcripts"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="about/" title="About Forever Dreaming and Transcripts"><i class="fa fa-info"></i> About</a></li>
+					<li><a rel="nofollow" href="http://foreverdreaming.org/" title="Forever Dreaming"><i class="fa fa-comments"></i> Forum</a></li>
+					<li><a href="donate/" title="Contribute towards running costs"><i class="fa fa-gift"></i>  Donate</a></li>
+					<li><a href="faq/" title="Frequently Asked Questions"><i class="fa fa-question"></i> FAQ</a></li>
+					<li><a href="contact/" title="Contact us"><i class="fa fa-envelope"></i> Contact</a></li>
+					<li><a href="./ucp.php?mode=login&amp;sid=174691873b3247e91f6e6f970b93e891"><i class="fa fa-sign-in"></i> Login</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="pull-right social-links"><a href="https://twitter.com/FDdotorg" title="Follow us on Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-2x"></i> Follow</a></div>
+	</div>
+</div>
+<div id="wrapper">
+<div id="header">
+	<h1>CSI: Crime Scene Investigation Transcript</h1>
+</div>
+<div id="wrapcentre">
+	<div class="box extra-content tool-box">
+		<div class="boxheading clearfix">
+			<div class="pull-left">
+				<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=174691873b3247e91f6e6f970b93e891">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=174691873b3247e91f6e6f970b93e891">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=174691873b3247e91f6e6f970b93e891">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=174691873b3247e91f6e6f970b93e891">CSI: Crime Scene Investigation</a></p>
+			</div>
+			<div class="social-links pull-right">
+				<a title="Share on Facebook" href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+				<a title="Share on Twitter" href="javascript:void(0)" onclick="window.open('http://twitter.com/?status=Check%20this%20out!%20'+encodeURIComponent(location.href),'twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+				<a title="Share on Tumblr" href="javascript:void(0)" onclick="window.open('http://www.tumblr.com/share/link?url='+encodeURIComponent(location.href),'tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+				<a title="Share on Google+" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href),'google-plus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus fa-lg"></i></a> &nbsp;
+			</div>
+		</div>
+	
+	</div>
+	<!-- CUSTOM_ANNOUNCEMENT -->
+	<div class="nav nowrap" style="padding: 0 0 5px 5px">
+		<a href="./viewtopic.php?f=34&amp;t=13284&amp;sid=174691873b3247e91f6e6f970b93e891&amp;view=print" title="Print view">Print view</a>
+	</div>
 
+<div id="pagecontent">
+	<div class="box community-content discussion-box">
+		<div class="boxheading">
+			<h2>05x02 - Down the Drain</h2>
+		</div>
+		<div class="boxbody">
+			<div>
+		
+				<div id="p127378">
+					<div>
+						<div class="t-header clearfix">
+							<div class="pull-left"><a href="#p127378">05x02 - Down the Drain</a></div>
+							<div class="pull-right text-right"><time datetime="2004-10-22T01:47:27Z">10/22/04 01:47</time></div>
+						</div>
+					
+						<div class="postbody">
+						<div class="ads ads-topic topic-top">
+							<!-- Transcripts Topic Top -->
+							<ins class="adsbygoogle transcripts-topic-top"
+								style="display:inline-block"
+								data-full-width-responsive="true"
+								data-ad-client="ca-pub-3808023418243141"
+								data-ad-slot="3874775875"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+							<p>COLD OPEN:</p>
+<p>[EXT. VARIOUS LAS VEGAS CITY SCENES (STOCK) - NIGHT]</p>
+<p>(It's raining. A lot.)</p>
+<p>[EXT. LAS VEGAS COMMUNITY (STOCK) -- NIGHT] </p>
+<p>(Lightning flashes, thunder rumbles. It's still raining. A lot.) </p>
+<p>CUT TO:<br />
+[EXT. STORM DRAIN - ENTRANCE -- NIGHT] </p>
+<p>(Camera lingers on the entrance to the storm drain.) </p>
+<p>(A closer look at the drains. We hear the squealing of rats coming from inside. The squealing gets louder as the rats get closer.)</p>
+<p>(Camera holds low to the ground on the entrance to the storm drain. The rats run out of the storm drain.)</p>
+<p>(A beat later and we see the legs of homeless people running out of cover from the storm drain and into the rain.)</p>
+<p>(As the last homeless person runs out of the storm drain, we hear the roar of water. It catches up to the last homeless person knocking him off his feet.) </p>
+<p>(The homeless person scrambles to his feet to get out of the way.)</p>
+<p>(The water continues to rush out of the storm drain. As it sweeps by, it rises above the camera level. Under water, we see a dead body get caught in the wire mesh partially blocking the storm drain entrance.)</p>
+<p>CUT TO:<br />
+[EXT. STORM DRAIN - ENTRANCE - NIGHT]</p>
+<p>[CAMERA POV]</p>
+<p>(Camera shutter clicks as photos are taken of the dead body. The outer layer of skin is red and partially damaged.)</p>
+<p>(It's still raining.)</p>
+<p>RESUME VIEW</p>
+<p>(Grissom puts the camera down. He and Catherine are standing over the body inside the storm drain. Outside, we see an officer walk by. The water level is up to his upper thighs.) </p>
+<p><strong>Catherine</strong>: Who found him?</p>
+<p><strong>Grissom</strong>: The police were sweeping the area looking for vagrants, trying to keep<br />
+'em above water.</p>
+<p>(He points to the body.) </p>
+<p><strong>Grissom</strong>: Take a look at his nose. Same thing with his chin ... his elbows ... and his knees. He lost all his points.</p>
+<p><strong>Catherine</strong>: Like a rock in a tumbler.</p>
+<p>(David Phillips makes his way into the storm drain.)</p>
+<p><strong>David Phillips</strong>: I'm sorry I'm late. Stopped to get my waders.</p>
+<p>(He checks the body, starting from the lower legs and working his way up.) </p>
+<p><strong>David Phillips</strong>: No wallet. (He finds something else.) Oh, wait a sec. </p>
+<p>(He digs into the pants pockets and finds a small container of white powder. He gives it to Catherine.) </p>
+<p><strong>David Phillips</strong>: What do you think?</p>
+<p>(Catherine looks at it.) </p>
+<p><strong>Catherine</strong>: I'll get it to narco.</p>
+<p><strong>Grissom</strong>: Take a look.</p>
+<p>(Grissom finds a sharp piece of wood impaled through the body's neck.) </p>
+<p><strong>David Phillips</strong>: Cause of death?</p>
+<p><strong>Grissom</strong>: Water pressure could have done it.</p>
+<p><strong>Catherine</strong>: Or a person.</p>
+<p>(Grissom takes a photo of it.) </p>
+<p>(David goes back to the body. Warrick makes his way into the storm drain and joins them.)</p>
+<p><strong>Warrick</strong>: Hey. Whoo! It's a mess. I've talked to every resident in the area. No one knows this guy. No unaccounted-for vehicles. I don't know what to tell you.</p>
+<p><strong>Grissom</strong>: Well, at least we know where he came from.</p>
+<p>(Grissom shines his flashlight into the darkness of the storm drain. Warrick turns and looks. Catherine grimaces.)</p>
+<p><strong>Catherine</strong>: Aren't we at least gonna draw straws?</p>
+<p><strong>Grissom</strong>: No.</p>
+<p>SHORT TIME CUT TO:<br />
+[INT. STORM DRAIN - NIGHT - CONTINUOUS]</p>
+<p>(Catherine and Warrick make their way through the storm drain looking for evidence. The water in the drain is up to their knees.) </p>
+<p>(They come to a level change. Catherine steps down. The water is now up to her hips. They look up at the grate above them.) </p>
+<p><strong>Warrick</strong>: We must be under the freeway by now.</p>
+<p>(We hear the sounds of cars speeding by.) </p>
+<p><strong>Catherine</strong>: Hey. Did I ever tell you that the city paid me a dollar a square foot to rip out my lawn and replace it with rocks because we're in a drought?</p>
+<p><strong>Warrick</strong>: Are you kidding me?</p>
+<p><strong>Catherine</strong>: No.</p>
+<p><strong>Warrick</strong>: This city was not made for rain.</p>
+<p>(They continue to walk through the storm drain.) </p>
+<p>(They step out of the tunnel they're in and into a juncture. The walls are painted with graffiti. They search around the area and find a body sprawled out on the floor, clothes drenched from the rain.) </p>
+<p><strong>Warrick</strong>: Catherine.</p>
+<p>(They walk up to the body. Catherine takes out her radio.) </p>
+<p><strong>Catherine</strong>: (to radio) Grissom. We got another body.</p>
+<p>(The body awakens. Catherine and Warrick are both startled.) </p>
+<p><strong>Homeless Man</strong>: I was taking a nap.</p>
+<p>SMASH CUT TO END OF TEASER ROLL TITLE CREDITS</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. STORM DRAIN - TUNNELS -- NIGHT] </p>
+<p>(Warrick questions the Homeless man.) </p>
+<p><strong>Homeless Man</strong>: I'm real tired, okay? I just want to get some sleep.</p>
+<p><strong>Warrick</strong>: I understand, I understand. Listen, I need to ask you a question. Have you ever seen this guy right here?</p>
+<p>(Warrick shows him the Polaroid photo in a plastic bag. He looks at it.) </p>
+<p><strong>Homeless Man</strong>: No.</p>
+<p><strong>Warrick</strong>: You don't know him?</p>
+<p><strong>Homeless Man</strong>: No, someone comes down here that don't belong, I mean, bad stuff can happen, okay? I-I-I just want to go home, okay? A-a-and you can't make me leave my house.</p>
+<p><strong>Warrick</strong>: Nobody's making you do anything, okay? Now, you like coffee?</p>
+<p><strong>Homeless Man</strong>: Well, yeah, as long as it's a decaf, one sugar, two cream, no skim, and hot -- your lawsuit hot.</p>
+<p><strong>Warrick</strong>: Okay, you go with that officer over there. He'll get you a nice cup of coffee, all right?</p>
+<p>CUT TO:<br />
+[INT. STORM DRAIN - NIGHT -- CONTINUOUS] </p>
+<p>(Catherine is looking around the area.) </p>
+<p>(She hears water movement from around the corner behind her. She looks and doesn't see anything.) </p>
+<p><strong>Catherine</strong>: Is that you, Warrick?</p>
+<p>(After a very tense moment, Warrick appears from around the corner.) </p>
+<p><strong>Warrick</strong>: There you are.</p>
+<p><strong>Catherine</strong>: (sighs) Phew.</p>
+<p>(She finds something caught in the tree branches.) </p>
+<p><strong>Warrick</strong>: Is that a sneaker?</p>
+<p>(She picks it up.) </p>
+<p><strong>Catherine</strong>: Looks like an aquasock.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>(She finds the other side.) </p>
+<p><strong>Catherine</strong>: Here's its mate. (They look at it.) Kind of upscale for a tunnel rat. So the vic was barefoot. The tunnel's full of murder weapons. Bum kills him, or finds the body and takes the socks? What was the guy doing here in the first place?</p>
+<p><strong>Warrick</strong>: Well, maybe the vic was some punk, uh ... with an attitude. Decided to take it out on some homeless guy. You never know.</p>
+<p><strong>Catherine</strong>: The way the body was ground down means that the water took him for a pretty long ride.</p>
+<p><strong>Warrick</strong>: Well, we're already wet, so ...</p>
+<p>(Catherine sighs. They continue down through the tunnels.)</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY (STOCK) - DAY]</p>
+<p>[EXT. INDUSTRIAL - STREET (TOP SIDE) - DAY]</p>
+<p>(A man sits on the bus bench reading the morning paper.)</p>
+<p><strong>Catherine</strong>: (o.s.) Excuse me!</p>
+<p>(The man looks around.) </p>
+<p><strong>Catherine</strong>: (o.s.) Down here!</p>
+<p>(He looks down through the drain grate and sees Catherine looking up at him from below.)</p>
+<p><strong>Man At Bus Stop</strong>: Oh. What's your problem, Sweetie?</p>
+<p><strong>Catherine</strong>: Uh, no problem, sir. I'm just wanting to know what street I'm on. Under.</p>
+<p><strong>Man At Bus Stop</strong>: Oh, it's, uh, Industrial. You're just South of Tropicana.</p>
+<p><strong>Catherine</strong>: Thank you.</p>
+<p><strong>Man At Bus Stop</strong>: And I'm not holding the bus.</p>
+<p>[INT. STORM DRAIN - TUNNELS - DAY - CONTINUOUS]</p>
+<p><strong>Catherine</strong>: (to the man above) Don't bother.</p>
+<p>(Catherine looks at Warrick.) </p>
+<p><strong>Catherine</strong>: All right, so we're about a mile south of where we started.</p>
+<p><strong>Warrick</strong>: Well, there's 300 miles of storm drains in Clark County, so we only have 299 left.</p>
+<p><strong>Catherine</strong>: What, do we, uh, eenie-meenie-minie-mo it? Split up? What do we do?</p>
+<p>(Warrick looks down the tunnel to the right.) </p>
+<p><strong>Warrick</strong>: No, that's a dead end.</p>
+<p>(At the juncture he finds something floating in the water caught on some tree branches.) </p>
+<p><strong>Warrick</strong>: Sunscreen on a lanyard.</p>
+<p><strong>Catherine</strong>: Fits with the aquasocks.</p>
+<p>(Warrick looks at the tunnel to the left.) </p>
+<p><strong>Warrick</strong>: I say we keep going upstream.</p>
+<p><strong>Catherine</strong>: I knew you were gonna say that. (Catherine starts through the tunnel. She ducks when the low concrete ceiling dips.) Watch your head.</p>
+<p>(Warrick follows her.)</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(Grissom watches as Robbins starts on the body. He begins with the Y-incision down the torso. Standing a distance away from the table is Greg who is also in the room for his first autopsy.) </p>
+<p>(He looks away as the first cut is made.)</p>
+<p>(Grissom notes Greg's reaction.)</p>
+<p>(Robbins finishes the cut and pulls the skin open. Greg's eyes widen at the sight. Robbins turns to Grissom.) </p>
+<p><strong>Robbins</strong>: I'm gonna need the drain pan.</p>
+<p>(Grissom hands the drain pan to Robbins who puts it on the tray next to him. Water starts to drip from the roof into the drain pan.) </p>
+<p><strong>Robbins</strong>: This town isn't built for rain, hmm?</p>
+<p>(Robbins takes the hand saw and turns it on. He glances up at Greg. Greg puts his fingers in his ears as Robbins cuts into the rib cage. Blood spurts on Robbins' mask.)</p>
+<p>(Finished, Robbins turns the hand saw off and sets it aside. Grissom watches Greg. Greg looks at Grissom.) </p>
+<p>(Robbins grabs the rib cage piece and pulls it out of the body. He sets it aside. Robbins motions for Greg to move in closer.) </p>
+<p><strong>Robbins</strong>: Come on, don't be shy. Take a good look. In the end ... it's all we really are.</p>
+<p>(Robbins cuts the aorta leading into the heart. Greg watches, his eyes wide. He looks at the victim's partially damaged face and back down to the victim's feet. He appears thoughtful.)</p>
+<p><strong>Grissom</strong>: If you're gonna be sick, Greg, do it in the sink. </p>
+<p><strong>Robbins</strong>: (chimes in) Not in the drain pan.</p>
+<p><strong>Greg</strong>: I don't feel sick.</p>
+<p>(Robbins makes a vertical cut in the neck. Grissom knows what's going to be there.) </p>
+<p><strong>Grissom</strong>: Take a look at the trachea. What do you see?</p>
+<p>(Greg leans in for a look. Robbins peels the skin back.) </p>
+<p><strong>Greg</strong>: Foam. Like the head of a beer. (Greg looks self-consciously at Grissom.) Sorry.</p>
+<p><strong>Grissom</strong>: No. It's a good analogy. </p>
+<p><strong>Robbins</strong>: Pulmonary edema, fluids in the air passages.</p>
+<p><strong>Greg</strong>: So he drowned?</p>
+<p><strong>Grissom</strong>: Well, doesn't prove it. Same thing happens with, uh, heart failure or drug overdose.</p>
+<p><strong>Robbins</strong>: But the fact that the heart of the victim was a normal size, ... </p>
+<p>(Greg's eyes move to the heart that Robbins is holding.) </p>
+<p><strong>Robbins</strong>: ... and assuming tox doesn't show drug overdose, C.O.D. is most likely drowning, but I'm not gonna rule out blunt-force trauma.</p>
+<p>(Robbins starts the hand saw up again. Greg takes a couple of cautious steps away from the body.) </p>
+<p>CUT TO:<br />
+[INT. STORM DRAIN -- DAY] </p>
+<p>(Catherine and Warrick approach the storm drain entrance.) </p>
+<p><strong>Warrick</strong>: Daylight. Finally.</p>
+<p><strong>Catherine</strong>: We gotta be into some golden time by now, right?</p>
+<p><strong>Warrick</strong>: Oh, yeah. </p>
+<p>(The water has completely drained from this area. In the entrance are some shrubs and leaves from trees.)</p>
+<p>(A car passes nearby.) </p>
+<p>(b.g.) ka-ching, ka-ching.</p>
+<p>(Warrick and Catherine look around at the things left in the entrance.) </p>
+<p><strong>Catherine</strong>: What do we have here? (She picks up a helmet.) Brain bucket. (She looks inside.) There's something in the lid.</p>
+<p>(Warrick looks at the wall and sees something caught inside.) </p>
+<p>(She takes out the slip of paper and hands the helmet to Warrick.) </p>
+<p><strong>Catherine</strong>: Hang on to that.</p>
+<p>(Warrick takes the helmet. She looks at the Employee ID lanyard for<br />
+TANGIERS CASINO<br />
+CALVIN BERKOWITZ<br />
+ID NUMBER 1654984<br />
+LIFEGUARD )</p>
+<p><strong>Catherine</strong>: Hey, it's our dead guy.</p>
+<p><strong>Warrick</strong>: No way.</p>
+<p><strong>Catherine</strong>: Calvin Berkowitz. Worked at the Tangiers. Lifeguard. So what's Calvin doing down here?</p>
+<p>(Warrick looks back at the wall and takes out the large thick rubber tube.) </p>
+<p><strong>Warrick</strong>: It's an inner tube.</p>
+<p><strong>Catherine</strong>: Yeah?</p>
+<p><strong>Warrick</strong>: Guy gets the day off and decides to go surfing ... Vegas style.</p>
+<p>(Quick flash to: [RAINING - NIGHT] Calvin Berkowitz gives a loud whoop and jumps into the channel with his tube. End of flashback. Resume to present.) </p>
+<p><strong>Catherine</strong>: (nods) Oh, I heard about that. He grabs an inner tube, a helmet, jumps into the channel.</p>
+<p><strong>Warrick</strong>: Hits his head on something, drowns.</p>
+<p><strong>Catherine</strong>: Current takes him down.</p>
+<p><strong>Warrick</strong>: That would account for all that body trauma.</p>
+<p><strong>Catherine</strong>: This isn't about drugs or beating up homeless dudes. It's just plain stupidity.</p>
+<p>(Warrick snorts.)</p>
+<p>(Case closed. They head out of the storm drain and into the light.)</p>
+<p><strong>Warrick</strong>: Well, that's what happens when you don't have a decent beach in Vegas.</p>
+<p>[EXT. STORM DRAIN - DAY - CONTINUOUS]</p>
+<p>(Catherine looks around the area.) </p>
+<p><strong>Catherine</strong>: Hey, you know something? This is, uh, right around where I found Lindsay.</p>
+<p><strong>Warrick</strong>: Really?</p>
+<p><strong>Catherine</strong>: Yeah, when Eddie's car went off the road.</p>
+<p>(Not liking the memories it's bringing back, Catherine sighs and shakes her head.) </p>
+<p><strong>Catherine</strong>: Ugh ... let's just get out of here. Can you take that?</p>
+<p>(She hands the helmet to Warrick and starts the steep climb out of the channel.)</p>
+<p><strong>Warrick</strong>: Watch your step.</p>
+<p>(Catherine starts the climb, slips and falls backward - into Warrick's arms.)</p>
+<p><strong>Catherine</strong>: Hey. Oh.</p>
+<p>(She laughs heartily.)</p>
+<p><strong>Warrick</strong>: You all right?</p>
+<p><strong>Catherine</strong>: Yeah, I think.</p>
+<p><strong>Warrick</strong>: Whoa.</p>
+<p>(For a moment, the laughter dies and they stare at each other.)</p>
+<p><strong>S&amp;S Worker</strong>: (o.s.) Hey! </p>
+<p>(Catherine and Warrick look up to find a Sewage Worker standing at the edge of the channel looking down at them.)</p>
+<p><strong>S&amp;S Worker</strong>: You guys CSI?</p>
+<p>(Warrick lets Catherine go.)</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>SHORT TIME CUT TO:<br />
+[INT. INDUSTRIAL - DAY -- CONTINUOUS] </p>
+<p>(Catherine and Warrick walk with the S&amp;S Worker as he leads them to the manhole.) </p>
+<p><strong>S&amp;S Worker</strong>: Well, the city's been rehabbing manholes with fiberglass liners. All the hydrogen sulfide down there really eats up the concrete. Anyways, we, uh, pulled these out of the main.</p>
+<p>(He hands Catherine the bone fragments. She looks at them.) </p>
+<p><strong>S&amp;S Worker</strong>: We find a lot of small animal bones down there, squirrels, cats, rats, you know. But that's really tiny stuff. </p>
+<p>(Catherine gives the bones to Warrick.) </p>
+<p><strong>S&amp;S Worker</strong>: This looks more like people. Fingers or toes, or fingers and toes.</p>
+<p><strong>Catherine</strong>: Well, animal bones can fool you. Pig's feet or sheep ribs are not much different from yours or mine.</p>
+<p>(Warrick looks at the bone pieces.) </p>
+<p><strong>Warrick</strong>: Flaky texture. Probably a couple years old.</p>
+<p>(Catherine looks down the hole.) </p>
+<p><strong>Catherine</strong>: (sighs) Yep. We're gonna have to flush the line.</p>
+<p>SHORT TIME CUT TO:<br />
+(The S&amp;S Workers are positioning the Vactor down into the manhole. Warrick looks at the worker.) </p>
+<p><strong>Warrick</strong>: You guys get a lot of jokes about this thing?</p>
+<p><strong>S&amp;S Worker</strong>: (scoffs) What do you think?</p>
+<p>(He smiles.)</p>
+<p>(Camera zooms down the street to another open manhole.)</p>
+<p>(Top view down inside the manhole shows Catherine placing the filter over the opening. She climbs up the ladder.)</p>
+<p>(Warrick's phone rings. He answers it.)</p>
+<p><strong>Warrick</strong>: Vactor's in place. Ready when you are.</p>
+<p>(Catherine takes out her radio and responds.) </p>
+<p><strong>Catherine</strong>: Rip it.</p>
+<p>(Warrick motions to the S&amp;S worker.) </p>
+<p><strong>Warrick</strong>: Let's go.</p>
+<p>(Quick CGI POV through the Vactor. The water flushes out of the vactor and down into the manhole. It travels through the sewage pipes, twisting and turning along the way flushing out all the guck that could possibly cause the clog.)</p>
+<p>(It reaches the filter.)</p>
+<p>(End of CGI POV. Resume to present.) </p>
+<p>(Catherine removes the wire filter cap. Inside, she fines more bone fragments. Catherine sits down and takes out her radio.)</p>
+<p><strong>Catherine</strong>: (to radio) Warrick.</p>
+<p><strong>Warrick</strong>: (from radio) Yo.</p>
+<p><strong>Catherine</strong>: (to radio) I got some bones here.</p>
+<p><strong>Warrick</strong>: (from radio) Anything distinctive?</p>
+<p><strong>Catherine</strong>: Yeah. I got part of a rib. Uh-huh. I can see the costal groove. And it's too deep to be an animal's. These bones are human.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB - DAY] </p>
+<p>(Catherine unrolls the sewage map of the area onto the table. Warrick and Brass are there in the room.) </p>
+<p><strong>Catherine</strong>: This is the sewage vault.</p>
+<p>(Catherine circles the juncture on the map.)</p>
+<p><strong>Brass</strong>: How do we know the bones just didn't wash off the street?</p>
+<p><strong>Warrick</strong>: Well waste water sewage is a closed system. It's completely separate from the storm drains. Someone must have flushed it down a toilet, a sink, a tub, or tossed them directly into a manhole.</p>
+<p><strong>Catherine</strong>: And the bones look pretty old, so it could just be from a grave robber getting rid of his leftovers.</p>
+<p><strong>Brass</strong>: Or a serial killer with a lot of patience.</p>
+<p><strong>Warrick</strong>: Two hundred thousand service connections, serving half a million residences. Sixteen hundred miles of pipe, gravity fed.</p>
+<p><strong>Catherine</strong>: If we're gonna find where the bones came from, we gotta work our way up.</p>
+<p>CUE MUSIC</p>
+<p>(Camera zooms in to the map on the table.)</p>
+<p>(Quick CGI. The Map starts at the circled sewage vault. The white map line thickens and moves leading away from the vault toward the community on the map.)</p>
+<p>[SEWAGE PIPE]</p>
+<p>(Camera continues the movement down into the sewage pipe as the Vactor is lowered into the sewage vault. There's a white light coming from one end of the pipe.)</p>
+<p>[WARRICK]</p>
+<p>(Warrick is working the controls of the Vactor.)</p>
+<p>[SEWAGE PIPE]</p>
+<p>(Water flushes through the sewage pipe.)</p>
+<p>[CGI-ENHANCED MAP]</p>
+<p>(The thick white line continues into the community traveling to the next sewage vault.)</p>
+<p>[SEWAGE VAULT] </p>
+<p>(The water flushes through a metal filter cap.)</p>
+<p>[INT. CSI - LAB - DAY]</p>
+<p>(Robbins removes the bones from the evidence bags and starts setting them out on the table.)</p>
+<p>[SEWAGE VAULT] </p>
+<p>(The Vactor is lowered into the next sewage vault.)</p>
+<p>[WARRICK]</p>
+<p>(Warrick works the controls.) </p>
+<p>[CGI-ENHANCED MAP]</p>
+<p>(The thick, bright white line continues to move down the map. It turns the corner and heads into the next road.)</p>
+<p>[SEWAGE PIPE] </p>
+<p>(Water continues to flush through the sewer pipes.) </p>
+<p>[CGI-ENHANCED MAP]</p>
+<p>(The thick bright white line twists its way through the community following the path that Catherine and Warrick are taking to find the body. It passes from sewage vault to sewage vault to sewage vault.)</p>
+<p>[SEWAGE VAULT]</p>
+<p>(The metal filter cap is removed.)</p>
+<p>[SEWAGE VAULT]</p>
+<p>(The vactor is lowered into the next juncture.)</p>
+<p>[CATHERINE]</p>
+<p>(Catherine examines the items caught in the metal filter cap.) </p>
+<p>[ROBBINS]</p>
+<p>(Robbins sets the bones out on the table in their proper place.)</p>
+<p>[CGI-ENHANCED MAP]</p>
+<p>(The thick, bright white light stops at the intersection at Tyler Street.)</p>
+<p>(Resume to present.)</p>
+<p>[EXT. TYLER STREET - DAY]</p>
+<p>(Warrick walks up to Catherine who stands top side of the manhole they're working on.)</p>
+<p><strong>Warrick</strong>: Catherine. Recovered more bones.</p>
+<p><strong>Catherine</strong>: Oh.</p>
+<p><strong>Warrick</strong>: Pelvis fragment and two humerus.</p>
+<p><strong>Catherine</strong>: Well, large bones wouldn't travel down the line as far as the small ones, so at least we're getting closer to the source.</p>
+<p>(She turns around and they both see two plumber vans parked on the side of the street.) </p>
+<p><strong>Warrick</strong>: These plumbers must be working overtime.</p>
+<p><strong>Catherine</strong>: Lots of backed up toilets.</p>
+<p><strong>Warrick</strong>: I don't think the bones could have come from any one of these houses. Residential sewer lines are only four-inch pipes.</p>
+<p><strong>Catherine</strong>: Okay.</p>
+<p><strong>Warrick</strong>: And they make a 90-degree turn before they connect to the main. Look at the size of these bones.</p>
+<p><strong>Catherine</strong>: Yeah.</p>
+<p><strong>Warrick</strong>: They're too big to make a turn like that.</p>
+<p><strong>Catherine</strong>: Right. So the blockage has gotta be from the main line. One more vault down the street.</p>
+<p>[NEXT SEWAGE VAULT DOWN THE STREET]</p>
+<p>(The Worker opens the man hole for them. Catherine and Warrick both look down into the vault. They see the large bones.)</p>
+<p><strong>Catherine</strong>: Jackpot.</p>
+<p>(Catherine covers her mouth from the smell. She puts her flashlight aside and picks up the camera.)</p>
+<p><strong>Catherine</strong>: Oh, man.</p>
+<p>(She starts snapping photos.) </p>
+<p><strong>Warrick</strong>: I'll go check it out.</p>
+<p>(Catherine gasps from the smell.)</p>
+<p>(Warrick climbs down into the sewage vault. Halfway down, he stops and looks down at the bones. He looks at the walls and notices the stain.)</p>
+<p><strong>Warrick</strong>: It's like a waterline stain. Hand me my florazene and my glasses, please.</p>
+<p>(Warrick climbs down and looks around.)</p>
+<p>(Catherine drops him his spray bottle and his glasses.)</p>
+<p><strong>Catherine</strong>: Uh. Florazene reacts to feces as well as blood, so I know that you're not looking for blood.</p>
+<p>(Warrick sprays the walls.) </p>
+<p><strong>Warrick</strong>: No. These vaults are built big for access. They're not reservoirs. Water's supposed to stay down in the pipes.</p>
+<p><strong>Catherine</strong>: And the only way the water would rise is if there's something blocking the pipe.</p>
+<p><strong>Warrick</strong>: (nods) Mm-hmm.</p>
+<p><strong>Catherine</strong>: And loose bones wouldn't do that.</p>
+<p><strong>Warrick</strong>: But a whole body would.</p>
+<p>(Quick CGI of: A body is thrown into the vaults and blocks the pipe. The water rises.) </p>
+<p><strong>Warrick</strong>: (V.O.) Water rises, submerges the body.</p>
+<p>(Camera plunges down into the water and we see the body decomposing.)</p>
+<p><strong>Catherine</strong>: (V.O.) Tissue decomposes until there's not enough body left to withstand the pressure.</p>
+<p>(The tissue dissolves and the bones break allowing the water to pass through the pipes.) </p>
+<p>(End of CGI. Resume to present.)</p>
+<p>(Warrick climbs up to the vault.) </p>
+<p><strong>Warrick</strong>: (sighs) I don't think we're looking for a grave robber. </p>
+<p>(He puts his spray bottle down on the road.) </p>
+<p><strong>Warrick</strong>: We're looking for a murderer.</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[INT. CSI - LAB -- DAY] </p>
+<p>(The bones that they've found is spread out on the table. He goes over the findings with Grissom and Catherine.) </p>
+<p><strong>Robbins</strong>: Femur measurements make your victim around five foot six. Pubic arch, mm, sharply angled, less than 90-degrees, indicates male. I'll send it to Greg. He might be able to pull DNA.</p>
+<p>(Robbins picks up a bone.) </p>
+<p><strong>Robbins</strong>: Look at this. Incise defect on the left fifth rib. Incise defect on the left third rib.</p>
+<p><strong>Grissom</strong>: Well, the tool marks appear consistent with each other.</p>
+<p><strong>Catherine</strong>: Probably made before decomposition, and not from hitting any obstruction in the sewer line. Stab wounds.</p>
+<p>(Quick CGI POV of: The knife pierces through the flesh and scrapes the rib.</p>
+<p><strong>Robbins</strong>: (V.O.) Two separate strikes back to front would have punctured the lung.</p>
+<p>(End of CGI POV. Resume to present.) </p>
+<p><strong>Grissom</strong>: What about age?</p>
+<p><strong>Robbins</strong>: I'll let you know.</p>
+<p>CUT TO:<br />
+[EXT. TYLER STREET - DAY]</p>
+<p>(The Detective looks down into the manhole.)</p>
+<p>(Brass issues instructions to the officers.)</p>
+<p><strong>Brass</strong>: Okay, let's start with the houses within eyeshot of the manhole, and then we'll work our way out from there. Hmm? Okay.</p>
+<p>(One of the neighbors offers the officer some coffee and donuts.) </p>
+<p><strong>Marty Kessler</strong>: You really, really ought to have the one with chocolate icing.</p>
+<p><strong>Officer</strong>: No, you really need to get back behind the line.</p>
+<p><strong>Marty Kessler</strong>: (loudly to Brass) Hello, Officer.</p>
+<p>(Brass turns around and heads for Marty Kessler.) </p>
+<p><strong>Brass</strong>: Oh, dear.</p>
+<p>(Marty Kessler is carrying a box of donuts, a thermos and some cups.) </p>
+<p><strong>Brass</strong>: Detective.</p>
+<p><strong>Marty Kessler</strong>: Detective. Sorry, I ... uh, just a little something for you and your boys, uh, a token of appreciation for local law enforcement.</p>
+<p><strong>Brass</strong>: You mind standing behind the tape? It's for your own safety.</p>
+<p>(Brass holds up the tape. Marty gets back behind the line.) </p>
+<p><strong>Brass</strong>: There you go.</p>
+<p><strong>Marty Kessler</strong>: Go ahead. Coffee's fresh. Didn't even spit in it.</p>
+<p>(He laughs at his own joke. Brass doesn't crack a smile.)</p>
+<p><strong>Marty Kessler</strong>: Not that I ever would. I, I love cops.</p>
+<p><strong>Brass</strong>: What's your name?</p>
+<p>(Brass takes out his notebook.) </p>
+<p><strong>Marty Kessler</strong>: Marty, uh, Martin Kessler. I live here ... there, right over there, number 2305.</p>
+<p>(He points to the house.) </p>
+<p><strong>Marty Kessler</strong>: So, uh, does this have anything to do with the missing cats?</p>
+<p>(Brass doesn't say anything.) </p>
+<p><strong>Marty Kessler</strong>: People have lost a lot of pets in this neighborhood. Too many, if you get my drift.</p>
+<p><strong>Brass</strong>: Well, you know, Marty, I'm really not at liberty to say. But did you see anybody throw any stuff down that sewer?</p>
+<p><strong>Marty Kessler</strong>: Not personally, but, uh, I know kids around here throw fireworks ... (He nods to the house across the street. Brass turns to look.) ... illegal, down there. Kaboom! Kaboom! Four o'clock in the morning. Kids have no respect for the law.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Greg takes a sample off the bone, puts it between a folded piece of paper and smashes it. He pours it into a dish. Sara walks in and takes a seat at the table.) </p>
+<p><strong>Sara</strong>: I heard you finally lost your virginity. </p>
+<p>(Greg glances at Sara. She smiles at him.) </p>
+<p><strong>Sara</strong>: (clarifies) First autopsy. How was it?</p>
+<p><strong>Greg</strong>: It was fine. How was your first time? How did you react?</p>
+<p><strong>Sara</strong>: I puked.</p>
+<p><strong>Greg</strong>: I didn't puke.</p>
+<p><strong>Sara</strong>: Way to go, tough guy.</p>
+<p><strong>Greg</strong>: It was weird, seeing a body laying on a table like that. Doc Robbins just pulling out his insides until it was all empty.</p>
+<p><strong>Sara</strong>: Were you expecting a ball of light?</p>
+<p><strong>Greg</strong>: Doc Robbins said, &quot;That's all we really are.&quot;</p>
+<p><strong>Sara</strong>: It's what you do with it that counts.</p>
+<p>(Greg looks at Sara. Sara gets up and leaves.)</p>
+<p>CUT TO:<br />
+[INT. CSI - FORENSIC AUTOPSY -- DAY] </p>
+<p>(Robbins holds up the dental x-rays for Grissom to see.) </p>
+<p><strong>Robbins</strong>: Victim had incomplete formation of the second molar root tips, and his wisdom teeth hadn't erupted.</p>
+<p><strong>Grissom</strong>: Teenager.</p>
+<p><strong>Robbins</strong>: Yeah, approximately 13 to 15. </p>
+<p>(Grissom holds up the skull x-ray.) </p>
+<p><strong>Robbins</strong>: Eye orbits rounded, almost oval. Nasal aperture narrow and tall, jawline flat. Likely caucasian. Uh, dental records are out to NCIC. That's all I've got. How'd Greg do?</p>
+<p><strong>Grissom</strong>: Bones are too degraded. No viable DNA, not even in the teeth.</p>
+<p><strong>Robbins</strong>: Well, it's a bit of a long shot. Sewer's a chemical stew. Maybe Catherine will get lucky with missing persons.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Nick is going through the Missing Persons database. He reports to Catherine.) </p>
+<p><strong>Nick</strong>: Okay, I opened the age range to give us a better margin for error. Currently 47 male Caucasians between the age of 12 and 16 missing from the greater Las Vegas Metro District.</p>
+<p><strong>Catherine</strong>: Okay. Geography first?</p>
+<p><strong>Nick</strong>: Mm-hmm. Body was found here.</p>
+<p>(Nick puts a map of the community area on the monitor. Blinking red dots indicating residences pop up on screen.)</p>
+<p><strong>Nick</strong>: These are the last-known residences of the missing persons.</p>
+<p><strong>Catherine</strong>: There's no one particularly close.</p>
+<p><strong>Nick</strong>: I'll narrow it down. (He looks through a specific area.) Two-mile radius.</p>
+<p>(Three photos pop up on screen.)<br />
+MISSING 6 WEEKS<br />
+ENDANGERED MISSING: TRAVIS GILES<br />
+MISSING 11 WEEKS<br />
+ENDANGERED RUNAWAY: PHIL GRIFFEN<br />
+MISSING 11 MONTHS<br />
+ENDANGERED RUNAWAY: BARRY NEWSOME</p>
+<p><strong>Catherine</strong>: Missing six weeks, eleven weeks, eleven months. That's not long enough. The condition of the bones suggested the body's been decomposing for at least two years. </p>
+<p><strong>Nick</strong>: Okay, I'll go wider. Five miles.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Grissom is putting together an experiment. He has two containers set up. One is the control, and in the other, he's mixing various household items together.) </p>
+<p>(Greg walks into the lab.)</p>
+<p><strong>Greg</strong>: What are you doing?</p>
+<p><strong>Grissom</strong>: Good. You're here. Fill this up for me, will ya?</p>
+<p>(Grissom tosses him a specimen cup.) </p>
+<p><strong>Greg</strong>: With what?</p>
+<p><strong>Grissom</strong>: It's a urine specimen cup, Greg. What do you think?</p>
+<p>(Greg looks at it, scoffs and shrugs.)</p>
+<p><strong>Greg</strong>: Okay.</p>
+<p>(He turns and leaves Grissom.) </p>
+<p>(Grissom takes out a dead fetus and weighs it: 2.862 pounds. He notes it on the log and places it aside. He takes out a second dead fetus and weighs that also. He places it in the control container.)</p>
+<p>(Greg returns. He puts the filled specimen container on the counter.) </p>
+<p><strong>Grissom</strong>: That took a long time. You may need a prostate exam.</p>
+<p><strong>Greg</strong>: My prostate is just fine. I'm not a soda fountain.</p>
+<p><strong>Grissom</strong>: Hopefully you are, 'cause I need a number two as quickly as possible.</p>
+<p>(Grissom takes out a larger plastic container and hands it to Greg.)</p>
+<p><strong>Greg</strong>: (skeptically) What is this all about?</p>
+<p><strong>Grissom</strong>: The victim's body was found in a sewer. Ambient temperature 80 degrees. The corrosive chemicals caused the body to decompose faster than normal. I want to find out how much faster. (He plops the dead pig fetus in the container with the mixture.) Today.</p>
+<p>(He pours Greg's sample into the mixture as well.)</p>
+<p>(Greg turns away - with the container in his hand.) </p>
+<p><strong>Greg</strong>: This is some kind of CSI hazing. Make me appreciate blood and semen more.</p>
+<p>CUT TO:<br />
+[EXT. TYLER STREET - DURBIN RESIDENCE -- DAY] </p>
+<p>(Brass instructs Warrick and Sara.) </p>
+<p><strong>Brass</strong>: I mean, since we don't have a solid time frame, it's kind of tough to jog memories. But nobody saw anybody throw anything like a body down that manhole. But several people suggested we talk to his high school kid, Owen Durbin. (They head for the house.) Now, he's a neighborhood bully. He likes to throw cherry bombs in there and hear 'em go boom.</p>
+<p><strong>Sara</strong>: Uh, guys, how are we supposed to get through the door? There's no evidence linking this kid to the bones.</p>
+<p>(Brass takes out the warrant from his pocket.) </p>
+<p><strong>Brass</strong>: We're not looking for bones.</p>
+<p>CUT TO:<br />
+[EXT. DURBIN RESIDENCE - FRONT PORCH -- DAY -CONTINUOUS] </p>
+<p>(Roger Durbin reads the warrant out loud.) </p>
+<p><strong>Roger Durbin</strong>: Illegal use of fireworks? This is crap.</p>
+<p><strong>Brass</strong>: We've had several complaints from your neighbors, sir.</p>
+<p><strong>Roger Durbin</strong>: No one's complained to me.</p>
+<p><strong>Brass</strong>: Well, (Brass chuckles.) This is gonna happen, so please step outside. Ask your family to come with you. Thank you. </p>
+<p><strong>Roger Durbin</strong>: Come on, guys. Let's go.</p>
+<p>(Owen Durbin and his mom, Terry Durbin step out of the house.) </p>
+<p><strong>Roger Durbin</strong>: (to Brass) Anything happens in here, it's your fault.</p>
+<p>(Roger Durbin leaves. Brass sighs.)</p>
+<p><strong>Brass</strong>: Okay.</p>
+<p>(Brass, Warrick and Sara step into the house.)</p>
+<p>(Warrick closes the door behind him.) </p>
+<p>CUT TO:<br />
+[INT. DURBIN RESIDENCE - LIVING ROOM -- DAY -CONTINUOUS] </p>
+<p>(Brass, Warrick and Sara look around the place. Brass pushes the curtain aside and finds a stash of ammunition.) </p>
+<p><strong>Brass</strong>: Whoa. Lot of ammo here, all different caliber. Means multiple weapons are present ... somewhere.</p>
+<p><strong>Warrick</strong>: (o.s.) I got a shotgun under the couch.</p>
+<p>(Warrick picks up the shot gun.) </p>
+<p><strong>Warrick</strong>: Oh, yeah. (He checks it.) Loaded.</p>
+<p>(Sara notes the various stuffed animal carcasses hanging on the wall. Dogs bark in the background.) </p>
+<p><strong>Warrick</strong>: Sounds like we got some nasty dogs out back.</p>
+<p>(They continue to look through the house.) </p>
+<p>(Sara checks the stairs. She finds some blood drops on the wood.) </p>
+<p><strong>Sara</strong>: I think I got blood.</p>
+<p>(Brass and Warrick stop and walk over to Sara and waits as she checks it. Her swab turns pink.)</p>
+<p><strong>Sara</strong>: Confirmed.</p>
+<p><strong>Brass</strong>: Okay. I'm gonna get the warrant amended for blood evidence collection. Until then ... </p>
+<p><strong>Sara</strong>: We stop searching.</p>
+<p><strong>Brass</strong>: Won't take long, so hang loose. (He turns and heads out the door.) And I'll get the animal control to get these mutts out of here.</p>
+<p>(Brass leaves.) </p>
+<p>(The door closes behind him. Sara stands up.)</p>
+<p><strong>Sara</strong>: So, uh, no searching.</p>
+<p><strong>Warrick</strong>: (scoffs) Yeah, right.</p>
+<p>[INT. DURBIN RESIDENCE - STAIRS / SECOND FLOOR -- DAY -CONTINUOUS] </p>
+<p>(Various dissolves as: Sara and Warrick continue up to the second floor. They check the stairs as they go.) </p>
+<p>(They reach the second floor. Sara checks the carpet and stops in front of the closet.) </p>
+<p>(She reaches up and opens the closet door. She continues to check the floor. Warrick checks the floor behind her near the stair railing.)</p>
+<p>(He glances at Sara and does a double take at the closet contents.) </p>
+<p><strong>Warrick</strong>: That closet's well stocked, huh?</p>
+<p>(Sara continues to check the floor. She slowly makes her way into the closet.)</p>
+<p>(Warrick checks out the closet contents. He sees a shot gun - and higher up, he sees a completed pipe bomb resting precariously on a fishing kit. He leans in close. He can't believe what he's seeing.)</p>
+<p><strong>Warrick</strong>: Sara?</p>
+<p>(Sara's still checking out the floor.) </p>
+<p><strong>Sara</strong>: I'm not touching anything.</p>
+<p>(Warrick's eyes are glued to the bombs.) </p>
+<p><strong>Warrick</strong>: (deliberately) No. Put your stuff down and step away from the closet.</p>
+<p><strong>Sara</strong>: What?</p>
+<p>(Sara glances back at Warrick, confused by his instructions.) </p>
+<p><strong>Warrick</strong>: (insistent) Put down your stuff and step away from the closet.</p>
+<p>(Warrick reaches down, grabs Sara by the back of her vest and pulls her back. Sara looks back at Warrick. She follows his gaze into the closet and sees the pipe bomb. Worse, there are four more stashed higher up on the shelf.)</p>
+<p>(Sara slowly backs away from the closet. She stands up.) </p>
+<p><strong>Sara</strong>: Those are pipe bombs.</p>
+<p><strong>Warrick</strong>: Yeah.</p>
+<p>(Warrick reaches for his radio. As he talks, Sara makes a decision. She quickly kneels down and opens her kit looking for something.)</p>
+<p><strong>Warrick</strong>: (to radio) Dispatch ... this is CSI Brown. We're at the Durbin residence. We have explosives on the scene. Roll out bomb squad immediately. Roll out bomb squad.</p>
+<p>(Sara takes out a tool and kneels inside the closet.) </p>
+<p><strong>Warrick</strong>: What are you doing?</p>
+<p><strong>Sara</strong>: There's blood evidence on the door. If the bomb squad detonates the place, it's gone.</p>
+<p><strong>Warrick</strong>: (warning) Sara.</p>
+<p><strong>Sara</strong>: It'll only take a second.</p>
+<p>(Sara uses the wrench to take the bolt off the door hinge. The first one comes loose and falls to the floor with a solid thud. Sara glances nervously up at the pipe bomb on the tool kit in the closet. It rocks in place.)</p>
+<p>(Sara stands up to get the bolt off the top of the door. Warrick hands her an electric screwdriver from his own kit.) </p>
+<p><strong>Warrick</strong>: Here, try this.</p>
+<p>(Sara uses the electric screwdriver and gets the first screw off the door's hinge plate. It falls to the floor. She turns and looks at the bomb. It doesn't move.) </p>
+<p><strong>Sara</strong>: Nice.</p>
+<p>(Sara removes the remaining screws off the hinge plate. Warrick tries to get the door off. It won't budge. He and Sara both rattle the door lightly to try to take it off.) </p>
+<p><strong>Warrick</strong>: It's stuck.</p>
+<p><strong>Sara</strong>: I think we're gonna need a little push.</p>
+<p>(Warrick takes a deep breath.)</p>
+<p><strong>Warrick</strong>: All right. On three. (They glance at each other. They glance at the bomb.) One ... two ... three.</p>
+<p>(They pull the door off the closet.)</p>
+<p>(The pipe bomb doesn't move.) </p>
+<p><strong>Warrick</strong>: Can we get the hell out of Dodge now?</p>
+<p>FADE OUT</p>
+<p><div class="ads ads-topic topic-content"><br />
+<ins class="adsbygoogle transcripts-topic-in-post" style="display:inline-block" data-full-width-responsive="true" data-ad-client="ca-pub-3808023418243141" data-ad-slot="1728561479"></ins>
+<p><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. DURBIN RESIDENCE -- DAY] </p>
+<p>(The Bomb Squad is out in the front, the crime scene line has been pushed back. Warrick reports his findings to Lt. Rick Dysart.) </p>
+<p><strong>Rick Dysart</strong>: Let's go over again what you found on the scene.</p>
+<p><strong>Warrick</strong>: Six pipe bombs.</p>
+<p><strong>Rick Dysart</strong>: Anything else?</p>
+<p><strong>Warrick</strong>: Not that we know of.</p>
+<p>(He shouts out to his team.) </p>
+<p><strong>Rick Dysart</strong>: Give me another fifty yards, okay! (to Warrick) That includes you.</p>
+<p><strong>Warrick</strong>: You got it.</p>
+<p>(The officers push the line and the small crowd of observers back even further.) </p>
+<p>INTERCUT WITH:</p>
+<p>[INT POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(BRASS interviews Roger Durbin.) </p>
+<p><strong>Brass</strong>: So tell me something ... what's a guy who sells life insurance doing with a half a dozen pipe bombs?</p>
+<p><strong>Roger Durbin</strong>: Huh?</p>
+<p><strong>Brass</strong>: I mean, you got a grudge against the government? Is this a Timothy McVeigh thing? </p>
+<p>[INT. DURBIN RESIDENCE - SECOND FLOOR -- DAY -CONTINUOUS] </p>
+<p>(The Bomb Squad removes the first pipe bomb out of the closet.) </p>
+<p><strong>Brass</strong>: (V.O.) Or... you just have a weird fascination with watching things go boom?</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY - CONTINUOUS]</p>
+<p><strong>Roger Durbin</strong>: I've never been arrested for anything. I've never hurt anybody.</p>
+<p><strong>Brass</strong>: You got a wife and a kid. Aren't you afraid they might get hurt?</p>
+<p><strong>Roger Durbin</strong>: Well, I don't know about you, but in my house, there's rules. Terry and Owen know what to do and what not to do.</p>
+<p>[INT. DURBIN RESIDENCE - SECOND FLOOR -- DAY -CONTINUOUS] </p>
+<p>(The first pipe bomb is placed in a large container.) </p>
+<p><strong>Brass</strong>: (V.O.) Well, clearly you don't. </p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY - CONTINUOUS]</p>
+<p><strong>Brass</strong>: The bombs are a class-B felony. The penalty is one to six years in prison for each device. (Roger Durbin turns away not caring to listen to it.)<br />
+And murder is 25 to life.</p>
+<p>(He turns back and looks at Brass.) </p>
+<p><strong>Roger Durbin</strong>: Somebody gets blown up, ... </p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY - CONTINUOUS]</p>
+<p>(The Bomb Squad picks up the large container.) </p>
+<p><strong>Roger Durbin</strong>: (V.O.) ... it's nothing to do with me. I told you not to go in my house.</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY - CONTINUOUS]</p>
+<p><strong>Brass</strong>: We found blood in your house.</p>
+<p><strong>Roger Durbin</strong>: Then you must have put it there.</p>
+<p><strong>Brass</strong>: Oh, yeah? How about this? We found a body in the sewer in front of your house. Did we put that there?</p>
+<p>(Roger Durbin shakes his head.) </p>
+<p><strong>Roger Durbin</strong>: I don't know anything about it.</p>
+<p>CUT TO:<br />
+[INT. CSI - LAB -- DAY] </p>
+<p>(Sara is back at the lab examining the door. Grissom stands nearby looking at Sara and the door.) </p>
+<p><strong>Grissom</strong>: So what were you trying to prove with this door?</p>
+<p><strong>Sara</strong>: I was just collecting evidence.</p>
+<p><strong>Grissom</strong>: Well, Greg couldn't pull any DNA from the bones, so there's nothing to connect the victim to this anyway.</p>
+<p><strong>Sara</strong>: Not yet. </p>
+<p>(She takes a swab of the blood on the door.) </p>
+<p><strong>Sara</strong>: I don't have a death wish, and I'm not a drunk, in case you were worried.</p>
+<p><strong>Grissom</strong>: I'm not worried. (beat) I'm concerned.</p>
+<p>(Grissom turns and walks away. A small smile plays around Sara's lips. He heads back to check on his experiment.)</p>
+<p><strong>Sara</strong>: Isn't that kind of the same thing?</p>
+<p>(Grissom pauses, but doesn't answer. Instead, he opens the cover off the experiment container. Immediately, the smell is noticeable.) </p>
+<p><strong>Sara</strong>: Oh ...</p>
+<p>(Grissom takes out the dead pig fetus from the container.)</p>
+<p>CUT TO:<br />
+[INT. CSI - HALLWAY -- DAY] </p>
+<p>(Grissom catches up with Nick in the hallway.) </p>
+<p><strong>Grissom</strong>: How are you doing with victim ID?</p>
+<p><strong>Nick</strong>: So far we've followed up on eleven missing persons who fit the profile, ruled out every one by case history.</p>
+<p><strong>Grissom</strong>: What's the most recent case?</p>
+<p><strong>Nick</strong>: Well, we're only looking at people who've been missing more than a year. The condition of the bones ...</p>
+<p><strong>Grissom</strong>: (interrupts) ... was misleading. Tissue in a sewer decomposes twenty times faster than normal. The victim could be missing as little as five weeks.</p>
+<p>(Grissom walks away. Nick stops at that thought.)</p>
+<p>CUT TO:<br />
+[INT. CSI - A/V LAB -- DAY] </p>
+<p>(Nick is back at the computer going through missing persons. He goes back to the radius from the house on Tyler Street and comes up with a name: TRAVIS GILES. He's been missing for 6 weeks.) </p>
+<p>CUT BACK TO:</p>
+<p>[EXT. TYLER STREET - DAY]</p>
+<p>(The Bomb Squad places a single pipe bomb in the secure container set up out in the middle of the road.)</p>
+<p><strong>Sara</strong>: Are we clear to get back in there?</p>
+<p><strong>Rick Dysart</strong>: (shakes his head) We're not through. We swept the house for booby traps. It was clean, but we still haven't done a full search yet.</p>
+<p><strong>Catherine</strong>: Well, why don't you clear an area and we'll process behind you.</p>
+<p><strong>Rick Dysart</strong>: Scene will still be under my authority.</p>
+<p><strong>Catherine</strong>: I don't have a problem with authority.</p>
+<p><strong>Officer</strong>: Fire in the hole!</p>
+<p>(The bomb explodes.) </p>
+<p>CUT TO:<br />
+[INT. CSI - WAITING ROOM -- DAY] </p>
+<p>(Nick interviews Travis' Grandmother, Mrs. Giles. She holds a photo of Travis.) </p>
+<p><strong>Mrs. Giles</strong>: This is Travis's ninth grade picture. His father, my son, was a punk. He, uh, skipped out just after Travis was born. His mother's in Salt Lake. (She puts the photo down and slides it over to Nick.) She's a junkie. The only time she ever called Travis was to use him to get money out of me. I mean, she can barely take care of herself, let alone a kid. You know how many times I told him that.</p>
+<p><strong>Nick</strong>: Well, most of the time kids believe what they want to believe, you know. Did he run off to see his mom?</p>
+<p><strong>Mrs. Giles</strong>: (nods) Mm. Yeah, it wasn't the first time. He's, uh ... about six weeks ago, I come home to a note. So I called his mom, and ... he just never, he never showed up.</p>
+<p><strong>Nick</strong>: Ms. Giles, do you, uh, do you recognize this boy?</p>
+<p>(Nick shows her a copy of a WILLIAM McKINLEY HIGH SCHOOL Student Body ID Card and photo for Owen Durbin.)</p>
+<p><strong>Mrs. Giles</strong>: No.</p>
+<p><strong>Nick</strong>: No?</p>
+<p><strong>Mrs. Giles</strong>: (shakes her head) Mm-mm.</p>
+<p><strong>Nick</strong>: Do you have anything of Travis's he might have used on his body? Like a toothbrush, hairbrush, anything like that?</p>
+<p><strong>Mrs. Giles</strong>: No, he took all that kind of thing with him when he left.</p>
+<p><strong>Nick</strong>: Mmm.</p>
+<p><strong>Mrs. Giles</strong>: Why?</p>
+<p><strong>Nick</strong>: Well, it would help if I could get a sample of Travis's DNA. Look ...<br />
+(He sighs.) Ma'am, I don't really know how to say this ...</p>
+<p><strong>Mrs. Giles</strong>: Don't bother. I know he's dead.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- DAY] </p>
+<p>(Brass puts Travis Giles' photo on the table as he interviews Owen Durbin. Terry Durbin is also there.) </p>
+<p><strong>Brass</strong>: Is this a classmate of yours, Owen?</p>
+<p><strong>Owen Durbin</strong>: No.</p>
+<p><strong>Brass</strong>: Okay, let's try that again. You two went to the same middle school, right?</p>
+<p><strong>Owen Durbin</strong>: Maybe. I guess.</p>
+<p><strong>Brass</strong>: You guess. Were you friends?</p>
+<p><strong>Terry Durbin</strong>: I know my son's friends. That's not one of them.</p>
+<p><strong>Brass</strong>: Mrs. Durbin, may I speak with you for a minute in private? Excuse us, Owen.</p>
+<p>(Brass pulls Mrs. Durbin aside.) </p>
+<p><strong>Brass</strong>: You know, sometimes kids get self-conscious around their parents. Maybe it would be better if I spoke to Owen by myself. He'll have an advocate present to make sure his rights are respected. Okay?</p>
+<p><strong>Terry Durbin</strong>: I'm not leaving my son alone with you. My husband wouldn't like that.</p>
+<p>(Terry Durbin returns to her seat next to Owen.) </p>
+<p>CUT TO:<br />
+[INT. DURBIN RESIDENCE - STAIRS / SECOND FLOOR -- DAY] </p>
+<p>(Camera slowly travels up the stairs. Along the wall at various points in clusters, there are white stickers to note the blood spatter on the wall. At the top, Sara and Catherine are examining blood spatter on the wall.) </p>
+<p><strong>Sara</strong>: Medium-velocity spatter.</p>
+<p><strong>Catherine</strong>: This looks like the point of origin.</p>
+<p>(Quick flash of: Someone stabs someone else at the top of the stairs.)</p>
+<p>(Quick CGI POV of: The knife cuts through flesh. End of CGI POV. Resume quick flash.) </p>
+<p>(The victim turns and hits the wall. White stickers appear where the blood spatters. He hits the wall again, putting his hand out. More white stickers appear where the blood spatters. He falls against the railing - white sticker appear. He falls down the stairs.)</p>
+<p>(End of quick flash. Resume to present.)</p>
+<p>(Catherine looks down the stairs. She takes out her phone and makes a call.) </p>
+<p><strong>Catherine</strong>: Yeah, this is Catherine Willows for Captain Brass.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - INTERVIEW ROOM - DAY] </p>
+<p>(Brass returns to the room where he's questioning Owen and Terry Durbin.) </p>
+<p><strong>Brass</strong>: Tell me about the blood in your house.</p>
+<p><strong>Terry Durbin</strong>: Blood? Where?</p>
+<p><strong>Brass</strong>: Well, the top of the stairs for starters.</p>
+<p><strong>Terry Durbin</strong>: I don't know what you're talking about.</p>
+<p>(Brass sits down and looks at Owen.) </p>
+<p><strong>Brass</strong>: You do.</p>
+<p><strong>Owen Durbin</strong>: I don't. Maybe it's the dogs'. When they go upstairs sometimes, sometimes they fight. </p>
+<p><strong>Terry Durbin</strong>: They fight a lot.</p>
+<p>CUT TO:<br />
+[INT. DURBIN RESIDENCE - SECOND FLOOR -- DAY -CONTINUOUS] </p>
+<p>[SCOPE VIEW OF THE BLOOD ON THE WALL]</p>
+<p>(Catherine looks at the blood spatter measuring it.)</p>
+<p><strong>Sara</strong>: Animal control said the Durbins' pit bulls showed no signs of recent injury. Dogs heal fast. I guess I'll go back to the lab and get a hematrace.</p>
+<p><strong>Catherine</strong>: Don't bother.</p>
+<p>(She sighs.)</p>
+<p><strong>Catherine</strong>: The lowest point of spatter is 46 inches above the ground with a downward angle. Even if those dogs could walk upright, they couldn't have done this. Kid's a liar.</p>
+<p>FADE OUT</p>
+<p>(COMMERCIAL BREAK)</p>
+<hr />
+<p>FADE IN.</p>
+<p>[EXT. DURBIN RESIDENCE -DAY] </p>
+<p>(Warrick walks around the side of the building with his camera looking for evidence. He stops when he sees a pick leaning against the brick wall. He takes a photo of it.) </p>
+<p>[INT. DURBIN RESIDENCE -HALLWAY -- DAY] </p>
+<p>(Sara makes her way through the hallway into Owen's bedroom. On the wall on the outside of his bedroom door he has a lot of cut outs from magazines.)</p>
+<p>[INT. DURBIN RESIDENCE - GARAGE -- DAY] </p>
+<p>(Grissom steps into the garage. He finds Lt. Rick Dysart going through some of the gadgets and things on the worktable.)</p>
+<p><strong>Rick Dysart</strong>: We're not done yet.</p>
+<p><strong>Grissom</strong>: Take your time.</p>
+<p><strong>Rick Dysart</strong>: Got some det cord here.</p>
+<p>(He tosses it back on the work table.) </p>
+<p><strong>Grissom</strong>: Isn't that high explosive?</p>
+<p><strong>Rick Dysart</strong>: Stuff designed to be humped around by grunts. You gotta want it go off. Only one thing you need to worry about. (He looks at Grissom.) Ever see me running, make sure you keep up.</p>
+<p><strong>Grissom</strong>: Got it.</p>
+<p>CUT TO:<br />
+[INT. DURBIN RESIDENCE - OWEN'S BEDROOM -- DAY] </p>
+<p>(Sara opens the door to Owen's Bedroom and steps inside. She looks around. Inside on the wall, he has more cut outs from magazines taped and pinned to the wall.)</p>
+<p>(Above his bed, he has a poster of pinhead.)</p>
+<p>[EXT. DURBIN RESIDENCE - DAY] </p>
+<p>(Warrick continues to walk around the house. He moves the trash bag away and takes a photo of something flat and furry.)</p>
+<p>[INT. DURBIN RESIDENCE -OWEN'S BEDROOM -- DAY] </p>
+<p>(Sara continues to look through Owen's Bedroom.) </p>
+<p>(She looks at Owen's fish tank and notes the dead fish floating at the top near the surface.) </p>
+<p>(She looks around the room.)</p>
+<p>(Under the bed, she pulls out a box of unlabeled video tapes.)</p>
+<p>[EXT. DURBIN RESIDENCE - DAY] </p>
+<p>(Warrick finds a metal barrel filled with ashes. It's the kind of barrel used to burn things in. He sifts through the ashes and finds a pair of shoes. He also finds some clothing.) </p>
+<p>(He sets the folded clothes next to the shoes. He snaps photos of them both.) </p>
+<p>[INT. DURBIN RESIDENCE -GARAGE -- DAY] </p>
+<p>(Grissom sees the blood spatter on the garage floor.) </p>
+<p><strong>Grissom</strong>: Hey, Rick, watch your step. This could be blood evidence on the floor.</p>
+<p>(Grissom snaps photos of the floor. Rick Dysart is working his way through the work table.) </p>
+<p>(Warrick opens the garage door and walks in.)</p>
+<p><strong>Warrick</strong>: Okay, Grissom, I located some burnt clothes in a barrel out in the back. I'm thinking he was killed in the house, dragged out back and then dumped.</p>
+<p>(Grissom notes the blood on the floor.) </p>
+<p><strong>Grissom</strong>: He might have been dragged in here. Make sure you bag that stuff.</p>
+<p><strong>Warrick</strong>: Yeah, I'm all over it.</p>
+<p>(Warrick turns and leaves the garage.)</p>
+<p>(Grissom follows the blood drops to the back of the refrigerator. He looks behind the refrigerator and sees a knife hidden in a box. The knife handle is exposed.)</p>
+<p>(Rick Dysart opens the refrigerator to check it out. What he sees makes his blood run cold. There are several bottles on both racks filled with various different color liquids.)</p>
+<p>(Grissom uses his latex glove and reaches for the knife behind the refrigerator.) </p>
+<p><strong>Rick Dysart</strong>: (stiffly) Don't touch a thing. Get out now.</p>
+<p><strong>Grissom</strong>: Uh, I think I have some evidence back here.</p>
+<p><strong>Rick Dysart</strong>: (firmly) Clear out now.</p>
+<p>CUT TO:<br />
+[INT. DURBIN RESIDENCE - STAIRS/SECOND FLOOR -- DAY] </p>
+<p>(Grissom runs up the stairs.) </p>
+<p><strong>Grissom</strong>: (shouts) Hey! The garage is packed with liquid explosives. They're gonna detonate in place. (Catherine can't believe it.) So grab what's important and get out now! That means you, too, Sara! Right now!</p>
+<p>[INT. DURBIN RESIDENCE -OWEN'S BEDROOM -- DAY] </p>
+<p>(Sara starts dumping things in to the open evidence bag on the floor. She grabs it and starts grabbing the other packages.)</p>
+<p>[INT. DURBIN RESIDENCE -SECOND FLOOR -- DAY] </p>
+<p>(Catherine quickly grabs her evidence bags off the floor.)</p>
+<p>[INT. DURBIN RESIDENCE -OWEN'S BEDROOM -- DAY] </p>
+<p>(Her arms filled with evidence packages, Sara runs out of the bedroom.)</p>
+<p>[INT. DURBIN RESIDENCE -SECOND FLOOR -- DAY] </p>
+<p>(Catherine clears out with her bags of evidence.)</p>
+<p>[EXT. DURBIN RESIDENCE - DAY] </p>
+<p>(Warrick gathers his bags and packages. He grabs what he can and goes.)</p>
+<p>[INT. DURBIN RESIDENCE -GARAGE -- DAY] </p>
+<p>(The Bomb Squad in protective gear puts some plastique in the center of the refrigerator.</p>
+<p>[EXT. DURBIN RESIDENCE - DAY] </p>
+<p>(They run a line out from the garage.) </p>
+<p>(They attach the line to the detonator.)</p>
+<p><strong>Man</strong>: (shouts) Fire in the hole! MAN: (shouts) Fire in the hole!</p>
+<p>(He presses the detonator button.)</p>
+<p>[REFRIGERATOR]</p>
+<p>(The plastique explodes.)</p>
+<p>[EXT. DURBIN RESIDENCE - DAY] </p>
+<p>(The garage explodes.)</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - HALLWAY -- DAY] </p>
+<p>(Roger Durbin explodes. Officers lead Roger Durbin down the hallway. He's in handcuffs and cursing all the way.) </p>
+<p><strong>Roger Durbin</strong>: Sons of bitches! I'm gonna sue your ass into the ground. I hope you know that. Yeah. I'm gonna own you. I'm gonna own this whole place. In fact, maybe that's where I'll live. I'm just gonna move in here.</p>
+<p>(Brass and Catherine stand in the doorway and watch him walk by.) </p>
+<p><strong>Catherine</strong>: Let me guess. He lawyered up.</p>
+<p><strong>Brass</strong>: Yeah, he stopped talking after I told him we blew up his house.</p>
+<p><strong>Catherine</strong>: Hmm. And what about the wife and son?</p>
+<p><strong>Brass</strong>: They're still in play. How much longer is anybody's guess. But, uh, we need something more to go back at them with.</p>
+<p>CUT TO:<br />
+[INT. CSI - LOUNGE - DAY] </p>
+<p>(Grissom and his team review the case and what evidence they have.) </p>
+<p><strong>Grissom</strong>: Well, I think at this point we can agree that the murder weapon was a knife. These are pictures of a box of knives that I was unable to recover from the Durbin Garage.</p>
+<p>(He hands out the photos of the box of knives.) </p>
+<p><strong>Grissom</strong>: So how about the tool marks?</p>
+<p><strong>Catherine</strong>: I cast the stab marks in the victim's ribs. Bone deterioration removed all the individual characteristics. The best we can do is rule out the serrated blade.</p>
+<p>(Catherine turns to look at Sara.) </p>
+<p><strong>Catherine</strong>: Hey, what about the kid's videos?</p>
+<p><strong>Sara</strong>: Uh, no tape of the murder or body he dumped so far. I'm not holding my breath. Videos cover several years. Kid running around the house. Backyard barbecue kind of stuff. You know, home movies. </p>
+<p><strong>Catherine</strong>: A teenage boy with a shoe box full of home movies under his bed?</p>
+<p><strong>Sara</strong>: It's weird, I know. I'm still looking.</p>
+<p><strong>Nick</strong>: Well, we know Owen went to school with Travis Giles, right?</p>
+<p><strong>Warrick</strong>: Well, that was a few years back, and we still can't place Travis at the house.</p>
+<p>(Warrick passes around the photos of the clothes and shoes.)</p>
+<p><strong>Warrick</strong>: With all the fire damage, the clothes are the right size, but I couldn't get any blood evidence off of it.</p>
+<p><strong>Sara</strong>: Even if we had that, we still don't have a blood standard for Travis. I mean, we can't even positively ID the victim.</p>
+<p>CUT TO:<br />
+[INT. CSI - RECEPTION -- DAY] </p>
+<p>(Mrs. Giles waits at the reception desk. Nick walks out to meet her.) </p>
+<p><strong>Nick</strong>: Ms. Giles? Hi. What can I do for you?</p>
+<p><strong>Mrs. Giles</strong>: I wasn't able to find a hairbrush or a toothbrush, but the only thing I have left of Travis's is ... this.</p>
+<p>(From a black pouch, she takes out some baby teeth. Nick looks at the tooth.) </p>
+<p><strong>Mrs. Giles</strong>: When he was little, I used to be his tooth fairy.</p>
+<p>CUT TO:<br />
+[EXT. LAS VEGAS CITY LIGHTS (STOCK) -- NIGHT</p>
+<p>[INT. POLICE DEPARTMENT - INTERVIEW ROOM -- NIGHT] </p>
+<p>(Brass and Catherine interview Owen Durbin and Terry Durbin.) </p>
+<p><strong>Catherine</strong>: DNA from Travis Giles' tooth matched the blood that we found in your house.</p>
+<p><strong>Brass</strong>: And now you're gonna tell us how it got there.</p>
+<p><strong>Terry Durbin</strong>: (shakes her head) I don't know. Kids get hurt all the time. They fall down, cut themselves ... get nosebleeds.</p>
+<p><strong>Brass</strong>: Wait a minute. Wait a minute. Wait a minute. What are you telling me, that a kid that you've never seen, a kid who's not even friends with your son, got a nosebleed in your house? Huh? You're lying. You know, we can make this quick, 'cause I got enough to arrest you right now.</p>
+<p><strong>Owen Durbin</strong>: Look, it was an accident. All right, Travis came over one night, said he wanted to buy a knife.</p>
+<p>(Quick flashback to: [NIGHT] Owen Durbin meets with Travis Durbin.)</p>
+<p><strong>Owen Durbin</strong>: (V.O.) So I gave him a knife. He said he couldn't pay. He tried to run.</p>
+<p>(Travis grabs the knife and bumps into the wall and into the knife, stabbing himself. He falls down the stairs.) </p>
+<p>(End of flashback. Resume to present.) </p>
+<p><strong>Owen Durbin</strong>: Wasn't moving, he was just lying there, knife stuck in him.</p>
+<p><strong>Catherine</strong>: Now you're lying. </p>
+<p><strong>Terry Durbin</strong>: Don't you call my son a liar.</p>
+<p><strong>Catherine</strong>: Travis was stabbed twice. That's not possible if he just fell on the knife.</p>
+<p><strong>Brass</strong>: So what happened? He piss you off? Get in a fight? Maybe called you a mama's boy? Or did you just want to see what it felt like to stab somebody?</p>
+<p><strong>Owen Durbin</strong>: Like I told you, it was an accident.</p>
+<p><strong>Catherine</strong>: Then why did you dump the body down a sewer in the middle of the night?</p>
+<p><strong>Terry Durbin</strong>: He didn't. </p>
+<p><strong>Catherine</strong>: He didn't do it alone. We found the victim's charred clothing folded. Kids don't fold anything, mothers do. You helped him clean up the mess.</p>
+<p><strong>Brass</strong>: Yeah, that's kind of funny, because, um, you're not much of a housekeeper.</p>
+<p><strong>Owen Durbin</strong>: If you talk to my mother like that again, I'll kill you.</p>
+<p><strong>Terry Durbin</strong>: Don't you say another word, baby.</p>
+<p><strong>Owen Durbin</strong>: I'll kill both of you.</p>
+<p><strong>Terry Durbin</strong>: I want a lawyer.</p>
+<p><strong>Catherine</strong>: Well, we really don't need a confession.</p>
+<p>CUT TO:<br />
+[INT. POLICE DEPARTMENT - GRISSOM'S OFFICE - NIGHT]</p>
+<p>(Brass holds a drink in his hand as he talks with Grissom.) </p>
+<p><strong>Brass</strong>: Well, the kid gets murder, mom's an accessory, and dad gets felony explosives. It's a family-value pack.</p>
+<p><strong>Grissom</strong>: Well, it's appropriate. One way or another, they each had a hand in it.</p>
+<p>INTERCUT WITH:</p>
+<p>[INT. CSI - A/V LAB - NIGHT]</p>
+<p>(Sara is watching the video tapes from Owen's bedroom.)</p>
+<p><strong>Terry Durbin</strong>: (o.s.) Come on, Roger. Do we have to?</p>
+<p><strong>Roger Durbin</strong>: (from monitor) Just keep the camera on it, will ya? Watch.</p>
+<p>(Roger ties some explosives to the head of a large frog.)</p>
+<p>(He goes and stands next to Young Owen. The frog croaks. Off screen, the explosives detonate. Roger laughs.)</p>
+<p>[INT. POLICE DEPARTMENT - GRISSOM'S OFFICE - NIGHT]</p>
+<p><strong>Grissom</strong>: Violent environment, oblivious mother, disturbed child.</p>
+<p>[INT. CSI - A/V LAB - NIGHT]</p>
+<p>(On the monitor, Roger leads Young Owen to a large pot filled halfway with unidentifiable liquid.)</p>
+<p><strong>Roger Durbin</strong>: (from video) Here, stir this.</p>
+<p><strong>Young Owen Durbin</strong>: (from video) What's it for?</p>
+<p><strong>Roger Durbin</strong>: (from video) Blowing stuff up.</p>
+<p>(Roger laughs.)</p>
+<p>[INT. POLICE DEPARTMENT - GRISSOM'S OFFICE - NIGHT]</p>
+<p><strong>Brass</strong>: But you know, no matter how bad your kid turns out, it never changes how you feel about him.</p>
+<p><strong>Grissom</strong>: Unconditional love between parents and offspring is biological, perpetuates the species.</p>
+<p>[INT. CSI - A/V LAB - NIGHT]</p>
+<p>(On the video, Young Owen Durbin stirs the pot.) </p>
+<p><strong>Roger Durbin</strong>: (from video) Go ahead. That's good.</p>
+<p>(Sara watches the video.) </p>
+<p><strong>Roger Durbin</strong>: (from video) That's good. Get it good.</p>
+<p>(Roger Durbin laughs.)</p>
+<p>(The video monitor zooms in on Young Owen Durbin stirring the pot.) </p>
+<p>FADE TO BLACK</p>
+<p><strong>End</strong></p>
 
-
-
-							
+						</div>
+						<div class="ads">
+	<!-- Transcripts Topic Footer Links 2016 -->
+	<ins class="adsbygoogle footer-links"
+		style="display:block"
+		data-ad-client="ca-pub-3808023418243141"
+		data-ad-slot="3894118671"
+		data-ad-format="link"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="t-foot-links text-center clearfix">
+	<div class="row">
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation DVD" category="dvd">CSI: Crime Scene Investigation DVDs</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Instant Video" category="amazon instant video">CSI: Crime Scene Investigation Instant Video</a>
+		</div>
+		<div>
+			<a rel="nofollow" type="amzn" search="CSI: Crime Scene Investigation Collectables" category="entertainment collectibles">CSI: Crime Scene Investigation Collectables</a> 
+		</div>
+	</div>
+<!--	<div class="row">
+		<div>
+			<a rel="nofollow" target="_blank" href="http://www.amazon.com/gp/video/offers/signup/?ref_=assoc_tag_ph_1463163012723&ie=UTF8&benefitID=seeso&camp=1789&creative=9325&linkCode=pf4&tag=foreverdreami-20&linkId=NOMGGYRW6YBLTZGH">Join SEESO Free Trial</a>
+			<img src="https://ir-na.amazon-adsystem.com/e/ir?t=foreverdreami-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		</div>
+	</div> -->
+</div>
+						<div class="post-tools text-center clearfix">
+							<div class="gensmall pull-left">
+								
+							</div>
 						
-
-
-
- 
- 
-
- 
- 
-
-
-
- 
-
-
-
-
-
-
-
-RESUME VIEW
- 
-Catherine: Who found him?
-Grissom: The police were sweeping the area looking for vagrants, trying to keep
-'em above water.
- 
-Grissom: Take a look at his nose. Same thing with his chin ... his elbows ... and his knees. He lost all his points.
-Catherine: Like a rock in a tumbler.
-
-David Phillips: I'm sorry I'm late. Stopped to get my waders.
- 
-David Phillips: No wallet.  Oh, wait a sec. 
- 
-David Phillips: What do you think?
- 
-Catherine: I'll get it to narco.
-Grissom: Take a look.
- 
-David Phillips: Cause of death?
-Grissom: Water pressure could have done it.
-Catherine: Or a person.
- 
-
-Warrick: Hey. Whoo! It's a mess. I've talked to every resident in the area. No one knows this guy. No unaccounted-for vehicles. I don't know what to tell you.
-Grissom: Well, at least we know where he came from.
-
-Catherine: Aren't we at least gonna draw straws?
-Grissom: No.
-
-
- 
- 
-Warrick: We must be under the freeway by now.
- 
-Catherine: Hey. Did I ever tell you that the city paid me a dollar a square foot to rip out my lawn and replace it with rocks because we're in a drought?
-Warrick: Are you kidding me?
-Catherine: No.
-Warrick: This city was not made for rain.
- 
- 
-Warrick: Catherine.
- 
-Catherine:  Grissom. We got another body.
- 
-Homeless Man: I was taking a nap.
-SMASH CUT TO END OF TEASER ROLL TITLE CREDITS
-
-
-
- 
- 
-Homeless Man: I'm real tired, okay? I just want to get some sleep.
-Warrick: I understand, I understand. Listen, I need to ask you a question. Have you ever seen this guy right here?
- 
-Homeless Man: No.
-Warrick: You don't know him?
-Homeless Man: No, someone comes down here that don't belong, I mean, bad stuff can happen, okay? I-I-I just want to go home, okay? A-a-and you can't make me leave my house.
-Warrick: Nobody's making you do anything, okay? Now, you like coffee?
-Homeless Man: Well, yeah, as long as it's a decaf, one sugar, two cream, no skim, and hot -- your lawsuit hot.
-Warrick: Okay, you go with that officer over there. He'll get you a nice cup of coffee, all right?
-
- 
- 
- 
-Catherine: Is that you, Warrick?
- 
-Warrick: There you are.
-Catherine:  Phew.
- 
-Warrick: Is that a sneaker?
- 
-Catherine: Looks like an aquasock.
-Warrick: Yeah.
- 
-Catherine: Here's its mate.  Kind of upscale for a tunnel rat. So the vic was barefoot. The tunnel's full of murder weapons. Bum kills him, or finds the body and takes the socks? What was the guy doing here in the first place?
-Warrick: Well, maybe the vic was some punk, uh ... with an attitude. Decided to take it out on some homeless guy. You never know.
-Catherine: The way the body was ground down means that the water took him for a pretty long ride.
-Warrick: Well, we're already wet, so ...
-
-
-
-
-
-Catherine:  Excuse me!
- 
-Catherine:  Down here!
-
-Man At Bus Stop: Oh. What's your problem, Sweetie?
-Catherine: Uh, no problem, sir. I'm just wanting to know what street I'm on. Under.
-Man At Bus Stop: Oh, it's, uh, Industrial. You're just South of Tropicana.
-Catherine: Thank you.
-Man At Bus Stop: And I'm not holding the bus.
-
-Catherine:  Don't bother.
- 
-Catherine: All right, so we're about a mile south of where we started.
-Warrick: Well, there's 300 miles of storm drains in Clark County, so we only have 299 left.
-Catherine: What, do we, uh, eenie-meenie-minie-mo it? Split up? What do we do?
- 
-Warrick: No, that's a dead end.
- 
-Warrick: Sunscreen on a lanyard.
-Catherine: Fits with the aquasocks.
- 
-Warrick: I say we keep going upstream.
-Catherine: I knew you were gonna say that.  Watch your head.
-
-
- 
- 
-
-
- 
-Robbins: I'm gonna need the drain pan.
- 
-Robbins: This town isn't built for rain, hmm?
-
- 
- 
-Robbins: Come on, don't be shy. Take a good look. In the end ... it's all we really are.
-
-Grissom: If you're gonna be sick, Greg, do it in the sink. 
-Robbins:  Not in the drain pan.
-Greg: I don't feel sick.
- 
-Grissom: Take a look at the trachea. What do you see?
- 
-Greg: Foam. Like the head of a beer.  Sorry.
-Grissom: No. It's a good analogy. 
-Robbins: Pulmonary edema, fluids in the air passages.
-Greg: So he drowned?
-Grissom: Well, doesn't prove it. Same thing happens with, uh, heart failure or drug overdose.
-Robbins: But the fact that the heart of the victim was a normal size, ... 
- 
-Robbins: ... and assuming tox doesn't show drug overdose, C.O.D. is most likely drowning, but I'm not gonna rule out blunt-force trauma.
- 
-
- 
- 
-Warrick: Daylight. Finally.
-Catherine: We gotta be into some golden time by now, right?
-Warrick: Oh, yeah. 
-
- 
- ka-ching, ka-ching.
- 
-Catherine: What do we have here?  There's something in the lid.
- 
- 
-Catherine: Hang on to that.
-(Warrick takes the helmet. She looks at the Employee ID lanyard for
-TANGIERS CASINO
-CALVIN BERKOWITZ
-ID NUMBER 1654984
-LIFEGUARD )
-Catherine: Hey, it's our dead guy.
-Warrick: No way.
-Catherine: Calvin Berkowitz. Worked at the Tangiers. Lifeguard. So what's Calvin doing down here?
- 
-Warrick: It's an inner tube.
-Catherine: Yeah?
-Warrick: Guy gets the day off and decides to go surfing ... Vegas style.
- 
-Catherine:  Oh, I heard about that. He grabs an inner tube, a helmet, jumps into the channel.
-Warrick: Hits his head on something, drowns.
-Catherine: Current takes him down.
-Warrick: That would account for all that body trauma.
-Catherine: This isn't about drugs or beating up homeless dudes. It's just plain stupidity.
-
-
-Warrick: Well, that's what happens when you don't have a decent beach in Vegas.
-
- 
-Catherine: Hey, you know something? This is, uh, right around where I found Lindsay.
-Warrick: Really?
-Catherine: Yeah, when Eddie's car went off the road.
- 
-Catherine: Ugh ... let's just get out of here. Can you take that?
-
-Warrick: Watch your step.
-
-Catherine: Hey. Oh.
-
-Warrick: You all right?
-Catherine: Yeah, I think.
-Warrick: Whoa.
-
-S&amp;S Worker:  Hey! 
-
-S&amp;S Worker: You guys CSI?
-
-Warrick: Yeah.
-
- 
- 
-S&amp;S Worker: Well, the city's been rehabbing manholes with fiberglass liners. All the hydrogen sulfide down there really eats up the concrete. Anyways, we, uh, pulled these out of the main.
- 
-S&amp;S Worker: We find a lot of small animal bones down there, squirrels, cats, rats, you know. But that's really tiny stuff. 
- 
-S&amp;S Worker: This looks more like people. Fingers or toes, or fingers and toes.
-Catherine: Well, animal bones can fool you. Pig's feet or sheep ribs are not much different from yours or mine.
- 
-Warrick: Flaky texture. Probably a couple years old.
- 
-Catherine:  Yep. We're gonna have to flush the line.
-
- 
-Warrick: You guys get a lot of jokes about this thing?
-S&amp;S Worker:  What do you think?
-
-
-
-
-Warrick: Vactor's in place. Ready when you are.
- 
-Catherine: Rip it.
- 
-Warrick: Let's go.
-
-
- 
-
-Catherine:  Warrick.
-Warrick:  Yo.
-Catherine:  I got some bones here.
-Warrick:  Anything distinctive?
-Catherine: Yeah. I got part of a rib. Uh-huh. I can see the costal groove. And it's too deep to be an animal's. These bones are human.
-
- 
- 
-Catherine: This is the sewage vault.
-
-Brass: How do we know the bones just didn't wash off the street?
-Warrick: Well waste water sewage is a closed system. It's completely separate from the storm drains. Someone must have flushed it down a toilet, a sink, a tub, or tossed them directly into a manhole.
-Catherine: And the bones look pretty old, so it could just be from a grave robber getting rid of his leftovers.
-Brass: Or a serial killer with a lot of patience.
-Warrick: Two hundred thousand service connections, serving half a million residences. Sixteen hundred miles of pipe, gravity fed.
-Catherine: If we're gonna find where the bones came from, we gotta work our way up.
-CUE MUSIC
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
- 
-
-
- 
-
-
- 
- 
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-Warrick: Catherine. Recovered more bones.
-Catherine: Oh.
-Warrick: Pelvis fragment and two humerus.
-Catherine: Well, large bones wouldn't travel down the line as far as the small ones, so at least we're getting closer to the source.
- 
-Warrick: These plumbers must be working overtime.
-Catherine: Lots of backed up toilets.
-Warrick: I don't think the bones could have come from any one of these houses. Residential sewer lines are only four-inch pipes.
-Catherine: Okay.
-Warrick: And they make a 90-degree turn before they connect to the main. Look at the size of these bones.
-Catherine: Yeah.
-Warrick: They're too big to make a turn like that.
-Catherine: Right. So the blockage has gotta be from the main line. One more vault down the street.
-
-
-Catherine: Jackpot.
-
-Catherine: Oh, man.
- 
-Warrick: I'll go check it out.
-
-
-Warrick: It's like a waterline stain. Hand me my florazene and my glasses, please.
-
-
-Catherine: Uh. Florazene reacts to feces as well as blood, so I know that you're not looking for blood.
- 
-Warrick: No. These vaults are built big for access. They're not reservoirs. Water's supposed to stay down in the pipes.
-Catherine: And the only way the water would rise is if there's something blocking the pipe.
-Warrick:  Mm-hmm.
-Catherine: And loose bones wouldn't do that.
-Warrick: But a whole body would.
- 
-Warrick:  Water rises, submerges the body.
-
-Catherine:  Tissue decomposes until there's not enough body left to withstand the pressure.
- 
-
- 
-Warrick:  I don't think we're looking for a grave robber. 
- 
-Warrick: We're looking for a murderer.
-FADE OUT
-
-
-
- 
- 
-Robbins: Femur measurements make your victim around five foot six. Pubic arch, mm, sharply angled, less than 90-degrees, indicates male. I'll send it to Greg. He might be able to pull DNA.
- 
-Robbins: Look at this. Incise defect on the left fifth rib. Incise defect on the left third rib.
-Grissom: Well, the tool marks appear consistent with each other.
-Catherine: Probably made before decomposition, and not from hitting any obstruction in the sewer line. Stab wounds.
-(Quick CGI POV of: The knife pierces through the flesh and scrapes the rib.
-Robbins:  Two separate strikes back to front would have punctured the lung.
- 
-Grissom: What about age?
-Robbins: I'll let you know.
-
-
-
-
-Brass: Okay, let's start with the houses within eyeshot of the manhole, and then we'll work our way out from there. Hmm? Okay.
- 
-Marty Kessler: You really, really ought to have the one with chocolate icing.
-Officer: No, you really need to get back behind the line.
-Marty Kessler:  Hello, Officer.
- 
-Brass: Oh, dear.
- 
-Brass: Detective.
-Marty Kessler: Detective. Sorry, I ... uh, just a little something for you and your boys, uh, a token of appreciation for local law enforcement.
-Brass: You mind standing behind the tape? It's for your own safety.
- 
-Brass: There you go.
-Marty Kessler: Go ahead. Coffee's fresh. Didn't even spit in it.
-
-Marty Kessler: Not that I ever would. I, I love cops.
-Brass: What's your name?
- 
-Marty Kessler: Marty, uh, Martin Kessler. I live here ... there, right over there, number 2305.
- 
-Marty Kessler: So, uh, does this have anything to do with the missing cats?
- 
-Marty Kessler: People have lost a lot of pets in this neighborhood. Too many, if you get my drift.
-Brass: Well, you know, Marty, I'm really not at liberty to say. But did you see anybody throw any stuff down that sewer?
-Marty Kessler: Not personally, but, uh, I know kids around here throw fireworks ...  ... illegal, down there. Kaboom! Kaboom! Four o'clock in the morning. Kids have no respect for the law.
-
- 
- 
-Sara: I heard you finally lost your virginity. 
- 
-Sara:  First autopsy. How was it?
-Greg: It was fine. How was your first time? How did you react?
-Sara: I puked.
-Greg: I didn't puke.
-Sara: Way to go, tough guy.
-Greg: It was weird, seeing a body laying on a table like that. Doc Robbins just pulling out his insides until it was all empty.
-Sara: Were you expecting a ball of light?
-Greg: Doc Robbins said, &quot;That's all we really are.&quot;
-Sara: It's what you do with it that counts.
-
-
- 
- 
-Robbins: Victim had incomplete formation of the second molar root tips, and his wisdom teeth hadn't erupted.
-Grissom: Teenager.
-Robbins: Yeah, approximately 13 to 15. 
- 
-Robbins: Eye orbits rounded, almost oval. Nasal aperture narrow and tall, jawline flat. Likely caucasian. Uh, dental records are out to NCIC. That's all I've got. How'd Greg do?
-Grissom: Bones are too degraded. No viable DNA, not even in the teeth.
-Robbins: Well, it's a bit of a long shot. Sewer's a chemical stew. Maybe Catherine will get lucky with missing persons.
-
- 
- 
-Nick: Okay, I opened the age range to give us a better margin for error. Currently 47 male Caucasians between the age of 12 and 16 missing from the greater Las Vegas Metro District.
-Catherine: Okay. Geography first?
-Nick: Mm-hmm. Body was found here.
-
-Nick: These are the last-known residences of the missing persons.
-Catherine: There's no one particularly close.
-Nick: I'll narrow it down.  Two-mile radius.
-
-MISSING 6 WEEKS
-ENDANGERED MISSING: TRAVIS GILES
-MISSING 11 WEEKS
-ENDANGERED RUNAWAY: PHIL GRIFFEN
-MISSING 11 MONTHS
-ENDANGERED RUNAWAY: BARRY NEWSOME
-Catherine: Missing six weeks, eleven weeks, eleven months. That's not long enough. The condition of the bones suggested the body's been decomposing for at least two years. 
-Nick: Okay, I'll go wider. Five miles.
-
- 
- 
-
-Greg: What are you doing?
-Grissom: Good. You're here. Fill this up for me, will ya?
- 
-Greg: With what?
-Grissom: It's a urine specimen cup, Greg. What do you think?
-
-Greg: Okay.
- 
-
- 
-Grissom: That took a long time. You may need a prostate exam.
-Greg: My prostate is just fine. I'm not a soda fountain.
-Grissom: Hopefully you are, 'cause I need a number two as quickly as possible.
-
-Greg:  What is this all about?
-Grissom: The victim's body was found in a sewer. Ambient temperature 80 degrees. The corrosive chemicals caused the body to decompose faster than normal. I want to find out how much faster.  Today.
-
- 
-Greg: This is some kind of CSI hazing. Make me appreciate blood and semen more.
-
- 
- 
-Brass: I mean, since we don't have a solid time frame, it's kind of tough to jog memories. But nobody saw anybody throw anything like a body down that manhole. But several people suggested we talk to his high school kid, Owen Durbin.  Now, he's a neighborhood bully. He likes to throw cherry bombs in there and hear 'em go boom.
-Sara: Uh, guys, how are we supposed to get through the door? There's no evidence linking this kid to the bones.
- 
-Brass: We're not looking for bones.
-
- 
- 
-Roger Durbin: Illegal use of fireworks? This is crap.
-Brass: We've had several complaints from your neighbors, sir.
-Roger Durbin: No one's complained to me.
-Brass: Well,  This is gonna happen, so please step outside. Ask your family to come with you. Thank you. 
-Roger Durbin: Come on, guys. Let's go.
- 
-Roger Durbin:  Anything happens in here, it's your fault.
-
-Brass: Okay.
-
- 
-
- 
- 
-Brass: Whoa. Lot of ammo here, all different caliber. Means multiple weapons are present ... somewhere.
-Warrick:  I got a shotgun under the couch.
- 
-Warrick: Oh, yeah.  Loaded.
- 
-Warrick: Sounds like we got some nasty dogs out back.
- 
- 
-Sara: I think I got blood.
-
-Sara: Confirmed.
-Brass: Okay. I'm gonna get the warrant amended for blood evidence collection. Until then ... 
-Sara: We stop searching.
-Brass: Won't take long, so hang loose.  And I'll get the animal control to get these mutts out of here.
- 
-
-Sara: So, uh, no searching.
-Warrick:  Yeah, right.
- 
- 
- 
-
- 
-Warrick: That closet's well stocked, huh?
-
-
-Warrick: Sara?
- 
-Sara: I'm not touching anything.
- 
-Warrick:  No. Put your stuff down and step away from the closet.
-Sara: What?
- 
-Warrick:  Put down your stuff and step away from the closet.
-
- 
-Sara: Those are pipe bombs.
-Warrick: Yeah.
-
-Warrick:  Dispatch ... this is CSI Brown. We're at the Durbin residence. We have explosives on the scene. Roll out bomb squad immediately. Roll out bomb squad.
- 
-Warrick: What are you doing?
-Sara: There's blood evidence on the door. If the bomb squad detonates the place, it's gone.
-Warrick:  Sara.
-Sara: It'll only take a second.
-
- 
-Warrick: Here, try this.
- 
-Sara: Nice.
- 
-Warrick: It's stuck.
-Sara: I think we're gonna need a little push.
-
-Warrick: All right. On three.  One ... two ... three.
-
- 
-Warrick: Can we get the hell out of Dodge now?
-FADE OUT
-
-
-;
-
-
-
- 
- 
-Rick Dysart: Let's go over again what you found on the scene.
-Warrick: Six pipe bombs.
-Rick Dysart: Anything else?
-Warrick: Not that we know of.
- 
-Rick Dysart: Give me another fifty yards, okay!  That includes you.
-Warrick: You got it.
- 
-
- 
- 
-Brass: So tell me something ... what's a guy who sells life insurance doing with a half a dozen pipe bombs?
-Roger Durbin: Huh?
-Brass: I mean, you got a grudge against the government? Is this a Timothy McVeigh thing? 
- 
- 
-Brass:  Or... you just have a weird fascination with watching things go boom?
-
-Roger Durbin: I've never been arrested for anything. I've never hurt anybody.
-Brass: You got a wife and a kid. Aren't you afraid they might get hurt?
-Roger Durbin: Well, I don't know about you, but in my house, there's rules. Terry and Owen know what to do and what not to do.
- 
- 
-Brass:  Well, clearly you don't. 
-
-Brass: The bombs are a class-B felony. The penalty is one to six years in prison for each device. 
-And murder is 25 to life.
- 
-Roger Durbin: Somebody gets blown up, ... 
-
- 
-Roger Durbin:  ... it's nothing to do with me. I told you not to go in my house.
-
-Brass: We found blood in your house.
-Roger Durbin: Then you must have put it there.
-Brass: Oh, yeah? How about this? We found a body in the sewer in front of your house. Did we put that there?
- 
-Roger Durbin: I don't know anything about it.
-
- 
- 
-Grissom: So what were you trying to prove with this door?
-Sara: I was just collecting evidence.
-Grissom: Well, Greg couldn't pull any DNA from the bones, so there's nothing to connect the victim to this anyway.
-Sara: Not yet. 
- 
-Sara: I don't have a death wish, and I'm not a drunk, in case you were worried.
-Grissom: I'm not worried.  I'm concerned.
-
-Sara: Isn't that kind of the same thing?
- 
-Sara: Oh ...
-
-
- 
- 
-Grissom: How are you doing with victim ID?
-Nick: So far we've followed up on eleven missing persons who fit the profile, ruled out every one by case history.
-Grissom: What's the most recent case?
-Nick: Well, we're only looking at people who've been missing more than a year. The condition of the bones ...
-Grissom:  ... was misleading. Tissue in a sewer decomposes twenty times faster than normal. The victim could be missing as little as five weeks.
-
-
- 
- 
-
-
-
-Sara: Are we clear to get back in there?
-Rick Dysart:  We're not through. We swept the house for booby traps. It was clean, but we still haven't done a full search yet.
-Catherine: Well, why don't you clear an area and we'll process behind you.
-Rick Dysart: Scene will still be under my authority.
-Catherine: I don't have a problem with authority.
-Officer: Fire in the hole!
- 
-
- 
- 
-Mrs. Giles: This is Travis's ninth grade picture. His father, my son, was a punk. He, uh, skipped out just after Travis was born. His mother's in Salt Lake.  She's a junkie. The only time she ever called Travis was to use him to get money out of me. I mean, she can barely take care of herself, let alone a kid. You know how many times I told him that.
-Nick: Well, most of the time kids believe what they want to believe, you know. Did he run off to see his mom?
-Mrs. Giles:  Mm. Yeah, it wasn't the first time. He's, uh ... about six weeks ago, I come home to a note. So I called his mom, and ... he just never, he never showed up.
-Nick: Ms. Giles, do you, uh, do you recognize this boy?
-
-Mrs. Giles: No.
-Nick: No?
-Mrs. Giles:  Mm-mm.
-Nick: Do you have anything of Travis's he might have used on his body? Like a toothbrush, hairbrush, anything like that?
-Mrs. Giles: No, he took all that kind of thing with him when he left.
-Nick: Mmm.
-Mrs. Giles: Why?
-Nick: Well, it would help if I could get a sample of Travis's DNA. Look ...
- Ma'am, I don't really know how to say this ...
-Mrs. Giles: Don't bother. I know he's dead.
-
- 
- 
-Brass: Is this a classmate of yours, Owen?
-Owen Durbin: No.
-Brass: Okay, let's try that again. You two went to the same middle school, right?
-Owen Durbin: Maybe. I guess.
-Brass: You guess. Were you friends?
-Terry Durbin: I know my son's friends. That's not one of them.
-Brass: Mrs. Durbin, may I speak with you for a minute in private? Excuse us, Owen.
- 
-Brass: You know, sometimes kids get self-conscious around their parents. Maybe it would be better if I spoke to Owen by myself. He'll have an advocate present to make sure his rights are respected. Okay?
-Terry Durbin: I'm not leaving my son alone with you. My husband wouldn't like that.
- 
-
- 
- 
-Sara: Medium-velocity spatter.
-Catherine: This looks like the point of origin.
-
- 
-
-
- 
-Catherine: Yeah, this is Catherine Willows for Captain Brass.
-
- 
- 
-Brass: Tell me about the blood in your house.
-Terry Durbin: Blood? Where?
-Brass: Well, the top of the stairs for starters.
-Terry Durbin: I don't know what you're talking about.
- 
-Brass: You do.
-Owen Durbin: I don't. Maybe it's the dogs'. When they go upstairs sometimes, sometimes they fight. 
-Terry Durbin: They fight a lot.
-
- 
-
-
-Sara: Animal control said the Durbins' pit bulls showed no signs of recent injury. Dogs heal fast. I guess I'll go back to the lab and get a hematrace.
-Catherine: Don't bother.
-
-Catherine: The lowest point of spatter is 46 inches above the ground with a downward angle. Even if those dogs could walk upright, they couldn't have done this. Kid's a liar.
-FADE OUT
-
-
-
- 
- 
- 
-
- 
-
-Rick Dysart: We're not done yet.
-Grissom: Take your time.
-Rick Dysart: Got some det cord here.
- 
-Grissom: Isn't that high explosive?
-Rick Dysart: Stuff designed to be humped around by grunts. You gotta want it go off. Only one thing you need to worry about.  Ever see me running, make sure you keep up.
-Grissom: Got it.
-
- 
-
-
- 
-
- 
- 
- 
-
-
- 
- 
- 
- 
- 
-Grissom: Hey, Rick, watch your step. This could be blood evidence on the floor.
- 
-
-Warrick: Okay, Grissom, I located some burnt clothes in a barrel out in the back. I'm thinking he was killed in the house, dragged out back and then dumped.
- 
-Grissom: He might have been dragged in here. Make sure you bag that stuff.
-Warrick: Yeah, I'm all over it.
-
-
-
- 
-Rick Dysart:  Don't touch a thing. Get out now.
-Grissom: Uh, I think I have some evidence back here.
-Rick Dysart:  Clear out now.
-
- 
- 
-Grissom:  So grab what's important and get out now! That means you, too, Sara! Right now!
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-(The Bomb Squad in protective gear puts some plastique in the center of the refrigerator.
- 
- 
-
-Man:  Fire in the hole!
-
-
-
- 
-
-
- 
- 
-Roger Durbin: Sons of bitches! I'm gonna sue your ass into the ground. I hope you know that. Yeah. I'm gonna own you. I'm gonna own this whole place. In fact, maybe that's where I'll live. I'm just gonna move in here.
- 
-Catherine: Let me guess. He lawyered up.
-Brass: Yeah, he stopped talking after I told him we blew up his house.
-Catherine: Hmm. And what about the wife and son?
-Brass: They're still in play. How much longer is anybody's guess. But, uh, we need something more to go back at them with.
-
- 
- 
-Grissom: Well, I think at this point we can agree that the murder weapon was a knife. These are pictures of a box of knives that I was unable to recover from the Durbin Garage.
- 
-Grissom: So how about the tool marks?
-Catherine: I cast the stab marks in the victim's ribs. Bone deterioration removed all the individual characteristics. The best we can do is rule out the serrated blade.
- 
-Catherine: Hey, what about the kid's videos?
-Sara: Uh, no tape of the murder or body he dumped so far. I'm not holding my breath. Videos cover several years. Kid running around the house. Backyard barbecue kind of stuff. You know, home movies. 
-Catherine: A teenage boy with a shoe box full of home movies under his bed?
-Sara: It's weird, I know. I'm still looking.
-Nick: Well, we know Owen went to school with Travis Giles, right?
-Warrick: Well, that was a few years back, and we still can't place Travis at the house.
-
-Warrick: With all the fire damage, the clothes are the right size, but I couldn't get any blood evidence off of it.
-Sara: Even if we had that, we still don't have a blood standard for Travis. I mean, we can't even positively ID the victim.
-
- 
- 
-Nick: Ms. Giles? Hi. What can I do for you?
-Mrs. Giles: I wasn't able to find a hairbrush or a toothbrush, but the only thing I have left of Travis's is ... this.
- 
-Mrs. Giles: When he was little, I used to be his tooth fairy.
-
-[EXT. LAS VEGAS CITY LIGHTS  -- NIGHT
- 
- 
-Catherine: DNA from Travis Giles' tooth matched the blood that we found in your house.
-Brass: And now you're gonna tell us how it got there.
-Terry Durbin:  I don't know. Kids get hurt all the time. They fall down, cut themselves ... get nosebleeds.
-Brass: Wait a minute. Wait a minute. Wait a minute. What are you telling me, that a kid that you've never seen, a kid who's not even friends with your son, got a nosebleed in your house? Huh? You're lying. You know, we can make this quick, 'cause I got enough to arrest you right now.
-Owen Durbin: Look, it was an accident. All right, Travis came over one night, said he wanted to buy a knife.
-
-Owen Durbin:  So I gave him a knife. He said he couldn't pay. He tried to run.
- 
- 
-Owen Durbin: Wasn't moving, he was just lying there, knife stuck in him.
-Catherine: Now you're lying. 
-Terry Durbin: Don't you call my son a liar.
-Catherine: Travis was stabbed twice. That's not possible if he just fell on the knife.
-Brass: So what happened? He piss you off? Get in a fight? Maybe called you a mama's boy? Or did you just want to see what it felt like to stab somebody?
-Owen Durbin: Like I told you, it was an accident.
-Catherine: Then why did you dump the body down a sewer in the middle of the night?
-Terry Durbin: He didn't. 
-Catherine: He didn't do it alone. We found the victim's charred clothing folded. Kids don't fold anything, mothers do. You helped him clean up the mess.
-Brass: Yeah, that's kind of funny, because, um, you're not much of a housekeeper.
-Owen Durbin: If you talk to my mother like that again, I'll kill you.
-Terry Durbin: Don't you say another word, baby.
-Owen Durbin: I'll kill both of you.
-Terry Durbin: I want a lawyer.
-Catherine: Well, we really don't need a confession.
-
-
- 
-Brass: Well, the kid gets murder, mom's an accessory, and dad gets felony explosives. It's a family-value pack.
-Grissom: Well, it's appropriate. One way or another, they each had a hand in it.
-
-
-
-Terry Durbin:  Come on, Roger. Do we have to?
-Roger Durbin:  Just keep the camera on it, will ya? Watch.
-
-
-
-Grissom: Violent environment, oblivious mother, disturbed child.
-
-
-Roger Durbin:  Here, stir this.
-Young Owen Durbin:  What's it for?
-Roger Durbin:  Blowing stuff up.
-
-
-Brass: But you know, no matter how bad your kid turns out, it never changes how you feel about him.
-Grissom: Unconditional love between parents and offspring is biological, perpetuates the species.
-
- 
-Roger Durbin:  Go ahead. That's good.
- 
-Roger Durbin:  That's good. Get it good.
-
- 
-FADE TO BLACK
+							<div class="social-links pull-right">
+								<a title="Share on Facebook" href="http://www.facebook.com/share.php?t=05x02+-+Down+the+Drain&amp;u=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127378%23p127378" onclick="window.open(this.href);return false;"><i class="fa fa-facebook fa-lg"></i></a> &nbsp;
+								<a title="Share on Twitter" href="http://twitter.com/share?text=05x02+-+Down+the+Drain&amp;url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127378%23p127378" onclick="window.open(this.href);return false;"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+								<a title="Share on Tumblr" href="http://www.tumblr.com/share/link?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127378%23p127378&amp;name=05x02+-+Down+the+Drain" onclick="window.open(this.href);return false;"><i class="fa fa-tumblr fa-lg"></i></a> &nbsp;
+								<a title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Ftranscripts.foreverdreaming.org%2Fviewtopic.php%3Fp%3D127378%23p127378" onclick="window.open(this.href);return false;"><i class="fa fa-google-plus fa-lg"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+	<div class="ads ads-topic topic-footer">
+		<!-- Transcripts Footer Topic -->
+			<ins class="adsbygoogle transcripts-footer-topic"
+				style="display:block"
+				data-ad-client="ca-pub-3808023418243141"
+				data-ad-slot="3514849078"
+				data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+	</div>
+</div>
+
+
+<div id="pagefooter"></div>
+
+<div class="donate">
+	<a href="/donate/"><img src="/styles/transcripts_default/theme/images/kitteh.png" alt="kitteh" width="89" height="100" /></a>
+	<p style="text-align:center">Feed the kitteh</p>
+</div>
+
+<br style="clear:both" />
+<p class="breadcrumbs" role="navigation"><a rel="nofollow" href="javascript:var handle=window.open('http://foreverdreaming.org/')">F.D.</a><b> &#187; </b><a href="./index.php?sid=174691873b3247e91f6e6f970b93e891">Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=47&amp;sid=174691873b3247e91f6e6f970b93e891">TV Show Transcripts</a><b> &#187; </b><a href="./viewforum.php?f=892&amp;sid=174691873b3247e91f6e6f970b93e891">C</a><b> &#187; </b><a href="./viewforum.php?f=34&amp;sid=174691873b3247e91f6e6f970b93e891">CSI: Crime Scene Investigation</a></p>
+
+<br style="clear:both" />
+
+<div class="clearfix">
+	
+	<div class="pull-right"></div>
+</div>
+<br />
+</div>
+	
+	<div id="footer">
+		<div id="footer-top">
+			<div id="footer-links">
+				<a href="./" title="Forever Dreaming Transcripts Home">Home</a>
+				<a href="./about/" title="About us">About</a>
+				<a href="./copyright/" title="Copyright Policy">Copyright</a>
+				<a href="./privacy/" title="Privacy Policy">Privacy</a>
+				<a href="./contact/" title="Contact us">Contact</a><br />
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=5889" title="Online Store">Store</a>
+				<a rel="nofollow" target="_blank" href="http://foreverdreaming.org/viewtopic.php?t=6167" title="Follow Forever Dreaming">Follow Us</a>
+				<a rel="nofollow" class="hidden" href="/viewtopic/" title="Upcoming">Upcoming</a>
+			</div>
+			<p>&copy; 2001-2019 <a rel="nofollow" target="_blank" href="http://foreverdreaming.org/" title="Forever Dreaming">Forever Dreaming</a>. <strong class="nowrap">All rights reserved</strong>.</p>
+		</div>
+		<div id="wrapfooter">
+				
+			<span class="copyright"></span>
+			
+			<a id="lx" href="https://www.alexa.com/siteinfo/foreverdreaming.org"><script type="text/javascript" src="https://xslt.alexa.com/site_stats/js/t/a?url=foreverdreaming.org"></script></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+function popup(e,t,n,r){if(!r){r="_popup"}window.open(e.replace(/&/g,"&"),r,"height="+n+",resizable=yes,scrollbars=yes,width="+t);return false}function jumpto(){var e=prompt("Enter the page number you wish to go to:","1");var t="";var n="";if(e!==null&&!isNaN(e)&&e==Math.floor(e)&&e>0){if(n.indexOf("?")==-1){document.location.href=n+"?start="+(e-1)*t}else{document.location.href=n.replace(/&/g,"&")+"&start="+(e-1)*t}}}function find_username(e){popup(e,760,570,"_usersearch");return false}function marklist(id,name,state){var parent=document.getElementById(id);if(!parent){eval("parent = document."+id)}if(!parent){return}var rb=parent.getElementsByTagName("input");for(var r=0;r<rb.length;r++){if(rb[r].name.substr(0,name.length)==name){rb[r].checked=state}}}
+
+// ]]>
+</script>
+<script charset="utf-8" type="text/javascript" src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d"> </script> <noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fforeverdreami-20%2F8005%2F772e3a68-48d4-4aca-8af6-ffe9bd1f122d&Operation=NoScript">Amazon.com Widgets</a></noscript>
+<script type="text/javascript">function addLink(){var e=window.getSelection(),t="<br /><br /> Read more at: "+document.location.href,n=e+t,r=document.createElement("div");r.style.position="absolute";r.style.left="-99999px";document.body.appendChild(r);r.innerHTML=n;e.selectAllChildren(r);window.setTimeout(function(){document.body.removeChild(r)},100)}document.addEventListener("copy",addLink)</script>
+<script>function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}</script>
+<script>
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+function doToggle(e){obj=document.getElementById(e);if(obj.style.display=="none"||obj.style.display==""){obj.style.display="block"}else{obj.style.display="none"}}
+</script>
+<script>
+window.cookieconsent_options = {"message":"This website uses cookies to improve your experience on our website.","dismiss":"Got it!","learnMore":"More info","link":"http://transcripts.foreverdreaming.org/privacy/#cookies","theme":"dark-top","domain":"foreverdreaming.org"};
+</script>
+<script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+</body>
+</html>
