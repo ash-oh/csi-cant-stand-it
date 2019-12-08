@@ -1,10 +1,10 @@
 import os
-murderers = ["husband", "Jerrod Cooper", "Jamie Smith", "James Moore", "Kyle Travis", "Winston Barger", "Bobby", "Julia Easton", "Kit Armstrong", "Amy Hendler", "Jesse Overton", "Tina Collins"
-    , "Nate Metz","Lou Everett" ,"Marlene Valdez", "Max Valdez",  "Kiera Berhle", "Scott Shelton", "Female Trucker", "Girlfriend", "Kenny Berlin", "Teller 12"
+murderers = ["husband", "Jerrod Cooper", "Jamie Smith", "James Moore", "Kyle Travis", "Winston Barger", "Bobby", "Julia Easton", "Kate Armstrong", "Amy Hendler", "Jesse Overton", "Tina Collins"
+    , "Nate Metz","Lou Everett" ,"Marlene Valdez", "Max Valdez",  "Kiera Berhle", "Scott Shelton", "Female Trucker", "Girlfriend", "Kenny Berlin", "Tony"
     ,"Paul Millander","Julia Barret","Stu Evans","Roger Jennings","Cameron Nelson","Officer Spencer","Marty Gilmore","Claudia Gideon","Mickey Rutledge","Paul Millander"
     ,"Roy Logan","Russ Bradley","Bartender" ,"Doctor" ,"Jimmy Tadero","Jack","Luke","Patrick Haynes","Amanda Haynes","Tony Thorpe","Roy McCall","Tammy Felton","Justin Green","Mark Rucker","Brad Kendal","Susan Hillridge","Carla Dantini"
-    ,"Fred Applewhite","Brad Walden","Syd Goggle","Bonnie Ritten","Walt Braun","Mrs Buckley", "Leigh Spaien", "Ian Wolf"
-    ,"Sean Nolan", "Nigel Crane", "Gordon Daimler", "Nicole Paggi"]
+    ,"Fred Applewhite","Brad Walden","Syd Goggle","Bonnie Ritten","Walt Braun","Mrs Buckley", "Leigh Sapien", "Ian Wolf"
+    ,"Sean Nolan", "Nigel Crane", "Gordon Daimler", "Nicole Exmoor"]
 serial = ["Michelle Baldwin",
 "Arthur Blisterman",
 "Jared Briscoe",
@@ -62,7 +62,7 @@ serial = ["Michelle Baldwin",
 "Ellie Brassh",
 "Matthew Tarland"]
 files = []
-for name in serial:
+for name in murderers:
     name = name.replace(" ","_")
     name = name.lower()
     name = name + ".txt"
@@ -70,11 +70,11 @@ for name in serial:
 
 #os.mkdir("data/good")
 #os.mkdir("data/bad")
-for filename in os.listdir("data/character"):
-    path = "data/character/"+filename
+for filename in os.listdir("data/characters/good"):
+    path = "data/characters/"+filename
     print (path)
     if filename in files:
-        os.rename("data/character/"+filename, "data/serial/"+ filename)
+        os.rename("data/characters/good/"+filename, "data/characters/bad/"+ filename)
     #else:
-     #   os.rename("data/character/"+filename, "data/good/"+ filename)
+    #    os.rename("data/characters/"+filename, "data/good/"+ filename)
     
