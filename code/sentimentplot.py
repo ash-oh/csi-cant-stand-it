@@ -11,6 +11,9 @@ bad_sub = []
 good_pol =[]
 good_sub =[]
 
+detect_pol =[]
+detect_sub = []
+
 for file in os.listdir("data/characters/bad"):
     path = "data/characters/bad/" +file
     with open(path) as f:
@@ -19,8 +22,8 @@ for file in os.listdir("data/characters/bad"):
     blob = TextBlob(doc)       
     bad_pol.append(blob.sentiment.polarity)
     bad_sub.append(blob.sentiment.subjectivity)
-for file in os.listdir("data/characters/good"):
-    path = "data/characters/good/" +file
+for file in os.listdir("data/good"):
+    path = "data/good/" +file
     with open(path) as f:
         doc = f.read().rstrip("\n")
                                      
@@ -28,10 +31,18 @@ for file in os.listdir("data/characters/good"):
     good_pol.append(blob.sentiment.polarity)
     good_sub.append(blob.sentiment.subjectivity)
 
+for file in os.listdir("data/detective"):
+    path = "data/detective/" +file
+    with open(path) as f:
+        doc = f.read().rstrip("\n")
+                                     
+    blob = TextBlob(doc)       
+    detect_pol.append(blob.sentiment.polarity)
+    detect_sub.append(blob.sentiment.subjectivity)
 
-label = ["Non-Murderer", "Murderer"]
-data = [good_pol, bad_pol]
-data2 = [good_sub,bad_sub]
+
+data = [good_pol, bad_pol, detect_pol]
+data2 = [good_sub,bad_sub, detect_pol]
 
 fig = plt.figure(constrained_layout=True)
 gs = fig.add_gridspec(4, 4)
@@ -41,6 +52,7 @@ fig.suptitle("Sentiment Analysis")
 f_ax1 = fig.add_subplot(gs[:,0:3])
 f_ax1.plot(good_pol, good_sub, 'bs', label = "Non-Murderer (1)")
 f_ax1.plot(bad_pol, bad_sub, 'ro', label = "Murderer (2)")
+f_ax1.plot(detect_pol, detect_sub, 'g^', label = "Detective (3)")
 f_ax1.set_xlabel("Polarity")
 f_ax1.set_ylabel("Subjectivity")
 f_ax1.legend()

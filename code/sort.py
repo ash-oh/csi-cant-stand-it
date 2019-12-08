@@ -1,4 +1,5 @@
 import os
+import shutil
 murderers = ["husband", "Jerrod Cooper", "Jamie", "James Moore", "Kyle Travis", "Winston Barger", "Bobby", "Julia Eastman", "Kate Armstrong", "Amy Hendler", "Jesse Overton", "Tina Collins"
     , "Nate Metz","Lou Everett" ,"Marlene Valdez", "Max Valdez",  "Kiera Berhle", "Scott Sheldon", "Female Trucker", "Girlfriend", "Kenny Berlin", "Tony"
     ,"Paul Millander","Julia Barett","Stu Evans","Roger Jennings","Cameron Nelson","Officer Spencer","Marty Gilmore","Claudia Gideon","Mickey Rutledge","Paul Millander"
@@ -69,26 +70,35 @@ serial = ["Michelle Baldwin",
 "Jake Tarland",
 "Ellie Brassh",
 "Matthew Tarland"]
+
+
+cops = ["Gil Grissom", "Grissom", "Catherine Willows", "Willows", "Catherine", "Warrick Brown", "Warrick", "Nick Stokes", 
+"Stokes", "Jim Brass", "Brass", "Greg Sanders", "Sanders", "Sara Sidle", "Sidle", "Robbins"]
+
+
 files = []
-for name in murderers:
+for name in cops:
     name = name.replace(" ","_")
     name = name.lower()
     name = name + ".txt"
     files.append(name)
+print(cops)
 
 sort = []
 
 #os.mkdir("data/good")
 #os.mkdir("data/bad")
-for filename in os.listdir("data/good"):
-    path = "data/good/"+filename
+for filename in os.listdir("data/characters/good/"):
+    path = "data/characters/good/"+filename
     print (path)
     if filename in files:
-        os.rename("data/good/"+filename, "data/bad/"+ filename)
-        sort.append(filename)
-    #else:
+        #os.rename("data/good/"+filename, "data/bad/"+ filename)
+        #sort.append(filename)
+        shutil.copyfile(path, "data/detective/"+filename)
+    else:
+        shutil.copyfile(path, "data/good/"+filename)
     #    os.rename("data/characters/"+filename, "data/good/"+ filename)
 
-for name in files:
-    if name not in sort:
-        print (name)
+#for name in files:
+#    if name not in sort:
+#        print (name)
