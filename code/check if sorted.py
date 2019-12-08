@@ -13,7 +13,7 @@ murderers = ["husband", "Jerrod Cooper", "Jamie", "James Moore", "Kyle Travis", 
     "Stanley Vespucci","Terry Lee Wicker","Marlon West","Tommy Halpert", "Tommy","Troy Birkhart","Dustin Lightfoot", "Cash Dooley"]
 
 files = []
-for name in serial:
+for name in murderers:
     name = name.replace(" ","_")
     name = name.lower()
     name = name + ".txt"
