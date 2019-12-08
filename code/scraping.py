@@ -5,7 +5,7 @@ from soupsieve import select
 
 episodes = {}
 
-for i in range(3,9):
+for i in range(5,7):
   
     page = open("data/html/page-" + str(i) + ".html", 'r')
     soup = BeautifulSoup(page.read(), features="lxml")

@@ -6,9 +6,9 @@ murderers = ["husband", "Jerrod Cooper", "Jamie", "James Moore", "Kyle Travis", 
     ,"Fred Applewhite","Brad Walden","Syd Goggle","Bonnie Ritten","Walt Braun","Mrs. Buckley", "Dr. Leigh Sapien", "Ian Wolf"
     ,"Sean Nolan", "Nigel Crane", "Gordon Daimler", "Nicole Exmoor", "Jeri Newman", "Eric Branson", "Graham Cooper",
     "Hostess", "Ross Halpo", "Les Dutton", "John Damen", "Peter Arnz","Mr. Jones", "Luke", "Kelly Goodson", 
-    "Michael Borland", "Mandy Klinefeld", "Cameron Kleinfeld", "Stuart Gardner", "Steve Jansson", "Vickie Winston", "Paul Winston", "Eric Brooks","Faye Minden","Sam Abernathy", "Craig Kaufman", "Zack Lawrence", "Raina Press",
+    "Michael Borland", "Mandy Klinefeld", "Cameron Klinefeld", "Stuart Gardner", "Steve Jansson", "Vicky Winston", "Paul Winston", "Eric Brooks","Faye Minden","Sam Abernathy", "Craig", "Zack Lawrence", "Raina Press",
     "Crystal", "Daniel Halburt","Sybil Perez", "Carlos Perez","Hayden Michaels", "Matthew Hawkins", "Jeff Simon", "Susan", "Host",
-    "Walter Gordon","Sandra Walkey", "Leon Sneller", "Gregory Kimble", "Natalie Davis","Robert Hsing", "Gavin", "Cole Tritt","Pig", 
+    "Walter Gordon","Sandra Walkey", "Leon Sneller", "Gregory Kimble", "Natalie Davis","Robert Hsing", "Gavin McGill", "Cole Tritt", 
     "Tara Miller", "Cha cha Romero","Thomas Simon","Megan Cooper", "Sheila Latham", "Charlie Kellerman", "Diane Kentner","Gus DiFusco", "Chandru 'Dru' Kambhatla",
     "Stanley Vespucci","Terry Lee Wicker","Marlon West","Tommy Halpert", "Tommy","Troy Birkhart","Dustin Lightfoot", "Cash Dooley"]
 
@@ -80,14 +80,14 @@ sort = []
 
 #os.mkdir("data/good")
 #os.mkdir("data/bad")
-for filename in os.listdir("data/characters"):
-    path = "data/characters/"+filename
+for filename in os.listdir("data/good"):
+    path = "data/good/"+filename
     print (path)
     if filename in files:
-        os.rename("data/characters/"+filename, "data/characters/"+ filename)
+        os.rename("data/good/"+filename, "data/bad/"+ filename)
         sort.append(filename)
-    else:
-        os.rename("data/characters/"+filename, "data/good/"+ filename)
+    #else:
+    #    os.rename("data/characters/"+filename, "data/good/"+ filename)
 
 for name in files:
     if name not in sort:
