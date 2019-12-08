@@ -72,7 +72,7 @@ def textblob_sentiment(text):
 
 
 def analyze_script(goodorbad, trainingdata):
-	directory = "/Users/david/Desktop/csi/data/olddata/character/"
+	directory = "/Users/david/Desktop/csi/data/characters/"
 	directory += goodorbad
 	folder= os.fsencode(directory)
 	
@@ -117,8 +117,8 @@ def analyze_script(goodorbad, trainingdata):
 	    alltokens = nltk.word_tokenize(last10lines) #or text
 	    ratings = warriner_rating(alltokens)
 	    sample += ratings
-	    #trainingdata.append(sample)
-	    trainingdata.append(difference)
+	    trainingdata.append(sample)
+	    #trainingdata.append(difference)
 	    f.close()
 	    
 
@@ -170,9 +170,7 @@ from sklearn.model_selection import cross_validate
 from sklearn import metrics
 
 
-from sklearn import svm, datasets
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import confusion_matrix
+
 
 def classify(dataset):
 	(numSamples, numFeatures) = dataset.shape
@@ -186,50 +184,35 @@ def classify(dataset):
 
 
 	print(" ")
-	print(" ")
+	print("GaussianNB RESULTS")
 	gnb = GaussianNB()
 	scoring_metrics = ['accuracy', 'precision', 'recall', 'f1']
 	# Let's train a model with 5-fold cross validation.
-	scores = cross_validate(gnb, data, labels, cv=5, scoring=scoring_metrics)
+	scores = cross_validate(gnb, data, labels, cv=10, scoring=scoring_metrics)
 	# Then we print out each of the metrics for each of the 5 folds.
 	for score_name, score_value in scores.items():
 	    print(score_name, score_value.mean())
 	print(" ")
-	print(" ")
+	print("KN results")
+
 	from sklearn.neighbors import KNeighborsClassifier
 	neigh = KNeighborsClassifier(n_neighbors=3)
-	knn_scores = cross_validate(neigh, data, labels, cv=5, scoring= scoring_metrics)
+	knn_scores = cross_validate(neigh, data, labels, cv=10, scoring= scoring_metrics)
 	for score_name, score_value in knn_scores.items():
 	    print(score_name, score_value.mean())
 	print(" ")
-	print(" ")
+	print("SVM RESULTS")
+	from sklearn.svm import LinearSVC
+	svmclf = LinearSVC()
+	svm_scores = cross_validate(svmclf, data,labels, cv=10, scoring=scoring_metrics)
+	for score_name, score_value in svm_scores.items():
+		print(score_name, score_value.mean())
 
-	# randomly select a subset of your data (size = 20)
-	testid = [1, 1]
-	while len(testid) != len(set(testid)):
-	    testid = np.random.randint(0, data.shape[0], 20)
-	print(f'len(testid) = {len(testid)}')
-	print(f'len(set(testid)) = {len(set(testid))}')
-	# Get your testing data
-	print(testid)
-	testset = data[testid, :]
-	testtarget = labels[testid]
-	print(testset.shape)
-	# Get your training data
-	trainset = np.delete(data, testid, 0)
-	traintarget = np.delete(labels, testid, 0)
-	print(trainset.shape)
-	# Build model using fit()
-	model = GaussianNB()
-	model.fit(trainset, traintarget)
-	# Apply model to test set using predict()
-	expected = testtarget
-	predicted = model.predict(testset)
-	# Print a classification report
-	print(metrics.classification_report(expected, predicted))
-	# Print a confusion matrix (true positive, falsepositives, etc.)
-	print(metrics.confusion_matrix(expected, predicted))
-
+	from sklearn.linear_model import LogisticRegression
+	logclf = LogisticRegression(random_state = 0)
+	log_scores = cross_validate(logclf, data, labels, cv=10, scoring=scoring_metrics)
+	for score_name, score_value in log_scores.items():
+		print(score_name, score_value.mean())
 
 
 
@@ -252,8 +235,12 @@ goodValence = gooddata[:,3]
 badArousal = baddata[:,2]
 badValence = baddata[:,3]
 
-plt.scatter(goodArousal, goodValence)
-plt.scatter(badArousal, badValence)
+plt.xlabel("Arousal")
+plt.ylabel("Valence")
+plt.title("Arousal vs Valence of Characters")
+plt.scatter(goodArousal, goodValence, c='r', label = "innocent")
+plt.scatter(badArousal, badValence, label ="criminal")
+plt.legend()
 plt.show()
 
 
