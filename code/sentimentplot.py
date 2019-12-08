@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import matplotlib.gridspec as gridspec
 from textblob import TextBlob
 import os
 
@@ -32,21 +33,29 @@ label = ["Non-Murderer", "Murderer"]
 data = [good_pol, bad_pol]
 data2 = [good_sub,bad_sub]
 
-fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(9, 4))
+fig = plt.figure(constrained_layout=True)
+gs = fig.add_gridspec(4, 4)
+fig.suptitle("Sentiment Analysis")
 
-# plot polarity plot
-axes[0].boxplot(data)
-axes[0].set_title('Polarity')
-axes[0].set_ylabel("Polarity")
+#plot graph
+f_ax1 = fig.add_subplot(gs[:,0:3])
+f_ax1.plot(good_pol, good_sub, 'bs', label = "Non-Murderer (1)")
+f_ax1.plot(bad_pol, bad_sub, 'ro', label = "Murderer (2)")
+f_ax1.set_xlabel("Polarity")
+f_ax1.set_ylabel("Subjectivity")
+f_ax1.legend()
+
+#plot polarity
+f_ax2 = fig.add_subplot(gs[0:2,3:])
+f_ax2.boxplot(data)
+f_ax2.set_ylabel("Polarity")
 
 
-# plot Subjectivity plot
-axes[1].boxplot(data2)
-axes[1].set_title('Subjectivity')
-axes[1].set_ylabel("Subjectivity")
+# plot Subjectivity
+f_ax3 = fig.add_subplot(gs[2:,3:])
+f_ax3.boxplot(data2)
+f_ax3.set_ylabel("Subjectivity")
 
-plt.setp(axes, xticks=[1,2],
-         xticklabels=label)
 
 plt.show()
 
