@@ -2,7 +2,7 @@ import os
 murderers = ["husband", "Jerrod Cooper", "Jamie", "James Moore", "Kyle Travis", "Winston Barger", "Bobby", "Julia Eastman", "Kate Armstrong", "Amy Hendler", "Jesse Overton", "Tina Collins"
     , "Nate Metz","Lou Everett" ,"Marlene Valdez", "Max Valdez",  "Kiera Berhle", "Scott Sheldon", "Female Trucker", "Girlfriend", "Kenny Berlin", "Tony"
     ,"Paul Millander","Julia Barett","Stu Evans","Roger Jennings","Cameron Nelson","Officer Spencer","Marty Gilmore","Claudia Gideon","Mickey Rutledge","Paul Millander"
-    ,"Roy Logan","Russ Bradley","Bartender" ,"Doctor" ,"Jimmy Tadero","Jack","Luke","Patrick Haynes","Amanda Haynes","Tony Thorpe","Roy McCall","Tammy Felton","Justin Green","Mark Rucker","Brad Kendal","Susan Hillridge","Carla Dantini"
+    ,"Roy Logan","Russ Bradley","Bartender" ,"Doctor" ,"Jimmy Tadero","Luke","Patrick Haynes","Amanda Haynes","Tony Thorpe","Roy McCall","Tammy Felton","Justin Green","Mark Rucker","Brad Kendal","Susan Hillridge","Carla Dantini"
     ,"Fred Applewhite","Brad Walden","Syd Goggle","Bonnie Ritten","Walt Braun","Mrs. Buckley", "Dr. Leigh Sapien", "Ian Wolf"
     ,"Sean Nolan", "Nigel Crane", "Gordon Daimler", "Nicole Exmoor", "Jeri Newman", "Eric Branson", "Graham Cooper",
     "Hostess", "Ross Halpo", "Les Dutton", "John Damen", "Peter Arnz","Mr. Jones", "Luke", "Kelly Goodson", 

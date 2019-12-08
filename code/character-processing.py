@@ -12,7 +12,7 @@ for file in os.listdir("data/clean"):
             if any(c.islower() for c in name) and ('Sound' not in name) and ('(' not in name):
                 filename = name.strip()
                 filename = filename.lower()
-                filename = filename.replace(" ","_")
+                filename = filename.oreplace(" ","_")
                 filename = filename.replace("/","-")
 
                 name = name + ':'
